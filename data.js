@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Ante la presión de EEUU, el dictador Nicolás Maduro evitó hablar sobre el ataque contra un establecimiento narco en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/02/ante-la-presion-de-eeuu-el-dictador-nicolas-maduro-evito-hablar-sobre-el-ataque-contra-un-establecimiento-narco-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/IVCZC2FJ5JFQLA2HMFMXTOHSJE.jpg?auth=5e0dfce5304123b181fb001a5fdba31cd9f7b0b85794629f3eaf409762b34e62&smart=true&width=350&height=197&quality=85"
+      "title": "“Libertad plena”: el pedido que acompaña las excarcelaciones de Año Nuevo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/02/libertad-plena-el-pedido-que-acompana-las-excarcelaciones-de-ano-nuevo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6VXSLRYHX5CUJJPRHTZNDIJBQI.jpg?auth=ad46c62cbe2835eca47e9c03169985d88c86dd86cf14513695000dc85ba13d15&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Maduro evita confirmar ataque de Estados Unidos contra una presunta instalación del narcotráfico en Zulia\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/maduro-evita-confirmar-ataque-de-estados-unidos-contra-una-presunta-instalacion-del-narcotrafico-en-zulia/",
+      "title": "Nicolás Maduro asegura que Colombia no colabora con Venezuela para combatir el narcotráfico\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/nicolas-maduro-asegura-que-colombia-no-colabora-con-venezuela-para-combatir-el-narcotrafico/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 400.000 PERSONAS SE MOVILIZARON EN EL TERMINAL DE LA BANDERA POR ASUETO",
-      "link": "https://noticierodigital.com/2026/01/mas-de-400-000-personas-se-movilizaron-en-el-terminal-de-la-bandera-por-asueto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/terminal-la-bandera-caracas-24nov2020.jpg"
+      "title": "MADURO DICE ESTAR ABIERTO A UN ACUERDO CON TRUMP EN MATERIA PETROLERA Y DE NARCOTRÁFICO",
+      "link": "https://noticierodigital.com/2026/01/maduro-dice-estar-abierto-a-un-acuerdo-con-trump-en-materia-petrolera-y-de-narcotrafico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/nicolas-maduro-venezuela-2-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Sacerdote colombiano fue apuñalado en Italia y lo operaron de urgencia: ¿por qué lo hirieron?",
-      "link": "https://www.noticiascaracol.com/mundo/sacerdote-colombiano-fue-apunalado-en-italia-y-lo-operaron-de-urgencia-por-que-lo-hirieron-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/495346a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2F0c%2F0e1de67147c095f52d172b4c5b25%2Fsacerdote-rodrigo-grajales-gaviria.jpg"
+      "title": "Grave incendio forestal en Bello lleva más de 3 días activo; globo de mecha habría sido causante",
+      "link": "https://www.noticiascaracol.com/colombia/grave-incendio-forestal-en-bello-lleva-mas-de-3-dias-activo-globo-de-mecha-habria-sido-causante-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/08706d5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F61%2F79%2Fad42ca304ff9bfca8dc3ca46a075%2Ftamano-imagenes-37.png"
     },
     {
       "source": "RCN",
@@ -49,5 +49,5 @@ window.DASHBOARD_DATA = {
       "image": "https://imagenes.noticiasrcn.com/cms/2026/01/02070629/PORTADA-1.jpg?w=272"
     }
   ],
-  "lastUpdate": "2026-01-02T13:33:27.445Z"
+  "lastUpdate": "2026-01-02T14:21:24.502Z"
 };
