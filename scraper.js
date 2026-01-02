@@ -93,7 +93,12 @@ async function scrape() {
     console.log('🚀 Iniciando scraper actualizado...');
     const browser = await puppeteer.launch({
         headless: "new",
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage', // Crítico para Docker/CI
+            '--disable-gpu'
+        ]
     });
 
     const finalData = {
