@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO SOSTIENE QUE LA ECONOMÍA VENEZOLANA CRECIÓ 9% EN 2025",
-      "link": "https://noticierodigital.com/2026/01/gobierno-sostiene-que-la-economia-venezolana-crecio-9-en-2025/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/gente_venezolanos_caminando_caracas_2023.jpg-1-627x376.jpeg"
+      "title": "VICTORIA JONES HIJA DEL ACTOR TOMMY LEE JONES ES HALLADA MUERTA A LOS 34 AÑOS ",
+      "link": "https://noticierodigital.com/2026/01/victoria-jones-hija-del-actor-tommy-lee-jones-es-hallada-muerta-a-los-34-anos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/G9rJ5mGWgAAXL7L-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://imagenes.noticiasrcn.com/cms/2026/01/02131228/grave-crisis-catatumbo.jpg?w=272"
     }
   ],
-  "lastUpdate": "2026-01-02T19:14:35.289Z"
+  "lastUpdate": "2026-01-02T20:23:44.668Z"
 };
