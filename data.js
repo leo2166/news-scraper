@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://imagenes.noticiasrcn.com/cms/2026/01/02131228/grave-crisis-catatumbo.jpg?w=272"
     }
   ],
-  "lastUpdate": "2026-01-02T18:31:09.030Z"
+  "lastUpdate": "2026-01-02T19:14:35.289Z"
 };
