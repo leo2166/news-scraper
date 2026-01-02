@@ -50,8 +50,27 @@ async function scrapeInstagram(browser) {
         const page = await browser.newPage();
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-        const url = 'https://www.instagram.com/p/DS7mc48kfNR/';
-        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        // 1. Visit Profile to get latest post
+        const profileUrl = 'https://www.instagram.com/monitordolar_vzla2.0/';
+        console.log(`   - Visitando perfil: ${profileUrl}`);
+        await page.goto(profileUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+
+        // 2. Extract link of the first post
+        await page.waitForSelector('article a', { timeout: 15000 }).catch(() => null);
+
+        const latestPostUrl = await page.evaluate(() => {
+            const firstPost = document.querySelector('article a'); // Usually the first anchor in article is the latest post
+            return firstPost ? firstPost.href : null;
+        });
+
+        if (!latestPostUrl) {
+            throw new Error("No se pudo encontrar el último post en el perfil.");
+        }
+
+        console.log(`   - Último post detectado: ${latestPostUrl}`);
+
+        // 3. Navigate to the specific post
+        await page.goto(latestPostUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
         // Wait for meta tags specifically
         await page.waitForSelector('meta[property="og:description"]', { timeout: 15000 }).catch(() => null);
@@ -69,18 +88,22 @@ async function scrapeInstagram(browser) {
                 return match ? match[1] : null;
             };
 
+            // Regex patterns adapted for typical captions
             const rates = {
                 bcv_usd: parseRate(/💵\s*BCV[:\s]+Bs\.?\s*([\d,.]+)/i),
                 bcv_eur: parseRate(/💶\s*Euro\s*BCV[:\s]+Bs\.?\s*([\d,.]+)/i),
-                binance: parseRate(/(?:💵|Dólar)\s*Binance[:\s]+Bs\.?\s*([\d,.]+)/i), // Intento de captura automática
-                kontigo: parseRate(/(?:💵|Kontigo|App)\s*(?:App)?[:\s]+Bs\.?\s*([\d,.]+)/i) // Intento de captura automática
+                // Try to find Binance/Kontigo/Parallel if present in text, otherwise null
+                binance: parseRate(/(?:💵|Dólar)\s*Binance[:\s]+Bs\.?\s*([\d,.]+)/i),
+                kontigo: parseRate(/(?:💵|Kontigo|App)\s*(?:App)?[:\s]+Bs\.?\s*([\d,.]+)/i)
             };
 
-            return { rates: rates };
+            return { rates: rates, news: { image, description } };
         });
 
         await page.close();
-        if (data) console.log('✅ Instagram:', data.rates);
+        if (data && data.rates) {
+            console.log('✅ Instagram (Datos Extraídos):', data.rates);
+        }
         return data;
 
     } catch (error) {
