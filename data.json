@@ -26,9 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela detiene a varios estadounidenses en medio de las tensiones",
-      "link": "https://cnnespanol.cnn.com/2026/01/01/venezuela/detienen-estadounidenses-tensiones-eeuu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247859148-20260101214546430-20260101224008498.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Sismo de magnitud 6,5 sacude la capital y varios estados de México",
+      "link": "https://cnnespanol.cnn.com/2026/01/02/mexico/sismo-magnitud-6-5-guerrero-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sismomx1.jpg?c=16x9&q=h_720,w_1280,c_fill"
+    },
+    {
+      "source": "Caraota Digital",
+      "title": "«Libertad plena», la demanda que acompaña las excarcelaciones de año nuevo en Venezuela",
+      "link": "https://caraotadigital.net/venezuela/libertad-plena-la-demanda-que-acompana-las-excarcelaciones-de-ano-nuevo-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/GUANIPA.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -49,5 +55,5 @@
       "image": "https://imagenes.noticiasrcn.com/cms/2026/01/02070629/PORTADA-1.jpg?w=272"
     }
   ],
-  "lastUpdate": "2026-01-02T14:21:24.502Z"
+  "lastUpdate": "2026-01-02T15:22:45.135Z"
 }
