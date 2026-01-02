@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La dictadura de Venezuela arrestó a al menos cinco ciudadanos estadounidenses en los últimos meses",
-      "link": "https://www.infobae.com/venezuela/2026/01/02/la-dictadura-de-venezuela-arresto-a-al-menos-cinco-ciudadanos-estadounidenses-en-los-ultimos-meses/",
-      "image": "https://www.infobae.com/resizer/v2/P3TXCCU5CNDJXG2ANQA4YHY26A.jpg?auth=3d9fc01562b59b05b543d491480bf748f40355eb7465737af39ecee43ae4350d&smart=true&width=350&height=197&quality=85"
+      "title": "Testimonios de una madrugada oscura en Caracas: qué ocurrió hace 12 años en el desalojo de las protestas frente a la ONU",
+      "link": "https://www.infobae.com/venezuela/2026/01/02/testimonios-de-una-madrugada-oscura-en-caracas-que-ocurrio-hace-12-anos-en-el-desalojo-de-las-protestas-frente-a-la-onu/",
+      "image": "https://www.infobae.com/resizer/v2/B4L3UJP3RBCHLJHMFCNJRZYKRM.jpg?auth=c4ba5ad8d874ed61e4eea8a3644abedfe01fe2914b9417107a03f0c232c8f91c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "FANB custodia instalaciones petroleras en Zulia y Falcón en medio de tensiones con EEUU",
-      "link": "https://caraotadigital.net/venezuela/fanb-custodia-instalaciones-petroleras-en-zulia-y-falcon-en-medio-de-tensiones-con-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/08/Amuay-Cardon-330x220.jpg"
+      "title": "Hijo de Rhoda Torres entre los excarcelado del 1Ene: «Está abrazada a su hijo y dándole todo el amor»",
+      "link": "https://caraotadigital.net/venezuela/hijo-de-rhoda-torres-entre-los-excarcelado-del-1ene-esta-abrazada-a-su-hijo-y-dandole-todo-el-amor/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Torres-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://imagenes.noticiasrcn.com/cms/2026/01/02103257/PORTADA-4.jpg?w=272"
     }
   ],
-  "lastUpdate": "2026-01-02T16:26:52.736Z"
+  "lastUpdate": "2026-01-02T17:18:49.477Z"
 };
