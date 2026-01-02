@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News & Rates Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent-green: #10b981;
+            --accent-blue: #3b82f6;
+            --accent-red: #ef4444;
+            --accent-purple: #8b5cf6;
+            --glass-border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(59, 130, 246, 0.15) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(139, 92, 246, 0.15) 0%, transparent 40%);
+            color: var(--text-primary);
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        header {
+            margin-bottom: 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        h1 {
+            font-weight: 700;
+            font-size: 2rem;
+            margin: 0;
+            background: linear-gradient(to right, #60a5fa, #c084fc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            /* Masonry-ish feel handled by different spans if needed, keeping it simple grid for now */
+        }
+
+        /* Card Styles */
+        .card {
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            border: var(--glass-border);
+            border-radius: 16px;
+            padding: 20px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .source-tag {
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 4px 10px;
+            border-radius: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .tag-bcv { background: rgba(59, 130, 246, 0.2); color: #60a5fa; }
+        .tag-binance { background: rgba(245, 158, 11, 0.2); color: #fbbf24; }
+        .tag-news { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+        .tag-alert { background: rgba(239, 68, 68, 0.2); color: #f87171; }
+
+        .timestamp {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        /* Rate Cards */
+        .rate-display {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 0;
+        }
+
+        .rate-value {
+            font-size: 3rem;
+            font-weight: 700;
+            line-height: 1;
+        }
+
+        .rate-change {
+            font-size: 1rem;
+            margin-top: 5px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .up { color: var(--accent-green); }
+        .down { color: var(--accent-red); }
+
+        /* News Cards */
+        .news-image {
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            background-color: #334155; /* Placeholder */
+        }
+
+        .news-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            line-height: 1.4;
+            margin: 0 0 10px 0;
+            color: #f1f5f9;
+        }
+
+        .news-snippet {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .news-footer {
+            margin-top: auto;
+            padding-top: 15px;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .read-more {
+            color: var(--accent-blue);
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        .read-more:hover {
+            color: #60a5fa;
+        }
+
+        /* Specific Layout Tweaks */
+        .card.featured {
+            grid-column: span 2;
+        }
+        
+        @media (max-width: 768px) {
+            .card.featured {
+                grid-column: span 1;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>News & Rates <span style="font-weight: 300; opacity: 0.7;">Dashboard</span></h1>
+        <div style="font-size: 0.9rem; color: var(--text-secondary);">Last update: Just now</div>
+    </header>
+
+    <div class="dashboard-grid">
+
+        <!-- Tasas de Cambio -->
+        <div class="card">
+            <div class="card-header">
+                <span class="source-tag tag-bcv">BCV Oficial</span>
+                <span class="timestamp">12:30 PM</span>
+            </div>
+            <div class="rate-display">
+                <div class="rate-value">45.82 <span style="font-size: 1rem; opacity: 0.5;">VES</span></div>
+                <div class="rate-change up">
+                    ▲ 0.12% <span>vs ayer</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="source-tag tag-binance">Binance P2P</span>
+                <span class="timestamp">Live</span>
+            </div>
+            <div class="rate-display">
+                <div class="rate-value">46.50 <span style="font-size: 1rem; opacity: 0.5;">VES</span></div>
+                <div class="rate-change down">
+                    ▼ 0.05% <span>última hora</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+             <div class="card-header">
+                <span class="source-tag tag-binance" style="background: rgba(139, 92, 246, 0.2); color: #a78bfa;">Kontigo</span>
+                <span class="timestamp">App</span>
+            </div>
+            <div class="rate-display">
+                <div class="rate-value">46.25 <span style="font-size: 1rem; opacity: 0.5;">VES</span></div>
+                <div class="rate-change">
+                    <span>Mejor oferta compra</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Noticias Estilo Masonry/Grid -->
+        
+        <div class="card featured">
+            <div class="card-header">
+                <span class="source-tag tag-news">Infobae</span>
+                <span class="timestamp">Hace 2h</span>
+            </div>
+            <!-- Placeholder for image -->
+            <img src="https://picsum.photos/seed/infobae/600/300" alt="News Image" class="news-image">
+            <h3 class="news-title">El mercado petrolero reacciona ante las nuevas medidas económicas globales</h3>
+            <p class="news-snippet">
+                Expertos analizan el impacto de las fluctuaciones recientes en el precio del crudo y cómo esto podría beneficiar a las economías emergentes en el próximo trimestre...
+            </p>
+            <div class="news-footer">
+                <a href="#" class="read-more">Leer nota completa →</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="source-tag tag-news">El Nacional</span>
+                <span class="timestamp">Hace 45m</span>
+            </div>
+            <h3 class="news-title">Nuevos avances en tecnología fintech en la región</h3>
+            <p class="news-snippet">
+                Las startups están revolucionando la forma en que los ciudadanos acceden a divisas extranjeras...
+            </p>
+             <div class="news-footer">
+                <a href="#" class="read-more">Leer más →</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="source-tag tag-news">Noticia al Día</span>
+                <span class="timestamp">Hace 3h</span>
+            </div>
+            <img src="https://picsum.photos/seed/noticia/300/160" alt="News Image" class="news-image">
+            <h3 class="news-title">Clima favorable para el turismo en la costa</h3>
+             <div class="news-footer">
+                <a href="#" class="read-more">Leer más →</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="source-tag tag-alert">Punto de Corte</span>
+                <span class="timestamp">Hace 1h</span>
+            </div>
+            <h3 class="news-title">Actualización sobre servicios públicos en la capital</h3>
+            <p class="news-snippet">
+                Reportes indican mejoras en el suministro de agua en los últimos días tras reparaciones...
+            </p>
+             <div class="news-footer">
+                <a href="#" class="read-more">Leer más →</a>
+            </div>
+        </div>
+
+         <div class="card">
+            <div class="card-header">
+                <span class="source-tag tag-news">Infobae</span>
+                <span class="timestamp">Hace 5h</span>
+            </div>
+            <h3 class="news-title">Tendencias tecnológicas para el 2026</h3>
+            <p class="news-snippet">
+                La inteligencia artificial sigue dominando el panorama de innovación...
+            </p>
+             <div class="news-footer">
+                <a href="#" class="read-more">Leer más →</a>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticias y Tasas - Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Noticias y Tasas <span style="font-weight: 300; opacity: 0.7;">Dashboard</span></h1>
+        <div style="font-size: 0.9rem; color: var(--text-secondary);">
+            Última actualización: <span id="last-update">Cargando...</span>
+        </div>
+    </header>
+
+    <div class="dashboard-grid" id="dashboard-container">
+        <div class="loading">Cargando datos...</div>
+    </div>
+
+    <template id="rate-card-template">
+        <div class="card">
+            <div class="card-header">
+                <span class="source-tag"></span>
+                <span class="timestamp">Live</span>
+            </div>
+            <div class="rate-display">
+                <div class="rate-value">-- <span style="font-size: 1rem; opacity: 0.5;">VES</span></div>
+                <div class="rate-change"></div>
+            </div>
+        </div>
+    </template>
+
+    <template id="news-card-template">
+        <div class="card">
+            <div class="card-header">
+                <span class="source-tag tag-news"></span>
+                <span class="timestamp"></span>
+            </div>
+            <img src="" alt="News Image" class="news-image">
+            <h3 class="news-title"></h3>
+            <div class="news-footer">
+                <a href="#" target="_blank" class="read-more">Leer más →</a>
+            </div>
+        </div>
+    </template>
+
+    <script src="data.js"></script>
+    <script>
+        function loadData() {
+            // Priority: Local Variable (from data.js) > Fetch (for server)
+            if (window.DASHBOARD_DATA) {
+                render(window.DASHBOARD_DATA);
+            } else {
+                fetch('data.json')
+                    .then(res => res.json())
+                    .then(data => render(data))
+                    .catch(e => {
+                        console.error(e);
+                        document.getElementById('dashboard-container').innerHTML =
+                            '<div class="loading" style="color: #ef4444;">Error de carga.<br>Ejecuta "node scraper.js"</div>';
+                    });
+            }
+        }
+
+        function render(data) {
+            const container = document.getElementById('dashboard-container');
+            container.innerHTML = '';
+
+            const date = new Date(data.lastUpdate);
+            document.getElementById('last-update').textContent = date.toLocaleTimeString();
+
+            // Rates
+            if (data.rates.bcv) {
+                if (data.rates.bcv.usd) createRateCard(container, 'BCV Dólar', data.rates.bcv.usd, 'tag-bcv');
+                if (data.rates.bcv.eur) createRateCard(container, 'BCV Euro', data.rates.bcv.eur, 'tag-bcv');
+            }
+            if (data.rates.kontigo && data.rates.kontigo.usd) {
+                createRateCard(container, 'Kontigo', data.rates.kontigo.usd, 'tag-kontigo');
+            }
+            if (data.rates.binance && data.rates.binance.usdt) {
+                createRateCard(container, 'Binance USDT', data.rates.binance.usdt, 'tag-binance');
+            }
+
+            // News
+            if (data.news && data.news.length > 0) {
+                data.news.forEach((item, index) => {
+                    const tmpl = document.getElementById('news-card-template');
+                    const clone = tmpl.content.cloneNode(true);
+
+                    const card = clone.querySelector('.card');
+                    if (index === 0) card.classList.add('featured');
+
+                    clone.querySelector('.source-tag').textContent = item.source;
+                    clone.querySelector('.news-image').src = item.image || 'https://via.placeholder.com/300x160?text=No+Image';
+                    clone.querySelector('.news-title').textContent = item.title || 'Sin título';
+                    clone.querySelector('.read-more').href = item.link;
+
+                    container.appendChild(clone);
+                });
+            } else {
+                container.innerHTML += '<div class="loading">No hay noticias capturadas.</div>';
+            }
+        }
+
+        function createRateCard(container, name, value, tagClass) {
+            const tmpl = document.getElementById('rate-card-template');
+            const clone = tmpl.content.cloneNode(true);
+
+            clone.querySelector('.source-tag').textContent = name;
+            clone.querySelector('.source-tag').classList.add(tagClass);
+            clone.querySelector('.rate-value').innerHTML = `${value} <span style="font-size: 1rem; opacity: 0.5;">VES</span>`;
+
+            container.appendChild(clone);
+        }
+
+        loadData();
+        // Auto-refresh page every 5 min
+        setTimeout(() => window.location.reload(), 300000); 
+    </script>
+
+</body>
+
+</html>
