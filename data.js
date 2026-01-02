@@ -17,21 +17,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Cadáveres, restos y testimonios refuerzan versión de un ataque estadounidense en Zulia\nSUCESOS",
-      "link": "https://www.elnacional.com/2026/01/cadaveres-restos-y-testimonios-refuerzan-version-de-un-ataque-estadounidense-en-zulia/",
+      "title": "Petro afirma que un misil cayó en la región de la Alta Guajira venezolana\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/petro-afirma-que-un-misil-cayo-en-la-region-de-la-alta-guajira-venezolana/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Muere una persona y otras 12 resultan heridas en la capital de México tras fuerte sismo",
-      "link": "https://cnnespanol.cnn.com/2026/01/02/mexico/sismo-magnitud-6-5-guerrero-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sismomx1.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cómo bengalas en botellas de champán habrían desencadenado la tragedia en Suiza",
+      "link": "https://cnnespanol.cnn.com/2026/01/02/mundo/botellas-champan-tragedia-estacion-esqui-suiza-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/g9n8wxuamaq6w-t-bars-20260102215015014.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Hijo de Rhoda Torres entre los excarcelado del 1Ene: «Está abrazada a su hijo y dándole todo el amor»",
-      "link": "https://caraotadigital.net/venezuela/hijo-de-rhoda-torres-entre-los-excarcelado-del-1ene-esta-abrazada-a-su-hijo-y-dandole-todo-el-amor/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Torres-CD.jpg"
+      "title": "Partido de Machado denuncia el paradero desconocido de un activista detenido en Venezuela",
+      "link": "https://caraotadigital.net/venezuela/partido-de-machado-denuncia-el-paradero-desconocido-de-un-activista-detenido-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/JULIO.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -47,10 +47,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "RCN",
-      "title": "Se agudiza la crisis humanitaria en el Catatumbo: al menos 300 personas han sido desplazadas",
-      "link": "https://www.noticiasrcn.com/colombia/crisis-en-el-catatumbo-se-agudiza-en-el-inicio-del-2026-976806",
-      "image": "https://imagenes.noticiasrcn.com/cms/2026/01/02131228/grave-crisis-catatumbo.jpg?w=272"
+      "title": "Ejército hace presencia en Filo Gringo tras escalada del ELN y las disidencias de las Farc",
+      "link": "https://www.noticiasrcn.com/colombia/presidente-petro-ordeno-presencia-del-ejercito-en-filo-gringo-por-disputa-de-disidencias-y-eln-976848",
+      "image": "https://imagenes.noticiasrcn.com/cms/2024/08/13115052/Ejercito-camioneta-UNP.webp?w=272"
     }
   ],
-  "lastUpdate": "2026-01-02T21:16:46.249Z"
+  "lastUpdate": "2026-01-02T22:20:59.419Z"
 };
