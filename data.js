@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Ofensiva de cinco meses de EE UU: más de 35 lanchas destruidas y un centenar de fallecidos\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/ofensiva-de-estados-unidos-mas-de-35-lanchas-destruidas-y-un-centenar-de-fallecidos/",
+      "title": "Maduro evita confirmar ataque de Estados Unidos contra una presunta instalación del narcotráfico en Zulia\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maduro-evita-confirmar-ataque-de-estados-unidos-contra-una-presunta-instalacion-del-narcotrafico-en-zulia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela ha detenido a varios ciudadanos estadounidenses en medio de las tensiones",
+      "title": "Venezuela detiene a varios estadounidenses en medio de las tensiones",
       "link": "https://cnnespanol.cnn.com/2026/01/01/venezuela/detienen-estadounidenses-tensiones-eeuu-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247859148-20260101214546430-20260101224008498.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Maduro dice estar \"listo\" para hablar con EE. UU. \"de un acuerdo de combate contra el narcotráfico\"",
-      "link": "https://www.noticiascaracol.com/mundo/maduro-dice-estar-listo-para-hablar-con-ee-uu-de-un-acuerdo-de-combate-contra-el-narcotrafico-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/42ae998/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffb%2F28%2F1607c84a40f5b9d63fe0c48dbff5%2Fmaduro-trump-1.jpg"
+      "title": "Repentina muerte de la hija del actor Tommy Lee Jones: encontraron su cuerpo en un hotel",
+      "link": "https://www.noticiascaracol.com/mundo/tommy-lee-jones-repentina-muerte-de-la-hija-del-actor-encontraron-su-cuerpo-en-un-hotel-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/103a78f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F53%2Fcd%2F7bd97a5249e58f24325a17a8007f%2Fdiseno-3.jpg"
     },
     {
       "source": "RCN",
-      "title": "El rifirrafe entre la exdirectora de la URF y el presidente Petro por los fondos de pensiones en el exterior",
-      "link": "https://www.noticiasrcn.com/colombia/el-rifirrafe-entre-la-exdirectora-de-la-urf-y-el-presidente-petro-por-los-fondos-de-pensiones-en-el-exterior-976678",
-      "image": "https://imagenes.noticiasrcn.com/cms/2025/10/23142411/Diseno-sin-titulo-5-2.jpg?w=272"
+      "title": "Incendio deja 200 damnificados en el oriente de Cali",
+      "link": "https://www.noticiasrcn.com/colombia/incendio-deja-200-damnificados-en-el-oriente-de-cali-976691",
+      "image": "https://imagenes.noticiasrcn.com/cms/2026/01/02070629/PORTADA-1.jpg?w=272"
     }
   ],
-  "lastUpdate": "2026-01-02T11:29:32.252Z"
+  "lastUpdate": "2026-01-02T13:10:34.038Z"
 };
