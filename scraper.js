@@ -1,8 +1,78 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
+const Tesseract = require('tesseract.js');
 
 const OUTPUT_FILE = path.join(__dirname, 'data.json');
+
+// --- Helper: Scrape BCV Direct (Dólar y Euro) ---
+async function scrapeBCV(browser) {
+    console.log('💵 Scrapeando BCV directamente...');
+    const result = { usd: null, eur: null };
+    let page = null;
+
+    try {
+        page = await browser.newPage();
+        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+
+        await page.goto('https://www.bcv.org.ve/', { waitUntil: 'networkidle2', timeout: 60000 });
+
+        // Esperar a que carguen los elementos de tasas
+        await page.waitForSelector('#dolar, #euro, .recuadroActual', { timeout: 15000 }).catch(() => null);
+
+        const rates = await page.evaluate(() => {
+            // Estrategia 1: Buscar por IDs específicos
+            const dolarEl = document.querySelector('#dolar strong, #dolar .centrado');
+            const euroEl = document.querySelector('#euro strong, #euro .centrado');
+
+            // Estrategia 2: Buscar en divs con clase recuadroActual
+            let dolar = null, euro = null;
+
+            if (dolarEl) {
+                dolar = dolarEl.innerText.trim();
+            }
+            if (euroEl) {
+                euro = euroEl.innerText.trim();
+            }
+
+            // Estrategia 3: Buscar en toda la página por patrones
+            if (!dolar || !euro) {
+                const allText = document.body.innerText;
+
+                // Buscar patrón "Dólar ... XX,XXXX" o similar
+                const dolarMatch = allText.match(/D[oó]lar[^0-9]*([0-9]+[,\.][0-9]+)/i);
+                const euroMatch = allText.match(/Euro[^0-9]*([0-9]+[,\.][0-9]+)/i);
+
+                if (dolarMatch && !dolar) dolar = dolarMatch[1];
+                if (euroMatch && !euro) euro = euroMatch[1];
+            }
+
+            return { dolar, euro };
+        });
+
+        await page.close();
+
+        if (rates.dolar) {
+            result.usd = rates.dolar.replace('.', ','); // Normalizar formato
+            console.log(`✅ BCV Dólar: ${result.usd}`);
+        } else {
+            console.log('⚠️ BCV Dólar no encontrado');
+        }
+
+        if (rates.euro) {
+            result.eur = rates.euro.replace('.', ',');
+            console.log(`✅ BCV Euro: ${result.eur}`);
+        } else {
+            console.log('⚠️ BCV Euro no encontrado');
+        }
+
+    } catch (error) {
+        console.error('❌ BCV Error:', error.message);
+        if (page) await page.close().catch(() => { });
+    }
+
+    return result;
+}
 
 // --- Helper: Scrape Generic News Source (Con Reintentos) ---
 async function scrapeSource(browser, name, url, extractFn, maxAttempts = 2) {
@@ -15,7 +85,10 @@ async function scrapeSource(browser, name, url, extractFn, maxAttempts = 2) {
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
             // Timeout ajustado para no demorar demasiado en intentos fallidos
-            await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+            await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+
+            // Espera explícita para asegurar lazy loading de imágenes y scripts
+            await new Promise(r => setTimeout(r, 5000));
 
             const result = await page.evaluate(extractFn);
             await page.close();
@@ -42,84 +115,51 @@ async function scrapeSource(browser, name, url, extractFn, maxAttempts = 2) {
     }
     return null;
 }
-
-// --- Helper: Scrape Instagram for Rates & News ---
-async function scrapeInstagram(browser) {
-    console.log('📸 Scrapeando Instagram (Tasas & Noticia)...');
+// --- Helper: Scrape Binance P2P Direct ---
+async function scrapeBinance(browser) {
+    console.log('🪙 Scrapeando Binance P2P (USDT/VES)...');
     try {
         const page = await browser.newPage();
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-        // 1. Visit Profile to get latest post
-        const profileUrl = 'https://www.instagram.com/monitordolar_vzla2.0/';
-        console.log(`   - Visitando perfil: ${profileUrl}`);
-        await page.goto(profileUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        // URL directa a USDT/VES (Venta - Buy for user perspective, or Sell ads from advertisers? Usually "USDT" price reference on P2P 
+        // refers to the rate at which you can SELL your USDT (Advertiser sets Buy price) OR BUY USDT (Advertiser sets Sell price).
+        // Standard reference is usually the "Buy USDT" tab (Advertisers selling).
+        const url = 'https://p2p.binance.com/es/trade/all-payments/USDT?fiat=VES';
 
-        // 2. Extract link of the first post
-        await page.waitForSelector('article a', { timeout: 15000 }).catch(() => null);
+        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
-        const latestPostUrl = await page.evaluate(() => {
-            const firstPost = document.querySelector('article a'); // Usually the first anchor in article is the latest post
-            return firstPost ? firstPost.href : null;
-        });
+        // Esperar a que cargue la lista de precios
+        const priceSelector = '.headline5.text-primaryText';
+        await page.waitForSelector(priceSelector, { timeout: 15000 }).catch(() => null);
 
-        if (!latestPostUrl) {
-            throw new Error("No se pudo encontrar el último post en el perfil.");
-        }
-
-        console.log(`   - Último post detectado: ${latestPostUrl}`);
-
-        // 3. Navigate to the specific post
-        await page.goto(latestPostUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
-
-        // Wait for meta tags specifically
-        await page.waitForSelector('meta[property="og:description"]', { timeout: 15000 }).catch(() => null);
-
-        const data = await page.evaluate(() => {
-            const descMeta = document.querySelector('meta[property="og:description"]');
-            const imgMeta = document.querySelector('meta[property="og:image"]');
-
-            const description = descMeta ? descMeta.content : '';
-            const image = imgMeta ? imgMeta.content : '';
-
-            // Parse Rates using RegEx
-            const parseRate = (regex) => {
-                const match = description.match(regex);
-                return match ? match[1] : null;
-            };
-
-            // Regex patterns adapted for typical captions
-            const rates = {
-                bcv_usd: parseRate(/💵\s*BCV[:\s]+Bs\.?\s*([\d,.]+)/i),
-                bcv_eur: parseRate(/💶\s*Euro\s*BCV[:\s]+Bs\.?\s*([\d,.]+)/i),
-                // Try to find Binance/Kontigo/Parallel if present in text, otherwise null
-                binance: parseRate(/(?:💵|Dólar)\s*Binance[:\s]+Bs\.?\s*([\d,.]+)/i),
-                kontigo: parseRate(/(?:💵|Kontigo|App)\s*(?:App)?[:\s]+Bs\.?\s*([\d,.]+)/i)
-            };
-
-            return { rates: rates, news: { image, description } };
-        });
+        const price = await page.evaluate((selector) => {
+            const el = document.querySelector(selector);
+            return el ? el.innerText : null;
+        }, priceSelector);
 
         await page.close();
-        if (data && data.rates) {
-            console.log('✅ Instagram (Datos Extraídos):', data.rates);
-        }
-        return data;
 
+        if (price) {
+            console.log(`✅ Binance P2P: ${price}`);
+            return price; // Formato esperado: "598.50" (con punto) o "598,50"
+        } else {
+            throw new Error("Elemento de precio no encontrado");
+        }
     } catch (error) {
-        console.error('❌ Instagram Error:', error.message);
-        return { rates: {}, news: null };
+        console.error('❌ Binance Error:', error.message);
+        return null;
     }
 }
 
 async function scrape() {
-    console.log('🚀 Iniciando scraper actualizado...');
+    console.log('🚀 Iniciando scraper actualizado (BCV + Binance Web)...');
     const browser = await puppeteer.launch({
         headless: "new",
         args: [
             '--no-sandbox',
             '--disable-setuid-sandbox',
-            '--disable-dev-shm-usage', // Crítico para Docker/CI
+            '--disable-dev-shm-usage',
             '--disable-gpu'
         ]
     });
@@ -128,21 +168,32 @@ async function scrape() {
         rates: {
             bcv: {},
             binance: {},
-            kontigo: {}
+            kontigo: { usd: "N/A" } // Sin fuente por ahora
         },
         news: [],
         lastUpdate: new Date().toISOString()
     };
 
-    // 1. Get Instagram Data (todas las tasas)
-    const instaData = await scrapeInstagram(browser);
-    if (instaData && instaData.rates) {
-        if (instaData.rates.bcv_usd) finalData.rates.bcv.usd = instaData.rates.bcv_usd;
-        if (instaData.rates.bcv_eur) finalData.rates.bcv.eur = instaData.rates.bcv_eur;
+    // 1. Obtener tasas del BCV directamente
+    const bcvRates = await scrapeBCV(browser);
+    if (bcvRates.usd) {
+        // Normalizar a número, redondear a 2 decimales y volver a string con coma
+        const val = parseFloat(bcvRates.usd.replace(',', '.'));
+        finalData.rates.bcv.usd = val.toFixed(2).replace('.', ',');
+    }
+    if (bcvRates.eur) {
+        const val = parseFloat(bcvRates.eur.replace(',', '.'));
+        finalData.rates.bcv.eur = val.toFixed(2).replace('.', ',');
+    }
 
-        // Lógica Híbrida: Priorizar dato automático, fallback a manual si no existe
-        finalData.rates.binance.usdt = instaData.rates.binance || '570,00';
-        finalData.rates.kontigo.usd = instaData.rates.kontigo || '560,00';
+    // 2. Obtener tasa Binance P2P directamente (Web Scraping)
+    const binanceRate = await scrapeBinance(browser);
+    if (binanceRate) {
+        // Asegurar formato con coma decimal para consistencia visual
+        finalData.rates.binance.usdt = binanceRate.replace('.', ',');
+    } else {
+        console.log('⚠️ Binance: Usando fallback (N/A)');
+        finalData.rates.binance.usdt = 'N/A';
     }
 
     // 3. Scrape News Portals with Lazy Load Support
@@ -273,18 +324,59 @@ async function scrape() {
             }
         },
         {
-            name: 'RCN',
-            url: 'https://www.noticiasrcn.com/',
+            name: 'La Verdad',
+            url: 'https://laverdad.com/',
             fn: () => {
-                const linkImg = document.querySelector('a.img-a');
-                const kicker = linkImg?.nextElementSibling;
-                const titleLink = kicker?.nextElementSibling;
-                const imgEl = linkImg?.querySelector('img');
-                return {
-                    title: titleLink?.innerText || document.querySelector('h3 a')?.innerText,
-                    link: titleLink?.href || linkImg?.href,
-                    image: imgEl?.src
-                };
+                // Estrategia: Selector verificado con debug
+                // La Verdad usa clases como upk-title para los títulos
+                const titleEl = document.querySelector('.upk-title a.title-animation-underline, .upk-title a');
+
+                if (!titleEl) return null;
+
+                const link = titleEl.href;
+                const title = titleEl.innerText.trim();
+
+                // Imagen: Selector revisado post-fallo
+                let img = null;
+
+                // Estrategia directa basada en hallazgos del subagente
+                // La Verdad: img dentro de article o .elementor-post
+                const imgEl = document.querySelector('article img, .elementor-post img, .wpcap-post img');
+                if (imgEl) {
+                    img = imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset?.split(' ')[0];
+                }
+
+                return { title, link, image: img };
+            }
+        },
+        {
+            name: 'Diario Versión Final',
+            url: 'https://diarioversionfinal.com/',
+            fn: () => {
+                const titleEl = document.querySelector('.post-title.post-url');
+                if (!titleEl) return null;
+                const link = titleEl.href;
+                const title = titleEl.innerText.trim();
+
+                let img = null;
+                // Versión Final: background-image en .img-holder
+                const holder = document.querySelector('.img-holder');
+                if (holder) {
+                    // Obtener estilo computado si el inline está vacío
+                    const style = holder.getAttribute('style') || window.getComputedStyle(holder).backgroundImage;
+                    if (style && style.includes('url')) {
+                        const match = style.match(/url\(['"]?(.*?)['"]?\)/);
+                        if (match) img = match[1];
+                    }
+                }
+
+                // Fallback a img tag normal
+                if (!img) {
+                    const imgEl = document.querySelector('article img, .main-post img');
+                    if (imgEl) img = imgEl.src;
+                }
+
+                return { title, link, image: img };
             }
         },
         {

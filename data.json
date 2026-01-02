@@ -1,11 +1,14 @@
 {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "304,68",
+      "eur": "357,89"
+    },
     "binance": {
-      "usdt": "570,00"
+      "usdt": "596,440"
     },
     "kontigo": {
-      "usd": "560,00"
+      "usd": "N/A"
     }
   },
   "news": [
@@ -17,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Petro afirma que un misil cayó en la región de la Alta Guajira venezolana\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/petro-afirma-que-un-misil-cayo-en-la-region-de-la-alta-guajira-venezolana/",
+      "title": "Salarios mínimos en América Latina: México, Colombia y Bolivia lideran los aumentos; Venezuela en la cola\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/salarios-minimos-en-america-latina-mexico-colombia-y-bolivia-lideran-los-aumentos-venezuela-en-la-cola/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -29,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Enviado especial de Xi Jinping visitó a Maduro en medio de tensiones con Estados Unidos",
-      "link": "https://caraotadigital.net/venezuela/enviado-especial-de-xi-jinping-visita-a-maduro-en-medio-de-tensiones-con-estados-unidos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/n-1.jpg"
+      "title": "El impresionante récord que podría romper Venus Williams en el Abierto de Australia",
+      "link": "https://caraotadigital.net/deportes/el-impresionante-record-que-podria-romper-venus-williams-en-el-abierto-de-australia/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Venus-Williams-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -46,11 +49,17 @@
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/b0c51c1/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffb%2Fcd%2F0e9e87e5481997d048686ee3d6af%2Fincendio-suiza.jpg"
     },
     {
-      "source": "RCN",
-      "title": "Ejército hace presencia en Filo Gringo tras escalada del ELN y las disidencias de las Farc",
-      "link": "https://www.noticiasrcn.com/colombia/presidente-petro-ordeno-presencia-del-ejercito-en-filo-gringo-por-disputa-de-disidencias-y-eln-976848",
-      "image": "https://imagenes.noticiasrcn.com/cms/2024/08/13115052/Ejercito-camioneta-UNP.webp?w=272"
+      "source": "La Verdad",
+      "title": "Enviado especial de Xi Jinping visita a Maduro en medio de tensiones con EE. UU.",
+      "link": "https://laverdad.com/enviado-especial-de-xi-jinping-visita-a-maduro-en-medio-de-tensiones-con-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "Dólar oficial alcanza los 304,67 bolívares con aumento interanual de 479 %",
+      "link": "https://diarioversionfinal.com/politica-dinero/dolar-oficial-alcanza-los-30467-bolivares-con-aumento-interanual-de-479/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/b18f83ea-68ea-42da-876e-25b782c1f741_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-02T23:19:59.030Z"
+  "lastUpdate": "2026-01-02T23:29:39.180Z"
 }
