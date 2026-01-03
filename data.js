@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "590,89"
+      "usdt": "595,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Cómo la CIA se infiltró en el círculo íntimo de Nicolás Maduro para informar su paradero exacto",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/como-la-cia-se-infiltro-en-el-circulo-intimo-de-nicolas-maduro-para-informar-su-paradero-exacto/",
-      "image": "https://www.infobae.com/resizer/v2/NLAWUL55VJD7PCFPG6M6RYFYBQ.JPG?auth=5261c59b9735de8dbd816b22fb9a16a191dd9f71336c58f23e974b3ff479abcd&smart=true&width=350&height=197&quality=85"
+      "title": "La Casa Blanca publicó las fotos de Donald Trump supervisando en directo la operación “Resolución Absoluta”, la misión para capturar a Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/la-casa-blanca-publico-las-fotos-de-donald-trump-supervisando-en-directo-la-operacion-resolucion-absoluta-la-mision-para-capturar-a-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/4THISHMBVNESFCIUN7STJFHPYE.jpg?auth=7392a0c38adda530d1bd943adeb3931337c7c2bc703dd7856be41cf42f761d0d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Trump: \"Vamos a estar con Venezuela para garantizar una transición ordenada\"\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/trump-vamos-a-manejar-venezuela-hasta-que-haya-una-transicion-ordenada/",
+      "title": "Trump aseguró que Marco Rubio habló con Delcy Rodríguez para iniciar un proceso de transición\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/trump-aseguro-que-marco-rubio-hablo-con-delcy-rodriguez-para-iniciar-un-proceso-de-transicion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Colombia prepara decreto de emergencia económica y social por ataque de EE. UU. a Venezuela",
-      "link": "https://laverdad.com/colombia-prepara-decreto-de-emergencia-economica-y-social-por-ataque-de-ee-uu-a-venezuela/",
+      "title": "La EASA recomienda no volar sobre Venezuela tras ataque de EE. UU.",
+      "link": "https://laverdad.com/la-easa-recomienda-no-volar-sobre-venezuela-tras-ataque-de-ee-uu/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Delcy Rodríguez “está dispuesta” a colaborar con EE. UU., afirmó Trump en su rueda de prensa",
       "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-esta-dispuesta-a-colaborar-con-ee-uu-afirmo-trump-en-su-rueda-de-prensa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/1200_176745425855008335183_5aec0a0ea7_o-1920x1080-1-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/3QLF2UFIZRFI5MKKI5CRJWWA7A-650x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T18:29:38.532Z"
+  "lastUpdate": "2026-01-03T19:16:16.815Z"
 };
