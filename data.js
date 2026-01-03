@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "650,50"
+      "usdt": "625,43"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El dictador Nicolás Maduro llegó a una base militar de Nueva York",
+      "title": "El dictador Maduro llegó a Estados Unidos para ser juzgado por narcotráfico en Nueva York",
       "link": "https://www.infobae.com/estados-unidos/2026/01/03/el-dictador-nicolas-maduro-llego-a-una-base-militar-de-nueva-york/",
-      "image": "https://www.infobae.com/resizer/v2/XC35NYUNSFBRTL2J6HH3IE64IU.png?auth=ba0537c68a93e9142d63caa54c4017dd3a79146a6a79907c7d5319492c282e8a&smart=true&width=350&height=197&quality=85"
+      "image": "https://www.infobae.com/resizer/v2/ZYMSHRS7ANAAXLESXTNG6EHONU.png?auth=4d94867f2034b12eb9d4238d8d341efe3ccabdcf74f9d8992c04c81628fe59fe&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Nicolás Maduro llega a una base militar de Nueva York",
+      "title": "Maduro llega a EE.UU. para enfrentar cargos mientras Trump promete \"administrar\" Venezuela",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-still-22245613-655705-098-still-20260103221620995.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Aerolíneas estadounidenses cancelaron vuelos desde el Caribe tras ataques contra Venezuela",
-      "link": "https://caraotadigital.net/eeuu/aerolineas-estadounidenses-cancelaron-vuelos-desde-el-caribe-tras-ataques-contra-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/11/VUELOPS.jpg"
+      "title": "Consejo de Seguridad de la ONU abordará el 5Ene la operación de EEUU en Venezuela",
+      "link": "https://caraotadigital.net/mundo/consejo-de-seguridad-de-la-onu-abordara-el-5ene-la-operacion-de-eeuu-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imageconsejoonu2323.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FORO PENAL PIDE RESPETAR LA INTEGRIDAD DE PRESOS POLÍTICOS «EN MOMENTOS DE INCERTIDUMBRE»",
-      "link": "https://noticierodigital.com/2026/01/foro-penal-pide-respetar-la-integridad-de-presos-politicos-en-momentos-de-incertidumbre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/foro-penal-referencial-627x376.jpg"
+      "title": "PUD EXPRESA QUE ES MOMENTO DE «ABRIR PASO A UNA TRANSICIÓN DEMOCRÁTICA»",
+      "link": "https://noticierodigital.com/2026/01/pud-expresa-que-es-momento-de-abrir-paso-a-una-transicion-democratica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/plataforma-unitaria-p-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump publica videos burlándose de Maduro tras su captura",
-      "link": "https://laverdad.com/trump-publica-videos-burlandose-de-maduro-tras-su-captura/",
+      "title": "Machado y Macron sostienen una llamada: “Venezuela será libre”",
+      "link": "https://laverdad.com/machado-y-macron-sostienen-una-llamada-venezuela-sera-libre/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump habría dado un ultimátum a Maduro “hace una semana”, aseguró en entrevista",
-      "link": "https://diarioversionfinal.com/mundo/trump-habria-dado-un-ultimatum-a-maduro-hace-una-semana-aseguro-en-entrevista/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Disturbios-en-Caracas-03-01-2026-750x430.jpeg"
+      "title": "Maduro y Cilia Flores aterrizan en Nueva York tras su captura",
+      "link": "https://diarioversionfinal.com/politica-dinero/maduro-y-cilia-flores-aterrizan-en-nueva-york-tras-su-captura/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/vigilia-presos-politicos-helicoide-protesta-10-de-abril-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T22:20:25.820Z"
+  "lastUpdate": "2026-01-03T23:20:15.580Z"
 };
