@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "Anuncio promocionado"
+      "usdt": "601,240"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump confirmó que el dictador Nicolás Maduro fue capturado y sacado de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/donald-trump-confirmo-que-el-dictador-nicolas-maduro-fue-capturado-y-sacado-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/J52WXSC2XRG2JL6WF7SLUFKSVM.jpg?auth=650d3e6bf0cb65e6b3c1129f320b40a19a99d404bee286e66334f408a35997c4&smart=true&width=350&height=197&quality=85"
+      "title": "El subsecretario de Estado de EEUU proclamó un “nuevo amanecer” para Venezuela tras la captura de Nicolás Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/el-subsecretario-de-estado-de-eeuu-proclamo-un-nuevo-amanecer-para-venezuela-tras-la-captura-de-nicolas-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/DIITTJ6HZFDBDJZFAQV25XB23U.JPG?auth=cfe6b23edb81caee4c649475d86c2b5bdf228477bd04e1eb0daca9403ad1f470&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -30,9 +30,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump confirma ataque «a gran escala» contra Venezuela y dice que han capturado a Maduro",
-      "link": "https://caraotadigital.net/eeuu/trump-confirma-ataque-a-gran-escala-contra-venezuela-y-dice-que-han-capturado-a-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-1.jpg"
+      "title": "Rubio dice que Maduro será juzgado en EE.UU y que no habrá más ataques en Venezuela",
+      "link": "https://caraotadigital.net/eeuu/rubio-dice-que-maduro-sera-juzgado-en-ee-uu-y-que-no-habra-mas-ataques-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MARCO-RUBIO.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -42,22 +42,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump ordenó los ataques dentro de Venezuela, incluidos objetivos militares, según medios de EE. UU.",
-      "link": "https://www.noticiascaracol.com/mundo/trump-ordeno-los-ataques-dentro-de-venezuela-incluidos-objetivos-militares-segun-medios-de-ee-uu-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ef99691/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4d%2F5d%2F1af1db1742789f1b11574738d500%2Fexplosiones-4.jpg"
+      "title": "Vicepresidenta Delcy Rodríguez pide a Estados Unidos prueba de vida de Nicolás Maduro",
+      "link": "https://www.noticiascaracol.com/mundo/vicepresidenta-delcy-rodriguez-pide-a-estados-unidos-prueba-de-vida-de-nicolas-maduro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a8aa1b7/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffe%2F11%2F386f81b24b66ba436c90ec1ebfb6%2Fdelcy-rodriguez-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump confirma la captura de Maduro tras \"ataque a gran escala\" en Venezuela",
-      "link": "https://laverdad.com/trump-confirma-la-captura-de-maduro-tras-ataque-a-gran-escala-en-venezuela/",
+      "title": "Delcy Rodríguez asegura que desconoce el paradero de Maduro y exige “prueba de vida”",
+      "link": "https://laverdad.com/delcy-rodriguez-asegura-que-desconoce-el-paradero-de-maduro-y-exige-prueba-de-vida/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "A las 2:00 am comenzaron los bombardeos a bases militares en Caracas: Trump confirma captura de Maduro",
       "link": "https://diarioversionfinal.com/mundo/a-las-200-am-comenzaron-los-bombardeos-a-bases-militares-en-caracas-trump-confirma-captura-de-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/dollares-2-2501x1667-1-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Padrino-Lopez-08-10-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T10:21:48.624Z"
+  "lastUpdate": "2026-01-03T11:17:44.436Z"
 };
