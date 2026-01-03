@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "596,999"
+      "usdt": "597,000"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Testimonios de una madrugada oscura en Caracas: qué ocurrió hace 12 años en el desalojo de las protestas frente a la ONU",
-      "link": "https://www.infobae.com/venezuela/2026/01/02/testimonios-de-una-madrugada-oscura-en-caracas-que-ocurrio-hace-12-anos-en-el-desalojo-de-las-protestas-frente-a-la-onu/",
-      "image": "https://www.infobae.com/resizer/v2/B4L3UJP3RBCHLJHMFCNJRZYKRM.jpg?auth=c4ba5ad8d874ed61e4eea8a3644abedfe01fe2914b9417107a03f0c232c8f91c&smart=true&width=350&height=197&quality=85"
+      "title": "El petrolero que huye de la Guardia Costera de Estados Unidos reveló su ubicación: se encuentra en el Atlántico Norte",
+      "link": "https://www.infobae.com/america/mundo/2026/01/03/el-petrolero-que-huye-de-la-guardia-costera-de-estados-unidos-revelo-su-ubicacion-se-encuentra-en-el-atlantico-norte/",
+      "image": "https://www.infobae.com/resizer/v2/7UYWOLU6GRFPJKAVMURDNR6L4U.JPG?auth=3857c9720e4b9cb3c278b23ac8105c741afbce88bbea9fbd9eaaa82545f4318b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Salarios mínimos en América Latina: México, Colombia y Bolivia lideran los aumentos; Venezuela en la cola\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/salarios-minimos-en-america-latina-mexico-colombia-y-bolivia-lideran-los-aumentos-venezuela-en-la-cola/",
+      "title": "“El olor a pólvora era fuerte”: testigos hablan de la presunta explosión que destruyó una estructura en la Alta Guajira de Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/01/el-olor-a-polvora-era-fuerte-testigos-hablan-de-la-presunta-explosion-que-destruyo-una-estructura-en-la-alta-guajira-de-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "El impresionante récord que podría romper Venus Williams en el Abierto de Australia",
-      "link": "https://caraotadigital.net/deportes/el-impresionante-record-que-podria-romper-venus-williams-en-el-abierto-de-australia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Venus-Williams-CD.jpg"
+      "title": "¿Hasta cuándo se podrán ver los campos de girasoles de Portuguesa? Esto dice la Cámara de Turismo",
+      "link": "https://caraotadigital.net/venezuela/hasta-cuando-se-podran-ver-los-campos-de-girasoles-de-portuguesa-esto-dice-la-camara-de-turismo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Girasoles-de-Portuguesa-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MADURO SOSTUVO ENCUENTRO CON REPRESENTANTE CHINO PARA ASUNTOS DE AMÉRICA LATINA",
-      "link": "https://noticierodigital.com/2026/01/maduro-sostuvo-encuentro-con-representante-chino-para-asuntos-de-america-latina/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-3-627x376.jpg"
+      "title": "WSJ: ENCUESTA INDICA QUE 64% DE VENEZOLANOS EN EL EXTRANJERO APOYA UNA ACCIÓN ESTADOUNIDENSE",
+      "link": "https://noticierodigital.com/2026/01/wsj-encuesta-indica-que-64-de-venezolanos-en-el-extranjero-apoya-una-accion-estadounidense/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/Diseno-sin-titulo-1-8-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/b18f83ea-68ea-42da-876e-25b782c1f741_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-02T23:46:15.036Z"
+  "lastUpdate": "2026-01-03T01:41:34.682Z"
 }
