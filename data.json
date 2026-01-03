@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "558,900"
+      "usdt": "589,000"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Díaz-Balart destacó el liderazgo de Trump tras la captura de Maduro: “Es un día muy importante para Venezuela y el mundo”",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/diaz-balart-destaco-el-liderazgo-de-trump-tras-la-captura-de-maduro-es-un-dia-muy-importante-para-venezuela-y-el-mundo/",
-      "image": "https://www.infobae.com/resizer/v2/GRAMS2HOHJXSDKSQ5AKSO4FWO4.jpg?auth=dfe63b05873377f733f49f34025e0e467c41b2604693f20105600d5895cd880b&smart=true&width=350&height=197&quality=85"
+      "title": "La última actividad oficial de Maduro: un encuentro con enviados de China",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/la-ultima-actividad-oficial-de-maduro-un-encuentro-con-enviados-de-china/",
+      "image": "https://www.infobae.com/resizer/v2/FBXFO4EXQJBZBM5C6ML7GB5O5U.jpg?auth=322f052a96d8132dea753fb531e0758764bda1b28662ed54e18109f81bc51a02&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,19 +28,19 @@
       "source": "CNN en Español",
       "title": "EE.UU. dice que Maduro enfrentará \"el peso\" de la Justicia",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/reaxthumbvenezuela.JPG?c=16x9&q=w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9599eb08-5c4e-448c-99b4-36a9d7266762.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trinidad y Tobago afirma que no participó en el operativo militar de EEUU en Venezuela",
-      "link": "https://caraotadigital.net/mundo/trinidad-y-tobago-afirma-que-no-participo-en-el-operativo-militar-de-eeuu-en-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRINIDAD.jpg"
+      "title": "Machado y Edmundo González dicen que todavía ‘no se pronunciarán’,9 sobre operativo de EEUU",
+      "link": "https://caraotadigital.net/venezuela/machado-y-edmundo-gonzalez-dicen-que-todavia-no-se-pronunciaran9-sobre-operativo-de-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MACHADO-EDMUNDO-2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NO HABRÁ MÁS ACCIONES MILITARES TRAS DETENCIÓN DE MADURO, SEGÚN SENADOR LEE",
-      "link": "https://noticierodigital.com/2026/01/no-habra-mas-acciones-militares-tras-detencion-de-maduro-segun-senador-lee/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/116034790_gettyimages-1229654470-627x376.jpg"
+      "title": "ALBARES HABLÓ CON EDMUNDO GONZÁLEZ TRAS ATAQUES DE EE .UU. A VENEZUELA: EFE",
+      "link": "https://noticierodigital.com/2026/01/albares-hablo-con-edmundo-gonzalez-tras-ataques-de-ee-uu-a-venezuela-efe/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260103-WA0069-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. imputa a Maduro y a Cilia Flores por “narcotráfico”: “Pronto enfrentarán la justicia”",
-      "link": "https://laverdad.com/ee-uu-imputa-a-maduro-y-a-cilia-flores-por-narcotrafico-pronto-enfrentaran-la-justicia/",
+      "title": "Canciller Gil exige a Trump que devuelva de \"manera inmediata\" a Maduro",
+      "link": "https://laverdad.com/canciller-gil-exige-al-consejo-de-seguridad-de-la-onu-condenar-los-ataques-de-ee-uu/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maduro será imputado en Nueva York por “conspiración narcoterrorista”, informó la Fiscal General de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/maduro-sera-imputado-en-nueva-york-por-conspiracion-narcoterrorista-informo-la-fiscal-general-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Yvan-Gil-califico-a-Josep-Borrell-como-_Vocero-del-Mal_-en-la-politica-Europea-750x430.jpg"
+      "title": "Vicepresidente de EE. UU. asegura que Trump había ofrecido “múltiples salidas” a Maduro",
+      "link": "https://diarioversionfinal.com/mundo/vicepresidente-de-ee-uu-asegura-que-trump-habia-ofrecido-multiples-salidas-a-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/Congreso-eeuu-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T13:39:30.953Z"
+  "lastUpdate": "2026-01-03T14:20:31.045Z"
 }
