@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "Anuncio promocionado"
+      "usdt": "Promoted Ad"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Girasoles-de-Portuguesa-CD.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "WSJ: ENCUESTA INDICA QUE 64% DE VENEZOLANOS EN EL EXTRANJERO APOYA UNA ACCIÓN ESTADOUNIDENSE",
+      "link": "https://noticierodigital.com/2026/01/wsj-encuesta-indica-que-64-de-venezolanos-en-el-extranjero-apoya-una-accion-estadounidense/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/Diseno-sin-titulo-1-8-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Revelan la que sería la causa de incendio en bar en Suiza donde murieron 40 personas: lo que se sabe",
       "link": "https://www.noticiascaracol.com/mundo/revelan-la-que-seria-la-causa-de-incendio-en-bar-en-suiza-donde-murieron-40-personas-lo-que-se-sabe-rg10",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/b18f83ea-68ea-42da-876e-25b782c1f741_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T04:33:07.981Z"
+  "lastUpdate": "2026-01-03T05:22:36.112Z"
 }
