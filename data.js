@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "580,00"
+      "usdt": "571,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez, vicepresidenta del régimen de Venezuela y sucesora de Maduro, se encuentra en Rusia",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/delcy-rodriguez-vicepresidenta-del-regimen-de-venezuela-y-sucesora-de-maduro-se-encuentra-en-rusia/",
-      "image": "https://www.infobae.com/resizer/v2/PPVRQL4EFRDBJO4LNF325XWKZE.JPG?auth=2e83f5905095bc41507d962390aa9e6527d7c51a8fa747711dc1ce2fcd0e8151&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado: “Estamos preparados para hacer valer nuestro mandato y tomar el poder”",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/maria-corina-machado-estamos-preparados-para-hacer-valer-nuestro-mandato-y-tomar-el-poder/",
+      "image": "https://www.infobae.com/resizer/v2/GTCDI5UCN5FTDL4TAR42W3OXEA.JPG?auth=e0a5d3e6a6239fd7170a492828552e602c70efbd250b4f2c7fea1f7743b78ef1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¿Quién gobierna ahora Venezuela tras la detención de Nicolás Maduro?\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/01/quien-gobierna-ahora-venezuela-tras-la-detencion-de-nicolas-maduro/",
+      "title": "Nicolás Maduro y Cilia Flores van rumbo a Nueva York: Trump asegura que están en el buque de guerra Iwo Jima\nMUNDO",
+      "link": "https://www.elnacional.com/2026/01/nicolas-maduro-y-cilia-flores-van-rumbo-a-nueva-york-trump-asegura-que-estan-en-el-buque-de-guerra-iwo-jima/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "EE.UU. captura a Maduro y dice que enfrentará \"el peso\" de la Justicia",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9599eb08-5c4e-448c-99b4-36a9d7266762.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250619810.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump detalló que Maduro y Flores están en un buque militar y «serán llevados» a Nueva York",
-      "link": "https://caraotadigital.net/eeuu/trump-detallo-que-maduro-y-flores-estan-en-un-buque-militar-y-seran-llevados-a-nueva-york/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/TRUMP-18.jpg"
+      "title": "Delcy Rodríguez está en Caracas, según The New York Times",
+      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-esta-en-caracas-segun-the-new-york-times/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY-NYT.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Maduro está detenido en un buque militar y será llevado a New York, afirma Trump",
-      "link": "https://www.noticiascaracol.com/mundo/maduro-esta-detenido-en-un-buque-militar-y-sera-llevado-a-new-york-afirma-trump-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/58a0b61/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F59%2Fd5%2F4b273b38455ebb37da7ffa7cf35c%2Fmaduro-y-terumo.jpg"
+      "title": "\"Venezolanos, llegó la hora de libertad\", dice María Corina Machado tras captura de Maduro",
+      "link": "https://www.noticiascaracol.com/mundo/reacciones-de-oposicion-de-venezuela-tras-captura-de-maduro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/430fa5a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5a%2Fc0%2F565b6ef948fca59043378b1c3e5b%2Ftamano-imagenes-79.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Caldera rechaza la “vil agresión ilegal” del “imperialismo” y exige libertad para Maduro",
-      "link": "https://laverdad.com/caldera-rechaza-la-vil-agresion-ilegal-del-imperialismo-y-exige-libertad-para-maduro/",
+      "title": "González Urrutia: “Estamos listos para la reconstrucción de nuestra nación”",
+      "link": "https://laverdad.com/gonzalez-urrutia-estamos-listos-para-la-reconstruccion-de-nuestra-nacion/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump: “Estamos tomando decisiones ahora, no permitiremos que lo que el dejó en Venezuela tome el control”",
-      "link": "https://diarioversionfinal.com/mundo/trump-estamos-tomando-decisiones-ahora-no-permitiremos-que-lo-que-el-dejo-en-venezuela-tome-el-control/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/maria-corina-machado-2-750x430.webp"
+      "title": "#Ahora | Trump ofrece rueda de prensa sobre detención de Maduro y Cilia",
+      "link": "https://diarioversionfinal.com/mundo/ahora-trump-ofrece-rueda-de-prensa-sobre-detencion-de-maduro-y-cilia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5100457497650203471_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T15:20:16.941Z"
+  "lastUpdate": "2026-01-03T16:25:43.894Z"
 };
