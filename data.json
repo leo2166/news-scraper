@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "563,662"
+      "usdt": "558,900"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,21 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La fiscal general de Estados Unidos confirmó la imputación de Nicolás Maduro por narcoterrorismo",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/la-fiscal-general-de-estados-unidos-confirmo-la-imputacion-de-nicolas-maduro-por-narcoterrorismo/",
-      "image": "https://www.infobae.com/resizer/v2/O4FQUNIOTRBEPLMDMRF2W5R43Q.JPG?auth=859f77c32ba5852898499c9ea8e9ebe8cf87de2e88a812f82057085e5f72b799&smart=true&width=350&height=197&quality=85"
+      "title": "Díaz-Balart destacó el liderazgo de Trump tras la captura de Maduro: “Es un día muy importante para Venezuela y el mundo”",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/diaz-balart-destaco-el-liderazgo-de-trump-tras-la-captura-de-maduro-es-un-dia-muy-importante-para-venezuela-y-el-mundo/",
+      "image": "https://www.infobae.com/resizer/v2/GRAMS2HOHJXSDKSQ5AKSO4FWO4.jpg?auth=dfe63b05873377f733f49f34025e0e467c41b2604693f20105600d5895cd880b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
       "title": "EE UU imputa a Nicolás Maduro y a Cilia Flores por narcoterrorismo: \"Enfrentarán la ira de la justicia en suelo estadounidense\"\nEE UU",
       "link": "https://www.elnacional.com/2026/01/ee-uu-imputa-a-nicolas-maduro-y-a-cilia-flores-por-narcoterrorismo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
+    },
+    {
+      "source": "CNN en Español",
+      "title": "EE.UU. dice que Maduro enfrentará \"el peso\" de la Justicia",
+      "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/reaxthumbvenezuela.JPG?c=16x9&q=w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -32,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ALBARES HABLÓ CON EDMUNDO GONZÁLEZ TRAS ATAQUES DE EE .UU. A VENEZUELA: EFE",
-      "link": "https://noticierodigital.com/2026/01/albares-hablo-con-edmundo-gonzalez-tras-ataques-de-ee-uu-a-venezuela-efe/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260103-WA0069-627x376.jpg"
+      "title": "NO HABRÁ MÁS ACCIONES MILITARES TRAS DETENCIÓN DE MADURO, SEGÚN SENADOR LEE",
+      "link": "https://noticierodigital.com/2026/01/no-habra-mas-acciones-militares-tras-detencion-de-maduro-segun-senador-lee/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/116034790_gettyimages-1229654470-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Yvan-Gil-califico-a-Josep-Borrell-como-_Vocero-del-Mal_-en-la-politica-Europea-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T13:29:25.086Z"
+  "lastUpdate": "2026-01-03T13:39:30.953Z"
 }

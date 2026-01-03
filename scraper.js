@@ -122,21 +122,32 @@ async function scrapeBinance(browser) {
         const page = await browser.newPage();
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-        // URL directa a USDT/VES (Venta - Buy for user perspective, or Sell ads from advertisers? Usually "USDT" price reference on P2P 
-        // refers to the rate at which you can SELL your USDT (Advertiser sets Buy price) OR BUY USDT (Advertiser sets Sell price).
-        // Standard reference is usually the "Buy USDT" tab (Advertisers selling).
+        // URL directa a USDT/VES 
         const url = 'https://p2p.binance.com/es/trade/all-payments/USDT?fiat=VES';
 
         await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
         // Esperar a que cargue la lista de precios
-        const priceSelector = '.headline5.text-primaryText';
-        await page.waitForSelector(priceSelector, { timeout: 15000 }).catch(() => null);
+        await page.waitForSelector('.headline5.text-primaryText', { timeout: 15000 }).catch(() => null);
 
-        const price = await page.evaluate((selector) => {
-            const el = document.querySelector(selector);
-            return el ? el.innerText : null;
-        }, priceSelector);
+        const price = await page.evaluate(() => {
+            // Estrategia 1: Selector más específico (hermano del símbolo de moneda)
+            const specificEl = document.querySelector('.subtitle6 + .headline5.text-primaryText');
+            if (specificEl && /^\d/.test(specificEl.innerText)) {
+                return specificEl.innerText;
+            }
+
+            // Estrategia 2: Buscar el primer elemento que parezca un precio en la lista
+            const elements = document.querySelectorAll('.headline5.text-primaryText');
+            for (const el of elements) {
+                const text = el.innerText.trim();
+                // Regex para validar formato precio: start with bits, comma/dot, bits
+                if (/^[0-9]+[.,][0-9]+$/.test(text)) {
+                    return text;
+                }
+            }
+            return null;
+        });
 
         await page.close();
 
@@ -286,12 +297,55 @@ async function scrape() {
             name: 'CNN en Español',
             url: 'https://cnnespanol.cnn.com/',
             fn: () => {
-                const lead = document.querySelector('.container_lead-package');
-                if (!lead) return null;
-                const title = lead.querySelector('.container__title-url h2')?.innerText;
-                const link = lead.querySelector('.container__title-url')?.href;
-                const imgEl = lead.querySelector('img');
-                return { title, link, image: imgEl ? (imgEl.src || imgEl.dataset.src) : null };
+                // Estrategia "Universal": Buscar el primer encabezado relevante (H1/H2)
+                const headlines = Array.from(document.querySelectorAll('h1, h2, h3'));
+                // Filtramos titulares muy cortos (menos de 20 chars) o de navegación
+                const relevantHeadline = headlines.find(h => {
+                    const text = h.innerText.trim();
+                    return text.length > 20 && !text.includes('Sign in') && !text.includes('Log In');
+                });
+
+                if (!relevantHeadline) return null;
+
+                const title = relevantHeadline.innerText.trim();
+
+                // Buscar link: primero en el propio titulo, o en ancestros o hijos
+                let linkEl = relevantHeadline.closest('a') || relevantHeadline.querySelector('a');
+
+                // Fallback: buscar link hermano o en padre
+                if (!linkEl) {
+                    const wrapper = relevantHeadline.closest('article') || relevantHeadline.closest('.zone__item') || relevantHeadline.parentElement;
+                    if (wrapper) {
+                        linkEl = wrapper.querySelector('a:not(.author):not(.category)');
+                    }
+                }
+
+                let link = linkEl ? linkEl.href : document.location.href;
+
+                // Asegurar HTTPS absoluto
+                if (link && !link.startsWith('http')) {
+                    link = 'https://cnnespanol.cnn.com' + (link.startsWith('/') ? '' : '/') + link;
+                }
+
+                // Imagen: Buscar en wrapper ascendente (hasta 5 niveles)
+                let img = null;
+                let wrapper = relevantHeadline.parentElement;
+                let attempts = 0;
+                while (wrapper && attempts < 5 && !img) {
+                    const imgEl = wrapper.querySelector('img, amp-img');
+                    if (imgEl) {
+                        img = imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset?.split(' ')[0] || imgEl.getAttribute('content');
+                    }
+                    wrapper = wrapper.parentElement;
+                    attempts++;
+                }
+
+                if (!img) {
+                    const meta = document.querySelector('meta[property="og:image"]');
+                    if (meta) img = meta.content;
+                }
+
+                return { title, link, image: img };
             }
         },
         {
@@ -337,11 +391,9 @@ async function scrape() {
                 const title = titleEl.innerText.trim();
 
                 // Imagen: Selector revisado post-fallo
-                let img = null;
-
-                // Estrategia directa basada en hallazgos del subagente
                 // La Verdad: img dentro de article o .elementor-post
                 const imgEl = document.querySelector('article img, .elementor-post img, .wpcap-post img');
+                let img = null;
                 if (imgEl) {
                     img = imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset?.split(' ')[0];
                 }
