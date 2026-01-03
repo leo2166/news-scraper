@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "625,14"
+      "usdt": "655,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Así fue “Resolución Absoluta”, la operación encubierta de las fuerzas de Estados Unidos para capturar a Maduro en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/asi-fue-resolucion-absoluta-la-operacion-encubierta-de-las-fuerzas-de-estados-unidos-para-capturar-a-maduro-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/7CVJHFYLTBAHRKANACPFQFL6JE.JPG?auth=7bfcac979733c9da32cc88ccf39f3b91a22f48dd2cedab8bda623972e24543fa&smart=true&width=350&height=197&quality=85"
+      "title": "Un coronel venezolano alertó sobre la compleja fase de estabilización tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/un-coronel-venezolano-alerto-sobre-la-compleja-fase-de-estabilizacion-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/2KT5WZZQZRCENDEPLHRGCYLAZE.png?auth=1e5d7e44717d9a0af1b69cf968e94c23849c6b9f682e0e6a4d067eca3b26a5ff&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,19 +28,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Trump afirma que EE.UU. administrará Venezuela tras la captura de Maduro",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-e1bb18adb65ba857-20260103164213123.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/crop-e1bb18adb65ba857-20260103203428452.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Francia pide a sus compañías aéreas que no entren en el espacio aéreo de Venezuela",
-      "link": "https://caraotadigital.net/mundo/francia-pide-a-sus-companias-aereas-que-no-entren-en-el-espacio-aereo-de-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagefrancia8282.jpg"
+      "title": "Las reacciones de la comunidad internacional tras operativo que llevó a la detención de Maduro",
+      "link": "https://caraotadigital.net/mundo/las-reacciones-de-la-comunidad-internacional-tras-operativo-que-llevo-a-la-detencion-de-maduro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/03/maduro-y-cilita-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUBIO DIJO QUE MADURO TUVO OPORTUNIDADES, PERO QUE «DECIDIÓ ACTUAR COMO UN SALVAJE»",
-      "link": "https://noticierodigital.com/2026/01/rubio-dijo-que-maduro-tuvo-oportunidades-pero-que-decidio-actuar-como-un-salvaje/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/marco-rubio-627x376.jpg"
+      "title": "FORO PENAL PIDE RESPETAR LA INTEGRIDAD DE PRESOS POLÍTICOS «EN MOMENTOS DE INCERTIDUMBRE»",
+      "link": "https://noticierodigital.com/2026/01/foro-penal-pide-respetar-la-integridad-de-presos-politicos-en-momentos-de-incertidumbre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/foro-penal-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez asegura que Maduro sigue siendo presidente",
-      "link": "https://laverdad.com/delcy-rodriguez-asegura-que-maduro-sigue-siendo-presidente/",
+      "title": "Copa Airlines suspende vuelo a Maracaibo hasta el martes 6",
+      "link": "https://laverdad.com/copa-airlines-suspende-vuelo-a-maracaibo-hasta-el-martes-6/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Proyecto-nuevo-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Delcy Rodríguez reaparece con Decreto de Conmoción Externa: “Este pueblo jamás será colonia de nadie”",
       "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-reaparece-con-decreto-de-conmocion-externa-este-pueblo-jamas-sera-colonia-de-nadie/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/G9wfpyfXkAAUtJl-750x375-1.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/27dc-trump-venezuela-topart-qfgz-superJumbo-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-03T20:23:24.908Z"
+  "lastUpdate": "2026-01-03T21:19:36.994Z"
 };
