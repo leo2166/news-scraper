@@ -200,8 +200,9 @@ async function scrape() {
     // 2. Obtener tasa Binance P2P directamente (Web Scraping)
     const binanceRate = await scrapeBinance(browser);
     if (binanceRate) {
-        // Asegurar formato con coma decimal para consistencia visual
-        finalData.rates.binance.usdt = binanceRate.replace('.', ',');
+        // Normalizar a número, redondear a 2 decimales y volver a string con coma
+        const val = parseFloat(binanceRate.replace(',', '.'));
+        finalData.rates.binance.usdt = val.toFixed(2).replace('.', ',');
     } else {
         console.log('⚠️ Binance: Usando fallback (N/A)');
         finalData.rates.binance.usdt = 'N/A';
