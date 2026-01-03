@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "606,691"
+      "usdt": "611,467"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El petrolero que huye de la Guardia Costera de Estados Unidos reveló su ubicación: se encuentra en el Atlántico Norte",
-      "link": "https://www.infobae.com/america/mundo/2026/01/03/el-petrolero-que-huye-de-la-guardia-costera-de-estados-unidos-revelo-su-ubicacion-se-encuentra-en-el-atlantico-norte/",
-      "image": "https://www.infobae.com/resizer/v2/7UYWOLU6GRFPJKAVMURDNR6L4U.JPG?auth=3857c9720e4b9cb3c278b23ac8105c741afbce88bbea9fbd9eaaa82545f4318b&smart=true&width=350&height=197&quality=85"
+      "title": "Reportan fuertes explosiones y sobrevuelo de aviones en Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/reportan-fuertes-explosiones-en-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/IBLGXAEQMZH23DZ6WKXHF6ZEYU.jpg?auth=5f2686cbc6de4e79416fd09d50d3a53281ba9b794ca92fe12532506c437aece6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "“El olor a pólvora era fuerte”: testigos hablan de la presunta explosión que destruyó una estructura en la Alta Guajira de Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/01/el-olor-a-polvora-era-fuerte-testigos-hablan-de-la-presunta-explosion-que-destruyo-una-estructura-en-la-alta-guajira-de-venezuela/",
+      "title": "Múltiples explosiones en Caracas este 3 de enero\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/multiples-explosiones-en-caracas-este-3-de-enero/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo bengalas en botellas de champán habrían desencadenado la tragedia en Suiza",
-      "link": "https://cnnespanol.cnn.com/2026/01/02/mundo/botellas-champan-tragedia-estacion-esqui-suiza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/g9n8wxuamaq6w-t-bars-20260102215015014.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Equipo de CNN presencia múltiples explosiones en Caracas, capital de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/03/venezuela/multiples-explosiones-caracas-venezuela-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26003237866896caracas.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/b18f83ea-68ea-42da-876e-25b782c1f741_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T06:32:32.557Z"
+  "lastUpdate": "2026-01-03T07:19:47.448Z"
 }
