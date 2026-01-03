@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "586,00"
+      "usdt": "590,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump: “Estamos listos para una segunda ola de ataques en Venezuela si es necesaria”",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/donald-trump-vamos-a-estar-a-cargo-de-venezuela-hasta-que-este-a-salvo-para-una-transicion/",
-      "image": "https://www.infobae.com/resizer/v2/RX72I3DPVJAS7H7MLDJKEHV4DA.JPG?auth=895c65e09cd1c16627ddb04e04e6794c171e8c39dd195e30d1f1ab28f24f813d&smart=true&width=350&height=197&quality=85"
+      "title": "Cómo la CIA se infiltró en el círculo íntimo de Nicolás Maduro para informar su paradero exacto",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/como-la-cia-se-infiltro-en-el-circulo-intimo-de-nicolas-maduro-para-informar-su-paradero-exacto/",
+      "image": "https://www.infobae.com/resizer/v2/NLAWUL55VJD7PCFPG6M6RYFYBQ.JPG?auth=5261c59b9735de8dbd816b22fb9a16a191dd9f71336c58f23e974b3ff479abcd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump afirma que EE.UU. gobernará Venezuela hasta una transición",
+      "title": "Trump afirma que EE.UU. gobernará Venezuela tras la captura de Maduro",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-e1bb18adb65ba857-20260103164213123.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump dijo que se mantendrán en Venezuela «hasta una transición» y advirtió sobre otro posible ataque",
-      "link": "https://caraotadigital.net/eeuu/trump-dijo-que-se-mantendran-en-venezuela-hasta-una-transicion-y-advirtio-sobre-otro-posible-ataque/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-donald.jpg"
+      "title": "Trump aclara que Marco Rubio está hablando con Delcy Rodríguez en Venezuela",
+      "link": "https://caraotadigital.net/eeuu/trump-aclara-que-marco-rubio-esta-hablando-con-delcy-rodriguez-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-RDP.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PANAMÁ DICE QUE APOYA UNA «TRANSICIÓN ORDENADA» EN VENEZUELA TRAS ATAQUES DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/panama-dice-que-apoya-una-transicion-ordenada-en-venezuela-tras-ataques-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/jose-raul-mulino.jpg"
+      "title": "TRUMP COMPARTE LA PRIMERA FOTO DE MADURO LUEGO DE SER CAPTURADO",
+      "link": "https://noticierodigital.com/2026/01/trump-comparte-la-primera-foto-de-maduro-luego-de-ser-capturado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-1-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "NYT: Delcy Rodríguez permanece en Caracas tras captura de Maduro",
-      "link": "https://laverdad.com/nyt-delcy-rodriguez-permanece-en-caracas-tras-captura-de-maduro/",
+      "title": "Colombia prepara decreto de emergencia económica y social por ataque de EE. UU. a Venezuela",
+      "link": "https://laverdad.com/colombia-prepara-decreto-de-emergencia-economica-y-social-por-ataque-de-ee-uu-a-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "#Ahora | Trump sobre políticos y militares venezolanos: “Lo que le ocurrió a Maduro le puede ocurrir a ellos”",
-      "link": "https://diarioversionfinal.com/mundo/trump-sobre-politicos-y-militares-venezolanos-lo-que-le-ocurrio-a-maduro-le-puede-ocurrir-a-ellos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Screenshot_4-750x375-1.jpg"
+      "title": "Delcy Rodríguez “está dispuesta” a colaborar con EE. UU., afirmó Trump en su rueda de prensa",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-esta-dispuesta-a-colaborar-con-ee-uu-afirmo-trump-en-su-rueda-de-prensa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/1200_176745425855008335183_5aec0a0ea7_o-1920x1080-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T17:18:20.820Z"
+  "lastUpdate": "2026-01-03T18:29:38.532Z"
 }
