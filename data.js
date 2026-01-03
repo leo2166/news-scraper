@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "595,69"
+      "usdt": "625,14"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Casa Blanca publicó las fotos de Donald Trump supervisando en directo la operación “Resolución Absoluta”, la misión para capturar a Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/la-casa-blanca-publico-las-fotos-de-donald-trump-supervisando-en-directo-la-operacion-resolucion-absoluta-la-mision-para-capturar-a-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/4THISHMBVNESFCIUN7STJFHPYE.jpg?auth=7392a0c38adda530d1bd943adeb3931337c7c2bc703dd7856be41cf42f761d0d&smart=true&width=350&height=197&quality=85"
+      "title": "Así fue “Resolución Absoluta”, la operación encubierta de las fuerzas de Estados Unidos para capturar a Maduro en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/asi-fue-resolucion-absoluta-la-operacion-encubierta-de-las-fuerzas-de-estados-unidos-para-capturar-a-maduro-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/7CVJHFYLTBAHRKANACPFQFL6JE.JPG?auth=7bfcac979733c9da32cc88ccf39f3b91a22f48dd2cedab8bda623972e24543fa&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Trump aseguró que Marco Rubio habló con Delcy Rodríguez para iniciar un proceso de transición\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/trump-aseguro-que-marco-rubio-hablo-con-delcy-rodriguez-para-iniciar-un-proceso-de-transicion/",
+      "title": "Delcy Rodríguez: \"Exigimos la inmediata liberación del presidente Nicolás Maduro\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/delcy-rodriguez-exigimos-la-inmediata-liberacion-del-presidente-nicolas-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump afirma que EE.UU. gobernará Venezuela tras la captura de Maduro",
+      "title": "Trump afirma que EE.UU. administrará Venezuela tras la captura de Maduro",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-e1bb18adb65ba857-20260103164213123.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump aclara que Marco Rubio está hablando con Delcy Rodríguez en Venezuela",
-      "link": "https://caraotadigital.net/eeuu/trump-aclara-que-marco-rubio-esta-hablando-con-delcy-rodriguez-en-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-RDP.jpg"
+      "title": "Francia pide a sus compañías aéreas que no entren en el espacio aéreo de Venezuela",
+      "link": "https://caraotadigital.net/mundo/francia-pide-a-sus-companias-aereas-que-no-entren-en-el-espacio-aereo-de-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagefrancia8282.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP COMPARTE LA PRIMERA FOTO DE MADURO LUEGO DE SER CAPTURADO",
-      "link": "https://noticierodigital.com/2026/01/trump-comparte-la-primera-foto-de-maduro-luego-de-ser-capturado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-1-627x376.png"
+      "title": "RUBIO DIJO QUE MADURO TUVO OPORTUNIDADES, PERO QUE «DECIDIÓ ACTUAR COMO UN SALVAJE»",
+      "link": "https://noticierodigital.com/2026/01/rubio-dijo-que-maduro-tuvo-oportunidades-pero-que-decidio-actuar-como-un-salvaje/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/marco-rubio-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "La EASA recomienda no volar sobre Venezuela tras ataque de EE. UU.",
-      "link": "https://laverdad.com/la-easa-recomienda-no-volar-sobre-venezuela-tras-ataque-de-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
+      "title": "Delcy Rodríguez asegura que Maduro sigue siendo presidente",
+      "link": "https://laverdad.com/delcy-rodriguez-asegura-que-maduro-sigue-siendo-presidente/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Proyecto-nuevo-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodríguez “está dispuesta” a colaborar con EE. UU., afirmó Trump en su rueda de prensa",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-esta-dispuesta-a-colaborar-con-ee-uu-afirmo-trump-en-su-rueda-de-prensa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/3QLF2UFIZRFI5MKKI5CRJWWA7A-650x430.jpg"
+      "title": "Delcy Rodríguez reaparece con Decreto de Conmoción Externa: “Este pueblo jamás será colonia de nadie”",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-reaparece-con-decreto-de-conmocion-externa-este-pueblo-jamas-sera-colonia-de-nadie/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/G9wfpyfXkAAUtJl-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T19:16:16.815Z"
+  "lastUpdate": "2026-01-03T20:23:24.908Z"
 };
