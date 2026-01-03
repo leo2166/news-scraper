@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "631,307"
+      "usdt": "Anuncio promocionado"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,25 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La dictadura de Maduro reportó ataques sobre objetivos militares y declaró el estado de emergencia en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/la-dictadura-de-maduro-reporto-ataques-sobre-objetivos-militares-y-declaro-el-estado-de-emergencia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/JLJKXW5K4BEAHCUUUDZTEGYXAY.JPG?auth=cc979b31356341dc1f40938a106fcc597619ac35f217ade5aa5ba3e8ab581727&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump confirmó que el dictador Nicolás Maduro fue capturado y sacado de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/donald-trump-confirmo-que-el-dictador-nicolas-maduro-fue-capturado-y-sacado-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/J52WXSC2XRG2JL6WF7SLUFKSVM.jpg?auth=650d3e6bf0cb65e6b3c1129f320b40a19a99d404bee286e66334f408a35997c4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "CBS: Trump ordena ataques dentro de Venezuela, incluidos objetivos militares\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/cbs-trump-ordena-ataques-dentro-de-venezuela-incluidos-objetivos-militares/",
+      "title": "Trump anuncia la captura de Nicolás Maduro y Cilia Flores\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/trump-anuncia-la-captura-de-nicolas-maduro-y-cilia-flores/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela acusa a EE.UU. de llevar a cabo \"agresión militar\"; Maduro activa planes de defensa",
-      "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
-      "image": null
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247859148-20260101214546430-20260101224008498.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Petro dice que hay bombardeos sobre Caracas y pide reuniones urgentes de la ONU y la OEA",
-      "link": "https://caraotadigital.net/mundo/petro-dice-que-hay-bombardeos-sobre-caracas-y-pide-reuniones-urgentes-de-la-onu-y-la-oea/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/PETRO.jpg"
+      "title": "Trump confirma ataque «a gran escala» contra Venezuela y dice que han capturado a Maduro",
+      "link": "https://caraotadigital.net/eeuu/trump-confirma-ataque-a-gran-escala-contra-venezuela-y-dice-que-han-capturado-a-maduro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +48,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Enviado especial de Xi Jinping visita a Maduro en medio de tensiones con EE. UU.",
-      "link": "https://laverdad.com/enviado-especial-de-xi-jinping-visita-a-maduro-en-medio-de-tensiones-con-ee-uu/",
+      "title": "Trump confirma la captura de Maduro tras \"ataque a gran escala\" en Venezuela",
+      "link": "https://laverdad.com/trump-confirma-la-captura-de-maduro-tras-ataque-a-gran-escala-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Abuelitos-Cubanos-2-1-26.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Dólar oficial alcanza los 304,67 bolívares con aumento interanual de 479 %",
-      "link": "https://diarioversionfinal.com/politica-dinero/dolar-oficial-alcanza-los-30467-bolivares-con-aumento-interanual-de-479/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/b18f83ea-68ea-42da-876e-25b782c1f741_16-9-discover-aspect-ratio_default_0-750x430.jpg"
+      "title": "A las 2:00 am comenzaron los bombardeos a bases militares en Caracas: Trump confirma captura de Maduro",
+      "link": "https://diarioversionfinal.com/mundo/a-las-200-am-comenzaron-los-bombardeos-a-bases-militares-en-caracas-trump-confirma-captura-de-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/dollares-2-2501x1667-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-03T09:21:08.823Z"
+  "lastUpdate": "2026-01-03T10:21:48.624Z"
 };
