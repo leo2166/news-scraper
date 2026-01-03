@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "655,00"
+      "usdt": "650,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Un coronel venezolano alertó sobre la compleja fase de estabilización tras la captura de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/un-coronel-venezolano-alerto-sobre-la-compleja-fase-de-estabilizacion-tras-la-captura-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/2KT5WZZQZRCENDEPLHRGCYLAZE.png?auth=1e5d7e44717d9a0af1b69cf968e94c23849c6b9f682e0e6a4d067eca3b26a5ff&smart=true&width=350&height=197&quality=85"
+      "title": "El dictador Nicolás Maduro llegó a una base militar de Nueva York",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/03/el-dictador-nicolas-maduro-llego-a-una-base-militar-de-nueva-york/",
+      "image": "https://www.infobae.com/resizer/v2/XC35NYUNSFBRTL2J6HH3IE64IU.png?auth=ba0537c68a93e9142d63caa54c4017dd3a79146a6a79907c7d5319492c282e8a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Delcy Rodríguez: \"Exigimos la inmediata liberación del presidente Nicolás Maduro\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/delcy-rodriguez-exigimos-la-inmediata-liberacion-del-presidente-nicolas-maduro/",
+      "title": "Aterrizó en Nueva York el avión en el que trasladaron a Nicolás Maduro luego de su captura\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/aterrizo-en-nueva-york-el-avion-en-el-que-trasladaron-a-nicolas-maduro-luego-de-su-captura/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump afirma que EE.UU. administrará Venezuela tras la captura de Maduro",
+      "title": "Nicolás Maduro llega a una base militar de Nueva York",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/crop-e1bb18adb65ba857-20260103203428452.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-still-22245613-655705-098-still-20260103221620995.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Las reacciones de la comunidad internacional tras operativo que llevó a la detención de Maduro",
-      "link": "https://caraotadigital.net/mundo/las-reacciones-de-la-comunidad-internacional-tras-operativo-que-llevo-a-la-detencion-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/03/maduro-y-cilita-1.jpg"
+      "title": "Aerolíneas estadounidenses cancelaron vuelos desde el Caribe tras ataques contra Venezuela",
+      "link": "https://caraotadigital.net/eeuu/aerolineas-estadounidenses-cancelaron-vuelos-desde-el-caribe-tras-ataques-contra-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/11/VUELOPS.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esta es la primera foto de Nicolás Maduro tras ser capturado por Estados Unidos",
-      "link": "https://www.noticiascaracol.com/mundo/esta-es-la-primera-foto-de-nicolas-maduro-tras-ser-capturado-por-estados-unidos-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e003e5c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2Fdb%2Fc30ffbfe424dab54fdf158a09358%2Ffoto.jpg"
+      "title": "La contradicción de Delcy Rodríguez y Trump sobre administración de Venezuela tras captura de Maduro",
+      "link": "https://www.noticiascaracol.com/mundo/la-contradiccion-de-delcy-rodriguez-y-trump-sobre-administracion-de-venezuela-tras-captura-de-maduro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c8e33aa/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdc%2F94%2F466d6140438eb8eb353cf3cdc007%2Fdelcy-rodriguez-y-donald-trump.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Copa Airlines suspende vuelo a Maracaibo hasta el martes 6",
-      "link": "https://laverdad.com/copa-airlines-suspende-vuelo-a-maracaibo-hasta-el-martes-6/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Proyecto-nuevo-1.jpg"
+      "title": "Trump publica videos burlándose de Maduro tras su captura",
+      "link": "https://laverdad.com/trump-publica-videos-burlandose-de-maduro-tras-su-captura/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodríguez reaparece con Decreto de Conmoción Externa: “Este pueblo jamás será colonia de nadie”",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-reaparece-con-decreto-de-conmocion-externa-este-pueblo-jamas-sera-colonia-de-nadie/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/27dc-trump-venezuela-topart-qfgz-superJumbo-750x430.webp"
+      "title": "Trump habría dado un ultimátum a Maduro “hace una semana”, aseguró en entrevista",
+      "link": "https://diarioversionfinal.com/mundo/trump-habria-dado-un-ultimatum-a-maduro-hace-una-semana-aseguro-en-entrevista/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Disturbios-en-Caracas-03-01-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-03T21:19:36.994Z"
+  "lastUpdate": "2026-01-03T22:20:25.820Z"
 };
