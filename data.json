@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "300,000"
+      "usdt": "631,307"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Las primeras imágenes de las explosiones en Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/las-primeras-imagenes-de-las-explosiones-en-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/GEERBJ36S5GV3GN3Q3IIGAF7HM.jpg?auth=37448497187b348d1ee26d56a1cba9fcb40904173fd3e7214352f114ab3a48ef&smart=true&width=350&height=197&quality=85"
+      "title": "La dictadura de Maduro reportó ataques sobre objetivos militares y declaró el estado de emergencia en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/la-dictadura-de-maduro-reporto-ataques-sobre-objetivos-militares-y-declaro-el-estado-de-emergencia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/JLJKXW5K4BEAHCUUUDZTEGYXAY.JPG?auth=cc979b31356341dc1f40938a106fcc597619ac35f217ade5aa5ba3e8ab581727&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Gobierno de Maduro denuncia agresión de EEUU y declara el Estado de Conmoción Exterior en el país",
-      "link": "https://caraotadigital.net/venezuela/gobierno-de-maduro-denuncia-agresion-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/AGRESION-EEUU-GIL.jpg"
+      "title": "Petro dice que hay bombardeos sobre Caracas y pide reuniones urgentes de la ONU y la OEA",
+      "link": "https://caraotadigital.net/mundo/petro-dice-que-hay-bombardeos-sobre-caracas-y-pide-reuniones-urgentes-de-la-onu-y-la-oea/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/PETRO.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -46,7 +46,7 @@
       "source": "Caracol Noticias",
       "title": "Trump ordenó los ataques dentro de Venezuela, incluidos objetivos militares, según medios de EE. UU.",
       "link": "https://www.noticiascaracol.com/mundo/trump-ordeno-los-ataques-dentro-de-venezuela-incluidos-objetivos-militares-segun-medios-de-ee-uu-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d847692/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff1%2F15%2F28d3f0b743bf9b11a4278a849891%2Fmovilidad-bogota-62.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ef99691/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4d%2F5d%2F1af1db1742789f1b11574738d500%2Fexplosiones-4.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/b18f83ea-68ea-42da-876e-25b782c1f741_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T08:28:17.829Z"
+  "lastUpdate": "2026-01-03T09:21:08.823Z"
 }
