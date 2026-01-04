@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "TSJ ordena que Delcy Rodríguez asuma como presidenta encargada de Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/tsj-ordena-que-delcy-rodriguez-asuma-como-presidenta-encargada-de-venezuela/",
+      "title": "3 momentos clave de una jornada histórica en Venezuela que dejó en shock al mundo tras la detención de Maduro y su esposa\nMUNDO",
+      "link": "https://www.elnacional.com/2026/01/3-momentos-clave-de-una-jornada-historica-en-venezuela-que-dejo-en-shock-al-mundo-tras-la-detencion-de-maduro-y-su-esposa/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que EE.UU. \"administrará\" Venezuela. Maduro ya está en Nueva York",
+      "title": "Así fue la captura de Nicolás Maduro por parte de EE.UU.",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/maduro-caracas-20260103163950910.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -35,6 +35,12 @@ window.DASHBOARD_DATA = {
       "title": "Ecuador y Perú restringen ingreso de venezolanos vinculados al gobierno de Maduro",
       "link": "https://caraotadigital.net/mundo/ecuador-y-peru-restringen-ingreso-de-venezolanos-vinculados-al-gobierno-de-maduro/",
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MADURO-ECUADOR-PERU.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "MISIÓN DE LA ONU PIDE PONER FOCO EN HISTORIAL DE MADURO POR «GRAVES VIOLACIONES DE DERECHOS HUMANOS»",
+      "link": "https://noticierodigital.com/2026/01/mision-de-la-onu-pide-poner-foco-en-historial-de-maduro-por-graves-violaciones-de-derechos-humanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/misiondeterminacionHechosVenezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T09:20:47.082Z"
+  "lastUpdate": "2026-01-04T10:21:22.937Z"
 };
