@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "620,00"
+      "usdt": "624,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos emitió nuevas alertas aéreas de seguridad en el Caribe tras la captura de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/estados-unidos-emitio-nuevas-alertas-aereas-de-seguridad-en-el-caribe-tras-la-captura-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/MZYKK3RLUJE45DNLCDJ4W37ZCY.jpeg?auth=3131087c1ebed1cd3481a3ee8993407c56c6b2bb77121162b6790a25c7a12960&smart=true&width=350&height=197&quality=85"
+      "title": "Nicolás Maduro y Cilia Flores comparecerán este lunes ante un juez federal en Nueva York por cargos de narcoterrorismo",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/nicolas-maduro-y-cilia-flores-compareceran-este-lunes-ante-un-juez-federal-en-nueva-york-por-cargos-de-narcoterrorismo/",
+      "image": "https://www.infobae.com/resizer/v2/PG3OB6GUHFF7VCHWJPFBIXRCNI.jpg?auth=b44859e748009dce6f47d780eb20857cf9a355180a7137c4225c2ba104b6bd94&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,27 +26,27 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Maduro comparecerá ante un tribunal de Nueva York el lunes",
+      "title": "Edmundo González dice que es el presidente de Venezuela y hace llamado a las fuerzas armadas",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238840387-20260104181817353.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2191818289.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Starlink anunció internet gratuito en Venezuela para «apoyar al pueblo» hasta esta fecha",
-      "link": "https://caraotadigital.net/tendencias/starlink-anuncio-internet-gratuito-en-venezuela-para-apoyar-al-pueblo-hasta-esta-fecha/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/STARLINK.jpg"
+      "title": "VTV dice que Maduro envió «potente símbolo» al mundo en videos durante su llegada a centro de reclusión en EEUU",
+      "link": "https://caraotadigital.net/venezuela/vtv-dice-que-maduro-envio-potente-simbolo-al-mundo-en-videos-durante-su-llegada-a-centro-de-reclusion-en-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MADURO-DEA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LASER ANUNCIÓ QUE REACTIVA VUELOS INTERNACIONALES DESDE ESTE LUNES 5 DE ENERO",
-      "link": "https://noticierodigital.com/2026/01/laser-anuncio-que-reactiva-vuelos-internacionales-desde-este-lunes-5-de-enero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/laser-airlines-venezuela-maiquetia-627x376.jpg"
+      "title": "EDMUNDO GONZÁLEZ AFIRMA QUE «SE DEBEN EXCLUSIVAMENTE» A LOS VENEZOLANOS",
+      "link": "https://noticierodigital.com/2026/01/edmundo-gonzalez-afirma-que-se-deben-exclusivamente-a-los-venezolanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/edmundo-gonzalez-2422-1200x640-1-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Advertencia de Trump a Delcy Rodríguez: si no coopera pagaría un precio “mayor que el de Maduro\"",
-      "link": "https://www.noticiascaracol.com/mundo/advertencia-de-trump-a-delcy-rodriguez-si-no-coopera-pagaria-un-precio-mayor-que-el-de-maduro-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/36c138a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2d%2F84%2F37a0771b47eea3c86fa79647803a%2Ftrump-advertencia-delcy.jpg"
+      "title": "Edmundo González dice que la captura de Nicolás Maduro \"es un paso importante, pero no suficiente\"",
+      "link": "https://www.noticiascaracol.com/mundo/edmundo-gonzalez-dice-que-la-captura-de-nicolas-maduro-es-un-paso-importante-pero-no-suficiente-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/59e2c06/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2Fe5%2F2c0c623341ee8c6083faad75ac99%2Fedmundo-maduro.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Transición en Venezuela, según Trump: “Delcy es el instrumento, no el centro de gravedad”",
-      "link": "https://diarioversionfinal.com/politica-dinero/transicion-en-venezuela-segun-trump-delcy-es-el-instrumento-no-el-centro-de-gravedad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/jnlooi-750x430.jpg"
+      "title": "Semana: Imágenes satelitales muestran daños en el lugar donde estaba Nicolás Maduro al ser capturado",
+      "link": "https://diarioversionfinal.com/politica-dinero/semana-imagenes-satelitales-muestran-danos-en-el-lugar-donde-estaba-nicolas-maduro-al-ser-capturado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/junki-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-04T22:20:43.465Z"
+  "lastUpdate": "2026-01-04T23:20:37.985Z"
 }
