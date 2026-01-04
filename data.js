@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "637,88"
+      "usdt": "635,55"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El papa urge a garantizar la soberanía y el bien de Venezuela tras la captura de Maduro",
-      "link": "https://caraotadigital.net/mundo/el-papa-urge-a-garantizar-la-soberania-y-el-bien-de-venezuela-tras-la-captura-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/PAPA-LEON-XIV.jpg"
+      "title": "Francia insiste en que Edmundo González tenga «papel central» en la transición venezolana",
+      "link": "https://caraotadigital.net/varios/francia-insiste-en-que-edmundo-gonzalez-tenga-papel-central-en-la-transicion-venezolana/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EDMUNDO-GONZALEZ.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PAPA LEÓN XIV LLAMA A VENEZUELA A TOMAR CAMINOS DE «JUSTICIA Y PAZ»",
-      "link": "https://noticierodigital.com/2026/01/papa-leon-xiv-llama-a-venezuela-a-tomar-caminos-de-justicia-y-paz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/papaLeon__-627x376.jpg"
+      "title": "CHINA PIDE LA «LIBERACIÓN INMEDIATA» DE MADURO Y LLAMA AL DIÁLOGO",
+      "link": "https://noticierodigital.com/2026/01/china-pide-la-liberacion-inmediata-de-maduro-y-llama-al-dialogo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/03/china-venezuela-nicolas-maduro-xi-jinping.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide respetar la soberanía y priorizar el bien del pueblo venezolano",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-respetar-la-soberania-y-priorizar-el-bien-del-pueblo-venezolano/",
+      "title": "Conferencia Episcopal llama a la serenidad tras ataques de EE. UU. en Venezuela",
+      "link": "https://laverdad.com/conferencia-episcopal-llama-a-la-serenidad-tras-ataques-de-ee-uu-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV pide orar por Venezuela: “El bien del pueblo debe prevalecer”",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-pide-orar-por-venezuela-el-bien-del-pueblo-debe-prevalecer/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
+      "title": "María Corina llama a movilización de venezolanos en el mundo",
+      "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-llama-a-movilizacion-de-venezolanos-en-el-mundo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/vfre-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-04T13:30:13.836Z"
+  "lastUpdate": "2026-01-04T14:19:24.557Z"
 };
