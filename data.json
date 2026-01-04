@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "625,18"
+      "usdt": "620,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Argentina lideró un bloque de 10 países que rechazaron una condena unánime de la CELAC a la captura de Nicolás Maduro",
-      "link": "https://www.infobae.com/politica/2026/01/04/argentina-lidero-un-bloque-de-10-paises-que-rechazaron-una-condena-unanime-de-la-celac-a-la-captura-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/TWSPUOGHYNHSLPGSHR7HZYONMI.jpg?auth=16d4d5e59293f0a41786f257d428e41a1d49ab8b845e7a7354387abd01d95b29&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos emitió nuevas alertas aéreas de seguridad en el Caribe tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/estados-unidos-emitio-nuevas-alertas-aereas-de-seguridad-en-el-caribe-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/MZYKK3RLUJE45DNLCDJ4W37ZCY.jpeg?auth=3131087c1ebed1cd3481a3ee8993407c56c6b2bb77121162b6790a25c7a12960&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Corpoelec denunció «ataque criminal» de EEUU contra el SEN durante operativo contra Maduro, varias instalaciones fueron afectadas",
-      "link": "https://caraotadigital.net/venezuela/corpoelec-denuncio-ataque-criminal-de-eeuu-contra-el-sen-durante-operativo-contra-maduro-varias-instalaciones-fueron-afectadas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/11/Corpoelec-CD-1-150x150.jpg"
+      "title": "Starlink anunció internet gratuito en Venezuela para «apoyar al pueblo» hasta esta fecha",
+      "link": "https://caraotadigital.net/tendencias/starlink-anuncio-internet-gratuito-en-venezuela-para-apoyar-al-pueblo-hasta-esta-fecha/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/STARLINK.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EDECÁN DE MADURO Y CHÁVEZ ENTRE LAS VÍCTIMAS DE ATAQUE ESTADOUNIDENSE",
-      "link": "https://noticierodigital.com/2026/01/edecan-de-maduro-y-chavez-entre-las-victimas-de-ataque-estadounidense/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-2-2-627x376.jpg"
+      "title": "LASER ANUNCIÓ QUE REACTIVA VUELOS INTERNACIONALES DESDE ESTE LUNES 5 DE ENERO",
+      "link": "https://noticierodigital.com/2026/01/laser-anuncio-que-reactiva-vuelos-internacionales-desde-este-lunes-5-de-enero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/laser-airlines-venezuela-maiquetia-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@
       "source": "Diario Versión Final",
       "title": "Transición en Venezuela, según Trump: “Delcy es el instrumento, no el centro de gravedad”",
       "link": "https://diarioversionfinal.com/politica-dinero/transicion-en-venezuela-segun-trump-delcy-es-el-instrumento-no-el-centro-de-gravedad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-6.14.48-PM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/jnlooi-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-04T21:19:37.918Z"
+  "lastUpdate": "2026-01-04T22:20:43.465Z"
 }
