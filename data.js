@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "621,00"
+      "usdt": "612,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Quién es Delcy Rodríguez, la mujer que encabezará la transición inicial en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/quien-es-delcy-rodriguez-la-mujer-que-encabezara-la-transicion-inicial-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/2S46YPRKZNG65M3Q5PK4ZSMUEE.jpg?auth=04a24a91ad2952b9725cc152b421969248f6489bf8dcf85bec5470e94f040e2f&smart=true&width=350&height=197&quality=85"
+      "title": "El Ejército de Venezuela respaldó a Delcy Rodríguez como la encargada de la transición",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/el-ejercito-de-venezuela-respaldo-a-delcy-rodriguez-como-la-encargada-de-la-transicion/",
+      "image": "https://www.infobae.com/resizer/v2/H427XS2AYVHQ7MCBKR4WBSMVOY.jpg?auth=bfeb219048e57af0b57fe6bf2fc5c58d63ab989fdfb80112ba4539f05b346ba5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,19 +28,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Así fue la captura de Nicolás Maduro por parte de EE.UU.",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2201554547.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260104103841880.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Padrino López junto al Alto Mando se pronunció este 4Ene tras captura de Maduro: esto dijo",
-      "link": "https://caraotadigital.net/venezuela/padrino-lopez-junto-al-alto-mando-se-pronuncio-este-4ene-tras-captura-de-maduro-esto-dijo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/01/imagepadrinolopez843893.jpg"
+      "title": "¿Suspendieron la señal a varios canales de televisión en Caracas? Esto dijo Conatel tras rumores",
+      "link": "https://caraotadigital.net/venezuela/suspendieron-la-senal-a-varios-canales-de-television-en-caracas-esto-dijo-conatel-tras-rumores/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2023/05/Conatel-150x150.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HIJO DE NICOLÁS MADURO DICE QUE DE ESTA «VAN A SALIR» Y QUE SU PADRE VOLVERÁ",
-      "link": "https://noticierodigital.com/2026/01/hijo-de-nicolas-maduro-dice-que-de-esta-van-a-salir-y-que-su-padre-volvera/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/12/nicolasmaduroguerra-dialogomexico-9dic2022.jpg"
+      "title": "CABELLO: «HOY MÁS QUE NUNCA EL ALTO MANDO POLÍTICO-MILITAR ESTÁ MÁS COHESIONADO»",
+      "link": "https://noticierodigital.com/2026/01/cabello-hoy-mas-que-nunca-el-alto-mando-politico-militar-esta-mas-cohesionado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/Diosdado-Cabello-Venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Misión de la ONU pide priorizar los derechos humanos y la rendición de cuentas",
-      "link": "https://laverdad.com/mision-de-la-onu-pide-priorizar-los-derechos-humanos-y-la-rendicion-de-cuentas/",
+      "title": "EE. UU. levanta restricciones de vuelo en el Caribe tras ataque en Venezuela",
+      "link": "https://laverdad.com/ee-uu-levanta-restricciones-de-vuelo-en-el-caribe-tras-ataque-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Padrino López respalda juramentación de Delcy y pide a la ciudadanía “retomar sus actividades”",
-      "link": "https://diarioversionfinal.com/politica-dinero/padrino-lopez-respalda-juramentacion-de-delcy-y-pide-a-la-ciudadania-retomar-sus-actividades/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-1.02.33-PM-750x430.jpeg"
+      "title": "Juan Escalona, edecán de Chávez y Maduro, entre víctimas de incursión militar de EE.UU.",
+      "link": "https://diarioversionfinal.com/sucesos/juan-escalona-edecan-de-chavez-y-maduro-entre-victimas-de-incursion-militar-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-anuncia-arancel-del-100-a-pelculas-extranjeras-desatando-incertidumbre-en-hollywood-6923f680-22ff-4030-9eaf-3fddaa827e80_16-9-discover-aspect-ratio_default_0-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-04T17:18:26.992Z"
+  "lastUpdate": "2026-01-04T18:30:31.164Z"
 };
