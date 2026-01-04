@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "625,43"
+      "usdt": "644,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,52 +14,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El dictador Maduro llegó a Estados Unidos para ser juzgado por narcotráfico en Nueva York",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/03/el-dictador-nicolas-maduro-llego-a-una-base-militar-de-nueva-york/",
-      "image": "https://www.infobae.com/resizer/v2/ZYMSHRS7ANAAXLESXTNG6EHONU.png?auth=4d94867f2034b12eb9d4238d8d341efe3ccabdcf74f9d8992c04c81628fe59fe&smart=true&width=350&height=197&quality=85"
+      "title": "Tres escenarios posibles para Venezuela tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/tres-escenarios-posibles-para-venezuela-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/GB646BVJOVHRLNOX5BPYOZGNZE.png?auth=ee69d919e2510ee2a424dda275ac795034a48a7bf9af783b4f0078fa51d18519&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Aterrizó en Nueva York el avión en el que trasladaron a Nicolás Maduro luego de su captura\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/aterrizo-en-nueva-york-el-avion-en-el-que-trasladaron-a-nicolas-maduro-luego-de-su-captura/",
+      "title": "Maduro llegó a Nueva York en helicóptero: dormirá en una prisión federal en Brooklyn\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/maduro-llego-a-nueva-york-en-helicoptero-dormira-en-una-prision-federal-en-brooklyn/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Maduro llega a EE.UU. para enfrentar cargos mientras Trump promete \"administrar\" Venezuela",
+      "title": "Trump dice que EE.UU. \"administrará\" Venezuela tras la captura de Maduro y su traslado a Nueva York",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-still-22245613-655705-098-still-20260103221620995.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/36af221c-7c15-4ad3-b9a7-17f5d2355dcb.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Consejo de Seguridad de la ONU abordará el 5Ene la operación de EEUU en Venezuela",
-      "link": "https://caraotadigital.net/mundo/consejo-de-seguridad-de-la-onu-abordara-el-5ene-la-operacion-de-eeuu-en-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imageconsejoonu2323.jpg"
+      "title": "Brasil reconoció a Delcy Rodríguez como «presidenta interina» tras detención de Maduro",
+      "link": "https://caraotadigital.net/mundo/brasil-reconocio-a-delcy-rodriguez-como-presidenta-interina-tras-detencion-de-maduro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/11/imagedelcyrodriguez7271.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUD EXPRESA QUE ES MOMENTO DE «ABRIR PASO A UNA TRANSICIÓN DEMOCRÁTICA»",
-      "link": "https://noticierodigital.com/2026/01/pud-expresa-que-es-momento-de-abrir-paso-a-una-transicion-democratica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/plataforma-unitaria-p-1-627x376.jpg"
+      "title": "NYT: «ALTO FUNCIONARIO AFIRMA QUE UNAS 40 PERSONAS MURIERON EN ATAQUE ESTADOUNIDENSE»",
+      "link": "https://noticierodigital.com/2026/01/nyt-alto-funcionario-afirma-que-unas-40-personas-murieron-en-ataque-estadounidense/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-4-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La contradicción de Delcy Rodríguez y Trump sobre administración de Venezuela tras captura de Maduro",
-      "link": "https://www.noticiascaracol.com/mundo/la-contradiccion-de-delcy-rodriguez-y-trump-sobre-administracion-de-venezuela-tras-captura-de-maduro-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c8e33aa/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdc%2F94%2F466d6140438eb8eb353cf3cdc007%2Fdelcy-rodriguez-y-donald-trump.jpg"
+      "title": "Esta es la cárcel en Brooklyn donde trasladarían a Nicolás Maduro: “El infierno en la Tierra”",
+      "link": "https://www.noticiascaracol.com/mundo/esta-es-la-carcel-en-brooklyn-donde-trasladarian-a-nicolas-maduro-el-infierno-en-la-tierra-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f94e3ed/2147483647/strip/true/crop/1280x722+0+9/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1c%2F02%2F84a621544596a5375f1074c485ac%2Fmaduro.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Machado y Macron sostienen una llamada: “Venezuela será libre”",
-      "link": "https://laverdad.com/machado-y-macron-sostienen-una-llamada-venezuela-sera-libre/",
+      "title": "Consejo de Seguridad de la ONU abordará el lunes ataque de EE. UU. contra Venezuela",
+      "link": "https://laverdad.com/consejo-de-seguridad-de-la-onu-abordara-el-lunes-ataque-de-ee-uu-contra-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maduro y Cilia Flores aterrizan en Nueva York tras su captura",
-      "link": "https://diarioversionfinal.com/politica-dinero/maduro-y-cilia-flores-aterrizan-en-nueva-york-tras-su-captura/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/vigilia-presos-politicos-helicoide-protesta-10-de-abril-2025-750x430.jpg"
+      "title": "Politóloga Marisela Betancourt: “Los hermanos Rodríguez entregaron a Maduro”",
+      "link": "https://diarioversionfinal.com/politica-dinero/politologa-marisela-betancourt-los-hermanos-rodriguez-entregaron-a-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Di-Martino-2-03-01-2026-640x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-03T23:20:15.580Z"
+  "lastUpdate": "2026-01-04T01:56:19.370Z"
 };
