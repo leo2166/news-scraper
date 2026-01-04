@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "633,15"
+      "usdt": "637,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La empresa satelital de Elon Musk ofreció Internet gratis en Venezuela tras la captura de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/la-empresa-satelital-de-elon-musk-ofrecio-internet-gratis-en-venezuela-tras-la-captura-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/B2PK4F357VFSVA2HWUOSOEDYFU.jpg?auth=30e89f3221bb1244c4b4b35bdadaba224bd4424f103d87056337b3957c05b64f&smart=true&width=350&height=197&quality=85"
+      "title": "Netanyahu destacó la operación de EEUU para capturar a Maduro: “América Latina está experimentando una transformación”",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/netanyahu-destaco-la-operacion-de-eeuu-para-capturar-a-maduro-america-latina-esta-experimentando-una-transformacion/",
+      "image": "https://www.infobae.com/resizer/v2/M44HLAURXJBRNBCAPNT3IXULSY.JPG?auth=3cf2ba45d97948fd0e5f2c02f75a59dfbbfd824ad8b5a39b034135ee64f45b44&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -27,20 +27,20 @@
     {
       "source": "CNN en Español",
       "title": "Así fue la captura de Nicolás Maduro por parte de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maduro-caracas-20260103163950910.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maduro-esposado.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Ecuador y Perú restringen ingreso de venezolanos vinculados al gobierno de Maduro",
-      "link": "https://caraotadigital.net/mundo/ecuador-y-peru-restringen-ingreso-de-venezolanos-vinculados-al-gobierno-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MADURO-ECUADOR-PERU.jpg"
+      "title": "El papa urge a garantizar la soberanía y el bien de Venezuela tras la captura de Maduro",
+      "link": "https://caraotadigital.net/mundo/el-papa-urge-a-garantizar-la-soberania-y-el-bien-de-venezuela-tras-la-captura-de-maduro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/PAPA-LEON-XIV.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MISIÓN DE LA ONU PIDE PONER FOCO EN HISTORIAL DE MADURO POR «GRAVES VIOLACIONES DE DERECHOS HUMANOS»",
-      "link": "https://noticierodigital.com/2026/01/mision-de-la-onu-pide-poner-foco-en-historial-de-maduro-por-graves-violaciones-de-derechos-humanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/misiondeterminacionHechosVenezuela-627x376.jpg"
+      "title": "PAPA LEÓN XIV LLAMA A VENEZUELA A TOMAR CAMINOS DE «JUSTICIA Y PAZ»",
+      "link": "https://noticierodigital.com/2026/01/papa-leon-xiv-llama-a-venezuela-a-tomar-caminos-de-justicia-y-paz/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/papaLeon__-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "El TSJ ordena que Delcy Rodríguez asuma como “presidenta encargada”",
-      "link": "https://laverdad.com/el-tsj-ordena-que-delcy-rodriguez-asuma-como-presidenta-encargada/",
+      "title": "Papa León XIV pide respetar la soberanía y priorizar el bien del pueblo venezolano",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-respetar-la-soberania-y-priorizar-el-bien-del-pueblo-venezolano/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maduro ingresó a cárcel en Brooklyn que albergó al “Chapo” Guzmán y “El Mayo” Zambada",
-      "link": "https://diarioversionfinal.com/politica-dinero/maduro-ingreso-a-carcel-en-brooklyn-que-albergo-al-chapo-guzman-y-el-mayo-zambada/",
+      "title": "Papa León XIV pide orar por Venezuela: “El bien del pueblo debe prevalecer”",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-pide-orar-por-venezuela-el-bien-del-pueblo-debe-prevalecer/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T12:41:32.434Z"
+  "lastUpdate": "2026-01-04T13:30:13.836Z"
 }
