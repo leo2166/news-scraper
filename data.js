@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MADURO-ECUADOR-PERU.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "MISIÓN DE LA ONU PIDE PONER FOCO EN HISTORIAL DE MADURO POR «GRAVES VIOLACIONES DE DERECHOS HUMANOS»",
-      "link": "https://noticierodigital.com/2026/01/mision-de-la-onu-pide-poner-foco-en-historial-de-maduro-por-graves-violaciones-de-derechos-humanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/misiondeterminacionHechosVenezuela-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Esta es la cárcel en Brooklyn donde trasladarían a Nicolás Maduro: “El infierno en la Tierra”",
       "link": "https://www.noticiascaracol.com/mundo/esta-es-la-carcel-en-brooklyn-donde-trasladarian-a-nicolas-maduro-el-infierno-en-la-tierra-rg10",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T08:29:02.679Z"
+  "lastUpdate": "2026-01-04T09:20:47.082Z"
 };
