@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "634,99"
+      "usdt": "602,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Netanyahu destacó la operación de EEUU para capturar a Maduro: “América Latina está experimentando una transformación”",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/netanyahu-destaco-la-operacion-de-eeuu-para-capturar-a-maduro-america-latina-esta-experimentando-una-transformacion/",
-      "image": "https://www.infobae.com/resizer/v2/M44HLAURXJBRNBCAPNT3IXULSY.JPG?auth=3cf2ba45d97948fd0e5f2c02f75a59dfbbfd824ad8b5a39b034135ee64f45b44&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio dijo que EEUU utilizará “múltiples palancas de presión” si las autoridades chavistas no toman las decisiones “adecuadas”",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/marco-rubio-dijo-que-eeuu-utilizara-multiples-palancas-de-presion-si-las-autoridades-chavistas-no-toman-las-decisiones-adecuadas/",
+      "image": "https://www.infobae.com/resizer/v2/4C6VAVRDIFEDTFGBNGWWXJ2S4Q.JPG?auth=f5002eb0aa4f756d8c31761b2ae364efe89113dfa5e3fb0c4c49743d6cec7460&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Maduro pasa su primera noche encarcelado en Nueva York, mientras Delcy Rodríguez asume su puesto en Caracas\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/maduro-pasa-su-primera-noche-encarcelado-en-nueva-york-mientras-delcy-rodriguez-asume-su-puesto-en-caracas/",
+      "title": "Caracas amanece con largas colas para buscar comida en medio de la preocupación e incertidumbre\nCIUDAD",
+      "link": "https://www.elnacional.com/2026/01/caracas-amanece-con-largas-colas-para-buscar-comida/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Así fue la captura de Nicolás Maduro por parte de EE.UU.",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-01-03-182836.png?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-machado-maduro.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Metro de Caracas anunció que prestará servicio con «total normalidad» desde este 4Ene",
-      "link": "https://caraotadigital.net/venezuela/metro-de-caracas-anuncio-que-prestara-servicio-con-total-normalidad-desde-este-4ene/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/sistema-metro.jpg"
+      "title": "Aerolíneas nacionales reanudaron vuelos este 4Ene en medio de tensiones políticas",
+      "link": "https://caraotadigital.net/venezuela/aerolineas-nacionales-reanudaron-vuelos-este-4ene-en-medio-de-tensiones-politicas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/11/12905d08e9dea59d38cb83230630ad58262e3c2fminiw.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ella es Delcy Rodríguez, la señalada por Estados Unidos para liderar transición en Venezuela",
-      "link": "https://www.noticiascaracol.com/mundo/ella-es-delcy-rodriguez-la-senalada-por-estados-unidos-para-liderar-transicion-en-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4160cab/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F34%2F3a%2F0ae97fb245c1b723569cd277ded8%2Fdelcy-rodriguez-y-donald-trump-1.jpg"
+      "title": "El desafío de Maduro a Trump que la Casa Blanca recordó tras su captura: \"Ahora ya lo sabes\"",
+      "link": "https://www.noticiascaracol.com/mundo/el-desafio-de-maduro-a-trump-que-la-casa-blanca-recordo-tras-su-captura-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6558185/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F88%2Faa%2F6902d8794656bec52d223fb5239e%2Fmaduto-y-trump-desafio.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Ataques de EE. UU. en Caracas dejan al menos 25 muertos, según cifras extraoficiales",
-      "link": "https://laverdad.com/ataques-de-ee-uu-en-caracas-dejan-al-menos-25-muertos-segun-cifras-extraoficiales/",
+      "title": "Rubio dice que la oposición está fuera de Venezuela y hay que actuar “a corto plazo”",
+      "link": "https://laverdad.com/rubio-dice-que-la-oposicion-esta-fuera-de-venezuela-y-hay-que-actuar-a-corto-plazo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "“Me puse el misil al hombro, pero cayó algo al lado y salí volando”",
-      "link": "https://diarioversionfinal.com/politica-dinero/me-puse-el-misil-al-hombro-pero-cayo-algo-al-lado-y-sali-volando/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/copa-airlines-afp-750x430.jpg"
+      "title": "China da un golpe en la mesa por Maduro y exige a EE.UU. su \"inmediata\" liberación",
+      "link": "https://diarioversionfinal.com/politica-dinero/china-da-un-golpe-en-la-mesa-por-maduro-y-exige-a-ee-uu-su-inmediata-liberacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/Marco-Rubio-pg-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-04T15:19:59.193Z"
+  "lastUpdate": "2026-01-04T16:25:21.501Z"
 };
