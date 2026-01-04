@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "622,80"
+      "usdt": "644,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El congresista Mario Díaz-Balart afirmó que María Corina Machado cuenta con apoyo popular y será la próxima presidenta de Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/04/el-congresista-mario-diaz-balart-afirmo-que-corina-machado-cuenta-con-apoyo-popular-y-sera-la-proxima-presidenta-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/NHWZXWKHABA77GLQBHF67SRD4M.JPG?auth=95e7f759df9d8b29062ded5079d50e8d4023894a365d65e408a60a1755d4837b&smart=true&width=350&height=197&quality=85"
+      "title": "La misión internacional de la ONU sostiene que Maduro debe rendir cuentas por crímenes de lesa humanidad",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/la-mision-internacional-de-la-onu-sostiene-que-maduro-debe-rendir-cuentas-por-crimenes-de-lesa-humanidad/",
+      "image": "https://www.infobae.com/resizer/v2/SYG3YU5TRRBJBJVF32APBRQU5A?auth=4ec85c4687f4b0e61beb1fe443d91699d0f75dc99e740d3a7ac9aae03629f16d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T03:53:06.106Z"
+  "lastUpdate": "2026-01-04T04:50:01.144Z"
 };
