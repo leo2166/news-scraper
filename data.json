@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "628,20"
+      "usdt": "627,54"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Ejército de Venezuela respaldó a Delcy Rodríguez como la encargada de la transición",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/el-ejercito-de-venezuela-respaldo-a-delcy-rodriguez-como-la-encargada-de-la-transicion/",
-      "image": "https://www.infobae.com/resizer/v2/H427XS2AYVHQ7MCBKR4WBSMVOY.jpg?auth=bfeb219048e57af0b57fe6bf2fc5c58d63ab989fdfb80112ba4539f05b346ba5&smart=true&width=350&height=197&quality=85"
+      "title": "Represión, éxodo y crisis económica: los números de los catastróficos 12 años de Maduro en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/represion-exodo-y-crisis-economica-los-numeros-de-los-catastroficos-12-anos-de-maduro-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/B2YIRKXN7JH4HJGUC3SAGWYI4E.jpg?auth=481c27b456baef615e9f30fff616723e4f8174dc3bcbe40440a4acff5d499c8b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Así fue la captura de Nicolás Maduro por parte de EE.UU.",
+      "title": "Maduro comparecerá ante el tribunal de Nueva York el lunes por la tarde",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260104103841880.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Oposición ve «urgente» la liberación de presos políticos para una transición",
-      "link": "https://caraotadigital.net/venezuela/oposicion-ve-urgente-la-liberacion-de-presos-politicos-para-una-transicion/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/presos-2.jpg"
+      "title": "La dura advertencia que hizo Trump a Delcy Rodríguez si decide «no hacer lo correcto»",
+      "link": "https://caraotadigital.net/eeuu/la-dura-advertencia-que-hizo-trump-a-delcy-rodriguez-si-decide-no-hacer-lo-correcto/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/09/Delcy-Trump-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO: «HOY MÁS QUE NUNCA EL ALTO MANDO POLÍTICO-MILITAR ESTÁ MÁS COHESIONADO»",
-      "link": "https://noticierodigital.com/2026/01/cabello-hoy-mas-que-nunca-el-alto-mando-politico-militar-esta-mas-cohesionado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/Diosdado-Cabello-Venezuela-627x376.jpg"
+      "title": "REUTERS: PDVSA PIDE A ALGUNAS EMPRESAS REDUCIR PRODUCCIÓN ANTE ACUMULACIÓN DE INVENTARIO",
+      "link": "https://noticierodigital.com/2026/01/reuters-pdvsa-pide-a-algunas-empresas-reducir-produccion-ante-acumulacion-de-inventario/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/pdvsa-venezuela-sede-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. levanta restricciones de vuelo en el Caribe tras ataque en Venezuela",
-      "link": "https://laverdad.com/ee-uu-levanta-restricciones-de-vuelo-en-el-caribe-tras-ataque-en-venezuela/",
+      "title": "Maduro y Cilia comparecerán mañana ante un tribunal federal de Nueva York",
+      "link": "https://laverdad.com/maduro-y-cilia-compareceran-manana-ante-un-tribunal-federal-de-nueva-york/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juan Escalona, edecán de Chávez y Maduro, entre víctimas de incursión militar de EE.UU.",
-      "link": "https://diarioversionfinal.com/sucesos/juan-escalona-edecan-de-chavez-y-maduro-entre-victimas-de-incursion-militar-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Residents-look-at-a-damaged-apartment-complex-that-neighbors-say-was-hit-during-U.S.-strikes-to--750x430.jpg"
+      "title": "NYTimes: Número de muertes en ataques estadounidenses a Venezuela asciende a 80 personas",
+      "link": "https://diarioversionfinal.com/politica-dinero/nytimes-numero-de-muertes-en-ataques-estadounidenses-a-venezuela-asciende-a-80-personas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-4.45.22-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T19:16:26.120Z"
+  "lastUpdate": "2026-01-04T20:24:12.747Z"
 }
