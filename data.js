@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "627,54"
+      "usdt": "625,18"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,52 +14,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Represión, éxodo y crisis económica: los números de los catastróficos 12 años de Maduro en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/represion-exodo-y-crisis-economica-los-numeros-de-los-catastroficos-12-anos-de-maduro-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/B2YIRKXN7JH4HJGUC3SAGWYI4E.jpg?auth=481c27b456baef615e9f30fff616723e4f8174dc3bcbe40440a4acff5d499c8b&smart=true&width=350&height=197&quality=85"
+      "title": "Argentina lideró un bloque de 10 países que rechazaron una condena unánime de la CELAC a la captura de Nicolás Maduro",
+      "link": "https://www.infobae.com/politica/2026/01/04/argentina-lidero-un-bloque-de-10-paises-que-rechazaron-una-condena-unanime-de-la-celac-a-la-captura-de-nicolas-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/TWSPUOGHYNHSLPGSHR7HZYONMI.jpg?auth=16d4d5e59293f0a41786f257d428e41a1d49ab8b845e7a7354387abd01d95b29&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Marco Rubio asegura que elecciones en Venezuela serían “prematuras” y advierte que EE UU mantendrá la presión sobre quienes están en el poder\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/marco-rubio-asegura-elecciones-en-venezuela-serian-prematuras/",
+      "title": "Trump advierte a Delcy Rodríguez de que si no actúa bien acabará peor que Maduro\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/trump-advierte-a-delcy-rodriguez-de-que-si-no-actua-bien-acabara-peor-que-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Maduro comparecerá ante el tribunal de Nueva York el lunes por la tarde",
+      "title": "Maduro comparecerá ante un tribunal de Nueva York el lunes",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260104103841880.jpeg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238840387-20260104181817353.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "La dura advertencia que hizo Trump a Delcy Rodríguez si decide «no hacer lo correcto»",
-      "link": "https://caraotadigital.net/eeuu/la-dura-advertencia-que-hizo-trump-a-delcy-rodriguez-si-decide-no-hacer-lo-correcto/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/09/Delcy-Trump-CD.jpg"
+      "title": "Corpoelec denunció «ataque criminal» de EEUU contra el SEN durante operativo contra Maduro, varias instalaciones fueron afectadas",
+      "link": "https://caraotadigital.net/venezuela/corpoelec-denuncio-ataque-criminal-de-eeuu-contra-el-sen-durante-operativo-contra-maduro-varias-instalaciones-fueron-afectadas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2023/11/Corpoelec-CD-1-150x150.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REUTERS: PDVSA PIDE A ALGUNAS EMPRESAS REDUCIR PRODUCCIÓN ANTE ACUMULACIÓN DE INVENTARIO",
-      "link": "https://noticierodigital.com/2026/01/reuters-pdvsa-pide-a-algunas-empresas-reducir-produccion-ante-acumulacion-de-inventario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/pdvsa-venezuela-sede-627x376.jpg"
+      "title": "EDECÁN DE MADURO Y CHÁVEZ ENTRE LAS VÍCTIMAS DE ATAQUE ESTADOUNIDENSE",
+      "link": "https://noticierodigital.com/2026/01/edecan-de-maduro-y-chavez-entre-las-victimas-de-ataque-estadounidense/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-2-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Por qué Estados Unidos no está respaldando a Machado para tomar el control de Venezuela?",
-      "link": "https://www.noticiascaracol.com/mundo/por-que-estados-unidos-no-esta-respaldando-a-machado-para-tomar-el-control-de-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/87c7587/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffc%2F63%2F224df5d5446cb354541e184b646e%2Fmarco-rubio-y-delcy-rodriguez-1.jpg"
+      "title": "Advertencia de Trump a Delcy Rodríguez: si no coopera pagaría un precio “mayor que el de Maduro\"",
+      "link": "https://www.noticiascaracol.com/mundo/advertencia-de-trump-a-delcy-rodriguez-si-no-coopera-pagaria-un-precio-mayor-que-el-de-maduro-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/36c138a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2d%2F84%2F37a0771b47eea3c86fa79647803a%2Ftrump-advertencia-delcy.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Maduro y Cilia comparecerán mañana ante un tribunal federal de Nueva York",
-      "link": "https://laverdad.com/maduro-y-cilia-compareceran-manana-ante-un-tribunal-federal-de-nueva-york/",
+      "title": "La UE pide transición pacífica y respeto a la soberanía del país",
+      "link": "https://laverdad.com/la-ue-pide-transicion-pacifica-y-respeto-a-la-soberania-del-pais/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "NYTimes: Número de muertes en ataques estadounidenses a Venezuela asciende a 80 personas",
-      "link": "https://diarioversionfinal.com/politica-dinero/nytimes-numero-de-muertes-en-ataques-estadounidenses-a-venezuela-asciende-a-80-personas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-4.45.22-PM-750x430.jpeg"
+      "title": "Transición en Venezuela, según Trump: “Delcy es el instrumento, no el centro de gravedad”",
+      "link": "https://diarioversionfinal.com/politica-dinero/transicion-en-venezuela-segun-trump-delcy-es-el-instrumento-no-el-centro-de-gravedad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-6.14.48-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T20:24:12.747Z"
+  "lastUpdate": "2026-01-04T21:19:37.918Z"
 };
