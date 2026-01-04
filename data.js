@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La misión internacional de la ONU sostiene que Maduro debe rendir cuentas por crímenes de lesa humanidad",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/la-mision-internacional-de-la-onu-sostiene-que-maduro-debe-rendir-cuentas-por-crimenes-de-lesa-humanidad/",
-      "image": "https://www.infobae.com/resizer/v2/SYG3YU5TRRBJBJVF32APBRQU5A?auth=4ec85c4687f4b0e61beb1fe443d91699d0f75dc99e740d3a7ac9aae03629f16d&smart=true&width=350&height=197&quality=85"
+      "title": "Tensión en Venezuela EN VIVO: Las fuerzas militares de Estados Unidos permanecerán en el Caribe en alto estado de alerta",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/detencion-de-nicolas-maduro-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/LC3ANWEKQNGOHBPFAL3XU2DECA.JPG?auth=aa49eb4360b7cc768a0797d4b6d21eda0f665b0bd3fd16497da947619364da77&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T04:50:01.144Z"
+  "lastUpdate": "2026-01-04T05:26:41.098Z"
 };
