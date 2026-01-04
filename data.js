@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "618,00"
+      "usdt": "633,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Tres escenarios posibles para Venezuela tras la captura de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/03/tres-escenarios-posibles-para-venezuela-tras-la-captura-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/GB646BVJOVHRLNOX5BPYOZGNZE.png?auth=ee69d919e2510ee2a424dda275ac795034a48a7bf9af783b4f0078fa51d18519&smart=true&width=350&height=197&quality=85"
+      "title": "La empresa satelital de Elon Musk ofreció Internet gratis en Venezuela tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/04/la-empresa-satelital-de-elon-musk-ofrecio-internet-gratis-en-venezuela-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/B2PK4F357VFSVA2HWUOSOEDYFU.jpg?auth=30e89f3221bb1244c4b4b35bdadaba224bd4424f103d87056337b3957c05b64f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "3 momentos clave de una jornada histórica en Venezuela que dejó en shock al mundo tras la detención de Maduro y su esposa\nMUNDO",
-      "link": "https://www.elnacional.com/2026/01/3-momentos-clave-de-una-jornada-historica-en-venezuela-que-dejo-en-shock-al-mundo-tras-la-detencion-de-maduro-y-su-esposa/",
+      "title": "Maduro pasa su primera noche encarcelado en Nueva York, mientras Delcy Rodríguez asume su puesto en Caracas\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maduro-pasa-su-primera-noche-encarcelado-en-nueva-york-mientras-delcy-rodriguez-asume-su-puesto-en-caracas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -44,14 +44,14 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esta es la cárcel en Brooklyn donde trasladarían a Nicolás Maduro: “El infierno en la Tierra”",
-      "link": "https://www.noticiascaracol.com/mundo/esta-es-la-carcel-en-brooklyn-donde-trasladarian-a-nicolas-maduro-el-infierno-en-la-tierra-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f94e3ed/2147483647/strip/true/crop/1280x722+0+9/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1c%2F02%2F84a621544596a5375f1074c485ac%2Fmaduro.jpg"
+      "title": "Minuto a minuto a un día de crisis en Venezuela tras captura de Nicolás Maduro por EE. UU.",
+      "link": "https://www.noticiascaracol.com/mundo/minuto-a-minuto-a-un-dia-de-la-crisis-en-venezuela-tras-captura-de-nicolas-maduro-por-ee-uu-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0fcb0ae/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdf%2Ff5%2F7edfd1e4488c9c4c56a0f602435a%2Fmaduro-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Consejo de Seguridad de la ONU abordará el lunes ataque de EE. UU. contra Venezuela",
-      "link": "https://laverdad.com/consejo-de-seguridad-de-la-onu-abordara-el-lunes-ataque-de-ee-uu-contra-venezuela/",
+      "title": "El TSJ ordena que Delcy Rodríguez asuma como “presidenta encargada”",
+      "link": "https://laverdad.com/el-tsj-ordena-que-delcy-rodriguez-asuma-como-presidenta-encargada/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T11:17:46.639Z"
+  "lastUpdate": "2026-01-04T12:41:32.434Z"
 };
