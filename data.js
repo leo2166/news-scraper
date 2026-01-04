@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "648,00"
+      "usdt": "640,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Tensión en Venezuela EN VIVO: Las fuerzas militares de Estados Unidos permanecerán en el Caribe en alto estado de alerta",
-      "link": "https://www.infobae.com/venezuela/2026/01/04/detencion-de-nicolas-maduro-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/LC3ANWEKQNGOHBPFAL3XU2DECA.JPG?auth=aa49eb4360b7cc768a0797d4b6d21eda0f665b0bd3fd16497da947619364da77&smart=true&width=350&height=197&quality=85"
+      "title": "Tres escenarios posibles para Venezuela tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/03/tres-escenarios-posibles-para-venezuela-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/GB646BVJOVHRLNOX5BPYOZGNZE.png?auth=ee69d919e2510ee2a424dda275ac795034a48a7bf9af783b4f0078fa51d18519&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-04-at-12.03.52-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-04T06:33:01.461Z"
+  "lastUpdate": "2026-01-04T07:21:59.266Z"
 };
