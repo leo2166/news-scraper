@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Narcotráfico, terrorismo y corrupción: detalles de la acusación de la Justicia de EEUU contra Maduro y Cilia Flores",
-      "link": "https://www.infobae.com/venezuela/2026/01/05/narcotrafico-terrorismo-y-corrupcion-detalles-de-la-acusacion-de-la-justicia-de-eeuu-contra-maduro-y-cilia-flores/",
-      "image": "https://www.infobae.com/resizer/v2/WHX6SLD57BF7LG5MKDXFC5PWUM.jpg?auth=0ef1e3cc37304a92f679d094b34118636197b9b35927f3d3ed4f128a832ff176&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos confirmó que “muchos cubanos murieron” durante el operativo militar en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/05/estados-unidos-confirmo-que-muchos-cubanos-murieron-durante-el-operativo-militar-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/NH5M2N6OOBDSJKV624L2ISBK6M.jpg?auth=7cb83b24078a3c36eef5da177f8ce8b137d2b3cceec5cbaf4402820bb8f85e70&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Semana: Imágenes satelitales muestran daños en el lugar donde estaba Nicolás Maduro al ser capturado",
-      "link": "https://diarioversionfinal.com/politica-dinero/semana-imagenes-satelitales-muestran-danos-en-el-lugar-donde-estaba-nicolas-maduro-al-ser-capturado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/junki-750x430.jpg"
+      "title": "Cofirman muerte de 32 escoltas cubanos en incursión del Delta Force en Fuerte Tiuna",
+      "link": "https://diarioversionfinal.com/politica-dinero/cofirman-muerte-de-32-escoltas-cubanos-en-incursion-del-delta-force-en-fuerte-tiuna/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-1.02.32-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-05T03:58:19.205Z"
+  "lastUpdate": "2026-01-05T05:01:07.976Z"
 };
