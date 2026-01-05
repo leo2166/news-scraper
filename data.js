@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "646,00"
+      "usdt": "663,53"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Tensiones regionales en la ONU tras la operación militar estadounidense en Venezuela\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/tensiones-regionales-en-la-onu-tras-la-operacion-militar-estadounidense-en-venezuela/",
+      "title": "Decreto de Estado de Conmoción Exterior ordena detener a quienes apoyen ataque de EE UU en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/decreto-de-estado-de-conmocion-exterior-ordena-detener-a-quienes-apoyen-ataque-de-ee-uu-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Detienen a un hombre que intentó ingresar con un martillo a la casa del vicepresidente de EEUU JD Vance",
-      "link": "https://caraotadigital.net/eeuu/detienen-a-un-hombre-que-intento-ingresar-con-un-martillo-a-la-casa-del-vicepresidente-de-eeuu-jd-vance/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/JD-Vance.jpg"
+      "title": "Secretario de Guerra aseguró que control que ejerce Estados Unidos sobre Venezuela es «exactamente lo opuesto» a lo de Irak",
+      "link": "https://caraotadigital.net/eeuu/secretario-de-guerra-aseguro-que-control-que-ejerce-estados-unidos-sobre-venezuela-es-exactamente-lo-opuesto-a-lo-de-irak/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/06/Pete-Hegseth_pentagono.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CLAVES DEL DECRETO DE CONMOCIÓN EXTERIOR EN GACETA OFICIAL N 6.954",
-      "link": "https://noticierodigital.com/2026/01/claves-del-decreto-de-conmocion-exterior-en-gaceta-oficial-n-6-954/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/gente_venezolanos_caminando_caracas_2023.jpg-1-627x376.jpeg"
+      "title": "UNA FLOTILLA DE PETROLEROS ZARPÓ DE VENEZUELA PESE AL BLOQUEO DE EE.UU.: REUTERS",
+      "link": "https://noticierodigital.com/2026/01/una-flotilla-de-petroleros-zarpo-de-venezuela-pese-al-bloqueo-de-ee-uu-reuters/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/petrolero-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Temblor en Colombia en la tarde de este lunes 5 de enero de 2026: epicentro y magnitud",
-      "link": "https://www.noticiascaracol.com/colombia/temblor-en-colombia-lunes-5-de-enero-de-2026-epicentro-y-magnitud-del-sismo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3572425/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F88%2F69%2F123fe9ae4670b4fc13fc2005af75%2Fdiseno-1.jpg"
+      "title": "Colombiana habría fallecido durante ataque en Venezuela por parte de EE. UU.: habló su familia",
+      "link": "https://www.noticiascaracol.com/colombia/colombiana-en-venezuela-habria-fallecido-durante-ataque-por-parte-de-ee-uu-esto-dijo-su-familia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f30783d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F40%2Fea%2F736095204972a494c1e802a7642d%2Fdiseno-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Risas y gestos de Maduro bajo la lupa de psicólogos: “Cree protagonizar una gesta heroica”",
       "link": "https://diarioversionfinal.com/politica-dinero/risas-y-gestos-de-maduro-bajo-la-lupa-de-psicologos-cree-protagonizar-una-gesta-heroica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/El-Virolo-05-01-2026-725x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/09/periodistas-venezolanos--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-05T22:21:49.877Z"
+  "lastUpdate": "2026-01-05T23:20:55.550Z"
 };
