@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "649,69"
+      "usdt": "656,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Nicolás Maduro compareció ante la Justicia de Manhattan: se declaró “no culpable”",
-      "link": "https://www.infobae.com/venezuela/2026/01/05/nicolas-maduro-comparecio-ante-la-justicia-de-manhattan-se-declaro-no-culpable/",
-      "image": "https://www.infobae.com/resizer/v2/C4MMKK4COZH47GMEIUFXGEA4PI.JPG?auth=eff28548ab574c5b366ebe406d6bf9b5484623d49a0c2b274102b0b7e2f55694&smart=true&width=350&height=197&quality=85"
+      "title": "El hijo de Maduro expresó su “apoyo incondicional” a Delcy Rodríguez",
+      "link": "https://www.infobae.com/venezuela/2026/01/05/el-hijo-de-maduro-expreso-su-apoyo-incondicional-a-delcy-rodriguez/",
+      "image": "https://www.infobae.com/resizer/v2/Q2E2I2PLRZGADEYW3DBH6WA3QY.jpg?auth=bb99cdb9379ae8665d63f968c24f0edcc2e66ba764d8198c1cd832952faa964d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,38 +28,38 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Maduro y su esposa se declaran inocentes en Nueva York",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-maduro-capturado-venezuela-trump-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254194451-20260105172501369.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eeuu-paises-amenazados-es.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Venezolanos con TPS pueden solicitar estatus de refugiados? Esto aclaró el Departamento de Seguridad de EEUU",
-      "link": "https://caraotadigital.net/eeuu/venezolanos-con-tps-pueden-solicitar-estatus-de-refugiados-esto-aclaro-el-departamento-de-seguridad-de-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/venezolanos-2.jpg"
+      "title": "«No voy a aceptar show aquí»: La advertencia de Jorge Rodríguez a la oposición en plena Asamblea Nacional",
+      "link": "https://caraotadigital.net/venezuela/no-voy-a-aceptar-show-aqui-la-advertencia-de-jorge-rodriguez-a-la-oposicion-en-plena-asamblea-nacional/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rodriguez.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ABC: ABOGADO DE OFICIO DAVID WIKSTROM DEFENDERÁ A MADURO Y A SU ESPOSA ESTE 5D",
-      "link": "https://noticierodigital.com/2026/01/abc-abogado-de-oficio-david-wikstrom-defendera-a-maduro-y-a-su-esposa-este-5d/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260105-WA0056-627x376.jpg"
+      "title": "ONU PREOCUPADA POR LA «POSIBLE INTENSIFICACIÓN DE INESTABILIDAD INTERNA» EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/onu-preocupada-por-la-posible-intensificacion-de-inestabilidad-interna-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/antonio-guterres-1.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Cómo queda la cúpula chavista tras la captura y traslado de Nicolás Maduro a Estados Unidos?",
-      "link": "https://www.noticiascaracol.com/mundo/como-queda-la-cupula-chavista-tras-la-captura-y-traslado-de-nicolas-maduro-a-estados-unidos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9211920/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F69%2F94%2Fd6b4bd504e5e805b2c2f2ad4830b%2Fque-pasa-con-la-cupula-chavista-tras-la-captura-de-nicolas-maduro.jpg"
+      "title": "Lo que dijo Nicolás Maduro ante Tribunal de Nueva York: \"Soy presidente de Venezuela\"",
+      "link": "https://www.noticiascaracol.com/mundo/lo-que-dijo-nicolas-maduro-ante-tribunal-de-nueva-york-soy-presidente-de-venezuela-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c3d14c3/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fcc%2Fa0%2Ff9854363444ca7ec18acedb6d0f7%2Fnicolas-maduro-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Caracas se solidariza con los 32 cubanos “asesinados” por EE. UU. durante la captura de Maduro",
-      "link": "https://laverdad.com/caracas-se-solidariza-con-los-32-cubanos-asesinados-por-ee-uu-durante-la-captura-de-maduro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-2-3.jpg"
+      "title": "Delcy Rodríguez queda investida como “presidenta encargada”",
+      "link": "https://laverdad.com/delcy-rodriguez-queda-investida-como-presidenta-encargada/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Evangeline-Lily-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Proceso judicial contra Maduro y Cilia continuará el #17Mar",
-      "link": "https://diarioversionfinal.com/politica-dinero/proceso-judicial-contra-maduro-y-cilia-continuara-el-17mar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jorge-Rodriguez-17-12-2025-750x430.jpg"
+      "title": "Abogado: Maduro presenta problemas de salud y Flores tendría fracturas en las costillas",
+      "link": "https://diarioversionfinal.com/politica-dinero/abogado-maduro-presenta-problemas-de-salud-y-flores-tendria-fracturas-en-las-costillas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-7.41.12-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-05T18:34:31.423Z"
+  "lastUpdate": "2026-01-05T19:21:07.546Z"
 };
