@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY-RORIGUEZ.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "ALVIN HELLERSTEIN UN JUEZ DE 92 AÑOS LLEVARÁ EL JUICIO DE MADURO EN NUEVA YORK",
-      "link": "https://noticierodigital.com/2026/01/alvin-hellerstein-un-juez-de-92-anos-llevara-el-juicio-de-maduro-en-nueva-york/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-4-627x376.png"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Trump pide al régimen “acceso total” a Venezuela y advierte sobre segundo ataque si \"no se cumple\"",
       "link": "https://www.noticiascaracol.com/mundo/trump-pide-al-regimen-acceso-total-a-venezuela-y-advierte-sobre-segundo-ataque-si-no-se-cumple-rg10",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-1.02.32-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-05T08:34:51.713Z"
+  "lastUpdate": "2026-01-05T09:33:17.341Z"
 };
