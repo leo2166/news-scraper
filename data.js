@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "629,00"
+      "usdt": "628,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | Delcy Rodríguez invitó a Estados Unidos a “trabajar juntos en una agenda de cooperación” tras la captura del ex dictador Maduro",
+      "title": "EN VIVO | Estados Unidos confirmó que “muchos cubanos murieron” durante el operativo militar en Venezuela",
       "link": "https://www.infobae.com/venezuela/2026/01/05/detencion-de-nicolas-maduro-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/QT6GXFK4DZEGLO76OOJOLEENUA.JPG?auth=0b18e99595a2f05c1c560ef13a02c7e2f3a242a554c043ed8e66607e889daa3e&smart=true&width=350&height=197&quality=85"
+      "image": "https://www.infobae.com/resizer/v2/NH5M2N6OOBDSJKV624L2ISBK6M.jpg?auth=7cb83b24078a3c36eef5da177f8ce8b137d2b3cceec5cbaf4402820bb8f85e70&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-1.02.32-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-05T07:29:20.374Z"
+  "lastUpdate": "2026-01-05T08:34:51.713Z"
 };
