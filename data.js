@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "624,99"
+      "usdt": "610,78"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | Estados Unidos confirmó que “muchos cubanos murieron” durante el operativo militar en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/05/detencion-de-nicolas-maduro-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/NH5M2N6OOBDSJKV624L2ISBK6M.jpg?auth=7cb83b24078a3c36eef5da177f8ce8b137d2b3cceec5cbaf4402820bb8f85e70&smart=true&width=350&height=197&quality=85"
+      "title": "Fondo de inversión busca captar 2.000 millones de dólares para proyectos petroleros en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/05/fondo-de-inversion-busca-captar-2000-millones-de-dolares-para-proyectos-petroleros-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/KSYOLSEDHNCM3PDK4MBB265UWQ.JPG?auth=9f54e7b7abbd1664d979d41cf9bc73c10d95940dfdc32a8e3d0b7312a5c28cf4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Brasil, Chile, Colombia, España, México y Uruguay rechazan un \"control\" sobre Venezuela\nLATINOAMÉRICA",
-      "link": "https://www.elnacional.com/2026/01/brasil-chile-colombia-espana-mexico-y-uruguay-rechazan-un-control-sobre-venezuela/",
+      "title": "La Comisión Europea pide una transición que incluya a María Corina Machado y Edmundo González\nMUNDO",
+      "link": "https://www.elnacional.com/2026/01/la-comision-europea-pide-una-transicion-que-incluya-a-maria-corina-machado-y-edmundo-gonzalez/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump lanza una advertencia a otros países",
+      "title": "Maduro aparecerá ante una corte en Nueva York este lunes",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260105102322798.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/a31870a7463e5979-20260104222906489.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
       "title": "Delcy Rodríguez designa una comisión en Venezuela para gestionar la liberación de Maduro",
       "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-designa-una-comision-en-venezuela-para-gestionar-la-liberacion-de-maduro/",
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY-RORIGUEZ.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "ALVIN HELLERSTEIN UN JUEZ DE 92 AÑOS LLEVARÁ EL JUICIO DE MADURO EN NUEVA YORK",
+      "link": "https://noticierodigital.com/2026/01/alvin-hellerstein-un-juez-de-92-anos-llevara-el-juicio-de-maduro-en-nueva-york/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-4-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump pide a Delcy Rodríguez “acceso total” a Venezuela: “Estamos a cargo”",
-      "link": "https://laverdad.com/trump-pide-a-delcy-rodriguez-acceso-total-a-venezuela-estamos-a-cargo/",
+      "title": "Gobierno crea comisión para “liberar a Nicolás Maduro y a Cilia Flores”",
+      "link": "https://laverdad.com/gobierno-crea-comision-para-liberar-a-nicolas-maduro-y-a-cilia-flores/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cofirman muerte de 32 escoltas cubanos en incursión del Delta Force en Fuerte Tiuna",
-      "link": "https://diarioversionfinal.com/politica-dinero/cofirman-muerte-de-32-escoltas-cubanos-en-incursion-del-delta-force-en-fuerte-tiuna/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-1.02.32-AM-750x430.jpeg"
+      "title": "Maduro es trasladado a tribunal federal para enfrentar cargos en EE. UU.",
+      "link": "https://diarioversionfinal.com/politica-dinero/maduro-es-trasladado-a-tribunal-federal-para-enfrentar-cargos-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-91.jpg"
     }
   ],
-  "lastUpdate": "2026-01-05T11:20:09.808Z"
+  "lastUpdate": "2026-01-05T12:49:24.761Z"
 };
