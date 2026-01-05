@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "613,99"
+      "usdt": "621,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Maduro podría enfrentar la pena de muerte si es declarado culpable por narcotráfico en Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/01/05/maduro-podria-enfrentar-la-pena-de-muerte-si-es-declarado-culpable-por-narcotrafico-en-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/PUSCRORTZBDJHG5RW4FRT2DXAE.JPG?auth=f2577cafc77187fff6e63b7cf77217c5657a78f97cd4270b013d584c85fec008&smart=true&width=350&height=197&quality=85"
+      "title": "Expectativa por el destino de los 863 presos políticos que aún mantiene cautivos el régimen chavista",
+      "link": "https://www.infobae.com/venezuela/2026/01/05/expectativa-por-el-destino-de-los-863-presos-politicos-que-aun-mantiene-cautivos-el-regimen-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/S42V6KJI7RDOZE7T7A3WAB6DWI.JPG?auth=16f34d5dc834810722aaf8bcafdf1a62fc6bb362efbf505d2b74312207dc8410&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Suiza congeló con efecto inmediato los activos de Maduro y «personas asociadas a él» para evitar transferencias",
-      "link": "https://caraotadigital.net/mundo/suiza-congelo-con-efecto-inmediato-los-activos-de-maduro-y-personas-asociadas-a-el-para-evitar-transferencias/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-8.jpg"
+      "title": "Centro de Caracas amaneció tomado por fuerzas de seguridad previo a instalación de la nueva AN",
+      "link": "https://caraotadigital.net/venezuela/centro-de-caracas-amanecio-tomado-por-fuerzas-de-seguridad-previo-a-instalacion-de-la-nueva-an/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Caracas.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MURIÓ EVA SCHLOSS SUPERVIVIENTE DEL HOLOCAUSTO Y AMIGA DE ANA FRANK",
-      "link": "https://noticierodigital.com/2026/01/murio-eva-schloss-superviviente-del-holocausto-y-amiga-de-ana-frank/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260105-WA0008-627x376.jpg"
+      "title": "CANCILLER DE COLOMBIA RECHAZÓ AMENAZAS DE TRUMP CONTRA PETRO: «ES INACEPTABLE»",
+      "link": "https://noticierodigital.com/2026/01/canciller-de-colombia-rechazo-amenazas-de-trump-contra-petro-es-inaceptable/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/rosa-villavicencio-colombia-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "UNT: Urge acelerar la transición y declarar en emergencia la economía",
-      "link": "https://laverdad.com/unt-urge-acelerar-la-transicion-y-declarar-en-emergencia-la-economia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
+      "title": "Delcy Rodríguez figura en la lista de sancionados por la UE",
+      "link": "https://laverdad.com/delcy-rodriguez-figura-en-la-lista-de-sancionados-por-la-ue/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-7.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Maduro llega al tribunal de Manhattan donde será juzgado por narcoterrorismo",
       "link": "https://diarioversionfinal.com/politica-dinero/maduro-llega-al-tribunal-de-manhattan-donde-sera-juzgado-por-narcoterrorismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/capitan-juan-escalona-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/ENCTNF2BNBA3TB7WNHW5JD3T6M-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-05T13:41:18.035Z"
+  "lastUpdate": "2026-01-05T14:26:10.534Z"
 };
