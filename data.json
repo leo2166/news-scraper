@@ -5,7 +5,7 @@
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "644,50"
+      "usdt": "649,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Wall Street registra fuertes alzas impulsadas por las petroleras tras la captura de Maduro en Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/05/wall-street-registra-fuertes-alzas-impulsadas-por-las-petroleras-tras-la-captura-de-maduro-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/HFQND32FEZHMPMLGZFPOUGVRXI.JPG?auth=e7d1fa43a09089efc2c7306c7e9e3df8ff1a7003394af3c219cd9846de9ed861&smart=true&width=350&height=197&quality=85"
+      "title": "Nicolás Maduro compareció ante la Justicia de Manhattan: se declaró “no culpable”",
+      "link": "https://www.infobae.com/venezuela/2026/01/05/nicolas-maduro-comparecio-ante-la-justicia-de-manhattan-se-declaro-no-culpable/",
+      "image": "https://www.infobae.com/resizer/v2/C4MMKK4COZH47GMEIUFXGEA4PI.JPG?auth=eff28548ab574c5b366ebe406d6bf9b5484623d49a0c2b274102b0b7e2f55694&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Nicolás Maduro contrató al abogado de Julian Assange para su defensa en Nueva York\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/nicolas-maduro-contrato-al-abogado-de-julian-assange-para-su-defensa-en-nueva-york/",
+      "title": "\"Sigo siendo presidente\": Maduro y Flores se declaran no culpables ante la justicia de EE UU\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/sigo-siendo-presidente-maduro-y-flores-se-declaran-no-culpables-ante-la-justicia-de-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Maduro se declara inocente en tribunal de Nueva York",
+      "title": "Maduro y su esposa se declaran inocentes en Nueva York",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-maduro-capturado-venezuela-trump-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eeuu-paises-amenazados-es.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254194451-20260105172501369.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Instalaron la nueva AN en el país: Jorge Rodríguez seguirá de presidente y así quedaron las vicepresidencias",
-      "link": "https://caraotadigital.net/varios/instalaron-la-nueva-an-en-el-pais-jorge-rodriguez-seguira-de-presidente-y-asi-quedaron-las-vicepresidencias/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Asamblea-1.jpg"
+      "title": "¿Venezolanos con TPS pueden solicitar estatus de refugiados? Esto aclaró el Departamento de Seguridad de EEUU",
+      "link": "https://caraotadigital.net/eeuu/venezolanos-con-tps-pueden-solicitar-estatus-de-refugiados-esto-aclaro-el-departamento-de-seguridad-de-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/venezolanos-2.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Guterres pide respeto del derecho internacional tras la acción militar en Venezuela",
-      "link": "https://laverdad.com/guterres-pide-respeto-del-derecho-internacional-tras-la-accion-militar-en-venezuela/",
+      "title": "Caracas se solidariza con los 32 cubanos “asesinados” por EE. UU. durante la captura de Maduro",
+      "link": "https://laverdad.com/caracas-se-solidariza-con-los-32-cubanos-asesinados-por-ee-uu-durante-la-captura-de-maduro/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/image-2-3.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maduro contrata a Barry Pollack, abogado de Julian Assange, para su defensa en Nueva York",
-      "link": "https://diarioversionfinal.com/mundo/maduro-contrata-a-barry-pollack-abogado-de-julian-assange-para-su-defensa-en-nueva-york/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/OERVZR5GN5CDZCVVTOGWJM7A7M-750x430.jpg"
+      "title": "Proceso judicial contra Maduro y Cilia continuará el #17Mar",
+      "link": "https://diarioversionfinal.com/politica-dinero/proceso-judicial-contra-maduro-y-cilia-continuara-el-17mar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jorge-Rodriguez-17-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-05T17:23:41.182Z"
+  "lastUpdate": "2026-01-05T18:34:31.423Z"
 }
