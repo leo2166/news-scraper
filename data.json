@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "304,68",
-      "eur": "357,89"
+      "usd": "308,15",
+      "eur": "360,50"
     },
     "binance": {
-      "usdt": "671,00"
+      "usdt": "646,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela activó un régimen de excepción y ordenó detenciones por respaldo a la ofensiva estadounidense",
-      "link": "https://www.infobae.com/venezuela/2026/01/05/venezuela-activo-un-regimen-de-excepcion-y-ordeno-detenciones-por-respaldo-a-la-ofensiva-estadounidense/",
-      "image": "https://www.infobae.com/resizer/v2/66GVVXDILBAAXI3YZDWJKISXWA.jpg?auth=00f86a117047c0245b712edee3c0d8bb50638f153c0c7e9df243a6ddddc269cf&smart=true&width=350&height=197&quality=85"
+      "title": "Grilletes, abucheos y un saludo de “happy new year”: los detalles de la comparecencia de Nicolás Maduro y Cilia Flores en Nueva York",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/05/grilletes-abucheos-y-un-saludo-de-happy-new-year-los-detalles-de-la-comparecencia-de-nicolas-maduro-y-cilia-flores-en-nueva-york/",
+      "image": "https://www.infobae.com/resizer/v2/VPEV7TVGYFCLNGUVVLDKCUBQAU.png?auth=c3bb1a595e50e373be606568c2b771e717b36963bf3a259f19dbcc2c77b25b36&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Maduro y su esposa se declaran inocentes en Nueva York",
+      "title": "Maduro se declara inocente en Nueva York y Trump amenaza a otros países",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-maduro-capturado-venezuela-trump-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-design-1-20260105203146854.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Fiscal argentino pide activar extradición de Maduro",
-      "link": "https://caraotadigital.net/mundo/fiscal-argentino-pide-activar-extradicion-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-Argentina-CD-1.jpg"
+      "title": "Detienen a un hombre que intentó ingresar con un martillo a la casa del vicepresidente de EEUU JD Vance",
+      "link": "https://caraotadigital.net/eeuu/detienen-a-un-hombre-que-intento-ingresar-con-un-martillo-a-la-casa-del-vicepresidente-de-eeuu-jd-vance/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/JD-Vance.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UCV EVALÚA REINICIO DE CLASES TRAS «DRAMÁTICOS ACONTECIMIENTOS» EN EL PAÍS",
-      "link": "https://noticierodigital.com/2026/01/ucv-evalua-reinicio-de-clases-tras-dramaticos-acontecimientos-en-el-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/07/victorrago-relacionconelgobierno.jpg"
+      "title": "CLAVES DEL DECRETO DE CONMOCIÓN EXTERIOR EN GACETA OFICIAL N 6.954",
+      "link": "https://noticierodigital.com/2026/01/claves-del-decreto-de-conmocion-exterior-en-gaceta-oficial-n-6-954/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/gente_venezolanos_caminando_caracas_2023.jpg-1-627x376.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@
       "source": "Diario Versión Final",
       "title": "Risas y gestos de Maduro bajo la lupa de psicólogos: “Cree protagonizar una gesta heroica”",
       "link": "https://diarioversionfinal.com/politica-dinero/risas-y-gestos-de-maduro-bajo-la-lupa-de-psicologos-cree-protagonizar-una-gesta-heroica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/VTGQ7EJA5ZHABEXIF74DWOYDII-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/El-Virolo-05-01-2026-725x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-05T21:21:39.117Z"
+  "lastUpdate": "2026-01-05T22:21:49.877Z"
 }
