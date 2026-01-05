@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "357,89"
     },
     "binance": {
-      "usdt": "610,78"
+      "usdt": "613,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Fondo de inversión busca captar 2.000 millones de dólares para proyectos petroleros en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/05/fondo-de-inversion-busca-captar-2000-millones-de-dolares-para-proyectos-petroleros-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/KSYOLSEDHNCM3PDK4MBB265UWQ.JPG?auth=9f54e7b7abbd1664d979d41cf9bc73c10d95940dfdc32a8e3d0b7312a5c28cf4&smart=true&width=350&height=197&quality=85"
+      "title": "Maduro podría enfrentar la pena de muerte si es declarado culpable por narcotráfico en Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/01/05/maduro-podria-enfrentar-la-pena-de-muerte-si-es-declarado-culpable-por-narcotrafico-en-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/PUSCRORTZBDJHG5RW4FRT2DXAE.JPG?auth=f2577cafc77187fff6e63b7cf77217c5657a78f97cd4270b013d584c85fec008&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "La Comisión Europea pide una transición que incluya a María Corina Machado y Edmundo González\nMUNDO",
-      "link": "https://www.elnacional.com/2026/01/la-comision-europea-pide-una-transicion-que-incluya-a-maria-corina-machado-y-edmundo-gonzalez/",
+      "title": "Nicolás Maduro llegó al tribunal de Manhattan para enfrentar cargos por narcoterrorismo\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/nicolas-maduro-llego-al-tribunal-de-manhattan-para-enfrentar-cargos-por-narcoterrorismo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Maduro aparecerá ante una corte en Nueva York este lunes",
-      "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/a31870a7463e5979-20260104222906489.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Maduro y su esposa llegan a una corte en Nueva York",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-maduro-capturado-venezuela-trump-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/horizontalthumb.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Delcy Rodríguez designa una comisión en Venezuela para gestionar la liberación de Maduro",
-      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-designa-una-comision-en-venezuela-para-gestionar-la-liberacion-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY-RORIGUEZ.jpg"
+      "title": "Suiza congeló con efecto inmediato los activos de Maduro y «personas asociadas a él» para evitar transferencias",
+      "link": "https://caraotadigital.net/mundo/suiza-congelo-con-efecto-inmediato-los-activos-de-maduro-y-personas-asociadas-a-el-para-evitar-transferencias/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-8.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ALVIN HELLERSTEIN UN JUEZ DE 92 AÑOS LLEVARÁ EL JUICIO DE MADURO EN NUEVA YORK",
-      "link": "https://noticierodigital.com/2026/01/alvin-hellerstein-un-juez-de-92-anos-llevara-el-juicio-de-maduro-en-nueva-york/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-4-627x376.png"
+      "title": "MURIÓ EVA SCHLOSS SUPERVIVIENTE DEL HOLOCAUSTO Y AMIGA DE ANA FRANK",
+      "link": "https://noticierodigital.com/2026/01/murio-eva-schloss-superviviente-del-holocausto-y-amiga-de-ana-frank/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260105-WA0008-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno crea comisión para “liberar a Nicolás Maduro y a Cilia Flores”",
-      "link": "https://laverdad.com/gobierno-crea-comision-para-liberar-a-nicolas-maduro-y-a-cilia-flores/",
+      "title": "UNT: Urge acelerar la transición y declarar en emergencia la economía",
+      "link": "https://laverdad.com/unt-urge-acelerar-la-transicion-y-declarar-en-emergencia-la-economia/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maduro es trasladado a tribunal federal para enfrentar cargos en EE. UU.",
-      "link": "https://diarioversionfinal.com/politica-dinero/maduro-es-trasladado-a-tribunal-federal-para-enfrentar-cargos-en-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-91.jpg"
+      "title": "Maduro llega al tribunal de Manhattan donde será juzgado por narcoterrorismo",
+      "link": "https://diarioversionfinal.com/politica-dinero/maduro-llega-al-tribunal-de-manhattan-donde-sera-juzgado-por-narcoterrorismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/capitan-juan-escalona-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-05T12:49:24.761Z"
+  "lastUpdate": "2026-01-05T13:41:18.035Z"
 };
