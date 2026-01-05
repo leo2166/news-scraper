@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodríguez asume como presidenta encargada de Venezuela",
+      "title": "Trump lanza una advertencia a otros países",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/captura-maduro-ataques-trump-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2228893769.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260105102322798.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -37,15 +37,21 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY-RORIGUEZ.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ALVIN HELLERSTEIN UN JUEZ DE 92 AÑOS LLEVARÁ EL JUICIO DE MADURO EN NUEVA YORK",
+      "link": "https://noticierodigital.com/2026/01/alvin-hellerstein-un-juez-de-92-anos-llevara-el-juicio-de-maduro-en-nueva-york/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-4-627x376.png"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Trump pide al régimen “acceso total” a Venezuela y advierte sobre segundo ataque si \"no se cumple\"",
-      "link": "https://www.noticiascaracol.com/mundo/trump-pide-al-regimen-acceso-total-a-venezuela-y-advierte-sobre-segundo-ataque-si-no-se-cumple-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b0d3dba/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1a%2Fa8%2F06ba5c684a98ba25e4d9b313fc11%2Fplantilla-fotos-77.jpg"
+      "title": "¿Qué viene para Venezuela tras la captura de Nicolás Maduro en un operativo del Gobierno Trump?",
+      "link": "https://www.noticiascaracol.com/mundo/que-viene-para-venezuela-tras-la-captura-de-nicolas-maduro-en-un-operativo-del-gobierno-trump-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/54273ba/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F79%2F82%2Fbeabb9504de59ab7dd65c401ef4b%2Fsituacion-venezuela-paquete-completo.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "La UE pide transición pacífica y respeto a la soberanía del país",
-      "link": "https://laverdad.com/la-ue-pide-transicion-pacifica-y-respeto-a-la-soberania-del-pais/",
+      "title": "Delcy Rodríguez invita a EE. UU. a “trabajar en una agenda de cooperación”",
+      "link": "https://laverdad.com/delcy-rodriguez-invita-a-ee-uu-a-trabajar-en-una-agenda-de-cooperacion/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/JACKSON-CHOURIO-J1-002-RR-TEMP-25-26-1-scaled.jpg"
     },
     {
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-1.02.32-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-05T09:33:17.341Z"
+  "lastUpdate": "2026-01-05T10:26:37.359Z"
 };
