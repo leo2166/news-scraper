@@ -5,7 +5,7 @@
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "672,00"
+      "usdt": "676,12"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado agradeció a Donald Trump por la captura de Nicolás Maduro y aseguró que planea regresar a Venezuela “lo antes posible”",
-      "link": "https://www.infobae.com/venezuela/2026/01/06/maria-corina-machado-agradecio-a-donald-trump-por-la-captura-de-nicolas-maduro-y-aseguro-que-planea-regresar-a-venezuela-lo-antes-posible/",
-      "image": "https://www.infobae.com/resizer/v2/CYRI4EE22FBSDPVWOJV5JJHJ7E.JPG?auth=3ce96ffa31ea66f8ee12be9dc22f86f3f76c0ea99cfc1a4323c7886b0643ffe1&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | Mike Johnson defendió el operativo en Venezuela y afirmó: “No tenemos fuerzas armadas en Caracas ni estamos ocupando ese país”",
+      "link": "https://www.infobae.com/venezuela/2026/01/06/detencion-de-nicolas-maduro-en-vivo-clone/",
+      "image": "https://www.infobae.com/resizer/v2/PGSC5LYED5BU5AIFSFB2422XTI.JPG?auth=6e74338b5fd909cb4833f7ef4335f423694d161925b79ba0e882a36c0dc9de5b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Maduro se declara inocente en Nueva York y Trump amenaza a otros países",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-maduro-capturado-venezuela-trump-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-design-1-20260105203146854.png?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2254687746-20260106055543457.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-06T06:36:04.222Z"
+  "lastUpdate": "2026-01-06T07:26:32.855Z"
 }
