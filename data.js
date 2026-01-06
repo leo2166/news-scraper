@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Reportan disparos y detonaciones en las cercanías del Palacio de Miraflores, en Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/01/06/reportan-tiroteos-y-enfrentamientos-en-las-cercanias-del-palacio-de-miraflores-en-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/452KGLE76RAV7HJ22PBES5QWAM.jpg?auth=c9bd46e68f0d4e5c3dcd7bfe30bec3ebafa0076b626c5cc085d060e008e54996&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado agradeció a Donald Trump por la captura de Nicolás Maduro y aseguró que planea regresar a Venezuela “lo antes posible”",
+      "link": "https://www.infobae.com/venezuela/2026/01/06/maria-corina-machado-agradecio-a-donald-trump-por-la-captura-de-nicolas-maduro-y-aseguro-que-planea-regresar-a-venezuela-lo-antes-posible/",
+      "image": "https://www.infobae.com/resizer/v2/CYRI4EE22FBSDPVWOJV5JJHJ7E.JPG?auth=3ce96ffa31ea66f8ee12be9dc22f86f3f76c0ea99cfc1a4323c7886b0643ffe1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-06T03:39:35.975Z"
+  "lastUpdate": "2026-01-06T04:40:30.754Z"
 };
