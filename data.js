@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "706,90"
+      "usdt": "706,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Departamento de Justicia de EE UU replantea el caso contra Maduro y modifica la tesis del Cartel de los Soles\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/departamento-de-justicia-replantea-tesis-del-cartel-de-los-soles/",
+      "title": "Cómo la muerte de 32 cubanos en los ataques de EE.UU. en Venezuela confirmó los estrechos vínculos entre los cuerpos de seguridad de ambos países\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/como-la-muerte-de-32-cubanos-en-los-ataques-de-ee-uu-en-venezuela-confirmo-los-estrechos-vinculos-entre-los-cuerpos-de-seguridad-de-ambos-paises/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Patrullaje de las fuerzas de seguridad causa inquietud en Caracas",
+      "title": "Fiscalía de Venezuela anuncia investigación por \"decenas de bajas\"",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t220621z-1632440742-rc21via7dfd0-rtrmadp-3-usa-venezuela-20260106163503948.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/casa-danada-venezuela-usa.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Marco Rubió habló con el cardenal Pietro Parolin sobre la situación humanitaria en Venezuela",
-      "link": "https://caraotadigital.net/eeuu/marco-rubio-hablo-con-el-cardenal-pietro-parolin-sobre-la-situacion-humanitaria-en-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/rubioparolin22331.jpg"
+      "title": "Ataques de EEUU destruyeron almacén con insumos para el programa de diálisis y nefrología, afectaría a 9.000 personas",
+      "link": "https://caraotadigital.net/venezuela/ataques-de-eeuu-destruyeron-almacen-con-insumos-para-el-programa-de-dialisis-y-nefrologia-afectaria-a-9-000-personas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dialisis.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Restos del soldado zuliano caído en Fuerte Tiuna durante ataque de EE. UU. llegan a Bachaquero",
-      "link": "https://laverdad.com/restos-del-soldado-zuliano-caido-en-fuerte-tiuna-durante-ataque-de-ee-uu-llegan-a-bachaquero/",
+      "title": "MP anuncia investigación sobre \"decenas\" de muertes en el ataque de EE. UU.",
+      "link": "https://laverdad.com/mp-anuncia-investigacion-sobre-decenas-de-muertes-en-el-ataque-de-ee-uu/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/7f86b6093bc21bcfaf968c2cdb550f9f1e6c896a-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Trump asegura que Maduro tenía un centro de tortura en Caracas: “Ya están cerrando”",
       "link": "https://diarioversionfinal.com/politica-dinero/trump-asegura-que-maduro-tenia-un-centro-de-tortura-en-caracas-ya-estan-cerrando/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Tarek-William-Saab-30-06-2025-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Maduro-recompensa-2-06-01-2026-600x430.png"
     }
   ],
-  "lastUpdate": "2026-01-06T18:33:07.517Z"
+  "lastUpdate": "2026-01-06T19:17:30.112Z"
 };
