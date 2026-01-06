@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-06T05:26:17.112Z"
+  "lastUpdate": "2026-01-06T06:36:04.222Z"
 };
