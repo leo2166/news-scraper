@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "647,00"
+      "usdt": "642,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado: “El 3 de enero pasará a la historia como el día en que la justicia derrotó a la tiranía”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-el-3-de-enero-pasara-a-la-historia-como-el-dia-en-que-la-justicia-derroto-a-la-tirania/",
+      "title": "El legado de devastación que dejó Maduro tras más de una década en el poder en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/el-legado-de-devastacion-que-dejo-maduro-tras-mas-de-una-decada-en-el-poder-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-06T09:27:09.800Z"
+  "lastUpdate": "2026-01-06T10:24:36.929Z"
 };
