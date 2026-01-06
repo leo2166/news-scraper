@@ -5,7 +5,7 @@
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "672,87"
+      "usdt": "680,34"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,14 +27,20 @@
     {
       "source": "CNN en Español",
       "title": "EE.UU. descarta pedidos para instaurar a María Corina Machado como presidenta",
-      "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-maduro-capturado-venezuela-trump-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/machado-oslo-diciembre-2025.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254217493-20260106122946779.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EEUU considera eliminar sanciones al gobierno de Venezuela y permitirle acceso a sus activos financieros",
-      "link": "https://caraotadigital.net/eeuu/eeuu-considera-eliminar-sanciones-al-gobierno-de-venezuela-y-permitirle-acceso-a-sus-activos-financieros/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/Trump.jpg"
+      "title": "¿EEUU recibió ayuda del círculo íntimo de Maduro para capturarlo? Esto respondió Trump",
+      "link": "https://caraotadigital.net/eeuu/eeuu-recibio-ayuda-del-circulo-intimo-de-maduro-para-capturarlo-esto-respondio-trump/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-3.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "STEPHEN MILLER ASEGURÓ QUE VENEZUELA ACEPTÓ LOS «TÉRMINOS» DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/stephen-miller-aseguro-que-venezuela-acepto-los-terminos-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/stephen-miller-casa-blanca-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez visita el Cementerio General del Sur y el 4F para jurar “lealtad a la Patria”",
-      "link": "https://laverdad.com/delcy-rodriguez-visita-el-cementerio-general-del-sur-y-el-4f-para-jurar-lealtad-a-la-patria/",
+      "title": "Machado promete volver pronto a Venezuela y arremete contra Delcy Rodríguez",
+      "link": "https://laverdad.com/machado-promete-volver-pronto-a-venezuela-y-arremete-contra-delcy-rodriguez/",
       "image": "https://laverdad.com/wp-content/uploads/2025/12/5015131894936439782.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ministro Ñañez descarta \"confusión\" de la Fanb en Miraflores: \"Atacaron drones espías\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/ministro-nanez-descarta-confusion-de-la-fanb-en-miraflores-atacaron-drones-espias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-06-at-9.00.18-AM-750x430.jpeg"
+      "title": "Venezuela necesita inversiones por $100 mil millones para reconstruirse: Puede tardar hasta 20 años",
+      "link": "https://diarioversionfinal.com/politica-dinero/venezuela-necesita-inversiones-por-100-mil-millones-para-reconstruirse-puede-tardar-hasta-20-anos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Departamento-de-Justicia-Cartel-de-los-Soles-800x500.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-06T12:46:16.917Z"
+  "lastUpdate": "2026-01-06T13:38:24.292Z"
 }
