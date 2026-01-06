@@ -5,7 +5,7 @@
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "706,00"
+      "usdt": "702,51"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Las razones de Donald Trump para impulsar una transición en Venezuela con figuras del régimen chavista",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/06/las-razones-de-donald-trump-para-impulsar-una-transicion-en-venezuela-con-figuras-del-regimen-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/PIMZZR4SSJGZNG35XXSL4YI6MM.JPG?auth=b57534976dd1d400c36c74e71195e8b9ee8c5eef2d5bef48f9917f5c369bee51&smart=true&width=350&height=197&quality=85"
+      "title": "Chevron refuerza su presencia en Venezuela: 11 buques navegan rumbo al país tras la caída de Nicolás Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/06/chevron-refuerza-su-presencia-en-venezuela-11-buques-navegan-rumbo-al-pais-tras-la-caida-de-nicolas-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/BEQI5HR5XFCLVEELBLWLMAMSYM.JPG?auth=1195975e0a37abd2b9e3da28c0f32ce81b582002c2081977c03ec9ed69cf0c7e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,34 +32,34 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Ataques de EEUU destruyeron almacén con insumos para el programa de diálisis y nefrología, afectaría a 9.000 personas",
-      "link": "https://caraotadigital.net/venezuela/ataques-de-eeuu-destruyeron-almacen-con-insumos-para-el-programa-de-dialisis-y-nefrologia-afectaria-a-9-000-personas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dialisis.jpg"
+      "title": "Secretario de Guerra de EEUU reveló nuevos detalles de la operación que llevó a la captura de Maduro",
+      "link": "https://caraotadigital.net/eeuu/secretario-de-guerra-de-eeuu-revelo-nuevos-detalles-de-la-operacion-que-llevo-a-la-captura-de-maduro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Pete-Hegseth.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "COLOMBIA EVITA «RECONOCIMIENTO INMEDIATO» A DELCY RODRÍGUEZ TRAS LA DETENCIÓN DE MADURO",
-      "link": "https://noticierodigital.com/2026/01/colombia-evita-reconocimiento-inmediato-a-delcy-rodriguez-tras-la-detencion-de-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/rosa-villavicencio-colombia-1-627x376.jpg"
+      "title": "BLOOMBERG: CHEVRON MOVILIZA FLOTA DE 11 BUQUES HACIA VENEZUELA PARA REANUDAR CARGA DE CRUDO",
+      "link": "https://noticierodigital.com/2026/01/bloomberg-chevron-moviliza-flota-de-11-buques-hacia-venezuela-para-reanudar-carga-de-crudo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/petrolero-chevron-venezuela-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "IPC Colombia 2025: ¿Cómo ha variado indicador y de qué forma incidirá sobre arriendos y más tarifas?",
-      "link": "https://www.noticiascaracol.com/economia/ipc-colombia-2025-como-ha-variado-indicador-y-de-que-forma-incidira-sobre-arriendos-y-mas-tarifas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e04d3db/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd2%2Ff7%2F646b49fd4f60b17858c5c1c93576%2Ftamano-imagenes-20.png"
+      "title": "Dueño de carro involucrado en accidente fatal de la avenida Mutis, en Bogotá, es imputado",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/dueno-de-carro-involucrado-en-accidente-fatal-de-la-avenida-mutis-en-bogota-es-imputado-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f0f010b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd0%2F19%2F1fa1420448eb8f955393e8469a89%2Fedwin-delgado.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "MP anuncia investigación sobre \"decenas\" de muertes en el ataque de EE. UU.",
-      "link": "https://laverdad.com/mp-anuncia-investigacion-sobre-decenas-de-muertes-en-el-ataque-de-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/7f86b6093bc21bcfaf968c2cdb550f9f1e6c896a-1-scaled.jpg"
+      "title": "Colombia esperará que Venezuela decida su futuro antes de reconocer a Delcy Rodríguez",
+      "link": "https://laverdad.com/colombia-esperara-que-venezuela-decida-su-futuro-antes-de-reconocer-a-delcy-rodriguez/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Elvis-Crespo-Nota.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que Maduro tenía un centro de tortura en Caracas: “Ya están cerrando”",
-      "link": "https://diarioversionfinal.com/politica-dinero/trump-asegura-que-maduro-tenia-un-centro-de-tortura-en-caracas-ya-estan-cerrando/",
+      "title": "Reuters: Venezuela exporta crudo solo a Chevron y mantiene bloqueadas las ventas a China",
+      "link": "https://diarioversionfinal.com/politica-dinero/reuters-venezuela-exporta-crudo-solo-a-chevron-y-mantiene-bloqueadas-las-ventas-a-china/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Maduro-recompensa-2-06-01-2026-600x430.png"
     }
   ],
-  "lastUpdate": "2026-01-06T19:17:30.112Z"
+  "lastUpdate": "2026-01-06T20:25:17.605Z"
 }
