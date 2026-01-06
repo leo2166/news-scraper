@@ -5,7 +5,7 @@
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "731,25"
+      "usdt": "738,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Conmoción Exterior en Venezuela: qué dice el decreto que habilita al régimen chavista a buscar y capturar ciudadanos",
-      "link": "https://www.infobae.com/venezuela/2026/01/06/conmocion-exterior-en-venezuela-que-dice-el-decreto-que-habilita-al-regimen-chavista-a-buscar-y-capturar-ciudadanos/",
-      "image": "https://www.infobae.com/resizer/v2/XXJLEV6KVNAINC7MM2GH7SR4HU.PNG?auth=27af22c4d90c6953488d9888e349cb55af893b5de7bfa5f89e12cb5437a98b6e&smart=true&width=350&height=197&quality=85"
+      "title": "La policía venezolana detuvo a dos hombres por celebrar la detención de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/06/la-policia-venezolana-detuvo-a-dos-hombres-por-celebrar-el-secuestro-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/6IU6KW2JONBQLFIIPYFTBGVAU4.jpg?auth=ccf31b4f2790e7eb023ab96f59eb06ebfe33e82f13d554a9f5de469e650cf18a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump celebra la misión para capturar a Maduro en discurso a republicanos",
+      "title": "Patrullaje de las fuerzas de seguridad causa inquietud en Caracas",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254307302.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t220621z-1632440742-rc21via7dfd0-rtrmadp-3-usa-venezuela-20260106163503948.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EPA sumó más de mil voluntarios con diferentes jornadas",
-      "link": "https://caraotadigital.net/caraota-tips/epa-sumo-mas-de-mil-voluntarios-con-diferentes-jornadas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EPA6N6A0431.jpg"
+      "title": "Instituto Nobel noruego dice que no se puede transferir el premio tras palabras de María Corina",
+      "link": "https://caraotadigital.net/mundo/instituto-nobel-noruego-dice-que-no-se-puede-transferir-el-premio-tras-palabras-de-maria-corina/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagenobel293923.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Gustavo Enrique González López es el nuevo comandante de la Guardia de Honor Presidencial",
-      "link": "https://laverdad.com/gustavo-enrique-gonzalez-lopez-es-el-nuevo-comandante-de-la-guardia-de-honor-presidencial/",
+      "title": "Sheinbaum pide un \"juicio justo\" para Nicolás Maduro en EE. UU.",
+      "link": "https://laverdad.com/sheinbaum-pide-un-juicio-justo-para-nicolas-maduro-en-ee-uu/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/7f86b6093bc21bcfaf968c2cdb550f9f1e6c896a-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscal General de EE.UU. advierte a \"Nicolasito\" y a Diosdado Cabello: pesan cargos activos",
-      "link": "https://diarioversionfinal.com/mundo/fiscal-general-de-ee-uu-advierte-a-nicolasito-y-diosdado-cabello-sus-cargos-estan-activos/",
+      "title": "Trump asegura que Maduro tenía un centro de tortura en Caracas: “Ya están cerrando”",
+      "link": "https://diarioversionfinal.com/politica-dinero/trump-asegura-que-maduro-tenia-un-centro-de-tortura-en-caracas-ya-estan-cerrando/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/1200x675_cmsv2_e70a5353-c9b4-56fd-8bb7-b0de3eaa267f-9594498-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-06T16:30:21.782Z"
+  "lastUpdate": "2026-01-06T17:23:56.477Z"
 }
