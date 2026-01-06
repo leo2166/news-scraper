@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "670,00"
+      "usdt": "672,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | El sindicato de Trabajadores de la Prensa de Venezuela informó que 14 periodistas detenidos por el régimen chavista fueron liberados",
-      "link": "https://www.infobae.com/venezuela/2026/01/06/detencion-de-nicolas-maduro-en-vivo-clone/",
-      "image": "https://www.infobae.com/resizer/v2/U6VTCV3LABEOZGG4D6XFNTFV74.jpg?auth=2cc4b397b902ec22981a7a9ec6d1f9f3dfbcc64b304a816d063608da7cb70155&smart=true&width=350&height=197&quality=85"
+      "title": "La Unión Europa aseguró que mantendrá los contactos con la jefa del régimen de Venezuela, Delcy Rodríguez",
+      "link": "https://www.infobae.com/venezuela/2026/01/06/la-union-europa-aseguro-que-mantendra-los-contactos-con-la-jefa-del-regimen-de-venezuela-delcy-rodriguez/",
+      "image": "https://www.infobae.com/resizer/v2/MSTLOFCGINEZHIKP7PVTTQBTFU.jpg?auth=f1b3e9e8a851997899b1cd3941056cddba0c5226a6e7d5a1903158de157eacf9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El legado de devastación que dejó Maduro tras más de una década en el poder en Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/el-legado-de-devastacion-que-dejo-maduro-tras-mas-de-una-decada-en-el-poder-en-venezuela/",
+      "title": "Precios del petróleo suben levemente tras captura de Maduro\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/precios-del-petroleo-suben-levemente-tras-captura-de-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo Trump está cambiando fundamentalmente el rol global de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/01/06/eeuu/analisis-trump-declara-nueva-mision-para-ee-uu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2254687746-20260106055543457.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. descarta pedidos para instaurar a María Corina Machado como presidenta",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-maduro-capturado-venezuela-trump-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/machado-oslo-diciembre-2025.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2025/12/Trump.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "STEPHEN MILLER ASEGURÓ QUE VENEZUELA ACEPTÓ LOS «TÉRMINOS» DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/stephen-miller-aseguro-que-venezuela-acepto-los-terminos-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/stephen-miller-casa-blanca-eeuu-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "ONU afirma que operación de EE. UU. en Venezuela \"socavó un principio del derecho internacional\"",
-      "link": "https://www.noticiascaracol.com/mundo/onu-afirma-que-operacion-de-ee-uu-en-venezuela-socavo-un-principio-del-derecho-internacional-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c386680/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F71%2F36%2Fabddc6e94bf092ca2f9a232283f1%2Fexplosiones-2.jpg"
+      "title": "Detalles desconocidos de audiencia de Nicolás Maduro: las 5 frases clave que dijo",
+      "link": "https://www.noticiascaracol.com/mundo/detalles-desconocidos-de-audiencia-de-nicolas-maduro-las-5-frases-clave-que-dijo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f114b58/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdd%2F94%2Fd82fa33c4e82b923a4b570432dd3%2Fnicolas-maduro-3.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Aseguran que tiroteo cerca de Miraflores se debió a drones que sobrevolaron sin permiso",
-      "link": "https://laverdad.com/aseguran-que-tiroteo-cerca-de-miraflores-se-debio-a-drones-que-sobrevolaron-sin-permiso/",
+      "title": "Delcy Rodríguez visita el Cementerio General del Sur y el 4F para jurar “lealtad a la Patria”",
+      "link": "https://laverdad.com/delcy-rodriguez-visita-el-cementerio-general-del-sur-y-el-4f-para-jurar-lealtad-a-la-patria/",
       "image": "https://laverdad.com/wp-content/uploads/2025/12/5015131894936439782.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Una situación irregular se registra en los alrededores de Miraflores este #5Ene",
-      "link": "https://diarioversionfinal.com/politica-dinero/una-situacion-irregular-se-registra-en-los-alrededores-de-miraflores-este-5ene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
+      "title": "Ministro Ñañez descarta \"confusión\" de la Fanb en Miraflores: \"Atacaron drones espías\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/ministro-nanez-descarta-confusion-de-la-fanb-en-miraflores-atacaron-drones-espias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-06-at-9.00.18-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-06T11:20:04.990Z"
+  "lastUpdate": "2026-01-06T12:46:16.917Z"
 };
