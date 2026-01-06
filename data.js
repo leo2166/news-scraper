@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "738,00"
+      "usdt": "706,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La policía venezolana detuvo a dos hombres por celebrar la detención de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/06/la-policia-venezolana-detuvo-a-dos-hombres-por-celebrar-el-secuestro-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/6IU6KW2JONBQLFIIPYFTBGVAU4.jpg?auth=ccf31b4f2790e7eb023ab96f59eb06ebfe33e82f13d554a9f5de469e650cf18a&smart=true&width=350&height=197&quality=85"
+      "title": "Las razones de Donald Trump para impulsar una transición en Venezuela con figuras del régimen chavista",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/06/las-razones-de-donald-trump-para-impulsar-una-transicion-en-venezuela-con-figuras-del-regimen-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/PIMZZR4SSJGZNG35XXSL4YI6MM.JPG?auth=b57534976dd1d400c36c74e71195e8b9ee8c5eef2d5bef48f9917f5c369bee51&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Instituto Nobel noruego dice que no se puede transferir el premio tras palabras de María Corina",
-      "link": "https://caraotadigital.net/mundo/instituto-nobel-noruego-dice-que-no-se-puede-transferir-el-premio-tras-palabras-de-maria-corina/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagenobel293923.jpg"
+      "title": "Marco Rubió habló con el cardenal Pietro Parolin sobre la situación humanitaria en Venezuela",
+      "link": "https://caraotadigital.net/eeuu/marco-rubio-hablo-con-el-cardenal-pietro-parolin-sobre-la-situacion-humanitaria-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/rubioparolin22331.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FISCAL DE EE .UU. RECORDÓ QUE CABELLO Y NICOLÁS MADURO GUERRA «TAMBIÉN ESTÁN ACUSADOS»",
-      "link": "https://noticierodigital.com/2026/01/fiscal-de-ee-uu-recordo-que-cabello-y-nicolas-maduro-guerra-tambien-estan-acusados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/pam-bondi-donald-trump-eeuu-627x376.jpg"
+      "title": "COLOMBIA EVITA «RECONOCIMIENTO INMEDIATO» A DELCY RODRÍGUEZ TRAS LA DETENCIÓN DE MADURO",
+      "link": "https://noticierodigital.com/2026/01/colombia-evita-reconocimiento-inmediato-a-delcy-rodriguez-tras-la-detencion-de-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/rosa-villavicencio-colombia-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Sheinbaum pide un \"juicio justo\" para Nicolás Maduro en EE. UU.",
-      "link": "https://laverdad.com/sheinbaum-pide-un-juicio-justo-para-nicolas-maduro-en-ee-uu/",
+      "title": "Restos del soldado zuliano caído en Fuerte Tiuna durante ataque de EE. UU. llegan a Bachaquero",
+      "link": "https://laverdad.com/restos-del-soldado-zuliano-caido-en-fuerte-tiuna-durante-ataque-de-ee-uu-llegan-a-bachaquero/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/7f86b6093bc21bcfaf968c2cdb550f9f1e6c896a-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Trump asegura que Maduro tenía un centro de tortura en Caracas: “Ya están cerrando”",
       "link": "https://diarioversionfinal.com/politica-dinero/trump-asegura-que-maduro-tenia-un-centro-de-tortura-en-caracas-ya-estan-cerrando/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/1200x675_cmsv2_e70a5353-c9b4-56fd-8bb7-b0de3eaa267f-9594498-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Tarek-William-Saab-30-06-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-06T17:23:56.477Z"
+  "lastUpdate": "2026-01-06T18:33:07.517Z"
 };
