@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Unión Europa aseguró que mantendrá los contactos con la jefa del régimen de Venezuela, Delcy Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/01/06/la-union-europa-aseguro-que-mantendra-los-contactos-con-la-jefa-del-regimen-de-venezuela-delcy-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/MSTLOFCGINEZHIKP7PVTTQBTFU.jpg?auth=f1b3e9e8a851997899b1cd3941056cddba0c5226a6e7d5a1903158de157eacf9&smart=true&width=350&height=197&quality=85"
+      "title": "Edmundo González Urrutia aseguró que la normalización de Venezuela será posible cuando se respete la voluntad del pueblo",
+      "link": "https://www.infobae.com/venezuela/2026/01/06/edmundo-gonzalez-urrutia-aseguro-que-la-normalizacion-de-venezuela-sera-posible-cuando-se-respete-la-voluntad-del-pueblo/",
+      "image": "https://www.infobae.com/resizer/v2/DKWO5BNNRJDH7LJ3QUIDIGTGWY.jpg?auth=f4718292df7089a8478ff01437e50341b7e50985bdd44ff4dffd0a2d1d8d8683&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿EEUU recibió ayuda del círculo íntimo de Maduro para capturarlo? Esto respondió Trump",
-      "link": "https://caraotadigital.net/eeuu/eeuu-recibio-ayuda-del-circulo-intimo-de-maduro-para-capturarlo-esto-respondio-trump/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-3.jpg"
+      "title": "Exhortan a comercios en Caracas a «dar inicio a la actividad económica y respetar la tasa del BCV»",
+      "link": "https://caraotadigital.net/venezuela/exhortan-a-comercios-en-caracas-a-dar-inicio-a-la-actividad-economica-y-respetar-la-tasa-del-bcv/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagecomercios8282.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "STEPHEN MILLER ASEGURÓ QUE VENEZUELA ACEPTÓ LOS «TÉRMINOS» DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/stephen-miller-aseguro-que-venezuela-acepto-los-terminos-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/stephen-miller-casa-blanca-eeuu-627x376.jpg"
+      "title": "UNIÓN EUROPEA INFORMÓ QUE MANTENDRÁ MISMO TRATO DE MADURO CON DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/01/union-europea-informo-que-mantendra-mismo-trato-de-maduro-con-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/11/unioneuropea-negociaciones-mexico-20ago2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Machado promete volver pronto a Venezuela y arremete contra Delcy Rodríguez",
-      "link": "https://laverdad.com/machado-promete-volver-pronto-a-venezuela-y-arremete-contra-delcy-rodriguez/",
+      "title": "El Papa clausura el Jubileo al cerrar la Puerta Santa del Vaticano",
+      "link": "https://laverdad.com/el-papa-clausura-el-jubileo-al-cerrar-la-puerta-santa-del-vaticano/",
       "image": "https://laverdad.com/wp-content/uploads/2025/12/5015131894936439782.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Venezuela necesita inversiones por $100 mil millones para reconstruirse: Puede tardar hasta 20 años",
       "link": "https://diarioversionfinal.com/politica-dinero/venezuela-necesita-inversiones-por-100-mil-millones-para-reconstruirse-puede-tardar-hasta-20-anos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Departamento-de-Justicia-Cartel-de-los-Soles-800x500.jpg-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/union-europea-aumenta-sanciones-1200x720-1-678x381-1.jpg"
     }
   ],
-  "lastUpdate": "2026-01-06T13:38:24.292Z"
+  "lastUpdate": "2026-01-06T14:23:29.023Z"
 };
