@@ -5,7 +5,7 @@
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "677,99"
+      "usdt": "676,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Reportan situación irregular en las adyacencias a Miraflores\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/reportan-situacion-irregular-en-las-adyacencias-a-miraflores/",
+      "title": "María Corina Machado: “El 3 de enero pasará a la historia como el día en que la justicia derrotó a la tiranía”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-el-3-de-enero-pasara-a-la-historia-como-el-dia-en-que-la-justicia-derroto-a-la-tirania/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP DEFINIÓ QUIENES SUPERVISARÁN LA POLÍTICA DE EE. UU. HACIA VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/trump-definio-quienes-supervisaran-la-politica-de-ee-uu-hacia-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/donald-trump-estados-unidos-627x376.jpg"
+      "title": "STEPHEN MILLER ASEGURÓ QUE VENEZUELA ACEPTÓ LOS «TÉRMINOS» DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/stephen-miller-aseguro-que-venezuela-acepto-los-terminos-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/stephen-miller-casa-blanca-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,8 +50,8 @@
     },
     {
       "source": "La Verdad",
-      "title": "Reportan fuerte tiroteo en los alrededores del palacio de Miraflores",
-      "link": "https://laverdad.com/reportan-fuerte-tiroteo-en-los-alrededores-del-palacio-de-miraflores/",
+      "title": "Aseguran que tiroteo cerca de Miraflores se debió a drones que sobrevolaron sin permiso",
+      "link": "https://laverdad.com/aseguran-que-tiroteo-cerca-de-miraflores-se-debio-a-drones-que-sobrevolaron-sin-permiso/",
       "image": "https://laverdad.com/wp-content/uploads/2025/12/5015131894936439782.jpg"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-06T01:47:12.217Z"
+  "lastUpdate": "2026-01-06T03:39:35.975Z"
 }
