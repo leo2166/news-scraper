@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "691,00"
+      "usdt": "731,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,40 +26,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Aumenta la tensión en Venezuela",
+      "title": "Trump celebra la misión para capturar a Maduro en discurso a republicanos",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254835235-20260106114758482.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254307302.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Filtraron nuevos detalles de lo ocurrido en la primera audiencia de Maduro ante un juez en Nueva York",
-      "link": "https://caraotadigital.net/eeuu/filtraron-nuevos-detalles-de-lo-ocurrido-en-la-primera-audiencia-de-maduro-ante-un-juez-en-nueva-york/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-13.jpg"
+      "title": "EPA sumó más de mil voluntarios con diferentes jornadas",
+      "link": "https://caraotadigital.net/caraota-tips/epa-sumo-mas-de-mil-voluntarios-con-diferentes-jornadas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EPA6N6A0431.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNIÓN EUROPEA INFORMÓ QUE MANTENDRÁ MISMO TRATO DE MADURO CON DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/01/union-europea-informo-que-mantendra-mismo-trato-de-maduro-con-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/11/unioneuropea-negociaciones-mexico-20ago2021.jpg"
+      "title": "FISCAL DE EE .UU. RECORDÓ QUE CABELLO Y NICOLÁS MADURO GUERRA «TAMBIÉN ESTÁN ACUSADOS»",
+      "link": "https://noticierodigital.com/2026/01/fiscal-de-ee-uu-recordo-que-cabello-y-nicolas-maduro-guerra-tambien-estan-acusados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/pam-bondi-donald-trump-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Secuestran a cinco policías en Tibú, Norte de Santander: vestían de civil y regresaban de permiso",
-      "link": "https://www.noticiascaracol.com/colombia/secuestran-a-cinco-policias-en-tibu-norte-de-santander-vestian-de-civil-y-regresaban-de-permiso-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1c5c85e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F69%2Ff4%2Fa82f333649588fa4c662066ae980%2Fdiseno.jpg"
+      "title": "IPC Colombia 2025: ¿Cómo ha variado indicador y de qué forma incidirá sobre arriendos y más tarifas?",
+      "link": "https://www.noticiascaracol.com/economia/ipc-colombia-2025-como-ha-variado-indicador-y-de-que-forma-incidira-sobre-arriendos-y-mas-tarifas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e04d3db/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd2%2Ff7%2F646b49fd4f60b17858c5c1c93576%2Ftamano-imagenes-20.png"
     },
     {
       "source": "La Verdad",
-      "title": "Ataque de EE. UU. a almacén en La Guaira deja “sin insumos” a 9.000 pacientes renales",
-      "link": "https://laverdad.com/ataque-de-ee-uu-a-almacen-en-la-guaira-deja-sin-insumos-a-9-000-pacientes-renales/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/12/5015131894936439782.jpg"
+      "title": "Gustavo Enrique González López es el nuevo comandante de la Guardia de Honor Presidencial",
+      "link": "https://laverdad.com/gustavo-enrique-gonzalez-lopez-es-el-nuevo-comandante-de-la-guardia-de-honor-presidencial/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/7f86b6093bc21bcfaf968c2cdb550f9f1e6c896a-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump impone tres medidas que Delcy Rodríguez tendría que ejecutar para evitar represalias",
-      "link": "https://diarioversionfinal.com/politica-dinero/trump-impone-tres-medidas-que-delcy-rodriguez-tendria-que-ejecutar-para-evitar-represalias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Catar-espera-ser-mediador-en-conflicto-de-Estados-Unidos-y-Venezuela-750x430.webp"
+      "title": "Fiscal General de EE.UU. advierte a \"Nicolasito\" y a Diosdado Cabello: pesan cargos activos",
+      "link": "https://diarioversionfinal.com/mundo/fiscal-general-de-ee-uu-advierte-a-nicolasito-y-diosdado-cabello-sus-cargos-estan-activos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/1200x675_cmsv2_e70a5353-c9b4-56fd-8bb7-b0de3eaa267f-9594498-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-06T15:24:13.750Z"
+  "lastUpdate": "2026-01-06T16:30:21.782Z"
 };
