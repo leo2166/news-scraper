@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "360,50"
     },
     "binance": {
-      "usdt": "642,00"
+      "usdt": "670,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Videos: ráfagas de disparos en los alrededores del palacio presidencial de Venezuela",
-      "link": "https://www.noticiascaracol.com/mundo/videos-asi-se-vieron-las-rafagas-de-disparos-en-los-alrededores-del-palacio-presidencial-de-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c583e15/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F02%2F11%2F2764b84b46be8daa54919d1c5596%2Fdiseno-6.jpg"
+      "title": "ONU afirma que operación de EE. UU. en Venezuela \"socavó un principio del derecho internacional\"",
+      "link": "https://www.noticiascaracol.com/mundo/onu-afirma-que-operacion-de-ee-uu-en-venezuela-socavo-un-principio-del-derecho-internacional-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c386680/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F71%2F36%2Fabddc6e94bf092ca2f9a232283f1%2Fexplosiones-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-06T10:24:36.929Z"
+  "lastUpdate": "2026-01-06T11:20:04.990Z"
 };
