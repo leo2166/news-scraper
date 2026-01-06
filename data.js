@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "754,77"
+      "usdt": "746,82"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Chevron refuerza su presencia en Venezuela: 11 buques navegan rumbo al país tras la caída de Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/06/chevron-refuerza-su-presencia-en-venezuela-11-buques-navegan-rumbo-al-pais-tras-la-caida-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/BEQI5HR5XFCLVEELBLWLMAMSYM.JPG?auth=1195975e0a37abd2b9e3da28c0f32ce81b582002c2081977c03ec9ed69cf0c7e&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez dijo que Venezuela no está gobernada por “ningún agente extranjero”",
+      "link": "https://www.infobae.com/venezuela/2026/01/06/delcy-rodriguez-dijo-que-venezuela-no-esta-gobernada-por-ningun-agente-extranjero/",
+      "image": "https://www.infobae.com/resizer/v2/QT6GXFK4DZEGLO76OOJOLEENUA.JPG?auth=0b18e99595a2f05c1c560ef13a02c7e2f3a242a554c043ed8e66607e889daa3e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La inquietud de los republicanos del sur de Florida ante la posición de Trump sobre María Corina Machado",
-      "link": "https://caraotadigital.net/eeuu/la-inquietud-de-los-republicanos-del-sur-de-florida-ante-la-posicion-de-trump-sobre-maria-corina-machado/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/CARLOS-GIMENEZ.jpg"
+      "title": "Marco Rubio: «No vamos a alcanzar acuerdos de paz con bandas de narcotráfico»",
+      "link": "https://caraotadigital.net/eeuu/marco-rubio-no-vamos-a-alcanzar-acuerdos-de-paz-con-bandas-de-narcotrafico/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/09/MARCO-RUBIO-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/delcy-rodriguez-1280x900-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-06T22:22:25.725Z"
+  "lastUpdate": "2026-01-06T23:21:29.354Z"
 };
