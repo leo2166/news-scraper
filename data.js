@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "EEUU advirtió a Diosdado Cabello que será objetivo de Washington si no coopera en la transición y el orden tras la caída de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/07/eeuu-advirtio-a-diosdado-cabello-que-sera-objetivo-de-washington-si-no-coopera-en-la-transicion-y-el-orden-tras-la-caida-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/UKVB3HTSZ5GWJBSHMLYABKZVLY.JPG?auth=807e624bc850be106ef243853655d82dd32f00d3c51cbfb15168c585e3cc20e0&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | La Sociedad Interamericana de Prensa instó a Venezuela a respetar la libertad de expresión tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/07/transicion-en-venezuela-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/D5XQUQ72EBEXHOB7JY43H2LLXY.jpg?auth=e87e43de712a2ea8538591e3875cc6dc31f00bbb5c293d5eb4279fc30c1f06a9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-eeuu-firma_10335288_20250331155349-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T06:35:30.482Z"
+  "lastUpdate": "2026-01-07T07:26:12.202Z"
 };
