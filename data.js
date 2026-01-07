@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Venezuela dará de 30 a 50 millones de barriles de petróleo a EE.UU., dice Trump",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9d748d4c-e01a-48d6-be9e-1725a4038fc1.png?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2162226812-20260107002537070-20260107054837322.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-eeuu-firma_10335288_20250331155349-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T05:26:17.016Z"
+  "lastUpdate": "2026-01-07T06:35:30.482Z"
 };
