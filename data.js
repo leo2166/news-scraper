@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "813,00"
+      "usdt": "833,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El día después de Maduro: ¿por qué EE UU frenó una transición liderada por María Corina Machado?\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/por-que-ee-uu-freno-una-transicion-liderada-por-machado/",
+      "title": "EE UU incautó otros dos petroleros en el Caribe y en el Atlántico\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/01/ee-uu-incauto-otros-dos-petroleros-en-el-caribe-y-en-el-atlantico/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. incauta petrolero vinculado a Venezuela en el Atlántico",
+      "title": "EE.UU. incauta dos buques, incluido uno de bandera rusa vinculado a Venezuela",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-02t170453z-1643187773-rc2kfdaqlqz8-rtrmadp-3-usa-venezuela-vessel-still-file-20260107135125059.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Maduro y Cilia Flores se golpearon la cabeza al intentar huir de las fuerzas estadounidenses",
-      "link": "https://caraotadigital.net/eeuu/maduro-y-cilia-flores-se-golpearon-la-cabeza-al-intentar-huir-de-las-fuerzas-estadounidenses/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/5ff81841f96c757d42f5582bf1ec5895aae9f9dcminiw-2.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA Y CUBA ENTRAN EN LISTA DE 25 NUEVOS PAÍSES CON FIANZAS PARA PEDIR VISADOS EN EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/venezuela-y-cuba-entran-en-lista-de-25-nuevos-paises-con-fianzas-para-pedir-visados-en-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/visa-eeuu-11oct2021.jpg"
+      "title": "«La normalidad debe imperar en el país»: Diosdado Cabello dice que Caracas «está en calma y en tranquilidad»",
+      "link": "https://caraotadigital.net/venezuela/la-normalidad-debe-imperar-en-el-pais-diosdado-cabello-dice-que-caracas-esta-en-calma-y-en-tranquilidad/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cabello-22.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Cabello vuelve a recorrer Caracas en la noche: “Todo en paz y tranquilidad”",
-      "link": "https://laverdad.com/cabello-vuelve-a-recorrer-caracas-en-la-noche-todo-en-paz-y-tranquilidad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Elvis-Crespo-Nota.jpg"
+      "title": "EE. UU. intercepta en el mar Caribe un “buque de la flota fantasma de Venezuela”",
+      "link": "https://laverdad.com/ee-uu-intercepta-en-el-mar-caribe-un-buque-de-la-flota-fantasma-de-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-34.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reuters: EE. UU. incauta petrolero ruso vinculado a Venezuela tras persecución en el Atlántico",
-      "link": "https://diarioversionfinal.com/mundo/reuters-ee-uu-incauta-petrolero-ruso-vinculado-a-venezuela-tras-persecucion-en-el-atlantico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/W020240530560263257486.jpg"
+      "title": "EE. UU. confirma la incautación del petrolero Bella 1 por violar sanciones",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-confirma-la-incautacion-del-petrolero-bella-1-por-violar-sanciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-98.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T14:24:54.379Z"
+  "lastUpdate": "2026-01-07T15:26:45.881Z"
 };
