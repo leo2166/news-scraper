@@ -5,7 +5,7 @@
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "858,89"
+      "usdt": "820,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "“Diosdado Cabello es el principal saboteador del gobierno de Delcy Rodríguez”, advirtió James Story, ex embajador de EEUU en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/07/diosdado-cabello-es-el-principal-saboteador-del-gobierno-de-delcy-rodriguez-advirtio-james-story-ex-embajador-de-eeuu-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/UM7FZOFCNJCNNLZYEEGDRECVSE.JPG?auth=a73b690a4ff64105b94ac8551d25e72f69d941bcb6ac98cc0f6287b2b5e41b67&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio enumeró tres fases para Venezuela: “El primer paso es la estabilización; no queremos que caiga en el caos”",
+      "link": "https://www.infobae.com/venezuela/2026/01/07/marco-rubio-enumero-tres-fases-para-venezuela-el-primer-paso-es-la-estabilizacion-no-queremos-que-caiga-en-el-caos/",
+      "image": "https://www.infobae.com/resizer/v2/R4HC6AKZPVHSLBNGTCPV5RCZFM.JPG?auth=afc7eec869789acf15c200f073f8cf40724ae14aa6882b1b0f94770f512dfd9f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "EEUU dice que controlará el mercado petrolero en Venezuela por tiempo «indefinido»",
-      "link": "https://caraotadigital.net/eeuu/eeuu-dice-que-controlara-el-mercado-petrolero-en-venezuela-por-tiempo-indefinido/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Venezuela-15.jpg"
+      "title": "Marco Rubio: Caracas quiere que el crudo incautado este 7Ene en el Caribe sea parte del trato con EEUU",
+      "link": "https://caraotadigital.net/eeuu/marco-rubio-caracas-quiere-que-el-crudo-incautado-este-7ene-en-el-caribe-sea-parte-del-trato-con-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MARCORUBIO24edc7ed62908d48.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP: «PUSE FIN A OCHO GUERRAS YO SOLO Y NORUEGA ELIGIÓ NO DARME EL NOBEL DE LA PAZ»",
-      "link": "https://noticierodigital.com/2026/01/trump-puse-fin-a-ocho-guerras-yo-solo-y-noruega-eligio-no-darme-el-nobel-de-la-paz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/donald-trump-estados-unidos-3-627x376.jpg"
+      "title": "TALCUAL: «ESE SONIDO DE MISIL NUNCA SE OLVIDARÁ», EXPRESA SOBREVIVIENTE DE ATAQUE DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/talcual-ese-sonido-de-misil-nunca-se-olvidara-expresa-sobreviviente-de-ataque-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-1-5-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Lo arrestan en Anzoátegui por insultar a Cabello y celebrar “captura” de Maduro",
-      "link": "https://laverdad.com/lo-arrestan-en-anzoategui-por-insultar-a-cabello-y-celebrar-captura-de-maduro/",
+      "title": "EE. UU. sobre el petróleo venezolano: “Solo se permitirá el comercio energético legal”",
+      "link": "https://laverdad.com/ee-uu-sobre-el-petroleo-venezolano-solo-se-permitira-el-comercio-energetico-legal/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Daniel-Sarcos-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur intercepta otro buque vinculado a tráfico de crudo sancionado",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-intercepta-otro-buque-vinculado-a-trafico-de-crudo-sancionado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/Dolar-BCV-rebaso-la-barrera-de-los-11-bolivares-696x392-1.jpg"
+      "title": "Marco Rubio anuncia plan de tres etapas para Venezuela: \"Estabilización, recuperación y transición\"",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-anuncia-plan-de-tres-etapas-para-venezuela-estabilizacion-recuperacion-y-transicion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Trump-09-08-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-07T16:31:54.149Z"
+  "lastUpdate": "2026-01-07T17:26:58.581Z"
 }
