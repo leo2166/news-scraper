@@ -5,7 +5,7 @@
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "500,00"
+      "usdt": "795,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez reorganizó la cúpula de seguridad de Venezuela con un general sancionado por EEUU al mando de la inteligencia militar",
-      "link": "https://www.infobae.com/venezuela/2026/01/07/delcy-rodriguez-reorganizo-la-cupula-de-seguridad-de-venezuela-con-un-general-sancionado-por-eeuu-al-mando-de-la-inteligencia-militar/",
-      "image": "https://www.infobae.com/resizer/v2/YKFZNX3JHVDXVAQJ55FSNDKKHI.jpg?auth=c80ff61de4593b5bacf103968ebe96fc83550d53b862d0c6caebd0b4e23f4273&smart=true&width=350&height=197&quality=85"
+      "title": "“¿Por qué no se disparó un solo misil?”: las incógnitas tras la operación que extrajo a Nicolás Maduro de Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/01/07/por-que-no-se-disparo-un-solo-misil-las-incognitas-tras-la-operacion-que-extrajo-a-nicolas-maduro-de-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/SZD7ZWVNAREA7MIC7OUR4SVRYM.jpg?auth=01a9f15edb768226d4f0e7108b39f6c3a044e7dbe93c4a3f32f5f546b82b72b3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El mundo se estremece ante las nuevas amenazas de Trump contra Groenlandia",
-      "link": "https://cnnespanol.cnn.com/2026/01/07/mundo/analisis-por-que-trump-quiere-tomar-groenlandia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2200492200-20260107072116129.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cientos de miles de venezolanos aún enfrentan la deportación en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-04t030100z-78178403-rc22uiafeag4-rtrmadp-3-usa-venezuela-20260107105343923.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
       "title": "Presidente de Panamá reveló el consejo que le dio a María Corina sobre «el respeto a la voluntad popular»",
       "link": "https://caraotadigital.net/mundo/presidente-de-panama-revelo-el-consejo-que-le-dio-a-maria-corina-sobre-el-respeto-a-la-voluntad-popular/",
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Mulino-CD.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "WSJ: RUSIA DESPLIEGA SUBMARINO PARA PROTEGER PETROLERO PERSEGUIDO POR EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/wsj-rusia-despliega-submarino-para-proteger-petrolero-perseguido-por-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/centuries-petrolero-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,8 +50,8 @@
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez advierte que “no hay agente externo que gobierne” al país",
-      "link": "https://laverdad.com/delcy-rodriguez-advierte-que-no-hay-agente-externo-que-gobierne-al-pais/",
+      "title": "Siguen recuperándose dos militares de EE. UU. heridos en ataque a Venezuela",
+      "link": "https://laverdad.com/siguen-recuperandose-dos-militares-de-ee-uu-heridos-en-ataque-a-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Elvis-Crespo-Nota.jpg"
     },
     {
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-eeuu-firma_10335288_20250331155349-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T11:21:13.306Z"
+  "lastUpdate": "2026-01-07T12:47:43.298Z"
 }
