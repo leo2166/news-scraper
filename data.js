@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "795,89"
+      "usdt": "796,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "“¿Por qué no se disparó un solo misil?”: las incógnitas tras la operación que extrajo a Nicolás Maduro de Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/01/07/por-que-no-se-disparo-un-solo-misil-las-incognitas-tras-la-operacion-que-extrajo-a-nicolas-maduro-de-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/SZD7ZWVNAREA7MIC7OUR4SVRYM.jpg?auth=01a9f15edb768226d4f0e7108b39f6c3a044e7dbe93c4a3f32f5f546b82b72b3&smart=true&width=350&height=197&quality=85"
+      "title": "EEUU intenta incautar un petrolero con destino a Rusia tras una persecución de dos semanas en el Atlántico",
+      "link": "https://www.infobae.com/venezuela/2026/01/07/eeuu-intenta-incautar-un-petrolero-venezolano-tras-una-persecucion-de-dos-semanas-en-el-atlantico/",
+      "image": "https://www.infobae.com/resizer/v2/WZNAY2KLEND45JTHRHMARDTHGY.JPG?auth=9908ebcb4a30b75df5dea2292322dedbba8ee22063cbcd3d89e462c0254277d3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela envió 5,2 millardos de dólares en oro a Suiza bajo el mandato de Maduro\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/venezuela-envio-52-millardos-de-dolares-en-oro-a-suiza-bajo-el-mandato-de-maduro/",
+      "title": "El día después de Maduro: ¿por qué EE UU frenó una transición liderada por María Corina Machado?\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/por-que-ee-uu-freno-una-transicion-liderada-por-machado/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Presidente de Panamá reveló el consejo que le dio a María Corina sobre «el respeto a la voluntad popular»",
-      "link": "https://caraotadigital.net/mundo/presidente-de-panama-revelo-el-consejo-que-le-dio-a-maria-corina-sobre-el-respeto-a-la-voluntad-popular/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Mulino-CD.jpg"
+      "title": "Dólar oficial superó nueva barrera este 7Ene: Así se cotizó",
+      "link": "https://caraotadigital.net/venezuela/dolar-oficial-supero-nueva-barrera-este-7ene-asi-se-cotizo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/12/imagedolar4943-2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "WSJ: RUSIA DESPLIEGA SUBMARINO PARA PROTEGER PETROLERO PERSEGUIDO POR EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/wsj-rusia-despliega-submarino-para-proteger-petrolero-perseguido-por-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/centuries-petrolero-venezuela-627x376.jpg"
+      "title": "EMPRESAS ESPAÑOLAS APLICAS ESTRATEGIAS VARIAS PARA MANTENER SU NEGOCIO EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/empresas-espanolas-aplicas-estrategias-varias-para-mantener-su-negocio-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/04/espana-20-abr-2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Siguen recuperándose dos militares de EE. UU. heridos en ataque a Venezuela",
-      "link": "https://laverdad.com/siguen-recuperandose-dos-militares-de-ee-uu-heridos-en-ataque-a-venezuela/",
+      "title": "ABC: Trump exige a Rodríguez que ponga fin a relaciones con China, Rusia, Cuba e Irán",
+      "link": "https://laverdad.com/abc-trump-exige-a-rodriguez-que-ponga-fin-a-relaciones-con-china-rusia-cuba-e-iran/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Elvis-Crespo-Nota.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Posible cierre de El Helicoide pone el foco en la amnistía de presos políticos en Venezuela",
-      "link": "https://diarioversionfinal.com/politica-dinero/posible-cierre-de-el-helicoide-pone-el-foco-en-la-amnistia-de-presos-politicos-en-venezue/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-eeuu-firma_10335288_20250331155349-750x430.jpg"
+      "title": "Reuters: Estados Unidos y Venezuela acuerdan exportación de crudo por 2.000 millones de dólares",
+      "link": "https://diarioversionfinal.com/politica-dinero/reuters-estados-unidos-y-venezuela-acuerdan-exportacion-de-crudo-por-2-000-millones-de-dolares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/BRUCEVEIN-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T12:47:43.298Z"
+  "lastUpdate": "2026-01-07T13:40:29.474Z"
 };
