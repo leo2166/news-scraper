@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-eeuu-firma_10335288_20250331155349-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T09:28:54.993Z"
+  "lastUpdate": "2026-01-07T10:26:05.517Z"
 };
