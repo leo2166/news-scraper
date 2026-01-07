@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "770,70"
+      "usdt": "780,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,19 +28,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "EE.UU. incauta petrolero con bandera rusa y otro barco vinculado a Venezuela",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-02t170453z-1643187773-rc2kfdaqlqz8-rtrmadp-3-usa-venezuela-vessel-still-file-20260107135125059.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/g-eh9lgxuaa3k85-20260107195607847.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "SOP: Un problema físico que afecta tu salud mental",
-      "link": "https://caraotadigital.net/opinion/sop-un-problema-fisico-que-afecta-tu-salud-mental/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/mantellini7125.jpg"
+      "title": "VIDEO | Conmoción en Guárico: Adolescente murió impactado por una avioneta",
+      "link": "https://caraotadigital.net/sucesos/video-conmocion-en-guarico-adolescente-murio-impactado-por-una-avioneta/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-14.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EDMUNDO GONZÁLEZ Y SU ESPOSA PUBLICAN VIDEO A UN AÑO DE LA DETENCIÓN DE SU YERNO: «ES MUY DIFÍCIL»",
-      "link": "https://noticierodigital.com/2026/01/edmundo-gonzalez-y-su-esposa-publican-video-a-un-ano-de-la-detencion-de-su-yerno-es-muy-dificil/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/edmundo-gonzalez-3.jpg"
+      "title": "BLOOMBERG: FIRMAS DE WALL STREET EVALÚAN REINGRESAR EN BONOS VENEZOLANOS ",
+      "link": "https://noticierodigital.com/2026/01/bloomberg-firmas-de-wall-street-evaluan-reingresar-en-bonos-venezolanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/bolsas_-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "León XIV anuncia reformas en la Iglesia Católica tras concluir el Año Santo",
-      "link": "https://laverdad.com/leon-xiv-anuncia-reformas-en-la-iglesia-catolica-tras-concluir-el-ano-santo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Miss-Universo.jpg"
+      "title": "Foro Penal reporta arresto de dos estadounidenses en Venezuela",
+      "link": "https://laverdad.com/foro-penal-reporta-arresto-de-dos-estadounidenses-en-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-37.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Pdvsa confirma negociaciones con EE. UU. para vender petróleo venezolano",
       "link": "https://diarioversionfinal.com/politica-dinero/pdvsa-confirma-negociaciones-con-ee-uu-para-vender-petroleo-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Leavitt-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/ken.jmv__1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-07T19:20:53.765Z"
+  "lastUpdate": "2026-01-07T20:26:36.669Z"
 };
