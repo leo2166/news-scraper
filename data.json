@@ -5,7 +5,7 @@
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "819,90"
+      "usdt": "770,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Marco Rubio enumeró tres fases para Venezuela: “El primer paso es la estabilización; no queremos que caiga en el caos”",
-      "link": "https://www.infobae.com/venezuela/2026/01/07/marco-rubio-enumero-tres-fases-para-venezuela-el-primer-paso-es-la-estabilizacion-no-queremos-que-caiga-en-el-caos/",
-      "image": "https://www.infobae.com/resizer/v2/R4HC6AKZPVHSLBNGTCPV5RCZFM.JPG?auth=afc7eec869789acf15c200f073f8cf40724ae14aa6882b1b0f94770f512dfd9f&smart=true&width=350&height=197&quality=85"
+      "title": "Edmundo González Urrutia calificó de “venganza” la detención y condena de su yerno en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/07/edmundo-gonzalez-urrutia-califico-de-venganza-la-detencion-y-condena-de-su-yerno-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/UKSHN5DTCBFXBKFSBBLFXXDP5E.JPG?auth=b891c8fc8467324449e751c5ee34b85166f4674c103b7da22ab6f4ee6f4247e5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Rusia denuncia «intercepción ilegal» de petrolero por parte de EEUU y exige «trato humano y digno» para marineros",
-      "link": "https://caraotadigital.net/mundo/rusia-denuncia-intercepcion-ilegal-de-petrolero-por-parte-de-eeuu-y-exige-trato-humano-y-digno-para-marineros/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/buqueG-EH9LGXUAA3k85.jpg"
+      "title": "SOP: Un problema físico que afecta tu salud mental",
+      "link": "https://caraotadigital.net/opinion/sop-un-problema-fisico-que-afecta-tu-salud-mental/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/mantellini7125.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FORO PENAL ANALIZA DETENCIÓN DE 2 AMERICANOS DETENIDOS EN VENEZUELA ",
-      "link": "https://noticierodigital.com/2026/01/foro-penal-analiza-detencion-de-2-americanos-detenidos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/foro-penal-referencial-627x376.jpg"
+      "title": "EDMUNDO GONZÁLEZ Y SU ESPOSA PUBLICAN VIDEO A UN AÑO DE LA DETENCIÓN DE SU YERNO: «ES MUY DIFÍCIL»",
+      "link": "https://noticierodigital.com/2026/01/edmundo-gonzalez-y-su-esposa-publican-video-a-un-ano-de-la-detencion-de-su-yerno-es-muy-dificil/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/edmundo-gonzalez-3.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio anuncia plan de tres etapas para Venezuela: \"Estabilización, recuperación y transición\"",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-anuncia-plan-de-tres-etapas-para-venezuela-estabilizacion-recuperacion-y-transicion/",
+      "title": "Pdvsa confirma negociaciones con EE. UU. para vender petróleo venezolano",
+      "link": "https://diarioversionfinal.com/politica-dinero/pdvsa-confirma-negociaciones-con-ee-uu-para-vender-petroleo-venezolano/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Leavitt-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-07T18:34:47.719Z"
+  "lastUpdate": "2026-01-07T19:20:53.765Z"
 }
