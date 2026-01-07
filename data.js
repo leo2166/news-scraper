@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "833,89"
+      "usdt": "858,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,34 +26,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. incauta dos buques, incluido uno de bandera rusa vinculado a Venezuela",
+      "title": "EE.UU. incauta petrolero con bandera rusa y otro barco vinculado a Venezuela",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-02t170453z-1643187773-rc2kfdaqlqz8-rtrmadp-3-usa-venezuela-vessel-still-file-20260107135125059.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "«La normalidad debe imperar en el país»: Diosdado Cabello dice que Caracas «está en calma y en tranquilidad»",
-      "link": "https://caraotadigital.net/venezuela/la-normalidad-debe-imperar-en-el-pais-diosdado-cabello-dice-que-caracas-esta-en-calma-y-en-tranquilidad/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cabello-22.jpg"
+      "title": "EEUU dice que controlará el mercado petrolero en Venezuela por tiempo «indefinido»",
+      "link": "https://caraotadigital.net/eeuu/eeuu-dice-que-controlara-el-mercado-petrolero-en-venezuela-por-tiempo-indefinido/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Venezuela-15.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "TRUMP: «PUSE FIN A OCHO GUERRAS YO SOLO Y NORUEGA ELIGIÓ NO DARME EL NOBEL DE LA PAZ»",
+      "link": "https://noticierodigital.com/2026/01/trump-puse-fin-a-ocho-guerras-yo-solo-y-noruega-eligio-no-darme-el-nobel-de-la-paz/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/donald-trump-estados-unidos-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Falcao García regresa a Millonarios; sorpresa total en el fútbol colombiano",
-      "link": "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/falcao-garcia-regresa-a-millonarios-sorpresa-total-en-el-futbol-colombiano-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2e67249/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb7%2Fc8%2Fca4708ad45f097b5d1f72760e99c%2Ftamano-fotos-cms-2025-06-26t090041-799.png"
+      "title": "Estados Unidos advierte que controlará la venta de petróleo de Venezuela por tiempo \"indefinido\"",
+      "link": "https://www.noticiascaracol.com/mundo/estados-unidos-advierte-que-controlara-la-venta-de-petroleo-de-venezuela-por-tiempo-indefinido-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0889781/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F86%2F61%2F696072d5410ab73f62a5e739f8f2%2Fpetroleo-en-venezuela.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. intercepta en el mar Caribe un “buque de la flota fantasma de Venezuela”",
-      "link": "https://laverdad.com/ee-uu-intercepta-en-el-mar-caribe-un-buque-de-la-flota-fantasma-de-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-34.jpg"
+      "title": "Lo arrestan en Anzoátegui por insultar a Cabello y celebrar “captura” de Maduro",
+      "link": "https://laverdad.com/lo-arrestan-en-anzoategui-por-insultar-a-cabello-y-celebrar-captura-de-maduro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Daniel-Sarcos-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. confirma la incautación del petrolero Bella 1 por violar sanciones",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-confirma-la-incautacion-del-petrolero-bella-1-por-violar-sanciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-98.jpg"
+      "title": "Comando Sur intercepta otro buque vinculado a tráfico de crudo sancionado",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-intercepta-otro-buque-vinculado-a-trafico-de-crudo-sancionado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/Dolar-BCV-rebaso-la-barrera-de-los-11-bolivares-696x392-1.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T15:26:45.881Z"
+  "lastUpdate": "2026-01-07T16:31:54.149Z"
 };
