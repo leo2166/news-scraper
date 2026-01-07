@@ -5,7 +5,7 @@
       "eur": "364,84"
     },
     "binance": {
-      "usdt": "764,43"
+      "usdt": "500,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "CALIXTO ORTEGA TOMA LAS RIENDAS DE LA VICEPRESIDENCIA DE ECONOMÍA",
-      "link": "https://noticierodigital.com/2026/01/calixto-ortega-toma-las-riendas-de-la-vicepresidencia-de-economia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-2-627x376.jpg"
+      "title": "WSJ: RUSIA DESPLIEGA SUBMARINO PARA PROTEGER PETROLERO PERSEGUIDO POR EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/wsj-rusia-despliega-submarino-para-proteger-petrolero-perseguido-por-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/centuries-petrolero-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-eeuu-firma_10335288_20250331155349-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T01:46:55.858Z"
+  "lastUpdate": "2026-01-07T03:39:30.498Z"
 }
