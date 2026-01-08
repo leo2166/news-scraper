@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "769,80"
+      "usdt": "805,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO ELEVÓ A 100 LA CIFRA DE MUERTOS POR OPERATIVO MILITAR DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/cabello-elevo-a-100-la-cifra-de-muertos-por-operativo-militar-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/diosdado-cabello-venezuela-p-627x376.jpg"
+      "title": "GUSTAVO PETRO LE PROPUSO A DELCY RODRÍGUEZ UN DIÁLOGO TRIPARTITO CON EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/gustavo-petro-le-propuso-a-delcy-rodriguez-un-dialogo-tripartito-con-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/gustavo-petro-colombia-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Diosdado Cabello: “Nuestra tarea fundamental es traer a Cilia y a Nicolás y lo vamos a lograr”",
-      "link": "https://diarioversionfinal.com/politica-dinero/diosdado-cabello-nuestra-tarea-fundamental-es-traer-a-cilia-y-a-nicolas-y-lo-vamos-a-lograr/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Presos-politicos-30-09-2025-750x430.jpg"
+      "title": "General Javier Marcano Tábata, exjefe de Casa Militar exalta a soldados caídos: “¡Jamás se doblegaron!”",
+      "link": "https://diarioversionfinal.com/politica-dinero/general-javier-marcano-tabata-exjefe-de-casa-militar-exalta-a-soldados-caidos-jamas-se-doblegaron/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-12.47.38-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-08T03:40:06.826Z"
+  "lastUpdate": "2026-01-08T04:40:12.404Z"
 };
