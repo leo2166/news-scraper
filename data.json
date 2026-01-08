@@ -5,7 +5,7 @@
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "781,87"
+      "usdt": "774,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Jorge Rodríguez anunció la liberación de “un número importante” de presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/08/jorge-rodriguez-anuncio-la-liberacion-de-un-numero-importante-de-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/XTGM6OE5AWZOJQXWFXTXKPTIJE.jpg?auth=16168d91ac080f0e35d8191c5db2117e988eb44542e7c6d03d216aff6388e3cf&smart=true&width=350&height=197&quality=85"
+      "title": "Cuántos presos políticos están encarcelados en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/08/cuantos-presos-politicos-estan-encarcelados-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/RHZO7RJOLFEVFARKYVDFDC4Y6Q.jpg?auth=38733231057b10c897962eab7362c988f5f8917e83b24ded9284fb02ecd3d22d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Delcy Rodríguez llamó a todos los sectores a un «diálogo de altura» y en beneficio del país",
-      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-llamo-a-todos-los-sectores-a-un-dialogo-de-altura-y-en-beneficio-del-pais/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Delcy-2.jpg"
+      "title": "El estrés sostenido es pésimo para la salud",
+      "link": "https://caraotadigital.net/opinion/el-estres-sostenido-es-pesimo-para-la-salud/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/sotorosa8126.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Quién era la mujer que murió tras recibir disparos durante un operativo del ICE en EE. UU.",
-      "link": "https://www.noticiascaracol.com/mundo/quien-era-la-mujer-que-murio-tras-recibir-disparos-durante-un-operativo-del-ice-en-ee-uu-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/df254db/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F66%2F6d%2Fc9ec34eb46a491a5521dd39bf663%2Fice.jpg"
+      "title": "Régimen de Venezuela anunció la excarcelación de un \"número importante de personas\": esto se sabe",
+      "link": "https://www.noticiascaracol.com/mundo/regimen-de-venezuela-anuncio-la-excarcelacion-de-un-numero-importante-de-personas-venezolanas-y-extranjeras-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/177fe87/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F35%2F4d%2F084ced6e45f883fd19693c6ca1c2%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Deportan a 2 periodistas extranjeros tras 10 horas detenidos en la frontera colombo-venezolana",
-      "link": "https://laverdad.com/deportan-a-2-periodistas-extranjeros-tras-10-horas-detenidos-en-la-frontera-colombo-venezolana/",
+      "title": "Reuters: Chevron conversa con el gobierno de EE. UU. para ampliar licencias en Venezuela",
+      "link": "https://laverdad.com/reuters-chevron-conversa-con-el-gobierno-de-ee-uu-para-ampliar-licencias-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Danny-Ocean-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Gobierno anuncia excarcelación de \"un número importante\" de presos políticos en las próximas horas",
       "link": "https://diarioversionfinal.com/politica-dinero/gobierno-anuncia-excarcelacion-de-un-numero-importante-de-presos-politicos-en-las-proximas-horas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/petro-19-de-noviembre-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/063_1230459801-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-08T17:27:31.051Z"
+  "lastUpdate": "2026-01-08T18:30:39.458Z"
 }
