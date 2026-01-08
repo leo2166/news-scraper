@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "763,00"
+      "usdt": "740,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO: Delcy Rodríguez confirma mejoras al sistema eléctrico venezolano",
-      "link": "https://caraotadigital.net/venezuela/video-delcy-rodriguez-confirma-mejoras-al-sistema-electrico-venezolano/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rodriguez-CD-3.jpg"
+      "title": "Dólar oficial superó nueva barrera: Así se cotizó este 8Ene",
+      "link": "https://caraotadigital.net/venezuela/dolar-oficial-supero-nueva-barrera-asi-se-cotizo-este-8ene/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/04/imagedolares93945.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GUSTAVO PETRO LE PROPUSO A DELCY RODRÍGUEZ UN DIÁLOGO TRIPARTITO CON EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/gustavo-petro-le-propuso-a-delcy-rodriguez-un-dialogo-tripartito-con-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/gustavo-petro-colombia-627x376.jpg"
+      "title": "TRUMP CREE QUE PODRÍA «CONTROLAR A VENEZUELA» Y EXPLOTAR SUS RESERVAS «POR AÑOS»",
+      "link": "https://noticierodigital.com/2026/01/trump-cree-que-podria-controlar-a-venezuela-y-explotar-sus-reservas-por-anos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/DonaldTrump_Maduro3enero-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Piden aclarar anuncio de Trump sobre cierre de \"cámara de torturas”",
-      "link": "https://laverdad.com/piden-aclarar-anuncio-de-trump-sobre-cierre-de-camara-de-torturas/",
+      "title": "Plataforma Unitaria urge la liberación “inmediata” de “todos los presos políticos”",
+      "link": "https://laverdad.com/plataforma-unitaria-urge-la-liberacion-inmediata-de-todos-los-presos-politicos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/image-37.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Trump asegura que la administración de EE. UU. sobre Venezuela durará años, pero afirma que la reconstrucción será \"muy rentable\"",
       "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-la-administracion-de-ee-uu-sobre-venezuela-durara-anos-pero-afirma-que-la-reconstruccion-sera-muy-rentable/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/Congreso-eeuu-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-100.jpg"
     }
   ],
-  "lastUpdate": "2026-01-08T12:48:03.809Z"
+  "lastUpdate": "2026-01-08T13:41:14.879Z"
 };
