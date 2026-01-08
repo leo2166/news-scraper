@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "773,99"
+      "usdt": "756,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "María Corina Machado dice que el Gobierno de Delcy Rodríguez es “temporal”",
-      "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-trump-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maduro-delcy-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Muerte de una mujer tras un operativo de ICE eleva la tensión en Minneapolis",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/ofensiva-ice-inmigrantes-minneapolis-noticias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/minneapolis-renee-good.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Unión Europea podría evaluar la posibilidad de levantar sanciones contra Delcy Rodríguez",
-      "link": "https://caraotadigital.net/mundo/union-europea-podria-evaluar-la-posibilidad-de-levantar-sanciones-contra-delcy-rodriguez/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rodriguez-3.jpg"
+      "title": "Yván Gil invita al secretario general de la ONU a constatar «de primera mano» consecuencias de ataques de EEUU",
+      "link": "https://caraotadigital.net/mundo/yvan-gil-invita-al-secretario-general-de-la-onu-a-constatar-de-primera-mano-consecuencias-de-ataques-de-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/09/Yvan-Gil-y-Guterres-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ampliación de autopista Norte en Bogotá tiene luz verde: ANLA aprobó licencia ambiental",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/ampliacion-de-autopista-norte-en-bogota-tiene-luz-verde-anla-aprobo-licencia-ambiental-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4035d52/2147483647/strip/true/crop/1280x722+0+32/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0b%2Ffa%2F34d8b6704990b37f9763482bbbcb%2Fautopista-concesionaria.jpg"
+      "title": "Quién era la mujer que murió tras recibir disparos durante un operativo del ICE en EE. UU.",
+      "link": "https://www.noticiascaracol.com/mundo/quien-era-la-mujer-que-murio-tras-recibir-disparos-durante-un-operativo-del-ice-en-ee-uu-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/df254db/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F66%2F6d%2Fc9ec34eb46a491a5521dd39bf663%2Fice.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Deportan a 2 periodistas extranjeros tras 10 horas detenidos en la frontera colombo-venezolana",
       "link": "https://laverdad.com/deportan-a-2-periodistas-extranjeros-tras-10-horas-detenidos-en-la-frontera-colombo-venezolana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-40.jpg"
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Danny-Ocean-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump plantea la posibilidad de visitar Venezuela: “Creo que en algún momento será seguro”",
-      "link": "https://diarioversionfinal.com/mundo/trump-plantea-la-posibilidad-de-visitar-venezuela-creo-que-en-algun-momento-sera-seguro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/FlXlElfy-WhatsApp-Image-2026-01-08-at-12.22.25-AM-750x430.jpeg"
+      "title": "Cilia y Maduro duermen en un colchón muy delgado sobre una losa de metal",
+      "link": "https://diarioversionfinal.com/politica-dinero/cilia-y-maduro-duermen-en-un-colchon-muy-delgado-sobre-una-losa-de-metal/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/diaz-canel-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-08T15:27:04.413Z"
+  "lastUpdate": "2026-01-08T16:31:04.336Z"
 };
