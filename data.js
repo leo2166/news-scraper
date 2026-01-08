@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "751,90"
+      "usdt": "771,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump se reunirá con directivos de petroleras estadounidenses para definir el acceso a las reservas en Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/07/donald-trump-se-reunira-con-directivos-de-petroleras-estadounidenses-para-definir-el-acceso-a-las-reservas-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/D6N6MOFCDFBPZGYIUZ2FS2ZYFY.JPG?auth=77ede109c11ac451837e384d149bd703708cac9717d24d0b4c82109061cf3fd1&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos avanza con los planes para reabrir su embajada en Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/08/estados-unidos-avanza-con-los-planes-para-reabrir-su-embajada-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6KERVNHWHRCXHA5TRJI5GBGOBY.JPG?auth=6ed9cf643ca93e45780631e68c93ab8cfd92ac2a9bd9c90b78a999fb7341f0ef&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela usará ingresos petroleros para comprar productos hechos en EE.UU., dice Trump",
+      "title": "Venezuela usará ingresos petroleros para comprar solo productos hechos en EE.UU., dice Trump",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2252064735.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EEUU anuncia que «trabajará para mejorar la red eléctrica» de Venezuela",
-      "link": "https://caraotadigital.net/eeuu/eeuu-anuncia-que-trabajara-para-mejorar-la-red-electrica-de-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/11/Fallas-electricas-transformador-150x150.jpg"
+      "title": "VIDEO: Delcy Rodríguez confirma mejoras al sistema eléctrico venezolano",
+      "link": "https://caraotadigital.net/venezuela/video-delcy-rodriguez-confirma-mejoras-al-sistema-electrico-venezolano/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rodriguez-CD-3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ORDENÓ AL GPP TRABAJAR POR «MANTENER LA PAZ» EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/delcy-rodriguez-ordeno-al-gpp-trabajar-por-mantener-la-paz-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-3-627x376.jpg"
+      "title": "EE. UU. REDUCE SELECTIVAMENTE LAS SANCIONES PETROLERAS A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/ee-uu-reduce-selectivamente-las-sanciones-petroleras-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/04/petroleo-venezuela-chevron-21abr2020.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Así avanza concentración en Plaza de Bolívar de Bogotá en medio de tensiones con EE. UU.",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-en-vivo-miercoles-7-de-enero-de-2026-movilizaciones-y-cierres-de-estaciones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cf5ddbc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc0%2Fac%2F2d5c516443739daf563e7ccd3893%2Ftamano-imagenes-7.jpg"
+      "title": "Petro contó detalles de conversación con Trump: restablecer “comunicación permite bajar los tonos”",
+      "link": "https://www.noticiascaracol.com/politica/petro-conto-detalles-de-conversacion-con-trump-restablecer-comunicacion-permite-bajar-los-tonos-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c46df13/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F02%2F36%2F0067c0b146d9883085100a210f50%2Fpetro-sobre-dialogo-con-trump.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Exconsejero de la Casa Blanca a María Corina: “Dele la medalla del Nobel a Trump”",
-      "link": "https://diarioversionfinal.com/politica-dinero/exconsejero-de-la-casa-blanca-a-maria-corina-dele-la-medalla-del-nobel-a-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/poste-caido-electricidad-maracaibo-14-de-agosto-2024-version-final-jose-gabriel-lugo-5-750x430.jpg"
+      "title": "Reportan “movimientos inusuales” en El Helicoide: desmantelarían oficinas pero no confirman liberación de presos",
+      "link": "https://diarioversionfinal.com/politica-dinero/reportan-movimientos-inusuales-en-el-helicoide-desmantelarian-oficinas-pero-no-confirman-liberacion-de-presos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Petro-Trump-07-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-07T23:21:12.115Z"
+  "lastUpdate": "2026-01-08T01:47:34.653Z"
 };
