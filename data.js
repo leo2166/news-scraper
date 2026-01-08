@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "774,68"
+      "usdt": "776,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "General Javier Marcano Tábata, exjefe de Casa Militar exalta a soldados caídos: “¡Jamás se doblegaron!”",
-      "link": "https://diarioversionfinal.com/politica-dinero/general-javier-marcano-tabata-exjefe-de-casa-militar-exalta-a-soldados-caidos-jamas-se-doblegaron/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-12.47.38-AM-750x430.jpeg"
+      "title": "Trump asegura que la administración de EE. UU. sobre Venezuela durará años, pero afirma que la reconstrucción será \"muy rentable\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-la-administracion-de-ee-uu-sobre-venezuela-durara-anos-pero-afirma-que-la-reconstruccion-sera-muy-rentable/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/1qJXMvAS-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-08T09:29:13.500Z"
+  "lastUpdate": "2026-01-08T10:26:00.827Z"
 };
