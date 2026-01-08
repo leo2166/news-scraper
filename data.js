@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "747,00"
+      "usdt": "773,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Los barcos fantasma usan cada vez más banderas rusas para tratar de esquivar sanciones internacionales",
-      "link": "https://www.infobae.com/venezuela/2026/01/08/los-barcos-fantasma-usan-cada-vez-mas-banderas-rusas-para-tratar-de-esquivar-sanciones-internacionales/",
-      "image": "https://www.infobae.com/resizer/v2/E6EMPJNBUZFA3G3PZ3H3GHJFWM.JPG?auth=92b1bbf3155c25925ddd0f6fc7e325b0c71992de93dc946f63ce32a75365154c&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado: “Queremos que la transición en Venezuela sea lo más ordenada y pacífica posible”",
+      "link": "https://www.infobae.com/venezuela/2026/01/08/maria-corina-machado-queremos-que-la-transicion-en-venezuela-sea-lo-mas-ordenada-y-pacifica-posible/",
+      "image": "https://www.infobae.com/resizer/v2/RPXNNWUDGFG2ZGZ3WQ5VC367KM.jpg?auth=83b056ff668d200f56db57f8440e05d877c0b2b25072bef18886d384a85aa673&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Deportaron a dos periodistas que intentaron ingresar al país, estuvieron más de 10 horas retenidos",
-      "link": "https://caraotadigital.net/venezuela/deportaron-a-dos-periodistas-que-intentaron-ingresar-al-pais-estuvieron-mas-de-10-horas-retenidos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/detenidos.jpg"
+      "title": "Unión Europea podría evaluar la posibilidad de levantar sanciones contra Delcy Rodríguez",
+      "link": "https://caraotadigital.net/mundo/union-europea-podria-evaluar-la-posibilidad-de-levantar-sanciones-contra-delcy-rodriguez/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rodriguez-3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SNTP REPORTÓ LIBERACIÓN Y DEPORTACIÓN DE DOS PERIODISTAS EXTRANJEROS EN LA FRONTERA",
-      "link": "https://noticierodigital.com/2026/01/sntp-reporto-liberacion-y-deportacion-de-dos-periodistas-extranjeros-en-la-frontera/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/10/emisoraderadio-sntp-19oct2022.jpg"
+      "title": "RELIANCE CONSIDERA COMPRAR CRUDO VENEZOLANO «DE ACUERDO A LAS NORMAS»",
+      "link": "https://noticierodigital.com/2026/01/reliance-considera-comprar-crudo-venezolano-de-acuerdo-a-las-normas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/02/reliance-india-6feb2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "China reprocha incautación de petrolero ruso que estaba vinculado a Venezuela",
-      "link": "https://laverdad.com/china-reprocha-incautacion-de-petrolero-ruso-que-estaba-vinculado-a-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-37.jpg"
+      "title": "Deportan a 2 periodistas extranjeros tras 10 horas detenidos en la frontera colombo-venezolana",
+      "link": "https://laverdad.com/deportan-a-2-periodistas-extranjeros-tras-10-horas-detenidos-en-la-frontera-colombo-venezolana/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-40.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que la administración de EE. UU. sobre Venezuela durará años, pero afirma que la reconstrucción será \"muy rentable\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-la-administracion-de-ee-uu-sobre-venezuela-durara-anos-pero-afirma-que-la-reconstruccion-sera-muy-rentable/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/embajada-estados-unidos-venezuela-1280x900-1-780x470-1-750x430.jpg"
+      "title": "Trump plantea la posibilidad de visitar Venezuela: “Creo que en algún momento será seguro”",
+      "link": "https://diarioversionfinal.com/mundo/trump-plantea-la-posibilidad-de-visitar-venezuela-creo-que-en-algun-momento-sera-seguro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/FlXlElfy-WhatsApp-Image-2026-01-08-at-12.22.25-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-08T14:26:41.656Z"
+  "lastUpdate": "2026-01-08T15:27:04.413Z"
 };
