@@ -5,7 +5,7 @@
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "799,89"
+      "usdt": "763,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El arsenal aéreo que EEUU usó para extraer a Maduro revela su dominio tecnológico y envía un mensaje a China",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/08/el-arsenal-aereo-que-eeuu-uso-para-extraer-a-maduro-revela-su-dominio-tecnologico-y-envia-un-mensaje-a-china/",
-      "image": "https://www.infobae.com/resizer/v2/X5HM7UXPPBEKXGP74WE7RN2IYY.JPG?auth=fc24cbff1ee617dc2363fd4629d0fbbb0a663e614759df9e4c0b60d42fb0166a&smart=true&width=350&height=197&quality=85"
+      "title": "Los barcos fantasma usan cada vez más banderas rusas para tratar de esquivar sanciones internacionales",
+      "link": "https://www.infobae.com/venezuela/2026/01/08/los-barcos-fantasma-usan-cada-vez-mas-banderas-rusas-para-tratar-de-esquivar-sanciones-internacionales/",
+      "image": "https://www.infobae.com/resizer/v2/E6EMPJNBUZFA3G3PZ3H3GHJFWM.JPG?auth=92b1bbf3155c25925ddd0f6fc7e325b0c71992de93dc946f63ce32a75365154c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Petro contó detalles de conversación con Trump: restablecer “comunicación permite bajar los tonos”",
-      "link": "https://www.noticiascaracol.com/politica/petro-conto-detalles-de-conversacion-con-trump-restablecer-comunicacion-permite-bajar-los-tonos-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c46df13/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F02%2F36%2F0067c0b146d9883085100a210f50%2Fpetro-sobre-dialogo-con-trump.jpg"
+      "title": "Ampliación de autopista Norte en Bogotá tiene luz verde: ANLA aprobó licencia ambiental",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/ampliacion-de-autopista-norte-en-bogota-tiene-luz-verde-anla-aprobo-licencia-ambiental-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4035d52/2147483647/strip/true/crop/1280x722+0+32/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0b%2Ffa%2F34d8b6704990b37f9763482bbbcb%2Fautopista-concesionaria.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Machado pide la liberación del yerno de González Urrutia a quien considera \"héroe\"",
-      "link": "https://laverdad.com/machado-pide-la-liberacion-del-yerno-de-gonzalez-urrutia-a-quien-considera-heroe/",
+      "title": "Piden aclarar anuncio de Trump sobre cierre de \"cámara de torturas”",
+      "link": "https://laverdad.com/piden-aclarar-anuncio-de-trump-sobre-cierre-de-camara-de-torturas/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/image-37.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Trump asegura que la administración de EE. UU. sobre Venezuela durará años, pero afirma que la reconstrucción será \"muy rentable\"",
       "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-la-administracion-de-ee-uu-sobre-venezuela-durara-anos-pero-afirma-que-la-reconstruccion-sera-muy-rentable/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/maria-corina-machado-20251211095316315-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/Congreso-eeuu-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-08T11:21:38.490Z"
+  "lastUpdate": "2026-01-08T12:48:03.809Z"
 }
