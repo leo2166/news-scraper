@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "742,00"
+      "usdt": "725,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,19 +28,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Venezuela anuncia la excarcelación de “un número importante” de presos políticos",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-trump-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maduro-delcy-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26008662239960-20260108214828648.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "«Parecían gente sin entrenamiento»: Los detalles del fatal operativo de ICE que dejó una mujer muerta",
-      "link": "https://caraotadigital.net/eeuu/parecian-gente-sin-entrenamiento-los-detalles-del-fatal-operativo-de-ice-que-dejo-una-mujer-muerta/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MINNESOTA-1.jpg"
+      "title": "Lo que exigieron legisladores de Florida tras anuncio de liberación de «número importante» de presos políticos en Venezuela",
+      "link": "https://caraotadigital.net/eeuu/lo-que-exigieron-legisladores-de-florida-tras-anuncio-de-liberacion-de-numero-importante-de-presos-politicos-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/PRESOS-POLITICOS-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REUTERS: EMBAJADAS ORGANIZAN VISITAS EN VENEZUELA PARA PETROLERAS EUROPEAS Y ESTADOUNIDENSES",
-      "link": "https://noticierodigital.com/2026/01/reuters-embajadas-organizan-visitas-en-venezuela-para-petroleras-europeas-y-estadounidenses/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/petroleoTrump-627x376.jpg"
+      "title": "PAGAN BONOS DEL SISTEMA PATRIA «SIN NOVEDAD» TRAS DETENCIÓN DE MADURO",
+      "link": "https://noticierodigital.com/2026/01/pagan-bonos-del-sistema-patria-sin-novedad-tras-detencion-de-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/08/bonopatria.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Suiza congela cuentas a Maduro, familiares, operadores, banqueros y empresarios de su entorno",
       "link": "https://diarioversionfinal.com/politica-dinero/suiza-congela-cuentas-a-maduro-familiares-operadores-banqueros-y-empresarios-de-su-entorno/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Rafael-Tudares-1-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Presos-politicos-27-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-08T21:22:18.682Z"
+  "lastUpdate": "2026-01-08T22:22:14.908Z"
 };
