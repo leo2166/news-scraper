@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "375,31"
     },
     "binance": {
-      "usdt": "813,00"
+      "usdt": "774,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos avanza con los planes para reabrir su embajada en Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/08/estados-unidos-avanza-con-los-planes-para-reabrir-su-embajada-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6KERVNHWHRCXHA5TRJI5GBGOBY.JPG?auth=6ed9cf643ca93e45780631e68c93ab8cfd92ac2a9bd9c90b78a999fb7341f0ef&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | Una ONG venezolana llamó a la calma ante los rumores de posibles liberaciones de presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/01/08/transicion-en-venezuela-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/7KSD2ASY6BBMPPQLYZYL52O7IU.jpg?auth=82759d0813d80d5a29e0fedfdc79c8e864614eedeb18f1f458fe02dbbb194fd0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela usará ingresos petroleros para comprar solo productos hechos en EE.UU., dice Trump",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/noticias-maduro-detenido-venezuela-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2252064735.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump y Petro alivian las tensiones bilaterales",
+      "link": "https://cnnespanol.cnn.com/2026/01/08/colombia/trump-hablo-presidente-colombia-gustavo-petro-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-petro-2.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-12.47.38-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-08T06:35:42.927Z"
+  "lastUpdate": "2026-01-08T07:25:18.249Z"
 };
