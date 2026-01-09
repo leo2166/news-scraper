@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "325,39",
-      "eur": "379,64"
+      "usd": "330,38",
+      "eur": "384,33"
     },
     "binance": {
-      "usdt": "604,96"
+      "usdt": "598,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La Cancillería de Delcy Rodríguez anunció el inicio de un proceso diplomático con Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/venezuela-anuncio-un-proceso-diplomatico-con-estados-unidos-para-abordar-una-agenda-de-trabajo-de-interes-mutuo/",
-      "image": "https://www.infobae.com/resizer/v2/V5DM4JQWCNETZA6APMDTSP2R3E.JPG?auth=4977a1e14bf0199363c0c1fdf0120086398aac7782a684e0f18a4b82e694c48f&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump aseguró que Estados Unidos decidirá qué compañías petroleras podrán operar en Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/09/donald-trump-aseguro-que-estados-unidos-decidira-que-companias-petroleras-pueden-operar-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/ZRLAH6X3HREGTDHKVWUKSEVNGY.JPG?auth=13b98cb209205dfb907d7aac4862d1138d097dbc24d8c79a1aedfaa86a84f9c6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,19 +28,13 @@
       "source": "CNN en Español",
       "title": "EE.UU. incauta otro buque petrolero en el Caribe",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-minneapolis-ross-gold.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump dio detalles de su reunión con Petro: «Será muy beneficioso para Colombia y EEUU»",
-      "link": "https://caraotadigital.net/mundo/trump-dio-detalles-de-su-reunion-con-petro-sera-muy-beneficioso-para-colombia-y-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/PE-1.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "PEDRO SÁNCHEZ EXPRESÓ A DELCY RODRÍGUEZ QUE RESPALDA UNA TRANSICIÓN «PACÍFICA Y DEMOCRÁTICA»",
-      "link": "https://noticierodigital.com/2026/01/pedro-sanchez-expreso-a-delcy-rodriguez-que-respalda-una-transicion-pacifica-y-democratica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-2.11.20-PM-627x376.jpeg"
+      "title": "Dos fuertes bajones afectaron Caracas y otras ciudades, algunas zonas quedaron sin electricidad",
+      "link": "https://caraotadigital.net/venezuela/dos-fuertes-bajones-afectaron-caracas-y-otras-ciudades-algunas-zonas-quedaron-sin-electricidad/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/sistema-electrico-luz.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Locutora busca ayuda para luchar contra la esclerosis múltiple",
-      "link": "https://laverdad.com/locutora-busca-ayuda-para-luchar-contra-la-esclerosis-multiple/",
+      "title": "Familias cumplen 24 horas de suspenso tras aviso de liberación de “presos políticos”",
+      "link": "https://laverdad.com/familias-cumplen-24-horas-de-suspenso-tras-aviso-de-liberacion-de-presos-politicos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Nacho-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Freddy Ñáñez desmiente supuesta solicitud de Delcy Rodríguez para viajar a la Casa Blanca",
-      "link": "https://diarioversionfinal.com/politica-dinero/freddy-nanez-desmiente-supuesta-solicitud-de-delcy-rodriguez-para-viajar-a-la-casa-blanca/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5107210015168203791_w-750x430.jpg"
+      "title": "Caos en juicio contra Nicolás Maduro en Estados Unidos: abogado se presentó a defenderlo sin autorización",
+      "link": "https://diarioversionfinal.com/politica-dinero/caos-en-juicio-contra-nicolas-maduro-en-estados-unidos-abogado-se-presento-a-defenderlo-sin-autorizacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-5.47.09-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-09T20:25:50.967Z"
+  "lastUpdate": "2026-01-09T21:21:43.556Z"
 }
