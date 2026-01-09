@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "758,87"
+      "usdt": "750,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,33 +20,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "\"La injusticia no va a ser eterna\": María Corina Machado califica excarcelaciones como acto de restitución moral\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/la-injusticia-no-va-a-ser-eterna-maria-corina-machado-califica-excarcelaciones-como-acto-de-restitucion-moral/",
+      "title": "[VIDEO] Primeras excarcelaciones de presos políticos: Enrique Márquez y Biagio Pilieri se reúnen con sus familiares\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/video-primeras-excarcelaciones-de-presos-politicos-enrique-marquez-y-biagio-pilieri-se-reunen-con-sus-familiares/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Quién es quién entre los presos políticos liberados en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/01/08/venezuela/quien-son-presos-politicos-liberados-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/fbi-portland.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/portland-20260109012515358.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Filtraron detalles sobre condición del piloto herido de helicóptero Chinook que participó en captura de Maduro",
-      "link": "https://caraotadigital.net/eeuu/2634filtraron-detalles-sobre-condicion-del-piloto-herido-de-helicoptero-chinook-que-participo-en-captura-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/CARACAS.jpg"
+      "title": "Trump dice que le gustaría saludar a María Corina cuando visite EEUU la próxima semana",
+      "link": "https://caraotadigital.net/eeuu/trump-dice-que-le-gustaria-saludar-a-maria-corina-cuando-visite-eeuu-la-proxima-semana/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FERMÍN CONDENÓ LA OPERACIÓN MILITAR DE EE. UU.: «TRUMP VINO A SAQUEAR UN PAÍS»",
-      "link": "https://noticierodigital.com/2026/01/fermin-condeno-la-operacion-militar-de-ee-uu-trump-vino-a-saquear-un-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/claudio-fermin-venezuela-627x376.jpg"
+      "title": "COPA AIRLINES ANUNCIÓ REINICIO DE VUELOS A CARACAS DESDE EL 13 DE ENERO",
+      "link": "https://noticierodigital.com/2026/01/copa-airlines-anuncio-reinicio-de-vuelos-a-caracas-desde-el-13-de-enero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/copa-airlines-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "IPC de 2025 en Colombia quedó en 5,1%, según DANE; ¿cuánto podrán subir arriendos y más para 2026?",
-      "link": "https://www.noticiascaracol.com/economia/ipc-de-2025-en-colombia-quedo-en-5-1-segun-el-dane-en-cuanto-podran-subir-arriendos-y-mas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a68b366/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F33%2F02%2F193748d64d7db749e8d3f33e2d6a%2Ftamano-imagenes-39.png"
+      "title": "Gobierno colombiano confirma reunión entre Petro y Delcy Rodríguez, presidenta interina de Venezuela",
+      "link": "https://www.noticiascaracol.com/colombia/gobierno-colombiano-confirma-reunion-entre-petro-y-delcy-rodriguez-presidenta-interina-de-venezuela-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e48c913/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F84%2F1d%2Fbdb550e641a199e1fdda0bce1adc%2Ftamano-imagenes-41.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "\"Iván Mordisco\" reaparece y al ELN y Segunda Marquetalia defender a Venezuela",
-      "link": "https://diarioversionfinal.com/politica-dinero/alias-ivan-mordisco-pide-a-eln-y-segunda-marquetalia-cumbre-por-operacion-de-eeuu-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/delcy-rodriguez-jose-manuel-albares-750x430.jpg"
+      "title": "Trump confirma que se reunirá con María Corina en EE. UU. la próxima semana: \"Me interesa saludarla\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/trump-confirma-que-se-reunira-con-maria-corina-en-ee-uu-la-proxima-semana-me-interesa-saludarla/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marquez-Pilieri-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T01:47:44.036Z"
+  "lastUpdate": "2026-01-09T03:40:33.857Z"
 };
