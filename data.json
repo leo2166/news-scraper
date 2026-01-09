@@ -5,7 +5,7 @@
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "748,00"
+      "usdt": "749,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | Ascienden a ocho las excarcelaciones de presos políticos en Venezuela tras el anuncio del régimen chavista",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/6VXSLRYHX5CUJJPRHTZNDIJBQI.jpg?auth=ad46c62cbe2835eca47e9c03169985d88c86dd86cf14513695000dc85ba13d15&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump anunció la cancelación de una segunda ola de ataques en Venezuela tras la liberación de presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/01/09/donald-trump-anuncio-la-cancelacion-de-una-segunda-ola-de-ataques-en-venezuela-tras-la-liberacion-de-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/MQZ2GXAPCRCUZPSY2RB2UNZVD4.jpg?auth=df795069faec1260b5585e66b37d004f2dc9755a83333632954d4d2cecd4dd5e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marquez-Pilieri-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T09:28:57.112Z"
+  "lastUpdate": "2026-01-09T10:24:30.072Z"
 }
