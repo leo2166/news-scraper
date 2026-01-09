@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "598,00"
+      "usdt": "570,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Washington Post: El Vaticano habría mediado una oferta de asilo ruso para Maduro antes de su captura\nMUNDO",
-      "link": "https://www.elnacional.com/2026/01/washington-post-el-vaticano-habria-mediado-una-oferta-de-asilo-ruso-para-maduro-antes-de-su-captura/",
+      "title": "Trump asegura que las petroleras permanecerán por mucho tiempo en Venezuela: “Que eliminen la vieja chatarra”\nMUNDO",
+      "link": "https://www.elnacional.com/2026/01/trump-asegura-que-las-petroleras-permaneceran-por-mucho-tiempo-en-venezuela-que-eliminen-la-vieja-chatarra/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. incauta otro buque petrolero en el Caribe",
+      "title": "Trump se reúne con ejecutivos de compañías petroleras para hablar sobre Venezuela",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-minneapolis-ross-gold.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254852755-20260109215653301.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Dos fuertes bajones afectaron Caracas y otras ciudades, algunas zonas quedaron sin electricidad",
-      "link": "https://caraotadigital.net/venezuela/dos-fuertes-bajones-afectaron-caracas-y-otras-ciudades-algunas-zonas-quedaron-sin-electricidad/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/sistema-electrico-luz.jpg"
+      "title": "VIRAL: Investigan el brutal caso de maltrato animal que conmocionó a Caracas, lo grabaron en un balcón",
+      "link": "https://caraotadigital.net/sucesos/viral-investigan-el-brutal-caso-de-maltrato-animal-que-conmociono-a-caracas-lo-grabaron-en-un-balcon/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-18.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "DEFENSA DE MADURO DICE QUE ABOGADO BRUCE FEIN NO FUE AUTORIZADO A SUMARSE AL CASO",
+      "link": "https://noticierodigital.com/2026/01/defensa-de-maduro-dice-que-abogado-bruce-fein-no-fue-autorizado-a-sumarse-al-caso/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-1-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Caos en juicio contra Nicolás Maduro en Estados Unidos: abogado se presentó a defenderlo sin autorización",
-      "link": "https://diarioversionfinal.com/politica-dinero/caos-en-juicio-contra-nicolas-maduro-en-estados-unidos-abogado-se-presento-a-defenderlo-sin-autorizacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-5.47.09-PM-750x430.jpeg"
+      "title": "Washington Post: El Vaticano trató de negociar asilo de Maduro en Rusia",
+      "link": "https://diarioversionfinal.com/mundo/washington-post-el-vaticano-trato-de-negociar-asilo-de-maduro-en-rusia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/b5905dcbc269ddc75d8a4267b431b95a-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-09T21:21:43.556Z"
+  "lastUpdate": "2026-01-09T22:22:00.318Z"
 };
