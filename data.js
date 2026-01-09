@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "756,00"
+      "usdt": "755,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Quién es Enrique Márquez, el ex candidato presidencial liberado por el régimen chavista",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/quien-es-enrique-marquez-el-ex-candidato-presidencial-liberado-por-el-regimen-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/JM7CBTBSXFCCDGOJSMULA2AQ4Y?auth=591d2029ecb6ae72ba8fd24b580d84a8ad080bf05421c13c8b3c1d06f8971973&smart=true&width=350&height=197&quality=85"
+      "title": "Qué empresas petroleras de Estados Unidos tienen intereses en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/09/que-empresas-petroleras-de-estados-unidos-tienen-intereses-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/VD3Q5O5I2JFPRCZKEINE5DSCFM.jpg?auth=7a204d325c1c95c03ca4c7cddf5be6e864fd4d648164a6e0d3886f7c0ddf7d78&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marquez-Pilieri-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T05:26:10.220Z"
+  "lastUpdate": "2026-01-09T06:35:38.745Z"
 };
