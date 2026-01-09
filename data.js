@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "749,99"
+      "usdt": "747,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump anunció la cancelación de una segunda ola de ataques en Venezuela tras la liberación de presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/donald-trump-anuncio-la-cancelacion-de-una-segunda-ola-de-ataques-en-venezuela-tras-la-liberacion-de-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/MQZ2GXAPCRCUZPSY2RB2UNZVD4.jpg?auth=df795069faec1260b5585e66b37d004f2dc9755a83333632954d4d2cecd4dd5e&smart=true&width=350&height=197&quality=85"
+      "title": "El papa León XIV pidió una solución política que respete la voluntad y los derechos humanos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/09/el-papa-leon-xiv-pidio-una-solucion-politica-que-respete-la-voluntad-y-los-derechos-humanos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4RVSWWUK5VGK7OX7V73S3FAB4I.jpg?auth=c384605e23bf144dfe1067ea547f45a207622adb066915cfce8262b8eba0e105&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Quién es quién entre los presos políticos liberados en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/01/08/venezuela/quien-son-presos-politicos-liberados-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/portland-20260109012515358.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump afirma que canceló una segunda ola de ataques contra Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/09/venezuela/trump-cancelo-ataques-venezuela-cooperacion-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254307302.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "El emotivo abrazo de presos políticos Enrique Márquez y Biagio Pilieri tras liberación en Venezuela",
-      "link": "https://www.noticiascaracol.com/mundo/confirman-excarcelacion-de-excandidato-presidencial-enrique-marquez-y-biagio-pilieri-en-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bb5d172/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2F71%2Fe228e6424d809b3d3dae5fb4e07a%2Ftamano-imagenes-42.png"
+      "title": "IPC de 2025 en Colombia quedó en 5,1%, según DANE; ¿cuánto podrán subir arriendos y más este 2026?",
+      "link": "https://www.noticiascaracol.com/economia/ipc-de-2025-en-colombia-quedo-en-5-1-segun-el-dane-en-cuanto-podran-subir-arriendos-y-mas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a68b366/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F33%2F02%2F193748d64d7db749e8d3f33e2d6a%2Ftamano-imagenes-39.png"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marquez-Pilieri-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T10:24:30.072Z"
+  "lastUpdate": "2026-01-09T11:20:09.058Z"
 };
