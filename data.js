@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "750,87"
+      "usdt": "756,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Tres barcos navegan hacia Estados Unidos con petróleo venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/tres-barcos-navegan-hacia-estados-unidos-con-petroleo-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/E4D65FIEA5HGBNF2USVZPVCMQA.jpg?auth=5ce10f7bdb39aa89903624ed1e345ff8628c63c35d718d0cba99eeaf3949b00d&smart=true&width=350&height=197&quality=85"
+      "title": "Quién es Enrique Márquez, el ex candidato presidencial liberado por el régimen chavista",
+      "link": "https://www.infobae.com/venezuela/2026/01/09/quien-es-enrique-marquez-el-ex-candidato-presidencial-liberado-por-el-regimen-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/JM7CBTBSXFCCDGOJSMULA2AQ4Y?auth=591d2029ecb6ae72ba8fd24b580d84a8ad080bf05421c13c8b3c1d06f8971973&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gobierno colombiano confirma reunión entre Petro y Delcy Rodríguez, presidenta interina de Venezuela",
-      "link": "https://www.noticiascaracol.com/colombia/gobierno-colombiano-confirma-reunion-entre-petro-y-delcy-rodriguez-presidenta-interina-de-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e48c913/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F84%2F1d%2Fbdb550e641a199e1fdda0bce1adc%2Ftamano-imagenes-41.png"
+      "title": "El emotivo abrazo de presos políticos Enrique Márquez y Biagio Pilieri tras liberación en Venezuela",
+      "link": "https://www.noticiascaracol.com/mundo/confirman-excarcelacion-de-excandidato-presidencial-enrique-marquez-y-biagio-pilieri-en-venezuela-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bb5d172/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2F71%2Fe228e6424d809b3d3dae5fb4e07a%2Ftamano-imagenes-42.png"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marquez-Pilieri-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T03:40:33.857Z"
+  "lastUpdate": "2026-01-09T04:40:57.744Z"
 };
