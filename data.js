@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Qué empresas petroleras de Estados Unidos tienen intereses en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/que-empresas-petroleras-de-estados-unidos-tienen-intereses-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/VD3Q5O5I2JFPRCZKEINE5DSCFM.jpg?auth=7a204d325c1c95c03ca4c7cddf5be6e864fd4d648164a6e0d3886f7c0ddf7d78&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | Ascienden a ocho las excarcelaciones de presos políticos en Venezuela tras anuncio del régimen chavista",
+      "link": "https://www.infobae.com/venezuela/2026/01/09/transicion-en-venezuela-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/6VXSLRYHX5CUJJPRHTZNDIJBQI.jpg?auth=ad46c62cbe2835eca47e9c03169985d88c86dd86cf14513695000dc85ba13d15&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marquez-Pilieri-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T06:35:38.745Z"
+  "lastUpdate": "2026-01-09T07:26:31.163Z"
 };
