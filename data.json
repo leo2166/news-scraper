@@ -5,7 +5,7 @@
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "685,99"
+      "usdt": "708,58"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El papa León XIV pidió una solución política que respete la voluntad y los derechos humanos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/el-papa-leon-xiv-pidio-una-solucion-politica-que-respete-la-voluntad-y-los-derechos-humanos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/4RVSWWUK5VGK7OX7V73S3FAB4I.jpg?auth=c384605e23bf144dfe1067ea547f45a207622adb066915cfce8262b8eba0e105&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos incautó otro buque cisterna vinculado a Venezuela en el mar Caribe",
+      "link": "https://www.infobae.com/venezuela/2026/01/09/estados-unidos-incauto-otro-buque-cisterna-vinculado-a-venezuela-en-el-mar-caribe/",
+      "image": "https://www.infobae.com/resizer/v2/MW5FF5EVQJEOJHBBYD3HVDHPME.jpg?auth=bba92959c193225aa7267cc4c9ed88fbe7e72d0e879206cbcf6efa0f255561c8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump afirma que canceló una segunda ola de ataques contra Venezuela",
+      "title": "EE.UU. incauta otro buque petrolero en el Caribe",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-hoy-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254675898.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Dólar oficial sigue en alza: Así se cotizó este 9Ene",
-      "link": "https://caraotadigital.net/venezuela/dolar-oficial-sigue-en-alza-asi-se-cotizo-este-9ene/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/dolares.jpg"
+      "title": "Trump canceló «segunda ola de ataques» en Venezuela, esto dijo de las liberaciones de los presos políticos",
+      "link": "https://caraotadigital.net/eeuu/trump-cancelo-segunda-ola-de-ataques-en-venezuela-esto-dijo-de-las-liberaciones-de-los-presos-politicos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-23.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REPRESIÓN A PROTESTAS EN IRÁN DEJA UNAS 45 PERSONAS MUERTAS Y MILES DE DETENIDAS",
-      "link": "https://noticierodigital.com/2026/01/represion-a-protestas-en-iran-deja-unas-45-personas-muertas-y-miles-de-detenidas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-12-627x376.jpg"
+      "title": "FORO PENAL VERIFICÓ EXCARCELACIÓN DE OCHO PRESOS POLÍTICOS HASTA LA MAÑANA DE ESTE VIERNES",
+      "link": "https://noticierodigital.com/2026/01/foro-penal-verifico-excarcelacion-de-ocho-presos-politicos-hasta-la-manana-de-este-viernes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/09/alfredo-romero-foro-penal-22sep2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno asciende y condecora a los militares que murieron en ataque de EE. UU.",
-      "link": "https://laverdad.com/gobierno-asciende-y-condecora-a-los-militares-que-murieron-en-ataque-de-ee-uu/",
+      "title": "China mantendrá su apoyo a Venezuela “sin importar cómo evolucione la situación política”",
+      "link": "https://laverdad.com/china-mantendra-su-apoyo-a-venezuela-sin-importar-como-evolucione-la-situacion-politica/",
       "image": "https://laverdad.com/wp-content/uploads/2025/06/Jesus-Luzardo-VS-Mets-de-Nueva-York.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Luis Carlos Díaz: Liberaciones se complican porque los carceleros responden a diferentes tribus",
+      "title": "Luis Carlos Díaz: Liberaciones se complican porque los \"carceleros\" responden a diferentes tribus",
       "link": "https://diarioversionfinal.com/politica-dinero/luis-carlos-diaz-liberaciones-se-complican-porque-los-carceleros-responden-a-diferentes-tribus/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/IMG_2767-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-09T13:38:24.580Z"
+  "lastUpdate": "2026-01-09T14:25:48.324Z"
 }
