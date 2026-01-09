@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "[VIDEO] Primeras excarcelaciones de presos políticos: Enrique Márquez y Biagio Pilieri se reúnen con sus familiares\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/video-primeras-excarcelaciones-de-presos-politicos-enrique-marquez-y-biagio-pilieri-se-reunen-con-sus-familiares/",
+      "title": "Solo nueve presos políticos excarcelados hasta primeras horas de la madrugada de este viernes: Rocío San Miguel, Enrique Márquez y Biagio Pilieri entre ellos\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/solo-ocho-presos-politicos-excarcelados-hasta-primeras-horas-de-la-madrugada-de-este-viernes-rocio-san-miguel-enrique-marquez-y-biagio-pilieri-entre-ellos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marquez-Pilieri-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T04:40:57.744Z"
+  "lastUpdate": "2026-01-09T05:26:10.220Z"
 };
