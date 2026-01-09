@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "379,64"
     },
     "binance": {
-      "usdt": "689,87"
+      "usdt": "644,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Diplomáticos de Estados Unidos viajan a Caracas para estudiar la reapertura de la embajada en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/09/diplomaticos-de-estados-unidos-viajan-a-caracas-para-estudiar-la-reapertura-de-la-embajada-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/WXK5PN5CTBFRNAT5SVQLSFGN24.jpg?auth=4d78d945121dd8a0b64af4fab0c2b385b5b43be0106c0781c85de1b279cf2b66&smart=true&width=350&height=197&quality=85"
+      "title": "La Cancillería de Delcy Rodríguez anunció el inicio de un proceso diplomático con Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/01/09/venezuela-anuncio-un-proceso-diplomatico-con-estados-unidos-para-abordar-una-agenda-de-trabajo-de-interes-mutuo/",
+      "image": "https://www.infobae.com/resizer/v2/V5DM4JQWCNETZA6APMDTSP2R3E.JPG?auth=4977a1e14bf0199363c0c1fdf0120086398aac7782a684e0f18a4b82e694c48f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Diplomáticos estadounidenses aterrizan en Caracas para evaluar reapertura de la embajada\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/diplomaticos-estadounidenses-aterrizan-en-caracas-para-evaluar-reapertura-de-la-embajada/",
+      "title": "Delcy Rodríguez solicita viajar a Washington el martes \nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/delcy-rodriguez-solicita-viajar-a-washington-el-martes/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "EE.UU. incauta otro buque petrolero en el Caribe",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/noticias-maduro-detenido-hoy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250511828.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Funcionarios de Estados Unidos llegaron a Venezuela: Estos serían sus planes, según CNN",
-      "link": "https://caraotadigital.net/venezuela/funcionarios-de-estados-unidos-llegaron-a-venezuela-estos-serian-sus-planes-segun-cnn/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Estado.jpg"
+      "title": "El toma y dame entre Fernando Carillo y los presentadores de El Gordo y La Flaca por la situación en Venezuela",
+      "link": "https://caraotadigital.net/caraota-show/el-toma-y-dame-entre-fernando-carillo-y-los-presentadores-de-el-gordo-y-la-flaca-por-la-situacion-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Carrillo.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EDMUNDO GONZÁLEZ HABLÓ CON PEDRO SÁNCHEZ SOBRE PROCESO DE TRANSICIÓN EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/edmundo-gonzalez-hablo-con-pedro-sanchez-sobre-proceso-de-transicion-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/edmundo-gonzalez-627x376.jpg"
+      "title": "CHRIS WRIGHT: «MUCHÍSIMAS» PETROLERAS INTERESADAS EN INVERTIR EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/chris-wright-muchisimas-petroleras-interesadas-en-invertir-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/rss-efea7db79c3bb228a74fd38aac26fcc96609f185a55w-1200x800-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. confirma envío de personal para evaluar la reapertura de la embajada en Caracas",
-      "link": "https://laverdad.com/ee-uu-confirma-envio-de-personal-para-evaluar-la-reapertura-de-la-embajada-en-caracas/",
+      "title": "EE. UU. identifica a los 2 venezolanos a quienes la Patrulla Fronteriza disparó en Portland",
+      "link": "https://laverdad.com/ee-uu-identifica-a-los-2-venezolanos-a-quienes-la-patrulla-fronteriza-disparo-en-portland/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/image-43.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Encargado de Negocios de EE. UU., John McNamara, está en Caracas",
-      "link": "https://diarioversionfinal.com/politica-dinero/encargado-de-negocios-de-ee-uu-john-mcnamara-esta-en-caracas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-1.17.39-PM-750x430.jpeg"
+      "title": "Gobierno confirma visita de diplomáticos estadounidenses a Caracas: Anuncian próximo viaje de delegación venezolana",
+      "link": "https://diarioversionfinal.com/politica-dinero/gobierno-confirma-visita-de-diplomaticos-estadounidenses-a-caracas-anuncian-proximo-viaje-de-delegacion-venezolana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5118772067129035703_x-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-09T17:24:12.010Z"
+  "lastUpdate": "2026-01-09T18:33:51.733Z"
 };
