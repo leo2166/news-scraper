@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Cuáles son las cárceles en las que están recluidos los más de 800 presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/10/cuales-son-las-carceles-en-las-que-estan-recluidos-los-mas-de-800-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/G4XQHI5J5NCWXCI5LLICD2CLZI.jpg?auth=49e74f0ae0c0da0f3c822c9d48e77c7e3b028af0c95eaa18291b9ce6b85eb7ab&smart=true&width=350&height=197&quality=85"
+      "title": "País por país, de qué nacionalidad son los 87 extranjeros detenidos por el régimen venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/01/10/pais-por-pais-de-que-nacionalidad-son-los-87-extranjeros-detenidos-por-el-regimen-venezolano/",
+      "image": "https://www.infobae.com/resizer/v2/7UH7KIMYBFFVPHCITXFIOJMHPA.jpg?auth=e2a9de72d3ac540cd4f879323ccad712a9b3bebbc616c5e33ec4640382c92d7e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-10.41.30-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-10T06:31:41.185Z"
+  "lastUpdate": "2026-01-10T07:19:58.780Z"
 };
