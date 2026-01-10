@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "586,87"
+      "usdt": "593,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Al menos 65 muertos en las protestas en Irán, según agencia de DD.HH.",
-      "link": "https://cnnespanol.cnn.com/2026/01/10/mundo/iran-bloqueo-internet-segundo-dia-huelga-general-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26006625760435-20260110060403686.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "De la Constitución a los colectivos, las cuatro preguntas que definirán el incierto futuro de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/10/venezuela/cuatro-preguntas-futuro-venezuela-maduro-delcy-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2254211471-20260106220823315.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Defensa de Nicolás Maduro dice que abogado Bruce Fein no fue autorizado para sumarse al caso",
-      "link": "https://www.noticiascaracol.com/mundo/defensa-de-nicolas-maduro-dice-que-abogado-bruce-fein-no-fue-autorizado-para-sumarse-al-caso-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f114b58/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdd%2F94%2Fd82fa33c4e82b923a4b570432dd3%2Fnicolas-maduro-3.jpg"
+      "title": "Reportan temblor en Meta, Colombia, en la noche de este 9 de enero",
+      "link": "https://www.noticiascaracol.com/colombia/reportan-temblor-en-meta-colombia-en-la-noche-de-este-9-de-enero-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/30de580/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffb%2F84%2F7c29ffef4c7ea84276be99489a34%2Ftemblor-meta.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Delcy sobre relaciones con EE. UU: “Este es el camino que tomamos para proteger al pueblo”",
       "link": "https://diarioversionfinal.com/politica-dinero/delcy-sobre-relaciones-con-ee-uu-este-es-el-camino-que-tomamos-para-proteger-al-pueblo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/SaveClip.App_611723129_18543519952049826_5985520917359876798_n-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Maduro-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-10T12:40:52.470Z"
+  "lastUpdate": "2026-01-10T13:29:51.568Z"
 };
