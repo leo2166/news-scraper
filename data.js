@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "607,69"
+      "usdt": "569,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos en Venezuela hicieron una vigilia por segunda noche consecutiva a la espera de más excarcelaciones",
-      "link": "https://www.infobae.com/venezuela/2026/01/10/familiares-de-presos-politicos-en-venezuela-hicieron-una-vigilia-por-segunda-noche-consecutiva-a-la-espera-de-mas-excarcelaciones/",
-      "image": "https://www.infobae.com/resizer/v2/HB5M24HKNZE2HPBDMHKZVFWKZA.jpg?auth=6d544cc9169fbeaccdb7e188a83ce76c2714cff45dfb8f4929b8138601244525&smart=true&width=350&height=197&quality=85"
+      "title": "El hermano de Rocío San Miguel habló de la situación de la activista venezolana excarcelada: “Se encuentra en buen estado”",
+      "link": "https://www.infobae.com/venezuela/2026/01/10/el-hermano-de-rocio-san-miguel-hablo-de-la-situacion-de-la-activista-venezolana-excarcelada-se-encuentra-en-buen-estado/",
+      "image": "https://www.infobae.com/resizer/v2/6SNPKLM4HFAC5OOZKQ4T2XYSJI.jpg?auth=40883c1d506fc3eefe1639a0f0646b47de1b4413efae75a7d809f7ec06061d5e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "#10Ene | Esta es la lista de presos políticos liberados en el país que han sido verificados",
-      "link": "https://caraotadigital.net/venezuela/10ene-esta-es-la-lista-de-presos-politicos-liberados-en-el-pais-que-han-sido-verificados/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/presos-politicos.jpg"
+      "title": "Hermano de Rocío San Miguel reveló cuál es su situación jurídica y estado de salud tras su excarcelación",
+      "link": "https://caraotadigital.net/mundo/hermano-de-rocio-san-miguel-revelo-cual-es-su-situacion-juridica-y-estado-de-salud-tras-su-excarcelacion/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/rocio-san-miguel.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump recibirá a Machado y no descarta encuentros con representantes del gobierno",
-      "link": "https://laverdad.com/trump-recibira-a-machado-y-no-descarta-encuentros-con-representantes-del-gobierno/",
+      "title": "Familiares de presos políticos mantienen vigilias por segundo día consecutivo",
+      "link": "https://laverdad.com/familiares-de-presos-politicos-mantienen-vigilias-por-segundo-dia-consecutivo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Nacho-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy sobre relaciones con EE. UU: “Este es el camino que tomamos para proteger al pueblo”",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-sobre-relaciones-con-ee-uu-este-es-el-camino-que-tomamos-para-proteger-al-pueblo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Maduro-750x430.jpg"
+      "title": "Contabilizan 11 presos políticos: Excarcelan a Virgilio Laverde y Didelis Corredor",
+      "link": "https://diarioversionfinal.com/politica-dinero/contabilizan-11-presos-politicos-excarcelan-a-virgilio-laverde-y-didelis-corredor/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/rocio-san-miguel_cortesia-control-ciudadanojpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-10T14:19:45.707Z"
+  "lastUpdate": "2026-01-10T15:20:22.028Z"
 };
