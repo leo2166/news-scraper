@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "596,00"
+      "usdt": "586,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Persisten las protestas populares contra el régimen de Irán",
+      "title": "Al menos 65 muertos en las protestas en Irán, según agencia de DD.HH.",
       "link": "https://cnnespanol.cnn.com/2026/01/10/mundo/iran-bloqueo-internet-segundo-dia-huelga-general-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-09t050019z-874944612-rc2qtiacmhfb-rtrmadp-3-iran-economy-protests-20260109181000074.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26006625760435-20260110060403686.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Provea al interinato sobre los presos políticos: \"Materialicen el compromiso asumido\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/provea-al-interinato-sobre-los-presos-politicos-materialicen-el-compromiso-asumido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-10.41.30-PM-750x430.jpeg"
+      "title": "Delcy sobre relaciones con EE. UU: “Este es el camino que tomamos para proteger al pueblo”",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-sobre-relaciones-con-ee-uu-este-es-el-camino-que-tomamos-para-proteger-al-pueblo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/SaveClip.App_611723129_18543519952049826_5985520917359876798_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-10T11:17:56.615Z"
+  "lastUpdate": "2026-01-10T12:40:52.470Z"
 };
