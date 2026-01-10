@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "579,90"
+      "usdt": "573,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "De la Constitución a los colectivos, las cuatro preguntas que definirán el incierto futuro de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/01/10/venezuela/cuatro-preguntas-futuro-venezuela-maduro-delcy-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2254211471-20260106220823315.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Qué se sabe sobre los muertos y heridos en el ataque de EE.UU. en Caracas",
+      "link": "https://cnnespanol.cnn.com/2026/01/10/venezuela/muertos-heridos-ataque-eeuu-caracas-captura-maduro-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254658679.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Edmundo González lamenta que «no se ha alcanzado el 1 % de las excarcelaciones anunciadas»",
-      "link": "https://caraotadigital.net/mundo/edmundo-gonzalez-lamenta-que-no-se-ha-alcanzado-el-1-de-las-excarcelaciones-anunciadas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/01/Edmundo-Gonzalez-CD-1.jpg"
+      "title": "Trump envió un mensaje para felicitar a las personas que están haciendo de Venezuela «próspera y segura de nuevo»",
+      "link": "https://caraotadigital.net/eeuu/trump-envio-un-mensaje-para-felicitar-a-las-personas-que-estan-haciendo-de-venezuela-prospera-y-segura-de-nuevo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-23.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump decreta “emergencia” para proteger ingresos del petróleo venezolano en EE. UU.",
-      "link": "https://laverdad.com/trump-decreta-emergencia-para-proteger-ingresos-del-petroleo-venezolano-en-ee-uu/",
+      "title": "Confirman la excarcelación de la presidenta del Colegio de Enfermería de Barinas",
+      "link": "https://laverdad.com/confirman-la-excarcelacion-de-la-presidenta-del-colegio-de-enfermeria-de-barinas/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Nacho-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Foro Penal suma 14 presos políticos excarcelados",
-      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-suma-14-presos-politicos-excarcelados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/25a-750x430.jpg"
+      "title": "Foro Penal suma 15 presos políticos excarcelados",
+      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-suma-15-presos-politicos-excarcelados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/66e8bf51ee194-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-10T20:22:59.182Z"
+  "lastUpdate": "2026-01-10T21:19:12.064Z"
 };
