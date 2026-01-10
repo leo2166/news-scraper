@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "596,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | Familiares aguardan por más liberaciones de presos políticos en Venezuela: solo hubo 9 excarcelados",
-      "link": "https://www.infobae.com/venezuela/2026/01/10/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/RGG3MW643NHS3AVTSNLUGI6OUU.JPG?auth=1ced1cf170ac79678c4c4a73684f99d3292db27aa9cff11ce117b9c50f77ea2a&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de presos políticos en Venezuela hicieron una vigilia por segunda noche consecutiva a la espera de más excarcelaciones",
+      "link": "https://www.infobae.com/venezuela/2026/01/10/familiares-de-presos-politicos-en-venezuela-hicieron-una-vigilia-por-segunda-noche-consecutiva-a-la-espera-de-mas-excarcelaciones/",
+      "image": "https://www.infobae.com/resizer/v2/HB5M24HKNZE2HPBDMHKZVFWKZA.jpg?auth=6d544cc9169fbeaccdb7e188a83ce76c2714cff45dfb8f4929b8138601244525&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Trump asegura que las petroleras permanecerán por mucho tiempo en Venezuela: “Que eliminen la vieja chatarra”\nMUNDO",
-      "link": "https://www.elnacional.com/2026/01/trump-asegura-que-las-petroleras-permaneceran-por-mucho-tiempo-en-venezuela-que-eliminen-la-vieja-chatarra/",
+      "title": "Familiares de presos políticos hicieron vigilias a las afueras de centros de detención para exigir excarcelaciones\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/familiares-de-presos-politicos-hicieron-vigilias-a-las-afueras-de-centros-de-detencion-para-exigir-excarcelaciones/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-10.41.30-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-10T10:21:26.674Z"
+  "lastUpdate": "2026-01-10T11:17:56.615Z"
 }
