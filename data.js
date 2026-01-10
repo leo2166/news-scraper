@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "590,69"
+      "usdt": "562,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Se eleva a 12 la cifra de excarcelaciones en Venezuela: confirmaron la liberación de otros tres presos políticos\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/borrador-automaticose-eleva-a-12-la-cifra-de-excarcelaciones-en-venezuela-confirmaron-la-liberacion-de-otros-tres-presos-politicos/",
+      "title": "\"Las familias siguen esperando\": Edmundo González exige celeridad en excarcelaciones de presos políticos\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/las-familias-siguen-esperando-edmundo-gonzalez-exige-celeridad-en-excarcelaciones-de-presos-politicos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Bancos internacionales estudiarían invertir en Venezuela tras medidas recientes de EEUU en su sector petrolero",
-      "link": "https://caraotadigital.net/mundo/bancos-internacionales-estudiarian-invertir-en-venezuela-tras-medidas-recientes-de-eeuu-en-su-sector-petrolero/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/JPMorgan.jpg"
+      "title": "Detienen en Argentina a un ciudadano venezolano presuntamente ligado al Tren de Aragua",
+      "link": "https://caraotadigital.net/mundo/detienen-en-argentina-a-un-ciudadano-venezolano-presuntamente-ligado-al-tren-de-aragua/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/venezolano-tren-de-aragua-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Fuerte temblor en Indonesia este sábado 10 de enero: magnitud y epicentro del sismo",
-      "link": "https://www.noticiascaracol.com/mundo/temblor-en-indonesia-este-sabado-10-de-enero-magnitud-y-epicentro-del-fuerte-sismo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4a7d3e0/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4b%2Fd0%2Fc2f90d2b45f6827ef6d808364c3c%2Fdiseno.jpg"
+      "title": "ANI comparte listado de peajes que tendrán incremento tarifario: ¿desde cuándo aplica?",
+      "link": "https://www.noticiascaracol.com/economia/listado-de-peajes-con-incremento-tarifario-en-colombia-2026-segun-la-ani-revelan-fecha-en-que-empieza-a-aplicar-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/219c89f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F30%2F4e%2Fdf3d43a84b88b3c129345ad2a5df%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Pdvsa anuncia retorno del buque Minerva tras operación conjunta con EE. UU.",
-      "link": "https://laverdad.com/pdvsa-anuncia-retorno-del-buque-minerva-tras-operacion-conjunta-con-ee-uu/",
+      "title": "Hermano de Rocío San Miguel informa que permanece bajo medidas cautelares",
+      "link": "https://laverdad.com/hermano-de-rocio-san-miguel-informa-que-permanece-bajo-medidas-cautelares/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Nacho-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Oposición española acusa a Zapatero de enriquecerse con “chanchullos” y “tratos” con Maduro",
-      "link": "https://diarioversionfinal.com/mundo/oposicion-espanola-acusa-a-zapatero-de-enriquecerse-con-chanchullos-y-tratos-con-maduro/",
+      "title": "Petroleras estadounidenses exigieron a Trump “garantías” y “protección” para retornar a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/petroleras-estadounidenses-exigieron-a-trump-garantias-y-proteccion-para-retornar-a-venezuela/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/gettyimages-2254670273iransaqueo-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-10T17:18:38.760Z"
+  "lastUpdate": "2026-01-10T18:30:43.673Z"
 };
