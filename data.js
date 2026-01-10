@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "585,50"
+      "usdt": "579,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal informó que el régimen chavista liberó a otros tres presos políticos venezolanos",
-      "link": "https://www.infobae.com/venezuela/2026/01/10/el-foro-penal-informo-que-el-regimen-chavista-libero-a-otros-tres-presos-politicos-venezolanos/",
-      "image": "https://www.infobae.com/resizer/v2/JEQ5UHJSR5HH3ENMNT5O7LHDB4.jpg?auth=fc55f2ed2958118c1d82c79efc7d264ab1a2d929e247a40d759193055204da2c&smart=true&width=350&height=197&quality=85"
+      "title": "Trump firmó una orden para proteger los ingresos petroleros venezolanos depositados en cuentas de EEUU",
+      "link": "https://www.infobae.com/venezuela/2026/01/10/trump-firmo-una-orden-para-proteger-los-ingresos-petroleros-venezolanos-depositados-en-cuentas-de-eeuu/",
+      "image": "https://www.infobae.com/resizer/v2/XPYFUYIJEJHHFGKHRCFZ7O2OVI.JPG?auth=d1b9c3d6aa4af2b49b2b6c02fd866c8b515ff69f5fab659353670191e680153f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Presidente de Perú dice que incursión en Venezuela era necesaria pese a ruptura de derecho",
-      "link": "https://caraotadigital.net/mundo/presidente-de-peru-dice-que-incursion-en-venezuela-era-necesaria-pese-a-ruptura-de-derecho/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presidente-de-peru-2.jpg"
+      "title": "Edmundo González lamenta que «no se ha alcanzado el 1 % de las excarcelaciones anunciadas»",
+      "link": "https://caraotadigital.net/mundo/edmundo-gonzalez-lamenta-que-no-se-ha-alcanzado-el-1-de-las-excarcelaciones-anunciadas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/01/Edmundo-Gonzalez-CD-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO PIDE AL PAPA CONOCER «MÁS DE CERCA» LA REALIDAD DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/gobierno-pide-al-papa-conocer-mas-de-cerca-la-realidad-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-10-at-2.38.14-PM-627x376.jpeg"
+      "title": "UCV RETOMARÁ ACTIVIDADES DE FORMA «PAULATINA» ESTE 12 DE ENERO",
+      "link": "https://noticierodigital.com/2026/01/ucv-retomara-actividades-de-forma-paulatina-este-12-de-enero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/06/ucv-elecciones.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Wingo retomará sus vuelos desde y hacia Caracas a partir del 16 de enero",
-      "link": "https://laverdad.com/wingo-retomara-sus-vuelos-desde-y-hacia-caracas-a-partir-del-16-de-enero/",
+      "title": "Trump decreta “emergencia” para proteger ingresos del petróleo venezolano en EE. UU.",
+      "link": "https://laverdad.com/trump-decreta-emergencia-para-proteger-ingresos-del-petroleo-venezolano-en-ee-uu/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Nacho-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "“Se están produciendo otras excarcelaciones en Yare III”: Activistas reportan más presos políticos liberados",
-      "link": "https://diarioversionfinal.com/politica-dinero/se-estan-produciendo-otras-excarcelaciones-en-yare-iii-activistas-reportan-mas-presos-politicos-liberados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/AFP__20260109__929C8D9__v1__HighRes__TrumpToMeetWithOilExecutivesAboutVenezuela-1280x853-1-750x430.jpg"
+      "title": "Foro Penal suma 14 presos políticos excarcelados",
+      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-suma-14-presos-politicos-excarcelados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/25a-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-10T19:16:25.022Z"
+  "lastUpdate": "2026-01-10T20:22:59.182Z"
 };
