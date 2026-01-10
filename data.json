@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "569,00"
+      "usdt": "572,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela anunció el retorno a sus aguas del buque cisterna Olina tras la incautación de Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/01/10/venezuela-anuncio-el-retorno-a-sus-aguas-del-buque-cisterna-olina-tras-la-incautacion-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/SE6HIKTTN5GIZCPWU3JIKJ3B3Y.jpg?auth=a629dcdf40789d842ba1f6bf14952d5c635a155d313f3b5f228332631b708715&smart=true&width=350&height=197&quality=85"
+      "title": "Cuáles son las cárceles en las que están recluidos los más de 800 presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/10/cuales-son-las-carceles-en-las-que-estan-recluidos-los-mas-de-800-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/G4XQHI5J5NCWXCI5LLICD2CLZI.jpg?auth=49e74f0ae0c0da0f3c822c9d48e77c7e3b028af0c95eaa18291b9ce6b85eb7ab&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "John McNamara, encargado de negocios de EE. UU. en Colombia, llegó a Caracas, Venezuela",
-      "link": "https://www.noticiascaracol.com/mundo/john-mcnamara-encargado-de-negocios-de-ee-uu-en-colombia-llego-a-caracas-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/01d67c4/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F92%2Fbb%2Fca3d5b5244b4aa2d9e6edb7a5d20%2Fjohn-mcnamara.jpg"
+      "title": "Defensa de Nicolás Maduro dice que abogado Bruce Fein no fue autorizado para sumarse al caso",
+      "link": "https://www.noticiascaracol.com/mundo/defensa-de-nicolas-maduro-dice-que-abogado-bruce-fein-no-fue-autorizado-para-sumarse-al-caso-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f114b58/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdd%2F94%2Fd82fa33c4e82b923a4b570432dd3%2Fnicolas-maduro-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-09-at-10.41.30-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-10T03:24:35.339Z"
+  "lastUpdate": "2026-01-10T04:34:15.366Z"
 }
