@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "562,99"
+      "usdt": "585,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Cronología de la primera semana en Venezuela tras la captura de Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/10/cronologia-de-la-primera-semana-en-venezuela-tras-la-captura-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/TENB6DBCERAD7N6EE2G3XANMAE.JPG?auth=3c6ad0d07e1f9a25ea72b06208ab7dfa7b3462d32c4f0ce4e2119fd83b5a84a4&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal informó que el régimen chavista liberó a otros tres presos políticos venezolanos",
+      "link": "https://www.infobae.com/venezuela/2026/01/10/el-foro-penal-informo-que-el-regimen-chavista-libero-a-otros-tres-presos-politicos-venezolanos/",
+      "image": "https://www.infobae.com/resizer/v2/JEQ5UHJSR5HH3ENMNT5O7LHDB4.jpg?auth=fc55f2ed2958118c1d82c79efc7d264ab1a2d929e247a40d759193055204da2c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Detienen en Argentina a un ciudadano venezolano presuntamente ligado al Tren de Aragua",
-      "link": "https://caraotadigital.net/mundo/detienen-en-argentina-a-un-ciudadano-venezolano-presuntamente-ligado-al-tren-de-aragua/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/venezolano-tren-de-aragua-1.jpg"
+      "title": "Presidente de Perú dice que incursión en Venezuela era necesaria pese a ruptura de derecho",
+      "link": "https://caraotadigital.net/mundo/presidente-de-peru-dice-que-incursion-en-venezuela-era-necesaria-pese-a-ruptura-de-derecho/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presidente-de-peru-2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GROENLANDIA: «NO QUEREMOS SER AMERICANOS»",
-      "link": "https://noticierodigital.com/2026/01/groenlandia-no-queremos-ser-americanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Groenlandia_-627x376.jpg"
+      "title": "GOBIERNO PIDE AL PAPA CONOCER «MÁS DE CERCA» LA REALIDAD DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/gobierno-pide-al-papa-conocer-mas-de-cerca-la-realidad-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-10-at-2.38.14-PM-627x376.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Hermano de Rocío San Miguel informa que permanece bajo medidas cautelares",
-      "link": "https://laverdad.com/hermano-de-rocio-san-miguel-informa-que-permanece-bajo-medidas-cautelares/",
+      "title": "Wingo retomará sus vuelos desde y hacia Caracas a partir del 16 de enero",
+      "link": "https://laverdad.com/wingo-retomara-sus-vuelos-desde-y-hacia-caracas-a-partir-del-16-de-enero/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Nacho-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petroleras estadounidenses exigieron a Trump “garantías” y “protección” para retornar a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/petroleras-estadounidenses-exigieron-a-trump-garantias-y-proteccion-para-retornar-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/gettyimages-2254670273iransaqueo-750x430.webp"
+      "title": "“Se están produciendo otras excarcelaciones en Yare III”: Activistas reportan más presos políticos liberados",
+      "link": "https://diarioversionfinal.com/politica-dinero/se-estan-produciendo-otras-excarcelaciones-en-yare-iii-activistas-reportan-mas-presos-politicos-liberados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/AFP__20260109__929C8D9__v1__HighRes__TrumpToMeetWithOilExecutivesAboutVenezuela-1280x853-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-10T18:30:43.673Z"
+  "lastUpdate": "2026-01-10T19:16:25.022Z"
 };
