@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "573,00"
+      "usdt": "547,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump envió un mensaje para felicitar a las personas que están haciendo de Venezuela «próspera y segura de nuevo»",
-      "link": "https://caraotadigital.net/eeuu/trump-envio-un-mensaje-para-felicitar-a-las-personas-que-estan-haciendo-de-venezuela-prospera-y-segura-de-nuevo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-23.jpg"
+      "title": "VIDEO: Delcy Rodríguez afirmó que en el país sigue mandando «el gobierno del presidente Nicolás Maduro»",
+      "link": "https://caraotadigital.net/venezuela/video-delcy-rodriguez-afirmo-que-en-el-pais-sigue-mandando-el-gobierno-del-presidente-nicolas-maduro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/delcy-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UCV RETOMARÁ ACTIVIDADES DE FORMA «PAULATINA» ESTE 12 DE ENERO",
-      "link": "https://noticierodigital.com/2026/01/ucv-retomara-actividades-de-forma-paulatina-este-12-de-enero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/06/ucv-elecciones.jpg"
+      "title": "FAMILIARES DE CARLOS MARCANO DENUNCIAN LENTITUD EN LAS LIBERACIONES TRAS ANUNCIOS OFICIALES",
+      "link": "https://noticierodigital.com/2026/01/familiares-de-carlos-marcano-denuncian-lentitud-en-las-liberaciones-tras-anuncios-oficiales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/CarlosMarcano__-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "ANI comparte listado de peajes que tendrán incremento tarifario: ¿desde cuándo aplica?",
-      "link": "https://www.noticiascaracol.com/economia/listado-de-peajes-con-incremento-tarifario-en-colombia-2026-segun-la-ani-revelan-fecha-en-que-empieza-a-aplicar-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/219c89f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F30%2F4e%2Fdf3d43a84b88b3c129345ad2a5df%2Fdiseno.jpg"
+      "title": "Masacre en La Guajira deja a cinco personas muertas: identidades de las víctimas",
+      "link": "https://www.noticiascaracol.com/colombia/masacre-en-la-guajira-deja-a-cinco-personas-muertas-identididad-de-las-victimas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/975a3ca/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4d%2Fb1%2F614430cd4639835781b6430b10cf%2Fmasacre-en-la-guajira-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Foro Penal suma 15 presos políticos excarcelados",
-      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-suma-15-presos-politicos-excarcelados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/66e8bf51ee194-750x430.jpeg"
+      "title": "Trump firma decreto para blindar los ingresos petroleros de Venezuela en EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/trump-firma-decreto-para-blindar-los-ingresos-petroleros-de-venezuela-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/ewdqwdassss-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-10T21:19:12.064Z"
+  "lastUpdate": "2026-01-10T22:20:33.024Z"
 };
