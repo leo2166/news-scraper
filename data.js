@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "517,80"
+      "usdt": "519,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen chavista habilitó las visitas a presos políticos venezolanos en la cárcel El Rodeo I tras más de un año y medio",
-      "link": "https://www.infobae.com/venezuela/2026/01/11/el-regimen-chavista-habilito-las-visitas-a-presos-politicos-venezolanos-en-la-carcel-el-rodeo-i-tras-mas-de-un-ano-y-medio/",
-      "image": "https://www.infobae.com/resizer/v2/HJNJBWZYVFEPDEJOC35MGSPMCE.jpg?auth=b248524c754ea7c6d9ea7ce0a17f11b8817d91d411012ce8f1df36f3c6714a30&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Venezuela ratificó su estrecha relación con la dictadura de Cuba",
+      "link": "https://www.infobae.com/venezuela/2026/01/11/el-regimen-de-venezuela-ratifico-su-estrecha-relacion-con-la-dictadura-de-cuba/",
+      "image": "https://www.infobae.com/resizer/v2/NQ3EDWRDIZGYTCLRXCUR6G3ROU.jpg?auth=0b86809fc6fb5211f454e35b3934956fe1a73213f51a1717b602461667538486&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Raphinha impulsa la decimosexta Supercopa de España del Barcelona tras derrotar al Madrid",
-      "link": "https://caraotadigital.net/deportes/raphinha-impulsa-la-decimosexta-supercopa-de-espana-del-barcelona-tras-derrotar-al-madrid/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/barcelona.jpg"
+      "title": "Se elevan a 538 los muertos en las protestas de Irán, según una ONG de EEUU",
+      "link": "https://caraotadigital.net/mundo/se-elevan-a-538-los-muertos-en-las-protestas-de-iran-segun-una-ong-de-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Iran-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esto dijo testigo del accidente aéreo en el que falleció Yeison Jiménez: testimonio sería clave",
-      "link": "https://www.noticiascaracol.com/colombia/testigo-del-accidente-aereo-en-el-que-fallecio-yeison-jimenez-dio-testimonio-que-seria-clave-detalle-relevante-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c743c72/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F22%2Fda%2F539da52244f39324fc5607956646%2Fdiseno-1.jpg"
+      "title": "Funeral de Yeison Jiménez sería en el Movistar Arena de Bogotá: ¿pueden entrar seguidores?",
+      "link": "https://www.noticiascaracol.com/colombia/funeral-de-yeison-jimenez-seria-en-el-movistar-arena-de-bogota-pueden-entrar-seguidores-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/154051a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F44%2Fc7%2F32b7a2d5408da969053ff0e65e2b%2Fyeison-jimenez-6.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "EE. UU. asegura que Chevron, Shell, Repsol y ENI incrementarán “de inmediato” su producción en Venezuela",
       "link": "https://diarioversionfinal.com/mundo/ee-uu-asegura-que-chevron-shell-repsol-y-eni-incrementaran-de-inmediato-su-produccion-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cUIBA23-e1768139839773-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/fynjygf.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T22:20:16.949Z"
+  "lastUpdate": "2026-01-11T23:20:24.146Z"
 };
