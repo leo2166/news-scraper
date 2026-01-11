@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "536,00"
+      "usdt": "508,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU ordena a sus ciudadanos abandonar Venezuela ante riesgos por colectivos armados\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/ee-uu-ordena-a-sus-ciudadanos-abandonar-venezuela/",
+      "title": "Denuncian la muerte bajo custodia del Estado del preso político Edison Torres \nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/denuncian-la-muerte-bajo-custodia-del-estado-del-preso-politico-edison-torres/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Las claves para entender una de las semanas más críticas de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/01/10/venezuela/analisis-claves-semana-critica-maduro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254996055-1.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Venezuela tiene mucho petróleo. También algo más que EE.UU. necesita",
+      "link": "https://cnnespanol.cnn.com/2026/01/11/venezuela/venezuela-tiene-minerales-estados-unidos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/minerales-en-venezuela.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump firma decreto para blindar los ingresos petroleros de Venezuela en EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/trump-firma-decreto-para-blindar-los-ingresos-petroleros-de-venezuela-en-ee-uu/",
+      "title": "Irán advierte sobre represalias si EE. UU. ataca",
+      "link": "https://diarioversionfinal.com/mundo/iran-advierte-sobre-represalias-si-ee-uu-ataca/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/t5XXcP2y-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T10:22:05.489Z"
+  "lastUpdate": "2026-01-11T11:18:27.205Z"
 };
