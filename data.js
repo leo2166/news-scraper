@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "520,70"
+      "usdt": "545,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump anunció que “no habrá más petróleo ni dinero” venezolano para el régimen de Cuba",
-      "link": "https://www.infobae.com/venezuela/2026/01/11/donald-trump-anuncio-que-no-habra-mas-petroleo-ni-dinero-venezolano-para-el-regimen-de-cuba/",
-      "image": "https://www.infobae.com/resizer/v2/QA73XMKOPZFHRDTIWDIBZZMD6I.jpg?auth=e2e8e933906dddbfe94aeec826571917f9f537ed922a37d4f63ace41c59dcbc3&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen chavista habilitó las visitas a presos políticos venezolanos en la cárcel El Rodeo I tras más de un año y medio",
+      "link": "https://www.infobae.com/venezuela/2026/01/11/el-regimen-chavista-habilito-las-visitas-a-presos-politicos-venezolanos-en-la-carcel-el-rodeo-i-tras-mas-de-un-ano-y-medio/",
+      "image": "https://www.infobae.com/resizer/v2/HJNJBWZYVFEPDEJOC35MGSPMCE.jpg?auth=b248524c754ea7c6d9ea7ce0a17f11b8817d91d411012ce8f1df36f3c6714a30&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,27 +32,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO: La desgarradora reacción de Juan Pablo Raba tras el fallecimiento del cantante Yeison Jiménez",
-      "link": "https://caraotadigital.net/caraota-show/video-la-desgarradora-reaccion-de-juan-pablo-raba-tras-el-fallecimiento-del-cantante-yeison-jimenez/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/juan-pablo-raba-yeison-jimenez.jpg"
+      "title": "Machado confía en que «muy pronto» los pueblos de Irán y Venezuela serán «libres»",
+      "link": "https://caraotadigital.net/mundo/machado-confia-en-que-muy-pronto-los-pueblos-de-iran-y-venezuela-seran-libres/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/05/Machado-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ PRESENTARÁ ANTE LA AN PROYECTO DE LEY SOBRE SISTEMA DE PRECIOS ACORDADOS",
-      "link": "https://noticierodigital.com/2026/01/delcy-rodriguez-presentara-ante-la-an-proyecto-de-ley-sobre-sistema-de-precios-acordados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-29-at-4.23.02-PM-627x376.jpeg"
+      "title": "MCM Y EDMUNDO TIENEN LA «POTESTAD DE EXIGIR ELECCIONES LIBRES»: GUILLERMO TELL AVELEDO",
+      "link": "https://noticierodigital.com/2026/01/mcm-y-edmundo-tienen-la-potestad-de-exigir-elecciones-libres-guillermo-tell-aveledo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/guillermotellaveledo-candidato-primaria-16feb2023-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Fotos | ¿Quiénes eran las personas que murieron junto a Yeison Jiménez en accidente de avioneta?",
-      "link": "https://www.noticiascaracol.com/colombia/fotos-quienes-eran-las-personas-que-murieron-junto-a-yeison-jimenez-en-accidente-de-avioneta-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c28cd33/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F84%2F8b%2Fc95b606049f08b4307f3d0d37cab%2Fyeison-jimenez-4.jpg"
+      "title": "Esto dijo testigo del accidente aéreo en el que falleció Yeison Jiménez: testimonio sería clave",
+      "link": "https://www.noticiascaracol.com/colombia/testigo-del-accidente-aereo-en-el-que-fallecio-yeison-jimenez-dio-testimonio-que-seria-clave-detalle-relevante-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c743c72/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F22%2Fda%2F539da52244f39324fc5607956646%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Detienen a mujer que fue grabada golpeando a su hija de 12 años",
       "link": "https://laverdad.com/detienen-a-mujer-que-fue-grabada-golpeando-a-su-hija-de-12-anos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/LadiDiMosquera.jpg"
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/G-ZInsDXAAAXBQN.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/maria-corina-machado-oslo-1280x853-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T17:18:28.287Z"
+  "lastUpdate": "2026-01-11T18:30:20.711Z"
 };
