@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "508,88"
+      "usdt": "534,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Carta Abierta a María Corina Machado",
-      "link": "https://www.infobae.com/america/opinion/2026/01/11/carta-abierta-a-maria-corina-machado/",
-      "image": "https://www.infobae.com/resizer/v2/MKOSOMC4KNACHNDNA3EMOJ5XWU.jpg?auth=d64708e621a802b108a73d682ed8b22611e28d0fa1966cc107c9831be4ca74a2&smart=true&width=350&height=197&quality=85"
+      "title": "Denunciaron la muerte de otro preso político bajo custodia del régimen chavista en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/11/denunciaron-la-muerte-de-otro-preso-politico-bajo-custodia-del-regimen-chavista-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/WHMPAOU75JBEVIUXSDS6KHTLTI.jpg?auth=627c2144f61516a38dce6b61066d7a38375b0f717a5078178049282731f67a6d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2025/08/presos-politicos.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "FAMILIARES DE CARLOS MARCANO DENUNCIAN LENTITUD EN LAS LIBERACIONES TRAS ANUNCIOS OFICIALES",
-      "link": "https://noticierodigital.com/2026/01/familiares-de-carlos-marcano-denuncian-lentitud-en-las-liberaciones-tras-anuncios-oficiales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/CarlosMarcano__-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Esta es la hipótesis del accidente aéreo en el que murió Yeison Jiménez en Paipa, Boyacá",
       "link": "https://www.noticiascaracol.com/colombia/esta-es-la-hipotesis-del-accidente-aereo-en-el-que-murio-yeison-jimenez-en-paipa-boyaca-rg10",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán advierte sobre represalias si EE. UU. ataca",
-      "link": "https://diarioversionfinal.com/mundo/iran-advierte-sobre-represalias-si-ee-uu-ataca/",
+      "title": "EE. UU. alerta que colectivos armados buscan estadounidenses en Venezuela tras aprehensión de Maduro",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-alerta-que-colectivos-armados-buscan-estadounidenses-en-venezuela-tras-aprehension-de-maduro/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/t5XXcP2y-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T11:18:27.205Z"
+  "lastUpdate": "2026-01-11T12:42:19.763Z"
 };
