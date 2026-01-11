@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "517,99"
+      "usdt": "517,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal: Solo se han excarcelado 17 presos políticos desde el 8 de enero\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/foro-penal-solo-se-han-excarcelaciones-17-presos-politicos-desde-el-8-de-enero/",
+      "title": "¿Cuántos presos políticos han muerto desde 2015 bajo custodia del Estado venezolano?\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/cuantos-presos-politicos-han-muerto-desde-2015-bajo-custodia-del-estado-venezolano/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Guyana descarta un acuerdo en disputa fronteriza con Venezuela tras la captura de Maduro",
-      "link": "https://caraotadigital.net/varios/guyana-descarta-un-acuerdo-en-disputa-fronteriza-con-venezuela-tras-la-captura-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/11/Irfaan-ali-1-150x150.jpg"
+      "title": "Raphinha impulsa la decimosexta Supercopa de España del Barcelona tras derrotar al Madrid",
+      "link": "https://caraotadigital.net/deportes/raphinha-impulsa-la-decimosexta-supercopa-de-espana-del-barcelona-tras-derrotar-al-madrid/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/barcelona.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "MCM Y EDMUNDO TIENEN LA «POTESTAD DE EXIGIR ELECCIONES LIBRES»: GUILLERMO TELL AVELEDO",
+      "link": "https://noticierodigital.com/2026/01/mcm-y-edmundo-tienen-la-potestad-de-exigir-elecciones-libres-guillermo-tell-aveledo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/guillermotellaveledo-candidato-primaria-16feb2023-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cUIBA23-e1768139839773-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-11T21:19:29.352Z"
+  "lastUpdate": "2026-01-11T22:20:16.949Z"
 };
