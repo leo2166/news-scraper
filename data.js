@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "541,90"
+      "usdt": "539,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "EEUU alertó que colectivos chavistas armados están buscando ciudadanos norteamericanos en Venezuela tras la captura de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/11/eeuu-alerto-que-colectivos-chavistas-armados-estan-buscando-ciudadanos-norteamericanos-en-venezuela-tras-la-captura-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/GB646BVJOVHRLNOX5BPYOZGNZE.png?auth=ee69d919e2510ee2a424dda275ac795034a48a7bf9af783b4f0078fa51d18519&smart=true&width=350&height=197&quality=85"
+      "title": "Scott Bessent anunció que Estados Unidos evalúa levantar sanciones a Venezuela para impulsar ventas de petróleo",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/11/scott-bessent-anuncio-que-estados-unidos-evalua-levantar-sanciones-a-venezuela-para-impulsar-ventas-de-petroleo/",
+      "image": "https://www.infobae.com/resizer/v2/X6WQXCPWLBE73L2N2KLDK2NHL4.JPG?auth=6b98b683e455364ec38dda2394beb8efa910b11c1ee19ca250da8f6570eaed5d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/t5XXcP2y-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T04:48:48.749Z"
+  "lastUpdate": "2026-01-11T05:26:13.388Z"
 };
