@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "538,96"
+      "usdt": "558,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Las familias de los presos políticos en Venezuela oran frente las cárceles a la espera de las liberaciones: “Todos son inocentes”",
-      "link": "https://www.infobae.com/venezuela/2026/01/11/las-familias-de-los-presos-politicos-en-venezuela-oran-frente-las-carceles-a-la-espera-de-las-liberaciones-todos-son-inocentes/",
-      "image": "https://www.infobae.com/resizer/v2/OAX5C3XB3NB6TDGV7OUBHFNYR4.jpg?auth=ec979953e118fd84f80cde73c4d0cae52335ada3208b8cdc6b5d2875b631c717&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump anunció que “no habrá más petróleo ni dinero” venezolano para el régimen de Cuba",
+      "link": "https://www.infobae.com/venezuela/2026/01/11/donald-trump-anuncio-que-no-habra-mas-petroleo-ni-dinero-venezolano-para-el-regimen-de-cuba/",
+      "image": "https://www.infobae.com/resizer/v2/QA73XMKOPZFHRDTIWDIBZZMD6I.jpg?auth=e2e8e933906dddbfe94aeec826571917f9f537ed922a37d4f63ace41c59dcbc3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "#10Ene | Esta es la lista de presos políticos liberados en el país que han sido verificados",
-      "link": "https://caraotadigital.net/venezuela/10ene-esta-es-la-lista-de-presos-politicos-liberados-en-el-pais-que-han-sido-verificados/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/presos-politicos.jpg"
+      "title": "Exiliados en EEUU acusan a Venezuela de «burlarse» por la liberación parcial de los presos políticos",
+      "link": "https://caraotadigital.net/mundo/exiliados-en-eeuu-acusan-a-venezuela-de-burlarse-por-la-liberacion-parcial-de-los-presos-politicos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/veppex-pidio-estatuto-proteccion-temporal-para-venezolanos_233476-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Confirman la excarcelación de la presidenta del Colegio de Enfermería de Barinas",
-      "link": "https://laverdad.com/confirman-la-excarcelacion-de-la-presidenta-del-colegio-de-enfermeria-de-barinas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Nacho-2.jpg"
+      "title": "Denuncian muerte bajo custodia de funcionario policial en la PNB Zona 7",
+      "link": "https://laverdad.com/denuncian-muerte-bajo-custodia-de-funcionario-policial-en-la-pnb-zona-7/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/5125643830119041873.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8575-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-11T13:30:41.860Z"
+  "lastUpdate": "2026-01-11T14:19:51.728Z"
 };
