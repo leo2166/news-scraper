@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Scott Bessent anunció que Estados Unidos evalúa levantar sanciones a Venezuela para impulsar ventas de petróleo",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/11/scott-bessent-anuncio-que-estados-unidos-evalua-levantar-sanciones-a-venezuela-para-impulsar-ventas-de-petroleo/",
-      "image": "https://www.infobae.com/resizer/v2/X6WQXCPWLBE73L2N2KLDK2NHL4.JPG?auth=6b98b683e455364ec38dda2394beb8efa910b11c1ee19ca250da8f6570eaed5d&smart=true&width=350&height=197&quality=85"
+      "title": "Carta Abierta a María Corina Machado",
+      "link": "https://www.infobae.com/america/opinion/2026/01/11/carta-abierta-a-maria-corina-machado/",
+      "image": "https://www.infobae.com/resizer/v2/MKOSOMC4KNACHNDNA3EMOJ5XWU.jpg?auth=d64708e621a802b108a73d682ed8b22611e28d0fa1966cc107c9831be4ca74a2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/t5XXcP2y-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T06:33:37.122Z"
+  "lastUpdate": "2026-01-11T07:21:37.295Z"
 };
