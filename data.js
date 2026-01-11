@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "558,96"
+      "usdt": "554,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Denuncian la muerte bajo custodia del Estado del preso político Edison Torres \nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/denuncian-la-muerte-bajo-custodia-del-estado-del-preso-politico-edison-torres/",
+      "title": "Duermen en el piso a la espera de excarcelaciones: esto es lo que viven familiares de presos políticos en El Rodeo I\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/duermen-en-el-piso-a-la-espera-de-excarcelaciones-esto-es-lo-que-viven-familiares-de-presos-politicos-en-rodeo-i/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Exiliados en EEUU acusan a Venezuela de «burlarse» por la liberación parcial de los presos políticos",
-      "link": "https://caraotadigital.net/mundo/exiliados-en-eeuu-acusan-a-venezuela-de-burlarse-por-la-liberacion-parcial-de-los-presos-politicos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/veppex-pidio-estatuto-proteccion-temporal-para-venezolanos_233476-1.jpg"
+      "title": "Familias de presos políticos pasan tercera noche en espera de excarcelaciones",
+      "link": "https://caraotadigital.net/venezuela/familias-de-presos-politicos-pasan-tercera-noche-en-espera-de-excarcelaciones/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/a3d9567fc36da86c05c5283e6cac8c78c31b194fminiw-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FAMILIARES DE CARLOS MARCANO DENUNCIAN LENTITUD EN LAS LIBERACIONES TRAS ANUNCIOS OFICIALES",
-      "link": "https://noticierodigital.com/2026/01/familiares-de-carlos-marcano-denuncian-lentitud-en-las-liberaciones-tras-anuncios-oficiales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/CarlosMarcano__-627x376.jpg"
+      "title": "REPRESIÓN DEJA AL MENOS 192 MUERTOS TRAS DOS SEMANAS DE PROTESTAS EN IRÁN",
+      "link": "https://noticierodigital.com/2026/01/represion-deja-al-menos-192-muertos-tras-dos-semanas-de-protestas-en-iran/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Iran_protesta-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Relato de Yeison Jiménez sobre sueños premonitorios con accidente aéreo: \"Nos habíamos matado\"",
-      "link": "https://www.noticiascaracol.com/colombia/yeison-jimenez-relato-completo-de-suenos-premonitorios-con-accidente-aereo-nos-habiamos-matado-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1dc38ab/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe1%2F9d%2Ff173c0774e05be736a39e611c8ea%2Fdiseno.jpg"
+      "title": "Así fue el accidente en el que murió Yeison Jiménez y cinco personas más: crónica de los hechos",
+      "link": "https://www.noticiascaracol.com/colombia/asi-fue-el-accidente-en-el-que-murio-yeison-jimenez-y-cinco-personas-mas-cronica-de-los-hechos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2d31f37/2147483647/strip/true/crop/1276x720+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb1%2Fad%2F8e99306b4559bbfc7fb101d14586%2Fyeison-jimenez-4.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Denuncian muerte bajo custodia de funcionario policial en la PNB Zona 7",
-      "link": "https://laverdad.com/denuncian-muerte-bajo-custodia-de-funcionario-policial-en-la-pnb-zona-7/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/5125643830119041873.jpg"
+      "title": "EE. UU. alerta que milicias armadas buscan a estadounidenses en Venezuela",
+      "link": "https://laverdad.com/ee-uu-alerta-que-milicias-armadas-buscan-a-estadounidenses-en-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Sin-titulo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno califica como “relato inexistente” alerta de Estados Unidos sobre colectivos armados",
-      "link": "https://diarioversionfinal.com/politica-dinero/gobierno-califica-como-relato-inexistente-alerta-de-estados-unidos-sobre-colectivos-armados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8575-750x430.jpeg"
+      "title": "Trump advierte a Cuba y exige al régimen llegar a un acuerdo antes que sea \"demasiado tarde\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-cuba-y-exige-al-regimen-llegar-a-un-acuerdo-antes-que-sea-demasiado-tarde/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/iran.webp"
     }
   ],
-  "lastUpdate": "2026-01-11T14:19:51.728Z"
+  "lastUpdate": "2026-01-11T15:21:07.652Z"
 };
