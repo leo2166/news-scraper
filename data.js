@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "524,00"
+      "usdt": "520,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela tiene mucho petróleo. También algo más que EE.UU. necesita",
-      "link": "https://cnnespanol.cnn.com/2026/01/11/venezuela/venezuela-tiene-minerales-estados-unidos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/minerales-en-venezuela.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Cómo la captura de Maduro se remonta a la historia personal de Marco Rubio?",
+      "link": "https://cnnespanol.cnn.com/2026/01/11/eeuu/maduro-trump-marco-rubio-venezuela-politica-exterior-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/marco-rubio-raices.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: El curioso pez que causa furor en redes por su gran parecido con Donald Trump",
-      "link": "https://caraotadigital.net/tendencias/en-video-el-curioso-pez-que-causa-furor-en-redes-por-su-gran-parecido-con-donald-trump/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/donald-trump-pez.jpg"
+      "title": "VIDEO: La desgarradora reacción de Juan Pablo Raba tras el fallecimiento del cantante Yeison Jiménez",
+      "link": "https://caraotadigital.net/caraota-show/video-la-desgarradora-reaccion-de-juan-pablo-raba-tras-el-fallecimiento-del-cantante-yeison-jimenez/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/juan-pablo-raba-yeison-jimenez.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VARADOS EN MADRID PASAJEROS DE ESTELAR CON DESTINO A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/varados-en-madrid-pasajeros-de-estelar-con-destino-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/vuelosbarajas-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ PRESENTARÁ ANTE LA AN PROYECTO DE LEY SOBRE SISTEMA DE PRECIOS ACORDADOS",
+      "link": "https://noticierodigital.com/2026/01/delcy-rodriguez-presentara-ante-la-an-proyecto-de-ley-sobre-sistema-de-precios-acordados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-29-at-4.23.02-PM-627x376.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump afirma que Cuba ya no recibirá petróleo ni dinero de Venezuela",
-      "link": "https://laverdad.com/trump-afirma-que-cuba-ya-no-recibira-petroleo-ni-dinero-de-venezuela/",
+      "title": "Detienen a mujer que fue grabada golpeando a su hija de 12 años",
+      "link": "https://laverdad.com/detienen-a-mujer-que-fue-grabada-golpeando-a-su-hija-de-12-anos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/LadiDiMosquera.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump advierte a Cuba y exige al régimen llegar a un acuerdo antes que sea \"demasiado tarde\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-cuba-y-exige-al-regimen-llegar-a-un-acuerdo-antes-que-sea-demasiado-tarde/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/iran.webp"
+      "title": "Editorial | ¿A quién responde Delcy?",
+      "link": "https://diarioversionfinal.com/editoriales/editorial-a-quien-responde-delcy/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/maria-corina-machado-oslo-1280x853-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T16:26:13.342Z"
+  "lastUpdate": "2026-01-11T17:18:28.287Z"
 };
