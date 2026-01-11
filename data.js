@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "548,49"
+      "usdt": "545,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Trump firmó una orden para proteger los ingresos petroleros venezolanos depositados en cuentas de EEUU",
-      "link": "https://www.infobae.com/venezuela/2026/01/10/trump-firmo-una-orden-para-proteger-los-ingresos-petroleros-venezolanos-depositados-en-cuentas-de-eeuu/",
-      "image": "https://www.infobae.com/resizer/v2/XPYFUYIJEJHHFGKHRCFZ7O2OVI.JPG?auth=d1b9c3d6aa4af2b49b2b6c02fd866c8b515ff69f5fab659353670191e680153f&smart=true&width=350&height=197&quality=85"
+      "title": "EEUU alertó que colectivos chavistas armados están buscando ciudadanos norteamericanos en Venezuela tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/11/eeuu-alerto-que-colectivos-chavistas-armados-estan-buscando-ciudadanos-norteamericanos-en-venezuela-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/GB646BVJOVHRLNOX5BPYOZGNZE.png?auth=ee69d919e2510ee2a424dda275ac795034a48a7bf9af783b4f0078fa51d18519&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "\"Las familias siguen esperando\": Edmundo González exige celeridad en excarcelaciones de presos políticos\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/las-familias-siguen-esperando-edmundo-gonzalez-exige-celeridad-en-excarcelaciones-de-presos-politicos/",
+      "title": "EE UU ordena a sus ciudadanos abandonar Venezuela ante riesgos por colectivos armados\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/ee-uu-ordena-a-sus-ciudadanos-abandonar-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Qué se sabe sobre los muertos y heridos en el ataque de EE.UU. en Caracas",
-      "link": "https://cnnespanol.cnn.com/2026/01/10/venezuela/muertos-heridos-ataque-eeuu-caracas-captura-maduro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254658679.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Las claves para entender una de las semanas más críticas de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/10/venezuela/analisis-claves-semana-critica-maduro-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254996055-1.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EEUU emitió alerta de seguridad para que sus ciudadanos abandonen Venezuela «de inmediato»",
-      "link": "https://caraotadigital.net/eeuu/eeuu-emitio-alerta-de-seguridad-para-que-sus-ciudadanos-abandonen-venezuela-de-inmediato/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2024/01/Departamento-estado-EEUU-150x150.jpg"
+      "title": "#10Ene | Esta es la lista de presos políticos liberados en el país que han sido verificados",
+      "link": "https://caraotadigital.net/venezuela/10ene-esta-es-la-lista-de-presos-politicos-liberados-en-el-pais-que-han-sido-verificados/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/presos-politicos.jpg"
     },
     {
       "source": "Noticiero Digital",
       "title": "FAMILIARES DE CARLOS MARCANO DENUNCIAN LENTITUD EN LAS LIBERACIONES TRAS ANUNCIOS OFICIALES",
       "link": "https://noticierodigital.com/2026/01/familiares-de-carlos-marcano-denuncian-lentitud-en-las-liberaciones-tras-anuncios-oficiales/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/01/CarlosMarcano__-627x376.jpg"
+    },
+    {
+      "source": "Caracol Noticias",
+      "title": "Fotos del accidente de avioneta en el que murió Yeison Jiménez",
+      "link": "https://www.noticiascaracol.com/colombia/fotos-del-accidente-de-avioneta-en-el-que-murio-yeison-jimenez-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e928bee/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2Faf%2F8e36ed1d47d0a473a1cd0a6c6a5f%2Faccidente-yeison-jimenez.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/t5XXcP2y-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-10T23:20:20.128Z"
+  "lastUpdate": "2026-01-11T01:56:22.043Z"
 };
