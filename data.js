@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "545,96"
+      "usdt": "517,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Fotos del accidente de avioneta en el que murió Yeison Jiménez",
-      "link": "https://www.noticiascaracol.com/colombia/fotos-del-accidente-de-avioneta-en-el-que-murio-yeison-jimenez-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e928bee/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2Faf%2F8e36ed1d47d0a473a1cd0a6c6a5f%2Faccidente-yeison-jimenez.jpg"
+      "title": "Esta es la hipótesis del accidente aéreo en el que murió Yeison Jiménez en Paipa, Boyacá",
+      "link": "https://www.noticiascaracol.com/colombia/esta-es-la-hipotesis-del-accidente-aereo-en-el-que-murio-yeison-jimenez-en-paipa-boyaca-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a6dfb19/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe4%2Ff0%2F8f5d57ea419a8c69ddee7d134417%2Fyeison-jimenez-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/t5XXcP2y-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T01:56:22.043Z"
+  "lastUpdate": "2026-01-11T03:52:42.572Z"
 };
