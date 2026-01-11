@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "534,00"
+      "usdt": "538,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Denunciaron la muerte de otro preso político bajo custodia del régimen chavista en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/11/denunciaron-la-muerte-de-otro-preso-politico-bajo-custodia-del-regimen-chavista-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/WHMPAOU75JBEVIUXSDS6KHTLTI.jpg?auth=627c2144f61516a38dce6b61066d7a38375b0f717a5078178049282731f67a6d&smart=true&width=350&height=197&quality=85"
+      "title": "Las familias de los presos políticos en Venezuela oran frente las cárceles a la espera de las liberaciones: “Todos son inocentes”",
+      "link": "https://www.infobae.com/venezuela/2026/01/11/las-familias-de-los-presos-politicos-en-venezuela-oran-frente-las-carceles-a-la-espera-de-las-liberaciones-todos-son-inocentes/",
+      "image": "https://www.infobae.com/resizer/v2/OAX5C3XB3NB6TDGV7OUBHFNYR4.jpg?auth=ec979953e118fd84f80cde73c4d0cae52335ada3208b8cdc6b5d2875b631c717&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2025/08/presos-politicos.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "FAMILIARES DE CARLOS MARCANO DENUNCIAN LENTITUD EN LAS LIBERACIONES TRAS ANUNCIOS OFICIALES",
+      "link": "https://noticierodigital.com/2026/01/familiares-de-carlos-marcano-denuncian-lentitud-en-las-liberaciones-tras-anuncios-oficiales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/CarlosMarcano__-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Esta es la hipótesis del accidente aéreo en el que murió Yeison Jiménez en Paipa, Boyacá",
-      "link": "https://www.noticiascaracol.com/colombia/esta-es-la-hipotesis-del-accidente-aereo-en-el-que-murio-yeison-jimenez-en-paipa-boyaca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a6dfb19/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe4%2Ff0%2F8f5d57ea419a8c69ddee7d134417%2Fyeison-jimenez-1.jpg"
+      "title": "Relato de Yeison Jiménez sobre sueños premonitorios con accidente aéreo: \"Nos habíamos matado\"",
+      "link": "https://www.noticiascaracol.com/colombia/yeison-jimenez-relato-completo-de-suenos-premonitorios-con-accidente-aereo-nos-habiamos-matado-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1dc38ab/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe1%2F9d%2Ff173c0774e05be736a39e611c8ea%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. alerta que colectivos armados buscan estadounidenses en Venezuela tras aprehensión de Maduro",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-alerta-que-colectivos-armados-buscan-estadounidenses-en-venezuela-tras-aprehension-de-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/t5XXcP2y-image-750x430.jpg"
+      "title": "Gobierno califica como “relato inexistente” alerta de Estados Unidos sobre colectivos armados",
+      "link": "https://diarioversionfinal.com/politica-dinero/gobierno-califica-como-relato-inexistente-alerta-de-estados-unidos-sobre-colectivos-armados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8575-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-11T12:42:19.763Z"
+  "lastUpdate": "2026-01-11T13:30:41.860Z"
 };
