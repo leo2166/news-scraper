@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "545,96"
+      "usdt": "540,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Italia confirmó la liberación de dos ciudadanos detenidos en Venezuela y su inminente retorno",
-      "link": "https://www.infobae.com/venezuela/2026/01/12/italia-confirmo-la-liberacion-de-dos-ciudadanos-detenidos-en-venezuela-y-su-inminente-retorno/",
-      "image": "https://www.infobae.com/resizer/v2/R57OW325BFHGBK5DYJOXFR25DU.jpeg?auth=d979184b6e70c6083b8477fc02cb4580bbe589778e201a55f860c6fec3423910&smart=true&width=350&height=197&quality=85"
+      "title": "El papa León XIV recibió a María Corina Machado en el Vaticano",
+      "link": "https://www.infobae.com/venezuela/2026/01/12/el-papa-leon-xiv-recibio-a-maria-corina-machado-en-el-vaticano/",
+      "image": "https://www.infobae.com/resizer/v2/26PQP7Z3LNEANPURMT4EY4XZDM.JPG?auth=929f667bc3d547a80ce97c0928384fde4916cf857bcbffe4fdc63f452e2b82ed&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Se registraron 24 nuevas excarcelaciones de presos políticos la madrugada de este lunes\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/se-registraron-24-nuevas-excarcelaciones-de-presos-politicos-la-madrugada-de-este-lunes/",
+      "title": "El Papa recibe a María Corina Machado\nMUNDO",
+      "link": "https://www.elnacional.com/2026/01/el-papa-recibe-a-maria-corina-machado/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump lanza advertencia a Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/01/11/latinoamerica/trump-cuba-acuerdo-ameneza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26005604823902-20260111215434546.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump aumenta la presión sobre Cuba y Díaz-Canel responde",
+      "link": "https://cnnespanol.cnn.com/2026/01/12/latinoamerica/presidente-cuba-nadie-dice-lo-que-hacemos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1233944745.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MCM Y EDMUNDO TIENEN LA «POTESTAD DE EXIGIR ELECCIONES LIBRES»: GUILLERMO TELL AVELEDO",
-      "link": "https://noticierodigital.com/2026/01/mcm-y-edmundo-tienen-la-potestad-de-exigir-elecciones-libres-guillermo-tell-aveledo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/guillermotellaveledo-candidato-primaria-16feb2023-627x376.jpg"
+      "title": "TRUMP CONSIDERA DEJAR POR FUERA DE NEGOCIOS PETROLEROS A EXXON: «NO ME GUSTÓ SU RESPUESTA»",
+      "link": "https://noticierodigital.com/2026/01/trump-considera-dejar-por-fuera-de-negocios-petroleros-a-exxon-no-me-gusto-su-respuesta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/donald-trump-eeuu-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Guyana descarta acuerdo con Venezuela por el Esequibo tras captura de Maduro",
-      "link": "https://laverdad.com/guyana-descarta-acuerdo-con-venezuela-por-el-esequibo-tras-captura-de-maduro/",
+      "title": "Trump sugiere que dejará a ExxonMobil \"fuera\" de Venezuela tras comentario de su CEO",
+      "link": "https://laverdad.com/trump-sugiere-que-dejara-a-exxonmobil-fuera-de-venezuela-tras-comentario-de-su-ceo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/G-ZInsDXAAAXBQN.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. asegura que Chevron, Shell, Repsol y ENI incrementarán “de inmediato” su producción en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-asegura-que-chevron-shell-repsol-y-eni-incrementaran-de-inmediato-su-produccion-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Presos-politicos-27-12-2025-750x430.jpg"
+      "title": "Trump asegura que Delcy Rodríguez le ofreció a EE. UU. “50 millones de barriles de petróleo”",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-delcy-rodriguez-le-ofrecio-a-ee-uu-50-millones-de-barriles-de-petroleo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8619-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-12T11:21:26.405Z"
+  "lastUpdate": "2026-01-12T12:50:05.427Z"
 };
