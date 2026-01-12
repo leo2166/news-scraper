@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "531,70"
+      "usdt": "558,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Cuándo podría estabilizarse el mercado cambiario en el país? Lo que respondió un experto",
-      "link": "https://caraotadigital.net/venezuela/cuando-podria-estabilizarse-el-mercado-cambiario-en-el-pais-lo-que-respondio-un-experto/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dolares.jpg"
+      "title": "Trump asegura que EEUU controlará Groenlandia de «una forma u otra», y dio detalles de un ‘acuerdo’ con Dinamarca",
+      "link": "https://caraotadigital.net/eeuu/trump-asegura-que-eeuu-controlara-groenlandia-de-una-forma-u-otra-y-dio-detalles-de-un-acuerdo-con-dinamarca/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-GROELANDIA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESTRATEGIAS MENTALES PARA MEJORAR LA CONCENTRACIÓN EN JUEGOS DE REFLEJOS",
-      "link": "https://noticierodigital.com/2026/01/estrategias-mentales-para-mejorar-la-concentracion-en-juegos-de-reflejos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/juegosdereflejos_-627x376.jpg"
+      "title": "EE. UU. AFIRMA QUE CUENTA CON «PLENA COOPERACIÓN» DE LAS AUTORIDADES INTERINAS DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/ee-uu-afirma-que-cuenta-con-plena-cooperacion-de-las-autoridades-interinas-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/casa-blanca-eeuu-karoline-leavitt-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez reitera que es “presidenta encargada” tras imagen publicada por Trump",
-      "link": "https://laverdad.com/delcy-rodriguez-reitera-que-es-presidenta-encargada-tras-imagen-publicada-por-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Real-Madrid-destituye-a-Xabi-Alonso-y-asciende-a-Alvaro-Arbeloa.jpg"
+      "title": "Trump recibirá a María Corina Machado este jueves en la Casa Blanca",
+      "link": "https://laverdad.com/trump-recibira-a-maria-corina-machado-este-jueves-en-la-casa-blanca/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/SILVINO-BRACHO-J54-TEMP-25-26-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Misión de la ONU exige liberación de presos políticos y “fin de prácticas represivas” en Venezuela",
       "link": "https://diarioversionfinal.com/politica-dinero/mision-de-la-onu-exige-liberacion-de-presos-politicos-y-fin-de-practicas-represivas-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-12-at-3.17.52-PM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Caso-Casiano-2-12-01-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T19:21:22.529Z"
+  "lastUpdate": "2026-01-12T20:26:56.642Z"
 };
