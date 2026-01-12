@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "547,00"
+      "usdt": "545,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "EE. UU. asegura que Chevron, Shell, Repsol y ENI incrementarán “de inmediato” su producción en Venezuela",
       "link": "https://diarioversionfinal.com/mundo/ee-uu-asegura-que-chevron-shell-repsol-y-eni-incrementaran-de-inmediato-su-produccion-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tjg-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Presos-politicos-27-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T10:26:56.008Z"
+  "lastUpdate": "2026-01-12T11:21:26.405Z"
 };
