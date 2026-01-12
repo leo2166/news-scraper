@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "523,00"
+      "usdt": "547,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | Pese a las vigilias familiares y los reclamos de las ONG, el régimen chavista liberó hasta ahora solo a 17 presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/01/12/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/3SOMXYCKMJAA3I2G56OLV3YJGA.JPG?auth=85a54e8067196f9191448913d2fed9126abedfa2dfe1a128c4788dbedc594e04&smart=true&width=350&height=197&quality=85"
+      "title": "Italia confirmó la liberación de dos ciudadanos detenidos en Venezuela y su inminente retorno",
+      "link": "https://www.infobae.com/venezuela/2026/01/12/italia-confirmo-la-liberacion-de-dos-ciudadanos-detenidos-en-venezuela-y-su-inminente-retorno/",
+      "image": "https://www.infobae.com/resizer/v2/R57OW325BFHGBK5DYJOXFR25DU.jpeg?auth=d979184b6e70c6083b8477fc02cb4580bbe589778e201a55f860c6fec3423910&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¿Cuántos presos políticos han muerto desde 2015 bajo custodia del Estado venezolano?\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/cuantos-presos-politicos-han-muerto-desde-2015-bajo-custodia-del-estado-venezolano/",
+      "title": "Se registraron 24 nuevas excarcelaciones de presos políticos la madrugada de este lunes\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/se-registraron-24-nuevas-excarcelaciones-de-presos-politicos-la-madrugada-de-este-lunes/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tjg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T09:33:38.600Z"
+  "lastUpdate": "2026-01-12T10:26:56.008Z"
 }
