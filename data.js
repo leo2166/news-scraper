@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "523,00"
+      "usdt": "520,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Pese a las vigilias de las familias y los reclamos de las ONG, este domingo no hubo liberaciones de presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/12/pese-a-las-vigilias-de-las-familias-y-los-reclamos-de-las-ong-este-domingo-no-hubo-liberaciones-de-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/N4NRQO6P3VBZTKXOVPE2NAOPRA.PNG?auth=5ea8e0d163953b02a2b6cb533022730990a8e07af3565e80aa16155e0f980c9d&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | Pese a las vigilias familiares y los reclamos de las ONG, el régimen chavista liberó hasta ahora solo a 17 presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/01/12/transicion-en-venezuela-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/3SOMXYCKMJAA3I2G56OLV3YJGA.JPG?auth=85a54e8067196f9191448913d2fed9126abedfa2dfe1a128c4788dbedc594e04&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tjg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T07:28:10.312Z"
+  "lastUpdate": "2026-01-12T08:34:04.333Z"
 };
