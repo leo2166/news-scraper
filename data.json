@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "519,95"
+      "usdt": "543,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen de Venezuela ratificó su estrecha relación con la dictadura de Cuba",
-      "link": "https://www.infobae.com/venezuela/2026/01/11/el-regimen-de-venezuela-ratifico-su-estrecha-relacion-con-la-dictadura-de-cuba/",
-      "image": "https://www.infobae.com/resizer/v2/NQ3EDWRDIZGYTCLRXCUR6G3ROU.jpg?auth=0b86809fc6fb5211f454e35b3934956fe1a73213f51a1717b602461667538486&smart=true&width=350&height=197&quality=85"
+      "title": "Pese a las vigilias de las familias y los reclamos de las ONG, este domingo no hubo liberaciones de presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/12/pese-a-las-vigilias-de-las-familias-y-los-reclamos-de-las-ong-este-domingo-no-hubo-liberaciones-de-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/N4NRQO6P3VBZTKXOVPE2NAOPRA.PNG?auth=5ea8e0d163953b02a2b6cb533022730990a8e07af3565e80aa16155e0f980c9d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Caracas intenta volver a la normalidad tras la captura de Maduro",
-      "link": "https://cnnespanol.cnn.com/2026/01/11/venezuela/vida-caracas-normaliza-noche-operativos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254996055.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump lanza advertencia a Cuba",
+      "link": "https://cnnespanol.cnn.com/2026/01/11/latinoamerica/trump-cuba-acuerdo-ameneza-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26005604823902-20260111215434546.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Se elevan a 538 los muertos en las protestas de Irán, según una ONG de EEUU",
-      "link": "https://caraotadigital.net/mundo/se-elevan-a-538-los-muertos-en-las-protestas-de-iran-segun-una-ong-de-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Iran-1.jpg"
+      "title": "Migración Colombia destaca normalidad del flujo migratorio en la frontera con Venezuela",
+      "link": "https://caraotadigital.net/mundo/migracion-colombia-destaca-normalidad-del-flujo-migratorio-en-la-frontera-con-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2023/01/Colombia-migracion-venezolanos-1-150x150.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Funeral de Yeison Jiménez sería en el Movistar Arena de Bogotá: ¿pueden entrar seguidores?",
-      "link": "https://www.noticiascaracol.com/colombia/funeral-de-yeison-jimenez-seria-en-el-movistar-arena-de-bogota-pueden-entrar-seguidores-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/154051a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F44%2Fc7%2F32b7a2d5408da969053ff0e65e2b%2Fyeison-jimenez-6.jpg"
+      "title": "Revelan nuevo video del momento cuando explotó avioneta de Yeison Jiménez: \"Se fue en picada\"",
+      "link": "https://www.noticiascaracol.com/colombia/revelan-nuevo-video-del-momento-cuando-exploto-avioneta-de-yeison-jimenez-se-fue-en-picada-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a913dd0/2147483647/strip/true/crop/1280x722+0+9/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F04%2F4d%2F0b4771c0496e9f6c127928d77851%2Fyeison-jimenez-9.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@
       "source": "Diario Versión Final",
       "title": "EE. UU. asegura que Chevron, Shell, Repsol y ENI incrementarán “de inmediato” su producción en Venezuela",
       "link": "https://diarioversionfinal.com/mundo/ee-uu-asegura-que-chevron-shell-repsol-y-eni-incrementaran-de-inmediato-su-produccion-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/fynjygf.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tjg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-11T23:20:24.146Z"
+  "lastUpdate": "2026-01-12T01:52:27.874Z"
 }
