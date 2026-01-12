@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "566,90"
+      "usdt": "550,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump recibirá a María Corina Machado el jueves en la Casa Blanca\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/trump-recibira-a-maria-corina-machado-el-jueves-en-la-casa-blanca/",
+      "title": "El ultimátum de Petro al ELN: abandonan Venezuela o habrá acciones militares conjuntas\nCOLOMBIA",
+      "link": "https://www.elnacional.com/2026/01/el-ultimatum-de-petro-al-eln-abandonan-venezuela-o-habra-acciones-militares-conjuntas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "María Corina Machado visitará la Casa Blanca el jueves",
-      "link": "https://cnnespanol.cnn.com/latinoamerica/live-news/ultima-hora-trump-venezuela-cuba-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2251359066-20260106040034105.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Avanza la excarcelación de presos políticos en Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/12/venezuela/excarcelaciones-presos-politicos-repaso-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-11t001415z-1765439807-rc2jyia40dha-rtrmadp-3-usa-venezuela-prisoners.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump planea reunión con su gabinete y estas son las opciones para detener la ‘masacre’ en Irán",
-      "link": "https://caraotadigital.net/eeuu/trump-planea-reunion-con-su-gabinete-y-estas-son-las-opciones-para-detener-la-masacre-en-iran/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MEET-TRUMP-IRAN.jpg"
+      "title": "Juez rechazó intento de ex alto funcionario del Departamento de Justicia de sumarse a la defensa de Maduro",
+      "link": "https://caraotadigital.net/eeuu/juez-rechazo-intento-de-ex-alto-funcionario-del-departamento-de-justicia-de-sumarse-a-la-defensa-de-maduro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MADURO-ABOGADO.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. AFIRMA QUE CUENTA CON «PLENA COOPERACIÓN» DE LAS AUTORIDADES INTERINAS DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/ee-uu-afirma-que-cuenta-con-plena-cooperacion-de-las-autoridades-interinas-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/casa-blanca-eeuu-karoline-leavitt-627x376.jpg"
+      "title": "CNN: MARÍA CORINA VISITARÁ LA CASA BLANCA EL JUEVES",
+      "link": "https://noticierodigital.com/2026/01/cnn-maria-corina-visitara-la-casa-blanca-el-jueves/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/maria-corina-machado-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Misión de la ONU exige liberación de presos políticos y “fin de prácticas represivas” en Venezuela",
       "link": "https://diarioversionfinal.com/politica-dinero/mision-de-la-onu-exige-liberacion-de-presos-politicos-y-fin-de-practicas-represivas-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-12-01-2026-696x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/Parole-humanitario-Venezuela-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T21:21:53.937Z"
+  "lastUpdate": "2026-01-12T22:19:52.606Z"
 };
