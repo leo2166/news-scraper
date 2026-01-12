@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "534,96"
+      "usdt": "529,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,27 +32,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Italianos liberados en Venezuela rompieron el silencio, esto dijeron sobre Maduro y su regreso a Roma",
-      "link": "https://caraotadigital.net/venezuela/italianos-liberados-en-venezuela-rompieron-el-silencio-esto-dijeron-sobre-maduro-y-su-regreso-a-roma/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presos-7.jpg"
+      "title": "Italia nombrará embajador en Venezuela tras la liberación de los dos italianos presos",
+      "link": "https://caraotadigital.net/mundo/italia-nombrara-embajador-en-venezuela-tras-la-liberacion-de-los-dos-italianos-presos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/tajani27a91624a038864162d824bf72acbe5000633dadminiw.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GRANDELIGA CARLOS HERNÁNDEZ SUFRE APARATOSO ACCIDENTE DE TRÁNSITO EN CIUDAD GUAYANA",
-      "link": "https://noticierodigital.com/2026/01/grandeliga-carlos-hernandez-sufre-aparatoso-accidente-de-transito-en-ciudad-guayana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Estado-en-que-quedo-el-vehiculo-de-Carlos-Hernandez-627x376.jpg"
+      "title": "COLOMBIA LLORA LA MUERTE DEL CANTANTE DE MÚSICA POPULAR YEISON JIMÉNEZ",
+      "link": "https://noticierodigital.com/2026/01/colombia-llora-la-muerte-del-cantante-de-musica-popular-yeison-jimenez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-15-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así se despidieron comerciantes de Corabastos de Yeison Jiménez: el último adiós al cotero cantante",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/despedida-de-yeison-jimenez-en-corabastos-comerciantes-le-dan-el-ultimo-adios-al-cotero-cantante-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/743e5e0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe1%2F0c%2F780efc784d54837f02bd8b01e952%2Fdiseno-1.jpg"
+      "title": "Revelan nuevo video del momento cuando explotó avioneta de Yeison Jiménez: \"Se fue en picada\"",
+      "link": "https://www.noticiascaracol.com/colombia/revelan-nuevo-video-del-momento-cuando-exploto-avioneta-de-yeison-jimenez-se-fue-en-picada-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a913dd0/2147483647/strip/true/crop/1280x722+0+9/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F04%2F4d%2F0b4771c0496e9f6c127928d77851%2Fyeison-jimenez-9.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "González Urrutia califica reunión de Machado y de León XIV como “un mensaje importante”",
-      "link": "https://laverdad.com/gonzalez-urrutia-califica-reunion-de-machado-y-de-leon-xiv-como-un-mensaje-importante/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Yeison-Jimenez.jpg"
+      "title": "Machado pide al Papa que interceda por “los presos políticos” y la “transición” en el país",
+      "link": "https://laverdad.com/machado-pide-al-papa-que-interceda-por-los-presos-politicos-y-la-transicion-en-el-pais/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/image-47.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Donald_Trump_EEUU-8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-12T15:26:45.675Z"
+  "lastUpdate": "2026-01-12T16:28:46.998Z"
 };
