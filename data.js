@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "550,00"
+      "usdt": "552,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El ultimátum de Petro al ELN: abandonan Venezuela o habrá acciones militares conjuntas\nCOLOMBIA",
-      "link": "https://www.elnacional.com/2026/01/el-ultimatum-de-petro-al-eln-abandonan-venezuela-o-habra-acciones-militares-conjuntas/",
+      "title": "El ultimátum de Petro al ELN: abandona Venezuela o habrá acciones militares conjuntas\nCOLOMBIA",
+      "link": "https://www.elnacional.com/2026/01/el-ultimatum-de-petro-al-eln-abandona-venezuela-o-habra-acciones-militares-conjuntas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Juez rechazó intento de ex alto funcionario del Departamento de Justicia de sumarse a la defensa de Maduro",
-      "link": "https://caraotadigital.net/eeuu/juez-rechazo-intento-de-ex-alto-funcionario-del-departamento-de-justicia-de-sumarse-a-la-defensa-de-maduro/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MADURO-ABOGADO.jpg"
+      "title": "EEUU refuerza la seguridad para el Mundial y con millonaria inversión Trump quiere mostrar su «superioridad aérea»",
+      "link": "https://caraotadigital.net/eeuu/eeuu-refuerza-la-seguridad-para-el-mundial-y-con-millonaria-inversion-trump-quiere-mostrar-su-superioridad-aerea/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DRONES-MUNDIAL.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CNN: MARÍA CORINA VISITARÁ LA CASA BLANCA EL JUEVES",
-      "link": "https://noticierodigital.com/2026/01/cnn-maria-corina-visitara-la-casa-blanca-el-jueves/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/maria-corina-machado-627x376.jpg"
+      "title": "JUEZ FEDERAL DE EE. UU. RECHAZÓ INCORPORACIÓN DE ABOGADO A LA DEFENSA DE MADURO",
+      "link": "https://noticierodigital.com/2026/01/juez-federal-de-ee-uu-rechazo-incorporacion-de-abogado-a-la-defensa-de-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/bruce-fein-abogado-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Revelan nuevo video del momento cuando explotó avioneta de Yeison Jiménez: \"Se fue en picada\"",
-      "link": "https://www.noticiascaracol.com/colombia/revelan-nuevo-video-del-momento-cuando-exploto-avioneta-de-yeison-jimenez-se-fue-en-picada-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a913dd0/2147483647/strip/true/crop/1280x722+0+9/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F04%2F4d%2F0b4771c0496e9f6c127928d77851%2Fyeison-jimenez-9.jpg"
+      "title": "Entre cadenas, sangre y silencio: el relato de Yennis Salazar, secuestrada 9 meses por el Eln",
+      "link": "https://www.noticiascaracol.com/colombia/entre-cadenas-sangre-y-silencio-el-relato-de-yennis-salazar-secuestrada-9-meses-por-el-eln-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/90584eb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F88%2Fd3%2Ff830e3c74b8995f76cb0ec3dbadb%2Fyennis-salazar.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Misión de la ONU exige liberación de presos políticos y “fin de prácticas represivas” en Venezuela",
       "link": "https://diarioversionfinal.com/politica-dinero/mision-de-la-onu-exige-liberacion-de-presos-politicos-y-fin-de-practicas-represivas-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/Parole-humanitario-Venezuela-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Diosdado-Cabello-10-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T22:19:52.606Z"
+  "lastUpdate": "2026-01-12T23:17:57.217Z"
 };
