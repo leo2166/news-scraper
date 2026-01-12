@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "533,99"
+      "usdt": "534,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El papa León XIV recibió a María Corina Machado en el Vaticano",
-      "link": "https://www.infobae.com/venezuela/2026/01/12/el-papa-leon-xiv-recibio-a-maria-corina-machado-en-el-vaticano/",
-      "image": "https://www.infobae.com/resizer/v2/26PQP7Z3LNEANPURMT4EY4XZDM.JPG?auth=929f667bc3d547a80ce97c0928384fde4916cf857bcbffe4fdc63f452e2b82ed&smart=true&width=350&height=197&quality=85"
+      "title": "Guerrilleros colombianos, oro ilegal y fentanilo: el vacío dejado por Maduro amenaza con convertir a Brasil en el nuevo epicentro del crimen regional",
+      "link": "https://www.infobae.com/america/america-latina/2026/01/12/guerrilleros-colombianos-oro-ilegal-y-fentanilo-el-vacio-dejado-por-maduro-amenaza-con-convertir-a-brasil-en-el-nuevo-epicentro-del-crimen-regional/",
+      "image": "https://www.infobae.com/resizer/v2/P757C6NLJJB75OUIQG3VZWHOA4.jpg?auth=771f65ab39f08f0c1726c36f7237519ea611ae3bec4b57b500e38fa16ddacd9a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El Papa recibe a María Corina Machado\nMUNDO",
-      "link": "https://www.elnacional.com/2026/01/el-papa-recibe-a-maria-corina-machado/",
+      "title": "Los sistemas de defensa antiaérea rusos estaban apagados cuando EE UU lanzó la operación que capturó a Maduro\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/los-sistemas-de-defensa-antiaerea-rusos-estaban-apagados-cuando-ee-uu-lanzo-la-operacion-que-capturo-a-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump aumenta la presión sobre Cuba y Díaz-Canel responde",
-      "link": "https://cnnespanol.cnn.com/2026/01/12/latinoamerica/presidente-cuba-nadie-dice-lo-que-hacemos-trax",
+      "title": "Cuba niega contactos con EE.UU. tras advertencia de Trump",
+      "link": "https://cnnespanol.cnn.com/latinoamerica/live-news/ultima-hora-trump-venezuela-cuba-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1233944745.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "#12Ene | Esta es la lista de presos políticos liberados en el país que han sido verificados",
-      "link": "https://caraotadigital.net/venezuela/12ene-esta-es-la-lista-de-presos-politicos-liberados-en-el-pais-que-han-sido-verificados/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/presos-politicos.jpg"
+      "title": "Italianos liberados en Venezuela rompieron el silencio, esto dijeron sobre Maduro y su regreso a Roma",
+      "link": "https://caraotadigital.net/venezuela/italianos-liberados-en-venezuela-rompieron-el-silencio-esto-dijeron-sobre-maduro-y-su-regreso-a-roma/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presos-7.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ITALIA CONFIRMA EXCARCELACIÓN DE ALBERTO TRENTINI Y MARIO BURLÒ EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/italia-confirma-excarcelacion-de-alberto-trentini-y-mario-burlo-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-14-627x376.jpg"
+      "title": "GRANDELIGA CARLOS HERNÁNDEZ SUFRE APARATOSO ACCIDENTE DE TRÁNSITO EN CIUDAD GUAYANA",
+      "link": "https://noticierodigital.com/2026/01/grandeliga-carlos-hernandez-sufre-aparatoso-accidente-de-transito-en-ciudad-guayana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Estado-en-que-quedo-el-vehiculo-de-Carlos-Hernandez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez pide “unidad y constancia” para lograr la “tranquilidad económica”",
-      "link": "https://laverdad.com/delcy-rodriguez-pide-unidad-y-constancia-para-lograr-la-tranquilidad-economica/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Globos-de-Oro.jpg"
+      "title": "González Urrutia califica reunión de Machado y de León XIV como “un mensaje importante”",
+      "link": "https://laverdad.com/gonzalez-urrutia-califica-reunion-de-machado-y-de-leon-xiv-como-un-mensaje-importante/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Yeison-Jimenez.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ministerio de Servicio Penitenciario asegura haber concretado “116 nuevas excarcelaciones”",
-      "link": "https://diarioversionfinal.com/politica-dinero/ministerio-de-servicio-penitenciario-asegura-haber-concretado-116-nuevas-excarcelaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-12-at-11.11.12-AM-750x430.jpeg"
+      "title": "China se planta ante Trump: Países latinoamericanos tienen derecho a elegir sus socios",
+      "link": "https://diarioversionfinal.com/mundo/china-se-planta-ante-trump-paises-latinoamericanos-tienen-derecho-a-elegir-sus-socios/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Donald_Trump_EEUU-8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-12T14:27:06.840Z"
+  "lastUpdate": "2026-01-12T15:26:45.675Z"
 };
