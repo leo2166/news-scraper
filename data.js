@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tjg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T06:38:09.090Z"
+  "lastUpdate": "2026-01-12T07:28:10.312Z"
 };
