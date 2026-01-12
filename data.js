@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "555,96"
+      "usdt": "531,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Así reaccionan los presos políticos excarcelados al salir de prisión: “Viva Venezuela”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/asi-reaccionan-los-presos-politicos-excarcelados-al-salir-de-prision/",
+      "title": "Trump recibirá a María Corina Machado el jueves en la Casa Blanca\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/trump-recibira-a-maria-corina-machado-el-jueves-en-la-casa-blanca/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Delcy Rodríguez respondió a polémica imagen de Trump: «Aquí hay una presidenta encargada»",
-      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-respondio-a-polemica-imagen-de-trump-aqui-hay-una-presidenta-encargada/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY11SaveClip.App_611638449_18028817483786236_4432151850542024038_n.jpg"
+      "title": "¿Cuándo podría estabilizarse el mercado cambiario en el país? Lo que respondió un experto",
+      "link": "https://caraotadigital.net/venezuela/cuando-podria-estabilizarse-el-mercado-cambiario-en-el-pais-lo-que-respondio-un-experto/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dolares.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PERMITEN VISITAS A JESÚS ARMAS EN EL HELICOIDE: «HAN SIDO MESES MUY DUROS»",
-      "link": "https://noticierodigital.com/2026/01/permiten-visitas-a-jesus-armas-en-el-helicoide-han-sido-meses-muy-duros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/jesus-armas-627x376.jpg"
+      "title": "ESTRATEGIAS MENTALES PARA MEJORAR LA CONCENTRACIÓN EN JUEGOS DE REFLEJOS",
+      "link": "https://noticierodigital.com/2026/01/estrategias-mentales-para-mejorar-la-concentracion-en-juegos-de-reflejos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/juegosdereflejos_-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Caracas y Roma acuerdan elevar sus misiones al rango de embajadores",
-      "link": "https://laverdad.com/caracas-y-roma-acuerdan-elevar-sus-misiones-al-rango-de-embajadores/",
+      "title": "Delcy Rodríguez reitera que es “presidenta encargada” tras imagen publicada por Trump",
+      "link": "https://laverdad.com/delcy-rodriguez-reitera-que-es-presidenta-encargada-tras-imagen-publicada-por-trump/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Real-Madrid-destituye-a-Xabi-Alonso-y-asciende-a-Alvaro-Arbeloa.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump y la transición en Venezuela: “Lo que viene no es caos, pero tampoco democracia plena”",
-      "link": "https://diarioversionfinal.com/politica-dinero/trump-y-la-transicion-en-venezuela-lo-que-viene-no-es-caos-pero-tampoco-democracia-plena/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/ghhyhg-750x430.jpg"
+      "title": "Misión de la ONU exige liberación de presos políticos y “fin de prácticas represivas” en Venezuela",
+      "link": "https://diarioversionfinal.com/politica-dinero/mision-de-la-onu-exige-liberacion-de-presos-politicos-y-fin-de-practicas-represivas-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-12-at-3.17.52-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-12T18:34:09.483Z"
+  "lastUpdate": "2026-01-12T19:21:22.529Z"
 };
