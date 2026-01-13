@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "575,96"
+      "usdt": "550,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FMI Y BANCO MUNDIAL EVALUARON OPCIONES DE RESCATE PARA VENEZUELA, SEGÚN BLOOMBERG",
-      "link": "https://noticierodigital.com/2026/01/fmi-y-banco-mundial-evaluaron-opciones-de-rescate-para-venezuela-segun-bloomberg/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/fmi.jpg"
+      "title": "VP CONFIRMÓ LA EXCARCELACIÓN DE LA EXCONCEJAL LURBA ROJAS",
+      "link": "https://noticierodigital.com/2026/01/vp-confirmo-la-excarcelacion-de-la-exconcejal-lurba-rojas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Lurba-Rojas-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/rss-efe039ac0099a5449bee13b221bcee76bb06ab36033w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T03:29:11.523Z"
+  "lastUpdate": "2026-01-13T04:40:54.684Z"
 };
