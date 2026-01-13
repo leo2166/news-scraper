@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "550,40"
+      "usdt": "548,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Los directorios ejecutivos del FMI y del Banco Mundial se reunieron la semana pasada para discutir el apoyo a Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/13/los-directorios-ejecutivos-del-fmi-y-del-banco-mundial-se-reunieron-la-semana-pasada-para-discutir-el-apoyo-a-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/D7IWWBALTVHEXDJFOV3HIGWZYM.JPG?auth=404d0dbedd99d282c97addc38585464ce0bb76deb7016a1ba8f408b7215f8844&smart=true&width=350&height=197&quality=85"
+      "title": "Presos políticos en Venezuela: los familiares de los detenidos por el régimen instalaron campamentos a las afueras de las cárceles",
+      "link": "https://www.infobae.com/venezuela/2026/01/13/presos-politicos-en-venezuela-los-familiares-de-los-detenidos-por-el-regimen-instalaron-campamentos-a-las-afueras-de-las-carceles/",
+      "image": "https://www.infobae.com/assets/images/logos/logo_infobae_naranja_default.svg"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/rss-efe039ac0099a5449bee13b221bcee76bb06ab36033w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T06:35:39.106Z"
+  "lastUpdate": "2026-01-13T07:25:54.008Z"
 };
