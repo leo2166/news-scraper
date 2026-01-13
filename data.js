@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "576,96"
+      "usdt": "575,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos condenó a cadena perpetua a Carlos Orense Azócar, el narco venezolano que operó bajo protección del régimen chavista",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/13/estados-unidos-condeno-a-cadena-perpetua-a-carlos-orense-azocar-el-narco-venezolano-que-opero-bajo-proteccion-del-regimen-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/HP2E3S6ECRFNHG2MD22MBTGZQY.jpg?auth=00538a67e9c84ce51c87a5c135b736d76446cd640bf7aebe15cfd0d7ab06d121&smart=true&width=350&height=197&quality=85"
+      "title": "Los directorios ejecutivos del FMI y del Banco Mundial se reunieron la semana pasada para discutir el apoyo a Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/13/los-directorios-ejecutivos-del-fmi-y-del-banco-mundial-se-reunieron-la-semana-pasada-para-discutir-el-apoyo-a-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/D7IWWBALTVHEXDJFOV3HIGWZYM.JPG?auth=404d0dbedd99d282c97addc38585464ce0bb76deb7016a1ba8f408b7215f8844&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2024/12/nahuel-agustin-gallo.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "FMI Y BANCO MUNDIAL EVALUARON OPCIONES DE RESCATE PARA VENEZUELA, SEGÚN BLOOMBERG",
+      "link": "https://noticierodigital.com/2026/01/fmi-y-banco-mundial-evaluaron-opciones-de-rescate-para-venezuela-segun-bloomberg/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/fmi.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Los vínculos de altos mandos del régimen venezolano con el Eln y disidencias de las Farc",
       "link": "https://www.noticiascaracol.com/informes-especiales/los-vinculos-de-altos-mandos-del-regimen-venezolano-con-el-eln-y-disidencias-de-las-farc-ex40",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/rss-efe039ac0099a5449bee13b221bcee76bb06ab36033w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T01:44:34.001Z"
+  "lastUpdate": "2026-01-13T03:29:11.523Z"
 };
