@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "549,00"
+      "usdt": "575,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "La PUD confirma solo 65 excarcelaciones de presos políticos de las 116 anunciadas por el gobierno\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/la-pud-confirma-solo-56-excarcelaciones-de-presos-politicos-de-las-116-anunciadas-por-el-gobierno/",
+      "title": "Excarcelados otros tres españoles en Venezuela\nESPAÑA",
+      "link": "https://www.elnacional.com/2026/01/excarcelados-otros-tres-espanoles-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/rss-efe039ac0099a5449bee13b221bcee76bb06ab36033w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T09:28:58.749Z"
+  "lastUpdate": "2026-01-13T10:25:30.351Z"
 };
