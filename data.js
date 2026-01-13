@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "608,00"
+      "usdt": "600,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Entre la normalidad y el temor: así iniciaron las clases en Venezuela tras el ataque de EE UU\nEDUCACIÓN",
-      "link": "https://www.elnacional.com/2026/01/asi-iniciaron-las-clases-en-venezuela-tras-el-ataque-de-ee-uu/",
+      "title": "Detuvieron a 16 adolescentes en Anzoátegui acusados de celebrar captura de Maduro: fueron excarcelados con medidas cautelares\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/01/detuvieron-a-16-adolescentes-en-anzoategui-acusados-de-celebrar-captura-de-maduro-fueron-excarcelados-con-medidas-cautelares/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Casa Blanca confirmó acuerdo energético con Venezuela por 500 mil millones de dólares, esto dijo",
-      "link": "https://caraotadigital.net/eeuu/casa-blanca-confirmo-acuerdo-energetico-con-venezuela-por-500-mil-millones-de-dolares-esto-dijo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Casa-Blanca.jpg"
+      "title": "«No nos dejen solos»: Familiares de presos políticos protestaron en la UCV para que sigan las liberaciones",
+      "link": "https://caraotadigital.net/venezuela/no-nos-dejen-solos-familiares-de-presos-politicos-protestaron-en-la-ucv-para-que-sigan-las-liberaciones/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presos-8.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HIJO DE JUAN PABLO GUANIPA: «ALGO ESTÁ TRABANDO EXCARCELACIÓN DE PRESOS POLÍTICOS»",
-      "link": "https://noticierodigital.com/2026/01/hijo-de-juan-pablo-guanipa-algo-esta-trabando-excarcelacion-de-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/juan-pablo-guanipa-ramon-627x376.jpg"
+      "title": "LIBERADOS 15 ADOLESCENTES EN BARCELONA: HABÍAN SIDO ACUSADOS DE «ACTOS TERRORISTAS»",
+      "link": "https://noticierodigital.com/2026/01/liberados-15-adolescentes-en-barcelona-habian-sido-acusados-de-actos-terroristas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/presos-carceles-enfermospsiquiatricos-5ene2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Por qué la Aerocivil investiga desempeño de piloto de avioneta en la que murió Yeison Jiménez?",
-      "link": "https://www.noticiascaracol.com/colombia/por-que-la-aerocivil-investiga-desempeno-de-piloto-de-avioneta-en-la-que-murio-yeison-jimenez-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/053c017/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4c%2F3a%2F01e935804e0295f46848157b4027%2Fyeison-jimenez-10.jpg"
+      "title": "¿Avión en el que murieron Yeison Jiménez y demás ocupantes tenía caja negra o grabadora de voz?",
+      "link": "https://www.noticiascaracol.com/colombia/avion-en-el-que-murieron-yeison-jimenez-y-demas-ocupantes-tenia-caja-negra-o-grabadora-de-voz-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1e62dd1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3d%2F61%2F4053ded248ef8301f6a41247b8d6%2Favion-de-yeison-jimenez.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Aumentan el pasaje urbano a 60 bolívares: en Maracaibo cobran de 150 a 200",
-      "link": "https://laverdad.com/aumentan-el-pasaje-urbano-a-60-bolivares-en-maracaibo-cobran-de-150-a-200/",
+      "title": "Denuncian que presos políticos excarcelados enfrentan medidas cautelares y procesos abiertos",
+      "link": "https://laverdad.com/denuncian-que-presos-politicos-excarcelados-enfrentan-medidas-cautelares-y-procesos-abiertos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "¿Dónde está Tarek El Aissami? Piden a Delcy entregarlo a los EE.UU.",
-      "link": "https://diarioversionfinal.com/politica-dinero/donde-esta-tarek-el-aissami-piden-a-delcy-entregarlo-a-los-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/5q9i_e1JP_1256x620__1-750x430.jpg"
+      "title": "Reuters: Venezuela comienza a revertir los recortes de producción de petróleo mientras reanudan las exportaciones",
+      "link": "https://diarioversionfinal.com/politica-dinero/reuters-venezuela-comienza-a-revertir-los-recortes-de-produccion-de-petroleo-mientras-reanudan-las-exportaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/f.elconfidencial.com_original_40a_8b1_257_40a8b125784af6ae88f3385d57a5bfdd-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T16:33:28.396Z"
+  "lastUpdate": "2026-01-13T17:27:17.691Z"
 };
