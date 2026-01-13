@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "605,70"
+      "usdt": "608,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump cancela las conversaciones con Irán y promete a los manifestantes que \"la ayuda está en camino\"",
+      "title": "Trump cancela conversaciones con Irán y promete a los manifestantes que \"la ayuda está en camino\"",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/protesta-iran-numero-de-fallecidos-aranceles-ee-uu-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/teheran.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Incautaron más de seis toneladas de drogas durante la Operación Soledad en Bolívar, esto reveló Cabello",
-      "link": "https://caraotadigital.net/venezuela/incautaron-mas-de-seis-toneladas-de-drogas-durante-la-operacion-soledad-en-bolivar-esto-revelo-cabello/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagediosdado21828.jpg"
+      "title": "FOTOS SENSIBLES: Descubrieron a recién nacida dentro del tanque de una poceta, lo que pasó después sorprendió a todos",
+      "link": "https://caraotadigital.net/mundo/fotos-sensibles-descubrieron-a-recien-nacida-dentro-del-tanque-de-una-poceta-lo-que-paso-despues-sorprendio-a-todos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/recien-nacida.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Excarcelan a la venezolano-española Sofía Sahagun: “va camino a Madrid”",
-      "link": "https://laverdad.com/excarcelan-a-la-venezolano-espanola-sofia-sahagun-va-camino-a-madrid/",
+      "title": "Verifican la excarcelación de 13 presos políticos extranjeros",
+      "link": "https://laverdad.com/verifican-la-excarcelacion-de-13-presos-politicos-extranjeros/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Petroleros solo invertirán con María Corina: “Diosdado hizo que Delcy mostrara su debilidad”",
       "link": "https://diarioversionfinal.com/politica-dinero/petroleros-solo-invertiran-con-maria-corina-diosdado-hizo-que-delcy-mostrara-su-debilidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/ap25290822396015-20251018075729134-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/MjAyNjExM2NkZGpzLmpwZzEyMjYyNw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T18:32:31.110Z"
+  "lastUpdate": "2026-01-13T19:20:59.025Z"
 };
