@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "629,99"
+      "usdt": "635,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "“Dormíamos en el suelo entre cucarachas”: el crudo relato de los italianos excarcelados tras 14 meses como presos del régimen chavista",
-      "link": "https://www.infobae.com/america/mundo/2026/01/13/dormiamos-en-el-suelo-entre-cucarachas-el-crudo-relato-de-los-italianos-excarcelados-tras-14-meses-como-presos-del-regimen-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/R57OW325BFHGBK5DYJOXFR25DU.jpeg?auth=d979184b6e70c6083b8477fc02cb4580bbe589778e201a55f860c6fec3423910&smart=true&width=350&height=197&quality=85"
+      "title": "El miedo rodea el funeral de un preso político muerto bajo custodia en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/13/el-miedo-rodea-el-funeral-de-un-preso-politico-muerto-bajo-custodia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/ZG2VLSVBKJDF3AVGJQ6NMHBUJI.jpg?auth=42f7f17dd5c02ed0f2943ece4a15b70a125b525fe9585014f269c3dcc14b0719&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,26 +32,26 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "ExxonMobil quiere enviar un equipo de evaluación a Venezuela pese a lo que sugirió Trump",
-      "link": "https://caraotadigital.net/eeuu/exxonmobil-quiere-enviar-un-equipo-de-evaluacion-a-venezuela-pese-a-lo-que-sugirio-trump/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EXXON-MOBIL.jpg"
+      "title": "Los videos virales que prometen «cruces seguros» por la frontera sur: embajada de EEUU en El Salvador lanzó advertencia",
+      "link": "https://caraotadigital.net/eeuu/los-videos-virales-que-prometen-cruces-seguros-por-la-frontera-sur-embajada-de-eeuu-en-el-salvador-lanzo-advertencia/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/03/WALL-BORDEN-LINE-WITH-MEXICO.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO DE TRUMP DICE QUE ES INVIABLE REVISAR DEPORTACIONES AL CECOT POR SITUACIÓN EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/gobierno-de-trump-dice-que-es-inviable-revisar-deportaciones-al-cecot-por-situacion-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/Cecot_-627x376.jpg"
+      "title": "ASAMBLEA NACIONAL SESIONA ESTE MARTES PARA CONFORMAR COMISIONES PERMANENTES ",
+      "link": "https://noticierodigital.com/2026/01/asamblea-nacional-sesiona-este-martes-para-conformar-comisiones-permanentes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/asamblea-nacional-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Avión en el que murieron Yeison Jiménez y demás ocupantes tenía caja negra o grabadora de voz?",
-      "link": "https://www.noticiascaracol.com/colombia/avion-en-el-que-murieron-yeison-jimenez-y-demas-ocupantes-tenia-caja-negra-o-grabadora-de-voz-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1e62dd1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3d%2F61%2F4053ded248ef8301f6a41247b8d6%2Favion-de-yeison-jimenez.jpg"
+      "title": "Así quedó el salario mínimo para trabajadores domésticos tras aumento en 2026: vea cómo calcularlo",
+      "link": "https://www.noticiascaracol.com/economia/asi-quedo-el-salario-minimo-para-trabajadores-domesticos-tras-aumento-en-2026-vea-como-calcularlo-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8228c41/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fac%2F3b%2F28ddae1348049890a7b272398fc8%2Fembalses-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump desde Michigan: “Estamos ayudando y rescatando a Venezuela”",
-      "link": "https://laverdad.com/trump-desde-michigan-estamos-ayudando-y-rescatando-a-venezuela/",
+      "title": "Reuters: Superpetroleros chinos con destino a Venezuela regresan a Asia sin cargar petróleo",
+      "link": "https://laverdad.com/reuters-superpetroleros-chinos-con-destino-a-venezuela-regresan-a-asia-sin-cargar-petroleo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Venezolanos-en-Premio-Lo-Nuestro.jpg"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/foto-cortesia-105668-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T20:26:44.352Z"
+  "lastUpdate": "2026-01-13T21:22:23.555Z"
 }
