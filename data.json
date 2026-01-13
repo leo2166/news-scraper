@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "330,38",
-      "eur": "384,33"
+      "usd": "336,46",
+      "eur": "391,88"
     },
     "binance": {
-      "usdt": "635,00"
+      "usdt": "641,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump cancela conversaciones con Irán y dice a manifestantes que \"la ayuda está en camino\"",
+      "title": "Trump advierte a Irán por la ejecución de manifestantes detenidos",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/protesta-iran-numero-de-fallecidos-aranceles-ee-uu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/teheran.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255474345.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Los videos virales que prometen «cruces seguros» por la frontera sur: embajada de EEUU en El Salvador lanzó advertencia",
-      "link": "https://caraotadigital.net/eeuu/los-videos-virales-que-prometen-cruces-seguros-por-la-frontera-sur-embajada-de-eeuu-en-el-salvador-lanzo-advertencia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/03/WALL-BORDEN-LINE-WITH-MEXICO.jpg"
+      "title": "Escándalo en X: Grok generó desnudos explícitos falsos de la madre de uno de los hijos de Elon Musk",
+      "link": "https://caraotadigital.net/eeuu/escandalo-en-x-grok-genero-desnudos-explicitos-falsos-de-la-madre-de-uno-de-los-hijos-de-elon-musk/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/ELON.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,7 +44,7 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así quedó el salario mínimo para trabajadores domésticos tras aumento en 2026: vea cómo calcularlo",
+      "title": "Así puede calcular pago por día a trabajadores domésticos con el aumento del salario mínimo en 2026",
       "link": "https://www.noticiascaracol.com/economia/asi-quedo-el-salario-minimo-para-trabajadores-domesticos-tras-aumento-en-2026-vea-como-calcularlo-so35",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/8228c41/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fac%2F3b%2F28ddae1348049890a7b272398fc8%2Fembalses-2.jpg"
     },
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petroleros solo invertirán con María Corina: “Diosdado hizo que Delcy mostrara su debilidad”",
-      "link": "https://diarioversionfinal.com/politica-dinero/petroleros-solo-invertiran-con-maria-corina-diosdado-hizo-que-delcy-mostrara-su-debilidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/foto-cortesia-105668-750x430.jpg"
+      "title": "EE. UU. alerta sobre vínculos de Irán y Hezbolá con el ELN en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-alerta-sobre-vinculos-de-iran-y-hezbola-con-el-eln-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Tren-Aragua-Mexico-13-01-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T21:22:23.555Z"
+  "lastUpdate": "2026-01-13T22:23:20.682Z"
 }
