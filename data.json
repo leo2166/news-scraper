@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "552,60"
+      "usdt": "576,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump y María Corina Machado se reunirán este jueves en la Casa Blanca tras la captura de Nicolás Maduro",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/12/donald-trump-y-maria-corina-machado-se-reuniran-este-jueves-en-la-casa-blanca-tras-la-captura-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/4KCV4WVEBVBEJMAQ2Y7YCR6TJ4.png?auth=3761e953b9c6f7fd85090195ca0dfd13b06119e20dc9f168d6448f8d60a58b12&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos condenó a cadena perpetua a Carlos Orense Azócar, el narco venezolano que operó bajo protección del régimen chavista",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/13/estados-unidos-condeno-a-cadena-perpetua-a-carlos-orense-azocar-el-narco-venezolano-que-opero-bajo-proteccion-del-regimen-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/HP2E3S6ECRFNHG2MD22MBTGZQY.jpg?auth=00538a67e9c84ce51c87a5c135b736d76446cd640bf7aebe15cfd0d7ab06d121&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El ultimátum de Petro al ELN: abandona Venezuela o habrá acciones militares conjuntas\nCOLOMBIA",
-      "link": "https://www.elnacional.com/2026/01/el-ultimatum-de-petro-al-eln-abandona-venezuela-o-habra-acciones-militares-conjuntas/",
+      "title": "La PUD confirma solo 65 excarcelaciones de presos políticos de las 116 anunciadas por el gobierno\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/la-pud-confirma-solo-56-excarcelaciones-de-presos-politicos-de-las-116-anunciadas-por-el-gobierno/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "EEUU refuerza la seguridad para el Mundial y con millonaria inversión Trump quiere mostrar su «superioridad aérea»",
-      "link": "https://caraotadigital.net/eeuu/eeuu-refuerza-la-seguridad-para-el-mundial-y-con-millonaria-inversion-trump-quiere-mostrar-su-superioridad-aerea/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DRONES-MUNDIAL.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "JUEZ FEDERAL DE EE. UU. RECHAZÓ INCORPORACIÓN DE ABOGADO A LA DEFENSA DE MADURO",
-      "link": "https://noticierodigital.com/2026/01/juez-federal-de-ee-uu-rechazo-incorporacion-de-abogado-a-la-defensa-de-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/bruce-fein-abogado-627x376.jpg"
+      "title": "VIDEO: ¿Gendarme argentino Nahuel Gallo será liberado? Esto dijo su abogada",
+      "link": "https://caraotadigital.net/venezuela/video-gendarme-argentino-nahuel-gallo-sera-liberado-esto-dijo-su-abogada/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/12/nahuel-agustin-gallo.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Entre cadenas, sangre y silencio: el relato de Yennis Salazar, secuestrada 9 meses por el Eln",
-      "link": "https://www.noticiascaracol.com/colombia/entre-cadenas-sangre-y-silencio-el-relato-de-yennis-salazar-secuestrada-9-meses-por-el-eln-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/90584eb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F88%2Fd3%2Ff830e3c74b8995f76cb0ec3dbadb%2Fyennis-salazar.jpg"
+      "title": "Los vínculos de altos mandos del régimen venezolano con el Eln y disidencias de las Farc",
+      "link": "https://www.noticiascaracol.com/informes-especiales/los-vinculos-de-altos-mandos-del-regimen-venezolano-con-el-eln-y-disidencias-de-las-farc-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a817ded/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1c%2F94%2F2f10388b48638f589420b9194931%2Falias-julian-chollo.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Misión de la ONU exige liberación de presos políticos y “fin de prácticas represivas” en Venezuela",
-      "link": "https://diarioversionfinal.com/politica-dinero/mision-de-la-onu-exige-liberacion-de-presos-politicos-y-fin-de-practicas-represivas-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Diosdado-Cabello-10-11-2025-750x430.jpg"
+      "title": "Rastrean botín de corruptos venezolanos en 30 países: Dineros superan los $72.000 millones",
+      "link": "https://diarioversionfinal.com/politica-dinero/rastrean-botin-de-corruptos-venezolanos-en-30-paises-dineros-superan-los-72-000-millones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/rss-efe039ac0099a5449bee13b221bcee76bb06ab36033w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-12T23:17:57.217Z"
+  "lastUpdate": "2026-01-13T01:44:34.001Z"
 }
