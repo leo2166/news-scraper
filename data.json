@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "595,99"
+      "usdt": "608,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Tras la liberación de sus presos políticos en Venezuela, Italia elevó su representación diplomática en Caracas al rango de Embajada",
-      "link": "https://www.infobae.com/venezuela/2026/01/13/italia-elevo-su-representacion-diplomatica-en-venezuela-al-rango-de-embajada/",
-      "image": "https://www.infobae.com/resizer/v2/GKKGJE6PYYH7MACG5BUSBA6UWI.jpg?auth=1f22e8b9b238640b8c8a9665575f9221c129a6ae75de4bab4597967c3cc880b0&smart=true&width=350&height=197&quality=85"
+      "title": "Diosdado Cabello transformó el Comando Antidrogas de Venezuela en un centro de tortura y represión",
+      "link": "https://www.infobae.com/venezuela/2026/01/13/diosdado-cabello-transformo-el-comando-antidrogas-de-venezuela-en-un-centro-de-tortura-y-represion/",
+      "image": "https://www.infobae.com/resizer/v2/KAPYXPWFHZAELGNL7QW5C5QUXU.png?auth=23fef1eade96a0015ea7874bdb66dea941669e63d58a424a27ab9070a9173a83&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Pentágono usó avión con apariencia civil en ataque en el Caribe, según el NYT",
-      "link": "https://caraotadigital.net/eeuu/pentagono-uso-avion-con-apariencia-civil-en-ataque-en-el-caribe-segun-el-nyt/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/10/US-ATTACLK-BOAT-IN-CARIBBEAN.jpg"
+      "title": "Casa Blanca confirmó acuerdo energético con Venezuela por 500 mil millones de dólares, esto dijo",
+      "link": "https://caraotadigital.net/eeuu/casa-blanca-confirmo-acuerdo-energetico-con-venezuela-por-500-mil-millones-de-dolares-esto-dijo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Casa-Blanca.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Machado y González Urrutia denuncian incumplimiento de anuncio de excarcelaciones",
-      "link": "https://laverdad.com/machado-y-gonzalez-urrutia-denuncian-incumplimiento-de-anuncio-de-excarcelaciones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Chiquinquira-Delgado-y-Jorge-Ramos.jpg"
+      "title": "Aumentan el pasaje urbano a 60 bolívares: en Maracaibo cobran de 150 a 200",
+      "link": "https://laverdad.com/aumentan-el-pasaje-urbano-a-60-bolivares-en-maracaibo-cobran-de-150-a-200/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "¿Dónde está Tarek El Aissami? Piden a Delcy entregarlo a los EE.UU.",
       "link": "https://diarioversionfinal.com/politica-dinero/donde-esta-tarek-el-aissami-piden-a-delcy-entregarlo-a-los-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Primera-ONU-1.jpg-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/5q9i_e1JP_1256x620__1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T15:26:40.475Z"
+  "lastUpdate": "2026-01-13T16:33:28.396Z"
 }
