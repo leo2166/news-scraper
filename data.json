@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "576,00"
+      "usdt": "577,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Giorgia Meloni recibió en el aeropuerto de Roma a los dos italianos excarcelados en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/13/giorgia-meloni-recibio-en-el-aeropuerto-de-roma-a-los-dos-italianos-excarcelados-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/MNYDU7BKTRGXVMGSRWBKGEWA5U.jpg?auth=cc062fdf24d1e39b38745d46dd9cc41ccad745fb645950e6fd70616684eed3ea&smart=true&width=350&height=197&quality=85"
+      "title": "Al menos 24 trabajadores de la prensa forman parte de la lista de presos políticos que esperan por su liberación en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/13/al-menos-24-trabajadores-de-la-prensa-forman-parte-de-la-lista-de-presos-politicos-que-esperan-por-su-liberacion-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/K7U37PTXPZFTTADIDE7GQOBUU4.JPG?auth=3d2560f6ed627d72e7d8ce1f3c799975b421efc1d67d967709ddc59c0c6708f1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Excarcelados otros tres españoles en Venezuela\nESPAÑA",
-      "link": "https://www.elnacional.com/2026/01/excarcelados-otros-tres-espanoles-en-venezuela/",
+      "title": "FMI y Banco Mundial se reunieron para discutir apoyo financiero a Venezuela\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/fmi-y-banco-mundial-discutieron-apoyo-financiero-a-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Avanza la excarcelación de presos políticos en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/01/12/venezuela/excarcelaciones-presos-politicos-repaso-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-11t001415z-1765439807-rc2jyia40dha-rtrmadp-3-usa-venezuela-prisoners.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Estudian dispositivo comprado por el Pentágono que podría estar vinculado al \"Síndrome de La Habana\"",
+      "link": "https://cnnespanol.cnn.com/2026/01/13/eeuu/pentagono-dispositivo-sindrome-habana-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/habana-portada.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,28 +38,28 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "VP CONFIRMÓ LA EXCARCELACIÓN DE LA EXCONCEJAL LURBA ROJAS",
-      "link": "https://noticierodigital.com/2026/01/vp-confirmo-la-excarcelacion-de-la-exconcejal-lurba-rojas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Lurba-Rojas-627x376.jpg"
+      "title": "QUINTA NOCHE DE ESPERA POR PRESOS POLÍTICOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/quinta-noche-de-espera-por-presos-politicos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260113-WA0029-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los vínculos de altos mandos del régimen venezolano con el Eln y disidencias de las Farc",
-      "link": "https://www.noticiascaracol.com/informes-especiales/los-vinculos-de-altos-mandos-del-regimen-venezolano-con-el-eln-y-disidencias-de-las-farc-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a817ded/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1c%2F94%2F2f10388b48638f589420b9194931%2Falias-julian-chollo.jpg"
+      "title": "Escolta de Maduro entra al gobierno interino de Venezuela en primeros cambios de Delcy Rodríguez",
+      "link": "https://www.noticiascaracol.com/mundo/escolta-de-maduro-entra-al-gobierno-interino-de-venezuela-en-primeros-cambios-de-delcy-rodriguez-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8a3d70c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2Fc6%2F146a901c421aa0dbb02c1f3dc6d8%2Fdelcy-rodriguez-y-juan-escalona.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "MinEducación reporta en el reinicio de clases que la escolaridad supera el 97 %",
-      "link": "https://laverdad.com/mineducacion-reporta-en-el-reinicio-de-clases-que-la-escolaridad-supera-el-97/",
+      "title": "Cadena perpetua por narcotráfico en EE. UU. para venezolano vinculado con el gobierno",
+      "link": "https://laverdad.com/cadena-perpetua-por-narcotrafico-en-ee-uu-para-venezolano-vinculado-con-el-gobierno/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Avatar_-Fire-and-Ash.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Investigadores de la ONU aseguran que las excarcelaciones parciales no cumplen con las obligaciones internacionales",
-      "link": "https://diarioversionfinal.com/mundo/investigadores-de-la-onu-aseguran-que-las-excarcelaciones-parciales-no-cumplen-con-las-obligaciones-internacionales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Nota-transparencia-12-01-2026-750x430.jpeg"
+      "title": "Condenan a cadena perpetua en EE.UU. a Carlos \"El Gordo\" Orense, operador del Cartel de Los Soles",
+      "link": "https://diarioversionfinal.com/sucesos/condenan-a-cadena-perpetua-en-ee-uu-a-carlos-el-gordo-orense-operador-del-cartel-de-los-soles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/unnamed-4.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T11:21:18.286Z"
+  "lastUpdate": "2026-01-13T12:50:07.606Z"
 }
