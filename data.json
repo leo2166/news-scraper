@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "549,70"
+      "usdt": "562,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Al menos 24 trabajadores de la prensa forman parte de la lista de presos políticos que esperan por su liberación en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/13/al-menos-24-trabajadores-de-la-prensa-forman-parte-de-la-lista-de-presos-politicos-que-esperan-por-su-liberacion-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/K7U37PTXPZFTTADIDE7GQOBUU4.JPG?auth=3d2560f6ed627d72e7d8ce1f3c799975b421efc1d67d967709ddc59c0c6708f1&smart=true&width=350&height=197&quality=85"
+      "title": "Quién es Yaakov Harary, el preso político argentino-israelí liberado en las últimas horas",
+      "link": "https://www.infobae.com/venezuela/2026/01/13/quien-es-yaakov-harary-el-preso-politico-argentino-israeli-liberado-en-las-ultimas-horas/",
+      "image": "https://www.infobae.com/resizer/v2/S773VONLPRBHJDJFDTXREEHOGY.jpg?auth=6d4f4b67422507ad7d7ab536a1862221ca1ff198de5cddb76426976ee936fb79&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: Así fue la llegada a Roma de los dos presos políticos italianos liberados en Venezuela",
-      "link": "https://caraotadigital.net/mundo/asi-fue-la-llegada-a-roma-de-los-dos-presos-politicos-italianos-liberados-en-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Italia-1.jpg"
+      "title": "Cerca del 90% de viviendas cercanas a La Carlota resultaron afectadas tras ataques de EEUU, según Gustavo Duque",
+      "link": "https://caraotadigital.net/venezuela/cerca-del-90-de-viviendas-cercanas-a-la-carlota-resultaron-afectadas-tras-ataques-de-eeuu-segun-gustavo-duque/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Duque.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Escolta de Maduro entra al gobierno interino de Venezuela en primeros cambios de Delcy Rodríguez",
-      "link": "https://www.noticiascaracol.com/mundo/escolta-de-maduro-entra-al-gobierno-interino-de-venezuela-en-primeros-cambios-de-delcy-rodriguez-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8a3d70c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2Fc6%2F146a901c421aa0dbb02c1f3dc6d8%2Fdelcy-rodriguez-y-juan-escalona.jpg"
+      "title": "Atentado en Neiva contra directivos de cárcel deja un niño de 11 años herido",
+      "link": "https://www.noticiascaracol.com/colombia/atentado-en-neiva-contra-directivos-de-carcel-deja-un-nino-de-11-anos-herido-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d1c25c0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F93%2F90%2Fcb907ba342de98156ac31245c20a%2Fdirectivos-carcel-neiva.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Canciller español anuncia la excarcelación de otros 3 presos políticos españoles",
-      "link": "https://laverdad.com/canciller-espanol-anuncia-la-excarcelacion-de-otros-3-presos-politicos-espanoles/",
+      "title": "Detienen en Ciudad de México a 6 integrantes del “Tren de Aragua”",
+      "link": "https://laverdad.com/detienen-en-ciudad-de-mexico-a-6-integrantes-del-tren-de-aragua/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Avatar_-Fire-and-Ash.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "“No todas se han concretado”: Confirman 73 de las 116 excarcelaciones anunciadas por el Gobierno",
-      "link": "https://diarioversionfinal.com/politica-dinero/no-todas-se-han-concretado-confirman-73-de-las-116-excarcelaciones-anunciadas-por-el-gobierno/",
+      "title": "¿Dónde está Tarek El Aissami? Piden a Delcy entregarlo a los EE.UU.",
+      "link": "https://diarioversionfinal.com/politica-dinero/donde-esta-tarek-el-aissami-piden-a-delcy-entregarlo-a-los-ee-uu/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/10/FMI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T13:41:52.143Z"
+  "lastUpdate": "2026-01-13T14:26:34.534Z"
 }
