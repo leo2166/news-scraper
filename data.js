@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "608,50"
+      "usdt": "629,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Diosdado Cabello transformó el Comando Antidrogas de Venezuela en un centro de tortura y represión",
-      "link": "https://www.infobae.com/venezuela/2026/01/13/diosdado-cabello-transformo-el-comando-antidrogas-de-venezuela-en-un-centro-de-tortura-y-represion/",
-      "image": "https://www.infobae.com/resizer/v2/KAPYXPWFHZAELGNL7QW5C5QUXU.png?auth=23fef1eade96a0015ea7874bdb66dea941669e63d58a424a27ab9070a9173a83&smart=true&width=350&height=197&quality=85"
+      "title": "“Dormíamos en el suelo entre cucarachas”: el crudo relato de los italianos excarcelados tras 14 meses como presos del régimen chavista",
+      "link": "https://www.infobae.com/america/mundo/2026/01/13/dormiamos-en-el-suelo-entre-cucarachas-el-crudo-relato-de-los-italianos-excarcelados-tras-14-meses-como-presos-del-regimen-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/R57OW325BFHGBK5DYJOXFR25DU.jpeg?auth=d979184b6e70c6083b8477fc02cb4580bbe589778e201a55f860c6fec3423910&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Familiares de presos políticos siguen esperando mientras crece el temor de que se frenen las excarcelaciones\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/familiares-de-presos-politicos-siguen-esperando-mientras-crece-el-temor-de-que-se-frenen-las-excarcelaciones/",
+      "title": "La PUD y Foro Penal confirman entre 56 y 76 excarcelaciones de presos políticos\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/la-pud-y-foro-penal-confirman-entre-56-y-76-excarcelaciones-de-presos-politicos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump cancela conversaciones con Irán y promete a los manifestantes que \"la ayuda está en camino\"",
+      "title": "Trump cancela conversaciones con Irán y dice a manifestantes que \"la ayuda está en camino\"",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/protesta-iran-numero-de-fallecidos-aranceles-ee-uu-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/teheran.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "FOTOS SENSIBLES: Descubrieron a recién nacida dentro del tanque de una poceta, lo que pasó después sorprendió a todos",
-      "link": "https://caraotadigital.net/mundo/fotos-sensibles-descubrieron-a-recien-nacida-dentro-del-tanque-de-una-poceta-lo-que-paso-despues-sorprendio-a-todos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/recien-nacida.jpg"
+      "title": "ExxonMobil quiere enviar un equipo de evaluación a Venezuela pese a lo que sugirió Trump",
+      "link": "https://caraotadigital.net/eeuu/exxonmobil-quiere-enviar-un-equipo-de-evaluacion-a-venezuela-pese-a-lo-que-sugirio-trump/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EXXON-MOBIL.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Verifican la excarcelación de 13 presos políticos extranjeros",
-      "link": "https://laverdad.com/verifican-la-excarcelacion-de-13-presos-politicos-extranjeros/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias.jpg"
+      "title": "Trump desde Michigan: “Estamos ayudando y rescatando a Venezuela”",
+      "link": "https://laverdad.com/trump-desde-michigan-estamos-ayudando-y-rescatando-a-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Venezolanos-en-Premio-Lo-Nuestro.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Petroleros solo invertirán con María Corina: “Diosdado hizo que Delcy mostrara su debilidad”",
       "link": "https://diarioversionfinal.com/politica-dinero/petroleros-solo-invertiran-con-maria-corina-diosdado-hizo-que-delcy-mostrara-su-debilidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/MjAyNjExM2NkZGpzLmpwZzEyMjYyNw-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/foto-cortesia-105668-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-13T19:20:59.025Z"
+  "lastUpdate": "2026-01-13T20:26:44.352Z"
 };
