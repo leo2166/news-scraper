@@ -5,7 +5,7 @@
       "eur": "384,33"
     },
     "binance": {
-      "usdt": "575,00"
+      "usdt": "576,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | La ONG Foro Penal confirmó que ya son 56 los presos políticos excarcelados en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/13/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/NUS3RMRPNFEHDMCHPGLHXSXKSI.JPG?auth=7992e64716596e6ffcb7eed5327eb3331cc95530a2d11169c0f3d45d16061bec&smart=true&width=350&height=197&quality=85"
+      "title": "Giorgia Meloni recibió en el aeropuerto de Roma a los dos italianos excarcelados en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/13/giorgia-meloni-recibio-en-el-aeropuerto-de-roma-a-los-dos-italianos-excarcelados-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/MNYDU7BKTRGXVMGSRWBKGEWA5U.jpg?auth=cc062fdf24d1e39b38745d46dd9cc41ccad745fb645950e6fd70616684eed3ea&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rastrean botín de corruptos venezolanos en 30 países: Dineros superan los $72.000 millones",
-      "link": "https://diarioversionfinal.com/politica-dinero/rastrean-botin-de-corruptos-venezolanos-en-30-paises-dineros-superan-los-72-000-millones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/rss-efe039ac0099a5449bee13b221bcee76bb06ab36033w-750x430.jpg"
+      "title": "Investigadores de la ONU aseguran que las excarcelaciones parciales no cumplen con las obligaciones internacionales",
+      "link": "https://diarioversionfinal.com/mundo/investigadores-de-la-onu-aseguran-que-las-excarcelaciones-parciales-no-cumplen-con-las-obligaciones-internacionales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Nota-transparencia-12-01-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-13T10:25:30.351Z"
+  "lastUpdate": "2026-01-13T11:21:18.286Z"
 }
