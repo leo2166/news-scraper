@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela enviará un delegado a Estados Unidos el mismo día que María Corina Machado visita la Casa Blanca",
-      "link": "https://www.infobae.com/venezuela/2026/01/14/venezuela-enviara-un-delegado-a-estados-unidos-el-mismo-dia-que-maria-corina-machado-visita-la-casa-blanca/",
-      "image": "https://www.infobae.com/resizer/v2/QJPWZDMNTFBXDLPX3ZFWLSPG4Q.JPG?auth=51708d767e90234ad776f6a633f3ce7c8b5931b456f2ec797d3ebf84771b3fb1&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | Organizaciones de DDHH exigieron al régimen de Venezuela la lista completa de los presos políticos excarcelados",
+      "link": "https://www.infobae.com/venezuela/2026/01/14/transicion-en-venezuela-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/WVWKC3HC2BBLBJ55K5NX6D7VNU.jpg?auth=94eccaf70e5b77d0eb2a0d08d210b3595a8e73a23c9b43679f94b39a82b284dd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Protestas en Irán: van más de 2,500 muertes confirmadas",
       "link": "https://diarioversionfinal.com/mundo/protestas-en-iran-van-mas-de-2500-muertes-confirmadas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/lipso-nava-aguilas-del-zulia-vs-bravos-de-margarita-round-robin-3-14-de-enero-2025-Jose-Gabriel-Lugo-Version-Final-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5107210015168203791_w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T07:26:01.652Z"
+  "lastUpdate": "2026-01-14T08:32:11.586Z"
 };
