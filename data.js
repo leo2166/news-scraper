@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "The Economist: Encuesta revela que venezolanos quieren presidenciales en seis meses y mayoría votaría por MCM",
-      "link": "https://diarioversionfinal.com/politica-dinero/the-economist-encuesta-revela-que-venezolanos-quieren-presidenciales-en-seis-meses-y-mayoria-votaria-por-mcm/",
+      "title": "Protestas en Irán: van más de 2,500 muertes confirmadas",
+      "link": "https://diarioversionfinal.com/mundo/protestas-en-iran-van-mas-de-2500-muertes-confirmadas/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/lipso-nava-aguilas-del-zulia-vs-bravos-de-margarita-round-robin-3-14-de-enero-2025-Jose-Gabriel-Lugo-Version-Final-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T06:35:50.780Z"
+  "lastUpdate": "2026-01-14T07:26:01.652Z"
 };
