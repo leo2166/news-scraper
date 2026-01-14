@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "639,00"
+      "usdt": "611,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/lipso-nava-aguilas-del-zulia-vs-bravos-de-margarita-round-robin-3-14-de-enero-2025-Jose-Gabriel-Lugo-Version-Final-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T04:47:37.607Z"
+  "lastUpdate": "2026-01-14T05:25:46.128Z"
 };
