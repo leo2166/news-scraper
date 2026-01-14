@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "336,46",
-      "eur": "391,88"
+      "usd": "339,15",
+      "eur": "395,27"
     },
     "binance": {
-      "usdt": "632,00"
+      "usdt": "631,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez habló de “un nuevo momento político” en Venezuela y aseguró que el proceso de excarcelaciones sigue abierto",
-      "link": "https://www.infobae.com/venezuela/2026/01/14/delcy-rodriguez-hablo-de-un-nuevo-momento-politico-en-venezuela-y-aseguro-que-el-proceso-de-excarcelaciones-sigue-abierto/",
-      "image": "https://www.infobae.com/resizer/v2/3QTNFS7Y6RC77PZWEG4NBATZ7E.JPG?auth=a9f5c074400e3871e785eb45302821e0e59058a996b9acbcbb778e9235cf57f4&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal elevó a 72 la cifra de presos políticos excarcelados por el régimen de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/14/el-foro-penal-elevo-a-72-la-cifra-de-presos-politicos-excarcelados-por-el-regimen-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/77KSSU3K4NGHHPA2BPTGUXJX7E.jpg?auth=4e526e3f12e70b3bb19c055eac420f0599b9d71af872105b6cbc58aa54b82e78&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Confirman excarcelación de varios periodistas detenidos en Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/confirman-excarcelacion-de-varios-periodistas-detenidos-en-venezuela/",
+      "title": "Trump asegura que habló con Delcy Rodríguez y dice que se la está llevando \"muy bien con Venezuela\"\nMUNDO",
+      "link": "https://www.elnacional.com/2026/01/trump-asegura-que-hablo-con-delcy-rodriguez-y-dice-que-se-la-esta-llevando-muy-bien-con-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Regreso a la Luna: NASA valida la primera misión de astronautas en más de 50 años",
-      "link": "https://caraotadigital.net/eeuu/regreso-a-la-luna-nasa-valida-la-primera-mision-de-astronautas-en-50-anos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/NASA.jpg"
+      "title": "Primera venta de petróleo venezolano por 500 millones de dólares fue concretada por EEUU, esto reveló un funcionario",
+      "link": "https://caraotadigital.net/varios/primera-venta-de-petroleo-venezolano-por-500-millones-de-dolares-fue-concretada-por-eeuu-esto-revelo-un-funcionario/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/OIL-TRUMP-VENEZUELA.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodriguez afirma que van 406 excarcelaciones: \"Este proceso no ha terminado\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-afirma-que-van-406-excarcelaciones-este-proceso-no-ha-terminado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/04/felix-plasencia.-imagen-talcualdigital-750x430.jpg"
+      "title": "Trump dice que tuvo una “gran conversación” con Delcy Rodríguez este miércoles",
+      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-tuvo-una-gran-conversacion-con-delcy-rodriguez-este-miercoles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5134300937999551334_w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T21:22:45.266Z"
+  "lastUpdate": "2026-01-14T22:23:23.356Z"
 }
