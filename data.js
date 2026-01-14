@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "629,89"
+      "usdt": "632,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Presidenta del Colegio de Enfermería respondió a Delcy Rodríguez y exige mejoras salariales para el sector salud",
-      "link": "https://caraotadigital.net/venezuela/presidenta-del-colegio-de-enfermeria-respondio-a-delcy-rodriguez-y-exige-mejoras-salariales-para-el-sector-salud/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/12/Hospital-Universitario-CD-150x150.jpg"
+      "title": "Regreso a la Luna: NASA valida la primera misión de astronautas en más de 50 años",
+      "link": "https://caraotadigital.net/eeuu/regreso-a-la-luna-nasa-valida-la-primera-mision-de-astronautas-en-50-anos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/NASA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NYT: FÉLIX PLASENCIA SE REUNIRÁ CON FUNCIONARIOS DE TRUMP EN EE .UU. PARA «REABRIR EMBAJADAS»",
-      "link": "https://noticierodigital.com/2026/01/nyt-felix-plasencia-se-reunira-con-funcionarios-de-trump-en-ee-uu-para-reabrir-embajadas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/08/felixplasencia-embajador-maduro-11ago2022.jpg"
+      "title": "DELCY RODRÍGUEZ: «SIGAMOS ADELANTE HASTA TRAERLOS DE VUELTA, CUENTAN CON MI LEALTAD»",
+      "link": "https://noticierodigital.com/2026/01/delcy-rodriguez-sigamos-adelante-hasta-traerlos-de-vuelta-cuentan-con-mi-lealtad/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-7-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Simbolizan en Maracaibo con zapatos los pasos que dejan de dar los “presos políticos”",
-      "link": "https://laverdad.com/simbolizan-en-maracaibo-con-zapatos-los-pasos-que-dejan-de-dar-los-presos-politicos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Zoe-Saldana.jpg"
+      "title": "Quedan 6 trabajadores de la prensa tras las rejas, entre ellos el periodista Juan Pablo Guanipa",
+      "link": "https://laverdad.com/quedan-6-trabajadores-de-la-prensa-tras-las-rejas-entre-ellos-el-periodista-juan-pablo-guanipa/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Hernan-Perez-gana-Regreso-del-Ano.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Departamento de Justicia amplió imputación contra Maduro: estos son los seis nuevos elementos",
-      "link": "https://diarioversionfinal.com/politica-dinero/departamento-de-justicia-amplio-imputacion-contra-maduro-estos-son-los-seis-nuevos-elementos/",
+      "title": "Delcy Rodriguez afirma que van 406 excarcelaciones: \"Este proceso no ha terminado\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-afirma-que-van-406-excarcelaciones-este-proceso-no-ha-terminado/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/04/felix-plasencia.-imagen-talcualdigital-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T20:22:43.896Z"
+  "lastUpdate": "2026-01-14T21:22:45.266Z"
 };
