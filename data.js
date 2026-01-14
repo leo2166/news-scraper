@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "627,80"
+      "usdt": "629,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Confirmaron la liberación de Roland Carreño y otros 13 periodistas secuestrados por el régimen de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/14/confirmaron-la-liberacion-de-roland-carreno-y-otros-13-periodistas-secuestrados-por-el-regimen-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/S44PKYJWPJGCJEUYVJFP5TCFHY.JPG?auth=463640768cb6942fc220cec995934f23aa08e341604a6a7a6b912fea5d1d53e4&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez habló de “un nuevo momento político” en Venezuela y aseguró que el proceso de excarcelaciones sigue abierto",
+      "link": "https://www.infobae.com/venezuela/2026/01/14/delcy-rodriguez-hablo-de-un-nuevo-momento-politico-en-venezuela-y-aseguro-que-el-proceso-de-excarcelaciones-sigue-abierto/",
+      "image": "https://www.infobae.com/resizer/v2/3QTNFS7Y6RC77PZWEG4NBATZ7E.JPG?auth=a9f5c074400e3871e785eb45302821e0e59058a996b9acbcbb778e9235cf57f4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Canciller de España se reunió con españoles liberados en Venezuela: «Si el país da pasos, lo lógico es que las sanciones desaparezcan»",
-      "link": "https://caraotadigital.net/mundo/canciller-de-espana-se-reunio-con-espanoles-liberados-en-venezuela-si-el-pais-da-pasos-lo-logico-es-que-las-sanciones-desaparezcan/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/sanciones.jpg"
+      "title": "Presidenta del Colegio de Enfermería respondió a Delcy Rodríguez y exige mejoras salariales para el sector salud",
+      "link": "https://caraotadigital.net/venezuela/presidenta-del-colegio-de-enfermeria-respondio-a-delcy-rodriguez-y-exige-mejoras-salariales-para-el-sector-salud/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2023/12/Hospital-Universitario-CD-150x150.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOHEL ORTA: «NORMALIZACIÓN DE RELACIONES CON EE. UU. MARCA UNA NUEVA ETAPA PARA VENEZUELA»",
-      "link": "https://noticierodigital.com/2026/01/johel-orta-normalizacion-de-relaciones-con-ee-uu-marca-una-nueva-etapa-para-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/johel-orta-1-627x376.jpg"
+      "title": "NYT: FÉLIX PLASENCIA SE REUNIRÁ CON FUNCIONARIOS DE TRUMP EN EE .UU. PARA «REABRIR EMBAJADAS»",
+      "link": "https://noticierodigital.com/2026/01/nyt-felix-plasencia-se-reunira-con-funcionarios-de-trump-en-ee-uu-para-reabrir-embajadas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/08/felixplasencia-embajador-maduro-11ago2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Alemania cuestiona legitimidad de Delcy Rodríquez aunque aguardará a ver su desempeño",
-      "link": "https://laverdad.com/alemania-cuestiona-legitimidad-de-delcy-rodriquez-aunque-aguardara-a-ver-su-desempeno/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Jadher-Areinamo-gana-Novato-del-Ano-1.jpg"
+      "title": "Simbolizan en Maracaibo con zapatos los pasos que dejan de dar los “presos políticos”",
+      "link": "https://laverdad.com/simbolizan-en-maracaibo-con-zapatos-los-pasos-que-dejan-de-dar-los-presos-politicos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Zoe-Saldana.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Departamento de Justicia amplió imputación contra Maduro: estos son los seis nuevos elementos",
       "link": "https://diarioversionfinal.com/politica-dinero/departamento-de-justicia-amplio-imputacion-contra-maduro-estos-son-los-seis-nuevos-elementos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/fotonoticia_20251216215915_1200-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/04/felix-plasencia.-imagen-talcualdigital-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T19:20:17.636Z"
+  "lastUpdate": "2026-01-14T20:22:43.896Z"
 };
