@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "641,89"
+      "usdt": "640,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Las preguntas que Trump debe hacerse antes de atacar a Irán",
-      "link": "https://cnnespanol.cnn.com/2026/01/14/mundo/analisis-preguntas-trump-debe-hacerse-antes-atacar-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-13t232723z-2097717714-rc2l0jav4sag-rtrmadp-3-usa-trump-affordability-20260114053901190.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump advierte a Irán que responderá a las ejecuciones a manifestanes",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/protestas-iran-muertos-trump-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-20260114084709931.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Tragedia en Tailandia: 29 muertos y 67 heridos tras caer una grúa sobre un tren que llevaba turistas",
-      "link": "https://www.noticiascaracol.com/mundo/tragedia-en-tailandia-29-muertos-y-67-heridos-tras-caer-una-grua-sobre-un-tren-que-llevaba-turistas-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9ff764f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2F49%2F3c8074534f05b94860725c602de0%2Ftragedia-en-tailandia.jpg"
+      "title": "Homenaje póstumo a Yeison Jiménez en el Movistar Arena de Bogotá: minuto a minuto del evento",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/homenaje-postumo-a-yeison-jimenez-en-el-movistar-arena-de-bogota-minuto-a-minuto-del-evento-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e920f70/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F15%2F56%2Fa3f647804cbe8e2d32cd04eb8c37%2Fhomenaje-yeison-jimenez.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Reuters: Superpetroleros chinos con destino a Venezuela regresan a Asia sin cargar petróleo",
-      "link": "https://laverdad.com/reuters-superpetroleros-chinos-con-destino-a-venezuela-regresan-a-asia-sin-cargar-petroleo/",
+      "title": "Delcy Rodríguez, Diosdado Cabello y Jorge Rodríguez reactivan sus cuentas de X",
+      "link": "https://laverdad.com/delcy-rodriguez-diosdado-cabello-y-jorge-rodriguez-reactivan-sus-cuentas-de-x/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Venezolanos-en-Premio-Lo-Nuestro.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Protestas en Irán: van más de 2,500 muertes confirmadas",
       "link": "https://diarioversionfinal.com/mundo/protestas-en-iran-van-mas-de-2500-muertes-confirmadas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5107210015168203791_w-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/descarga-2025-06-23T135141.182-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-14T11:22:24.774Z"
+  "lastUpdate": "2026-01-14T12:48:34.640Z"
 };
