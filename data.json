@@ -5,7 +5,7 @@
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "630,00"
+      "usdt": "640,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El miedo rodea el funeral de un preso político muerto bajo custodia en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/13/el-miedo-rodea-el-funeral-de-un-preso-politico-muerto-bajo-custodia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/ZG2VLSVBKJDF3AVGJQ6NMHBUJI.jpg?auth=42f7f17dd5c02ed0f2943ece4a15b70a125b525fe9585014f269c3dcc14b0719&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Venezuela dijo haber excarcelado a “más de 400″ presos políticos: ONG independientes desmintieron la cifra",
+      "link": "https://www.infobae.com/venezuela/2026/01/14/el-regimen-de-venezuela-dijo-haber-excarcelado-a-mas-de-400-presos-politicos-ong-independientes-desmintieron-la-cifra/",
+      "image": "https://www.infobae.com/resizer/v2/AVMA3T4Y2NBBBAUX5AZA74XCIU.jpg?auth=a5c4923da97741bb37892a18e8e72a7b61068c845c3bdd43c0e4355c9975eb92&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Bill y Hillary Clinton se niegan a testificar en el caso Epstein, el Congreso podría emitir esta seria acusación en su contra",
-      "link": "https://caraotadigital.net/eeuu/bill-y-hillary-clinton-se-niegan-a-testificar-en-el-caso-epstein-el-congreso-podria-emitir-esta-seria-acusacion-en-su-contra/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/clinton.jpg"
+      "title": "VIDEO VIRAL: El dramático rescate de un esquiador que fue «sepultado» por una avalancha",
+      "link": "https://caraotadigital.net/mundo/video-viral-el-dramatico-rescate-de-un-esquiador-que-fue-sepultado-por-una-avalancha/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rescate-Suiza-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONEXIÓN AÉREA ENTRE VENEZUELA Y ESPAÑA REGRESARÍA EN FEBRERO",
-      "link": "https://noticierodigital.com/2026/01/conexion-aerea-entre-venezuela-y-espana-regresaria-en-febrero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/03/plusultra-vuelos-espana-15mar2021.jpg"
+      "title": "FCU-UCV HABILITÓ CENTRO DE ACOPIO PARA APOYAR A FAMILIARES DE PRESOS POLÍTICOS",
+      "link": "https://noticierodigital.com/2026/01/fcu-ucv-habilito-centro-de-acopio-para-apoyar-a-familiares-de-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/ucv-presos-politicos-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. alerta sobre vínculos de Irán y Hezbolá con el ELN en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-alerta-sobre-vinculos-de-iran-y-hezbola-con-el-eln-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Renee-Good-13-01-2026.png"
+      "title": "The Economist: Encuesta revela que venezolanos quieren presidenciales en seis meses y mayoría votaría por MCM",
+      "link": "https://diarioversionfinal.com/politica-dinero/the-economist-encuesta-revela-que-venezolanos-quieren-presidenciales-en-seis-meses-y-mayoria-votaria-por-mcm/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/jorge-rodriguez-17-de-marzo-2025.webp"
     }
   ],
-  "lastUpdate": "2026-01-13T23:20:19.646Z"
+  "lastUpdate": "2026-01-14T01:51:32.461Z"
 }
