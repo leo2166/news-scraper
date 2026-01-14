@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La represión se intensifica en Irán: reportan más de 2.400 muertos",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/protesta-iran-numero-de-fallecidos-aranceles-ee-uu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255965220.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Las preguntas que Trump debe hacerse antes de atacar a Irán",
+      "link": "https://cnnespanol.cnn.com/2026/01/14/mundo/analisis-preguntas-trump-debe-hacerse-antes-atacar-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-13t232723z-2097717714-rc2l0jav4sag-rtrmadp-3-usa-trump-affordability-20260114053901190.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/lipso-nava-aguilas-del-zulia-vs-bravos-de-margarita-round-robin-3-14-de-enero-2025-Jose-Gabriel-Lugo-Version-Final-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T05:25:46.128Z"
+  "lastUpdate": "2026-01-14T06:35:50.780Z"
 };
