@@ -5,7 +5,7 @@
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "643,00"
+      "usdt": "641,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | Organizaciones de DDHH exigieron al régimen de Venezuela la lista completa de los presos políticos excarcelados",
-      "link": "https://www.infobae.com/venezuela/2026/01/14/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/WVWKC3HC2BBLBJ55K5NX6D7VNU.jpg?auth=94eccaf70e5b77d0eb2a0d08d210b3595a8e73a23c9b43679f94b39a82b284dd&smart=true&width=350&height=197&quality=85"
+      "title": "Los venezolanos creen que Donald Trump les ha ofrecido un futuro mejor",
+      "link": "https://www.infobae.com/economist/2026/01/14/los-venezolanos-creen-que-donald-trump-les-ha-ofrecido-un-futuro-mejor/",
+      "image": "https://www.infobae.com/resizer/v2/OCJFZHCROVAULDKSEWN5ZAJJ3I.JPG?auth=526ad39cc1fb2631f7bd542b3969391c5bb24588baf3557b945c957b85ae781c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Irán acusa a EE. UU. de buscar un \"pretexto\" para una \"intervención militar\": envió carta a ONU",
-      "link": "https://www.noticiascaracol.com/mundo/iran-acusa-a-ee-uu-de-buscar-un-pretexto-para-una-intervencion-militar-envio-carta-a-onu-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/39fbcd5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F29%2Fd5%2F6885304848f095dc67eb0e73264e%2Fmovilidad-bogota-76.jpg"
+      "title": "Tragedia en Tailandia: 29 muertos y 67 heridos tras caer una grúa sobre un tren que llevaba turistas",
+      "link": "https://www.noticiascaracol.com/mundo/tragedia-en-tailandia-29-muertos-y-67-heridos-tras-caer-una-grua-sobre-un-tren-que-llevaba-turistas-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9ff764f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2F49%2F3c8074534f05b94860725c602de0%2Ftragedia-en-tailandia.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5107210015168203791_w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T10:26:25.171Z"
+  "lastUpdate": "2026-01-14T11:22:24.774Z"
 }
