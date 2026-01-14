@@ -5,7 +5,7 @@
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "640,89"
+      "usdt": "615,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Los venezolanos creen que Donald Trump les ha ofrecido un futuro mejor",
-      "link": "https://www.infobae.com/economist/2026/01/14/los-venezolanos-creen-que-donald-trump-les-ha-ofrecido-un-futuro-mejor/",
-      "image": "https://www.infobae.com/resizer/v2/OCJFZHCROVAULDKSEWN5ZAJJ3I.JPG?auth=526ad39cc1fb2631f7bd542b3969391c5bb24588baf3557b945c957b85ae781c&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Venezuela restableció el acceso a la red social X tras más de un año de bloqueo",
+      "link": "https://www.infobae.com/venezuela/2026/01/14/el-regimen-de-venezuela-restablecio-el-acceso-a-la-red-social-x-tras-mas-de-un-ano-de-bloqueo/",
+      "image": "https://www.infobae.com/resizer/v2/MKWCQ3Z64ZDWFNIETSQYVYCWNI.JPG?auth=eb118bf5a75aa4abaed2ad64346766b26db3664943c9555f923400fecd223966&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El detenido de Plus Ultra reveló que Zapatero viajaba a Venezuela en aviones de Pdvsa para no dejar rastro\nESPAÑA",
-      "link": "https://www.elnacional.com/2026/01/el-detenido-de-plus-ultra-revelo-que-zapatero-viajaba-a-venezuela-en-aviones-de-pdvsa-para-no-dejar-rastro/",
+      "title": "Venezolanos ven en Trump una oportunidad de futuro tras la captura de Maduro\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/venezolanos-ven-en-trump-una-oportunidad-de-futuro-tras-la-captura-de-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump advierte a Irán que responderá a las ejecuciones a manifestanes",
+      "title": "Irán promete castigar a manifestantes pese a advertencia de Trump",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/protestas-iran-muertos-trump-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-20260114084709931.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO VIRAL: El dramático rescate de un esquiador que fue «sepultado» por una avalancha",
-      "link": "https://caraotadigital.net/mundo/video-viral-el-dramatico-rescate-de-un-esquiador-que-fue-sepultado-por-una-avalancha/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rescate-Suiza-CD.jpg"
+      "title": "Trump habría solicitado nuevas órdenes para incautar buques vinculados al comercio de petróleo venezolano",
+      "link": "https://caraotadigital.net/eeuu/trump-habria-solicitado-nuevas-ordenes-para-incautar-buques-vinculados-al-comercio-de-petroleo-venezolano/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/eeuu.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. SOLICITÓ ÓRDENES PARA INCAUTAR PETROLEROS VINCULADOS A VENEZUELA: REUTERS",
-      "link": "https://noticierodigital.com/2026/01/ee-uu-solicito-ordenes-para-incautar-petroleros-vinculados-a-venezuela-reuters/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/petroleros-eeuu-guardia-costera-627x376.jpg"
+      "title": "ALBARES: “SI VENEZUELA DA PASOS, LO LÓGICO ES QUE LAS SANCIONES DE LA UE DESAPAREZCAN”",
+      "link": "https://noticierodigital.com/2026/01/albares-si-venezuela-da-pasos-lo-logico-es-que-las-sanciones-de-la-ue-desaparezcan/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/jose-manuel-albares.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez, Diosdado Cabello y Jorge Rodríguez reactivan sus cuentas de X",
-      "link": "https://laverdad.com/delcy-rodriguez-diosdado-cabello-y-jorge-rodriguez-reactivan-sus-cuentas-de-x/",
+      "title": "Petro pide para Venezuela un “gobierno compartido con fuerte apoyo popular”",
+      "link": "https://laverdad.com/petro-pide-para-venezuela-un-gobierno-compartido-con-fuerte-apoyo-popular/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Venezolanos-en-Premio-Lo-Nuestro.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Protestas en Irán: van más de 2,500 muertes confirmadas",
-      "link": "https://diarioversionfinal.com/mundo/protestas-en-iran-van-mas-de-2500-muertes-confirmadas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/descarga-2025-06-23T135141.182-750x430.webp"
+      "title": "Empresario revela cómo Zapatero se desplazaba a Venezuela",
+      "link": "https://diarioversionfinal.com/politica-dinero/empresario-revela-como-zapatero-se-desplazaba-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Accidente-ferroviario-Tailandia-14-01-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-14T12:48:34.640Z"
+  "lastUpdate": "2026-01-14T13:41:17.050Z"
 }
