@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "631,89"
+      "usdt": "631,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal elevó a 72 la cifra de presos políticos excarcelados por el régimen de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/14/el-foro-penal-elevo-a-72-la-cifra-de-presos-politicos-excarcelados-por-el-regimen-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/77KSSU3K4NGHHPA2BPTGUXJX7E.jpg?auth=4e526e3f12e70b3bb19c055eac420f0599b9d71af872105b6cbc58aa54b82e78&smart=true&width=350&height=197&quality=85"
+      "title": "Un pescado frito frente al Caribe: el primer deseo de un hombre que fue excarcelado en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/14/un-pescado-frito-frente-al-caribe-el-primer-deseo-de-un-hombre-que-fue-excarcelado-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6B3G2CKCAFFBXNONHHBSSCOCAY.JPG?auth=a22c961338e77fb20dadb46318091f62bc1b37af658e93f7dc05e6e28cc039e6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Primera venta de petróleo venezolano por 500 millones de dólares fue concretada por EEUU, esto reveló un funcionario",
-      "link": "https://caraotadigital.net/varios/primera-venta-de-petroleo-venezolano-por-500-millones-de-dolares-fue-concretada-por-eeuu-esto-revelo-un-funcionario/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/OIL-TRUMP-VENEZUELA.jpg"
+      "title": "Delcy Rodríguez confirmó llamada con Donald Trump y reveló «agenda de trabajo bilateral»",
+      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-confirmo-llamada-con-donald-trump-y-revelo-agenda-de-trabajo-bilateral/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DONALD-TRUMP-DELCY.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ: «SIGAMOS ADELANTE HASTA TRAERLOS DE VUELTA, CUENTAN CON MI LEALTAD»",
-      "link": "https://noticierodigital.com/2026/01/delcy-rodriguez-sigamos-adelante-hasta-traerlos-de-vuelta-cuentan-con-mi-lealtad/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-7-627x376.png"
+      "title": "TRUMP ADVIRTIÓ QUE «FILTRADOR SOBRE VENEZUELA» ESTARÁ PRESO «MUCHO TIEMPO»",
+      "link": "https://noticierodigital.com/2026/01/trump-advirtio-que-filtrador-sobre-venezuela-estara-preso-mucho-tiempo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/donald-trump-eeuu-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
       "title": "Homenaje póstumo a Yeison Jiménez en el Movistar Arena de Bogotá: minuto a minuto del evento",
       "link": "https://www.noticiascaracol.com/colombia/bogota/homenaje-postumo-a-yeison-jimenez-en-el-movistar-arena-de-bogota-minuto-a-minuto-del-evento-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2d06fe7/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F04%2Fbf%2F2cb8773544998435c2a7f0e3098d%2Fyeison-jimenez-9.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dc52de6/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F59%2Ff3%2F5610b50241b5a5e4a8ff7eb02915%2Fplantilla-fotos-15.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump dice que tuvo una “gran conversación” con Delcy Rodríguez este miércoles",
-      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-tuvo-una-gran-conversacion-con-delcy-rodriguez-este-miercoles/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5134300937999551334_w-750x430.jpg"
+      "title": "Trump habla con Delcy Rodríguez por teléfono: \"Es una persona estupenda, trabajamos muy bien con ella\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-habla-con-delcy-rodriguez-por-telefono-es-una-persona-estupenda-trabajamos-muy-bien-con-ella/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/n6qvKZ7f-cnne-1763449-chevron-vende-sus-activos-en-athabasca-oil-sands-y-duvernay-shale-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-14T22:23:23.356Z"
+  "lastUpdate": "2026-01-14T23:18:59.027Z"
 };
