@@ -5,7 +5,7 @@
       "eur": "391,88"
     },
     "binance": {
-      "usdt": "640,00"
+      "usdt": "638,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen de Venezuela dijo haber excarcelado a “más de 400″ presos políticos: ONG independientes desmintieron la cifra",
-      "link": "https://www.infobae.com/venezuela/2026/01/14/el-regimen-de-venezuela-dijo-haber-excarcelado-a-mas-de-400-presos-politicos-ong-independientes-desmintieron-la-cifra/",
-      "image": "https://www.infobae.com/resizer/v2/AVMA3T4Y2NBBBAUX5AZA74XCIU.jpg?auth=a5c4923da97741bb37892a18e8e72a7b61068c845c3bdd43c0e4355c9975eb92&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen venezolano liberó al menos a un ciudadano estadounidense que permanecía encarcelado en el país",
+      "link": "https://www.infobae.com/venezuela/2026/01/14/el-regimen-venezolano-libero-al-menos-a-un-ciudadano-estadounidense-que-permanecia-encarcelado-en-el-pais/",
+      "image": "https://www.infobae.com/resizer/v2/L4G6F77VCRDPFNTUOEOPKWXLQY.jpg?auth=a70b523e5a70fdee4eee691e23ea2a56e419463d0b22fbe41a87518631ec104d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump advierte a Irán por la ejecución de manifestantes detenidos",
+      "title": "La represión se intensifica en Irán: reportan más de 2.400 muertos",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/protesta-iran-numero-de-fallecidos-aranceles-ee-uu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255474345.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255965220.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "FCU-UCV HABILITÓ CENTRO DE ACOPIO PARA APOYAR A FAMILIARES DE PRESOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/01/fcu-ucv-habilito-centro-de-acopio-para-apoyar-a-familiares-de-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/ucv-presos-politicos-627x376.jpg"
+      "title": "EE. UU. SOLICITÓ ÓRDENES PARA INCAUTAR PETROLEROS VINCULADOS A VENEZUELA: REUTERS",
+      "link": "https://noticierodigital.com/2026/01/ee-uu-solicito-ordenes-para-incautar-petroleros-vinculados-a-venezuela-reuters/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/petroleros-eeuu-guardia-costera-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@
       "source": "Diario Versión Final",
       "title": "The Economist: Encuesta revela que venezolanos quieren presidenciales en seis meses y mayoría votaría por MCM",
       "link": "https://diarioversionfinal.com/politica-dinero/the-economist-encuesta-revela-que-venezolanos-quieren-presidenciales-en-seis-meses-y-mayoria-votaria-por-mcm/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/jorge-rodriguez-17-de-marzo-2025.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/familiares-de-presos-politicos-en-venezuela-esperan-que-se-den-liberaciones-masivas-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-14T01:51:32.461Z"
+  "lastUpdate": "2026-01-14T03:48:22.708Z"
 }
