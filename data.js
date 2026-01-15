@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "396,48"
     },
     "binance": {
-      "usdt": "506,80"
+      "usdt": "524,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos confiscó otro buque petrolero vinculado a Venezuela en el Caribe",
-      "link": "https://www.infobae.com/venezuela/2026/01/15/estados-unidos-confisco-otro-buque-petrolero-vinculado-a-venezuela-en-el-caribe/",
-      "image": "https://www.infobae.com/resizer/v2/TLLL5SIC35BOFL7KQGHXQ6Z7ME.jpg?auth=f64d69967784272bcf0a4edb130f296c7646e135d0f945fca77c0bc4cec76513&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez propuso reformar la ley de hidrocarburos en Venezuela para impulsar las inversiones en el sector petrolero",
+      "link": "https://www.infobae.com/venezuela/2026/01/15/delcy-rodriguez-propuso-reformar-la-ley-de-hidrocarburos-en-venezuela-para-impulsar-las-inversiones-en-el-sector-petrolero/",
+      "image": "https://www.infobae.com/resizer/v2/U32WV5QMANCQ5MEO6N6GLKS4OI.JPG?auth=6fcf300c09d611bc96ef7ca65911e459970ea4c0a1a89bef2714b3d3ebb2c365&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Machado tras reunirse con Trump: “Contamos con él para la liberación”",
+      "title": "Machado asegura que cuenta con el apoyo Trump para \"la liberación de Venezuela\"",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/ultima-hora-reunion-machado-trump-maduro-en-vivo",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/machado-y-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255807279-20260115212255928.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Memoria y cuenta: Delcy Rodríguez presentó reforma parcial de la Ley de Hidrocarburos ante la Asamblea Nacional",
-      "link": "https://caraotadigital.net/venezuela/memoria-y-cuenta-delcy-rodriguez-presento-reforma-parcial-de-la-ley-de-hidrocarburos-ante-la-asamblea-nacional/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rodriguez-CD-8.jpg"
+      "title": "VIDEO VIRAL: Escándalo en Chile por lo que dijo Boric sobre Cuba y Fidel Castro",
+      "link": "https://caraotadigital.net/mundo/video-viral-escandalo-en-chile-por-lo-que-dijo-boric-sobre-cuba-y-fidel-castro/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-24.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Antonio García, jefe del Eln, dijo a AFP que apoyaría unión de grupos ilegales",
-      "link": "https://www.noticiascaracol.com/colombia/antonio-garcia-jefe-del-eln-dijo-a-afp-que-apoyaria-union-de-grupos-ilegales-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6733c4a/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2F8a%2Fe4f6103546dc94757b4ec094b3bb%2Fantonio-garcia.jpg"
+      "title": "Impactantes imágenes de siniestro vial en la avenida 68 de Bogotá que dejó una persona fallecida",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/impactantes-imagenes-del-siniestro-vial-en-la-avenida-68-de-bogota-que-dejo-una-persona-fallecida-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/43ef55a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F47%2F01%2F077b5dac4ed794b11aa2353900a5%2Fplantilla-fotos-14.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Rodríguez: “Si me tocase como presidenta encargada ir a Washington lo haré de pie, no arrastrada”",
       "link": "https://diarioversionfinal.com/politica-dinero/rodriguez-si-me-tocase-como-presidenta-encargada-ir-a-washington-lo-hare-de-pie-no-arrastrada/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/25ae9d805580667316d362aa8280580c-88638253-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/Trump-07-09-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T21:22:41.935Z"
+  "lastUpdate": "2026-01-15T22:22:54.412Z"
 };
