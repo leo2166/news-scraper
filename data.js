@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "593,00"
+      "usdt": "626,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Senado de EE. UU. bloquea resolución que limitaba acciones militares de Trump en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/senado-de-ee-uu-bloquea-resolucion-que-limitaba-acciones-militares-de-trump-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/ijnlio-750x430.jpg"
+      "title": "Encuesta revela aplastante apoyo a Trump: 8 de cada 10 venezolanos teme ser detenido",
+      "link": "https://diarioversionfinal.com/politica-dinero/encuesta-revela-aplastante-apoyo-a-trump-8-de-cada-10-venezolanos-teme-ser-detenido/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/senado-eeuu-1140x620-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T04:41:38.935Z"
+  "lastUpdate": "2026-01-15T05:26:44.021Z"
 };
