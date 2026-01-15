@@ -5,7 +5,7 @@
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "605,69"
+      "usdt": "584,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Comité por la Libertad de los Presos Políticos rechazó el uso de las excarcelaciones como propaganda en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/15/el-comite-por-la-libertad-de-los-presos-politicos-rechazo-el-uso-de-las-excarcelaciones-como-propaganda-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/2QKBPYVHJZAIPM4YDTNFBFMS6M.jpg?auth=1ad8747c42ae292bc21b78df1a250a4217bc726dfeb4a946d14f8f5ee7d1ea57&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos confiscó otro buque petrolero vinculado a Venezuela en el Caribe",
+      "link": "https://www.infobae.com/venezuela/2026/01/15/estados-unidos-confisco-otro-buque-petrolero-vinculado-a-venezuela-en-el-caribe/",
+      "image": "https://www.infobae.com/resizer/v2/TLLL5SIC35BOFL7KQGHXQ6Z7ME.jpg?auth=f64d69967784272bcf0a4edb130f296c7646e135d0f945fca77c0bc4cec76513&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Dólar oficial no deja de subir: Así se cotizó este 15Ene",
-      "link": "https://caraotadigital.net/venezuela/dolar-oficial-no-deja-de-subir-asi-se-cotizo-este-15ene/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/11/dolar.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "PETRO CONFIRMA QUE SE REUNIRÁ CON TRUMP EN WASHINGTON EL 3F",
-      "link": "https://noticierodigital.com/2026/01/petro-confirma-que-se-reunira-con-trump-en-washington-el-3f/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/donald-trump-gustavo-petro-627x376.jpg"
+      "title": "Lo que aclaró Diosdado Cabello sobre las liberaciones de presos políticos en el país",
+      "link": "https://caraotadigital.net/venezuela/lo-que-aclaro-diosdado-cabello-sobre-las-liberaciones-de-presos-politicos-en-el-pais/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cabello-25.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Relator de la ONU sobre ejecuciones sumarias condena acciones de EE. UU. en Venezuela",
-      "link": "https://laverdad.com/relator-de-la-onu-sobre-ejecuciones-sumarias-condena-acciones-de-ee-uu-en-venezuela/",
+      "title": "Foro Penal verifica 84 excarcelaciones de presos políticos",
+      "link": "https://laverdad.com/foro-penal-verifica-84-excarcelaciones-de-presos-politicos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Hernan-Perez-gana-Regreso-del-Ano.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "María Corina llega hoy a Washington para su reunión a puerta cerrada con Trump",
-      "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-llega-hoy-a-washington-para-su-reunion-a-puerta-cerrada-con-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5127876160845974610_y-750x430.jpg"
+      "title": "Incautan otro petrolero sancionado procedente de Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/incautan-otro-petrolero-sancionado-procedente-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8712-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-15T13:40:37.181Z"
+  "lastUpdate": "2026-01-15T14:25:52.003Z"
 }
