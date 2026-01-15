@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "584,00"
+      "usdt": "557,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,28 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Lo que aclaró Diosdado Cabello sobre las liberaciones de presos políticos en el país",
-      "link": "https://caraotadigital.net/venezuela/lo-que-aclaro-diosdado-cabello-sobre-las-liberaciones-de-presos-politicos-en-el-pais/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cabello-25.jpg"
+      "title": "Agente del ICE disparó a un venezolano que intentó resistirse al arresto en Minneapolis",
+      "link": "https://caraotadigital.net/eeuu/agente-del-ice-disparo-a-un-venezolano-que-intento-resistirse-al-arresto-en-minneapolis/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Venezolano-10.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "ALBERTO GALÍNDEZ APOYA NORMALIZACIÓN DE RELACIONES CON EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/alberto-galindez-apoya-normalizacion-de-relaciones-con-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/albertoGalindez__-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esta es la fecha del primer Día sin carro y sin moto en Bogotá de 2026: lo que debe saber",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/esta-es-la-fecha-del-primer-dia-sin-carro-y-sin-moto-en-bogota-de-2026-lo-que-debe-saber-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7bd9d4c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2f%2F5f%2F9f1b1db345169014d15d3a8fff80%2Fcalle-80-7.jpg"
+      "title": "La multa en 2026 por transitar en el Día sin carro y sin moto en Bogotá aumentó: pilas a la fecha",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/la-multa-en-2026-por-transitar-en-el-dia-sin-carro-y-sin-moto-en-bogota-aumento-pilas-a-la-fecha-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aa97b0f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8f%2F87%2F7a7720ce43e7acc62ab205c0ef27%2Ftm.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Foro Penal verifica 84 excarcelaciones de presos políticos",
-      "link": "https://laverdad.com/foro-penal-verifica-84-excarcelaciones-de-presos-politicos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Hernan-Perez-gana-Regreso-del-Ano.jpg"
+      "title": "Pagan a nómina especial el Bono de Corresponsabilidad y Formación de enero",
+      "link": "https://laverdad.com/pagan-a-nomina-especial-el-bono-de-corresponsabilidad-y-formacion-de-enero/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Yeison-Jimenez-1-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Incautan otro petrolero sancionado procedente de Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/incautan-otro-petrolero-sancionado-procedente-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8712-750x430.jpeg"
+      "title": "BCV inyectaría $500 millones a la banca para estabilizar el mercado cambiario",
+      "link": "https://diarioversionfinal.com/politica-dinero/bcv-inyectaria-500-millones-a-la-banca-para-estabilizar-el-mercado-cambiario/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8721-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-15T14:25:52.003Z"
+  "lastUpdate": "2026-01-15T15:27:18.330Z"
 };
