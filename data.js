@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "525,00"
+      "usdt": "516,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El que escucha consejos… llega a viejo",
-      "link": "https://caraotadigital.net/opinion/el-que-escucha-consejos-llega-a-viejo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/sotorosa15125.jpg"
+      "title": "Sistema Patria comenzó a pagar un bono este 15Ene de $120, estos serán los beneficiados",
+      "link": "https://caraotadigital.net/venezuela/sistema-patria-comenzo-a-pagar-un-bono-este-15ene-de-120-estos-seran-los-beneficiados/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Patria-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FISCALÍA ANTIDROGA DE ESPAÑA DESESTIMA QUERELLA CONTRA ZAPATERO QUE LO VINCULA A MADURO",
-      "link": "https://noticierodigital.com/2026/01/fiscalia-antidroga-de-espana-desestima-querella-contra-zapatero-que-lo-vincula-a-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/jose-luis-rodriguez-zapatero-627x376.jpg"
+      "title": "POLICÍA DE SUCRE ACLARA QUE NO EXISTE ORDEN QUE IMPIDA REVISAR TELÉFONOS EN ALCABALAS",
+      "link": "https://noticierodigital.com/2026/01/policia-de-sucre-aclara-que-no-existe-orden-que-impida-revisar-telefonos-en-alcabalas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260115-WA0094-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Vente Venezuela destaca que González Urrutia refuerza en Europa el respaldo a Venezuela",
-      "link": "https://laverdad.com/vente-venezuela-destaca-que-gonzalez-urrutia-refuerza-en-europa-el-respaldo-a-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias-1.jpg"
+      "title": "La Casa Blanca: Trump ve a Machado como “una voz notable y valiente” para los venezolanos",
+      "link": "https://laverdad.com/la-casa-blanca-trump-ve-a-machado-como-una-voz-notable-y-valiente-para-los-venezolanos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Estelita-del-Llano.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "María Corina ya está en la Casa Blanca para su encuentro con Trump",
-      "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-ya-esta-en-la-casa-blanca-para-su-encuentro-con-trump/",
+      "title": "Secretaria de prensa estadounidense sobre encuentro Trump-MCM: “Ella es una voz valiente para los venezolanos”",
+      "link": "https://diarioversionfinal.com/mundo/secretaria-de-prensa-estadounidense-sobre-encuentro-trump-mcm-ella-es-una-voz-valiente-para-los-venezolanos/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Trump-24-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T18:38:00.107Z"
+  "lastUpdate": "2026-01-15T19:25:09.860Z"
 };
