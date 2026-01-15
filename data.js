@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "557,69"
+      "usdt": "558,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Los maestros y profesores en Venezuela: ni bien pagados ni valorados\nEDUCACIÓN",
-      "link": "https://www.elnacional.com/2026/01/los-maestros-y-profesores-en-venezuela-ni-bien-pagados-ni-valorados/",
+      "title": "EE UU incauta otro petrolero vinculado a Venezuela en el Caribe antes de reunión Trump–Machado\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/ee-uu-incauta-otro-petrolero-vinculado-a-venezuela-en-el-caribe/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Agente del ICE disparó a un venezolano que intentó resistirse al arresto en Minneapolis",
-      "link": "https://caraotadigital.net/eeuu/agente-del-ice-disparo-a-un-venezolano-que-intento-resistirse-al-arresto-en-minneapolis/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Venezolano-10.jpg"
+      "title": "Familiares de Alfredo Márquez pidieron que sea liberado, sufrió «crisis hipertensiva severa»",
+      "link": "https://caraotadigital.net/venezuela/familiares-de-alfredo-marquez-pidieron-que-sea-liberado-sufrio-crisis-hipertensiva-severa/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagealfredomarquez8211.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Pagan a nómina especial el Bono de Corresponsabilidad y Formación de enero",
-      "link": "https://laverdad.com/pagan-a-nomina-especial-el-bono-de-corresponsabilidad-y-formacion-de-enero/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Yeison-Jimenez-1-1.jpg"
+      "title": "Cámara de Comercio de Maracaibo insta a la Alcaldía a aumentar “la base tributaria” en 2026",
+      "link": "https://laverdad.com/camara-de-comercio-de-maracaibo-insta-a-la-alcaldia-a-aumentar-la-base-tributaria-en-2026/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "BCV inyectaría $500 millones a la banca para estabilizar el mercado cambiario",
-      "link": "https://diarioversionfinal.com/politica-dinero/bcv-inyectaria-500-millones-a-la-banca-para-estabilizar-el-mercado-cambiario/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_8721-750x430.webp"
+      "title": "Casas con armamento de guerra… ¿Enfrentará Diosdado a la CIA o a los hermanos Rodríguez?",
+      "link": "https://diarioversionfinal.com/politica-dinero/casas-con-armamento-de-guerra-enfrentara-diosdado-a-la-cia-o-a-los-hermanos-rodriguez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/HP98WbIO-SaveClip.App_611280503_18543837247049826_8810069882833134283_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T15:27:18.330Z"
+  "lastUpdate": "2026-01-15T16:36:24.870Z"
 };
