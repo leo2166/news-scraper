@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "599,00"
+      "usdt": "594,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "¿Puede realmente el control del petróleo venezolano bajar los precios de la energía en EE.UU?",
       "link": "https://diarioversionfinal.com/mundo/puede-realmente-el-control-del-petroleo-venezolano-bajar-los-precios-de-la-energia-en-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/AP-MATIAS-DE-LA-CROIX-PROTESTAS-9ENE-OPOSICION-PRESOS-POLITICOS-DETENIDOS-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/VsGXBDLs-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T07:26:01.164Z"
+  "lastUpdate": "2026-01-15T08:32:41.447Z"
 };
