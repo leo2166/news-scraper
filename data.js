@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "614,89"
+      "usdt": "620,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Un agente federal dispara contra inmigrante venezolano en Minneapolis, dice el DHS",
+      "title": "Agente dispara contra inmigrante venezolano en Minneapolis y se desatan protestas",
       "link": "https://cnnespanol.cnn.com/2026/01/14/eeuu/funcionariosminneapolis-investigan-tiroteo-agentes-federales-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26015106127260-20260115033930823.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/VsGXBDLs-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T10:26:26.885Z"
+  "lastUpdate": "2026-01-15T11:21:17.086Z"
 };
