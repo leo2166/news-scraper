@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "395,27"
     },
     "binance": {
-      "usdt": "599,95"
+      "usdt": "599,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Un pescado frito frente al Caribe: el primer deseo de un hombre que fue excarcelado en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/14/un-pescado-frito-frente-al-caribe-el-primer-deseo-de-un-hombre-que-fue-excarcelado-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6B3G2CKCAFFBXNONHHBSSCOCAY.JPG?auth=a22c961338e77fb20dadb46318091f62bc1b37af658e93f7dc05e6e28cc039e6&smart=true&width=350&height=197&quality=85"
+      "title": "Foro Penal verificó 84 excarcelaciones de presos políticos en Venezuela desde el 8 de enero",
+      "link": "https://www.infobae.com/venezuela/2026/01/15/foro-penal-verifico-84-excarcelaciones-de-presos-politicos-en-venezuela-desde-el-8-de-enero/",
+      "image": "https://www.infobae.com/resizer/v2/UN3CYXVF2RGWFBFPQCT7GOQXHI.jpg?auth=04571c2aaef851122a8721014724fa899f4860862ba242e2780394bdd1cb0512&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Encuesta revela aplastante apoyo a Trump: 8 de cada 10 venezolanos teme ser detenido",
-      "link": "https://diarioversionfinal.com/politica-dinero/encuesta-revela-aplastante-apoyo-a-trump-8-de-cada-10-venezolanos-teme-ser-detenido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/senado-eeuu-1140x620-1-750x430.jpg"
+      "title": "¿Puede realmente el control del petróleo venezolano bajar los precios de la energía en EE.UU?",
+      "link": "https://diarioversionfinal.com/mundo/puede-realmente-el-control-del-petroleo-venezolano-bajar-los-precios-de-la-energia-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/AP-MATIAS-DE-LA-CROIX-PROTESTAS-9ENE-OPOSICION-PRESOS-POLITICOS-DETENIDOS-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T06:35:23.301Z"
+  "lastUpdate": "2026-01-15T07:26:01.164Z"
 };
