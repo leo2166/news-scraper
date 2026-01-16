@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "396,48"
     },
     "binance": {
-      "usdt": "519,86"
+      "usdt": "518,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "EN VIVO | Los familiares de presos políticos aguardan nuevas excarcelaciones en plena vigilia frente a la incertidumbre generada por el régimen",
-      "link": "https://www.infobae.com/venezuela/2026/01/16/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/EZN6ADUI2ZBPRN5JNJN6KZXZHM.jpg?auth=6175a149d0e8eb27826bc37a66f50ce039dfb789e84ec5a818eb0f053de42079&smart=true&width=350&height=197&quality=85"
+      "title": "Un piloto condenado en Venezuela enfrenta una muerte lenta en prisión por una infección bacteriana",
+      "link": "https://www.infobae.com/venezuela/2026/01/16/un-piloto-condenado-en-venezuela-enfrenta-una-muerte-lenta-en-prision-por-una-infeccion-bacteriana/",
+      "image": "https://www.infobae.com/resizer/v2/53S732SAL5GZXFJZPGZDI5EKEM.jpg?auth=5897c45b40c62c5c7c68e2d5e92d0dcab375cc44a95e2305e687a01199767769&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Se conoce la primera foto de María Corina Machado y Trump tras entrega de medalla del Nobel de Paz",
-      "link": "https://www.noticiascaracol.com/mundo/se-conoce-la-primera-foto-de-maria-corina-machado-y-trump-tras-entrega-de-medalla-del-nobel-de-paz-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7c08ee6/2147483647/strip/true/crop/1276x720+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff3%2F0f%2F7de0a41f4c97b536a4a141cf0d75%2Fmovilidad-bogota-86.jpg"
+      "title": "Fuerte temblor de magnitud 5,0 sacudió a Santander en la madrugada de este 16 de enero",
+      "link": "https://www.noticiascaracol.com/colombia/fuerte-temblor-de-magnitud-5-0-sacudio-a-santander-en-la-madrugada-de-este-16-de-enero-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/04888ca/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fec%2F06%2F4e53f3c5440eb776592c9c7b2981%2Fsgc.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-15-at-11.51.55-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-16T10:25:26.056Z"
+  "lastUpdate": "2026-01-16T11:20:33.800Z"
 };
