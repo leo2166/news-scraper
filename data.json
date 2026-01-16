@@ -5,7 +5,7 @@
       "eur": "396,48"
     },
     "binance": {
-      "usdt": "475,00"
+      "usdt": "445,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Alemania anunció la liberación de tres ciudadanos de ese país que se encontraban presos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/16/alemania-anuncio-la-liberacion-de-tres-ciudadanos-de-ese-pais-que-se-encontraban-presos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6VXSLRYHX5CUJJPRHTZNDIJBQI.jpg?auth=ad46c62cbe2835eca47e9c03169985d88c86dd86cf14513695000dc85ba13d15&smart=true&width=350&height=197&quality=85"
+      "title": "Más de 30 ONG venezolanas y españolas condenaron los crímenes del chavismo y exigieron que sean castigados",
+      "link": "https://www.infobae.com/venezuela/2026/01/16/mas-de-30-ong-venezolanas-y-espanolas-condenaron-los-crimenes-del-chavismo-y-exigieron-que-sean-castigados/",
+      "image": "https://www.infobae.com/resizer/v2/2R4TJGVA4VGU3AXWWLANAPSO3Q.JPG?auth=016f94fb9156e59a2beb326a3eb9d94c171297975d0a99e63c8544c3be35edcc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "¿La gelatina es saludable? Estos son sus beneficios, según expertos",
-      "link": "https://caraotadigital.net/tendencias/la-gelatina-es-saludable-estos-son-sus-beneficios-segun-expertos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-28.jpg"
+      "title": "LA FOTO: Así fue el momento en el que María Corina entregó a Trump la medalla del Premio Nobel de la Paz",
+      "link": "https://caraotadigital.net/eeuu/la-foto-asi-fue-el-momento-en-el-que-maria-corina-entrego-a-trump-la-medalla-del-premio-nobel-de-la-paz/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/machado-trump.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,8 +50,8 @@
     },
     {
       "source": "La Verdad",
-      "title": "Machado entrega a Trump la medalla del Nobel enmarcada como “gratitud”",
-      "link": "https://laverdad.com/machado-entrega-a-trump-la-medalla-del-nobel-enmarcada-como-gratitud/",
+      "title": "Alemania confirma excarcelación de 3 de sus ciudadanos",
+      "link": "https://laverdad.com/alemania-confirma-excarcelacion-de-3-de-sus-ciudadanos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Ricardo-Sanchez-Pitcher-del-Ano-LVBP-2025-2026.jpg"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/P4s9gMpj-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-16T12:46:43.903Z"
+  "lastUpdate": "2026-01-16T13:38:25.144Z"
 }
