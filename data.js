@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "396,48"
     },
     "binance": {
-      "usdt": "525,86"
+      "usdt": "511,19"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Machado asegura que cuenta con el apoyo de Trump para \"la liberación de Venezuela\"",
+      "title": "Mientras Machado \"presentó\" a Trump su Nobel de la Paz, Rodríguez dio un mensaje a la nación",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/ultima-hora-reunion-machado-trump-maduro-en-vivo",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255807279-20260115212255928.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-design-2-20260116000910984.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "La petición que hizo María Corina Machado a los senadores de EEUU en torno a «la lucha de los venezolanos»",
-      "link": "https://caraotadigital.net/eeuu/la-peticion-que-hizo-maria-corina-machado-a-los-senadores-de-eeuu-en-torno-a-la-lucha-de-los-venezolanos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MARIA-CORINA-MACHADO-2.jpg"
+      "title": "¿La gelatina es saludable? Estos son sus beneficios, según expertos",
+      "link": "https://caraotadigital.net/tendencias/la-gelatina-es-saludable-estos-son-sus-beneficios-segun-expertos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-28.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN BARRETO: «EXCARCELACIONES DEBEN CONVERTIRSE EN LIBERTAD PLENA»",
-      "link": "https://noticierodigital.com/2026/01/juan-barreto-excarcelaciones-deben-convertirse-en-libertad-plena/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260115-WA0157-627x376.jpg"
+      "title": "TRUMP ELOGIÓ A MCM TRAS RECIBIR SU MEDALLA DEL NOBEL",
+      "link": "https://noticierodigital.com/2026/01/trump-elogio-a-mcm-tras-recibir-su-medalla-del-nobel/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/donald-trump-6435-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Impactantes imágenes de siniestro vial en la avenida 68 de Bogotá que dejó una persona fallecida",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/impactantes-imagenes-del-siniestro-vial-en-la-avenida-68-de-bogota-que-dejo-una-persona-fallecida-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/43ef55a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F47%2F01%2F077b5dac4ed794b11aa2353900a5%2Fplantilla-fotos-14.jpg"
+      "title": "Causa de choque múltiple en Av. 68 de Bogotá sería un robo de sujetos en motocicleta: esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/causa-de-choque-multiple-en-av-68-de-bogota-seria-un-robo-de-sujetos-en-motocicleta-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/92f4062/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F83%2F33%2Fa469a87846a0b0ca28488229d201%2Fmovilidad-bogota-84.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rodríguez: “Si me tocase como presidenta encargada ir a Washington lo haré de pie, no arrastrada”",
-      "link": "https://diarioversionfinal.com/politica-dinero/rodriguez-si-me-tocase-como-presidenta-encargada-ir-a-washington-lo-hare-de-pie-no-arrastrada/",
+      "title": "Venezolanos luchan en tribunales para frenar fin del TPS impuesto por Trump",
+      "link": "https://diarioversionfinal.com/mundo/venezolanos-luchan-en-tribunales-para-frenar-fin-del-tps-impuesto-por-trump/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Maria-Corina-Machado-08-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-15T23:22:37.920Z"
+  "lastUpdate": "2026-01-16T01:48:42.025Z"
 };
