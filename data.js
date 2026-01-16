@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "341,74",
-      "eur": "396,48"
+      "usd": "344,51",
+      "eur": "400,49"
     },
     "binance": {
-      "usdt": "479,87"
+      "usdt": "483,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Machado dice que a Trump \"realmente le importa la vida\" de los venezolanos",
+      "title": "Trump da más detalles sobre por qué no apoyó a Machado para suceder a Maduro",
       "link": "https://cnnespanol.cnn.com/venezuela/live-news/ultima-hora-machado-maduro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256614231.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256647832.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: Hijo de Maduro dio nuevos detalles de cómo está a dos semanas de su detención",
-      "link": "https://caraotadigital.net/venezuela/en-video-hijo-de-maduro-dio-nuevos-detalles-de-como-esta-a-dos-semanas-de-su-detencion/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-Guerra-CD-1.jpg"
+      "title": "EN VIDEO: Los destrozos que dejó la nueva rotura de una tubería en El Hatillo",
+      "link": "https://caraotadigital.net/venezuela/en-video-los-destrozos-que-dejo-la-nueva-rotura-de-una-tuberia-en-el-hatillo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Tuberia-El-Hatillo-CD-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UE: «LA LIBERACIÓN DE EUROPEOS DETENIDOS EN VENEZUELA ES UN GRAN ALIVIO PARA LAS FAMILIAS»",
-      "link": "https://noticierodigital.com/2026/01/ue-la-liberacion-de-europeos-detenidos-en-venezuela-es-un-gran-alivio-para-las-familias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-4-1-627x376.jpg"
+      "title": "EE. UU. PIDIÓ EXTREMAR PRECAUCIONES EN VUELOS SOBRE CENTROAMÉRICA Y SUDAMÉRICA",
+      "link": "https://noticierodigital.com/2026/01/ee-uu-pidio-extremar-precauciones-en-vuelos-sobre-centroamerica-y-sudamerica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/faa-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Cabello afirma que gobierno no descansará hasta traer de vuelta a Maduro y refuerza seguridad",
       "link": "https://diarioversionfinal.com/politica-dinero/cabello-afirma-que-gobierno-no-descansara-hasta-traer-de-vuelta-a-maduro-y-refuerza-seguridad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-16-at-4.40.37-PM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/se-revela-la-primera-foto-del-encuentro-entre-director-de-la-cia-y-la-presidenta-encargada-de-venezu-54844-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-16T21:21:41.923Z"
+  "lastUpdate": "2026-01-16T22:21:53.140Z"
 };
