@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "483,00"
+      "usdt": "481,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: Los destrozos que dejó la nueva rotura de una tubería en El Hatillo",
-      "link": "https://caraotadigital.net/venezuela/en-video-los-destrozos-que-dejo-la-nueva-rotura-de-una-tuberia-en-el-hatillo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Tuberia-El-Hatillo-CD-1.jpg"
+      "title": "Venezuela anuncia que exportará por primera vez gas licuado de petróleo",
+      "link": "https://caraotadigital.net/venezuela/venezuela-anuncia-que-exportara-por-primera-vez-gas-licuado-de-petroleo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/gas-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Cabello afirma que gobierno no descansará hasta traer de vuelta a Maduro y refuerza seguridad",
       "link": "https://diarioversionfinal.com/politica-dinero/cabello-afirma-que-gobierno-no-descansara-hasta-traer-de-vuelta-a-maduro-y-refuerza-seguridad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/se-revela-la-primera-foto-del-encuentro-entre-director-de-la-cia-y-la-presidenta-encargada-de-venezu-54844-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Trump-2-22-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-16T22:21:53.140Z"
+  "lastUpdate": "2026-01-16T23:21:02.850Z"
 };
