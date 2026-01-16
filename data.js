@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "396,48"
     },
     "binance": {
-      "usdt": "493,69"
+      "usdt": "491,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "John Ratcliffe, director de la CIA, se reunió con Delcy Rodríguez en Caracas\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/john-ratcliffe-director-de-la-cia-se-reunio-con-delcy-rodriguez-en-caracas/",
+      "title": "María Corina Machado: Venezuela será libre muy pronto con el apoyo de Donald Trump\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-venezuela-sera-libre-muy-pronto-con-el-apoyo-de-donald-trump/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Hija de Edmundo González logró ver a su esposo por primera vez tras más de un año detenido, esto reveló",
-      "link": "https://caraotadigital.net/venezuela/hija-de-edmundo-gonzalez-logro-ver-a-su-esposo-por-primera-vez-tras-mas-de-un-ano-detenido-esto-revelo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/05/RafaelTudares_MarianaGonzalez-e1736517039575.jpg"
+      "title": "El adorable video de Otto, el perrito que se volvió viral por pagar en una carnicería de Argentina",
+      "link": "https://caraotadigital.net/tendencias/el-adorable-video-de-otto-el-perrito-que-se-volvio-viral-por-pagar-en-una-carniceria-de-argentina/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/OTTO.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Llega primer vuelo con migrantes deportados desde EE. UU. tras caída de Maduro",
-      "link": "https://laverdad.com/llega-primer-vuelo-con-migrantes-deportados-desde-ee-uu-tras-caida-de-maduro/",
+      "title": "Padrino López registra 47 funcionarios de la Fanb muertos en el ataque de EE. UU.",
+      "link": "https://laverdad.com/padrino-lopez-registra-47-funcionarios-de-la-fanb-muertos-en-el-ataque-de-ee-uu/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Bad-Bunny-2.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "María Corina asegura que es necesario “desmantelar la estructura de terror” para llamar a elecciones libres",
       "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-asegura-que-es-necesario-desmantelar-la-estructura-de-terror-para-llamar-a-elecciones-libres-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy5-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-16-at-2.56.10-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-16T18:34:04.825Z"
+  "lastUpdate": "2026-01-16T19:20:12.429Z"
 };
