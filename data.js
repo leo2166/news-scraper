@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "396,48"
     },
     "binance": {
-      "usdt": "511,19"
+      "usdt": "517,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Mientras Machado \"presentó\" a Trump su Nobel de la Paz, Rodríguez dio un mensaje a la nación",
-      "link": "https://cnnespanol.cnn.com/venezuela/live-news/ultima-hora-reunion-machado-trump-maduro-en-vivo",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-design-2-20260116000910984.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El día en que Machado y Rodríguez compitieron por la atención de Trump y el futuro de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/15/venezuela/claves-maria-corina-machado-delcy-rodriguez-trump-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-01-15-at-17-29-29.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Exigen libertad plena para los 5 periodistas que permanecen detenidos",
-      "link": "https://laverdad.com/exigen-libertad-plena-para-los-5-periodistas-que-permanecen-detenidos/",
+      "title": "Machado entrega a Trump la medalla del Nobel enmarcada como “gratitud”",
+      "link": "https://laverdad.com/machado-entrega-a-trump-la-medalla-del-nobel-enmarcada-como-gratitud/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Ricardo-Sanchez-Pitcher-del-Ano-LVBP-2025-2026.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolanos luchan en tribunales para frenar fin del TPS impuesto por Trump",
-      "link": "https://diarioversionfinal.com/mundo/venezolanos-luchan-en-tribunales-para-frenar-fin-del-tps-impuesto-por-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Maria-Corina-Machado-08-01-2026-750x430.jpg"
+      "title": "Trump agradece a Machado entrega simbólica de medalla Nobel tras reunión en Casa Blanca",
+      "link": "https://diarioversionfinal.com/mundo/trump-agradece-a-machado-entrega-simbolica-de-medalla-nobel-tras-reunion-en-casa-blanca/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-15-at-7.22.21-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-16T01:48:42.025Z"
+  "lastUpdate": "2026-01-16T03:40:28.445Z"
 };
