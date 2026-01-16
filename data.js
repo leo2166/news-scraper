@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El secretario general de la OEA reiteró su disposición a apoyar la transición política en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/16/el-secretario-general-de-la-oea-reitero-su-disposicion-a-apoyar-la-transicion-politica-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/LJF6BAGOGNG4TEZ3CN2W3HZ544.jpg?auth=77be7a3718b1d213d1eb7d616e817503c95662ad81b947b2b88c6efecf4fc00e&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | Los familiares de presos políticos aguardan nuevas excarcelaciones en plena vigilia frente a la incertidumbre generada por el régimen",
+      "link": "https://www.infobae.com/venezuela/2026/01/16/transicion-en-venezuela-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/EZN6ADUI2ZBPRN5JNJN6KZXZHM.jpg?auth=6175a149d0e8eb27826bc37a66f50ce039dfb789e84ec5a818eb0f053de42079&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump agradece a Machado entrega simbólica de medalla Nobel tras reunión en Casa Blanca",
-      "link": "https://diarioversionfinal.com/mundo/trump-agradece-a-machado-entrega-simbolica-de-medalla-nobel-tras-reunion-en-casa-blanca/",
+      "title": "Escándalo Zapatero: EE.UU mantiene bloqueados los aviones de PDVSA que utilizaba para reunirse en Venezuela por \"actividades ilícitas\"",
+      "link": "https://diarioversionfinal.com/mundo/escandalo-zapatero-ee-uu-mantiene-bloqueados-los-aviones-de-pdvsa-que-utilizaba-para-reunirse-en-venezuela-por-actividades-ilicitas/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-15-at-11.51.55-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-16T07:25:40.472Z"
+  "lastUpdate": "2026-01-16T08:31:45.366Z"
 };
