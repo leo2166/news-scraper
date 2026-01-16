@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "396,48"
     },
     "binance": {
-      "usdt": "499,00"
+      "usdt": "519,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado al salir de la Casa Blanca: \"Contamos con el presidente Trump para la libertad de Venezuela\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-al-salir-de-la-casa-blanca-contamos-con-el-presidente-trump-para-la-libertad-de-venezuela/",
+      "title": "Analistas ven visita de Machado a la Casa Blanca como una victoria estratégica que disipa rumores\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/analistas-ven-visita-de-machado-a-la-casa-blanca-como-una-victoria-estrategica-que-disipa-rumores/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-15-at-11.51.55-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-16T09:27:43.233Z"
+  "lastUpdate": "2026-01-16T10:25:26.056Z"
 };
