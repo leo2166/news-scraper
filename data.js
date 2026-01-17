@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "456,70"
+      "usdt": "457,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela prepara la reanudación de la venta oficial de dólares",
-      "link": "https://www.infobae.com/venezuela/2026/01/17/venezuela-prepara-la-reanudacion-de-la-venta-oficial-de-dolares/",
-      "image": "https://www.infobae.com/resizer/v2/UZSROSSUB5EHDMT3GQKWENHH6A.jpg?auth=6c92b611020d65d1057e913170857004e3de81fb7fb7d57336ca6febb2fabb52&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos y Venezuela avanzaron en el proceso de reapertura de sus respectivas embajadas tras años de distanciamiento diplomático",
+      "link": "https://www.infobae.com/venezuela/2026/01/17/estados-unidos-y-venezuela-avanzaron-en-el-proceso-de-reapertura-de-sus-respectivas-embajadas-tras-anos-de-distanciamiento-diplomatico/",
+      "image": "https://www.infobae.com/resizer/v2/6KERVNHWHRCXHA5TRJI5GBGOBY.JPG?auth=6ed9cf643ca93e45780631e68c93ab8cfd92ac2a9bd9c90b78a999fb7341f0ef&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-16-at-9.42.56-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-17T03:23:18.393Z"
+  "lastUpdate": "2026-01-17T04:33:05.095Z"
 };
