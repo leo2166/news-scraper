@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "475,87"
+      "usdt": "477,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "González Urrutia dice que tras 374 días detenido su yerno está «visiblemente deteriorado»",
-      "link": "https://caraotadigital.net/venezuela/gonzalez-urrutia-dice-que-tras-374-dias-detenido-su-yerno-esta-visiblemente-deteriorado/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EdmundoGonzalez_RafaelTudares-1.jpg"
+      "title": "Avistan a criatura gigante en las profundidades del océano con extremidades de más de 10 metros",
+      "link": "https://caraotadigital.net/tendencias/avistan-a-criatura-gigante-en-las-profundidades-del-oceano-con-extremidades-de-mas-de-10-metros/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/medusa-gigante.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXCARCELADO EL LÍDER SOCIAL Y DIRIGENTE DE VP CARLOS AZUAJE",
-      "link": "https://noticierodigital.com/2026/01/excarcelado-el-lider-social-y-dirigente-de-vp-carlos-azuaje/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/carlosalbertoazuaje1-627x376.jpg"
+      "title": "EXCARCELADO MARCOS PALMA: PRESO POR «INCITACIÓN AL ODIO» TRAS DENUNCIAR RETRASO DEL GAS",
+      "link": "https://noticierodigital.com/2026/01/excarcelado-marcos-palma-preso-por-incitacion-al-odio-tras-denunciar-retraso-del-gas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/preso_retrasodegas_LosTeques_-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Foro Penal y la PUD confirman más de un centenar de excarcelaciones",
-      "link": "https://laverdad.com/foro-penal-y-la-pud-confirman-mas-de-un-centenar-de-excarcelaciones/",
+      "title": "Muere un motorizado y su acompañante tras estrellarse contra un poste en la C2",
+      "link": "https://laverdad.com/muere-un-motorizado-y-su-acompanante-tras-estrellarse-contra-un-poste-en-la-c2/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Yadier-Molina.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "AP: Delcy Rodríguez figuraba entre los objetivos prioritarios de la DEA desde 2018",
       "link": "https://diarioversionfinal.com/politica-dinero/ap-delcy-rodriguez-figuraba-entre-los-objetivos-prioritarios-de-la-dea-desde-2018/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Luis-Caldera-Ricardo-Molina-09-08-2025-1-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/chevron-venezuela-7c8a79-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-17T18:29:51.256Z"
+  "lastUpdate": "2026-01-17T19:16:00.907Z"
 };
