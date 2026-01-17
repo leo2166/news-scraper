@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "462,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Inameh prevé nubosidad parcial en la mayor parte del país con lluvias de intensidad variable este 17Ene",
-      "link": "https://caraotadigital.net/venezuela/inameh-preve-nubosidad-parcial-en-la-mayor-parte-del-pais-con-lluvias-de-intensidad-variable-este-17ene/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/lluvias-1.jpg"
+      "title": "Corresponsal español en la Casa Blanca reveló nuevos detalles de la reunión entre Trump y María Corina",
+      "link": "https://caraotadigital.net/eeuu/corresponsal-espanol-en-la-casa-blanca-revelo-nuevos-detalles-de-la-reunion-entre-trump-y-maria-corina/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/trump-y-mcm.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JAMENEI CULPA A TRUMP POR MUERTES EN PROTESTAS EN IRÁN",
-      "link": "https://noticierodigital.com/2026/01/jamenei-culpa-a-trump-por-muertes-en-protestas-en-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/jamenei-29ene2020.jpg"
+      "title": "LA NACIÓN: ITALIA SE HACE CARGO DE LA REPRESENTACIÓN DE ARGENTINA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/la-nacion-italia-se-hace-cargo-de-la-representacion-de-argentina-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/embajadaargentina-venezuela.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscalía española investigará patrimonio de Zapatero: Habría multiplicado por 115 tras vínculos con Maduro",
-      "link": "https://diarioversionfinal.com/politica-dinero/fiscalia-espanola-investigara-patrimonio-de-zapatero-habria-multiplicado-por-115-tras-vinculos-con-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Diosdado-cabello-_20251126_135313_0000-1024x512.jpg-750x430.webp"
+      "title": "Reuters: EE. UU. mantuvo conversaciones secretas con Diosdado Cabello antes y después de capturar a Maduro",
+      "link": "https://diarioversionfinal.com/politica-dinero/reuters-ee-uu-mantuvo-conversaciones-secretas-con-diosdado-cabello-antes-y-despues-de-capturar-a-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5116511557121674190_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-17T15:20:35.214Z"
+  "lastUpdate": "2026-01-17T16:24:13.186Z"
 };
