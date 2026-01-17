@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "473,87"
+      "usdt": "458,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Delcy Rodríguez afianza su plan económico con venta de gas y divisas al mercado cambiario",
-      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-afianza-su-plan-economico-con-venta-de-gas-y-divisas-al-mercado-cambiario/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SaveClip.App_615758569_17872686141498920_8375306469180486205_n-1.jpg"
+      "title": "Reportan muerte del hijo del exgrandeliga venezolano Francisco «el kid» Rodríguez",
+      "link": "https://caraotadigital.net/sucesos/reportan-muerte-del-hijo-del-exgrandeliga-venezolano-francisco-el-kid-rodriguez/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Proyecto-nuevo-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FORO PENAL CONTABILIZÓ 100 EXCARCELACIONES DE PRESOS POLÍTICOS DESDE EL 8 DE ENERO",
-      "link": "https://noticierodigital.com/2026/01/foro-penal-contabilizo-100-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
+      "title": "JAMENEI CULPA A TRUMP POR MUERTES EN PROTESTAS EN IRÁN",
+      "link": "https://noticierodigital.com/2026/01/jamenei-culpa-a-trump-por-muertes-en-protestas-en-iran/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/jamenei-29ene2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Fiscalía española investigará patrimonio de Zapatero: Habría multiplicado por 115 tras vínculos con Maduro",
       "link": "https://diarioversionfinal.com/politica-dinero/fiscalia-espanola-investigara-patrimonio-de-zapatero-habria-multiplicado-por-115-tras-vinculos-con-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/SIN-LUZ-MARACAIBO-30-08-2024-JOSE-GABRIEL-LUGO-VERSION-FINAL-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/5TJWOYLOEBEV5NL2CHYZ7YMWT4-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-17T13:29:25.931Z"
+  "lastUpdate": "2026-01-17T14:19:52.771Z"
 };
