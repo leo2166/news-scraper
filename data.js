@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "458,90"
+      "usdt": "475,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "CR7 vuelve a encabezar ranking de los deportistas con mayores ingresos, un boxeador y otro futbolista completan el podio",
-      "link": "https://caraotadigital.net/deportes/cr7-vuelve-a-encabezar-ranking-de-los-deportistas-con-mayores-ingresos-un-boxeador-y-otro-futbolista-completan-el-podio/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2024/08/Cristiano-Ronaldo-CD.jpg"
+      "title": "González Urrutia dice que tras 374 días detenido su yerno está «visiblemente deteriorado»",
+      "link": "https://caraotadigital.net/venezuela/gonzalez-urrutia-dice-que-tras-374-dias-detenido-su-yerno-esta-visiblemente-deteriorado/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EdmundoGonzalez_RafaelTudares-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA NACIÓN: ITALIA SE HACE CARGO DE LA REPRESENTACIÓN DE ARGENTINA EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/la-nacion-italia-se-hace-cargo-de-la-representacion-de-argentina-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/embajadaargentina-venezuela.jpg"
+      "title": "EXCARCELADO EL LÍDER SOCIAL Y DIRIGENTE DE VP CARLOS AZUAJE",
+      "link": "https://noticierodigital.com/2026/01/excarcelado-el-lider-social-y-dirigente-de-vp-carlos-azuaje/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/carlosalbertoazuaje1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez anuncia exportación de GLP e inyección de divisas a la banca",
-      "link": "https://laverdad.com/delcy-rodriguez-anuncia-exportacion-de-glp-e-inyeccion-de-divisas-a-la-banca/",
+      "title": "Foro Penal y la PUD confirman más de un centenar de excarcelaciones",
+      "link": "https://laverdad.com/foro-penal-y-la-pud-confirman-mas-de-un-centenar-de-excarcelaciones/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Yadier-Molina.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reuters: EE. UU. mantuvo conversaciones secretas con Diosdado Cabello antes y después de capturar a Maduro",
-      "link": "https://diarioversionfinal.com/politica-dinero/reuters-ee-uu-mantuvo-conversaciones-secretas-con-diosdado-cabello-antes-y-despues-de-capturar-a-maduro/",
+      "title": "AP: Delcy Rodríguez figuraba entre los objetivos prioritarios de la DEA desde 2018",
+      "link": "https://diarioversionfinal.com/politica-dinero/ap-delcy-rodriguez-figuraba-entre-los-objetivos-prioritarios-de-la-dea-desde-2018/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Luis-Caldera-Ricardo-Molina-09-08-2025-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-17T17:18:08.546Z"
+  "lastUpdate": "2026-01-17T18:29:51.256Z"
 };
