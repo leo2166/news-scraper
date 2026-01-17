@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "457,00"
+      "usdt": "473,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Publican el video de la audaz fuga de María Corina Machado de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/01/16/venezuela/video-fuga-maria-corina-machado-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vlcsnap-2026-01-16-16h27m56s022-20260117013259416.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La Justicia ordena limitar los poderes de los agentes federales en Minnesota",
+      "link": "https://cnnespanol.cnn.com/2026/01/17/eeuu/jueza-restringe-respuesta-federal-manifestantes-minnesota-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Horror en Guárico por los brutales maltratos a lo que era sometido un adolescente por sus propios padres",
-      "link": "https://caraotadigital.net/sucesos/horror-en-guarico-por-los-brutales-maltratos-a-lo-que-era-sometido-un-adolescente-por-sus-propios-padres/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-33.jpg"
+      "title": "Delcy Rodríguez afianza su plan económico con venta de gas y divisas al mercado cambiario",
+      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-afianza-su-plan-economico-con-venta-de-gas-y-divisas-al-mercado-cambiario/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SaveClip.App_615758569_17872686141498920_8375306469180486205_n-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla familia de pareja de esposos que falleció en trágico accidente en Bogotá: \"Nos los quitaron\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/habla-familia-de-pareja-de-esposos-que-fallecio-en-tragico-accidente-en-bogota-nos-los-quitaron-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e0c71c2/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F47%2Ff2%2F54b69e4442edbe4536277522a598%2Fmovilidad-bogota-92.jpg"
+      "title": "¿Qué pena enfrentaría el conductor de camioneta involucrado en accidente en Bogotá? Habla experto",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/que-pena-enfrentaria-el-conductor-de-camioneta-involucrado-en-accidente-en-bogota-habla-experto-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/124446c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2Fa0%2F6deb645c4a08bc2604048c0c3301%2Faccidente-bogota.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Secretario de Energía de EE. UU. viajará a Caracas para consolidar acuerdos petroleros",
-      "link": "https://diarioversionfinal.com/mundo/secretario-de-energia-de-ee-uu-viajara-a-caracas-para-consolidar-acuerdos-petroleros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-2.jpeg"
+      "title": "Fiscalía española investigará patrimonio de Zapatero: Habría multiplicado por 115 tras vínculos con Maduro",
+      "link": "https://diarioversionfinal.com/politica-dinero/fiscalia-espanola-investigara-patrimonio-de-zapatero-habria-multiplicado-por-115-tras-vinculos-con-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/SIN-LUZ-MARACAIBO-30-08-2024-JOSE-GABRIEL-LUGO-VERSION-FINAL-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-17T12:40:49.485Z"
+  "lastUpdate": "2026-01-17T13:29:25.931Z"
 };
