@@ -5,7 +5,7 @@
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "456,00"
+      "usdt": "457,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -16,7 +16,7 @@
       "source": "Infobae",
       "title": "EN VIVO | El presidente de la ONG Foro Penal reportó 16 nuevas excarcelaciones durante la noche del viernes",
       "link": "https://www.infobae.com/venezuela/2026/01/17/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/HB5M24HKNZE2HPBDMHKZVFWKZA.jpg?auth=6d544cc9169fbeaccdb7e188a83ce76c2714cff45dfb8f4929b8138601244525&smart=true&width=350&height=197&quality=85"
+      "image": "https://www.infobae.com/resizer/v2/6HRACRRNKRAVDCFRYFVRPKZWTM.JPG?auth=59df0f5d21853383555c621d95f75d9b6159da703d78c952c274c7eab400eb43&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,6 +37,12 @@
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-33.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "FORO PENAL CONTABILIZÓ 100 EXCARCELACIONES DE PRESOS POLÍTICOS DESDE EL 8 DE ENERO",
+      "link": "https://noticierodigital.com/2026/01/foro-penal-contabilizo-100-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Habla familia de pareja de esposos que falleció en trágico accidente en Bogotá: \"Nos los quitaron\"",
       "link": "https://www.noticiascaracol.com/colombia/bogota/habla-familia-de-pareja-de-esposos-que-fallecio-en-tragico-accidente-en-bogota-nos-los-quitaron-rg10",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-16-at-9.42.56-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-17T07:19:51.327Z"
+  "lastUpdate": "2026-01-17T08:27:20.260Z"
 }
