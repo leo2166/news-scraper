@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "457,00"
+      "usdt": "456,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos y Venezuela avanzaron en el proceso de reapertura de sus respectivas embajadas tras años de distanciamiento diplomático",
-      "link": "https://www.infobae.com/venezuela/2026/01/17/estados-unidos-y-venezuela-avanzaron-en-el-proceso-de-reapertura-de-sus-respectivas-embajadas-tras-anos-de-distanciamiento-diplomatico/",
-      "image": "https://www.infobae.com/resizer/v2/6KERVNHWHRCXHA5TRJI5GBGOBY.JPG?auth=6ed9cf643ca93e45780631e68c93ab8cfd92ac2a9bd9c90b78a999fb7341f0ef&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez nombró nuevos ministros en su gabinete y expulsó a Alex Saab, acusado por EEUU de ser el “testaferro” del régimen",
+      "link": "https://www.infobae.com/venezuela/2026/01/17/delcy-rodriguez-nombro-nuevos-ministros-en-su-gabinete-y-expulso-a-alex-saab-acusado-por-eeuu-de-ser-el-testaferro-del-regimen/",
+      "image": "https://www.infobae.com/resizer/v2/RF4CTRHDGBFAZE2KXYRXIAZEPU.jpg?auth=ca5cc375d3b32efd0aad1960d2932a419c4977942f2501aedd23c84d54b04135&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-16-at-9.42.56-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-17T05:21:06.252Z"
+  "lastUpdate": "2026-01-17T06:32:05.839Z"
 };
