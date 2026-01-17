@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "454,98"
+      "usdt": "456,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "¿Puede Trump quedarse con la medalla Nobel que le dio Machado?\nEE UU",
+      "title": "¿Puede Trump quedarse con la medalla del Nobel que le dio Machado?\nEE UU",
       "link": "https://www.elnacional.com/2026/01/puede-trump-quedarse-con-la-medalla-nobel-que-le-dio-machado/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump da más detalles sobre por qué no apoyó a Machado para suceder a Maduro",
-      "link": "https://cnnespanol.cnn.com/venezuela/live-news/ultima-hora-machado-maduro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256647832.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Publican el video de la audaz fuga de María Corina Machado de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/16/venezuela/video-fuga-maria-corina-machado-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vlcsnap-2026-01-16-16h27m56s022-20260117013259416.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. AGILIZA AMPLIACIÓN DE LICENCIA PETROLERA PARA CHEVRON",
-      "link": "https://noticierodigital.com/2026/01/ee-uu-agiliza-ampliacion-de-licencia-petrolera-para-chevron/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/chevron-licencia-eeuu-27may2022-1-627x376.webp"
+      "title": "FORO PENAL CONTABILIZÓ 100 EXCARCELACIONES DE PRESOS POLÍTICOS DESDE EL 8 DE ENERO",
+      "link": "https://noticierodigital.com/2026/01/foro-penal-contabilizo-100-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Delcy Rodríguez impulsa reestructuración ministerial tras captura de Maduro",
       "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-impulsa-reestructuracion-ministerial-tras-captura-de-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Trump-Maria-Corina-12-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-16-at-9.42.56-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-17T01:42:52.904Z"
+  "lastUpdate": "2026-01-17T03:23:18.393Z"
 };
