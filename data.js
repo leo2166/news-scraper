@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "473,00"
+      "usdt": "472,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Cambios de Delcy Rodríguez en los ministerios: los perfiles de los funcionarios que designó\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/cambios-de-delcy-rodriguez-en-los-ministerios-los-perfiles-de-los-funcionarios-que-designo-en-su-gabinete/",
+      "title": "Andreína Baduel alerta sobre torturas a presos políticos: “Venezuela sigue siendo una dictadura”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/andreina-baduel-alerta-sobre-torturas-a-presos-politicos-venezuela-sigue-siendo-una-dictadura/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "El gobernador de Minnesota moviliza a la Guardia Nacional del estado en medio de las protestas",
       "link": "https://cnnespanol.cnn.com/2026/01/17/eeuu/jueza-restringe-respuesta-federal-manifestantes-minnesota-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768749-alex-saab-ok.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/venezuela-familiares-gettyimages-2255579136.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO: Excarcelaron a ciudadano que denunció retraso en suministro de gas, tenía más de un año preso",
-      "link": "https://caraotadigital.net/venezuela/video-excarcelaron-a-ciudadano-que-denuncio-retraso-en-suministro-de-gas-tenia-mas-de-un-ano-preso/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EXCARCELADO.jpg"
+      "title": "Lo que podría ocurrir con el mercado cambiario venezolano tras «reseteo» de la economía, según experto",
+      "link": "https://caraotadigital.net/venezuela/lo-que-podria-ocurrir-con-el-mercado-cambiario-venezolano-tras-reseteo-de-la-economia-segun-experto/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dolares.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Estas son las nuevas caras del gabinete de Delcy Rodríguez, la presidenta encargada de Venezuela",
-      "link": "https://www.noticiascaracol.com/mundo/estas-son-las-nuevas-caras-del-gabinete-de-delcy-rodriguez-la-presidenta-encargada-de-venezuela-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6541fd1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8d%2Fb1%2F2c03078d4660bfb97468855d0cfb%2Fdelcy-rodriguez-gabinete.jpg"
+      "title": "Gobierno defiende el aumento de impuestos al alcohol y tabaco en decreto de emergencia económica",
+      "link": "https://www.noticiascaracol.com/politica/gobierno-defiende-el-aumento-de-impuestos-al-alcohol-y-tabaco-en-decreto-de-emergencia-economica-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3a447e2/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd7%2Fda%2F424038ce49d0a9d0fcd1a69a5224%2Fcigarrillo-y-alcohol.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Trump busca recapturar a Alex Saab y revocar indulto de Biden",
       "link": "https://diarioversionfinal.com/politica-dinero/trump-busca-recapturar-a-alex-saab-y-revocar-indulto-de-biden/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Celulares-alcabalas-17-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/anuncia-trump-creacion-de-organismo-para-recolectar-aranceles-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-17T22:20:23.182Z"
+  "lastUpdate": "2026-01-17T23:20:04.759Z"
 };
