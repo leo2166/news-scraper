@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Delcy Rodríguez reveló el número de apartamentos afectados en Fuerte Tiuna tras ataque de EEUU",
-      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-revelo-el-numero-de-apartamentos-afectados-en-fuerte-tiuna-tras-ataque-de-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SaveClip.App_618960029_18029797316786236_8919851859220262506_n-1.jpg"
+      "title": "VIDEO: Excarcelaron a ciudadano que denunció retraso en suministro de gas, tenía más de un año preso",
+      "link": "https://caraotadigital.net/venezuela/video-excarcelaron-a-ciudadano-que-denuncio-retraso-en-suministro-de-gas-tenia-mas-de-un-ano-preso/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EXCARCELADO.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PNB ASESINADO POR DELINCUENTE EN CARICUAO ES HIJO DEL EXPELOTERO FRANCISCO «KID» RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/01/pnb-asesinado-por-delincuente-en-caricuao-es-hijo-del-expelotero-francisco-kid-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/asesinanhijodelpeloteroKidRodriguez-627x376.jpg"
+      "title": "ECARRI QUIERE QUE DELCY RODRÍGUEZ Y MARÍA CORINA «HAGAN VIDA NORMAL EN VENEZUELA»",
+      "link": "https://noticierodigital.com/2026/01/ecarri-quiere-que-delcy-rodriguez-y-maria-corina-hagan-vida-normal-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/antonio-ecarri-2.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Trump busca recapturar a Alex Saab y revocar indulto de Biden",
       "link": "https://diarioversionfinal.com/politica-dinero/trump-busca-recapturar-a-alex-saab-y-revocar-indulto-de-biden/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Taufik-El-Soud-17-01-2026.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Celulares-alcabalas-17-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-17T21:18:47.833Z"
+  "lastUpdate": "2026-01-17T22:20:23.182Z"
 };
