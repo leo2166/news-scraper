@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Edmundo González Urrutia alertó por el grave deterioro de su yerno tras más de un año detenido por el régimen chavista en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/17/edmundo-gonzalez-urrutia-alerto-por-el-grave-deterioro-de-su-yerno-tras-mas-de-un-ano-detenido-por-el-regimen-chavista-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/GG66GP34WRA5VGOR6K6R4NSQGQ.PNG?auth=fa30a778b5f561355353831d3301be10431d1d87f217597253250ff09863c939&smart=true&width=350&height=197&quality=85"
+      "title": "Un grupo de presos políticos venezolanos inició una huelga de hambre en la cárcel El Rodeo I para exigir su liberación",
+      "link": "https://www.infobae.com/venezuela/2026/01/18/un-grupo-de-presos-politicos-venezolanos-inicio-una-huelga-de-hambre-en-la-carcel-el-rodeo-i-para-exigir-su-liberacion/",
+      "image": "https://www.infobae.com/resizer/v2/VCA2QD6RYJHDLMF2EGMM7MOVKQ.png?auth=c11fd89b8d66e45f078910d617fee9a87488c9407150d242ef2ba8d6295fec9f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/carcel-rodeo-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T05:24:22.514Z"
+  "lastUpdate": "2026-01-18T06:32:37.967Z"
 };
