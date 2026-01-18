@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "454,71"
+      "usdt": "473,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Andreína Baduel alerta sobre torturas a presos políticos: “Venezuela sigue siendo una dictadura”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/andreina-baduel-alerta-sobre-torturas-a-presos-politicos-venezuela-sigue-siendo-una-dictadura/",
+      "title": "Ruta y condiciones para una reforma exitosa de la Ley Orgánica de Hidrocarburos\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/ruta-y-condiciones-para-una-reforma-exitosa-de-la-ley-organica-de-hidrocarburos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/carcel-rodeo-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T10:22:06.365Z"
+  "lastUpdate": "2026-01-18T11:17:49.567Z"
 };
