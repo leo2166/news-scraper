@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "473,00"
+      "usdt": "473,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Vente Venezuela inicia censo en Ecuador para organizar el posible retorno de venezolanos",
-      "link": "https://caraotadigital.net/mundo/vente-venezuela-inicia-censo-en-ecuador-para-organizar-el-posible-retorno-de-venezolanos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Vente-Venezuela-en-Ecuador.jpg"
+      "title": "Lo que dijeron las autoridades de Curazao tras recibir el primer tanquero con petróleo venezolano desde 2019",
+      "link": "https://caraotadigital.net/mundo/lo-que-dijeron-las-autoridades-de-curazao-tras-recibir-el-primer-tanquero-con-petroleo-venezolano-desde-2019/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Primer-ministro-Curazao-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Sebastiana Barráez asegura que Diosdado tiene 11 arsenales ocultos en Caracas",
       "link": "https://diarioversionfinal.com/politica-dinero/sebastiana-barraez-asegura-que-diosdado-tiene-11-arsenales-ocultos-en-caracas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-2026-01-18T130153.864.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Bombardeos-en-Caracas-18-01-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-18T21:19:25.457Z"
+  "lastUpdate": "2026-01-18T22:20:20.243Z"
 };
