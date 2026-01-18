@@ -5,7 +5,7 @@
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "477,90"
+      "usdt": "477,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Vaticano confirmó que intentó llegar a un acuerdo con Maduro para su exilio en Rusia",
-      "link": "https://www.infobae.com/venezuela/2026/01/18/el-vaticano-confirmo-que-intento-llegar-a-un-acuerdo-con-maduro-para-su-exilio-en-rusia/",
-      "image": "https://www.infobae.com/resizer/v2/EHZVMZFPSTYRIHS6LHG47QKVK4.jpg?auth=67042daf169fbd00f2dd8ce98b02a9cdf7d6179140643fa7b15741a30320ad46&smart=true&width=350&height=197&quality=85"
+      "title": "La Fundación Nobel aclaró que el premio de la Paz es intransferible, aunque la medalla cambie de manos",
+      "link": "https://www.infobae.com/america/mundo/2026/01/18/la-fundacion-nobel-aclaro-que-el-premio-de-la-paz-es-intransferible-aunque-la-medalla-cambie-de-manos/",
+      "image": "https://www.infobae.com/resizer/v2/GQYCCW5GE5EQNH4K6UQRBIUPLM.JPG?auth=8042cefdf3be4580880536a4a09aa691c10238b9af92368acaa55f3ae6616081&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "El Vaticano reveló detalles de sus esfuerzos para que Maduro se fuera al exilio antes de su captura",
-      "link": "https://caraotadigital.net/mundo/el-vaticano-revelo-detalles-de-sus-esfuerzos-para-que-maduro-se-fuera-al-exilio-antes-de-su-captura/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-12.20.21-PM.jpeg"
+      "title": "VIDEO: Bomberos de UCV debieron asistir a familiares de presos políticos que se descompensaron durante vigilia en Caracas",
+      "link": "https://caraotadigital.net/venezuela/video-bomberos-de-ucv-debieron-asistir-a-familiares-de-presos-politicos-que-se-descompensaron-durante-vigilia-en-caracas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/bomberos.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,8 +50,8 @@
     },
     {
       "source": "La Verdad",
-      "title": "El Vaticano confirma que intentó mediar un exilio para Maduro sin éxito",
-      "link": "https://laverdad.com/el-vaticano-confirma-que-intento-mediar-un-exilio-para-maduro-sin-exito/",
+      "title": "Reportan que entre 139 y 155 presos políticos han sido excarcelados",
+      "link": "https://laverdad.com/reportan-que-entre-139-y-155-presos-politicos-han-sido-excarcelados/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5143637775994260685.jpg"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Miguel_Rodriguez_torres-1200x675-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-18T15:20:36.091Z"
+  "lastUpdate": "2026-01-18T16:26:01.870Z"
 }
