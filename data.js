@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Transición en Venezuela EN VIVO",
-      "link": "https://www.infobae.com/venezuela/2026/01/18/transicion-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/QGVSK32Y2FAZJDSAUWEEHGH5HQ.jpg?auth=1ec8723899cfda23b56dbb25672529efdee1ba06f650ba229ce9c40d2c654aed&smart=true&width=350&height=197&quality=85"
+      "title": "Trump incluyó a Machado en su estrategia política para avanzar en la transición democrática de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/18/trump-incluyo-a-machado-en-su-estrategia-politica-para-avanzar-en-la-transicion-democratica-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/RBQNF57Q7FEVDEO5YNQJLSLW6U.jpg?auth=c18b722efb7ee16fdc6aa0e98bc56099d06941920155f505dd4b9a7e0c9838a3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con nuevos aranceles a aliados europeos por Groenlandia",
-      "link": "https://cnnespanol.cnn.com/2026/01/17/mundo/groenlandia-dinamarca-trump-protestas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/d143536b-ed6d-40d9-b10a-76b21b4cc682.png?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Seis niños afectados por gas lacrimógeno en protesta contra ICE",
+      "link": "https://cnnespanol.cnn.com/2026/01/18/eeuu/familia-minneapolis-gas-lacrimogeno-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vehiculo-familia-minneapolis.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/carcel-rodeo-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T07:20:46.663Z"
+  "lastUpdate": "2026-01-18T08:27:55.649Z"
 };
