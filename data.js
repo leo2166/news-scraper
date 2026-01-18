@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "475,00"
+      "usdt": "454,71"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/carcel-rodeo-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T09:21:38.991Z"
+  "lastUpdate": "2026-01-18T10:22:06.365Z"
 };
