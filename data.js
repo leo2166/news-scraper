@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "475,00"
+      "usdt": "474,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Lanzan «Miraflores al Momento», nueva cuenta oficial de redes del Ejecutivo venezolano",
-      "link": "https://caraotadigital.net/venezuela/lanzan-miraflores-al-momento-nueva-cuenta-oficial-de-redes-del-ejecutivo-venezolano/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/miraflores.jpg"
+      "title": "CONFUSIÓN MORTAL EN HOUSTON: Disparó fatalmente a joven conductor tras pensar que había secuestrado a su hija",
+      "link": "https://caraotadigital.net/eeuu/confusion-mortal-en-houston-disparo-fatalmente-a-joven-conductor-tras-pensar-que-habia-secuestrado-a-su-hija/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/crimen.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GUATEMALA: PRESOS SE AMOTINAN PARA EXIGIR AIRE ACONDICIONADO Y CAMAS PARA SU LÍDER",
-      "link": "https://noticierodigital.com/2026/01/guatemala-presos-se-amotinan-para-exigir-aire-acondicionado-y-camas-para-su-lider/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/carcelesGuatemala-627x376.jpg"
+      "title": "CUSANNO: «RELACIÓN CON TRUMP SERÁ UNA PELEA DE MUCHOS ROUND»",
+      "link": "https://noticierodigital.com/2026/01/cusanno-relacion-con-trump-sera-una-pelea-de-muchos-round/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/ricardocusanno-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El Vaticano confirmó que intentó un acuerdo con Nicolás Maduro para su exilio de Venezuela",
-      "link": "https://www.noticiascaracol.com/mundo/el-vaticano-confirmo-que-intento-un-acuerdo-con-nicolas-maduro-para-su-exilio-de-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/05f3faf/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc1%2F1a%2Fb3ad28044eadac802491808c16d7%2Fel-vaticano-confirmo-que-intento-un-acuerdo-con-nicolas-maduro-para-su-exilio-de-venezuela.jpg"
+      "title": "Nuevos videos del accidente en el que murió Yeison Jiménez: testigos relataron el momento",
+      "link": "https://www.noticiascaracol.com/colombia/nuevos-videos-del-accidente-en-el-que-murio-yeison-jimenez-testigos-relataron-el-momento-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5100236/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2Fbe%2Fd17c276d4f9fa243b8504483373a%2Fplantilla-fotos-35.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Observatorio de Seguridad Vial contabiliza 367 accidentes de tránsito en diciembre",
-      "link": "https://laverdad.com/observatorio-de-seguridad-vial-contabiliza-367-accidentes-de-transito-en-diciembre/",
+      "title": "Hallan osamenta humana tras reporte de persona quemada en El Manzanillo",
+      "link": "https://laverdad.com/hallan-osamenta-humana-tras-reporte-de-persona-quemada-en-el-manzanillo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5143637775994260685.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Poder Judicial iraní promete \"fuertes castigos\" contra incitadores de violencia en protestas",
-      "link": "https://diarioversionfinal.com/mundo/poder-judicial-irani-promete-fuertes-castigos-contra-incitadores-de-violencia-en-protestas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-18-at-7.42.09-AM-750x430.jpeg"
+      "title": "Al menos 16 muertos dejan voraces incendios forestales en el sur de Chile",
+      "link": "https://diarioversionfinal.com/mundo/al-menos-16-muertos-dejan-voraces-incendios-forestales-en-el-sur-de-chile/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Gj9gcLml-SaveClip.App_610747518_18541882027065246_2949541442569572348_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T18:28:59.706Z"
+  "lastUpdate": "2026-01-18T19:16:53.416Z"
 };
