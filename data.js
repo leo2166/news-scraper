@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "474,87"
+      "usdt": "474,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "CONFUSIÓN MORTAL EN HOUSTON: Disparó fatalmente a joven conductor tras pensar que había secuestrado a su hija",
-      "link": "https://caraotadigital.net/eeuu/confusion-mortal-en-houston-disparo-fatalmente-a-joven-conductor-tras-pensar-que-habia-secuestrado-a-su-hija/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/crimen.jpg"
+      "title": "Sudáfrica declara desastre nacional por lluvias e inundaciones que han dejado al menos 31 fallecidos",
+      "link": "https://caraotadigital.net/mundo/sudafrica-declara-desastre-nacional-por-lluvias-e-inundaciones-que-han-dejado-al-menos-31-fallecidos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/inundaciones-en-sudafrica.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,8 +50,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Hallan osamenta humana tras reporte de persona quemada en El Manzanillo",
-      "link": "https://laverdad.com/hallan-osamenta-humana-tras-reporte-de-persona-quemada-en-el-manzanillo/",
+      "title": "Detienen a hombre por llevar a su pareja en el maletero en Cuatricentenario",
+      "link": "https://laverdad.com/detienen-a-hombre-por-llevar-a-su-pareja-en-el-maletero-en-cuatricentenario/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5143637775994260685.jpg"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Gj9gcLml-SaveClip.App_610747518_18541882027065246_2949541442569572348_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T19:16:53.416Z"
+  "lastUpdate": "2026-01-18T20:23:36.109Z"
 };
