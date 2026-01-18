@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "477,89"
+      "usdt": "474,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Fundación Nobel aclaró que el premio de la Paz es intransferible, aunque la medalla cambie de manos",
-      "link": "https://www.infobae.com/america/mundo/2026/01/18/la-fundacion-nobel-aclaro-que-el-premio-de-la-paz-es-intransferible-aunque-la-medalla-cambie-de-manos/",
-      "image": "https://www.infobae.com/resizer/v2/GQYCCW5GE5EQNH4K6UQRBIUPLM.JPG?auth=8042cefdf3be4580880536a4a09aa691c10238b9af92368acaa55f3ae6616081&smart=true&width=350&height=197&quality=85"
+      "title": "Cómo impactó la captura de Maduro en el seno interno de la Fuerza Armada de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/18/como-impacto-la-captura-de-maduro-en-el-seno-interno-de-la-fuerza-armada-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/NJR5EDUA65HJLA6L47HLZQNXZM.jpg?auth=5220de9d0231ff7563c60c218b4a81e4752dcf898561742dd47b6befee5cffa8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Triunvirato, petróleo, Nobel: ¿Hacia dónde va Venezuela?\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/triunvirato-petroleo-nobel-hacia-donde-va-venezuela/",
+      "title": "Movimiento estudiantil denuncia intento de desalojo a familiares de presos políticos en Zona 7\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/denuncian-intento-de-desalojo-a-familiares-de-presos-politicos-en-zona-7/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO: Bomberos de UCV debieron asistir a familiares de presos políticos que se descompensaron durante vigilia en Caracas",
-      "link": "https://caraotadigital.net/venezuela/video-bomberos-de-ucv-debieron-asistir-a-familiares-de-presos-politicos-que-se-descompensaron-durante-vigilia-en-caracas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/bomberos.jpg"
+      "title": "VIDEO: Hombre fue detenido en Miranda por las aberraciones que cometía contra sus dos hijastras",
+      "link": "https://caraotadigital.net/sucesos/video-hombre-fue-detenido-en-miranda-por-las-aberraciones-que-cometia-contra-sus-dos-hijastras/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/abusador.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Reportan que entre 139 y 155 presos políticos han sido excarcelados",
-      "link": "https://laverdad.com/reportan-que-entre-139-y-155-presos-politicos-han-sido-excarcelados/",
+      "title": "Milei respalda la “decisión y determinación” de Trump tras captura de Maduro",
+      "link": "https://laverdad.com/milei-respalda-la-decision-y-determinacion-de-trump-tras-captura-de-maduro/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5143637775994260685.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pentágono ordenó a 1.500 soldados a prepararse por masivas protestas contra ICE en Minnesota",
-      "link": "https://diarioversionfinal.com/mundo/pentagono-ordeno-a-1-500-soldados-a-prepararse-por-masivas-protestas-contra-ice-en-minnesota/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Miguel_Rodriguez_torres-1200x675-1-750x430.webp"
+      "title": "Estudiantes ya no se intimidan y levantan la voz por los presos políticos",
+      "link": "https://diarioversionfinal.com/politica-dinero/estudiantes-ya-no-se-intimidan-y-levantan-la-voz-por-los-presos-politicos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-18-at-11.58.09-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-18T16:26:01.870Z"
+  "lastUpdate": "2026-01-18T17:18:40.513Z"
 };
