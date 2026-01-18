@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/carcel-rodeo-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T03:47:04.404Z"
+  "lastUpdate": "2026-01-18T04:42:08.912Z"
 };
