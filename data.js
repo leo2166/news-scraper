@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "473,20"
+      "usdt": "471,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Lo que dijeron las autoridades de Curazao tras recibir el primer tanquero con petróleo venezolano desde 2019",
-      "link": "https://caraotadigital.net/mundo/lo-que-dijeron-las-autoridades-de-curazao-tras-recibir-el-primer-tanquero-con-petroleo-venezolano-desde-2019/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Primer-ministro-Curazao-1.jpg"
+      "title": "Acreedores de bonos venezolanos buscarían reestructurar la deuda durante 2026",
+      "link": "https://caraotadigital.net/venezuela/acreedores-de-bonos-venezolanos-buscarian-reestructurar-la-deuda-durante-2026/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Bonos-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHOQUE DE GUERRILLAS DEJA MÁS CASI 30 MUERTOS EN COLOMBIA",
-      "link": "https://noticierodigital.com/2026/01/choque-de-guerrillas-deja-mas-casi-30-muertos-en-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/65343147_803-575x376.webp"
+      "title": "EFE: CHAVISMO APUESTA A LA «GUERRA DIPLOMÁTICA» PARA LOGRAR LA LIBERACIÓN DE MADURO",
+      "link": "https://noticierodigital.com/2026/01/efe-chavismo-apuesta-a-la-guerra-diplomatica-para-lograr-la-liberacion-de-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/marcha-chavismo-psuv.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Dos temblores en Colombia este domingo, 18 de enero de 2026: epicentro y magnitud",
-      "link": "https://www.noticiascaracol.com/colombia/dos-temblores-en-colombia-este-domingo-18-de-enero-de-2026-epicentro-y-magnitud-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fcf9713/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe2%2F0f%2F2e9e7d834fe08557695306e31629%2Fdos-temblores-en-colombia-este-domingo-18-de-enero-de-2026-epicentro-y-magnitud.jpg"
+      "title": "Se cumple el sueño de Yeison Jiménez: esto es lo que se sabe del concierto póstumo en El Campín",
+      "link": "https://www.noticiascaracol.com/colombia/se-cumple-el-sueno-de-yeison-jimenez-esto-es-lo-que-se-sabe-del-concierto-postumo-en-el-campin-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7d1edfb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0b%2F66%2Fa5874993412795557111fc090289%2Fplantilla-fotos-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Sebastiana Barráez asegura que Diosdado tiene 11 arsenales ocultos en Caracas",
       "link": "https://diarioversionfinal.com/politica-dinero/sebastiana-barraez-asegura-que-diosdado-tiene-11-arsenales-ocultos-en-caracas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Bombardeos-en-Caracas-18-01-2026-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Accidente-trenes-Espana-18-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T22:20:20.243Z"
+  "lastUpdate": "2026-01-18T23:20:21.351Z"
 };
