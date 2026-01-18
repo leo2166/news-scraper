@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "474,87"
+      "usdt": "475,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,7 +14,7 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Cómo impactó la captura de Maduro en el seno interno de la Fuerza Armada de Venezuela",
+      "title": "Cómo impactó la captura de Maduro en la Fuerza Armada de Venezuela",
       "link": "https://www.infobae.com/venezuela/2026/01/18/como-impacto-la-captura-de-maduro-en-el-seno-interno-de-la-fuerza-armada-de-venezuela/",
       "image": "https://www.infobae.com/resizer/v2/NJR5EDUA65HJLA6L47HLZQNXZM.jpg?auth=5220de9d0231ff7563c60c218b4a81e4752dcf898561742dd47b6befee5cffa8&smart=true&width=350&height=197&quality=85"
     },
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "1.500 soldados se preparan para posible despliegue en Minnesota",
-      "link": "https://cnnespanol.cnn.com/2026/01/18/eeuu/minnesota-soldados-alerta-posible-despliegue-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/usa-trump-minnesota.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Está Europa preparada para el desafío de Trump sobre Groenlandia?",
+      "link": "https://cnnespanol.cnn.com/2026/01/18/eeuu/europa-atonita-despierta-amenaza-trump-groenlandia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-17t175810z-735032905-rc233ja47t7y-rtrmadp-3-usa-trump-greenland.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO: Hombre fue detenido en Miranda por las aberraciones que cometía contra sus dos hijastras",
-      "link": "https://caraotadigital.net/sucesos/video-hombre-fue-detenido-en-miranda-por-las-aberraciones-que-cometia-contra-sus-dos-hijastras/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/abusador.jpg"
+      "title": "Lanzan «Miraflores al Momento», nueva cuenta oficial de redes del Ejecutivo venezolano",
+      "link": "https://caraotadigital.net/venezuela/lanzan-miraflores-al-momento-nueva-cuenta-oficial-de-redes-del-ejecutivo-venezolano/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/miraflores.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Milei respalda la “decisión y determinación” de Trump tras captura de Maduro",
-      "link": "https://laverdad.com/milei-respalda-la-decision-y-determinacion-de-trump-tras-captura-de-maduro/",
+      "title": "Observatorio de Seguridad Vial contabiliza 367 accidentes de tránsito en diciembre",
+      "link": "https://laverdad.com/observatorio-de-seguridad-vial-contabiliza-367-accidentes-de-transito-en-diciembre/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5143637775994260685.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estudiantes ya no se intimidan y levantan la voz por los presos políticos",
-      "link": "https://diarioversionfinal.com/politica-dinero/estudiantes-ya-no-se-intimidan-y-levantan-la-voz-por-los-presos-politicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-18-at-11.58.09-AM.jpeg"
+      "title": "Poder Judicial iraní promete \"fuertes castigos\" contra incitadores de violencia en protestas",
+      "link": "https://diarioversionfinal.com/mundo/poder-judicial-irani-promete-fuertes-castigos-contra-incitadores-de-violencia-en-protestas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-18-at-7.42.09-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-18T17:18:40.513Z"
+  "lastUpdate": "2026-01-18T18:28:59.706Z"
 };
