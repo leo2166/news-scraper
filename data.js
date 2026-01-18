@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "472,00"
+      "usdt": "474,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Reportan que Estados Unidos mantuvo contactos con Diosdado Cabello meses antes de la captura de Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/17/reportan-que-estados-unidos-mantuvo-contactos-con-diosdado-cabello-meses-antes-de-la-captura-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/I4LTZ5AHONH63A37TUHP4UTLCA.JPG?auth=7a0604509cbb613e3ae1643cd0f6e7d6f4b17b6203c3ca876fa0899f9b242e14&smart=true&width=350&height=197&quality=85"
+      "title": "Edmundo González Urrutia alertó por el grave deterioro de su yerno tras más de un año detenido por el régimen chavista en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/17/edmundo-gonzalez-urrutia-alerto-por-el-grave-deterioro-de-su-yerno-tras-mas-de-un-ano-detenido-por-el-regimen-chavista-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/GG66GP34WRA5VGOR6K6R4NSQGQ.PNG?auth=fa30a778b5f561355353831d3301be10431d1d87f217597253250ff09863c939&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El gobernador de Minnesota moviliza a la Guardia Nacional del estado en medio de las protestas",
-      "link": "https://cnnespanol.cnn.com/2026/01/17/eeuu/jueza-restringe-respuesta-federal-manifestantes-minnesota-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/venezuela-familiares-gettyimages-2255579136.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump amenaza con nuevos aranceles a aliados europeos por Groenlandia",
+      "link": "https://cnnespanol.cnn.com/2026/01/17/mundo/groenlandia-dinamarca-trump-protestas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-20260117094016639.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Lo que podría ocurrir con el mercado cambiario venezolano tras «reseteo» de la economía, según experto",
-      "link": "https://caraotadigital.net/venezuela/lo-que-podria-ocurrir-con-el-mercado-cambiario-venezolano-tras-reseteo-de-la-economia-segun-experto/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dolares.jpg"
+      "title": "Operaron a la cantante Estelita del Llano tras sufrir grave fractura, este es su estado de salud",
+      "link": "https://caraotadigital.net/caraota-show/operaron-a-la-cantante-estelita-del-llano-tras-sufrir-grave-fractura-este-es-su-estado-de-salud/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/estelita-del-llano.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gobierno defiende el aumento de impuestos al alcohol y tabaco en decreto de emergencia económica",
-      "link": "https://www.noticiascaracol.com/politica/gobierno-defiende-el-aumento-de-impuestos-al-alcohol-y-tabaco-en-decreto-de-emergencia-economica-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3a447e2/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd7%2Fda%2F424038ce49d0a9d0fcd1a69a5224%2Fcigarrillo-y-alcohol.jpg"
+      "title": "Venezuela: ¿quién es Álex Saab y por qué Delcy Rodríguez, presidenta interina, lo sacó del gabinete?",
+      "link": "https://www.noticiascaracol.com/mundo/venezuela-quien-es-alex-saab-y-por-que-delcy-rodriguez-presidenta-interina-lo-saco-del-gabinete-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/63328ec/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2F98%2Ffdd678e74918833ee07ff9cacd4c%2Falex-saab-y-delcy-rodriguez.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Trump busca recapturar a Alex Saab y revocar indulto de Biden",
       "link": "https://diarioversionfinal.com/politica-dinero/trump-busca-recapturar-a-alex-saab-y-revocar-indulto-de-biden/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/anuncia-trump-creacion-de-organismo-para-recolectar-aranceles-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Zona-7-Boleita-17-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-17T23:20:04.759Z"
+  "lastUpdate": "2026-01-18T01:54:52.014Z"
 };
