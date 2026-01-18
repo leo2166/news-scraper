@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "474,50"
+      "usdt": "473,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Movimiento estudiantil denuncia intento de desalojo a familiares de presos políticos en Zona 7\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/denuncian-intento-de-desalojo-a-familiares-de-presos-politicos-en-zona-7/",
+      "title": "Lugares no comunes han sido usados para encarcelar a presos políticos en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/lugares-no-comunes-han-sido-usados-para-encarcelar-a-presos-politicos-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Sudáfrica declara desastre nacional por lluvias e inundaciones que han dejado al menos 31 fallecidos",
-      "link": "https://caraotadigital.net/mundo/sudafrica-declara-desastre-nacional-por-lluvias-e-inundaciones-que-han-dejado-al-menos-31-fallecidos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/inundaciones-en-sudafrica.jpg"
+      "title": "Vente Venezuela inicia censo en Ecuador para organizar el posible retorno de venezolanos",
+      "link": "https://caraotadigital.net/mundo/vente-venezuela-inicia-censo-en-ecuador-para-organizar-el-posible-retorno-de-venezolanos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Vente-Venezuela-en-Ecuador.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CUSANNO: «RELACIÓN CON TRUMP SERÁ UNA PELEA DE MUCHOS ROUND»",
-      "link": "https://noticierodigital.com/2026/01/cusanno-relacion-con-trump-sera-una-pelea-de-muchos-round/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/ricardocusanno-627x376.jpg"
+      "title": "CHOQUE DE GUERRILLAS DEJA MÁS CASI 30 MUERTOS EN COLOMBIA",
+      "link": "https://noticierodigital.com/2026/01/choque-de-guerrillas-deja-mas-casi-30-muertos-en-colombia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/65343147_803-575x376.webp"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Nuevos videos del accidente en el que murió Yeison Jiménez: testigos relataron el momento",
-      "link": "https://www.noticiascaracol.com/colombia/nuevos-videos-del-accidente-en-el-que-murio-yeison-jimenez-testigos-relataron-el-momento-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5100236/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2Fbe%2Fd17c276d4f9fa243b8504483373a%2Fplantilla-fotos-35.jpg"
+      "title": "Dos temblores en Colombia este domingo, 18 de enero de 2026: epicentro y magnitud",
+      "link": "https://www.noticiascaracol.com/colombia/dos-temblores-en-colombia-este-domingo-18-de-enero-de-2026-epicentro-y-magnitud-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fcf9713/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe2%2F0f%2F2e9e7d834fe08557695306e31629%2Fdos-temblores-en-colombia-este-domingo-18-de-enero-de-2026-epicentro-y-magnitud.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Detienen a hombre por llevar a su pareja en el maletero en Cuatricentenario",
-      "link": "https://laverdad.com/detienen-a-hombre-por-llevar-a-su-pareja-en-el-maletero-en-cuatricentenario/",
+      "title": "Chavismo confía en un acuerdo internacional para liberar a Maduro y Cilia",
+      "link": "https://laverdad.com/chavismo-confia-en-un-acuerdo-internacional-para-liberar-a-maduro-y-cilia/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5143637775994260685.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Al menos 16 muertos dejan voraces incendios forestales en el sur de Chile",
-      "link": "https://diarioversionfinal.com/mundo/al-menos-16-muertos-dejan-voraces-incendios-forestales-en-el-sur-de-chile/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Gj9gcLml-SaveClip.App_610747518_18541882027065246_2949541442569572348_n-750x430.jpg"
+      "title": "Sebastiana Barráez asegura que Diosdado tiene 11 arsenales ocultos en Caracas",
+      "link": "https://diarioversionfinal.com/politica-dinero/sebastiana-barraez-asegura-que-diosdado-tiene-11-arsenales-ocultos-en-caracas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-2026-01-18T130153.864.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T20:23:36.109Z"
+  "lastUpdate": "2026-01-18T21:19:25.457Z"
 };
