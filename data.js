@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "473,69"
+      "usdt": "474,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Trump incluyó a Machado en su estrategia política para avanzar en la transición democrática de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/18/trump-incluyo-a-machado-en-su-estrategia-politica-para-avanzar-en-la-transicion-democratica-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/RBQNF57Q7FEVDEO5YNQJLSLW6U.jpg?auth=c18b722efb7ee16fdc6aa0e98bc56099d06941920155f505dd4b9a7e0c9838a3&smart=true&width=350&height=197&quality=85"
+      "title": "El Vaticano confirmó que intentó llegar a un acuerdo con Maduro para su exilio en Rusia",
+      "link": "https://www.infobae.com/venezuela/2026/01/18/el-vaticano-confirmo-que-intento-llegar-a-un-acuerdo-con-maduro-para-su-exilio-en-rusia/",
+      "image": "https://www.infobae.com/resizer/v2/EHZVMZFPSTYRIHS6LHG47QKVK4.jpg?auth=67042daf169fbd00f2dd8ce98b02a9cdf7d6179140643fa7b15741a30320ad46&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Trump busca recapturar a Alex Saab y revocar indulto de Biden",
       "link": "https://diarioversionfinal.com/politica-dinero/trump-busca-recapturar-a-alex-saab-y-revocar-indulto-de-biden/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/carcel-rodeo-1-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-2026-01-18T043422.499.jpg"
     }
   ],
-  "lastUpdate": "2026-01-18T11:17:49.567Z"
+  "lastUpdate": "2026-01-18T12:41:07.380Z"
 };
