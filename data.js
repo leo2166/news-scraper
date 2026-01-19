@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "474,00"
+      "usdt": "474,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Descarrilamiento de dos trenes de alta velocidad en España deja varios muertos y heridos",
-      "link": "https://www.noticiascaracol.com/mundo/descarrilamiento-de-dos-trenes-de-alta-velocidad-en-espana-deja-fallecidos-y-varios-heridos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6c3a32f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F08%2Fa9%2Fa749dc73462f94a4d861f7dae253%2Fplantilla-fotos-2.jpg"
+      "title": "Hipótesis sobre el descarrilamiento de trenes en España: esto dijo el ministro de Transporte",
+      "link": "https://www.noticiascaracol.com/mundo/hipotesis-sobre-el-descarrilamiento-de-trenes-en-espana-esto-dijo-el-ministro-de-transporte-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/11686b0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4c%2F0d%2Ff2b12b6f4cfca14526deb08b8c3e%2Fplantilla-fotos-6.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/GF49IXLN-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T09:35:36.773Z"
+  "lastUpdate": "2026-01-19T10:30:04.222Z"
 };
