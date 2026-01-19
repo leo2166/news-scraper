@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "462,69"
+      "usdt": "450,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,39 +20,39 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal confirmó la excarcelación de siete ciudadanos extranjeros en las últimas horas\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/foro-penal-confirmo-la-excarcelacion-de-siete-ciudadanos-extranjeros-en-las-ultimas-horas/",
+      "title": "ConocoPhillips evalúa con cautela posibles inversiones en Venezuela: reclaman deuda de 12.000 millones de dólares\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/conocophillips-evalua-con-cautela-inversiones-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Sube a 39 la cifra de muertos tras el accidente de trenes en España",
-      "link": "https://cnnespanol.cnn.com/espana/live-news/noticias-accidente-trenes-cordoba-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/secuencia-05-00-01-57-52-imagen-fija003.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump: \"Ya no siento la obligación de pensar únicamente en la paz\"",
+      "link": "https://cnnespanol.cnn.com/2026/01/19/eeuu/trump-paz-noruega-nobel-reux",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255451656-20260119101849574.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: Varios delivery venezolanos entregaron insumos a afectados por los incendios en Chile que ya dejan 19 muertos",
-      "link": "https://caraotadigital.net/mundo/en-video-varios-delivery-venezolanos-entregaron-insumos-a-afectados-por-los-incendios-en-chile-que-ya-dejan-19-muertos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/chile-venezolanos.jpg"
+      "title": "Ya en Gaceta Oficial: Importaciones de combustible quedan exoneradas de impuestos, sepa por cuánto tiempo",
+      "link": "https://caraotadigital.net/venezuela/ya-en-gaceta-oficial-importaciones-de-combustible-quedan-exoneradas-de-impuestos-sepa-por-cuanto-tiempo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/12/Gaceta.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACREEDORES DE BONOS VENEZOLANOS INICIAN CONTRATACIÓN DE ASESORES PARA REESTRUCTURAR DEUDA",
-      "link": "https://noticierodigital.com/2026/01/acreedores-de-bonos-venezolanos-inician-contratacion-de-asesores-para-reestructurar-deuda/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/gente_venezolanos_caminando_caracas_2023.jpg-1-627x376.jpeg"
+      "title": "LULA CONSIDERA QUE LA CAPTURA DE MADURO «AMENAZA LA ESTABILIDAD GLOBAL»",
+      "link": "https://noticierodigital.com/2026/01/lula-considera-que-la-captura-de-maduro-amenaza-la-estabilidad-global/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/luiz-inacio-lula-da-silva-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Imágenes del accidente de dos trenes de alta velocidad en España: \"Tremendamente extraño\"",
-      "link": "https://www.noticiascaracol.com/mundo/imagenes-del-accidente-de-dos-trenes-de-alta-velocidad-en-espana-tremendamente-extrano-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fca4399/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F62%2F1c%2F7a3bf43b4ab1bb87a6461b40f30b%2Faccidente-trenes-en-espana.jpg"
+      "title": "Accidente múltiple en el sur de Bogotá deja un muerto y varios lesionados: esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/accidente-multiple-en-el-sur-de-bogota-deja-un-muerto-y-varios-lesionados-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1e8c5c3/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2f%2F4b%2Fe30b93744697bfe57cdd3346caea%2Fplantilla-fotos-7.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez pide “fortalecer” los hidrocarburos como “motor de producción”",
-      "link": "https://laverdad.com/delcy-rodriguez-pide-fortalecer-los-hidrocarburos-como-motor-de-produccion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Zootopia-2-2.jpg"
+      "title": "Presidente de Groenlandia reitera que no se dejarán presionar por amenazas de EE. UU.",
+      "link": "https://laverdad.com/presidente-de-groenlandia-reitera-que-no-se-dejaran-presionar-por-amenazas-de-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Jorge-Abreu-Vuelta-Tachira.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-19-at-10.49.40-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-19T15:27:33.336Z"
+  "lastUpdate": "2026-01-19T16:31:10.306Z"
 };
