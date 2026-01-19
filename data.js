@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "474,69"
+      "usdt": "470,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Lugares no comunes han sido usados para encarcelar a presos políticos en Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/lugares-no-comunes-han-sido-usados-para-encarcelar-a-presos-politicos-en-venezuela/",
+      "title": "Foro Penal confirmó la excarcelación de siete ciudadanos extranjeros en las últimas horas\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/foro-penal-confirmo-la-excarcelacion-de-siete-ciudadanos-extranjeros-en-las-ultimas-horas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Hipótesis sobre el descarrilamiento de trenes en España: esto dijo el ministro de Transporte",
-      "link": "https://www.noticiascaracol.com/mundo/hipotesis-sobre-el-descarrilamiento-de-trenes-en-espana-esto-dijo-el-ministro-de-transporte-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/11686b0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4c%2F0d%2Ff2b12b6f4cfca14526deb08b8c3e%2Fplantilla-fotos-6.jpg"
+      "title": "¿Qué se sabe del accidente de dos trenes en España y qué ha revelado la investigación?",
+      "link": "https://www.noticiascaracol.com/mundo/que-se-sabe-del-accidente-de-dos-trenes-en-espana-y-que-ha-revelado-la-investigacion-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0be131d/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F33%2Fad%2F3e1bc0d24dac99bd02639d5f69d0%2Faccidente-de-dos-trenes-en-espana.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/GF49IXLN-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T10:30:04.222Z"
+  "lastUpdate": "2026-01-19T11:22:14.607Z"
 };
