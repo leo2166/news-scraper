@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "458,56"
+      "usdt": "462,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezolanos en Ecuador iniciaron una encuesta sobre los planes de retorno entre los migrantes",
-      "link": "https://www.infobae.com/venezuela/2026/01/19/venezolanos-en-ecuador-iniciaron-una-encuesta-sobre-los-planes-de-retorno-entre-los-migrantes/",
-      "image": "https://www.infobae.com/resizer/v2/6J5KBO7XUNER7DYFSS7EJEBEX4.jpg?auth=7ad585fcb6c08ae1f7a7f026a8507dd322f59f185a2ed05bff9654ee24c497fe&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de los mexicanos secuestrados por el régimen en Venezuela denuncian violación de derechos humanos y terror psicológico",
+      "link": "https://www.infobae.com/venezuela/2026/01/19/familiares-de-los-mexicanos-secuestrados-por-el-regimen-en-venezuela-denuncian-violacion-de-derechos-humanos-y-terror-psicologico/",
+      "image": "https://www.infobae.com/resizer/v2/DI5X4LGEGFBF7OXQNNXO7D4APU.jpeg?auth=00660617f3504e2c22ed4a7f5f70f80505bc7e6e60d0deedd83de68ca0cf2d5a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Hubo conversaciones secretas entre Cabello y EEUU antes de la captura de Maduro? Lo que dijo el gobierno",
-      "link": "https://caraotadigital.net/venezuela/hubo-conversaciones-secretas-entre-cabello-y-eeuu-antes-de-la-captura-de-maduro-lo-que-dijo-el-gobierno/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2024/12/palacio-de-miraflores-1024x620-1.jpg"
+      "title": "EN VIDEO: Varios delivery venezolanos entregaron insumos a afectados por los incendios en Chile que ya dejan 19 muertos",
+      "link": "https://caraotadigital.net/mundo/en-video-varios-delivery-venezolanos-entregaron-insumos-a-afectados-por-los-incendios-en-chile-que-ya-dejan-19-muertos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/chile-venezolanos.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GUATEMALA SUSPENDE CLASES ESTE LUNES ANTE OLA DE VIOLENCIA CAUSADA POR PANDILLAS",
-      "link": "https://noticierodigital.com/2026/01/guatemala-suspende-clases-este-lunes-ante-ola-de-violencia-causada-por-pandillas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/carcelesGuatemala-627x376.jpg"
+      "title": "ACREEDORES DE BONOS VENEZOLANOS INICIAN CONTRATACIÓN DE ASESORES PARA REESTRUCTURAR DEUDA",
+      "link": "https://noticierodigital.com/2026/01/acreedores-de-bonos-venezolanos-inician-contratacion-de-asesores-para-reestructurar-deuda/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/gente_venezolanos_caminando_caracas_2023.jpg-1-627x376.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Putin no tiene previsto conversar con Delcy Rodríguez por el momento",
-      "link": "https://laverdad.com/putin-no-tiene-previsto-conversar-con-delcy-rodriguez-por-el-momento/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Estelita-del-Llano-1.jpg"
+      "title": "Delcy Rodríguez pide “fortalecer” los hidrocarburos como “motor de producción”",
+      "link": "https://laverdad.com/delcy-rodriguez-pide-fortalecer-los-hidrocarburos-como-motor-de-produccion/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Zootopia-2-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezuela libera a siete ciudadanos extranjeros detenidos en el país en las últimas horas",
-      "link": "https://diarioversionfinal.com/politica-dinero/venezuela-libera-a-siete-ciudadanos-extranjeros-detenidos-en-el-pais-en-las-ultimas-horas/",
+      "title": "Hasta $ 1,58 ganan profesores universitarios a pesar de “19 trimestres de crecimiento consecutivo” en Venezuela",
+      "link": "https://diarioversionfinal.com/ciudad/hasta-158-ganan-profesores-universitarios-a-pesar-de-19-trimestres-de-crecimiento-consecutivo-en-venezuela/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-19-at-10.49.40-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-19T14:28:29.282Z"
+  "lastUpdate": "2026-01-19T15:27:33.336Z"
 };
