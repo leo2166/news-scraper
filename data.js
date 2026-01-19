@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "446,00"
+      "usdt": "423,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Cerca de 80% de los venezolanos votaría por María Corina Machado en unas elecciones presidenciales\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/la-mayoria-de-venezolanos-votaria-por-maria-corina-machado/",
+      "title": "Así busca Estados Unidos recuperar el sistema eléctrico en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/asi-busca-estados-unidos-recuperar-el-sistema-electrico-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump: \"Ya no siento la obligación de pensar únicamente en la paz\"",
-      "link": "https://cnnespanol.cnn.com/2026/01/19/eeuu/trump-paz-noruega-nobel-reux",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255451656-20260119101849574.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "De presidente a acusado: así fue el primer día de Maduro en una corte de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/01/19/venezuela/presidente-acusado-maduro-corte-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/55114561-47041090-generated-thumbnail.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Cardenales estadounidenses envían contundente mensaje a Trump en torno a la política exterior de EEUU",
-      "link": "https://caraotadigital.net/eeuu/cardenales-estadounidenses-envian-contundente-mensaje-a-trump-en-torno-a-la-politica-exterior-de-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-GRPENLANDIA.jpg"
+      "title": "¿Reino Unido entregará el oro venezolano depositado en el Banco de Inglaterra? Esto dice el gobierno británico",
+      "link": "https://caraotadigital.net/mundo/reino-unido-entregara-el-oro-venezolano-depositado-en-el-banco-de-inglaterra-esto-dice-el-gobierno-britanico/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/07/imageoro28923892.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Niña de 6 años pierde a padres, hermano mayor y primo en accidente de trenes en España",
-      "link": "https://laverdad.com/nina-de-6-anos-pierde-a-padres-hermano-mayor-y-primo-en-accidente-de-trenes-en-espana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias-2-1.jpg"
+      "title": "Andrés Velásquez sale de la clandestinidad y pide “acelerar” la transición a la democracia",
+      "link": "https://laverdad.com/andres-velasquez-sale-de-la-clandestinidad-y-pide-acelerar-la-transicion-a-la-democracia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias-3.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Traumas de EE. UU. con Irak y Afganistán favorecen a Delcy: “Evitan una Somalia con petróleo”",
-      "link": "https://diarioversionfinal.com/politica-dinero/traumas-de-ee-uu-con-irak-y-afganistan-favorecen-a-delcy-evitan-una-somalia-con-petroleo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/293749-750x430.jpg"
+      "title": "Destruyen “megalaboratorio” del ELN, cuya droga salía al Lago de Maracaibo por serranía de Perijá",
+      "link": "https://diarioversionfinal.com/mundo/destruyen-megalaboratorio-del-eln-cuya-droga-salia-al-lago-de-maracaibo-por-serrania-de-perija/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-19-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T20:25:35.908Z"
+  "lastUpdate": "2026-01-19T21:20:37.364Z"
 };
