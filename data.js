@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "439,00"
+      "usdt": "446,56"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIRAL: Los emotivos videos de animales rescatados tras los devastadores incendios forestales en Chile",
-      "link": "https://caraotadigital.net/mundo/viral-los-emotivos-videos-de-animales-rescatados-tras-los-devastadores-incendios-forestales-en-chile/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/animales.jpg"
+      "title": "¿Nuevo Mundial? La Vinotinto participará en el torneo FIFA Series 2026 a partir de marzo, estos serán sus rivales",
+      "link": "https://caraotadigital.net/deportes/nuevo-mundial-la-vinotinto-participara-en-el-torneo-fifa-series-2026-a-partir-de-marzo-estos-seran-sus-rivales/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/09/Vinotinto-eliminatorias-AFP-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Presidente iraní advierte a EE.UU. de que atacar a Jameneí sería “una guerra total”",
-      "link": "https://laverdad.com/presidente-irani-advierte-a-ee-uu-de-que-atacar-a-jamenei-seria-una-guerra-total/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Jorge-Abreu-Vuelta-Tachira.jpg"
+      "title": "Pagan el estipendio de Somos Venezuela de enero por Patria",
+      "link": "https://laverdad.com/pagan-el-estipendio-de-somos-venezuela-de-enero-por-patria/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Valentino-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Hasta $ 1,58 ganan profesores universitarios a pesar de “19 trimestres de crecimiento consecutivo” en Venezuela",
-      "link": "https://diarioversionfinal.com/ciudad/hasta-158-ganan-profesores-universitarios-a-pesar-de-19-trimestres-de-crecimiento-consecutivo-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Padrino-Lopez-17-01-2026-750x430.jpg"
+      "title": "Traumas de EE. UU. con Irak y Afganistán favorecen a Delcy: “Evitan una Somalia con petróleo”",
+      "link": "https://diarioversionfinal.com/politica-dinero/traumas-de-ee-uu-con-irak-y-afganistan-favorecen-a-delcy-evitan-una-somalia-con-petroleo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Soy-Referee-2025-05-07T124027.956-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-19T17:24:07.517Z"
+  "lastUpdate": "2026-01-19T18:33:53.844Z"
 };
