@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Zona-7-18-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T04:53:00.957Z"
+  "lastUpdate": "2026-01-19T05:32:05.001Z"
 };
