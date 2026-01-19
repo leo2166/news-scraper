@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "423,99"
+      "usdt": "441,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Familiares de los mexicanos secuestrados por el régimen en Venezuela denuncian violación de derechos humanos y terror psicológico",
-      "link": "https://www.infobae.com/venezuela/2026/01/19/familiares-de-los-mexicanos-secuestrados-por-el-regimen-en-venezuela-denuncian-violacion-de-derechos-humanos-y-terror-psicologico/",
-      "image": "https://www.infobae.com/resizer/v2/DI5X4LGEGFBF7OXQNNXO7D4APU.jpeg?auth=00660617f3504e2c22ed4a7f5f70f80505bc7e6e60d0deedd83de68ca0cf2d5a&smart=true&width=350&height=197&quality=85"
+      "title": "Diputados venezolanos exigieron la excarcelación de todos los presos políticos: “Las libertades tienen que ser plenas”",
+      "link": "https://www.infobae.com/venezuela/2026/01/19/diputados-venezolanos-exigieron-la-excarcelacion-de-todos-los-presos-politicos-las-libertades-tienen-que-ser-plenas/",
+      "image": "https://www.infobae.com/resizer/v2/S7COU6QEKVHBHNUDY7QLWYBJEA.JPG?auth=72f0aaea46b338390a66b7c52f12dcb86f596edca30b81790af83912651bef24&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Reino Unido entregará el oro venezolano depositado en el Banco de Inglaterra? Esto dice el gobierno británico",
-      "link": "https://caraotadigital.net/mundo/reino-unido-entregara-el-oro-venezolano-depositado-en-el-banco-de-inglaterra-esto-dice-el-gobierno-britanico/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/07/imageoro28923892.jpg"
+      "title": "Los perturbadores detalles de la muerte de un niño por desnutrición extrema, sus padres enfrentan severos cargos",
+      "link": "https://caraotadigital.net/eeuu/los-perturbadores-detalles-de-la-muerte-de-un-nino-por-desnutricion-extrema-sus-padres-enfrentan-severos-cargos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Luisiana.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MUERE EL DISEÑADOR DE MODA VALENTINO GARAVANI A LOS 93 AÑOS",
-      "link": "https://noticierodigital.com/2026/01/muere-el-disenador-de-moda-valentino-garavani-a-los-93-anos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-22-627x376.jpg"
+      "title": "EL USDT SE DESPLOMA 40% EN VENEZUELA EN APENAS DOS SEMANAS ",
+      "link": "https://noticierodigital.com/2026/01/el-usdt-se-desploma-40-en-venezuela-en-apenas-dos-semanas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/06/criptomonedas-venezuela.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Destruyen “megalaboratorio” del ELN, cuya droga salía al Lago de Maracaibo por serranía de Perijá",
-      "link": "https://diarioversionfinal.com/mundo/destruyen-megalaboratorio-del-eln-cuya-droga-salia-al-lago-de-maracaibo-por-serrania-de-perija/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-19-01-2026-750x430.jpg"
+      "title": "Sombra de la traición crece en la Fanb por inacción de defensas antiaéreas el #3Ene",
+      "link": "https://diarioversionfinal.com/politica-dinero/sombra-de-la-traicion-crece-en-la-fanb-por-inaccion-de-defensas-antiaereas-el-3ene/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Yessica-Duran-19-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T21:20:37.364Z"
+  "lastUpdate": "2026-01-19T22:22:34.690Z"
 };
