@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "450,69"
+      "usdt": "439,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "ConocoPhillips evalúa con cautela posibles inversiones en Venezuela: reclaman deuda de 12.000 millones de dólares\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/conocophillips-evalua-con-cautela-inversiones-en-venezuela/",
+      "title": "Cerca de 80% de los venezolanos votaría por María Corina Machado en unas elecciones presidenciales\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/la-mayoria-de-venezolanos-votaria-por-maria-corina-machado/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Ya en Gaceta Oficial: Importaciones de combustible quedan exoneradas de impuestos, sepa por cuánto tiempo",
-      "link": "https://caraotadigital.net/venezuela/ya-en-gaceta-oficial-importaciones-de-combustible-quedan-exoneradas-de-impuestos-sepa-por-cuanto-tiempo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2024/12/Gaceta.jpg"
+      "title": "VIRAL: Los emotivos videos de animales rescatados tras los devastadores incendios forestales en Chile",
+      "link": "https://caraotadigital.net/mundo/viral-los-emotivos-videos-de-animales-rescatados-tras-los-devastadores-incendios-forestales-en-chile/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/animales.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LULA CONSIDERA QUE LA CAPTURA DE MADURO «AMENAZA LA ESTABILIDAD GLOBAL»",
-      "link": "https://noticierodigital.com/2026/01/lula-considera-que-la-captura-de-maduro-amenaza-la-estabilidad-global/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/luiz-inacio-lula-da-silva-627x376.jpg"
+      "title": "TAMARA HERRERA ESTIMA QUE VENTAS DE CRUDO A EE. UU. APORTEN $12.000 MILLONES ADICIONALES",
+      "link": "https://noticierodigital.com/2026/01/tamara-herrera-estima-que-ventas-de-crudo-a-ee-uu-aporten-12-000-millones-adicionales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/tamara_herrera-e1603288669194.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Presidente de Groenlandia reitera que no se dejarán presionar por amenazas de EE. UU.",
-      "link": "https://laverdad.com/presidente-de-groenlandia-reitera-que-no-se-dejaran-presionar-por-amenazas-de-ee-uu/",
+      "title": "Presidente iraní advierte a EE.UU. de que atacar a Jameneí sería “una guerra total”",
+      "link": "https://laverdad.com/presidente-irani-advierte-a-ee-uu-de-que-atacar-a-jamenei-seria-una-guerra-total/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Jorge-Abreu-Vuelta-Tachira.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Hasta $ 1,58 ganan profesores universitarios a pesar de “19 trimestres de crecimiento consecutivo” en Venezuela",
       "link": "https://diarioversionfinal.com/ciudad/hasta-158-ganan-profesores-universitarios-a-pesar-de-19-trimestres-de-crecimiento-consecutivo-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-19-at-10.49.40-AM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Padrino-Lopez-17-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T16:31:10.306Z"
+  "lastUpdate": "2026-01-19T17:24:07.517Z"
 };
