@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "452,00"
+      "usdt": "470,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,8 +14,8 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado aplaudió la resistencia de los familiares de presos políticos en Venezuela que exigen las liberaciones frente a las cárceles",
-      "link": "https://www.infobae.com/venezuela/2026/01/19/maria-corina-machado-aplaudio-la-resistencia-de-los-familiares-de-presos-politicos-en-venezuela-que-exigen-las-liberaciones-frente-a-las-carceles/",
+      "title": "EN VIVO | María Corina Machado aplaudió a los familiares de presos políticos que exigen las liberaciones frente a las cárceles de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/19/transicion-en-venezuela-en-vivo/",
       "image": "https://www.infobae.com/resizer/v2/VHCZEJZFZBCUPFMPGIFA7LYH6Q.JPG?auth=ef64846a0c492eb3617381a4a6216067c857b406503eed124a6a2aeaa1715aa6&smart=true&width=350&height=197&quality=85"
     },
     {
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Al menos 21 muertos por accidente de trenes de alta velocidad en España",
+      "title": "Al menos 39 muertos por accidente de trenes de alta velocidad en España",
       "link": "https://cnnespanol.cnn.com/2026/01/18/mundo/accidente-descarrilamiento-trenes-alta-velocidad-muertos-espana-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-01-18t213151z-694020093-rc2x3jake87p-rtrmadp-3-spain-accident-train-20260118231151208.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Zona-7-18-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T06:40:21.174Z"
+  "lastUpdate": "2026-01-19T07:29:44.412Z"
 };
