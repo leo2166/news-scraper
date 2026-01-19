@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Cómo impactó la captura de Maduro en la Fuerza Armada de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/18/como-impacto-la-captura-de-maduro-en-el-seno-interno-de-la-fuerza-armada-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/NJR5EDUA65HJLA6L47HLZQNXZM.jpg?auth=5220de9d0231ff7563c60c218b4a81e4752dcf898561742dd47b6befee5cffa8&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado aplaudió la resistencia de los familiares de presos políticos en Venezuela que exigen las liberaciones frente a las cárceles",
+      "link": "https://www.infobae.com/venezuela/2026/01/19/maria-corina-machado-aplaudio-la-resistencia-de-los-familiares-de-presos-politicos-en-venezuela-que-exigen-las-liberaciones-frente-a-las-carceles/",
+      "image": "https://www.infobae.com/resizer/v2/VHCZEJZFZBCUPFMPGIFA7LYH6Q.JPG?auth=ef64846a0c492eb3617381a4a6216067c857b406503eed124a6a2aeaa1715aa6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Zona-7-18-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-19T03:51:33.811Z"
+  "lastUpdate": "2026-01-19T04:53:00.957Z"
 };
