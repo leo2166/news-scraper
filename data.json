@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "344,51",
-      "eur": "400,49"
+      "usd": "347,26",
+      "eur": "407,17"
     },
     "binance": {
-      "usdt": "471,00"
+      "usdt": "470,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "“Te entrego mi vida por la libertad de mi hijo”: el desgarrador mensaje de la madre de un preso político venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/01/20/te-entrego-mi-vida-por-la-libertad-de-mi-hijo-el-desgarrador-mensaje-de-la-madre-de-un-preso-politico-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/ZCP6MSX7LBAYHJLZXDNSAVBFQI.gif?auth=c6d97e87b80ebb5f204c313b2b2cefa9a91850d825045e18b7d5084fbc7a0e7d&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump dijo que evalúa involucrar a María Corina Machado en la transición de Venezuela: “Estamos hablando con ella”",
+      "link": "https://www.infobae.com/venezuela/2026/01/20/donald-trump-dijo-que-evalua-involucrar-a-maria-corina-machado-en-la-transicion-de-venezuela-estamos-hablando-con-ella/",
+      "image": "https://www.infobae.com/resizer/v2/2GUY2XTDBZFZBJAAMWECAHBF7E.jpg?auth=f411ab5481c4b23543013d64268611c14997da8224eeb148139fad04976fa725&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Teleférico de Mérida cerró sus puertas por «mantenimiento mayor»",
-      "link": "https://caraotadigital.net/venezuela/teleferico-de-merida-cerro-sus-puertas-por-mantenimiento-mayor/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/01/Teleferico-de-Merida-2-1-e1679000320347-150x150.jpg"
+      "title": "La seria amenaza de Trump por negativa de Macron de integrar “Consejo de Paz” para supervisar Gaza",
+      "link": "https://caraotadigital.net/eeuu/la-seria-amenaza-de-trump-por-negativa-de-macron-de-integrar-consejo-de-paz-para-supervisar-gaza/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-MACRON.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que “tal vez podría involucrar” a María Corina en sus planes con Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-tal-vez-podria-involucrar-a-maria-corina-en-sus-planes-con-venezuela/",
+      "title": "Camilo Castro, expreso político francés, denuncia que fue abusado sexualmente por agente de Dgcim en Maracaibo",
+      "link": "https://diarioversionfinal.com/politica-dinero/camilo-castro-expreso-politico-frances-denuncia-que-fue-abusado-sexualmente-por-agente-de-dgcim-en-maracaibo/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/jorge-rodriguez-5-de-julio-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T21:21:46.748Z"
+  "lastUpdate": "2026-01-20T22:23:54.551Z"
 }
