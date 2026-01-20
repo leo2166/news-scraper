@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "431,69"
+      "usdt": "470,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,7 +14,7 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Edmundo González denunció que la liberación de su yerno fue utilizada como instrumento de extorsión en Venezuela",
+      "title": "Edmundo González denunció que el secuestro de su yerno fue utilizado como instrumento de extorsión en Venezuela",
       "link": "https://www.infobae.com/venezuela/2026/01/20/edmundo-gonzalez-denuncio-que-la-liberacion-de-su-yerno-fue-utilizada-como-instrumento-de-extorsion-en-venezuela/",
       "image": "https://www.infobae.com/resizer/v2/RVO3KMCI2RHSXNC3XT3P3476OE.jpg?auth=734ebb54415f06e7f90f470669d8fd28b6fe4eca310358e0021b25fb528aae50&smart=true&width=350&height=197&quality=85"
     },
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Dos cambios más: Estos son los nuevos movimientos que hizo Delcy Rodríguez en el gabinete ministerial",
-      "link": "https://caraotadigital.net/venezuela/dos-cambios-mas-estos-son-los-nuevos-movimientos-que-hizo-delcy-rodriguez-en-el-gabinete-ministerial/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Delcy-4.jpg"
+      "title": "Los cinco aspectos claves para entender la intervención cambiaria que se realizará esta semana",
+      "link": "https://caraotadigital.net/venezuela/los-cinco-aspectos-claves-para-entender-la-intervencion-cambiaria-que-se-realizara-esta-semana/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/intervencion.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno designa a Aníbal Bellorín como nuevo presidente de Conviasa",
-      "link": "https://laverdad.com/gobierno-designa-a-anibal-bellorin-como-nuevo-presidente-de-conviasa/",
+      "title": "Capturan en Caracas a alias “Niño Rata”, exintegrante de la banda “El Koki”",
+      "link": "https://laverdad.com/capturan-en-caracas-a-alias-nino-rata-exintegrante-de-la-banda-el-koki/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Lipso-Nava-Aguilas-del-Zulia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Familiares claman por excarcelaciones tras 12 noches de vigilias frente a centros penitenciarios",
-      "link": "https://diarioversionfinal.com/politica-dinero/familiares-claman-por-excarcelaciones-tras-12-noches-de-vigilias-frente-a-centros-penitenciarios/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/descarga-7-750x430.jpg"
+      "title": "Asdrúbal Oliveros sobre expectativa tras intervención cambiaria: “La oferta de divisas para minoristas será limitada”",
+      "link": "https://diarioversionfinal.com/politica-dinero/asdrubal-oliveros-sobre-expectativa-tras-intervencion-cambiaria-la-oferta-de-divisas-para-minoristas-sera-limitada/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Clippve-presos-politicos-17-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T13:48:20.308Z"
+  "lastUpdate": "2026-01-20T14:32:10.231Z"
 };
