@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "438,69"
+      "usdt": "418,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "15 días de Delcy Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/01/20/15-dias-de-delcy-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/NNJD4TZJCFDNJAHO7C7RYK76DA.jpg?auth=e9db1f487cb80566e22f92d3f3aa5ccc4b5713315445711bf5722366f33f2ed7&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez le quitó a Álex Saab el último cargo que tenía en el gobierno de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/20/delcy-rodriguez-le-quito-a-alex-saab-el-ultimo-cargo-que-tenia-en-el-gobierno-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/NMK2YQW3TWTG6SEDLYUYXPERGI.jpg?auth=090f8bf57ce27cb5302d562d3184ab85f43894d8f68b45e0cf423feac0ef13f6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Se afianza la relación de Trump con Delcy Rodríguez",
-      "link": "https://cnnespanol.cnn.com/2026/01/19/venezuela/delcy-rodriguez-maria-corina-machado-trump-relacion-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/machado-trump-delcy.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Aun sin Maduro, la diáspora venezolana sigue dudando en volver",
+      "link": "https://cnnespanol.cnn.com/2026/01/20/venezuela/diaspora-venezolana-cuantos-donde-edad-8-millones-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/venezuela-diaspora-thumbnail.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/700f96e6-5bad-484c-b5a2-7048bd4cdd33-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T10:29:04.846Z"
+  "lastUpdate": "2026-01-20T11:24:26.888Z"
 };
