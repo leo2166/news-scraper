@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "453,79"
+      "usdt": "459,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "«Venimos a pedir respuestas»: Familiares de presos políticos protestaron frente al Ministerio Público y exigen liberaciones",
-      "link": "https://caraotadigital.net/venezuela/venimos-a-pedir-respuestas-familiares-de-presos-politicos-protestaron-frente-al-ministerio-publico-y-exigen-liberaciones/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presos-10.jpg"
+      "title": "Trump calificó a María Corina como «muy respetable», pero esto aclaró sobre el Premio Nobel",
+      "link": "https://caraotadigital.net/eeuu/trump-califico-a-maria-corina-como-muy-respetable-pero-esto-aclaro-sobre-el-premio-nobel/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/trump-y-mcm.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NYT: EL REGRESO A CASA DEL PRESO POLÍTICO ÁNGEL GODOY ",
-      "link": "https://noticierodigital.com/2026/01/nyt-el-regreso-a-casa-del-preso-politico-angel-godoy/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-2-6-627x376.jpg"
+      "title": "EL PAÍS: ANALISTAS EXPLICAN LA INCIERTA TRANSICIÓN EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/el-pais-analistas-explican-la-incierta-transicion-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/ministerio-de-counicacion-e-informacion-bandera-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno tilda de “fake” el mapa compartido por Trump con bandera estadounidense",
-      "link": "https://laverdad.com/gobierno-tilda-de-fake-el-mapa-compartido-por-trump-con-bandera-estadounidense/",
+      "title": "Machado exige “desmontar la estructura represiva y los centros de tortura”",
+      "link": "https://laverdad.com/machado-exige-desmontar-la-estructura-represiva-y-los-centros-de-tortura/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Oswaldo-Vizcarrondo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ecoanalítica calcula colocación inicial de $150 millones este #20Ene en mercado cambiario",
-      "link": "https://diarioversionfinal.com/politica-dinero/ecoanalitica-calcula-colocacion-inicial-de-150-millones-este-20ene-en-mercado-cambiario/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/G_HQIitXcAA4FSQ-750x430.jpg"
+      "title": "Colombia analiza importar gas venezolano si EE. UU. alivia sanciones",
+      "link": "https://diarioversionfinal.com/mundo/colombia-analiza-importar-gas-venezolano-si-ee-uu-alivia-sanciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/12/dolarizacion_banca_venezuela_668-668x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T17:30:48.544Z"
+  "lastUpdate": "2026-01-20T18:38:08.569Z"
 };
