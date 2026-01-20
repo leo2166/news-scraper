@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "447,00"
+      "usdt": "471,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado pidió que la libertad de los presos políticos sea la prioridad de Venezuela en este momento",
-      "link": "https://www.infobae.com/venezuela/2026/01/20/maria-corina-machado-pidio-que-la-libertad-de-los-presos-politicos-sea-la-prioridad-de-venezuela-en-este-momento/",
-      "image": "https://www.infobae.com/resizer/v2/YAYQBOMF2FFXNE74CYJXYTT5AM.jpg?auth=c358fe807d719070c482f3fc2f69a1ebcae89d027ac3f554b2bebf27923b234d&smart=true&width=350&height=197&quality=85"
+      "title": "“Te entrego mi vida por la libertad de mi hijo”: el desgarrador mensaje de la madre de un preso político venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/01/20/te-entrego-mi-vida-por-la-libertad-de-mi-hijo-el-desgarrador-mensaje-de-la-madre-de-un-preso-politico-venezolano/",
+      "image": "https://www.infobae.com/resizer/v2/ZCP6MSX7LBAYHJLZXDNSAVBFQI.gif?auth=c6d97e87b80ebb5f204c313b2b2cefa9a91850d825045e18b7d5084fbc7a0e7d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,28 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump dice que «ama a Venezuela» y nuevamente se refirió a María Corina Machado al conmemorar primer año de su segundo mandato",
-      "link": "https://caraotadigital.net/eeuu/trump-dice-que-ama-a-venezuela-y-nuevamente-se-refirio-a-maria-corina-machado-al-conmemorar-primer-ano-de-su-segundo-mandato/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MARIA-CORINA-TRUMP.jpg"
+      "title": "Teleférico de Mérida cerró sus puertas por «mantenimiento mayor»",
+      "link": "https://caraotadigital.net/venezuela/teleferico-de-merida-cerro-sus-puertas-por-mantenimiento-mayor/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2023/01/Teleferico-de-Merida-2-1-e1679000320347-150x150.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "GIL TILDÓ DE «DELIRANTES» LOS COMENTARIOS DE MILEI SOBRE MADURO",
+      "link": "https://noticierodigital.com/2026/01/gil-tildo-de-delirantes-los-comentarios-de-milei-sobre-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/yvan-gil-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Declaran desierta licitación para la segunda línea del Metro de Bogotá: ¿qué pasará ahora?",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/declaran-desierta-licitacion-para-la-segunda-linea-del-metro-de-bogota-que-pasara-ahora-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e047bc8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F25%2F68%2F3ea97b2e481c9c38d1ad586f5e26%2Fsegunda-linea-del-metro.jpg"
+      "title": "Gobierno publica decreto que elimina prima especial de cerca de $16 millones para los congresistas",
+      "link": "https://www.noticiascaracol.com/politica/gobierno-publica-decreto-que-elimina-prima-especial-de-cerca-de-16-millones-para-los-congresistas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fb2de43/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa2%2Fab%2F9d7a71a9489baf04a2efe9712b7d%2Fcongreso-prima.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Informan “delicado estado de salud” de preso político marabino recluido en Boleíta",
-      "link": "https://laverdad.com/informan-delicado-estado-de-salud-de-preso-politico-marabino-recluido-en-boleita/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Oswaldo-Vizcarrondo.jpg"
+      "title": "Trump acusa a Maduro de “matar” con drogas a “millones de personas” en EE. UU.",
+      "link": "https://laverdad.com/trump-acusa-a-maduro-de-matar-con-drogas-a-millones-de-personas-en-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/The-Beauty.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Trump asegura que “tal vez podría involucrar” a María Corina en sus planes con Venezuela",
       "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-tal-vez-podria-involucrar-a-maria-corina-en-sus-planes-con-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/1200x800-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/jorge-rodriguez-5-de-julio-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T20:13:06.772Z"
+  "lastUpdate": "2026-01-20T21:21:46.748Z"
 };
