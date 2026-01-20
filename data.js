@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "420,00"
+      "usdt": "440,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Tras las excarcelaciones ordenadas por el régimen, Foro Penal cifró en 777 los presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/20/tras-las-excarcelaciones-ordenadas-por-el-regimen-foro-penal-cifro-en-777-los-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/2PXQZXTLRJFKVOKB4WH25PCZHM.jpg?auth=4b721c3d3c4f9606d4aff359379dba73a4a09272b154da2c85e908e73fc7b7d8&smart=true&width=350&height=197&quality=85"
+      "title": "15 días de Delcy Rodríguez",
+      "link": "https://www.infobae.com/venezuela/2026/01/20/15-dias-de-delcy-rodriguez/",
+      "image": "https://www.infobae.com/resizer/v2/NNJD4TZJCFDNJAHO7C7RYK76DA.jpg?auth=e9db1f487cb80566e22f92d3f3aa5ccc4b5713315445711bf5722366f33f2ed7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/700f96e6-5bad-484c-b5a2-7048bd4cdd33-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T06:37:51.003Z"
+  "lastUpdate": "2026-01-20T07:28:54.014Z"
 };
