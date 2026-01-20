@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "400,49"
     },
     "binance": {
-      "usdt": "440,00"
+      "usdt": "420,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-Guerra-CD-2.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ANÍBAL BELLORÍN ASUMIÓ LA PRESIDENCIA DE CONVIASA EN SUSTITUCIÓN DE VELÁSQUEZ ARAGUAYÁN",
+      "link": "https://noticierodigital.com/2026/01/anibal-bellorin-asumio-la-presidencia-de-conviasa-en-sustitucion-de-velasquez-araguayan/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Anibal-Bellorin-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Niña de 6 años perdió a sus padres y su hermano en choque de trenes en España: fue hallada en la vía",
       "link": "https://www.noticiascaracol.com/mundo/nina-de-6-anos-perdio-a-sus-padres-y-su-hermano-en-choque-de-trenes-en-espana-fue-hallada-en-la-via-rg10",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/700f96e6-5bad-484c-b5a2-7048bd4cdd33-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T05:29:20.029Z"
+  "lastUpdate": "2026-01-20T06:37:51.003Z"
 };
