@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "Halliburton activó búsqueda de personal calificado para su posible retorno a Venezuela",
+      "title": "HALLIBURTON ACTIVÓ BÚSQUEDA DE PERSONAL CALIFICADO PARA SU POSIBLE RETORNO A VENEZUELA",
       "link": "https://noticierodigital.com/2026/01/halliburton-activo-busqueda-de-personal-calificado-para-su-posible-retorno-a-venezuela/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Halliburton-eeuu-627x376.jpg"
     },
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "El audio de las cajas negras de los trenes que chocaron en España: algo ocurre en la comunicación",
       "link": "https://diarioversionfinal.com/mundo/el-audio-de-las-cajas-negras-de-los-trenes-que-chocaron-en-espana-algo-ocurre-en-la-comunicacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-20-at-10.06.55-PM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Kogqknm5-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-21T09:33:45.667Z"
+  "lastUpdate": "2026-01-21T10:30:02.212Z"
 };
