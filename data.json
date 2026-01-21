@@ -5,7 +5,7 @@
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "480,89"
+      "usdt": "479,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La inmutable capacidad de Putin para abandonar a sus aliados",
-      "link": "https://www.infobae.com/america/mundo/2026/01/21/la-inmutable-capacidad-de-putin-para-abandonar-a-sus-aliados/",
-      "image": "https://www.infobae.com/resizer/v2/XRZ6B6DRXZEBBP54XOXGI4WOW4.JPG?auth=c2fb55373ae0c775397d31f72d170c539309059cff3ba294f5264c218aa04fa1&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump aseguró que Venezuela liberó a “muchos presos políticos”",
+      "link": "https://www.infobae.com/venezuela/2026/01/21/donald-trump-aseguro-que-venezuela-libero-a-muchos-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/MQAHAYE4NJC7VOOUTPNVGNHTZM.jpg?auth=bac0096b891272fab5bfb24f3e8cc49b5a1363696adb7a29dccb3ad810e1b35c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -27,8 +27,8 @@
     {
       "source": "CNN en Español",
       "title": "A Trump le espera una intervención diplomática en Davos",
-      "link": "https://cnnespanol.cnn.com/2026/01/20/mundo/trump-intervencion-diplomatica-groenlandia-davos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26020746171932-20260120212913535-20260121032430070.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/discurso-trump-davos-groenlandia-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260121103306356.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,20 +38,20 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "HALLIBURTON ACTIVÓ BÚSQUEDA DE PERSONAL CALIFICADO PARA SU POSIBLE RETORNO A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/halliburton-activo-busqueda-de-personal-calificado-para-su-posible-retorno-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Halliburton-eeuu-627x376.jpg"
+      "title": "AVIÓN DE TRUMP SUFRE DESPERFECTO CUANDO VIAJABA A DAVOS",
+      "link": "https://noticierodigital.com/2026/01/avion-de-trump-sufre-desperfecto-cuando-viajaba-a-davos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/Trump_78209-1-2-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Mujer y sus tres hijos fueron hallados muertos en su casa en Tiquisio, Bolívar: esto se sabe",
-      "link": "https://www.noticiascaracol.com/colombia/mujer-y-sus-tres-hijos-fueron-hallados-muertos-en-su-casa-en-tiquisio-bolivar-esto-se-sabe-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/417606f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8b%2F5f%2F927d65324886abc4a84b3d398607%2Fmovilidad-bogota-2026-01-20t210242-702.jpg"
+      "title": "Este fue el lugar donde hallaron cuerpo del profesor Neill Cubides, víctima de homicidio en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/este-fue-el-lugar-donde-hallaron-cuerpo-del-profesor-neill-cubides-victima-de-homicidio-en-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2bf62c7/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fda%2Fab%2F2b7107ef4605a732b41f7ce6ceb1%2Fprofesor-neill-felipe-cubides.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump acusa a Maduro de “matar” con drogas a “millones de personas” en EE. UU.",
-      "link": "https://laverdad.com/trump-acusa-a-maduro-de-matar-con-drogas-a-millones-de-personas-en-ee-uu/",
+      "title": "EE. UU. incauta el buque “Sagitta” en el Caribe, parte de la “flota fantasma” venezolana",
+      "link": "https://laverdad.com/ee-uu-incauta-el-buque-sagitta-en-el-caribe-parte-de-la-flota-fantasma-venezolana/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/The-Beauty.jpg"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Kogqknm5-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-21T11:24:58.699Z"
+  "lastUpdate": "2026-01-21T12:52:13.074Z"
 }
