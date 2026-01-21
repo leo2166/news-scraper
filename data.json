@@ -5,7 +5,7 @@
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "479,87"
+      "usdt": "482,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "A Trump le espera una intervención diplomática en Davos",
+      "title": "Trump llega a Suiza en medio de las tensiones por Groenlandia",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/discurso-trump-davos-groenlandia-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260121103306356.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Niña de 13 años saltó del icónico puente de Brooklyn: Acusan a instituciones de ignorar alertas",
-      "link": "https://caraotadigital.net/eeuu/nina-de-13-anos-salta-del-iconico-puente-de-brooklyn-acusan-a-instituciones-de-ignorar-alertas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/puente-de-Brooklyn.jpg"
+      "title": "¿EEUU usó armas sónicas en Venezuela? La revelación de Trump durante una entrevista",
+      "link": "https://caraotadigital.net/eeuu/eeuu-uso-armas-sonicas-en-venezuela-la-revelacion-de-trump-durante-una-entrevista/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-5.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. incauta el buque “Sagitta” en el Caribe, parte de la “flota fantasma” venezolana",
-      "link": "https://laverdad.com/ee-uu-incauta-el-buque-sagitta-en-el-caribe-parte-de-la-flota-fantasma-venezolana/",
+      "title": "Hernán Canorea pasa de “El Mazo” a sustituir a Freddy Ñáñez en la presidencia de VTV",
+      "link": "https://laverdad.com/hernan-canorea-pasa-de-el-mazo-a-sustituir-a-freddy-nanez-en-la-presidencia-de-vtv/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/The-Beauty.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El audio de las cajas negras de los trenes que chocaron en España: algo ocurre en la comunicación",
-      "link": "https://diarioversionfinal.com/mundo/el-audio-de-las-cajas-negras-de-los-trenes-que-chocaron-en-espana-algo-ocurre-en-la-comunicacion/",
+      "title": "Conozca el decálogo de organizaciones de DD. HH. para validar la transición democrática en Venezuela",
+      "link": "https://diarioversionfinal.com/politica-dinero/conozca-el-decalogo-de-organizaciones-de-dd-hh-para-validar-la-transicion-democratica-en-venezuela/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Kogqknm5-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-21T12:52:13.074Z"
+  "lastUpdate": "2026-01-21T13:46:38.637Z"
 }
