@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "479,89"
+      "usdt": "478,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HALLIBURTON ACTIVÓ BÚSQUEDA DE PERSONAL CALIFICADO PARA SU POSIBLE RETORNO A VENEZUELA",
+      "title": "Halliburton activó búsqueda de personal calificado para su posible retorno a Venezuela",
       "link": "https://noticierodigital.com/2026/01/halliburton-activo-busqueda-de-personal-calificado-para-su-posible-retorno-a-venezuela/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Halliburton-eeuu-627x376.jpg"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-20-at-10.06.55-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-21T08:33:28.603Z"
+  "lastUpdate": "2026-01-21T09:33:45.667Z"
 };
