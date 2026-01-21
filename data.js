@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "487,00"
+      "usdt": "487,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,26 +32,26 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La estrategia de Estados Unidos con el petróleo venezolano, refinadores y comerciantes, según Bloomberg",
-      "link": "https://caraotadigital.net/eeuu/la-estrategia-de-estados-unidos-con-el-petroleo-venezolano-refinadores-y-comerciantes-segun-bloomberg/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/03/trumppetroleo3949056.jpg"
+      "title": "El dardo que lanzó Milei en Davos 2026 sobre las consecuencias económicas y políticas del «modelo venezolano»",
+      "link": "https://caraotadigital.net/mundo/el-dardo-que-lanzo-milei-en-davos-2026-sobre-las-consecuencias-economicas-y-politicas-del-modelo-venezolano/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Milei-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE .UU. PIDE LA LIBERACIÓN DE LOS 1.000 PRESOS POLÍTICOS QUE HAY EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/ee-uu-pide-la-liberacion-de-los-1-000-presos-politicos-que-hay-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/presos-politicos-venezuela-familiares-627x376.jpg"
+      "title": "BERNAL ADVIRTIÓ QUE IRÁN PRESOS QUIENES CELEBREN CAPTURA DE MADURO",
+      "link": "https://noticierodigital.com/2026/01/bernal-advirtio-que-iran-presos-quienes-celebren-captura-de-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/FreddyBernal_-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quiénes suenan para una tercera consulta de cara a las elecciones presidenciales?",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/quienes-suenan-para-una-tercera-consulta-de-cara-a-las-elecciones-presidenciales-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7bf7348/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fda%2F66%2F53566b12417588616c93f1fc3d9a%2Fclaudia-lopez.jpg"
+      "title": "Este es el salario de un congresista en Colombia y así quedará tras eliminación de prima especial",
+      "link": "https://www.noticiascaracol.com/politica/este-es-el-salario-de-un-congresista-en-colombia-y-asi-quedara-tras-eliminacion-de-prima-especial-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/124d092/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe7%2F06%2Fd2f107e84d95894aa855f0b232a9%2Fcongreso-de-colombia.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Supervisan mantenimiento integral en la línea de transmisión número 1 El Tablazo – Cuatricentenario",
-      "link": "https://laverdad.com/supervisan-mantenimiento-integral-en-la-linea-de-transmision-numero-1-el-tablazo-cuatricentenario/",
+      "title": "Estudiantes exigen la libertad de presos políticos universitarios",
+      "link": "https://laverdad.com/estudiantes-exigen-la-libertad-de-presos-politicos-universitarios/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Jose-Andres-Brujo-Martinez.jpg"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/UCV-presos-politicos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-21T20:32:05.227Z"
+  "lastUpdate": "2026-01-21T21:29:23.714Z"
 };
