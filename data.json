@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "347,26",
-      "eur": "407,17"
+      "usd": "349,93",
+      "eur": "409,65"
     },
     "binance": {
-      "usdt": "487,69"
+      "usdt": "487,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "El dardo que lanzó Milei en Davos 2026 sobre las consecuencias económicas y políticas del «modelo venezolano»",
-      "link": "https://caraotadigital.net/mundo/el-dardo-que-lanzo-milei-en-davos-2026-sobre-las-consecuencias-economicas-y-politicas-del-modelo-venezolano/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Milei-CD.jpg"
+      "title": "Horario de verano en Estados Unidos: el día exacto en el que se debe adelantar el reloj",
+      "link": "https://caraotadigital.net/eeuu/horario-de-verano-en-estados-unidos-el-dia-exacto-en-el-que-se-debe-adelantar-el-reloj/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/huso-horario.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BERNAL ADVIRTIÓ QUE IRÁN PRESOS QUIENES CELEBREN CAPTURA DE MADURO",
-      "link": "https://noticierodigital.com/2026/01/bernal-advirtio-que-iran-presos-quienes-celebren-captura-de-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/FreddyBernal_-627x376.jpg"
+      "title": "CAPRILES PROPUSO PAGO ÚNICO DE 150 DÓLARES FINANCIADO CON INGRESOS PETROLEROS",
+      "link": "https://noticierodigital.com/2026/01/capriles-propuso-pago-unico-de-150-dolares-financiado-con-ingresos-petroleros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/henrique-capriles-radonski-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Exportaciones de crudo venezolano alcanzan los 7,8  milones de barriles tras acuerdo con EE. UU.",
-      "link": "https://diarioversionfinal.com/politica-dinero/exportaciones-de-crudo-venezolano-alcanzan-los-78-milones-de-barriles-tras-acuerdo-con-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/UCV-presos-politicos-750x430.jpg"
+      "title": "Condenan a Alex Saab y Camila Fabri en Italia por caso de lavado de activos",
+      "link": "https://diarioversionfinal.com/politica-dinero/condenan-a-alex-saab-y-camila-fabri-en-italia-por-caso-de-lavado-de-activos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/AP26021671953132-e1769022624227-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-21T21:29:23.714Z"
+  "lastUpdate": "2026-01-21T22:26:41.538Z"
 }
