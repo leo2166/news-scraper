@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "464,00"
+      "usdt": "478,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una ONG venezolana denunció que se desconoce el paradero de al menos 200 presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/01/21/una-ong-venezolana-denuncio-que-se-desconoce-el-paradero-de-al-menos-200-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela recibió 300 millones de dólares provenientes de una venta de crudo venezolano realizada por Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/01/21/venezuela-recibio-300-millones-de-dolares-provenientes-de-una-venta-de-crudo-venezolano-realizada-por-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/BYCV5CYINFASXNOOXMUADFZIH4.jpg?auth=f6010156658c5a0536b9febc15b9df9f94b2b6832ecb826194a8cd99171c4508&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-20-at-10.06.55-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-21T04:45:38.193Z"
+  "lastUpdate": "2026-01-21T05:29:18.448Z"
 };
