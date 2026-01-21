@@ -5,7 +5,7 @@
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "477,00"
+      "usdt": "477,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Jorge Rodríguez anunció una reforma al Código Electoral de Venezuela para eliminar “trabas burocráticas”",
-      "link": "https://www.infobae.com/venezuela/2026/01/20/jorge-rodriguez-anuncio-una-reforma-al-codigo-electoral-de-venezuela-para-eliminar-trabas-burocraticas/",
-      "image": "https://www.infobae.com/resizer/v2/LQSYOORNRBFBHBNCSPF5LRGO7A.JPG?auth=52cd9c62004257200fecc23eb9d22d2f95b8b6a3fd92deda2cd7500cb21bb472&smart=true&width=350&height=197&quality=85"
+      "title": "Una ONG venezolana denunció que se desconoce el paradero de al menos 200 presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/01/21/una-ong-venezolana-denuncio-que-se-desconoce-el-paradero-de-al-menos-200-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "México envía a otros 37 presuntos criminales a EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/01/20/mexico/envio-eeuu-37-presuntos-criminales-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gf-avion.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El día que Trump regresó a la Casa Blanca y cambió el panorama del asilo",
+      "link": "https://cnnespanol.cnn.com/2026/01/20/mexico/varados-frontera-trump-peticionarios-asilo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2194424625.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO: Jorge Rodríguez insiste en normativas electorales: «Un nuevo código electoral que agrupe y simplifique los proceso»",
-      "link": "https://caraotadigital.net/venezuela/video-jorge-rodriguez-insiste-en-normativas-electorales-un-nuevo-codigo-electoral-que-agrupe-y-simplifique-los-proceso/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Rodriguez-CD-12.jpg"
+      "title": "Niña de 13 años saltó del icónico puente de Brooklyn: Acusan a instituciones de ignorar alertas",
+      "link": "https://caraotadigital.net/eeuu/nina-de-13-anos-salta-del-iconico-puente-de-brooklyn-acusan-a-instituciones-de-ignorar-alertas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/puente-de-Brooklyn.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP PLANTEÓ LA POSIBILIDAD DE INVOLUCRAR A MCM EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/trump-planteo-la-posibilidad-de-involucrar-a-mcm-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/donald-trump-venezuela-627x376.jpg"
+      "title": "MCM DESDE EL CONGRESO DE EE. UU.: «NO PUEDE HABER TRANSICIÓN CON REPRESIÓN»",
+      "link": "https://noticierodigital.com/2026/01/mcm-desde-el-congreso-de-ee-uu-no-puede-haber-transicion-con-represion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/maria-corina-machado-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Camilo Castro, expreso político francés, denuncia que fue abusado sexualmente por agente de Dgcim en Maracaibo",
-      "link": "https://diarioversionfinal.com/politica-dinero/camilo-castro-expreso-politico-frances-denuncia-que-fue-abusado-sexualmente-por-agente-de-dgcim-en-maracaibo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/jorge-rodriguez-5-de-julio-750x430.jpg"
+      "title": "Familiares de presos políticos denuncian detenciones, traslados lejanos y desapariciones ante el Min-Público",
+      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-denuncian-detenciones-traslados-lejanos-y-desapariciones-ante-el-min-publico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-20-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-20T23:23:32.870Z"
+  "lastUpdate": "2026-01-21T01:51:19.461Z"
 }
