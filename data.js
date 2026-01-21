@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "469,00"
+      "usdt": "484,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,38 +28,38 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Trump descarta uso de la fuerza para adquirir Groenlandia mientras cuestiona a la OTAN",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/discurso-trump-davos-groenlandia-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/capture-20260120085032657.JPG?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/delcy-20260121135541741.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: El impactante momento en el que una atracción colapsó en plena feria en India, 14 niños resultaron heridos",
-      "link": "https://caraotadigital.net/mundo/en-video-el-impactante-momento-en-el-que-un-columpio-colapso-en-plena-feria-en-india-14-ninos-resultaron-heridos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-21-at-12.38.55.jpeg"
+      "title": "El video que publicó el lanzador Carlos Hernández de su recuperación tras sufrir accidente en Bolívar",
+      "link": "https://caraotadigital.net/deportes/el-video-que-publico-el-lanzador-carlos-hernandez-de-su-recuperacion-tras-sufrir-accidente-en-bolivar/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/carloshernandez223.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO DE DELCY RODRÍGUEZ ES LEGÍTIMO, AFIRMÓ SECRETARIA MEXICANA DE MEDIO AMBIENTE",
-      "link": "https://noticierodigital.com/2026/01/gobierno-de-delcy-rodriguez-es-legitimo-afirmo-secretaria-mexicana-de-medio-ambiente/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260121-WA0071-627x376.jpg"
+      "title": "FRANCISCO RODRÍGUEZ DICE QUE TRUMP UTILIZA A VENEZUELA PARA LOGRAR «HEGEMONÍA ESTADOUNIDENSE»",
+      "link": "https://noticierodigital.com/2026/01/francisco-rodriguez-dice-que-trump-utiliza-a-venezuela-para-lograr-hegemonia-estadounidense/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/04/francisco-rodriguez-economista.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ecuador anuncia aranceles del 30% a Colombia por falta de \"compromiso\" para enfrentar criminales",
-      "link": "https://www.noticiascaracol.com/mundo/ecuador-anuncia-aranceles-del-30-a-colombia-por-falta-de-compromiso-para-enfrentar-criminales-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7932c27/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6d%2F80%2Fca22f2b44081a02670c5028dda4b%2Fdaniel-noboa.jpg"
+      "title": "¿Quiénes suenan para una tercera consulta de cara a las elecciones presidenciales?",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/quienes-suenan-para-una-tercera-consulta-de-cara-a-las-elecciones-presidenciales-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7bf7348/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fda%2F66%2F53566b12417588616c93f1fc3d9a%2Fclaudia-lopez.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump desde Davos: “Venezuela va a producir más dinero” en 6 meses y “le va a ir muy bien”",
-      "link": "https://laverdad.com/trump-desde-davos-venezuela-va-a-producir-mas-dinero-en-6-meses-y-le-va-a-ir-muy-bien/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Servando-y-Florentino.jpg"
+      "title": "Ivss anuncia pago de la pensión de febrero para este jueves: $0,37 a BCV",
+      "link": "https://laverdad.com/ivss-anuncia-pago-de-la-pension-de-febrero-para-este-jueves-037-a-bcv/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Blancanieves.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma en Davos que Venezuela “ganará más dinero en seis meses que en veinte años”",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-en-davos-que-venezuela-ganara-mas-dinero-en-seis-meses-que-en-veinte-anos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Raul-Biord-21-01-2026-750x430.jpg"
+      "title": "Reuters: Casa Blanca confirma próxima visita de Delcy Rodríguez a Estados Unidos",
+      "link": "https://diarioversionfinal.com/politica-dinero/reuters-casa-blanca-confirma-proxima-visita-de-delcy-rodriguez-a-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/asdrubal-oliveros-5-de-marzo-2025-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-21T16:49:04.003Z"
+  "lastUpdate": "2026-01-21T17:55:08.975Z"
 };
