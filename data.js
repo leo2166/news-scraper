@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "407,17"
     },
     "binance": {
-      "usdt": "474,79"
+      "usdt": "487,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump asegura que Venezuela ganará más dinero en seis meses que en dos décadas\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/trump-venezuela-ganara-mas-dinero-en-6-meses-que-en-decadas/",
+      "title": "En Venezuela persisten los “centros clandestinos de detención”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/en-venezuela-persisten-los-centros-clandestinos-de-detencion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que podría imaginarse pagando por Groenlandia",
+      "title": "Trump dice que logró un acuerdo sobre Groenlandia y retira la amenaza de aranceles",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/discurso-trump-davos-groenlandia-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/delcy-20260121135541741.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-y-otan.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Ventas de divisas, mercado paralelo y las criptomonedas: Las claves de la nueva dinámica cambiaria en el país",
-      "link": "https://caraotadigital.net/venezuela/ventas-de-divisas-mercado-paralelo-y-las-criptomonedas-las-claves-de-la-nueva-dinamica-cambiaria-en-el-pais/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dIVISAS.jpg"
+      "title": "La estrategia de Estados Unidos con el petróleo venezolano, refinadores y comerciantes, según Bloomberg",
+      "link": "https://caraotadigital.net/eeuu/la-estrategia-de-estados-unidos-con-el-petroleo-venezolano-refinadores-y-comerciantes-segun-bloomberg/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/03/trumppetroleo3949056.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FRANCISCO RODRÍGUEZ DICE QUE TRUMP UTILIZA A VENEZUELA PARA LOGRAR «HEGEMONÍA ESTADOUNIDENSE»",
-      "link": "https://noticierodigital.com/2026/01/francisco-rodriguez-dice-que-trump-utiliza-a-venezuela-para-lograr-hegemonia-estadounidense/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/04/francisco-rodriguez-economista.jpg"
+      "title": "EE .UU. PIDE LA LIBERACIÓN DE LOS 1.000 PRESOS POLÍTICOS QUE HAY EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/ee-uu-pide-la-liberacion-de-los-1-000-presos-politicos-que-hay-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/presos-politicos-venezuela-familiares-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a 14 y 19 meses de prisión a Álex Saab y Camila Fabri por lavado de dinero en Italia",
-      "link": "https://laverdad.com/condenan-a-14-y-19-meses-de-prision-a-alex-saab-y-camila-fabri-por-lavado-de-dinero-en-italia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Blancanieves.jpg"
+      "title": "Supervisan mantenimiento integral en la línea de transmisión número 1 El Tablazo – Cuatricentenario",
+      "link": "https://laverdad.com/supervisan-mantenimiento-integral-en-la-linea-de-transmision-numero-1-el-tablazo-cuatricentenario/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Jose-Andres-Brujo-Martinez.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reuters: Casa Blanca confirma próxima visita de Delcy Rodríguez a Estados Unidos",
-      "link": "https://diarioversionfinal.com/politica-dinero/reuters-casa-blanca-confirma-proxima-visita-de-delcy-rodriguez-a-estados-unidos/",
+      "title": "Exportaciones de crudo venezolano alcanzan los 7,8  milones de barriles tras acuerdo con EE. UU.",
+      "link": "https://diarioversionfinal.com/politica-dinero/exportaciones-de-crudo-venezolano-alcanzan-los-78-milones-de-barriles-tras-acuerdo-con-ee-uu/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/UCV-presos-politicos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-21T19:27:34.283Z"
+  "lastUpdate": "2026-01-21T20:32:05.227Z"
 };
