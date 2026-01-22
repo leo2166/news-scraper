@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "468,00"
+      "usdt": "488,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado sobre una posible candidatura presidencial: \"Yo voy a hacer lo que los venezolanos quieran\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-sobre-una-posible-candidatura-presidencial-yo-voy-a-hacer-lo-que-los-venezolanos-quieran/",
+      "title": "Excarcelaron a Rafael Tudares Bracho: \"Ha sido una lucha estoica y muy dura\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/excarcelaron-a-rafael-tudares-bracho-ha-sido-una-lucha-estoica-y-muy-dura/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/erged-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-22T09:33:55.062Z"
+  "lastUpdate": "2026-01-22T10:28:36.152Z"
 };
