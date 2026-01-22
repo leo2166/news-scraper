@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "472,00"
+      "usdt": "483,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,34 +26,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Las autoridades federales calificaron de \"terroristas domésticos\" a quienes vigilan a ICE",
-      "link": "https://cnnespanol.cnn.com/2026/01/22/eeuu/autoridades-federales-terroristas-domesticos-vigilan-ice-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-20260122091339520.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump tras su reunión con Zelensky: queda \"mucho camino por recorrer\" para poner fin a la guerra",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/trump-junta-paz-gaza-groenlandia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256949572.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Horror en Maracay: El dantesco crimen de un hombre contra ‘su amigo’, usó restos de vidrio",
-      "link": "https://caraotadigital.net/sucesos/horror-en-maracay-el-dantesco-crimen-de-un-hombre-contra-su-amigo-uso-restos-de-vidrio/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-36.jpg"
+      "title": "Liberaron al yerno de Edmundo González tras más de un año detenido, esta es su primera foto",
+      "link": "https://caraotadigital.net/venezuela/liberaron-al-yerno-de-edmundo-gonzalez-tras-mas-de-un-ano-detenido-esta-es-su-primera-foto/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Gonzalez-3.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "HAUSMANN: “SI TRUMP NO FACILITA LA TRANSICIÓN A LA DEMOCRACIA, TENDREMOS QUE OPONERNOS A SU ESTRATEGIA”",
+      "link": "https://noticierodigital.com/2026/01/hausmann-si-trump-no-facilita-la-transicion-a-la-democracia-tendremos-que-oponernos-a-su-estrategia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/06/ricardo-hausmann-22jun2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El dato que contradice versión de Zenaida Pava, la otra mujer mencionada en el caso talio",
-      "link": "https://www.noticiascaracol.com/los-informantes/el-dato-que-contradice-version-de-zenaida-pava-la-otra-mujer-mencionada-en-el-caso-talio-pr30",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f2a758a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1e%2F6c%2F237518b741c5bb97e802f50ed007%2Fddonde-estaba-zenaida-pava-el-dia-del-envenenamiento-con-talio-los-registros-que-la-situan-en-colombia.jpg"
+      "title": "Ecuador impondrá nuevas tarifas al transporte de crudo colombiano en medio de tensión comercial",
+      "link": "https://www.noticiascaracol.com/mundo/ecuador-impondra-nuevas-tarifas-al-transporte-de-crudo-colombiano-en-medio-de-tension-comercial-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ff25862/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F57%2F40%2Ff91a14c3434ea0a03991aa3891dd%2Ffrontera-colombia-y-ecuador.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Comienza el pago de la pensión de febrero: $0,37 a BCV",
-      "link": "https://laverdad.com/comienza-el-pago-de-la-pension-de-febrero-037-a-bcv/",
+      "title": "Ricardo Cussano revela que participó en la gestión de excarcelación de Rafael Tudares",
+      "link": "https://laverdad.com/ricardo-cussano-revela-que-participo-en-la-gestion-de-excarcelacion-de-rafael-tudares/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Jose-Andres-Brujo-Martinez.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Rafael Tudares es liberado tras más de un año de prisión en Venezuela",
       "link": "https://diarioversionfinal.com/politica-dinero/rafael-tudares-es-liberado-tras-mas-de-un-ano-de-prision-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/rafaeltudares-RDlyk29chvRwqqALIbaDorO-1200x840@diario_abc-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/frsd-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-22T12:52:06.291Z"
+  "lastUpdate": "2026-01-22T13:48:38.250Z"
 };
