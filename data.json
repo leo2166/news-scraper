@@ -5,7 +5,7 @@
       "eur": "413,39"
     },
     "binance": {
-      "usdt": "486,00"
+      "usdt": "485,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Escándalo en el fútbol: Tres futbolistas peruanos son acusados de abusar a una joven argentina «con acceso carnal»",
-      "link": "https://caraotadigital.net/deportes/escandalo-en-el-futbol-tres-futbolistas-peruanos-son-acusados-de-abusar-a-una-joven-argentina-con-acceso-carnal/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Futbolistas-Alianza-Lima-CD.jpg"
+      "title": "Falleció el periodista y corresponsal Walter Martínez, era recordado por su programa Dossier",
+      "link": "https://caraotadigital.net/venezuela/fallecio-el-periodista-y-corresponsal-walter-martinez-era-recordado-por-su-programa-dossier/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Walter-Martinez-CD.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "HIJO DE NICOLÁS MADURO DENUNCIÓ ANTE LA ONU LA OPERACIÓN MILITAR EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/hijo-de-nicolas-maduro-denuncio-ante-la-onu-la-operacion-militar-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/nicolas-maduro-guerra-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -43,11 +49,17 @@
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/eeaea7d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F2c%2Fc824fe384cc184e4bb92fb261e5e%2Fgerman-avila-emergencia-economica.jpg"
     },
     {
+      "source": "La Verdad",
+      "title": "AN aprueba reforma a la Ley de Hidrocarburos en primera discusión",
+      "link": "https://laverdad.com/an-aprueba-reforma-a-la-ley-de-hidrocarburos-en-primera-discusion/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Keiber-Lamadrid-West-Ham-United.jpg"
+    },
+    {
       "source": "Diario Versión Final",
-      "title": "Asamblea Nacional aprueba en primera discusión la reforma de la Ley Orgánica de Hidrocarburos",
-      "link": "https://diarioversionfinal.com/politica-dinero/asamblea-nacional-aprueba-en-primera-discusion-la-reforma-de-la-ley-organica-de-hidrocarburos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/trump-zelenskyy-putin-rt-gmh-250514_1747236410410_hpMain_2_16x9_992-750x430.jpg"
+      "title": "Trump habla sobre la administración en Venezuela: “Delcy ha demostrado un liderazgo muy fuerte”",
+      "link": "https://diarioversionfinal.com/mundo/trump-habla-sobre-la-administracion-en-venezuela-delcy-ha-demostrado-un-liderazgo-muy-fuerte/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/pdvsa-minci-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-22T22:24:07.286Z"
+  "lastUpdate": "2026-01-22T23:22:07.897Z"
 }
