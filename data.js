@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "461,89"
+      "usdt": "474,37"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Zelensky afirma que los documentos para poner fin a la guerra están \"casi listos\"",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/trump-junta-paz-gaza-groenlandia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-22t141342z-343064302-rc2e6jau5f78-rtrmadp-3-davos-meeting-20260122141728884-20260122145147240.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Elecciones en EE.UU. 2024, en vivo: Trump, Harris y voto por estados",
+      "link": "https://cnnespanol.cnn.com/2024/11/05/resultados-elecciones-eeuu-2024-quien-gana-kamala-trump-orix/",
+      "image": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/GettyImages-2182507455.jpg?quality=100&strip=info&w=460&h=260&crop=1"
     },
     {
       "source": "Caraota Digital",
-      "title": "Designan a Laura Dogu como la nueva encargada de negocios de la oficina externa de EEUU para Venezuela",
-      "link": "https://caraotadigital.net/eeuu/designan-a-laura-dogu-como-la-nueva-encargada-de-negocios-de-la-oficina-externa-de-eeuu-para-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EEUU-2.jpg"
+      "title": "Condenaron a un estudiante a 15 de prisión, había denunciado un bote de aguas negras a través de VenApp",
+      "link": "https://caraotadigital.net/venezuela/condenaron-a-un-estudiante-a-15-de-prision-habia-denunciado-un-bote-de-aguas-negras-a-traves-de-venapp/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imageestudiante21829.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SNTP INFORMÓ QUE EL ESTUDIANTE JUAN FRANCISCO ALVARADO FUE CONDENADO A 15 AÑOS DE CÁRCEL",
-      "link": "https://noticierodigital.com/2026/01/sntp-informo-que-el-estudiante-juan-francisco-alvarado-fue-condenado-a-15-anos-de-carcel/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-1-9-627x376.jpg"
+      "title": "ESTUDIANTES DE LA ULA ALZAN LA VOZ POR LA LIBERTAD DE SUS PROFESORES Y MERIDEÑOS PRESOS",
+      "link": "https://noticierodigital.com/2026/01/estudiantes-de-la-ula-alzan-la-voz-por-la-libertad-de-sus-profesores-y-meridenos-presos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260122-WA0117-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump: “La gente de Venezuela está muy satisfecha con la captura de Maduro”",
-      "link": "https://laverdad.com/trump-la-gente-de-venezuela-esta-muy-satisfecha-con-la-captura-de-maduro/",
+      "title": "Laura Dogu es la nueva jefa de la misión diplomática de EE. UU. en Venezuela",
+      "link": "https://laverdad.com/laura-dogu-es-la-nueva-jefa-de-la-mision-diplomatica-de-ee-uu-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Bad-Bunny-y-Rosalia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sube a 45 el número de fallecidos en el accidente ferroviario de Adamuz",
-      "link": "https://diarioversionfinal.com/mundo/sube-a-45-el-numero-de-fallecidos-en-el-accidente-ferroviario-de-adamuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-22-at-1.40.57-PM.jpeg"
+      "title": "El proceso de transición en Venezuela “no ha comenzado”, aseguran especialistas",
+      "link": "https://diarioversionfinal.com/politica-dinero/el-proceso-de-transicion-en-venezuela-no-ha-comenzado-aseguran-especialistas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Maduro-24-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-22T17:29:37.345Z"
+  "lastUpdate": "2026-01-22T18:34:33.057Z"
 };
