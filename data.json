@@ -5,7 +5,7 @@
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "487,50"
+      "usdt": "488,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "En Venezuela persisten los “centros clandestinos de detención”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/en-venezuela-persisten-los-centros-clandestinos-de-detencion/",
+      "title": "María Corina Machado sobre una posible candidatura presidencial: \"Yo voy a hacer lo que los venezolanos quieran\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-sobre-una-posible-candidatura-presidencial-yo-voy-a-hacer-lo-que-los-venezolanos-quieran/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que logró un acuerdo sobre Groenlandia y retira la amenaza de aranceles",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/discurso-trump-davos-groenlandia-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-y-otan.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Médico forense declara como homicidio muerte de inmigrante cubano en instalación de ICE",
+      "link": "https://cnnespanol.cnn.com/2026/01/21/eeuu/medico-forense-muerte-cubano-ice-texas-homicidio-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26016172667396-20260122030025366.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEUDA FINANCIERA DE PDVSA ASCENDIÓ A 34.580 MILLONES DE DÓLARES EN 2025",
-      "link": "https://noticierodigital.com/2026/01/deuda-financiera-de-pdvsa-ascendio-a-34-580-millones-de-dolares-en-2025/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
+      "title": "DIOSDADO CABELLO RESPALDÓ GESTIÓN «CON DIPLOMACIA Y LA VERDAD» DE DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/01/diosdado-cabello-respaldo-gestion-con-diplomacia-y-la-verdad-de-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/diosdado-cabello-venezuela-4-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cabello reitera: “Aquí no cambió nada. Quien sigue gobernando en Venezuela es la revolución”",
-      "link": "https://diarioversionfinal.com/politica-dinero/cabello-reitera-aqui-no-cambio-nada-quien-sigue-gobernando-en-venezuela-es-la-revolucion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/762dd12140d63985c4e7412e0be07609bdd27d6e-1024x683-1-750x430.jpg"
+      "title": "Dólar oficial subió 0,77 % en el día de la primera subasta de divisas petroleras",
+      "link": "https://diarioversionfinal.com/politica-dinero/dolar-oficial-subio-077-en-el-dia-de-la-primera-subasta-de-divisas-petroleras/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/erged-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-22T01:51:21.801Z"
+  "lastUpdate": "2026-01-22T03:48:34.709Z"
 }
