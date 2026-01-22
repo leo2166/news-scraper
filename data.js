@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "485,00"
+      "usdt": "468,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/erged-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-22T07:28:14.201Z"
+  "lastUpdate": "2026-01-22T08:34:12.775Z"
 };
