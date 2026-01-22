@@ -1,8 +1,8 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "349,93",
-      "eur": "409,65"
+      "usd": "352,71",
+      "eur": "413,39"
     },
     "binance": {
       "usdt": "484,00"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué el acuerdo de Trump para Groenlandia suena mucho a uno que existe desde 1951",
-      "link": "https://cnnespanol.cnn.com/2026/01/22/eeuu/trump-groenlandia-acuerdo-1951-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-trump-y-gr.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "ICE detuvo a un niño de 5 años en Minnesota y lo envió a una instalación de Texas",
+      "link": "https://cnnespanol.cnn.com/2026/01/22/eeuu/liam-conejo-ramos-nino-5-anios-preescolar-detenido-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/liam-photo-2-20260122194413614.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "El dramático momento en el que una recogepelotas se desmayó en pleno Abierto de Australia, esto hizo una tenista",
-      "link": "https://caraotadigital.net/deportes/el-dramatico-momento-en-el-que-una-recogepelotas-se-desmayo-en-pleno-abierto-de-australia-esto-hizo-una-tenista/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/RECOGEPELOTAS.jpg"
+      "title": "Trump instaló el Consejo de Paz en Davos y dice que «todos quieren ser parte»",
+      "link": "https://caraotadigital.net/eeuu/trump-instalo-el-consejo-de-paz-en-davos-y-dice-que-todos-quieren-ser-parte/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DONALD-TRUMP-2-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BALANCE DE FORO PENAL HASTA ESTE 22 DE ENERO CONTABILIZA 780 PRESOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/01/balance-de-foro-penal-hasta-este-22-de-enero-contabiliza-780-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/foro-penal-referencial-627x376.jpg"
+      "title": "EL PITAZO: PRECIO DE LA LECHE PASÓ DE $16 A $12 TRAS CAÍDA DEL DÓLAR PARALELO",
+      "link": "https://noticierodigital.com/2026/01/el-pitazo-precio-de-la-leche-paso-de-16-a-12-tras-caida-del-dolar-paralelo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/LECHE-EN-POLVO-prkk160kypf2f1xchizb24kqdml5dl5zwi92sjqjfs-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Miraflores tilda de “fake” el reporte de The Guardian sobre los hermanos Rodríguez",
-      "link": "https://laverdad.com/miraflores-tilda-de-fake-el-reporte-de-the-guardian-sobre-los-hermanos-rodriguez/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Bad-Bunny-y-Rosalia.jpg"
+      "title": "Urbaneja niega “extorsión” para excarcelar a Rafael Tudares: “Fue un recurso muy bajo”",
+      "link": "https://laverdad.com/urbaneja-niega-extorsion-para-excarcelar-a-rafael-tudares-fue-un-recurso-muy-bajo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Keiber-Lamadrid-West-Ham-United.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "El proceso de transición en Venezuela “no ha comenzado”, aseguran especialistas",
       "link": "https://diarioversionfinal.com/politica-dinero/el-proceso-de-transicion-en-venezuela-no-ha-comenzado-aseguran-especialistas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2c8b618aefa17f3c0cd305ad3093e941ef792778-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Juan-Francisco-Alvarado-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-22T19:25:34.315Z"
+  "lastUpdate": "2026-01-22T20:29:11.551Z"
 };
