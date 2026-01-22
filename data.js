@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "490,60"
+      "usdt": "487,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Diputados opositores exigieron al jefe del Parlamento chavista el acceso al texto de la reforma de Hidrocarburos",
-      "link": "https://www.infobae.com/venezuela/2026/01/21/diputados-opositores-exigieron-al-jefe-del-parlamento-chavista-el-acceso-al-texto-de-la-reforma-de-hidrocarburos/",
-      "image": "https://www.infobae.com/resizer/v2/34E7YLCPMRCA7N7ZGD356V7GE4.jpg?auth=3ac3a6a110308d8d73085513054b8966c4b6f0b6ce0bd069bf13bf17dbc8faac&smart=true&width=350&height=197&quality=85"
+      "title": "La CIDH denunció que en Venezuela siguen operando centros de detención clandestinos",
+      "link": "https://www.infobae.com/venezuela/2026/01/22/la-cidh-denuncio-que-en-venezuela-siguen-operando-centros-de-detencion-clandestinos/",
+      "image": "https://www.infobae.com/resizer/v2/HMM35RH57RBXRHNCPHO56HO5IM.jpg?auth=9d9243ecccf504c4f0ddc10e60581afebcd98512be1e821757e4cb06783321ac&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La dura advertencia que lanzó Trump a los carteles de México sobre ataques en tierra de EEUU",
-      "link": "https://caraotadigital.net/eeuu/la-dura-advertencia-que-lanzo-trump-a-los-carteles-de-mexico-sobre-ataques-en-tierra-de-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/TRUMP-7.jpg"
+      "title": "Horror en Maracay: El dantesco crimen de un hombre contra ‘su amigo’, usó restos de vidrio",
+      "link": "https://caraotadigital.net/sucesos/horror-en-maracay-el-dantesco-crimen-de-un-hombre-contra-su-amigo-uso-restos-de-vidrio/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-36.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES PROPUSO PAGO ÚNICO DE 150 DÓLARES FINANCIADO CON INGRESOS PETROLEROS",
-      "link": "https://noticierodigital.com/2026/01/capriles-propuso-pago-unico-de-150-dolares-financiado-con-ingresos-petroleros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/henrique-capriles-radonski-627x376.jpg"
+      "title": "DEUDA FINANCIERA DE PDVSA ASCENDIÓ A 34.580 MILLONES DE DÓLARES EN 2025",
+      "link": "https://noticierodigital.com/2026/01/deuda-financiera-de-pdvsa-ascendio-a-34-580-millones-de-dolares-en-2025/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Condenan a Alex Saab y Camila Fabri en Italia por caso de lavado de activos",
-      "link": "https://diarioversionfinal.com/politica-dinero/condenan-a-alex-saab-y-camila-fabri-en-italia-por-caso-de-lavado-de-activos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/cnne-1167971-que-le-sucedio-a-vladimir-putin-te-lo-explicamos-750x430.jpeg"
+      "title": "Cabello reitera: “Aquí no cambió nada. Quien sigue gobernando en Venezuela es la revolución”",
+      "link": "https://diarioversionfinal.com/politica-dinero/cabello-reitera-aqui-no-cambio-nada-quien-sigue-gobernando-en-venezuela-es-la-revolucion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/762dd12140d63985c4e7412e0be07609bdd27d6e-1024x683-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-21T23:26:38.755Z"
+  "lastUpdate": "2026-01-22T01:51:21.801Z"
 };
