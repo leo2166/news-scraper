@@ -5,7 +5,7 @@
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "488,69"
+      "usdt": "488,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Médico forense declara como homicidio muerte de inmigrante cubano en instalación de ICE",
-      "link": "https://cnnespanol.cnn.com/2026/01/21/eeuu/medico-forense-muerte-cubano-ice-texas-homicidio-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26016172667396-20260122030025366.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Las autoridades federales calificaron de \"terroristas domésticos\" a quienes vigilan a ICE",
+      "link": "https://cnnespanol.cnn.com/2026/01/22/eeuu/autoridades-federales-terroristas-domesticos-vigilan-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-20260122091339520.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/erged-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-22T10:28:36.152Z"
+  "lastUpdate": "2026-01-22T11:23:50.359Z"
 }
