@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La CIDH denunció que en Venezuela siguen operando centros de detención clandestinos",
-      "link": "https://www.infobae.com/venezuela/2026/01/22/la-cidh-denuncio-que-en-venezuela-siguen-operando-centros-de-detencion-clandestinos/",
-      "image": "https://www.infobae.com/resizer/v2/HMM35RH57RBXRHNCPHO56HO5IM.jpg?auth=9d9243ecccf504c4f0ddc10e60581afebcd98512be1e821757e4cb06783321ac&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez dijo que no tiene “temor alguno” a encarar las diferencias con EEUU y confirmó que dialoga con el Gobierno de Trump",
+      "link": "https://www.infobae.com/venezuela/2026/01/22/delcy-rodriguez-dijo-que-no-tiene-temor-alguno-a-encarar-las-diferencias-con-eeuu-y-confirmo-que-dialoga-con-el-gobierno-de-trump/",
+      "image": "https://www.infobae.com/resizer/v2/M2J3OY6255D2RDHW2L56D5HC24.jpg?auth=2261d4edbef62528b722b8b3de0d9ad93c39de55a2fb1b215f7619bf7df28992&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Este es el salario de un congresista en Colombia y así quedará tras eliminación de prima especial",
-      "link": "https://www.noticiascaracol.com/politica/este-es-el-salario-de-un-congresista-en-colombia-y-asi-quedara-tras-eliminacion-de-prima-especial-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/124d092/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe7%2F06%2Fd2f107e84d95894aa855f0b232a9%2Fcongreso-de-colombia.jpg"
+      "title": "Giro en caso del Guaviare: Medicina Legal dice que muerte de 26 personas no fue por enfrentamiento",
+      "link": "https://www.noticiascaracol.com/colombia/giro-en-caso-del-guaviare-medicina-legal-dice-que-muerte-de-26-personas-no-fue-por-enfrentamiento-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f8c337f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F94%2F97%2Fddf944fd4c189efe060ce2abae65%2Ffotos-caracol-2025-10-14t110442-893.png"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/erged-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-22T04:49:17.852Z"
+  "lastUpdate": "2026-01-22T05:29:17.695Z"
 };
