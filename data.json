@@ -5,7 +5,7 @@
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "468,00"
+      "usdt": "485,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez dijo que no tiene “temor alguno” a encarar las diferencias con EEUU y confirmó que dialoga con el Gobierno de Trump",
-      "link": "https://www.infobae.com/venezuela/2026/01/22/delcy-rodriguez-dijo-que-no-tiene-temor-alguno-a-encarar-las-diferencias-con-eeuu-y-confirmo-que-dialoga-con-el-gobierno-de-trump/",
-      "image": "https://www.infobae.com/resizer/v2/M2J3OY6255D2RDHW2L56D5HC24.jpg?auth=2261d4edbef62528b722b8b3de0d9ad93c39de55a2fb1b215f7619bf7df28992&smart=true&width=350&height=197&quality=85"
+      "title": "Rafael Tudares, yerno de Edmundo González Urrutia, fue liberado por el régimen venezolano tras pasar más de 380 días preso",
+      "link": "https://www.infobae.com/venezuela/2026/01/22/rafael-tudares-yerno-de-edmundo-gonzalez-urrutia-fue-liberado-por-el-regimen-venezolano-tras-pasar-mas-de-380-dias-preso/",
+      "image": "https://www.infobae.com/resizer/v2/K67COXHR2VCM5NVDYV2YPFECXU.jpg?auth=10b72d93de2d961216e2bc98fdf8d192e03abc9d581f4c384daf75b6e000f312&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/erged-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-22T06:36:35.811Z"
+  "lastUpdate": "2026-01-22T07:28:14.201Z"
 }
