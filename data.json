@@ -5,7 +5,7 @@
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "488,50"
+      "usdt": "472,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Rafael Tudares, yerno de Edmundo González Urrutia, fue liberado por el régimen venezolano tras pasar más de 380 días preso",
-      "link": "https://www.infobae.com/venezuela/2026/01/22/rafael-tudares-yerno-de-edmundo-gonzalez-urrutia-fue-liberado-por-el-regimen-venezolano-tras-pasar-mas-de-380-dias-preso/",
-      "image": "https://www.infobae.com/resizer/v2/K67COXHR2VCM5NVDYV2YPFECXU.jpg?auth=10b72d93de2d961216e2bc98fdf8d192e03abc9d581f4c384daf75b6e000f312&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez aseguró que los ingresos de Venezuela se incrementarán “en un 37%” en 2026",
+      "link": "https://www.infobae.com/venezuela/2026/01/22/delcy-rodriguez-aseguro-que-los-ingresos-de-venezuela-se-incrementaran-en-un-37-en-2026/",
+      "image": "https://www.infobae.com/resizer/v2/OR4SKGFSGBEPJI43YTVGSWSAUQ.jpg?auth=109efa2a905e3fbaa40ffe092e29a9e2d62e5520644a6e218f9db8999a860bdb&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,29 +37,23 @@
       "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-36.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "DIOSDADO CABELLO RESPALDÓ GESTIÓN «CON DIPLOMACIA Y LA VERDAD» DE DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/01/diosdado-cabello-respaldo-gestion-con-diplomacia-y-la-verdad-de-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/diosdado-cabello-venezuela-4-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Giro en caso del Guaviare: Medicina Legal dice que muerte de 26 personas no fue por enfrentamiento",
-      "link": "https://www.noticiascaracol.com/colombia/giro-en-caso-del-guaviare-medicina-legal-dice-que-muerte-de-26-personas-no-fue-por-enfrentamiento-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f8c337f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F94%2F97%2Fddf944fd4c189efe060ce2abae65%2Ffotos-caracol-2025-10-14t110442-893.png"
+      "title": "El dato que contradice versión de Zenaida Pava, la otra mujer mencionada en el caso talio",
+      "link": "https://www.noticiascaracol.com/los-informantes/el-dato-que-contradice-version-de-zenaida-pava-la-otra-mujer-mencionada-en-el-caso-talio-pr30",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f2a758a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1e%2F6c%2F237518b741c5bb97e802f50ed007%2Fddonde-estaba-zenaida-pava-el-dia-del-envenenamiento-con-talio-los-registros-que-la-situan-en-colombia.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Estudiantes exigen la libertad de presos políticos universitarios",
-      "link": "https://laverdad.com/estudiantes-exigen-la-libertad-de-presos-politicos-universitarios/",
+      "title": "Comienza el pago de la pensión de febrero: $0,37 a BCV",
+      "link": "https://laverdad.com/comienza-el-pago-de-la-pension-de-febrero-037-a-bcv/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Jose-Andres-Brujo-Martinez.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Dólar oficial subió 0,77 % en el día de la primera subasta de divisas petroleras",
-      "link": "https://diarioversionfinal.com/politica-dinero/dolar-oficial-subio-077-en-el-dia-de-la-primera-subasta-de-divisas-petroleras/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/erged-750x430.png"
+      "title": "Rafael Tudares es liberado tras más de un año de prisión en Venezuela",
+      "link": "https://diarioversionfinal.com/politica-dinero/rafael-tudares-es-liberado-tras-mas-de-un-ano-de-prision-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/rafaeltudares-RDlyk29chvRwqqALIbaDorO-1200x840@diario_abc-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-22T11:23:50.359Z"
+  "lastUpdate": "2026-01-22T12:52:06.291Z"
 }
