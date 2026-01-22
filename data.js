@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "478,00"
+      "usdt": "484,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dijo que queda \"mucho camino por recorrer\" para poner fin a la guerra tras reunión con Zelensky",
+      "title": "Zelensky afirma que los documentos para poner fin a la guerra están \"casi listos\"",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/trump-junta-paz-gaza-groenlandia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256949572.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-22t141342z-343064302-rc2e6jau5f78-rtrmadp-3-davos-meeting-20260122141728884-20260122145147240.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "El reto de Cabello a Reuters luego de que asegurarán que se reunió con Estados Unidos",
-      "link": "https://caraotadigital.net/venezuela/el-reto-de-cabello-a-reuters-luego-de-que-aseguraran-que-se-reunio-con-estados-unidos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cabello-26.jpg"
+      "title": "La verdad detrás de la cancelación del concierto de Servando y Florentino en Argentina",
+      "link": "https://caraotadigital.net/caraota-show/la-verdad-detras-de-la-cancelacion-del-concierto-de-servando-y-florentino-en-argentina/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Servando-y-Florentino.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HAUSMANN: “SI TRUMP NO FACILITA LA TRANSICIÓN A LA DEMOCRACIA, TENDREMOS QUE OPONERNOS A SU ESTRATEGIA”",
-      "link": "https://noticierodigital.com/2026/01/hausmann-si-trump-no-facilita-la-transicion-a-la-democracia-tendremos-que-oponernos-a-su-estrategia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/06/ricardo-hausmann-22jun2021.jpg"
+      "title": "FALCÓN: «LO PRIMERO ES LA ECONOMÍA, NO LA TRANSICIÓN»",
+      "link": "https://noticierodigital.com/2026/01/falcon-lo-primero-es-la-economia-no-la-transicion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/henri-falcon-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "González Urrutia tras excarcelación de Rafael Tudares: Esto “no borra lo ocurrido”",
-      "link": "https://laverdad.com/gonzalez-urrutia-tras-excarcelacion-de-rafael-tudares-esto-no-borra-lo-ocurrido/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Andres-Chaparro-vs-Caribes-7-3.jpg"
+      "title": "Cuba desea fortalecer la “cooperación histórica” con Delcy Rodríguez",
+      "link": "https://laverdad.com/cuba-desea-fortalecer-la-cooperacion-historica-con-delcy-rodriguez/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Sinners.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rafael Tudares es liberado tras más de un año de prisión en Venezuela",
-      "link": "https://diarioversionfinal.com/politica-dinero/rafael-tudares-es-liberado-tras-mas-de-un-ano-de-prision-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/frsd-750x430.jpg"
+      "title": "Edmundo González sobre liberación de Rafael Tudares: \"No borra lo sucedido, seguimos luchando\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/edmundo-gonzalez-sobre-liberacion-de-rafael-tudares-no-borra-lo-sucedido-seguimos-luchando/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-22-at-11.31.09-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-22T14:31:08.814Z"
+  "lastUpdate": "2026-01-22T15:32:05.009Z"
 };
