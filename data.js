@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "409,65"
     },
     "binance": {
-      "usdt": "484,00"
+      "usdt": "471,08"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez aseguró que los ingresos de Venezuela se incrementarán “en un 37%” en 2026",
-      "link": "https://www.infobae.com/venezuela/2026/01/22/delcy-rodriguez-aseguro-que-los-ingresos-de-venezuela-se-incrementaran-en-un-37-en-2026/",
-      "image": "https://www.infobae.com/resizer/v2/OR4SKGFSGBEPJI43YTVGSWSAUQ.jpg?auth=109efa2a905e3fbaa40ffe092e29a9e2d62e5520644a6e218f9db8999a860bdb&smart=true&width=350&height=197&quality=85"
+      "title": "Tras la excarcelación de su yerno, Edmundo González exigió la liberación de todos los presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/22/tras-la-excarcelacion-de-su-yerno-edmundo-gonzalez-exigio-la-liberacion-de-todos-los-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/DRXLMNEOMJD77PDAPE5YDFQLJM.jfif?auth=4270f7eb6192d2d07e9d1798a3103ee0fd6fd42df4eacbcf91b8511b1e28ee3f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Iglesia, diplomacia y sociedad civil: los presentes en la liberación de Rafael Tudares\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/los-presentes-en-la-excarcelacion-de-rafael-tudares/",
+      "title": "Trump intentará sacar al régimen comunista de Cuba antes de que termine el año\nMUNDO",
+      "link": "https://www.elnacional.com/2026/01/trump-busca-sacar-al-regimen-de-cuba-antes-de-fin-de-ano/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La verdad detrás de la cancelación del concierto de Servando y Florentino en Argentina",
-      "link": "https://caraotadigital.net/caraota-show/la-verdad-detras-de-la-cancelacion-del-concierto-de-servando-y-florentino-en-argentina/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Servando-y-Florentino.jpg"
+      "title": "EN VIDEO: Hombre incendió la estatua de Cristiano Ronaldo y lanzó perturbadora advertencia",
+      "link": "https://caraotadigital.net/deportes/hombre-prendio-en-fuego-estatua-de-cristiano-ronaldo-y-lanzo-perturbadora-advertencia/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cristiano-Ronaldo.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Cuba desea fortalecer la “cooperación histórica” con Delcy Rodríguez",
-      "link": "https://laverdad.com/cuba-desea-fortalecer-la-cooperacion-historica-con-delcy-rodriguez/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Sinners.jpg"
+      "title": "Halliburton destaca “oportunidades” en Venezuela y confía en crecer en el país",
+      "link": "https://laverdad.com/halliburton-destaca-oportunidades-en-venezuela-y-confia-en-crecer-en-el-pais/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Bad-Bunny-y-Rosalia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Edmundo González sobre liberación de Rafael Tudares: \"No borra lo sucedido, seguimos luchando\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/edmundo-gonzalez-sobre-liberacion-de-rafael-tudares-no-borra-lo-sucedido-seguimos-luchando/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-22-at-11.31.09-AM-750x430.jpeg"
+      "title": "Sube a 45 el número de fallecidos en el accidente ferroviario de Adamuz",
+      "link": "https://diarioversionfinal.com/mundo/sube-a-45-el-numero-de-fallecidos-en-el-accidente-ferroviario-de-adamuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/IMG_2767-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-22T15:32:05.009Z"
+  "lastUpdate": "2026-01-22T16:36:58.854Z"
 };
