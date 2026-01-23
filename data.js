@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "413,39"
     },
     "binance": {
-      "usdt": "478,69"
+      "usdt": "481,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,19 +14,19 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos mantienen la expectativa sobre nuevas excarcelaciones en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/23/familiares-de-presos-politicos-mantienen-la-expectativa-sobre-nuevas-excarcelaciones-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/HNUM5QALYNGPDD2EGJ7LQ42RRE.jpg?auth=c098ad7eee2b86e4a3a51b92551ab272b1a46d812226907dee799115039ec4a0&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump volvió a dialogar con María Corina Machado: “La aprecio mucho”",
+      "link": "https://www.infobae.com/venezuela/2026/01/23/donald-trump-volvio-a-dialogar-con-maria-corina-machado-la-aprecio-mucho/",
+      "image": "https://www.infobae.com/resizer/v2/RBQNF57Q7FEVDEO5YNQJLSLW6U.jpg?auth=c18b722efb7ee16fdc6aa0e98bc56099d06941920155f505dd4b9a7e0c9838a3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El mercado cambiario en la mira: ¿es sostenible la reducción de la brecha entre el dólar oficial y el paralelo?\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/el-mercado-cambiario-en-la-mira-es-sostenible-la-reduccion-de-la-brecha-entre-el-dolar-oficial-y-el-paralelo/",
+      "title": "Baltazar Porras pide por los presos políticos y cuestiona silencio ante abusos: \"Qué cantidad de gente torturada\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/baltazar-porras-pide-por-los-presos-politicos-y-cuestiona-a-la-iglesia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Los riesgos extremos del operativo de captura de Maduro",
+      "title": "Captura de Maduro: imágenes y rutas de helicópteros revelan riesgos extremos del operativo",
       "link": "https://cnnespanol.cnn.com/2026/01/23/venezuela/maduro-captura-riesgos-eeuu-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "AN aprueba reforma a la Ley de Hidrocarburos en primera discusión",
-      "link": "https://laverdad.com/an-aprueba-reforma-a-la-ley-de-hidrocarburos-en-primera-discusion/",
+      "title": "Saab desmiente lentitud en excarcelaciones de presos políticos",
+      "link": "https://laverdad.com/saab-desmiente-lentitud-en-excarcelaciones-de-presos-politicos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Keiber-Lamadrid-West-Ham-United.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia que EE. UU. empezará \"muy pronto\" operaciones de perforación petrolera en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-que-ee-uu-empezara-muy-pronto-operaciones-de-perforacion-petrolera-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/G_R5WtkXYAEZjiw-750x430.jpg"
+      "title": "Monseñor Baltazar Porras: “El mal, los errores y el pecado pueden estar en la Iglesia”",
+      "link": "https://diarioversionfinal.com/politica-dinero/monsenor-baltazar-porras-el-mal-los-errores-y-el-pecado-pueden-estar-en-la-iglesia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5159085373198634030_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-23T11:21:45.816Z"
+  "lastUpdate": "2026-01-23T12:49:45.889Z"
 };
