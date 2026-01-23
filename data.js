@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "352,71",
-      "eur": "413,39"
+      "usd": "355,55",
+      "eur": "417,59"
     },
     "binance": {
-      "usdt": "490,00"
+      "usdt": "491,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Polvo del Sahara llegará a Venezuela en los próximos días, Inameh advirtió sobre sus efectos",
-      "link": "https://caraotadigital.net/venezuela/polvo-del-sahara-llegara-a-venezuela-en-los-proximos-dias-inameh-advirtio-sobre-sus-efectos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/08/polvo-150x150.jpg"
+      "title": "Exalcalde de Mérida Carlos García habría sido detenido por agentes de ICE en Cincinnati",
+      "link": "https://caraotadigital.net/eeuu/exalcalde-de-merida-carlos-garcia-habria-sido-detenido-por-agentes-de-ice-en-cincinnati/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MERIDA-ICE.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PRECIOS HAN DISMINUIDO HASTA 25 % TRAS CAÍDA DEL PARALELO: LUIS OLIVEROS",
-      "link": "https://noticierodigital.com/2026/01/precios-han-disminuido-hasta-25-tras-caida-del-paralelo-luis-oliveros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/luisoliveros-mensajeanualmaduro-2024-anaisarodriguez.jpg"
+      "title": "REUTERS: VALERO Y PHILLIPS 66 COMPRAN PETRÓLEO VENEZOLANO TRAS ACUERDO CON EE. UU.",
+      "link": "https://noticierodigital.com/2026/01/reuters-valero-y-phillips-66-compran-petroleo-venezolano-tras-acuerdo-con-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/05/plataforma-de-petroleo-en-maracaibo-13may2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Cabello sostiene que “todo el país ha salido” a exigir la liberación de Maduro",
-      "link": "https://laverdad.com/cabello-sostiene-que-todo-el-pais-ha-salido-a-exigir-la-liberacion-de-maduro/",
+      "title": "Reuters: Nafta llega a Venezuela para reactivar producción de crudo pesado",
+      "link": "https://laverdad.com/reuters-nafta-llega-a-venezuela-para-reactivar-produccion-de-crudo-pesado/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias-5.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Provea: “Los acuerdos petroleros son insuficientes. Tenemos que ponerle fecha a la transición democrática”",
       "link": "https://diarioversionfinal.com/politica-dinero/provea-los-acuerdos-petroleros-son-insuficientes-tenemos-que-ponerle-fecha-a-la-transicion-democratica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/rafael-lopez-aliaga_0-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-5.02.51-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-23T20:27:29.636Z"
+  "lastUpdate": "2026-01-23T21:22:16.452Z"
 };
