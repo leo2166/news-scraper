@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "413,39"
     },
     "binance": {
-      "usdt": "490,69"
+      "usdt": "491,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Conductor aceptó la carrera en conocida aplicación de traslados y le robaron la moto, así lo extorsionaron después",
-      "link": "https://caraotadigital.net/sucesos/conductor-acepto-la-carrera-en-conocida-aplicacion-de-traslados-y-le-robaron-la-moto-asi-lo-extorsionaron-despues/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/imagemotorizado1828.jpg"
+      "title": "«Es un planeta oscuro»: Filtran con detalles cómo es la temida prisión en EEUU donde llevaron a Maduro y Cilia Flores",
+      "link": "https://caraotadigital.net/eeuu/es-un-planeta-oscuro-filtran-con-detalles-como-es-la-temida-prision-en-eeuu-donde-llevaron-a-maduro-y-cilia-flores/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/maduroq82981.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PRESIDENTE DE PANAMÁ INFORMÓ QUE UNO DE SUS CIUDADANOS FUE LIBERADO EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/presidente-de-panama-informo-que-uno-de-sus-ciudadanos-fue-liberado-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-27-627x376.jpg"
+      "title": "PRECIOS HAN DISMINUIDO HASTA 25 % TRAS CAÍDA DEL PARALELO: LUIS OLIVEROS",
+      "link": "https://noticierodigital.com/2026/01/precios-han-disminuido-hasta-25-tras-caida-del-paralelo-luis-oliveros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/luisoliveros-mensajeanualmaduro-2024-anaisarodriguez.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "CNN: Control estadounidense del petróleo de Venezuela aumenta tensión con China por deuda",
-      "link": "https://diarioversionfinal.com/politica-dinero/cnn-control-estadounidense-del-petroleo-de-venezuela-aumenta-tension-con-china-por-deuda/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-1.26.56-PM-750x430.jpeg"
+      "title": "Estudiantes de la UCV bloquean autopista Francisco Fajardo exigiendo libertad de presos políticos",
+      "link": "https://diarioversionfinal.com/politica-dinero/estudiantes-de-la-ucv-bloquean-autopista-francisco-fajardo-exigiendo-libertad-de-presos-politicos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/rafael-lopez-aliaga_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-23T18:35:06.925Z"
+  "lastUpdate": "2026-01-23T19:25:00.674Z"
 };
