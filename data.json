@@ -5,7 +5,7 @@
       "eur": "413,39"
     },
     "binance": {
-      "usdt": "482,40"
+      "usdt": "483,19"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Trump defendió el liderazgo de Delcy Rodríguez aunque prometió un papel futuro para María Corina Machado",
-      "link": "https://www.infobae.com/venezuela/2026/01/23/trump-defendio-el-liderazgo-de-delcy-rodriguez-aunque-prometio-un-papel-futuro-para-maria-corina-machado/",
-      "image": "https://www.infobae.com/resizer/v2/66ASZEVXMZHEDMQCZVEQORS6XU.jpg?auth=163ba86df2d253ab65cbf8fef933747b1046d47a50092ed6c79ea0d60476cc62&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de presos políticos mantienen la expectativa sobre nuevas excarcelaciones en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/23/familiares-de-presos-politicos-mantienen-la-expectativa-sobre-nuevas-excarcelaciones-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/HNUM5QALYNGPDD2EGJ7LQ42RRE.jpg?auth=c098ad7eee2b86e4a3a51b92551ab272b1a46d812226907dee799115039ec4a0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/G_R5WtkXYAEZjiw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-23T06:36:15.789Z"
+  "lastUpdate": "2026-01-23T07:26:24.394Z"
 }
