@@ -5,7 +5,7 @@
       "eur": "413,39"
     },
     "binance": {
-      "usdt": "482,50"
+      "usdt": "483,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump volvió a dialogar con María Corina Machado: “La aprecio mucho”",
-      "link": "https://www.infobae.com/venezuela/2026/01/23/donald-trump-volvio-a-dialogar-con-maria-corina-machado-la-aprecio-mucho/",
-      "image": "https://www.infobae.com/resizer/v2/RBQNF57Q7FEVDEO5YNQJLSLW6U.jpg?auth=c18b722efb7ee16fdc6aa0e98bc56099d06941920155f505dd4b9a7e0c9838a3&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela anunció dos nuevos cambios en el mando militar",
+      "link": "https://www.infobae.com/venezuela/2026/01/23/venezuela-anuncio-dos-nuevos-cambios-en-el-mando-militar/",
+      "image": "https://www.infobae.com/resizer/v2/EDFCP6VPQFFX7GJKBZGOTMTLDM.png?auth=4db0d1a941dd1bed0c9913b18b0395d6f3123a8ef99e80e734a3061efa7cdfb0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Tome previsiones: Estas zonas de Caracas estarán cerradas este 23Ene ante marcha convocada por el PSUV",
-      "link": "https://caraotadigital.net/venezuela/tome-previsiones-estas-zonas-de-caracas-estaran-cerradas-este-23ene-ante-marcha-convocada-por-el-psuv/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Caracas-1-1.jpg"
+      "title": "«Vamos a empezar a perforar muy pronto»: Trump dijo que petroleras de EEUU ya están negociando con Caracas",
+      "link": "https://caraotadigital.net/eeuu/vamos-a-empezar-a-perforar-muy-pronto-trump-dijo-que-petroleras-de-eeuu-ya-estan-negociando-con-caracas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-28.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Llegan 183 migrantes venezolanos en vuelo de repatriación proveniente de EE. UU.",
-      "link": "https://laverdad.com/llegan-183-migrantes-venezolanos-en-vuelo-de-repatriacion-proveniente-de-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/JUANES.png"
+      "title": "Llegan 183 migrantes venezolanos deportados de EE. UU.",
+      "link": "https://laverdad.com/llegan-183-migrantes-venezolanos-deportados-de-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Albert-Vielma.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Monseñor Baltazar Porras: “El mal, los errores y el pecado pueden estar en la Iglesia”",
       "link": "https://diarioversionfinal.com/politica-dinero/monsenor-baltazar-porras-el-mal-los-errores-y-el-pecado-pueden-estar-en-la-iglesia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-8.54.07-AM.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-10.03.47-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-23T13:43:21.302Z"
+  "lastUpdate": "2026-01-23T14:26:41.283Z"
 }
