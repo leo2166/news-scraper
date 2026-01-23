@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "413,39"
     },
     "binance": {
-      "usdt": "461,95"
+      "usdt": "482,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Quinto tren del metro de Bogotá llegó al patio taller de Bosa: aquí las fotos",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/quinto-tren-del-metro-de-bogota-llego-al-patio-taller-de-bosa-aqui-las-fotos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/96268bc/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2F14%2F95f986524741aefa8498d65f0bc0%2Fmetro-de-bogota.jpg"
+      "title": "Contraloría alerta que deuda de EPS con hospitales públicos llegó a $16,28 billones: ¿a qué se debe?",
+      "link": "https://www.noticiascaracol.com/salud/contraloria-alerta-que-deuda-de-eps-con-hospitales-publicos-llego-a-16-28-billones-a-que-se-debe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/122bb22/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd9%2F72%2Ff197532f4a398e8dca43fcc74096%2Fmovilidad-bogota-2026-01-22t225300-759.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/G_R5WtkXYAEZjiw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-23T03:43:09.095Z"
+  "lastUpdate": "2026-01-23T04:43:24.732Z"
 };
