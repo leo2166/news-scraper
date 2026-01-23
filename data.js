@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "491,50"
+      "usdt": "492,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Captura de Maduro: imágenes y rutas de helicópteros revelan riesgos extremos del operativo",
-      "link": "https://cnnespanol.cnn.com/2026/01/23/venezuela/maduro-captura-riesgos-eeuu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "title": "Una monstruosa tormenta impactará en EE.UU., dejando a su paso hielo y nieve catastróficos",
+      "link": "https://cnnespanol.cnn.com/clima-y-tiempo/live-news/noticias-tormentas-invernales-nieve-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257408985.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Exalcalde de Mérida Carlos García habría sido detenido por agentes de ICE en Cincinnati",
-      "link": "https://caraotadigital.net/eeuu/exalcalde-de-merida-carlos-garcia-habria-sido-detenido-por-agentes-de-ice-en-cincinnati/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MERIDA-ICE.jpg"
+      "title": "VIDEO VIRAL: Le propuso matrimonio a su novia en la estación Petare del Metro de Caracas",
+      "link": "https://caraotadigital.net/tendencias/video-viral-le-propuso-matrimonio-a-su-novia-en-la-estacion-petare-del-metro-de-caracas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Novios-virales-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-5.02.51-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-23T21:22:16.452Z"
+  "lastUpdate": "2026-01-23T22:19:28.417Z"
 };
