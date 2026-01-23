@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "492,00"
+      "usdt": "492,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO VIRAL: Le propuso matrimonio a su novia en la estación Petare del Metro de Caracas",
-      "link": "https://caraotadigital.net/tendencias/video-viral-le-propuso-matrimonio-a-su-novia-en-la-estacion-petare-del-metro-de-caracas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Novios-virales-CD.jpg"
+      "title": "VIRAL: Bad Bunny planea usar un vestido en show de Super Bowl «para honrar la cultura drag y queer»",
+      "link": "https://caraotadigital.net/caraota-show/viral-bad-bunny-planea-usar-un-vestido-en-show-de-super-bowl-para-honrar-la-cultura-drag-y-queer/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Bad-Bunny-vestido-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REUTERS: VALERO Y PHILLIPS 66 COMPRAN PETRÓLEO VENEZOLANO TRAS ACUERDO CON EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/reuters-valero-y-phillips-66-compran-petroleo-venezolano-tras-acuerdo-con-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/05/plataforma-de-petroleo-en-maracaibo-13may2020.jpg"
+      "title": "EXALCALDE DE COCOROTE, AMADO TORRES, FUE HALLADO MUERTO EN CAYO SOMBRERO",
+      "link": "https://noticierodigital.com/2026/01/exalcalde-de-cocorote-amado-torres-fue-hallado-muerto-en-cayo-sombrero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/exalcalde-amado-torres-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ataque a discoteca en barrio Santa Fe deja un muerto y trece heridos: videos de momento de pánico",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/ataque-a-discoteca-en-barrio-santa-fe-deja-un-muerto-y-trece-heridos-videos-de-momento-de-panico-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f939af4/2147483647/strip/true/crop/1280x722+0+4/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F23%2F0c%2Fe00c33504c95939cdf6a9b8685c9%2Fataque.jpg"
+      "title": "¿Quién estaría detrás de ataque con granada en barrio Santa Fe, Bogotá? Habla comandante de Policía",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/quien-estaria-detras-de-ataque-con-granada-en-barrio-santa-fe-bogota-habla-comandante-de-policia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6e8351e/2147483647/strip/true/crop/1280x722+0+14/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F88%2F69%2F3762d2524d90b3a804d1262f8533%2Fgranada-en-bogota.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Provea: “Los acuerdos petroleros son insuficientes. Tenemos que ponerle fecha a la transición democrática”",
-      "link": "https://diarioversionfinal.com/politica-dinero/provea-los-acuerdos-petroleros-son-insuficientes-tenemos-que-ponerle-fecha-a-la-transicion-democratica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-5.02.51-PM-1-750x430.jpeg"
+      "title": "Delcy Rodríguez afirma que se han otorgado 626 excarcelaciones y llama a diálogo político",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-afirma-que-se-han-otorgado-626-excarcelaciones-y-llama-a-dialogo-politico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5161610247032998821_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-23T22:19:28.417Z"
+  "lastUpdate": "2026-01-23T23:22:15.227Z"
 };
