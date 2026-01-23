@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "413,39"
     },
     "binance": {
-      "usdt": "482,69"
+      "usdt": "478,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué implica la nueva política de ICE que permite entrar a casas sin orden judicial?",
-      "link": "https://cnnespanol.cnn.com/2026/01/22/eeuu/politica-ice-entrar-casas-sin-orden-judicial-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2256434588-20260123015955426.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los riesgos extremos del operativo de captura de Maduro",
+      "link": "https://cnnespanol.cnn.com/2026/01/23/venezuela/maduro-captura-riesgos-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/G_R5WtkXYAEZjiw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-23T10:26:14.270Z"
+  "lastUpdate": "2026-01-23T11:21:45.816Z"
 };
