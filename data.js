@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "497,00"
+      "usdt": "498,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Venezolanos critican show de drones para exigir liberación de Maduro\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/venezolanos-critican-show-de-drones-para-exigir-liberacion-de-maduro/",
+      "title": "Trump confirmó la confiscación de siete buques con petróleo venezolano sin revelar la ubicación: \"No tengo permitido decirlo\"\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/trump-confirmo-la-confiscacion-de-7-buques-con-petroleo-venezolano/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Revelan detalles de los planes de EEUU para «reactivar rápidamente» la producción petrolera en Venezuela",
-      "link": "https://caraotadigital.net/eeuu/revelan-detalles-de-los-planes-de-eeuu-para-reactivar-rapidamente-la-produccion-petrolera-en-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/buque-petrolero.jpg"
+      "title": "FOTO: Hija de Edmundo González acompañó a familiares de presos políticos a pesar de la excarcelación de su esposo",
+      "link": "https://caraotadigital.net/venezuela/foto-hija-de-edmundo-gonzalez-acompano-a-familiares-de-presos-politicos-a-pesar-de-la-excarcelacion-de-su-esposo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Mariana-Gonzalez.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Arrestan a hombre por abusar de una menor de 12 años en Domitila Flores",
-      "link": "https://laverdad.com/arrestan-a-hombre-por-abusar-de-una-menor-de-12-anos-en-domitila-flores/",
+      "title": "Panameño liberado denuncia que estuvo “prácticamente secuestrado” en Venezuela",
+      "link": "https://laverdad.com/panameno-liberado-denuncia-que-estuvo-practicamente-secuestrado-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/GuillermoDMariaelena.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. negocia con grandes petroleras para acelerar producción venezolana",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-negocia-con-grandes-petroleras-para-acelerar-produccion-venezolana/",
+      "title": "Nueva Ley de Hidrocarburos corrige error estructural: “Creer que el socialismo produce barriles”",
+      "link": "https://diarioversionfinal.com/politica-dinero/nueva-ley-de-hidrocarburos-corrige-error-estructural-creer-que-el-socialismo-produce-barriles/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2026-01-23T193143Z-913083105-RC217JA1H0DX-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-EMIRATES-TALKS-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-24T18:30:59.841Z"
+  "lastUpdate": "2026-01-24T19:17:19.999Z"
 };
