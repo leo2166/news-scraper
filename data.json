@@ -5,7 +5,7 @@
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "494,69"
+      "usdt": "484,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Crece la presión por la liberación de los presos políticos en Venezuela: más de 80 familias pasaron otra noche fuera del penal El Rodeo I",
-      "link": "https://www.infobae.com/venezuela/2026/01/24/crece-la-presion-por-la-liberacion-de-los-presos-politicos-en-venezuela-mas-de-80-familias-pasaron-otra-noche-fuera-del-penal-el-rodeo-i/",
-      "image": "https://www.infobae.com/resizer/v2/Q4JR6Z7G2NBOLOZEMI7Z27YMKU.jpg?auth=603060abfd46ff2956e808170d774dd72bf28b15b755792bb9d136eb7393ccf0&smart=true&width=350&height=197&quality=85"
+      "title": "Trump dijo que el petróleo incautado ya está siendo procesado en EEUU: “Venezuela ganará más dinero de lo haya ganado jamás”",
+      "link": "https://www.infobae.com/venezuela/2026/01/24/trump-dijo-que-el-petroleo-incautado-ya-esta-siendo-procesado-en-eeuu-venezuela-ganara-mas-dinero-de-lo-haya-ganado-jamas/",
+      "image": "https://www.infobae.com/resizer/v2/2NXFWUOM4VBBJLSXI35J5VQPMQ.JPG?auth=a8ac27879064afdead489a9c098ce737fdd323502a4d3361a8b139b1ed5e9ebf&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Reportan que más de 9.000 vuelos fueron cancelados por la tormenta en todo EE.UU.",
+      "title": "Reportan que más de 10.000 vuelos fueron cancelados por la tormenta en todo EE.UU.",
       "link": "https://cnnespanol.cnn.com/clima-y-tiempo/live-news/noticias-tormentas-invernales-nieve-eeuu-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/cancelaciones-vuelos.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Lo que dijo Margareth Baduel sobre la cifra de presos políticos excarcelados anunciada por el gobierno",
-      "link": "https://caraotadigital.net/venezuela/lo-que-dijo-margareth-baduel-sobre-la-cifra-de-presos-politicos-excarcelados-anunciada-por-el-gobierno/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/margareth-baduel.jpg"
+      "title": "La exigencia de Javier Milei para reabrir la embajada de Argentina en Caracas",
+      "link": "https://caraotadigital.net/mundo/la-exigencia-de-javier-milei-para-reabrir-la-embajada-de-argentina-en-caracas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MILEI-ARGENTINA-EMBAJADA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MARÍA CONSTANZA CIPRIANI: «PERKINS ROCHA AÚN NO ESTÁ EN CASA»",
-      "link": "https://noticierodigital.com/2026/01/maria-constanza-cipriani-perkins-rocha-aun-no-esta-en-casa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/perkins-rocha-foto-archivo-19oct2021.jpg"
+      "title": "TRUMP AMENAZA A CANADÁ CON ARANCEL DE 100% SI CONCLUYE ACUERDO CON CHINA",
+      "link": "https://noticierodigital.com/2026/01/trump-amenaza-a-canada-con-arancel-de-100-si-concluye-acuerdo-con-china/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/Donald-Trump-EEUU-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez afirma que 626 personas han sido excarceladas",
-      "link": "https://laverdad.com/delcy-rodriguez-afirma-que-626-personas-han-sido-excarceladas/",
+      "title": "Chavismo pide liberación de Maduro y Cilia Flores con show de drones en Caracas",
+      "link": "https://laverdad.com/chavismo-pide-liberacion-de-maduro-y-cilia-flores-con-show-de-drones-en-caracas/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5161409461606878060.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodríguez revela amenazas de EE. UU. tras captura de Maduro: \"O cumplíamos o nos mataban”",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-revela-amenazas-de-ee-uu-tras-captura-de-maduro-o-cumpliamos-o-nos-mataban/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Papa-Leon-XIV-30-06-2025-750x430.png"
+      "title": "EE. UU. negocia con grandes petroleras para acelerar producción venezolana",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-negocia-con-grandes-petroleras-para-acelerar-produccion-venezolana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/RYFMNPDDFRG7ZK6HNXPZUGHUZY-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-24T15:21:19.188Z"
+  "lastUpdate": "2026-01-24T16:26:13.018Z"
 }
