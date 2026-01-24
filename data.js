@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Provea exigió la derogación del estado de conmoción en Venezuela al advertir que consolida el esquema de represión",
-      "link": "https://www.infobae.com/venezuela/2026/01/24/provea-exigio-la-derogacion-del-estado-de-conmocion-en-venezuela-al-advertir-que-consolida-el-esquema-de-represion/",
-      "image": "https://www.infobae.com/resizer/v2/WRLEB26SNNFS7IEI4L3GCNHFBM.jpg?auth=9a787044443a4f5c7eb59810cf1c9118aa98f8995fed21d0e184a6a4cf9e6826&smart=true&width=350&height=197&quality=85"
+      "title": "El primer cargamento de nafta estadounidense llegó a Venezuela y buscará reactivar la producción de crudo pesado",
+      "link": "https://www.infobae.com/venezuela/2026/01/24/el-primer-cargamento-de-nafta-estadounidense-llego-a-venezuela-y-buscara-reactivar-la-produccion-de-crudo-pesado/",
+      "image": "https://www.infobae.com/resizer/v2/KBTXFK4JJYKZLX2O3NNPGX2CDE.jpg?auth=9de96cc1bccff87d622cf8e51bb2a0cb4e8db56a4d13e9a9a560c99c0d88d42a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/17692125588578-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-24T07:20:36.275Z"
+  "lastUpdate": "2026-01-24T08:28:30.342Z"
 };
