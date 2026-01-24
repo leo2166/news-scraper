@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "500,66"
+      "usdt": "496,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El hombre muerto en Minneapolis era un ciudadano estadounidense de 37 años, según informó la policía",
+      "title": "Funcionarios discrepan sobre la muerte de un hombre en Minneapolis a manos de agentes",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/hombre-baleado-autoridades-federales-minneapolis-noticias-reacciones-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tormenta-invernal-23.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tormenta-invernal-23.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump dice que no asistirá al Super Bowl y que está «en contra» de Bad Bunny y Green Day",
-      "link": "https://caraotadigital.net/eeuu/trump-dice-que-no-asistira-al-super-bowl-y-que-esta-en-contra-de-bad-bunny-y-green-day/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-5.jpg"
+      "title": "La razón por la que México estaría evaluando suspender envíos de petróleo a Cuba",
+      "link": "https://caraotadigital.net/mundo/la-razon-por-la-que-mexico-estaria-evaluando-suspender-envios-de-petroleo-a-cuba/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Pemex.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nueva Ley de Hidrocarburos corrige error estructural: “Creer que el socialismo produce barriles”",
-      "link": "https://diarioversionfinal.com/politica-dinero/nueva-ley-de-hidrocarburos-corrige-error-estructural-creer-que-el-socialismo-produce-barriles/",
+      "title": "Ejecutan a un hombre durante operativo de agentes migratorios en Minneapolis",
+      "link": "https://diarioversionfinal.com/mundo/ejecutan-a-un-hombre-durante-operativo-de-agentes-migratorios-en-minneapolis/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Protestas-Minneapolis-24-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-24T22:20:41.995Z"
+  "lastUpdate": "2026-01-24T23:20:25.470Z"
 };
