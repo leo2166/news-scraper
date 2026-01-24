@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "494,69"
+      "usdt": "493,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Tus perros o gatos están envejeciendo? Estos son algunos de los síntomas que debes identificar",
-      "link": "https://caraotadigital.net/tendencias/tus-perros-o-gatos-estan-envejeciendo-estos-son-algunos-de-los-sintomas-que-debes-identificar/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/10/Perros-y-gatos-CD.jpg"
+      "title": "Realizaron espectáculo de drones en Caracas para «pedir por la liberación» de Nicolás Maduro y Cilia Flores",
+      "link": "https://caraotadigital.net/venezuela/realizaron-espectaculo-de-drones-en-caracas-para-pedir-por-la-liberacion-de-nicolas-maduro-y-cilia-flores/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/maduro-cilia.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONSEJO UNIVERSITARIO DE LA UCV INSTA A QUE PRESOS POLÍTICOS SEAN LIBERADOS «SIN CONDICIONES»",
-      "link": "https://noticierodigital.com/2026/01/consejo-universitario-de-la-ucv-insta-a-que-presos-politicos-sean-liberados-sin-condiciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/ucv-presos-politicos-627x376.jpg"
+      "title": "MARÍA CONSTANZA CIPRIANI: «PERKINS ROCHA AÚN NO ESTÁ EN CASA»",
+      "link": "https://noticierodigital.com/2026/01/maria-constanza-cipriani-perkins-rocha-aun-no-esta-en-casa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/perkins-rocha-foto-archivo-19oct2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Reuters: Nafta llega a Venezuela para reactivar producción de crudo pesado",
-      "link": "https://laverdad.com/reuters-nafta-llega-a-venezuela-para-reactivar-produccion-de-crudo-pesado/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Julio-Iglesias-5.jpg"
+      "title": "Delcy Rodríguez propone diálogo político y ordena activar el Consejo de Soberanía y Paz",
+      "link": "https://laverdad.com/delcy-rodriguez-propone-dialogo-politico-y-ordena-activar-el-consejo-de-soberania-y-paz/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/5161409461606878060.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Delcy Rodríguez revela amenazas de EE. UU. tras captura de Maduro: \"O cumplíamos o nos mataban”",
       "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-revela-amenazas-de-ee-uu-tras-captura-de-maduro-o-cumpliamos-o-nos-mataban/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/image-2026-01-23T175740.049-649x375-1.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Papa-Leon-XIV-30-06-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-24T13:31:33.586Z"
+  "lastUpdate": "2026-01-24T14:20:36.448Z"
 };
