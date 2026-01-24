@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quién estaría detrás de ataque con granada en barrio Santa Fe, Bogotá? Habla comandante de Policía",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/quien-estaria-detras-de-ataque-con-granada-en-barrio-santa-fe-bogota-habla-comandante-de-policia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6e8351e/2147483647/strip/true/crop/1280x722+0+14/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F88%2F69%2F3762d2524d90b3a804d1262f8533%2Fgranada-en-bogota.jpg"
+      "title": "Dos muertos tras nuevo ataque de fuerzas Armadas de EE. UU. a embarcación en el Pacífico",
+      "link": "https://www.noticiascaracol.com/mundo/dos-muertos-tras-nuevo-ataque-de-fuerzas-armadas-de-ee-uu-a-embarcacion-en-el-pacifico-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a337669/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd4%2F53%2F0f45ed9849708ae0d7974717fe3a%2Ffuerzas-armadas-de-ee-uu.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/17692125588578-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-24T03:27:33.730Z"
+  "lastUpdate": "2026-01-24T04:35:49.933Z"
 };
