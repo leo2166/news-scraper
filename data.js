@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "492,40"
+      "usdt": "492,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela anunció dos nuevos cambios en el mando militar",
-      "link": "https://www.infobae.com/venezuela/2026/01/23/venezuela-anuncio-dos-nuevos-cambios-en-el-mando-militar/",
-      "image": "https://www.infobae.com/resizer/v2/EDFCP6VPQFFX7GJKBZGOTMTLDM.png?auth=4db0d1a941dd1bed0c9913b18b0395d6f3123a8ef99e80e734a3061efa7cdfb0&smart=true&width=350&height=197&quality=85"
+      "title": "Provea exigió la derogación del estado de conmoción en Venezuela al advertir que consolida el esquema de represión",
+      "link": "https://www.infobae.com/venezuela/2026/01/24/provea-exigio-la-derogacion-del-estado-de-conmocion-en-venezuela-al-advertir-que-consolida-el-esquema-de-represion/",
+      "image": "https://www.infobae.com/resizer/v2/WRLEB26SNNFS7IEI4L3GCNHFBM.jpg?auth=9a787044443a4f5c7eb59810cf1c9118aa98f8995fed21d0e184a6a4cf9e6826&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,19 +28,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Una monstruosa tormenta impactará en EE.UU., dejando a su paso hielo y nieve catastróficos",
       "link": "https://cnnespanol.cnn.com/clima-y-tiempo/live-news/noticias-tormentas-invernales-nieve-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257408985.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-01-23-at-16-45-09.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "VIRAL: Bad Bunny planea usar un vestido en show de Super Bowl «para honrar la cultura drag y queer»",
-      "link": "https://caraotadigital.net/caraota-show/viral-bad-bunny-planea-usar-un-vestido-en-show-de-super-bowl-para-honrar-la-cultura-drag-y-queer/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Bad-Bunny-vestido-CD.jpg"
+      "title": "¿Tus perros o gatos están envejeciendo? Estos son algunos de los síntomas que debes identificar",
+      "link": "https://caraotadigital.net/tendencias/tus-perros-o-gatos-estan-envejeciendo-estos-son-algunos-de-los-sintomas-que-debes-identificar/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/10/Perros-y-gatos-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXALCALDE DE COCOROTE, AMADO TORRES, FUE HALLADO MUERTO EN CAYO SOMBRERO",
-      "link": "https://noticierodigital.com/2026/01/exalcalde-de-cocorote-amado-torres-fue-hallado-muerto-en-cayo-sombrero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/exalcalde-amado-torres-627x376.jpg"
+      "title": "FAMILIAS DE ARGENTINOS DETENIDOS EN VENEZUELA SOLICITARON INTERVENCIÓN DEL VATICANO",
+      "link": "https://noticierodigital.com/2026/01/familias-de-argentinos-detenidos-en-venezuela-solicitaron-intervencion-del-vaticano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/familiares-argentinos-detenidos-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodríguez afirma que se han otorgado 626 excarcelaciones y llama a diálogo político",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-afirma-que-se-han-otorgado-626-excarcelaciones-y-llama-a-dialogo-politico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/photo_5161610247032998821_y-750x430.jpg"
+      "title": "EE. UU. realiza primer ataque a una “narcolancha” desde la captura de Maduro",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-realiza-primer-ataque-a-una-narcolancha-desde-la-captura-de-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/EE-Laser-Destacado-scaled-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-23T23:22:15.227Z"
+  "lastUpdate": "2026-01-24T01:45:00.317Z"
 };
