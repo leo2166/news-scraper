@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "492,80"
+      "usdt": "494,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El primer cargamento de nafta estadounidense llegó a Venezuela y buscará reactivar la producción de crudo pesado",
-      "link": "https://www.infobae.com/venezuela/2026/01/24/el-primer-cargamento-de-nafta-estadounidense-llego-a-venezuela-y-buscara-reactivar-la-produccion-de-crudo-pesado/",
-      "image": "https://www.infobae.com/resizer/v2/KBTXFK4JJYKZLX2O3NNPGX2CDE.jpg?auth=9de96cc1bccff87d622cf8e51bb2a0cb4e8db56a4d13e9a9a560c99c0d88d42a&smart=true&width=350&height=197&quality=85"
+      "title": "Crece la presión por la liberación de los presos políticos en Venezuela: más de 80 familias pasaron otra noche fuera del penal El Rodeo I",
+      "link": "https://www.infobae.com/venezuela/2026/01/24/crece-la-presion-por-la-liberacion-de-los-presos-politicos-en-venezuela-mas-de-80-familias-pasaron-otra-noche-fuera-del-penal-el-rodeo-i/",
+      "image": "https://www.infobae.com/resizer/v2/Q4JR6Z7G2NBOLOZEMI7Z27YMKU.jpg?auth=603060abfd46ff2956e808170d774dd72bf28b15b755792bb9d136eb7393ccf0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Cierre de la brecha cambiaria da respiro al bolsillo con la caída de precio de la carne\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/cierre-de-la-brecha-cambiaria-da-respiro-al-bolsillo-con-la-caida-de-precio-de-la-carne/",
+      "title": "Familiares de presos políticos en el Rodeo I cumplen con vigilia durante 16 noches\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/familiares-de-presos-politicos-en-el-rodeo-i-cumplen-con-vigilia-durante-16-noches/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "OVP advierte que \"han excarcelado a personas cuyos casos no eran públicos\"",
       "link": "https://diarioversionfinal.com/politica-dinero/ovp-advierte-que-han-excarcelado-a-personas-cuyos-casos-no-eran-publicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/17692125588578-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/image-2026-01-23T175740.049-649x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-01-24T11:18:48.568Z"
+  "lastUpdate": "2026-01-24T12:42:00.063Z"
 };
