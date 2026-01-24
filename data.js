@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "484,10"
+      "usdt": "473,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Familiares de presos políticos en el Rodeo I cumplen con vigilia durante 16 noches\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/familiares-de-presos-politicos-en-el-rodeo-i-cumplen-con-vigilia-durante-16-noches/",
+      "title": "Venezolanos critican show de drones para exigir liberación de Maduro\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/venezolanos-critican-show-de-drones-para-exigir-liberacion-de-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La exigencia de Javier Milei para reabrir la embajada de Argentina en Caracas",
-      "link": "https://caraotadigital.net/mundo/la-exigencia-de-javier-milei-para-reabrir-la-embajada-de-argentina-en-caracas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MILEI-ARGENTINA-EMBAJADA.jpg"
+      "title": "Fingió ser trabajador de aerolíneas para poder viajar gratis por años, así pudo engañar a todos",
+      "link": "https://caraotadigital.net/eeuu/fingio-ser-trabajador-de-aerolineas-para-poder-viajar-gratis-por-anos-asi-pudo-enganar-a-todos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dallas-pokornik.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Chavismo pide liberación de Maduro y Cilia Flores con show de drones en Caracas",
-      "link": "https://laverdad.com/chavismo-pide-liberacion-de-maduro-y-cilia-flores-con-show-de-drones-en-caracas/",
+      "title": "Plataforma Unitaria exige publicar la lista de los 626 excarcelados anunciados",
+      "link": "https://laverdad.com/plataforma-unitaria-exige-publicar-la-lista-de-los-626-excarcelados-anunciados/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/5161409461606878060.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "EE. UU. negocia con grandes petroleras para acelerar producción venezolana",
       "link": "https://diarioversionfinal.com/mundo/ee-uu-negocia-con-grandes-petroleras-para-acelerar-produccion-venezolana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/RYFMNPDDFRG7ZK6HNXPZUGHUZY-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/06/plataforma-unitaria-democratica-sede-696x434-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-24T16:26:13.018Z"
+  "lastUpdate": "2026-01-24T17:18:56.219Z"
 };
