@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La monstruosa tormenta invernal comienza a propagarse por EE.UU.",
-      "link": "https://cnnespanol.cnn.com/clima-y-tiempo/live-news/noticias-tormentas-invernales-nieve-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-01-23-at-16-45-09.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Una gran tormenta esparce nieve y hielo a lo largo de cientos de kilómetros",
+      "link": "https://cnnespanol.cnn.com/2026/01/23/eeuu/mapa-alertas-tormenta-invernal-cuando-estados-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tormenta-invernal-23.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/17692125588578-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-24T09:21:35.207Z"
+  "lastUpdate": "2026-01-24T10:22:17.567Z"
 };
