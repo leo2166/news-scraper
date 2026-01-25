@@ -14,7 +14,7 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez desafió a EEUU: “Ya basta de las órdenes de Washington en Venezuela”",
+      "title": "Delcy Rodríguez dijo que Venezuela debe convertirse en una “potencia” petrolera con una “agenda energética” con EEUU",
       "link": "https://www.infobae.com/venezuela/2026/01/25/delcy-rodriguez-desafio-a-eeuu-ya-basta-de-las-ordenes-de-washington-en-venezuela/",
       "image": "https://www.infobae.com/resizer/v2/U32WV5QMANCQ5MEO6N6GLKS4OI.JPG?auth=6fcf300c09d611bc96ef7ca65911e459970ea4c0a1a89bef2714b3d3ebb2c365&smart=true&width=350&height=197&quality=85"
     },
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Dos muertes relacionadas con el sistema invernal en Louisiana",
+      "title": "Tormenta invernal paraliza a EE.UU.: vuelos cancelados y apagones masivos",
       "link": "https://cnnespanol.cnn.com/clima-y-tiempo/live-news/noticias-tormenta-invernale-nieve-record-eeuu-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/alex-enfermero.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Designan fiscales para investigar caso de exalcalde de Yaracuy que fue hallado sin vida en playa de Chichiriviche",
-      "link": "https://caraotadigital.net/sucesos/designan-fiscales-para-investigar-caso-de-exalcalde-de-yaracuy-que-fue-hallado-sin-vida-en-playa-de-chichiriviche/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/unnamed-file.jpg"
+      "title": "La conmovedora historia de Filomena, la pata que acompaña a un migrante en su regreso a pie desde México a Venezuela",
+      "link": "https://caraotadigital.net/mundo/la-conmovedora-historia-de-filomena-la-pata-que-acompana-a-un-migrante-en-su-regreso-a-pie-desde-mexico-a-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/luis-miguel-filomena.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Condenan a dos hermanos por el asesinato de 'La Diabla' en Medellín: aceptaron cargos",
-      "link": "https://www.noticiascaracol.com/judicial/condenan-a-dos-hermanos-por-el-asesinato-de-la-diabla-en-medellin-aceptaron-cargos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8518f2b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa2%2F2e%2Fabe14d0747fbb69736f05422ff37%2Fla-diabla.jpg"
+      "title": "\"Nos dieron 15 minutos o nos matarían\": Destapan llamada de Delcy Rodríguez tras captura de Maduro",
+      "link": "https://www.noticiascaracol.com/mundo/destapan-llamada-de-delcy-rodriguez-tras-captura-de-maduro-nos-dieron-15-minutos-o-nos-matarian-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5df2027/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F59%2Fa7%2F7d487900406ab14df1a1219a5e4c%2Fdelcy-rodriguez.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Rescatan a hombre que se lanzó al lago en medio de una crisis de ansiedad",
       "link": "https://laverdad.com/rescatan-a-hombre-que-se-lanzo-al-lago-en-medio-de-una-crisis-de-ansiedad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/1766418495626.jpg"
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/7a1f10c1649f9ea60604fe518ebb7fc92047c3be-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Foro Penal verifica más de 80 excarcelaciones registradas este #25Ene",
       "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-verifica-mas-de-80-excarcelaciones-registradas-este-25ene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Rosalba-Hernandez-25-01-2026-1-696x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-7.41.12-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-25T19:17:33.860Z"
+  "lastUpdate": "2026-01-25T20:25:31.007Z"
 };
