@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "498,86"
+      "usdt": "497,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado se afianza como líder de la oposición democrática en Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-se-afianza-como-lider-de-la-oposicion/",
+      "title": "María Corina Machado con ABC: Cuando ya no exista el miedo en Venezuela, al régimen no le queda sino aceptar su partida\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-con-abc-cuando-ya-no-exista-el-miedo-al-regimen-no-le-queda-sino-aceptar-su-partida/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Video parece mostrar a un agente tomando un arma antes de disparar en Minneapolis",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/hombre-baleado-autoridades-federales-minneapolis-noticias-reacciones-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tormenta-invernal-23.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26024641585766-20260124231109659.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Conmoción en Falcón: Fueron a cobrar una deuda de $20 y todo terminó en tragedia",
-      "link": "https://caraotadigital.net/sucesos/conmocion-en-falcon-fueron-a-cobrar-una-deuda-de-20-y-todo-termino-en-tragedia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/detenidas-1.jpg"
+      "title": "¿Y si la felicidad no era lo que nos prometieron?",
+      "link": "https://caraotadigital.net/opinion/y-si-la-felicidad-no-era-lo-que-nos-prometieron-2/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/01/marialaura5125.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "A GOLPES MATARON A UN SEPTUAGENARIO EN FALCÓN POR DEUDA DE 20 DÓLARES: HAY TRES DETENIDOS",
-      "link": "https://noticierodigital.com/2026/01/a-golpes-mataron-a-un-septuagenario-en-falcon-por-deuda-de-20-dolares-hay-tres-detenidos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/cicpc-foto-de-douglas-rico-23ago2021.jpg"
+      "title": "SNTP: ANULAN CONDENA DE 15 AÑOS DE PRISIÓN AL ESTUDIANTE JUAN FRANCISCO ALVARADO",
+      "link": "https://noticierodigital.com/2026/01/sntp-anulan-condena-de-15-anos-de-prision-al-estudiante-juan-francisco-alvarado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-1-9-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Corte de Apelaciones anula condena de 15 años contra estudiante de periodismo",
-      "link": "https://laverdad.com/corte-de-apelaciones-anula-condena-de-15-anos-contra-estudiante-de-periodismo/",
+      "title": "Trump revela uso de un arma secreta que dejó inoperativo el equipo militar venezolano",
+      "link": "https://laverdad.com/trump-revela-uso-de-un-arma-secreta-que-dejo-inoperativo-el-equipo-militar-venezolano/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/GuillermoDMariaelena.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "María Corina Machado: “Delcy Rodríguez tiene los días contados”",
       "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-machado-delcy-rodriguez-tiene-los-dias-contados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-2026-01-25T051300.784.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/43621446035-1080pnbcstations-750x428.jpg"
     }
   ],
-  "lastUpdate": "2026-01-25T13:32:44.757Z"
+  "lastUpdate": "2026-01-25T14:20:19.721Z"
 };
