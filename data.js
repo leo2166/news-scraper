@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "496,87"
+      "usdt": "494,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Funcionarios discrepan sobre la muerte de un hombre en Minneapolis a manos de agentes",
+      "title": "Video parece mostrar a un agente tomando un arma antes de disparar en Minneapolis",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/hombre-baleado-autoridades-federales-minneapolis-noticias-reacciones-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/tormenta-invernal-23.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "La razón por la que México estaría evaluando suspender envíos de petróleo a Cuba",
-      "link": "https://caraotadigital.net/mundo/la-razon-por-la-que-mexico-estaria-evaluando-suspender-envios-de-petroleo-a-cuba/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Pemex.jpeg"
+      "title": "Conmoción en Falcón: Fueron a cobrar una deuda de $20 y todo terminó en tragedia",
+      "link": "https://caraotadigital.net/sucesos/conmocion-en-falcon-fueron-a-cobrar-una-deuda-de-20-y-todo-termino-en-tragedia/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/detenidas-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Ejecutan a un hombre durante operativo de agentes migratorios en Minneapolis",
       "link": "https://diarioversionfinal.com/mundo/ejecutan-a-un-hombre-durante-operativo-de-agentes-migratorios-en-minneapolis/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Protestas-Minneapolis-24-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-10.40.13-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-24T23:20:25.470Z"
+  "lastUpdate": "2026-01-25T01:58:05.908Z"
 };
