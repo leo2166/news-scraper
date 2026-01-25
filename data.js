@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "475,30"
+      "usdt": "476,74"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cortesia-alex-pretti-55224-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-25T07:22:13.857Z"
+  "lastUpdate": "2026-01-25T08:28:51.592Z"
 };
