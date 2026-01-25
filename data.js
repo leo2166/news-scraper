@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "496,86"
+      "usdt": "498,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "María Corina Machado: “Delcy Rodríguez tiene los días contados”",
       "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-machado-delcy-rodriguez-tiene-los-dias-contados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cortesia-alex-pretti-55224-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/images-2026-01-25T051300.784.jpg"
     }
   ],
-  "lastUpdate": "2026-01-25T12:43:35.908Z"
+  "lastUpdate": "2026-01-25T13:32:44.757Z"
 };
