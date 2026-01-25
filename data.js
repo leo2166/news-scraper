@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "500,00"
+      "usdt": "487,54"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Delcy Rodríguez considera «vergonzoso» que un venezolano agradezca el ataque de EEUU",
-      "link": "https://caraotadigital.net/venezuela/delcy-rodriguez-considera-vergonzoso-que-un-venezolano-agradezca-el-ataque-de-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/delcy8a968aeff9244bc8f171bca503d17b1784ce5002miniw.jpg"
+      "title": "La sensación térmica baja a -55 grados en partes de Canadá por una masa de aire ártico",
+      "link": "https://caraotadigital.net/mundo/la-sensacion-termica-baja-a-55-grados-en-partes-de-canada-por-una-masa-de-aire-artico/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/canada.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SNTP: ANULAN CONDENA DE 15 AÑOS DE PRISIÓN AL ESTUDIANTE JUAN FRANCISCO ALVARADO",
-      "link": "https://noticierodigital.com/2026/01/sntp-anulan-condena-de-15-anos-de-prision-al-estudiante-juan-francisco-alvarado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-1-9-627x376.jpg"
+      "title": "ALCALDÍA DE CARACAS PUBLICÓ PROCESO PARA PAGO DE IMPUESTOS DE VEHÍCULOS EN LIBERTADOR ",
+      "link": "https://noticierodigital.com/2026/01/alcaldia-de-caracas-publico-proceso-para-pago-de-impuestos-de-vehiculos-en-libertador/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/02/autopista-francisco-fajardo-26feb2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez insiste en la unión nacional para preservar la paz",
-      "link": "https://laverdad.com/delcy-rodriguez-insiste-en-la-union-nacional-para-preservar-la-paz/",
+      "title": "Apagón y movimiento de vehículos inquieta a familiares en Tocorón",
+      "link": "https://laverdad.com/apagon-y-movimiento-de-vehiculos-inquieta-a-familiares-en-tocoron/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/GuillermoDMariaelena.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reportan excarcelación de 16 detenidos en Tocorón",
-      "link": "https://diarioversionfinal.com/politica-dinero/reportan-excarcelacion-de-16-detenidos-en-tocoron/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cnne-1456861-still-19829744-4873-0779999999995-still-750x430.jpg"
+      "title": "Foro Penal verifica más de 80 excarcelaciones registradas este #25Ene",
+      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-verifica-mas-de-80-excarcelaciones-registradas-este-25ene/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/image-44-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-25T15:21:26.076Z"
+  "lastUpdate": "2026-01-25T16:26:58.121Z"
 };
