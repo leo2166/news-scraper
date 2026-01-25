@@ -5,7 +5,7 @@
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "487,54"
+      "usdt": "487,44"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Un oficial de la aviación venezolana explicó cómo EEUU desmanteló la defensa de Caracas para extraer a Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/25/un-oficial-de-la-aviacion-venezolana-explico-como-eeuu-desmantelo-la-defensa-de-caracas-para-extraer-a-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/VMWTEBQDG5HWNC4BQTUEN75TA4.jpg?auth=e3d034c8880b14c4110baf16c088b18e36eea18d9c73f7cfd9ccdf9f1c2c0dae&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal reportó la excarcelación de al menos 80 presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/25/el-foro-penal-reporto-la-excarcelacion-de-al-menos-80-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado con ABC: Cuando ya no exista el miedo en Venezuela, al régimen no le queda sino aceptar su partida\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-con-abc-cuando-ya-no-exista-el-miedo-al-regimen-no-le-queda-sino-aceptar-su-partida/",
+      "title": "Foro Penal reporta nuevas excarcelaciones de presos políticos durante este domingo\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/foro-penal-reporta-nuevas-excarcelaciones-de-presos-politicos-durante-este-domingo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "La sensación térmica baja a -55 grados en partes de Canadá por una masa de aire ártico",
-      "link": "https://caraotadigital.net/mundo/la-sensacion-termica-baja-a-55-grados-en-partes-de-canada-por-una-masa-de-aire-artico/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/canada.jpg"
+      "title": "Potente tormenta invernal ‘Fern’ ha dejado a más de 500.000 personas sin servicio eléctrico",
+      "link": "https://caraotadigital.net/eeuu/potente-tormenta-invernal-fern-ha-dejado-a-mas-de-500-000-personas-sin-servicio-electrico/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/tormenta-fern.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quién era el hombre que murió por disparos de agentes de inmigración en Minneapolis, EE. UU.?",
-      "link": "https://www.noticiascaracol.com/mundo/quien-era-el-hombre-que-murio-por-disparos-de-agentes-de-inmigracion-en-minneapolis-ee-uu-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d1ec274/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F39%2F7b11b41841629b88b246dbdc3ff8%2Fplantilla-fotos-39.jpg"
+      "title": "Condenan a dos hermanos por el asesinato de 'La Diabla' en Medellín: aceptaron cargos",
+      "link": "https://www.noticiascaracol.com/judicial/condenan-a-dos-hermanos-por-el-asesinato-de-la-diabla-en-medellin-aceptaron-cargos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8518f2b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa2%2F2e%2Fabe14d0747fbb69736f05422ff37%2Fla-diabla.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Apagón y movimiento de vehículos inquieta a familiares en Tocorón",
-      "link": "https://laverdad.com/apagon-y-movimiento-de-vehiculos-inquieta-a-familiares-en-tocoron/",
+      "title": "Excarcelan al abogado Kennedy Tejeda y verifican la salida de otros 80 detenidos",
+      "link": "https://laverdad.com/excarcelan-al-abogado-kennedy-tejeda-y-verifican-la-salida-de-otros-80-detenidos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/GuillermoDMariaelena.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Foro Penal verifica más de 80 excarcelaciones registradas este #25Ene",
       "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-verifica-mas-de-80-excarcelaciones-registradas-este-25ene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/image-44-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Hm34vdTf-Captura.png"
     }
   ],
-  "lastUpdate": "2026-01-25T16:26:58.121Z"
+  "lastUpdate": "2026-01-25T17:19:08.575Z"
 }
