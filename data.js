@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "495,00"
+      "usdt": "493,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez dijo que Venezuela debe convertirse en una “potencia” petrolera con una “agenda energética” con EEUU",
-      "link": "https://www.infobae.com/venezuela/2026/01/25/delcy-rodriguez-desafio-a-eeuu-ya-basta-de-las-ordenes-de-washington-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/U32WV5QMANCQ5MEO6N6GLKS4OI.JPG?auth=6fcf300c09d611bc96ef7ca65911e459970ea4c0a1a89bef2714b3d3ebb2c365&smart=true&width=350&height=197&quality=85"
+      "title": "Rusia afirmó que el ex dictador Maduro fue traicionado por su entorno: “Conocemos los nombres”",
+      "link": "https://www.infobae.com/venezuela/2026/01/25/rusia-afirmo-que-el-ex-dictador-maduro-fue-traicionado-por-su-entorno-conocemos-los-nombres/",
+      "image": "https://www.infobae.com/resizer/v2/RZMXYZ4DB5DS7JWPBI7YNLQM3I.jpg?auth=6d1314edcc2a4109e31a62463c65a56891c864005a24c3ca2e4815fc4afe884e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La conmovedora historia de Filomena, la pata que acompaña a un migrante en su regreso a pie desde México a Venezuela",
-      "link": "https://caraotadigital.net/mundo/la-conmovedora-historia-de-filomena-la-pata-que-acompana-a-un-migrante-en-su-regreso-a-pie-desde-mexico-a-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/luis-miguel-filomena.jpg"
+      "title": "Tormenta invernal Fern deja sus primeras víctimas: Dos hombres murieron por hipotermia en Louisiana",
+      "link": "https://caraotadigital.net/eeuu/tormenta-invernal-fern-deja-sus-primeras-victimas-dos-hombres-murieron-por-hipotermia-en-louisiana/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/tormenta-invernal-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Rescatan a hombre que se lanzó al lago en medio de una crisis de ansiedad",
-      "link": "https://laverdad.com/rescatan-a-hombre-que-se-lanzo-al-lago-en-medio-de-una-crisis-de-ansiedad/",
+      "title": "Delcy Rodríguez dice que el país debe convertirse en una potencia petrolera",
+      "link": "https://laverdad.com/delcy-rodriguez-dice-que-el-pais-debe-convertirse-en-una-potencia-petrolera/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/7a1f10c1649f9ea60604fe518ebb7fc92047c3be-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Foro Penal verifica más de 80 excarcelaciones registradas este #25Ene",
-      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-verifica-mas-de-80-excarcelaciones-registradas-este-25ene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-7.41.12-AM-750x430.jpeg"
+      "title": "ONG confirma 217 excarcelaciones de presos políticos desde el #8Ene",
+      "link": "https://diarioversionfinal.com/politica-dinero/ong-confirma-217-excarcelaciones-de-presos-politicos-desde-el-8ene/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Tormenta-invernal-EEUU-25-01-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-25T20:25:31.007Z"
+  "lastUpdate": "2026-01-25T21:19:55.300Z"
 };
