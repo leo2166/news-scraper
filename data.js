@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "494,86"
+      "usdt": "494,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Homicidio múltiple en Tolima: tres integrantes de una familia fueron asesinados en su casa",
-      "link": "https://www.noticiascaracol.com/colombia/homicidio-multiple-en-tolima-tres-integrantes-de-una-familia-fueron-asesinados-en-su-casa-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e42a8f1/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fae%2Fdc%2F2650744e441eac55ed6a7599990b%2Fplantilla-fotos-37.jpg"
+      "title": "¿Quién era el hombre que murió por disparos de agentes de inmigración en Minneapolis, EE. UU.?",
+      "link": "https://www.noticiascaracol.com/mundo/quien-era-el-hombre-que-murio-por-disparos-de-agentes-de-inmigracion-en-minneapolis-ee-uu-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d1ec274/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F39%2F7b11b41841629b88b246dbdc3ff8%2Fplantilla-fotos-39.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Ejecutan a un hombre durante operativo de agentes migratorios en Minneapolis",
       "link": "https://diarioversionfinal.com/mundo/ejecutan-a-un-hombre-durante-operativo-de-agentes-migratorios-en-minneapolis/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-10.40.13-AM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cortesia-alex-pretti-55224-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-25T01:58:05.908Z"
+  "lastUpdate": "2026-01-25T03:59:03.071Z"
 };
