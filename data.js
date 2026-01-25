@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "497,86"
+      "usdt": "496,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump confirmó la confiscación de siete buques con petróleo venezolano sin revelar la ubicación: \"No tengo permitido decirlo\"\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/trump-confirmo-la-confiscacion-de-7-buques-con-petroleo-venezolano/",
+      "title": "María Corina Machado se afianza como líder de la oposición democrática en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-se-afianza-como-lider-de-la-oposicion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cortesia-alex-pretti-55224-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-25T09:23:07.590Z"
+  "lastUpdate": "2026-01-25T10:22:49.299Z"
 };
