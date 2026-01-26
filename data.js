@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "492,00"
+      "usdt": "493,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"Nos dieron 15 minutos o nos matarían\": Destapan llamada de Delcy Rodríguez tras captura de Maduro",
-      "link": "https://www.noticiascaracol.com/mundo/destapan-llamada-de-delcy-rodriguez-tras-captura-de-maduro-nos-dieron-15-minutos-o-nos-matarian-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5df2027/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F59%2Fa7%2F7d487900406ab14df1a1219a5e4c%2Fdelcy-rodriguez.jpg"
+      "title": "Esto dijo Juan de Bedout sobre Zulma Guzmán, señalada de homicidio con talio: \"Un error\"",
+      "link": "https://www.noticiascaracol.com/judicial/esto-dijo-juan-de-bedout-sobre-zulma-guzman-senalada-de-envenenar-a-menores-con-talio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ed71eb3/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2Fad%2F475dc4474078a855efab5be762c5%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Los hermanos Rodríguez maniobran para evitar elecciones por “falta absoluta” de Maduro",
       "link": "https://diarioversionfinal.com/politica-dinero/chavismo-intenta-eludir-la-constitucion-y-no-llamar-a-elecciones-por-falta-absoluta-de-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Nieve-NY-25-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Vicky-Davila-y-Alex-Saab-25-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-26T01:57:38.341Z"
+  "lastUpdate": "2026-01-26T04:01:11.963Z"
 };
