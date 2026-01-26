@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "525,00"
+      "usdt": "531,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump evalúa un consejo tecnocrático como el de Gaza para evitar un vacío de poder en Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/donald-trump-evalua-un-consejo-tecnocratico-para-venezuela/",
+      "title": "¿Comenzó una transición en Venezuela? 4 expertos analizan hacia dónde puede ir el país tras la caída de Maduro y la intervención de EE.UU.\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/comenzo-una-transicion-en-venezuela-4-expertos-analizan-hacia-donde-puede-ir-el-pais-tras-la-caida-de-maduro-y-la-intervencion-de-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "“Las mulas de la extorsión” cayeron en La Guaira, así operaba esta peligrosa banda delictiva",
-      "link": "https://caraotadigital.net/sucesos/las-mulas-de-la-extorsion-cayeron-en-la-guaira-asi-operaba-esta-peligrosa-banda-delictiva/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-44.jpg"
+      "title": "La alarmante desaparición de un adolescente tras ser contactado por un desconocido a través de Roblox",
+      "link": "https://caraotadigital.net/eeuu/la-alarmante-desaparicion-de-un-adolescente-tras-ser-contactado-por-un-desconocido-a-traves-de-roblox/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/ROBLOX.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "Diferida audiencia de Ramón Centeno: fijada para el 4 de febrero",
-      "link": "https://noticierodigital.com/2026/01/diferida-audiencia-de-ramon-centeno-fijada-para-el-4-de-febrero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260126-WA0153-627x376.jpg"
+      "title": "EXCARCELAN A ADOLESCENTE PRESO POR TENER «IMÁGENES CONTRA EL GOBIERNO»",
+      "link": "https://noticierodigital.com/2026/01/excarcelan-a-adolescente-preso-por-tener-imagenes-contra-el-gobierno/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260126-WA0169-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Detienen a venezolano en narcosubmarino con más de 9 toneladas de cocaína en Portugal",
-      "link": "https://laverdad.com/detienen-a-venezolano-en-narcosubmarino-con-mas-de-9-toneladas-de-cocaina-en-portugal/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Andy-Borregales-NFL.jpg"
+      "title": "Critican que siga la “falta de transparencia” tras recientes excarcelaciones",
+      "link": "https://laverdad.com/critican-que-siga-la-falta-de-transparencia-tras-recientes-excarcelaciones/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Rawayana1-nota.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "EE. UU. acusa a 31 integrantes más del Tren de Aragua por esquema de cajeros automáticos",
       "link": "https://diarioversionfinal.com/mundo/ee-uu-acusa-a-31-integrantes-mas-del-tren-de-aragua-por-esquema-de-cajeros-automaticos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/10/venezuela_protestas_salarios_de_hambre-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-01-26T20:28:42.777Z"
+  "lastUpdate": "2026-01-26T21:25:17.462Z"
 };
