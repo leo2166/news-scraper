@@ -5,7 +5,7 @@
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "524,90"
+      "usdt": "500,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Foro Penal reportó la excarcelación de al menos 104 presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/26/la-ong-foro-penal-reporto-la-excarcelacion-de-al-menos-104-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/KJCD2MNNKBBBDJMOFSFST5PXVA.jpg?auth=b2e3cd53dd35a12a00fe4e5c25bff8a3d344cef5197f0f7e02da2a4e6b2c6b85&smart=true&width=350&height=197&quality=85"
+      "title": "Salió desde Venezuela el primer buque con crudo pesado hacia Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/01/26/salio-desde-venezuela-el-primer-buque-con-crudo-pesado-hacia-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/YIJ433HLKJHYFEH5Y44WNTX4VA.JPG?auth=e2ba6096bdae1e73cc5e484cf7370d207e36fe105df37a8661357c0358ae8ae8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Jueza analiza demanda para frenar la llegada de más agentes de inmigración a Minneapolis",
+      "title": "Trump manda a su zar de la frontera a Minnesota",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/ofensiva-inmigratoria-minneapolis-ice-pretti-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t173302z-520175463-rc2g8jayjvv3-rtrmadp-3-usa-trump-minnesota-20260126131843498.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Excarcelaron a pareja que estuvo detenida ocho meses por caso del «dólar paralelo», así los recibió la familia",
-      "link": "https://caraotadigital.net/venezuela/excarcelaron-a-pareja-que-estuvo-detenida-ocho-meses-por-caso-del-dolar-paralelo-asi-los-recibio-la-familia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/liberados72182.jpg"
+      "title": "La decisión que tomó Claudia Sheinbaum sobre los conciertos de BTS en México que sorprendió a todos",
+      "link": "https://caraotadigital.net/mundo/la-decision-que-tomo-claudia-sheinbaum-sobre-los-conciertos-de-bts-en-mexico-que-sorprendio-a-todos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/bts1721832.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "La CPI declara al expresidente filipino Rodrigo Duterte apto para ser juzgado",
-      "link": "https://laverdad.com/la-cpi-declara-al-expresidente-filipino-rodrigo-duterte-apto-para-ser-juzgado/",
+      "title": "Industriales zulianos ven al petróleo como “motor para la reactivación industrial”",
+      "link": "https://laverdad.com/industriales-zulianos-ven-al-petroleo-como-motor-para-la-reactivacion-industrial/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Fabiana-Rodriguez.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "ABC: Trump evalúa una salida tecnocrática para Venezuela si Delcy no se afianza en el poder",
       "link": "https://diarioversionfinal.com/politica-dinero/abc-trump-evalua-una-salida-tecnocratica-para-venezuela-si-delcy-no-se-afianza-en-el-poder/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Buque-Gloria-Maris-26-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Trump-Alex-Pretti-26-01-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-26T16:35:54.615Z"
+  "lastUpdate": "2026-01-26T17:30:32.767Z"
 }
