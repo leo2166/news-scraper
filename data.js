@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "473,90"
+      "usdt": "497,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El preso político venezolano Kevin Orozco fue excarcelado horas después de que su madre muriera esperando su liberación",
-      "link": "https://www.infobae.com/venezuela/2026/01/25/el-preso-politico-venezolano-kevin-orozco-fue-excarcelado-horas-despues-de-que-su-madre-muriera-esperando-su-liberacion/",
-      "image": "https://www.infobae.com/resizer/v2/QZGSA7ZIOFDKTDHLBIJZNOBBYE.jpg?auth=e9b1baac5399b05946e0160d21b0508a1e10b806aa9b84fd064ecb7bdcb3154c&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Foro Penal reportó la excarcelación de al menos 104 presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/26/la-ong-foro-penal-reporto-la-excarcelacion-de-al-menos-104-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/KJCD2MNNKBBBDJMOFSFST5PXVA.jpg?auth=b2e3cd53dd35a12a00fe4e5c25bff8a3d344cef5197f0f7e02da2a4e6b2c6b85&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Vicky-Davila-y-Alex-Saab-25-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-26T06:38:28.512Z"
+  "lastUpdate": "2026-01-26T07:28:47.023Z"
 };
