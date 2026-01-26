@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "523,00"
+      "usdt": "525,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,19 +28,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Escalada federal en Minneapolis: detenciones y tensión en las calles",
       "link": "https://cnnespanol.cnn.com/2026/01/26/eeuu/movimientos-agentes-minneapolis-st-paul-imagenes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/telefono-venezuela-2.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Qué se necesita para que las operaciones en el mercado cambiario se normalicen? Habló un experto",
-      "link": "https://caraotadigital.net/venezuela/que-se-necesita-para-que-las-operaciones-en-el-mercado-cambiario-se-normalicen-hablo-un-experto/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/06/imagebolivaresdolares.jpg"
+      "title": "“Las mulas de la extorsión” cayeron en La Guaira, así operaba esta peligrosa banda delictiva",
+      "link": "https://caraotadigital.net/sucesos/las-mulas-de-la-extorsion-cayeron-en-la-guaira-asi-operaba-esta-peligrosa-banda-delictiva/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-44.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VTV ESTRENARÁ NOTICIERO MATUTINO «DE ÚLTIMA GENERACIÓN», DIJO PÉREZ PIRELA",
-      "link": "https://noticierodigital.com/2026/01/vtv-estrenara-noticiero-matutino-de-ultima-generacion-dijo-perez-pirela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/1769393295833329896xg-627x376.jpg"
+      "title": "Diferida audiencia de Ramón Centeno: fijada para el 4 de febrero",
+      "link": "https://noticierodigital.com/2026/01/diferida-audiencia-de-ramon-centeno-fijada-para-el-4-de-febrero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260126-WA0153-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Llegan a Maiquetía 128 migrantes venezolanos deportados por EE. UU.",
-      "link": "https://laverdad.com/llegan-a-maiquetia-128-migrantes-venezolanos-deportados-por-ee-uu/",
+      "title": "Detienen a venezolano en narcosubmarino con más de 9 toneladas de cocaína en Portugal",
+      "link": "https://laverdad.com/detienen-a-venezolano-en-narcosubmarino-con-mas-de-9-toneladas-de-cocaina-en-portugal/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Andy-Borregales-NFL.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "“De aquí no nos vamos hasta que sean libres”: Familiares de presos políticos reactivan protestas",
-      "link": "https://diarioversionfinal.com/politica-dinero/de-aqui-no-nos-vamos-hasta-que-sean-libres-familiares-de-presos-politicos-reactivan-protestas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/6977816e7c27f-750x430.webp"
+      "title": "EE. UU. acusa a 31 integrantes más del Tren de Aragua por esquema de cajeros automáticos",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-acusa-a-31-integrantes-mas-del-tren-de-aragua-por-esquema-de-cajeros-automaticos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/10/venezuela_protestas_salarios_de_hambre-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-26T19:24:06.006Z"
+  "lastUpdate": "2026-01-26T20:28:42.777Z"
 };
