@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "532,00"
+      "usdt": "530,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,25 +28,25 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Escalada federal en Minneapolis: detenciones y tensión en las calles",
       "link": "https://cnnespanol.cnn.com/2026/01/26/eeuu/movimientos-agentes-minneapolis-st-paul-imagenes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/telefono-venezuela-2.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/delcy-rodriguez-venezuela.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Más de 800 presos políticos fueron excarcelados desde «antes de diciembre», dice Diosdado Cabello",
-      "link": "https://caraotadigital.net/venezuela/mas-de-800-presos-politicos-fueron-excarcelados-desde-antes-de-diciembre-dice-diosdado-cabello/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cabello-CD-1.jpg"
+      "title": "Muertes en Mineápolis por el ICE enfrenta a republicanos sobre “reajuste” de políticas migratorias de Trump",
+      "link": "https://caraotadigital.net/eeuu/muertes-en-mineapolis-por-el-ice-enfrenta-a-republicanos-sobre-reajuste-de-politicas-migratorias-de-trump/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/POLI.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "INTERPOL CAPTURÓ EN TÁCHIRA A OPERADORA FINANCIERA DE ESTAFA PIRAMIDAL GENERACIÓN ZOE",
-      "link": "https://noticierodigital.com/2026/01/interpol-capturo-en-tachira-a-operadora-financiera-de-estafa-piramidal-generacion-zoe/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Rosa-Maria-Gonzalez-Rincon-627x376.jpg"
+      "title": "AL MENOS 29 PERSONAS AFECTADAS TRAS PRESUNTA INTOXICACIÓN MASIVA EN LICEO DE BARINAS",
+      "link": "https://noticierodigital.com/2026/01/al-menos-29-personas-afectadas-tras-presunta-intoxicacion-masiva-en-liceo-de-barinas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/intoxicacion-masiva-liceo-barinas-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Paloma Valencia respondió a señalamientos de \"irregularidades\" en encuesta en la que le ganó a Cabal",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/paloma-valencia-respondio-a-senalamientos-de-irregularidades-en-encuesta-en-la-que-le-gano-a-cabal-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3ffde65/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2F64%2F5b35fc4c49199626f10d3c8b9404%2Fpaloma-valencia-y-maria-fernanda-cabal.jpg"
+      "title": "Intensas lluvias en Bogotá provocan inundaciones y afectan la movilidad en varias localidades",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/intensas-lluvias-en-bogota-provocan-inundaciones-y-afectan-la-movilidad-en-varias-localidades-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c272603/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F82%2F2a%2F450cbde94e9290384f37f11cd675%2Fplantilla-fotos-58.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/lanzaron-piedras-fachada-sede-ministerio-publico-maracaibo_187710-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-26T22:23:07.718Z"
+  "lastUpdate": "2026-01-26T23:23:23.578Z"
 };
