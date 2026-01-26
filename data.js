@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "355,55",
-      "eur": "417,59"
+      "usd": "358,92",
+      "eur": "426,19"
     },
     "binance": {
-      "usdt": "531,68"
+      "usdt": "532,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La alarmante desaparición de un adolescente tras ser contactado por un desconocido a través de Roblox",
-      "link": "https://caraotadigital.net/eeuu/la-alarmante-desaparicion-de-un-adolescente-tras-ser-contactado-por-un-desconocido-a-traves-de-roblox/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/ROBLOX.jpg"
+      "title": "Más de 800 presos políticos fueron excarcelados desde «antes de diciembre», dice Diosdado Cabello",
+      "link": "https://caraotadigital.net/venezuela/mas-de-800-presos-politicos-fueron-excarcelados-desde-antes-de-diciembre-dice-diosdado-cabello/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Cabello-CD-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXCARCELAN A ADOLESCENTE PRESO POR TENER «IMÁGENES CONTRA EL GOBIERNO»",
-      "link": "https://noticierodigital.com/2026/01/excarcelan-a-adolescente-preso-por-tener-imagenes-contra-el-gobierno/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260126-WA0169-627x376.jpg"
+      "title": "INTERPOL CAPTURÓ EN TÁCHIRA A OPERADORA FINANCIERA DE ESTAFA PIRAMIDAL GENERACIÓN ZOE",
+      "link": "https://noticierodigital.com/2026/01/interpol-capturo-en-tachira-a-operadora-financiera-de-estafa-piramidal-generacion-zoe/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Rosa-Maria-Gonzalez-Rincon-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "EE. UU. acusa a 31 integrantes más del Tren de Aragua por esquema de cajeros automáticos",
       "link": "https://diarioversionfinal.com/mundo/ee-uu-acusa-a-31-integrantes-mas-del-tren-de-aragua-por-esquema-de-cajeros-automaticos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/lanzaron-piedras-fachada-sede-ministerio-publico-maracaibo_187710-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-26T21:25:17.462Z"
+  "lastUpdate": "2026-01-26T22:23:07.718Z"
 };
