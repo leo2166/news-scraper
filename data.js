@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "500,00"
+      "usdt": "524,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Salió desde Venezuela el primer buque con crudo pesado hacia Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/01/26/salio-desde-venezuela-el-primer-buque-con-crudo-pesado-hacia-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/YIJ433HLKJHYFEH5Y44WNTX4VA.JPG?auth=e2ba6096bdae1e73cc5e484cf7370d207e36fe105df37a8661357c0358ae8ae8&smart=true&width=350&height=197&quality=85"
+      "title": "Rusia cuestionó la preparación del círculo de defensa de Maduro: “Además de tener una ametralladora, hay que saber dispararla”",
+      "link": "https://www.infobae.com/venezuela/2026/01/26/rusia-cuestiono-la-preparacion-del-circulo-de-defensa-de-maduro-ademas-de-tener-una-ametralladora-hay-que-saber-dispararla/",
+      "image": "https://www.infobae.com/resizer/v2/N5HAT2NLA5C3DNJLSSBA7NW7QM.jpg?auth=f50107fba4c84f40b88d2b4a34eb3bcd477271f11f17b53e62892d02a144bf26&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,40 +26,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump manda a su zar de la frontera a Minnesota",
-      "link": "https://cnnespanol.cnn.com/eeuu/live-news/ofensiva-inmigratoria-minneapolis-ice-pretti-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t173302z-520175463-rc2g8jayjvv3-rtrmadp-3-usa-trump-minnesota-20260126131843498.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Escalada federal en Minneapolis: detenciones y tensión en las calles",
+      "link": "https://cnnespanol.cnn.com/2026/01/26/eeuu/movimientos-agentes-minneapolis-st-paul-imagenes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "La decisión que tomó Claudia Sheinbaum sobre los conciertos de BTS en México que sorprendió a todos",
-      "link": "https://caraotadigital.net/mundo/la-decision-que-tomo-claudia-sheinbaum-sobre-los-conciertos-de-bts-en-mexico-que-sorprendio-a-todos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/bts1721832.jpg"
+      "title": "¿Qué se necesita para que las operaciones en el mercado cambiario se normalicen? Habló un experto",
+      "link": "https://caraotadigital.net/venezuela/que-se-necesita-para-que-las-operaciones-en-el-mercado-cambiario-se-normalicen-hablo-un-experto/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/06/imagebolivaresdolares.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REUTERS: SALE DE VENEZUELA PRIMER CARGAMENTO DE CRUDO RUMBO A EE .UU. TRAS MILLONARIO ACUERDO",
-      "link": "https://noticierodigital.com/2026/01/reuters-sale-de-venezuela-primer-cargamento-de-crudo-rumbo-a-ee-uu-tras-millonario-acuerdo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260126-WA0101-627x376.jpg"
+      "title": "LULA REITERÓ A TRUMP LA NECESIDAD DE «TRABAJAR» POR EL «BIENESTAR» DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/lula-reitero-a-trump-la-necesidad-de-trabajar-por-el-bienestar-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/LulayTrump-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Muere Salvo Basile, reconocido actor y cineasta colombo-italiano, a los 85 años",
-      "link": "https://www.noticiascaracol.com/entretenimiento/muere-salvo-basile-reconocido-actor-y-cineasta-colombo-italiano-a-los-85-anos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/854a5a2/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F6f%2F5b4d27724200a071950b9bacaafc%2Fsalvo-basile.jpg"
+      "title": "Paloma Valencia respondió a señalamientos de \"irregularidades\" en encuesta en la que le ganó a Cabal",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/paloma-valencia-respondio-a-senalamientos-de-irregularidades-en-encuesta-en-la-que-le-gano-a-cabal-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3ffde65/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2F64%2F5b35fc4c49199626f10d3c8b9404%2Fpaloma-valencia-y-maria-fernanda-cabal.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Industriales zulianos ven al petróleo como “motor para la reactivación industrial”",
-      "link": "https://laverdad.com/industriales-zulianos-ven-al-petroleo-como-motor-para-la-reactivacion-industrial/",
+      "title": "Abel Durán requiere ayuda para operar su columna y continuar su vida",
+      "link": "https://laverdad.com/abel-duran-requiere-ayuda-para-operar-su-columna-y-continuar-su-vida/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Fabiana-Rodriguez.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "ABC: Trump evalúa una salida tecnocrática para Venezuela si Delcy no se afianza en el poder",
-      "link": "https://diarioversionfinal.com/politica-dinero/abc-trump-evalua-una-salida-tecnocratica-para-venezuela-si-delcy-no-se-afianza-en-el-poder/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Trump-Alex-Pretti-26-01-2026-750x430.png"
+      "title": "Potente tormenta de nieve en EE.UU. deja al menos 17 muertos y mantiene 800.000 hogares sin electricidad",
+      "link": "https://diarioversionfinal.com/mundo/potente-tormenta-de-nieve-en-ee-uu-deja-al-menos-17-muertos-y-mantiene-800-000-hogares-sin-electricidad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/73224938_1004-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-26T17:30:32.767Z"
+  "lastUpdate": "2026-01-26T18:37:32.411Z"
 };
