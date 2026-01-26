@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "504,68"
+      "usdt": "524,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIRAL: Bad Bunny sorprendió a todos en su último concierto en Medellín, se presentó junto a Karol G",
-      "link": "https://caraotadigital.net/caraota-show/viral-bad-bunny-sorprendio-a-todos-en-su-ultimo-concierto-en-medellin-se-presento-junto-a-karol-g/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/badbunnykarolg161.jpg"
+      "title": "Excarcelaron a pareja que estuvo detenida ocho meses por caso del «dólar paralelo», así los recibió la familia",
+      "link": "https://caraotadigital.net/venezuela/excarcelaron-a-pareja-que-estuvo-detenida-ocho-meses-por-caso-del-dolar-paralelo-asi-los-recibio-la-familia/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/liberados72182.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AVIÓN PRIVADO SE ESTRELLÓ EN MAINE: DESCONOCEN ESTADO DE LAS PERSONAS QUE IBAN A BORDO",
-      "link": "https://noticierodigital.com/2026/01/avion-privado-se-estrello-en-maine-desconocen-estado-de-las-personas-que-iban-a-bordo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260126-WA0095-627x376.jpg"
+      "title": "REUTERS: SALE DE VENEZUELA PRIMER CARGAMENTO DE CRUDO RUMBO A EE .UU. TRAS MILLONARIO ACUERDO",
+      "link": "https://noticierodigital.com/2026/01/reuters-sale-de-venezuela-primer-cargamento-de-crudo-rumbo-a-ee-uu-tras-millonario-acuerdo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260126-WA0101-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Foro Penal actualiza a 266 la cifra de “presos políticos” excarcelados",
-      "link": "https://laverdad.com/foro-penal-actualiza-a-266-la-cifra-de-presos-politicos-excarcelados/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Magallanes-clasifica-a-la-final-de-la-LVBP.jpg"
+      "title": "La CPI declara al expresidente filipino Rodrigo Duterte apto para ser juzgado",
+      "link": "https://laverdad.com/la-cpi-declara-al-expresidente-filipino-rodrigo-duterte-apto-para-ser-juzgado/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Fabiana-Rodriguez.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "ABC: Trump evalúa una salida tecnocrática para Venezuela si Delcy no se afianza en el poder",
       "link": "https://diarioversionfinal.com/politica-dinero/abc-trump-evalua-una-salida-tecnocratica-para-venezuela-si-delcy-no-se-afianza-en-el-poder/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/maria-corina-machado1-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Buque-Gloria-Maris-26-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-26T15:30:28.098Z"
+  "lastUpdate": "2026-01-26T16:35:54.615Z"
 };
