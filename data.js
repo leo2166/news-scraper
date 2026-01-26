@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "490,99"
+      "usdt": "489,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El plan Trump para impulsar el crudo venezolano, una ruta plagada de complejos obstáculos",
-      "link": "https://caraotadigital.net/eeuu/el-plan-trump-para-impulsar-el-crudo-venezolano-una-ruta-plagada-de-complejos-obstaculos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/OIL-TRUMP-VENEZUELA.jpg"
+      "title": "Globos, banderas y aplausos: Así recibieron a varios presos políticos en sus hogares tras ser excarcelados",
+      "link": "https://caraotadigital.net/venezuela/globos-banderas-y-aplausos-asi-recibieron-a-varios-presos-politicos-en-sus-hogares-tras-ser-excarcelados/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/PRESOS8181.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esto dijo Juan de Bedout sobre Zulma Guzmán, señalada de homicidio con talio: \"Un error\"",
-      "link": "https://www.noticiascaracol.com/judicial/esto-dijo-juan-de-bedout-sobre-zulma-guzman-senalada-de-envenenar-a-menores-con-talio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ed71eb3/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2Fad%2F475dc4474078a855efab5be762c5%2Fdiseno.jpg"
+      "title": "Muere Salvo Basile, reconocido actor y cineasta colombo-italiano, a los 85 años",
+      "link": "https://www.noticiascaracol.com/entretenimiento/muere-salvo-basile-reconocido-actor-y-cineasta-colombo-italiano-a-los-85-anos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/854a5a2/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F6f%2F5b4d27724200a071950b9bacaafc%2Fsalvo-basile.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez dice que el país debe convertirse en una potencia petrolera",
-      "link": "https://laverdad.com/delcy-rodriguez-dice-que-el-pais-debe-convertirse-en-una-potencia-petrolera/",
+      "title": "Miraflores tilda de “fake news” la acusación de que “censura y reprime”",
+      "link": "https://laverdad.com/miraflores-tilda-de-fake-news-la-acusacion-de-que-censura-y-reprime/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/7a1f10c1649f9ea60604fe518ebb7fc92047c3be-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodríguez llama a la \"batalla diplomática\" contra EE.UU.",
-      "link": "https://diarioversionfinal.com/mundo/delcy-rodriguez-llama-a-la-batalla-diplomatica-contra-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/3sfoAe0z-image-750x430.jpg"
+      "title": "James Story, exembajador de EE.UU. en Venezuela: “Alex Saab está contando sus días”",
+      "link": "https://diarioversionfinal.com/politica-dinero/james-story-exembajador-de-ee-uu-en-venezuela-alex-saab-esta-contando-sus-dias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2026-01-15T103A103A38Z-90780927-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-26T12:50:59.503Z"
+  "lastUpdate": "2026-01-26T13:45:00.250Z"
 };
