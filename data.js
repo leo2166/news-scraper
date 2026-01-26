@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "417,59"
     },
     "binance": {
-      "usdt": "487,90"
+      "usdt": "492,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Rusia afirmó que el ex dictador Maduro fue traicionado por su entorno: “Conocemos los nombres”",
-      "link": "https://www.infobae.com/venezuela/2026/01/25/rusia-afirmo-que-el-ex-dictador-maduro-fue-traicionado-por-su-entorno-conocemos-los-nombres/",
-      "image": "https://www.infobae.com/resizer/v2/RZMXYZ4DB5DS7JWPBI7YNLQM3I.jpg?auth=6d1314edcc2a4109e31a62463c65a56891c864005a24c3ca2e4815fc4afe884e&smart=true&width=350&height=197&quality=85"
+      "title": "El preso político venezolano Kevin Orozco fue excarcelado horas después de que su madre muriera esperando su liberación",
+      "link": "https://www.infobae.com/venezuela/2026/01/25/el-preso-politico-venezolano-kevin-orozco-fue-excarcelado-horas-despues-de-que-su-madre-muriera-esperando-su-liberacion/",
+      "image": "https://www.infobae.com/resizer/v2/QZGSA7ZIOFDKTDHLBIJZNOBBYE.jpg?auth=e9b1baac5399b05946e0160d21b0508a1e10b806aa9b84fd064ecb7bdcb3154c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal reporta nuevas excarcelaciones de presos políticos durante este domingo\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/foro-penal-reporta-nuevas-excarcelaciones-de-presos-politicos-durante-este-domingo/",
+      "title": "Familias de presos políticos resisten a las afueras de El Rodeo I a la espera de excarcelaciones: \"Ahora todos somos familia\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/familias-de-presos-politicos-resisten-a-las-afueras-de-el-rodeo-i/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Tormenta invernal azota EE.UU.: vuelos cancelados y apagones",
+      "title": "EE.UU. sufre la mayor cantidad de cancelaciones de vuelos desde la pandemia",
       "link": "https://cnnespanol.cnn.com/clima-y-tiempo/live-news/noticias-tormenta-invernale-nieve-record-eeuu-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/alex-enfermero.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Fuertes lluvias inundan un pueblo colombiano y dejan al menos 700 familias afectadas",
-      "link": "https://caraotadigital.net/mundo/fuertes-lluvias-inundan-un-pueblo-colombiano-y-dejan-al-menos-700-familias-afectadas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/pueblo-inundado.jpg"
+      "title": "El plan Trump para impulsar el crudo venezolano, una ruta plagada de complejos obstáculos",
+      "link": "https://caraotadigital.net/eeuu/el-plan-trump-para-impulsar-el-crudo-venezolano-una-ruta-plagada-de-complejos-obstaculos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/OIL-TRUMP-VENEZUELA.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONG confirma 217 excarcelaciones de presos políticos desde el #8Ene",
-      "link": "https://diarioversionfinal.com/politica-dinero/ong-confirma-217-excarcelaciones-de-presos-politicos-desde-el-8ene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Serguei-Maduro-25-01-2026-750x430.jpg"
+      "title": "Los hermanos Rodríguez maniobran para evitar elecciones por “falta absoluta” de Maduro",
+      "link": "https://diarioversionfinal.com/politica-dinero/chavismo-intenta-eludir-la-constitucion-y-no-llamar-a-elecciones-por-falta-absoluta-de-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Nieve-NY-25-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-25T23:20:50.871Z"
+  "lastUpdate": "2026-01-26T01:57:38.341Z"
 };
