@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "562,68"
+      "usdt": "551,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Las madres de los presos políticos se niegan a dejar el campamento frente a una cárcel en Caracas pese a la intimidación del régimen",
-      "link": "https://www.infobae.com/venezuela/2026/01/27/las-madres-de-los-presos-politicos-se-niegan-a-dejar-el-campamento-frente-a-una-carcel-en-caracas-pese-a-la-intimidacion-del-regimen/",
-      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela prevé 1.400 millones de dólares de inversión petrolera este año",
+      "link": "https://www.infobae.com/venezuela/2026/01/27/venezuela-preve-1400-millones-de-dolares-de-inversion-petrolera-este-ano/",
+      "image": "https://www.infobae.com/resizer/v2/XE3BKJXQ2VD4JE4CFUZN7RZ7F4.jpg?auth=08ef70123fc127277410a224610d3374e3d43b8f4182b644d22bed1e7e4fc17e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Conindustria exige «igualdad de condiciones» ante posible llegada de empresas extranjeras",
-      "link": "https://caraotadigital.net/venezuela/conindustria-exige-igualdad-de-condiciones-ante-posible-llegada-de-empresas-extranjeras/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Conindustria-CD.jpg"
+      "title": "Dólar oficial sigue subiendo: Así se cotizó este 27Ene",
+      "link": "https://caraotadigital.net/venezuela/dolar-oficial-sigue-subiendo-asi-se-cotizo-este-27ene/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2023/02/imagedolar8382388-150x150.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "OVV ALERTÓ SOBRE AUMENTO DE AGRESIONES EN PAREJAS DEL MISMO SEXO EN VENEZUELA ",
-      "link": "https://noticierodigital.com/2026/01/ovv-alerto-sobre-aumento-de-agresiones-en-parejas-del-mismo-sexo-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/09/muertesviolentas-lgbt-23sep2021.jpg"
+      "title": "SANCIONES A VENEZUELA SE LEVANTARÁN DE FORMA PROGRESIVA: SECRETARIO BESSENT",
+      "link": "https://noticierodigital.com/2026/01/sanciones-a-venezuela-se-levantaran-de-forma-progresiva-secretario-bessent/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/europapress-7097193-october-22-2025-washington-district-of-columbia-usa-united-states-secretary_1200_800-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "CNN: La CIA trabaja para establecer presencia permanente de EE.UU. en Venezuela",
-      "link": "https://laverdad.com/cnn-la-cia-trabaja-para-establecer-presencia-permanente-de-ee-uu-en-venezuela/",
+      "title": "Hallan muerto al abogado Simón Arrieta en el Casco Central de Cabimas",
+      "link": "https://laverdad.com/hallan-muerto-al-abogado-simon-arrieta-en-el-casco-central-de-cabimas/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Rawayana1-nota.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "PetroChina suspende compra de crudo venezolano tras sanciones de EEUU",
-      "link": "https://diarioversionfinal.com/mundo/petrochina-suspende-compra-de-crudo-venezolano-tras-sanciones-de-eeuu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/delcy__rodriguez-2-750x430.jpg"
+      "title": "CNN: EE. UU. planifica la presencia permanente de la CIA en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/cnn-ee-uu-planifica-la-presencia-permanente-de-la-cia-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-10.30.18-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-27T12:52:32.908Z"
+  "lastUpdate": "2026-01-27T13:48:58.902Z"
 };
