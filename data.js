@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "544,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "\"Borra los mensajes\": las tácticas de los venezolanos por temor a que les revisen el celular",
-      "link": "https://cnnespanol.cnn.com/2026/01/26/venezuela/venezuela-control-celulares-borrar-conversaciones-codigos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/telefono-venezuela-2.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump se ve obligado a moderar sus intentos de acaparar poder",
+      "link": "https://cnnespanol.cnn.com/2026/01/27/eeuu/analisis-trump-moderar-intentos-acaparar-poder-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256949428-1-20260127064653847.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-26-at-10.25.34-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-27T07:28:32.074Z"
+  "lastUpdate": "2026-01-27T08:34:42.126Z"
 };
