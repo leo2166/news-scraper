@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "570,00"
+      "usdt": "573,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿La AN declarará falta absoluta de Maduro? Esto dice Timoteo Zambrano",
-      "link": "https://caraotadigital.net/venezuela/la-an-declarara-falta-absoluta-de-maduro-esto-dice-timoteo-zambrano/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Timoteo-Zambrano-CD.jpg"
+      "title": "VIDEO VIRAL: Delcy Rodríguez visitó la UCV y los estudiantes le pidieron la liberación de los presos políticos",
+      "link": "https://caraotadigital.net/venezuela/video-viral-delcy-rodriguez-visito-la-ucv-y-los-estudiantes-le-pidieron-la-liberacion-de-los-presos-politicos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Estudiantes-UCV-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. PREPARA RETORNO DIPLOMÁTICO A CARACAS CON UN «ENFOQUE GRADUAL» Y SEDE TEMPORAL",
-      "link": "https://noticierodigital.com/2026/01/ee-uu-prepara-retorno-diplomatico-a-caracas-con-un-enfoque-gradual-y-sede-temporal/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
+      "title": "CIDH AMPLIÓ MEDIDAS CAUTELARES PARA PROTEGER A HERMANAS BADUEL",
+      "link": "https://noticierodigital.com/2026/01/cidh-amplio-medidas-cautelares-para-proteger-a-hermanas-baduel/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/margareth-andreina-baduel-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "¿Es Marco Rubio un gobernador de Venezuela? este es el poder que le otorgó Trump",
-      "link": "https://diarioversionfinal.com/mundo/es-marco-rubio-un-gobernador-de-venezuela-este-es-el-poder-que-le-otorgo-trump/",
+      "title": "Diputado Luis Romero pide liberaciones de Yandir Loggiodice y exalcalde Parequeima por mal estado de salud",
+      "link": "https://diarioversionfinal.com/politica-dinero/diputado-luis-romero-pide-liberaciones-de-yandir-loggiodice-y-exalcalde-parequeima-por-mal-estado-de-salud/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/dl2dykv1-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-27T22:23:52.810Z"
+  "lastUpdate": "2026-01-27T23:23:02.621Z"
 };
