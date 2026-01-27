@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "551,50"
+      "usdt": "561,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,40 +26,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. planifica la presencia de la CIA en la Venezuela pos-Maduro",
+      "title": "La CIA planifica cómo será su presencia en la Venezuela pos-Maduro",
       "link": "https://cnnespanol.cnn.com/2026/01/27/venezuela/ee-uu-planifica-presencia-cia-maduro-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257290244-20260127114021403.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Dólar oficial sigue subiendo: Así se cotizó este 27Ene",
-      "link": "https://caraotadigital.net/venezuela/dolar-oficial-sigue-subiendo-asi-se-cotizo-este-27ene/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/02/imagedolar8382388-150x150.jpg"
+      "title": "Las revelaciones que hizo CNN sobre la CIA y el tema Venezuela",
+      "link": "https://caraotadigital.net/eeuu/las-revelaciones-que-hizo-cnn-sobre-la-cia-y-el-tema-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/c-2025-02-05t022252z-354868114-rc2onw9a9y97-rtrmadp-3-usa-trump-workers-cia-20250224163241515.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SANCIONES A VENEZUELA SE LEVANTARÁN DE FORMA PROGRESIVA: SECRETARIO BESSENT",
-      "link": "https://noticierodigital.com/2026/01/sanciones-a-venezuela-se-levantaran-de-forma-progresiva-secretario-bessent/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/europapress-7097193-october-22-2025-washington-district-of-columbia-usa-united-states-secretary_1200_800-627x376.webp"
+      "title": "MURIÓ LA MADRE DEL PERIODISTA Y EXPRESO POLÍTICO RAMÓN CENTENO",
+      "link": "https://noticierodigital.com/2026/01/murio-la-madre-del-periodista-y-expreso-politico-ramon-centeno/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/20260127_102741-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Crisis en el Centro Democrático? Lafaurie dice que \"filtraron\" su carta para \"generar un escándalo\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/crisis-en-el-centro-democratico-lafaurie-dice-que-filtraron-su-carta-para-generar-un-escandalo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ad21c9/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd2%2Fd0%2Fae3c9e534c14a063d0d0cef85b07%2Fpaloma-valencia-jose-felix-lafaurie-y-maria-fernanda-cabal.jpg"
+      "title": "Regulación extraordinaria de migrantes en España: así puede saber si puede aplicar a la medida",
+      "link": "https://www.noticiascaracol.com/mundo/regulacion-extraordinaria-de-migrantes-en-espana-asi-puede-saber-si-puede-aplicar-a-la-medida-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0e80d52/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F95%2Fc2%2Faa1b3d38405e8f62c0079652e608%2Fpuerto-rico-19.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Hallan muerto al abogado Simón Arrieta en el Casco Central de Cabimas",
-      "link": "https://laverdad.com/hallan-muerto-al-abogado-simon-arrieta-en-el-casco-central-de-cabimas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Rawayana1-nota.jpg"
+      "title": "Sube a 87 la cifra de acusados del “Tren de Aragua” por red de robo de cajeros en EE. UU.",
+      "link": "https://laverdad.com/sube-a-87-la-cifra-de-acusados-del-tren-de-aragua-por-red-de-robo-de-cajeros-en-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/sosten-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "CNN: EE. UU. planifica la presencia permanente de la CIA en Venezuela",
       "link": "https://diarioversionfinal.com/mundo/cnn-ee-uu-planifica-la-presencia-permanente-de-la-cia-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-10.30.18-AM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2xSYrklWyakQnq6r4DAHaSXE2BusvH4m-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-27T13:48:58.902Z"
+  "lastUpdate": "2026-01-27T14:30:47.526Z"
 };
