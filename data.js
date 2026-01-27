@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "561,69"
+      "usdt": "540,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela prevé 1.400 millones de dólares de inversión petrolera este año",
-      "link": "https://www.infobae.com/venezuela/2026/01/27/venezuela-preve-1400-millones-de-dolares-de-inversion-petrolera-este-ano/",
-      "image": "https://www.infobae.com/resizer/v2/XE3BKJXQ2VD4JE4CFUZN7RZ7F4.jpg?auth=08ef70123fc127277410a224610d3374e3d43b8f4182b644d22bed1e7e4fc17e&smart=true&width=350&height=197&quality=85"
+      "title": "La familia de la defensora de DDHH, Nélida Sánchez, exige su liberación tras 500 días de reclusión por parte del régimen de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/27/la-familia-de-la-defensora-de-ddhh-nelida-sanchez-exige-su-liberacion-tras-500-dias-de-reclusion-por-parte-del-regimen-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/JCO3JLUNAVFZHNOPPBIADWLS54.jpg?auth=8dc17beddefa385c86b0d7e645e6bb88d30c231b6e10c6b8ea8578595a7ca5b4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Las revelaciones que hizo CNN sobre la CIA y el tema Venezuela",
-      "link": "https://caraotadigital.net/eeuu/las-revelaciones-que-hizo-cnn-sobre-la-cia-y-el-tema-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/c-2025-02-05t022252z-354868114-rc2onw9a9y97-rtrmadp-3-usa-trump-workers-cia-20250224163241515.jpg"
+      "title": "¿Cómo se encuentra Nicolás Maduro en la prisión de Nueva York? Esto reveló su hijo",
+      "link": "https://caraotadigital.net/venezuela/como-se-encuentra-nicolas-maduro-en-la-prision-de-nueva-york-esto-revelo-su-hijo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-11.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Regulación extraordinaria de migrantes en España: así puede saber si puede aplicar a la medida",
-      "link": "https://www.noticiascaracol.com/mundo/regulacion-extraordinaria-de-migrantes-en-espana-asi-puede-saber-si-puede-aplicar-a-la-medida-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0e80d52/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F95%2Fc2%2Faa1b3d38405e8f62c0079652e608%2Fpuerto-rico-19.jpg"
+      "title": "Minminas a Ecuador por aumento de tarifa para transporte de crudo: “Responden con agresiones”",
+      "link": "https://www.noticiascaracol.com/economia/minminas-a-ecuador-por-aumento-de-tarifa-para-transporte-de-crudo-responden-con-agresiones-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1190d43/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F08%2F4f%2Ff19e27034b0e860ec687d98e64ab%2Fecuador-colombia.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Sube a 87 la cifra de acusados del “Tren de Aragua” por red de robo de cajeros en EE. UU.",
-      "link": "https://laverdad.com/sube-a-87-la-cifra-de-acusados-del-tren-de-aragua-por-red-de-robo-de-cajeros-en-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/sosten-1.jpg"
+      "title": "Reportan que un dron de EE. UU. sobrevoló la Región de Información de Vuelo de Maiquetía",
+      "link": "https://laverdad.com/reportan-que-un-dron-de-ee-uu-sobrevolo-la-region-de-informacion-de-vuelo-de-maiquetia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/premios-nota.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "CNN: EE. UU. planifica la presencia permanente de la CIA en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/cnn-ee-uu-planifica-la-presencia-permanente-de-la-cia-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2xSYrklWyakQnq6r4DAHaSXE2BusvH4m-750x430.jpg"
+      "title": "Bloomberg: Los bonos venezolanos ganan terreno y alcanzan un valor de $170.000 millones",
+      "link": "https://diarioversionfinal.com/politica-dinero/bloomberg-los-bonos-venezolanos-ganan-terreno-y-alcanzan-un-valor-de-170-000-millones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/iran-venezuela-RBUA47U6KXAE3c3SA7ZSHBK-1200x840@diario_abc-1024x614-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-27T14:30:47.526Z"
+  "lastUpdate": "2026-01-27T15:31:30.129Z"
 };
