@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "546,00"
+      "usdt": "562,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Madres de presos políticos se niegan a dejar campamento frente a la Zona 7 de la PNB en Caracas\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/madres-de-presos-politicos-se-niegan-a-dejar-campamento-frente-a-la-zona-7-de-la-pnb-en-caracas/",
+      "title": "\"Había golpes, amenazas y humillaciones\": panameño denuncia torturas tras meses detenido en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/panameno-denuncia-torturas-tras-meses-detenido-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump se ve obligado a moderar sus intentos de acaparar poder",
-      "link": "https://cnnespanol.cnn.com/2026/01/27/eeuu/analisis-trump-moderar-intentos-acaparar-poder-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256949428-1-20260127064653847.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. planifica la presencia de la CIA en la Venezuela pos-Maduro",
+      "link": "https://cnnespanol.cnn.com/2026/01/27/venezuela/ee-uu-planifica-presencia-cia-maduro-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257290244-20260127114021403.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DESIGNARON NUEVOS VICEMINISTROS EN EL MINISTERIO DE COMUNICACIÓN E INFORMACIÓN",
-      "link": "https://noticierodigital.com/2026/01/designaron-nuevos-viceministros-en-el-ministerio-de-comunicacion-e-informacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/ministerio-de-comunicacion-e-informacion-venezuela-627x376.jpg"
+      "title": "OVV ALERTÓ SOBRE AUMENTO DE AGRESIONES EN PAREJAS DEL MISMO SEXO EN VENEZUELA ",
+      "link": "https://noticierodigital.com/2026/01/ovv-alerto-sobre-aumento-de-agresiones-en-parejas-del-mismo-sexo-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/09/muertesviolentas-lgbt-23sep2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "España aprobará regularización extraordinaria de migrantes: 500 mil serían beneficiados",
-      "link": "https://www.noticiascaracol.com/mundo/espana-aprobara-regularizacion-extraordinaria-de-migrantes-500-mil-serian-beneficiados-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dcf8de3/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faf%2Fe2%2F827bf5e247bfae36f863de50ea86%2Fbandera-de-espana.jpg"
+      "title": "¿Crisis en el Centro Democrático? Lafaurie dice que \"filtraron\" su carta para \"generar un escándalo\"",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/crisis-en-el-centro-democratico-lafaurie-dice-que-filtraron-su-carta-para-generar-un-escandalo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ad21c9/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd2%2Fd0%2Fae3c9e534c14a063d0d0cef85b07%2Fpaloma-valencia-jose-felix-lafaurie-y-maria-fernanda-cabal.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Critican que siga la “falta de transparencia” tras recientes excarcelaciones",
-      "link": "https://laverdad.com/critican-que-siga-la-falta-de-transparencia-tras-recientes-excarcelaciones/",
+      "title": "CNN: La CIA trabaja para establecer presencia permanente de EE.UU. en Venezuela",
+      "link": "https://laverdad.com/cnn-la-cia-trabaja-para-establecer-presencia-permanente-de-ee-uu-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Rawayana1-nota.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maduro y Cilia Flores se encuentran en buen estado de salud, según \"Nicolasito\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/maduro-y-cilia-flores-se-encuentran-en-buen-estado-de-salud-segun-nicolasito/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/6dlWkzom-image-750x430.jpg"
+      "title": "PetroChina suspende compra de crudo venezolano tras sanciones de EEUU",
+      "link": "https://diarioversionfinal.com/mundo/petrochina-suspende-compra-de-crudo-venezolano-tras-sanciones-de-eeuu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/delcy__rodriguez-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-27T11:23:49.832Z"
+  "lastUpdate": "2026-01-27T12:52:32.908Z"
 };
