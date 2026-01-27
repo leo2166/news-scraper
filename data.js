@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "542,00"
+      "usdt": "520,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Chevron amplió su flota de buques y aceleró los envíos de crudo venezolano bajo la nueva estrategia de Estados Unidos",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/27/chevron-amplio-su-flota-de-buques-y-acelero-los-envios-de-crudo-venezolano-bajo-la-nueva-estrategia-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/BEQI5HR5XFCLVEELBLWLMAMSYM.JPG?auth=1195975e0a37abd2b9e3da28c0f32ce81b582002c2081977c03ec9ed69cf0c7e&smart=true&width=350&height=197&quality=85"
+      "title": "Empresarios consideran que la reforma petrolera en Venezuela fomenta la inversión inmediata, pero requiere cambios más profundos",
+      "link": "https://www.infobae.com/venezuela/2026/01/27/empresarios-consideran-que-la-reforma-petrolera-en-venezuela-fomenta-la-inversion-inmediata-pero-requiere-cambios-mas-profundos/",
+      "image": "https://www.infobae.com/resizer/v2/ZNXZETWBHFEP3P4AE52HTIBWAA.JPG?auth=b48ec2ec72739c05cb96d476fb28fa259c65d84928cc7caa07e7d21bc80dd403&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-26-at-10.25.34-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-27T05:28:08.789Z"
+  "lastUpdate": "2026-01-27T06:36:51.642Z"
 };
