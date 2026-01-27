@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "358,92",
-      "eur": "426,19"
+      "usd": "361,49",
+      "eur": "432,72"
     },
     "binance": {
-      "usdt": "570,00"
+      "usdt": "573,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El llamado que hizo Melania Trump en medio del caos de Minnesota debido muertes a manos del ICE",
-      "link": "https://caraotadigital.net/eeuu/el-llamado-que-hizo-melania-trump-en-medio-del-caos-de-minnesota-debido-muertes-a-manos-del-ice/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/10/MELANIA.jpg"
+      "title": "Devastadora tormenta invernal suma 34 muertos y deja más de 500 mil hogares sin electricidad en EEUU",
+      "link": "https://caraotadigital.net/eeuu/devastadora-tormenta-invernal-suma-34-muertos-y-deja-mas-de-500-mil-hogares-sin-electricidad-en-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EEUU-2-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA NO PODRÁ RECUPERARSE SIN DEMOCRACIA, DIJO OCARIZ",
-      "link": "https://noticierodigital.com/2026/01/venezuela-no-podra-recuperarse-sin-democracia-dijo-ocariz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/propuesta-carlosocariz-seriend-1dic2022-627x376.jpg"
+      "title": "OLIVEROS ADVIERTE QUE MÁS BANCOS DEBEN OFERTAR DIVISAS PARA MANTENER ESTABILIDAD CAMBIARIA",
+      "link": "https://noticierodigital.com/2026/01/oliveros-advierte-que-mas-bancos-deben-ofertar-divisas-para-mantener-estabilidad-cambiaria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/07/asdrubaloliveros-zonaseconomicasespeciales-26jul2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Ginette Gutiérrez asume el rectorado de la Unica para el período 2026-2029",
-      "link": "https://laverdad.com/ginette-gutierrez-asume-el-rectorado-de-la-unica-para-el-periodo-2026-2029/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/amarga-navidad.jpg"
+      "title": "Petro: EE. UU. debe “devolver” a Maduro para que sea juzgado en Venezuela",
+      "link": "https://laverdad.com/petro-ee-uu-debe-devolver-a-maduro-para-que-sea-juzgado-en-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/premio-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "¿Es Marco Rubio un gobernador de Venezuela? este es el poder que le otorgó Trump",
       "link": "https://diarioversionfinal.com/mundo/es-marco-rubio-un-gobernador-de-venezuela-este-es-el-poder-que-le-otorgo-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.14.15-PM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/dl2dykv1-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-27T20:24:31.804Z"
+  "lastUpdate": "2026-01-27T21:19:12.203Z"
 };
