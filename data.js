@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "570,69"
+      "usdt": "570,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Delsa Solórzano reapareció en público tras 17 meses en la clandestinidad, esto dijo",
-      "link": "https://caraotadigital.net/venezuela/delsa-solorzano-reaparecio-en-publico-tras-17-meses-en-la-clandestinidad-esto-dijo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Delsa.jpg"
+      "title": "El llamado que hizo Melania Trump en medio del caos de Minnesota debido muertes a manos del ICE",
+      "link": "https://caraotadigital.net/eeuu/el-llamado-que-hizo-melania-trump-en-medio-del-caos-de-minnesota-debido-muertes-a-manos-del-ice/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/10/MELANIA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REUTERS: EE. UU. CAMBIA ENFOQUE Y TRABAJA EN UNA LICENCIA GENERAL PARA VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/reuters-ee-uu-cambia-enfoque-y-trabaja-en-una-licencia-general-para-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/pdvsa-venezuela-caracas-627x376.jpg"
+      "title": "VENEZUELA NO PODRÁ RECUPERARSE SIN DEMOCRACIA, DIJO OCARIZ",
+      "link": "https://noticierodigital.com/2026/01/venezuela-no-podra-recuperarse-sin-democracia-dijo-ocariz/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/propuesta-carlosocariz-seriend-1dic2022-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Minminas a Ecuador por aumento de tarifa para transporte de crudo: “Responden con agresiones”",
-      "link": "https://www.noticiascaracol.com/economia/minminas-a-ecuador-por-aumento-de-tarifa-para-transporte-de-crudo-responden-con-agresiones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1190d43/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F08%2F4f%2Ff19e27034b0e860ec687d98e64ab%2Fecuador-colombia.jpg"
+      "title": "Petro dice que Estados Unidos debe devolver a Maduro para que sea juzgado en Venezuela",
+      "link": "https://www.noticiascaracol.com/politica/petro-dice-que-estados-unidos-debe-devolver-a-maduro-para-que-sea-juzgado-en-venezuela-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8f89ef9/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe5%2F8a%2F42b7cc614f5aa6a7b96a47adffa2%2Fpetro-y-madurp.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump insiste en que tiene “muy buena relación” con Venezuela tras declaraciones de Delcy Rodríguez",
-      "link": "https://laverdad.com/trump-insiste-en-que-tiene-muy-buena-relacion-con-venezuela-tras-declaraciones-de-delcy-rodriguez/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/hanrry-1.jpg"
+      "title": "Ginette Gutiérrez asume el rectorado de la Unica para el período 2026-2029",
+      "link": "https://laverdad.com/ginette-gutierrez-asume-el-rectorado-de-la-unica-para-el-periodo-2026-2029/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/amarga-navidad.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Enlace de Zapatero en Plus Ultra intermediaba con Venezuela y ocultaba 300.000 euros",
-      "link": "https://diarioversionfinal.com/politica-dinero/enlace-de-zapatero-en-plus-ultra-intermediaba-con-venezuela-y-ocultaba-300-000-euros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/Edmundo-Gonzalez-1.jpg"
+      "title": "¿Es Marco Rubio un gobernador de Venezuela? este es el poder que le otorgó Trump",
+      "link": "https://diarioversionfinal.com/mundo/es-marco-rubio-un-gobernador-de-venezuela-este-es-el-poder-que-le-otorgo-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.14.15-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-27T19:27:34.333Z"
+  "lastUpdate": "2026-01-27T20:24:31.804Z"
 };
