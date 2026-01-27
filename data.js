@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "560,00"
+      "usdt": "575,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La CIA planifica cómo será su presencia en la Venezuela pos-Maduro",
-      "link": "https://cnnespanol.cnn.com/2026/01/27/venezuela/ee-uu-planifica-presencia-cia-maduro-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257290244-20260127114021403.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Ordenan al director de ICE comparecer ante tribunal",
+      "link": "https://cnnespanol.cnn.com/",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-2-20260127100518319.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Murió la madre del expreso político Ramón Centeno, le dio un ACV en la audiencia de su hijo",
-      "link": "https://caraotadigital.net/venezuela/murio-la-madre-del-expreso-politico-ramon-centeno-le-dio-un-acv-en-la-audiencia-de-su-hijo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/madre-3.jpg"
+      "title": "31 personas más fueron acusadas por el caso de «jackpotting» que sacude a EEUU, varios son del Tren de Aragua",
+      "link": "https://caraotadigital.net/eeuu/31-personas-mas-fueron-acusadas-por-el-caso-de-jackpotting-que-sacude-a-eeuu-varios-son-del-tren-de-aragua/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Tren-de-Aragua-4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EDMUNDO GONZÁLEZ SOBRE MAIKELYS BORGES Y SAMANTHA HERNÁNDEZ: «CADA CASO ES UNA HISTORIA DURA»",
-      "link": "https://noticierodigital.com/2026/01/edmundo-gonzalez-sobre-maikelys-borges-y-samantha-hernandez-cada-caso-es-una-historia-dura/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.26.22-PM-627x376.jpeg"
+      "title": "«EL ÉXITO DE DELCY RODRÍGUEZ SERÁ EL EXITO DE VENEZUELA»: TIMOTEO ZAMBRANO",
+      "link": "https://noticierodigital.com/2026/01/el-exito-de-delcy-rodriguez-sera-el-exito-de-venezuela-timoteo-zambrano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/timoteozambrano-dialogomexico-24may2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Familia de la activista Nélida Sánchez denuncia tratos crueles y exige su liberación",
-      "link": "https://laverdad.com/familia-de-la-activista-nelida-sanchez-denuncia-tratos-crueles-y-exige-su-liberacion/",
+      "title": "El conservador Nasry “Tito” Asfura asume como nuevo presidente de Honduras",
+      "link": "https://laverdad.com/el-conservador-nasry-tito-asfura-asume-como-nuevo-presidente-de-honduras/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Andres-Chaparro-es-reconocido-entre-los-lideres-de-bateo-del-round-robin.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Familia de presos políticos acentúan sus protestas y se encadenan: “Estoy dispuesta a morir”",
       "link": "https://diarioversionfinal.com/politica-dinero/familia-de-presos-politicos-acentuan-sus-protestas-y-se-encadenan-estoy-dispuesta-a-morir/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Bonos-Deuda-Venezuela-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/CVN-78-USS-Gerald-R-Ford-159-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-27T16:31:53.474Z"
+  "lastUpdate": "2026-01-27T17:28:29.052Z"
 };
