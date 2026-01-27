@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "573,69"
+      "usdt": "570,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Familiares lograron ver a presos políticos en Zona 7 de Boleíta tras casi un mes de protesta\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/familiares-lograron-ver-a-presos-politicos-en-zona-7-de-boleita-tras-casi-un-mes-de-protesta/",
+      "title": "El Departamento de Estado informó al Congreso de EE UU que inició pasos para restablecer operaciones diplomáticas en la embajada estadounidense en Caracas\nEE UU",
+      "link": "https://www.elnacional.com/2026/01/el-departamento-de-estado-informo-al-congreso-de-ee-uu-que-inicio-pasos-para-restablecer-operaciones-diplomaticas-en-la-embajada-estadounidense-en-caracas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Devastadora tormenta invernal suma 34 muertos y deja más de 500 mil hogares sin electricidad en EEUU",
-      "link": "https://caraotadigital.net/eeuu/devastadora-tormenta-invernal-suma-34-muertos-y-deja-mas-de-500-mil-hogares-sin-electricidad-en-eeuu/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/EEUU-2-1.jpg"
+      "title": "¿La AN declarará falta absoluta de Maduro? Esto dice Timoteo Zambrano",
+      "link": "https://caraotadigital.net/venezuela/la-an-declarara-falta-absoluta-de-maduro-esto-dice-timoteo-zambrano/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Timoteo-Zambrano-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "OLIVEROS ADVIERTE QUE MÁS BANCOS DEBEN OFERTAR DIVISAS PARA MANTENER ESTABILIDAD CAMBIARIA",
-      "link": "https://noticierodigital.com/2026/01/oliveros-advierte-que-mas-bancos-deben-ofertar-divisas-para-mantener-estabilidad-cambiaria/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/07/asdrubaloliveros-zonaseconomicasespeciales-26jul2022.jpg"
+      "title": "EE. UU. PREPARA RETORNO DIPLOMÁTICO A CARACAS CON UN «ENFOQUE GRADUAL» Y SEDE TEMPORAL",
+      "link": "https://noticierodigital.com/2026/01/ee-uu-prepara-retorno-diplomatico-a-caracas-con-un-enfoque-gradual-y-sede-temporal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Petro dice que Estados Unidos debe devolver a Maduro para que sea juzgado en Venezuela",
-      "link": "https://www.noticiascaracol.com/politica/petro-dice-que-estados-unidos-debe-devolver-a-maduro-para-que-sea-juzgado-en-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8f89ef9/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe5%2F8a%2F42b7cc614f5aa6a7b96a47adffa2%2Fpetro-y-madurp.jpg"
+      "title": "Habló la madre de menor fallecido en La Calera, Liam Gael Rodríguez, tras captura de su esposo",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/hablo-la-madre-del-menor-de-edad-fallecido-en-la-calera-liam-gael-rodriguez-tras-captura-de-su-esposo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0b350d1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2Fb9%2Fdd3237af43358a32cb7bc46ff021%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/dl2dykv1-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-27T21:19:12.203Z"
+  "lastUpdate": "2026-01-27T22:23:52.810Z"
 };
