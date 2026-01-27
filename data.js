@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "426,19"
     },
     "binance": {
-      "usdt": "539,00"
+      "usdt": "542,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ARRIBÓ A VENEZUELA VUELO CON 128 MIGRANTES DEPORTADOS DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/01/arribo-a-venezuela-vuelo-con-128-migrantes-deportados-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/vuelo-de-deportacion-eeuu-venezuela-627x376.jpg"
+      "title": "DESIGNARON NUEVOS VICEMINISTROS EN EL MINISTERIO DE COMUNICACIÓN E INFORMACIÓN",
+      "link": "https://noticierodigital.com/2026/01/designaron-nuevos-viceministros-en-el-ministerio-de-comunicacion-e-informacion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/ministerio-de-comunicacion-e-informacion-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscalía de EE.UU. incluye a “Nicolasito” en acusación por narcotráfico que pesa sobre su padre",
-      "link": "https://diarioversionfinal.com/politica-dinero/fiscalia-de-ee-uu-incluye-a-nicolasito-en-acusacion-por-narcotrafico-que-pesa-sobre-su-padre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-26-at-10.17.38-PM-750x430.jpeg"
+      "title": "Maduro y Cilia Flores se encuentran en buen estado de salud, según \"Nicolasito\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/maduro-y-cilia-flores-se-encuentran-en-buen-estado-de-salud-segun-nicolasito/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-26-at-10.25.34-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-27T01:54:28.895Z"
+  "lastUpdate": "2026-01-27T03:48:29.450Z"
 };
