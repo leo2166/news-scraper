@@ -5,7 +5,7 @@
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "543,69"
+      "usdt": "535,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Reapareció la líder opositora Delsa Solórzano en Venezuela tras más de un año oculta: “La transición hay que construirla”",
-      "link": "https://www.infobae.com/venezuela/2026/01/28/reaparecio-la-lider-opositora-delsa-solorzano-en-venezuela-tras-mas-de-un-ano-oculta-la-transicion-hay-que-construirla/",
-      "image": "https://www.infobae.com/resizer/v2/NGBST5D5DBF3FOCDYMEJCJAI5E.jpg?auth=cebc2bde83d618610ac88e3ea39be219fe4e067bae39b5bbe2613a2f45e9e453&smart=true&width=350&height=197&quality=85"
+      "title": "El Comité por la Libertad de los Presos Políticos anunció ocho nuevas excarcelaciones en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/28/el-comite-por-la-libertad-de-los-presos-politicos-anuncio-ocho-nuevas-excarcelaciones-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -27,32 +27,32 @@
     {
       "source": "CNN en Español",
       "title": "Atacan a la congresista Ilhan Omar en un foro en Minnesota; no resultó herida",
-      "link": "https://cnnespanol.cnn.com/2026/01/27/eeuu/hombre-rocia-sustancia-representante-minneapolis-ilhan-omar-trax",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/vivo-ofensiva-inmigratoria-minneapolis-ice-pretti-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256784713.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: Controlaron conato de incendio en la sede del CNE en Caracas, esto habría iniciado el fuego",
-      "link": "https://caraotadigital.net/venezuela/en-video-controlaron-conato-de-incendio-en-la-sede-del-cne-en-caracas-esto-habria-iniciado-el-fuego/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/incendio-1.jpg"
+      "title": "BCV confirmó otra subasta de $200 millones, continuarán habilitando mecanismos de venta de divisas",
+      "link": "https://caraotadigital.net/venezuela/bcv-confirmo-otra-subasta-de-200-millones-continuaran-habilitando-mecanismos-de-venta-de-divisas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/BCV-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TAREK WILLIAM SAAB: «EN VENEZUELA NO HAY PRESOS POLÍTICOS»",
-      "link": "https://noticierodigital.com/2026/01/tarek-william-saab-en-venezuela-no-hay-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/tarek-william-saab-1-627x376.jpg"
+      "title": "BP Y SHELL BUSCAN LICENCIAS PARA DESARROLLAR PROYECTOS DE GAS ENTRE TRINIDAD Y VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/bp-y-shell-buscan-licencias-para-desarrollar-proyectos-de-gas-entre-trinidad-y-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/10/shell.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Minjusticia confirma extradición de alias Pipe Tuluá a Estados Unidos: su historial criminal",
-      "link": "https://www.noticiascaracol.com/judicial/minjusticia-confirma-extradicion-de-alias-pipe-tulua-a-estados-unidos-su-historial-criminal-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0a4f022/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7a%2F82%2F688e5f054a96acdc1d6eb0c2ed5d%2Fdiseno.jpg"
+      "title": "Revelan el estado de Nicolás Maduro durante sus días en prisión en Estados Unidos",
+      "link": "https://www.noticiascaracol.com/mundo/revelan-el-estado-de-nicolas-maduro-durante-sus-dias-en-prision-en-estados-unidos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0b20311/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9b%2F26%2F1c100ab44245b2e435468c644559%2Fnicolas-maduro-4.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Iris Varela considera a Maduro y Cilia Flores como los “dos únicos presos políticos” del país",
-      "link": "https://laverdad.com/iris-varela-considera-a-maduro-y-cilia-flores-como-los-dos-unicos-presos-politicos-del-pais/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Gustavo-Dudamel-1-scaled.jpg"
+      "title": "Embajada venezolana en Moscú difunde dirección postal para escribir cartas a Maduro",
+      "link": "https://laverdad.com/embajada-venezolana-en-moscu-difunde-direccion-postal-para-escribir-cartas-a-maduro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Magallanes-Caribes-Juego-1-Leandro-Cedeno.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/presidente-venezuela-nicolas-maduro-esposa-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-28T14:31:40.545Z"
+  "lastUpdate": "2026-01-28T15:33:37.789Z"
 }
