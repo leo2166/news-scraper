@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "547,69"
+      "usdt": "547,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Tratamientos de vanguardia: Recuperando el equilibrio hormonal y mental",
-      "link": "https://caraotadigital.net/opinion/tratamientos-de-vanguardia-recuperando-el-equilibrio-hormonal-y-mental/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/04/mantellini6225.jpg"
+      "title": "El país recibirá 10 mil millones de dólares adicionales este año: «Te da cierto margen para ajustes de salario», según experto",
+      "link": "https://caraotadigital.net/venezuela/el-pais-recibira-10-mil-millones-de-dolares-adicionales-este-ano-te-da-cierto-margen-para-ajustes-de-salario-segun-experto/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dinero.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CALZADILLA: «EL 28J PODRÍA CONSIDERARSE COMO EL INICIO DE LA TRANSICIÓN EN VENEZUELA»",
-      "link": "https://noticierodigital.com/2026/01/calzadilla-el-28j-podria-considerarse-como-el-inicio-de-la-transicion-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/Calzadilla1-627x376.jpg"
+      "title": "REUTERS: CHEVRON PREVÉ AUMENTAR LAS EXPORTACIONES DE PETRÓLEO VENEZOLANO A EE. UU. ",
+      "link": "https://noticierodigital.com/2026/01/reuters-chevron-preve-aumentar-las-exportaciones-de-petroleo-venezolano-a-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/chevron-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Solicitan medida de aseguramiento para papá del bebé muerto en extrañas circunstancias en La Calera",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/solicitan-medida-de-aseguramiento-para-papa-del-bebe-muerto-en-extranas-circunstancias-en-la-calera-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/338cac4/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F57%2Fe8%2F6bd274564ac0af5e64fd146e3e44%2Fliam-bebe.jpg"
+      "title": "Avión al servicio de Satena, con más de 10 personas a bordo, desapareció en Norte de Santander",
+      "link": "https://www.noticiascaracol.com/colombia/avion-de-satena-con-16-personas-a-bordo-desaparecio-en-norte-de-santander",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f22d836/2147483647/strip/true/crop/1278x721+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4e%2F23%2Fa3dd39274038b53a90d2660a3d0d%2Favion-satena.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Oenegé registra 294 excarcelaciones y exige que se realicen con “plenas garantías”",
-      "link": "https://laverdad.com/oenege-registra-294-excarcelaciones-y-exige-que-se-realicen-con-plenas-garantias/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Nadia-Ferreira-segundo-bebe.jpg"
+      "title": "Machado llega al Departamento de Estado para reunirse con Marco Rubio",
+      "link": "https://laverdad.com/machado-llega-al-departamento-de-estado-para-reunirse-con-marco-rubio/",
+      "image": "https://laverdad.com/wp-content/uploads/2024/11/30b689684fe15a6e66adb5a3ef69d1c8.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "#Ahora Marco Rubio en el Senado: \"Maduro no es un tipo con el que se pueda hacer un trato\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/ahora-marco-rubio-en-el-senado-maduro-no-es-un-tipo-con-el-que-se-pueda-hacer-un-trato/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/LIVVN7OMMNH5ZLMRQL4MW554JE-750x430.jpg"
+      "title": "María Corina Machado llega al Departamento de Estado para encuentro con Marco Rubio",
+      "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-machado-llega-al-departamento-de-estado-para-encuentro-con-marco-rubio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Miguelangel-Suarez-y-Delcy-Rodriguez-28-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-28T18:38:55.046Z"
+  "lastUpdate": "2026-01-28T19:29:32.516Z"
 };
