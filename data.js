@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "576,69"
+      "usdt": "577,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Un muerto y varios heridos en El Plateado por ataque con dron cargado con explosivos",
-      "link": "https://www.noticiascaracol.com/colombia/un-muerto-y-varios-heridos-en-el-plateado-por-ataque-con-dron-cargado-con-explosivos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7a42d6a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5c%2Ffc%2F42395dc8406fb1fe3ed3c386cc0b%2Fel-plateado.jpg"
+      "title": "\"Estamos preparados para usar la fuerza\": Marco Rubio a Delcy Rodríguez si no coopera con EE. UU.",
+      "link": "https://www.noticiascaracol.com/mundo/estamos-preparados-para-usar-la-fuerza-marco-rubio-a-delcy-rodriguez-si-no-coopera-con-ee-uu-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b4a573/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffc%2F18%2Fa81ca2134fcc8630856200e190f2%2Fmarco-rubio-y-delcy-rodriguez.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/gjAGoLxy-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-28T10:29:49.139Z"
+  "lastUpdate": "2026-01-28T11:23:53.766Z"
 };
