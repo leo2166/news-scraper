@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "549,70"
+      "usdt": "571,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció que Estados Unidos comenzará a desbloquear activos venezolanos",
-      "link": "https://www.infobae.com/venezuela/2026/01/28/delcy-rodriguez-anuncio-que-estados-unidos-comenzara-a-desbloquear-activos-venezolanos/",
-      "image": "https://www.infobae.com/resizer/v2/ZN7PZOSOABFAJHLKQPTMQQW6UE.jpg?auth=02926e01a02e7a86aeafb5ff694af31f59bef2395e1e932a0a4c91956d702840&smart=true&width=350&height=197&quality=85"
+      "title": "El Banco Central de Venezuela anunció una nueva oferta de divisas por USD 200 millones provenientes de la exportación de hidrocarburos",
+      "link": "https://www.infobae.com/venezuela/2026/01/28/el-banco-central-de-venezuela-anuncio-una-nueva-oferta-de-divisas-por-usd-200-millones-provenientes-de-la-exportacion-de-hidrocarburos/",
+      "image": "https://www.infobae.com/resizer/v2/BYCV5CYINFASXNOOXMUADFZIH4.jpg?auth=f6010156658c5a0536b9febc15b9df9f94b2b6832ecb826194a8cd99171c4508&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Un hombre herido de gravedad por disparos de Patrulla Fronteriza en Arizona, Estados Unidos",
-      "link": "https://www.noticiascaracol.com/mundo/un-hombre-herido-de-gravedad-por-disparos-de-patrulla-fronteriza-en-arizona-estados-unidos-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/80c3fb8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6f%2Fcc%2Fd933a6f84f72a60afa666aecb4b6%2Farizona.jpg"
+      "title": "Un muerto y varios heridos en El Plateado por ataque con dron cargado con explosivos",
+      "link": "https://www.noticiascaracol.com/colombia/un-muerto-y-varios-heridos-en-el-plateado-por-ataque-con-dron-cargado-con-explosivos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7a42d6a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5c%2Ffc%2F42395dc8406fb1fe3ed3c386cc0b%2Fel-plateado.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Presos-politicos-2-27-01-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-28T03:46:03.142Z"
+  "lastUpdate": "2026-01-28T04:44:30.732Z"
 };
