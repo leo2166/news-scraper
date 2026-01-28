@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "571,40"
+      "usdt": "550,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Presos-politicos-2-27-01-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-28T05:28:52.947Z"
+  "lastUpdate": "2026-01-28T06:37:47.100Z"
 };
