@@ -1,8 +1,8 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "361,49",
-      "eur": "432,72"
+      "usd": "363,66",
+      "eur": "434,43"
     },
     "binance": {
       "usdt": "547,00"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El país recibirá 10 mil millones de dólares adicionales este año: «Te da cierto margen para ajustes de salario», según experto",
-      "link": "https://caraotadigital.net/venezuela/el-pais-recibira-10-mil-millones-de-dolares-adicionales-este-ano-te-da-cierto-margen-para-ajustes-de-salario-segun-experto/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/dinero.jpg"
+      "title": "El dardo que lanzó Rick Scott contra «el narcotraficante horrible» Petro, a pocos días de que se reúna con Trump",
+      "link": "https://caraotadigital.net/eeuu/el-dardo-que-lanzo-rick-scott-contra-el-narcotraficante-horrible-petro-a-pocos-dias-de-que-se-reuna-con-trump/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SCOTT-PETRO.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REUTERS: CHEVRON PREVÉ AUMENTAR LAS EXPORTACIONES DE PETRÓLEO VENEZOLANO A EE. UU. ",
-      "link": "https://noticierodigital.com/2026/01/reuters-chevron-preve-aumentar-las-exportaciones-de-petroleo-venezolano-a-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/chevron-venezuela-627x376.jpg"
+      "title": "RAMÓN LOBO: «LA NUEVA LEY NO FIJA PRECIOS, OBSERVA LOS PROCESOS ECONÓMICOS»",
+      "link": "https://noticierodigital.com/2026/01/ramon-lobo-la-nueva-ley-no-fija-precios-observa-los-procesos-economicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/ramon-lobo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Machado llega al Departamento de Estado para reunirse con Marco Rubio",
-      "link": "https://laverdad.com/machado-llega-al-departamento-de-estado-para-reunirse-con-marco-rubio/",
+      "title": "Foro Penal eleva a 287 el total de excarcelaciones tras confirmar otras 20",
+      "link": "https://laverdad.com/foro-penal-eleva-a-287-el-total-de-excarcelaciones-tras-confirmar-otras-20/",
       "image": "https://laverdad.com/wp-content/uploads/2024/11/30b689684fe15a6e66adb5a3ef69d1c8.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "María Corina Machado llega al Departamento de Estado para encuentro con Marco Rubio",
-      "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-machado-llega-al-departamento-de-estado-para-encuentro-con-marco-rubio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Miguelangel-Suarez-y-Delcy-Rodriguez-28-01-2026-750x430.jpg"
+      "title": "Cercanía de Miguel Cabrera con Delcy genera polémica: \"El talento no absuelve complicidad con el poder\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/cercania-de-miguel-cabrera-con-delcy-genera-polemica-el-talento-no-absuelve-complicidad-con-el-poder/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/maria-corina-y-marco-1068x712-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-28T19:29:32.516Z"
+  "lastUpdate": "2026-01-28T20:32:47.236Z"
 };
