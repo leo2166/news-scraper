@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "553,69"
+      "usdt": "543,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Dólar oficial superó nueva barrera: Así se cotizó este 28Ene",
-      "link": "https://caraotadigital.net/venezuela/dolar-oficial-supero-nueva-barrera-asi-se-cotizo-este-28ene/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/03/imagedoalres939-1-860x484-1.jpg"
+      "title": "EN VIDEO: Controlaron conato de incendio en la sede del CNE en Caracas, esto habría iniciado el fuego",
+      "link": "https://caraotadigital.net/venezuela/en-video-controlaron-conato-de-incendio-en-la-sede-del-cne-en-caracas-esto-habria-iniciado-el-fuego/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/incendio-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MP IMPUTARÁ HOMICIDIO INTENCIONAL CALIFICADO EN EL CASO DEL FUNCIONARIO DEIKER RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/01/mp-imputara-homicidio-intencional-calificado-en-el-caso-del-funcionario-deiker-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260127-WA0030-627x376.jpg"
+      "title": "TAREK WILLIAM SAAB: «EN VENEZUELA NO HAY PRESOS POLÍTICOS»",
+      "link": "https://noticierodigital.com/2026/01/tarek-william-saab-en-venezuela-no-hay-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/tarek-william-saab-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Madre de periodista murió por creciente súbita que arrastró su carro en La Mesa, Cundinamarca",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/madre-de-periodista-murio-por-creciente-subita-que-arrastro-su-carro-en-la-mesa-cundinamarca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dc11f6f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8f%2Feb%2F3f80fadd47f5a96b9170dff33097%2Fpuerto-rico-21.jpg"
+      "title": "Minjusticia confirma extradición de alias Pipe Tuluá a Estados Unidos: su historial criminal",
+      "link": "https://www.noticiascaracol.com/judicial/minjusticia-confirma-extradicion-de-alias-pipe-tulua-a-estados-unidos-su-historial-criminal-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0a4f022/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7a%2F82%2F688e5f054a96acdc1d6eb0c2ed5d%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump: Cuba “está a punto de caer” porque ya no recibe petróleo de Venezuela",
-      "link": "https://laverdad.com/trump-cuba-esta-a-punto-de-caer-porque-ya-no-recibe-petroleo-de-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/premio-1.jpg"
+      "title": "Iris Varela considera a Maduro y Cilia Flores como los “dos únicos presos políticos” del país",
+      "link": "https://laverdad.com/iris-varela-considera-a-maduro-y-cilia-flores-como-los-dos-unicos-presos-politicos-del-pais/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Gustavo-Dudamel-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio se reunirá con María Corina Machado en Washington este #28Ene",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-se-reunira-con-maria-corina-machado-en-washington-este-28ene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/APP-VF-PUENTE-RAFAEL-URDANETA-PUENTE-SOBRE-EL-LAGO-FOTO-ALEJANDRO-PAREDES-PEREZ-AGOSTO-2022-4-750x430.jpg"
+      "title": "Trump amenaza a Irán con una \"enorme flota\" y dice que está lista para actuar como con Nicolás Maduro",
+      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-a-iran-con-una-enorme-flota-y-dice-que-esta-lista-para-actuar-como-con-nicolas-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/presidente-venezuela-nicolas-maduro-esposa-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-28T13:50:08.090Z"
+  "lastUpdate": "2026-01-28T14:31:40.545Z"
 };
