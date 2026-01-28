@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "535,69"
+      "usdt": "539,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Comité por la Libertad de los Presos Políticos anunció ocho nuevas excarcelaciones en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/28/el-comite-por-la-libertad-de-los-presos-politicos-anuncio-ocho-nuevas-excarcelaciones-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
+      "title": "Murieron las madres de tres presos políticos en Venezuela en medio del proceso de excarcelaciones",
+      "link": "https://www.infobae.com/venezuela/2026/01/28/murieron-las-madres-de-tres-presos-politicos-en-venezuela-en-medio-del-proceso-de-excarcelaciones/",
+      "image": "https://www.infobae.com/resizer/v2/QJVS4R7JKNBYFG2Q6DW4PDAOR4.jpg?auth=7d7cb65e8ddceb06776deffe0b62529811748f62efc57fb53793bcd9c1778ea5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Atacan a la congresista Ilhan Omar en un foro en Minnesota; no resultó herida",
-      "link": "https://cnnespanol.cnn.com/eeuu/live-news/vivo-ofensiva-inmigratoria-minneapolis-ice-pretti-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256784713.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Rubio: EE.UU. tiene mecanismo para financiar partes del Gobierno de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/01/28/eeuu/marco-rubio-fuerza-gobierno-delcy-venezuela-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/rubio-audiencia-gettyimages-2258662711.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "BCV confirmó otra subasta de $200 millones, continuarán habilitando mecanismos de venta de divisas",
-      "link": "https://caraotadigital.net/venezuela/bcv-confirmo-otra-subasta-de-200-millones-continuaran-habilitando-mecanismos-de-venta-de-divisas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/BCV-1.jpg"
+      "title": "Orquesta Sinfónica Simón Bolívar volvió a hacer historia y competirá por un Grammy Awards",
+      "link": "https://caraotadigital.net/caraota-show/orquesta-sinfonica-simon-bolivar-volvio-a-hacer-historia-y-competira-por-un-grammy-awards/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Orquesta.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BP Y SHELL BUSCAN LICENCIAS PARA DESARROLLAR PROYECTOS DE GAS ENTRE TRINIDAD Y VENEZUELA",
-      "link": "https://noticierodigital.com/2026/01/bp-y-shell-buscan-licencias-para-desarrollar-proyectos-de-gas-entre-trinidad-y-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/10/shell.jpg"
+      "title": "RUBIO ANTE EL SENADO: «UNA TRANSICIÓN EN VENEZUELA DURARÁ TIEMPO» ",
+      "link": "https://noticierodigital.com/2026/01/rubio-ante-el-senado-una-transicion-en-venezuela-durara-tiempo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260128-WA0142-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Embajada venezolana en Moscú difunde dirección postal para escribir cartas a Maduro",
-      "link": "https://laverdad.com/embajada-venezolana-en-moscu-difunde-direccion-postal-para-escribir-cartas-a-maduro/",
+      "title": "La Fanb destruye en Amazonas 3 avionetas vinculadas al narcotráfico",
+      "link": "https://laverdad.com/la-fanb-destruye-en-amazonas-3-avionetas-vinculadas-al-narcotrafico/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Magallanes-Caribes-Juego-1-Leandro-Cedeno.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump amenaza a Irán con una \"enorme flota\" y dice que está lista para actuar como con Nicolás Maduro",
-      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-a-iran-con-una-enorme-flota-y-dice-que-esta-lista-para-actuar-como-con-nicolas-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/presidente-venezuela-nicolas-maduro-esposa-750x430.jpeg"
+      "title": "#Ahora Marco Rubio en el Senado: \"Maduro no es un tipo con el que se pueda hacer un trato\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/ahora-marco-rubio-en-el-senado-maduro-no-es-un-tipo-con-el-que-se-pueda-hacer-un-trato/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-1.09.58-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-28T15:33:37.789Z"
+  "lastUpdate": "2026-01-28T16:38:22.565Z"
 };
