@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "579,00"
+      "usdt": "576,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Banco Central de Venezuela anunció una nueva oferta de divisas por USD 200 millones provenientes de la exportación de hidrocarburos",
-      "link": "https://www.infobae.com/venezuela/2026/01/28/el-banco-central-de-venezuela-anuncio-una-nueva-oferta-de-divisas-por-usd-200-millones-provenientes-de-la-exportacion-de-hidrocarburos/",
-      "image": "https://www.infobae.com/resizer/v2/BYCV5CYINFASXNOOXMUADFZIH4.jpg?auth=f6010156658c5a0536b9febc15b9df9f94b2b6832ecb826194a8cd99171c4508&smart=true&width=350&height=197&quality=85"
+      "title": "Cuánto durará la cooperación de Delcy Rodríguez con Washington: surgen dudas en Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/01/28/cuanto-durara-la-cooperacion-de-delcy-rodriguez-con-washington-surgen-dudas-en-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/NNJD4TZJCFDNJAHO7C7RYK76DA.jpg?auth=e9db1f487cb80566e22f92d3f3aa5ccc4b5713315445711bf5722366f33f2ed7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Delcy Rodríguez en el filo de la navaja\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/delcy-rodriguez-en-el-filo-de-la-navaja/",
+      "title": "Venezuela recibió otros 200 millones de dólares por la venta de hidrocarburos\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/venezuela-recibio-otros-200-millones-de-dolares-por-la-venta-de-hidrocarburos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El ICE detiene en Georgia a venezolano que tuvo un transplante de corazón",
-      "link": "https://diarioversionfinal.com/mundo/el-ice-detiene-en-goergia-a-venezolano-que-tuvo-un-transplante-de-corazon/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Presos-politicos-2-27-01-2026-750x430.png"
+      "title": "Ahora sí: EE.UU. da primeros pasos para reabrir embajada en Venezuela y ya reconocería como legítimo al Gobierno de Delcy Rodríguez",
+      "link": "https://diarioversionfinal.com/mundo/ahora-si-ee-uu-da-primeros-pasos-para-reabrir-embajada-en-venezuela-y-ya-reconoceria-como-legitimo-al-gobierno-de-delcy-rodriguez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/gjAGoLxy-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-28T09:35:29.267Z"
+  "lastUpdate": "2026-01-28T10:29:49.139Z"
 };
