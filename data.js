@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El Departamento de Estado informó al Congreso de EE UU que inició pasos para restablecer operaciones diplomáticas en la embajada estadounidense en Caracas\nEE UU",
-      "link": "https://www.elnacional.com/2026/01/el-departamento-de-estado-informo-al-congreso-de-ee-uu-que-inicio-pasos-para-restablecer-operaciones-diplomaticas-en-la-embajada-estadounidense-en-caracas/",
+      "title": "Delcy Rodríguez en el filo de la navaja\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/delcy-rodriguez-en-el-filo-de-la-navaja/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodríguez anuncia desbloqueo de activos venezolanos en EE.UU. tras diálogo con Trump",
-      "link": "https://cnnespanol.cnn.com/2026/01/27/venezuela/delcy-rodriguez-desbloqueo-activos-venezolanos-eeuu-trump-efe",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/1bdb856c18541346b26247b09f469d045924fbcaw.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Informe inicial del DHS dice que dos agentes dispararon en el encuentro con Alex Pretti",
+      "link": "https://cnnespanol.cnn.com/2026/01/27/eeuu/exclusivo-agentes-dispararon-encuentro-pretti-dhs-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/t1-jjpg.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. usará la fuerza si Venezuela no garantiza «máxima cooperación», según Rubio",
+      "title": "EE. UU. USARÁ LA FUERZA SI VENEZUELA NO GARANTIZA «MÁXIMA COOPERACIÓN», SEGÚN RUBIO",
       "link": "https://noticierodigital.com/2026/01/ee-uu-usara-la-fuerza-si-venezuela-no-garantiza-maxima-cooperacion-segun-rubio/",
       "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-627x376.jpg"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Presos-politicos-2-27-01-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-28T07:26:59.396Z"
+  "lastUpdate": "2026-01-28T08:33:51.832Z"
 };
