@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "432,72"
     },
     "binance": {
-      "usdt": "571,40"
+      "usdt": "549,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El Gobierno de Ecuador afirma que un agente de ICE intentó entrar a su Consulado en Minneapolis",
-      "link": "https://cnnespanol.cnn.com/2026/01/27/eeuu/ecuador-agente-ice-consulado-minneapolis-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-01-27-at-18-00-29.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Delcy Rodríguez anuncia desbloqueo de activos venezolanos en EE.UU. tras diálogo con Trump",
+      "link": "https://cnnespanol.cnn.com/2026/01/27/venezuela/delcy-rodriguez-desbloqueo-activos-venezolanos-eeuu-trump-efe",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/1bdb856c18541346b26247b09f469d045924fbcaw.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BCV confirmó nueva oferta de 200 millones de dólares al mercado cambiario",
-      "link": "https://noticierodigital.com/2026/01/bcv-confirmo-nueva-oferta-de-200-millones-de-dolares-al-mercado-cambiario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/06/dolares-intervencion-bcv-1jun2022.jpg"
+      "title": "EE. UU. USARÁ LA FUERZA SI VENEZUELA NO GARANTIZA «MÁXIMA COOPERACIÓN», SEGÚN RUBIO",
+      "link": "https://noticierodigital.com/2026/01/ee-uu-usara-la-fuerza-si-venezuela-no-garantiza-maxima-cooperacion-segun-rubio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habló la madre de menor fallecido en La Calera, Liam Gael Rodríguez, tras captura de su esposo",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/hablo-la-madre-del-menor-de-edad-fallecido-en-la-calera-liam-gael-rodriguez-tras-captura-de-su-esposo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0b350d1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2Fb9%2Fdd3237af43358a32cb7bc46ff021%2Fdiseno.jpg"
+      "title": "Un hombre herido de gravedad por disparos de Patrulla Fronteriza en Arizona, Estados Unidos",
+      "link": "https://www.noticiascaracol.com/mundo/un-hombre-herido-de-gravedad-por-disparos-de-patrulla-fronteriza-en-arizona-estados-unidos-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/80c3fb8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6f%2Fcc%2Fd933a6f84f72a60afa666aecb4b6%2Farizona.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Diputado Luis Romero pide liberaciones de Yandir Loggiodice y exalcalde Parequeima por mal estado de salud",
-      "link": "https://diarioversionfinal.com/politica-dinero/diputado-luis-romero-pide-liberaciones-de-yandir-loggiodice-y-exalcalde-parequeima-por-mal-estado-de-salud/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/11/Embajada-de-EEUU-en-Venezuela-768x480-1-750x430.jpeg"
+      "title": "El ICE detiene en Georgia a venezolano que tuvo un transplante de corazón",
+      "link": "https://diarioversionfinal.com/mundo/el-ice-detiene-en-goergia-a-venezolano-que-tuvo-un-transplante-de-corazon/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Presos-politicos-2-27-01-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-01-28T01:50:30.265Z"
+  "lastUpdate": "2026-01-28T03:46:03.142Z"
 };
