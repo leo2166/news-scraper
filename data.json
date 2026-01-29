@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "363,66",
-      "eur": "434,43"
+      "usd": "367,31",
+      "eur": "439,47"
     },
     "binance": {
-      "usdt": "552,69"
+      "usdt": "547,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Cómo una amenaza de Diosdado Cabello expuso el perverso sistema de censura en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/29/como-una-amenaza-de-diosdado-cabello-expuso-el-perverso-sistema-de-autocensura-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/5OR2XZ4JQZBE7FXOARF3Z5FMHM.jpg?auth=9c7df9c627adb549ea60022bf4c668f2c1ddc857f70ea943ad0cb9a4af5fb31e&smart=true&width=350&height=197&quality=85"
+      "title": "American Airlines retomará los vuelos directos entre Estados Unidos y Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/01/29/american-airlines-retomara-los-vuelos-directos-entre-estados-unidos-y-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/52UXZZKN3FACFDHMCJQBX26WJM.com?auth=2f641adce381f9d408787a17ac2d639f53fdf9da01b58ef16c9df2003943379c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Donald Trump ordenó reabrir el espacio aéreo de Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/donald-trump-ordeno-reabrir-el-espacio-aereo-de-venezuela/",
+      "title": "FAA levanta restricciones aéreas y acelera retorno de vuelos entre Estados Unidos y Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/01/faa-levanta-restricciones-aereas-y-acelera-retorno-de-vuelos-entre-estados-unidos-y-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Administración Federal de Aviación de EEUU levanta restricciones sobre el espacio aéreo de Venezuela",
-      "link": "https://caraotadigital.net/eeuu/administracion-federal-de-aviacion-de-eeuu-levanta-restricciones-sobre-el-espacio-aereo-de-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SPACE-AIR.jpg"
+      "title": "La espeluznante decisión que tomó un joven para ingresar a la Facultad de Medicina de India",
+      "link": "https://caraotadigital.net/mundo/la-espeluznante-decision-que-tomo-un-joven-para-ingresar-a-la-facultad-de-medicina-de-india/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-52.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«CAPTURA DE MADURO ENVÍA UN MENSAJE AL MUNDO», DIJO SECRETARIO DE GUERRA DE TRUMP",
-      "link": "https://noticierodigital.com/2026/01/captura-de-maduro-envia-un-mensaje-al-mundo-dijo-secretario-de-guerra-de-trump/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/pete-hegseth-eeuu-1-627x376.jpg"
+      "title": "AN SANCIONA EN SEGUNDA DISCUSIÓN REFORMA PARCIAL A LA LEY ORGÁNICA DE HIDROCARBUROS",
+      "link": "https://noticierodigital.com/2026/01/an-sanciona-en-segunda-discusion-reforma-parcial-a-la-ley-organica-de-hidrocarburos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-36-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Pdvsa asegura que reforma de ley fortalecerá marco legal para inversión",
-      "link": "https://laverdad.com/pdvsa-asegura-que-reforma-de-ley-fortalecera-marco-legal-para-inversion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Elena-Rose-y-Rawayana.jpg"
+      "title": "American Airlines reanudará vuelos con Venezuela después de 7 años suspendidos",
+      "link": "https://laverdad.com/american-airlines-reanudara-vuelos-con-venezuela-despues-de-7-anos-suspendidos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Vinotinto-Futsal-2026.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "CNE suspende \"temporalmente\" el registro de nuevas organizaciones políticas",
-      "link": "https://diarioversionfinal.com/politica-dinero/cne-suspende-temporalmente-el-registro-de-nuevas-organizaciones-politicas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/05/Foro-Penal-afirmo-que-en-Venezuela-hay-240-presos-politicos.webp"
+      "title": "Estados Unidos elimina restricciones de vuelo sobre el FIR de Maiquetía",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-elimina-restricciones-de-vuelo-sobre-el-fir-de-maiquetia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/CNE-Elvis-Amoroso-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-29T20:31:45.571Z"
+  "lastUpdate": "2026-01-29T21:28:04.096Z"
 }
