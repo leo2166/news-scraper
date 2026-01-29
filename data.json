@@ -5,7 +5,7 @@
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "547,00"
+      "usdt": "514,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "American Airlines retomará los vuelos directos entre Estados Unidos y Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/01/29/american-airlines-retomara-los-vuelos-directos-entre-estados-unidos-y-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/52UXZZKN3FACFDHMCJQBX26WJM.com?auth=2f641adce381f9d408787a17ac2d639f53fdf9da01b58ef16c9df2003943379c&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela aprobó la reforma de la Ley de Hidrocarburos para incentivar la inversión extranjera",
+      "link": "https://www.infobae.com/venezuela/2026/01/29/el-parlamento-de-venezuela-aprobo-la-reforma-de-la-ley-de-hidrocarburos-para-incentivar-la-inversion-extranjera/",
+      "image": "https://www.infobae.com/resizer/v2/ZBAWNFMJMREZLHKVJUQWJYUYHA.jpg?auth=ea98e8580c1455948e1ee835243a590107da42e5fa99469c4ec996da7546b867&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,21 +32,21 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "La espeluznante decisión que tomó un joven para ingresar a la Facultad de Medicina de India",
-      "link": "https://caraotadigital.net/mundo/la-espeluznante-decision-que-tomo-un-joven-para-ingresar-a-la-facultad-de-medicina-de-india/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-52.jpg"
+      "title": "Florida en alerta por ola de frío polar que podría cubrir de nieve varias zonas costeras",
+      "link": "https://caraotadigital.net/eeuu/florida-en-alerta-por-ola-de-frio-polar-que-podria-cubrir-de-nieve-varias-zonas-costeras/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/WINTER-FLORIDA-2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN SANCIONA EN SEGUNDA DISCUSIÓN REFORMA PARCIAL A LA LEY ORGÁNICA DE HIDROCARBUROS",
-      "link": "https://noticierodigital.com/2026/01/an-sanciona-en-segunda-discusion-reforma-parcial-a-la-ley-organica-de-hidrocarburos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-36-627x376.jpg"
+      "title": "NICARAGUA DESIGNÓ A VALEZKA LÓPEZ HERRERA COMO NUEVA EMBAJADORA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/nicaragua-designo-a-valezka-lopez-herrera-como-nueva-embajadora-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/rosario-murillo-nicaragua-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esposa de Diógenes Quintero, fallecido en avión de Satena, cuenta cómo fue su última conversación",
-      "link": "https://www.noticiascaracol.com/colombia/esposa-de-diogenes-quintero-fallecido-en-avion-de-satena-cuenta-como-fue-su-ultima-conversacion-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8c5a0af/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F84%2Fac%2Ff89169ae45ecb652c8f7c1d39404%2Ftrump-11.jpg"
+      "title": "Venezuela aprueba reforma petrolera afín a Estados Unidos para atraer inversión privada",
+      "link": "https://www.noticiascaracol.com/mundo/venezuela-aprueba-reforma-petrolera-afin-a-estados-unidos-para-atraer-inversion-privada-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/84a0b08/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3b%2Fd8%2Fbd0f68814862aa3e81952334f5ac%2Fdelcy-rodriguez.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/CNE-Elvis-Amoroso-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-29T21:28:04.096Z"
+  "lastUpdate": "2026-01-29T22:29:09.590Z"
 }
