@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos reveló detalles sobre la forma en la que controla el dinero del petróleo venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/01/29/estados-unidos-revelo-detalles-sobre-la-forma-en-la-que-controla-el-dinero-del-petroleo-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/4TYYWVGI4ZF3RMI2WVXOYW6KDM.JPG?auth=cd4541f9524b234c4cf11f26572f83d5def98924d057f7f41208f72312dd346f&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado afirmó que tuvo una “gran conversación” con Marco Rubio y destacó el respaldo de los “genuinos aliados” de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/29/maria-corina-machado-afirmo-que-tuvo-una-gran-conversacion-con-marco-rubio-y-destaco-el-respaldo-de-los-genuinos-aliados-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/TLUKQIEEYZAF5M76ZFZSE6TFMU.jpg?auth=df1dfd1c13499f071905295b21259e8de64778c17ef8b6de8676b18a80aba600&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2026012900064556823-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-29T06:50:02.706Z"
+  "lastUpdate": "2026-01-29T07:40:28.393Z"
 };
