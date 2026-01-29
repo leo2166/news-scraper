@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "434,43"
     },
     "binance": {
-      "usdt": "547,00"
+      "usdt": "548,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Cada vez más venezolanos respaldan la intervención de Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/01/29/cada-vez-mas-venezolanos-respaldan-la-intervencion-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/E22P5COZCZANPAYSDY23WN2BKY.jpg?auth=a4891613cfa0121a60e7fb24e0e5c54ec437389e8f07be055c44cd25a7c47aff&smart=true&width=350&height=197&quality=85"
+      "title": "Cómo una amenaza de Diosdado Cabello expuso el perverso sistema de censura en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/01/29/como-una-amenaza-de-diosdado-cabello-expuso-el-perverso-sistema-de-autocensura-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/5OR2XZ4JQZBE7FXOARF3Z5FMHM.jpg?auth=9c7df9c627adb549ea60022bf4c668f2c1ddc857f70ea943ad0cb9a4af5fb31e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Citgo compra petróleo venezolano por primera vez desde 2019\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/citgo-compra-petroleo-venezolano-por-primera-vez-desde-2019/",
+      "title": "Donald Trump ordenó reabrir el espacio aéreo de Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/donald-trump-ordeno-reabrir-el-espacio-aereo-de-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "\"Se acerca un huracán\": La Habana prepara a la población para la guerra",
-      "link": "https://cnnespanol.cnn.com/",
+      "link": "https://cnnespanol.cnn.com/2026/01/29/latinoamerica/cuba-eeuu-petroleo-crisis-tension-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2256059463-20260129144401056.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "LA FOTO: Así anunciaron Marc Anthony y Nadia Ferreira que esperan su segundo hijo",
-      "link": "https://caraotadigital.net/caraota-show/la-foto-asi-anunciaron-marc-anthony-y-nadia-ferreira-que-esperan-su-segundo-hijo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SaveClip.App_598027093_18550305784003429_7675879772042010647_n-1.jpg"
+      "title": "Nunca dejes de asistir al médico, aunque creas que todo está bien luego de un accidente",
+      "link": "https://caraotadigital.net/opinion/nunca-dejes-de-asistir-al-medico-aunque-creas-que-todo-esta-bien-luego-de-un-accidente/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/sotorosa41225.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UE DESIGNA A GUARDIA REVOLUCIONARIA DE IRÁN COMO ORGANIZACIÓN TERRORISTA TRAS REPRESIÓN",
-      "link": "https://noticierodigital.com/2026/01/ue-designa-a-guardia-revolucionaria-de-iran-como-organizacion-terrorista-tras-represion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/11/unioneuropea-negociaciones-mexico-20ago2021.jpg"
+      "title": "ASÍ FUERON LOS ÚLTIMOS TRAYECTOS DEL AVIÓN SINIESTRADO EN COLOMBIA CON 15 PASAJEROS",
+      "link": "https://noticierodigital.com/2026/01/asi-fueron-los-ultimos-trayectos-del-avion-siniestrado-en-colombia-con-15-pasajeros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-2-8-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reuters: Reforma de la Ley de Hidrocarburos recibió más de 80 propuestas para modificaciones",
-      "link": "https://diarioversionfinal.com/politica-dinero/reuters-reforma-de-la-ley-de-hidrocarburos-recibio-mas-de-80-propuestas-para-modificaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/07/venevision1-1-1099x572-1-750x430.jpg"
+      "title": "Trump anuncia la reapertura del espacio aéreo comercial sobre Venezuela: \"Las compañias traerán una enorme riqueza\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-la-reapertura-del-espacio-aereo-comercial-sobre-venezuela-las-companias-traeran-una-enorme-riqueza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-29-at-12.19.34-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-29T16:44:18.314Z"
+  "lastUpdate": "2026-01-29T17:38:02.241Z"
 };
