@@ -5,7 +5,7 @@
       "eur": "434,43"
     },
     "binance": {
-      "usdt": "553,60"
+      "usdt": "550,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado pidió “una transición real” en Venezuela y rechazó que “las mafias se queden en el poder”",
-      "link": "https://www.infobae.com/venezuela/2026/01/28/maria-corina-machado-pidio-una-transicion-real-en-venezuela-y-rechazo-que-las-mafias-se-queden-en-el-poder/",
-      "image": "https://www.infobae.com/resizer/v2/52DAN6QKH5FT5BPPDRBU6JKYRU.JPG?auth=6ef51893935a7873123393f0ae4747658c1a492841be0bc3650ce890ce91cadd&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos reveló detalles sobre la forma en la que controla el dinero del petróleo venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/01/29/estados-unidos-revelo-detalles-sobre-la-forma-en-la-que-controla-el-dinero-del-petroleo-venezolano/",
+      "image": "https://www.infobae.com/resizer/v2/4TYYWVGI4ZF3RMI2WVXOYW6KDM.JPG?auth=cd4541f9524b234c4cf11f26572f83d5def98924d057f7f41208f72312dd346f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,21 +32,21 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Cae el precio de los paquetes turísticos en el país: «Hay un esquema ganar-ganar»",
-      "link": "https://caraotadigital.net/venezuela/cae-el-precio-de-los-paquetes-turisticos-en-el-pais-hay-un-esquema-ganar-ganar/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/01/Teleferico-de-Merida-2-1-e1679000320347-150x150.jpg"
+      "title": "Preocupación internacional por el virus Nipah: Alta mortalidad, sin vacunas y síntomas graves",
+      "link": "https://caraotadigital.net/mundo/preocupacion-internacional-por-el-virus-nipah-alta-mortalidad-sin-vacunas-y-sintomas-graves/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Virus-Nipah-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AVIÓN DE SATENA CON 15 PERSONAS A BORDO SE ESTRELLÓ EN COLOMBIA",
-      "link": "https://noticierodigital.com/2026/01/avion-de-satena-con-15-personas-a-bordo-se-estrello-en-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/satena-avion-vuelo-colombia-2-627x376.jpg"
+      "title": "ISABEL ITURRIA ASUME LA VICEPRESIDENCIA SECTORIAL DE SALUD, CIENCIA Y ECOSOCIALISMO",
+      "link": "https://noticierodigital.com/2026/01/isabel-iturria-asume-la-vicepresidencia-sectorial-de-salud-ciencia-y-ecosocialismo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Isabel-Iturria-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quiénes viajaban en avión de Satena que se accidentó en Norte de Santander? El listado de víctimas",
-      "link": "https://www.noticiascaracol.com/colombia/quienes-iban-en-el-desaparecido-avion-al-servicio-de-satena-que-viajaba-de-cucuta-a-ocana-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/739b227/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4f%2Fda%2F2206fcaf44b7bebfbba07bcc889f%2Fplantilla-fotos-32.jpg"
+      "title": "Los rostros de las víctimas de accidente aéreo en Norte de Santander: esto se sabe de los fallecidos",
+      "link": "https://www.noticiascaracol.com/colombia/los-rostros-de-las-victimas-del-accidente-aereo-ocurrido-en-norte-de-santander-esto-se-sabe-de-los-fallecidos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/82a560c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F97%2Ff0%2Fd99d56734212bf27dd1ee09a9e73%2Fdiseno-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Clippve confirma 22 excarcelaciones de presos políticos en El Rodeo I",
-      "link": "https://diarioversionfinal.com/politica-dinero/clippve-confirma-22-excarcelaciones-de-presos-politicos-en-el-rodeo-i/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Maria-Corina-Machado-28-01-2026.jpg"
+      "title": "Marco Rubio sobre Venezuela: “Estamos preparados para volver a usar la fuerza”",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-sobre-venezuela-estamos-preparados-para-volver-a-usar-la-fuerza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy5-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-01-28T23:27:27.029Z"
+  "lastUpdate": "2026-01-29T02:03:53.283Z"
 }
