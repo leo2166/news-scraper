@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "434,43"
     },
     "binance": {
-      "usdt": "552,69"
+      "usdt": "548,38"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado afirmó que tuvo una “gran conversación” con Marco Rubio y destacó el respaldo de los “genuinos aliados” de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/01/29/maria-corina-machado-afirmo-que-tuvo-una-gran-conversacion-con-marco-rubio-y-destaco-el-respaldo-de-los-genuinos-aliados-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/TLUKQIEEYZAF5M76ZFZSE6TFMU.jpg?auth=df1dfd1c13499f071905295b21259e8de64778c17ef8b6de8676b18a80aba600&smart=true&width=350&height=197&quality=85"
+      "title": "Duro reclamo de militares y familiares venezolanos: “Carta Abierta a la vergüenza nacional, Vladimir Padrino López”",
+      "link": "https://www.infobae.com/venezuela/2026/01/29/duro-reclamo-de-militares-y-familiares-venezolanos-carta-abierta-a-la-verguenza-nacional-vladimir-padrino-lopez/",
+      "image": "https://www.infobae.com/resizer/v2/IA2IWMQWQFC27IZOFVLKLUSHKE.jpg?auth=5d70cc8bc37857cac938b0056a1c28f68197be375885d1265831cb0f1e0c2ca0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2026012900064556823-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-29T10:37:40.173Z"
+  "lastUpdate": "2026-01-29T11:31:24.615Z"
 };
