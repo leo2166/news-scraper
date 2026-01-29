@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "434,43"
     },
     "binance": {
-      "usdt": "548,38"
+      "usdt": "550,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Qué dicen los ajustes de Delcy Rodríguez en el gabinete y la Fuerza Armada",
-      "link": "https://cnnespanol.cnn.com/2026/01/28/venezuela/cambios-ministros-fuerza-armada-delcy-rodriguez-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1250829711.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Corte de apelaciones dice que el fin del TPS para los venezolanos fue ilegal",
+      "link": "https://cnnespanol.cnn.com/2026/01/29/eeuu/corte-fin-tps-venezuela-haiti-ilegal-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199404085-20260103131843137.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ISABEL ITURRIA ASUME LA VICEPRESIDENCIA SECTORIAL DE SALUD, CIENCIA Y ECOSOCIALISMO",
-      "link": "https://noticierodigital.com/2026/01/isabel-iturria-asume-la-vicepresidencia-sectorial-de-salud-ciencia-y-ecosocialismo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Isabel-Iturria-627x376.jpg"
+      "title": "ALBARES DICE QUE LA UE SE ALINEA CON ESPAÑA EN SU APOYO AL DIÁLOGO POLÍTICO EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/albares-dice-que-la-ue-se-alinea-con-espana-en-su-apoyo-al-dialogo-politico-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/jose-manuel-albares.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Machado duda en “sentarse” con Delcy Rodríguez: “No está planificado”",
-      "link": "https://laverdad.com/machado-duda-en-sentarse-con-delcy-rodriguez-no-esta-planificado/",
+      "title": "Hija de González Urrutia revela que ella y su esposo tienen prohibido declarar tras excarcelación",
+      "link": "https://laverdad.com/hija-de-gonzalez-urrutia-revela-que-ella-y-su-esposo-tienen-prohibido-declarar-tras-excarcelacion/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/LG-2026-01-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Fanb jura lealtad a Delcy Rodríguez como nueva Comandante en Jefe",
       "link": "https://diarioversionfinal.com/politica-dinero/fanb-jura-lealtad-a-delcy-rodriguez-como-nueva-comandante-en-jefe/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2026012900064556823-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/09/canciller-espanol-jose-manuel-albares-22019-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-29T11:31:24.615Z"
+  "lastUpdate": "2026-01-29T12:58:53.856Z"
 };
