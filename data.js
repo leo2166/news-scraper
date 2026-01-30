@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "530,69"
+      "usdt": "532,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Valero Energy comenzó a incorporar petróleo venezolano a sus refinerías en Estados Unidos\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/valero-energy-comenzo-a-incorporar-petroleo-venezolano-a-sus-refinerias-en-estados-unidos/",
+      "title": "¿Transición o protectorado? El plan de los hermanos Rodríguez para mantenerse en el poder\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/transicion-o-protectorado-el-plan-de-los-hermanos-rodriguez-para-mantenerse-en-el-poder/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Instituto Nobel denunció que filtraron «ilegalmente» la identidad del ganador antes del anuncio oficial y ordenó investigación",
-      "link": "https://caraotadigital.net/mundo/instituto-nobel-denuncio-que-filtraron-ilegalmente-la-identidad-del-ganador-antes-del-anuncio-oficial-y-anunciaron-investigacion/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Nobel-1.jpg"
+      "title": "Trump anunció que «invitarán» a otros países para que «participen en industria petrolera» en Venezuela",
+      "link": "https://caraotadigital.net/eeuu/trump-anuncio-que-invitaran-a-otros-paises-para-que-participen-en-industria-petrolera-en-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Trump-29.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TÁCHIRA: BUSCAN A HOMBRE QUE MATÓ A SU EXPAREJA POR CELOS Y HUYÓ A COLOMBIA",
-      "link": "https://noticierodigital.com/2026/01/tachira-buscan-a-hombre-que-mato-a-su-expareja-por-celos-y-huyo-a-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/IMG-20260130-WA0147-627x376.jpg"
+      "title": "BLOOMBERG: SUBASTAS DE DÓLARES EN VENEZUELA NO LOGRAN FORTALECER AL BOLÍVAR",
+      "link": "https://noticierodigital.com/2026/01/bloomberg-subastas-de-dolares-en-venezuela-no-logran-fortalecer-al-bolivar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/pago-en-dolares-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Directo de ExxonMobil pide reformas en Venezuela para considerar inversión petrolera",
-      "link": "https://laverdad.com/directo-de-exxonmobil-pide-reformas-en-venezuela-para-considerar-inversion-petrolera/",
+      "title": "Gobierno rechaza las “medidas punitivas” de EE. UU. sobre Cuba",
+      "link": "https://laverdad.com/gobierno-rechaza-las-medidas-punitivas-de-ee-uu-sobre-cuba/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/justin-Bieber.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "EE. UU. le diseñó a Venezuela la mejor Ley de Hidrocarburos de la región",
       "link": "https://diarioversionfinal.com/politica-dinero/ee-uu-le-diseno-a-venezuela-la-mejor-ley-de-hidrocarburos-de-la-region/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/dolares_13079387_20251230114708-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-30-at-11.10.19-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-30T18:43:39.082Z"
+  "lastUpdate": "2026-01-30T19:32:29.209Z"
 };
