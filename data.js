@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "542,00"
+      "usdt": "543,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU flexibiliza sanciones contra sector petrolero venezolano\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/ee-uu-flexibiliza-sanciones-contra-sector-petrolero-venezolano/",
+      "title": "Entre la “anestesia emocional” y la hipervigilia: el país tras la captura de Maduro\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/01/entre-la-anestesia-emocional-y-la-hipervigilia-el-pais-tras-la-captura-de-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Qte4cMHj-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T09:39:24.470Z"
+  "lastUpdate": "2026-01-30T10:35:21.685Z"
 };
