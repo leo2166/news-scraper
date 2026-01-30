@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "535,10"
+      "usdt": "530,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Entre la “anestesia emocional” y la hipervigilia: el país tras la captura de Maduro\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/01/entre-la-anestesia-emocional-y-la-hipervigilia-el-pais-tras-la-captura-de-maduro/",
+      "title": "Qué cambia en Venezuela con la nueva Ley de Hidrocarburos y por qué es una ruptura radical con 50 años de modelo petrolero\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/que-cambia-en-venezuela-con-la-nueva-ley-de-hidrocarburos-y-por-que-es-una-ruptura-radical-con-50-anos-de-modelo-petrolero/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump nomina a Kevin Warsh para presidente de la Fed",
-      "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/trump-kevin-warsh-reserva-federal-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/reserva.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Ponen bajo custodia al periodista Don Lemon tras protesta anti-ICE",
+      "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/don-lemon-bajo-custodia-minneapolis-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/don-lemmon-gettyimages-2249858953.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Iberia mantendrá suspendidas operaciones en Venezuela hasta esta fecha",
-      "link": "https://caraotadigital.net/mundo/iberia-mantendra-suspendidas-operaciones-en-venezuela-hasta-esta-fecha/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Iberia.jpg"
+      "title": "Recibe fondos desde el extranjero con Solución Amiga de Bancamiga",
+      "link": "https://caraotadigital.net/caraota-tips/recibe-fondos-desde-el-extranjero-con-solucion-amiga-de-bancamiga/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SOLUCON-AMIGA-BANCAMIGA.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno anuncia que en las “próximas horas” se hará la primera exportación de gas",
-      "link": "https://laverdad.com/gobierno-anuncia-que-en-las-proximas-horas-se-hara-la-primera-exportacion-de-gas/",
+      "title": "Venezolanos con TPS están en peligro de deportación a pesar de fallo judicial a su favor",
+      "link": "https://laverdad.com/venezolanos-con-tps-estan-en-peligro-de-deportacion-a-pesar-de-fallo-judicial-a-su-favor/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Vinotinto-Futsal-2026.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Venezolanos con TPS aún enfrentan deportaciones pese a fallo judicial",
       "link": "https://diarioversionfinal.com/mundo/venezolanos-con-tps-aun-enfrentan-deportaciones-pese-a-fallo-judicial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/citgo-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/autoridades-55464-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-30T13:58:46.730Z"
+  "lastUpdate": "2026-01-30T14:43:34.779Z"
 };
