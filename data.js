@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "543,69"
+      "usdt": "538,38"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "EE. UU. impondrá aranceles a países que le vendan petróleo a Cuba: Trump lanzó amenaza a la isla",
-      "link": "https://www.noticiascaracol.com/mundo/ee-uu-impondra-aranceles-a-paises-que-le-vendan-petroleo-a-cuba-trump-lanzo-amenaza-a-la-isla-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a794558/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8e%2F91%2Fc960dbc140a5889455f7e92d73d4%2Fla-habana-y-trump.jpg"
+      "title": "Las razones del choque entre Gustavo Petro y Laura Sarabia",
+      "link": "https://www.noticiascaracol.com/politica/las-razones-del-choque-entre-gustavo-petro-y-laura-sarabia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fa98b4a/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2F7d%2F08bbeacf4807963bd36e736bd6fe%2Fgustavo-petro-y-laura-sarabia.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Qte4cMHj-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T10:35:21.685Z"
+  "lastUpdate": "2026-01-30T11:29:08.901Z"
 };
