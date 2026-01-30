@@ -5,7 +5,7 @@
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "538,00"
+      "usdt": "535,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela anunció la primera exportación de gas tras la reforma de la Ley de Hidrocarburos",
-      "link": "https://www.infobae.com/venezuela/2026/01/30/venezuela-anuncio-la-primera-exportacion-de-gas-tras-la-reforma-de-la-ley-de-hidrocarburos/",
-      "image": "https://www.infobae.com/resizer/v2/Q4KMRYYXUFHLFELVNSUGWUQQ6M.JPG?auth=c447147561df1ce5a41b0d5765093ff49d0661606ffc1aba327851aeaa701d0e&smart=true&width=350&height=197&quality=85"
+      "title": "Foro Penal confirmó más de 700 excarcelados desde la caída de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/01/30/foro-penal-confirmo-mas-de-700-excarcelados-desde-la-caida-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/2QKBPYVHJZAIPM4YDTNFBFMS6M.jpg?auth=1ad8747c42ae292bc21b78df1a250a4217bc726dfeb4a946d14f8f5ee7d1ea57&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO: Édgar Ramírez reveló qué hará cuando regrese a Venezuela tras casi dos décadas viviendo fuera",
-      "link": "https://caraotadigital.net/caraota-show/video-edgar-ramirez-revelo-que-hara-cuando-regrese-a-venezuela-tras-casi-dos-decadas-viviendo-fuera/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Edgar-Ramirez-CD.jpg"
+      "title": "Iberia mantendrá suspendidas operaciones en Venezuela hasta esta fecha",
+      "link": "https://caraotadigital.net/mundo/iberia-mantendra-suspendidas-operaciones-en-venezuela-hasta-esta-fecha/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Iberia.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Las razones del choque entre Gustavo Petro y Laura Sarabia",
-      "link": "https://www.noticiascaracol.com/politica/las-razones-del-choque-entre-gustavo-petro-y-laura-sarabia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fa98b4a/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2F7d%2F08bbeacf4807963bd36e736bd6fe%2Fgustavo-petro-y-laura-sarabia.jpg"
+      "title": "Corte Constitucional suspende de manera provisional decreto de emergencia económica, ¿qué implica?",
+      "link": "https://www.noticiascaracol.com/judicial/corte-constitucional-suspende-de-manera-provisional-decreto-de-la-emergencia-economica-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3289bb1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F22%2Fda%2Fb59783bc445f9f36e85466c834cb%2Fpuerto-rico-15.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez confirma que habló con Trump para cancelar restricciones de vuelos a Venezuela",
-      "link": "https://laverdad.com/delcy-rodriguez-confirma-que-hablo-con-trump-para-cancelar-restricciones-de-vuelos-a-venezuela/",
+      "title": "Gobierno anuncia que en las “próximas horas” se hará la primera exportación de gas",
+      "link": "https://laverdad.com/gobierno-anuncia-que-en-las-proximas-horas-se-hara-la-primera-exportacion-de-gas/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Vinotinto-Futsal-2026.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Financial Times: EE. UU. controlará el presupuesto mensual de Venezuela con los recursos de la venta del petróleo desde cuentas en Catar",
-      "link": "https://diarioversionfinal.com/mundo/financial-times-ee-uu-controlara-el-presupuesto-mensual-de-venezuela-con-los-recursos-de-la-venta-del-petroleo-desde-cuentas-en-catar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/dolares12-750x430.jpg"
+      "title": "Venezolanos con TPS aún enfrentan deportaciones pese a fallo judicial",
+      "link": "https://diarioversionfinal.com/mundo/venezolanos-con-tps-aun-enfrentan-deportaciones-pese-a-fallo-judicial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/citgo-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T12:57:30.608Z"
+  "lastUpdate": "2026-01-30T13:58:46.730Z"
 }
