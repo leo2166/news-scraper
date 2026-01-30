@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "519,20"
+      "usdt": "542,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "AN aprobó por unanimidad reforma de la Ley de Hidrocarburos para incentivar la inversión extranjera",
       "link": "https://diarioversionfinal.com/politica-dinero/an-aprobo-por-unanimidad-reforma-de-la-ley-de-hidrocarburos-para-incentivar-la-inversion-extranjera/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-29-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Qte4cMHj-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T08:39:45.072Z"
+  "lastUpdate": "2026-01-30T09:39:24.470Z"
 };
