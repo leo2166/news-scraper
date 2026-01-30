@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "538,38"
+      "usdt": "538,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con aranceles a países que vendan petróleo a Cuba; México es el principal",
-      "link": "https://cnnespanol.cnn.com/2026/01/29/eeuu/trump-amenaza-aranceles-paises-petroleo-cuba-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-reunion-de-gabinete-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump nomina a Kevin Warsh para presidente de la Fed",
+      "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/trump-kevin-warsh-reserva-federal-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/reserva.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP IMPONDRÁ ARANCELES A PAÍSES QUE SUMINISTREN PETRÓLEO A CUBA",
-      "link": "https://noticierodigital.com/2026/01/trump-impondra-aranceles-a-paises-que-suministren-petroleo-a-cuba/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/donald-trump-eeuu-3-627x376.jpg"
+      "title": "IBERIA MANTIENE SUSPENSIÓN DE VUELOS A VENEZUELA HASTA ABRIL ",
+      "link": "https://noticierodigital.com/2026/01/iberia-mantiene-suspension-de-vuelos-a-venezuela-hasta-abril/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/iberia-maiquetia-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "American Airlines reanudará vuelos con Venezuela después de 7 años suspendidos",
-      "link": "https://laverdad.com/american-airlines-reanudara-vuelos-con-venezuela-despues-de-7-anos-suspendidos/",
+      "title": "Delcy Rodríguez confirma que habló con Trump para cancelar restricciones de vuelos a Venezuela",
+      "link": "https://laverdad.com/delcy-rodriguez-confirma-que-hablo-con-trump-para-cancelar-restricciones-de-vuelos-a-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Vinotinto-Futsal-2026.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "AN aprobó por unanimidad reforma de la Ley de Hidrocarburos para incentivar la inversión extranjera",
-      "link": "https://diarioversionfinal.com/politica-dinero/an-aprobo-por-unanimidad-reforma-de-la-ley-de-hidrocarburos-para-incentivar-la-inversion-extranjera/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Qte4cMHj-image-750x430.jpg"
+      "title": "Financial Times: EE. UU. controlará el presupuesto mensual de Venezuela con los recursos de la venta del petróleo desde cuentas en Catar",
+      "link": "https://diarioversionfinal.com/mundo/financial-times-ee-uu-controlara-el-presupuesto-mensual-de-venezuela-con-los-recursos-de-la-venta-del-petroleo-desde-cuentas-en-catar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/dolares12-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T11:29:08.901Z"
+  "lastUpdate": "2026-01-30T12:57:30.608Z"
 };
