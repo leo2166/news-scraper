@@ -5,7 +5,7 @@
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "513,00"
+      "usdt": "537,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal confirmó más de 700 excarcelados desde la caída de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/01/30/foro-penal-confirmo-mas-de-700-excarcelados-desde-la-caida-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/2QKBPYVHJZAIPM4YDTNFBFMS6M.jpg?auth=1ad8747c42ae292bc21b78df1a250a4217bc726dfeb4a946d14f8f5ee7d1ea57&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Venezuela liberó a un ciudadano estadounidense-peruano",
+      "link": "https://www.infobae.com/venezuela/2026/01/30/el-regimen-de-venezuela-libero-a-un-ciudadano-estadounidense-peruano/",
+      "image": "https://www.infobae.com/resizer/v2/TBMLUYNMCVGCLAMQLDQURPCMPA.jpg?auth=7e9ed78f72abf3403aabc3cf7a90c9b925cbba07bc1ef9efe302a49c4eccf535&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¿Transición o protectorado? El plan de los hermanos Rodríguez para mantenerse en el poder\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/transicion-o-protectorado-el-plan-de-los-hermanos-rodriguez-para-mantenerse-en-el-poder/",
+      "title": "María Corina Machado en reunión con líderes europeos: “Avanzaremos con fuerza y determinación”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/maria-corina-machado-en-reunion-con-lideres-europeos-avanzaremos-con-fuerza-y-determinacion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO VIRAL: Estaba ebrio, lo iban a detener en el aeropuerto y lo que hizo para evitarlo dejó en shock",
-      "link": "https://caraotadigital.net/tendencias/video-viral-estaba-ebrio-lo-iban-a-detener-en-el-aeropuerto-y-lo-que-hizo-para-evitarlo-dejo-en-shock/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Joven-aeropuerto-CD.jpg"
+      "title": "Exxon pide “transición democrática en Venezuela” para poder hacer inversiones petroleras",
+      "link": "https://caraotadigital.net/eeuu/exxon-pide-transicion-democratica-en-venezuela-para-poder-hacer-inversiones-petroleras/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Exxon-Mobil-Darren-Woods.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RETORNARON 309 VENEZOLANOS DESDE EE. UU. EN NUEVO VUELO DE DEPORTACIÓN",
-      "link": "https://noticierodigital.com/2026/01/retornaron-309-venezolanos-desde-ee-uu-en-nuevo-vuelo-de-deportacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/vuelo-de-deportacion-venezolanos-eeuu-2-627x376.jpg"
+      "title": "LAURA DOGU, NUEVA ENCARGADA DE NEGOCIOS DE EE. UU., ARRIBARÁ A CARACAS ESTE SÁBADO",
+      "link": "https://noticierodigital.com/2026/01/laura-dogu-nueva-encargada-de-negocios-de-ee-uu-arribara-a-caracas-este-sabado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/laura-dogu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. le diseñó a Venezuela la mejor Ley de Hidrocarburos de la región",
-      "link": "https://diarioversionfinal.com/politica-dinero/ee-uu-le-diseno-a-venezuela-la-mejor-ley-de-hidrocarburos-de-la-region/",
+      "title": "Delcy prepara anuncio de amnistía general y cierre de El Helicoide, según Vladimir Villegas",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-prepara-anuncio-de-amnistia-general-y-cierre-de-el-helicoide-segun-vladimir-villegas/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/Cancilleria1.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T22:27:10.221Z"
+  "lastUpdate": "2026-01-30T23:26:13.616Z"
 }
