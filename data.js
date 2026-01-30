@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "530,10"
+      "usdt": "529,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,27 +32,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Recibe fondos desde el extranjero con Solución Amiga de Bancamiga",
-      "link": "https://caraotadigital.net/caraota-tips/recibe-fondos-desde-el-extranjero-con-solucion-amiga-de-bancamiga/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/SOLUCON-AMIGA-BANCAMIGA.jpg"
+      "title": "¿Qué pasará ahora con los vuelos a EEUU y Europa? Esto explicó una experta",
+      "link": "https://caraotadigital.net/venezuela/que-pasara-ahora-con-los-vuelos-a-eeuu-y-europa-esto-explico-una-experta/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2023/01/ministro-de-transporte-celebra-51-aniversario-del-instituto-aeropuerto-internacional-de-maiquetia-108372-150x150.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "IBERIA MANTIENE SUSPENSIÓN DE VUELOS A VENEZUELA HASTA ABRIL ",
-      "link": "https://noticierodigital.com/2026/01/iberia-mantiene-suspension-de-vuelos-a-venezuela-hasta-abril/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/iberia-maiquetia-venezuela-627x376.jpg"
+      "title": "NUEVOS CAMBIOS ECONÓMICOS DEMANDAN MÁS COMPETITIVIDAD AL SECTOR PRIVADO, SEGÚN LUIS OLIVEROS",
+      "link": "https://noticierodigital.com/2026/01/nuevos-cambios-economicos-demandan-mas-competitividad-al-sector-privado-segun-luis-oliveros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/luis-oliveros.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Corte Constitucional suspende de manera provisional decreto de emergencia económica, ¿qué implica?",
-      "link": "https://www.noticiascaracol.com/judicial/corte-constitucional-suspende-de-manera-provisional-decreto-de-la-emergencia-economica-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3289bb1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F22%2Fda%2Fb59783bc445f9f36e85466c834cb%2Fpuerto-rico-15.jpg"
+      "title": "Desempleo en Colombia fue del 8,9% en 2025 y en diciembre del 8%",
+      "link": "https://www.noticiascaracol.com/economia/desempleo-en-colombia-fue-del-8-9-en-2025-y-en-diciembre-del-8-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/085855b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F17%2Fa5%2F63c31a294962afd924f984c89095%2Fempleo-colombia.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Venezolanos con TPS están en peligro de deportación a pesar de fallo judicial a su favor",
-      "link": "https://laverdad.com/venezolanos-con-tps-estan-en-peligro-de-deportacion-a-pesar-de-fallo-judicial-a-su-favor/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Vinotinto-Futsal-2026.jpg"
+      "title": "Golpea a su hermana en Integración Comunal y le causa un traumatismo craneoencefálico",
+      "link": "https://laverdad.com/golpea-a-su-hermana-en-integracion-comunal-y-le-causa-un-traumatismo-craneoencefalico/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Oscar-DLeon.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/autoridades-55464-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-30T14:43:34.779Z"
+  "lastUpdate": "2026-01-30T15:35:49.553Z"
 };
