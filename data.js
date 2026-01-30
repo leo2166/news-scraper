@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "519,20"
+      "usdt": "542,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal señaló que el régimen chavista liberó a 302 presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/01/29/foro-penal-senalo-que-el-regimen-chavista-libero-a-302-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela anunció la primera exportación de gas tras la reforma de la Ley de Hidrocarburos",
+      "link": "https://www.infobae.com/venezuela/2026/01/30/venezuela-anuncio-la-primera-exportacion-de-gas-tras-la-reforma-de-la-ley-de-hidrocarburos/",
+      "image": "https://www.infobae.com/resizer/v2/Q4KMRYYXUFHLFELVNSUGWUQQ6M.JPG?auth=c447147561df1ce5a41b0d5765093ff49d0661606ffc1aba327851aeaa701d0e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-29-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T06:51:38.105Z"
+  "lastUpdate": "2026-01-30T07:40:21.279Z"
 };
