@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "532,00"
+      "usdt": "534,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Publican más de tres millones de páginas de los archivos de Epstein",
-      "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/publican-mas-archivos-caso-jeffrey-epstein-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/epstein-archivos-cnn.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump amenaza con sancionar la venta de petróleo a Cuba. ¿Es solo para México?",
+      "link": "https://cnnespanol.cnn.com/2026/01/30/latinoamerica/trump-sanciones-petroleo-cuba-mexico-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258486563.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Caso Epstein: Más de tres millones de documentos, fotografías y videos “nuevos” fueron publicados por el Departamento de Justicia",
-      "link": "https://caraotadigital.net/eeuu/caso-epstein-mas-de-tres-millones-de-documentos-fotografias-y-videos-nuevos-fueron-publicados-por-el-departamento-de-justicia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/07/Jeffrey-Epstein-Donald-Trump.jpg"
+      "title": "VIDEO VIRAL: Antonio Banderas explotó contra ICE y lanzó duras declaraciones por sus operativos migratorios",
+      "link": "https://caraotadigital.net/eeuu/video-viral-antonio-banderas-exploto-contra-ice-y-lanzo-duras-declaraciones-por-sus-operativos-migratorios/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/ANTONIO-BANDERAS-ICE.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Cuáles pueden ser las causas de los accidentes aéreos en Colombia? Esto dice experto de Aerocivil",
-      "link": "https://www.noticiascaracol.com/colombia/cuales-pueden-ser-las-causas-de-los-accidentes-aereos-en-colombia-esto-dice-experto-de-aerocivil-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aa838fa/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff7%2F13%2Fa696978e4cc78eef108bb2255040%2Faccidente-satena-por-que.jpg"
+      "title": "¿Por qué Ecuador elevó en 900% la tarifa de transporte de petróleo colombiano? Respuesta de ministra",
+      "link": "https://www.noticiascaracol.com/economia/por-que-ecuador-elevo-en-900-la-tarifa-de-transporte-de-petroleo-colombiano-respuesta-de-ministra-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1b3059e/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F52%2F09%2F3532124144989a544246297c516c%2Fines-manzano.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Capriles pide señales claras sobre uso de los recursos petroleros",
-      "link": "https://laverdad.com/capriles-pide-senales-claras-sobre-uso-de-los-recursos-petroleros/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Bruno-Mars-1.jpg"
+      "title": "Hijos de “Mazuco” están en Boleíta acusados de “terrorismo y traición a la patria”",
+      "link": "https://laverdad.com/hijos-de-mazuco-estan-en-boleita-acusados-de-terrorismo-y-traicion-a-la-patria/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/01/Catherine-OHara.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "EE. UU. le diseñó a Venezuela la mejor Ley de Hidrocarburos de la región",
       "link": "https://diarioversionfinal.com/politica-dinero/ee-uu-le-diseno-a-venezuela-la-mejor-ley-de-hidrocarburos-de-la-region/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/dRr4Zj5n-images-3.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Seir-Contreras-Maria-Pina-30-01-2026-739x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-30T20:31:17.283Z"
+  "lastUpdate": "2026-01-30T21:28:53.896Z"
 };
