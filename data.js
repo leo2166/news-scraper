@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,47"
     },
     "binance": {
-      "usdt": "529,69"
+      "usdt": "527,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Qué cambia en Venezuela con la nueva Ley de Hidrocarburos y por qué es una ruptura radical con 50 años de modelo petrolero\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/01/que-cambia-en-venezuela-con-la-nueva-ley-de-hidrocarburos-y-por-que-es-una-ruptura-radical-con-50-anos-de-modelo-petrolero/",
+      "title": "Valero Energy comenzó a incorporar petróleo venezolano a sus refinerías en Estados Unidos\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/01/valero-energy-comenzo-a-incorporar-petroleo-venezolano-a-sus-refinerias-en-estados-unidos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Ponen bajo custodia al periodista Don Lemon tras protesta anti-ICE",
-      "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/don-lemon-bajo-custodia-minneapolis-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/don-lemmon-gettyimages-2249858953.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Publican más de tres millones de páginas de archivos del caso Epstein",
+      "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/publican-mas-archivos-caso-jeffrey-epstein-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-12-20t020507z-61403049-rc2sjiaka0wh-rtrmadp-3-usa-trump-epstein-files-1-20260130161354400.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Qué pasará ahora con los vuelos a EEUU y Europa? Esto explicó una experta",
-      "link": "https://caraotadigital.net/venezuela/que-pasara-ahora-con-los-vuelos-a-eeuu-y-europa-esto-explico-una-experta/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2023/01/ministro-de-transporte-celebra-51-aniversario-del-instituto-aeropuerto-internacional-de-maiquetia-108372-150x150.jpg"
+      "title": "Luigi Mangione se libró de la pena de muerte, esta es la decisión que tomó una juez",
+      "link": "https://caraotadigital.net/eeuu/luigi-mangione-se-libro-de-la-pena-de-muerte-esta-es-la-decision-que-tomo-una-juez/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/12/Luigi-Mangione-3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NUEVOS CAMBIOS ECONÓMICOS DEMANDAN MÁS COMPETITIVIDAD AL SECTOR PRIVADO, SEGÚN LUIS OLIVEROS",
-      "link": "https://noticierodigital.com/2026/01/nuevos-cambios-economicos-demandan-mas-competitividad-al-sector-privado-segun-luis-oliveros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/luis-oliveros.jpg"
+      "title": "LULA ES OPERADO «SIN INCIDENTES» DE CATARATAS",
+      "link": "https://noticierodigital.com/2026/01/lula-es-operado-sin-incidentes-de-cataratas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/luiz-inacio-lula-da-silva-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Golpea a su hermana en Integración Comunal y le causa un traumatismo craneoencefálico",
-      "link": "https://laverdad.com/golpea-a-su-hermana-en-integracion-comunal-y-le-causa-un-traumatismo-craneoencefalico/",
+      "title": "Iberia volará de nuevo a Venezuela en abril si hay “garantías plenas” de seguridad",
+      "link": "https://laverdad.com/iberia-volara-de-nuevo-a-venezuela-en-abril-si-hay-garantias-plenas-de-seguridad/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Oscar-DLeon.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolanos con TPS aún enfrentan deportaciones pese a fallo judicial",
-      "link": "https://diarioversionfinal.com/mundo/venezolanos-con-tps-aun-enfrentan-deportaciones-pese-a-fallo-judicial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/autoridades-55464-750x430.jpeg"
+      "title": "Manuel Shuterland, economista: “Venezuela recibió en 20 años el equivalente a 10 planes Marshall”",
+      "link": "https://diarioversionfinal.com/politica-dinero/manuel-shuterland-economista-venezuela-recibio-en-20-anos-el-equivalente-a-10-planes-marshall/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/M4LSNMAMZZDQFM5E3KO3IWSIKM-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-30T15:35:49.553Z"
+  "lastUpdate": "2026-01-30T16:40:31.278Z"
 };
