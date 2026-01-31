@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "539,69"
+      "usdt": "535,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Provea anunció la excarcelación del abogado y activista Eduardo Torres tras ser detenido por “traición a la patria”",
-      "link": "https://www.infobae.com/venezuela/2026/01/31/la-ong-provea-anuncio-la-excarcelacion-del-abogado-y-activista-eduardo-torres-tras-ser-detenido-por-traicion-a-la-patria/",
-      "image": "https://www.infobae.com/resizer/v2/AG5SKX36ANBGTP76GBI6CLBRI4.jpg?auth=ab5d034f7d23743f13270df818812f644867c1cacc42ac21c75e5c8e70ae012f&smart=true&width=350&height=197&quality=85"
+      "title": "La captura de Maduro dejó un mensaje que se observó con detenimiento en Taiwán",
+      "link": "https://www.infobae.com/venezuela/2026/01/31/la-captura-de-maduro-dejo-un-mensaje-que-se-observo-con-detenimiento-en-taiwan/",
+      "image": "https://www.infobae.com/resizer/v2/KYGZ6JDNWBGM5KGJQY6HWHGEIQ.JPG?auth=5ba24bb5b37042cf32e6dce3e76a78893b5af140df3fd85422b0a724426ae92f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Regreso-a-Venezuela-2-30-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-31T10:25:35.186Z"
+  "lastUpdate": "2026-01-31T11:21:43.899Z"
 };
