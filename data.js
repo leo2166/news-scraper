@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Tras el anuncio de Delcy Rodríguez, Venezuela espera una liberación de presos políticos en manos del régimen",
-      "link": "https://www.infobae.com/venezuela/2026/01/31/tras-el-anuncio-de-delcy-rodriguez-venezuela-espera-una-liberacion-masiva-de-presos-politicos-en-manos-del-regimen/",
-      "image": "https://www.infobae.com/resizer/v2/EUGRVKAMEFDMBF5WFNJAOYMYNY.jpg?auth=3d600f2c4c4e6508cc19e95e265ab9fc711cf431aa1fa535694483998f0873c1&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Provea anunció la excarcelación del abogado y activista Eduardo Torres tras ser detenido por “traición a la patria”",
+      "link": "https://www.infobae.com/venezuela/2026/01/31/la-ong-provea-anuncio-la-excarcelacion-del-abogado-y-activista-eduardo-torres-tras-ser-detenido-por-traicion-a-la-patria/",
+      "image": "https://www.infobae.com/resizer/v2/AG5SKX36ANBGTP76GBI6CLBRI4.jpg?auth=ab5d034f7d23743f13270df818812f644867c1cacc42ac21c75e5c8e70ae012f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Regreso-a-Venezuela-2-30-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-31T08:31:46.544Z"
+  "lastUpdate": "2026-01-31T09:29:22.299Z"
 };
