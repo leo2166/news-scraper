@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "La emotiva despedida de Macaulay Culkin a Catherine O’Hara: «Mamá, pensé que teníamos tiempo»",
-      "link": "https://caraotadigital.net/caraota-show/la-emotiva-despedida-macaulay-culkin-a-catherine-ohara-mama-pense-que-teniamos-tiempo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/image-56.jpg"
+      "title": "EN VIDEO: La eufórica reacción de familiares de presos políticos en El Helicoide tras enterarse del anuncio de «amnistía general»",
+      "link": "https://caraotadigital.net/venezuela/en-video-la-euforica-reaccion-de-familiares-de-presos-politicos-en-el-helicoide-tras-enterarse-del-anuncio-de-amnistia-general/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presos-politicos-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. DIVULGÓ MÁS DE TRES MILLONES DE PÁGINAS SOBRE EL CASO JEFFREY EPSTEIN",
-      "link": "https://noticierodigital.com/2026/01/ee-uu-divulgo-mas-de-tres-millones-de-paginas-sobre-el-caso-jeffrey-epstein/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/jeffrey-epstein-627x376.jpg"
+      "title": "PUD EXIGIÓ LIBERTAD INCONDICIONAL DE TODOS LOS PRESOS POLÍTICOS EN LEY DE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/01/pud-exigio-libertad-incondicional-de-todos-los-presos-politicos-en-ley-de-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/plataforma-unitaria-p-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Hijos de “Mazuco” están en Boleíta acusados de “terrorismo y traición a la patria”",
-      "link": "https://laverdad.com/hijos-de-mazuco-estan-en-boleita-acusados-de-terrorismo-y-traicion-a-la-patria/",
+      "title": "Falla en la línea de transmisión Yaracuy–El Tablazo provoca apagón en el Zulia",
+      "link": "https://laverdad.com/falla-en-la-linea-de-transmision-yaracuy-el-tablazo-provoca-apagon-en-el-zulia/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Catherine-OHara.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Familiares de presos políticos celebran el fin del Helicoide como símbolo de represión",
       "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-celebran-el-fin-del-helicoide-como-simbolo-de-represion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-9.25.59-AM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-9.47.39-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-31T13:41:38.722Z"
+  "lastUpdate": "2026-01-31T14:25:43.329Z"
 };
