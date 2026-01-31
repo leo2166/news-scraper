@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "525,53"
+      "usdt": "534,43"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Los dardos de María Corina Machado ante el anuncio de «amnistía general» realizado por Delcy Rodríguez",
-      "link": "https://caraotadigital.net/venezuela/los-dardos-de-maria-corina-machado-ante-el-anuncio-de-amnistia-general-realizado-por-delcy-rodriguez/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/maria-corina.jpg"
+      "title": "¿Qué implicaciones tiene la ley de amnistía general anunciada por Delcy Rodríguez? Esto dijo un experto",
+      "link": "https://caraotadigital.net/venezuela/que-implicaciones-tiene-la-ley-de-amnistia-general-anunciada-por-delcy-rodriguez-esto-dijo-un-experto/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY_RODRIGUEZ_AMNISTIA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SNTP EXIGIÓ LIBERACIÓN INMEDIATA DE SEIS PERIODISTAS DETENIDOS POR RAZONES POLÍTICAS",
-      "link": "https://noticierodigital.com/2026/01/sntp-exigio-liberacion-inmediata-de-seis-periodistas-detenidos-por-razones-politicas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/medios-sntp-campanapresidencial.jpg"
+      "title": "EXPORTACIONES DESDE LA VELA DE CORO REGISTRARON UN AUMENTO DEL 24 % EN 2025",
+      "link": "https://noticierodigital.com/2026/01/exportaciones-desde-la-vela-de-coro-registraron-un-aumento-del-24-en-2025/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/vela-de-coro-falcon-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Avalancha en mina de coltán en Congo deja más de 200 muertos",
-      "link": "https://diarioversionfinal.com/mundo/avalancha-en-mina-de-coltan-en-congo-deja-mas-de-200-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-12.11.58-PM.jpeg"
+      "title": "Exxon y Chevron evalúan inversiones en Venezuela pese a riesgos políticos existentes",
+      "link": "https://diarioversionfinal.com/politica-dinero/exxon-y-chevron-evaluan-inversiones-en-venezuela-pese-a-riesgos-politicos-existentes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-1.15.23-PM-1.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-31T16:29:50.839Z"
+  "lastUpdate": "2026-01-31T17:24:07.154Z"
 };
