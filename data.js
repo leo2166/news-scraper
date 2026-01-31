@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "535,90"
+      "usdt": "530,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Delcy Rodríguez presentará a la AN ley de amnistía general\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/anuncian-ley-de-amnistia-general/",
+      "title": "Plataforma Unitaria pide que ley de amnistía incluya a todos los presos políticos y exiliados\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/plataforma-unitaria-pide-que-ley-de-amnistia-incluya-a-todos-los-presos-politicos-y-exiliados/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presidenta (e) confirma Ley de Amnistía y anuncia que El Helicoide se convertirá en centro social",
-      "link": "https://diarioversionfinal.com/politica-dinero/presidenta-e-confirma-ley-de-amnistia-y-anuncia-que-el-helicoide-se-convertira-en-centro-social/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Regreso-a-Venezuela-2-30-01-2026-750x430.jpg"
+      "title": "Familiares de presos políticos celebran el fin del Helicoide como símbolo de represión",
+      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-celebran-el-fin-del-helicoide-como-simbolo-de-represion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-8.38.19-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-31T11:21:43.899Z"
+  "lastUpdate": "2026-01-31T12:49:53.654Z"
 };
