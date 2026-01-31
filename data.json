@@ -5,7 +5,7 @@
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "515,70"
+      "usdt": "539,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal cuestionó la propuesta de Delcy Rodríguez para los presos políticos: “El indulto es perdón, mientras la amnistía es olvido”",
-      "link": "https://www.infobae.com/venezuela/2026/01/31/foro-penal-cuestiono-la-propuesta-de-delcy-rodriguez-para-los-presos-politicos-el-indulto-es-perdon-mientras-la-amnistia-es-olvido/",
-      "image": "https://www.infobae.com/resizer/v2/SLWXQKAJJRBZTO7ACAXJHGHHBU.jpg?auth=842ab529ce6bae8258209819a26e855c07d843e1d1773fb20cf0acd3954e1c8c&smart=true&width=350&height=197&quality=85"
+      "title": "Tras el anuncio de Delcy Rodríguez, Venezuela espera una liberación de presos políticos en manos del régimen",
+      "link": "https://www.infobae.com/venezuela/2026/01/31/tras-el-anuncio-de-delcy-rodriguez-venezuela-espera-una-liberacion-masiva-de-presos-politicos-en-manos-del-regimen/",
+      "image": "https://www.infobae.com/resizer/v2/EUGRVKAMEFDMBF5WFNJAOYMYNY.jpg?auth=3d600f2c4c4e6508cc19e95e265ab9fc711cf431aa1fa535694483998f0873c1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,8 +26,8 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodríguez anuncia ley de amnistía en Venezuela y la reconversión de El Helicoide",
-      "link": "https://cnnespanol.cnn.com/2026/01/30/venezuela/delcy-rodriguez-anuncia-ley-amnistia-orix",
+      "title": "Cinco conclusiones iniciales de la publicación de los archivos de Epstein",
+      "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/5-conclusiones-publicacion-archivos-epstein-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/f5a920c82e780c831e93383867f2bb1f81fa28e7.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Regreso-a-Venezuela-2-30-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-31T07:29:04.325Z"
+  "lastUpdate": "2026-01-31T08:31:46.544Z"
 }
