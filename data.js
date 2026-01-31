@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "534,43"
+      "usdt": "537,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Qué implicaciones tiene la ley de amnistía general anunciada por Delcy Rodríguez? Esto dijo un experto",
-      "link": "https://caraotadigital.net/venezuela/que-implicaciones-tiene-la-ley-de-amnistia-general-anunciada-por-delcy-rodriguez-esto-dijo-un-experto/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DELCY_RODRIGUEZ_AMNISTIA.jpg"
+      "title": "La razón por la que la ONU estaría enfrentando un «colapso financiero inminente», según su secretario general",
+      "link": "https://caraotadigital.net/mundo/la-razon-por-la-que-la-onu-estaria-enfrentando-un-colapso-financiero-inminente-segun-su-secretario-general/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/08/guterres.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPORTACIONES DESDE LA VELA DE CORO REGISTRARON UN AUMENTO DEL 24 % EN 2025",
-      "link": "https://noticierodigital.com/2026/01/exportaciones-desde-la-vela-de-coro-registraron-un-aumento-del-24-en-2025/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/vela-de-coro-falcon-627x376.jpg"
+      "title": "GOBIERNO DE ESPAÑA RESPALDÓ ANUNCIO DE LEY DE AMNISTÍA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/01/gobierno-de-espana-respaldo-anuncio-de-ley-de-amnistia-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/ministerio-de-relaciones-de-exteriores-de-espana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Revelan presunta amenaza previa a envenenamiento en investigación del caso talio: “Lo vamos a matar”",
-      "link": "https://www.noticiascaracol.com/los-informantes/revelan-amenaza-previa-al-envenenamiento-en-la-investigacion-del-caso-talio-lo-vamos-a-matar-pr30",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0c50b41/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fea%2F3a%2F85a8762b498890996883e0e1700d%2Finvestigacion-revela-amenaza-previa-al-envenenamiento-con-talio.jpg"
+      "title": "Este será el precio de la gasolina en Colombia, en promedio, con la rebaja de 500 pesos",
+      "link": "https://www.noticiascaracol.com/economia/este-sera-el-precio-de-la-gasolina-en-colombia-en-promedio-con-la-rebaja-de-500-pesos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b75573b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2F88%2F9338168040f2a2d6b70c77b77a04%2Fprecio-de-la-gasolina.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "India busca luz verde de EE. UU. para comprar petróleo venezolano",
-      "link": "https://laverdad.com/india-busca-luz-verde-de-ee-uu-para-comprar-petroleo-venezolano/",
+      "title": "Ciudadano peruano‑norteamericano liberado en Venezuela es enviado a Puerto Rico",
+      "link": "https://laverdad.com/ciudadano-peruano-norteamericano-liberado-en-venezuela-es-enviado-a-puerto-rico/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Catherine-OHara.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Exxon y Chevron evalúan inversiones en Venezuela pese a riesgos políticos existentes",
-      "link": "https://diarioversionfinal.com/politica-dinero/exxon-y-chevron-evaluan-inversiones-en-venezuela-pese-a-riesgos-politicos-existentes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-1.15.23-PM-1.jpeg"
+      "title": "Gobierno de EE. UU. vuelve a ofrecer dinero por autodeportaciones: USD 2.600 y vuelo gratis",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-ee-uu-impulsa-medidas-para-controlar-inmigracion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-2.12.32-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-31T17:24:07.154Z"
+  "lastUpdate": "2026-01-31T18:33:50.401Z"
 };
