@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Regreso-a-Venezuela-2-30-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-31T06:40:41.125Z"
+  "lastUpdate": "2026-01-31T07:29:04.325Z"
 };
