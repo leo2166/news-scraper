@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "537,69"
+      "usdt": "535,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,52 +14,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La captura de Maduro dejó un mensaje que se observó con detenimiento en Taiwán",
-      "link": "https://www.infobae.com/venezuela/2026/01/31/la-captura-de-maduro-dejo-un-mensaje-que-se-observo-con-detenimiento-en-taiwan/",
-      "image": "https://www.infobae.com/resizer/v2/KYGZ6JDNWBGM5KGJQY6HWHGEIQ.JPG?auth=5ba24bb5b37042cf32e6dce3e76a78893b5af140df3fd85422b0a724426ae92f&smart=true&width=350&height=197&quality=85"
+      "title": "La encargada de negocios de EEUU para Venezuela llegó a Caracas para reabrir la misión diplomática de su país",
+      "link": "https://www.infobae.com/venezuela/2026/01/31/la-encargada-de-negocios-de-eeuu-para-venezuela-llego-a-caracas-para-reabrir-la-mision-diplomatica-de-su-pais/",
+      "image": "https://www.infobae.com/resizer/v2/SGMEDS2RA5BGFNHRYZRF3N3MIA.png?auth=f860628c7ebc9eca36600391de86aaeac322a88d98085532376d7a5558b3bce1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal exige definir alcance sobre ley de amnistía: \"El indulto es perdón, mientras la amnistía es olvido\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/foro-penal-exige-definir-alcance-sobre-ley-de-amnistia-el-indulto-es-perdon-mientras-la-amnistia-es-olvido/",
+      "title": "Llegó a Caracas Laura Dogu, jefa de misión diplomática de EE UU en Venezuela: \"Estamos listos para trabajar\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/01/llego-a-caracas-laura-dogu-jefa-de-mision-diplomatica-de-ee-uu-en-venezuela-estamos-listos-para-trabajar/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Qué cambia en la industria del petróleo de Venezuela con la nueva ley de hidrocarburos",
-      "link": "https://cnnespanol.cnn.com/2026/01/31/venezuela/cambios-industria-petroleo-ley-hidrocarburos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1237709892-20260131023853990.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Un juez ordena la liberación de Liam Conejo Ramos y su padre",
+      "link": "https://cnnespanol.cnn.com/2026/01/31/eeuu/liam-conejo-ramos-liberan-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/liam-photo-2-20260131190319091.JPG?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "CIFRAS RÉCORD: El exorbitante precio que habrían alcanzado las entradas para asistir al Super Bowl 2026",
-      "link": "https://caraotadigital.net/deportes/cifras-record-el-exorbitante-precio-que-habrian-alcanzado-las-entradas-para-asistir-al-super-bowl-2026/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/super-bowl.jpg"
+      "title": "«Estamos listos para trabajar»: Encargada de negocios de los EEUU, Laura Dogu, arribó al país este 31Ene",
+      "link": "https://caraotadigital.net/venezuela/estamos-listos-para-trabajar-encargada-de-negocios-de-los-eeuu-laura-dogu-arribo-al-pais-este-31ene/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Proyecto-nuevo-4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO CENTRALIZÓ SERVICIO DE AGUA Y ELIMINÓ COMPETENCIAS A ALCALDÍAS Y GOBERNACIONES",
-      "link": "https://noticierodigital.com/2026/01/gobierno-centralizo-servicio-de-agua-y-elimino-competencias-a-alcaldias-y-gobernaciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/agua-venezuela-627x376.jpg"
+      "title": "TAREK WILLIAM SAAB APOYA A DELCY RODRÍGUEZ EN PROPUESTA DE JUSTICIA PENAL ALTERNATIVA",
+      "link": "https://noticierodigital.com/2026/01/tarek-william-saab-apoya-a-delcy-rodriguez-en-propuesta-de-justicia-penal-alternativa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/tarek-william-saab-delcy-rodriguez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Este será el precio de la gasolina en Colombia, en promedio, con la rebaja de 500 pesos",
-      "link": "https://www.noticiascaracol.com/economia/este-sera-el-precio-de-la-gasolina-en-colombia-en-promedio-con-la-rebaja-de-500-pesos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b75573b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2F88%2F9338168040f2a2d6b70c77b77a04%2Fprecio-de-la-gasolina.jpg"
+      "title": "Manifestaciones en EE. UU. contra ICE: exigen frenar brutalidad e incluso que la agencia desaparezca",
+      "link": "https://www.noticiascaracol.com/mundo/manifestaciones-en-ee-uu-contra-ice-exigen-frenar-brutalidad-e-incluso-que-la-agencia-desaparezca-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2c3e2a6/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe7%2Fcf%2F23593c4f4459b5736825b293413d%2Fprotestas-contra-ice.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Cardenal Baltazar Porras recupera su pasaporte tras anulación en Maiquetía",
-      "link": "https://laverdad.com/cardenal-baltazar-porras-recupera-su-pasaporte-tras-anulacion-en-maiquetia/",
+      "title": "Machado atribuye a presión de EE. UU. anuncio de ley de amnistía general",
+      "link": "https://laverdad.com/machado-atribuye-a-presion-de-ee-uu-anuncio-de-ley-de-amnistia-general/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Catherine-OHara.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Gobierno de EE. UU. vuelve a ofrecer dinero por autodeportaciones: USD 2.600 y vuelo gratis",
       "link": "https://diarioversionfinal.com/mundo/gobierno-de-ee-uu-impulsa-medidas-para-controlar-inmigracion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-2.33.20-PM-679x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-3.38.28-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-01-31T19:21:30.716Z"
+  "lastUpdate": "2026-01-31T20:27:08.273Z"
 };
