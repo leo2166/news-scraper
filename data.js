@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "535,69"
+      "usdt": "510,84"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,13 +28,13 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Cinco conclusiones iniciales de la publicación de los archivos de Epstein",
       "link": "https://cnnespanol.cnn.com/2026/01/30/eeuu/5-conclusiones-publicacion-archivos-epstein-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f5a920c82e780c831e93383867f2bb1f81fa28e7.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26029046844962-20260131144313028.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: La eufórica reacción de familiares de presos políticos en El Helicoide tras enterarse del anuncio de «amnistía general»",
-      "link": "https://caraotadigital.net/venezuela/en-video-la-euforica-reaccion-de-familiares-de-presos-politicos-en-el-helicoide-tras-enterarse-del-anuncio-de-amnistia-general/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/presos-politicos-1.jpg"
+      "title": "Nubosidad y lluvias dispersas, el pronóstico del Inameh para este 31Ene en gran parte del país",
+      "link": "https://caraotadigital.net/venezuela/nubosidad-y-lluvias-dispersas-el-pronostico-del-inameh-para-este-31ene-en-gran-parte-del-pais/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/08/lluvias-1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "TransMilenio anuncia operación especial finalizado concierto homenaje a Yeison Jiménez: así será",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/transmilenio-anuncia-operacion-especial-finalizado-concierto-homenaje-a-yeison-jimenez-asi-sera-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ce776f9/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F89%2F3e%2F141576324976a64ac3c02a6b6e0b%2Fyeison-jimenez.jpg"
+      "title": "Juan Fernando Cristo confirma en qué consulta participará como precandidato presidencial",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/juan-fernando-cristo-confirma-en-que-consulta-participara-como-precandidato-presidencial-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6af3adc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7c%2F29%2F35193e634728bd4de2d58d486e0d%2Fjuan-fernando-cristo.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Falla en la línea de transmisión Yaracuy–El Tablazo provoca apagón en el Zulia",
-      "link": "https://laverdad.com/falla-en-la-linea-de-transmision-yaracuy-el-tablazo-provoca-apagon-en-el-zulia/",
+      "title": "Excarcelan al abogado Eduardo Torres tras más de ocho meses detenido",
+      "link": "https://laverdad.com/excarcelan-al-abogado-eduardo-torres-tras-mas-de-ocho-meses-detenido/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Catherine-OHara.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Familiares de presos políticos celebran el fin del Helicoide como símbolo de represión",
-      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-celebran-el-fin-del-helicoide-como-simbolo-de-represion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-31-at-9.47.39-AM-750x430.jpeg"
+      "title": "Estadounidenses protestan contra ICE tras muertes y detenciones polémicas",
+      "link": "https://diarioversionfinal.com/mundo/estadounidenses-protestan-contra-ice-tras-muertes-y-detenciones-polemicas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/3cgWN2YR-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-31T14:25:43.329Z"
+  "lastUpdate": "2026-01-31T15:25:09.183Z"
 };
