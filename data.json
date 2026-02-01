@@ -5,7 +5,7 @@
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "534,26"
+      "usdt": "524,63"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen venezolano excarceló al activista Javier Tarazona tras más de cuatro años en prisión",
-      "link": "https://www.infobae.com/venezuela/2026/02/01/el-regimen-venezolano-excarcelo-al-activista-javier-tarazona-tras-mas-de-cuatro-anos-en-prision/",
-      "image": "https://www.infobae.com/resizer/v2/ZOMRGUIDMNFPVK3S2OKMI65S2E.jpg?auth=f758f147f75e78ec4c734f95ce8f3df837e884c1c9e8a4e62e0fc28a0613db9e&smart=true&width=350&height=197&quality=85"
+      "title": "Casi 200 presos políticos militares permanecen en los centros de tortura del régimen venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/02/01/casi-200-presos-politicos-militares-permanecen-en-los-centros-de-tortura-del-regimen-venezolano/",
+      "image": "https://www.infobae.com/resizer/v2/PT7ACU7ZHVEJVBXUG2PEJGR3LM.jpeg?auth=97f3647aacde51af546dc990968be56d2e170d1a2a7b56f4139db4ce0be7a117&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Protestas contra ICE se extienden por EE.UU. entre fallos judiciales a favor y en contra de Trump",
-      "link": "https://cnnespanol.cnn.com/2026/02/01/eeuu/protestas-ice-ee-uu-victorias-derrotas-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cierre-nacional.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cada vez más liberales en EE.UU. consideran armarse",
+      "link": "https://cnnespanol.cnn.com/2026/02/01/eeuu/izquierda-liberales-armas-pretti-protestas-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/control-armas.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Oposición venezolana espera que llegada de diplomática de EEUU marque una nueva etapa",
-      "link": "https://caraotadigital.net/venezuela/oposicion-venezolana-espera-que-llegada-de-diplomatica-de-eeuu-marque-una-nueva-etapa/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/05/UNI.jpg"
+      "title": "Tiroteo durante un desfile en Luisiana dejó varios heridos, un menor está grave y hay cuatro sospechosos detenidos",
+      "link": "https://caraotadigital.net/eeuu/tiroteo-durante-un-desfile-en-luisiana-dejo-varios-heridos-un-menor-esta-grave-y-hay-cuatro-sospechosos-detenidos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/tiroteo.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Excarcelan a Javier Tarazona luego de casi cinco años de detención",
-      "link": "https://laverdad.com/excarcelan-a-javier-tarazona-luego-de-casi-cinco-anos-de-detencion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/01/Catherine-OHara.jpg"
+      "title": "Canciller Gil recibe a Laura Dogu para avanzar en una agenda bilateral con EE. UU.",
+      "link": "https://laverdad.com/canciller-gil-recibe-a-laura-dogu-para-avanzar-en-una-agenda-bilateral-con-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/b407b4c76c881c947a600aca77461dd3b040b21a.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Yandir Loggiodice es excarcelado en Venezuela luego de seis meses detenido",
       "link": "https://diarioversionfinal.com/politica-dinero/yandir-loggiodice-es-excarcelado-en-venezuela-luego-de-seis-meses-detenido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-11.17.18-AM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-11.30.35-AM-1-582x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T15:26:00.322Z"
+  "lastUpdate": "2026-02-01T16:30:48.579Z"
 }
