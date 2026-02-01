@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "537,69"
+      "usdt": "513,45"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Venezolanos en Madrid exigieron hechos reales tras anuncio de amnistía: \"Hasta ahora va todo muy lento\"\nEUROPA",
-      "link": "https://www.elnacional.com/2026/01/venezolanos-en-madrid-exigieron-hechos-reales-tras-anuncio-de-amnistia/",
+      "title": "Trump plantea juntar al chavismo y a la oposición para la transición en Venezuela: \"Tenemos que hacer algo\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/trump-plantea-juntar-al-chavismo-y-a-la-oposicion-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Trump cierra grandes acuerdos petroleros en nombre de Venezuela y acepta inversiones chinas en el país",
       "link": "https://diarioversionfinal.com/politica-dinero/trump-cierra-grandes-acuerdos-petroleros-en-nombre-de-venezuela-y-acepta-inversiones-chinas-en-el-pais/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/image-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-8.35.29-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T11:21:56.015Z"
+  "lastUpdate": "2026-02-01T12:51:44.235Z"
 };
