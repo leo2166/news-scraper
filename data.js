@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "524,63"
+      "usdt": "514,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cada vez más liberales en EE.UU. consideran armarse",
-      "link": "https://cnnespanol.cnn.com/2026/02/01/eeuu/izquierda-liberales-armas-pretti-protestas-ice-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/control-armas.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Un “mundo al revés”: Trump sacude la política de armas en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/02/01/eeuu/trump-armas-nra-giro-politica-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/armas-trump.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Tiroteo durante un desfile en Luisiana dejó varios heridos, un menor está grave y hay cuatro sospechosos detenidos",
-      "link": "https://caraotadigital.net/eeuu/tiroteo-durante-un-desfile-en-luisiana-dejo-varios-heridos-un-menor-esta-grave-y-hay-cuatro-sospechosos-detenidos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/tiroteo.jpg"
+      "title": "VIDEOS: Así fue el emotivo reencuentro del activista Luis Istúriz con sus familiares tras ser excarcelado este 1Feb",
+      "link": "https://caraotadigital.net/venezuela/videos-asi-fue-el-emotivo-reencuentro-del-activista-luis-isturiz-con-sus-familiares-tras-ser-excarcelado-este-1feb/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/luis-isturiz.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Avión aterrizó de emergencia en el aeropuerto El Dorado: ¿qué fue lo que pasó?",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/avion-aterrizo-de-emergencia-en-el-aeropuerto-el-dorado-que-fue-lo-que-paso-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2062353/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F89%2F72%2F455b4099428296ae86d898ac6e5c%2Fvuelo-emergencia.jpg"
+      "title": "Liam Conejo, el niño detenido por ICE, fue liberado junto a su padre y regresa a Mineápolis",
+      "link": "https://www.noticiascaracol.com/mundo/liam-conejo-el-nino-detenido-por-ice-fue-liberado-junto-a-su-padre-y-regresa-a-mineapolis-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fa037fe/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff8%2Fb3%2F8386bdd44cf890aa957c9c9cb8c7%2Fliam-conejo-libre.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Canciller Gil recibe a Laura Dogu para avanzar en una agenda bilateral con EE. UU.",
-      "link": "https://laverdad.com/canciller-gil-recibe-a-laura-dogu-para-avanzar-en-una-agenda-bilateral-con-ee-uu/",
+      "title": "Gobierno centraliza la gestión del agua y saneamiento bajo Hidroven",
+      "link": "https://laverdad.com/gobierno-centraliza-la-gestion-del-agua-y-saneamiento-bajo-hidroven/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/b407b4c76c881c947a600aca77461dd3b040b21a.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Yandir Loggiodice es excarcelado en Venezuela luego de seis meses detenido",
       "link": "https://diarioversionfinal.com/politica-dinero/yandir-loggiodice-es-excarcelado-en-venezuela-luego-de-seis-meses-detenido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-11.30.35-AM-1-582x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-12.38.06-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T16:30:48.579Z"
+  "lastUpdate": "2026-02-01T17:25:38.175Z"
 };
