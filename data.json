@@ -5,7 +5,7 @@
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "536,10"
+      "usdt": "536,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Llegó a Caracas Laura Dogu, jefa de misión diplomática de EE UU en Venezuela: \"Estamos listos para trabajar\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/01/llego-a-caracas-laura-dogu-jefa-de-mision-diplomatica-de-ee-uu-en-venezuela-estamos-listos-para-trabajar/",
+      "title": "Venezolanos en Madrid exigieron hechos reales tras anuncio de amnistía: \"Hasta ahora va todo muy lento\"\nEUROPA",
+      "link": "https://www.elnacional.com/2026/01/venezolanos-en-madrid-exigieron-hechos-reales-tras-anuncio-de-amnistia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Emiten decreto para fusionar hidrológicas de todo el país, ahora responderán a un ente centralizado",
-      "link": "https://caraotadigital.net/venezuela/emiten-decreto-para-fusionar-hidrologicas-de-todo-el-pais-ahora-responderan-a-un-ente-centralizado/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Hidrollanos-1.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "TAREK WILLIAM SAAB APOYA A DELCY RODRÍGUEZ EN PROPUESTA DE JUSTICIA PENAL ALTERNATIVA",
-      "link": "https://noticierodigital.com/2026/01/tarek-william-saab-apoya-a-delcy-rodriguez-en-propuesta-de-justicia-penal-alternativa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/tarek-william-saab-delcy-rodriguez-627x376.jpg"
+      "title": "Trump ordena retirar la presencia de agentes federales en protestas de Mineápolis",
+      "link": "https://caraotadigital.net/eeuu/trump-ordena-retirar-la-presencia-de-agentes-federales-en-protestas-de-mineapolis/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/minneapolis_protestas_ice-1.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "“Que no sea un embuste más”: familias de presos políticos en Venezuela tras anuncio de amnistía",
-      "link": "https://www.noticiascaracol.com/mundo/que-no-sea-un-embuste-mas-familias-de-presos-politicos-en-venezuela-tras-anuncio-de-amnistia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/06c6322/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9c%2Fa9%2F204929d84fab95fa7e1ac7ecabfb%2Fpresos-politicos.jpg"
+      "title": "Masacre en Riohacha deja tres muertos, entre ellos dos menores de edad",
+      "link": "https://www.noticiascaracol.com/colombia/masacre-en-riohacha-deja-tres-muertos-entre-ellos-dos-menores-de-edad-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc73bd8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F23%2Fff%2Fc9a24f5f4c87a0095b0ca1757527%2Fmasacre-riohacha-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bloomberg: Exxon y Chevron se muestran cautelosas con Venezuela mientras Trump insta al crecimiento petrolero",
-      "link": "https://diarioversionfinal.com/politica-dinero/bloomberg-exxon-y-chevron-se-muestran-cautelosas-con-venezuela-mientras-trump-insta-al-crecimiento-petrolero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/IMG_9272-750x430.webp"
+      "title": "Secretario de Energía estadounidense prevé elecciones en Venezuela en 18 o 24 meses, según WSJ",
+      "link": "https://diarioversionfinal.com/mundo/secretario-de-energia-estadounidense-preve-elecciones-en-venezuela-en-18-o-24-meses-segun-wsj/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Gj9gcLml-SaveClip.App_610747518_18541882027065246_2949541442569572348_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-01-31T23:23:09.786Z"
+  "lastUpdate": "2026-02-01T02:28:36.581Z"
 }
