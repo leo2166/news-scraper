@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Copa-Airlines-plane-in-Panama-City-Panama-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-01T08:34:06.882Z"
+  "lastUpdate": "2026-02-01T09:32:00.323Z"
 };
