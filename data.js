@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "536,00"
+      "usdt": "514,93"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El canciller del régimen venezolano confirmó que mantuvo un encuentro con la encargada de negocios de EEUU",
-      "link": "https://www.infobae.com/venezuela/2026/01/31/el-canciller-del-regimen-venezolano-confirmo-que-mantuvo-un-encuentro-con-la-encargada-de-negocios-de-eeuu/",
-      "image": "https://www.infobae.com/resizer/v2/UOZSP5MX7FFPJAE2BK65WLHEOY.JPG?auth=b266aaf663a3736cd8e8acd5e388e88cd2254fdeabc6c275454639bf2cda3e8d&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela: ¿y para cuándo la democracia? Tarek William Saab como símbolo de la porfiada impunidad",
+      "link": "https://www.infobae.com/america/opinion/2026/02/01/venezuela-y-para-cuando-la-democracia-tarek-william-saab-como-simbolo-de-la-porfiada-impunidad/",
+      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Copa-Airlines-plane-in-Panama-City-Panama-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-01T05:01:42.973Z"
+  "lastUpdate": "2026-02-01T06:50:57.684Z"
 };
