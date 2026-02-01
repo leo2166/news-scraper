@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal confirma nueva ola de excarcelaciones de presos políticos este domingo\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/foro-penal-confirma-nuevas-excarcelaciones-de-presos-politicos/",
+      "title": "María Corina Machado: no creo que se atrevan a matarme si regreso a Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/maria-corina-machado-no-creo-que-se-atrevan-a-matarme-si-regreso-a-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Examen para obtener la licencia de conducir en Florida será solo en inglés a partir de esta fecha",
-      "link": "https://caraotadigital.net/eeuu/examen-para-obtener-la-licencia-de-conducir-en-florida-sera-solo-en-ingles-a-partir-de-esta-fecha/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/flhsmv.jpg"
+      "title": "Trump cree que Cuba buscará un «trato» con Estados Unidos y la isla volverá a ser «libre»",
+      "link": "https://caraotadigital.net/eeuu/trump-cree-que-cuba-buscara-un-trato-con-estados-unidos-y-la-isla-volvera-a-ser-libre/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DONALD-TRUMP-4.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "TRUMP ASEGURÓ QUE «ESTAMOS EMPEZANDO A HABLAR CON CUBA» EN MEDIO DE PRESIONES",
+      "link": "https://noticierodigital.com/2026/02/trump-aseguro-que-estamos-empezando-a-hablar-con-cuba-en-medio-de-presiones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/donald-trump-estados-unidos-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Venezuela y República Dominicana reactivarán vuelos y servicios consulares",
-      "link": "https://laverdad.com/venezuela-y-republica-dominicana-reactivaran-vuelos-y-servicios-consulares/",
+      "title": "Machado dice que no cree que se atrevan a matarla si regresa al país",
+      "link": "https://laverdad.com/machado-dice-que-no-cree-que-se-atrevan-a-matarla-si-regresa-al-pais/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/grammy.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Foro Penal confirma excarcelaciones en El Helicoide: Proceso bajo verificación",
-      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-confirma-excarcelaciones-en-el-helicoide-proceso-bajo-verificacion/",
+      "title": "Editorial | ¿Por qué Delcy y no María Corina?",
+      "link": "https://diarioversionfinal.com/editoriales/editorial-por-que-delcy-y-no-maria-corina/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-3.42.26-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T20:28:10.766Z"
+  "lastUpdate": "2026-02-01T21:23:50.070Z"
 };
