@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "536,69"
+      "usdt": "512,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado aseguró que “se están dando pasos importantes” hacia la libertad de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/01/maria-corina-machado-aseguro-que-se-estan-dando-pasos-importantes-hacia-la-libertad-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/43ACNXTXTFA6BDGLU45C5AU7GA.JPG?auth=94ede8141354d83a9fe82b83f505657e594de264f363c7a7857cac084c0b1c99&smart=true&width=350&height=197&quality=85"
+      "title": "Luis Istúriz, abogado y dirigente de Vente Venezuela, fue excarcelado tras permanecer más de un año en El Helicoide",
+      "link": "https://www.infobae.com/venezuela/2026/02/01/luis-isturiz-abogado-y-dirigente-de-vente-venezuela-fue-excarcelado-tras-permanecer-mas-de-un-ano-en-el-helicoide/",
+      "image": "https://www.infobae.com/resizer/v2/OLDO76IR4JDVRPV2B2IKQXVQBI.jpg?auth=db30325297087d75e9562eaf239f033162597e9d3c0c5bc4155cbd3d3434e994&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Gobiernos de Venezuela y República Dominicana acordaron reactivar sus servicios consulares y la conexión aérea",
-      "link": "https://caraotadigital.net/venezuela/gobiernos-de-venezuela-y-republica-dominicana-acordaron-reactivar-sus-servicios-consulares-y-la-conexion-aerea/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/11/maiquetiaaa-1.jpg"
+      "title": "«Vete ya»: Gobierno de Trump lanza nuevo incentivo para que inmigrantes ilegales abandonen el país",
+      "link": "https://caraotadigital.net/mundo/vete-ya-gobierno-de-trump-lanza-nuevo-incentivo-para-que-inmigrantes-ilegales-abandonen-el-pais/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/09/CBP-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LUIS ISTÚRIZ, YANDIR LOGGIODICE, Y UN ITALIANO ENTRE LOS EXCARCELADOS ESTE 1 DE FEBRERO",
-      "link": "https://noticierodigital.com/2026/02/luis-isturiz-yandir-loggiodice-y-un-italiano-entre-los-excarcelados-este-1-de-febrero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/el-helicoide-fachada-30ene2023-627x376.jpg"
+      "title": "SUMAN TRES NUEVOS EXCARCELADOS AL BALANCE DE PRESOS POLÍTICOS ESTE DOMINGO",
+      "link": "https://noticierodigital.com/2026/02/suman-tres-nuevos-excarcelados-al-balance-de-presos-politicos-este-domingo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno centraliza la gestión del agua y saneamiento bajo Hidroven",
-      "link": "https://laverdad.com/gobierno-centraliza-la-gestion-del-agua-y-saneamiento-bajo-hidroven/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/b407b4c76c881c947a600aca77461dd3b040b21a.jpg"
+      "title": "Chofer pierde el control y vuelca contra pipas de cemento en Milagro Norte",
+      "link": "https://laverdad.com/chofer-pierde-el-control-y-vuelca-contra-pipas-de-cemento-en-milagro-norte/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/grammy.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-2.29.21-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T18:36:10.045Z"
+  "lastUpdate": "2026-02-01T19:25:25.621Z"
 };
