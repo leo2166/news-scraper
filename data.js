@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "536,10"
+      "usdt": "534,26"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump anunció un acuerdo con India para comprar petróleo de Venezuela y apartó a Irán de la negociación",
-      "link": "https://www.infobae.com/venezuela/2026/02/01/donald-trump-anuncio-un-acuerdo-con-india-para-comprar-petroleo-de-venezuela-y-aparto-a-iran-de-la-negociacion/",
-      "image": "https://www.infobae.com/resizer/v2/R6F46SZO5ZC7NFFSCQA4L37XWA.JPG?auth=fefc3465524c92c1b87fb4ad0e77e476a0235a9aec9f2463e3d37d98eb3eb3e3&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen venezolano excarceló al activista Javier Tarazona tras más de cuatro años en prisión",
+      "link": "https://www.infobae.com/venezuela/2026/02/01/el-regimen-venezolano-excarcelo-al-activista-javier-tarazona-tras-mas-de-cuatro-anos-en-prision/",
+      "image": "https://www.infobae.com/resizer/v2/ZOMRGUIDMNFPVK3S2OKMI65S2E.jpg?auth=f758f147f75e78ec4c734f95ce8f3df837e884c1c9e8a4e62e0fc28a0613db9e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Trump plantea juntar al chavismo y a la oposición para la transición en Venezuela: \"Tenemos que hacer algo\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/trump-plantea-juntar-al-chavismo-y-a-la-oposicion-en-venezuela/",
+      "title": "Excarcelaron a Javier Tarazona, director de Fundaredes\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/excarcelaron-a-javier-tarazona-director-de-fundaredes/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump sugiere «juntar» al chavismo y a la oposición para la transición en Venezuela",
-      "link": "https://caraotadigital.net/eeuu/trump-sugiere-juntar-al-chavismo-y-a-la-oposicion-para-la-transicion-en-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/TRUMP-18.jpg"
+      "title": "Oposición venezolana espera que llegada de diplomática de EEUU marque una nueva etapa",
+      "link": "https://caraotadigital.net/venezuela/oposicion-venezolana-espera-que-llegada-de-diplomatica-de-eeuu-marque-una-nueva-etapa/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/05/UNI.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUD DIO LA BIENVENIDA A LA REPRESENTACIÓN DIPLOMÁTICA DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/02/pud-dio-la-bienvenida-a-la-representacion-diplomatica-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/08/plataformaunitaria-hechosdecorrupcion-22mar2023-1024x683-1.jpg"
+      "title": "GIL YEPES CALIFICÓ COMO «GRANDÍSIMO AVANCE» LA REFORMA A LA LEY DE HIDROCARBUROS",
+      "link": "https://noticierodigital.com/2026/02/gil-yepes-califico-como-grandisimo-avance-la-reforma-a-la-ley-de-hidrocarburos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/03/jose-antonio-gil-yepes-datanalisis-13feb2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide a Cuba y EE. UU. un diálogo sincero para evitar sufrimiento",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-a-cuba-y-ee-uu-un-dialogo-sincero-para-evitar-sufrimiento/",
+      "title": "Excarcelan a Javier Tarazona luego de casi cinco años de detención",
+      "link": "https://laverdad.com/excarcelan-a-javier-tarazona-luego-de-casi-cinco-anos-de-detencion/",
       "image": "https://laverdad.com/wp-content/uploads/2026/01/Catherine-OHara.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "María Corina Machado apoya las propuestas de los cardenales para Venezuela",
-      "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-machado-apoya-las-propuestas-de-los-cardenales-para-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-9.47.39-AM-750x430.jpeg"
+      "title": "Yandir Loggiodice es excarcelado en Venezuela luego de seis meses detenido",
+      "link": "https://diarioversionfinal.com/politica-dinero/yandir-loggiodice-es-excarcelado-en-venezuela-luego-de-seis-meses-detenido/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-11.17.18-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T14:27:00.801Z"
+  "lastUpdate": "2026-02-01T15:26:00.322Z"
 };
