@@ -5,7 +5,7 @@
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "534,69"
+      "usdt": "535,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,13 +14,13 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Luis Istúriz, abogado y dirigente de Vente Venezuela, fue excarcelado tras permanecer más de un año en El Helicoide",
-      "link": "https://www.infobae.com/venezuela/2026/02/01/luis-isturiz-abogado-y-dirigente-de-vente-venezuela-fue-excarcelado-tras-permanecer-mas-de-un-ano-en-el-helicoide/",
-      "image": "https://www.infobae.com/resizer/v2/OLDO76IR4JDVRPV2B2IKQXVQBI.jpg?auth=db30325297087d75e9562eaf239f033162597e9d3c0c5bc4155cbd3d3434e994&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal confirmó que al menos 20 presos políticos fueron excarcelados este domingo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/01/el-foro-penal-confirmo-que-al-menos-20-presos-politicos-fueron-excarcelados-este-domingo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/PUW2PVM5HRBSHEWLGXGTTV7SIM.JPG?auth=715b9012e4b3dcdb2f7784abeb58ba07553a9d96025ac6811755b920a0362aac&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado: no creo que se atrevan a matarme si regreso a Venezuela\nPOLÍTICA",
+      "title": "María Corina Machado: No creo que se atrevan a matarme si regreso a Venezuela\nPOLÍTICA",
       "link": "https://www.elnacional.com/2026/02/maria-corina-machado-no-creo-que-se-atrevan-a-matarme-si-regreso-a-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump cree que Cuba buscará un «trato» con Estados Unidos y la isla volverá a ser «libre»",
-      "link": "https://caraotadigital.net/eeuu/trump-cree-que-cuba-buscara-un-trato-con-estados-unidos-y-la-isla-volvera-a-ser-libre/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/DONALD-TRUMP-4.jpg"
+      "title": "CUBA EN EMERGENCIA: La Habana registra inundaciones en medio de grave crisis energética",
+      "link": "https://caraotadigital.net/mundo/cuba-en-emergencia-la-habana-registra-inundaciones-en-medio-de-grave-crisis-energetica/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/inundaciones-en-cuba.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Las excentricidades y el prontuario criminal del capo italiano capturado en Colombia",
-      "link": "https://www.noticiascaracol.com/colombia/las-excentricidades-y-el-prontuario-criminal-del-capo-italiano-capturado-en-colombia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e98476a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F28%2F8f51997c48d6a700c57ee3508929%2Florenzo-dei-meneghetti.jpg"
+      "title": "Se conoce video del momento en que lanzan granada en el barrio Santa Fe, donde una persona murió",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/se-conoce-video-del-momento-en-que-lanzan-granada-en-el-barrio-santa-fe-donde-una-persona-murio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c57525a/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F84%2F4979c1974838879f4067186d74cf%2Fgranada-santa-fe.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-3.42.26-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T21:23:50.070Z"
+  "lastUpdate": "2026-02-01T22:26:04.930Z"
 }
