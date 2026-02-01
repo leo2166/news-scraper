@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bloomberg: EE. UU. importará la mayor cantidad de petróleo venezolano en un año",
-      "link": "https://diarioversionfinal.com/mundo/bloomberg-ee-uu-importara-la-mayor-cantidad-de-petroleo-venezolano-en-un-ano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Copa-Airlines-plane-in-Panama-City-Panama-750x430.webp"
+      "title": "Trump cierra grandes acuerdos petroleros en nombre de Venezuela y acepta inversiones chinas en el país",
+      "link": "https://diarioversionfinal.com/politica-dinero/trump-cierra-grandes-acuerdos-petroleros-en-nombre-de-venezuela-y-acepta-inversiones-chinas-en-el-pais/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-01T10:27:08.368Z"
+  "lastUpdate": "2026-02-01T11:21:56.015Z"
 };
