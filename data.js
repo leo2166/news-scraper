@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "535,00"
+      "usdt": "511,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado: No creo que se atrevan a matarme si regreso a Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/maria-corina-machado-no-creo-que-se-atrevan-a-matarme-si-regreso-a-venezuela/",
+      "title": "Continúan las excarcelaciones: Foro Penal reporta al menos 20 presos políticos liberados este domingo\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/continuan-las-excarcelaciones-foro-penal-reporta-al-menos-20-presos-politicos-liberados-este-domingo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Un “mundo al revés”: Trump sacude la política de armas en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/02/01/eeuu/trump-armas-nra-giro-politica-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/armas-trump.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Sheinbaum anuncia el envío de ayuda humanitaria a Cuba",
+      "link": "https://cnnespanol.cnn.com/2026/02/01/mexico/sheinbaum-trump-envios-petroleo-cuba-envio-ayuda-humanitaria-efe",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255424869.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "CUBA EN EMERGENCIA: La Habana registra inundaciones en medio de grave crisis energética",
-      "link": "https://caraotadigital.net/mundo/cuba-en-emergencia-la-habana-registra-inundaciones-en-medio-de-grave-crisis-energetica/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/inundaciones-en-cuba.jpg"
+      "title": "Madre de la periodista y presa política Marifel Guzmán, se muestra preocupada por la salud emocional de su hija",
+      "link": "https://caraotadigital.net/venezuela/madre-de-la-periodista-y-presa-politica-marifel-guzman-se-muestra-preocupada-por-la-salud-emocional-de-su-hija/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/marifel.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Se conoce video del momento en que lanzan granada en el barrio Santa Fe, donde una persona murió",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/se-conoce-video-del-momento-en-que-lanzan-granada-en-el-barrio-santa-fe-donde-una-persona-murio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c57525a/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F84%2F4979c1974838879f4067186d74cf%2Fgranada-santa-fe.jpg"
+      "title": "Presidente Petro viaja a EE. UU. para reunirse con Trump: ¿qué implica este encuentro para Colombia?",
+      "link": "https://www.noticiascaracol.com/politica/presidente-petro-viaja-a-ee-uu-para-reunirse-con-trump-que-implica-este-encuentro-para-colombia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7f30887/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8a%2F26%2F321125e642618c00a020557d5cdb%2Fpetro-trump-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-3.42.26-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-01T22:26:04.930Z"
+  "lastUpdate": "2026-02-01T23:26:00.471Z"
 };
