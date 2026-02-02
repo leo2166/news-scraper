@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "536,69"
+      "usdt": "534,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La derecha se afianza en Costa Rica con una promesa de \"mano dura\"",
-      "link": "https://cnnespanol.cnn.com/2026/02/02/latinoamerica/claves-triunfo-laura-fernandez-costa-rica-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-02t053243z-1562801123-rc29dja1r59e-rtrmadp-3-costa-rica-election.JPG?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "\"¡Fuera ICE!\": Bad Bunny sale en defensa de los inmigrantes en los Grammy",
+      "link": "https://cnnespanol.cnn.com/2026/02/02/entretenimiento/bad-bunny-critica-ice-premios-grammy-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bad-bunny-album-ano-grammy.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Machado dice que no cree que se atrevan a matarla si regresa al país",
-      "link": "https://laverdad.com/machado-dice-que-no-cree-que-se-atrevan-a-matarla-si-regresa-al-pais/",
+      "title": "Delcy Rodríguez anuncia la exportación del primer cargamento de gas licuado de petróleo",
+      "link": "https://laverdad.com/delcy-rodriguez-anuncia-la-exportacion-del-primer-cargamento-de-gas-licuado-de-petroleo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/grammy.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "La conservadora Laura Fernández gana elecciones presidenciales en Costa Rica",
       "link": "https://diarioversionfinal.com/mundo/la-conservadora-laura-fernandez-gana-elecciones-presidenciales-en-costa-rica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/A9wzRWfc-image-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/rss-efed6b9aa46310259c78e857906f6bb51fc0f211d03w-780x507-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-02T11:36:14.796Z"
+  "lastUpdate": "2026-02-02T13:01:21.393Z"
 };
