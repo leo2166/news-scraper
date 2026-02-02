@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "531,06"
+      "usdt": "541,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "EN CLAVES: Maduro y Cilia Flores, un mes presos en Nueva York y a la espera de vista judicial en marzo",
-      "link": "https://caraotadigital.net/eeuu/en-claves-maduro-y-cilia-flores-un-mes-presos-en-nueva-york-y-a-la-espera-de-vista-judicial-en-marzo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Nicolas-Maduro-1.jpg"
+      "title": "EN VIDEO: ¿Tiene planeado su regreso a Venezuela? Las declaraciones de Lupita Ferrer que dan de qué hablar",
+      "link": "https://caraotadigital.net/caraota-show/en-video-tiene-planeado-su-regreso-a-venezuela-las-declaraciones-de-lupita-ferrer-que-dan-de-que-hablar/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Ferrer.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EUROPA DICE QUE AUMENTARÁ LA PRESIÓN SOBRE RUSIA PARA QUE NEGOCIE LA PAZ CON UCRANIA",
-      "link": "https://noticierodigital.com/2026/02/europa-dice-que-aumentara-la-presion-sobre-rusia-para-que-negocie-la-paz-con-ucrania/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/11/ursula-von-der-leyen-1.jpg"
+      "title": "MCM NO CREE QUE SU VIDA CORRA PELIGRO SI REGRESA A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/02/mcm-no-cree-que-su-vida-corra-peligro-si-regresa-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/maria-corina-machado-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez designa a Daniella Cabello ministra de Turismo",
-      "link": "https://laverdad.com/delcy-rodriguez-designa-a-daniella-cabello-ministra-de-turismo/",
+      "title": "Golpea a su madre mientras la maldice en medio de una discusión familiar",
+      "link": "https://laverdad.com/golpea-a-su-madre-mientras-la-maldice-en-medio-de-una-discusion-familiar/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Send-Help-nota.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "El drama de madre zuliana en EE.UU: Embarazada y no le permiten autodeportarse",
       "link": "https://diarioversionfinal.com/xvf-portada/vf-extra/el-drama-de-madre-zuliana-en-ee-uu-embarazada-y-no-le-permiten-autodeportarse/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/UCV-LIBERACION-DE-PRESOS-POLITICOS-22-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-35.webp"
     }
   ],
-  "lastUpdate": "2026-02-02T16:41:44.388Z"
+  "lastUpdate": "2026-02-02T17:38:33.363Z"
 };
