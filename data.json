@@ -5,7 +5,7 @@
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "541,00"
+      "usdt": "536,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Laura Fernández gana la presidencia de Costa Rica, según resultados preliminares",
-      "link": "https://cnnespanol.cnn.com/2026/02/02/latinoamerica/laura-fernandez-segunda-mujer-presidenta-costa-rica-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258960614.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La derecha se afianza en Costa Rica con una promesa de \"mano dura\"",
+      "link": "https://cnnespanol.cnn.com/2026/02/02/latinoamerica/claves-triunfo-laura-fernandez-costa-rica-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-02t053243z-1562801123-rc29dja1r59e-rtrmadp-3-costa-rica-election.JPG?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "A la sombra del ‘hombre Marlboro’: el exnarcotraficante apoya varias campañas políticas",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/a-la-sombra-del-hombre-marlboro-el-exnarcotraficante-apoya-varias-campanas-politicas-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9942f14/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3b%2F7a%2Fa4498af64d5bb4b405788a0e6de1%2Fmarlboro-y-loreto.jpg"
+      "title": "El cruce de mensajes entre Abelardo de la Espriella y Sergio Fajardo",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/el-cruce-de-mensajes-entre-abelardo-de-la-espriella-y-sergio-fajardo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/469d861/2147483647/strip/true/crop/1280x722+0+9/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F67%2F2c74e21b459a860b3d3c312e13c8%2Fabelardo-de-la-espriella-y-sergio-fajardo.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/A9wzRWfc-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-02T10:45:05.650Z"
+  "lastUpdate": "2026-02-02T11:36:14.796Z"
 }
