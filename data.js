@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "511,99"
+      "usdt": "534,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal confirmó que al menos 20 presos políticos fueron excarcelados este domingo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/01/el-foro-penal-confirmo-que-al-menos-20-presos-politicos-fueron-excarcelados-este-domingo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/PUW2PVM5HRBSHEWLGXGTTV7SIM.JPG?auth=715b9012e4b3dcdb2f7784abeb58ba07553a9d96025ac6811755b920a0362aac&smart=true&width=350&height=197&quality=85"
+      "title": "El preso político venezolano Juan Pablo Guanipa pudo recibir a su familia en prisión: “Está más firme y fuerte que nunca”",
+      "link": "https://www.infobae.com/venezuela/2026/02/02/el-preso-politico-venezolano-juan-pablo-guanipa-pudo-recibir-a-su-familia-en-prision-esta-mas-firme-y-fuerte-que-nunca/",
+      "image": "https://www.infobae.com/resizer/v2/P6KHIZFYOVB73AIT6EN5NWO4KE.jpg?auth=844e0103885e335606326e5a657a592b4ac54fa2cd83fe4f2202bd5cea1c71a4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Madre de la periodista y presa política Marifel Guzmán, se muestra preocupada por la salud emocional de su hija",
-      "link": "https://caraotadigital.net/venezuela/madre-de-la-periodista-y-presa-politica-marifel-guzman-se-muestra-preocupada-por-la-salud-emocional-de-su-hija/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/marifel.jpg"
+      "title": "Se ganó la lotería y usó el dinero para crear un imperio criminal de narcotráfico",
+      "link": "https://caraotadigital.net/mundo/se-gano-la-loteria-y-uso-el-dinero-para-crear-un-imperio-criminal-de-narcotrafico/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Un-jubilado-de-80-anos-gana-la-loteria-y-monta-un.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro viaja a EE. UU. para reunirse con Trump: ¿qué implica este encuentro para Colombia?",
-      "link": "https://www.noticiascaracol.com/politica/presidente-petro-viaja-a-ee-uu-para-reunirse-con-trump-que-implica-este-encuentro-para-colombia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7f30887/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8a%2F26%2F321125e642618c00a020557d5cdb%2Fpetro-trump-1.jpg"
+      "title": "A la sombra del ‘hombre Marlboro’: el exnarcotraficante apoya varias campañas políticas",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/a-la-sombra-del-hombre-marlboro-el-exnarcotraficante-apoya-varias-campanas-politicas-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9942f14/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3b%2F7a%2Fa4498af64d5bb4b405788a0e6de1%2Fmarlboro-y-loreto.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Editorial | ¿Por qué Delcy y no María Corina?",
-      "link": "https://diarioversionfinal.com/editoriales/editorial-por-que-delcy-y-no-maria-corina/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-01-at-3.42.26-PM.jpeg"
+      "title": "Delcy Rodríguez anuncia el zarpe del primer cargamento de gas licuado de petróleo",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-anuncia-el-zarpe-del-primer-cargamento-de-gas-licuado-de-petroleo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/jose-castellanos-Blanca-Guerrero-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-01T23:26:00.471Z"
+  "lastUpdate": "2026-02-02T02:12:29.234Z"
 };
