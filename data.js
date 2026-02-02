@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "440,48"
     },
     "binance": {
-      "usdt": "534,50"
+      "usdt": "540,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El preso político venezolano Juan Pablo Guanipa pudo recibir a su familia en prisión: “Está más firme y fuerte que nunca”",
-      "link": "https://www.infobae.com/venezuela/2026/02/02/el-preso-politico-venezolano-juan-pablo-guanipa-pudo-recibir-a-su-familia-en-prision-esta-mas-firme-y-fuerte-que-nunca/",
-      "image": "https://www.infobae.com/resizer/v2/P6KHIZFYOVB73AIT6EN5NWO4KE.jpg?auth=844e0103885e335606326e5a657a592b4ac54fa2cd83fe4f2202bd5cea1c71a4&smart=true&width=350&height=197&quality=85"
+      "title": "A un mes de la caída de Maduro, los venezolanos piden acelerar cambios: “Que cambie el gobierno, que se vayan todos”",
+      "link": "https://www.infobae.com/venezuela/2026/02/02/a-un-mes-de-la-caida-de-maduro-los-venezolanos-piden-acelerar-cambios-que-cambie-el-gobierno-que-se-vayan-todos/",
+      "image": "https://www.infobae.com/resizer/v2/53A27XDTENCAJFZRY3SMVORPDI.jpg?auth=ca9e77f7a3d6bd9ac80bc5009c8aad80aa50842b1ca1605f4c748ac993953b8b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -27,20 +27,20 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "\"¡Fuera ICE!\": Bad Bunny sale en defensa de los inmigrantes en los Grammy",
-      "link": "https://cnnespanol.cnn.com/2026/02/02/entretenimiento/bad-bunny-critica-ice-premios-grammy-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bad-bunny-album-ano-grammy.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/02/02/entretenimiento/video/bad-bunny-critica-ice-grammy-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258365896.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Se ganó la lotería y usó el dinero para crear un imperio criminal de narcotráfico",
-      "link": "https://caraotadigital.net/mundo/se-gano-la-loteria-y-uso-el-dinero-para-crear-un-imperio-criminal-de-narcotrafico/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Un-jubilado-de-80-anos-gana-la-loteria-y-monta-un.jpg"
+      "title": "Trump amenaza con denunciar al presentador de los Grammy por decir que estuvo en la isla de Epstein",
+      "link": "https://caraotadigital.net/eeuu/trump-amenaza-con-denunciar-al-presentador-de-los-grammy-por-decir-que-estuvo-en-la-isla-de-epstein/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/trevortrump12112.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP ASEGURÓ QUE «ESTAMOS EMPEZANDO A HABLAR CON CUBA» EN MEDIO DE PRESIONES",
-      "link": "https://noticierodigital.com/2026/02/trump-aseguro-que-estamos-empezando-a-hablar-con-cuba-en-medio-de-presiones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/donald-trump-estados-unidos-627x376.jpg"
+      "title": "«LA SITUACIÓN ES INSOSTENIBLE»: TRANSPORTISTAS PIDEN AJUSTE DE $0.50 Y ELIMINAR SISTEMA DE HUELLA",
+      "link": "https://noticierodigital.com/2026/02/la-situacion-es-insostenible-transportistas-piden-ajuste-de-0-50-y-eliminar-sistema-de-huella/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/IMG_20260202_073325-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez anuncia la exportación del primer cargamento de gas licuado de petróleo",
-      "link": "https://laverdad.com/delcy-rodriguez-anuncia-la-exportacion-del-primer-cargamento-de-gas-licuado-de-petroleo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/grammy.jpg"
+      "title": "Saime extiende jornada de renovación de cédula sin cita hasta el viernes 6",
+      "link": "https://laverdad.com/saime-extiende-jornada-de-renovacion-de-cedula-sin-cita-hasta-el-viernes-6/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Gustavo-Dudamel-Yanga.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La conservadora Laura Fernández gana elecciones presidenciales en Costa Rica",
-      "link": "https://diarioversionfinal.com/mundo/la-conservadora-laura-fernandez-gana-elecciones-presidenciales-en-costa-rica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/rss-efed6b9aa46310259c78e857906f6bb51fc0f211d03w-780x507-1-750x430.jpg"
+      "title": "María Corina: \"No creo que se atrevan a matarme si regreso a Venezuela\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/maria-corina-no-creo-que-se-atrevan-a-matarme-si-regreso-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/VT_zGiZ2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-02T13:01:21.393Z"
+  "lastUpdate": "2026-02-02T14:41:09.788Z"
 };
