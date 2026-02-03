@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "530,80"
+      "usdt": "555,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "“Si es necesario, se hará”: María Corina Machado abre la puerta a diálogo con Delcy Rodríguez por la transición\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/si-es-necesario-se-hara-maria-corina-machado-abre-la-puerta-a-dialogo-con-delcy-rodriguez-por-la-transicion/",
+      "title": "Venezuela en el laberinto de la “normalidad forzada”, 30 días después de la captura de Maduro\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/venezuela-en-el-laberinto-de-la-normalidad-forzada-30-dias-despues-de-la-captura-de-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2c8b618aefa17f3c0cd305ad3093e941ef792778-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T08:37:56.109Z"
+  "lastUpdate": "2026-02-03T09:42:18.571Z"
 };
