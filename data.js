@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "545,00"
+      "usdt": "540,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Cómo llegan Petro y Trump a la reunión en la Casa Blanca?",
-      "link": "https://cnnespanol.cnn.com/2026/02/03/colombia/analisis-petro-trump-reunion-casa-blanca-colombia-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250511828.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El petróleo venezolano es clave para el plan de Trump con Rusia, pero hay un problema",
+      "link": "https://cnnespanol.cnn.com/2026/02/03/mundo/petroleo-venezolano-clave-plan-trump-rusia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257239059-20260203064726320.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Empresario Jorge Roig planteó modificación de Ley del Trabajo y aumento de salarios",
-      "link": "https://caraotadigital.net/venezuela/empresario-jorge-roig-planteo-modificacion-de-ley-del-trabajo-y-aumento-de-salarios/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2024/10/salarios-700x352-1.jpg"
+      "title": "Fuerte tráfico en varias zonas de Caracas tras instalación de tarimas por marcha a un mes de la detención de Maduro, estas son las calles afectadas",
+      "link": "https://caraotadigital.net/venezuela/fuerte-trafico-en-varias-zonas-de-caracas-tras-instalacion-de-tarimas-por-marcha-a-un-mes-de-la-detencion-de-maduro-estas-son-las-calles-afectadas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/marcha.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FEDECÁMARAS BUSCARÁ AMPLIAR OFERTA EXPORTABLE A EE. UU. TRAS REACTIVACIÓN DE EMBAJADA",
-      "link": "https://noticierodigital.com/2026/02/fedecamaras-buscara-ampliar-oferta-exportable-a-ee-uu-tras-reactivacion-de-embajada/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/felipe-capozzolo-627x376.jpg"
+      "title": "HIJO DE MADURO A UN MES DE LA CAPTURA: «AQUÍ ESTAMOS CON LA PATRIA Y EL PUEBLO, UNIDOS Y FIRMES»",
+      "link": "https://noticierodigital.com/2026/02/hijo-de-maduro-a-un-mes-de-la-captura-aqui-estamos-con-la-patria-y-el-pueblo-unidos-y-firmes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/nicolas-maduro-guerra-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Machado no descarta reunirse con Delcy Rodríguez para hablar sobre la transición",
-      "link": "https://laverdad.com/machado-no-descarta-reunirse-con-delcy-rodriguez-para-hablar-sobre-la-transicion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ariana-Godoy.jpg"
+      "title": "Maduro Guerra a un mes de la captura de su padre: “Ha sido muy duro”",
+      "link": "https://laverdad.com/maduro-guerra-a-un-mes-de-la-captura-de-su-padre-ha-sido-muy-duro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Maya-Berry-Spear-1-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "“Si es necesario, se hará”: María Corina no descarta diálogo con Delcy por la transición",
-      "link": "https://diarioversionfinal.com/politica-dinero/si-es-necesario-se-hara-maria-corina-no-descarta-dialogo-con-delcy-por-la-transicion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_2026-02-02_17-36-18-1024x637-1-750x430.jpg"
+      "title": "Preso político, víctima de extorsión: “Lo tienen con asesinos en una celda del Cicpc-Barquisimeto”",
+      "link": "https://diarioversionfinal.com/politica-dinero/preso-politico-victima-de-extorsion-lo-tienen-con-asesinos-en-una-celda-del-cicpc-barquisimeto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Petroleros-sostienen-una-bandera-con-el-logotipo-de-Pdvsa-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-03T13:02:23.064Z"
+  "lastUpdate": "2026-02-03T14:43:28.421Z"
 };
