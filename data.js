@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "550,00"
+      "usdt": "551,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Laura Dogu, encargada de negocios de Estados Unidos en Venezuela: \"Es un momento histórico\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/laura-dogu-momento-historico-para-venezuela-y-estados-unidos/",
+      "title": "María Corina Machado se reunió con el canciller de Israel: \"Deseo que los venezolanos tengan elecciones libres\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/maria-corina-machado-se-reunio-con-el-canciller-de-israel/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump recibió a Petro tras meses de tensiones",
+      "title": "\"Amo a Colombia\" y \"eres genial\": los mensajes de Trump a Petro tras su reunión",
       "link": "https://cnnespanol.cnn.com/colombia/live-news/reunion-trump-y-petro-en-vivo-ultima-hora-noticias-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petro-trump-oval.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/haqxq-cxeaaffkg.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "LA FOTO: Estelita del Llano volvió a caminar a dos semanas de su operación de emergencia",
-      "link": "https://caraotadigital.net/caraota-show/la-foto-estelita-del-llano-volvio-a-caminar-a-dos-semanas-de-su-operacion-de-emergencia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Estelita-del-Llano.jpg"
+      "title": "Agencias de viajes pronostican ‘caída’ en los precios de los boletos ante aumento de vuelos en los próximos meses",
+      "link": "https://caraotadigital.net/venezuela/agencias-de-viajes-pronostican-caida-en-los-precios-de-los-boletos-ante-aumento-de-vuelos-en-los-proximos-meses/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/VE-2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CARDENAL PORRAS: «NO SEAMOS INDIFERENTES ANTE LOS PRESOS POLÍTICOS»",
-      "link": "https://noticierodigital.com/2026/02/cardenal-porras-no-seamos-indiferentes-ante-los-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/cardenal-baltazar-porras-627x376.jpg"
+      "title": "CAVEDOM CELEBRA APERTURA ENTRE VENEZUELA Y DOMINICANA: «ES SEÑAL DE CONFIANZA PARA LOS PRIVADOS»",
+      "link": "https://noticierodigital.com/2026/02/cavedom-celebra-apertura-entre-venezuela-y-dominicana-es-senal-de-confianza-para-los-privados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/IMG-20260203-WA0017-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Exigen en concentración en la UCV una amnistía de “amplio alcance” para los presos políticos",
-      "link": "https://laverdad.com/exigen-en-concentracion-en-la-ucv-una-amnistia-de-amplio-alcance-para-los-presos-politicos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ricky-Martin-y-Bad-Bunny-m.jpg"
+      "title": "AI insta a que la Ley de Amnistía no sea un “mecanismo de impunidad”",
+      "link": "https://laverdad.com/ai-insta-a-que-la-ley-de-amnistia-no-sea-un-mecanismo-de-impunidad/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/BTS-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "EE.UU. mueve los hilos en Venezuela con la pistola sobre la mesa",
       "link": "https://diarioversionfinal.com/politica-dinero/ee-uu-mueve-los-hilos-en-venezuela-con-la-pistola-sobre-la-mesa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-3.20.37-PM-1.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/HAPjntAXYAQQ9ym-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T19:47:45.405Z"
+  "lastUpdate": "2026-02-03T20:40:37.693Z"
 };
