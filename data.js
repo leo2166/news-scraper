@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Un mes después del derrocamiento de Nicolás Maduro, cinco cambios clave que marcan la transición en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/03/un-mes-despues-del-derrocamiento-de-nicolas-maduro-cinco-cambios-clave-que-marcan-la-transicion-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6THKUQWAOZHUPCSUDYF44WQ2XA.png?auth=d6a89b931888b32bad889ea95a69c2afebefa3f52aa10ecf02e95bf4fdcd1989&smart=true&width=350&height=197&quality=85"
+      "title": "La encargada de negocios de EEUU en Venezuela presentó un programa de tres pasos: “El trabajo ya comenzó”",
+      "link": "https://www.infobae.com/venezuela/2026/02/03/la-encargada-de-negocios-de-eeuu-en-venezuela-presento-un-programa-de-tres-pasos-el-trabajo-ya-comenzo/",
+      "image": "https://www.infobae.com/resizer/v2/D53RU5ZLQVDH7C63R6HXSW4XCY.jpg?auth=716c1a23496876e1a7e1a344687852c01a4b3bf65f9d1856a8ae5e275dbf6c20&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,40 +26,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Cómo llegan Petro y Trump a la reunión en la Casa Blanca?",
-      "link": "https://cnnespanol.cnn.com/2026/02/03/colombia/analisis-petro-trump-reunion-casa-blanca-colombia-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257958601.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump recibe a Petro tras meses de tensiones",
+      "link": "https://cnnespanol.cnn.com/colombia/live-news/reunion-trump-y-petro-en-vivo-ultima-hora-noticias-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255276588.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: Laura Dogu recorrió la Embajada de EEUU en Caracas y habló de las «tres fases» que ejecutarán durante su «misión diplomática» en el país",
-      "link": "https://caraotadigital.net/venezuela/en-video-laura-dogu-recorrio-la-embajada-de-eeuu-en-caracas-y-hablo-de-las-tres-fases-que-ejecutaran-durante-su-mision-diplomatica-en-el-pais/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/lauradogu17171.jpg"
+      "title": "El mensaje que le mandó Nicolás Maduro Guerra a su padre al cumplirse un mes de su detención por parte de EEUU",
+      "link": "https://caraotadigital.net/venezuela/el-mensaje-que-le-mando-nicolas-maduro-guerra-a-su-padre-al-cumplirse-un-mes-de-su-detencion-por-parte-de-eeuu/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Maduro-Guerra-CD-2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HIJO DE MADURO A UN MES DE LA CAPTURA: «AQUÍ ESTAMOS CON LA PATRIA Y EL PUEBLO, UNIDOS Y FIRMES»",
-      "link": "https://noticierodigital.com/2026/02/hijo-de-maduro-a-un-mes-de-la-captura-aqui-estamos-con-la-patria-y-el-pueblo-unidos-y-firmes/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/nicolas-maduro-guerra-1-627x376.jpg"
+      "title": "​RAFAEL QUIROZ: RENOVACIÓN DE PODERES Y TRANSICIÓN EN VENEZUELA TOMARÍA HASTA 3 AÑOS",
+      "link": "https://noticierodigital.com/2026/02/rafael-quiroz-renovacion-de-poderes-y-transicion-en-venezuela-tomaria-hasta-3-anos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/05/rafael_quiroz.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Por qué llueve tanto en Colombia? Las imágenes que muestran el preocupante fenómeno",
-      "link": "https://www.noticiascaracol.com/colombia/por-que-llueve-tanto-en-colombia-las-imagenes-que-muestran-el-preocupante-fenomeno-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e076b31/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F16%2Fc063e36e49e98607612f1aa61749%2Ffotos-discover-2026-02-03t085711-576.jpg"
+      "title": "Las primeras imágenes de la reunión de Petro y Trump en la Casa Blanca",
+      "link": "https://www.noticiascaracol.com/politica/las-primeras-imagenes-de-la-reunion-de-petro-y-trump-en-la-casa-blanca-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b11aa15/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa5%2F19%2F01a76c604390b5e25b4064ee5d4d%2Fgustavo-petro-y-donald-trump-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Encargada de negocios de EE. UU. en Venezuela augura “beneficios tangibles” para ambos países",
-      "link": "https://laverdad.com/encargada-de-negocios-de-ee-uu-en-venezuela-augura-beneficios-tangibles-para-ambos-paises/",
+      "title": "Fanb apoya esfuerzo de Delcy Rodríguez para la “unión nacional”",
+      "link": "https://laverdad.com/fanb-apoya-esfuerzo-de-delcy-rodriguez-para-la-union-nacional/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Bridgerton-4-temporada.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Preso político, víctima de extorsión: “Lo tienen con asesinos en una celda del Cicpc-Barquisimeto”",
-      "link": "https://diarioversionfinal.com/politica-dinero/preso-politico-victima-de-extorsion-lo-tienen-con-asesinos-en-una-celda-del-cicpc-barquisimeto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/laura-dogu_49845972_20260202154614-750x430.webp"
+      "title": "Estudiantes y familiares se movilizan en la UCV para exigir libertad de los presos políticos",
+      "link": "https://diarioversionfinal.com/politica-dinero/estudiantes-y-familiares-se-movilizan-en-la-ucv-para-exigir-libertad-de-los-presos-politicos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/pdsa-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T15:51:30.910Z"
+  "lastUpdate": "2026-02-03T16:54:42.965Z"
 };
