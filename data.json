@@ -5,7 +5,7 @@
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "554,00"
+      "usdt": "530,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Foro Penal contabilizó un total de 687 presos políticos en Venezuela tras las excarcelaciones",
-      "link": "https://www.infobae.com/venezuela/2026/02/03/la-ong-foro-penal-contabilizo-un-total-de-687-presos-politicos-en-venezuela-tras-las-excarcelaciones/",
-      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado expresó su disposición a reunirse con Delcy Rodríguez para establecer un “cronograma de transición” en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/03/maria-corina-machado-expreso-su-disposicion-a-reunirse-con-delcy-rodriguez-para-establecer-un-cronograma-de-transicion-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/OD7QBSJD3JESDO5IJGIDKDQQIE.JPG?auth=14a67fb06f766d17a62b57cb7eada88780b08422c301e6444d8f92431dd75c90&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2c8b618aefa17f3c0cd305ad3093e941ef792778-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T04:47:07.384Z"
+  "lastUpdate": "2026-02-03T05:51:19.901Z"
 }
