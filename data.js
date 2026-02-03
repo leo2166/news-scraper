@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado expresó su disposición a reunirse con Delcy Rodríguez para establecer un “cronograma de transición” en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/03/maria-corina-machado-expreso-su-disposicion-a-reunirse-con-delcy-rodriguez-para-establecer-un-cronograma-de-transicion-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/OD7QBSJD3JESDO5IJGIDKDQQIE.JPG?auth=14a67fb06f766d17a62b57cb7eada88780b08422c301e6444d8f92431dd75c90&smart=true&width=350&height=197&quality=85"
+      "title": "Un mes después del derrocamiento de Nicolás Maduro, cinco cambios clave que marcan la transición en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/03/un-mes-despues-del-derrocamiento-de-nicolas-maduro-cinco-cambios-clave-que-marcan-la-transicion-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6THKUQWAOZHUPCSUDYF44WQ2XA.png?auth=d6a89b931888b32bad889ea95a69c2afebefa3f52aa10ecf02e95bf4fdcd1989&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2c8b618aefa17f3c0cd305ad3093e941ef792778-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T06:53:26.320Z"
+  "lastUpdate": "2026-02-03T07:43:11.046Z"
 };
