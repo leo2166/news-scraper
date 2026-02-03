@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "530,00"
+      "usdt": "555,75"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El espeluznante asesinato de una niña sacude Zulia, el padrastro ‘no quería hijos’ y la madre era cómplice",
-      "link": "https://caraotadigital.net/sucesos/el-espeluznante-asesinato-de-una-nina-sacude-zulia-el-padrastro-no-queria-hijos-y-la-madre-era-complice/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/image-2.jpg"
+      "title": "Alarmante ”fuga de hidrógeno» retrasó el lanzamiento de Artemis II a la Luna, esto dijo la NASA",
+      "link": "https://caraotadigital.net/eeuu/alarmante-fuga-de-hidrogeno-retraso-el-lanzamiento-de-artemis-ii-a-la-luna-esto-dijo-la-nasa/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/NASA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESPOSA DE PERKINS ROCHA: «ME PREGUNTO CUÁNDO NUESTRO HOGAR VA A ESTAR COMPLETO»",
-      "link": "https://noticierodigital.com/2026/02/esposa-de-perkins-rocha-me-pregunto-cuando-nuestro-hogar-va-a-estar-completo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-2-1-627x376.jpg"
+      "title": "DEPARTAMENTO DEL TESORO DE EE. UU. APROBÓ LICENCIA PARA ENVIAR DILUYENTES A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/02/departamento-del-tesoro-de-ee-uu-aprobo-licencia-para-enviar-diluyentes-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/departamento-del-tesoro-de-eeuu-3dic2019.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Captura de Maduro abrió paso a excarcelaciones, reforma petrolera y sumisión ante Trump",
       "link": "https://diarioversionfinal.com/politica-dinero/captura-de-maduro-abrio-paso-a-excarcelaciones-reforma-petrolera-y-sumision-ante-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-5.28.28-PM-1-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-7.16.56-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-03T22:30:53.834Z"
+  "lastUpdate": "2026-02-03T23:28:50.140Z"
 };
