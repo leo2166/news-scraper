@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "549,50"
+      "usdt": "552,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,39 +14,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez se reunió con la encargada de negocios de Estados Unidos para Venezuela, Laura Dogu",
-      "link": "https://www.infobae.com/venezuela/2026/02/02/delcy-rodriguez-se-reunio-con-la-encargada-de-negocios-de-estados-unidos-para-venezuela-laura-dogu/",
-      "image": "https://www.infobae.com/resizer/v2/EXQIZR72KVHNDDJZ6UMAEUTXWE.jpg?auth=4018263bddb7a88ebe30fede8d2db53a5ec4743a4b1e36376b9d3aac5ff29ad4&smart=true&width=350&height=197&quality=85"
+      "title": "Félix Plasencia fue designado como nuevo representante diplomático de Venezuela en Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/02/03/felix-plasencia-fue-designado-como-nuevo-representante-diplomatico-de-venezuela-en-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/T67WMWUST5EGPI3TBAISAOH6VY.jpg?auth=1a3ef834bbd74cb58b71a4197f65ab29c88da4ed02ac17ff620b4caa7b94a64a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¿Transición real o mutación del poder? Las 13 alertas de Laboratorio de Paz tras la captura de Maduro\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/laboratorio-de-paz-balance-un-mes-captura-maduro-venezuela/",
+      "title": "“Si es necesario, se hará”: María Corina Machado abre la puerta a diálogo con Delcy Rodríguez por la transición\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/si-es-necesario-se-hara-maria-corina-machado-abre-la-puerta-a-dialogo-con-delcy-rodriguez-por-la-transicion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Qué significa la victoria de Bad Bunny en los Grammy para los latinos en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/02/02/eeuu/victoria-bad-bunny-grammy-latinos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2259508025.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Delcy Rodríguez se reúne con la nueva encargada de negocios de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/02/02/venezuela/delcy-rodriguez-reunion-encargada-negocios-eeuu-laura-dogu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-02-at-6-18-37-pm.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump se burla de Petro: dice que cambió su actitud tras la captura de Maduro, “ahora es amable”",
-      "link": "https://caraotadigital.net/eeuu/trump-se-burla-de-petro-dice-que-cambio-su-actitud-tras-la-captura-de-maduro-ahora-es-amable/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/PE-1.jpg"
+      "title": "Empresario Jorge Roig planteó modificación de Ley del Trabajo y aumento de salarios",
+      "link": "https://caraotadigital.net/venezuela/empresario-jorge-roig-planteo-modificacion-de-ley-del-trabajo-y-aumento-de-salarios/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/10/salarios-700x352-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MCM DISPUESTA A DIALOGAR CON DELCY RODRÍGUEZ PARA ESTABLECER UNA RUTA DE TRANSICIÓN",
-      "link": "https://noticierodigital.com/2026/02/mcm-dispuesta-a-dialogar-con-delcy-rodriguez-para-establecer-una-ruta-de-transicion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
+      "title": "FEDECÁMARAS BUSCARÁ AMPLIAR OFERTA EXPORTABLE A EE. UU. TRAS REACTIVACIÓN DE EMBAJADA",
+      "link": "https://noticierodigital.com/2026/02/fedecamaras-buscara-ampliar-oferta-exportable-a-ee-uu-tras-reactivacion-de-embajada/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/felipe-capozzolo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esta es la multa que enfrentarían quienes usen aplicaciones de transporte, según proyecto de ley",
-      "link": "https://www.noticiascaracol.com/economia/esta-es-la-multa-que-enfrentarian-quienes-usen-aplicaciones-de-transporte-segun-proyecto-de-ley-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f9c8325/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F08%2F2b%2F3e327ca34065a1a6e2e62cc74b7f%2Fmin.jpg"
+      "title": "Retiran proyecto de ley del Gobierno con el que buscaban regular aplicaciones de transporte",
+      "link": "https://www.noticiascaracol.com/economia/retiran-proyecto-de-ley-del-gobierno-nacional-con-el-que-buscaban-regular-aplicaciones-de-transporte-lo-volveran-a-presentar-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ba57948/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2F45%2F604102224ea0804ab7ee03d7dbc3%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy se reúne con nueva encargada de negocios de EE. UU. para Venezuela",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-se-reune-con-nueva-encargada-de-negocios-de-ee-uu-para-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marco-Rubio-Senado-2-750x430.jpg"
+      "title": "Encargada de negocios de EE. UU. planteó a Delcy la agenda de transición democrática",
+      "link": "https://diarioversionfinal.com/politica-dinero/encargada-de-negocios-de-ee-uu-planteo-a-delcy-la-agenda-de-transicion-democratica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_4902269487361494020_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-02T23:29:26.021Z"
+  "lastUpdate": "2026-02-03T02:10:12.754Z"
 };
