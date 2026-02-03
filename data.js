@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "528,00"
+      "usdt": "552,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodríguez se reúne con la nueva encargada de negocios de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/02/02/venezuela/delcy-rodriguez-reunion-encargada-negocios-eeuu-laura-dogu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-02-at-6-18-37-pm.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "¿Cómo llegan Petro y Trump a la reunión en la Casa Blanca?",
+      "link": "https://cnnespanol.cnn.com/2026/02/03/colombia/analisis-petro-trump-reunion-casa-blanca-colombia-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250511828.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "EE. UU. pide aplazar próxima vista judicial contra Nicolás Maduro y Cilia Flores: así va el caso",
-      "link": "https://www.noticiascaracol.com/mundo/ee-uu-pide-aplazar-proxima-vista-judicial-contra-nicolas-maduro-y-cilia-flores-asi-va-el-caso-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f16bdeb/2147483647/strip/true/crop/1276x720+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6b%2F6d%2F61a30ef542b1a914c8d1f5b9b159%2Fdiseno-1.jpg"
+      "title": "Lo que está en juego en la reunión de Donald Trump y Gustavo Petro en la Casa Blanca",
+      "link": "https://www.noticiascaracol.com/mundo/lo-que-esta-en-juego-en-la-reunion-de-donald-trump-y-gustavo-petro-en-la-casa-blanca-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8dd9cad/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff8%2F7b%2Ff06924154f508bd3cd0373dafa60%2Fdonald-trump-y-gustavo-petro.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2c8b618aefa17f3c0cd305ad3093e941ef792778-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T10:40:51.629Z"
+  "lastUpdate": "2026-02-03T11:35:10.619Z"
 };
