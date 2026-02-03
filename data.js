@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "552,00"
+      "usdt": "554,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Félix Plasencia fue designado como nuevo representante diplomático de Venezuela en Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/02/03/felix-plasencia-fue-designado-como-nuevo-representante-diplomatico-de-venezuela-en-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/T67WMWUST5EGPI3TBAISAOH6VY.jpg?auth=1a3ef834bbd74cb58b71a4197f65ab29c88da4ed02ac17ff620b4caa7b94a64a&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Foro Penal contabilizó un total de 687 presos políticos en Venezuela tras las excarcelaciones",
+      "link": "https://www.infobae.com/venezuela/2026/02/03/la-ong-foro-penal-contabilizo-un-total-de-687-presos-politicos-en-venezuela-tras-las-excarcelaciones/",
+      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Retiran proyecto de ley del Gobierno con el que buscaban regular aplicaciones de transporte",
-      "link": "https://www.noticiascaracol.com/economia/retiran-proyecto-de-ley-del-gobierno-nacional-con-el-que-buscaban-regular-aplicaciones-de-transporte-lo-volveran-a-presentar-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ba57948/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2F45%2F604102224ea0804ab7ee03d7dbc3%2Fdiseno.jpg"
+      "title": "EE. UU. pide aplazar próxima vista judicial contra Nicolás Maduro y Cilia Flores: así va el caso",
+      "link": "https://www.noticiascaracol.com/mundo/ee-uu-pide-aplazar-proxima-vista-judicial-contra-nicolas-maduro-y-cilia-flores-asi-va-el-caso-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f16bdeb/2147483647/strip/true/crop/1276x720+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6b%2F6d%2F61a30ef542b1a914c8d1f5b9b159%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Encargada de negocios de EE. UU. planteó a Delcy la agenda de transición democrática",
-      "link": "https://diarioversionfinal.com/politica-dinero/encargada-de-negocios-de-ee-uu-planteo-a-delcy-la-agenda-de-transicion-democratica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_4902269487361494020_y-750x430.jpg"
+      "title": "“Si es necesario, se hará”: María Corina no descarta diálogo con Delcy por la transición",
+      "link": "https://diarioversionfinal.com/politica-dinero/si-es-necesario-se-hara-maria-corina-no-descarta-dialogo-con-delcy-por-la-transicion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/2c8b618aefa17f3c0cd305ad3093e941ef792778-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T02:10:12.754Z"
+  "lastUpdate": "2026-02-03T04:47:07.384Z"
 };
