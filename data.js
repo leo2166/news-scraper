@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "439,64"
     },
     "binance": {
-      "usdt": "540,67"
+      "usdt": "547,47"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela en el laberinto de la “normalidad forzada”, 30 días después de la captura de Maduro\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/venezuela-en-el-laberinto-de-la-normalidad-forzada-30-dias-despues-de-la-captura-de-maduro/",
+      "title": "Laura Dogu, encargada de negocios de Estados Unidos en Venezuela: \"Es un momento histórico\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/laura-dogu-momento-historico-para-venezuela-y-estados-unidos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "El petróleo venezolano es clave para el plan de Trump con Rusia, pero hay un problema",
-      "link": "https://cnnespanol.cnn.com/2026/02/03/mundo/petroleo-venezolano-clave-plan-trump-rusia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257239059-20260203064726320.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "¿Cómo llegan Petro y Trump a la reunión en la Casa Blanca?",
+      "link": "https://cnnespanol.cnn.com/2026/02/03/colombia/analisis-petro-trump-reunion-casa-blanca-colombia-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257958601.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Fuerte tráfico en varias zonas de Caracas tras instalación de tarimas por marcha a un mes de la detención de Maduro, estas son las calles afectadas",
-      "link": "https://caraotadigital.net/venezuela/fuerte-trafico-en-varias-zonas-de-caracas-tras-instalacion-de-tarimas-por-marcha-a-un-mes-de-la-detencion-de-maduro-estas-son-las-calles-afectadas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/marcha.jpg"
+      "title": "EN VIDEO: Laura Dogu recorrió la Embajada de EEUU en Caracas y habló de las «tres fases» que ejecutarán durante su «misión diplomática» en el país",
+      "link": "https://caraotadigital.net/venezuela/en-video-laura-dogu-recorrio-la-embajada-de-eeuu-en-caracas-y-hablo-de-las-tres-fases-que-ejecutaran-durante-su-mision-diplomatica-en-el-pais/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/lauradogu17171.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Lo que está en juego en la reunión de Donald Trump y Gustavo Petro en la Casa Blanca",
-      "link": "https://www.noticiascaracol.com/mundo/lo-que-esta-en-juego-en-la-reunion-de-donald-trump-y-gustavo-petro-en-la-casa-blanca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8dd9cad/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff8%2F7b%2Ff06924154f508bd3cd0373dafa60%2Fdonald-trump-y-gustavo-petro.jpg"
+      "title": "¿Por qué llueve tanto en Colombia? Las imágenes que muestran el preocupante fenómeno",
+      "link": "https://www.noticiascaracol.com/colombia/por-que-llueve-tanto-en-colombia-las-imagenes-que-muestran-el-preocupante-fenomeno-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e076b31/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F16%2Fc063e36e49e98607612f1aa61749%2Ffotos-discover-2026-02-03t085711-576.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Maduro Guerra a un mes de la captura de su padre: “Ha sido muy duro”",
-      "link": "https://laverdad.com/maduro-guerra-a-un-mes-de-la-captura-de-su-padre-ha-sido-muy-duro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Maya-Berry-Spear-1-1.jpg"
+      "title": "Encargada de negocios de EE. UU. en Venezuela augura “beneficios tangibles” para ambos países",
+      "link": "https://laverdad.com/encargada-de-negocios-de-ee-uu-en-venezuela-augura-beneficios-tangibles-para-ambos-paises/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Bridgerton-4-temporada.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Preso político, víctima de extorsión: “Lo tienen con asesinos en una celda del Cicpc-Barquisimeto”",
       "link": "https://diarioversionfinal.com/politica-dinero/preso-politico-victima-de-extorsion-lo-tienen-con-asesinos-en-una-celda-del-cicpc-barquisimeto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Petroleros-sostienen-una-bandera-con-el-logotipo-de-Pdvsa-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/laura-dogu_49845972_20260202154614-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-03T14:43:28.421Z"
+  "lastUpdate": "2026-02-03T15:51:30.910Z"
 };
