@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "551,50"
+      "usdt": "552,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,20 +32,20 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Liberaron al periodista Álvaro Algarra, corresponsal de Deutsche Welle: Lo habían detenido este 4Feb en su casa",
-      "link": "https://caraotadigital.net/venezuela/sntp-denuncio-la-detencion-del-periodista-alvaro-algarra-corresponsal-de-deutsche-welle/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/imagealvaroalgarra11.jpg"
+      "title": "No aguantó las lágrimas: La emotiva despedida de Natalia Jiménez a Yeison Jiménez durante concierto en Bogotá",
+      "link": "https://caraotadigital.net/caraota-show/no-aguanto-las-lagrimas-la-emotiva-despedida-de-natalia-jimenez-a-yeison-jimenez-durante-concierto-en-bogota/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Jimenez.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Claudia López inscribe Consulta de las Soluciones, la tercera para las elecciones del 8 de marzo",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/claudia-lopez-inscribe-consulta-de-las-soluciones-la-tercera-para-las-elecciones-del-8-de-marzo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/069382b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F48%2Fc0%2F7af572844dd8a6b4e384ea5812c8%2Fconsulta-de-las-soluciones.jpg"
+      "title": "Se confirma el primer bombardeo del gobierno Petro contra el Eln en el Catatumbo",
+      "link": "https://www.noticiascaracol.com/colombia/se-confirma-el-primer-bombardeo-del-gobierno-petro-contra-el-eln-en-el-catatumbo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3b0547f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faf%2F22%2F483474fa4ac095232a678ded602a%2Fbombardeos.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Justicia argentina solicita a EE. UU. extradición de Maduro por crímenes de lesa humanidad",
-      "link": "https://laverdad.com/justicia-argentina-solicita-a-ee-uu-extradicion-de-maduro-por-crimenes-de-lesa-humanidad/",
+      "title": "El “zar de la frontera” de Trump retira 700 agentes migratorios de Mineápolis",
+      "link": "https://laverdad.com/el-zar-de-la-frontera-de-trump-retira-700-agentes-migratorios-de-mineapolis/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Mas-que-Rivales.jpg"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-1.02.48-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-04T17:46:10.847Z"
+  "lastUpdate": "2026-02-04T18:53:02.976Z"
 };
