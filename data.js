@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-30-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T05:50:07.950Z"
+  "lastUpdate": "2026-02-04T06:53:46.970Z"
 };
