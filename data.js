@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Madre que se descompensó en concentración por presos políticos en la UCV conoció el paradero de su hija tras seis meses",
-      "link": "https://caraotadigital.net/venezuela/madre-que-se-descompenso-en-concentracion-por-presos-politicos-en-la-ucv-conocio-el-paradero-de-su-hija-tras-seis-meses/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/madre-5.jpg"
+      "title": "Protagonista de Thor sorprende a sus fanáticos con una revelación: «Engañé a mucha gente»",
+      "link": "https://caraotadigital.net/caraota-show/protagonista-de-thor-sorprende-a-sus-fanaticos-con-una-revelacion-engane-a-mucha-gente/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Hemsworth-y-Thor-CD.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Se confirma el primer bombardeo del gobierno Petro contra el Eln en el Catatumbo",
-      "link": "https://www.noticiascaracol.com/colombia/se-confirma-el-primer-bombardeo-del-gobierno-petro-contra-el-eln-en-el-catatumbo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3b0547f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faf%2F22%2F483474fa4ac095232a678ded602a%2Fbombardeos.jpg"
+      "title": "Capturan a Álex Saab en Venezuela, empresario colombiano que hizo parte del régimen chavista",
+      "link": "https://www.noticiascaracol.com/mundo/capturan-a-alex-saab-en-venezuela-empresario-colombiano-que-hizo-parte-del-regimen-chavista-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0e22003/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F53%2F4b%2F38629d5e41e1bef1b6174410dbd1%2Falex-saab.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Confirma la excarcelación del argentino Roberto Baldo y su esposa hispanovenezolana",
-      "link": "https://laverdad.com/confirma-la-excarcelacion-del-argentino-roberto-baldo-y-su-esposa-hispanovenezolana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Chiquinquira-Delgado-y-Marko-Perez.jpg"
+      "title": "Sentencian a cadena perpetua al culpable del segundo intento de matar a Trump",
+      "link": "https://laverdad.com/sentencian-a-cadena-perpetua-al-culpable-del-segundo-intento-de-matar-a-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Miss-Universo-y-Omar-Harfouch-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "El Sebin y el FBI detienen en Caracas a Alex Saab y Raúl Gorrín",
       "link": "https://diarioversionfinal.com/politica-dinero/el-sebin-en-operacion-conjunta-con-el-fbi-detienen-en-caracas-a-alex-saab-y-raul-gorrin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-4.13.50-PM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/papa-leon-xiv-en-audiencia-general-del-13-de-agosto-01-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T19:39:17.623Z"
+  "lastUpdate": "2026-02-04T20:35:58.240Z"
 };
