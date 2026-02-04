@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "375,08",
-      "eur": "442,59"
+      "usd": "378,46",
+      "eur": "447,22"
     },
     "binance": {
-      "usdt": "555,50"
+      "usdt": "556,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "DHS retirará de inmediato a 700 agentes federales en Minnesota",
-      "link": "https://cnnespanol.cnn.com/2026/02/04/eeuu/retiraran-700-agentes-minneapolis-inmigracion-ice-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258484096-20260204144759656.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "China advierte a Panamá que pagará un \"alto precio\" por la suspensión de contratos",
+      "link": "https://cnnespanol.cnn.com/2026/02/04/latinoamerica/china-panama-alto-precio-anulacion-contrato-reuters",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2166138222-20260131003515004.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Epstein designó a los herederos de su fortuna 48 horas antes de su muerte, estos fueron los beneficiarios",
-      "link": "https://caraotadigital.net/eeuu/epstein-designo-a-los-herederos-de-su-fortuna-48-horas-antes-de-su-muerte-estos-fueron-los-beneficiarios/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/EPSTEIN.jpg"
+      "title": "Excarcelado el comunicador Rory Branker, llevaba casi un año detenido",
+      "link": "https://caraotadigital.net/venezuela/excarcelado-el-comunicador-rory-branker-llevaba-casi-un-ano-detenido/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/10/imagerory27372.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Conferencia-Episcopal-tilda-de-inhumano-asedio-en-embajada-de-Argentina-t-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-04T21:34:26.639Z"
+  "lastUpdate": "2026-02-04T22:29:37.940Z"
 };
