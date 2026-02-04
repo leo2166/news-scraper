@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "546,99"
+      "usdt": "549,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Provea exigió concretar “sin más dilaciones” la liberación de los presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/04/provea-exigio-concretar-sin-mas-dilaciones-la-liberacion-de-los-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6VXSLRYHX5CUJJPRHTZNDIJBQI.jpg?auth=ad46c62cbe2835eca47e9c03169985d88c86dd86cf14513695000dc85ba13d15&smart=true&width=350&height=197&quality=85"
+      "title": "Putin y Xi Jinping hablaron sobre el futuro de Cuba y Venezuela durante una videoconferencia",
+      "link": "https://www.infobae.com/america/mundo/2026/02/04/putin-y-xi-jinping-hablaron-sobre-el-futuro-de-cuba-y-venezuela-durante-una-videoconferencia/",
+      "image": "https://www.infobae.com/resizer/v2/KFUC6Q7GRRARZC4LTFY2NN3MC4.jpg?auth=94f5e7e7e19ebcbad783314758e0cd59b445f804a308045c37b37abedd975a40&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Marcel Granier: Sin la libre actividad de los partidos democráticos no hay estabilidad ni transición\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/marcel-granier-sin-la-libre-actividad-de-los-partidos-democraticos-no-hay-estabilidad-ni-transicion/",
+      "title": "Venezuela cerró enero con detenciones de periodistas, hostigamiento y cierres de emisoras de radio\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/venezuela-detenciones-de-periodistas-y-censura-radial-en-enero/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Las perspectivas de un acuerdo sobre ICE se deterioran en el Capitolio",
-      "link": "https://cnnespanol.cnn.com/2026/02/04/eeuu/perspectivas-acuerdo-ice-deterioran-capitolio-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255223845-20260204054202361.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "DHS retirará de inmediato a 700 agentes federales en Minnesota",
+      "link": "https://cnnespanol.cnn.com/2026/02/04/eeuu/retiraran-700-agentes-minneapolis-inmigracion-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258484096-20260204144759656.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Más allá de las hormonas: recuperar tu salud sexual con láser",
-      "link": "https://caraotadigital.net/opinion/mas-alla-de-las-hormonas-recuperar-tu-salud-sexual-con-laser/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/07/mantellini9725.jpg"
+      "title": "VIRAL: Plataforma de predicciones Polymarket anunció que abrirá tienda de comestibles ‘totalmente gratis’",
+      "link": "https://caraotadigital.net/eeuu/viral-plataforma-de-predicciones-polymarket-anuncio-que-abrira-tienda-de-comestibles-totalmente-gratis/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Nueva-York.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez cumple un mes como “presidenta encargada”",
-      "link": "https://laverdad.com/delcy-rodriguez-cumple-un-mes-como-presidenta-encargada/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Karoline-Leavitt-y-Bad-Bunny-1.jpg"
+      "title": "Putin y Xi defienden cooperación con Venezuela y Cuba pese a presiones de EE. UU.",
+      "link": "https://laverdad.com/putin-y-xi-defienden-cooperacion-con-venezuela-y-cuba-pese-a-presiones-de-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mas-que-Rivales.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "HRW advierte que ofensiva de EE.UU. sobre Venezuela podría fortalecer al gobierno",
-      "link": "https://diarioversionfinal.com/mundo/hrw-advierte-que-ofensiva-de-ee-uu-sobre-venezuela-podria-fortalecer-al-gobierno/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/04/seniat-750x430.jpeg"
+      "title": "Foro Penal registra 350 excarcelaciones de presos políticos desde el #8Ene",
+      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-registra-350-excarcelaciones-de-presos-politicos-desde-el-8ene/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/image-2-3-740x430-1.png"
     }
   ],
-  "lastUpdate": "2026-02-04T14:40:21.885Z"
+  "lastUpdate": "2026-02-04T15:43:18.072Z"
 };
