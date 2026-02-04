@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos flexibiliza las sanciones para que empresas puedan extraer y procesar petróleo en Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/04/estados-unidos-flexibiliza-las-sanciones-para-que-empresas-puedan-extraer-y-procesar-petroleo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/UMC2IYNA2XMR5ABLZDH4OK2E7Y.jpg?auth=29529c049e9e1073439fb58ddd22af0cf1b8c125e5bbcf00b1dcfc9d84dce09f&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela recibió recibió las cartas credenciales de los nuevos embajadores de Italia, Qatar y Nicaragua",
+      "link": "https://www.infobae.com/venezuela/2026/02/04/venezuela-recibio-recibio-las-cartas-credenciales-de-los-nuevos-embajadores-de-italia-qatar-y-nicaragua/",
+      "image": "https://www.infobae.com/resizer/v2/DLDUYGSV4FF4DOTFOWEC732EHY.jpg?auth=5a15a61a3997b1c5410edf75e8a1bf98850f8b5d3b5c69651d4399f3ffcf2476&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -52,8 +52,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Extraoficial: Reportan muerte bajo custodia de guardia nacional Jhoember Escobar en Yare III",
       "link": "https://diarioversionfinal.com/politica-dinero/extraoficial-reportan-muerte-bajo-custodia-de-guardia-nacional-jhoember-escobar-en-yare-iii/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-30-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Y09legHm-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T06:53:46.970Z"
+  "lastUpdate": "2026-02-04T07:44:39.632Z"
 };
