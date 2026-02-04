@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "552,67"
+      "usdt": "555,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "No aguantó las lágrimas: La emotiva despedida de Natalia Jiménez a Yeison Jiménez durante concierto en Bogotá",
-      "link": "https://caraotadigital.net/caraota-show/no-aguanto-las-lagrimas-la-emotiva-despedida-de-natalia-jimenez-a-yeison-jimenez-durante-concierto-en-bogota/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Jimenez.jpg"
+      "title": "Madre que se descompensó en concentración por presos políticos en la UCV conoció el paradero de su hija tras seis meses",
+      "link": "https://caraotadigital.net/venezuela/madre-que-se-descompenso-en-concentracion-por-presos-politicos-en-la-ucv-conocio-el-paradero-de-su-hija-tras-seis-meses/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/madre-5.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "El “zar de la frontera” de Trump retira 700 agentes migratorios de Mineápolis",
-      "link": "https://laverdad.com/el-zar-de-la-frontera-de-trump-retira-700-agentes-migratorios-de-mineapolis/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mas-que-Rivales.jpg"
+      "title": "Confirma la excarcelación del argentino Roberto Baldo y su esposa hispanovenezolana",
+      "link": "https://laverdad.com/confirma-la-excarcelacion-del-argentino-roberto-baldo-y-su-esposa-hispanovenezolana/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Chiquinquira-Delgado-y-Marko-Perez.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "CNP denuncia la detención del corresponsal de Deutsche Welle en Caracas por presuntos funcionarios policiales",
-      "link": "https://diarioversionfinal.com/politica-dinero/cnp-denuncia-la-detencion-del-corresponsal-de-deutsche-welle-en-caracas-por-presuntos-funcionarios-policiales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-1.02.48-PM-750x430.jpeg"
+      "title": "El Sebin y el FBI detienen en Caracas a Alex Saab y Raúl Gorrín",
+      "link": "https://diarioversionfinal.com/politica-dinero/el-sebin-en-operacion-conjunta-con-el-fbi-detienen-en-caracas-a-alex-saab-y-raul-gorrin/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-4.13.50-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-04T18:53:02.976Z"
+  "lastUpdate": "2026-02-04T19:39:17.623Z"
 };
