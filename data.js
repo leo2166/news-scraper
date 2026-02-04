@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "555,75"
+      "usdt": "555,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,39 +14,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El movimiento estudiantil reanudó las protestas en Venezuela para exigir la liberación de todos los presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/02/03/el-movimiento-estudiantil-reanudo-las-protestas-en-venezuela-para-exigir-la-liberacion-de-todos-los-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/FDM6CL46ONFXZAYYDJQLMOVNMQ.PNG?auth=49b55b266549321e2e1dd156814df1741670df431d25e0f203fdba16d1d20326&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos flexibiliza las sanciones para que empresas puedan extraer y procesar petróleo en Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/04/estados-unidos-flexibiliza-las-sanciones-para-que-empresas-puedan-extraer-y-procesar-petroleo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/UMC2IYNA2XMR5ABLZDH4OK2E7Y.jpg?auth=29529c049e9e1073439fb58ddd22af0cf1b8c125e5bbcf00b1dcfc9d84dce09f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El canciller de Israel tras reunirse con María Corina Machado: \"Deseo que los venezolanos tengan elecciones libres\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/maria-corina-machado-se-reunio-con-el-canciller-de-israel/",
+      "title": "La OFAC emite licencia que autoriza la exportación de diluyentes de EE UU a Venezuela\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/02/la-ofac-emite-licencia-que-autoriza-la-exportacion-de-diluyentes-de-ee-uu-a-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump asegura que trabajó con Petro para llegar a un acuerdo para combatir las drogas",
+      "title": "Petro: Trump y yo podemos ser muy diferentes, pero nos une la libertad",
       "link": "https://cnnespanol.cnn.com/colombia/live-news/reunion-trump-y-petro-en-vivo-ultima-hora-noticias-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/haqpylyx0ai9lqz.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22336622-11963-359-still.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Alarmante ”fuga de hidrógeno» retrasó el lanzamiento de Artemis II a la Luna, esto dijo la NASA",
-      "link": "https://caraotadigital.net/eeuu/alarmante-fuga-de-hidrogeno-retraso-el-lanzamiento-de-artemis-ii-a-la-luna-esto-dijo-la-nasa/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/NASA.jpg"
+      "title": "¡Orgullo criollo! Andy Borregales preparado para el Super Bowl: «Estoy tratando de representar a Venezuela»",
+      "link": "https://caraotadigital.net/deportes/orgullo-criollo-andy-borregales-preparado-para-el-super-bowl-estoy-tratando-de-representar-a-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Borregales-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEPARTAMENTO DEL TESORO DE EE. UU. APROBÓ LICENCIA PARA ENVIAR DILUYENTES A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/02/departamento-del-tesoro-de-ee-uu-aprobo-licencia-para-enviar-diluyentes-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/departamento-del-tesoro-de-eeuu-3dic2019.jpg"
+      "title": "DELCY RODRÍGUEZ RECIBIÓ CARTAS CREDENCIALES DE EMBAJADORES DE CATAR, ITALIA Y NICARAGUA",
+      "link": "https://noticierodigital.com/2026/02/delcy-rodriguez-recibio-cartas-credenciales-de-embajadores-de-catar-italia-y-nicaragua/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Giovanni-Umberto-De-Vito-delcy-rodriguez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Tras reunión, Trump dice que se llevó \"muy bien\" con Petro y que hablaron sobre \"sanciones\"",
-      "link": "https://www.noticiascaracol.com/mundo/tras-reunion-trump-dice-que-se-llevo-muy-bien-con-petro-y-que-hablaron-sobre-sanciones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/edc9d5a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2b%2F2f%2F76cd391e4966b606f2e816c6a40d%2Fgustavo-petro-y-donald-trump.jpg"
+      "title": "Presidente Petro da detalles de su encuentro con Donald Trump: dijo que le entregó lista de capos",
+      "link": "https://www.noticiascaracol.com/politica/presidente-petro-da-detalles-de-su-encuentro-con-donald-trump-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b02490/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2Fcf%2F7498b39c4103819558f3b018d421%2Fpetro.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Captura de Maduro abrió paso a excarcelaciones, reforma petrolera y sumisión ante Trump",
-      "link": "https://diarioversionfinal.com/politica-dinero/captura-de-maduro-abrio-paso-a-excarcelaciones-reforma-petrolera-y-sumision-ante-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-7.16.56-PM.jpeg"
+      "title": "EE. UU. colaborará con Colombia para combatir a grupos guerrilleros asentados en Venezuela, afirmó Trump",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-colaborara-con-colombia-para-combatir-con-grupos-guerrilleros-asentados-en-venezuela-afirmo-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-30-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-03T23:28:50.140Z"
+  "lastUpdate": "2026-02-04T02:05:45.462Z"
 };
