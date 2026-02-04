@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "549,67"
+      "usdt": "549,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela cerró enero con detenciones de periodistas, hostigamiento y cierres de emisoras de radio\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/venezuela-detenciones-de-periodistas-y-censura-radial-en-enero/",
+      "title": "Foro Penal registra al menos 350 excarcelaciones de presos políticos en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/foro-penal-registra-350-excarcelaciones-de-presos-politicos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIRAL: Plataforma de predicciones Polymarket anunció que abrirá tienda de comestibles ‘totalmente gratis’",
-      "link": "https://caraotadigital.net/eeuu/viral-plataforma-de-predicciones-polymarket-anuncio-que-abrira-tienda-de-comestibles-totalmente-gratis/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Nueva-York.jpg"
+      "title": "El exhorto que hizo el Ministerio de Educación a los docentes sobre los disfraces de Carnaval en los colegios",
+      "link": "https://caraotadigital.net/venezuela/el-exhorto-que-hizo-el-ministerio-de-educacion-a-los-docentes-sobre-los-disfraces-de-carnaval-en-los-colegios/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/disfraces88212.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Embajador de Colombia en EE. UU. revela anécdotas entre Trump y Petro: \"Gustavo, I like you\"",
-      "link": "https://www.noticiascaracol.com/mundo/embajador-de-colombia-en-ee-uu-revela-anecdotas-entre-trump-y-petro-gustavo-i-like-you-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/edc9d5a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2b%2F2f%2F76cd391e4966b606f2e816c6a40d%2Fgustavo-petro-y-donald-trump.jpg"
+      "title": "Claudia López inscribe Consulta de las Soluciones, la tercera para las elecciones del 8 de marzo",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/claudia-lopez-inscribe-consulta-de-las-soluciones-la-tercera-para-las-elecciones-del-8-de-marzo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/069382b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F48%2Fc0%2F7af572844dd8a6b4e384ea5812c8%2Fconsulta-de-las-soluciones.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Putin y Xi defienden cooperación con Venezuela y Cuba pese a presiones de EE. UU.",
-      "link": "https://laverdad.com/putin-y-xi-defienden-cooperacion-con-venezuela-y-cuba-pese-a-presiones-de-ee-uu/",
+      "title": "Foro Penal reporta al menos 350 excarcelaciones de presos políticos desde el 8E",
+      "link": "https://laverdad.com/foro-penal-reporta-al-menos-350-excarcelaciones-de-presos-politicos-desde-el-8e/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Mas-que-Rivales.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Foro Penal registra 350 excarcelaciones de presos políticos desde el #8Ene",
-      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-registra-350-excarcelaciones-de-presos-politicos-desde-el-8ene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/image-2-3-740x430-1.png"
+      "title": "Bombardean al ELN y disidencias de las FARC en frontera con Perijá",
+      "link": "https://diarioversionfinal.com/mundo/bombardean-al-eln-y-disidencias-de-las-farc-en-frontera-con-perija/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/descarga-9-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T15:43:18.072Z"
+  "lastUpdate": "2026-02-04T16:50:58.751Z"
 };
