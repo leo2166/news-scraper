@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "530,78"
+      "usdt": "527,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela recibió recibió las cartas credenciales de los nuevos embajadores de Italia, Qatar y Nicaragua",
-      "link": "https://www.infobae.com/venezuela/2026/02/04/venezuela-recibio-recibio-las-cartas-credenciales-de-los-nuevos-embajadores-de-italia-qatar-y-nicaragua/",
-      "image": "https://www.infobae.com/resizer/v2/DLDUYGSV4FF4DOTFOWEC732EHY.jpg?auth=5a15a61a3997b1c5410edf75e8a1bf98850f8b5d3b5c69651d4399f3ffcf2476&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez dijo que trabaja “intensamente” en la ley de amnistía que prometió",
+      "link": "https://www.infobae.com/venezuela/2026/02/04/delcy-rodriguez-dijo-que-trabaja-intensamente-en-la-ley-de-amnistia-que-prometio/",
+      "image": "https://www.infobae.com/resizer/v2/ZCCSUWBJZ5CSLHKNE7Y7OMIF3A.jpg?auth=3ed007c288947e3cbb671a99df811b17b74ae2589d74e605898b93f590ea8174&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "La OFAC emite licencia que autoriza la exportación de diluyentes de EE UU a Venezuela\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/02/la-ofac-emite-licencia-que-autoriza-la-exportacion-de-diluyentes-de-ee-uu-a-venezuela/",
+      "title": "Marcel Granier: Sin la libre actividad de los partidos democráticos no hay estabilidad ni transición\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/marcel-granier-sin-la-libre-actividad-de-los-partidos-democraticos-no-hay-estabilidad-ni-transicion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Y09legHm-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T09:44:43.598Z"
+  "lastUpdate": "2026-02-04T10:39:15.953Z"
 };
