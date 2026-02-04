@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "552,50"
+      "usdt": "530,78"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Extraoficial: Reportan muerte bajo custodia de guardia nacional Jhoember Escobar en Yare III",
-      "link": "https://diarioversionfinal.com/politica-dinero/extraoficial-reportan-muerte-bajo-custodia-de-guardia-nacional-jhoember-escobar-en-yare-iii/",
+      "title": "El Gobierno de Delcy Rodríguez le asegura a China que los precios del petróleo no dependerán de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/el-gobierno-de-delcy-rodriguez-le-asegura-a-china-que-los-precios-del-petroleo-no-dependeran-de-ee-uu/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Y09legHm-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T08:42:44.050Z"
+  "lastUpdate": "2026-02-04T09:44:43.598Z"
 };
