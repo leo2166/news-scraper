@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "442,59"
     },
     "binance": {
-      "usdt": "527,50"
+      "usdt": "553,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez dijo que trabaja “intensamente” en la ley de amnistía que prometió",
-      "link": "https://www.infobae.com/venezuela/2026/02/04/delcy-rodriguez-dijo-que-trabaja-intensamente-en-la-ley-de-amnistia-que-prometio/",
-      "image": "https://www.infobae.com/resizer/v2/ZCCSUWBJZ5CSLHKNE7Y7OMIF3A.jpg?auth=3ed007c288947e3cbb671a99df811b17b74ae2589d74e605898b93f590ea8174&smart=true&width=350&height=197&quality=85"
+      "title": "La Unión Europea afirmó que la amnistía en Venezuela es “un paso significativo” para terminar con la represión",
+      "link": "https://www.infobae.com/venezuela/2026/02/04/la-union-europea-afirmo-que-la-amnistia-en-venezuela-es-un-paso-significativo-para-terminar-con-la-represion/",
+      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Tras un año de choques, Petro y Trump tuvieron una reunión \"muy buena\" que dejó un \"aire optimista\"",
+      "title": "El día en que Trump amó a Colombia (y elogió a Petro)",
       "link": "https://cnnespanol.cnn.com/2026/02/03/eeuu/trump-petro-reunion-optimista-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/651e0e4242e4a90b8ab2b3d07e438b934a79fe6aw.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Gobierno de Delcy Rodríguez le asegura a China que los precios del petróleo no dependerán de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/el-gobierno-de-delcy-rodriguez-le-asegura-a-china-que-los-precios-del-petroleo-no-dependeran-de-ee-uu/",
+      "title": "Hugo Chávez gestó hace 32 años el alzamiento militar que inició la destrucción de Venezuela",
+      "link": "https://diarioversionfinal.com/politica-dinero/hugo-chavez-gesto-hace-32-anos-el-alzamiento-militar-que-inicio-la-destruccion-de-venezuela/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Y09legHm-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T10:39:15.953Z"
+  "lastUpdate": "2026-02-04T11:33:50.859Z"
 };
