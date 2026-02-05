@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "566,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La tormenta de Epstein podría derrocar a un líder mundial, pero no será Trump",
-      "link": "https://cnnespanol.cnn.com/2026/02/05/eeuu/analisis-tormenta-epstein-derrocar-lider-mundial-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2161618285-20260205055818053.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Quién es Daniella, la hija de Diosdado Cabello",
+      "link": "https://cnnespanol.cnn.com/2026/02/05/venezuela/quien-es-daniella-diosdado-cabello-ministra-turismo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/fotos-danicabello11-00-00-12-14-still002.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "NYT: Agentes venezolanos detienen e interrogan a Alex Saab y Raúl Gorrín",
-      "link": "https://laverdad.com/nyt-agentes-venezolanos-detienen-e-interrogan-a-alex-saab-y-raul-gorrin/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/sentimental-value-1.jpg"
+      "title": "Deportaciones se cuadruplicaron en los primeros 9 meses del gobierno de Trump",
+      "link": "https://laverdad.com/deportaciones-se-cuadruplicaron-en-los-primeros-9-meses-del-gobierno-de-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Bad-Bunny.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/KFHPCORFR5G27IDFFSP2G2BO7Y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T18:48:47.220Z"
+  "lastUpdate": "2026-02-05T19:38:09.804Z"
 };
