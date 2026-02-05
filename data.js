@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Iván Cepeda anuncia que irá a primera vuelta: Pacto Histórico se retira de consulta de izquierda",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-anuncia-que-ira-a-primera-vuelta-pacto-historico-se-retira-de-consulta-de-izquierda-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/39ae11b/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F67%2F5c%2F56b927c1455c9fdc834c4d74f871%2Fivan-cepeda-1.jpg"
+      "title": "Las distintas versiones sobre la captura en Venezuela de Álex Saab, el testaferro de Nicolás Maduro",
+      "link": "https://www.noticiascaracol.com/mundo/las-distintas-versiones-sobre-la-captura-en-venezuela-de-alex-saab-el-testaferro-de-nicolas-maduro-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7d18182/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F99%2Fdc%2F78c2c654464cb364a271ef58e9f8%2Fnicolas-maduro-y-alex-saab.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/alex-saab-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T02:06:55.299Z"
+  "lastUpdate": "2026-02-05T04:48:09.386Z"
 };
