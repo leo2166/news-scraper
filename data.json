@@ -5,7 +5,7 @@
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "566,20"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La emoción de una periodista venezolana al volver a la radio de la que fue censurada por el régimen de Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/02/05/la-emocion-de-una-periodista-venezolana-al-volver-a-la-radio-de-la-que-fue-censurada-por-el-regimen-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/VPJNGQLEPFCKLO25I5SVK237AE.jpg?auth=a2ccf34142225bdecf3dc8cdab1eadaf486d8333c17e8739ad6b81f8cbdaefed&smart=true&width=350&height=197&quality=85"
+      "title": "Protesta en Caracas: familiares de presos políticos reclaman libertad total y voz en la ley de amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/02/05/protesta-en-caracas-familiares-de-presos-politicos-reclaman-libertad-total-y-voz-en-la-ley-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/CRSDGOC7CBFB3JU22J3EJHUSGI.JPG?auth=75c5cbc1843f5b4a8fcc1f26a6e34fbf14da2edb6725e0f5c6d77319aef8058c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "ONG alertan falta de transparencia en debate de ley de amnistía en la Asamblea Nacional\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/ong-alertan-falta-de-transparencia-en-debate-de-ley-de-amnistia/",
+      "title": "Expresidente ruso afirma que es probable que EE UU indulte a Nicolás Maduro\nMUNDO",
+      "link": "https://www.elnacional.com/2026/02/expresidente-ruso-es-probable-que-ee-uu-indulte-a-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Familiares de presos políticos protestaron frente al Palacio de Justicia y piden ser tomados en cuenta en la discusión de la Ley de Amnistía",
-      "link": "https://caraotadigital.net/venezuela/familiares-de-presos-politicos-protestaron-frente-al-palacio-de-justicia-y-piden-ser-tomados-en-cuenta-en-la-discusion-de-la-ley-de-amnistia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/presos-politicos.jpg"
+      "title": "EN DELTA AMACURO: Joven se subió a una mata de mango y terminó electrocutado",
+      "link": "https://caraotadigital.net/sucesos/en-delta-amacuro-joven-se-subio-a-una-mata-de-mango-y-termino-electrocutado/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/descarga-4.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Díaz-Canel confirma que Cuba no recibe combustible desde diciembre",
-      "link": "https://laverdad.com/diaz-canel-confirma-que-cuba-no-recibe-combustible-desde-diciembre/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Britney-Spears-1.jpg"
+      "title": "NYT: Agentes venezolanos detienen e interrogan a Alex Saab y Raúl Gorrín",
+      "link": "https://laverdad.com/nyt-agentes-venezolanos-detienen-e-interrogan-a-alex-saab-y-raul-gorrin/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/sentimental-value-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rusia pierde terreno en Venezuela tras captura de Maduro, denuncia canciller de Putin",
-      "link": "https://diarioversionfinal.com/mundo/rusia-pierde-terreno-en-venezuela-tras-captura-de-maduro-denuncia-canciller-de-putin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/diaz-canel-750x430.jpg"
+      "title": "Lula afirma que la prioridad de Brasil es la democracia en Venezuela, no Maduro",
+      "link": "https://diarioversionfinal.com/mundo/lula-afirma-que-la-prioridad-de-brasil-es-la-democracia-en-venezuela-no-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/KFHPCORFR5G27IDFFSP2G2BO7Y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T17:49:17.874Z"
+  "lastUpdate": "2026-02-05T18:48:47.220Z"
 }
