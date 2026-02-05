@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "556,90"
+      "usdt": "560,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,34 +26,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "En el Davos de América Latina, siete mandatarios prometieron una región más unida. El desafío ahora es que lo logren",
-      "link": "https://cnnespanol.cnn.com/2026/02/05/latinoamerica/caf-mandatarios-desafios-davos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258136183.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La tormenta de Epstein podría derrocar a un líder mundial, pero no será Trump",
+      "link": "https://cnnespanol.cnn.com/2026/02/05/eeuu/analisis-tormenta-epstein-derrocar-lider-mundial-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2161618285-20260205055818053.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Cuáles son los principales destinos para Carnavales? Esto dice un experta",
-      "link": "https://caraotadigital.net/venezuela/cuales-son-los-principales-destinos-para-carnavales-esto-dice-un-experta/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2024/11/Playa-El-Yaque-Margarita-CD.jpg"
+      "title": "EN VIDEO: El emotivo mensaje de la periodista Shirley Varnagy al regresar a la radio tras varios meses de ausencia",
+      "link": "https://caraotadigital.net/venezuela/en-video-el-emotivo-mensaje-de-la-periodista-shirley-varnagy-al-regresar-a-la-radio-tras-varios-meses-de-ausencia/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Shirley.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Sergio Fajardo no participará en consultas y anuncia que va directo a primera vuelta",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/sergio-fajardo-no-participara-en-consultas-y-anuncia-que-va-directo-a-primera-vuelta-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c545fc2/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2F52%2Fa10c8e8e4eabaab0049424328c67%2Fsergio-fajardo.jpg"
+      "title": "Iván Cepeda irá a primera vuelta, ¿qué dicen los otros precandidatos de la consulta de izquierda?",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-anuncia-que-ira-a-primera-vuelta-pacto-historico-se-retira-de-consulta-de-izquierda-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1101010/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2F50%2F32c2553a4e68ad565406b6d0e4b9%2Fivan-cepeda-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Sector de la oposición liderado por Capriles acepta dialogar con el gobierno",
-      "link": "https://laverdad.com/sector-de-la-oposicion-liderado-por-capriles-acepta-dialogar-con-el-gobierno/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Miss-Universo-y-Omar-Harfouch-1.jpg"
+      "title": "Delcy Rodríguez se reúne con las petroleras Repsol y Maurel & Prom",
+      "link": "https://laverdad.com/delcy-rodriguez-se-reune-con-las-petroleras-repsol-y-maurel-prom/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Refuerzos-de-Magallanes-para-la-Serie-de-las-Americas.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jorge Rodríguez evade hablar sobre posible captura de Alex Saab: “No forma parte de mi atención”",
-      "link": "https://diarioversionfinal.com/politica-dinero/jorge-rodriguez-evade-hablar-sobre-posible-captura-de-alex-saab-no-forma-parte-de-mi-atencion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/StXHhgIp-image-750x430.jpg"
+      "title": "Iglesia venezolana exige se aplique la amnistía para todos presos políticos",
+      "link": "https://diarioversionfinal.com/politica-dinero/iglesia-venezolana-exige-se-aplique-la-amnistia-para-todos-presos-politicos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/eXN3Y5Om-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T13:04:12.602Z"
+  "lastUpdate": "2026-02-05T14:43:12.036Z"
 };
