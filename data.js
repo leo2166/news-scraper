@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "531,10"
+      "usdt": "557,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Más de 20.000 venezolanos regresaron a su país en vuelos de repatriación durante el último año",
-      "link": "https://www.infobae.com/venezuela/2026/02/05/mas-de-20000-venezolanos-regresaron-a-su-pais-en-vuelos-de-repatriacion-durante-el-ultimo-ano/",
-      "image": "https://www.infobae.com/resizer/v2/XUNQ7IZLUJHQFA6KRSPV5HDUXU.jpg?auth=5c657aa83df1e4943b17089a4d0ff49da34434accd9a45922db308d1aa2563bc&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez mantuvo reuniones con directivos de petroleras europeas tras la aprobación de la ley de hidrocarburos",
+      "link": "https://www.infobae.com/venezuela/2026/02/05/delcy-rodriguez-mantuvo-reuniones-con-directivos-de-petroleras-europeas-tras-la-aprobacion-de-la-ley-de-hidrocarburos/",
+      "image": "https://www.infobae.com/resizer/v2/HLLYPNCJVBF4DDHXTIFGMAXZUE.jpg?auth=7c2eb6a72e2ce9f17d6bb0a4d97e919290dcbbd984be7f7494847618341897ea&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -52,8 +52,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Jorge Rodríguez evade hablar sobre posible captura de Alex Saab: “No forma parte de mi atención”",
       "link": "https://diarioversionfinal.com/politica-dinero/jorge-rodriguez-evade-hablar-sobre-posible-captura-de-alex-saab-no-forma-parte-de-mi-atencion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_4909382524434320344_w-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/StXHhgIp-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T07:02:06.034Z"
+  "lastUpdate": "2026-02-05T08:43:38.035Z"
 };
