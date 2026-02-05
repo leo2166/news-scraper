@@ -5,7 +5,7 @@
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "556,67"
+      "usdt": "556,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Putin y Xi Jinping hablaron sobre el futuro de Cuba y Venezuela durante una videoconferencia",
-      "link": "https://www.infobae.com/america/mundo/2026/02/04/putin-y-xi-jinping-hablaron-sobre-el-futuro-de-cuba-y-venezuela-durante-una-videoconferencia/",
-      "image": "https://www.infobae.com/resizer/v2/KFUC6Q7GRRARZC4LTFY2NN3MC4.jpg?auth=94f5e7e7e19ebcbad783314758e0cd59b445f804a308045c37b37abedd975a40&smart=true&width=350&height=197&quality=85"
+      "title": "Más de 20.000 venezolanos regresaron a su país en vuelos de repatriación durante el último año",
+      "link": "https://www.infobae.com/venezuela/2026/02/05/mas-de-20000-venezolanos-regresaron-a-su-pais-en-vuelos-de-repatriacion-durante-el-ultimo-ano/",
+      "image": "https://www.infobae.com/resizer/v2/XUNQ7IZLUJHQFA6KRSPV5HDUXU.jpg?auth=5c657aa83df1e4943b17089a4d0ff49da34434accd9a45922db308d1aa2563bc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Caracol Radio: Alex Saab fue detenido en Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/caracol-radio-alex-saab-fue-detenido-en-venezuela/",
+      "title": "Funcionario policial estadounidense a Reuters: Se espera que Alex Saab sea extraditado a EE UU en los próximos días\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/reuters-autoridades-estadounidenses-contemplan-extraditar-a-saab-tras-detencion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "China advierte a Panamá que pagará un \"alto precio\" por la suspensión de contratos",
-      "link": "https://cnnespanol.cnn.com/2026/02/04/latinoamerica/china-panama-alto-precio-anulacion-contrato-reuters",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2166138222-20260131003515004.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cuba dice estar dispuesta a dialogar con EE.UU., pero descarta un cambio de régimen",
+      "link": "https://cnnespanol.cnn.com/2026/02/04/latinoamerica/cuba-dialogo-eeuu-cambio-regimen-trump-presion-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254812749-20260204235500914-20260205002559233.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN CLAVES: Lo que se sabe sobre la «detención» de Alex Saab",
-      "link": "https://caraotadigital.net/venezuela/en-claves-lo-que-se-sabe-sobre-la-detencion-de-alex-saab/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/01/Alex-Saab-CD.jpg"
+      "title": "¿Cuáles son los principales destinos para Carnavales? Esto dice un experta",
+      "link": "https://caraotadigital.net/venezuela/cuales-son-los-principales-destinos-para-carnavales-esto-dice-un-experta/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/11/Playa-El-Yaque-Margarita-CD.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Sebin y el FBI detienen en Caracas a Alex Saab y Raúl Gorrín",
-      "link": "https://diarioversionfinal.com/politica-dinero/el-sebin-en-operacion-conjunta-con-el-fbi-detienen-en-caracas-a-alex-saab-y-raul-gorrin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Conferencia-Episcopal-tilda-de-inhumano-asedio-en-embajada-de-Argentina-t-750x430.webp"
+      "title": "Familiares de presos políticos realizan manifestación con “banderazo” en las afueras de El Helicoide",
+      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-realizan-manifestacion-con-banderazo-en-las-afueras-de-el-helicoide/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/alex-saab-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-04T23:29:32.872Z"
+  "lastUpdate": "2026-02-05T02:06:55.299Z"
 }
