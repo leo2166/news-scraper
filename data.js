@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "560,00"
+      "usdt": "560,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Ascendieron a 30 los presos políticos excarcelados este miércoles en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/05/ascendieron-a-30-los-presos-politicos-excarcelados-este-miercoles-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6FLE2B3BYVHP5CMNYN3HGSQLEY.jpg?auth=564a97d727d3a63cf2ab131dd4239916a2b433d4395da69db88df4dcc7bf8d60&smart=true&width=350&height=197&quality=85"
+      "title": "Siete partidos opositores, incluido el de Henrique Capriles, anunciaron conversaciones con el chavismo",
+      "link": "https://www.infobae.com/venezuela/2026/02/05/siete-partidos-opositores-incluido-el-de-henrique-capriles-anunciaron-conversaciones-con-el-chavismo/",
+      "image": "https://www.infobae.com/resizer/v2/KESNRG25D5CWTIZDJJTBSFUDHE.JPG?auth=b31430cb425795616ddd77c21bbf15436f9697366db924999c02ae99da1206dc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: El emotivo mensaje de la periodista Shirley Varnagy al regresar a la radio tras varios meses de ausencia",
-      "link": "https://caraotadigital.net/venezuela/en-video-el-emotivo-mensaje-de-la-periodista-shirley-varnagy-al-regresar-a-la-radio-tras-varios-meses-de-ausencia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Shirley.jpg"
+      "title": "VIRAL: La venezolana Andrea Rubio rompió el silencio tras confundir a John Legend con John Lennon en transmisión de los Grammy",
+      "link": "https://caraotadigital.net/caraota-show/viral-la-venezolana-andrea-rubio-rompio-el-silencio-tras-confundir-a-john-legend-con-john-lennon-en-transmision-de-los-grammy/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-05-at-11.28.56.jpeg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Iván Cepeda irá a primera vuelta, ¿qué dicen los otros precandidatos de la consulta de izquierda?",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-anuncia-que-ira-a-primera-vuelta-pacto-historico-se-retira-de-consulta-de-izquierda-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1101010/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2F50%2F32c2553a4e68ad565406b6d0e4b9%2Fivan-cepeda-2.jpg"
+      "title": "FF. MM. hallaron a un guerrillero del Eln escondido en trinchera: ¿qué dijo Petro del operativo?",
+      "link": "https://www.noticiascaracol.com/colombia/ff-mm-hallaron-a-un-guerrillero-del-eln-escondido-en-trinchera-que-dijo-petro-del-operativo-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8d3f87e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1f%2Fcb%2Ffd9832324a3b8d691c6cf533ad0f%2Fbombardeo-eln.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez se reúne con las petroleras Repsol y Maurel & Prom",
-      "link": "https://laverdad.com/delcy-rodriguez-se-reune-con-las-petroleras-repsol-y-maurel-prom/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Refuerzos-de-Magallanes-para-la-Serie-de-las-Americas.jpg"
+      "title": "Machado cree que habría elecciones en menos de un año",
+      "link": "https://laverdad.com/machado-cree-que-habria-elecciones-en-menos-de-un-ano/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Britney-Spears-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Iglesia venezolana exige se aplique la amnistía para todos presos políticos",
-      "link": "https://diarioversionfinal.com/politica-dinero/iglesia-venezolana-exige-se-aplique-la-amnistia-para-todos-presos-politicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/eXN3Y5Om-image-750x430.jpg"
+      "title": "Familiares de presos políticos protestan frente al Palacio de Justicia",
+      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-protestan-frente-al-palacio-de-justicia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/04/asamblea-nacional-chavista-700x352-1.png"
     }
   ],
-  "lastUpdate": "2026-02-05T14:43:12.036Z"
+  "lastUpdate": "2026-02-05T15:41:31.744Z"
 };
