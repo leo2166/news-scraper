@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "561,10"
+      "usdt": "566,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "María Corina Machado cree que podría haber elecciones en Venezuela en menos de un año",
-      "link": "https://caraotadigital.net/mundo/maria-corina-machado-cree-que-podria-haber-elecciones-en-venezuela-en-menos-de-un-ano/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/MARIA-CORINA-MACHADO-1-1.jpg"
+      "title": "Familiares de presos políticos protestaron frente al Palacio de Justicia y piden ser tomados en cuenta en la discusión de la Ley de Amnistía",
+      "link": "https://caraotadigital.net/venezuela/familiares-de-presos-politicos-protestaron-frente-al-palacio-de-justicia-y-piden-ser-tomados-en-cuenta-en-la-discusion-de-la-ley-de-amnistia/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/presos-politicos.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Foro Penal contabiliza 383 presos políticos excarcelados desde el 8E",
-      "link": "https://laverdad.com/foro-penal-contabiliza-383-presos-politicos-excarcelados-desde-el-8e/",
+      "title": "Díaz-Canel confirma que Cuba no recibe combustible desde diciembre",
+      "link": "https://laverdad.com/diaz-canel-confirma-que-cuba-no-recibe-combustible-desde-diciembre/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Britney-Spears-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Rusia pierde terreno en Venezuela tras captura de Maduro, denuncia canciller de Putin",
       "link": "https://diarioversionfinal.com/mundo/rusia-pierde-terreno-en-venezuela-tras-captura-de-maduro-denuncia-canciller-de-putin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fiscal-venezolano-tarek-1-1200x675-1-750x430.webp"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/diaz-canel-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T16:51:32.971Z"
+  "lastUpdate": "2026-02-05T17:49:17.874Z"
 };
