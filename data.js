@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "553,40"
+      "usdt": "556,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Comando Antiextorsión y Secuestro en Caracas, un nuevo centro clandestino de detención al servicio de Diosdado Cabello",
-      "link": "https://www.infobae.com/venezuela/2026/02/05/el-comando-antiextorsion-y-secuestro-en-caracas-un-nuevo-centro-clandestino-de-detencion-al-servicio-de-diosdado-cabello/",
-      "image": "https://www.infobae.com/resizer/v2/LNHATLDPF5G4NOSGAKXQBI65RM.jpg?auth=9ab2e3c41cdfa110912c2fed4dd7b04cc01a1f2208d9edab82e567b7f5558f04&smart=true&width=350&height=197&quality=85"
+      "title": "Ascendieron a 30 los presos políticos excarcelados este miércoles en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/05/ascendieron-a-30-los-presos-politicos-excarcelados-este-miercoles-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6FLE2B3BYVHP5CMNYN3HGSQLEY.jpg?auth=564a97d727d3a63cf2ab131dd4239916a2b433d4395da69db88df4dcc7bf8d60&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. quiere expulsar a China de Latinoamérica. El Canal de Panamá es la última prueba",
-      "link": "https://cnnespanol.cnn.com/2026/02/05/latinoamerica/analisis-eeuu-china-canal-panama-internacional-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/panama-20260205081959950.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "En el Davos de América Latina, siete mandatarios prometieron una región más unida. El desafío ahora es que lo logren",
+      "link": "https://cnnespanol.cnn.com/2026/02/05/latinoamerica/caf-mandatarios-desafios-davos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258136183.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,14 +38,14 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Las distintas versiones sobre la captura en Venezuela de Álex Saab, el testaferro de Nicolás Maduro",
-      "link": "https://www.noticiascaracol.com/mundo/las-distintas-versiones-sobre-la-captura-en-venezuela-de-alex-saab-el-testaferro-de-nicolas-maduro-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7d18182/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F99%2Fdc%2F78c2c654464cb364a271ef58e9f8%2Fnicolas-maduro-y-alex-saab.jpg"
+      "title": "Sergio Fajardo no participará en consultas y anuncia que va directo a primera vuelta",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/sergio-fajardo-no-participara-en-consultas-y-anuncia-que-va-directo-a-primera-vuelta-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c545fc2/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2F52%2Fa10c8e8e4eabaab0049424328c67%2Fsergio-fajardo.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Sentencian a cadena perpetua al culpable del segundo intento de matar a Trump",
-      "link": "https://laverdad.com/sentencian-a-cadena-perpetua-al-culpable-del-segundo-intento-de-matar-a-trump/",
+      "title": "Sector de la oposición liderado por Capriles acepta dialogar con el gobierno",
+      "link": "https://laverdad.com/sector-de-la-oposicion-liderado-por-capriles-acepta-dialogar-con-el-gobierno/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Miss-Universo-y-Omar-Harfouch-1.jpg"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/StXHhgIp-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T11:36:01.386Z"
+  "lastUpdate": "2026-02-05T13:04:12.602Z"
 };
