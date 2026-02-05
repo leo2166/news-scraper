@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "447,22"
     },
     "binance": {
-      "usdt": "557,99"
+      "usdt": "556,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez mantuvo reuniones con directivos de petroleras europeas tras la aprobación de la ley de hidrocarburos",
-      "link": "https://www.infobae.com/venezuela/2026/02/05/delcy-rodriguez-mantuvo-reuniones-con-directivos-de-petroleras-europeas-tras-la-aprobacion-de-la-ley-de-hidrocarburos/",
-      "image": "https://www.infobae.com/resizer/v2/HLLYPNCJVBF4DDHXTIFGMAXZUE.jpg?auth=7c2eb6a72e2ce9f17d6bb0a4d97e919290dcbbd984be7f7494847618341897ea&smart=true&width=350&height=197&quality=85"
+      "title": "El Comando Antiextorsión y Secuestro en Caracas, un nuevo centro clandestino de detención al servicio de Diosdado Cabello",
+      "link": "https://www.infobae.com/venezuela/2026/02/05/el-comando-antiextorsion-y-secuestro-en-caracas-un-nuevo-centro-clandestino-de-detencion-al-servicio-de-diosdado-cabello/",
+      "image": "https://www.infobae.com/resizer/v2/LNHATLDPF5G4NOSGAKXQBI65RM.jpg?auth=9ab2e3c41cdfa110912c2fed4dd7b04cc01a1f2208d9edab82e567b7f5558f04&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cuba dice estar dispuesta a dialogar con EE.UU., pero descarta un cambio de régimen",
-      "link": "https://cnnespanol.cnn.com/2026/02/04/latinoamerica/cuba-dialogo-eeuu-cambio-regimen-trump-presion-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254812749-20260204235500914-20260205002559233.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. quiere expulsar a China de Latinoamérica. El Canal de Panamá es la última prueba",
+      "link": "https://cnnespanol.cnn.com/2026/02/05/latinoamerica/analisis-eeuu-china-canal-panama-internacional-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/panama-20260205081959950.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/StXHhgIp-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T09:45:32.391Z"
+  "lastUpdate": "2026-02-05T10:41:20.786Z"
 };
