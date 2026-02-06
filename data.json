@@ -5,7 +5,7 @@
       "eur": "449,86"
     },
     "binance": {
-      "usdt": "544,80"
+      "usdt": "568,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "La amnistía de Delcy Rodríguez: ¿puente hacia la libertad o salvoconducto para el régimen?\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/la-amnistia-de-delcy-rodriguez-puente-hacia-la-libertad-o-salvoconducto-para-el-regimen/",
+      "title": "De Delcy Rodríguez a María Corina Machado: Trump perfila transición chavista y restauración opositora\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/de-delcy-rodriguez-a-maria-corina-machado-trump-perfila-transicion-chavista-y-restauracion-opositora/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -35,6 +35,12 @@
       "title": "VIDEO: Delcy Rodríguez agradeció a la AN por la Ley de Amnistía: «Debemos superar nuestras diferencias»",
       "link": "https://caraotadigital.net/venezuela/video-delcy-rodriguez-agradecio-a-la-an-por-la-ley-de-amnistia-debemos-superar-nuestras-diferencias/",
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Rodriguez-CD.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "GONZALO HIMIOB ADVIRTIÓ QUE SE DESCONOCE EL ARTICULADO DE LA LEY DE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/02/gonzalo-himiob-advirtio-que-se-desconoce-el-articulado-de-la-ley-de-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/vuelos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-06T08:42:30.652Z"
+  "lastUpdate": "2026-02-06T09:43:40.819Z"
 }
