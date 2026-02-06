@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "449,86"
     },
     "binance": {
-      "usdt": "542,80"
+      "usdt": "563,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. quiere expulsar a China de Latinoamérica y el canal de Panamá es la más reciente disputa",
-      "link": "https://cnnespanol.cnn.com/2026/02/05/latinoamerica/analisis-eeuu-china-canal-panama-internacional-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/panama-20260205081959950.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cuba califica de “hipócrita” la ayuda humanitaria de EE.UU. en medio de problemas energéticos",
+      "link": "https://cnnespanol.cnn.com/2026/02/05/latinoamerica/cuba-hipocrita-ayuda-humanitaria-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2259108288.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
       "title": "VIDEO: Delcy Rodríguez agradeció a la AN por la Ley de Amnistía: «Debemos superar nuestras diferencias»",
       "link": "https://caraotadigital.net/venezuela/video-delcy-rodriguez-agradecio-a-la-an-por-la-ley-de-amnistia-debemos-superar-nuestras-diferencias/",
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Rodriguez-CD.jpg"
+    },
+    {
+      "source": "Caracol Noticias",
+      "title": "Cepeda denunciará a magistrado y conjuez del CNE que votaron contra su participación en consulta",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/cepeda-denunciara-a-magistrado-y-conjuez-del-cne-que-votaron-contra-su-participacion-en-consulta-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1101010/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2F50%2F32c2553a4e68ad565406b6d0e4b9%2Fivan-cepeda-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -49,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/vuelos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-06T02:07:05.205Z"
+  "lastUpdate": "2026-02-06T04:47:35.433Z"
 };
