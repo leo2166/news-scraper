@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "449,86"
     },
     "binance": {
-      "usdt": "576,00"
+      "usdt": "578,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "De Delcy Rodríguez a María Corina Machado: Trump perfila transición chavista y restauración opositora\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/de-delcy-rodriguez-a-maria-corina-machado-trump-perfila-transicion-chavista-y-restauracion-opositora/",
+      "title": "Alonso Medina Roa sobre la Ley de Amnistía: \"Sin voluntad política y diálogo no habrá reconstrucción social\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/alonso-medina-roa-sobre-la-ley-de-amnistia-sin-voluntad-politica-y-dialogo-no-habra-reconstruccion-social/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Al menos 6 niños fueron detenidos en Minnesota y trasladados a Texas",
-      "link": "https://cnnespanol.cnn.com/2026/02/06/eeuu/ninos-detenidos-minnesota-ice-texas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ninos-minnesota.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump compartió un video racista que representa a los Obama como simios",
+      "link": "https://cnnespanol.cnn.com/2026/02/06/eeuu/trump-video-racista-obama-simios-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2168110364-20260206141532389.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "EN FOTOS: Venezolano acusado de vínculos con el Tren de Aragua es expulsado de Argentina",
-      "link": "https://caraotadigital.net/mundo/venezolano-acusado-de-vinculos-con-el-tren-de-aragua-es-expulsado-de-argentina/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/imageargentinatren11.jpg"
+      "title": "Entraron a un ascensor con globos llenos de hidrógeno y causaron una impactante explosión, todo quedó grabado",
+      "link": "https://caraotadigital.net/mundo/entraron-a-un-ascensor-con-globos-llenos-de-hidrogeno-y-causaron-una-impactante-explosion-todo-quedo-grabado/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/ascensor.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -43,17 +43,11 @@ window.DASHBOARD_DATA = {
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/107e19d/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F75%2F7e%2F5f980ad746a7ac396db705d61689%2Fatentado-contra-esquema-de-seguridad-de-jairo-castellanos.jpg"
     },
     {
-      "source": "La Verdad",
-      "title": "Reportan hurto de cableado eléctrico de viviendas de San Jacinto",
-      "link": "https://laverdad.com/reportan-hurto-de-cableado-electrico-de-viviendas-de-san-jacinto/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Venezuela-Clasico-Mundial-de-Baseball.jpg"
-    },
-    {
       "source": "Diario Versión Final",
-      "title": "La UE asigna 52 millones de euros en ayuda humanitaria para venezolanos en 2026",
-      "link": "https://diarioversionfinal.com/mundo/la-ue-asigna-52-millones-de-euros-en-ayuda-humanitaria-para-venezolanos-en-2026/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/06/Vladimir-Padrino-Lopez-25-06-2022-EFE-750x430.jpg"
+      "title": "Secretario de Energía de EE. UU. visitará Venezuela \"próximamente” para reunirse con autoridades",
+      "link": "https://diarioversionfinal.com/mundo/secretario-de-energia-de-ee-uu-visitara-venezuela-proximamente-para-reunirse-con-autoridades/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/file_20240423180122.webp"
     }
   ],
-  "lastUpdate": "2026-02-06T17:42:05.371Z"
+  "lastUpdate": "2026-02-06T18:52:56.406Z"
 };
