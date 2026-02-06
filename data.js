@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "449,86"
     },
     "binance": {
-      "usdt": "573,50"
+      "usdt": "580,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "EN VIDEO: Exalcalde de Mérida, Carlos García, fue trasladado a un hospital por el ICE debido a una descompensación",
-      "link": "https://caraotadigital.net/eeuu/en-video-exalcalde-de-merida-carlos-garcia-fue-trasladado-a-un-hospital-por-el-ice-debido-a-una-descompensacion/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Carlos.jpg"
+      "title": "Bad Bunny convertirá el Super Bowl «en una gran fiesta»: «Llevaré mucho de mi cultura»",
+      "link": "https://caraotadigital.net/caraota-show/bad-bunny-convertira-el-super-bowl-en-una-gran-fiesta-llevare-mucho-de-mi-cultura/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/imagebadbunny991.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "OCARIZ: AMNISTÍA NO PUEDE SER CONDICIONADA A UNA LISTA",
+      "link": "https://noticierodigital.com/2026/02/ocariz-amnistia-no-puede-ser-condicionada-a-una-lista/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/carlos_ocariz_miranda_4dic2019.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Arrestan a hombre por golpear a su hermana",
-      "link": "https://laverdad.com/arrestan-a-hombre-por-golpear-a-su-hermana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Panama-8-7-Venezuela-J1-Serie-de-Las-Americas.jpg"
+      "title": "Fedenaga condena asesinato de ganadero y exige mayor “seguridad rural”",
+      "link": "https://laverdad.com/fedenaga-condena-asesinato-de-ganadero-y-exige-mayor-seguridad-rural/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Venezuela-Clasico-Mundial-de-Baseball.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cacería del ICE con datos de Medicaid pone en jaque a hospitales y pacientes inmigrantes",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-extra/caceria-del-ice-con-datos-de-medicaid-pone-en-jaque-a-hospitales-y-pacientes-inmigrantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-06-at-11.12.07-AM-1-750x430.jpeg"
+      "title": "Exasesor de Chávez señala a Jorge Rodríguez de traicionar a Maduro: “Es el dueño de Venezuela”",
+      "link": "https://diarioversionfinal.com/politica-dinero/exasesor-de-chavez-senala-a-jorge-rodriguez-de-traicionar-a-maduro-es-el-dueno-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-06-at-12.34.56-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-06T14:39:22.578Z"
+  "lastUpdate": "2026-02-06T15:40:44.159Z"
 };
