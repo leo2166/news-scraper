@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "449,86"
     },
     "binance": {
-      "usdt": "563,00"
+      "usdt": "542,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela aprobó en primera lectura la ley de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/05/el-parlamento-de-venezuela-aprobo-en-primera-lectura-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/4TDZ6AORQVGVFA3UKRSIVDXMQ4.JPG?auth=0c0aa7b7a219c31db41b51c2ae7a22452fae5a21cfc6f82d78429407dfaa60ee&smart=true&width=350&height=197&quality=85"
+      "title": "Avanza en el Parlamento de Venezuela la ley de amnistía: las claves del proyecto",
+      "link": "https://www.infobae.com/venezuela/2026/02/06/avanza-en-el-parlamento-de-venezuela-la-ley-de-amnistia-las-claves-del-proyecto/",
+      "image": "https://www.infobae.com/resizer/v2/HTSKRTV5FBGBRILJQUY4NDRPL4.JPG?auth=ba1ffa3a4e79e406e9b841ddc870228aba69186613d003c6977554b8fea1b86f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Asamblea de Venezuela aprueba en primera discusión la ley de amnistía: ¿qué sigue?",
-      "link": "https://cnnespanol.cnn.com/2026/02/05/venezuela/asamblea-nacional-venezuela-ley-amnistia-presos-politicos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2258534748.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. quiere expulsar a China de Latinoamérica y el canal de Panamá es la más reciente disputa",
+      "link": "https://cnnespanol.cnn.com/2026/02/05/latinoamerica/analisis-eeuu-china-canal-panama-internacional-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/panama-20260205081959950.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "El narcotráfico en el Caribe está “perdiendo la batalla” ante despliegue militar de EEUU, esto dice el Secretario de Guerra",
-      "link": "https://caraotadigital.net/eeuu/el-narcotrafico-en-el-caribe-esta-perdiendo-la-batalla-ante-despliegue-militar-de-eeuu-esto-dice-el-secretario-de-guerra/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/10/Pete-Hegseth.jpg"
-    },
-    {
-      "source": "Caracol Noticias",
-      "title": "Se avecina segundo frente frío en Colombia y afectará varias regiones del país: esto dijo el Ideam",
-      "link": "https://www.noticiascaracol.com/colombia/segundo-frente-frio-en-colombia-se-estaria-acercando-y-afectaria-a-varias-regiones-del-pais-esto-dijo-el-ideam-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0ea76fd/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4c%2Fb5%2Fe6fc95724e42b7df922e38bac78b%2Fdiseno.jpg"
+      "title": "VIDEO: Delcy Rodríguez agradeció a la AN por la Ley de Amnistía: «Debemos superar nuestras diferencias»",
+      "link": "https://caraotadigital.net/venezuela/video-delcy-rodriguez-agradecio-a-la-an-por-la-ley-de-amnistia-debemos-superar-nuestras-diferencias/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Rodriguez-CD.jpg"
     },
     {
       "source": "La Verdad",
@@ -52,8 +46,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Ley de Amnistía excluye la violación de derechos humanos: “No aceptamos la impunidad”",
       "link": "https://diarioversionfinal.com/politica-dinero/ley-de-amnistia-excluye-la-violacion-de-derechos-humanos-no-aceptamos-la-impunidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/05/ConocoPhillips-Pdvsa-Curazao.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/vuelos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-05T23:24:12.360Z"
+  "lastUpdate": "2026-02-06T02:07:05.205Z"
 };
