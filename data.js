@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "381,11",
-      "eur": "449,86"
+      "usd": "382,63",
+      "eur": "451,88"
     },
     "binance": {
-      "usdt": "583,00"
+      "usdt": "581,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIDEO VIRAL: Jorge Rodríguez confirma liberación ‘todos los presos políticos’ desde Zona 7 de Boleíta",
-      "link": "https://caraotadigital.net/venezuela/video-viral-jorge-rodriguez-confirma-liberacion-todos-los-presos-politicos-desde-zona-7-de-boleita/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Rodriguez-Zona-7-CD.jpg"
+      "title": "Filtran las primeras palabras de Luigi Mangione ante el tribunal, fijaron fecha para su juicio por asesinato",
+      "link": "https://caraotadigital.net/eeuu/filtran-las-primeras-palabras-de-luigi-mangione-ante-el-tribunal-fijaron-fecha-para-su-juicio-por-asesinato/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/12/Luigi-Mangione-1-1-1.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,8 +52,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "Jorge Rodríguez visita Zona 7 de la PNB: \"A más tardar el viernes estarán todos sueltos\"",
       "link": "https://diarioversionfinal.com/politica-dinero/jorge-rodriguez-visita-zona-7-de-la-pnb-y-promete-excarcelacion-a-familiares-de-presos-politicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-06-at-1.26.30-PM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/retornan-311-connacionales-a-venezuela-cortesia-55822-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-06T21:31:25.289Z"
+  "lastUpdate": "2026-02-06T22:25:32.961Z"
 };
