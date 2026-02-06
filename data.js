@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "449,86"
     },
     "binance": {
-      "usdt": "563,89"
+      "usdt": "568,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Avanza en el Parlamento de Venezuela la ley de amnistía: las claves del proyecto",
-      "link": "https://www.infobae.com/venezuela/2026/02/06/avanza-en-el-parlamento-de-venezuela-la-ley-de-amnistia-las-claves-del-proyecto/",
-      "image": "https://www.infobae.com/resizer/v2/HTSKRTV5FBGBRILJQUY4NDRPL4.JPG?auth=ba1ffa3a4e79e406e9b841ddc870228aba69186613d003c6977554b8fea1b86f&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez afirmó que a ley de amnistía servirá para sellar la “paz” y la “reconciliación” en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/06/delcy-rodriguez-afirmo-que-a-ley-de-amnistia-servira-para-sellar-la-paz-y-la-reconciliacion-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/22REHGL245DOJJQPCBDVOTWBAU.jpg?auth=85aba287b44202e3f67304a7a0a3da2e7c979ab763d94a42edeee58cb4e6ee12&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/vuelos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-06T04:47:35.433Z"
+  "lastUpdate": "2026-02-06T05:54:25.089Z"
 };
