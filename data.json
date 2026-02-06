@@ -5,7 +5,7 @@
       "eur": "449,86"
     },
     "binance": {
-      "usdt": "568,35"
+      "usdt": "567,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Rodriguez-CD.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "GONZALO HIMIOB ADVIRTIÓ QUE SE DESCONOCE EL ARTICULADO DE LA LEY DE AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/02/gonzalo-himiob-advirtio-que-se-desconoce-el-articulado-de-la-ley-de-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Cepeda denunciará a magistrado y conjuez del CNE que votaron contra su participación en consulta",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/cepeda-denunciara-a-magistrado-y-conjuez-del-cne-que-votaron-contra-su-participacion-en-consulta-rg10",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ley de Amnistía excluye la violación de derechos humanos: “No aceptamos la impunidad”",
-      "link": "https://diarioversionfinal.com/politica-dinero/ley-de-amnistia-excluye-la-violacion-de-derechos-humanos-no-aceptamos-la-impunidad/",
+      "title": "Repsol reinicia importaciones de crudo venezolano y compra 2 millones de barriles para sus refinerías",
+      "link": "https://diarioversionfinal.com/politica-dinero/repsol-reinicia-importaciones-de-crudo-venezolano-y-compra-2-millones-de-barriles-para-sus-refinerias/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/vuelos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-06T09:43:40.819Z"
+  "lastUpdate": "2026-02-06T10:40:25.749Z"
 }
