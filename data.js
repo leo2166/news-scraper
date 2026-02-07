@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Camilo Romero renuncia a la consulta del Frente por la vida y apoyará la candidatura de Iván Cepeda",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/camilo-romero-renuncia-a-la-consulta-del-frente-por-la-vida-y-apoyara-la-candidatura-de-ivan-cepeda-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5095a5d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc2%2Fdd%2F56b5e77c4690951c70a07a1844c4%2Fcamilo-romero-e-ivan-cepeda.jpg"
+      "title": "Estremecedor relato de Jairo Castellanos tras asesinato de sus escoltas en Arauca: \"Dejan dos niños\"",
+      "link": "https://www.noticiascaracol.com/colombia/estremecedor-relato-de-jairo-castellanos-tras-asesinato-de-sus-escoltas-en-arauca-dejan-dos-ninos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/499daf7/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2Feb%2F1b2f43a84f44a6b83342db9748bb%2Ftamano-imagenes-16.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/Inflacion-en-dolares-960x640-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-07T02:02:36.103Z"
+  "lastUpdate": "2026-02-07T04:28:12.851Z"
 };
