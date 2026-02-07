@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "571,32"
+      "usdt": "562,32"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Mujer que apareció junto a Jorge Rodríguez en Zona 7 es miembro del Comité de Presos Políticos? Esto dijo la organización",
-      "link": "https://caraotadigital.net/venezuela/mujer-que-aparecio-junto-a-jorge-rodriguez-en-zona-7-es-miembro-del-comite-de-presos-politicos-esto-dijo-la-organizacion/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/presos-politicos-1.jpg"
+      "title": "VIDEO: Carro estalló en llamas en plena avenida de Florida, el conductor escapó por poco",
+      "link": "https://caraotadigital.net/eeuu/video-carro-estallo-en-llamas-en-plena-avenida-de-florida-el-conductor-escapo-por-poco/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/explosion-carro.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Atentado en batallón de Ocaña deja varios militares heridos; Ejército atribuyó ataque al ELN",
-      "link": "https://www.noticiascaracol.com/colombia/atentado-en-batallon-de-ocana-deja-varios-militares-heridos-ejercito-atribuyo-ataque-al-eln-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e47f48b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F03%2F29%2Fa399816d44fa957d0a90b6f38c57%2Ftamano-imagenes-49.png"
+      "title": "Avalancha por lluvias en Nariño sepultó varias viviendas y dejó siete personas muertas; esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/avalancha-por-lluvias-en-narino-sepulto-varias-viviendas-y-dejo-siete-personas-muertas-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ff6b9f4/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F07%2F42%2F8cd4ec0c4e0ab0744b2b79f79502%2Ftamano-imagenes-51.png"
     },
     {
       "source": "La Verdad",
-      "title": "Llegan a Maiquetía 311 migrantes repatriados desde EE. UU.",
-      "link": "https://laverdad.com/llegan-a-maiquetia-311-migrantes-repatriados-desde-ee-uu/",
+      "title": "Seis aerolíneas internacionales reanudarán operaciones al país entre febrero y marzo",
+      "link": "https://laverdad.com/seis-aerolineas-internacionales-reanudaran-operaciones-al-pais-entre-febrero-y-marzo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Jesus-Luzardo-Venezuela-Clasico-Mundial-de-Beisbol.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Abrazo de mujer con Jorge Rodríguez en Zona 7 fue planificado: \"Condenamos uso del dolor\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/abrazo-de-mujer-con-jorge-rodriguez-en-zona-7-fue-planificado-condenamos-uso-del-dolor/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-07-at-10.43.40-AM.jpeg"
+      "title": "El Nuevo Herald: Presos políticos liberados en Venezuela relatan abusos y condiciones inhumanas en prisión",
+      "link": "https://diarioversionfinal.com/politica-dinero/el-nuevo-herald-presos-politicos-liberados-en-venezuela-relatan-abusos-y-condiciones-inhumanas-en-prision/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/eln_catatumbo_0-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-07T15:26:57.325Z"
+  "lastUpdate": "2026-02-07T16:31:14.711Z"
 };
