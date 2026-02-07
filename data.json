@@ -5,7 +5,7 @@
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "576,50"
+      "usdt": "575,48"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La encargada de negocios de EEUU en Caracas se reunió con representantes de la petrolera Chevron",
-      "link": "https://www.infobae.com/venezuela/2026/02/07/la-encargada-de-negocios-de-eeuu-en-caracas-se-reunio-con-representantes-de-la-petrolera-chevron/",
-      "image": "https://www.infobae.com/resizer/v2/EEHGUAA6SZCI7NL47RKOULADZE.PNG?auth=dfd0379c267b29d09bcb291812a7936986c448196b4d6e7466ed65302ce875bf&smart=true&width=350&height=197&quality=85"
+      "title": "Las operaciones de EEUU contra el narco reavivaron la extorsión del ELN a los ganaderos en la frontera entre Colombia y Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/07/las-operaciones-de-eeuu-contra-el-narco-reavivaron-la-extorsion-del-eln-a-los-ganaderos-en-la-frontera-entre-colombia-y-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/7LLNDDT5LFHD7EHX4H3L5IGHP4.png?auth=cc3a634575d09d4defcd203adf3e08da772e32db5fddbca6ef29a547b943c65b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,22 +38,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así quedaron conformadas las tres consultas que se votarán el 8 de marzo: este será el tarjetón",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/asi-quedaron-conformadas-las-tres-consultas-que-se-votaran-el-8-de-marzo-este-sera-el-tarjeton-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/efff77c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4e%2Ffc%2Fa444448a4d49a8cd84d370b97c67%2Ftarjeton-de-las-consultas-interpartidistas-2026.jpg"
+      "title": "Atentado en batallón de Ocaña deja varios militares heridos; Ejército atribuyó ataque al ELN",
+      "link": "https://www.noticiascaracol.com/colombia/atentado-en-batallon-de-ocana-deja-varios-militares-heridos-ejercito-atribuyo-ataque-al-eln-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e47f48b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F03%2F29%2Fa399816d44fa957d0a90b6f38c57%2Ftamano-imagenes-49.png"
     },
     {
       "source": "La Verdad",
-      "title": "Funvisis reporta 3 temblores en Bachaquero y uno en Villa del Rosario",
-      "link": "https://laverdad.com/funvisis-reporta-3-temblores-en-bachaquero-y-uno-en-villa-del-rosario/",
+      "title": "Comité aclara que mujer que abrazó a Rodríguez en Zona 7 no es familiar de presos políticos",
+      "link": "https://laverdad.com/comite-aclara-que-mujer-que-abrazo-a-rodriguez-en-zona-7-no-es-familiar-de-presos-politicos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Jesus-Luzardo-Venezuela-Clasico-Mundial-de-Beisbol.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Abrazo de mujer con Jorge Rodríguez en Zona 7 fue planificado: \"Condenamos uso del dolor\"",
       "link": "https://diarioversionfinal.com/politica-dinero/abrazo-de-mujer-con-jorge-rodriguez-en-zona-7-fue-planificado-condenamos-uso-del-dolor/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-07-at-8.52.17-AM.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-07-at-9.41.51-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-07T13:44:30.445Z"
+  "lastUpdate": "2026-02-07T14:27:05.169Z"
 }
