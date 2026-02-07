@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "575,10"
+      "usdt": "549,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/Inflacion-en-dolares-960x640-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-07T09:31:44.147Z"
+  "lastUpdate": "2026-02-07T10:27:18.170Z"
 };
