@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Venezuela-invierno-CD.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "JEFA DE MISIÓN DE EE. UU. EN VENEZUELA COORDINA CON CHEVRON LA REACTIVACIÓN ECONÓMICA",
-      "link": "https://noticierodigital.com/2026/02/jefa-de-mision-de-ee-uu-en-venezuela-coordina-con-chevron-la-reactivacion-economica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Laura-Dogu-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Estremecedor relato de Jairo Castellanos tras asesinato de sus escoltas en Arauca: \"Dejan dos niños\"",
       "link": "https://www.noticiascaracol.com/colombia/estremecedor-relato-de-jairo-castellanos-tras-asesinato-de-sus-escoltas-en-arauca-dejan-dos-ninos-rg10",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/Inflacion-en-dolares-960x640-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-07T08:32:59.572Z"
+  "lastUpdate": "2026-02-07T09:31:44.147Z"
 };
