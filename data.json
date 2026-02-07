@@ -5,7 +5,7 @@
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "573,10"
+      "usdt": "575,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela aumenta las importaciones de materias primas clave para la producción de petróleo",
-      "link": "https://www.infobae.com/venezuela/2026/02/07/venezuela-aumenta-las-importaciones-de-materias-primas-clave-para-la-produccion-de-petroleo/",
-      "image": "https://www.infobae.com/resizer/v2/YSH3I5OAZRDSBMTU4CSFSGJNKA.JPG?auth=8fa4c7caf9c5dcf4a3e1cc2c27fcc94b9d0066059b8cd5668c26447ca6ac7651&smart=true&width=350&height=197&quality=85"
+      "title": "La Plataforma Unitaria Democrática de Venezuela advirtió que el proyecto de amnistía presenta “omisiones graves”",
+      "link": "https://www.infobae.com/venezuela/2026/02/07/la-plataforma-unitaria-democratica-de-venezuela-advirtio-que-el-proyecto-de-amnistia-presenta-omisiones-graves/",
+      "image": "https://www.infobae.com/resizer/v2/6WIUPOTACFF4LP72FUDHYMCB54.jpg?auth=78a0576597532fcbc62b73e5b3f59ba5ef94babf9aa28d523bea6791788afa4c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/Inflacion-en-dolares-960x640-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-07T05:42:27.926Z"
+  "lastUpdate": "2026-02-07T06:42:46.608Z"
 }
