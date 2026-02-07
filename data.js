@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "574,94"
+      "usdt": "573,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Amnistía en Venezuela: el presidente del Parlamento se reunió con familiares de presos políticos y prometió liberaciones",
-      "link": "https://www.infobae.com/venezuela/2026/02/06/amnistia-en-venezuela-el-presidente-del-parlamento-se-reunio-con-familiares-de-presos-politicos-y-prometio-liberaciones/",
-      "image": "https://www.infobae.com/resizer/v2/YXSAVAF7HBE4LHAETZDF5IZ2VA.JPG?auth=7a580d9cf3e92b032cd15f2e6d140870eee94e6e02c288c4a0a1bdd47f033607&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela aumenta las importaciones de materias primas clave para la producción de petróleo",
+      "link": "https://www.infobae.com/venezuela/2026/02/07/venezuela-aumenta-las-importaciones-de-materias-primas-clave-para-la-produccion-de-petroleo/",
+      "image": "https://www.infobae.com/resizer/v2/YSH3I5OAZRDSBMTU4CSFSGJNKA.JPG?auth=8fa4c7caf9c5dcf4a3e1cc2c27fcc94b9d0066059b8cd5668c26447ca6ac7651&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump compartió un video racista que representa a los Obama como simios",
-      "link": "https://cnnespanol.cnn.com/2026/02/06/eeuu/trump-video-racista-obama-simios-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2168110364-20260206141532389.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Esta niña de 10 años pensó que ICE la llevaría a la escuela; terminó en un centro de detención",
+      "link": "https://cnnespanol.cnn.com/2026/02/06/eeuu/ninos-detenidos-minnesota-ice-texas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ninos-minnesota.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Mérida se prepara para la 6ta edición del desafío Gran Fondo Collado del Cóndor",
-      "link": "https://caraotadigital.net/caraota-tips/6ta-edicion-del-desafio-gran-fondo-collado-del-condor/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/gran.jpg"
+      "title": "EN VIDEO: Así desfiló el esquiador venezolano Nicolás Claveau-Laviolette en los Juegos Olímpicos de Invierno",
+      "link": "https://caraotadigital.net/deportes/en-video-asi-desfilo-el-esquiador-venezolano-nicolas-claveau-laviolette-en-los-juegos-olimpicos-de-invierno/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Venezuela-invierno-CD.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jorge Rodríguez visita Zona 7 de la PNB: \"A más tardar el viernes estarán todos sueltos\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/jorge-rodriguez-visita-zona-7-de-la-pnb-y-promete-excarcelacion-a-familiares-de-presos-politicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-guerra-afp-1068x712-1-750x430.jpg"
+      "title": "Foro Penal cuestiona borrador de la Ley de Amnistía: \"Debe cubrir sanciones más allá de lo penal\"",
+      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-cuestiona-borrador-de-la-ley-de-amnistia-debe-cubrir-sanciones-mas-alla-de-lo-penal/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/Inflacion-en-dolares-960x640-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-06T23:27:05.935Z"
+  "lastUpdate": "2026-02-07T02:02:36.103Z"
 };
