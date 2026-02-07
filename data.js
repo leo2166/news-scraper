@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "562,87"
+      "usdt": "566,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Las operaciones de EEUU contra el narco reavivaron la extorsión del ELN a los ganaderos en la frontera entre Colombia y Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/07/las-operaciones-de-eeuu-contra-el-narco-reavivaron-la-extorsion-del-eln-a-los-ganaderos-en-la-frontera-entre-colombia-y-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/7LLNDDT5LFHD7EHX4H3L5IGHP4.png?auth=cc3a634575d09d4defcd203adf3e08da772e32db5fddbca6ef29a547b943c65b&smart=true&width=350&height=197&quality=85"
+      "title": "Masiva concentración frente al Helicoide para exigir la liberación de todos los presos políticos venezolanos: “La dignidad venció al miedo”",
+      "link": "https://www.infobae.com/venezuela/2026/02/07/masiva-concentracion-frente-al-helicoide-para-exigir-la-liberacion-de-todos-los-presos-politicos-venezolano-la-dignidad-vencio-al-miedo/",
+      "image": "https://www.infobae.com/resizer/v2/FH25E2Q4ENA7VBA6NA75VV5ZZ4.JPG?auth=c0ba585fdc0c56bc039b56bd53f652678380189d3aa4bbdbc03c1386b47f7c68&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela en transición: reformas, excarcelaciones y la esperanza del retorno\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/venezuela-en-transicion-reformas-excarcelaciones-y-la-esperanza-del-retorno/",
+      "title": "Activistas y familiares de presos políticos marcharon hasta El Helicoide: \"No tenemos miedo\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-y-activistas-marcharon-hasta-el-helicoide-no-tenemos-miedo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Exgrandeliga cubano Yasiel Puig fue declarado culpable por varios delitos en EEUU, esta sería la condena que podría recibir",
-      "link": "https://caraotadigital.net/deportes/exgrandeliga-cubano-yasiel-puig-fue-declarado-culpable-por-varios-delitos-en-eeuu-esta-seria-la-condena-que-podria-recibir/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/yasiel-puig-1.jpg"
+      "title": "Lo que dijo un experto tras casos de complicaciones por anestesia supuestamente vinculados a la genética venezolana",
+      "link": "https://caraotadigital.net/venezuela/lo-que-dijo-un-experto-tras-casos-de-complicaciones-por-anestesia-supuestamente-vinculados-a-la-genetica-venezolana/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/anestesia.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Plataforma Unitaria cuestiona “exclusiones y omisiones” en la ley de amnistía",
-      "link": "https://laverdad.com/plataforma-unitaria-cuestiona-exclusiones-y-omisiones-en-la-ley-de-amnistia/",
+      "title": "Familiares de presos políticos marchan al Helicoide: “¡No tenemos miedo!”",
+      "link": "https://laverdad.com/familiares-de-presos-politicos-marchan-al-helicoide-no-tenemos-miedo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Miriah-Olimpiadas-invierno-GettyImages-2259642624.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Familiares de presos políticos en Venezuela realizan jornada de oración por libertad",
       "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-en-venezuela-realizan-jornada-de-oracion-por-libertad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-07-at-1.16.12-PM-696x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-07-at-2.01.27-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-07T17:26:18.043Z"
+  "lastUpdate": "2026-02-07T18:36:39.362Z"
 };
