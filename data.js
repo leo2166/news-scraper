@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "565,67"
+      "usdt": "563,75"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Foro Penal informó que al menos 30 presos políticos venezolanos fueron excarcelados este domingo por el régimen",
-      "link": "https://www.infobae.com/venezuela/2026/02/08/la-ong-foro-penal-informo-que-al-menos-18-presos-politicos-venezolanos-fueron-excarcelados-este-domingo-por-el-regimen/",
-      "image": "https://www.infobae.com/resizer/v2/SN4PMXL7ZVA5NKIZ6Q3BJD5ECA.jpg?auth=e33c873dba8d0f4664d55339388d283bc5f5d1a942a53b60ffe3314110b37d39&smart=true&width=350&height=197&quality=85"
+      "title": "“Queremos reconciliación, pero con la verdad”: las primeras reacciones de los presos políticos excarcelados este domingo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/08/queremos-reconciliacion-pero-con-la-verdad-las-primeras-reacciones-de-los-presos-politicos-excarcelados-este-domingo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/PVQBQBSCMVDNFMCSKZTNPJNHXA.JPG?auth=3ace6f9384525b642c40aff767ba83e7be56d21d56c2016d1916b14d05387b5f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Congresistas de Florida celebraron excarcelación de Juan Pablo Guanipa",
-      "link": "https://caraotadigital.net/eeuu/congresistas-de-florida-celebraron-excarcelacion-de-juan-pablo-guanipa/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Maria-Elvira-Salazar-Mario-Diaz-Balart-Carlos-Gimenez-y-Rick-Scott-EFE.jpg"
+      "title": "CAF 2026: El asfalto que nos une y el alma que se expande",
+      "link": "https://caraotadigital.net/opinion/caf-2026-el-asfalto-que-nos-une-y-el-alma-que-se-expande/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Proyecto-nuevo-2.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "🔴 Selección Colombia vs. Venezuela, EN VIVO: minuto a minuto Sudamericano femenino Sub-20",
-      "link": "https://www.noticiascaracol.com/golcaracol/partidos????NC",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7ce7e6d/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff0%2F16%2Fe21eac3a4a788b51f8049cd52d96%2Fseleccion-sub-20.jpg"
+      "title": "Bad Bunny hoy en Super Bowl 2026: horarios, detalles del evento y cómo verlo desde Colombia",
+      "link": "https://www.noticiascaracol.com/entretenimiento/bad-bunny-hoy-en-super-bowl-2026-horarios-detalles-del-evento-y-como-verlo-desde-colombia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/808dfb7/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2F88%2Fe576fb6a47a69034fce62d1590de%2Fbad-bunny.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Foro Penal confirma 30 excarcelaciones: Perkins Rocha, Dignora Hernández y María Oropeza en la lista",
-      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-confirma-30-excarcelaciones-perkins-rocha-dignora-hernandez-y-maria-oropeza-en-la-lista/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-08-at-3.15.36-PM-750x430.jpeg"
+      "title": "“Cuando alguien está preso, su familia sufre”: Juan Pablo Guanipa protesta frente a El Helicoide",
+      "link": "https://diarioversionfinal.com/politica-dinero/cuando-alguien-esta-preso-su-familia-sufre-juan-pablo-guanipa-protesta-frente-a-el-helicoide/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/efd-750x430.png"
     }
   ],
-  "lastUpdate": "2026-02-08T22:28:18.502Z"
+  "lastUpdate": "2026-02-08T23:32:09.852Z"
 };
