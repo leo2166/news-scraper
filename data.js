@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Archivos revelan que Epstein buscó acercarse a Putin y a altos funcionarios rusos",
-      "link": "https://cnnespanol.cnn.com/2026/02/08/mundo/epstein-funcionarios-rusos-putin-archivos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2259456142-20260208133414080.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Así vive Minneapolis tras la “reducción” de ICE",
+      "link": "https://cnnespanol.cnn.com/2026/02/08/eeuu/operativos-ice-minneapolis-familias-escondidas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-0.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Adiós a un grande de la gaita: Falleció el compositor zuliano Renato Aguirre a los 78 años",
-      "link": "https://caraotadigital.net/caraota-show/adios-a-un-grande-de-la-gaita-fallecio-el-compositor-zuliano-renato-aguirre-a-los-78-anos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/renato-aguirre.jpg"
+      "title": "El insólito error de una plataforma de criptomonedas que convirtió a sus clientes en multimillonarios por unos instantes",
+      "link": "https://caraotadigital.net/tendencias/el-insolito-error-de-una-plataforma-de-criptomonedas-que-convirtio-a-sus-clientes-en-multimillonarios-por-unos-instantes/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/Criptomonedas-CD.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,8 +44,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Excarcelan a la abogada y activista Naomi Arnaudez luego de 300 días detenida",
-      "link": "https://laverdad.com/excarcelan-a-la-abogada-y-activista-naomi-arnaudez-luego-de-300-dias-detenida/",
+      "title": "González Urrutia celebra excarcelaciones: “La libertad personal es un derecho fundamental”",
+      "link": "https://laverdad.com/gonzalez-urrutia-celebra-excarcelaciones-la-libertad-personal-es-un-derecho-fundamental/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/SaveClip.App_626517030_18554550109017697_7816180784225291009_n.jpg"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-08-at-3.15.36-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-08T19:25:44.416Z"
+  "lastUpdate": "2026-02-08T20:29:02.975Z"
 };
