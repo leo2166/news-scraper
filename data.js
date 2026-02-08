@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen chavista excarceló al preso político venezolano Juan Pablo Guanipa",
-      "link": "https://www.infobae.com/venezuela/2026/02/08/el-regimen-chavista-excarcelo-al-preso-politico-venezolano-juan-pablo-guanipa/",
-      "image": "https://www.infobae.com/resizer/v2/EUFEEEWHDBHQXFMVPFXZOLB6GY.jpg?auth=47326215144ecddb90116464d9f6903af55700407b379277c0d75a20b841744e&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Foro Penal informó que al menos 18 presos políticos venezolanos fueron excarcelados este domingo por el régimen",
+      "link": "https://www.infobae.com/venezuela/2026/02/08/la-ong-foro-penal-informo-que-al-menos-18-presos-politicos-venezolanos-fueron-excarcelados-este-domingo-por-el-regimen/",
+      "image": "https://www.infobae.com/resizer/v2/SN4PMXL7ZVA5NKIZ6Q3BJD5ECA.jpg?auth=e33c873dba8d0f4664d55339388d283bc5f5d1a942a53b60ffe3314110b37d39&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Juan Pablo Guanipa fue excarcelado luego de ocho meses de detención\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/juan-pablo-guanipa-fue-excarcelado-luego-de-ocho-meses-de-detencion/",
+      "title": "Excarcelados Perkins Rocha, Jesús Armas y Luis Tarbay\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/excarcelados-perkins-rocha-jesus-armas-y-luis-tarbay/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,20 +32,20 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El insólito error de una plataforma de criptomonedas que convirtió a sus clientes en multimillonarios por unos instantes",
-      "link": "https://caraotadigital.net/tendencias/el-insolito-error-de-una-plataforma-de-criptomonedas-que-convirtio-a-sus-clientes-en-multimillonarios-por-unos-instantes/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/12/Criptomonedas-CD.jpg"
+      "title": "#8Feb | Esta es la lista de presos políticos liberados en el país que han sido verificados",
+      "link": "https://caraotadigital.net/venezuela/8feb-esta-es-la-lista-de-presos-politicos-liberados-en-el-pais-que-han-sido-verificados/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Proyecto-nuevo-1.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Luis Díaz y su primer triplete de goles con Bayern Múnich: Hoffenheim sufrió al colombiano",
-      "link": "https://www.noticiascaracol.com/golcaracol/colombianos-en-el-exterior/luis-diaz-y-su-primer-triplete-de-goles-con-bayern-munich-hoffenheim-sufrio-al-colombiano-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/52b6cb2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F54%2F03%2F63a189084a9491f888ddf9a8fe55%2Fdiseno-sin-titulo-2026-02-08t132158-230.jpg"
+      "title": "🔴 Selección Colombia vs. Venezuela, EN VIVO: minuto a minuto Sudamericano femenino Sub-20",
+      "link": "https://www.noticiascaracol.com/golcaracol/partidos????NC",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7ce7e6d/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff0%2F16%2Fe21eac3a4a788b51f8049cd52d96%2Fseleccion-sub-20.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "González Urrutia celebra excarcelaciones: “La libertad personal es un derecho fundamental”",
-      "link": "https://laverdad.com/gonzalez-urrutia-celebra-excarcelaciones-la-libertad-personal-es-un-derecho-fundamental/",
+      "title": "Excarcelan a Perkins Rocha y a otros siete presos políticos este domingo",
+      "link": "https://laverdad.com/excarcelan-a-perkins-rocha-y-a-otros-siete-presos-politicos-este-domingo/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/SaveClip.App_626517030_18554550109017697_7816180784225291009_n.jpg"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-08-at-3.15.36-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-08T20:29:02.975Z"
+  "lastUpdate": "2026-02-08T21:27:52.547Z"
 };
