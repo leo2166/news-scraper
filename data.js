@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "569,90"
+      "usdt": "569,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Ley de Amnistía: los dos escenarios dentro del chavismo y las críticas que han surgido\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/ley-de-amnistia-los-dos-escenarios-dentro-del-chavismo-y-las-criticas-que-han-surgido/",
+      "title": "\"Que sean todos\": familiares de presos políticos exhibieron pancartas durante el Maratón CAF en Caracas\nPROTESTAS",
+      "link": "https://www.elnacional.com/2026/02/que-sean-todos-familiares-de-presos-politicos-exhibieron-pancartas-durante-el-maraton-caf-en-caracas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "FOTOS: Familiares desplegaron pancartas en el Maratón CAF este 8Feb para exigir la liberación de todos los presos políticos",
-      "link": "https://caraotadigital.net/venezuela/fotos-familiares-desplegaron-pancartas-en-el-maraton-caf-este-8feb-para-exigir-la-liberacion-de-todos-los-presos-politicos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/maraton-caf.jpg"
+      "title": "Arreaza habló del proyecto de Ley de Amnistía y descartó derogación de otras normativas",
+      "link": "https://caraotadigital.net/venezuela/arreaza-hablo-del-proyecto-de-ley-de-amnistia-y-descarto-derogacion-de-otras-normativas/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/JORGE-ARREAZA.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Críticas al régimen venezolano por no publicar lista de excarcelados: \"Justicia se ve lejana\"",
-      "link": "https://www.noticiascaracol.com/mundo/criticas-al-regimen-venezolano-por-no-publicar-lista-de-excarcelados-justicia-se-ve-lejana-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e548b82/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F47%2F86%2F66c5052c4ef4afbeb43694c8e15b%2Fdiosdado-cabello-jorge-rodriguez-delcy-rodriguez-y-vladimir-padrino.jpg"
+      "title": "Asesinan a dos policías durante operativo en Anorí, Antioquia; un tercer uniformado logró huir",
+      "link": "https://www.noticiascaracol.com/colombia/asesinan-a-dos-policias-durante-operativo-en-anori-antioquia-un-tercer-uniformado-logro-huir-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7d45857/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5b%2Ffb%2F05dde2604c71bfb0e15b2dc11ea1%2Ftamano-imagenes-30.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez: “La democracia venezolana está más fortalecida que nunca”",
-      "link": "https://laverdad.com/delcy-rodriguez-la-democracia-venezolana-esta-mas-fortalecida-que-nunca/",
+      "title": "ABC: Zapatero propone a Rodríguez Torres como posible ministro de Defensa",
+      "link": "https://laverdad.com/abc-zapatero-propone-a-rodriguez-torres-como-posible-ministro-de-defensa/",
       "image": "https://laverdad.com/wp-content/uploads/2024/11/gaitero1-1-1.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Foro Penal valora diálogo con Gobierno venezolano sobre la ley de amnistía",
       "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-valora-dialogo-con-gobierno-venezolano-sobre-la-ley-de-amnistia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-08-at-10.40.27-AM-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-08-at-12.15.02-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-08T15:27:46.612Z"
+  "lastUpdate": "2026-02-08T16:32:43.270Z"
 };
