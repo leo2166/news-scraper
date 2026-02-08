@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "546,50"
+      "usdt": "546,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Comisión Especial de la Asamblea chavista recibió a varias ONG venezolanas para abordar la ley de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/07/la-comision-especial-de-la-asamblea-chavista-recibio-a-varias-ong-venezolanas-para-abordar-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/E77ZOTLIRZBPZBB5V55TWLXJ4E.jpeg?auth=95306b3c26bffbe45a60587c1979fe7e74906bd265056fde76d1c68096b8182d&smart=true&width=350&height=197&quality=85"
+      "title": "Foro Penal valoró de forma “positiva” la reunión por la ley de amnistía entre varias ONG y la Comisión de la Asamblea chavista",
+      "link": "https://www.infobae.com/venezuela/2026/02/08/foro-penal-valoro-de-forma-positiva-la-reunion-por-la-ley-de-amnistia-entre-varias-ong-y-la-comision-de-la-asamblea-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/SLWXQKAJJRBZTO7ACAXJHGHHBU.jpg?auth=842ab529ce6bae8258209819a26e855c07d843e1d1773fb20cf0acd3954e1c8c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/presos-politicos.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PADRINO LÓPEZ: «HOY NO EXISTE UN SOLDADO EXTRANJERO ARMADO OCUPANDO ESTA TIERRA»",
+      "link": "https://noticierodigital.com/2026/02/padrino-lopez-hoy-no-existe-un-soldado-extranjero-armado-ocupando-esta-tierra/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/vladimir-padrino-lopez-1-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "El cambio físico de Jhon Viáfara tras regresar a Colombia luego de condena en Estados Unidos",
       "link": "https://www.noticiascaracol.com/judicial/el-cambio-fisico-de-jhon-viafara-tras-regresar-a-colombia-luego-de-condena-en-estados-unidos-rg10",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/HAlmRtZXEAAaCb--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-08T07:39:25.130Z"
+  "lastUpdate": "2026-02-08T08:34:42.026Z"
 };
