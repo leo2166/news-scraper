@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "546,00"
+      "usdt": "571,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,7 +14,7 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal valoró de forma “positiva” la reunión por la ley de amnistía entre varias ONG y la Comisión de la Asamblea chavista",
+      "title": "El Foro Penal valoró la reunión por la ley de amnistía entre varias ONG y la Comisión de la Asamblea chavista: “Nos parece positivo”",
       "link": "https://www.infobae.com/venezuela/2026/02/08/foro-penal-valoro-de-forma-positiva-la-reunion-por-la-ley-de-amnistia-entre-varias-ong-y-la-comision-de-la-asamblea-chavista/",
       "image": "https://www.infobae.com/resizer/v2/SLWXQKAJJRBZTO7ACAXJHGHHBU.jpg?auth=842ab529ce6bae8258209819a26e855c07d843e1d1773fb20cf0acd3954e1c8c&smart=true&width=350&height=197&quality=85"
     },
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/HAlmRtZXEAAaCb--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-08T11:23:37.271Z"
+  "lastUpdate": "2026-02-08T12:52:16.681Z"
 };
