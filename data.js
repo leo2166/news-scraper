@@ -14,7 +14,7 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Foro Penal informó que al menos 18 presos políticos venezolanos fueron excarcelados este domingo por el régimen",
+      "title": "La ONG Foro Penal informó que al menos 30 presos políticos venezolanos fueron excarcelados este domingo por el régimen",
       "link": "https://www.infobae.com/venezuela/2026/02/08/la-ong-foro-penal-informo-que-al-menos-18-presos-politicos-venezolanos-fueron-excarcelados-este-domingo-por-el-regimen/",
       "image": "https://www.infobae.com/resizer/v2/SN4PMXL7ZVA5NKIZ6Q3BJD5ECA.jpg?auth=e33c873dba8d0f4664d55339388d283bc5f5d1a942a53b60ffe3314110b37d39&smart=true&width=350&height=197&quality=85"
     },
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "#8Feb | Esta es la lista de presos políticos liberados en el país que han sido verificados",
-      "link": "https://caraotadigital.net/venezuela/8feb-esta-es-la-lista-de-presos-politicos-liberados-en-el-pais-que-han-sido-verificados/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Proyecto-nuevo-1.jpg"
+      "title": "Congresistas de Florida celebraron excarcelación de Juan Pablo Guanipa",
+      "link": "https://caraotadigital.net/eeuu/congresistas-de-florida-celebraron-excarcelacion-de-juan-pablo-guanipa/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Maria-Elvira-Salazar-Mario-Diaz-Balart-Carlos-Gimenez-y-Rick-Scott-EFE.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juan Pablo Guanipa: \"Hoy salimos en libertad, mucho por hablar sobre Venezuela\"",
-      "link": "https://diarioversionfinal.com/politica-dinero/juan-pablo-guanipa-hoy-salimos-en-libertad-mucho-por-hablar-sobre-venezuela/",
+      "title": "Foro Penal confirma 30 excarcelaciones: Perkins Rocha, Dignora Hernández y María Oropeza en la lista",
+      "link": "https://diarioversionfinal.com/politica-dinero/foro-penal-confirma-30-excarcelaciones-perkins-rocha-dignora-hernandez-y-maria-oropeza-en-la-lista/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-08-at-3.15.36-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-08T21:27:52.547Z"
+  "lastUpdate": "2026-02-08T22:28:18.502Z"
 };
