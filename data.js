@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "572,99"
+      "usdt": "545,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "James Story planteó la necesidad del diálogo y una transición genuina en Venezuela\nEE UU",
-      "link": "https://www.elnacional.com/2026/02/james-story-planteo-la-necesidad-del-dialogo-y-una-transicion-genuina-en-venezuela/",
+      "title": "Ley de Amnistía: los dos escenarios dentro del chavismo y las críticas que han surgido\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/ley-de-amnistia-los-dos-escenarios-dentro-del-chavismo-y-las-criticas-que-han-surgido/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -35,12 +35,6 @@ window.DASHBOARD_DATA = {
       "title": "Familiares de presos políticos exigen liberaciones con o sin ley de amnistía",
       "link": "https://caraotadigital.net/venezuela/familiares-de-presos-politicos-exigen-liberaciones-con-o-sin-ley-de-amnistia/",
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/presos-politicos.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "PADRINO LÓPEZ: «HOY NO EXISTE UN SOLDADO EXTRANJERO ARMADO OCUPANDO ESTA TIERRA»",
-      "link": "https://noticierodigital.com/2026/02/padrino-lopez-hoy-no-existe-un-soldado-extranjero-armado-ocupando-esta-tierra/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/vladimir-padrino-lopez-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/HAlmRtZXEAAaCb--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-08T09:31:41.556Z"
+  "lastUpdate": "2026-02-08T10:28:05.479Z"
 };
