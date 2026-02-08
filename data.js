@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "571,67"
+      "usdt": "570,67"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Familiares de presos políticos exigen liberaciones con o sin ley de amnistía",
-      "link": "https://caraotadigital.net/venezuela/familiares-de-presos-politicos-exigen-liberaciones-con-o-sin-ley-de-amnistia/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/presos-politicos.jpg"
+      "title": "Foro Penal y otras ONG se reunieron con comisión de la AN para discutir proyecto de Ley de Amnistía, estos fueron sus planteamientos",
+      "link": "https://caraotadigital.net/venezuela/foro-penal-y-otras-ong-se-reunieron-con-comision-de-la-an-para-discutir-proyecto-de-ley-de-amnistia-estos-fueron-sus-planteamientos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/AN-foro-penal.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "PADRINO LÓPEZ: «HOY NO EXISTE UN SOLDADO EXTRANJERO ARMADO OCUPANDO ESTA TIERRA»",
+      "link": "https://noticierodigital.com/2026/02/padrino-lopez-hoy-no-existe-un-soldado-extranjero-armado-ocupando-esta-tierra/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/vladimir-padrino-lopez-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Familiares de presos políticos desafiaron la represión en El Helicoide y convocan vigilia este #8Feb",
-      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-desafiaron-la-represion-en-el-helicoide-y-convocan-vigilia-este-8feb/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/HAlmRtZXEAAaCb--750x430.jpg"
+      "title": "ABC: Zapatero insiste con Rodríguez Torres ahora para desplazar a Padrino López y a Diosdado",
+      "link": "https://diarioversionfinal.com/politica-dinero/abc-zapatero-insiste-con-rodriguez-torres-ahora-para-desplazar-a-padrino-lopez-y-a-diosdado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-08-at-9.36.22-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-08T12:52:16.681Z"
+  "lastUpdate": "2026-02-08T13:45:38.088Z"
 };
