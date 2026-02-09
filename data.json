@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "382,63",
-      "eur": "451,88"
+      "usd": "385,27",
+      "eur": "458,88"
     },
     "binance": {
-      "usdt": "570,00"
+      "usdt": "570,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Espeluznante crimen en Chile: Preso mató a su compañero de celda y lo que hizo con su cuerpo dejó en shock a todos",
-      "link": "https://caraotadigital.net/mundo/espeluznante-crimen-en-chile-preso-mato-a-su-companero-de-celda-y-lo-que-hizo-con-su-cuerpo-dejo-en-shock-a-todos/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Chile-2.jpg"
+      "title": "Planeaba asesinar al vicepresidente JD Vance con un fusil automático, así lo descubrieron",
+      "link": "https://caraotadigital.net/eeuu/planeaba-asesinar-al-vicepresidente-jd-vance-con-un-fusil-automatico-asi-lo-descubrieron/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/JD-Vance.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Mariesse solicita apoyo en su lucha contra el cáncer",
-      "link": "https://laverdad.com/mariesse-solicita-apoyo-en-su-lucha-contra-el-cancer/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Venezuela-gana-7-2-a-Nicaragua.jpg"
+      "title": "Cabello dice que Guanipa fue detenido por violar condiciones de excarcelación",
+      "link": "https://laverdad.com/cabello-dice-que-guanipa-fue-detenido-por-violar-condiciones-de-excarcelacion/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Alejandro-Dominguez-Conmebol-dijo-que-clubes-venezolanos-jugaran-en-sus-sedes-en-copas-internacionales.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Misión de la ONU para Venezuela critica falta de consultas públicas en proyecto de amnistía",
-      "link": "https://diarioversionfinal.com/politica-dinero/mision-de-la-onu-para-venezuela-critica-falta-de-consultas-publicas-en-proyecto-de-amnistia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-2.41.37-PM-750x430.jpeg"
+      "title": "Maestra de McKinney critica a EE.UU. tras captura de su esposo venezolano por ICE",
+      "link": "https://diarioversionfinal.com/politica-dinero/maestra-de-mckinney-critica-a-trump-tras-captura-de-su-esposo-venezolano-por-ice/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/snto-ley-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-02-09T19:13:41.326Z"
+  "lastUpdate": "2026-02-09T20:39:35.176Z"
 }
