@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "563,89"
+      "usdt": "540,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen chavista revocó la excarcelación de Juan Pablo Guanipa por el “incumplimiento de las medidas cautelares acordadas”",
-      "link": "https://www.infobae.com/venezuela/2026/02/09/el-regimen-chavista-revoco-la-excarcelacion-de-juan-pablo-guanipa-por-el-incumplimiento-de-las-medidas-cautelares-acordadas/",
-      "image": "https://www.infobae.com/resizer/v2/ME4NLQ7MUETGWOC56FPRGUL64Y.jpg?auth=acb7f9f9231dfe59daf0d2b753602b79a58f5ef43a0008e4338a5aad408e39f6&smart=true&width=350&height=197&quality=85"
+      "title": "El opositor venezolano Freddy Superlano fue excarcelado tras 18 meses de prisión: así fue el conmovedor reencuentro con su familia",
+      "link": "https://www.infobae.com/venezuela/2026/02/09/el-opositor-venezolano-freddy-superlano-fue-excarcelado-tras-18-meses-de-prision-asi-fue-el-conmovedor-reencuentro-con-su-familia/",
+      "image": "https://www.infobae.com/resizer/v2/WZY5GNHYYJHMJIZXOVQNXE5EJY.jpg?auth=bd6a146af61f470202eb23445c2b9e69be6526b329312b7cbad7885b14273897&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Sofía Vergara, Roger Federer y Bon Jovi, entre las celebridades asistentes al Super Bowl LX",
-      "link": "https://caraotadigital.net/caraota-show/sofia-vergara-roger-federer-y-bon-jovi-entre-las-celebridades-asistentes-al-super-bowl-lx/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Proyecto-nuevo-2-1.jpg"
+      "title": "Andy Borregales hizo historia: Así fue su participación en el Super Bowl pese a la derrota de los Patriots",
+      "link": "https://caraotadigital.net/deportes/andy-borregales-hizo-historia-asi-fue-su-participacion-en-el-super-bowl-pese-a-la-derrota-de-los-patriots/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Borregales-1.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Qué opinan los candidatos de la Gran Consulta por Colombia de la concertación del salario mínimo?",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/que-opinan-los-candidatos-de-la-gran-consulta-por-colombia-de-la-concertacion-del-salario-minimo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8826fc4/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff4%2Fe3%2F2a025a3e499da164359a17018c9e%2Fdiseno.jpg"
+      "title": "Fiscalía llama a imputación de cargos a Juliana Guerrero por títulos de la Fundación San José",
+      "link": "https://www.noticiascaracol.com/judicial/fiscalia-llama-a-imputacion-de-cargos-a-juliana-guerrero-por-titulos-de-la-fundacion-san-jose-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc81cea/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F49%2F58%2F025b81c548bdb8af64f7e2888da1%2Fjuliana-guerrero.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Freddy Superlano tras su excarcelación: “Hoy pude reunirme con mi familia”",
-      "link": "https://laverdad.com/freddy-superlano-tras-su-excarcelacion-hoy-pude-reunirme-con-mi-familia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/SaveClip.App_626517030_18554550109017697_7816180784225291009_n.jpg"
+      "title": "Imponen tobillera electrónica a Perkins Rocha tras su excarcelaciónrae imponer",
+      "link": "https://laverdad.com/imponen-tobillera-electronica-a-perkins-rocha-tras-su-excarcelacion/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Bad-Bunny-y-Trump-super-bowl-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Freddy Superlano es liberado tras 18 meses de detención en Venezuela",
-      "link": "https://diarioversionfinal.com/politica-dinero/freddy-superlano-es-liberado-tras-18-meses-de-detencion-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Marinera-750x430.jpg"
+      "title": "Inicia capilla ardiente en homenaje a Renato Aguirre en la Basílica",
+      "link": "https://diarioversionfinal.com/ciudad/inicia-capilla-ardiente-en-homenaje-a-renato-aguirre-en-la-basilica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/plataforma-unitaria-alianza-oposicion-venezolanajpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-09T13:10:53.576Z"
+  "lastUpdate": "2026-02-09T14:53:31.930Z"
 };
