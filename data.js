@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "539,90"
+      "usdt": "569,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "“Queremos reconciliación, pero con la verdad”: las primeras reacciones de los presos políticos excarcelados este domingo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/08/queremos-reconciliacion-pero-con-la-verdad-las-primeras-reacciones-de-los-presos-politicos-excarcelados-este-domingo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/PVQBQBSCMVDNFMCSKZTNPJNHXA.JPG?auth=3ace6f9384525b642c40aff767ba83e7be56d21d56c2016d1916b14d05387b5f&smart=true&width=350&height=197&quality=85"
+      "title": "A horas de ser excarcelado por el régimen chavista, el dirigente opositor venezolano Juan Pablo Guanipa fue secuestrado",
+      "link": "https://www.infobae.com/venezuela/2026/02/09/a-horas-de-ser-excarcelado-por-el-regimen-chavista-el-lider-opositor-venezolano-juan-pablo-guanipa-fue-secuestrado/",
+      "image": "https://www.infobae.com/resizer/v2/EC7QKV32CBED3GBWO2Q432GEJY.JPG?auth=72ed61998f46d6ccc0ea714cac50aaeea5fc50670b763c682f4b7633658549e2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Bad Bunny convierte en una fiesta latina el show de medio tiempo del Super Bowl",
       "link": "https://cnnespanol.cnn.com/entretenimiento/live-news/halftime-show-super-bowl-2026-en-vivo-bad-bunny-green-day-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260604759.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260606487.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Videos| Así fue el espectacular show de Bad Bunny en el medio tiempo del Super Bowl 2026",
-      "link": "https://www.noticiascaracol.com/entretenimiento/asi-fue-el-espectacular-show-de-bad-bunny-en-el-medio-tiempo-del-super-bowl-2026-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e670e85/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F66%2Fd1%2Ffd1518284e41b00a4339ad5190fa%2Fplantilla-fotos-95.jpg"
+      "title": "La dura reacción de Trump sobre show de Bad Bunny en Super Bowl: \"Una bofetada a Estados Unidos\"",
+      "link": "https://www.noticiascaracol.com/mundo/la-dura-reaccion-de-trump-sobre-show-de-bad-bunny-en-super-bowl-una-bofetada-a-estados-unidos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4b51ab7/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc8%2F80%2F22ca2bf04d40aded3bb235eab3a9%2Fdonald-trump-y-bad-bunny.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolanos recuperan su voz y desplazan el miedo a Miraflores",
-      "link": "https://diarioversionfinal.com/politica-dinero/venezolanos-recuperan-su-voz-y-desplazan-el-miedo-a-miraflores/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_4920434261265943506_y-750x430.jpg"
+      "title": "Hombres armados secuestraron de nuevo a Juan Pablo Guanipa",
+      "link": "https://diarioversionfinal.com/politica-dinero/hombres-armados-secuestraron-de-nuevo-a-juan-pablo-guanipa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-12.34.31-AM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-09T02:14:13.136Z"
+  "lastUpdate": "2026-02-09T05:00:48.422Z"
 };
