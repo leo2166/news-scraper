@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "571,99"
+      "usdt": "570,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,46 +14,46 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El secretario de Energía de Estados Unidos prepara una visita a Venezuela para iniciar un diálogo sobre PDVSA",
-      "link": "https://www.infobae.com/venezuela/2026/02/09/el-secretario-de-energia-de-estados-unidos-prepara-una-visita-a-venezuela-para-iniciar-un-dialogo-sobre-pdvsa/",
-      "image": "https://www.infobae.com/resizer/v2/DOFFS56AGVD4PKASHHKENASXFQ.JPG?auth=52eaba49108f5f67bd4956f1cfa6dfe9cf5d0d2cd43b4870832b0fd71d68328c&smart=true&width=350&height=197&quality=85"
+      "title": "La familia de Juan Pablo Guanipa exigió una fe de vida tras su secuestro por parte de un grupo armado chavista en Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/02/09/la-familia-de-juan-pablo-guanipa-exigio-una-fe-de-vida-tras-su-secuestro-por-parte-de-un-grupo-armado-chavista-en-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/LFV7IT7IEBCWLHUVKX7LJ54JWU.JPG?auth=ad54bce1b2f5b8bdcc5664299d1fbbdb78c993b9a7f51d5b9b2eca24c0dad7f1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "EE UU incauta buque Aquila II vinculado al transporte de crudo venezolano\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/ee-uu-incauta-buque-aquila-ii-vinculado-al-crudo-venezolano/",
+      "title": "Hijo de Juan Pablo Guanipa exige fe de vida de su padre: \"¿Cuál es el miedo a tener un liderazgo en la calle?\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/hijo-de-juan-pablo-guanipa-exige-fe-de-vida-de-su-padre/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Bad Bunny redefine lo que significa ser un patriota estadounidense",
-      "link": "https://cnnespanol.cnn.com/2026/02/09/entretenimiento/bad-bunny-super-bowl-mensaje-patriotismo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/latinos-bb.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Ghislaine Maxwell promete limpiar el nombre de Trump si le concede clemencia",
+      "link": "https://cnnespanol.cnn.com/2026/02/09/eeuu/ghislaine-maxwell-epstein-quinta-enmienda-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maxwell-g.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "«No está libre»: La foto del grillete electrónico que le colocaron a Perkins Rocha tras decretarle casa por cárcel",
-      "link": "https://caraotadigital.net/venezuela/no-esta-libre-la-foto-del-grillete-electronico-que-le-colocaron-a-perkins-rocha-tras-decretarle-casa-por-carcel/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Rocha-3.jpg"
+      "title": "Espeluznante crimen en Chile: Preso mató a su compañero de celda y lo que hizo con su cuerpo dejó en shock a todos",
+      "link": "https://caraotadigital.net/mundo/espeluznante-crimen-en-chile-preso-mato-a-su-companero-de-celda-y-lo-que-hizo-con-su-cuerpo-dejo-en-shock-a-todos/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Chile-2.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Fiscalía llama a imputación de cargos a Juliana Guerrero por títulos de la Fundación San José",
-      "link": "https://www.noticiascaracol.com/judicial/fiscalia-llama-a-imputacion-de-cargos-a-juliana-guerrero-por-titulos-de-la-fundacion-san-jose-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc81cea/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F49%2F58%2F025b81c548bdb8af64f7e2888da1%2Fjuliana-guerrero.jpg"
+      "title": "Migración Colombia anuncia plan de contingencia contra operación reglamento por parte de sindicatos",
+      "link": "https://www.noticiascaracol.com/colombia/migracion-colombia-anuncia-plan-de-contingencia-contra-operacion-reglamento-por-parte-de-sindicatos-que-ha-ocasionado-demoras-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a371f30/2147483647/strip/true/crop/1915x1080+5+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9a%2Fdf%2F601007924172b6886fab75c36bc7%2Fdiseno-sin-titulo-36.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. intercepta el buque Aquila II vinculado a Venezuela, por violar cerco de Trump",
-      "link": "https://laverdad.com/ee-uu-intercepta-el-buque-aquila-ii-vinculado-a-venezuela-por-violar-cerco-de-trump/",
+      "title": "Mariesse solicita apoyo en su lucha contra el cáncer",
+      "link": "https://laverdad.com/mariesse-solicita-apoyo-en-su-lucha-contra-el-cancer/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Venezuela-gana-7-2-a-Nicaragua.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Político: Secretario de Energía de EE. UU. visitará Venezuela para hablar sobre liderazgo de Pdvsa",
-      "link": "https://diarioversionfinal.com/mundo/politico-secretario-de-energia-de-ee-uu-visitara-venezuela-para-hablar-sobre-liderazgo-de-pdvsa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Screenshot-2026-01-12-at-3.10.13-PM-750x430.png"
+      "title": "Misión de la ONU para Venezuela critica falta de consultas públicas en proyecto de amnistía",
+      "link": "https://diarioversionfinal.com/politica-dinero/mision-de-la-onu-para-venezuela-critica-falta-de-consultas-publicas-en-proyecto-de-amnistia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-2.41.37-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-09T15:57:02.006Z"
+  "lastUpdate": "2026-02-09T19:13:41.326Z"
 };
