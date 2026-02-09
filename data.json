@@ -5,7 +5,7 @@
       "eur": "451,88"
     },
     "binance": {
-      "usdt": "570,10"
+      "usdt": "565,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El hijo de Juan Pablo Guanipa reveló detalles del secuestro de su padre: “Personas con armas largas y con una actitud muy agresiva”",
-      "link": "https://www.infobae.com/venezuela/2026/02/09/el-hijo-de-juan-pablo-guanipa-revelo-detalles-del-secuestro-de-su-padre-personas-con-armas-largas-y-con-una-actitud-muy-agresiva/",
-      "image": "https://www.infobae.com/resizer/v2/P6KHIZFYOVB73AIT6EN5NWO4KE.jpg?auth=844e0103885e335606326e5a657a592b4ac54fa2cd83fe4f2202bd5cea1c71a4&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen chavista revocó la excarcelación de Juan Pablo Guanipa por el “incumplimiento de las medidas cautelares acordadas”",
+      "link": "https://www.infobae.com/venezuela/2026/02/09/el-regimen-chavista-revoco-la-excarcelacion-de-juan-pablo-guanipa-por-el-incumplimiento-de-las-medidas-cautelares-acordadas/",
+      "image": "https://www.infobae.com/resizer/v2/ME4NLQ7MUETGWOC56FPRGUL64Y.jpg?auth=acb7f9f9231dfe59daf0d2b753602b79a58f5ef43a0008e4338a5aad408e39f6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "La dura reacción de Trump sobre show de Bad Bunny en Super Bowl: \"Una bofetada a Estados Unidos\"",
-      "link": "https://www.noticiascaracol.com/mundo/la-dura-reaccion-de-trump-sobre-show-de-bad-bunny-en-super-bowl-una-bofetada-a-estados-unidos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4b51ab7/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc8%2F80%2F22ca2bf04d40aded3bb235eab3a9%2Fdonald-trump-y-bad-bunny.jpg"
+      "title": "Fiscalía de Venezuela revoca excarcelación de Juan Pablo Guanipa y le impone detención domiciliaria",
+      "link": "https://www.noticiascaracol.com/mundo/fiscalia-de-venezuela-revoca-excarcelacion-de-juan-pablo-guanipa-y-le-impone-detencion-domiciliaria-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3d4a42b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2Fb2%2Fdced5c01479ea4bc396915d6ab4f%2Fjuan-pablo-guanipa.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-12.34.31-AM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-09T10:03:56.717Z"
+  "lastUpdate": "2026-02-09T11:44:37.062Z"
 }
