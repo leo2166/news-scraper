@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "458,88"
     },
     "binance": {
-      "usdt": "571,95"
+      "usdt": "548,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "“Creen que pueden hacer lo que les da la gana”: la amenaza de Diosdado Cabello tras el arresto arbitrario de Juan Pablo Guanipa",
-      "link": "https://www.infobae.com/venezuela/2026/02/09/creen-que-pueden-hacer-lo-que-les-da-la-gana-la-amenaza-de-diosdado-cabello-tras-el-arresto-arbitrario-de-juan-pablo-guanipa/",
-      "image": "https://www.infobae.com/resizer/v2/DFEPQ3RKNNB6HCPW3OGBV5VCQ4.JPG?auth=e695242a5cccfa2003897e85519e8b1401eb645dab8c124ff19ae971191f1ea1&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela alcanzó su mayor nivel de producción de petróleo en meses y se acerca al millón de barriles diarios",
+      "link": "https://www.infobae.com/venezuela/2026/02/10/venezuela-alcanzo-su-mayor-nivel-de-produccion-de-petroleo-en-meses-y-se-acerca-al-millon-de-barriles-diarios/",
+      "image": "https://www.infobae.com/resizer/v2/UMC2IYNA2XMR5ABLZDH4OK2E7Y.jpg?auth=29529c049e9e1073439fb58ddd22af0cf1b8c125e5bbcf00b1dcfc9d84dce09f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Confirman que Juan Pablo Guanipa está detenido en la sede de la PNB en Maripérez\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/confirman-que-juan-pablo-guanipa-esta-detenido-en-la-sede-de-la-pnb-en-mariperez/",
+      "title": "Vigilancia total y grillete electrónico: el estricto régimen de detención domiciliaria de Perkins Rocha\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/vigilancia-total-grillete-electronico-y-sin-libertad-de-movimiento-el-estricto-regimen-de-detencion-domiciliaria-de-perkins-rocha/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Sheinbaum defiende la soberanía de México frente a EE.UU., pero hace concesiones clave",
-      "link": "https://cnnespanol.cnn.com/2026/02/09/mexico/sheinbaum-soberania-concesiones-eeuu-estrategia-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2251753640-20260109154040689.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Diosdado Cabello afirma que hay opositores que “se creen intocables”",
+      "link": "https://cnnespanol.cnn.com/2026/02/09/venezuela/cabello-guanipa-detencion-excarcelacion-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260243154.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Tras recaptura de Juan Pablo Guanipa convocan «protesta por el futuro» en Maracaibo",
-      "link": "https://caraotadigital.net/venezuela/tras-recaptura-de-juan-pablo-guanipa-convocan-protesta-por-el-futuro-en-maracaibo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/HAvHuaAaYAEywYV.jpg"
+      "title": "El macabro asesinato de seis hombres en una montaña en Bulgaria causa consternación: «Es un caso sin comparación»",
+      "link": "https://caraotadigital.net/mundo/el-macabro-asesinato-de-seis-hombres-en-una-montana-en-bulgaria-causa-consternacion-es-un-caso-sin-comparacion/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/image-8.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Dólar oficial alcanza los 385,27 bolívares y mantiene una diferencia del 19 % con el euro",
-      "link": "https://diarioversionfinal.com/politica-dinero/dolar-oficial-alcanza-los-38527-bolivares-y-mantiene-una-diferencia-del-19-con-el-euro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2260102421-20260209125239445-750x430.jpg"
+      "title": "Jorge Rodríguez: “No vamos a tener elecciones en un corto período de tiempo”",
+      "link": "https://diarioversionfinal.com/politica-dinero/jorge-rodriguez-no-vamos-a-tener-elecciones-en-un-corto-periodo-de-tiempo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_4922664603423018053_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-09T23:37:39.261Z"
+  "lastUpdate": "2026-02-10T02:30:07.515Z"
 };
