@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "458,88"
     },
     "binance": {
-      "usdt": "571,10"
+      "usdt": "572,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Una amnistía a espaldas del país \nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/una-amnistia-a-espaldas-del-pais/",
+      "title": "Juan Pablo Guanipa ya está en Maracaibo para cumplir el régimen de casa por cárcel\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/juan-pablo-guanipa-ya-esta-en-maracaibo-preso-en-su-casa/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "El macabro asesinato de seis hombres en una montaña en Bulgaria causa consternación: «Es un caso sin comparación»",
-      "link": "https://caraotadigital.net/mundo/el-macabro-asesinato-de-seis-hombres-en-una-montana-en-bulgaria-causa-consternacion-es-un-caso-sin-comparacion/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/image-8.jpg"
+      "title": "Juan Pablo Guanipa ya está en Maracaibo y deberá cumplir casa por cárcel, esto dijo su hijo",
+      "link": "https://caraotadigital.net/venezuela/juan-pablo-guanipa-ya-esta-en-maracaibo-y-debera-cumplir-casa-por-carcel-esto-dijo-su-hijo/",
+      "image": "https://caraotadigital.net/almacen/2026/02/guanipa18181341.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Arriban al país desde Miami 120 migrantes venezolanos deportados por EE. UU.",
-      "link": "https://laverdad.com/arriban-al-pais-desde-miami-120-migrantes-venezolanos-deportados-por-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Alejandro-Dominguez-Conmebol-dijo-que-clubes-venezolanos-jugaran-en-sus-sedes-en-copas-internacionales.jpg"
+      "title": "Transparencia Internacional mantiene a Venezuela como el tercer país más corrupto",
+      "link": "https://laverdad.com/transparencia-internacional-mantiene-a-venezuela-como-el-tercer-pais-mas-corrupto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/David-Bispal-y-Jose-Bispal-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezuela pospone la aprobación de la ley de amnistía para liberar presos políticos",
-      "link": "https://diarioversionfinal.com/politica-dinero/venezuela-pospone-la-aprobacion-de-la-ley-de-amnistia-para-liberar-presos-politicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/No-mas-corrupcion-960x640-1-750x430.jpg"
+      "title": "Juan Pablo Guanipa regresa a su casa en Maracaibo para cumplir arresto domiciliario",
+      "link": "https://diarioversionfinal.com/politica-dinero/juan-pablo-guanipa-regresa-a-su-casa-en-maracaibo-para-cumplir-arresto-domiciliario/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-10-at-11.48.49-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-10T13:15:26.885Z"
+  "lastUpdate": "2026-02-10T14:59:10.526Z"
 };
