@@ -5,7 +5,7 @@
       "eur": "458,88"
     },
     "binance": {
-      "usdt": "548,60"
+      "usdt": "549,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela alcanzó su mayor nivel de producción de petróleo en meses y se acerca al millón de barriles diarios",
-      "link": "https://www.infobae.com/venezuela/2026/02/10/venezuela-alcanzo-su-mayor-nivel-de-produccion-de-petroleo-en-meses-y-se-acerca-al-millon-de-barriles-diarios/",
-      "image": "https://www.infobae.com/resizer/v2/UMC2IYNA2XMR5ABLZDH4OK2E7Y.jpg?auth=29529c049e9e1073439fb58ddd22af0cf1b8c125e5bbcf00b1dcfc9d84dce09f&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Foro Penal verificó 426 excarcelaciones de presos políticos en Venezuela tras el anuncio del proceso de liberaciones",
+      "link": "https://www.infobae.com/venezuela/2026/02/10/la-ong-foro-penal-verifico-426-excarcelaciones-de-presos-politicos-en-venezuela-tras-el-anuncio-del-proceso-de-liberaciones/",
+      "image": "https://www.infobae.com/resizer/v2/CCGWFBULUZFH7M2XABCFQM3F44.JPG?auth=b23810e43cfd784d0dcfc6dc3fb79554a72a234eb83a31e74e5848fdd3ccf73f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Vigilancia total y grillete electrónico: el estricto régimen de detención domiciliaria de Perkins Rocha\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/vigilancia-total-grillete-electronico-y-sin-libertad-de-movimiento-el-estricto-regimen-de-detencion-domiciliaria-de-perkins-rocha/",
+      "title": "Vigilancia total y grillete electrónico: el régimen de detención domiciliaria de Perkins Rocha\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/vigilancia-total-y-grillete-electronico-el-regimen-de-detencion-domiciliaria-de-perkins-rocha/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Emotivo video| En Córdoba, perro exhausto nadó hasta lancha para ser rescatado: \"Se estaba ahogando\"",
-      "link": "https://www.noticiascaracol.com/colombia/emotivo-video-en-cordoba-perro-exhausto-nado-hasta-lancha-para-ser-rescatado-se-estaba-ahogando-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/67131d0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6d%2Fc4%2F6fb9c0374f8a9c03bbd1dad2e5bd%2Ftamano-imagenes-10.jpg"
+      "title": "EN VIVO | Segundo debate de precandidatos de La Gran Consulta por Colombia en Noticias Caracol",
+      "link": "https://www.noticiascaracol.com/colombia/en-vivo-segundo-debate-de-precandidatos-de-la-gran-consulta-por-colombia-en-noticias-caracol-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5543b04/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F69%2Fc8%2F9942f8fb4e89a3d0fec56b7ce458%2Fdebate-segunda-parte-gran-consulta-por-colombia.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jorge Rodríguez: “No vamos a tener elecciones en un corto período de tiempo”",
-      "link": "https://diarioversionfinal.com/politica-dinero/jorge-rodriguez-no-vamos-a-tener-elecciones-en-un-corto-periodo-de-tiempo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_4922664603423018053_y-750x430.jpg"
+      "title": "Asamblea Nacional aplaza sesión para aprobar Ley de Amnistía",
+      "link": "https://diarioversionfinal.com/politica-dinero/asamblea-nacional-aplaza-sesion-para-aprobar-ley-de-amnistia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fotonoticia-20260209233618-1920_40_598x448-598x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-10T02:30:07.515Z"
+  "lastUpdate": "2026-02-10T05:04:36.200Z"
 }
