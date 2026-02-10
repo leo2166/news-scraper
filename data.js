@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "458,88"
     },
     "binance": {
-      "usdt": "572,66"
+      "usdt": "580,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Venezuela que dejó Maduro: Transparencia Internacional calificó el país como el tercero más corrupto del mundo en 2025",
-      "link": "https://www.infobae.com/venezuela/2026/02/10/la-venezuela-que-dejo-maduro-transparencia-internacional-califico-el-pais-como-el-tercero-mas-corrupto-del-mundo-en-2025/",
-      "image": "https://www.infobae.com/resizer/v2/4BBUZMLPBZCLDLMWUK5OUFJVHM.jpg?auth=40919a74694d7da7123a2987b2aefd4026b82af1e1943570c53a88742f8d9e4e&smart=true&width=350&height=197&quality=85"
+      "title": "La Oficina de Derechos Humanos de la ONU confirmó contactos con Venezuela para reanudar su presencia en el país",
+      "link": "https://www.infobae.com/venezuela/2026/02/10/la-oficina-de-derechos-humanos-de-la-onu-confirmo-contactos-con-venezuela-para-reanudar-su-presencia-en-el-pais/",
+      "image": "https://www.infobae.com/resizer/v2/ECEDZGQQ7ZABRGH6B2YYZRLJOA.jpg?auth=6efb7d7d49d97c79cf83fb06710d3caceb3a4d612a68cda6ad9e4026fc817924&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,34 +26,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Sola con sus 5 hijos tras la detención de su esposo por ICE: “No quería que vieran ese dolor”",
-      "link": "https://cnnespanol.cnn.com/2026/02/10/eeuu/ice-detuvo-esposo-quedo-sola-cinco-hijos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-05-at-18-56-23-1.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "\"Son tiempos muy difíciles\": el plan de Cuba para sobrevivir a una de sus peores crisis",
+      "link": "https://cnnespanol.cnn.com/2026/02/10/latinoamerica/cuba-medidas-crisis-energetica-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/79533364-39050564-generated-thumbnail.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Juan Pablo Guanipa ya está en Maracaibo y deberá cumplir casa por cárcel, esto dijo su hijo",
-      "link": "https://caraotadigital.net/venezuela/juan-pablo-guanipa-ya-esta-en-maracaibo-y-debera-cumplir-casa-por-carcel-esto-dijo-su-hijo/",
-      "image": "https://caraotadigital.net/almacen/2026/02/guanipa18181341.jpg"
+      "title": "Liberan a trabajador humanitario colombiano que llevaba 17 meses encarcelado en el país",
+      "link": "https://caraotadigital.net/venezuela/venezuela-libera-a-trabajador-humanitario-colombiano-que-llevaba-17-meses-encarcelado/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/TIQUE2026-02-10-at-11.10.20-AM.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"Se creen intocables\": Diosdado Cabello habla sobre opositores excarcelados en Venezuela",
-      "link": "https://www.noticiascaracol.com/mundo/se-creen-intocables-diosdado-cabello-habla-sobre-opositores-excarcelados-en-venezuela-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a693764/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6f%2F09%2Fbc1b13734df3a53fd8aa60f26af4%2Fdiosdado-cabello-2.jpg"
+      "title": "Esto respondieron precandidatos de La Gran Consulta por Colombia durante debate en Noticias Caracol",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/siga-aqui-el-segundo-debate-de-precandidatos-de-la-gran-consulta-por-colombia-en-noticias-caracol",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5543b04/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F69%2Fc8%2F9942f8fb4e89a3d0fec56b7ce458%2Fdebate-segunda-parte-gran-consulta-por-colombia.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Transparencia Internacional mantiene a Venezuela como el tercer país más corrupto",
-      "link": "https://laverdad.com/transparencia-internacional-mantiene-a-venezuela-como-el-tercer-pais-mas-corrupto/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/David-Bispal-y-Jose-Bispal-1.jpg"
+      "title": "UE reitera que el cambio de “régimen” en Venezuela debe venir desde dentro",
+      "link": "https://laverdad.com/ue-reitera-que-el-cambio-de-regimen-en-venezuela-debe-venir-desde-dentro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Esquiador-venezolano-Nicolas-Claveau-debuta-en-los-Juegos-Olimpicos-de-Invierno.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juan Pablo Guanipa regresa a su casa en Maracaibo para cumplir arresto domiciliario",
-      "link": "https://diarioversionfinal.com/politica-dinero/juan-pablo-guanipa-regresa-a-su-casa-en-maracaibo-para-cumplir-arresto-domiciliario/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-10-at-11.48.49-AM-750x430.jpeg"
+      "title": "Ramón Guanipa confirma que su padre se encuentra en Maracaibo",
+      "link": "https://diarioversionfinal.com/politica-dinero/ramon-guanipa-confirma-que-su-padre-se-encuentra-en-maracaibo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-10-at-12.18.59-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-10T14:59:10.526Z"
+  "lastUpdate": "2026-02-10T16:13:07.781Z"
 };
