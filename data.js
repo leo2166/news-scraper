@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "458,88"
     },
     "binance": {
-      "usdt": "576,66"
+      "usdt": "577,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "\"No más anuncios incumplidos\": familiares de presos políticos protestaron frente a la Asamblea Nacional\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-protestaron-en-la-asamblea-nacional/",
+      "title": "Grillete electrónico, custodia policial y prohibición de publicar en redes sociales: las condiciones del arresto domiciliario de Juan Pablo Guanipa\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/grillete-electronico-custodia-policial-y-prohibicion-de-publicar-en-redes-sociales-las-condiciones-del-arresto-domiciliario-de-juan-pablo-guanipa/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,20 +32,20 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "¿Cómo ha operado el mercado de criptomonedas en este 2026 en el país? Esto reveló un experto",
-      "link": "https://caraotadigital.net/venezuela/como-ha-operado-el-mercado-de-criptomonedas-en-este-2026-en-el-pais-esto-revelo-un-experto/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/11/criptomonedas.jpg"
+      "title": "VIDEOS IMPACTANTES: Caos en los Valles del Tuy tras rotura de tubería matriz, la calle quedó destrozada",
+      "link": "https://caraotadigital.net/sucesos/videos-impactantes-caos-en-los-valles-del-tuy-tras-rotura-de-tuberia-matriz-la-calle-quedo-destrozada/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Tuberia-Valles-CD.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Hallan carro de senadora Aida Quilcué abandonado en carretera de Cauca",
-      "link": "https://www.noticiascaracol.com/colombia/hallan-carro-de-senadora-aida-quilcue-abandonado-en-carretera-de-cauca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3747dbc/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F83%2F2b%2F1ecd6821407eb22a510a5ea136d0%2Faida-quilcue-carro.jpg"
+      "title": "Ideam aclara si se acerca tercer frente frío: revelan alertas por inundaciones y crecientes súbitas",
+      "link": "https://www.noticiascaracol.com/colombia/ideam-aclara-si-se-acerca-un-tercer-frente-frio-conozca-las-alertas-activas-por-inundaciones-y-crecientes-subitas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/99e05d6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7e%2F1d%2Ff16b5b86479e99e91db70b86c61c%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Imagen del martir mexicano “San Joselito” visita la Basílica de Maracaibo",
-      "link": "https://laverdad.com/imagen-del-martir-mexicano-san-joselito-visita-la-basilica-de-maracaibo/",
+      "title": "Un Nuevo Tiempo: “La amnistía debe garantizar derechos políticos plenos”",
+      "link": "https://laverdad.com/un-nuevo-tiempo-la-amnistia-debe-garantizar-derechos-politicos-plenos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Ruben-Blades-en-tarima.jpg"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banco-Houlihan-Lokey-1-e1770673568308-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-10T20:57:16.911Z"
+  "lastUpdate": "2026-02-10T21:47:36.339Z"
 };
