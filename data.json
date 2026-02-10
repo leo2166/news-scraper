@@ -5,7 +5,7 @@
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "577,50"
+      "usdt": "576,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Grillete electrónico, custodia policial y prohibición de publicar en redes sociales: las condiciones del arresto domiciliario de Juan Pablo Guanipa\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/grillete-electronico-custodia-policial-y-prohibicion-de-publicar-en-redes-sociales-las-condiciones-del-arresto-domiciliario-de-juan-pablo-guanipa/",
+      "title": "OFAC emite licencia que autoriza suministro limitado de bienes y servicios petroleros a Venezuela\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/02/ofac-emite-licencia-que-autoriza-suministro-limitado-de-bienes-y-servicios-petroleros-a-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,15 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Migrantes venezolanos en Florida revelan lo que les roba su «sueño americano» cada noche",
-      "link": "https://caraotadigital.net/eeuu/migrantes-venezolanos-en-florida-revelan-lo-que-les-roba-su-sueno-americano-cada-noche/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/FLORI-DA.jpg"
+      "title": "Conmoción en Táchira: Seis niños heridos tras aparatoso accidente en una ‘rueda de la fortuna’",
+      "link": "https://caraotadigital.net/sucesos/conmocion-en-tachira-seis-ninos-heridos-tras-aparatoso-accidente-en-una-rueda-de-la-fortuna/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/image-9.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "PÉREZ PIRELA CALIFICÓ DE «FAKE» REPORTE SOBRE ENVÍOS DE PETRÓLEO VENEZOLANO A ISRAEL",
+      "link": "https://noticierodigital.com/2026/02/perez-pirela-califico-de-fake-reporte-sobre-envios-de-petroleo-venezolano-a-israel/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/miguel-perez-pirela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -43,17 +49,11 @@
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/99e05d6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7e%2F1d%2Ff16b5b86479e99e91db70b86c61c%2Fdiseno-1.jpg"
     },
     {
-      "source": "La Verdad",
-      "title": "Un Nuevo Tiempo: “La amnistía debe garantizar derechos políticos plenos”",
-      "link": "https://laverdad.com/un-nuevo-tiempo-la-amnistia-debe-garantizar-derechos-politicos-plenos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ruben-Blades-en-tarima.jpg"
-    },
-    {
       "source": "Diario Versión Final",
       "title": "Gobierno desmiente envío de cargamento de crudo de Venezuela a Israel",
       "link": "https://diarioversionfinal.com/politica-dinero/gobierno-desmiente-envio-de-cargamento-de-crudo-de-venezuela-a-israel/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banco-Houlihan-Lokey-1-e1770673568308-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fsd-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-10T22:40:32.408Z"
+  "lastUpdate": "2026-02-10T23:38:40.092Z"
 }
