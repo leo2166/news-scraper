@@ -5,7 +5,7 @@
       "eur": "458,88"
     },
     "binance": {
-      "usdt": "572,66"
+      "usdt": "571,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Preocupación y desconcierto por el paradero de Juan Pablo Guanipa: la sombra de Diosdado Cabello",
-      "link": "https://www.infobae.com/venezuela/2026/02/10/preocupacion-y-desconcierto-por-el-paradero-de-juan-pablo-guanipa-la-sombra-de-diosdado-cabello/",
-      "image": "https://www.infobae.com/resizer/v2/7347FALLUBD7XNCJHE4N4FITCQ.jpg?auth=6e86786500d4b7cde218ad4abf4fe6d24b6176efbe613d79b4c844b85fdbb0cd&smart=true&width=350&height=197&quality=85"
+      "title": "La Venezuela que dejó Maduro: Transparencia Internacional calificó el país como el tercero más corrupto del mundo en 2025",
+      "link": "https://www.infobae.com/venezuela/2026/02/10/la-venezuela-que-dejo-maduro-transparencia-internacional-califico-el-pais-como-el-tercero-mas-corrupto-del-mundo-en-2025/",
+      "image": "https://www.infobae.com/resizer/v2/4BBUZMLPBZCLDLMWUK5OUFJVHM.jpg?auth=40919a74694d7da7123a2987b2aefd4026b82af1e1943570c53a88742f8d9e4e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Nuevos obstáculos complican el avance del caso Epstein en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/02/10/eeuu/analisis-obstaculos-ralentizan-ee-uu-rendicion-cuentas-epstein-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26032807655078a-20260210054324500.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Sola con sus 5 hijos tras la detención de su esposo por ICE: “No quería que vieran ese dolor”",
+      "link": "https://cnnespanol.cnn.com/2026/02/10/eeuu/ice-detuvo-esposo-quedo-sola-cinco-hijos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-05-at-18-56-23-1.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
       "title": "El macabro asesinato de seis hombres en una montaña en Bulgaria causa consternación: «Es un caso sin comparación»",
       "link": "https://caraotadigital.net/mundo/el-macabro-asesinato-de-seis-hombres-en-una-montana-en-bulgaria-causa-consternacion-es-un-caso-sin-comparacion/",
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/image-8.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "COMANDO SUR DE EE. UU. REPORTÓ NUEVO ATAQUE A EMBARCACIÓN EN EL PACÍFICO",
-      "link": "https://noticierodigital.com/2026/02/comando-sur-de-ee-uu-reporto-nuevo-ataque-a-embarcacion-en-el-pacifico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/ataque-narcotrafico-lancha-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Cabello dice que Guanipa fue detenido por violar condiciones de excarcelación",
-      "link": "https://laverdad.com/cabello-dice-que-guanipa-fue-detenido-por-violar-condiciones-de-excarcelacion/",
+      "title": "Arriban al país desde Miami 120 migrantes venezolanos deportados por EE. UU.",
+      "link": "https://laverdad.com/arriban-al-pais-desde-miami-120-migrantes-venezolanos-deportados-por-ee-uu/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Alejandro-Dominguez-Conmebol-dijo-que-clubes-venezolanos-jugaran-en-sus-sedes-en-copas-internacionales.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Debate: Zapatero ofreció a Edmundo González liberar a su yerno si apoyaba a Miguel Rodríguez Torres, amigo suyo, como sucesor de Maduro",
-      "link": "https://diarioversionfinal.com/politica-dinero/el-debate-zapatero-ofrecio-a-edmundo-gonzalez-liberar-a-su-yerno-si-apoyaba-a-un-militar-chavista-amigo-suyo-como-sucesor-de-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/dolaresss-960x640-1-750x430.jpg"
+      "title": "Venezuela pospone la aprobación de la ley de amnistía para liberar presos políticos",
+      "link": "https://diarioversionfinal.com/politica-dinero/venezuela-pospone-la-aprobacion-de-la-ley-de-amnistia-para-liberar-presos-politicos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/No-mas-corrupcion-960x640-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-10T11:50:55.566Z"
+  "lastUpdate": "2026-02-10T13:15:26.885Z"
 }
