@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "577,38"
+      "usdt": "579,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://caraotadigital.net/wp-content/uploads/2025/10/Conviasa.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "NAUFRAGIO EN LA COSTA DE PANAMÁ DEJÓ DOS MIGRANTES VENEZOLANAS FALLECIDOS",
-      "link": "https://noticierodigital.com/2026/02/naufragio-en-la-costa-de-panama-dejo-dos-migrantes-venezolanas-fallecidos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/naufragio-panama-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "En medio de emergencia en Córdoba, hallan cuerpo de joven arrastrado por corriente en San Pelayo",
       "link": "https://www.noticiascaracol.com/colombia/en-medio-de-emergencia-en-cordoba-hallan-cuerpo-de-joven-arrastrado-por-corriente-en-san-pelayo-rg10",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Oficialismo asegura que “discutirá” casos de presos políticos tras recibir familiares en la Asamblea Nacional",
-      "link": "https://diarioversionfinal.com/politica-dinero/oficialismo-asegura-que-discutira-casos-de-presos-politicos-tras-recibir-familiares-en-la-asamblea-nacional/",
+      "title": "Zelenski planea elecciones y referéndum para un acuerdo de paz para este mes",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-planea-elecciones-y-referendum-para-un-acuerdo-de-paz-para-este-mes/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ytedf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-11T08:51:13.494Z"
+  "lastUpdate": "2026-02-11T09:54:55.737Z"
 };
