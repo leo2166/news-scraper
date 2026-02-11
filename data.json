@@ -5,7 +5,7 @@
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "577,00"
+      "usdt": "577,38"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela recibió a familiares de presos políticos en medio de los cuestionamientos a la ley de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/11/el-parlamento-de-venezuela-recibio-a-familiares-de-presos-politicos-en-medio-de-los-cuestionamientos-a-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/YO37JIAKXJGVXP3SI5MFOEPL6A.JPG?auth=094e0528803d1f7edfce41fb5f9084b83d5045282607f18ed14e253e13f498d3&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Foro Penal verificó 431 excarcelaciones de presos políticos en Venezuela tras el anuncio del proceso de liberaciones",
+      "link": "https://www.infobae.com/venezuela/2026/02/11/la-ong-foro-penal-verifico-431-excarcelaciones-de-presos-politicos-en-venezuela-tras-el-anuncio-del-proceso-de-liberaciones/",
+      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,23 +37,23 @@
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/PIMIENTA.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "NAUFRAGIO EN LA COSTA DE PANAMÁ DEJÓ DOS MIGRANTES VENEZOLANAS FALLECIDOS",
-      "link": "https://noticierodigital.com/2026/02/naufragio-en-la-costa-de-panama-dejo-dos-migrantes-venezolanas-fallecidos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/naufragio-panama-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "En medio de emergencia en Córdoba, hallan cuerpo de joven arrastrado por corriente en San Pelayo",
       "link": "https://www.noticiascaracol.com/colombia/en-medio-de-emergencia-en-cordoba-hallan-cuerpo-de-joven-arrastrado-por-corriente-en-san-pelayo-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/75190a5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F73%2Fb7b734f841919f55b8f6791db9eb%2Finundaciones-cordoba-1.jpg"
     },
     {
+      "source": "La Verdad",
+      "title": "Un Nuevo Tiempo: “La amnistía debe garantizar derechos políticos plenos”",
+      "link": "https://laverdad.com/un-nuevo-tiempo-la-amnistia-debe-garantizar-derechos-politicos-plenos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ruben-Blades-en-tarima.jpg"
+    },
+    {
       "source": "Diario Versión Final",
-      "title": "Gobierno desmiente envío de cargamento de crudo de Venezuela a Israel",
-      "link": "https://diarioversionfinal.com/politica-dinero/gobierno-desmiente-envio-de-cargamento-de-crudo-de-venezuela-a-israel/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fsd-750x430.jpg"
+      "title": "Oficialismo asegura que “discutirá” casos de presos políticos tras recibir familiares en la Asamblea Nacional",
+      "link": "https://diarioversionfinal.com/politica-dinero/oficialismo-asegura-que-discutira-casos-de-presos-politicos-tras-recibir-familiares-en-la-asamblea-nacional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ytedf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-11T02:26:51.989Z"
+  "lastUpdate": "2026-02-11T05:03:26.474Z"
 }
