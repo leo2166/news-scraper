@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "576,10"
+      "usdt": "577,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Directora de Justicia, Encuentro y Perdón a diputados chavistas: “Den la orden y todos los presos políticos salen inmediatamente”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/directora-de-justicia-encuentro-y-perdon-a-diputados-chavistas-den-la-orden-y-todos-los-presos-politicos-salen-inmediatamente/",
+      "title": "Secretario de Energía de EE UU llega este miércoles a Venezuela para evaluar sector petrolero\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/secretario-de-energia-de-ee-uu-llega-este-miercoles-a-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué aliados le quedan a Cuba en la región? Spoiler: no son muchos",
-      "link": "https://cnnespanol.cnn.com/2026/02/11/latinoamerica/aliados-socios-cuba-region-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2259465596.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Drones de un cartel mexicano violaron el espacio aéreo de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/02/11/eeuu/drones-cartel-mexicano-violaron-espacio-aereo-el-paso-texas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/drones-espacio-aereo-usa.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "IMÁGENES DE HORROR: Filtran video de la brutal arremetida de agentes de ICE contra defensora de migrantes en California",
-      "link": "https://caraotadigital.net/eeuu/imagenes-de-horror-filtran-video-de-la-brutal-arremetida-de-agentes-de-ice-contra-defensora-de-migrantes-en-california/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/PIMIENTA.jpg"
+      "title": "EN MIRANDA: Prohíben la venta y el uso de «tánganas» o espuma para este Carnaval, estas son las severas sanciones si incumplen",
+      "link": "https://caraotadigital.net/venezuela/en-miranda-prohiben-la-venta-y-el-uso-de-tanganas-o-espuma-para-este-carnaval-estas-son-las-severas-sanciones-si-incumplen/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/carnaval.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -43,11 +43,17 @@ window.DASHBOARD_DATA = {
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/75190a5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F73%2Fb7b734f841919f55b8f6791db9eb%2Finundaciones-cordoba-1.jpg"
     },
     {
+      "source": "La Verdad",
+      "title": "Excarcelan a Nélida Sánchez, coordinadora de Súmate",
+      "link": "https://laverdad.com/excarcelan-a-nelida-sanchez-coordinadora-de-sumate/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ruben-Blades-en-tarima.jpg"
+    },
+    {
       "source": "Diario Versión Final",
-      "title": "Zelenski planea elecciones y referéndum para un acuerdo de paz para este mes",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-planea-elecciones-y-referendum-para-un-acuerdo-de-paz-para-este-mes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/denuncian-secuestro-de-coordinadora-de-sumate-venezuela-750x430.webp"
+      "title": "El efecto Trump desploma intención de migrar de los venezolanos",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-extra/el-efecto-trump-desploma-intencion-de-migrar-de-los-venezolanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/delcy-rodriguez-en-el-plan-amor-y-prosperidad-alimentaria-53296-750x430.png"
     }
   ],
-  "lastUpdate": "2026-02-11T13:12:05.895Z"
+  "lastUpdate": "2026-02-11T14:54:24.653Z"
 };
