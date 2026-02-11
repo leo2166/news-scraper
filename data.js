@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "547,49"
+      "usdt": "574,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Las autoridades venezolanas liberan a tres ciudadanos hondureños detenidos desde junio de 2025",
-      "link": "https://www.infobae.com/venezuela/2026/02/11/las-autoridades-venezolanas-liberan-a-tres-ciudadanos-hondurenos-detenidos-desde-junio-de-2025/",
-      "image": "https://www.infobae.com/resizer/v2/OED2WXUGBJETZHIIX2ZKQO4KXM.jpg?auth=37caf8696179c79731dc91f90dbc84ed67936366bbf300b302d1983f9c9d4688&smart=true&width=350&height=197&quality=85"
+      "title": "El partido de María Corina Machado dijo que Venezuela vive una “oportunidad real” para avanzar hacia la libertad",
+      "link": "https://www.infobae.com/venezuela/2026/02/11/el-partido-de-maria-corina-machado-dijo-que-venezuela-vive-una-oportunidad-real-para-avanzar-hacia-la-libertad/",
+      "image": "https://www.infobae.com/resizer/v2/K4TJL6QBNRFVDAIYJJOUYWXXR4.JPG?auth=aaf9f5c8b091cad38c38426e56337d86a467530f46c0b70378cbabeaa16f0197&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Secretario de Energía de EEEU se reúne con Delcy Rodríguez en Miraflores",
-      "link": "https://caraotadigital.net/venezuela/secretario-de-energia-de-eeeu-se-reune-con-delcy-rodriguez-en-miraflores/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/eeuudelcy718i34.jpg"
+      "title": "Laura Dogu revela detalles de la reunión del secretario de Energía de EEUU con Delcy Rodríguez",
+      "link": "https://caraotadigital.net/venezuela/laura-dogu-revela-detalles-de-la-reunion-del-secretario-de-energia-de-eeuu-con-delcy-rodriguez/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/HA5smQNbYAAZSgk.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Vente Venezuela ve “una oportunidad de cambio” para lograr “la libertad”",
-      "link": "https://laverdad.com/vente-venezuela-ve-una-oportunidad-de-cambio-para-lograr-la-libertad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Congresistas-republicanos-1.jpg"
+      "title": "Capturan a sospechoso por hurto de cableado eléctrico en San Jacinto",
+      "link": "https://laverdad.com/capturan-a-sospechoso-por-hurto-de-cableado-electrico-en-san-jacinto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Prince-Royce-y-Romeo-Santos-cantaran-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolana que trabaja con gobernadora de Massachusetts demanda a Trump por retraso de su visa",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-extra/venezolana-que-trabaja-con-gobernadora-de-massachusetts-demanda-a-trump-por-retraso-de-su-visa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/pdvsa-11041-750x430.jpg"
+      "title": "Chris Wright se reúne con Delcy Rodríguez para impulsar acuerdo energético",
+      "link": "https://diarioversionfinal.com/politica-dinero/chris-wright-se-reune-con-delcy-rodriguez-para-impulsar-acuerdo-energetico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/280e97b559914b52060895f16ded71fa92dad03cw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-11T19:12:03.709Z"
+  "lastUpdate": "2026-02-11T20:39:46.117Z"
 };
