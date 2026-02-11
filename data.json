@@ -5,7 +5,7 @@
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "577,00"
+      "usdt": "576,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Foro Penal verificó 431 excarcelaciones de presos políticos en Venezuela tras el anuncio del proceso de liberaciones",
-      "link": "https://www.infobae.com/venezuela/2026/02/11/la-ong-foro-penal-verifico-431-excarcelaciones-de-presos-politicos-en-venezuela-tras-el-anuncio-del-proceso-de-liberaciones/",
-      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
+      "title": "La aerolínea venezolana Conviasa reprogramó sus vuelos a Cuba por la escasez de combustible",
+      "link": "https://www.infobae.com/america/america-latina/2026/02/11/la-aerolinea-venezolana-conviasa-reprogramo-sus-vuelos-a-cuba-por-la-escasez-de-combustible/",
+      "image": "https://www.infobae.com/resizer/v2/LZMMQELIGFGEJD2LGGMFVRVUIU.jpg?auth=d7031f1e35ab552dcbbeb707a25a56ff60128b1d495d11b49b90339316c4d3e6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El renacer petrolero: la alianza estratégica que devuelve a Venezuela al tablero mundial\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/02/renacer-petroleo-venezuela-chevron-monaldi-2026/",
+      "title": "Directora de Justicia, Encuentro y Perdón a diputados chavistas: “Den la orden y todos los presos políticos salen inmediatamente”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/directora-de-justicia-encuentro-y-perdon-a-diputados-chavistas-den-la-orden-y-todos-los-presos-politicos-salen-inmediatamente/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,29 +37,17 @@
       "image": "https://caraotadigital.net/wp-content/uploads/2026/02/PIMIENTA.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "NAUFRAGIO EN LA COSTA DE PANAMÁ DEJÓ DOS MIGRANTES VENEZOLANAS FALLECIDOS",
-      "link": "https://noticierodigital.com/2026/02/naufragio-en-la-costa-de-panama-dejo-dos-migrantes-venezolanas-fallecidos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/naufragio-panama-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "En medio de emergencia en Córdoba, hallan cuerpo de joven arrastrado por corriente en San Pelayo",
       "link": "https://www.noticiascaracol.com/colombia/en-medio-de-emergencia-en-cordoba-hallan-cuerpo-de-joven-arrastrado-por-corriente-en-san-pelayo-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/75190a5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F73%2Fb7b734f841919f55b8f6791db9eb%2Finundaciones-cordoba-1.jpg"
     },
     {
-      "source": "La Verdad",
-      "title": "Un Nuevo Tiempo: “La amnistía debe garantizar derechos políticos plenos”",
-      "link": "https://laverdad.com/un-nuevo-tiempo-la-amnistia-debe-garantizar-derechos-politicos-plenos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ruben-Blades-en-tarima.jpg"
-    },
-    {
       "source": "Diario Versión Final",
       "title": "Zelenski planea elecciones y referéndum para un acuerdo de paz para este mes",
       "link": "https://diarioversionfinal.com/mundo/zelenski-planea-elecciones-y-referendum-para-un-acuerdo-de-paz-para-este-mes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ytedf-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/denuncian-secuestro-de-coordinadora-de-sumate-venezuela-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-11T11:45:39.589Z"
+  "lastUpdate": "2026-02-11T13:12:05.895Z"
 }
