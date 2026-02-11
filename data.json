@@ -5,7 +5,7 @@
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "576,90"
+      "usdt": "577,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal denunció que las excarcelaciones bajo medidas restrictivas no constituyen libertad real",
-      "link": "https://www.infobae.com/venezuela/2026/02/10/foro-penal-denuncio-que-las-excarcelaciones-bajo-medidas-restrictivas-no-constituyen-libertad-real/",
-      "image": "https://www.infobae.com/resizer/v2/4ODZAL25UNDQXMC3C45L55XWJ4.JPG?auth=f3c63e84472f44eb5ba8ba0765062ff270a9e30c5987cff0a3539086f3e1a880&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela recibió a familiares de presos políticos en medio de los cuestionamientos a la ley de amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/02/11/el-parlamento-de-venezuela-recibio-a-familiares-de-presos-politicos-en-medio-de-los-cuestionamientos-a-la-ley-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/YO37JIAKXJGVXP3SI5MFOEPL6A.JPG?auth=094e0528803d1f7edfce41fb5f9084b83d5045282607f18ed14e253e13f498d3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,21 +32,21 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "Conmoción en Táchira: Seis niños heridos tras aparatoso accidente en una ‘rueda de la fortuna’",
-      "link": "https://caraotadigital.net/sucesos/conmocion-en-tachira-seis-ninos-heridos-tras-aparatoso-accidente-en-una-rueda-de-la-fortuna/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/image-9.jpg"
+      "title": "IMÁGENES DE HORROR: Filtran video de la brutal arremetida de agentes de ICE contra defensora de migrantes en California",
+      "link": "https://caraotadigital.net/eeuu/imagenes-de-horror-filtran-video-de-la-brutal-arremetida-de-agentes-de-ice-contra-defensora-de-migrantes-en-california/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/PIMIENTA.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PÉREZ PIRELA CALIFICÓ DE «FAKE» REPORTE SOBRE ENVÍOS DE PETRÓLEO VENEZOLANO A ISRAEL",
-      "link": "https://noticierodigital.com/2026/02/perez-pirela-califico-de-fake-reporte-sobre-envios-de-petroleo-venezolano-a-israel/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/miguel-perez-pirela-627x376.jpg"
+      "title": "NAUFRAGIO EN LA COSTA DE PANAMÁ DEJÓ DOS MIGRANTES VENEZOLANAS FALLECIDOS",
+      "link": "https://noticierodigital.com/2026/02/naufragio-en-la-costa-de-panama-dejo-dos-migrantes-venezolanas-fallecidos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/naufragio-panama-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ideam aclara si se acerca tercer frente frío: revelan alertas por inundaciones y crecientes súbitas",
-      "link": "https://www.noticiascaracol.com/colombia/ideam-aclara-si-se-acerca-un-tercer-frente-frio-conozca-las-alertas-activas-por-inundaciones-y-crecientes-subitas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/99e05d6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7e%2F1d%2Ff16b5b86479e99e91db70b86c61c%2Fdiseno-1.jpg"
+      "title": "En medio de emergencia en Córdoba, hallan cuerpo de joven arrastrado por corriente en San Pelayo",
+      "link": "https://www.noticiascaracol.com/colombia/en-medio-de-emergencia-en-cordoba-hallan-cuerpo-de-joven-arrastrado-por-corriente-en-san-pelayo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/75190a5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F73%2Fb7b734f841919f55b8f6791db9eb%2Finundaciones-cordoba-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fsd-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-10T23:38:40.092Z"
+  "lastUpdate": "2026-02-11T02:26:51.989Z"
 }
