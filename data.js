@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "462,78"
     },
     "binance": {
-      "usdt": "574,10"
+      "usdt": "572,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Laura Dogu revela detalles de la reunión del secretario de Energía de EEUU con Delcy Rodríguez",
-      "link": "https://caraotadigital.net/venezuela/laura-dogu-revela-detalles-de-la-reunion-del-secretario-de-energia-de-eeuu-con-delcy-rodriguez/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/HA5smQNbYAAZSgk.jpg"
+      "title": "Las ‘nuevas tácticas encubiertas’ con las que ICE aterroriza a migrantes en Minnesota: “Tom Homan es un diablo”",
+      "link": "https://caraotadigital.net/eeuu/las-nuevas-tacticas-encubiertas-con-las-que-ice-aterroriza-a-migrantes-en-minnesota-tom-homan-es-un-diablo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/ICE-3.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La \"historia de terror\" de niña de 9 años colombiana y su madre al ser detenidas por ICE en EE. UU.",
-      "link": "https://www.noticiascaracol.com/mundo/nina-colombiana-y-su-madre-relataron-como-fueron-detenidas-por-ice-habia-una-celda-con-una-camara-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e984e72/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5e%2F1c%2Fc5bd123b486498784bbdc67171a2%2Fcanada-4.jpg"
+      "title": "EN VIVO | Movilidad en Bogotá hoy 11 de febrero: hay inundaciones en Autonorte por fuertes lluvias",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/en-vivo-movilidad-en-bogota-por-fuertes-lluvias-hoy-11-de-febrero-hay-inundaciones-en-autonorte-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/04bfb7c/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9b%2F6d%2Fac2bb8824002bb562286586cce63%2Ftamano-imagenes-14.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Capturan a sospechoso por hurto de cableado eléctrico en San Jacinto",
-      "link": "https://laverdad.com/capturan-a-sospechoso-por-hurto-de-cableado-electrico-en-san-jacinto/",
+      "title": "Capriles: Ley de Amnistía debe “garantizar la recuperación de la institucionalidad”",
+      "link": "https://laverdad.com/capriles-ley-de-amnistia-debe-garantizar-la-recuperacion-de-la-institucionalidad/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Prince-Royce-y-Romeo-Santos-cantaran-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
       "title": "Chris Wright se reúne con Delcy Rodríguez para impulsar acuerdo energético",
       "link": "https://diarioversionfinal.com/politica-dinero/chris-wright-se-reune-con-delcy-rodriguez-para-impulsar-acuerdo-energetico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/280e97b559914b52060895f16ded71fa92dad03cw-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/photo_2026-02-11_16-32-09-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-11T20:39:46.117Z"
+  "lastUpdate": "2026-02-11T21:34:08.986Z"
 };
