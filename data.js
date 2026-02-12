@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "390,29",
-      "eur": "463,08"
+      "usd": "393,22",
+      "eur": "467,33"
     },
     "binance": {
-      "usdt": "569,66"
+      "usdt": "570,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,7 +20,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "AN difiere segunda discusión de la ley de amnistía\nPOLÍTICA",
+      "title": "AN aplaza para la próxima semana el debate final de ley de amnistía\nPOLÍTICA",
       "link": "https://www.elnacional.com/2026/02/an-difiere-segunda-discusion-de-la-ley-de-amnistia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "AN difiere segunda discusión del proyecto de Ley de Amnistía, estos son los artículos aprobados",
-      "link": "https://caraotadigital.net/venezuela/an-difiere-segunda-discusion-del-proyecto-de-ley-de-amnistia-estos-son-los-articulos-aprobados/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/01/Asamblea-1.jpg"
+      "title": "La decisión de Maduro ante el juicio que enfrenta excongresista vinculado con él y acusado de ‘agente externo’",
+      "link": "https://caraotadigital.net/eeuu/la-decision-de-maduro-ante-el-juicio-que-enfrenta-excongresista-vinculado-con-el-y-acusado-de-agente-externo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/MADURO-DEA.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump: Nos entendemos bien con Delcy Rodríguez y el petróleo venezolano ya fluye",
-      "link": "https://diarioversionfinal.com/mundo/trump-nos-entendemos-bien-con-delcy-rodriguez-y-el-petroleo-venezolano-ya-fluye/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/eln-20-de-enero-2025-750x430.webp"
+      "title": "AN difiere segunda discusión de la Ley de Amnistía y la pospone para la próxima semana",
+      "link": "https://diarioversionfinal.com/politica-dinero/an-difiere-segunda-discusion-de-la-ley-de-amnistia-y-la-pospone-para-la-proxima-semana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/hbnkl-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-12T20:36:41.860Z"
+  "lastUpdate": "2026-02-12T21:34:16.329Z"
 };
