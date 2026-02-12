@@ -5,7 +5,7 @@
       "eur": "463,08"
     },
     "binance": {
-      "usdt": "542,00"
+      "usdt": "567,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,46 +14,46 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El secretario de Energía de Estados Unidos visitó una planta petrolera en Venezuela en compañía de Delcy Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/02/12/el-secretario-de-energia-de-estados-unidos-visito-una-planta-petrolera-en-venezuela-en-compania-de-delcy-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/JQ5XQPFKKFBGLL3Z7FZYBNQUN4.jpg?auth=3bab166e938065c89e9c7fdfa27f04f28c2cd1e709322f65f2aed0a20529bfd1&smart=true&width=350&height=197&quality=85"
+      "title": "El movimiento estudiantil de Venezuela encabezó la primera marcha en Caracas tras la captura de Maduro: “No tenemos miedo”",
+      "link": "https://www.infobae.com/venezuela/2026/02/12/el-movimiento-estudiantil-de-venezuela-encabezo-la-primera-marcha-en-caracas-tras-la-captura-de-maduro-no-tenemos-miedo/",
+      "image": "https://www.infobae.com/resizer/v2/CPKJTO4N45EBLFW2ZYLQYUWB2A.PNG?auth=c3c7bf97ef49f7c0fe5a5234ab8db4b679b17a7abcb95c37b2fd75f3ad8648ab&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Estados Unidos no reconoce formalmente al gobierno de Delcy Rodríguez\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/ee-uu-no-reconoce-formalmente-al-gobierno-de-delcy-rodriguez/",
+      "title": "Estudiantes y familiares protestan en la UCV el Día de la Juventud: exigen amnistía y libertad plena para presos políticos\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/la-ucv-se-desbordo-en-protesta-por-los-presos-politicos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Zar de la frontera anuncia el fin de la ofensiva inmigratoria en Minneapolis",
-      "link": "https://cnnespanol.cnn.com/2026/02/12/eeuu/fin-ofensiva-inmigratoria-minneapolis-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2259875713.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Asamblea de Venezuela realiza debate para aprobar ley de amnistía",
+      "link": "https://cnnespanol.cnn.com/venezuela/live-news/ultima-hora-ley-amnistia-en-vivo-wright-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/asamblea-venezuela-gettyimages-2260788437.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "¿El Puma quiere un acercamiento con Liliana y Lilibeth Rodríguez? La respuesta que sorprendió a todos y está dando de qué hablar",
-      "link": "https://caraotadigital.net/caraota-show/el-puma-quiere-un-acercamiento-con-liliana-y-lilibeth-rodriguez-la-respuesta-que-sorprendio-a-todos-y-esta-dando-de-que-hablar1/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Puma-1.jpg"
+      "title": "¿Por qué falló Digitel? Esta sería la causa, según su presidente",
+      "link": "https://caraotadigital.net/venezuela/por-que-fallo-digitel-esta-seria-la-causa-segun-su-presidente/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Digitel-CD.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gobierno de Trump anuncia fin del despliegue masivo de agentes migratorios en Minesota, EE. UU.",
-      "link": "https://www.noticiascaracol.com/mundo/gobierno-de-trump-anuncia-fin-del-despliegue-masivo-de-agentes-migratorios-en-minesota-ee-uu-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8dc2b9c/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2Fa9%2F0ff0f39743d99033d4dd36b3ea9b%2Festados-unidos-1.jpg"
+      "title": "“Él nunca nos manifestó que tuvieran amenazas”: familia de escolta de empresario asesinado en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/el-nunca-nos-manifesto-que-tuvieran-amenazas-familia-de-escolta-de-empresario-asesinado-en-bogota-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ae81b33/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd5%2F9a%2F280b383d4903b79695aa075884c6%2Fescolta-gimnasio.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Colombia importará “gas venezolano muchísimo más barato”",
-      "link": "https://laverdad.com/colombia-importara-gas-venezolano-muchisimo-mas-barato/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Nelson-Romero-_El-Ayayero_.jpg"
+      "title": "Secretario de Energía de EE. UU. visita campo petrolero junto con Delcy Rodríguez",
+      "link": "https://laverdad.com/secretario-de-energia-de-ee-uu-visita-campo-petrolero-junto-con-delcy-rodriguez/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/James-Van-Der-Beek-y-sus-6-hijos.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jóvenes y sociedad civil alzan su voz en la UCV por libertad",
-      "link": "https://diarioversionfinal.com/politica-dinero/jovenes-y-sociedad-civil-alzan-su-voz-en-la-ucv-por-libertad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-12-at-1.50.18-PM-750x430.jpeg"
+      "title": "Trump: Nos entendemos bien con Delcy Rodríguez y el petróleo venezolano ya fluye",
+      "link": "https://diarioversionfinal.com/mundo/trump-nos-entendemos-bien-con-delcy-rodriguez-y-el-petroleo-venezolano-ya-fluye/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-12-at-2.57.35-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-12T18:01:38.955Z"
+  "lastUpdate": "2026-02-12T19:49:28.644Z"
 }
