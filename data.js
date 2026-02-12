@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "463,08"
     },
     "binance": {
-      "usdt": "576,50"
+      "usdt": "577,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela 2026: el retorno de la inversión en medio de la precariedad\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/02/venezuela-2026-crecimiento-pib-ecoanalitica-crisis-electrica/",
+      "title": "El movimiento estudiantil venezolano regresa a la primera línea para defender la democracia\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/el-movimiento-estudiantil-venezolano-regresa-a-la-primera-linea-para-defender-la-democracia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/dwas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-12T08:50:15.459Z"
+  "lastUpdate": "2026-02-12T09:51:56.575Z"
 };
