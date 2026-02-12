@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "463,08"
     },
     "binance": {
-      "usdt": "574,66"
+      "usdt": "573,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Maduro cree que en Venezuela “están tomando los pasos correctos”, dice el hijo",
-      "link": "https://cnnespanol.cnn.com/2026/02/12/venezuela/hijo-maduro-padre-pasos-correctos-unidad-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b017942b9d8c45bf2ba1427e144537725b103a0dw.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Rodríguez dice que Maduro sigue siendo \"presidente legítimo\" de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/02/12/venezuela/delcy-rodriguez-invitada-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261136143.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "ESCALOFRIANTE: Se fracturó la columna y las piernas cuando intentaba esquiar, todo quedó grabado",
-      "link": "https://caraotadigital.net/tendencias/escalofriante-se-fracturo-la-columna-y-las-piernas-cuando-intentaba-esquiar-todo-quedo-grabado/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Esqui-CD.jpg"
+      "title": "«Lo único que hicimos fue defender la verdad»: Una multitud recibió a María Oropeza en Portuguesa tras estar 17 meses detenida",
+      "link": "https://caraotadigital.net/venezuela/lo-unico-que-hicimos-fue-defender-la-verdad-una-multitud-recibio-a-maria-oropeza-en-portuguesa-tras-estar-17-meses-detenida/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Maria-Oropeza.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Capriles: Ley de Amnistía debe “garantizar la recuperación de la institucionalidad”",
-      "link": "https://laverdad.com/capriles-ley-de-amnistia-debe-garantizar-la-recuperacion-de-la-institucionalidad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Prince-Royce-y-Romeo-Santos-cantaran-1-scaled.jpg"
+      "title": "Madre machiquense pierde la vida en naufragio en el Caribe panameño",
+      "link": "https://laverdad.com/madre-machiquense-pierde-la-vida-en-naufragio-en-el-caribe-panameno/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/James-Van-Der-Beek-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jóvenes protestan en Venezuela durante debate clave sobre amnistía política",
-      "link": "https://diarioversionfinal.com/politica-dinero/jovenes-protestan-en-venezuela-durante-debate-clave-sobre-amnistia-politica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-12-at-8.47.55-AM-640x430.jpeg"
+      "title": "Familiares de presos políticos siguen de cerca posible aprobación de Ley de Amnistía",
+      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-siguen-de-cerca-posible-aprobacion-de-ley-de-amnistia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-12-at-10.34.10-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-12T13:09:31.869Z"
+  "lastUpdate": "2026-02-12T14:48:35.522Z"
 };
