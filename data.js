@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "463,08"
     },
     "binance": {
-      "usdt": "578,00"
+      "usdt": "574,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo Trump fracasó en su último intento de utilizar la justicia como arma",
-      "link": "https://cnnespanol.cnn.com/2026/02/12/eeuu/analisis-como-trump-fracaso-utilizar-justicia-arma-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-11t214641z-276032874-rc2xjjakrffn-rtrmadp-3-usa-trump-20260212055516297.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Maduro cree que en Venezuela “están tomando los pasos correctos”, dice el hijo",
+      "link": "https://cnnespanol.cnn.com/2026/02/12/venezuela/hijo-maduro-padre-pasos-correctos-unidad-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b017942b9d8c45bf2ba1427e144537725b103a0dw.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quién era el empresario víctima de sicariato frente a un gimnasio en el norte de Bogotá?",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/quien-era-el-empresario-victima-de-sicariato-frente-a-un-gimnasio-en-el-norte-de-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cd3d2fa/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdf%2F6d%2Fafbc3d2c4468a5fd9684ff4cba27%2Fplantilla-fotos-8.jpg"
+      "title": "Las dos pistas que dejaron los sicarios que asesinaron a empresario y su escolta en norte de Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/las-dos-pistas-que-dejaron-los-sicarios-que-asesinaron-a-empresario-y-su-escolta-en-norte-de-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/577943e/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F22%2F66%2F1115319a4ff1919fff6cff70548a%2Fcanada-5.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Asamblea Nacional realizará la segunda discusión de la Ley de Amnistía este jueves",
-      "link": "https://diarioversionfinal.com/politica-dinero/asamblea-nacional-realizara-la-segunda-discusion-de-la-ley-de-amnistia-este-jueves/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/dwas-750x430.jpg"
+      "title": "Jóvenes protestan en Venezuela durante debate clave sobre amnistía política",
+      "link": "https://diarioversionfinal.com/politica-dinero/jovenes-protestan-en-venezuela-durante-debate-clave-sobre-amnistia-politica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-12-at-8.47.55-AM-640x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-12T11:40:06.791Z"
+  "lastUpdate": "2026-02-12T13:09:31.869Z"
 };
