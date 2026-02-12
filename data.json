@@ -5,7 +5,7 @@
       "eur": "463,08"
     },
     "binance": {
-      "usdt": "577,66"
+      "usdt": "578,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El líder opositor Edmundo González Urrutia denunció que los derechos en Venezuela se convirtieron “privilegios” selectivos",
-      "link": "https://www.infobae.com/venezuela/2026/02/12/el-lider-opositor-edmundo-gonzalez-urrutia-denuncio-que-los-derechos-en-venezuela-se-convirtieron-privilegios-selectivos/",
-      "image": "https://www.infobae.com/resizer/v2/VQTAD5BQYZGUZE6HBEE6AYAAJI.jpg?auth=b03fcabb2fff68cd12ff5a94dbf6089d147c2bc09d464265962a718e21354ca9&smart=true&width=350&height=197&quality=85"
+      "title": "El proyecto de amnistía llega al debate final en la Asamblea Nacional de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/12/el-proyecto-de-amnistia-llega-al-debate-final-en-la-asamblea-nacional-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/CCGWFBULUZFH7M2XABCFQM3F44.JPG?auth=b23810e43cfd784d0dcfc6dc3fb79554a72a234eb83a31e74e5848fdd3ccf73f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/dwas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-12T10:46:58.141Z"
+  "lastUpdate": "2026-02-12T11:40:06.791Z"
 }
