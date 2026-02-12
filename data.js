@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/dwas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-12T07:52:30.297Z"
+  "lastUpdate": "2026-02-12T08:50:15.459Z"
 };
