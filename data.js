@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Refinería de India fue autorizada por Estados Unidos para comprar petróleo venezolano",
-      "link": "https://caraotadigital.net/mundo/refineria-de-india-fue-autorizada-por-estados-unidos-para-comprar-petroleo-venezolano/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Reliance-CD.jpg"
+      "title": "American Airlines solicita a EEUU autorización para reanudar vuelos desde Miami a dos ciudades de Venezuela",
+      "link": "https://caraotadigital.net/eeuu/american-airlines-solicita-a-eeuu-autorizacion-para-reanudar-vuelos-desde-miami-a-dos-ciudades-de-venezuela/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2025/09/AMERICAN-AIRLINES-AIRPORT-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RETORNARON 110 VENEZOLANOS AL PAÍS EN NUEVO VUELO DE DEPORTACIÓN DESDE EE. UU.",
-      "link": "https://noticierodigital.com/2026/02/retornaron-110-venezolanos-al-pais-en-nuevo-vuelo-de-deportacion-desde-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/vuelo-de-deportacion-venezolanos-eeuu-2-627x376.jpg"
+      "title": "INTT RESTRINGIRÁ CIRCULACIÓN DE CARGA PESADA DURANTE EL ASUETO DE CARNAVAL",
+      "link": "https://noticierodigital.com/2026/02/intt-restringira-circulacion-de-carga-pesada-durante-el-asueto-de-carnaval/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/transporte-carga-pesada-6ene2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,8 +58,8 @@ window.DASHBOARD_DATA = {
       "source": "Diario Versión Final",
       "title": "La PUD reporta 453 excarcelaciones y reclama “procesos de liberación masivos”",
       "link": "https://diarioversionfinal.com/politica-dinero/la-pud-reporta-453-excarcelaciones-y-reclama-procesos-de-liberacion-masivos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-19-01-2026-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Maduro-20-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-13T22:34:19.211Z"
+  "lastUpdate": "2026-02-13T23:31:24.233Z"
 };
