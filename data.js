@@ -1,8 +1,8 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "393,22",
-      "eur": "467,33"
+      "usd": "396,37",
+      "eur": "470,28"
     },
     "binance": {
       "usdt": "559,00"
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Apoyan los estadounidenses las exigencias demócratas en materia de inmigración?",
-      "link": "https://cnnespanol.cnn.com/2026/02/13/eeuu/exigencias-democratas-inmigracion-cierre-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-schumer-gettyimages-2260807879.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Rodríguez afianza su relación con EE.UU. mientras la oposición sigue dividida",
+      "link": "https://cnnespanol.cnn.com/2026/02/13/venezuela/quien-es-quien-oposicion-venezuela-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261136103.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Murió Humberto Acosta: Uno de los máximos exponentes del periodismo deportivo",
-      "link": "https://caraotadigital.net/deportes/murio-humberto-acosta-uno-de-los-maximos-exponentes-del-periodismo-deportivo/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Acosta-CD.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "FAMILIARES PUDIERON VER A ACUSADOS POR EL CASO GEDEÓN Y ADVIERTEN QUE ESTÁN EN MAL ESTADO",
-      "link": "https://noticierodigital.com/2026/02/familiares-pudieron-ver-a-acusados-por-el-caso-gedeon-y-advierten-que-estan-en-mal-estado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-1-5-627x376.jpg"
+      "title": "El espeluznante caso de canibalismo: Un hombre se comió a su compañero de celda y hasta contó cómo lo mató",
+      "link": "https://caraotadigital.net/mundo/el-espeluznante-caso-de-canibalismo-un-hombre-se-comio-a-su-companero-de-celda-y-hasta-conto-como-lo-mato/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/image-1-2.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-19-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-13T20:39:18.721Z"
+  "lastUpdate": "2026-02-13T21:35:49.118Z"
 };
