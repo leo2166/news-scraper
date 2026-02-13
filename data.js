@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "568,89"
+      "usdt": "562,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Presidente de la FCU – UCV denunció persecución tras protesta por presos políticos\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/presidente-de-la-fcu-ucv-denuncio-persecucion-tras-protesta-por-presos-politicos/",
+      "title": "ONG advierten que la ley de amnistía no debe convertirse en un mecanismo de impunidad\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/ong-ley-de-amnistia-no-debe-ser-mecanismo-de-impunidad/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Por qué no se aprueba aún la ley de amnistía para presos políticos en Venezuela?",
-      "link": "https://cnnespanol.cnn.com/2026/02/12/venezuela/falta-consenso-ley-amnistia-venezuela-opositores-exilio-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260779008.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump, Sheinbaum, Díaz-Canel y la eterna pregunta de los cubanos",
+      "link": "https://cnnespanol.cnn.com/2026/02/13/latinoamerica/cuba-preguntas-trump-sheinbaum-diaz-canel-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/89a567d45b3dd622c9b201d359d803972de5deb2w.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
@@ -43,11 +43,17 @@ window.DASHBOARD_DATA = {
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/4eed5da/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F66%2F8a%2Fcd1024f44e3e965fcd595bb653cc%2Famigos-empresario.jpg"
     },
     {
+      "source": "La Verdad",
+      "title": "AN aplaza para la próxima semana el debate final de la Ley de Amnistía",
+      "link": "https://laverdad.com/an-aplaza-para-la-proxima-semana-el-debate-final-de-la-ley-de-amnistia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Gaby-Spanic.jpg"
+    },
+    {
       "source": "Diario Versión Final",
       "title": "Miguelangel Suárez, líder estudiantil: “Hay un vehículo persiguiéndome desde que salí de la UCV”",
       "link": "https://diarioversionfinal.com/politica-dinero/miguelangel-suarez-lider-estudiantil-hay-un-vehiculo-persiguiendome-desde-que-sali-de-la-ucv/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/o4DWnS8F-image-750x430.jpg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-8.37.35-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-13T11:32:04.657Z"
+  "lastUpdate": "2026-02-13T13:01:11.713Z"
 };
