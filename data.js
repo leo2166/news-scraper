@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "564,50"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Desnutridos y aislados: el dramático estado de 32 detenidos del Caso Gedeón tras seis meses incomunicados en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/13/desnutridos-y-aislados-el-dramatico-estado-de-32-detenidos-del-caso-gedeon-tras-seis-meses-incomunicados-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/DHWLQCQHTJCYVMFSX42QZWGURY.jpg?auth=7c616d7f6e3d87b403420622f8777ca782d2a32e2b67afea6085f15c564470b3&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos autorizó operaciones de cinco multinacionales petroleras en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/13/estados-unidos-autorizo-operaciones-de-cinco-multinacionales-petroleras-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/QHEN5OGTTZCTLMBPX3MP6D7VK4.JPG?auth=59ee71726fd53722979e70613896f67ccca8da9827e2e17add2ba7460209fc85&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "ONG advierten que la ley de amnistía no debe convertirse en un mecanismo de impunidad\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/ong-ley-de-amnistia-no-debe-ser-mecanismo-de-impunidad/",
+      "title": "Petroleras establecen conversaciones con Venezuela para recuperar pérdidas por expropiaciones\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/02/petroleras-conversan-con-venezuela-para-recuperar-perdidas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "OFICIAL: Shakira ofrecerá en mayo un concierto gratuito en la playa brasileña de Copacabana",
-      "link": "https://caraotadigital.net/caraota-show/oficial-shakira-ofrecera-en-mayo-un-concierto-gratuito-en-la-playa-brasilena-de-copacabana/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/SHAKIRA18131.jpg"
+      "title": "Siniestro caso en Brasil: Funcionario del gobierno descubrió que su esposa lo engañaba e ideó un plan para matar a sus hijos por venganza",
+      "link": "https://caraotadigital.net/mundo/siniestro-caso-en-brasil-funcionario-del-gobierno-descubrio-que-su-esposa-lo-enganaba-e-ideo-un-plan-para-matar-a-sus-hijos-por-venganza/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/hijos.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "ONU CONDENA SANCIONES DE EE. UU. CONTRA CUBA: «INCUMPLE LA CARTA DE NACIONES UNIDAS»",
+      "link": "https://noticierodigital.com/2026/02/onu-condena-sanciones-de-ee-uu-contra-cuba-incumple-la-carta-de-naciones-unidas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Cuba_mendigos-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Cámara de Comercio consolida liderazgo en el Directorio Itinerante de Fedecámaras",
-      "link": "https://laverdad.com/camara-de-comercio-consolida-liderazgo-en-el-directorio-itinerante-de-fedecamaras/",
+      "title": "González Urrutia conversa con Guanipa y aplaude su “firmeza y serenidad”",
+      "link": "https://laverdad.com/gonzalez-urrutia-conversa-con-guanipa-y-aplaude-su-firmeza-y-serenidad/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Venezuela-9-1-Cuba-Serie-de-las-Americas-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodríguez garantiza \"elecciones libres\" en Venezuela sin anunciar fecha",
-      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-asegura-eleciones-libres-en-venezuela-sin-anunciar-fecha/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-11.12.03-AM-750x430.jpeg"
+      "title": "Líder estudiantil tras hostigamiento policial: “¡Hacemos responsable a Delcy Rodríguez de lo que nos pase!”",
+      "link": "https://diarioversionfinal.com/politica-dinero/lider-estudiantil-tras-hostigamiento-policial-hacemos-responsable-a-delcy-rodriguez-de-lo-que-nos-pase/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-12.00.45-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-13T15:42:13.907Z"
+  "lastUpdate": "2026-02-13T16:48:14.966Z"
 };
