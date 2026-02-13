@@ -49,5 +49,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/1562679834-buques-petroleros-venezolanos-cambian-nombre-evitar-sanciones-eeuu-enviar-petroleo-cuba-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-13T07:11:21.585Z"
+  "lastUpdate": "2026-02-13T08:43:02.195Z"
 };
