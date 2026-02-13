@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "571,00"
+      "usdt": "568,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela planea otorgar nuevas áreas de producción petrolera a Chevron y a Repsol",
-      "link": "https://www.infobae.com/venezuela/2026/02/13/venezuela-planea-otorgar-nuevas-areas-de-produccion-petrolera-a-chevron-y-a-repsol/",
-      "image": "https://www.infobae.com/resizer/v2/YIJ433HLKJHYFEH5Y44WNTX4VA.JPG?auth=e2ba6096bdae1e73cc5e484cf7370d207e36fe105df37a8661357c0358ae8ae8&smart=true&width=350&height=197&quality=85"
+      "title": "Desnutridos y aislados: el dramático estado de 32 detenidos del Caso Gedeón tras seis meses incomunicados en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/13/desnutridos-y-aislados-el-dramatico-estado-de-32-detenidos-del-caso-gedeon-tras-seis-meses-incomunicados-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/DHWLQCQHTJCYVMFSX42QZWGURY.jpg?auth=7c616d7f6e3d87b403420622f8777ca782d2a32e2b67afea6085f15c564470b3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -49,5 +49,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/o4DWnS8F-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-13T10:40:08.577Z"
+  "lastUpdate": "2026-02-13T11:32:04.657Z"
 };
