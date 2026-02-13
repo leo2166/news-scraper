@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "571,90"
+      "usdt": "544,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez aseguró que se realizarán elecciones “justas y libres” en Venezuela pero no fijó una fecha",
-      "link": "https://www.infobae.com/venezuela/2026/02/13/delcy-rodriguez-condiciono-la-celebracion-de-elecciones-justas-y-libres-en-venezuela-a-un-acuerdo-politico-nacional/",
-      "image": "https://www.infobae.com/resizer/v2/2WSLRVFZ7BARNMC53VJCBTQR54.JPG?auth=37fe5c5b3ea2ba104aabd2c3511940d8efee99c31ae2c1f57cf06a4bb811a723&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela planea otorgar nuevas áreas de producción petrolera a Chevron y a Repsol",
+      "link": "https://www.infobae.com/venezuela/2026/02/13/venezuela-planea-otorgar-nuevas-areas-de-produccion-petrolera-a-chevron-y-a-repsol/",
+      "image": "https://www.infobae.com/resizer/v2/YIJ433HLKJHYFEH5Y44WNTX4VA.JPG?auth=e2ba6096bdae1e73cc5e484cf7370d207e36fe105df37a8661357c0358ae8ae8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -43,17 +43,11 @@ window.DASHBOARD_DATA = {
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/4eed5da/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F66%2F8a%2Fcd1024f44e3e965fcd595bb653cc%2Famigos-empresario.jpg"
     },
     {
-      "source": "La Verdad",
-      "title": "Rodríguez dice que Machado tendrá que “responder ante Venezuela” si regresa",
-      "link": "https://laverdad.com/rodriguez-dice-que-machado-tendra-que-responder-ante-venezuela-si-regresa/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Gaby-Spanic.jpg"
-    },
-    {
       "source": "Diario Versión Final",
       "title": "Miguelangel Suárez, líder estudiantil: “Hay un vehículo persiguiéndome desde que salí de la UCV”",
       "link": "https://diarioversionfinal.com/politica-dinero/miguelangel-suarez-lider-estudiantil-hay-un-vehiculo-persiguiendome-desde-que-sali-de-la-ucv/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_9855-750x430.jpeg"
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/08988482aa927256e0273913bf4aaa3438f046fc.png"
     }
   ],
-  "lastUpdate": "2026-02-13T04:53:23.744Z"
+  "lastUpdate": "2026-02-13T05:59:54.652Z"
 };
