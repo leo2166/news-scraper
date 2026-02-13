@@ -5,7 +5,7 @@
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "533,80"
+      "usdt": "558,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos autorizó operaciones de cinco multinacionales petroleras en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/13/estados-unidos-autorizo-operaciones-de-cinco-multinacionales-petroleras-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/QHEN5OGTTZCTLMBPX3MP6D7VK4.JPG?auth=59ee71726fd53722979e70613896f67ccca8da9827e2e17add2ba7460209fc85&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump aseguró que viajará a Venezuela: “Aún no hemos definido cuándo, pero lo haré”",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/13/donald-trump-aseguro-que-viajara-a-venezuela-aun-no-hemos-definido-cuando-pero-lo-hare/",
+      "image": "https://www.infobae.com/resizer/v2/ZBLITPZLRFH6FFFLXFUKLH6SCA.jpg?auth=3e670cb8f42677547448a08780863f35d0c89fdd7c7cc4e468eab1d60ffd8caf&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Petroleras establecen conversaciones con Venezuela para recuperar pérdidas por expropiaciones\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/02/petroleras-conversan-con-venezuela-para-recuperar-perdidas/",
+      "title": "Trump dice que visitará a Venezuela\nEE UU",
+      "link": "https://www.elnacional.com/2026/02/trump-dice-que-visitara-a-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,34 +32,34 @@
     },
     {
       "source": "Caraota Digital",
-      "title": "«Es posible» que Delcy Rodríguez visite Colombia la próxima semana, según canciller",
-      "link": "https://caraotadigital.net/mundo/es-posible-que-delcy-rodriguez-visite-colombia-la-proxima-semana-segun-canciller/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/delcycolombia1881.jpg"
+      "title": "EN VIDEO: Tortuga marina no pudo enterrar sus huevos en playa de Margarita debido a construcciones «ilegales» cerca de la costa",
+      "link": "https://caraotadigital.net/venezuela/en-video-tortuga-marina-no-pudo-enterrar-sus-huevos-en-playa-de-margarita-debido-a-construcciones-ilegales-cerca-de-la-costa/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/tortuga.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EDMUNDO GONZÁLEZ SOSTUVO LLAMADA CON DIRIGENTES POLÍTICOS RECIÉN EXCARCELADOS",
-      "link": "https://noticierodigital.com/2026/02/edmundo-gonzalez-sostuvo-llamada-con-dirigentes-politicos-recien-excarcelados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/edmundo-gonzalez-23424-627x376.jpg"
+      "title": "AVIÓN CON 6 TONELADAS DE MEDICAMENTOS DE EE .UU. LLEGÓ A VENEZUELA ",
+      "link": "https://noticierodigital.com/2026/02/avion-con-6-toneladas-de-medicamentos-de-ee-uu-llego-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/IMG-20260213-WA0182-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Qué pasará con el salario mínimo mientras Gobierno expide nuevo \"decreto transitorio\"?",
-      "link": "https://www.noticiascaracol.com/economia/que-pasara-con-el-salario-minimo-mientras-gobierno-expide-nuevo-decreto-transitorio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/da17bc2/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F95%2F32%2F420659574ac794a7c15b6e169eb7%2Fdiseno-sin-titulo-2024-12-05t114327-256.jpg"
+      "title": "Así reaccionaron sindicatos y empresarios tras suspensión provisional del decreto del salario mínimo",
+      "link": "https://www.noticiascaracol.com/economia/asi-reaccionaron-los-sindicatos-y-empresarios-tras-suspension-provisional-del-decreto-del-salario-minimo-para-2026-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f0106a9/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F79%2F50%2Fa24bb2d743b18176cdb0b7c6bd11%2Ffem.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "González Urrutia conversa con Guanipa y aplaude su “firmeza y serenidad”",
-      "link": "https://laverdad.com/gonzalez-urrutia-conversa-con-guanipa-y-aplaude-su-firmeza-y-serenidad/",
+      "title": "Trump dice que visitará Venezuela pero que aún no decide la fecha",
+      "link": "https://laverdad.com/trump-dice-que-visitara-venezuela-pero-que-aun-no-decide-la-fecha/",
       "image": "https://laverdad.com/wp-content/uploads/2026/02/Carolina-Herrera-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. emite licencia para negocios con petróleo venezolano: excluye a Rusia, China, Cuba e Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-emite-licencia-para-negocios-con-petroleo-venezolano-excluye-a-rusia-china-cuba-e-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/LmXQor1w-Tarek-William-Saab-21-07-2025-750x430.png"
+      "title": "Donald Trump anuncia futura visita oficial a Venezuela sin fecha definida",
+      "link": "https://diarioversionfinal.com/politica-dinero/donald-trump-anuncia-futura-visita-oficial-a-venezuela-sin-fecha-definida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-2.26.44-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-13T17:39:58.395Z"
+  "lastUpdate": "2026-02-13T18:51:45.893Z"
 }
