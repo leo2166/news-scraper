@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "562,66"
+      "usdt": "563,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "VIRAL: Indignación entre atletas de los Juegos Olímpicos de Invierno por premiación con ‘medallas rotas’",
-      "link": "https://caraotadigital.net/deportes/viral-indignacion-entre-atletas-de-los-juegos-olimpicos-de-invierno-por-premiacion-con-medallas-rotas/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Medallas-CD.jpg"
+      "title": "«Estoy soñando»: Así fue el espectacular debut de la Miss Venezuela en la Semana de la Moda de Nueva York",
+      "link": "https://caraotadigital.net/caraota-show/estoy-sonando-asi-fue-el-espectacular-debut-de-la-miss-venezuela-en-la-semana-de-la-moda-de-nueva-york/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/SaveClip.App_634084629_17924928831232765_5338134928811590346_n-1.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esto hizo empresario Gustavo Aponte en una misa, horas antes de que sicario le quitara la vida",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/esto-hizo-empresario-gustavo-aponte-en-una-misa-horas-antes-de-que-sicario-le-quitara-la-vida-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4eed5da/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F66%2F8a%2Fcd1024f44e3e965fcd595bb653cc%2Famigos-empresario.jpg"
+      "title": "Benedetti reacciona a suspensión provisional de decreto del salario mínimo 2026: \"Decisión política\"",
+      "link": "https://www.noticiascaracol.com/politica/benedetti-reacciona-a-suspension-provisional-de-decreto-del-salario-minimo-2026-decision-politica-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/43a2fdc/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2Fee%2F26aef2144050a6d682d6e9ebffae%2Farmando-benetti.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "AN aplaza para la próxima semana el debate final de la Ley de Amnistía",
-      "link": "https://laverdad.com/an-aplaza-para-la-proxima-semana-el-debate-final-de-la-ley-de-amnistia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Gaby-Spanic.jpg"
+      "title": "Familias de presos políticos se encadenan en Zona 7 por retraso en debate sobre amnistía",
+      "link": "https://laverdad.com/familias-de-presos-politicos-se-encadenan-en-zona-7-por-retraso-en-debate-sobre-amnistia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/la-ultima-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Miguelangel Suárez, líder estudiantil: “Hay un vehículo persiguiéndome desde que salí de la UCV”",
-      "link": "https://diarioversionfinal.com/politica-dinero/miguelangel-suarez-lider-estudiantil-hay-un-vehiculo-persiguiendome-desde-que-sali-de-la-ucv/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-8.37.35-AM.jpeg"
+      "title": "Delcy Rodríguez asegura eleciones libres en Venezuela sin anunciar fecha",
+      "link": "https://diarioversionfinal.com/politica-dinero/delcy-rodriguez-asegura-eleciones-libres-en-venezuela-sin-anunciar-fecha/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/papa-leon-xiv-en-audiencia-general-del-13-de-agosto-01-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-13T13:01:11.713Z"
+  "lastUpdate": "2026-02-13T14:40:45.374Z"
 };
