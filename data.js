@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "558,66"
+      "usdt": "559,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "Trump felicitó en persona a militares que capturaron a Maduro: «Ningún otro país tiene guerreros tan extraordinarios»",
-      "link": "https://caraotadigital.net/eeuu/trump-felicito-en-persona-a-militares-que-capturaron-a-maduro-ningun-otro-pais-tiene-guerreros-tan-extraordinarios/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/TRUMP-13.jpg"
+      "title": "Murió Humberto Acosta: Uno de los máximos exponentes del periodismo deportivo",
+      "link": "https://caraotadigital.net/deportes/murio-humberto-acosta-uno-de-los-maximos-exponentes-del-periodismo-deportivo/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Acosta-CD.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump: EE. UU. reconoce al Ejecutivo de Delcy Rodríguez como gobierno oficial de Venezuela",
-      "link": "https://laverdad.com/trump-ee-uu-reconoce-al-ejecutivo-de-delcy-rodriguez-como-gobierno-oficial-de-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Isabella-Landera-y-Hugo-Garcia.jpg"
+      "title": "Trump alaba ante militares de EE. UU. el operativo que culminó con la captura de Maduro",
+      "link": "https://laverdad.com/trump-alaba-ante-militares-de-ee-uu-el-operativo-que-culmino-con-la-captura-de-maduro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/9-Lunas-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Donald Trump anuncia futura visita oficial a Venezuela sin fecha definida",
-      "link": "https://diarioversionfinal.com/politica-dinero/donald-trump-anuncia-futura-visita-oficial-a-venezuela-sin-fecha-definida/",
+      "title": "La PUD reporta 453 excarcelaciones y reclama “procesos de liberación masivos”",
+      "link": "https://diarioversionfinal.com/politica-dinero/la-pud-reporta-453-excarcelaciones-y-reclama-procesos-de-liberacion-masivos/",
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-19-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-13T19:42:11.909Z"
+  "lastUpdate": "2026-02-13T20:39:18.721Z"
 };
