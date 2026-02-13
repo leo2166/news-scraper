@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "467,33"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "533,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump, Sheinbaum, Díaz-Canel y la eterna pregunta de los cubanos",
-      "link": "https://cnnespanol.cnn.com/2026/02/13/latinoamerica/cuba-preguntas-trump-sheinbaum-diaz-canel-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/89a567d45b3dd622c9b201d359d803972de5deb2w.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "¿Apoyan los estadounidenses las exigencias demócratas en materia de inmigración?",
+      "link": "https://cnnespanol.cnn.com/2026/02/13/eeuu/exigencias-democratas-inmigracion-cierre-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-schumer-gettyimages-2260807879.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Siniestro caso en Brasil: Funcionario del gobierno descubrió que su esposa lo engañaba e ideó un plan para matar a sus hijos por venganza",
-      "link": "https://caraotadigital.net/mundo/siniestro-caso-en-brasil-funcionario-del-gobierno-descubrio-que-su-esposa-lo-enganaba-e-ideo-un-plan-para-matar-a-sus-hijos-por-venganza/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/hijos.jpg"
+      "title": "«Es posible» que Delcy Rodríguez visite Colombia la próxima semana, según canciller",
+      "link": "https://caraotadigital.net/mundo/es-posible-que-delcy-rodriguez-visite-colombia-la-proxima-semana-segun-canciller/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/delcycolombia1881.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ONU CONDENA SANCIONES DE EE. UU. CONTRA CUBA: «INCUMPLE LA CARTA DE NACIONES UNIDAS»",
-      "link": "https://noticierodigital.com/2026/02/onu-condena-sanciones-de-ee-uu-contra-cuba-incumple-la-carta-de-naciones-unidas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Cuba_mendigos-627x376.jpg"
+      "title": "EDMUNDO GONZÁLEZ SOSTUVO LLAMADA CON DIRIGENTES POLÍTICOS RECIÉN EXCARCELADOS",
+      "link": "https://noticierodigital.com/2026/02/edmundo-gonzalez-sostuvo-llamada-con-dirigentes-politicos-recien-excarcelados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/edmundo-gonzalez-23424-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "González Urrutia conversa con Guanipa y aplaude su “firmeza y serenidad”",
       "link": "https://laverdad.com/gonzalez-urrutia-conversa-con-guanipa-y-aplaude-su-firmeza-y-serenidad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Venezuela-9-1-Cuba-Serie-de-las-Americas-1.jpg"
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Carolina-Herrera-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Líder estudiantil tras hostigamiento policial: “¡Hacemos responsable a Delcy Rodríguez de lo que nos pase!”",
-      "link": "https://diarioversionfinal.com/politica-dinero/lider-estudiantil-tras-hostigamiento-policial-hacemos-responsable-a-delcy-rodriguez-de-lo-que-nos-pase/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-12.00.45-PM-750x430.jpeg"
+      "title": "EE. UU. emite licencia para negocios con petróleo venezolano: excluye a Rusia, China, Cuba e Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-emite-licencia-para-negocios-con-petroleo-venezolano-excluye-a-rusia-china-cuba-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/LmXQor1w-Tarek-William-Saab-21-07-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-02-13T16:48:14.966Z"
+  "lastUpdate": "2026-02-13T17:39:58.395Z"
 };
