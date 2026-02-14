@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "534,40"
+      "usdt": "534,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. aclara que insumos médicos enviados a Venezuela serán reembolsados por el gobierno",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-aclara-que-insumos-medicos-enviados-a-venezuela-seran-reembolsados-por-el-gobierno/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-14-at-12.06.56-PM-750x430.jpeg"
+      "title": "Arresto de venezolanos legales en EE. UU. genera alerta por riesgo de amputación y enfermedades crónicas",
+      "link": "https://diarioversionfinal.com/mundo/arresto-de-venezolanos-legales-en-ee-uu-genera-alerta-por-riesgo-de-amputacion-y-enfermedades-cronicas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/45836052667-1080pnbcstations-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-14T20:27:47.708Z"
+  "lastUpdate": "2026-02-14T21:25:16.849Z"
 };
