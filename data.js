@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "557,00"
+      "usdt": "557,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Estadounidense detenido durante los últimos días de Maduro da su testimonio",
-      "link": "https://cnnespanol.cnn.com/2026/02/14/eeuu/estadounidense-detenido-venezuela-cuenta-todo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/james-in-peru-20260214065342567.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Rubio dice a líderes europeos que cuentan con respaldo de EE.UU., pero solo si cambian de rumbo",
+      "link": "https://cnnespanol.cnn.com/2026/02/14/mundo/rubio-respaldo-europa-conferencia-munich-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261571512-20260214185754228.JPG?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Informe del Senado: Trump gastó 40 millones en deportaciones a terceros países",
-      "link": "https://diarioversionfinal.com/mundo/informe-del-senado-trump-gasto-40-millones-en-deportaciones-a-terceros-paises/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-14T134529.551.jpg"
+      "title": "Nobel de la Paz Narges Mohammadi permanece incomunicada tras cambio de cárcel",
+      "link": "https://diarioversionfinal.com/mundo/nobel-de-la-paz-narges-mohammadi-permanece-incomunicada-tras-cambio-de-carcel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/descarga-61.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T22:24:50.100Z"
+  "lastUpdate": "2026-02-14T23:25:34.569Z"
 };
