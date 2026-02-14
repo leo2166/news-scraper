@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "558,00"
+      "usdt": "557,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos venezolanos se unieron a la huelga de hambre iniciada por los detenidos en la cárcel Zona 7",
-      "link": "https://www.infobae.com/venezuela/2026/02/14/familiares-de-presos-politicos-venezolanos-se-unieron-a-la-huelga-de-hambre-iniciada-por-los-detenidos-en-la-carcel-zona-7/",
-      "image": "https://www.infobae.com/resizer/v2/IWAOCADY5RGRXJBOU5V3H4P4EY.JPG?auth=792d0dffecd1c1c724fc9cfc7e847d49130dd52d1cef8e109edbe22af8b041ba&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado: “Cuando desmontemos el régimen criminal en Venezuela, Cuba y Nicaragua seguirán el mismo camino”",
+      "link": "https://www.infobae.com/venezuela/2026/02/14/maria-corina-machado-cuando-desmontemos-el-regimen-criminal-en-venezuela-cuba-y-nicaragua-seguiran-el-mismo-camino/",
+      "image": "https://www.infobae.com/resizer/v2/I5UWHDAPYVBR7NO62CS54KMRAQ.JPG?auth=51d0893754d14e485486812770a33445ae3183ae0a43f938e594316cd5b1830b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Excarcelan a 17 presos políticos de Zona 7 durante la madrugada de este 14 de febrero\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/excarcelan-a-17-presos-politicos-de-zona-7-durante-este-14-de-febrero/",
+      "title": "El artículo 7 paraliza la amnistía: “Es una trampa cazabobos”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/el-articulo-7-paraliza-la-amnistia-es-una-trampa-cazabobos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ATAQUE CON DRONES RUSOS EN ODESA DEJÓ UN FALLECIDO ESTE SÁBADO",
-      "link": "https://noticierodigital.com/2026/02/ataque-con-drones-rusos-en-odesa-dejo-un-fallecido-este-sabado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/volodimir-zelenski-ucrania-627x376.jpg"
+      "title": "CONTROLARON INCENDIO EN REFINERÍA CUBANA SIN REGISTRAR VÍCTIMAS FATALES",
+      "link": "https://noticierodigital.com/2026/02/controlaron-incendio-en-refineria-cubana-sin-registrar-victimas-fatales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/refineria-la-habana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Integrantes de Morat fueron atacados por supuesta therian en Argentina: todo quedó en video",
-      "link": "https://www.noticiascaracol.com/entretenimiento/integrantes-de-morat-fueron-atacados-por-supuesta-therian-en-argentina-todo-quedo-en-video-rs15",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d50717d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2Fd3%2F1881be5048c7a931a06bdd54dbab%2Fmorat.jpg"
+      "title": "Congresista colombiana denuncia detención de su hijo por parte del ICE: \"En condiciones inhumanas\"",
+      "link": "https://www.noticiascaracol.com/colombia/congresista-colombiana-angela-vergara-denuncia-dentencion-de-su-hijo-por-parte-del-ice-en-condiciones-inhumanas-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/eb745a0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F60%2Fde%2F1391d2224d05932fbc7761b34b1a%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Alexei Navalni murió envenenado con toxina letal, según investigación internacional",
-      "link": "https://diarioversionfinal.com/mundo/alexei-navalni-murio-envenenado-con-toxina-letal-segun-investigacion-internacional/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/12/alexei-navalni-ante-un-tribunal-de-moscu-el-24-de-mayo-de-2022-720x430.jpeg"
+      "title": "La operación Southern Spear se transforma en nueva fase militar",
+      "link": "https://diarioversionfinal.com/mundo/la-operacion-southern-spear-se-transforma-en-nueva-fase-militar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/X18pz4oW-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T16:31:13.695Z"
+  "lastUpdate": "2026-02-14T17:26:36.858Z"
 };
