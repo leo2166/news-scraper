@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "559,00"
+      "usdt": "558,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "“La voluntad de cambio sigue viva”: el mensaje de Edmundo González tras reunirse con diplomáticos y opositores liberados",
-      "link": "https://www.infobae.com/venezuela/2026/02/13/la-voluntad-de-cambio-sigue-viva-el-mensaje-de-edmundo-gonzalez-tras-reunirse-con-diplomaticos-y-opositores-liberados/",
-      "image": "https://www.infobae.com/resizer/v2/CQPVGFCP65HN3C2YHFISHKBJBU.jpg?auth=4a8afb69caeb179d7b433273b30b2c5d0e9c862aac100628de7d35c4643804ea&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump dijo que la incursión contra Nicolás Maduro mostró “todo el poder militar” de Estados Unidos y dio más detalles del operativo",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/14/donald-trump-dijo-que-la-incursion-contra-nicolas-maduro-mostro-todo-el-poder-militar-de-estados-unidos-y-dio-mas-detalles-del-operativo/",
+      "image": "https://www.infobae.com/resizer/v2/KYGZ6JDNWBGM5KGJQY6HWHGEIQ.JPG?auth=5ba24bb5b37042cf32e6dce3e76a78893b5af140df3fd85422b0a724426ae92f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caraota Digital",
-      "title": "American Airlines solicita a EEUU autorización para reanudar vuelos desde Miami a dos ciudades de Venezuela",
-      "link": "https://caraotadigital.net/eeuu/american-airlines-solicita-a-eeuu-autorizacion-para-reanudar-vuelos-desde-miami-a-dos-ciudades-de-venezuela/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2025/09/AMERICAN-AIRLINES-AIRPORT-1.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "INTT RESTRINGIRÁ CIRCULACIÓN DE CARGA PESADA DURANTE EL ASUETO DE CARNAVAL",
-      "link": "https://noticierodigital.com/2026/02/intt-restringira-circulacion-de-carga-pesada-durante-el-asueto-de-carnaval/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/transporte-carga-pesada-6ene2022.jpg"
+      "title": "¿La zanahoria ayuda a mejorar la vista? Esta es la verdad detrás del ‘mito’",
+      "link": "https://caraotadigital.net/tendencias/la-zanahoria-ayuda-a-mejorar-la-vista-esta-es-la-verdad-detras-del-mito/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/11/CARROTS.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La PUD reporta 453 excarcelaciones y reclama “procesos de liberación masivos”",
-      "link": "https://diarioversionfinal.com/politica-dinero/la-pud-reporta-453-excarcelaciones-y-reclama-procesos-de-liberacion-masivos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Maduro-20-11-2025-750x430.jpg"
+      "title": "Familiares de presos políticos mantienen protesta encadenados tras aplazamiento de Ley de Amnistía",
+      "link": "https://diarioversionfinal.com/politica-dinero/familiares-de-presos-politicos-mantienen-protesta-encadenados-tras-aplazamiento-de-ley-de-amnistia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/image-960x556-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-13T23:31:24.233Z"
+  "lastUpdate": "2026-02-14T02:04:34.879Z"
 };
