@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "555,00"
+      "usdt": "557,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseno-sin-titulo-2020-08-30t152524618-1-1.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "CABELLO REPORTÓ AUMENTO DE SOLICITUDES DE INGRESO A LA UNES EN NUEVA ESPARTA",
-      "link": "https://noticierodigital.com/2026/02/cabello-reporto-aumento-de-solicitudes-de-ingreso-a-la-unes-en-nueva-esparta/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/diosdado-cabello-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Congresista colombiana denuncia detención de su hijo por parte del ICE: \"En condiciones inhumanas\"",
       "link": "https://www.noticiascaracol.com/colombia/congresista-colombiana-angela-vergara-denuncia-dentencion-de-su-hijo-por-parte-del-ice-en-condiciones-inhumanas-cb20",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Escándalos marcan la campaña electoral en Hungría",
-      "link": "https://diarioversionfinal.com/mundo/escandalos-marcan-la-campana-electoral-en-hungria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/q4hmTu7J-image-750x430.jpg"
+      "title": "Fiscalía federal imputa 38 cargos a grupo vinculado al Tren de Aragua en Nueva York",
+      "link": "https://diarioversionfinal.com/mundo/fiscalia-federal-imputa-38-cargos-a-grupo-vinculado-al-tren-de-aragua-en-nueva-york/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_8176bestshot-scaled-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T18:36:23.479Z"
+  "lastUpdate": "2026-02-14T19:24:19.025Z"
 };
