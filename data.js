@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "558,15"
+      "usdt": "533,29"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump dijo que la incursión contra Nicolás Maduro mostró “todo el poder militar” de Estados Unidos y dio más detalles del operativo",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/14/donald-trump-dijo-que-la-incursion-contra-nicolas-maduro-mostro-todo-el-poder-militar-de-estados-unidos-y-dio-mas-detalles-del-operativo/",
-      "image": "https://www.infobae.com/resizer/v2/KYGZ6JDNWBGM5KGJQY6HWHGEIQ.JPG?auth=5ba24bb5b37042cf32e6dce3e76a78893b5af140df3fd85422b0a724426ae92f&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Foro Penal presentó un nuevo balance y reportó 644 presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/14/la-ong-foro-penal-presento-un-nuevo-balance-y-reporto-644-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/7XQIEJSO4ZED5JXT3O7UYLFESI.jpg?auth=e2ff66cea815961fb724926be40010d84734c9df79f835b2bd06b5e793ab0177&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/cedwds-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T04:41:35.429Z"
+  "lastUpdate": "2026-02-14T05:44:12.221Z"
 };
