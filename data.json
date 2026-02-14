@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "533,29"
+      "usdt": "559,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Un grupo de presos políticos venezolano inició una huelga de hambre en Zona 7 y los familiares se sumarán a la protesta",
-      "link": "https://www.infobae.com/venezuela/2026/02/14/un-grupo-de-presos-politicos-venezolano-inicio-una-huelga-de-hambre-en-zona-7-y-los-familiares-se-sumaran-a-la-protesta/",
-      "image": "https://www.infobae.com/resizer/v2/33I3DSPLBZEXTHRN6DA46C7FV4.jpg?auth=8fb73d689d9b5215cb2bbd49c61de3ee7d9bcb79a53681f5a60e93979a6fe9ec&smart=true&width=350&height=197&quality=85"
+      "title": "En medio de la huelga de hambre de presos políticos, Jorge Rodríguez aseguró que 17 detenidos fueron liberados en Zona 7",
+      "link": "https://www.infobae.com/venezuela/2026/02/14/en-medio-de-la-huelga-de-hambre-de-presos-politicos-jorge-rodriguez-aseguro-que-17-detenidos-fueron-liberados-en-zona-7/",
+      "image": "https://www.infobae.com/resizer/v2/QE4WYNLKZJFOJKTGRLS7XEB55A.jpg?auth=b1583f14da1434a1a7a41297f3e52f722b3ca00e6a189c71585b8c2e5f25f3ff&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Rodríguez afianza su relación con EE.UU. mientras la oposición sigue dividida",
-      "link": "https://cnnespanol.cnn.com/2026/02/13/venezuela/quien-es-quien-oposicion-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261136103.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El cierre parcial del Gobierno de EE.UU. afecta al Departamento de Seguridad Nacional",
+      "link": "https://cnnespanol.cnn.com/2026/02/12/eeuu/cierre-parcial-gobierno-departamento-seguridad-nacional-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/1a7f81b6-05b9-481c-9899-6ca61b092810.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Caraota Digital",
-      "title": "Más de 300 presos entraron en huelga de hambre en cárcel de Tocuyito este 13Feb",
-      "link": "https://caraotadigital.net/venezuela/mas-de-300-presos-entraron-en-huelga-de-hambre-en-carcel-de-tocuyito-este-13feb/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2026/02/Presos-Tocuyito-CD.jpg"
+      "title": "¿La zanahoria ayuda a mejorar la vista? Esta es la verdad detrás del ‘mito’",
+      "link": "https://caraotadigital.net/tendencias/la-zanahoria-ayuda-a-mejorar-la-vista-esta-es-la-verdad-detras-del-mito/",
+      "image": "https://caraotadigital.net/wp-content/uploads/2024/11/CARROTS.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/cedwds-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T07:33:51.479Z"
+  "lastUpdate": "2026-02-14T08:34:04.221Z"
 }
