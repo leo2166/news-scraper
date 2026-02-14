@@ -171,7 +171,8 @@ async function scrape() {
             '--no-sandbox',
             '--disable-setuid-sandbox',
             '--disable-dev-shm-usage',
-            '--disable-gpu'
+            '--disable-gpu',
+            '--disable-quic'
         ]
     });
 
@@ -380,56 +381,86 @@ async function scrape() {
         },
         {
             name: 'La Verdad',
-            url: 'https://laverdad.com/',
+            url: 'https://laverdad.com/category/mundo/',
             fn: () => {
-                // Estrategia: Selector verificado con debug
-                // La Verdad usa clases como upk-title para los títulos
-                const titleEl = document.querySelector('.upk-title a.title-animation-underline, .upk-title a');
-
-                if (!titleEl) return null;
-
-                const link = titleEl.href;
-                const title = titleEl.innerText.trim();
-
-                // Imagen: Selector revisado post-fallo
-                // La Verdad: img dentro de article o .elementor-post
-                const imgEl = document.querySelector('article img, .elementor-post img, .wpcap-post img');
-                let img = null;
-                if (imgEl) {
-                    img = imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset?.split(' ')[0];
+                // Estrategia 1: Buscar dentro de items del plugin Ultimate Post Kit
+                // donde título e imagen pertenecen al mismo bloque
+                const items = document.querySelectorAll('.upk-block-item, .upk-post-grid-item, .upk-slider-item');
+                for (const item of items) {
+                    const titleEl = item.querySelector('.upk-title a');
+                    const imgEl = item.querySelector('img');
+                    if (titleEl && titleEl.innerText.trim().length > 10) {
+                        return {
+                            title: titleEl.innerText.trim(),
+                            link: titleEl.href,
+                            image: imgEl ? (imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset?.split(' ')[0]) : null
+                        };
+                    }
                 }
 
-                return { title, link, image: img };
+                // Estrategia 2: Buscar article con título e imagen juntos
+                const articles = document.querySelectorAll('article');
+                for (const article of articles) {
+                    const titleEl = article.querySelector('h2 a, h3 a, .entry-title a');
+                    const imgEl = article.querySelector('img');
+                    if (titleEl && titleEl.innerText.trim().length > 10) {
+                        return {
+                            title: titleEl.innerText.trim(),
+                            link: titleEl.href,
+                            image: imgEl ? (imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset?.split(' ')[0]) : null
+                        };
+                    }
+                }
+
+                // Estrategia 3: Fallback al meta og:image con primer título
+                const anyTitle = document.querySelector('.upk-title a, h2 a, h3 a');
+                const metaImg = document.querySelector('meta[property="og:image"]');
+                if (anyTitle) {
+                    return {
+                        title: anyTitle.innerText.trim(),
+                        link: anyTitle.href,
+                        image: metaImg?.content || null
+                    };
+                }
+                return null;
             }
         },
         {
             name: 'Diario Versión Final',
-            url: 'https://diarioversionfinal.com/',
+            url: 'https://diarioversionfinal.com/categoria/mundo/',
             fn: () => {
-                const titleEl = document.querySelector('.post-title.post-url');
-                if (!titleEl) return null;
-                const link = titleEl.href;
-                const title = titleEl.innerText.trim();
+                // Estrategia: Iterar sobre artículos para asegurar consistencia
+                // Buscamos contenedores comunes de posts (article, .post, .td-module-container, .category-item)
+                // Versión Final usa 'article' y 'div.post-item' según la página
+                const articles = document.querySelectorAll('article, .post-item, .td_module_wrap, .category-item');
 
-                let img = null;
-                // Versión Final: background-image en .img-holder
-                const holder = document.querySelector('.img-holder');
-                if (holder) {
-                    // Obtener estilo computado si el inline está vacío
-                    const style = holder.getAttribute('style') || window.getComputedStyle(holder).backgroundImage;
-                    if (style && style.includes('url')) {
-                        const match = style.match(/url\(['"]?(.*?)['"]?\)/);
-                        if (match) img = match[1];
+                for (const article of articles) {
+                    const titleEl = article.querySelector('.post-title a, h2 a, h3 a, .entry-title a');
+                    // Intentar sacar imagen. VF usa div.img-holder con background-image
+                    const holder = article.querySelector('.img-holder, .post-thumbnail, .img-cont');
+
+                    let img = null;
+                    if (holder) {
+                        const style = holder.getAttribute('style') || window.getComputedStyle(holder).backgroundImage;
+                        if (style && style.includes('url')) {
+                            const match = style.match(/url\(['"]?(.*?)['"]?\)/);
+                            if (match) img = match[1];
+                        }
+                    } else {
+                        // Fallback a img tag normal
+                        const imgEl = article.querySelector('img');
+                        if (imgEl) img = imgEl.src || imgEl.dataset.src;
+                    }
+
+                    if (titleEl && titleEl.innerText.trim().length > 10) {
+                        return {
+                            title: titleEl.innerText.trim(),
+                            link: titleEl.href,
+                            image: img
+                        };
                     }
                 }
-
-                // Fallback a img tag normal
-                if (!img) {
-                    const imgEl = document.querySelector('article img, .main-post img');
-                    if (imgEl) img = imgEl.src;
-                }
-
-                return { title, link, image: img };
+                return null;
             }
         },
         {
