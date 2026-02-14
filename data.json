@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "557,50"
+      "usdt": "555,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Rodríguez: “17 personas privadas de libertad en zona 7 están siendo excarceladas en este momento “",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-17-personas-privadas-de-libertad-en-zona-7-estan-siendo-excarceladas-en-este-momento",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/eujpg-193040-24fb73.jpg"
+      "title": "Foro Penal confirma nuevas excarcelaciones en Caracas durante la madrugada de este sábado",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-nuevas-excarcelaciones-en-caracas-durante-la-madrugada-de-este-sabado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseno-sin-titulo-2020-08-30t152524618-1-1.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONTROLARON INCENDIO EN REFINERÍA CUBANA SIN REGISTRAR VÍCTIMAS FATALES",
-      "link": "https://noticierodigital.com/2026/02/controlaron-incendio-en-refineria-cubana-sin-registrar-victimas-fatales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/refineria-la-habana-627x376.jpg"
+      "title": "CABELLO REPORTÓ AUMENTO DE SOLICITUDES DE INGRESO A LA UNES EN NUEVA ESPARTA",
+      "link": "https://noticierodigital.com/2026/02/cabello-reporto-aumento-de-solicitudes-de-ingreso-a-la-unes-en-nueva-esparta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/diosdado-cabello-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "La operación Southern Spear se transforma en nueva fase militar",
-      "link": "https://diarioversionfinal.com/mundo/la-operacion-southern-spear-se-transforma-en-nueva-fase-militar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/X18pz4oW-image-750x430.jpg"
+      "title": "Escándalos marcan la campaña electoral en Hungría",
+      "link": "https://diarioversionfinal.com/mundo/escandalos-marcan-la-campana-electoral-en-hungria/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/q4hmTu7J-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T17:26:36.858Z"
+  "lastUpdate": "2026-02-14T18:36:23.479Z"
 }
