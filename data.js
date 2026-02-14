@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "533,29"
+      "usdt": "559,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Foro Penal presentó un nuevo balance y reportó 644 presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/14/la-ong-foro-penal-presento-un-nuevo-balance-y-reporto-644-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/7XQIEJSO4ZED5JXT3O7UYLFESI.jpg?auth=e2ff66cea815961fb724926be40010d84734c9df79f835b2bd06b5e793ab0177&smart=true&width=350&height=197&quality=85"
+      "title": "Un grupo de presos políticos venezolano inició una huelga de hambre en Zona 7 y los familiares se sumarán a la protesta",
+      "link": "https://www.infobae.com/venezuela/2026/02/14/un-grupo-de-presos-politicos-venezolano-inicio-una-huelga-de-hambre-en-zona-7-y-los-familiares-se-sumaran-a-la-protesta/",
+      "image": "https://www.infobae.com/resizer/v2/33I3DSPLBZEXTHRN6DA46C7FV4.jpg?auth=8fb73d689d9b5215cb2bbd49c61de3ee7d9bcb79a53681f5a60e93979a6fe9ec&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/cedwds-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T05:44:12.221Z"
+  "lastUpdate": "2026-02-14T06:46:07.103Z"
 };
