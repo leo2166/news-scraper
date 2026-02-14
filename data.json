@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "556,66"
+      "usdt": "557,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El cierre parcial del Gobierno afecta al Departamento de Seguridad Nacional",
-      "link": "https://cnnespanol.cnn.com/2026/02/12/eeuu/cierre-parcial-gobierno-departamento-seguridad-nacional-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/1a7f81b6-05b9-481c-9899-6ca61b092810.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Steve Bannon cortejó a Epstein en sus intentos por \"derribar\" al papa Francisco",
+      "link": "https://cnnespanol.cnn.com/2026/02/14/eeuu/bannon-cortejo-epstein-derribar-papa-francisco-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/artboard-1-20260213225442537-20260214091116383.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "CNE activa plataforma para verificar centros de votación para Consulta Popular del 8 de marzo",
-      "link": "https://noticiasvenevision.com/noticias/politica/cne-activa-plataforma-para-verificar-centros-de-votacion-para-consulta-popular-del-8-de-marzo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cne-elecciones-votar-venezuela-el-horizonte-0ce0ae.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ LLAMÓ A LA «UNIÓN NACIONAL» DURANTE INICIO DEL CARNAVAL",
-      "link": "https://noticierodigital.com/2026/02/delcy-rodriguez-llamo-a-la-union-nacional-durante-inicio-del-carnaval/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/delcy-rodriguez-venezuela-4-627x376.jpg"
+      "title": "Jorge Rodríguez: “17 personas privadas de libertad en zona 7 están siendo excarceladas en este momento “",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-17-personas-privadas-de-libertad-en-zona-7-estan-siendo-excarceladas-en-este-momento",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/eujpg-193040-24fb73.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-wife-transported-to-court_005-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-14T14:28:08.378Z"
+  "lastUpdate": "2026-02-14T14:54:14.283Z"
 }
