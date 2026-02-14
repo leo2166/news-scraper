@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "557,66"
+      "usdt": "534,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal confirma nuevas excarcelaciones en Caracas durante la madrugada de este sábado",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-nuevas-excarcelaciones-en-caracas-durante-la-madrugada-de-este-sabado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseno-sin-titulo-2020-08-30t152524618-1-1.png"
+      "title": "El secretario de Energía  de EE. UU. Chris Wright, se pronunció sobre el futuro político de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/el-secretario-de-energia-de-ee-uu-chris-wright-se-pronuncio-sobre-el-futuro-politico-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cortesia-secretario-de-energia-de-estados-unidos-chris-wright-38331jpg-190586-f5805d.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "HIDROCAPITAL REPARÓ TUBERÍA DE 24 PULGADAS EN BARUTA",
+      "link": "https://noticierodigital.com/2026/02/hidrocapital-reparo-tuberia-de-24-pulgadas-en-baruta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/tuberia-reparacion-hidrocapital-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscalía federal imputa 38 cargos a grupo vinculado al Tren de Aragua en Nueva York",
-      "link": "https://diarioversionfinal.com/mundo/fiscalia-federal-imputa-38-cargos-a-grupo-vinculado-al-tren-de-aragua-en-nueva-york/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_8176bestshot-scaled-1-750x430.jpg"
+      "title": "EE. UU. aclara que insumos médicos enviados a Venezuela serán reembolsados por el gobierno",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-aclara-que-insumos-medicos-enviados-a-venezuela-seran-reembolsados-por-el-gobierno/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-14-at-12.06.56-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-14T19:24:19.025Z"
+  "lastUpdate": "2026-02-14T20:27:47.708Z"
 }
