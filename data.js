@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "557,90"
+      "usdt": "556,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -31,16 +31,16 @@ window.DASHBOARD_DATA = {
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/1a7f81b6-05b9-481c-9899-6ca61b092810.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
-      "source": "Caraota Digital",
-      "title": "¿La zanahoria ayuda a mejorar la vista? Esta es la verdad detrás del ‘mito’",
-      "link": "https://caraotadigital.net/tendencias/la-zanahoria-ayuda-a-mejorar-la-vista-esta-es-la-verdad-detras-del-mito/",
-      "image": "https://caraotadigital.net/wp-content/uploads/2024/11/CARROTS.jpg"
+      "source": "Noticias Venevisión",
+      "title": "CNE activa plataforma para verificar centros de votación para Consulta Popular del 8 de marzo",
+      "link": "https://noticiasvenevision.com/noticias/politica/cne-activa-plataforma-para-verificar-centros-de-votacion-para-consulta-popular-del-8-de-marzo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cne-elecciones-votar-venezuela-el-horizonte-0ce0ae.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Conmovedoras palabras de padres de Gustavo Aponte tras homicidio en Bogotá: \"Totalmente destruidos\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/conmovedoras-palabras-de-padres-de-gustavo-aponte-tras-homicidio-en-bogota-totalmente-destruidos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3ba0086/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F41%2F51%2F95bd325c43f0abf81ce1979ce733%2Fvotacion-4.jpg"
+      "title": "Apareció DJ Dever, artista cartagenero que estaba desaparecido: esto confirmó Policía de Cartagena",
+      "link": "https://www.noticiascaracol.com/colombia/aparecio-dj-dever-artista-cartagenero-que-estaba-desaparecido-desde-el-martes-esto-dijo-la-policia-de-cartagena-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c8f629f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb6%2F31%2F5b011d014a53ac34c7876df60df6%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/ICE-17-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T12:40:31.335Z"
+  "lastUpdate": "2026-02-14T13:57:03.345Z"
 };

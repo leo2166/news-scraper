@@ -351,13 +351,24 @@ async function scrape() {
             }
         },
         {
-            name: 'Caraota Digital',
-            url: 'https://www.caraotadigital.net/',
+            name: 'Noticias Venevisión',
+            url: 'https://noticiasvenevision.com/',
             fn: () => {
-                const titleEl = document.querySelector('.p-url');
-                const linkEl = document.querySelector('.p-flink');
-                const imgEl = linkEl ? linkEl.querySelector('img') : null;
-                return { title: titleEl?.innerText, link: linkEl?.href, image: imgEl?.src };
+                // Buscamos el primer enlace que parezca una noticia y tenga un título razonable
+                const articles = document.querySelectorAll('a[href*="/noticias/"]');
+                for (const article of articles) {
+                    const title = article.innerText.trim();
+                    if (title.length > 20) {
+                        const imgEl = article.querySelector('img');
+                        // El título a veces viene en el data-dl_data pero innerText funciona bien
+                        return {
+                            title: title,
+                            link: article.href,
+                            image: imgEl ? (imgEl.src || imgEl.getAttribute('data-src')) : null
+                        };
+                    }
+                }
+                return null;
             }
         },
         {
