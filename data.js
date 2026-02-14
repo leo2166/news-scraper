@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "534,00"
+      "usdt": "557,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El artículo 7 paraliza la amnistía: “Es una trampa cazabobos”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/el-articulo-7-paraliza-la-amnistia-es-una-trampa-cazabobos/",
+      "title": "Tres puntos clave que dejó la visita de Chris Wright, secretario de Energía de EE UU\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/tres-puntos-clave-que-dejo-la-visita-de-chris-wright-secretario-de-energia-de-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Steve Bannon cortejó a Epstein en sus intentos por \"derribar\" al papa Francisco",
-      "link": "https://cnnespanol.cnn.com/2026/02/14/eeuu/bannon-cortejo-epstein-derribar-papa-francisco-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/artboard-1-20260213225442537-20260214091116383.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Estadounidense detenido durante los últimos días de Maduro da su testimonio",
+      "link": "https://cnnespanol.cnn.com/2026/02/14/eeuu/estadounidense-detenido-venezuela-cuenta-todo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/james-in-peru-20260214065342567.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Arresto de venezolanos legales en EE. UU. genera alerta por riesgo de amputación y enfermedades crónicas",
-      "link": "https://diarioversionfinal.com/mundo/arresto-de-venezolanos-legales-en-ee-uu-genera-alerta-por-riesgo-de-amputacion-y-enfermedades-cronicas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/45836052667-1080pnbcstations-750x430.webp"
+      "title": "Informe del Senado: Trump gastó 40 millones en deportaciones a terceros países",
+      "link": "https://diarioversionfinal.com/mundo/informe-del-senado-trump-gasto-40-millones-en-deportaciones-a-terceros-paises/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-14T134529.551.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T21:25:16.849Z"
+  "lastUpdate": "2026-02-14T22:24:50.100Z"
 };
