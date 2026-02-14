@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "532,80"
+      "usdt": "558,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "En medio de la huelga de hambre de presos políticos, Jorge Rodríguez aseguró que 17 detenidos fueron liberados en Zona 7",
-      "link": "https://www.infobae.com/venezuela/2026/02/14/en-medio-de-la-huelga-de-hambre-de-presos-politicos-jorge-rodriguez-aseguro-que-17-detenidos-fueron-liberados-en-zona-7/",
-      "image": "https://www.infobae.com/resizer/v2/QE4WYNLKZJFOJKTGRLS7XEB55A.jpg?auth=b1583f14da1434a1a7a41297f3e52f722b3ca00e6a189c71585b8c2e5f25f3ff&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de presos políticos venezolanos se unieron a la huelga de hambre iniciada por los detenidos en la cárcel Zona 7",
+      "link": "https://www.infobae.com/venezuela/2026/02/14/familiares-de-presos-politicos-venezolanos-se-unieron-a-la-huelga-de-hambre-iniciada-por-los-detenidos-en-la-carcel-zona-7/",
+      "image": "https://www.infobae.com/resizer/v2/IWAOCADY5RGRXJBOU5V3H4P4EY.JPG?auth=792d0dffecd1c1c724fc9cfc7e847d49130dd52d1cef8e109edbe22af8b041ba&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/eujpg-193040-24fb73.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ATAQUE CON DRONES RUSOS EN ODESA DEJÓ UN FALLECIDO ESTE SÁBADO",
+      "link": "https://noticierodigital.com/2026/02/ataque-con-drones-rusos-en-odesa-dejo-un-fallecido-este-sabado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/volodimir-zelenski-ucrania-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Integrantes de Morat fueron atacados por supuesta therian en Argentina: todo quedó en video",
       "link": "https://www.noticiascaracol.com/entretenimiento/integrantes-de-morat-fueron-atacados-por-supuesta-therian-en-argentina-todo-quedo-en-video-rs15",
@@ -44,9 +50,9 @@
     },
     {
       "source": "La Verdad",
-      "title": "Trump alaba ante militares de EE. UU. el operativo que culminó con la captura de Maduro",
-      "link": "https://laverdad.com/trump-alaba-ante-militares-de-ee-uu-el-operativo-que-culmino-con-la-captura-de-maduro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Donald-Trump-alaba-operacion-que-termino-en-captura-de-Maduro-1.jpg"
+      "title": "EE. UU. elimina lancha vinculada al narcotráfico cerca de Venezuela",
+      "link": "https://laverdad.com/ee-uu-elimina-lancha-vinculada-al-narcotrafico-cerca-de-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/98.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/12/alexei-navalni-ante-un-tribunal-de-moscu-el-24-de-mayo-de-2022-720x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-14T15:26:20.500Z"
+  "lastUpdate": "2026-02-14T16:31:13.695Z"
 }
