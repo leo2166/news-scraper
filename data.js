@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "563,10"
+      "usdt": "561,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Candidata al Congreso de la República denuncia que fue retenida por hombres armados en el Cauca",
-      "link": "https://www.noticiascaracol.com/colombia/lucy-amparo-guzman-candidata-al-congreso-denuncia-que-fue-retenida-por-hombres-armados-en-el-cauca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d2bc167/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fde%2F9d%2F2162a02445de9bae644ecaa90ed0%2Fdiseno-1.jpg"
+      "title": "Delcy Rodríguez, presidenta (e) de Venezuela, ordena cierre de siete entes públicos",
+      "link": "https://www.noticiascaracol.com/mundo/delcy-rodriguez-presidenta-encargada-de-venezuela-ordena-cierre-de-siete-entes-publicos-cuatro-fueron-creados-por-maduro-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0e0fe9b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9d%2F73%2F85ff0dc94f2393a9879ec14e3335%2Fdelcy-rodriguez.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. intercepta al Veronica III en el Índico por desafiar la cuarentena de Trump",
-      "link": "https://laverdad.com/ee-uu-intercepta-al-veronica-iii-en-el-indico-por-desafiar-la-cuarentena-de-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-15-080649.jpg"
+      "title": "Aseguran que las redadas migratorias continuarán pese al cierre parcial del DHS",
+      "link": "https://laverdad.com/aseguran-que-las-redadas-migratorias-continuaran-pese-al-cierre-parcial-del-dhs/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/de4eef80ef5561d6fbf126fedd6eb333.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Muere la niña de 16 años que sufría de cáncer y que logró que ICE liberara a su padre",
-      "link": "https://diarioversionfinal.com/mundo/muere-la-nina-de-16-anos-que-sufria-de-cancer-y-que-logro-que-ice-liberara-a-su-padre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/hq720-1.jpg"
+      "title": "Trump anuncia más de 5.000 millones de dólares para reconstrucción de Gaza",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-mas-de-5-000-millones-de-dolares-para-reconstruccion-de-gaza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/trump-anuncia-arancel-del-100-a-pelculas-extranjeras-desatando-incertidumbre-en-hollywood-6923f680-22ff-4030-9eaf-3fddaa827e80_16-9-discover-aspect-ratio_default_0-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-15T20:28:22.270Z"
+  "lastUpdate": "2026-02-15T21:25:54.869Z"
 };
