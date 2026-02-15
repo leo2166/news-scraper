@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "558,66"
+      "usdt": "562,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,23 +37,29 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/aa9d689b6aae4dccc1a8896492f03e19-084bd3.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CICPC INCAUTÓ MÁS DE 500 KILOS DE DROGA TRAS PERSECUCIÓN EN TÁCHIRA",
+      "link": "https://noticierodigital.com/2026/02/cicpc-incauto-mas-de-500-kilos-de-droga-tras-persecucion-en-tachira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/incautacion-de-drogas-tachira-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Efectúan mapeo satelital de la grave inundación en Córdoba para la gestión de la emergencia",
-      "link": "https://www.noticiascaracol.com/colombia/mapeo-satelital-de-la-grave-inundacion-en-cordoba-para-la-gestion-de-la-emergencia-ungrd-dio-detalles-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/25a5180/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F83%2F68%2F20c1d03a42f39cc1c4dc7102c72b%2Fdiseno.jpg"
+      "title": "Navalni murió envenenado con toxina letal presente en rana venenosa, aseguran gobiernos europeos",
+      "link": "https://www.noticiascaracol.com/mundo/opositor-ruso-alexei-navalni-murio-envenenado-con-toxina-letal-presente-en-rana-venenosa-esto-dicen-gobiernos-europeos-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b36dceb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa0%2F07%2F9ea09d3f4a4aad89867496678225%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. elimina lancha vinculada al narcotráfico cerca de Venezuela",
-      "link": "https://laverdad.com/ee-uu-elimina-lancha-vinculada-al-narcotrafico-cerca-de-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/98.jpg"
+      "title": "León XIV pide paz por el Año Nuevo Lunar y expresa solidaridad con Madagascar",
+      "link": "https://laverdad.com/leon-xiv-pide-paz-por-el-ano-nuevo-lunar-y-expresa-solidaridad-con-madagascar/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/bdc0128d635dbec7915d6e9e41df352966b0b66f-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. intercepta en el Índico al tanquero Veronica III vinculado a sanciones petroleras",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-intercepta-en-el-indico-al-tanquero-veronica-iii-vinculado-a-sanciones-petroleras/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/descarga-62.jpg"
+      "title": "HRW advierte que acuerdos económicos podrían socavar la transición democrática en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/hrw-advierte-que-acuerdos-economicos-podrian-socavar-la-transicion-democratica-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/CNE-1-1200x900-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-15T14:28:19.203Z"
+  "lastUpdate": "2026-02-15T15:26:41.463Z"
 };
