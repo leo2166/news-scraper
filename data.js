@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "562,87"
+      "usdt": "563,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Rubio defiende la captura de Maduro: \"Puedo decirles que Venezuela está mucho mejor hoy que hace seis semanas\"\nEE UU",
-      "link": "https://www.elnacional.com/2026/02/rubio-defiende-la-captura-de-maduro-puedo-decirles-que-venezuela-esta-mucho-mejor-hoy-que-hace-seis-semanas/",
+      "title": "\"Se desploman\": familiares de presos políticos presentan complicaciones de salud durante huelga de hambre\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/se-desploman-familiares-de-presos-politicos-presentan-complicaciones-de-salud-durante-huelga-de-hambre/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "El mensaje de Rubio a Europa por San Valentín: cambien o serán abandonados",
-      "link": "https://cnnespanol.cnn.com/2026/02/15/mundo/mensaje-eeuu-europa-cambio-abandono-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261078198rubio.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Por qué Edmundo González está al margen de la lucha por el poder de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/02/15/venezuela/edmundo-gonzalez-maria-corina-machado-oposicion-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2153030713-20260215203359109.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Encargada de Negocios  de EE. UU. celebra  su primer Carnaval en Venezuela con  mensaje de paz y prosperidad",
-      "link": "https://noticiasvenevision.com/noticias/politica/encargada-de-negocios-de-ee-uu-celebra-su-primer-carnaval-en-venezuela-con-mensaje-de-paz-y-prosperidad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_4385-f04245.PNG"
+      "title": "Secretario de Estado de EE.UU. Marco Rubio aseguró que Venezuela está mucho mejor ahora",
+      "link": "https://noticiasvenevision.com/noticias/politica/secretario-de-estado-de-eeuu-marco-rubio-aseguro-que-venezuela-esta-mucho-mejor-ahora",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/marco-rubio-foto-afp-d52456.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Tragedia en Versalles: ataque armado deja un hombre y una menor muertos en Valle del Cauca",
-      "link": "https://www.noticiascaracol.com/colombia/tragedia-en-versalles-ataque-armado-deja-un-hombre-y-una-menor-muertos-en-valle-del-cauca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3dea3e9/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2F75%2Fc5ded74e45908b8eab8dadcffd5f%2Fplantilla-fotos-27.jpg"
+      "title": "¿En qué va investigación del asesinato de Gustavo Aponte en Bogotá? Esta es una de las hipótesis",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/en-que-va-investigacion-del-asesinato-de-gustavo-aponte-en-bogota-esta-es-una-de-las-hipotesis-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c5b451f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F20%2F05%2F8955082f47f89c57aea73cbe9df2%2Fgustavo-aponte-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/carnaval-rio-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-15T22:25:25.725Z"
+  "lastUpdate": "2026-02-15T23:27:51.537Z"
 };
