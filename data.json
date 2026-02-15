@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "557,90"
+      "usdt": "533,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Rubio dice a líderes europeos que cuentan con respaldo de EE.UU., pero solo si cambian de rumbo",
-      "link": "https://cnnespanol.cnn.com/2026/02/14/mundo/rubio-respaldo-europa-conferencia-munich-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261571512-20260214185754228.JPG?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Así cambió la vida de exfuncionarios que perdieron su empleo al llegar DOGE",
+      "link": "https://cnnespanol.cnn.com/2026/02/14/eeuu/cambio-vida-exfuncionarios-perdida-empleo-doge-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-02-14-160557.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "El secretario de Energía  de EE. UU. Chris Wright, se pronunció sobre el futuro político de Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/el-secretario-de-energia-de-ee-uu-chris-wright-se-pronuncio-sobre-el-futuro-politico-de-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cortesia-secretario-de-energia-de-estados-unidos-chris-wright-38331jpg-190586-f5805d.jpg"
+      "title": "Ministro Vladimir Padrino López: “La Ley de Amnistía no es un acto político sino de perdón y reconciliación”",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministro-vladimir-padrino-lopez-la-ley-de-amnistia-no-es-un-acto-politico-sino-de-perdon-y-reconciliacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/aa9d689b6aae4dccc1a8896492f03e19-084bd3.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/descarga-61.jpg"
     }
   ],
-  "lastUpdate": "2026-02-15T02:22:43.431Z"
+  "lastUpdate": "2026-02-15T04:54:38.507Z"
 }
