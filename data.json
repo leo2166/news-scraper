@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "564,10"
+      "usdt": "563,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Marco Rubio dijo que la captura de Nicolás Maduro abrió una “oportunidad real” para Venezuela: “Queda un largo camino por recorrer”",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/15/marco-rubio-dijo-que-la-captura-de-nicolas-maduro-abrio-una-oportunidad-real-para-venezuela-queda-un-largo-camino-por-recorrer/",
-      "image": "https://www.infobae.com/resizer/v2/DCX3WQVU55CUVKG3ZAYMM4KHMY.JPG?auth=572be4c046b9cfbf4ea514fcedaa35e8dc91473aaa4bf9917dd8f8b3b157bb10&smart=true&width=350&height=197&quality=85"
+      "title": "Transición en Venezuela: Delcy Rodríguez eliminó por decreto programas sociales y entes emblemáticos del entramado chavista",
+      "link": "https://www.infobae.com/venezuela/2026/02/15/transicion-en-venezuela-delcy-rodriguez-elimino-por-decreto-programas-sociales-y-entes-emblematicos-del-entramado-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/7347FALLUBD7XNCJHE4N4FITCQ.jpg?auth=6e86786500d4b7cde218ad4abf4fe6d24b6176efbe613d79b4c844b85fdbb0cd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que la Junta de Paz anunciará paquete de US$ 5.000 millones para Gaza",
-      "link": "https://cnnespanol.cnn.com/2026/02/15/mundo/trump-junta-de-paz-ususd-5-000-millones-gaza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gaza-plan-de-paz.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El mensaje de Rubio a Europa por San Valentín: cambien o serán abandonados",
+      "link": "https://cnnespanol.cnn.com/2026/02/15/mundo/mensaje-eeuu-europa-cambio-abandono-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261078198rubio.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO SUPRIMIÓ MISIONES Y FUNDACIONES ADSCRITAS AL DESPACHO DE LA PRESIDENCIA",
-      "link": "https://noticierodigital.com/2026/02/gobierno-suprimio-misiones-y-fundaciones-adscritas-al-despacho-de-la-presidencia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-2-2-627x376.jpg"
+      "title": "JUSTICIA DE EE. UU. ACUSÓ A 27 MIEMBROS DE FACCIÓN DISIDENTE DEL TREN DE ARAGUA",
+      "link": "https://noticierodigital.com/2026/02/justicia-de-ee-uu-acuso-a-27-miembros-de-faccion-disidente-del-tren-de-aragua/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/departamento-de-justicia-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rubio resalta avances en Venezuela tras captura de Maduro: \"Está mejor que hace seis semanas\"",
-      "link": "https://diarioversionfinal.com/mundo/rubio-resalta-avances-en-venezuela-tras-captura-de-maduro-esta-mejor-que-hace-seis-semanas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
+      "title": "Muere la niña de 16 años que sufría de cáncer y que logró que ICE liberara a su padre",
+      "link": "https://diarioversionfinal.com/mundo/muere-la-nina-de-16-anos-que-sufria-de-cancer-y-que-logro-que-ice-liberara-a-su-padre/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/hq720-1.jpg"
     }
   ],
-  "lastUpdate": "2026-02-15T18:37:52.327Z"
+  "lastUpdate": "2026-02-15T19:26:08.777Z"
 }
