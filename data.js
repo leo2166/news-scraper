@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "563,99"
+      "usdt": "564,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Denuncian que la Ley de Amnistía del régimen de Venezuela deja fuera a la mayoría de los militares encarcelados por causas políticas",
-      "link": "https://www.infobae.com/venezuela/2026/02/15/denuncian-que-la-ley-de-amnistia-del-regimen-de-venezuela-deja-fuera-a-la-mayoria-de-los-militares-encarcelados-por-causas-politicas/",
-      "image": "https://www.infobae.com/resizer/v2/3BAMHPQOEFGVPKEO3H6UWN2HBI.png?auth=de0271930fcf9ba30185d89a541a1bf3de5e93dd03d1e8d7ef037dfe7c434ef6&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio dijo que la captura de Nicolás Maduro abrió una “oportunidad real” para Venezuela: “Queda un largo camino por recorrer”",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/15/marco-rubio-dijo-que-la-captura-de-nicolas-maduro-abrio-una-oportunidad-real-para-venezuela-queda-un-largo-camino-por-recorrer/",
+      "image": "https://www.infobae.com/resizer/v2/DCX3WQVU55CUVKG3ZAYMM4KHMY.JPG?auth=572be4c046b9cfbf4ea514fcedaa35e8dc91473aaa4bf9917dd8f8b3b157bb10&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El caso de un venezolano baleado por ICE revela las inconsistencias del DHS",
-      "link": "https://cnnespanol.cnn.com/2026/02/15/eeuu/hombre-baleado-ice-minneapolis-confesion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/agentes-inmigracion-minneapolis-30-enero-2026.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump dice que la Junta de Paz anunciará paquete de US$ 5.000 millones para Gaza",
+      "link": "https://cnnespanol.cnn.com/2026/02/15/mundo/trump-junta-de-paz-ususd-5-000-millones-gaza-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gaza-plan-de-paz.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA ESCALÓ AL QUINTO LUGAR COMO PROVEEDOR DE PETRÓLEO A EE. UU.",
-      "link": "https://noticierodigital.com/2026/02/venezuela-escalo-al-quinto-lugar-como-proveedor-de-petroleo-a-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/petroleo-venezuela-referencial-627x376.jpg"
+      "title": "GOBIERNO SUPRIMIÓ MISIONES Y FUNDACIONES ADSCRITAS AL DESPACHO DE LA PRESIDENCIA",
+      "link": "https://noticierodigital.com/2026/02/gobierno-suprimio-misiones-y-fundaciones-adscritas-al-despacho-de-la-presidencia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-2-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Reaparece Miss Jamaica tras grave accidente que la sacó del famoso certamen: \"Lo cambió todo\"",
-      "link": "https://www.noticiascaracol.com/mundo/reaparece-miss-jamaica-gabrielle-henry-tras-grave-accidente-que-la-saco-de-miss-universo-2025-lo-cambio-todo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5170f6c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F5f%2F9dbe72204c90b96aa8721891de5a%2Fdiseno.jpg"
+      "title": "Candidata al Congreso de la República denuncia que fue retenida por hombres armados en el Cauca",
+      "link": "https://www.noticiascaracol.com/colombia/lucy-amparo-guzman-candidata-al-congreso-denuncia-que-fue-retenida-por-hombres-armados-en-el-cauca-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d2bc167/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fde%2F9d%2F2162a02445de9bae644ecaa90ed0%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio destaca la estabilidad en Venezuela como eje del G7 en Múnich",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-destaca-la-estabilidad-en-venezuela-como-eje-del-g7-en-munich/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-14-155814-1.jpg-750x430.webp"
+      "title": "Rubio resalta avances en Venezuela tras captura de Maduro: \"Está mejor que hace seis semanas\"",
+      "link": "https://diarioversionfinal.com/mundo/rubio-resalta-avances-en-venezuela-tras-captura-de-maduro-esta-mejor-que-hace-seis-semanas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-15T17:26:10.193Z"
+  "lastUpdate": "2026-02-15T18:37:52.327Z"
 };
