@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Tres puntos clave que dejó la visita de Chris Wright, secretario de Energía de EE UU\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/tres-puntos-clave-que-dejo-la-visita-de-chris-wright-secretario-de-energia-de-ee-uu/",
+      "title": "Con petróleo se puede recuperar la economía, pero no la democracia \nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/02/con-petroleo-se-puede-recuperar-la-economia-pero-no-la-democracia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "El control de armas es popular en Canadá. Entonces, ¿por qué programa de un recompra genera críticas?",
-      "link": "https://cnnespanol.cnn.com/2026/02/14/mundo/control-armas-canada-programa-recompra-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/1c426502-c583-4600-b6d2-a784188584c2.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cómo una epidemia de crímenes evidencia la desigualdad en la sociedad israelí",
+      "link": "https://cnnespanol.cnn.com/2026/02/15/mundo/epidemia-crimenes-contra-arabes-israel-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/palestinian-woman-protests.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/descarga-61.jpg"
     }
   ],
-  "lastUpdate": "2026-02-15T08:34:47.342Z"
+  "lastUpdate": "2026-02-15T09:32:49.902Z"
 };
