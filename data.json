@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "557,66"
+      "usdt": "557,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Congresista colombiana denuncia detención de su hijo por parte del ICE: \"En condiciones inhumanas\"",
-      "link": "https://www.noticiascaracol.com/colombia/congresista-colombiana-angela-vergara-denuncia-dentencion-de-su-hijo-por-parte-del-ice-en-condiciones-inhumanas-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/eb745a0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F60%2Fde%2F1391d2224d05932fbc7761b34b1a%2Fdiseno-1.jpg"
+      "title": "Lluvias en Medellín generan inundaciones en vías y emergencias por tormenta eléctrica",
+      "link": "https://www.noticiascaracol.com/colombia/lluvias-en-medellin-generan-inundaciones-en-vias-y-emergencias-por-tormenta-electrica-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/700c6d9/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5b%2Ff0%2Ff2221bf348c8ae511185ad23d0f9%2Fplantilla-fotos-18.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/descarga-61.jpg"
     }
   ],
-  "lastUpdate": "2026-02-14T23:25:34.569Z"
+  "lastUpdate": "2026-02-15T02:22:43.431Z"
 }
