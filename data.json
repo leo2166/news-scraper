@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "560,00"
+      "usdt": "563,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Con petróleo se puede recuperar la economía, pero no la democracia \nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/02/con-petroleo-se-puede-recuperar-la-economia-pero-no-la-democracia/",
+      "title": "Rubio defiende la captura de Maduro: \"Puedo decirles que Venezuela está mucho mejor hoy que hace seis semanas\"\nEE UU",
+      "link": "https://www.elnacional.com/2026/02/rubio-defiende-la-captura-de-maduro-puedo-decirles-que-venezuela-esta-mucho-mejor-hoy-que-hace-seis-semanas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministro Vladimir Padrino López: “La Ley de Amnistía no es un acto político sino de perdón y reconciliación”",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministro-vladimir-padrino-lopez-la-ley-de-amnistia-no-es-un-acto-politico-sino-de-perdon-y-reconciliacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/aa9d689b6aae4dccc1a8896492f03e19-084bd3.jpg"
+      "title": "Encargada de Negocios  de EE. UU. celebra  su primer Carnaval en Venezuela con  mensaje de paz y prosperidad",
+      "link": "https://noticiasvenevision.com/noticias/politica/encargada-de-negocios-de-ee-uu-celebra-su-primer-carnaval-en-venezuela-con-mensaje-de-paz-y-prosperidad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_4385-f04245.PNG"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "VENEZUELA ESCALÓ AL QUINTO LUGAR COMO PROVEEDOR DE PETRÓLEO A EE. UU.",
+      "link": "https://noticierodigital.com/2026/02/venezuela-escalo-al-quinto-lugar-como-proveedor-de-petroleo-a-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/petroleo-venezuela-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-14-155814-1.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-15T16:31:32.207Z"
+  "lastUpdate": "2026-02-15T17:26:10.193Z"
 }
