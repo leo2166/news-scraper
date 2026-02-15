@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "562,87"
+      "usdt": "560,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EEUU incautó en el Océano Índico el buque petrolero Veronica III que formaba parte de la flota fantasma iraní",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/15/eeuu-incauto-en-el-oceano-indico-el-buque-petrolero-veronica-iii-que-formaba-parte-de-la-flota-fantasma-irani/",
-      "image": "https://www.infobae.com/resizer/v2/LRGTHRM7RBCMHLKVCF2IBK43MU.jpg?auth=4158d40ac4e916a2864c296fda81bc8b43d1f71152888e506709eb07cf68084b&smart=true&width=350&height=197&quality=85"
+      "title": "Denuncian que la Ley de Amnistía del régimen de Venezuela deja fuera a la mayoría de los militares encarcelados por causas políticas",
+      "link": "https://www.infobae.com/venezuela/2026/02/15/denuncian-que-la-ley-de-amnistia-del-regimen-de-venezuela-deja-fuera-a-la-mayoria-de-los-militares-encarcelados-por-causas-politicas/",
+      "image": "https://www.infobae.com/resizer/v2/3BAMHPQOEFGVPKEO3H6UWN2HBI.png?auth=de0271930fcf9ba30185d89a541a1bf3de5e93dd03d1e8d7ef037dfe7c434ef6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,29 +37,23 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/aa9d689b6aae4dccc1a8896492f03e19-084bd3.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "CICPC INCAUTÓ MÁS DE 500 KILOS DE DROGA TRAS PERSECUCIÓN EN TÁCHIRA",
-      "link": "https://noticierodigital.com/2026/02/cicpc-incauto-mas-de-500-kilos-de-droga-tras-persecucion-en-tachira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/incautacion-de-drogas-tachira-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Navalni murió envenenado con toxina letal presente en rana venenosa, aseguran gobiernos europeos",
-      "link": "https://www.noticiascaracol.com/mundo/opositor-ruso-alexei-navalni-murio-envenenado-con-toxina-letal-presente-en-rana-venenosa-esto-dicen-gobiernos-europeos-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b36dceb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa0%2F07%2F9ea09d3f4a4aad89867496678225%2Fdiseno-1.jpg"
+      "title": "Reaparece Miss Jamaica tras grave accidente que la sacó del famoso certamen: \"Lo cambió todo\"",
+      "link": "https://www.noticiascaracol.com/mundo/reaparece-miss-jamaica-gabrielle-henry-tras-grave-accidente-que-la-saco-de-miss-universo-2025-lo-cambio-todo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5170f6c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F5f%2F9dbe72204c90b96aa8721891de5a%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV pide paz por el Año Nuevo Lunar y expresa solidaridad con Madagascar",
-      "link": "https://laverdad.com/leon-xiv-pide-paz-por-el-ano-nuevo-lunar-y-expresa-solidaridad-con-madagascar/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/bdc0128d635dbec7915d6e9e41df352966b0b66f-scaled.jpg"
+      "title": "EE. UU. intercepta al Veronica III en el Índico por desafiar la cuarentena de Trump",
+      "link": "https://laverdad.com/ee-uu-intercepta-al-veronica-iii-en-el-indico-por-desafiar-la-cuarentena-de-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-15-080649.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "HRW advierte que acuerdos económicos podrían socavar la transición democrática en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/hrw-advierte-que-acuerdos-economicos-podrian-socavar-la-transicion-democratica-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/CNE-1-1200x900-1-750x430.jpg"
+      "title": "Marco Rubio destaca la estabilidad en Venezuela como eje del G7 en Múnich",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-destaca-la-estabilidad-en-venezuela-como-eje-del-g7-en-munich/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-14-155814-1.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-15T15:26:41.463Z"
+  "lastUpdate": "2026-02-15T16:31:32.207Z"
 }
