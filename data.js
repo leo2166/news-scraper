@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "561,00"
+      "usdt": "562,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal verificó 444 excarcelaciones de presos políticos en Venezuela tras el anuncio del proceso de liberaciones",
-      "link": "https://www.infobae.com/venezuela/2026/02/16/foro-penal-verifico-444-excarcelaciones-de-presos-politicos-en-venezuela-tras-el-anuncio-del-proceso-de-liberaciones/",
-      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de presos políticos en Venezuela cumplen más de 48 horas en huelga de hambre a la espera de todas las liberaciones",
+      "link": "https://www.infobae.com/venezuela/2026/02/16/familiares-de-presos-politicos-en-venezuela-cumplen-mas-de-48-horas-en-huelga-de-hambre-a-la-espera-de-todas-las-liberaciones/",
+      "image": "https://www.infobae.com/resizer/v2/Q6YIMK4AINFNNNVUMTYUMHEM3A.jpeg?auth=bade78bb2872ead2f7ba00ac7be57dc9c786b41b336137d832e4f158dcaaaa0f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Las deportaciones de Trump no son novedosas: estos son sus oscuros antecedentes",
-      "link": "https://cnnespanol.cnn.com/2026/02/16/eeuu/deportaciones-trump-dos-oscuros-antecedentes-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2228666787.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "A sobrevivientes de campos de prisioneros en EE.UU. les preocupa la ofensiva migratoria",
+      "link": "https://cnnespanol.cnn.com/2026/02/16/eeuu/sobrevivientes-japoneses-prisiones-deportacion-trump-preocupante-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-kiyoshi-satsuki-shizuko-3146-20260216131132517.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Aseguran que las redadas migratorias continuarán pese al cierre parcial del DHS",
-      "link": "https://laverdad.com/aseguran-que-las-redadas-migratorias-continuaran-pese-al-cierre-parcial-del-dhs/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/de4eef80ef5561d6fbf126fedd6eb333.jpg"
+      "title": "La red social X recupera la normalidad tras sufrir una caída en varios países",
+      "link": "https://laverdad.com/la-red-social-x-recupera-la-normalidad-tras-sufrir-una-caida-en-varios-paises/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Red-social-X.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-16-at-11.36.22-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-16T15:41:12.017Z"
+  "lastUpdate": "2026-02-16T16:43:59.157Z"
 };
