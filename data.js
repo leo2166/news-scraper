@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria se solidariza con familiares de privados de libertad en huelga de hambre",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-se-solidariza-con-familiares-de-privados-de-libertad-en-huelga-de-hambre",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/624852075_18558538102053185_3822444681331211825_n-c1fdb2.jpg"
+      "title": "Ejecutivo oficializa nuevos nombramientos en Servicios públicos y Comercio Exterior",
+      "link": "https://noticiasvenevision.com/noticias/politica/ejecutivo-oficializa-nuevos-nombramientos-en-servicios-publicos-y-comercio-exterior",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gaceta-oficial-536658.jpeg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Murió Robert Duvall, famoso actor de El Padrino y Apocalypse Now, a sus 95 años",
-      "link": "https://www.noticiascaracol.com/entretenimiento/murio-robert-duvall-famoso-actor-de-el-padrino-y-apocalypse-now-a-sus-95-anos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e2bba58/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F77%2F72%2F45244e6e4e7b9d045f1ba69165c1%2Ftamano-imagenes-24.jpg"
+      "title": "Movilidad en Bogotá EN VIVO hoy, 16 de febrero: lluvias fuertes en la autopista Norte",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-en-vivo-hoy-16-de-febrero-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/61728a8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8c%2Fc4%2Fc4bcf25742cc8eb6c0a16e8b88ce%2Flluvias-bogota.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Conductores de micros protestan en Perú tras asesinato de chofer venezolano",
-      "link": "https://diarioversionfinal.com/mundo/conductores-de-micros-protestan-en-peru-tras-asesinato-de-chofer-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-16-at-4.25.23-PM-750x430.jpeg"
+      "title": "ONU advierte sobre deterioro energético en Cuba y pide diálogo inmediato urgente",
+      "link": "https://diarioversionfinal.com/mundo/onu-advierte-sobre-deterioro-energetico-en-cuba-y-pide-dialogo-inmediato-urgente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-16-at-4.35.44-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-16T20:32:53.060Z"
+  "lastUpdate": "2026-02-16T21:29:41.313Z"
 };
