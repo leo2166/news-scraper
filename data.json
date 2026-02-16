@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "562,50"
+      "usdt": "562,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "A sobrevivientes de campos de prisioneros en EE.UU. les preocupa la ofensiva migratoria",
-      "link": "https://cnnespanol.cnn.com/2026/02/16/eeuu/sobrevivientes-japoneses-prisiones-deportacion-trump-preocupante-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-kiyoshi-satsuki-shizuko-3146-20260216131132517.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "¿Por qué no se aprueba aún la ley de amnistía en Venezuela?",
+      "link": "https://cnnespanol.cnn.com/2026/02/16/venezuela/amnistia-fuerzas-seguridad-militares-funcionarios-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2249322015-20260216173649866.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Duro mensaje de madre de niño Kevin Acosta tras su muerte por falta de medicina: \"No tienen corazón\"",
-      "link": "https://www.noticiascaracol.com/colombia/duro-mensaje-de-madre-de-nino-kevin-acosta-tras-su-muerte-por-falta-de-medicina-no-tienen-corazon-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ddcb9d1/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F75%2F00%2F4f00755c4df181466b6d8782036c%2Ftamano-imagenes-27.png"
+      "title": "Murió Robert Duvall, famoso actor de El Padrino y Apocalypse Now, a sus 95 años",
+      "link": "https://www.noticiascaracol.com/entretenimiento/murio-robert-duvall-famoso-actor-de-el-padrino-y-apocalypse-now-a-sus-95-anos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e2bba58/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F77%2F72%2F45244e6e4e7b9d045f1ba69165c1%2Ftamano-imagenes-24.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Entregan 60 años después restos de Camilo Torres, “el cura guerrillero” colombiano",
-      "link": "https://laverdad.com/entregan-60-anos-despues-restos-de-camilo-torres-el-cura-guerrillero-colombiano/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Camilo-Torres.jpg"
+      "title": "Expertos de la ONU: Archivos de Epstein revelan posibles crímenes de lesa humanidad",
+      "link": "https://laverdad.com/expertos-de-la-onu-archivos-de-epstein-revelan-posibles-crimenes-de-lesa-humanidad/",
+      "image": "https://laverdad.com/wp-content/uploads/2024/01/Jeffrey_Epstein__documentos.png"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-16T17:38:22.767Z"
+  "lastUpdate": "2026-02-16T18:44:03.232Z"
 }
