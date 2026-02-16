@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "562,60"
+      "usdt": "537,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos en Venezuela cumplen más de 48 horas en huelga de hambre a la espera de todas las liberaciones",
-      "link": "https://www.infobae.com/venezuela/2026/02/16/familiares-de-presos-politicos-en-venezuela-cumplen-mas-de-48-horas-en-huelga-de-hambre-a-la-espera-de-todas-las-liberaciones/",
-      "image": "https://www.infobae.com/resizer/v2/Q6YIMK4AINFNNNVUMTYUMHEM3A.jpeg?auth=bade78bb2872ead2f7ba00ac7be57dc9c786b41b336137d832e4f158dcaaaa0f&smart=true&width=350&height=197&quality=85"
+      "title": "La falta de respuesta oficial agrava la situación de migrantes venezolanos en Honduras tras cierre de embajada",
+      "link": "https://www.infobae.com/honduras/2026/02/16/la-falta-de-respuesta-oficial-agrava-la-situacion-de-migrantes-venezolanos-en-honduras-tras-cierre-de-embajada/",
+      "image": "https://www.infobae.com/resizer/v2/TVEJUKNRNZF2VHWCV6LR3RNOXE.jpg?auth=a00813ca89c6bd0169461504d587eb590fe03d0ec0b676dd2751bb40e0dd3551&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-16T18:44:03.232Z"
+  "lastUpdate": "2026-02-16T19:32:21.752Z"
 }
