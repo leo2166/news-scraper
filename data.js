@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "537,40"
+      "usdt": "562,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Por qué no se aprueba aún la ley de amnistía en Venezuela?",
+      "title": "Ley de amnistía en Venezuela: ¿también para los chavistas?",
       "link": "https://cnnespanol.cnn.com/2026/02/16/venezuela/amnistia-fuerzas-seguridad-militares-funcionarios-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2249322015-20260216173649866.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delsa Solórzano: “Tenemos una nueva oportunidad de construir la Venezuela por la que hemos luchado”",
-      "link": "https://noticiasvenevision.com/noticias/politica/delsa-solorzano-tenemos-una-nueva-oportunidad-de-construir-la-venezuela-por-la-que-hemos-luchado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-delsa-solrzano-margarita-oropeza-15feb2026-5b15b8.jpeg"
+      "title": "Plataforma Unitaria se solidariza con familiares de privados de libertad en huelga de hambre",
+      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-se-solidariza-con-familiares-de-privados-de-libertad-en-huelga-de-hambre",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/624852075_18558538102053185_3822444681331211825_n-c1fdb2.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio confirma que EE. UU. respalda diálogo sin forzar acuerdo en Ucrania",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-confirma-que-ee-uu-respalda-dialogo-sin-forzar-acuerdo-en-ucrania/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
+      "title": "Conductores de micros protestan en Perú tras asesinato de chofer venezolano",
+      "link": "https://diarioversionfinal.com/mundo/conductores-de-micros-protestan-en-peru-tras-asesinato-de-chofer-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-16-at-4.25.23-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-16T19:32:21.752Z"
+  "lastUpdate": "2026-02-16T20:32:53.060Z"
 };
