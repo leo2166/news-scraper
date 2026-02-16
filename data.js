@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "536,00"
+      "usdt": "534,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,25 +20,25 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Familiares de presos políticos se descompensan tras más de 48 horas en huelga de hambre en Zona 7\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-se-descompensan-tras-mas-de-48-horas-en-huelga-de-hambre-en-zona-7/",
+      "title": "\"¿Qué empresa en su sano juicio va a invertir en Venezuela?\": los obstáculos que enfrenta la apuesta de Trump por el petróleo venezolano\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/02/que-empresa-en-su-sano-juicio-va-a-invertir-en-venezuela-los-obstaculos-que-enfrenta-la-apuesta-de-trump-por-el-petroleo-venezolano/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Ley de amnistía en Venezuela: ¿también para los chavistas?",
-      "link": "https://cnnespanol.cnn.com/2026/02/16/venezuela/amnistia-fuerzas-seguridad-militares-funcionarios-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2249322015-20260216173649866.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. aumenta la presión militar sobre Irán antes de conversaciones cruciales",
+      "link": "https://cnnespanol.cnn.com/2026/02/16/eeuu/presion-militar-iran-conversaciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9522304-20260216225703389.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ejecutivo oficializa nuevos nombramientos en Servicios públicos y Comercio Exterior",
-      "link": "https://noticiasvenevision.com/noticias/politica/ejecutivo-oficializa-nuevos-nombramientos-en-servicios-publicos-y-comercio-exterior",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gaceta-oficial-536658.jpeg"
+      "title": "Familiares de detenidos mantienen huelga de hambre, informa Foro Penal",
+      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-mantienen-huelga-de-hambre-informa-foro-penal",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-c7a7bf.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Movilidad en Bogotá EN VIVO hoy, 16 de febrero: lluvias fuertes en la autopista Norte",
+      "title": "Movilidad en Bogotá EN VIVO hoy, 16 de febrero: canal de agua se desborda en autopista Norte",
       "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-en-vivo-hoy-16-de-febrero-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/f4706c8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F44%2F3e%2F6a6a6195438b89eced2accb4fbe5%2Finundaciones-autopista-norte.jpg"
     },
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONU advierte sobre deterioro energético en Cuba y pide diálogo inmediato urgente",
-      "link": "https://diarioversionfinal.com/mundo/onu-advierte-sobre-deterioro-energetico-en-cuba-y-pide-dialogo-inmediato-urgente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-16-at-4.35.44-PM-750x430.jpeg"
+      "title": "Muere de cáncer la hija de un migrante recién liberado tras redada migratoria en Chicago",
+      "link": "https://diarioversionfinal.com/mundo/muere-de-cancer-la-hija-de-un-migrante-recien-liberado-tras-redada-migratoria-en-chicago/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-15-224602.png"
     }
   ],
-  "lastUpdate": "2026-02-16T22:29:46.727Z"
+  "lastUpdate": "2026-02-16T23:30:09.772Z"
 };
