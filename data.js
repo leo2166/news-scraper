@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "566,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Preocupación por el estado de salud de familiares de presos políticos en Caracas tras más de un día en huelga de hambre",
-      "link": "https://www.infobae.com/venezuela/2026/02/15/preocupacion-por-el-estado-de-salud-de-familiares-de-presos-politicos-en-caracas-tras-mas-de-un-dia-en-huelga-de-hambre/",
-      "image": "https://www.infobae.com/resizer/v2/Y7OQC4VTCNGXDIV2DPVVM5JFNE.PNG?auth=9b88c41a74819dc3835d1cde1093d13128fe61c8402ada305c98ab5c9c9feae2&smart=true&width=350&height=197&quality=85"
+      "title": "Foro Penal verificó 444 excarcelaciones de presos políticos en Venezuela tras el anuncio del proceso de liberaciones",
+      "link": "https://www.infobae.com/venezuela/2026/02/16/foro-penal-verifico-444-excarcelaciones-de-presos-politicos-en-venezuela-tras-el-anuncio-del-proceso-de-liberaciones/",
+      "image": "https://www.infobae.com/resizer/v2/CRN3KCXKWNDMTJQKEDTEACNW24.JPG?auth=5326a05d959283067846fee34993aafe95b4986f0d909b25c07e0f23b371b20e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Secretario de Estado de EE.UU. Marco Rubio aseguró que Venezuela está mucho mejor ahora",
-      "link": "https://noticiasvenevision.com/noticias/politica/secretario-de-estado-de-eeuu-marco-rubio-aseguro-que-venezuela-esta-mucho-mejor-ahora",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/marco-rubio-foto-afp-d52456.jpg"
+      "title": "Delsa Solórzano: “Tenemos una nueva oportunidad de construir la Venezuela por la que hemos luchado”",
+      "link": "https://noticiasvenevision.com/noticias/politica/delsa-solorzano-tenemos-una-nueva-oportunidad-de-construir-la-venezuela-por-la-que-hemos-luchado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-delsa-solrzano-margarita-oropeza-15feb2026-5b15b8.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/carnaval-rio-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-16T02:11:18.365Z"
+  "lastUpdate": "2026-02-16T04:59:24.718Z"
 };
