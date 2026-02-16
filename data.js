@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "562,60"
+      "usdt": "562,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Familiares de presos políticos cumplen 48 horas en huelga de hambre en Zona 7\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-cumplen-48-horas-en-huelga-de-hambre-en-zona-7/",
+      "title": "Familiares de presos políticos se descompensan tras más de 48 horas en huelga de hambre en Zona 7\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-se-descompensan-tras-mas-de-48-horas-en-huelga-de-hambre-en-zona-7/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "La red social X recupera la normalidad tras sufrir una caída en varios países",
-      "link": "https://laverdad.com/la-red-social-x-recupera-la-normalidad-tras-sufrir-una-caida-en-varios-paises/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Red-social-X.jpg"
+      "title": "Entregan 60 años después restos de Camilo Torres, “el cura guerrillero” colombiano",
+      "link": "https://laverdad.com/entregan-60-anos-despues-restos-de-camilo-torres-el-cura-guerrillero-colombiano/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Camilo-Torres.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel exige a Hamas desarme total en 60 días para mantener tregua vigente",
-      "link": "https://diarioversionfinal.com/mundo/israel-exige-a-hamas-desarme-total-en-60-dias-para-mantener-tregua-vigente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-16-at-11.36.22-AM-750x430.jpeg"
+      "title": "Marco Rubio confirma que EE. UU. respalda diálogo sin forzar acuerdo en Ucrania",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-confirma-que-ee-uu-respalda-dialogo-sin-forzar-acuerdo-en-ucrania/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-16T16:43:59.157Z"
+  "lastUpdate": "2026-02-16T17:38:22.767Z"
 };
