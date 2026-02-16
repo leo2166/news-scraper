@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "564,66"
+      "usdt": "557,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El daño de Trump ya está hecho. Los demócratas y Europa piensan qué sigue",
-      "link": "https://cnnespanol.cnn.com/2026/02/16/eeuu/analisis-trump-democratas-europa-esfuerzos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gavin-newson-munich.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Las deportaciones de Trump no son novedosas: estos son sus oscuros antecedentes",
+      "link": "https://cnnespanol.cnn.com/2026/02/16/eeuu/deportaciones-trump-dos-oscuros-antecedentes-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2228666787.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Gustavo Petro: \"El salario vital se mantiene hasta que se expida el nuevo decreto\"",
-      "link": "https://www.noticiascaracol.com/politica/presidente-gustavo-petro-el-salario-vital-se-mantiene-hasta-que-se-expida-el-nuevo-decreto-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/be358a2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5d%2F5e%2F46a4295b4fb395ef9c520061cd99%2Fsalario-minimo-vital.jpg"
+      "title": "¿En qué va investigación del asesinato de Gustavo Aponte en Bogotá? Esta es una de las hipótesis",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/en-que-va-investigacion-del-asesinato-de-gustavo-aponte-en-bogota-esta-es-una-de-las-hipotesis-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c5b451f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F20%2F05%2F8955082f47f89c57aea73cbe9df2%2Fgustavo-aponte-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/carnaval-rio-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-16T11:40:44.043Z"
+  "lastUpdate": "2026-02-16T13:05:03.785Z"
 }
