@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "566,70"
+      "usdt": "567,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/carnaval-rio-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-16T07:54:30.731Z"
+  "lastUpdate": "2026-02-16T08:50:27.276Z"
 };
