@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "557,66"
+      "usdt": "561,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal contabiliza 444 excarcelaciones de presos políticos desde el 8 de enero\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/foro-penal-contabiliza-444-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
+      "title": "Familiares de presos políticos cumplen 48 horas en huelga de hambre en Zona 7\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-cumplen-48-horas-en-huelga-de-hambre-en-zona-7/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,16 +37,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-delsa-solrzano-margarita-oropeza-15feb2026-5b15b8.jpeg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "OCUPACIÓN PLAYERA EN LA GUAIRA ALCANZÓ EL 97,5 % DURANTE ASUETO DE CARNAVAL",
-      "link": "https://noticierodigital.com/2026/02/ocupacion-playera-en-la-guaira-alcanzo-el-975-durante-asueto-de-carnaval/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Jose-Alejandro-Teran-La-Guaira-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "¿En qué va investigación del asesinato de Gustavo Aponte en Bogotá? Esta es una de las hipótesis",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/en-que-va-investigacion-del-asesinato-de-gustavo-aponte-en-bogota-esta-es-una-de-las-hipotesis-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c5b451f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F20%2F05%2F8955082f47f89c57aea73cbe9df2%2Fgustavo-aponte-1.jpg"
+      "title": "Duro mensaje de madre de niño Kevin Acosta tras su muerte por falta de medicina: \"No tienen corazón\"",
+      "link": "https://www.noticiascaracol.com/colombia/duro-mensaje-de-madre-de-nino-kevin-acosta-tras-su-muerte-por-falta-de-medicina-no-tienen-corazon-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ddcb9d1/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F75%2F00%2F4f00755c4df181466b6d8782036c%2Ftamano-imagenes-27.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Accidente en Carnaval de Río deja tres heridos tras colisión de carroza",
-      "link": "https://diarioversionfinal.com/mundo/accidente-en-carnaval-de-rio-deja-tres-heridos-tras-colision-de-carroza/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/carnaval-rio-2-750x430.jpg"
+      "title": "Irán realiza ejercicios militares en Ormuz antes de diálogo nuclear",
+      "link": "https://diarioversionfinal.com/mundo/iran-realiza-ejercicios-militares-en-ormuz-antes-de-dialogo-nuclear/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-16-at-9.19.01-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-16T13:05:03.785Z"
+  "lastUpdate": "2026-02-16T14:41:43.894Z"
 };
