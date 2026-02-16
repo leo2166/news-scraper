@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "563,66"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Transición en Venezuela: Delcy Rodríguez eliminó por decreto programas sociales y entes emblemáticos del entramado chavista",
-      "link": "https://www.infobae.com/venezuela/2026/02/15/transicion-en-venezuela-delcy-rodriguez-elimino-por-decreto-programas-sociales-y-entes-emblematicos-del-entramado-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/7347FALLUBD7XNCJHE4N4FITCQ.jpg?auth=6e86786500d4b7cde218ad4abf4fe6d24b6176efbe613d79b4c844b85fdbb0cd&smart=true&width=350&height=197&quality=85"
+      "title": "Preocupación por el estado de salud de familiares de presos políticos en Caracas tras más de un día en huelga de hambre",
+      "link": "https://www.infobae.com/venezuela/2026/02/15/preocupacion-por-el-estado-de-salud-de-familiares-de-presos-politicos-en-caracas-tras-mas-de-un-dia-en-huelga-de-hambre/",
+      "image": "https://www.infobae.com/resizer/v2/Y7OQC4VTCNGXDIV2DPVVM5JFNE.PNG?auth=9b88c41a74819dc3835d1cde1093d13128fe61c8402ada305c98ab5c9c9feae2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿En qué va investigación del asesinato de Gustavo Aponte en Bogotá? Esta es una de las hipótesis",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/en-que-va-investigacion-del-asesinato-de-gustavo-aponte-en-bogota-esta-es-una-de-las-hipotesis-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c5b451f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F20%2F05%2F8955082f47f89c57aea73cbe9df2%2Fgustavo-aponte-1.jpg"
+      "title": "Presidente Gustavo Petro: \"El salario vital se mantiene hasta que se expida el nuevo decreto\"",
+      "link": "https://www.noticiascaracol.com/politica/presidente-gustavo-petro-el-salario-vital-se-mantiene-hasta-que-se-expida-el-nuevo-decreto-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/be358a2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5d%2F5e%2F46a4295b4fb395ef9c520061cd99%2Fsalario-minimo-vital.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/carnaval-rio-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-15T23:27:51.537Z"
+  "lastUpdate": "2026-02-16T02:11:18.365Z"
 }
