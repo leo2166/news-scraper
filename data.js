@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. aumenta la presión militar sobre Irán antes de conversaciones cruciales",
-      "link": "https://cnnespanol.cnn.com/2026/02/16/eeuu/presion-militar-iran-conversaciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9522304-20260216225703389.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La ideología MAGA guía la política exterior de Trump hacia Europa y el mundo",
+      "link": "https://cnnespanol.cnn.com/2026/02/17/mundo/maga-desafios-rubio-busca-exportarlo-exterior-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261520308-20260217061344902.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/hyvgjj-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-17T05:57:41.636Z"
+  "lastUpdate": "2026-02-17T07:06:55.293Z"
 };
