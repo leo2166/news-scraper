@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "561,70"
+      "usdt": "560,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos estimó que las ventas de petróleo venezolano podrían superar los USD 10.000 millones al año",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/17/estados-unidos-estimo-que-las-ventas-de-petroleo-venezolano-podrian-superar-los-usd-10000-millones-al-ano/",
-      "image": "https://www.infobae.com/resizer/v2/TLSUMJIWQFABDH6JLDKFMXWZGI.jpg?auth=704769349a83ecff3988bccc7614b0e9f4a26fdbf39c6aba922318ac22afecfc&smart=true&width=350&height=197&quality=85"
+      "title": "El primer ministro de Qatar, aliado clave de Estados Unidos, llegó a Venezuela en una visita oficial",
+      "link": "https://www.infobae.com/venezuela/2026/02/17/el-primer-ministro-de-qatar-aliado-clave-de-estados-unidos-llego-a-venezuela-en-una-visita-oficial/",
+      "image": "https://www.infobae.com/resizer/v2/SPUDMHMOVFA25DV5WLQVPS3G7A.JPG?auth=da68cd443709bd8d721182ea69bac51f0425d606e7d0474b110b9450d330f4af&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,34 +26,34 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Anularon su condena tras 40 años en prisión. Ahora lucha para que lo libere ICE",
-      "link": "https://cnnespanol.cnn.com/2026/02/17/eeuu/paso-40-anos-prision-lucha-ice-libere-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2240122400-1-20260217100153204.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El Congreso de Perú destituye al presidente José Jerí tras aprobar voto de censura",
+      "link": "https://cnnespanol.cnn.com/2026/02/17/latinoamerica/congreso-peru-censura-jose-jeri-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256912182-20260217192007310.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comando Sur confirma tres ataques A EMBARCACIONES en el Pacífico Oriental y en el Caribe",
-      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-de-los-ee-uu-confirma-tres-ataques-a-embarcaciones-en-el-pacifico-oriental-y-en-el-caribe",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tlmd-ataque-lancha-eeuu-1ad0e1.jpg"
+      "title": "Delcy Rodríguez expresa sus mejores deseos a Gobiernos de China y Vietnam por el Año Nuevo lunar",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-expresa-sus-mejores-deseos-a-gobiernos-de-china-y-vietnam-por-el-ano-nuevo-lunar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-convoca-consulta-sistema-justicia-1a9d52.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Video: vivienda quedó destruida en La Candelaria, centro de Bogotá, tras choque de camión de basura",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/video-vivienda-quedo-destruida-en-la-candelaria-centro-de-bogota-tras-choque-de-camion-de-basura-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f1f8700/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb4%2Fa0%2F74dbf0104b6fb576b6df766759ae%2Fvotacion-8.jpg"
+      "title": "Así fue choque en Bogotá de camión de basura contra casa en La Candelaria",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/asi-fue-choque-en-bogota-de-camion-de-basura-contra-casa-en-la-candelaria-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8f80c86/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F71%2F6a%2F62f2314e47b5b2903f1718d63f33%2Fcamion-basura-video.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. destruye otras 3 “narcolanchas” en el Pacífico y el Caribe y deja 11 muertos",
-      "link": "https://laverdad.com/ee-uu-destruye-otras-3-narcolanchas-en-el-pacifico-y-el-caribe-y-deja-11-muertos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/EE.-UU.-ataque-narcolanchas-16-febrero.jpg"
+      "title": "Congreso de Perú destituye al presidente interino José Jerí a dos meses de las elecciones",
+      "link": "https://laverdad.com/congreso-de-peru-destituye-al-presidente-interino-jose-jeri-a-dos-meses-de-las-elecciones/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/llg-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur confirma ataque a embarcaciones en el Caribe y Pacífico con de 11 fallecidos",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-confirma-ataque-a-embarcaciones-en-el-caribe-y-pacifico-con-de-11-fallecidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/lancha-caribe-eeuu-0e2e3d-750x430.webp"
+      "title": "Segunda audiencia de Maduro en EE. UU. es aplazada para el #26Mar",
+      "link": "https://diarioversionfinal.com/mundo/segunda-audiencia-de-maduro-en-ee-uu-es-aplazada-para-el-26mar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-se-declara-no-culpable-afp-180245-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-17T19:05:39.659Z"
+  "lastUpdate": "2026-02-17T20:39:21.750Z"
 }
