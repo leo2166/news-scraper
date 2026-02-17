@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "561,50"
+      "usdt": "561,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gaceta Oficial: Sustituyen el Viceministerio de Suprema Felicidad por Protección Social y se crea Viceministerio de Comunicación Presidencial",
-      "link": "https://noticiasvenevision.com/noticias/politica/gaceta-oficial-sustituyen-el-viceministerio-de-suprema-felicidad-por-proteccion-social-y-se-crea-viceministerio-de-comunicacion-presidencial",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_gaceta-1-e1652740950572-a9b15e.jpg"
+      "title": "Comando Sur confirma tres ataques A EMBARCACIONES en el Pacífico Oriental y en el Caribe",
+      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-de-los-ee-uu-confirma-tres-ataques-a-embarcaciones-en-el-pacifico-oriental-y-en-el-caribe",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tlmd-ataque-lancha-eeuu-1ad0e1.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Abelardo de la Espriella invita a Iván Cepeda a un debate y revela planes si llega a la presidencia",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-entrevista-propuestas-actualidad-de-colombia-y-opinion-sobre-campana-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/79849ae/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F97%2F26%2F74602da549b79f19b30356be706d%2Fabelardo-de-la-espriella.jpg"
+      "title": "Los intereses ocultos detrás de las curules de paz que se eligen este año, ¿qué pasa en Catatumbo?",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/los-intereses-ocultos-detras-de-las-curules-de-paz-que-se-eligen-este-ano-que-pasa-en-catatumbo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5fd0271/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8e%2F8b%2Fba225bcf405ea2520dea1e0ddec7%2Ftatiana-gaona.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "China defiende cooperación con Venezuela y critica sanciones de EE.UU.",
-      "link": "https://diarioversionfinal.com/mundo/china-defiende-cooperacion-con-venezuela-y-critica-sanciones-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/11111-750x430.jpg"
+      "title": "Comando Sur confirma ataque a embarcaciones en el Caribe y Pacífico con de 11 fallecidos",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-confirma-ataque-a-embarcaciones-en-el-caribe-y-pacifico-con-de-11-fallecidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/lancha-caribe-eeuu-0e2e3d-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-17T16:57:51.932Z"
+  "lastUpdate": "2026-02-17T17:57:42.197Z"
 }
