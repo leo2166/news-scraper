@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "559,66"
+      "usdt": "561,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen de Venezuela detuvo en Maracaibo al asesor petrolero estadounidense Evanan Romero",
-      "link": "https://www.infobae.com/venezuela/2026/02/17/el-regimen-de-venezuela-detuvo-en-maracaibo-al-asesor-petrolero-estadounidense-evanan-romero/",
-      "image": "https://www.infobae.com/resizer/v2/T5WDQDCJMZDMBMYSZ2MQCC4DXI.jpg?auth=3acfef8143d8b8073f597716860510d12bb40e365ab82c2990a760f4417386d0&smart=true&width=350&height=197&quality=85"
+      "title": "Los familiares de presos políticos en Venezuela mantienen la huelga de hambre en Caracas pese al temor por su salud",
+      "link": "https://www.infobae.com/venezuela/2026/02/17/los-familiares-de-presos-politicos-en-venezuela-mantienen-la-huelga-de-hambre-en-caracas-pese-al-temor-por-su-salud/",
+      "image": "https://www.infobae.com/resizer/v2/3C5B2JPSEBAKJBTOAUZZQVYXT4.PNG?auth=b77d8e552d7f8fb0bb9c01084d52739b7d073bf7734a08f5a35da3dc50bf7edb&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Familiares de presos políticos cumplen más de 72 horas en huelga de hambre en Zona 7\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-cumplen-mas-de-72-horas-en-huelga-de-hambre-en-zona-7/",
+      "title": "Las terribles condiciones que enfrentan los presos políticos militares en Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/las-terribles-torturas-a-las-que-someten-a-presos-politicos-militares-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Familiares de detenidos mantienen huelga de hambre, informa Foro Penal",
-      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-mantienen-huelga-de-hambre-informa-foro-penal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-c7a7bf.jpg"
+      "title": "Gaceta Oficial: Sustituyen el Viceministerio de Suprema Felicidad por Protección Social y se crea Viceministerio de Comunicación Presidencial",
+      "link": "https://noticiasvenevision.com/noticias/politica/gaceta-oficial-sustituyen-el-viceministerio-de-suprema-felicidad-por-proteccion-social-y-se-crea-viceministerio-de-comunicacion-presidencial",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_gaceta-1-e1652740950572-a9b15e.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Los venezolanos vuelven a marcar registros históricos en España: Llegaron 27 mil en el último trimestre",
-      "link": "https://diarioversionfinal.com/mundo/los-venezolanos-vuelven-a-marcar-registros-historicos-en-espana-llegaron-27-mil-en-el-ultimo-trimestre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/tiI50sVC-image-750x430.jpg"
+      "title": "China defiende cooperación con Venezuela y critica sanciones de EE.UU.",
+      "link": "https://diarioversionfinal.com/mundo/china-defiende-cooperacion-con-venezuela-y-critica-sanciones-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/11111-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-17T15:54:09.853Z"
+  "lastUpdate": "2026-02-17T16:57:51.932Z"
 };
