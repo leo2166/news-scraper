@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "559,00"
+      "usdt": "557,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela se convirtió en el quinto proveedor de petróleo a Estados Unidos tras la caída de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/02/17/venezuela-se-convirtio-en-el-quinto-proveedor-de-petroleo-a-estados-unidos-tras-la-caida-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/3ZF3RF7LZVFTVMV2PSGXDSXJ2A.jpg?auth=8fbb688a61b8f3669282648434b92af3caacb6fb2ba29f069c5e3b4498fc77ec&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Venezuela detuvo en Maracaibo al asesor petrolero estadounidense Evanan Romero",
+      "link": "https://www.infobae.com/venezuela/2026/02/17/el-regimen-de-venezuela-detuvo-en-maracaibo-al-asesor-petrolero-estadounidense-evanan-romero/",
+      "image": "https://www.infobae.com/resizer/v2/T5WDQDCJMZDMBMYSZ2MQCC4DXI.jpg?auth=3acfef8143d8b8073f597716860510d12bb40e365ab82c2990a760f4417386d0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La ideología MAGA guía la política exterior de Trump hacia Europa y el mundo",
+      "title": "Mientras MAGA enfrenta desafíos en casa, Rubio busca exportarlo al exterior",
       "link": "https://cnnespanol.cnn.com/2026/02/17/mundo/maga-desafios-rubio-busca-exportarlo-exterior-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261520308-20260217061344902.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Videos: así fue la tensión que se vivió en el CAN de Bogotá por retención de más de mil funcionarios",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/videos-asi-fue-la-tension-que-se-vivio-en-el-can-de-bogota-por-retencion-de-1-300-funcionarios-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5429d7d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F62%2F6b%2Faa8d94f947dd8c0675562bcda879%2Fmovilidad-bogota-2026-02-16t194811-295.jpg"
+      "title": "Entrevista en vivo: Abelardo de la Espriella habla de sus propuestas y la actualidad de Colombia",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-entrevista-propuestas-actualidad-de-colombia-y-opinion-sobre-campana-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/79849ae/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F97%2F26%2F74602da549b79f19b30356be706d%2Fabelardo-de-la-espriella.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jameneí desafía a Trump sobre la resistencia de Irán",
-      "link": "https://diarioversionfinal.com/mundo/jamenei-desafia-a-trump-sobre-la-resistencia-de-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/pDnNCjNw-image-750x430.jpg"
+      "title": "Fallece Jesse Jackson, ícono de los derechos civiles",
+      "link": "https://diarioversionfinal.com/mundo/fallece-jesse-jackson-icono-de-los-derechos-civiles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/2EOkA2nV-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-17T11:39:52.578Z"
+  "lastUpdate": "2026-02-17T13:05:15.037Z"
 };
