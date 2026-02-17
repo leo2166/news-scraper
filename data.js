@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "559,99"
+      "usdt": "535,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "BBC: El investigador de la darkweb que descubrió un detalle en una pared que llevó al rescate de una niña que fue violada por años",
-      "link": "https://diarioversionfinal.com/mundo/el-investigador-de-la-darkweb-que-descubrio-un-detalle-en-una-pared-que-llevo-al-rescate-de-una-nina-que-fue-violada-por-anos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/agent_squire-750x430.webp"
+      "title": "Zelenskyy llama a aliados a responder al descomunal ataque ruso con 400 drones justo antes de la reunión por la paz en Ginebra",
+      "link": "https://diarioversionfinal.com/mundo/zelenskyy-llama-a-aliados-a-responder-al-descomunal-ataque-ruso-con-400-drones-justo-antes-de-la-reunion-por-la-paz-en-ginebra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ataque-ucrania-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-17T08:48:13.081Z"
+  "lastUpdate": "2026-02-17T09:51:02.074Z"
 };
