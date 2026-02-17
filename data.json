@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "559,99"
+      "usdt": "559,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Se mantiene la huelga de hambre de familiares de presos políticos en Caracas ante el estancamiento de las excarcelaciones",
-      "link": "https://www.infobae.com/venezuela/2026/02/17/se-mantiene-la-huelga-de-hambre-de-familiares-de-presos-politicos-en-caracas-ante-el-estancamiento-de-las-excarcelaciones/",
-      "image": "https://www.infobae.com/resizer/v2/722ZZD5WWJHUBBQH3FWJUL5R5Y.JPG?auth=130c2497167906276181c1c9087dda94b826b0b43906c85fbb47310f8466fd91&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela se convirtió en el quinto proveedor de petróleo a Estados Unidos tras la caída de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/02/17/venezuela-se-convirtio-en-el-quinto-proveedor-de-petroleo-a-estados-unidos-tras-la-caida-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/3ZF3RF7LZVFTVMV2PSGXDSXJ2A.jpg?auth=8fbb688a61b8f3669282648434b92af3caacb6fb2ba29f069c5e3b4498fc77ec&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenskyy llama a aliados a responder al descomunal ataque ruso con 400 drones justo antes de la reunión por la paz en Ginebra",
-      "link": "https://diarioversionfinal.com/mundo/zelenskyy-llama-a-aliados-a-responder-al-descomunal-ataque-ruso-con-400-drones-justo-antes-de-la-reunion-por-la-paz-en-ginebra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ataque-ucrania-750x430.webp"
+      "title": "Jameneí desafía a Trump sobre la resistencia de Irán",
+      "link": "https://diarioversionfinal.com/mundo/jamenei-desafia-a-trump-sobre-la-resistencia-de-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/pDnNCjNw-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-17T10:46:31.812Z"
+  "lastUpdate": "2026-02-17T11:39:52.578Z"
 }
