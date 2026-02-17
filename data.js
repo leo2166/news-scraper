@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "534,89"
+      "usdt": "560,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Nicolás Maduro y Cilia Flores comparecerán ante la justicia de Nueva York el 26 de marzo tras un nuevo aplazamiento",
-      "link": "https://www.infobae.com/venezuela/2026/02/17/nicolas-maduro-y-cilia-flores-compareceran-ante-la-justicia-de-nueva-york-el-26-de-marzo-tras-un-nuevo-aplazamiento/",
-      "image": "https://www.infobae.com/resizer/v2/WMTLKZDWX5E2BBDSJ3OVXAV6M4.JPG?auth=db1d113212a8b96919a577b54d577b5fdaba3085d0353de6b5c10cf48003e540&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición de Venezuela exigió una amnistía total y sin condiciones para todos los presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/02/17/la-oposicion-de-venezuela-exigio-una-amnistia-total-y-sin-condiciones-para-todos-los-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/CCGWFBULUZFH7M2XABCFQM3F44.JPG?auth=b23810e43cfd784d0dcfc6dc3fb79554a72a234eb83a31e74e5848fdd3ccf73f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Las terribles condiciones que enfrentan los presos políticos militares en Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/las-terribles-torturas-a-las-que-someten-a-presos-politicos-militares-en-venezuela/",
+      "title": "Plataforma Unitaria exige una amnistía verdadera, integral y efectiva para todos los presos políticos\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/plataforma-unitaria-exige-una-amnistia-verdadera-integral-y-efectiva-para-todos-los-presos-politicos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así fue choque en Bogotá de camión de basura contra casa en La Candelaria",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/asi-fue-choque-en-bogota-de-camion-de-basura-contra-casa-en-la-candelaria-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8f80c86/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F71%2F6a%2F62f2314e47b5b2903f1718d63f33%2Fcamion-basura-video.jpg"
+      "title": "¿Por qué han destituido a tantos presidentes en Perú? Esto pasó con José Jerí y otros mandatarios",
+      "link": "https://www.noticiascaracol.com/mundo/por-que-han-destituido-a-tantos-presidentes-en-peru-esto-paso-con-jose-jeri-y-otros-mandatarios-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ca621b7/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6f%2F21%2Fa8c3035943378635adf9f8c7815f%2Fvotacion-9.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/whatsapp-image-2020-03-26-at-7-07-18-pm-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-17T22:32:33.046Z"
+  "lastUpdate": "2026-02-17T23:30:16.284Z"
 };
