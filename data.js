@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "560,50"
+      "usdt": "534,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El primer ministro de Qatar, aliado clave de Estados Unidos, llegó a Venezuela en una visita oficial",
-      "link": "https://www.infobae.com/venezuela/2026/02/17/el-primer-ministro-de-qatar-aliado-clave-de-estados-unidos-llego-a-venezuela-en-una-visita-oficial/",
-      "image": "https://www.infobae.com/resizer/v2/SPUDMHMOVFA25DV5WLQVPS3G7A.JPG?auth=da68cd443709bd8d721182ea69bac51f0425d606e7d0474b110b9450d330f4af&smart=true&width=350&height=197&quality=85"
+      "title": "Nicolás Maduro y Cilia Flores comparecerán ante la justicia de Nueva York el 26 de marzo tras un nuevo aplazamiento",
+      "link": "https://www.infobae.com/venezuela/2026/02/17/nicolas-maduro-y-cilia-flores-compareceran-ante-la-justicia-de-nueva-york-el-26-de-marzo-tras-un-nuevo-aplazamiento/",
+      "image": "https://www.infobae.com/resizer/v2/WMTLKZDWX5E2BBDSJ3OVXAV6M4.JPG?auth=db1d113212a8b96919a577b54d577b5fdaba3085d0353de6b5c10cf48003e540&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "El Congreso de Perú destituye al presidente José Jerí tras aprobar voto de censura",
       "link": "https://cnnespanol.cnn.com/2026/02/17/latinoamerica/congreso-peru-censura-jose-jeri-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26044027470901-20260217212309306.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-150553244.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Repsol recibe en España el primer cargamento de petróleo de Venezuela desde la captura de Maduro",
-      "link": "https://diarioversionfinal.com/mundo/repsol-recibe-en-espana-el-primer-cargamento-de-petroleo-de-venezuela-desde-la-captura-de-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/repsol-750x430.jpg"
+      "title": "Congreso de Perú elegirá este miércoles a un nuevo presidente interino",
+      "link": "https://diarioversionfinal.com/mundo/congreso-de-peru-elegira-este-miercoles-a-un-nuevo-presidente-interino/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/whatsapp-image-2020-03-26-at-7-07-18-pm-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-17T21:36:56.531Z"
+  "lastUpdate": "2026-02-17T22:32:33.046Z"
 };
