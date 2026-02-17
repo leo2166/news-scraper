@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "534,00"
+      "usdt": "559,94"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La falta de respuesta oficial agrava la situación de migrantes venezolanos en Honduras tras cierre de embajada",
-      "link": "https://www.infobae.com/honduras/2026/02/16/la-falta-de-respuesta-oficial-agrava-la-situacion-de-migrantes-venezolanos-en-honduras-tras-cierre-de-embajada/",
-      "image": "https://www.infobae.com/resizer/v2/TVEJUKNRNZF2VHWCV6LR3RNOXE.jpg?auth=a00813ca89c6bd0169461504d587eb590fe03d0ec0b676dd2751bb40e0dd3551&smart=true&width=350&height=197&quality=85"
+      "title": "Se mantiene la huelga de hambre de familiares de presos políticos en Caracas ante el estancamiento de las excarcelaciones",
+      "link": "https://www.infobae.com/venezuela/2026/02/17/se-mantiene-la-huelga-de-hambre-de-familiares-de-presos-politicos-en-caracas-ante-el-estancamiento-de-las-excarcelaciones/",
+      "image": "https://www.infobae.com/resizer/v2/722ZZD5WWJHUBBQH3FWJUL5R5Y.JPG?auth=130c2497167906276181c1c9087dda94b826b0b43906c85fbb47310f8466fd91&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Movilidad en Bogotá EN VIVO hoy, 16 de febrero: canal de agua se desborda en autopista Norte",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-en-vivo-hoy-16-de-febrero-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f4706c8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F44%2F3e%2F6a6a6195438b89eced2accb4fbe5%2Finundaciones-autopista-norte.jpg"
+      "title": "Mintrabajo afirma que aumento del salario mínimo se mantendrá en 23,7% en el decreto transitorio",
+      "link": "https://www.noticiascaracol.com/economia/mintrabajo-afirma-que-salario-minimo-se-mantendria-en-23-7-en-el-decreto-transitorio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ed47cd/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2F17%2F9bf4adef49f4990d1086e9972f8f%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Muere de cáncer la hija de un migrante recién liberado tras redada migratoria en Chicago",
-      "link": "https://diarioversionfinal.com/mundo/muere-de-cancer-la-hija-de-un-migrante-recien-liberado-tras-redada-migratoria-en-chicago/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-15-224602.png"
+      "title": "Trump a Cuba: “Deben llegar absolutamente a un acuerdo, porque es una amenaza humanitaria”",
+      "link": "https://diarioversionfinal.com/mundo/trump-a-cuba-deben-llegar-absolutamente-a-un-acuerdo-porque-es-una-amenaza-humanitaria/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Trump-24-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-16T23:30:09.772Z"
+  "lastUpdate": "2026-02-17T02:08:54.254Z"
 };
