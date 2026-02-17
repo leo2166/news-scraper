@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "561,30"
+      "usdt": "561,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Los familiares de presos políticos en Venezuela mantienen la huelga de hambre en Caracas pese al temor por su salud",
-      "link": "https://www.infobae.com/venezuela/2026/02/17/los-familiares-de-presos-politicos-en-venezuela-mantienen-la-huelga-de-hambre-en-caracas-pese-al-temor-por-su-salud/",
-      "image": "https://www.infobae.com/resizer/v2/3C5B2JPSEBAKJBTOAUZZQVYXT4.PNG?auth=b77d8e552d7f8fb0bb9c01084d52739b7d073bf7734a08f5a35da3dc50bf7edb&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos estimó que las ventas de petróleo venezolano podrían superar los USD 10.000 millones al año",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/17/estados-unidos-estimo-que-las-ventas-de-petroleo-venezolano-podrian-superar-los-usd-10000-millones-al-ano/",
+      "image": "https://www.infobae.com/resizer/v2/TLSUMJIWQFABDH6JLDKFMXWZGI.jpg?auth=704769349a83ecff3988bccc7614b0e9f4a26fdbf39c6aba922318ac22afecfc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los intereses ocultos detrás de las curules de paz que se eligen este año, ¿qué pasa en Catatumbo?",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/los-intereses-ocultos-detras-de-las-curules-de-paz-que-se-eligen-este-ano-que-pasa-en-catatumbo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5fd0271/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8e%2F8b%2Fba225bcf405ea2520dea1e0ddec7%2Ftatiana-gaona.jpg"
+      "title": "Video: vivienda quedó destruida en La Candelaria, centro de Bogotá, tras choque de camión de basura",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/video-vivienda-quedo-destruida-en-la-candelaria-centro-de-bogota-tras-choque-de-camion-de-basura-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f1f8700/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb4%2Fa0%2F74dbf0104b6fb576b6df766759ae%2Fvotacion-8.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Fallece a los 84 años el reverendo Jesse Jackson, dos veces excandidato presidencial en EE. UU.",
-      "link": "https://laverdad.com/fallece-a-los-84-anos-el-reverendo-jesse-jackson-dos-veces-excandidato-presidencial-en-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Jesse-Jackson.jpg"
+      "title": "EE. UU. destruye otras 3 “narcolanchas” en el Pacífico y el Caribe y deja 11 muertos",
+      "link": "https://laverdad.com/ee-uu-destruye-otras-3-narcolanchas-en-el-pacifico-y-el-caribe-y-deja-11-muertos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/EE.-UU.-ataque-narcolanchas-16-febrero.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/lancha-caribe-eeuu-0e2e3d-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-17T17:57:42.197Z"
+  "lastUpdate": "2026-02-17T19:05:39.659Z"
 };
