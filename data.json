@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "582,00"
+      "usdt": "583,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La vida en Cuba se paraliza",
-      "link": "https://cnnespanol.cnn.com/2026/02/18/latinoamerica/cuba-comida-combustible-presion-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-ap26027015148716-20260217235121673.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cubanos en México, entre la angustia por la isla y la solidaridad que los sostiene",
+      "link": "https://cnnespanol.cnn.com/2026/02/18/mexico/cuba-mexico-solidaridad-distancia-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/kilmar-abrego-56.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,22 +38,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Se aplaza audiencia contra Maduro y su esposa en Nueva York, EE. UU.: esta es la nueva fecha",
-      "link": "https://www.noticiascaracol.com/mundo/se-aplaza-audiencia-contra-maduro-y-su-esposa-en-nueva-york-ee-uu-esta-es-la-nueva-fecha-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c3d14c3/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fcc%2Fa0%2Ff9854363444ca7ec18acedb6d0f7%2Fnicolas-maduro-2.jpg"
+      "title": "Juez no avala principio de oportunidad entre Carlos Mattos y Fiscalía por “escapadas” de la cárcel",
+      "link": "https://www.noticiascaracol.com/judicial/juez-no-avala-principio-de-oportunidad-entre-carlos-mattos-y-fiscalia-por-escapadas-de-la-carcel-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/430a848/2147483647/strip/true/crop/1278x721+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa2%2F6f%2Ff8d6a54e4776929208d7b5678076%2Fcarlos-mattos.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Congreso de Perú destituye al presidente interino José Jerí a dos meses de las elecciones",
-      "link": "https://laverdad.com/congreso-de-peru-destituye-al-presidente-interino-jose-jeri-a-dos-meses-de-las-elecciones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/llg-scaled.jpg"
+      "title": "León XIV alerta en inicio de la Cuaresma de “las estructuras de pecado” de “un mundo que arde”",
+      "link": "https://laverdad.com/leon-xiv-alerta-en-inicio-de-la-cuaresma-de-las-estructuras-de-pecado-de-un-mundo-que-arde/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Papa-Leon-XIV-homilia-Miercoles-de-Ceniza-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. podrá detener sin fianza a inmigrantes con procesos de deportación",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-podra-detener-sin-fianza-a-inmigrantes-con-procesos-de-deportacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Detencion-de-migrantes-se-intensifico-en-el-gobierno-de-Donald-Trump-600x400-1.jpg"
+      "title": "Tragedia minera en Nigeria: explosión de gas cobra 38 vidas",
+      "link": "https://diarioversionfinal.com/mundo/tragedia-minera-en-nigeria-explosion-de-gas-cobra-38-vidas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-18-at-2.40.07-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-18T17:04:42.190Z"
+  "lastUpdate": "2026-02-18T18:56:37.501Z"
 }
