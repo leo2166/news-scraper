@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "583,50"
+      "usdt": "580,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen venezolano recibió al primer ministro de Qatar para “fortalecer las relaciones bilaterales”",
-      "link": "https://www.infobae.com/venezuela/2026/02/18/el-regimen-venezolano-recibio-al-primer-ministro-de-qatar-para-fortalecer-las-relaciones-bilaterales/",
-      "image": "https://www.infobae.com/resizer/v2/ZY5SDM4UJZCC5JMT2YEDDQESAI.jpg?auth=3aed75e268bda25a5a6619ccae9128f9a313acf2c0c13f448b0d8beecb701c9b&smart=true&width=350&height=197&quality=85"
+      "title": "Maduro y Cilia Flores recibieron una visita consular mientras permanecen detenidos en una cárcel de Nueva York",
+      "link": "https://www.infobae.com/venezuela/2026/02/18/maduro-y-cilia-flores-recibieron-una-visita-consular-mientras-permanecen-detenidos-en-una-carcel-de-nueva-york/",
+      "image": "https://www.infobae.com/resizer/v2/6NBH3CHISRBPDHTAJSDGZYNGX4.JPG?auth=99de619eebe5c5fb51b52ed7255d76bc3ad6a53b65258a1cc3462e34a136a6f0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio Público informó sobre la liberación del asesor petrolero Evanan Romero",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-publico-informo-sobre-la-liberacion-evanan-romero-bajo-medida-cautelar",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-72-d82528.jpg"
+      "title": "Human Rights Watch exhortó a Venezuela a reformar instituciones para garantizar nuevas elecciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/human-rights-watch-exhorto-a-venezuela-a-reformar-instituciones-para-garantizar-nuevas-elecciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/v66vjkxq4vg67kfut2kkoqx3ki-9794d9.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-18-at-2.40.07-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-18T18:56:37.501Z"
+  "lastUpdate": "2026-02-18T19:50:34.197Z"
 };
