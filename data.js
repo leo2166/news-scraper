@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "580,00"
+      "usdt": "588,75"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Revelada la declaración del Pollo Carvajal a la CPI: Maduro ordenó directamente la represión de las protestas\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/revelada-la-declaracion-del-pollo-carvajal-a-la-cpi/",
+      "title": "\"Empiece por las vidas humanas\": familiares exigen a EE UU priorizar libertad de presos políticos frente a los acuerdos por petróleo\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/empiece-por-las-vidas-humanas-familiares-exigen-a-ee-uu-priorizar-libertad-de-presos-politicos-frente-a-los-acuerdos-por-petroleo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Human Rights Watch exhortó a Venezuela a reformar instituciones para garantizar nuevas elecciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/human-rights-watch-exhorto-a-venezuela-a-reformar-instituciones-para-garantizar-nuevas-elecciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/v66vjkxq4vg67kfut2kkoqx3ki-9794d9.jpg"
+      "title": "Embajador Milton Rengifo: Relación entre Colombia y Venezuela \"goza de muy buena salud\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajador-milton-rengifo-relacion-entre-colombia-y-venezuela-goza-de-muy-buena-salud",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-02-18-at-9.47.51-am-7de5f8.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tragedia minera en Nigeria: explosión de gas cobra 38 vidas",
-      "link": "https://diarioversionfinal.com/mundo/tragedia-minera-en-nigeria-explosion-de-gas-cobra-38-vidas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-18-at-2.40.07-PM.jpeg"
+      "title": "EE. UU. ordena a petroleras pagar impuestos locales al gobierno venezolano",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-ordena-a-petroleras-pagar-impuestos-locales-al-gobierno-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/VLKYXMDFB5F6FINQLWF34W5S7U-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T19:50:34.197Z"
+  "lastUpdate": "2026-02-18T20:40:39.344Z"
 };
