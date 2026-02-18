@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "570,50"
+      "usdt": "582,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detenido un joven ciberdelincuente que manipulaba pagos para hospedarse en hoteles de lujo por un céntimo",
-      "link": "https://diarioversionfinal.com/mundo/detenido-un-joven-ciberdelincuente-que-manipulaba-pagos-para-hospedarse-en-hoteles-de-lujo-por-un-centimo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/0hpftTRF-image-750x430.jpg"
+      "title": "EE. UU. podrá detener sin fianza a inmigrantes con procesos de deportación",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-podra-detener-sin-fianza-a-inmigrantes-con-procesos-de-deportacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Detencion-de-migrantes-se-intensifico-en-el-gobierno-de-Donald-Trump-600x400-1.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T15:53:52.278Z"
+  "lastUpdate": "2026-02-18T17:04:42.190Z"
 };
