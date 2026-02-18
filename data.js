@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "535,20"
+      "usdt": "561,43"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Plataforma Unitaria exige una amnistía verdadera, integral y efectiva para todos los presos políticos\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/plataforma-unitaria-exige-una-amnistia-verdadera-integral-y-efectiva-para-todos-los-presos-politicos/",
+      "title": "J. J. Rendón: “La transición no es un evento, es un rompecabezas que se arma sobre la marcha”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/jj-rendon-entrevista-transicion-politica-venezuela-2026/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez expresa sus mejores deseos a Gobiernos de China y Vietnam por el Año Nuevo lunar",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-expresa-sus-mejores-deseos-a-gobiernos-de-china-y-vietnam-por-el-ano-nuevo-lunar",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-convoca-consulta-sistema-justicia-1a9d52.jpg"
+      "title": "Ministerio Público informó sobre la liberación del asesor petrolero Evanan Romero",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-publico-informo-sobre-la-liberacion-evanan-romero-bajo-medida-cautelar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-72-d82528.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ayuda-cuba-750x470-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T08:47:18.770Z"
+  "lastUpdate": "2026-02-18T09:50:11.056Z"
 };
