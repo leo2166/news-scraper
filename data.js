@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "560,66"
+      "usdt": "559,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ginebra: Rusia y Ucrania entran a la segunda jornada de negociaciones por la paz",
-      "link": "https://diarioversionfinal.com/mundo/ginebra-rusia-y-ucrania-entran-a-la-segunda-jornada-de-negociaciones-por-la-paz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/VoqZriF2-image-750x430.jpg"
+      "title": "Pietro Parolin confirma que el Vaticano no estará en el Consejo por la Paz que promueve EEUU",
+      "link": "https://diarioversionfinal.com/mundo/pietro-parolin-confirma-que-el-vaticano-no-estara-en-el-consejo-por-la-paz-que-promueve-eeuu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/GxXwDst6-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T10:45:00.871Z"
+  "lastUpdate": "2026-02-18T11:39:00.152Z"
 };
