@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "535,00"
+      "usdt": "535,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Cuánto ha cambiado Venezuela desde la captura de Maduro?",
-      "link": "https://cnnespanol.cnn.com/2026/02/17/venezuela/visita-eeuu-caracas-nada-visto-antes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26044027470901-20260217212309306.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La vida en Cuba se paraliza",
+      "link": "https://cnnespanol.cnn.com/2026/02/18/latinoamerica/cuba-comida-combustible-presion-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-ap26027015148716-20260217235121673.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ayuda-cuba-750x470-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T04:53:58.269Z"
+  "lastUpdate": "2026-02-18T06:01:36.466Z"
 };
