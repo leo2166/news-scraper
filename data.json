@@ -5,7 +5,7 @@
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "559,90"
+      "usdt": "556,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Humas Right Watch instó a Delcy Rodríguez a finalizar con el aparato represivo del régimen chavista en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/18/humas-right-watch-insto-a-delcy-rodriguez-a-finalizar-con-el-aparato-represivo-del-regimen-chavista-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/2WSLRVFZ7BARNMC53VJCBTQR54.JPG?auth=37fe5c5b3ea2ba104aabd2c3511940d8efee99c31ae2c1f57cf06a4bb811a723&smart=true&width=350&height=197&quality=85"
+      "title": "Guerra política en Lara: neurocirujanos presos y exiliados mientras estudiantes operan como especialistas",
+      "link": "https://www.infobae.com/venezuela/2026/02/18/guerra-politica-en-lara-neurocirujanos-presos-y-exiliados-mientras-estudiantes-operan-como-especialistas/",
+      "image": "https://www.infobae.com/resizer/v2/TG743SWB6ZGDTPHXB7NOOM4OKM.jpg?auth=2c65622be53e80975b511046fea691ec79d1f6078e5cfca31d223b16c90a74bb&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "“Pensé que era un terremoto”: dueño de restaurante atravesado por camión de basura en La Candelaria",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/pense-que-era-un-terremoto-dueno-de-restaurante-atravesado-por-camion-de-basura-en-la-candelaria-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3881af0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8b%2F21%2F8cb2fd474eaeb612d7e6b014def4%2Fcamion-basura-restaurante.jpg"
+      "title": "Tensa discusión entre sacerdote y grupo de monjas en Antioquia: esta fue la razón de la controversia",
+      "link": "https://www.noticiascaracol.com/colombia/tensa-discusion-entre-sacerdote-y-grupo-de-monjas-en-guarne-antioquia-esta-fue-la-razon-de-la-controversia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2c622d8/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F65%2Fc3%2F00a627ef4a04986a269aee59488b%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pietro Parolin confirma que el Vaticano no estará en el Consejo por la Paz que promueve EEUU",
-      "link": "https://diarioversionfinal.com/mundo/pietro-parolin-confirma-que-el-vaticano-no-estara-en-el-consejo-por-la-paz-que-promueve-eeuu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/GxXwDst6-image-750x430.jpg"
+      "title": "ABC: Fiscalía de EE. UU. acusa a Maduro de vender pasaportes diplomáticos a narcos en México",
+      "link": "https://diarioversionfinal.com/mundo/abc-fiscalia-de-ee-uu-acusa-a-maduro-de-vender-pasaportes-diplomaticos-a-narcos-en-mexico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/4MQN5L42R5A6LAZOY57AGW7L2I-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T11:39:00.152Z"
+  "lastUpdate": "2026-02-18T13:05:53.994Z"
 }
