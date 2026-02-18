@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "470,28"
     },
     "binance": {
-      "usdt": "520,00"
+      "usdt": "535,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ayuda-cuba-750x470-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T02:12:30.798Z"
+  "lastUpdate": "2026-02-18T04:53:58.269Z"
 };
