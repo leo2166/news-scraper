@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "396,37",
-      "eur": "470,28"
+      "usd": "398,75",
+      "eur": "471,42"
     },
     "binance": {
-      "usdt": "588,75"
+      "usdt": "587,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/VLKYXMDFB5F6FINQLWF34W5S7U-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T20:40:39.344Z"
+  "lastUpdate": "2026-02-18T21:35:54.719Z"
 };
