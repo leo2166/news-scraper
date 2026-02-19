@@ -5,7 +5,7 @@
       "eur": "471,42"
     },
     "binance": {
-      "usdt": "599,99"
+      "usdt": "602,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez recibió al primer ministro de Qatar en Caracas y revisaron un “mapa de cooperación integral”",
-      "link": "https://www.infobae.com/venezuela/2026/02/19/delcy-rodriguez-recibio-al-primer-ministro-de-qatar-en-caracas-y-revisaron-un-mapa-de-cooperacion-integral/",
-      "image": "https://www.infobae.com/resizer/v2/WAUVBFMSENF25LN563IZ7C45J4.jpg?auth=484d4687c2147c563203f69e968dc6666196beec94c3668b001514629dd0c444&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela retomará este jueves el debate sobre la ley de amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/02/19/el-parlamento-de-venezuela-retomara-este-jueves-el-debate-sobre-la-ley-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/P57UP4ZE5FCR5M3CFFIY22DPWI.jpg?auth=1a0aa4cea434e3b8c6381b556baa026c0231996db64321fd63e9a3efdc314ca4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "El candidato presidencial Sergio Fajardo habla sobre sus propuestas y la actualidad del país",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/el-candidato-presidencial-sergio-fajardo-habla-sobre-sus-propuestas-y-la-actualidad-del-pais-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9883d34/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdf%2F5b%2Fdbc60e16419db976cbc3776bcd78%2Fsergio-fajardo-1.jpg"
+      "title": "Movilidad en Bogotá hoy, 19 de febrero: despejan calle 26 y se reestablece servicio de TransMilenio",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-hoy-19-de-febrero-conozca-las-vias-afectadas-por-manifestaciones-y-siniestros-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/10b0f02/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2Fc8%2F47279420463f82f72af3539edab3%2Fportadas-caracol-web-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maurel & Prom confirma equipos listos tras nueva autorización de Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/maurel-prom-confirma-equipos-listos-tras-nueva-autorizacion-de-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-10.33.57-AM-750x430.jpeg"
+      "title": "Corea del Sur condena a Yoon Suk-yeol a cadena perpetua por ley marcial",
+      "link": "https://diarioversionfinal.com/mundo/corea-del-sur-condena-a-yoon-suk-yeol-a-cadena-perpetua-por-ley-marcial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-10.50.27-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-19T14:48:15.465Z"
+  "lastUpdate": "2026-02-19T15:50:09.918Z"
 }
