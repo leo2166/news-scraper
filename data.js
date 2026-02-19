@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "471,42"
     },
     "binance": {
-      "usdt": "596,10"
+      "usdt": "599,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Martha Tineo sobre excarcelaciones a presos políticos: Siento que se destapó un hueco sin fondo\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/martha-tineo-sobre-excarcelaciones-se-destapo-un-hueco-sin-fondo/",
+      "title": "Informe documenta un aumento de los casos de persecución contra opositores venezolanos en el exilio\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/aumento-la-persecucion-a-opositores-venezolanos-en-el-exilio/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Detienen al expríncipe Andrés, hermano del rey británico Carlos III",
-      "link": "https://laverdad.com/detienen-al-exprincipe-andres-hermano-del-rey-britanico-carlos-iii/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Principe-Andres.jpg"
+      "title": "Ejército de EE. UU. está listo para atacar Irán pero Trump aún no da la orden",
+      "link": "https://laverdad.com/ejercito-de-ee-uu-esta-listo-para-atacar-iran-pero-trump-aun-no-da-la-orden/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Gerald-Ford-referencial-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Arresto del expríncipe Andrew ensombrece Fashion Week de Londres justo antes de la aparición del Rey Carlos y Camila",
-      "link": "https://diarioversionfinal.com/mundo/arresto-del-exprincipe-andrew-ensombrece-fashion-week-de-londres-justo-antes-de-la-aparicion-del-rey-carlos-y-camila/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/d3LjBx19-image-750x430.jpg"
+      "title": "Maurel & Prom confirma equipos listos tras nueva autorización de Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/maurel-prom-confirma-equipos-listos-tras-nueva-autorizacion-de-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-10.33.57-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-19T13:07:22.707Z"
+  "lastUpdate": "2026-02-19T14:48:15.465Z"
 };
