@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El jefe del Comando Sur de Estados Unidos encabezó una visita histórica a Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/02/18/el-jefe-del-comando-sur-de-estados-unidos-encabezo-una-visita-historica-a-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/M73HL3GGJZB3HJ473MYFGS5LTY.jpg?auth=8befc151abe3391e2a6d0b6ebd785f94ae7a3b90da3e79b2c19158bd29820d19&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez anunció que se reunirá “próximamente” con el presidente colombiano Gustavo Petro",
+      "link": "https://www.infobae.com/venezuela/2026/02/19/delcy-rodriguez-anuncio-que-se-reunira-proximamente-con-el-presidente-colombiano-gustavo-petro/",
+      "image": "https://www.infobae.com/resizer/v2/JYQY6CIABRAKDE47BEOWK2FHWI.jpg?auth=d07e8cc2991f31e03642c5bef718d26f52a316b6f89c22413f23d8da048bce1c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Congresista izquierdista José María Balcázar es el nuevo presidente interino de Perú",
-      "link": "https://www.noticiascaracol.com/mundo/candidato-izquierdista-jose-maria-balcazar-es-el-nuevo-presidente-interino-de-peru-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e96acdb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F00%2F28%2Fb7fbf6fa4bb8add7d1e7a56b1ab7%2Ftamano-imagenes-17.jpg"
+      "title": "Patrulla de la Policía fue atacada con ráfagas de fusil en Cúcuta; ataque dejó un uniformado muerto",
+      "link": "https://www.noticiascaracol.com/colombia/patrulla-de-la-policia-fue-atacada-con-rafagas-de-fusil-en-cucuta-ataque-dejo-un-uniformado-muerto-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a12e172/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F26%2F99%2F333998f24765b50d0612d91b7ada%2Ftamano-imagenes-21.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. ordena a petroleras pagar impuestos locales al gobierno venezolano",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-ordena-a-petroleras-pagar-impuestos-locales-al-gobierno-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/VLKYXMDFB5F6FINQLWF34W5S7U-750x430.jpg"
+      "title": "José María Balcázar, el nuevo presidente de Perú tras la destitución de José Jerí",
+      "link": "https://diarioversionfinal.com/mundo/jose-maria-balcazar-el-nuevo-presidente-de-peru-tras-la-destitucion-de-jose-jeri/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Jose_Maria_Balcazar_Peru-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-19T04:52:55.365Z"
+  "lastUpdate": "2026-02-19T05:59:16.732Z"
 };
