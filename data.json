@@ -5,7 +5,7 @@
       "eur": "471,42"
     },
     "binance": {
-      "usdt": "599,28"
+      "usdt": "604,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El rey Carlos dice que \"la ley debe seguir su curso\" tras el arresto de su hermano",
+      "title": "Tras el arresto de su hermano, el rey Carlos dice que \"la ley debe seguir su curso\"",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/arrestan-andrew-mountbatten-windsor-mala-conducta-vivo",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-16t163716z-1214613565-rc23tga9x7cg-rtrmadp-3-britain-royals-kent-20260219124609344.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Movilidad en Bogotá hoy, 19 de febrero: TransMilenio activa desvíos en dos puntos de la ciudad",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-hoy-19-de-febrero-conozca-las-vias-afectadas-por-manifestaciones-y-siniestros-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/10b0f02/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2Fc8%2F47279420463f82f72af3539edab3%2Fportadas-caracol-web-3.jpg"
+      "title": "Sindicatos USO, CUT y Fecode se suman a campaña de Roy Barreras y toman distancia de Iván Cepeda",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/sindicatos-uso-cut-y-fecode-se-suman-a-campana-de-roy-barreras-y-toman-distancia-de-ivan-cepeda-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c51af50/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fde%2Fbc%2Fa82a0a484ee48a49fc005cdbf3da%2Froy-barreras-e-ivan-cepeda.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-10.50.27-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-19T17:50:51.619Z"
+  "lastUpdate": "2026-02-19T18:52:08.667Z"
 }
