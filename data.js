@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "471,42"
     },
     "binance": {
-      "usdt": "604,99"
+      "usdt": "605,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Informe documenta un aumento de los casos de persecución contra opositores venezolanos en el exilio\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/aumento-la-persecucion-a-opositores-venezolanos-en-el-exilio/",
+      "title": "María Corina Machado coordina con Trump la hoja de ruta para su regreso\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/maria-corina-machado-coordina-con-trump-la-hoja-de-ruta-para-su-regreso/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tomás Guanipa solicitó que se apruebe la Ley de Amnistía este Jueves",
-      "link": "https://noticiasvenevision.com/noticias/politica/tomas-guanipa-solicito-que-se-apruebe-la-ley-de-amnistia-durante-la-sesion-que-se-llevara-a-cabo-el-dia-de-hoy",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tomas-guanipa-2553-1cb372.jpg"
+      "title": "Dr. Ramón Escovar León: \"La Ley de Amnistía requiere voluntad política y una redacción sin ambigüedades\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/dr-ramon-escovar-leon-la-ley-de-amnistia-requiere-voluntad-politica-y-una-redaccion-sin-ambiguedades",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-02-19-at-5.55.58-am-716da6.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Corea del Sur condena a Yoon Suk-yeol a cadena perpetua por ley marcial",
-      "link": "https://diarioversionfinal.com/mundo/corea-del-sur-condena-a-yoon-suk-yeol-a-cadena-perpetua-por-ley-marcial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-10.50.27-AM-750x430.jpeg"
+      "title": "Mark Zuckerberg se defiende durante juicio histórico por adicción de jóvenes a redes sociales",
+      "link": "https://diarioversionfinal.com/mundo/mark-zuckerberg-se-defiende-durante-juicio-historico-por-adiccion-de-jovenes-a-redes-sociales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/dbb256f2f1f0cfe2e221493359577b87-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-19T18:52:08.667Z"
+  "lastUpdate": "2026-02-19T19:39:16.900Z"
 };
