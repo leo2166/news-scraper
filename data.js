@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "398,75",
-      "eur": "471,42"
+      "usd": "402,33",
+      "eur": "472,83"
     },
     "binance": {
-      "usdt": "605,00"
+      "usdt": "612,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Nora Bracho propone Comisión Especial para garantizar el cumplimiento de la Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/nora-bracho-propone-comision-especial-para-garantizar-el-cumplimiento-de-la-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/nora-bracho-1068x743-9c68b9.jpg"
+      "title": "Familiares de detenidos acuden a la ONU en Caracas para exigir apoyo en las liberaciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-acuden-a-la-onu-en-caracas-para-exigir-apoyo-en-las-liberaciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sonido-1---frame-at-0m21s-1a39d9.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,10 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "El rey Carlos III reacciona a la detención de su hermano Andrés: “La ley debe seguir su curso”",
-      "link": "https://laverdad.com/el-rey-carlos-iii-reacciona-a-la-detencion-de-su-hermano-andres-la-ley-debe-seguir-su-curso/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Carlos-III.jpg"
+      "title": "Liberan bajo investigación al expríncipe Andrés tras casi 11 horas de arresto",
+      "link": "https://laverdad.com/liberan-bajo-investigacion-al-exprincipe-andres-tras-casi-11-horas-de-arresto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Exprincipe-Andres.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "Policías registran propiedades del expríncipe Andrés: “Podrían confiscar teléfonos y dispositivos de las residencias reales”",
+      "link": "https://diarioversionfinal.com/mundo/policias-registran-propiedades-del-exprincipe-andres-podrian-confiscar-telefonos-y-dispositivos-de-las-residencias-reales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/detienen-al-ex-principe-andres-de-reino-unido-por-sus-vinculos-con-epstein_596bdee8-34f7-4e28-a85b-1f68eeec1da0_medialjnimgndimagefullsize-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-19T20:34:45.506Z"
+  "lastUpdate": "2026-02-19T21:34:09.528Z"
 };
