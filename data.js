@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció que se reunirá “próximamente” con el presidente colombiano Gustavo Petro",
-      "link": "https://www.infobae.com/venezuela/2026/02/19/delcy-rodriguez-anuncio-que-se-reunira-proximamente-con-el-presidente-colombiano-gustavo-petro/",
-      "image": "https://www.infobae.com/resizer/v2/JYQY6CIABRAKDE47BEOWK2FHWI.jpg?auth=d07e8cc2991f31e03642c5bef718d26f52a316b6f89c22413f23d8da048bce1c&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez recibió al primer ministro de Qatar en Caracas y revisaron un “mapa de cooperación integral”",
+      "link": "https://www.infobae.com/venezuela/2026/02/19/delcy-rodriguez-recibio-al-primer-ministro-de-qatar-en-caracas-y-revisaron-un-mapa-de-cooperacion-integral/",
+      "image": "https://www.infobae.com/resizer/v2/WAUVBFMSENF25LN563IZ7C45J4.jpg?auth=484d4687c2147c563203f69e968dc6666196beec94c3668b001514629dd0c444&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "José María Balcázar es elegido como presidente interino de Perú",
       "link": "https://cnnespanol.cnn.com/2026/02/18/latinoamerica/jose-balcazar-presidente-congreso-peru-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257964194-20260206184321739-20260218234707719.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/photo-collage-png-1.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Jose_Maria_Balcazar_Peru-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-19T05:59:16.732Z"
+  "lastUpdate": "2026-02-19T07:12:03.633Z"
 };
