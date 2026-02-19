@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "471,42"
     },
     "binance": {
-      "usdt": "600,00"
+      "usdt": "596,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,34 +26,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Arrestan al expríncipe Andrés en relación con los archivos de Epstein",
+      "title": "El rey Carlos dice que \"la ley debe seguir su curso\" tras el arresto de su hermano",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/arrestan-andrew-mountbatten-windsor-mala-conducta-vivo",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/principe-andres-20260219102413659.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-16t163716z-1214613565-rc23tga9x7cg-rtrmadp-3-britain-royals-kent-20260219124609344.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional retomará debate sobre Ley de Amnistía este jueves 19 de febrero",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-retomara-debate-sobre-ley-de-amnistia-este-jueves-19-de-febrero",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-votacion-fiscal-defensor-c1ff52.jpeg"
+      "title": "Tomás Guanipa solicitó que se apruebe la Ley de Amnistía este Jueves",
+      "link": "https://noticiasvenevision.com/noticias/politica/tomas-guanipa-solicito-que-se-apruebe-la-ley-de-amnistia-durante-la-sesion-que-se-llevara-a-cabo-el-dia-de-hoy",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tomas-guanipa-2553-1cb372.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Patrulla de la Policía fue atacada con ráfagas de fusil en Cúcuta; ataque dejó un uniformado muerto",
-      "link": "https://www.noticiascaracol.com/colombia/patrulla-de-la-policia-fue-atacada-con-rafagas-de-fusil-en-cucuta-ataque-dejo-un-uniformado-muerto-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a12e172/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F26%2F99%2F333998f24765b50d0612d91b7ada%2Ftamano-imagenes-21.jpg"
+      "title": "El candidato presidencial Sergio Fajardo habla sobre sus propuestas y la actualidad del país",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/el-candidato-presidencial-sergio-fajardo-habla-sobre-sus-propuestas-y-la-actualidad-del-pais-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9883d34/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdf%2F5b%2Fdbc60e16419db976cbc3776bcd78%2Fsergio-fajardo-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV alerta en inicio de la Cuaresma de “las estructuras de pecado” de “un mundo que arde”",
-      "link": "https://laverdad.com/leon-xiv-alerta-en-inicio-de-la-cuaresma-de-las-estructuras-de-pecado-de-un-mundo-que-arde/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Papa-Leon-XIV-homilia-Miercoles-de-Ceniza-1-scaled.jpg"
+      "title": "Detienen al expríncipe Andrés, hermano del rey británico Carlos III",
+      "link": "https://laverdad.com/detienen-al-exprincipe-andres-hermano-del-rey-britanico-carlos-iii/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Principe-Andres.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detenido el expríncipe Andrés bajo sospechas por el caso Epstein",
-      "link": "https://diarioversionfinal.com/mundo/detenido-el-exprincipe-andres-bajo-sospechas-por-el-caso-epstein/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/4neeCs7c-image-750x430.jpg"
+      "title": "Arresto del expríncipe Andrew ensombrece Fashion Week de Londres justo antes de la aparición del Rey Carlos y Camila",
+      "link": "https://diarioversionfinal.com/mundo/arresto-del-exprincipe-andrew-ensombrece-fashion-week-de-londres-justo-antes-de-la-aparicion-del-rey-carlos-y-camila/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/d3LjBx19-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-19T11:38:40.422Z"
+  "lastUpdate": "2026-02-19T13:07:22.707Z"
 };
