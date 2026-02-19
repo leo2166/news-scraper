@@ -5,7 +5,7 @@
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "607,50"
+      "usdt": "612,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela retomará este jueves el debate sobre la ley de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/19/el-parlamento-de-venezuela-retomara-este-jueves-el-debate-sobre-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/P57UP4ZE5FCR5M3CFFIY22DPWI.jpg?auth=1a0aa4cea434e3b8c6381b556baa026c0231996db64321fd63e9a3efdc314ca4&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela debate en segunda discusión el proyecto de ley de amnistía que impulsa Delcy Rodríguez",
+      "link": "https://www.infobae.com/venezuela/2026/02/19/el-parlamento-de-venezuela-debate-en-segunda-discusion-el-proyecto-de-ley-de-amnistia-que-impulsa-delcy-rodriguez/",
+      "image": "https://www.infobae.com/resizer/v2/7T35H5W6E5HVBKRECP4BGSR4TY.jpg?auth=899ac7325272655d45f5d1cf03bbc21bdcb8d4ab01204a7d384d11279f03d853&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,13 +32,13 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Familiares de detenidos acuden a la ONU en Caracas para exigir apoyo en las liberaciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-acuden-a-la-onu-en-caracas-para-exigir-apoyo-en-las-liberaciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sonido-1---frame-at-0m21s-1a39d9.jpg"
+      "title": "Delcy Rodríguez destaca la economía comunal como eje del nuevo modelo económico",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-destaca-la-economia-comunal-como-eje-del-nuevo-modelo-economico",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/17_zc_l1589_p-scaled-aec7f8.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Primera candidata al Congreso hecha con IA en Colombia: ¿quién está detrás y cómo funciona?",
+      "title": "La mujer hecha con IA con la que impulsan lista al Congreso en Colombia: ¿cómo funciona?",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/primera-candidata-al-congreso-hecha-con-ia-en-colombia-quien-esta-detras-y-como-funciona-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/45c282c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc5%2Ff4%2F8e6602cf40d8a2811f7210865962%2Fvotacion-14.jpg"
     },
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Liberan al expríncipe Andrés tras escándalo por vinculaciones con caso Eipstein",
-      "link": "https://diarioversionfinal.com/mundo/liberan-al-exprincipe-andres-tras-escandalo-por-vinculaciones-con-caso-eipstein/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0083.webp"
+      "title": "EE. UU. desplazó a China como principal comprador de petróleo venezolano",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-desplazo-a-china-como-principal-comprador-de-petroleo-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/buque-tanquero-petroleo-pixabayjpg-2025-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-19T22:45:54.796Z"
+  "lastUpdate": "2026-02-19T23:30:51.571Z"
 }
