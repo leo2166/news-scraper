@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "471,42"
     },
     "binance": {
-      "usdt": "594,66"
+      "usdt": "598,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Maduro y Cilia Flores recibieron una visita consular mientras permanecen detenidos en una cárcel de Nueva York",
-      "link": "https://www.infobae.com/venezuela/2026/02/18/maduro-y-cilia-flores-recibieron-una-visita-consular-mientras-permanecen-detenidos-en-una-carcel-de-nueva-york/",
-      "image": "https://www.infobae.com/resizer/v2/6NBH3CHISRBPDHTAJSDGZYNGX4.JPG?auth=99de619eebe5c5fb51b52ed7255d76bc3ad6a53b65258a1cc3462e34a136a6f0&smart=true&width=350&height=197&quality=85"
+      "title": "El jefe del Comando Sur de Estados Unidos encabezó una visita histórica a Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/02/18/el-jefe-del-comando-sur-de-estados-unidos-encabezo-una-visita-historica-a-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/M73HL3GGJZB3HJ473MYFGS5LTY.jpg?auth=8befc151abe3391e2a6d0b6ebd785f94ae7a3b90da3e79b2c19158bd29820d19&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "\"Empiece por las vidas humanas\": familiares exigen a EE UU priorizar libertad de presos políticos frente a los acuerdos por petróleo\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/empiece-por-las-vidas-humanas-familiares-exigen-a-ee-uu-priorizar-libertad-de-presos-politicos-frente-a-los-acuerdos-por-petroleo/",
+      "title": "Jefe del Comando Sur visita Venezuela: el objetivo es garantizar la implementación del plan de tres fases de Trump\nEE UU",
+      "link": "https://www.elnacional.com/2026/02/jefe-del-comando-sur-visita-venezuela-el-objetivo-es-garantizar-la-implementacion-del-plan-de-tres-fases-de-trump/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Cubanos en México, entre la angustia por la isla y la solidaridad que los sostiene",
-      "link": "https://cnnespanol.cnn.com/2026/02/18/mexico/cuba-mexico-solidaridad-distancia-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/kilmar-abrego-56.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Jefe del Comando Sur de EE.UU. visitó Venezuela para discutir “la estabilización” del país",
+      "link": "https://cnnespanol.cnn.com/2026/02/18/venezuela/jefe-comando-sur-eeuu-donovan-caracas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-18-at-18-53-11.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Primer ministro de Catar se reúne con Delcy Rodríguez en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/primer-ministro-de-catar-se-reune-con-delcy-rodriguez-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4949676378597034876_w-e951cc.jpg"
+      "title": "Asamblea Nacional retomará debate sobre Ley de Amnistía este jueves 19 de febrero",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-retomara-debate-sobre-ley-de-amnistia-este-jueves-19-de-febrero",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-votacion-fiscal-defensor-c1ff52.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/VLKYXMDFB5F6FINQLWF34W5S7U-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-18T23:30:46.141Z"
+  "lastUpdate": "2026-02-19T02:11:09.916Z"
 };
