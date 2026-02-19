@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "612,00"
+      "usdt": "607,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado coordina con Trump la hoja de ruta para su regreso a Venezuela\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/maria-corina-machado-coordina-con-trump-la-hoja-de-ruta-para-su-regreso/",
+      "title": "EE UU desplazó a China como principal comprador de petróleo venezolano y a Rusia como proveedor de diluyentes\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/02/ee-uu-desplazo-a-china-como-principal-comprador-de-petroleo-venezolano-y-a-rusia-como-proveedor-de-diluyentes/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Liberan al expríncipe Andrés y seguirá \"bajo investigación\"",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/arrestan-andrew-mountbatten-windsor-mala-conducta-vivo",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1245815868-20260219130518321.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Esta es la ley desconocida usada para detener a ciudadanos de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/02/19/eeuu/agentes-inmigracion-ley-detener-ciudadanos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/andres-prision.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Sindicatos USO, CUT y Fecode se suman a campaña de Roy Barreras y toman distancia de Iván Cepeda",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/sindicatos-uso-cut-y-fecode-se-suman-a-campana-de-roy-barreras-y-toman-distancia-de-ivan-cepeda-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c51af50/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fde%2Fbc%2Fa82a0a484ee48a49fc005cdbf3da%2Froy-barreras-e-ivan-cepeda.jpg"
+      "title": "Primera candidata al Congreso hecha con IA en Colombia: ¿quién está detrás y cómo funciona?",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/primera-candidata-al-congreso-hecha-con-ia-en-colombia-quien-esta-detras-y-como-funciona-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/45c282c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc5%2Ff4%2F8e6602cf40d8a2811f7210865962%2Fvotacion-14.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Policías registran propiedades del expríncipe Andrés: “Podrían confiscar teléfonos y dispositivos de las residencias reales”",
-      "link": "https://diarioversionfinal.com/mundo/policias-registran-propiedades-del-exprincipe-andres-podrian-confiscar-telefonos-y-dispositivos-de-las-residencias-reales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/detienen-al-ex-principe-andres-de-reino-unido-por-sus-vinculos-con-epstein_596bdee8-34f7-4e28-a85b-1f68eeec1da0_medialjnimgndimagefullsize-750x430.webp"
+      "title": "Liberan al expríncipe Andrés tras escándalo por vinculaciones con caso Eipstein",
+      "link": "https://diarioversionfinal.com/mundo/liberan-al-exprincipe-andres-tras-escandalo-por-vinculaciones-con-caso-eipstein/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0083.webp"
     }
   ],
-  "lastUpdate": "2026-02-19T21:34:09.528Z"
+  "lastUpdate": "2026-02-19T22:45:54.796Z"
 };
