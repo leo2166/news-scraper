@@ -5,7 +5,7 @@
       "eur": "471,42"
     },
     "binance": {
-      "usdt": "605,00"
+      "usdt": "599,28"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Movilidad en Bogotá hoy, 19 de febrero: despejan calle 26 y se reestablece servicio de TransMilenio",
+      "title": "Movilidad en Bogotá hoy, 19 de febrero: TransMilenio activa desvíos en dos puntos de la ciudad",
       "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-hoy-19-de-febrero-conozca-las-vias-afectadas-por-manifestaciones-y-siniestros-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/10b0f02/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc6%2Fc8%2F47279420463f82f72af3539edab3%2Fportadas-caracol-web-3.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Ejército de EE. UU. está listo para atacar Irán pero Trump aún no da la orden",
-      "link": "https://laverdad.com/ejercito-de-ee-uu-esta-listo-para-atacar-iran-pero-trump-aun-no-da-la-orden/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Gerald-Ford-referencial-scaled.jpg"
+      "title": "Cuatro fallecidos y 17 heridos en Chile tras explosión de camión con gas",
+      "link": "https://laverdad.com/cuatro-fallecidos-y-17-heridos-en-chile-tras-explosion-de-camion-con-gas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Camion-de-gas-exploto-en-Chile.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-10.50.27-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-19T16:54:21.653Z"
+  "lastUpdate": "2026-02-19T17:50:51.619Z"
 }
