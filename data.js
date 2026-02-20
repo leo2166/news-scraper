@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "611,00"
+      "usdt": "610,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela aprueba histórica ley de amnistía para los presos políticos",
-      "link": "https://cnnespanol.cnn.com/2026/02/19/venezuela/asamblea-nacional-aprueba-ley-amnistia-presos-politicos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ciudadania-ee-uu.png?c=16x9&q=h_144,w_256,c_fill"
+      "title": "¿A quién beneficia la ley de amnistía de Venezuela? Estas son las claves",
+      "link": "https://cnnespanol.cnn.com/2026/02/19/venezuela/ley-amnistia-venezuela-claves-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261789834.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump ordenará la desclasificación de documentos sobre OVNIS y extraterrestres",
-      "link": "https://diarioversionfinal.com/mundo/trump-ordenara-la-desclasificacion-de-documentos-sobre-ovnis-y-extraterrestres/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/EOpLiFSX-image-750x430.jpg"
+      "title": "Le están revisando todos los correos al expríncipe Andrés por filtraciones de documentos confidenciales que compartiría con Epstein",
+      "link": "https://diarioversionfinal.com/mundo/le-estan-revisando-todos-los-correos-al-exprincipe-andres-por-filtraciones-de-documentos-confidenciales-que-compartiria-con-epstein/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/kiMzooIL-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-20T09:41:54.241Z"
+  "lastUpdate": "2026-02-20T10:38:25.693Z"
 };
