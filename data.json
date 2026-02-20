@@ -5,7 +5,7 @@
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "599,50"
+      "usdt": "603,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La Corte Suprema dictamina que los aranceles de Trump son ilegales",
-      "link": "https://cnnespanol.cnn.com/2026/02/20/eeuu/corte-suprema-aranceles-ilegales-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tarifas-ilegales-20260220150650604-20260220150658651.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump anunció que aplicará aranceles globales del 10 %",
+      "link": "https://cnnespanol.cnn.com/2026/02/20/eeuu/trump-corte-suprema-alternativas-aranceles-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262139492-20260220184038466.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Iván Cepeda sobre políticas de Petro: \"En algunos puntos habrá que hacer cambios profundos\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-habla-de-sus-propuestas-y-la-actualidad-de-colombia-en-entrevista-con-noticias-caracol-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1101010/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2F50%2F32c2553a4e68ad565406b6d0e4b9%2Fivan-cepeda-2.jpg"
+      "title": "Corte Suprema de Estados Unidos declara ilegales los aranceles impuestos por Trump: ¿qué sigue?",
+      "link": "https://www.noticiascaracol.com/mundo/corte-suprema-de-estados-unidos-declara-ilegales-los-aranceles-impuestos-por-trump-que-sigue-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6457159/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbe%2F01%2F7b6df8814025b92733da7aaa4811%2Ftrump-aranceles.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Corte Suprema de EE. UU. invalida los aranceles globales de Trump",
-      "link": "https://diarioversionfinal.com/mundo/la-corte-suprema-de-ee-uu-invalida-los-aranceles-globales-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/AP24243756022933-e1725055674254-750x430.jpg"
+      "title": "La Junta de Paz de Trump concreta su primera reunión en Washington",
+      "link": "https://diarioversionfinal.com/mundo/la-junta-de-paz-de-trump-concreta-su-primera-reunion-en-washington/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2257550121-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-20T18:50:42.390Z"
+  "lastUpdate": "2026-02-20T19:37:27.697Z"
 }
