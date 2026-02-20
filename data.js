@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "599,89"
+      "usdt": "599,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "La cárcel que nunca terminó: Perkins Rocha y la prisión en casa con grillete\nNOTICIAS",
-      "link": "https://www.elnacional.com/2026/02/perkins-rocha-y-la-prision-en-casa-con-grillete/",
+      "title": "Al menos 400 presos políticos podrían quedar excluidos de la ley de amnistía\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/foro-penal-400-presos-politicos-excluidos-de-la-ley-de-amnistia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula sostiene que Nicolás Maduro debe ser juzgado en Venezuela, no fuera de su país",
-      "link": "https://diarioversionfinal.com/mundo/lula-sostiene-que-nicolas-maduro-debe-ser-juzgado-en-venezuela-no-fuera-de-su-pais/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-11.45.14-AM-678x430.jpeg"
+      "title": "La Corte Suprema de EE. UU. invalida los aranceles globales de Trump",
+      "link": "https://diarioversionfinal.com/mundo/la-corte-suprema-de-ee-uu-invalida-los-aranceles-globales-de-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/AP24243756022933-e1725055674254-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-20T17:38:18.439Z"
+  "lastUpdate": "2026-02-20T18:50:42.390Z"
 };
