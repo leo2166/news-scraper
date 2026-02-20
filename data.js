@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "402,33",
-      "eur": "472,83"
+      "usd": "405,35",
+      "eur": "476,71"
     },
     "binance": {
-      "usdt": "606,13"
+      "usdt": "605,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Al menos 400 presos políticos podrían quedar excluidos de la ley de amnistía\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/foro-penal-400-presos-politicos-excluidos-de-la-ley-de-amnistia/",
+      "title": "Morir en el hospital: la radiografía de la revista The Lancet sobre la crisis de salud en Venezuela\nSALUD",
+      "link": "https://www.elnacional.com/2026/02/morir-en-el-hospital-la-radiografia-de-la-revista-the-lancet-sobre-la-crisis-de-salud-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alfredo Romero advierte que la Ley de Amnistía deja vacíos que afectan a numerosos detenidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/alfredo-romero-advierte-que-la-ley-de-amnistia-deja-vacios-que-afectan-a-numerosos-detenidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ee-alfredo-romero-foro-penal-daniel-h-5687-1024x683-3ad4e8.jpg"
+      "title": "Yván Gil insistió en que el Acuerdo de Ginebra es la única vía para la disputa con Guyana",
+      "link": "https://noticiasvenevision.com/noticias/politica/yvan-gil-insistio-en-que-el-acuerdo-de-ginebra-es-la-unica-via-para-la-disputa-con-guyana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/yvn-gil-e793f4.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Junta de Paz de Trump concreta su primera reunión en Washington",
-      "link": "https://diarioversionfinal.com/mundo/la-junta-de-paz-de-trump-concreta-su-primera-reunion-en-washington/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2257550121-750x430.jpg"
+      "title": "Trump anuncia imposición de arancel global del 10 % pese a fallo de la Corte Suprema",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-imposicion-de-arancel-global-del-10-pese-a-fallo-de-la-corte-suprema/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-20T20:33:25.324Z"
+  "lastUpdate": "2026-02-20T21:26:34.580Z"
 };
