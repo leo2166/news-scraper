@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "594,69"
+      "usdt": "598,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Una ley de amnistía aprobada entre restricciones y dudas\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/una-ley-de-amnistia-aprobada-entre-restricciones-y-dudas/",
+      "title": "¿Cómo es el contenido de la Ley de Amnistía para la Convivencia Democrática?\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/como-es-el-contenido-de-la-ley-de-amnistia-para-la-convivencia-democratica/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Iván Cepeda habla de sus propuestas y la actualidad de Colombia en entrevista con Noticias Caracol",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-habla-de-sus-propuestas-y-la-actualidad-de-colombia-en-entrevista-con-noticias-caracol-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1101010/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2F50%2F32c2553a4e68ad565406b6d0e4b9%2Fivan-cepeda-2.jpg"
+      "title": "Presidente Petro firma nuevo decreto sobre salario mínimo 2026: lo mantuvo en 23.7%",
+      "link": "https://www.noticiascaracol.com/economia/presidente-petro-firma-nuevo-decreto-sobre-salario-minimo-2026-lo-mantuvo-en-23-7-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6efa60a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7a%2F2a%2F5a59a4b24af9a804ebe6b0f246d8%2Ftamano-imagenes-23.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La UE aclara su postura sobre las sanciones a Venezuela tras solicitud de España",
-      "link": "https://diarioversionfinal.com/mundo/la-ue-aclara-su-postura-sobre-las-sanciones-a-venezuela-tras-solicitud-de-espana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-8.46.34-AM-684x430.jpeg"
+      "title": "Alemania destaca la amnistía en Venezuela como un avance parcial hacia la democracia",
+      "link": "https://diarioversionfinal.com/mundo/alemania-destaca-la-amnistia-en-venezuela-como-un-avance-parcial-hacia-la-democracia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-9.09.57-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-20T13:00:15.352Z"
+  "lastUpdate": "2026-02-20T14:04:33.074Z"
 };
