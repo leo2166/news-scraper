@@ -5,7 +5,7 @@
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "595,99"
+      "usdt": "597,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Hijo de Juan Pablo Guanipa informa liberación de su padre",
-      "link": "https://noticiasvenevision.com/noticias/politica/hijo-de-juan-pablo-guanipa-informa-liberacion-de-su-padre",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/l5gqbya7hpexayfihopuvforsy-fad5b2.avif"
+      "title": "Analista Johel Orta: \"Venezuela avanza hacia una transición de consenso y recuperación económica brutal\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/analista-johel-orta-venezuela-avanza-hacia-una-transicion-de-consenso-y-recuperacion-economica-brutal",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9196.jpg-0222e9.jpeg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "FORO PENAL: «AMNISTÍA ES UNA CONQUISTA PEQUEÑA PORQUE EXCLUYE A MÁS DE 400 PRESOS POLÍTICOS»",
+      "link": "https://noticierodigital.com/2026/02/foro-penal-amnistia-es-una-conquista-pequena-porque-excluye-a-mas-de-400-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/vpi20f-e1771600326221-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro firma nuevo decreto sobre salario mínimo 2026: lo mantuvo en 23.7%",
-      "link": "https://www.noticiascaracol.com/economia/presidente-petro-firma-nuevo-decreto-sobre-salario-minimo-2026-lo-mantuvo-en-23-7-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6efa60a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7a%2F2a%2F5a59a4b24af9a804ebe6b0f246d8%2Ftamano-imagenes-23.jpg"
+      "title": "Iván Cepeda sobre políticas de Petro: \"En algunos puntos habrá que hacer cambios profundos\"",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-habla-de-sus-propuestas-y-la-actualidad-de-colombia-en-entrevista-con-noticias-caracol-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1101010/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F38%2F50%2F32c2553a4e68ad565406b6d0e4b9%2Fivan-cepeda-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Alemania destaca la amnistía en Venezuela como un avance parcial hacia la democracia",
-      "link": "https://diarioversionfinal.com/mundo/alemania-destaca-la-amnistia-en-venezuela-como-un-avance-parcial-hacia-la-democracia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-9.09.57-AM-750x430.jpeg"
+      "title": "Lula sostiene que Nicolás Maduro debe ser juzgado en Venezuela, no fuera de su país",
+      "link": "https://diarioversionfinal.com/mundo/lula-sostiene-que-nicolas-maduro-debe-ser-juzgado-en-venezuela-no-fuera-de-su-pais/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-11.45.14-AM-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-20T15:37:39.954Z"
+  "lastUpdate": "2026-02-20T16:40:11.843Z"
 }
