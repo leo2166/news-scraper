@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "610,69"
+      "usdt": "609,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Asamblea Nacional aprobó por unanimidad la ley de amnistía\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/parlamento-aprueba-por-unanimidad-ley-de-amnistia/",
+      "title": "Una ley de amnistía aprobada entre restricciones y dudas\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/una-ley-de-amnistia-aprobada-entre-restricciones-y-dudas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/kiMzooIL-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-20T10:38:25.693Z"
+  "lastUpdate": "2026-02-20T11:32:56.941Z"
 };
