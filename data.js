@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "597,00"
+      "usdt": "599,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "¿Cómo es el contenido de la Ley de Amnistía para la Convivencia Democrática?\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/como-es-el-contenido-de-la-ley-de-amnistia-para-la-convivencia-democratica/",
+      "title": "La cárcel que nunca terminó: Perkins Rocha y la prisión en casa con grillete\nNOTICIAS",
+      "link": "https://www.elnacional.com/2026/02/perkins-rocha-y-la-prision-en-casa-con-grillete/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Analista Johel Orta: \"Venezuela avanza hacia una transición de consenso y recuperación económica brutal\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/analista-johel-orta-venezuela-avanza-hacia-una-transicion-de-consenso-y-recuperacion-economica-brutal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9196.jpg-0222e9.jpeg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "FORO PENAL: «AMNISTÍA ES UNA CONQUISTA PEQUEÑA PORQUE EXCLUYE A MÁS DE 400 PRESOS POLÍTICOS»",
-      "link": "https://noticierodigital.com/2026/02/foro-penal-amnistia-es-una-conquista-pequena-porque-excluye-a-mas-de-400-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/vpi20f-e1771600326221-627x376.jpg"
+      "title": "CIDH reitera su solicitud para hacer una visita técnica a Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/cidh-reitera-su-solicitud-para-hacer-una-visita-tecnica-a-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/la-cruel-aunque-efectiva-ensenanza-de-la-derrota_-un-llamado-por-mayor-transparencia-en-las-decisiones-de-admisibilidad-de-la-cidh-41a74c.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-11.45.14-AM-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-20T16:40:11.843Z"
+  "lastUpdate": "2026-02-20T17:38:18.439Z"
 };
