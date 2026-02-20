@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez promulgó la ley de amnistía en Venezuela: “Hay que saber pedir perdón”",
-      "link": "https://www.infobae.com/venezuela/2026/02/20/delcy-rodriguez-promulgo-la-ley-de-amnistia-en-venezuela-hay-que-saber-pedir-perdon/",
-      "image": "https://www.infobae.com/resizer/v2/PG5LYP3VBVFEPCNGACHFNHQTWU.jpg?auth=c2eabcf280e17286c9ae41873131f0abe20f50e4feebb8f1d945abf2e7090cee&smart=true&width=350&height=197&quality=85"
+      "title": "El opositor venezolano Juan Pablo Guanipa recuperó la libertad y cuestionó la ley de amnistía promulgada por Delcy Rodríguez",
+      "link": "https://www.infobae.com/venezuela/2026/02/20/el-opositor-venezolano-juan-pablo-guanipa-recupero-la-libertad-y-cuestiono-la-ley-de-amnistia-promulgada-por-delcy-rodriguez/",
+      "image": "https://www.infobae.com/resizer/v2/FUP6WFKBPFFQPHJ52MHBLX5RWE.JPG?auth=93f568fa9b5b0a293172477b1f4d50b0769087477480fcb093f295ec11399ec0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Venezuela aprueba histórica ley de amnistía para los presos políticos",
       "link": "https://cnnespanol.cnn.com/2026/02/19/venezuela/asamblea-nacional-aprueba-ley-amnistia-presos-politicos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/119da574-01b5-493b-86d5-5d0dcac9ab5c.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ciudadania-ee-uu.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0091-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-20T05:54:24.517Z"
+  "lastUpdate": "2026-02-20T06:58:03.537Z"
 };
