@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Departamento de Energía estadounidense resalta el “rápido progreso” de la industria petrolera venezolana",
-      "link": "https://diarioversionfinal.com/mundo/departamento-de-energia-estadounidense-resalta-el-rapido-progreso-de-la-industria-petrolera-venezolana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0091-750x430.jpeg"
+      "title": "Trump ordenará la desclasificación de documentos sobre OVNIS y extraterrestres",
+      "link": "https://diarioversionfinal.com/mundo/trump-ordenara-la-desclasificacion-de-documentos-sobre-ovnis-y-extraterrestres/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/EOpLiFSX-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-20T08:41:28.259Z"
+  "lastUpdate": "2026-02-20T09:41:54.241Z"
 };
