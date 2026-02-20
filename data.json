@@ -5,7 +5,7 @@
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "612,69"
+      "usdt": "613,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela debate en segunda discusión el proyecto de ley de amnistía que impulsa Delcy Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/02/19/el-parlamento-de-venezuela-debate-en-segunda-discusion-el-proyecto-de-ley-de-amnistia-que-impulsa-delcy-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/7T35H5W6E5HVBKRECP4BGSR4TY.jpg?auth=899ac7325272655d45f5d1cf03bbc21bdcb8d4ab01204a7d384d11279f03d853&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela reclama una negociación directa con Guyana por el Esequibo y rechaza la jurisdicción de La Haya",
+      "link": "https://www.infobae.com/venezuela/2026/02/20/venezuela-reclama-una-negociacion-directa-con-guyana-por-el-esequibo-y-rechaza-la-jurisdiccion-de-la-haya/",
+      "image": "https://www.infobae.com/resizer/v2/BSVAMQXHRJB2NC2MTDDRJVALK4.jpg?auth=2f25b32c4166e79732b4788a8fe462e9b690ff077d97b365d17f17a4ca58383f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "EE UU desplazó a China como principal comprador de petróleo venezolano y a Rusia como proveedor de diluyentes\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/02/ee-uu-desplazo-a-china-como-principal-comprador-de-petroleo-venezolano-y-a-rusia-como-proveedor-de-diluyentes/",
+      "title": "Asamblea Nacional aprobó por unanimidad la ley de amnistía\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/parlamento-aprueba-por-unanimidad-ley-de-amnistia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Esta es la ley desconocida usada para detener a ciudadanos de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/02/19/eeuu/agentes-inmigracion-ley-detener-ciudadanos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/andres-prision.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Venezuela aprueba la ley de amnistía para los presos políticos",
+      "link": "https://cnnespanol.cnn.com/2026/02/19/venezuela/asamblea-nacional-aprueba-ley-amnistia-presos-politicos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/119da574-01b5-493b-86d5-5d0dcac9ab5c.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez destaca la economía comunal como eje del nuevo modelo económico",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-destaca-la-economia-comunal-como-eje-del-nuevo-modelo-economico",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/17_zc_l1589_p-scaled-aec7f8.jpg"
+      "title": "Aprobada Ley de Amnistía para la Convivencia Democrática",
+      "link": "https://noticiasvenevision.com/noticias/politica/aprobada-ley-de-amnistia-para-la-convivencia-democratica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hbj2vloxcaalzvw-e0da79.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La mujer hecha con IA con la que impulsan lista al Congreso en Colombia: ¿cómo funciona?",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/primera-candidata-al-congreso-hecha-con-ia-en-colombia-quien-esta-detras-y-como-funciona-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/45c282c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc5%2Ff4%2F8e6602cf40d8a2811f7210865962%2Fvotacion-14.jpg"
+      "title": "Ley de Amnistía es aprobada en Venezuela, pero excluye a condenados por promover acciones armadas",
+      "link": "https://www.noticiascaracol.com/mundo/aprueban-ley-de-amnistia-en-venezuela-que-contempla-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/67d6b9a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F60%2F27%2F3d4508b44e6fa5276992aca3d43a%2Fley-amnistia-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. desplazó a China como principal comprador de petróleo venezolano",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-desplazo-a-china-como-principal-comprador-de-petroleo-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/buque-tanquero-petroleo-pixabayjpg-2025-750x430.webp"
+      "title": "Departamento de Energía estadounidense resalta el “rápido progreso” de la industria petrolera venezolana",
+      "link": "https://diarioversionfinal.com/mundo/departamento-de-energia-estadounidense-resalta-el-rapido-progreso-de-la-industria-petrolera-venezolana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0091-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-19T23:30:51.571Z"
+  "lastUpdate": "2026-02-20T02:07:11.592Z"
 }
