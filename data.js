@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El opositor venezolano Juan Pablo Guanipa recuperó la libertad y cuestionó la ley de amnistía promulgada por Delcy Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/02/20/el-opositor-venezolano-juan-pablo-guanipa-recupero-la-libertad-y-cuestiono-la-ley-de-amnistia-promulgada-por-delcy-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/FUP6WFKBPFFQPHJ52MHBLX5RWE.JPG?auth=93f568fa9b5b0a293172477b1f4d50b0769087477480fcb093f295ec11399ec0&smart=true&width=350&height=197&quality=85"
+      "title": "El FMI calificó la situación económica y humanitaria de Venezuela como “bastante frágil”",
+      "link": "https://www.infobae.com/venezuela/2026/02/20/el-fmi-califico-la-situacion-economica-y-humanitaria-de-venezuela-como-bastante-fragil/",
+      "image": "https://www.infobae.com/resizer/v2/6ZVX35BJ3BATPIRJVYKNTQXGMU.JPG?auth=7a8ee685840a8b2b837bf08b6a72011b34196c4e59b2c0e526a2d3818db46dbc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0091-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-20T06:58:03.537Z"
+  "lastUpdate": "2026-02-20T07:51:43.229Z"
 };
