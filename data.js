@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "472,83"
     },
     "binance": {
-      "usdt": "598,87"
+      "usdt": "595,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿A quién beneficia la ley de amnistía de Venezuela? Estas son las claves",
-      "link": "https://cnnespanol.cnn.com/2026/02/19/venezuela/ley-amnistia-venezuela-claves-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261789834.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La Corte Suprema dictamina que los aranceles de Trump son ilegales",
+      "link": "https://cnnespanol.cnn.com/2026/02/20/eeuu/corte-suprema-aranceles-ilegales-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tarifas-ilegales-20260220150650604-20260220150658651.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-20-at-9.09.57-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-20T14:04:33.074Z"
+  "lastUpdate": "2026-02-20T15:37:39.954Z"
 };
