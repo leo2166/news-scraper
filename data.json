@@ -5,7 +5,7 @@
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "600,69"
+      "usdt": "599,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El opositor Juan Pablo Guanipa pidió terminar con la “persecución” y el “sufrimiento de los venezolanos”",
-      "link": "https://www.infobae.com/venezuela/2026/02/21/el-opositor-juan-pablo-guanipa-pidio-terminar-con-la-persecucion-y-el-sufrimiento-de-los-venezolanos/",
-      "image": "https://www.infobae.com/resizer/v2/EC7QKV32CBED3GBWO2Q432GEJY.JPG?auth=72ed61998f46d6ccc0ea714cac50aaeea5fc50670b763c682f4b7633658549e2&smart=true&width=350&height=197&quality=85"
+      "title": "Las fuerzas de seguridad cubanas comenzaron a abandonar Venezuela tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/02/21/las-fuerzas-de-seguridad-cubanas-comenzaron-a-abandonar-venezuela-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/GPHMX4JAHFCCFA5D6GADGWYXB4.JPG?auth=923e4f200ac8a38a8c129e9e25de427ab5861a39ec8c2f1015c17f4b5054c03e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. ataca otra presunta narcolancha en el Pacífico oriental y deja tres muertos",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-otra-presunta-narcolancha-en-el-pacifico-oriental-y-deja-tres-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gttedxd-750x430.jpg"
+      "title": "El ICE captura en Orlando a periodista zuliano con 11 años en los Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/el-ice-captura-en-orlando-a-periodista-zuliano-con-11-anos-en-los-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-21-at-9.16.14-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-21T11:22:47.301Z"
+  "lastUpdate": "2026-02-21T12:49:36.161Z"
 }
