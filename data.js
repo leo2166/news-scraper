@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "601,10"
+      "usdt": "598,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "FAC se pronuncia tras maniobra de avión de Latam para evitar choque con helicóptero militar",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/fac-se-pronuncia-tras-maniobra-de-avion-de-latam-para-evitar-choque-con-helicoptero-militar-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2297068/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0e%2F2f%2F58b0f66f4b0bb91a023515d5375f%2Fplantilla-fotos-35.jpg"
+      "title": "Esto se sabe sobre salud de Willie Colón en los últimos días, antes de su muerte a los 75 años",
+      "link": "https://www.noticiascaracol.com/entretenimiento/de-que-murio-el-icono-de-la-salsa-willie-colon-esto-se-sabe-sobre-su-salud-en-los-ultimos-dias-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b61ec1a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fff%2F8d%2Ff740fd3c4de0958701aeff6222f2%2Fplantilla-fotos-37.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Guyana bloquea nueva exploración petrolera de ExxonMobil hasta que la CIJ decida sobre el Esequibo",
-      "link": "https://diarioversionfinal.com/mundo/guyana-bloquea-nueva-exploracion-petrolera-de-exxonmobil-hasta-que-la-cij-decida-sobre-el-esequibo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/11/exxom-750x430.jpg"
+      "title": "EE. UU. reafirma vigencia del tratado de extradición con Venezuela de 1922",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-reafirma-vigencia-del-tratado-de-extradicion-con-venezuela-de-1922/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banderas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-21T21:24:44.532Z"
+  "lastUpdate": "2026-02-21T22:25:20.894Z"
 };
