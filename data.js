@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Las fuerzas de seguridad cubanas comenzaron a abandonar Venezuela tras la captura de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/02/21/las-fuerzas-de-seguridad-cubanas-comenzaron-a-abandonar-venezuela-tras-la-captura-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/GPHMX4JAHFCCFA5D6GADGWYXB4.JPG?auth=923e4f200ac8a38a8c129e9e25de427ab5861a39ec8c2f1015c17f4b5054c03e&smart=true&width=350&height=197&quality=85"
+      "title": "Denuncian que cerca de 100 presos políticos venezolanos iniciaron una huelga de hambre en la cárcel El Rodeo I",
+      "link": "https://www.infobae.com/venezuela/2026/02/21/denuncian-que-cerca-de-100-presos-politicos-venezolanos-iniciaron-una-huelga-de-hambre-en-la-carcel-el-rodeo-i/",
+      "image": "https://www.infobae.com/resizer/v2/ZMRIDRUCQRDJTH4YNME5DDPX44.jpg?auth=23ada083fb9008ea76e51e437ad40cb8b3e97fb02ae14a8846a5bd135c8155f2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Tres muertos en ataque de EE. UU. a embarcación en el Pacífico",
-      "link": "https://laverdad.com/tres-muertos-en-ataque-de-ee-uu-a-embarcacion-en-el-pacifico/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/EE.UU_.-lancha-Pacifico.jpg"
+      "title": "Capturan a venezolanos y españoles en operativo que desmanteló red de narcotráfico",
+      "link": "https://laverdad.com/capturan-a-venezolanos-y-espanoles-en-operativo-que-desmantelo-red-de-narcotrafico/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/policia-de-seguranca-publica-em-portugal-1583508833086_v2_900x506.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán prueba misil de largo alcance y eleva tensión con EE.UU.",
-      "link": "https://diarioversionfinal.com/mundo/iran-prueba-misil-de-largo-alcance-y-eleva-tension-con-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fad9d424-4424-49c7-8574-970a9733b471_w1080_h608_s-750x430.jpg"
+      "title": "Presos dos hombres en Colombia por reclutar menores para disidencias de las Farc",
+      "link": "https://diarioversionfinal.com/mundo/presos-dos-hombres-en-colombia-por-reclutar-menores-para-disidencias-de-las-farc/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/menores-farc-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-21T18:36:32.977Z"
+  "lastUpdate": "2026-02-21T19:25:06.139Z"
 };
