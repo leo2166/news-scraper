@@ -5,7 +5,7 @@
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "598,69"
+      "usdt": "598,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen chavista reportó que este sábado fueron excarcelados al menos 80 presos políticos venezolanos",
-      "link": "https://www.infobae.com/venezuela/2026/02/21/el-regimen-chavista-reporto-que-este-sabado-fueron-excarcelados-al-menos-80-presos-politicos-venezolanos/",
-      "image": "https://www.infobae.com/resizer/v2/5ORESI6HEJAK3MCVBXJ3VO4YUM.jpg?auth=97ae42359ad80b43e384084bb3e4e27a4c6b6df45db629b19ca32d60c41ed7aa&smart=true&width=350&height=197&quality=85"
+      "title": "Arribaron a Venezuela más de 65 toneladas de insumos médicos enviados por Estados Unidos",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/21/arribaron-a-venezuela-mas-de-65-toneladas-de-insumos-medicos-enviados-por-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/T45O5UBTHJHSVNT3AIE33JHSA4.png?auth=9cc5a5b263d397df5a2837b5e4adda86e1cbf1ba244d71c66372d44e6f539d5a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Reuters: asesores de seguridad cubanos se van de Venezuela a medida que aumenta la presión de EE UU\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/reuters-asesores-de-seguridad-cubanos-se-van-de-venezuela-a-medida-que-aumenta-la-presion-de-ee-uu/",
+      "title": "Más de 1.500 buscan salir de prisión y 11.000 pasarán a libertad plena bajo la Ley de Amnistía, según Jorge Rodríguez\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/mas-de-1-500-buscan-salir-de-prision-bajo-la-ley-de-amnistia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esto se sabe sobre salud de Willie Colón en los últimos días, antes de su muerte a los 75 años",
-      "link": "https://www.noticiascaracol.com/entretenimiento/de-que-murio-el-icono-de-la-salsa-willie-colon-esto-se-sabe-sobre-su-salud-en-los-ultimos-dias-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b61ec1a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fff%2F8d%2Ff740fd3c4de0958701aeff6222f2%2Fplantilla-fotos-37.jpg"
+      "title": "Presidente Petro habla sobre carrotanques con campañas políticas en Aguachica: \"Delito electoral\"",
+      "link": "https://www.noticiascaracol.com/politica/presidente-petro-habla-sobre-carrotanques-con-campanas-politicas-en-aguachica-delito-electoral-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ea321c4/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2Fd1%2F6b04ec094f52a2101470ddc4a6aa%2Fmovilidad-bogota-2026-02-21t175826-771.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banderas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-21T22:25:20.894Z"
+  "lastUpdate": "2026-02-21T23:25:35.260Z"
 }
