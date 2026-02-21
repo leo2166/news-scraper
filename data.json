@@ -5,7 +5,7 @@
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "599,98"
+      "usdt": "602,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El FMI calificó la situación económica y humanitaria de Venezuela como “bastante frágil”",
-      "link": "https://www.infobae.com/venezuela/2026/02/20/el-fmi-califico-la-situacion-economica-y-humanitaria-de-venezuela-como-bastante-fragil/",
-      "image": "https://www.infobae.com/resizer/v2/6ZVX35BJ3BATPIRJVYKNTQXGMU.JPG?auth=7a8ee685840a8b2b837bf08b6a72011b34196c4e59b2c0e526a2d3818db46dbc&smart=true&width=350&height=197&quality=85"
+      "title": "La Asamblea Nacional instaló una comisión para analizar los casos excluidos de la Ley de Amnistía en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/21/la-asamblea-nacional-instalo-una-comision-para-analizar-los-casos-excluidos-de-la-ley-de-amnistia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/5IPTQTMOT5AOJOZ6EQ4WWHQBNI.png?auth=f6b7201aeecf14462f73e6d059361103a56091ef40354843ceda03ec7526d21b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Morir en el hospital: la radiografía de la revista The Lancet sobre la crisis de salud en Venezuela\nSALUD",
-      "link": "https://www.elnacional.com/2026/02/morir-en-el-hospital-la-radiografia-de-la-revista-the-lancet-sobre-la-crisis-de-salud-en-venezuela/",
+      "title": "Entre la esperanza rota y la lucha que continúa: familiares de presos políticos lamentan amnistía excluyente en Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/entre-la-esperanza-rota-y-la-lucha-que-continua-familiares-de-presos-politicos-lamentan-amnistia-excluyente-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump anunció que aplicará aranceles globales del 10 %",
-      "link": "https://cnnespanol.cnn.com/2026/02/20/eeuu/trump-corte-suprema-alternativas-aranceles-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262662160-20260220165025268.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Puede que la Corte Suprema le haya hecho un favor a Trump con su fallo sobre aranceles",
+      "link": "https://cnnespanol.cnn.com/2026/02/20/eeuu/corte-suprema-aranceles-favor-trump-republicanos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262662160-20260220165025268.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Yván Gil insistió en que el Acuerdo de Ginebra es la única vía para la disputa con Guyana",
-      "link": "https://noticiasvenevision.com/noticias/politica/yvan-gil-insistio-en-que-el-acuerdo-de-ginebra-es-la-unica-via-para-la-disputa-con-guyana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/yvn-gil-e793f4.png"
+      "title": "Presidenta (E) Delcy Rodríguez se reúne en el Palacio de Miraflores con delegación colombiana",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-se-reune-en-el-palacio-de-miraflores-con-delegacion-colombiana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l0355-2048x1366-bbdd21.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia imposición de arancel global del 10 % pese a fallo de la Corte Suprema",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-imposicion-de-arancel-global-del-10-pese-a-fallo-de-la-corte-suprema/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
+      "title": "Gobierno británico evalúa eliminar al expríncipe Andrés de la línea de sucesión real",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-britanico-evalua-eliminar-al-exprincipe-andres-de-la-linea-de-sucesion-real/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/7a82d8d44c4c3acf93c2e5a309bac102a41c28e7w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-20T23:29:40.236Z"
+  "lastUpdate": "2026-02-21T02:02:06.513Z"
 }
