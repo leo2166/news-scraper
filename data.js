@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "600,69"
+      "usdt": "601,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué significa la decisión de la Corte Suprema para la presidencia de Trump?",
-      "link": "https://cnnespanol.cnn.com/2026/02/21/economia/corte-suprema-ee-uu-enfrenta-trump-aranceles-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262661928-20260221070040807.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump aumenta los aranceles globales del 10 al 15 % \"con efecto inmediato\"",
+      "link": "https://cnnespanol.cnn.com/2026/02/21/eeuu/trump-aranceles-globales-15-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262137875.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela rechaza renovación de declaración de “emergencia nacional” de EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-rechaza-renovacion-de-declaracion-de-emergencia-nacional-de-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cancilleria-venezuela-bf7552.jpg"
+      "title": "Jorge Arreaza informa que TSJ y MP acuerdan 379 medidas de amnistía para este fin de semana",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-informa-que-tsj-y-mp-acuerdan-379-medidas-de-amnistia-para-este-fin-de-semana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cz4gvo7cfze6jfqvfvyvyfzgwa-cba563.avif"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/policia-nacional-cocaina-efe-knMH-1248x698@abc-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-21T16:30:50.382Z"
+  "lastUpdate": "2026-02-21T17:25:55.034Z"
 };
