@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "601,10"
+      "usdt": "602,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/menores-farc-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-21T19:25:06.139Z"
+  "lastUpdate": "2026-02-21T20:26:17.623Z"
 };
