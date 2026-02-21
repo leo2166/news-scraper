@@ -5,7 +5,7 @@
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "602,10"
+      "usdt": "601,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Denuncian que cerca de 100 presos políticos venezolanos iniciaron una huelga de hambre en la cárcel El Rodeo I",
-      "link": "https://www.infobae.com/venezuela/2026/02/21/denuncian-que-cerca-de-100-presos-politicos-venezolanos-iniciaron-una-huelga-de-hambre-en-la-carcel-el-rodeo-i/",
-      "image": "https://www.infobae.com/resizer/v2/ZMRIDRUCQRDJTH4YNME5DDPX44.jpg?auth=23ada083fb9008ea76e51e437ad40cb8b3e97fb02ae14a8846a5bd135c8155f2&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen chavista reportó que este sábado fueron excarcelados al menos 80 presos políticos venezolanos",
+      "link": "https://www.infobae.com/venezuela/2026/02/21/el-regimen-chavista-reporto-que-este-sabado-fueron-excarcelados-al-menos-80-presos-politicos-venezolanos/",
+      "image": "https://www.infobae.com/resizer/v2/5ORESI6HEJAK3MCVBXJ3VO4YUM.jpg?auth=97ae42359ad80b43e384084bb3e4e27a4c6b6df45db629b19ca32d60c41ed7aa&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreaza informa que TSJ y MP acuerdan 379 medidas de amnistía para este fin de semana",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-informa-que-tsj-y-mp-acuerdan-379-medidas-de-amnistia-para-este-fin-de-semana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cz4gvo7cfze6jfqvfvyvyfzgwa-cba563.avif"
+      "title": "Jorge Rodríguez aseguró que \"cientos de personas fueron liberadas”  tras la aprobación de la Ley de Amnistía",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-aseguro-que-cientos-de-personas-fueron-liberadas-tras-la-aprobacion-de-la-ley-de-amnistia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-21-171556-9613f9.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presos dos hombres en Colombia por reclutar menores para disidencias de las Farc",
-      "link": "https://diarioversionfinal.com/mundo/presos-dos-hombres-en-colombia-por-reclutar-menores-para-disidencias-de-las-farc/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/menores-farc-1-750x430.jpg"
+      "title": "Guyana bloquea nueva exploración petrolera de ExxonMobil hasta que la CIJ decida sobre el Esequibo",
+      "link": "https://diarioversionfinal.com/mundo/guyana-bloquea-nueva-exploracion-petrolera-de-exxonmobil-hasta-que-la-cij-decida-sobre-el-esequibo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/11/exxom-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-21T20:26:17.623Z"
+  "lastUpdate": "2026-02-21T21:24:44.532Z"
 }
