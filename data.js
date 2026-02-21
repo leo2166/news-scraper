@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos pidió a Venezuela avanzar en investigaciones contra el hijo de Nicolás Maduro y otros ocho líderes del régimen chavista",
-      "link": "https://www.infobae.com/venezuela/2026/02/21/estados-unidos-pidio-a-venezuela-avanzar-en-investigaciones-contra-el-hijo-de-nicolas-maduro-y-otros-ocho-lideres-del-regimen-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/YHLDPO5SFFHTJF54KKEWGK7K5U.JPG?auth=1c416eb189e83adf4dbad5215b85ed0d27f88de034c3653a0b2fb5d5c98fa139&smart=true&width=350&height=197&quality=85"
+      "title": "Tras la promulgación de la Ley de Amnistía, un diputado oficialista afirmó que se otorgará la amnistía a 379 presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/21/tras-la-promulgacion-de-la-ley-de-amnistia-un-diputado-oficialista-afirmo-que-se-otorgara-la-amnistia-a-379-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/AJG3SHOOV5AEFE5JFNO2HEPKWQ.JPG?auth=917c533795e369b10fc4e70229f23ac22d477d40821cbdfea3557ce0106818db&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gttedxd-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-21T06:42:41.895Z"
+  "lastUpdate": "2026-02-21T07:32:55.729Z"
 };
