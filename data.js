@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "597,50"
+      "usdt": "565,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La guerra agrava la crisis demográfica en Ucrania",
-      "link": "https://cnnespanol.cnn.com/2026/02/22/mundo/ucrania-viudas-huerfanos-catastrofe-demografica-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mural-caidos-ucrania.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Hombre armado muere tras ingresar al perímetro de la residencia de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/02/22/eeuu/hombre-armado-muere-mar-a-lago-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/residencia-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Servicio Secreto mata a intruso armado en propiedad de Trump en Florida",
-      "link": "https://diarioversionfinal.com/mundo/servicio-secreto-mata-a-intruso-armado-en-propiedad-de-trump-en-florida/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-22T072531.377.jpg"
+      "title": "Protestas en EE. UU. contra iniciativa de Trump para convertir depósitos en cárceles de inmigrantes",
+      "link": "https://diarioversionfinal.com/mundo/protestas-en-ee-uu-contra-iniciativa-de-trump-para-convertir-depositos-en-carceles-de-inmigrantes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-22T075843.909.jpg"
     }
   ],
-  "lastUpdate": "2026-02-22T15:26:48.955Z"
+  "lastUpdate": "2026-02-22T16:31:38.025Z"
 };
