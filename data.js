@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "594,69"
+      "usdt": "597,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La oposición en Venezuela confirmó sólo 19 excarcelaciones de presos políticos tras la promulgación de la Ley de Amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/22/la-oposicion-en-venezuela-confirmo-solo-19-excarcelaciones-de-presos-politicos-tras-la-promulgacion-de-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/FR77CRHC6NCENLNKVFB3ABM5IY.JPG?auth=a660e0aaf50b1834873723e80bf4722a5cb9755ea8dbcf45f5bca1f9c6d7d9a7&smart=true&width=350&height=197&quality=85"
+      "title": "Cómo funciona el aparato represivo transnacional del régimen chavista contra los venezolanos en el exilio",
+      "link": "https://www.infobae.com/venezuela/2026/02/22/como-funciona-el-aparato-represivo-transnacional-del-regimen-chavista-contra-los-venezolanos-en-el-exilio/",
+      "image": "https://www.infobae.com/resizer/v2/W7FCNKUNTNCNLDPRABHQSGAGUI.jpg?auth=95351df34269f548a2348a5e373622e20ad13731136e9b37c0a4708c556c76c6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Papa celebra misa junto a migrantes en Roma: “Aquí nadie es extranjero”",
-      "link": "https://diarioversionfinal.com/mundo/el-papa-celebra-misa-junto-a-migrantes-en-roma-aqui-nadie-es-extranjero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/papa-leon-xiv-en-audiencia-general-del-13-de-agosto-01-750x430.jpg"
+      "title": "Servicio Secreto mata a intruso armado en propiedad de Trump en Florida",
+      "link": "https://diarioversionfinal.com/mundo/servicio-secreto-mata-a-intruso-armado-en-propiedad-de-trump-en-florida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-22T072531.377.jpg"
     }
   ],
-  "lastUpdate": "2026-02-22T14:27:26.565Z"
+  "lastUpdate": "2026-02-22T15:26:48.955Z"
 };
