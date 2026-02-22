@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Muere la leyenda de la salsa Willie Colón a los 75 años",
-      "link": "https://cnnespanol.cnn.com/2026/02/21/latinoamerica/fallece-leyenda-salsa-willie-colon-75-anios-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-500208540.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Comienzan las liberaciones por la Ley de Amnistía en Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/02/21/venezuela/comienzan-liberaciones-ley-amnistia-dos-casos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/65f1b020c0ad1ad65cd3aaed54f040449246bd19w.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Rodríguez aseguró que \"cientos de personas fueron liberadas”  tras la aprobación de la Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-aseguro-que-cientos-de-personas-fueron-liberadas-tras-la-aprobacion-de-la-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-21-171556-9613f9.png"
+      "title": "Delcy Rodríguez insta a participar en la Consulta Nacional del 8 de marzo",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-insta-a-participar-en-la-consulta-nacional-del-8-de-marzo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/eujpg-193604-961306.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banderas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-21T23:25:35.260Z"
+  "lastUpdate": "2026-02-22T02:11:25.210Z"
 };
