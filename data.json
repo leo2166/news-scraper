@@ -5,7 +5,7 @@
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "592,66"
+      "usdt": "593,82"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Cómo funciona el aparato represivo transnacional del régimen chavista contra los venezolanos en el exilio",
-      "link": "https://www.infobae.com/venezuela/2026/02/22/como-funciona-el-aparato-represivo-transnacional-del-regimen-chavista-contra-los-venezolanos-en-el-exilio/",
-      "image": "https://www.infobae.com/resizer/v2/W7FCNKUNTNCNLDPRABHQSGAGUI.jpg?auth=95351df34269f548a2348a5e373622e20ad13731136e9b37c0a4708c556c76c6&smart=true&width=350&height=197&quality=85"
+      "title": "Más de 200 presos políticos en Venezuela iniciaron una huelga de hambre por quedar excluidos de la ley de amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/02/22/mas-de-200-presos-politicos-en-venezuela-iniciaron-una-huelga-de-hambre-por-quedar-excluidos-de-la-ley-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/BNS7VS72IBDTFCN7MDXB2ZDXEI.jpg?auth=faa2ee306f5003559424ea4250056b45f9c13cc5f5489d91595b5fc25e4636d2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Muere alias el Mencho en operativo militar en México",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/el-mencho.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/residencia-trump.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Abaten al líder del Cartel de Jalisco Nueva Generación en operativo federal",
-      "link": "https://laverdad.com/abaten-al-lider-del-cartel-de-jalisco-nueva-generacion-en-operativo-federal/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/mencho.jpg"
+      "title": "Autoridades mexicanas confirman abatimiento de “El Mencho” con apoyo de EE. UU.",
+      "link": "https://laverdad.com/autoridades-mexicanas-confirman-abatimiento-de-el-mencho-con-apoyo-de-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/rss-efe29a95b024e75e7028049cd8b85d71b3cf230e795w.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán y EE.UU. podrían retomar negociaciones nucleares el jueves en Ginebra",
-      "link": "https://diarioversionfinal.com/mundo/iran-y-ee-uu-podrian-retomar-negociaciones-nucleares-el-jueves-en-ginebra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/afp2026021697ph2tlv2midresswitzerlanduniranusnucleardiplomacy-9048a94b-750x430.jpg"
+      "title": "Caos en México tras muerte \"del Mencho\" Oseguero, líder del Cartel Jalisco Nueva Generación",
+      "link": "https://diarioversionfinal.com/mundo/caos-en-mexico-tras-muerte-del-mencho-oseguero-lider-del-cartel-jalisco-nueva-generacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-5.52.57-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-22T20:28:18.590Z"
+  "lastUpdate": "2026-02-22T21:26:18.028Z"
 }
