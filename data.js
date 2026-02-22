@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "599,20"
+      "usdt": "599,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Arribaron a Venezuela más de 65 toneladas de insumos médicos enviados por Estados Unidos",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/21/arribaron-a-venezuela-mas-de-65-toneladas-de-insumos-medicos-enviados-por-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/T45O5UBTHJHSVNT3AIE33JHSA4.png?auth=9cc5a5b263d397df5a2837b5e4adda86e1cbf1ba244d71c66372d44e6f539d5a&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición en Venezuela confirmó sólo 19 excarcelaciones de presos políticos tras la promulgación de la Ley de Amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/02/22/la-oposicion-en-venezuela-confirmo-solo-19-excarcelaciones-de-presos-politicos-tras-la-promulgacion-de-la-ley-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/FR77CRHC6NCENLNKVFB3ABM5IY.JPG?auth=a660e0aaf50b1834873723e80bf4722a5cb9755ea8dbcf45f5bca1f9c6d7d9a7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Más de 1.500 buscan salir de prisión y 11.000 pasarán a libertad plena bajo la Ley de Amnistía, según Jorge Rodríguez\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/mas-de-1-500-buscan-salir-de-prision-bajo-la-ley-de-amnistia/",
+      "title": "Anatomía burocrática de la tortura \nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/02/el-nacional-com-venezuela-dgcim-anatomia-tortura-boleita/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banderas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-22T07:36:32.878Z"
+  "lastUpdate": "2026-02-22T08:33:51.328Z"
 };
