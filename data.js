@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "589,00"
+      "usdt": "592,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal cuestiona exclusión de militares en la nueva ley de amnistía\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/foro-penal-cuestiona-exclusion-de-militares-en-la-nueva-ley-de-amnistia/",
+      "title": "María Corina Machado, la principal excluida de la nueva Ley de Amnistía\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/maria-corina-machado-la-principal-excluida-de-la-ley-de-amnistia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Muere alias el Mencho en operativo militar en México",
-      "link": "https://cnnespanol.cnn.com/2026/02/22/mexico/violencia-jalisco-bloqueo-vias-enfrentamientos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mecho-dea.png?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/el-mencho.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quién fue Willie Colón? Un recorrido a la trayectoria del salsero que murió a sus 75 años",
-      "link": "https://www.noticiascaracol.com/entretenimiento/quien-fue-willie-colon-un-recorrido-a-la-trayectoria-del-salsero-que-murio-a-sus-75-anos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b2e97a3/2147483647/strip/true/crop/1600x903+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fad%2F2f%2Ff98452e643e791879baf049e11dc%2Fwhatsapp-image-2026-02-21-at-3-20-39-pm.jpeg"
+      "title": "Dura advertencia del Mindefensa a disidencias de alias Calarcá tras emboscada en Guaviare",
+      "link": "https://www.noticiascaracol.com/colombia/dura-advertencia-del-mindefensa-a-disidencias-de-alias-calarca-tras-emboscada-en-guaviare-que-d-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/89194c9/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffb%2F29%2F1d85abdf42c9940f20269bcbfe24%2Fmovilidad-bogota-2026-02-22t135742-810.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Abaten a \"El Mencho\", líder del Cártel de Jalisco durante operativo policial",
-      "link": "https://diarioversionfinal.com/mundo/abaten-a-el-mencho-lider-del-cartel-de-jalisco-durante-operativo-policial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/f81214e0-0f45-11f0-b234-07dc7691c360.jpg.webp"
+      "title": "Irán y EE.UU. podrían retomar negociaciones nucleares el jueves en Ginebra",
+      "link": "https://diarioversionfinal.com/mundo/iran-y-ee-uu-podrian-retomar-negociaciones-nucleares-el-jueves-en-ginebra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/afp2026021697ph2tlv2midresswitzerlanduniranusnucleardiplomacy-9048a94b-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-22T19:25:31.113Z"
+  "lastUpdate": "2026-02-22T20:28:18.590Z"
 };
