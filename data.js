@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Hombre armado muere tras ingresar al perímetro de la residencia de Trump",
-      "link": "https://cnnespanol.cnn.com/2026/02/22/eeuu/hombre-armado-muere-mar-a-lago-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/residencia-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Muere alias el Mencho en operativo militar en México",
+      "link": "https://cnnespanol.cnn.com/2026/02/22/mexico/violencia-jalisco-bloqueo-vias-enfrentamientos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mecho-dea.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV llama a apagar los dispositivos y atender a quienes viven en soledad",
-      "link": "https://laverdad.com/papa-leon-xiv-llama-a-apagar-los-dispositivos-y-atender-a-quienes-viven-en-soledad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/5defd382e1c28288788a3a97e1e65be2d874ab76-scaled.jpg"
+      "title": "Abaten al líder del Cartel de Jalisco Nueva Generación en operativo federal",
+      "link": "https://laverdad.com/abaten-al-lider-del-cartel-de-jalisco-nueva-generacion-en-operativo-federal/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/mencho.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de Petro descarta que Ecopetrol importe gas desde Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-petro-descarta-que-ecopetrol-importe-gas-desde-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/11/ecopetrol-750x430.jpg"
+      "title": "Abaten a \"El Mencho\", líder del Cártel de Jalisco durante operativo policial",
+      "link": "https://diarioversionfinal.com/mundo/abaten-a-el-mencho-lider-del-cartel-de-jalisco-durante-operativo-policial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/f81214e0-0f45-11f0-b234-07dc7691c360.jpg.webp"
     }
   ],
-  "lastUpdate": "2026-02-22T18:37:07.046Z"
+  "lastUpdate": "2026-02-22T19:25:31.113Z"
 };
