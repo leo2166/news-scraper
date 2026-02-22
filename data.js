@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "598,00"
+      "usdt": "599,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro habla sobre carrotanques con campañas políticas en Aguachica: \"Delito electoral\"",
-      "link": "https://www.noticiascaracol.com/politica/presidente-petro-habla-sobre-carrotanques-con-campanas-politicas-en-aguachica-delito-electoral-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ea321c4/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2Fd1%2F6b04ec094f52a2101470ddc4a6aa%2Fmovilidad-bogota-2026-02-21t175826-771.jpg"
+      "title": "¿Quién fue Willie Colón? Un recorrido a la trayectoria del salsero que murió a sus 75 años",
+      "link": "https://www.noticiascaracol.com/entretenimiento/quien-fue-willie-colon-un-recorrido-a-la-trayectoria-del-salsero-que-murio-a-sus-75-anos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b2e97a3/2147483647/strip/true/crop/1600x903+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fad%2F2f%2Ff98452e643e791879baf049e11dc%2Fwhatsapp-image-2026-02-21-at-3-20-39-pm.jpeg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banderas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-22T02:11:25.210Z"
+  "lastUpdate": "2026-02-22T04:49:31.193Z"
 };
