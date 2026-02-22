@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "593,82"
+      "usdt": "593,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Caos en México tras muerte \"del Mencho\" Oseguero, líder del Cartel Jalisco Nueva Generación",
-      "link": "https://diarioversionfinal.com/mundo/caos-en-mexico-tras-muerte-del-mencho-oseguero-lider-del-cartel-jalisco-nueva-generacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-5.52.57-PM-750x430.jpeg"
+      "title": "Aerolíneas internacionales reportan cancelaciones en Jalisco tras muerte de “El Mencho”",
+      "link": "https://diarioversionfinal.com/mundo/aeropuertos-de-jalisco-reportan-cancelaciones-tras-abatimiento-de-el-mencho/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Aeropuerto-de-Guadalajara-1160x700-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-22T21:26:18.028Z"
+  "lastUpdate": "2026-02-22T22:26:30.521Z"
 };
