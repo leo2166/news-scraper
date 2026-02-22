@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "565,50"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Protestas en EE. UU. contra iniciativa de Trump para convertir depósitos en cárceles de inmigrantes",
-      "link": "https://diarioversionfinal.com/mundo/protestas-en-ee-uu-contra-iniciativa-de-trump-para-convertir-depositos-en-carceles-de-inmigrantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-22T075843.909.jpg"
+      "title": "Gobierno de Petro descarta que Ecopetrol importe gas desde Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-petro-descarta-que-ecopetrol-importe-gas-desde-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/11/ecopetrol-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-22T16:31:38.025Z"
+  "lastUpdate": "2026-02-22T17:25:44.740Z"
 };
