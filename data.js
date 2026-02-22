@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "600,69"
+      "usdt": "600,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Anatomía burocrática de la tortura \nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/el-nacional-com-venezuela-dgcim-anatomia-tortura-boleita/",
+      "title": "El oro de Guayana llegó incluso a Silicon Valley con sello suizo\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/el-oro-de-guayana-llego-incluso-a-silicon-valley-con-sello-suizo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/banderas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-22T09:32:19.362Z"
+  "lastUpdate": "2026-02-22T10:26:36.944Z"
 };
