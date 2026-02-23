@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Alias el Mencho murió mientras era trasladado a la Ciudad de México",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262108389.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estados-emergencia.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-8.57.15-PM-640x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-23T07:55:38.410Z"
+  "lastUpdate": "2026-02-23T08:52:24.496Z"
 };
