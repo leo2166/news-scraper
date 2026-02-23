@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "590,74"
+      "usdt": "595,21"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Más de cinco mil comunas se alistan para la Consulta Popular del 8 de marzo",
-      "link": "https://noticiasvenevision.com/noticias/politica/mas-de-cinco-mil-comunas-se-alistan-para-la-consulta-popular-del-8-de-marzo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/02_zc__3561_p-2048x1366-1-5ec763.jpg"
+      "title": "Jorge Arreza: “Policías Metropolitanos no pueden ser amnistiados”",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreza-policias-metropolitanos-no-pueden-ser-amnistiados",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-22-225139-9e669d.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El \"reinado de terror\" de alias El Mencho: así fue trayectoria criminal de capo abatido en México",
-      "link": "https://www.noticiascaracol.com/mundo/el-reinado-de-terror-de-alias-el-mencho-asi-fue-trayectoria-criminal-de-capo-abatido-en-mexico-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c4c4c2f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe1%2Ff2%2F1b10a9db4a26b76855e394b90205%2Fmovilidad-bogota-2026-02-22t153318-974.jpg"
+      "title": "Cae 'El Mencho' en México: los detalles del operativo y la ola de violencia desatada tras su muerte",
+      "link": "https://www.noticiascaracol.com/mundo/cae-el-mencho-en-mexico-los-detalles-del-operativo-y-la-ola-de-violencia-desatada-tras-su-muerte-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9adda2f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbb%2F48%2Feaca4fea43ab8f275d2e833d0490%2Fportadas-caracol-web-8.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-8.57.15-PM-640x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-23T02:12:24.596Z"
+  "lastUpdate": "2026-02-23T04:58:52.666Z"
 };
