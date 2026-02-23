@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "593,99"
+      "usdt": "601,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La muerte de El Mencho desata el caos en México",
+      "title": "La muerte del Mencho desata el caos en México",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2263004999-20260222230746722.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Autoridades mexicanas confirman abatimiento de “El Mencho” con apoyo de EE. UU.",
-      "link": "https://laverdad.com/autoridades-mexicanas-confirman-abatimiento-de-el-mencho-con-apoyo-de-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/rss-efe29a95b024e75e7028049cd8b85d71b3cf230e795w.jpg"
+      "title": "Sheinbaum llama a la “calma” tras violencia en México por muerte de “El Mencho”",
+      "link": "https://laverdad.com/sheinbaum-llama-a-la-calma-tras-violencia-en-mexico-por-muerte-de-el-mencho/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Puerto-Vallarta-Mexico-Caos.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum pide calma tras muerte de \"El Mencho\": suspenden partidos de fútbol",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-pide-calma-tras-muerte-de-el-mencho-suspenden-partidos-de-futbol/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-8.57.15-PM-640x430.jpeg"
+      "title": "España propone a la UE levantar sanciones a Delcy Rodríguez tras avances políticos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/espana-propone-a-la-ue-levantar-sanciones-a-delcy-rodriguez-tras-avances-politicos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/albares-9-de-octubre-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T11:40:23.002Z"
+  "lastUpdate": "2026-02-23T13:06:35.811Z"
 };
