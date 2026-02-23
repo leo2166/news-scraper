@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CNP ZULIA CONFIRMÓ LIBERTAD PLENA PARA LEANDRO PALMAR Y BELISES CUBILLÁN",
-      "link": "https://noticierodigital.com/2026/02/cnp-zulia-confirmo-libertad-plena-para-leandro-palmar-y-belises-cubillan/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/leandro-palmar-belises-cubillan-627x376.jpg"
+      "title": "LEOCENIS GARCÍA CALIFICÓ LA LEY DE AMNISTÍA Y LOS INDULTOS COMO «PASOS ESPERANZADORES»",
+      "link": "https://noticierodigital.com/2026/02/leocenis-garcia-califico-la-ley-de-amnistia-y-los-indultos-como-pasos-esperanzadores/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/leocenis-garcia-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2261109076-20260223172129030-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T22:15:20.784Z"
+  "lastUpdate": "2026-02-23T22:41:32.574Z"
 };
