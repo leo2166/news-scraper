@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA REITERA ANTE LA ONU PETICIÓN DE LIBERAR A NICOLÁS MADURO Y A CILIA FLORES",
-      "link": "https://noticierodigital.com/2026/02/venezuela-reitera-ante-la-onu-peticion-de-liberar-a-nicolas-maduro-y-a-cilia-flores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/YvanGil_EstadosUnidos-627x376.jpg"
+      "title": "EJÉRCITO DE PERÚ CONFIRMA QUE 15 PERSONAS MURIERON EN HELICÓPTERO MILITAR SINIESTRADO ",
+      "link": "https://noticierodigital.com/2026/02/ejercito-de-peru-confirma-que-15-personas-murieron-en-helicoptero-militar-siniestrado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-1-10-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Sheinbaum llama a la “calma” tras violencia en México por muerte de “El Mencho”",
-      "link": "https://laverdad.com/sheinbaum-llama-a-la-calma-tras-violencia-en-mexico-por-muerte-de-el-mencho/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Puerto-Vallarta-Mexico-Caos.jpg"
+      "title": "México reporta 25 militares fallecidos en ataques tras operativo contra “El Mencho”",
+      "link": "https://laverdad.com/mexico-reporta-25-militares-fallecidos-en-ataques-tras-operativo-contra-el-mencho/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mexico-Morelia-Caos.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum informa sobre la operación contra \"El Mencho\" y la ausencia de bloqueos",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-informa-sobre-la-operacion-contra-el-mencho-y-la-ausencia-de-bloqueos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/HBzFsU2WEAAKVWw-750x430.jpg"
+      "title": "La captura de \"El Mencho\" se concretó gracias al seguimiento a su pareja",
+      "link": "https://diarioversionfinal.com/mundo/la-captura-de-el-mencho-se-concreto-gracias-al-seguimiento-a-su-pareja/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1771806824707-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-23T14:47:36.194Z"
+  "lastUpdate": "2026-02-23T15:46:57.481Z"
 };
