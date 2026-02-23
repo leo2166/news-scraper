@@ -5,7 +5,7 @@
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "625,99"
+      "usdt": "621,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Caos y violencia en México tras la muerte del Mencho",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-aranceles-20260223080911623.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-valores.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "LEOCENIS GARCÍA CALIFICÓ LA LEY DE AMNISTÍA Y LOS INDULTOS COMO «PASOS ESPERANZADORES»",
-      "link": "https://noticierodigital.com/2026/02/leocenis-garcia-califico-la-ley-de-amnistia-y-los-indultos-como-pasos-esperanzadores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/leocenis-garcia-627x376.jpg"
+      "title": "CABELLO DESESTIMÓ EL APOYO DE LA FANB A LOS SECTORES DE LA OPOSICIÓN",
+      "link": "https://noticierodigital.com/2026/02/cabello-desestimo-el-apoyo-de-la-fanb-a-los-sectores-de-la-oposicion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/diosdado-cabello-venezuela-psuv-chavismo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El poderío militar del Cartel Jalisco Nueva Generación, temido grupo que fundó 'El Mencho' en México",
-      "link": "https://www.noticiascaracol.com/mundo/el-poderio-militar-del-cartel-jalisco-nueva-generacion-temido-grupo-que-fundo-el-mencho-en-mexico-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/15aa8e4/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6a%2F99%2Fc63e225046748bfe6c9eb5dab7e6%2Fnemesio-oseguera.jpg"
+      "title": "Los tentáculos de 'El Mencho' y el Cartel Jalisco Nueva Generación (CJNG) en Colombia",
+      "link": "https://www.noticiascaracol.com/mundo/los-tentaculos-de-el-mencho-y-el-cartel-jalisco-nueva-generacion-cjng-en-colombia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b94808e/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc2%2F27%2Fecee56e349d598ba7e812b0d3345%2Fel-mencho-en-colombia.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2261109076-20260223172129030-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T22:41:32.574Z"
+  "lastUpdate": "2026-02-23T23:34:54.299Z"
 }
