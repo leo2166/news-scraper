@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "601,90"
+      "usdt": "600,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal confirmó la excarcelación de 54 presos políticos tras la promulgación de la ley de amnistía en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/23/el-foro-penal-confirmo-la-excarcelacion-de-54-presos-politicos-tras-la-promulgacion-de-la-ley-de-amnistia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/CCGWFBULUZFH7M2XABCFQM3F44.JPG?auth=b23810e43cfd784d0dcfc6dc3fb79554a72a234eb83a31e74e5848fdd3ccf73f&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela anunció la reconversión del Helicoide de centro de torturas en espacio social: “Comenzó la fase de ejecución”",
+      "link": "https://www.infobae.com/venezuela/2026/02/23/venezuela-anuncio-la-reconversion-de-el-helicoide-de-centro-de-torturas-en-espacio-social-comenzo-la-fase-de-ejecucion/",
+      "image": "https://www.infobae.com/resizer/v2/ZJOFA6MLE5E2TKXUWMIT7ZUORU.JPG?auth=269f70f2fac5ee112a1c83e2108466d1a2202ee7f2016d9e74378eb706035a48&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,15 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La muerte del Mencho desata el caos en México",
+      "title": "Muerte del Mencho: autoridades revelan cómo hallaron al poderoso narco",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2263004999-20260222230746722.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Jorge Arreza: “Policías Metropolitanos no pueden ser amnistiados”",
       "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreza-policias-metropolitanos-no-pueden-ser-amnistiados",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-22-225139-9e669d.png"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "VENEZUELA REITERA ANTE LA ONU PETICIÓN DE LIBERAR A NICOLÁS MADURO Y A CILIA FLORES",
+      "link": "https://noticierodigital.com/2026/02/venezuela-reitera-ante-la-onu-peticion-de-liberar-a-nicolas-maduro-y-a-cilia-flores/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/YvanGil_EstadosUnidos-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "España propone a la UE levantar sanciones a Delcy Rodríguez tras avances políticos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/espana-propone-a-la-ue-levantar-sanciones-a-delcy-rodriguez-tras-avances-politicos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/albares-9-de-octubre-750x430.jpg"
+      "title": "Sheinbaum informa sobre la operación contra \"El Mencho\" y la ausencia de bloqueos",
+      "link": "https://diarioversionfinal.com/mundo/sheinbaum-informa-sobre-la-operacion-contra-el-mencho-y-la-ausencia-de-bloqueos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/HBzFsU2WEAAKVWw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T13:06:35.811Z"
+  "lastUpdate": "2026-02-23T14:47:36.194Z"
 };
