@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "600,59"
+      "usdt": "608,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela anunció la reconversión del Helicoide de centro de torturas en espacio social: “Comenzó la fase de ejecución”",
-      "link": "https://www.infobae.com/venezuela/2026/02/23/venezuela-anuncio-la-reconversion-de-el-helicoide-de-centro-de-torturas-en-espacio-social-comenzo-la-fase-de-ejecucion/",
-      "image": "https://www.infobae.com/resizer/v2/ZJOFA6MLE5E2TKXUWMIT7ZUORU.JPG?auth=269f70f2fac5ee112a1c83e2108466d1a2202ee7f2016d9e74378eb706035a48&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Venezuela pidió la liberación del ex dictador Nicolás Maduro ante Naciones Unidas",
+      "link": "https://www.infobae.com/venezuela/2026/02/23/el-regimen-de-venezuela-pidio-la-liberacion-del-ex-dictador-nicolas-maduro-ante-naciones-unidas/",
+      "image": "https://www.infobae.com/resizer/v2/T7LJBIBNJNFDPMDP47QGHJMFPU.JPG?auth=1a4b11c20de3ceec886771cb27a2ad74a7bf702676e80b8d93ddfd22014eed4f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Muerte del Mencho: autoridades revelan cómo hallaron al poderoso narco",
+      "title": "Trump dice que México debe intensificar la lucha contra los carteles",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-aranceles-20260223080911623.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreza: “Policías Metropolitanos no pueden ser amnistiados”",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreza-policias-metropolitanos-no-pueden-ser-amnistiados",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-22-225139-9e669d.png"
+      "title": "Cruz Roja Venezolana brinda atención médica a privados de libertad durante su proceso de excarcelación",
+      "link": "https://noticiasvenevision.com/noticias/politica/cruz-roja-venezolana-brinda-atencion-medica-a-privados-de-libertad-durante-su-proceso-de-excarcelacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-2-f7e511.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EJÉRCITO DE PERÚ CONFIRMA QUE 15 PERSONAS MURIERON EN HELICÓPTERO MILITAR SINIESTRADO ",
-      "link": "https://noticierodigital.com/2026/02/ejercito-de-peru-confirma-que-15-personas-murieron-en-helicoptero-militar-siniestrado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-1-10-627x376.jpg"
+      "title": "SNTP: TRIBUNALES EN TERRORISMO RECHAZARON SOLICITUDES DE SOBRESEIMIENTO POR AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/02/sntp-tribunales-en-terrorismo-rechazaron-solicitudes-de-sobreseimiento-por-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/sntp-marco-ruiz-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla el comandante de las Fuerzas Militares: \"'Iván Mordisco' tiene que ser el premio mayor\"",
-      "link": "https://www.noticiascaracol.com/judicial/habla-el-comandante-de-las-fuerzas-militares-ivan-mordisco-tiene-que-ser-el-premio-mayor-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d7084b5/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2c%2F68%2Fbdccec4f417fbedf08960bc46f88%2Fmovilidad-bogota-2026-02-22t192906-728.jpg"
+      "title": "¿Cuándo llegará y a quién afectaría el nuevo frente frío que podría influir en el clima de Colombia?",
+      "link": "https://www.noticiascaracol.com/colombia/frente-frio-en-colombia-cuando-llegara-y-a-quien-afectaria-el-fenomeno-que-podria-influir-en-el-clima-del-pais-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e39af25/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc2%2F30%2Fb8ec96874837a34ed35459e79071%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La captura de \"El Mencho\" se concretó gracias al seguimiento a su pareja",
-      "link": "https://diarioversionfinal.com/mundo/la-captura-de-el-mencho-se-concreto-gracias-al-seguimiento-a-su-pareja/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1771806824707-750x430.jpeg"
+      "title": "Trump pide a México redoblar esfuerzos contra cárteles tras muerte de \"El Mencho\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-pide-a-mexico-redoblar-esfuerzos-contra-carteles-tras-muerte-de-el-mencho/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/0_1762044713-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T15:46:57.481Z"
+  "lastUpdate": "2026-02-23T17:20:34.454Z"
 };
