@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "405,35",
-      "eur": "476,71"
+      "usd": "407,38",
+      "eur": "480,80"
     },
     "binance": {
-      "usdt": "615,59"
+      "usdt": "625,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Suiza congeló más de USD 880 millones en activos vinculados a Nicolás Maduro y su entorno",
-      "link": "https://www.infobae.com/america/mundo/2026/02/23/suiza-congelo-mas-de-usd-880-millones-en-activos-vinculados-a-nicolas-maduro-y-su-entorno/",
-      "image": "https://www.infobae.com/resizer/v2/PWQW2WVWMRASJBK3S3UAHL3AMM.JPG?auth=dd094b29675559e6ca30070a496b1ee0146ec2cfb1b8473feda5ec86c41d44d4&smart=true&width=350&height=197&quality=85"
+      "title": "Kaja Kallas pedirá a la UE levantar las sanciones a Delcy Rodríguez tras la aprobación de la ley de amnistía en Venezuela",
+      "link": "https://www.infobae.com/america/mundo/2026/02/23/kaja-kallas-pedira-a-la-ue-levantar-las-sanciones-a-delcy-rodriguez-tras-la-aprobacion-de-la-ley-de-amnistia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/VPTINLK5DBDMXGIDRFDPFSG7OI.JPG?auth=15030c314b4383a4d3883b0e3b8840f06325f6968a2a049efd8803637b4e29ee&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Oposición democrática reporta casi 600 presos políticos liberados y publica lista\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/oposicion-democratica-reporta-576-presos-politicos-liberados/",
+      "title": "Más de 200 los presos políticos en huelga de hambre en Venezuela, entre ellos 80 colombianos\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/mas-de-200-los-presos-politicos-en-huelga-de-hambre-en-venezuela-entre-ellos-80-colombianos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 130 MIGRANTES RETORNARON ESTE LUNES A VENEZUELA LUEGO DE SER DEPORTADOS DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/02/mas-de-130-migrantes-retornaron-este-lunes-a-venezuela-luego-de-ser-deportados-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/vuelo-venezolanos-deportados-eeuu-627x376.jpg"
+      "title": "CNP ZULIA CONFIRMÓ LIBERTAD PLENA PARA LEANDRO PALMAR Y BELISES CUBILLÁN",
+      "link": "https://noticierodigital.com/2026/02/cnp-zulia-confirmo-libertad-plena-para-leandro-palmar-y-belises-cubillan/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/leandro-palmar-belises-cubillan-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Periodista mexicano relata que fue atacado durante ola de violencia tras muerte de alias El Mencho",
-      "link": "https://www.noticiascaracol.com/mundo/muerte-de-alias-el-mencho-periodista-mexicano-relata-que-fue-atacado-a-bala-durante-ola-de-violencia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/be19f8a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F13%2Ff6%2F4e6261f54b918ca46f801c04d3ae%2Fdiseno.jpg"
+      "title": "El poderío militar del Cartel Jalisco Nueva Generación, temido grupo que fundó 'El Mencho' en México",
+      "link": "https://www.noticiascaracol.com/mundo/el-poderio-militar-del-cartel-jalisco-nueva-generacion-temido-grupo-que-fundo-el-mencho-en-mexico-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/15aa8e4/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6a%2F99%2Fc63e225046748bfe6c9eb5dab7e6%2Fnemesio-oseguera.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nueva York en emergencia por histórica tormenta de nieve y fuertes vientos",
-      "link": "https://diarioversionfinal.com/mundo/nueva-york-en-emergencia-por-historica-tormenta-de-nieve-y-fuertes-vientos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/C4CI2WCWERG67H6YK2UNTBJRVI.jpg"
+      "title": "Arrestan a exembajador británico por vinculaciones con el caso Epstein",
+      "link": "https://diarioversionfinal.com/mundo/arrestan-a-exembajador-britanico-por-vinculaciones-con-el-caso-epstein/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2261109076-20260223172129030-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T20:51:26.909Z"
+  "lastUpdate": "2026-02-23T22:15:20.784Z"
 };
