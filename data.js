@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Más de 200 presos políticos en Venezuela iniciaron una huelga de hambre por quedar excluidos de la ley de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/22/mas-de-200-presos-politicos-en-venezuela-iniciaron-una-huelga-de-hambre-por-quedar-excluidos-de-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/BNS7VS72IBDTFCN7MDXB2ZDXEI.jpg?auth=faa2ee306f5003559424ea4250056b45f9c13cc5f5489d91595b5fc25e4636d2&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal confirmó la excarcelación de 54 presos políticos tras la promulgación de la ley de amnistía en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/23/el-foro-penal-confirmo-la-excarcelacion-de-54-presos-politicos-tras-la-promulgacion-de-la-ley-de-amnistia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/CCGWFBULUZFH7M2XABCFQM3F44.JPG?auth=b23810e43cfd784d0dcfc6dc3fb79554a72a234eb83a31e74e5848fdd3ccf73f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-8.57.15-PM-640x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-23T04:58:52.666Z"
+  "lastUpdate": "2026-02-23T06:09:59.383Z"
 };
