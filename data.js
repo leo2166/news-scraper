@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "608,59"
+      "usdt": "608,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Carlos Malamud: “Venezuela entró en una fase en la que la palabra transición carece de contenido verificable” \nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/02/carlos-malamud-entrevista-transicion-venezuela/",
+      "title": "Oposición democrática reporta casi 600 presos políticos liberados y publica lista\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/oposicion-democratica-reporta-576-presos-politicos-liberados/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que México debe intensificar la lucha contra los carteles",
+      "title": "Caos y violencia en México tras la muerte del Mencho",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-aranceles-20260223080911623.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-2-f7e511.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "SNTP: TRIBUNALES EN TERRORISMO RECHAZARON SOLICITUDES DE SOBRESEIMIENTO POR AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/02/sntp-tribunales-en-terrorismo-rechazaron-solicitudes-de-sobreseimiento-por-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/sntp-marco-ruiz-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "¿Cuándo llegará y a quién afectaría el nuevo frente frío que podría influir en el clima de Colombia?",
       "link": "https://www.noticiascaracol.com/colombia/frente-frio-en-colombia-cuando-llegara-y-a-quien-afectaria-el-fenomeno-que-podria-influir-en-el-clima-del-pais-rg10",
@@ -50,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "México reporta 25 militares fallecidos en ataques tras operativo contra “El Mencho”",
-      "link": "https://laverdad.com/mexico-reporta-25-militares-fallecidos-en-ataques-tras-operativo-contra-el-mencho/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mexico-Morelia-Caos.jpg"
+      "title": "Fallecen 15 personas en accidente de helicóptero militar en Perú, entre ellas 7 menores",
+      "link": "https://laverdad.com/fallecen-15-personas-en-accidente-de-helicoptero-militar-en-peru-entre-ellas-7-menores/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Accidente-helicoptero-Peru.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/0_1762044713-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T17:20:34.454Z"
+  "lastUpdate": "2026-02-23T18:04:05.612Z"
 };
