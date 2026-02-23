@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Alias el Mencho murió mientras era trasladado a la Ciudad de México",
+      "title": "La muerte de alias el Mencho desata el caos mientras turistas se resguardan en hoteles",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estados-emergencia.jpeg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2263004999-20260222230746722.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-8.57.15-PM-640x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-23T08:52:24.496Z"
+  "lastUpdate": "2026-02-23T09:56:29.889Z"
 };
