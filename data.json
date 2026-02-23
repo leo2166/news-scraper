@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez removió del cargo a la esposa de Alex Saab, el testaferro de Maduro acusado de lavado de activos en Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/02/23/delcy-rodriguez-removio-del-cargo-a-la-esposa-de-alex-saab-el-testaferro-de-maduro-acusado-de-lavado-de-activos-en-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/H54YPRQURXVVVBSCPD6OGSUJBY.jpg?auth=aa35021ec5ad51c0ee18875bcc16001f17379417fb0971d398f9dc85ba1464fe&smart=true&width=350&height=197&quality=85"
+      "title": "Suiza congeló más de USD 880 millones en activos vinculados a Nicolás Maduro y su entorno",
+      "link": "https://www.infobae.com/america/mundo/2026/02/23/suiza-congelo-mas-de-usd-880-millones-en-activos-vinculados-a-nicolas-maduro-y-su-entorno/",
+      "image": "https://www.infobae.com/resizer/v2/PWQW2WVWMRASJBK3S3UAHL3AMM.JPG?auth=dd094b29675559e6ca30070a496b1ee0146ec2cfb1b8473feda5ec86c41d44d4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-e5e359.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "MÁS DE 130 MIGRANTES RETORNARON ESTE LUNES A VENEZUELA LUEGO DE SER DEPORTADOS DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/02/mas-de-130-migrantes-retornaron-este-lunes-a-venezuela-luego-de-ser-deportados-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/vuelo-venezolanos-deportados-eeuu-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Periodista mexicano relata que fue atacado durante ola de violencia tras muerte de alias El Mencho",
       "link": "https://www.noticiascaracol.com/mundo/muerte-de-alias-el-mencho-periodista-mexicano-relata-que-fue-atacado-a-bala-durante-ola-de-violencia-rg10",
@@ -44,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Trump instaura un día para honrar a familias de víctimas de inmigrantes indocumentados",
-      "link": "https://laverdad.com/trump-instaura-un-dia-para-honrar-a-familias-de-victimas-de-inmigrantes-indocumentados/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Donald-Trump-Dia-Nacional-de-las-Familias-Angel.jpg"
+      "title": "EE. UU. mata a 3 hombres en un nuevo ataque a una “narcolancha” en el Caribe",
+      "link": "https://laverdad.com/ee-uu-mata-a-3-hombres-en-un-nuevo-ataque-a-una-narcolancha-en-el-caribe/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ataque-a-narcolancha-en-el-Caribe.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. ataca narcolancha en el Caribe y derriba a tres hombres",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-narcolancha-en-el-caribe-y-derriba-a-tres-hombres/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Screenshot_5-2-750x375-1.jpg"
+      "title": "Nueva York en emergencia por histórica tormenta de nieve y fuertes vientos",
+      "link": "https://diarioversionfinal.com/mundo/nueva-york-en-emergencia-por-historica-tormenta-de-nieve-y-fuertes-vientos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/C4CI2WCWERG67H6YK2UNTBJRVI.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T19:57:36.611Z"
+  "lastUpdate": "2026-02-23T20:51:26.909Z"
 }
