@@ -5,7 +5,7 @@
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "608,00"
+      "usdt": "615,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen de Venezuela pidió la liberación del ex dictador Nicolás Maduro ante Naciones Unidas",
-      "link": "https://www.infobae.com/venezuela/2026/02/23/el-regimen-de-venezuela-pidio-la-liberacion-del-ex-dictador-nicolas-maduro-ante-naciones-unidas/",
-      "image": "https://www.infobae.com/resizer/v2/T7LJBIBNJNFDPMDP47QGHJMFPU.JPG?auth=1a4b11c20de3ceec886771cb27a2ad74a7bf702676e80b8d93ddfd22014eed4f&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez removió del cargo a la esposa de Alex Saab, el testaferro de Maduro acusado de lavado de activos en Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/02/23/delcy-rodriguez-removio-del-cargo-a-la-esposa-de-alex-saab-el-testaferro-de-maduro-acusado-de-lavado-de-activos-en-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/H54YPRQURXVVVBSCPD6OGSUJBY.jpg?auth=aa35021ec5ad51c0ee18875bcc16001f17379417fb0971d398f9dc85ba1464fe&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,28 +32,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Cruz Roja Venezolana brinda atención médica a privados de libertad durante su proceso de excarcelación",
-      "link": "https://noticiasvenevision.com/noticias/politica/cruz-roja-venezolana-brinda-atencion-medica-a-privados-de-libertad-durante-su-proceso-de-excarcelacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-2-f7e511.jpg"
+      "title": "Delcy Rodríguez designa nuevos viceministros en Cancillería",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-designa-nuevos-viceministros-en-cancilleria",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-e5e359.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Cuándo llegará y a quién afectaría el nuevo frente frío que podría influir en el clima de Colombia?",
-      "link": "https://www.noticiascaracol.com/colombia/frente-frio-en-colombia-cuando-llegara-y-a-quien-afectaria-el-fenomeno-que-podria-influir-en-el-clima-del-pais-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e39af25/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc2%2F30%2Fb8ec96874837a34ed35459e79071%2Fdiseno-1.jpg"
+      "title": "Periodista mexicano relata que fue atacado durante ola de violencia tras muerte de alias El Mencho",
+      "link": "https://www.noticiascaracol.com/mundo/muerte-de-alias-el-mencho-periodista-mexicano-relata-que-fue-atacado-a-bala-durante-ola-de-violencia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/be19f8a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F13%2Ff6%2F4e6261f54b918ca46f801c04d3ae%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Fallecen 15 personas en accidente de helicóptero militar en Perú, entre ellas 7 menores",
-      "link": "https://laverdad.com/fallecen-15-personas-en-accidente-de-helicoptero-militar-en-peru-entre-ellas-7-menores/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Accidente-helicoptero-Peru.jpg"
+      "title": "Trump instaura un día para honrar a familias de víctimas de inmigrantes indocumentados",
+      "link": "https://laverdad.com/trump-instaura-un-dia-para-honrar-a-familias-de-victimas-de-inmigrantes-indocumentados/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Donald-Trump-Dia-Nacional-de-las-Familias-Angel.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump pide a México redoblar esfuerzos contra cárteles tras muerte de \"El Mencho\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-pide-a-mexico-redoblar-esfuerzos-contra-carteles-tras-muerte-de-el-mencho/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/0_1762044713-750x430.jpg"
+      "title": "EE. UU. ataca narcolancha en el Caribe y derriba a tres hombres",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-narcolancha-en-el-caribe-y-derriba-a-tres-hombres/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Screenshot_5-2-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T18:04:05.612Z"
+  "lastUpdate": "2026-02-23T19:57:36.611Z"
 }
