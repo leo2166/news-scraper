@@ -5,7 +5,7 @@
       "eur": "476,71"
     },
     "binance": {
-      "usdt": "568,53"
+      "usdt": "593,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La muerte de alias el Mencho desata el caos mientras turistas se resguardan en hoteles",
+      "title": "La muerte de El Mencho desata el caos en México",
       "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2263004999-20260222230746722.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Cae 'El Mencho' en México: los detalles del operativo y la ola de violencia desatada tras su muerte",
-      "link": "https://www.noticiascaracol.com/mundo/cae-el-mencho-en-mexico-los-detalles-del-operativo-y-la-ola-de-violencia-desatada-tras-su-muerte-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9adda2f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbb%2F48%2Feaca4fea43ab8f275d2e833d0490%2Fportadas-caracol-web-8.jpg"
+      "title": "Habla el comandante de las Fuerzas Militares: \"'Iván Mordisco' tiene que ser el premio mayor\"",
+      "link": "https://www.noticiascaracol.com/judicial/habla-el-comandante-de-las-fuerzas-militares-ivan-mordisco-tiene-que-ser-el-premio-mayor-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d7084b5/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2c%2F68%2Fbdccec4f417fbedf08960bc46f88%2Fmovilidad-bogota-2026-02-22t192906-728.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-22-at-8.57.15-PM-640x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-23T10:53:32.816Z"
+  "lastUpdate": "2026-02-23T11:40:23.002Z"
 }
