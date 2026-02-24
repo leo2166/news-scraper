@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "621,10"
+      "usdt": "627,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Kaja Kallas pedirá a la UE levantar las sanciones a Delcy Rodríguez tras la aprobación de la ley de amnistía en Venezuela",
-      "link": "https://www.infobae.com/america/mundo/2026/02/23/kaja-kallas-pedira-a-la-ue-levantar-las-sanciones-a-delcy-rodriguez-tras-la-aprobacion-de-la-ley-de-amnistia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/VPTINLK5DBDMXGIDRFDPFSG7OI.JPG?auth=15030c314b4383a4d3883b0e3b8840f06325f6968a2a049efd8803637b4e29ee&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Venezuela liberó a otros 30 presos políticos tras la aprobación de la ley de amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/02/24/el-regimen-de-venezuela-libero-a-otros-30-presos-politicos-tras-la-aprobacion-de-la-ley-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/B6QRKUTHDNDONK6W53WQMIQWRE.png?auth=43192211c343271f256af7d783bae1d6ad6379512c58a382a351e58b372054ae&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Más de 200 los presos políticos en huelga de hambre en Venezuela, entre ellos 80 colombianos\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/mas-de-200-los-presos-politicos-en-huelga-de-hambre-en-venezuela-entre-ellos-80-colombianos/",
+      "title": "Alonso Medina Roa sobre la ley de amnistía: \"No es suficiente para la reconstrucción social, pero sí un buen inicio\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/alonso-medina-roa-sobre-la-ley-de-amnistia-no-es-suficiente-para-la-reconstruccion-social-pero-si-un-buen-inicio/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Caos y violencia en México tras la muerte del Mencho",
-      "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-nemesio-mencho-oseguera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-valores.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "¿Presión de EE.UU. o preparativos del Mundial? Los motivos detrás del operativo contra el Mencho",
+      "link": "https://cnnespanol.cnn.com/2026/02/23/mexico/operativo-mencho-gobierno-sheinbaum-ahora-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-23-at-08-04-18.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez designa nuevos viceministros en Cancillería",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-designa-nuevos-viceministros-en-cancilleria",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-e5e359.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "CABELLO DESESTIMÓ EL APOYO DE LA FANB A LOS SECTORES DE LA OPOSICIÓN",
-      "link": "https://noticierodigital.com/2026/02/cabello-desestimo-el-apoyo-de-la-fanb-a-los-sectores-de-la-oposicion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/diosdado-cabello-venezuela-psuv-chavismo-627x376.jpg"
+      "title": "Jorge Arreaza: Continúa recepción de solicitudes bajo la Ley de Amnistía",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-continua-recepcion-de-solicitudes-bajo-la-ley-de-amnistia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-arreaza-750x400-86afa6.png"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2261109076-20260223172129030-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-23T23:34:54.299Z"
+  "lastUpdate": "2026-02-24T02:08:58.317Z"
 };
