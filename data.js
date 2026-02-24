@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "633,99"
+      "usdt": "642,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Violencia en México: cómo los carteles extendieron su control del territorio",
-      "link": "https://cnnespanol.cnn.com/2026/02/24/mexico/dramatica-expansion-carteles-cjng-violencia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262719779.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Sheinbaum: no hay \"ningún riesgo\" para la realización del Mundial en Jalisco",
+      "link": "https://cnnespanol.cnn.com/mexico/live-news/ultima-hora-muerte-mencho-noticias-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262848268-20260224170607917.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rusia admite que la guerra en Ucrania continuará tras cuatro años de conflicto",
-      "link": "https://diarioversionfinal.com/mundo/rusia-admite-que-la-guerra-en-ucrania-continuara-tras-cuatro-anos-de-conflicto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/123380578_gettyimages-1372742387-750x430.jpg"
+      "title": "Senado de EE.UU. se opone a prolongar la tasa del 15 % impuesta por Trump",
+      "link": "https://diarioversionfinal.com/mundo/senado-de-ee-uu-se-opone-a-prolongar-la-tasa-del-15-impuesta-por-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/02/senado-EE.UU_..jpg"
     }
   ],
-  "lastUpdate": "2026-02-24T15:59:40.051Z"
+  "lastUpdate": "2026-02-24T17:14:37.015Z"
 };
