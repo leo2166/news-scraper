@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "407,38",
-      "eur": "480,80"
+      "usd": "411,09",
+      "eur": "483,92"
     },
     "binance": {
-      "usdt": "641,50"
+      "usdt": "649,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DENUNCIARON VIOLACIONES AL DEBIDO PROCESO EN EL CASO DE TRABAJADORES DE MIBITURVEN",
-      "link": "https://noticierodigital.com/2026/02/denunciaron-violaciones-al-debido-proceso-en-el-caso-de-trabajadores-de-mibiturven/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/foro-penal-referencial-627x376.jpg"
+      "title": "CASAS COMERCIALES FLETARON SUPERPETROLEROS PARA EXPORTAR CRUDO VENEZOLANO: REUTERS",
+      "link": "https://noticierodigital.com/2026/02/casas-comerciales-fletaron-superpetroleros-para-exportar-crudo-venezolano-reuters/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/faja-petrolifera-del-orinoco-anzoategui-pdvsa-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Imágenes del choque múltiple en la autopista Norte de Bogotá: tres personas resultaron heridas",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/imagenes-del-choque-multiple-en-la-autopista-norte-de-bogota-tres-personas-resultaron-heridas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c51c41f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F89%2Fdc%2Fe1109cb54695b7649eecf976bf5d%2Fplantilla-fotos-53.jpg"
+      "title": "¿México podría perder sedes del Mundial 2026 tras ola de violencia por muerte de alias El Mencho?",
+      "link": "https://www.noticiascaracol.com/mundo/mexico-podria-perder-sedes-del-mundial-2026-tras-ola-de-violencia-por-muerte-de-alias-el-mencho-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cfbe63e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fad%2F85%2F18e2e2d54ad5b41527a17a90dd71%2Fguadalajara.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Más de 40 millones afectados por histórica tormenta de nieve en el noreste de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/mas-de-40-millones-afectados-por-historica-tormenta-de-nieve-en-el-noreste-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/6e241ca0dea0483edb84b0e41e209c62-750x430.webp"
+      "title": "Sheinbaum asegura que no hay \"ningún riesgo\" para celebrar el Mundial en México",
+      "link": "https://diarioversionfinal.com/mundo/sheinbaum-asegura-que-no-hay-ningun-riesgo-para-celebrar-el-mundial-en-mexico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/image-284-700x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-24T21:36:05.627Z"
+  "lastUpdate": "2026-02-24T22:54:29.455Z"
 }
