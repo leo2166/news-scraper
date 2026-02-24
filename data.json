@@ -5,7 +5,7 @@
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "631,00"
+      "usdt": "629,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen venezolano abrió sus puertas al acercamiento con la Fiscalía de EEUU tras la reanudación de relaciones bilaterales",
-      "link": "https://www.infobae.com/venezuela/2026/02/24/el-regimen-venezolano-abrio-sus-puertas-al-acercamiento-con-la-fiscalia-de-eeuu-tras-la-reanudacion-de-relaciones-bilaterales/",
-      "image": "https://www.infobae.com/resizer/v2/LYZQSQ5GF5F4BMGKPYOEH7F36Y.JPG?auth=8bb7586ebca65e88b44ca3dec547ee89346da78dcfc185c919af6e5d851d2af2&smart=true&width=350&height=197&quality=85"
+      "title": "Obstáculos judiciales retrasan cirugía urgente de periodista que fue excarcelado en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/24/obstaculos-judiciales-retrasan-cirugia-urgente-de-periodista-que-fue-excarcelado-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/O6QW5DGSPBEERGJNKC6CS6RL2Y.jpg?auth=65589e46f3d5fb484a63ebf35803003f3fb6a3a2ca2da9e4cd6e79545d1ed1e6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Ofensiva contra los carteles en México conlleva riesgos políticos para Trump",
-      "link": "https://cnnespanol.cnn.com/2026/02/24/mundo/analisis-ofensiva-carteles-mexico-riesgos-politicos-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26053775825046-20260224054302775.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Violencia en México: cómo los carteles extendieron su control del territorio",
+      "link": "https://cnnespanol.cnn.com/2026/02/24/mexico/dramatica-expansion-carteles-cjng-violencia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-23t163446z-1137821799-rc2srjag11x9-rtrmadp-3-usa-trump-20260224013315929.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "POLÍTICA DE DONALD TRUMP PRIORIZA EL COMERCIO PARA LA ESTABILIDAD DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/02/politica-de-donald-trump-prioriza-el-comercio-para-la-estabilidad-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/chris-wright-eeuu-2-627x376.jpg"
+      "title": "FUTBOLISTA ACHRAF HAKIMI SERÁ JUZGADO POR VIOLACIÓN: «ESPERO QUE LA VERDAD SALGA A LA LUZ»",
+      "link": "https://noticierodigital.com/2026/02/futbolista-achraf-hakimi-sera-juzgado-por-violacion-espero-que-la-verdad-salga-a-la-luz/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/IMG-20260224-WA0005-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los videos clave de Diana Ospina antes de desaparecer en Bogotá: dos sujetos se subieron a su taxi",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/los-videos-clave-de-diana-ospina-antes-de-desaparecer-en-bogota-dos-sujetos-se-subieron-a-su-taxi-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ef5521c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa3%2F3f%2Ff68146a940eca5493714d4a5d696%2Fmovilidad-bogota-2026-02-24t061622-625.jpg"
+      "title": "Conductor de taxi al que se subió Diana Ospina se presentó a la Fiscalía: antecedentes del carro",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/conductor-de-taxi-al-que-se-subio-diana-ospina-se-presento-a-la-fiscalia-antecedentes-del-carro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/775fcf0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F48%2F11%2F08a5ee7848388852ab599eec40fa%2Fmovilidad-bogota-2026-02-24t072049-691.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fuga de 23 reos agrava escalada de violencia en México tras muerte de “El Mencho”",
-      "link": "https://diarioversionfinal.com/mundo/fuga-de-23-reos-agrava-escalada-de-violencia-en-mexico-tras-muerte-de-el-mencho/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/44175502863-1080pnbcstations-750x430.jpg"
+      "title": "China solicita a EE. UU. cancelar aranceles unilaterales y propone más diálogo",
+      "link": "https://diarioversionfinal.com/mundo/china-solicita-a-ee-uu-cancelar-aranceles-unilaterales-y-propone-mas-dialogo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/trumpxi-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-24T11:41:18.918Z"
+  "lastUpdate": "2026-02-24T13:07:42.911Z"
 }
