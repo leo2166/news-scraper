@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "629,89"
+      "usdt": "632,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Violencia en México: cómo los carteles extendieron su control del territorio",
       "link": "https://cnnespanol.cnn.com/2026/02/24/mexico/dramatica-expansion-carteles-cjng-violencia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-23t163446z-1137821799-rc2srjag11x9-rtrmadp-3-usa-trump-20260224013315929.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262719779.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUTBOLISTA ACHRAF HAKIMI SERÁ JUZGADO POR VIOLACIÓN: «ESPERO QUE LA VERDAD SALGA A LA LUZ»",
-      "link": "https://noticierodigital.com/2026/02/futbolista-achraf-hakimi-sera-juzgado-por-violacion-espero-que-la-verdad-salga-a-la-luz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/IMG-20260224-WA0005-627x376.jpg"
+      "title": "HIDROCAPITAL SE COMPROMETE A ENVIAR AGUA TRAS 45 DÍAS SIN SERVICIO EN BARRIO EL NAZARENO",
+      "link": "https://noticierodigital.com/2026/02/hidrocapital-se-compromete-a-enviar-agua-tras-45-dias-sin-servicio-en-barrio-el-nazareno/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/hidrocapital-caracas-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. mata a 3 hombres en un nuevo ataque a una “narcolancha” en el Caribe",
-      "link": "https://laverdad.com/ee-uu-mata-a-3-hombres-en-un-nuevo-ataque-a-una-narcolancha-en-el-caribe/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Ataque-a-narcolancha-en-el-Caribe.jpg"
+      "title": "EE. UU. aborda un tercer petrolero en el Índico por violar su bloqueo de crudo en el Caribe",
+      "link": "https://laverdad.com/ee-uu-aborda-un-tercer-petrolero-en-el-indico-por-violar-su-bloqueo-de-crudo-en-el-caribe/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Buque.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "China solicita a EE. UU. cancelar aranceles unilaterales y propone más diálogo",
-      "link": "https://diarioversionfinal.com/mundo/china-solicita-a-ee-uu-cancelar-aranceles-unilaterales-y-propone-mas-dialogo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/trumpxi-750x430.jpg"
+      "title": "Asalto a cárcel en Puerto Vallarta deja 23 reos fugados tras muerte de “El Mencho”",
+      "link": "https://diarioversionfinal.com/mundo/asalto-a-carcel-en-puerto-vallarta-deja-23-reos-fugados-tras-muerte-de-el-mencho/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fuga-masiva-en-jalisco-23-reos-escapan-tras-ataque-armado-a-penal-en-puerto-vallarta.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-24T13:07:42.911Z"
+  "lastUpdate": "2026-02-24T14:50:39.431Z"
 };
