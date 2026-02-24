@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "627,10"
+      "usdt": "599,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Presión de EE.UU. o preparativos del Mundial? Los motivos detrás del operativo contra el Mencho",
+      "title": "¿Por qué Sheinbaum aprobó el operativo contra el Mencho a 3 meses del Mundial?",
       "link": "https://cnnespanol.cnn.com/2026/02/23/mexico/operativo-mencho-gobierno-sheinbaum-ahora-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-23-at-08-04-18.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1925909697.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreaza: Continúa recepción de solicitudes bajo la Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-continua-recepcion-de-solicitudes-bajo-la-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-arreaza-750x400-86afa6.png"
+      "title": "Cadetes recuperan la libertad y piden continuar gestiones por quienes siguen detenidos",
+      "link": "https://noticiasvenevision.com/noticias/politica/cadetes-recuperan-la-libertad-y-piden-continuar-gestiones-por-quienes-siguen-detenidos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-e88777.png"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "POLÍTICA DE DONALD TRUMP PRIORIZA EL COMERCIO PARA LA ESTABILIDAD DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/02/politica-de-donald-trump-prioriza-el-comercio-para-la-estabilidad-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/chris-wright-eeuu-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los tentáculos de 'El Mencho' y el Cartel Jalisco Nueva Generación (CJNG) en Colombia",
-      "link": "https://www.noticiascaracol.com/mundo/los-tentaculos-de-el-mencho-y-el-cartel-jalisco-nueva-generacion-cjng-en-colombia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b94808e/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc2%2F27%2Fecee56e349d598ba7e812b0d3345%2Fel-mencho-en-colombia.jpg"
+      "title": "Primeras imágenes de Diana Ospina: aparece a salvo tras ser hallada con vida en Choachí",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/primeras-imagenes-de-diana-ospina-aparece-a-salvo-tras-ser-hallada-con-vida-en-choachi-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9e2b5c0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2Fc8%2Fb9b8076e4e7a967d28d4e39b7e03%2Fplantilla-fotos-51.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Arrestan a exembajador británico por vinculaciones con el caso Epstein",
-      "link": "https://diarioversionfinal.com/mundo/arrestan-a-exembajador-britanico-por-vinculaciones-con-el-caso-epstein/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/gettyimages-2261109076-20260223172129030-750x430.jpg"
+      "title": "Fuga de 23 reos agrava escalada de violencia en México tras muerte de “El Mencho”",
+      "link": "https://diarioversionfinal.com/mundo/fuga-de-23-reos-agrava-escalada-de-violencia-en-mexico-tras-muerte-de-el-mencho/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/44175502863-1080pnbcstations-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-24T02:08:58.317Z"
+  "lastUpdate": "2026-02-24T04:52:35.851Z"
 };
