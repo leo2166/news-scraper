@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "628,00"
+      "usdt": "631,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Primeras imágenes de Diana Ospina: aparece a salvo tras ser hallada con vida en Choachí",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/primeras-imagenes-de-diana-ospina-aparece-a-salvo-tras-ser-hallada-con-vida-en-choachi-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9e2b5c0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2Fc8%2Fb9b8076e4e7a967d28d4e39b7e03%2Fplantilla-fotos-51.jpg"
+      "title": "Los videos clave de Diana Ospina antes de desaparecer en Bogotá: dos sujetos se subieron a su taxi",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/los-videos-clave-de-diana-ospina-antes-de-desaparecer-en-bogota-dos-sujetos-se-subieron-a-su-taxi-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ef5521c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa3%2F3f%2Ff68146a940eca5493714d4a5d696%2Fmovilidad-bogota-2026-02-24t061622-625.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/44175502863-1080pnbcstations-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-24T10:51:17.659Z"
+  "lastUpdate": "2026-02-24T11:41:18.918Z"
 };
