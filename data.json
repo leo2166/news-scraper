@@ -5,7 +5,7 @@
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "642,59"
+      "usdt": "641,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Obstáculos judiciales retrasan cirugía urgente de periodista que fue excarcelado en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/24/obstaculos-judiciales-retrasan-cirugia-urgente-de-periodista-que-fue-excarcelado-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/O6QW5DGSPBEERGJNKC6CS6RL2Y.jpg?auth=65589e46f3d5fb484a63ebf35803003f3fb6a3a2ca2da9e4cd6e79545d1ed1e6&smart=true&width=350&height=197&quality=85"
+      "title": "El ex jefe de inteligencia chavista Hugo “El Pollo” Carvajal recibirá la sentencia por narcotráfico el 16 de abril",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/24/el-ex-jefe-de-inteligencia-chavista-hugo-el-pollo-carvajal-recibira-la-sentencia-por-narcotrafico-el-16-de-abril/",
+      "image": "https://www.infobae.com/resizer/v2/4NG46WGCO5H2LIPHGAKHTEX244.jpg?auth=6119cf1e723fba60306be0d65f0437c78142bcf19614d8cc0d15cc16ce83493d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "SHELL Y BP AVANZAN EN REACTIVAR PROYECTOS DE GAS ENTRE TRINIDAD Y TOBAGO Y VENEZUELA",
-      "link": "https://noticierodigital.com/2026/02/shell-y-bp-avanzan-en-reactivar-proyectos-de-gas-entre-trinidad-y-tobago-y-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/petroleo-venezuela-referencial-627x376.jpg"
+      "title": "DENUNCIARON VIOLACIONES AL DEBIDO PROCESO EN EL CASO DE TRABAJADORES DE MIBITURVEN",
+      "link": "https://noticierodigital.com/2026/02/denunciaron-violaciones-al-debido-proceso-en-el-caso-de-trabajadores-de-mibiturven/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/foro-penal-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/6e241ca0dea0483edb84b0e41e209c62-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-24T20:58:17.688Z"
+  "lastUpdate": "2026-02-24T21:36:05.627Z"
 }
