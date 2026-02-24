@@ -5,7 +5,7 @@
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "649,50"
+      "usdt": "649,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Mapa: cuáles son los principales grupos criminales de México y dónde operan",
-      "link": "https://cnnespanol.cnn.com/2026/02/24/mexico/mexico-carteles-principales-donde-operan-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260224-mapa-carteles-mexico.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump se pone el traje de superpresidente para su discurso del Estado de la Unión",
+      "link": "https://cnnespanol.cnn.com/2026/02/24/eeuu/analisis-trump-sotu-aranceles-fallo-poder-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262700370.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tarek William Saab confirma más de 3 mil beneficiados por ley de amnistía y ratifica detención de El Aissami y Samark López en el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/tarek-william-saab-confirma-mas-de-3-mil-beneficiados-por-ley-de-amnistia-y-ratifica-detencion-de-el-aissami-y-samark-lopez-en-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tarek-william-saab-1-de-abril-2024-473993.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "CASAS COMERCIALES FLETARON SUPERPETROLEROS PARA EXPORTAR CRUDO VENEZOLANO: REUTERS",
-      "link": "https://noticierodigital.com/2026/02/casas-comerciales-fletaron-superpetroleros-para-exportar-crudo-venezolano-reuters/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/faja-petrolifera-del-orinoco-anzoategui-pdvsa-627x376.jpg"
+      "title": "Jorge Arreaza: Ley de Amnistía suma más de tres mil libertades plenas",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-ley-de-amnistia-suma-mas-de-tres-mil-libertades-plenas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-2b5e81.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum asegura que no hay \"ningún riesgo\" para celebrar el Mundial en México",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-asegura-que-no-hay-ningun-riesgo-para-celebrar-el-mundial-en-mexico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/image-284-700x430.webp"
+      "title": "Irán amenaza a estudiantes por ataques a los símbolos del régimen islámico durante protestas",
+      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-a-estudiantes-por-ataques-a-los-simbolos-del-regimen-islamico-durante-protestas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/16887771-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-24T22:54:29.455Z"
+  "lastUpdate": "2026-02-24T23:32:56.609Z"
 }
