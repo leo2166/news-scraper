@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "655,59"
+      "usdt": "642,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Alertan sobre los riesgos de una eventual designación de Miguel Rodríguez Torres en un alto cargo en Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/riesgos-de-eventual-designacion-de-miguel-rodriguez-torres/",
+      "title": "Amnistía en Venezuela: ni tan rápida como prometieron, ni tan amplia como esperaban\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/amnistia-en-venezuela-ni-tan-rapida-como-prometieron-ni-tan-amplia-como-esperaban/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EL POLLO» CARVAJAL RECIBIRÁ SENTENCIA EL 16 DE ABRIL EN NUEVA YORK",
-      "link": "https://noticierodigital.com/2026/02/el-pollo-carvajal-recibira-sentencia-el-16-de-abril-en-nueva-york/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/niegansegundapeticionasilo-hugocarvajal-24mar2022-627x376.jpg"
+      "title": "SHELL Y BP AVANZAN EN REACTIVAR PROYECTOS DE GAS ENTRE TRINIDAD Y TOBAGO Y VENEZUELA",
+      "link": "https://noticierodigital.com/2026/02/shell-y-bp-avanzan-en-reactivar-proyectos-de-gas-entre-trinidad-y-tobago-y-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/petroleo-venezuela-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Hirieron con arma de fuego a alcalde de Ospina, Nariño, cerca a Corferias, en Bogotá: esto se sabe",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/hirieron-con-arma-de-fuego-a-alcalde-de-ospina-narino-cerca-a-corferias-en-bogota-esto-se-sabe-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5440245/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3e%2F3f%2F62e62a9949b791e12d08a2d2b892%2Fmovilidad-bogota-2026-02-24t123613-863.jpg"
+      "title": "Imágenes del choque múltiple en la autopista Norte de Bogotá: tres personas resultaron heridas",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/imagenes-del-choque-multiple-en-la-autopista-norte-de-bogota-tres-personas-resultaron-heridas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c51c41f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F89%2Fdc%2Fe1109cb54695b7649eecf976bf5d%2Fplantilla-fotos-53.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Estudio confirma que dormir con el celular cerca afecta el sueño",
-      "link": "https://laverdad.com/estudio-confirma-que-dormir-con-el-celular-cerca-afecta-el-sueno/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Dormir-con-el-celular-cerca.jpg"
+      "title": "Trump presumirá de sus logros económicos en discurso del estado de la Unión",
+      "link": "https://laverdad.com/trump-presumira-de-sus-logros-economicos-en-discurso-del-estado-de-la-union/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Trump-jpg.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sentencia de Hugo \"El Pollo\" Carvajal se aplaza para el 16 de abril",
-      "link": "https://diarioversionfinal.com/mundo/sentencia-de-hugo-el-pollo-carvajal-se-aplaza-para-el-16-de-abril/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/cnne-1087535-hugo-pollo-carvajal-quedo-al-borde-de-la-extradicion-a-estados-unidos-750x430.jpeg"
+      "title": "Más de 40 millones afectados por histórica tormenta de nieve en el noreste de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/mas-de-40-millones-afectados-por-historica-tormenta-de-nieve-en-el-noreste-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/6e241ca0dea0483edb84b0e41e209c62-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-24T19:03:07.226Z"
+  "lastUpdate": "2026-02-24T20:58:17.688Z"
 };
