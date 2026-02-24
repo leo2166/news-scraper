@@ -5,7 +5,7 @@
       "eur": "480,80"
     },
     "binance": {
-      "usdt": "632,50"
+      "usdt": "633,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Marco Rubio participará en la cumbre de Caricom para pedir un frente unido ante Venezuela y mantener la presión sobre Cuba\nMUNDO",
-      "link": "https://www.elnacional.com/2026/02/marco-rubio-participara-en-la-cumbre-de-caricom-para-pedir-un-frente-unido-ante-venezuela-y-mantener-la-presion-sobre-cuba/",
+      "title": "Los casos de Juan Antonio Hurtado y Hugo Marino, desaparecidos en Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/los-casos-de-juan-antonio-hurtado-y-hugo-marino-desaparecidos-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Cadetes recuperan la libertad y piden continuar gestiones por quienes siguen detenidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/cadetes-recuperan-la-libertad-y-piden-continuar-gestiones-por-quienes-siguen-detenidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-e88777.png"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "HIDROCAPITAL SE COMPROMETE A ENVIAR AGUA TRAS 45 DÍAS SIN SERVICIO EN BARRIO EL NAZARENO",
-      "link": "https://noticierodigital.com/2026/02/hidrocapital-se-compromete-a-enviar-agua-tras-45-dias-sin-servicio-en-barrio-el-nazareno/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/hidrocapital-caracas-referencial-627x376.jpg"
+      "title": "Foro Penal confirmó 30 excarcelaciones en Venezuela este martes 23 de febrero",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirmo-30-excarcelaciones-en-venezuela-este-martes-23-de-febrero",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/e021701e69246f1c57d0af3cd7365a1d43165a0dw-c0c09f.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Conductor de taxi al que se subió Diana Ospina se presentó a la Fiscalía: antecedentes del carro",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/conductor-de-taxi-al-que-se-subio-diana-ospina-se-presento-a-la-fiscalia-antecedentes-del-carro-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/775fcf0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F48%2F11%2F08a5ee7848388852ab599eec40fa%2Fmovilidad-bogota-2026-02-24t072049-691.jpg"
+      "title": "EE. UU. intercepta tercer petrolero en Índico: habría falseado coordenadas para burlar a autoridades",
+      "link": "https://www.noticiascaracol.com/mundo/ee-uu-intercepta-tercer-petrolero-en-indico-habria-falseado-coordenadas-para-burlar-a-autoridades-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6fb4bb9/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc8%2Fcf%2F316e30744b55b7111e234470128d%2Fbuque-petrolero-interceptado.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Asalto a cárcel en Puerto Vallarta deja 23 reos fugados tras muerte de “El Mencho”",
-      "link": "https://diarioversionfinal.com/mundo/asalto-a-carcel-en-puerto-vallarta-deja-23-reos-fugados-tras-muerte-de-el-mencho/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fuga-masiva-en-jalisco-23-reos-escapan-tras-ataque-armado-a-penal-en-puerto-vallarta.jpg-750x430.webp"
+      "title": "Rusia admite que la guerra en Ucrania continuará tras cuatro años de conflicto",
+      "link": "https://diarioversionfinal.com/mundo/rusia-admite-que-la-guerra-en-ucrania-continuara-tras-cuatro-anos-de-conflicto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/123380578_gettyimages-1372742387-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-24T14:50:39.431Z"
+  "lastUpdate": "2026-02-24T15:59:40.051Z"
 }
