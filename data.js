@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen de Venezuela liberó a otros 30 presos políticos tras la aprobación de la ley de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/24/el-regimen-de-venezuela-libero-a-otros-30-presos-politicos-tras-la-aprobacion-de-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/B6QRKUTHDNDONK6W53WQMIQWRE.png?auth=43192211c343271f256af7d783bae1d6ad6379512c58a382a351e58b372054ae&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen venezolano abrió sus puertas al acercamiento con la Fiscalía de EEUU tras la reanudación de relaciones bilaterales",
+      "link": "https://www.infobae.com/venezuela/2026/02/24/el-regimen-venezolano-abrio-sus-puertas-al-acercamiento-con-la-fiscalia-de-eeuu-tras-la-reanudacion-de-relaciones-bilaterales/",
+      "image": "https://www.infobae.com/resizer/v2/LYZQSQ5GF5F4BMGKPYOEH7F36Y.JPG?auth=8bb7586ebca65e88b44ca3dec547ee89346da78dcfc185c919af6e5d851d2af2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Por qué Sheinbaum aprobó el operativo contra el Mencho a 3 meses del Mundial?",
-      "link": "https://cnnespanol.cnn.com/2026/02/23/mexico/operativo-mencho-gobierno-sheinbaum-ahora-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1925909697.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "La violencia en México insinúa los riesgos políticos de la represión exigida por Trump",
+      "link": "https://cnnespanol.cnn.com/2026/02/24/mundo/analisis-ofensiva-carteles-mexico-riesgos-politicos-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26053775825046-20260224054302775.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/44175502863-1080pnbcstations-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-24T05:59:29.968Z"
+  "lastUpdate": "2026-02-24T07:12:33.317Z"
 };
