@@ -5,7 +5,7 @@
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "653,50"
+      "usdt": "622,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El jefe del Comando Sur de EEUU espera regresar a Venezuela para impulsar el plan de tres fases de Donald Trump",
-      "link": "https://www.infobae.com/venezuela/2026/02/25/el-jefe-del-comando-sur-de-eeuu-espera-regresar-a-venezuela-para-impulsar-el-plan-de-tres-fases-de-donald-trump/",
-      "image": "https://www.infobae.com/resizer/v2/IUNJDWZOBRAZBBALYZ7MOEAOWQ.jpg?auth=b1bdfae7daab40c8c11a5385f30e06cdcbc76aa310a62673781a5b4ced616ed3&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela envió más de 80 millones de barriles de petróleo a Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/02/25/venezuela-envio-mas-de-80-millones-de-barriles-de-petroleo-a-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/RT6N77YRSKL3GUOL32TIE3AQZM.jpg?auth=817c4e7b4a0ee65e1a207195b482466f46702ec70072afe65d0ef6cd302cbd69&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump destaca logros económicos y seguridad fronteriza en su discurso",
-      "link": "https://cnnespanol.cnn.com/eeuu/live-news/discurso-trump-estado-union-en-vivo-aranceles-inmigracion-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/madres-20260224234806342.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Conclusiones del discurso sobre el Estado de la Unión de Donald Trump",
+      "link": "https://cnnespanol.cnn.com/2026/02/24/eeuu/conclusiones-discurso-estado-de-la-union-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/605730b6-29bd-4d4a-a7e6-fdd024f26732.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/SkgaCEdA-SaveClip.App_632663052_18380624194095971_7383164917216025962_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-25T06:01:50.461Z"
+  "lastUpdate": "2026-02-25T07:52:15.583Z"
 }
