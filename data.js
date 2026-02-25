@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "646,00"
+      "usdt": "639,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "\"Hacíamos nuestras necesidades donde nos servían la comida\": la denuncia de un activista de derechos humanos en Venezuela que pasó más de 4 años en prisión\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/haciamos-nuestras-necesidades-donde-nos-servian-la-comida-la-denuncia-de-un-activista-de-derechos-humanos-en-venezuela-que-paso-mas-de-4-anos-en-prision/",
+      "title": "EE UU flexibiliza el bloqueo a Cuba y autoriza la venta de crudo venezolano al sector privado\nMUNDO",
+      "link": "https://www.elnacional.com/2026/02/ee-uu-flexibiliza-el-bloqueo-a-cuba-y-autoriza-la-venta-de-crudo-venezolano-al-sector-privado/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump emite afirmaciones falsas durante el discurso del Estado de la Unión",
-      "link": "https://cnnespanol.cnn.com/2026/02/25/eeuu/cnn-verifica-datos-trump-discurso-estado-union-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-25t022132z-896378196-rc2qsjaglvjc-rtrmadp-3-usa-trump-congress-20260225035822326.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cuatro muertos en lancha con matrícula de EE.UU. tras presunta disputa con autoridades cubanas",
+      "link": "https://cnnespanol.cnn.com/2026/02/25/latinoamerica/cuba-eeuu-enfrentamiento-lancha-muertos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Jefe de la diplomacia de EE. UU. en La Habana pide apoyos para una transición pacífica en Cuba",
-      "link": "https://laverdad.com/jefe-de-la-diplomacia-de-ee-uu-en-la-habana-pide-apoyos-para-una-transicion-pacifica-en-cuba/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mike-Hammer.jpg"
+      "title": "EE. UU. relaja el bloqueo y permitirá la venta de crudo venezolano al sector privado en Cuba",
+      "link": "https://laverdad.com/ee-uu-relaja-el-bloqueo-y-permitira-la-venta-de-crudo-venezolano-al-sector-privado-en-cuba/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Bloqueo-a-Cuba.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. habilita licencias para revender petróleo venezolano con destino a Cuba",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-habilita-licencias-para-revender-petroleo-venezolano-con-destino-a-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/tanquero-750x376.webp"
+      "title": "Cuatro muertos y seis heridos tras enfrentamiento entre lancha estadounidense y Tropas Guardafronteras en Cuba",
+      "link": "https://diarioversionfinal.com/mundo/cuatro-muertos-y-seis-heridos-tras-enfrentamiento-entre-lancha-estadounidense-y-tropas-guardafronteras-en-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1772045980-enfrentamiento-armado-aguas-cubanas-deja-cuatro-muertos-siete-heridos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-25T19:15:20.200Z"
+  "lastUpdate": "2026-02-25T20:37:00.055Z"
 };
