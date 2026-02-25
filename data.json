@@ -5,7 +5,7 @@
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "649,00"
+      "usdt": "621,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El ex jefe de inteligencia chavista Hugo “El Pollo” Carvajal recibirá la sentencia por narcotráfico el 16 de abril",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/24/el-ex-jefe-de-inteligencia-chavista-hugo-el-pollo-carvajal-recibira-la-sentencia-por-narcotrafico-el-16-de-abril/",
-      "image": "https://www.infobae.com/resizer/v2/4NG46WGCO5H2LIPHGAKHTEX244.jpg?auth=6119cf1e723fba60306be0d65f0437c78142bcf19614d8cc0d15cc16ce83493d&smart=true&width=350&height=197&quality=85"
+      "title": "El jefe del Comando Sur de EEUU espera regresar a Venezuela para impulsar el plan de tres fases de Donald Trump",
+      "link": "https://www.infobae.com/venezuela/2026/02/25/el-jefe-del-comando-sur-de-eeuu-espera-regresar-a-venezuela-para-impulsar-el-plan-de-tres-fases-de-donald-trump/",
+      "image": "https://www.infobae.com/resizer/v2/IUNJDWZOBRAZBBALYZ7MOEAOWQ.jpg?auth=b1bdfae7daab40c8c11a5385f30e06cdcbc76aa310a62673781a5b4ced616ed3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,27 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump se pone el traje de superpresidente para su discurso del Estado de la Unión",
-      "link": "https://cnnespanol.cnn.com/2026/02/24/eeuu/analisis-trump-sotu-aranceles-fallo-poder-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262700370.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump se dirige al Congreso en su discurso del Estado de la Unión",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/discurso-trump-estado-union-en-vivo-aranceles-inmigracion-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262885664.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreaza: Ley de Amnistía suma más de tres mil libertades plenas",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-ley-de-amnistia-suma-mas-de-tres-mil-libertades-plenas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-2b5e81.jpg"
+      "title": "Rusia levanta la recomendación de no viajar a Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/rusia-levanta-la-recomendacion-de-no-viajar-a-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela-rusia-vuelos-1-800x532-1-e3e4da.png"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "CHEVRON VENDIÓ CARGAMENTO DE CRUDO VENEZOLANO A LA INDIA RELIANCE INDUSTRIES",
+      "link": "https://noticierodigital.com/2026/02/chevron-vendio-cargamento-de-crudo-venezolano-a-la-india-reliance-industries/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/chevron-licencia-eeuu-27may2022-1-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿México podría perder sedes del Mundial 2026 tras ola de violencia por muerte de alias El Mencho?",
-      "link": "https://www.noticiascaracol.com/mundo/mexico-podria-perder-sedes-del-mundial-2026-tras-ola-de-violencia-por-muerte-de-alias-el-mencho-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cfbe63e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fad%2F85%2F18e2e2d54ad5b41527a17a90dd71%2Fguadalajara.jpg"
+      "title": "Diana Ospina llegó caminando a un CAI tras ser abandonada en vía por secuestradores: hablan policías",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/diana-ospina-llego-caminando-a-un-cai-tras-ser-abandonada-en-via-por-secuestradores-hablan-policias-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1d72cbe/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa7%2F83%2Fd98ddbbe4023ae1f3fedbd7437dd%2Fcaso-diana-ospina.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán amenaza a estudiantes por ataques a los símbolos del régimen islámico durante protestas",
-      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-a-estudiantes-por-ataques-a-los-simbolos-del-regimen-islamico-durante-protestas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/16887771-750x430.jpeg"
+      "title": "Jefe del Comando Sur espera regresar a Venezuela para impulsar plan de transición de Trump",
+      "link": "https://diarioversionfinal.com/mundo/jefe-del-comando-sur-espera-regresar-a-venezuela-para-impulsar-plan-de-transicion-de-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/SkgaCEdA-SaveClip.App_632663052_18380624194095971_7383164917216025962_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-24T23:32:56.609Z"
+  "lastUpdate": "2026-02-25T02:10:48.287Z"
 }
