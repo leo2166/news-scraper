@@ -5,7 +5,7 @@
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "644,00"
+      "usdt": "642,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El opositor Juan Pablo Guanipa afirmó que el cambio en Venezuela es irreversible",
-      "link": "https://www.infobae.com/venezuela/2026/02/25/el-opositor-juan-pablo-guanipa-afirmo-que-el-cambio-en-venezuela-es-irreversible/",
-      "image": "https://www.infobae.com/resizer/v2/4JOWBNYHNBDM5CM2CJSUGJXQI4.JPG?auth=26af06bc99dbaedc427e4ab688e5e743390af210ae5010cf79f1e514fb50627a&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio viajó al Caribe para asistir a una cumbre y consolidar las alianzas de Estados Unidos",
+      "link": "https://www.infobae.com/america/mundo/2026/02/25/marco-rubio-viajo-al-caribe-para-asistir-a-una-cumbre-y-consolidar-las-alianzas-de-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/QJR5567ZGBGOZNHBFYIQ2V3JQU.JPG?auth=640e7db976682934d1e0650e7edd311ecc8857d8f0036de3310d2b5be4416344&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Rick Scott exige el regreso a Estados Unidos de Alex Saab y los “narcosobrinos” para que enfrenten la justicia\nMUNDO",
-      "link": "https://www.elnacional.com/2026/02/rick-scott-exige-el-regreso-de-alex-saab-y-narcosobrinos-a-ee-uu/",
+      "title": "\"Hacíamos nuestras necesidades donde nos servían la comida\": la denuncia de un activista de derechos humanos en Venezuela que pasó más de 4 años en prisión\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/haciamos-nuestras-necesidades-donde-nos-servian-la-comida-la-denuncia-de-un-activista-de-derechos-humanos-en-venezuela-que-paso-mas-de-4-anos-en-prision/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "De Venezuela al Mencho: las referencias a América Latina en el discurso de Trump",
-      "link": "https://cnnespanol.cnn.com/2026/02/25/eeuu/sotu-trump-menciones-migracion-frontera-america-latina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "title": "Trump emite afirmaciones falsas durante el discurso del Estado de la Unión",
+      "link": "https://cnnespanol.cnn.com/2026/02/25/eeuu/cnn-verifica-datos-trump-discurso-estado-union-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-25t022132z-896378196-rc2qsjaglvjc-rtrmadp-3-usa-trump-congress-20260225035822326.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,10 +37,16 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela-rusia-vuelos-1-800x532-1-e3e4da.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "FAMILIARES REPORTAN QUE GENDARME ARGENTINO MANTIENE HUELGA DE HAMBRE DESDE HACE SEIS DÍAS",
+      "link": "https://noticierodigital.com/2026/02/familiares-reportan-que-gendarme-argentino-mantiene-huelga-de-hambre-desde-hace-seis-dias/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/NahuelGallo_gendarmeargentino-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "¿Qué se sabe sobre mujer que murió mientras esperaba medicamentos en Cúcuta? Defensoría se pronunció",
-      "link": "https://www.noticiascaracol.com/colombia/que-se-sabe-sobre-muerte-de-mujer-mientras-esperaba-medicamentos-en-cucuta-defensoria-se-pronuncio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/eecf64f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F75%2Fd8%2Fc3a23ca94d5f995bbf44dae082d5%2Feps.jpg"
+      "title": "\"Para la polarización, la conversación\": siga en vivo el foro organizado por Caracol TV",
+      "link": "https://www.noticiascaracol.com/colombia/para-la-polarizacion-la-conversacion-siga-en-vivo-el-foro-organizado-por-caracol-tv-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2ca25b5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9b%2F17%2Fca694fa7b771cb2dbd812a3618e4%2Fmaxresdefault-live.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Apagón en Cuba afecta al 60% del país este miércoles",
-      "link": "https://diarioversionfinal.com/mundo/apagon-en-cuba-afecta-al-60-del-pais-este-miercoles/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/TU6YTKERRNGJTJXHV7RDXKFBPY.jpg"
+      "title": "España extradita a \"Mono Gerly\", presunto integrante del ELN, hacia Colombia",
+      "link": "https://diarioversionfinal.com/mundo/espana-extradita-a-mono-gerly-presunto-integrante-del-eln-hacia-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-45.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-25T16:04:07.874Z"
+  "lastUpdate": "2026-02-25T17:57:55.591Z"
 }
