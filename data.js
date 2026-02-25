@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "652,59"
+      "usdt": "650,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El discurso de Trump de 2026 vs. 2025",
+      "title": "De Venezuela al Mencho: las referencias a América Latina en el discurso de Trump",
       "link": "https://cnnespanol.cnn.com/2026/02/25/eeuu/sotu-trump-menciones-migracion-frontera-america-latina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262887805-20260225022514184.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sobrino.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "El sicario colombiano que podría suceder a 'El Mencho' en cartel mexicano Jalisco Nueva Generación",
-      "link": "https://www.noticiascaracol.com/mundo/el-sicario-colombiano-que-podria-suceder-a-el-mencho-en-cartel-mexicano-jalisco-nueva-generacion-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc230ea/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff7%2Fc6%2F4550d9ae42bf80ae1c23db74842b%2Falias-mencho-y-alias-la-firma.jpg"
+      "title": "Impactante accidente: choque entre dos buses deja 30 personas heridas cerca de Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/impactante-accidente-choque-entre-dos-buses-deja-30-personas-heridas-cerca-de-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9564d17/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F2e%2F2e433ae1491e824fed8241bc22a3%2Faccidente-bus.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/SkgaCEdA-SaveClip.App_632663052_18380624194095971_7383164917216025962_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-25T10:52:50.970Z"
+  "lastUpdate": "2026-02-25T11:40:53.408Z"
 };
