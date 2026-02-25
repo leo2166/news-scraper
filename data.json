@@ -5,7 +5,7 @@
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "614,90"
+      "usdt": "634,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El piloto herido en la captura de Maduro recibió la Medalla de Honor durante el discurso de Trump en el Congreso",
-      "link": "https://www.infobae.com/venezuela/2026/02/25/el-piloto-herido-en-la-captura-de-maduro-recibio-la-medalla-de-honor-durante-el-discurso-de-trump-en-el-congreso/",
-      "image": "https://www.infobae.com/resizer/v2/VOH5RO3BWNA7RCN3MQHTZHT75U.jpg?auth=32fd7fede9e3075efdd2073c4397eb139b2b01c61539dc3f8da03141803e676f&smart=true&width=350&height=197&quality=85"
+      "title": "El opositor Juan Pablo Guanipa afirmó que el cambio en Venezuela es irreversible",
+      "link": "https://www.infobae.com/venezuela/2026/02/25/el-opositor-juan-pablo-guanipa-afirmo-que-el-cambio-en-venezuela-es-irreversible/",
+      "image": "https://www.infobae.com/resizer/v2/4JOWBNYHNBDM5CM2CJSUGJXQI4.JPG?auth=26af06bc99dbaedc427e4ab688e5e743390af210ae5010cf79f1e514fb50627a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "De Venezuela al Mencho: las referencias a América Latina en el discurso de Trump",
       "link": "https://cnnespanol.cnn.com/2026/02/25/eeuu/sotu-trump-menciones-migracion-frontera-america-latina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262892955-20260225092011185.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,10 +37,16 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela-rusia-vuelos-1-800x532-1-e3e4da.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CAPRILES EXIGIÓ UN AUMENTO DEL SALARIO MÍNIMO Y PENSIONES EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/02/capriles-exigio-un-aumento-del-salario-minimo-y-pensiones-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/henrique-capriles-radonski-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Donald Trump asegura que la captura de Nicolás Maduro “derribó a uno de los capos más siniestros”",
-      "link": "https://www.noticiascaracol.com/mundo/donald-trump-asegura-que-la-captura-de-nicol-maduro-derribo-a-uno-de-los-capos-mas-siniestros-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7f18739/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd9%2F84%2F8a6c059b4b9f81d3a4dad704e97c%2Fplantilla-fotos-59.jpg"
+      "title": "No solo fue Diana Ospina; otra mujer denuncia robo en supuesto carro de plataforma en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/no-solo-fue-diana-ospina-otra-mujer-denuncia-robo-en-supuesto-carro-de-plataforma-en-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f90cff9/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2b%2Fa4%2F9073d7bf4fc79f80a24de5a4c8fd%2Fvictima-de-robo.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump califica como “victoria colosal” la detención de Maduro durante discurso en el Congreso",
-      "link": "https://diarioversionfinal.com/mundo/trump-califica-como-victoria-colosal-la-detencion-de-maduro-durante-discurso-en-el-congreso/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ntbgqlhmqsyiic-jpg-750x430.webp"
+      "title": "Contratista italiana Saipem evalúa regresar a Venezuela tras la relajación de sanciones de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/contratista-italiana-saipem-evalua-regresar-a-venezuela-tras-la-relajacion-de-sanciones-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/3dTscoP6-Saipem-717x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-25T13:06:35.130Z"
+  "lastUpdate": "2026-02-25T14:50:50.040Z"
 }
