@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "650,59"
+      "usdt": "614,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela envió más de 80 millones de barriles de petróleo a Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/02/25/venezuela-envio-mas-de-80-millones-de-barriles-de-petroleo-a-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/RT6N77YRSKL3GUOL32TIE3AQZM.jpg?auth=817c4e7b4a0ee65e1a207195b482466f46702ec70072afe65d0ef6cd302cbd69&smart=true&width=350&height=197&quality=85"
+      "title": "El piloto herido en la captura de Maduro recibió la Medalla de Honor durante el discurso de Trump en el Congreso",
+      "link": "https://www.infobae.com/venezuela/2026/02/25/el-piloto-herido-en-la-captura-de-maduro-recibio-la-medalla-de-honor-durante-el-discurso-de-trump-en-el-congreso/",
+      "image": "https://www.infobae.com/resizer/v2/VOH5RO3BWNA7RCN3MQHTZHT75U.jpg?auth=32fd7fede9e3075efdd2073c4397eb139b2b01c61539dc3f8da03141803e676f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "De Venezuela al Mencho: las referencias a América Latina en el discurso de Trump",
       "link": "https://cnnespanol.cnn.com/2026/02/25/eeuu/sotu-trump-menciones-migracion-frontera-america-latina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sobrino.jpeg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262892955-20260225092011185.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela-rusia-vuelos-1-800x532-1-e3e4da.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "CHEVRON VENDIÓ CARGAMENTO DE CRUDO VENEZOLANO A LA INDIA RELIANCE INDUSTRIES",
-      "link": "https://noticierodigital.com/2026/02/chevron-vendio-cargamento-de-crudo-venezolano-a-la-india-reliance-industries/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/chevron-licencia-eeuu-27may2022-1-627x376.webp"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Impactante accidente: choque entre dos buses deja 30 personas heridas cerca de Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/impactante-accidente-choque-entre-dos-buses-deja-30-personas-heridas-cerca-de-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9564d17/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F2e%2F2e433ae1491e824fed8241bc22a3%2Faccidente-bus.jpg"
+      "title": "Donald Trump asegura que la captura de Nicolás Maduro “derribó a uno de los capos más siniestros”",
+      "link": "https://www.noticiascaracol.com/mundo/donald-trump-asegura-que-la-captura-de-nicol-maduro-derribo-a-uno-de-los-capos-mas-siniestros-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7f18739/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd9%2F84%2F8a6c059b4b9f81d3a4dad704e97c%2Fplantilla-fotos-59.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump presumirá de sus logros económicos en discurso del estado de la Unión",
-      "link": "https://laverdad.com/trump-presumira-de-sus-logros-economicos-en-discurso-del-estado-de-la-union/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Trump-jpg.jpg"
+      "title": "Detienen en Santa Marta a “Cucaracho”, uno de los jefes del “Tren de Aragua”",
+      "link": "https://laverdad.com/detienen-en-santa-marta-a-cucaracho-uno-de-los-jefes-del-tren-de-aragua/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Cucaracho.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jefe del Comando Sur espera regresar a Venezuela para impulsar plan de transición de Trump",
-      "link": "https://diarioversionfinal.com/mundo/jefe-del-comando-sur-espera-regresar-a-venezuela-para-impulsar-plan-de-transicion-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/SkgaCEdA-SaveClip.App_632663052_18380624194095971_7383164917216025962_n-750x430.jpg"
+      "title": "Trump califica como “victoria colosal” la detención de Maduro durante discurso en el Congreso",
+      "link": "https://diarioversionfinal.com/mundo/trump-califica-como-victoria-colosal-la-detencion-de-maduro-durante-discurso-en-el-congreso/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/ntbgqlhmqsyiic-jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-25T11:40:53.408Z"
+  "lastUpdate": "2026-02-25T13:06:35.130Z"
 };
