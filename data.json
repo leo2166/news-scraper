@@ -5,7 +5,7 @@
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "621,00"
+      "usdt": "640,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump se dirige al Congreso en su discurso del Estado de la Unión",
+      "title": "Trump destaca logros económicos y seguridad fronteriza en su discurso",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/discurso-trump-estado-union-en-vivo-aranceles-inmigracion-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262885664.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/madres-20260224234806342.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Diana Ospina llegó caminando a un CAI tras ser abandonada en vía por secuestradores: hablan policías",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/diana-ospina-llego-caminando-a-un-cai-tras-ser-abandonada-en-via-por-secuestradores-hablan-policias-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1d72cbe/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa7%2F83%2Fd98ddbbe4023ae1f3fedbd7437dd%2Fcaso-diana-ospina.jpg"
+      "title": "El sicario colombiano que podría suceder a 'El Mencho' en cartel mexicano Jalisco Nueva Generación",
+      "link": "https://www.noticiascaracol.com/mundo/el-sicario-colombiano-que-podria-suceder-a-el-mencho-en-cartel-mexicano-jalisco-nueva-generacion-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc230ea/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff7%2Fc6%2F4550d9ae42bf80ae1c23db74842b%2Falias-mencho-y-alias-la-firma.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/SkgaCEdA-SaveClip.App_632663052_18380624194095971_7383164917216025962_n-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-25T02:10:48.287Z"
+  "lastUpdate": "2026-02-25T04:53:44.390Z"
 }
