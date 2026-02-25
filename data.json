@@ -5,7 +5,7 @@
       "eur": "483,92"
     },
     "binance": {
-      "usdt": "642,15"
+      "usdt": "646,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,29 +37,23 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela-rusia-vuelos-1-800x532-1-e3e4da.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "FAMILIARES REPORTAN QUE GENDARME ARGENTINO MANTIENE HUELGA DE HAMBRE DESDE HACE SEIS DÍAS",
-      "link": "https://noticierodigital.com/2026/02/familiares-reportan-que-gendarme-argentino-mantiene-huelga-de-hambre-desde-hace-seis-dias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/NahuelGallo_gendarmeargentino-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "\"Para la polarización, la conversación\": siga en vivo el foro organizado por Caracol TV",
+      "title": "\"Para la polarización, la conversación\": las conclusiones del foro organizado por Caracol TV",
       "link": "https://www.noticiascaracol.com/colombia/para-la-polarizacion-la-conversacion-siga-en-vivo-el-foro-organizado-por-caracol-tv-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/2ca25b5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9b%2F17%2Fca694fa7b771cb2dbd812a3618e4%2Fmaxresdefault-live.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Irán califica como “grandes mentiras” afirmaciones de Trump sobre su programa nuclear",
-      "link": "https://laverdad.com/iran-califica-como-grandes-mentiras-afirmaciones-de-trump-sobre-su-programa-nuclear/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Esmaeil-Bagaei.jpg"
+      "title": "Jefe de la diplomacia de EE. UU. en La Habana pide apoyos para una transición pacífica en Cuba",
+      "link": "https://laverdad.com/jefe-de-la-diplomacia-de-ee-uu-en-la-habana-pide-apoyos-para-una-transicion-pacifica-en-cuba/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mike-Hammer.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España extradita a \"Mono Gerly\", presunto integrante del ELN, hacia Colombia",
-      "link": "https://diarioversionfinal.com/mundo/espana-extradita-a-mono-gerly-presunto-integrante-del-eln-hacia-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-45.jpeg"
+      "title": "EE. UU. habilita licencias para revender petróleo venezolano con destino a Cuba",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-habilita-licencias-para-revender-petroleo-venezolano-con-destino-a-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/tanquero-750x376.webp"
     }
   ],
-  "lastUpdate": "2026-02-25T17:57:55.591Z"
+  "lastUpdate": "2026-02-25T19:15:20.200Z"
 }
