@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "640,30"
+      "usdt": "641,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Rusia levanta la recomendación de no viajar a Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/rusia-levanta-la-recomendacion-de-no-viajar-a-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela-rusia-vuelos-1-800x532-1-e3e4da.png"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA RECHAZÓ DECLARACIONES DE LA KAMLA PERSAD-BISSESSAR EN CUMBRE DE LA CARICOM",
-      "link": "https://noticierodigital.com/2026/02/venezuela-rechazo-declaraciones-de-la-kamla-persad-bissessar-en-cumbre-de-la-caricom/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/yvan-gil-627x376.jpg"
+      "title": "COPEI solicita respeto a soberanía ante presencia de Marco Rubio en cumbre de la CARICOM",
+      "link": "https://noticiasvenevision.com/noticias/politica/copei-solicita-respeto-a-soberania-ante-presencia-de-marco-rubio-en-cumbre-de-la-caricom",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copei-ffddef.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gobierno de Venezuela confisca casa de asistente personal de María Corina Machado, denuncia partido",
-      "link": "https://www.noticiascaracol.com/mundo/gobierno-de-venezuela-allana-casa-de-asistente-personal-de-maria-corina-machado-denuncia-su-partido-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6d434eb/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa2%2Fff%2F49cb5e0e46a9b400efdc325a8d6f%2Flaura-acosta-asistente-personal-de-maria-corina-machado.jpg"
+      "title": "Emotivo relato de hijo de mujer que murió esperando medicamentos: \"En diciembre fue la última dosis\"",
+      "link": "https://www.noticiascaracol.com/colombia/emotivo-relato-de-hijo-de-mujer-que-murio-esperando-medicamentos-en-diciembre-fue-la-ultima-dosis-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0c8499f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7d%2F50%2F334aa48440e1bc9c9cd922576451%2Fmujer-fallecida.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1772045980-enfrentamiento-armado-aguas-cubanas-deja-cuatro-muertos-siete-heridos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-25T22:34:45.458Z"
+  "lastUpdate": "2026-02-25T23:29:02.022Z"
 };
