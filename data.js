@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "643,28"
+      "usdt": "613,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cuba dice que lancha con matrícula de EE.UU. tenía \"intenciones terroristas\"",
+      "title": "Tensión tras disputa entre lancha con matrícula de EE.UU. y autoridades cubanas",
       "link": "https://cnnespanol.cnn.com/2026/02/25/latinoamerica/cuba-eeuu-enfrentamiento-lancha-muertos-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/banderas-cuba-20260225211530677.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez se reúne con representante de la OPS para establecer \"cooperación técnica\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-se-reune-con-representante-de-la-ops-para-establecer-cooperacion-tecnica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l8305-2048x1365-552d92.jpg"
+      "title": "Instalan Comisión de Postulación para autoridades del Poder Ciudadano",
+      "link": "https://noticiasvenevision.com/noticias/politica/instalan-comision-de-postulacion-para-autoridades-del-poder-ciudadano",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/07-20-2625ee.png"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1772045980-enfrentamiento-armado-aguas-cubanas-deja-cuatro-muertos-siete-heridos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T02:06:27.575Z"
+  "lastUpdate": "2026-02-26T04:51:09.732Z"
 };
