@@ -5,7 +5,7 @@
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "641,80"
+      "usdt": "643,28"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos autorizó el envío limitado de petróleo venezolano a Cuba para mitigar el colapso económico en la isla",
-      "link": "https://www.infobae.com/estados-unidos/2026/02/25/estados-unidos-autorizo-el-envio-limitado-de-petroleo-venezolano-a-cuba-para-mitigar-el-colapso-economico-en-la-isla/",
-      "image": "https://www.infobae.com/resizer/v2/JICLHCC2IRCKBADXP5MXGYDV2I.JPG?auth=e78a305eee2dede59427b408ee32302e43a9bca18039d1952327ae33022849af&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio anticipó una nueva fase en Venezuela y afirmó que el país deberá celebrar “elecciones democráticas, libres y justas”",
+      "link": "https://www.infobae.com/estados-unidos/2026/02/26/marco-rubio-anticipo-una-nueva-fase-en-venezuela-y-afirmo-que-el-pais-debera-celebrar-elecciones-democraticas-libres-y-justas/",
+      "image": "https://www.infobae.com/resizer/v2/QJR5567ZGBGOZNHBFYIQ2V3JQU.JPG?auth=640e7db976682934d1e0650e7edd311ecc8857d8f0036de3310d2b5be4416344&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,27 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Tarek William Saab renuncia al cargo de fiscal de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/02/25/venezuela/tarek-william-saab-alfredo-ruiz-angulo-renuncias-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254951312.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cuba dice que lancha con matrícula de EE.UU. tenía \"intenciones terroristas\"",
+      "link": "https://cnnespanol.cnn.com/2026/02/25/latinoamerica/cuba-eeuu-enfrentamiento-lancha-muertos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/banderas-cuba-20260225211530677.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "COPEI solicita respeto a soberanía ante presencia de Marco Rubio en cumbre de la CARICOM",
-      "link": "https://noticiasvenevision.com/noticias/politica/copei-solicita-respeto-a-soberania-ante-presencia-de-marco-rubio-en-cumbre-de-la-caricom",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copei-ffddef.png"
+      "title": "Delcy Rodríguez se reúne con representante de la OPS para establecer \"cooperación técnica\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-se-reune-con-representante-de-la-ops-para-establecer-cooperacion-tecnica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l8305-2048x1365-552d92.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "CABELLO ASEGURÓ QUE TRUMP VETÓ A MCM DEL ESTADO DE LA UNIÓN",
+      "link": "https://noticierodigital.com/2026/02/cabello-aseguro-que-trump-veto-a-mcm-del-estado-de-la-union/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/diosdado-cabello-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Emotivo relato de hijo de mujer que murió esperando medicamentos: \"En diciembre fue la última dosis\"",
-      "link": "https://www.noticiascaracol.com/colombia/emotivo-relato-de-hijo-de-mujer-que-murio-esperando-medicamentos-en-diciembre-fue-la-ultima-dosis-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0c8499f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7d%2F50%2F334aa48440e1bc9c9cd922576451%2Fmujer-fallecida.jpg"
+      "title": "Invamer: Paloma Valencia, Claudia López y Daniel Quintero lideran intención de voto en consultas",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/invamer-paloma-valencia-claudia-lopez-y-daniel-quintero-lideran-intencion-de-voto-en-consultas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/68a084c/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd6%2Fa3%2F18cf5b634e46afdd82d47e3f9bac%2Fpaloma-valencia-claudia-lopez-y-daniel-quintero-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1772045980-enfrentamiento-armado-aguas-cubanas-deja-cuatro-muertos-siete-heridos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-25T23:29:02.022Z"
+  "lastUpdate": "2026-02-26T02:06:27.575Z"
 }
