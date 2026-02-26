@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "644,99"
+      "usdt": "643,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/periodistas-muertos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T10:47:07.459Z"
+  "lastUpdate": "2026-02-26T11:40:20.043Z"
 };
