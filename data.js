@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "641,50"
+      "usdt": "642,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,7 +14,7 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Nahuel Galló se comunicó por primera vez con su familia luego de 445 días secuestrado por el régimen chavista",
+      "title": "Nahuel Gallo se comunicó por primera vez con su familia luego de 445 días secuestrado por el régimen chavista",
       "link": "https://www.infobae.com/politica/2026/02/26/despues-de-445-dias-incomunicado-y-secuestrado-por-el-regimen-chavista-nahuel-gallo-se-comunico-con-su-familia/",
       "image": "https://www.infobae.com/resizer/v2/GUTJPOJTYJCZJC26YP7OIG34XU.jpg?auth=d6e1562bd43fd6d45f0993237f04339d9b89953d3e17bfe98da39ca670e96536&smart=true&width=350&height=197&quality=85"
     },
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Guanipa dice que la Ley de Amnistía de Venezuela es \"excluyente\"",
-      "link": "https://cnnespanol.cnn.com/2026/02/26/venezuela/guanipa-amnistia-excluyente-liberar-presos-politicos-democracia-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/a2852118b2632d330126ee1f3c036613baddfb1aminiw.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Así fue el operativo contra una \"lancha infractora\" en Cuba en el que murieron 4 personas",
+      "link": "https://cnnespanol.cnn.com/2026/02/26/latinoamerica/operativo-cuba-lancha-muertos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263011237.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZOLANOS VEN CON MÁS OPTIMISMO LA PROYECCIÓN ECONÓMICA EN LOS PRÓXIMOS SEIS MESES",
-      "link": "https://noticierodigital.com/2026/02/venezolanos-ven-con-mas-optimismo-la-proyeccion-economica-en-los-proximos-seis-meses/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/03/carnaval-sabana-grande-venezuela-covid.jpg"
+      "title": "TSJ ANUNCIÓ QUE MANTENDRÁ SUPERVISIÓN EN TRIBUNALES POR APLICACIÓN DE LA LEY DE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/02/tsj-anuncio-que-mantendra-supervision-en-tribunales-por-aplicacion-de-la-ley-de-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-1-13-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. relaja el bloqueo y permitirá la venta de crudo venezolano al sector privado en Cuba",
-      "link": "https://laverdad.com/ee-uu-relaja-el-bloqueo-y-permitira-la-venta-de-crudo-venezolano-al-sector-privado-en-cuba/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Bloqueo-a-Cuba.jpg"
+      "title": "Cuba asegura que ocupantes de la lancha interceptada tenían “fines terroristas”",
+      "link": "https://laverdad.com/cuba-asegura-que-ocupantes-de-la-lancha-interceptada-tenian-fines-terroristas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Cuba-ataque-lancha-EE.-UU.-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Solicitan a la UE confiscar activos del gobierno venezolano y crear fondo para víctimas",
-      "link": "https://diarioversionfinal.com/mundo/solicitan-a-la-ue-confiscar-activos-del-gobierno-venezolano-y-crear-fondo-para-victimas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Captura-de-pantalla-2025-11-03-100644-750x430.jpg"
+      "title": "Panamá defiende revisión de valijas diplomáticas venezolanas y rechaza violación de protocolos",
+      "link": "https://diarioversionfinal.com/mundo/panama-defiende-revision-de-valijas-diplomaticas-venezolanas-y-rechaza-violacion-de-protocolos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/aduanas-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-26T14:48:08.451Z"
+  "lastUpdate": "2026-02-26T15:54:07.775Z"
 };
