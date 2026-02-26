@@ -5,7 +5,7 @@
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "643,00"
+      "usdt": "643,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,33 @@
     },
     {
       "source": "El Nacional",
-      "title": "Presos políticos gritan auxilio desde el Rodeo I y denuncian golpiza contra Enzo Flores\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/presos-politicos-gritan-auxilio-desde-el-rodeo-i-y-denuncian-golpiza-contra-enzo-flores/",
+      "title": "Más de 200 presos políticos, incluido el gendarme argentino Nahuel Gallo, cumplen cinco días en huelga de hambre en El Rodeo I\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/mas-de-200-presos-politicos-incluido-el-gendarme-argentino-nahuel-gallo-cumplen-cinco-dias-en-huelga-de-hambre-en-el-rodeo-i/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Hillary Clinton dice que está \"horrorizada\" por los crímenes de Epstein y Maxwell",
-      "link": "https://cnnespanol.cnn.com/2026/02/26/eeuu/hillary-clinton-camara-de-representantes-epstein-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hillary-clinton-epstein.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Agentes de inmigración entraron a la Universidad de Columbia para detener a estudiante",
+      "link": "https://cnnespanol.cnn.com/2026/02/26/eeuu/agentes-inmigracion-entraron-universidad-columbia-detener-estudiante-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209732538-20260226203249110.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "TSJ interviene tribunales regionales para acelerar la aplicación de la Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/tsj-interviene-tribunales-regionales-para-acelerar-la-aplicacion-de-la-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsj-1-062548.jpg"
+      "title": "Gustavo Petro y Delcy Rodríguez se reunirán el 14 de marzo para sellar acuerdos estratégicos",
+      "link": "https://noticiasvenevision.com/noticias/politica/gustavo-petro-y-delcy-rodriguez-se-reuniran-el-14-de-marzo-para-sellar-acuerdos-estrategicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-02-18-at-17-10-02-d51ced.jpeg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "EE. UU. PROPUSO AISLAR AL BANCO SUIZO MBAER POR OPERACIONES CON VENEZUELA, RUSIA E IRÁN",
+      "link": "https://noticierodigital.com/2026/02/ee-uu-propuso-aislar-al-banco-suizo-mbaer-por-operaciones-con-venezuela-rusia-e-iran/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/departamento-del-tesoro-de-eeuu-3dic2019.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Fiscalía acusa formalmente a alias Chipi por el magnicidio de Miguel Uribe Turbay: ¿qué sigue?",
-      "link": "https://www.noticiascaracol.com/judicial/fiscalia-acusa-formalmente-a-alias-chipi-por-el-magnicidio-de-miguel-uribe-turbay-que-sigue-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/543829b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fab%2F46%2Fb6463668458bb8748920976e3b3f%2Fportadas-caracol-web-16.jpg"
+      "title": "Hallan con vida a la candidata Ana Guetío, confirman autoridades",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/hallan-con-vida-a-la-candidata-ana-guetio-confirman-autoridades-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bc4b6db/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2a%2F1b%2F9827eaf64e58b030127de2e0d22a%2Fana-guetio.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Compañía energética Eni acepta crudo venezolano para compensar deuda por gas",
-      "link": "https://diarioversionfinal.com/mundo/compania-energetica-eni-acepta-crudo-venezolano-para-compensar-deuda-por-gas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-26T120641.303.jpg"
+      "title": "EE. UU. propone bloquear a banco suizo por presuntos vínculos con Rusia e Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-propone-bloquear-a-banco-suizo-por-presuntos-vinculos-con-rusia-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/20-mbaer-bank-1126x633-1-800x500-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T20:39:04.356Z"
+  "lastUpdate": "2026-02-26T21:33:02.000Z"
 }
