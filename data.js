@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "643,59"
+      "usdt": "644,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Renunciaron el fiscal general Tarek William Saab y el defensor del pueblo Alfredo Ruiz\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/renunciaron-el-fiscal-general-tarek-william-saab-y-el-defensor-del-pueblo-alfredo-ruiz/",
+      "title": "Familiares de presos políticos hicieron vigilia en sede de la PNB para exigir excarcelaciones\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-hicieron-vigilia-en-sede-de-la-pnb-para-exigir-excarcelaciones/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Cuba dice que mató a cuatro personas tras intento de “infiltración”",
       "link": "https://cnnespanol.cnn.com/2026/02/25/latinoamerica/cuba-eeuu-enfrentamiento-lancha-muertos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/banderas-cuba-20260225211530677.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cuba-20260226102058987.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/periodistas-muertos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T09:51:24.915Z"
+  "lastUpdate": "2026-02-26T10:47:07.459Z"
 };
