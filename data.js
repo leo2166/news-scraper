@@ -1,8 +1,8 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "414,05",
-      "eur": "488,60"
+      "usd": "417,36",
+      "eur": "493,11"
     },
     "binance": {
       "usdt": "643,59"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Agentes de inmigración entraron a la Universidad de Columbia para detener a estudiante",
-      "link": "https://cnnespanol.cnn.com/2026/02/26/eeuu/agentes-inmigracion-entraron-universidad-columbia-detener-estudiante-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209732538-20260226203249110.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Un ciudadano de EE.UU. murió y otro resultó herido en tiroteo a lancha rápida en Cuba",
+      "link": "https://cnnespanol.cnn.com/2026/02/26/eeuu/ciudadano-eeuu-murio-herido-lancha-cuba-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cuba-incidente-lancha.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. PROPUSO AISLAR AL BANCO SUIZO MBAER POR OPERACIONES CON VENEZUELA, RUSIA E IRÁN",
-      "link": "https://noticierodigital.com/2026/02/ee-uu-propuso-aislar-al-banco-suizo-mbaer-por-operaciones-con-venezuela-rusia-e-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/departamento-del-tesoro-de-eeuu-3dic2019.jpg"
+      "title": "FORO PENAL ANUNCIÓ LA EXCARCELACIÓN DEL TACHIRENSE CAMILO ROSO SUÁREZ",
+      "link": "https://noticierodigital.com/2026/02/foro-penal-anuncio-la-excarcelacion-del-tachirense-camilo-roso-suarez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/camilo-roso-suarez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Hallan con vida a la candidata Ana Guetío, confirman autoridades",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/hallan-con-vida-a-la-candidata-ana-guetio-confirman-autoridades-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bc4b6db/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2a%2F1b%2F9827eaf64e58b030127de2e0d22a%2Fana-guetio.jpg"
+      "title": "Reportan fuerte granizada en Bogotá: estas son las zonas más afectadas",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/reportan-fuerte-granizada-en-bogota-estas-son-las-zonas-mas-afectadas-las-lluvias-en-la-ciudad-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8da9749/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff6%2F7e%2Ff575be7945fc93c7d135fee5aa92%2Fdiseno-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. propone bloquear a banco suizo por presuntos vínculos con Rusia e Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-propone-bloquear-a-banco-suizo-por-presuntos-vinculos-con-rusia-e-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/20-mbaer-bank-1126x633-1-800x500-1-750x430.jpg"
+      "title": "Hillary Clinton se defiende ante el Congreso y niega conocer a Jeffrey Epstein",
+      "link": "https://diarioversionfinal.com/mundo/hillary-clinton-se-defiende-ante-el-congreso-y-niega-conocer-a-jeffrey-epstein/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/g9GVLOnQ.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T21:33:02.000Z"
+  "lastUpdate": "2026-02-26T22:34:37.201Z"
 };
