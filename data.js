@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "643,59"
+      "usdt": "637,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Familiares de presos políticos hicieron vigilia en sede de la PNB para exigir excarcelaciones\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/familiares-de-presos-politicos-hicieron-vigilia-en-sede-de-la-pnb-para-exigir-excarcelaciones/",
+      "title": "BCV vendió casi seis toneladas de oro en plena escasez de dólares\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/02/bcv-vendio-casi-seis-toneladas-de-oro-en-plena-escasez-de-dolares/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Cuba dice que mató a cuatro personas tras intento de “infiltración”",
-      "link": "https://cnnespanol.cnn.com/2026/02/25/latinoamerica/cuba-eeuu-enfrentamiento-lancha-muertos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cuba-20260226102058987.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Guanipa dice que la Ley de Amnistía de Venezuela es \"excluyente\"",
+      "link": "https://cnnespanol.cnn.com/2026/02/26/venezuela/guanipa-amnistia-excluyente-liberar-presos-politicos-democracia-venezuela-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/a2852118b2632d330126ee1f3c036613baddfb1aminiw.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO ASEGURÓ QUE TRUMP VETÓ A MCM DEL ESTADO DE LA UNIÓN",
-      "link": "https://noticierodigital.com/2026/02/cabello-aseguro-que-trump-veto-a-mcm-del-estado-de-la-union/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/diosdado-cabello-venezuela-627x376.jpg"
+      "title": "PIDEN A LA UE CONFISCAR ACTIVOS DEL GOBIERNO DE MADURO Y CREAR FONDO DE APOYO A VÍCTIMAS",
+      "link": "https://noticierodigital.com/2026/02/piden-a-la-ue-confiscar-activos-del-gobierno-de-maduro-y-crear-fondo-de-apoyo-a-victimas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/unioneuropea.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/periodistas-muertos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T11:40:20.043Z"
+  "lastUpdate": "2026-02-26T13:07:51.014Z"
 };
