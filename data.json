@@ -5,7 +5,7 @@
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "643,40"
+      "usdt": "643,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,34 +32,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez y canciller de Italia abordan situación de los privados de libertad en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-y-canciller-de-italia-abordan-situacion-de-los-privados-de-libertad-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5b63e2f4-eb9a-44f8-b8ab-2de53050454a-bfb4ce.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "LO QUE EL SMARTPHONE HA CAMBIADO EN LA VIDA COTIDIANA",
-      "link": "https://noticierodigital.com/2026/02/lo-que-el-smartphone-ha-cambiado-en-la-vida-cotidiana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/IMG-20260226-WA0155-627x376.jpg"
+      "title": "TSJ interviene tribunales regionales para acelerar la aplicación de la Ley de Amnistía",
+      "link": "https://noticiasvenevision.com/noticias/politica/tsj-interviene-tribunales-regionales-para-acelerar-la-aplicacion-de-la-ley-de-amnistia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsj-1-062548.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Bancolombia dio nuevo reporte sobre el estado de sus canales digitales este 26 de febrero",
-      "link": "https://www.noticiascaracol.com/economia/bancolombia-dio-nuevo-reporte-sobre-el-estado-de-sus-canales-digitales-este-26-de-febrero-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aff096c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F10%2F1c%2Fd47ff06b4fbcb4d385f9778c1ce4%2Fcuanto-paga-un-cdt-de-bancolombia-por-ahorrar-5-millones.jpg"
+      "title": "Fiscalía acusa formalmente a alias Chipi por el magnicidio de Miguel Uribe Turbay: ¿qué sigue?",
+      "link": "https://www.noticiascaracol.com/judicial/fiscalia-acusa-formalmente-a-alias-chipi-por-el-magnicidio-de-miguel-uribe-turbay-que-sigue-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/543829b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fab%2F46%2Fb6463668458bb8748920976e3b3f%2Fportadas-caracol-web-16.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Instagram notificará a padres si sus hijos buscan contenido sobre suicidio o autolesiones",
-      "link": "https://laverdad.com/instagram-notificara-a-padres-si-sus-hijos-buscan-contenido-sobre-suicidio-o-autolesiones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Familia-viendo-Instagram.jpg"
+      "title": "El presidente del Foro Económico Mundial deja su puesto por relación con Epstein",
+      "link": "https://laverdad.com/el-presidente-del-foro-economico-mundial-deja-su-puesto-por-relacion-con-epstein/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/davos.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presidente del Foro de Davos dimite tras vínculos con Epstein",
-      "link": "https://diarioversionfinal.com/mundo/presidente-del-foro-de-davos-dimite-tras-vinculos-con-epstein/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Ts-P2YSu-750x430.jpg"
+      "title": "Compañía energética Eni acepta crudo venezolano para compensar deuda por gas",
+      "link": "https://diarioversionfinal.com/mundo/compania-energetica-eni-acepta-crudo-venezolano-para-compensar-deuda-por-gas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-26T120641.303.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T19:05:07.385Z"
+  "lastUpdate": "2026-02-26T20:39:04.356Z"
 }
