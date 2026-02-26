@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "488,60"
     },
     "binance": {
-      "usdt": "522,89"
+      "usdt": "614,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1772045980-enfrentamiento-armado-aguas-cubanas-deja-cuatro-muertos-siete-heridos-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T05:58:11.522Z"
+  "lastUpdate": "2026-02-26T07:10:30.711Z"
 };
