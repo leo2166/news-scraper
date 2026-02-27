@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,11"
     },
     "binance": {
-      "usdt": "636,00"
+      "usdt": "637,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Alto comisionado de la ONU pide liberar a todos los presos políticos en Venezuela\nMUNDO",
-      "link": "https://www.elnacional.com/2026/02/alto-comisionado-de-la-onu-pide-liberar-a-todos-los-presos-politicos-en-venezuela/",
+      "title": "OVCS registra más de 20 protestas en Venezuela: liberación de presos políticos y ajuste salarial son las principales exigencias\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/ovcs-registra-mas-de-20-protestas-en-venezuela-liberacion-de-presos-politicos-y-ajuste-salarial-son-las-principales-exigencias/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Colombia le responde a Ecuador y también le impondrá aranceles del 50%, según Mincomercio",
-      "link": "https://www.noticiascaracol.com/economia/colombia-le-responde-a-ecuador-y-tambien-le-impondra-aranceles-del-50-segun-mincomercio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/770e93a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fba%2F6a%2F54f5247c44ba9ec3674b4c98a1b7%2Fcolombia-ecuador.jpg"
+      "title": "Bill Clinton declara ante Congreso por caso Epstein: “No tenía idea de los crímenes que él cometía”",
+      "link": "https://www.noticiascaracol.com/mundo/bill-clinton-declara-ante-congreso-por-caso-epstein-no-tenia-idea-de-los-crimenes-que-el-cometia-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/58476c3/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa1%2Ff2%2Fdeef9abc4365a82c2343897ae35a%2Fbill-clinton-caso-epstein.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. acusa a otros dos venezolanos vinculados al “Tren de Aragua” por robo a cajeros",
-      "link": "https://laverdad.com/ee-uu-acusa-a-otros-dos-venezolanos-vinculados-al-tren-de-aragua-por-robo-a-cajeros/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Venezolanos-Tren-de-Aragua.jpg"
+      "title": "Afganistán ofrece diálogo tras atacar a Pakistán y advierte de nuevas represalias",
+      "link": "https://laverdad.com/afganistan-ofrece-dialogo-tras-atacar-a-pakistan-y-advierte-de-nuevas-represalias/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Afganistan-Pakistan.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. redirige ingresos del petróleo venezolano de Catar a cuentas del Tesoro estadounidense",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-redirige-ingresos-del-petroleo-venezolano-de-catar-a-cuentas-del-tesoro-estadounidense/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/cnne-1181813-el-departamento-del-tesoro-de-ee-uu-bloqueo-el-pago-de-deuda-rusa-750x430.jpg"
+      "title": "EE. UU. acusa a dos integrantes del Tren de Aragua por robo de cajeros",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-acusa-a-dos-integrantes-del-tren-de-aragua-por-robo-de-cajeros/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Cr4v4gQs-WhatsApp-Image-2026-02-26-at-6.31.03-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-27T16:41:27.044Z"
+  "lastUpdate": "2026-02-27T17:36:01.801Z"
 };
