@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,11"
     },
     "binance": {
-      "usdt": "634,89"
+      "usdt": "616,47"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,39 +14,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento venezolano dijo que 185 personas han salido de prisión tras aprobar la ley de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/02/26/el-parlamento-venezolano-dijo-que-185-personas-han-salido-de-prision-tras-aprobar-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/AJG3SHOOV5AEFE5JFNO2HEPKWQ.JPG?auth=917c533795e369b10fc4e70229f23ac22d477d40821cbdfea3557ce0106818db&smart=true&width=350&height=197&quality=85"
+      "title": "Maduro pidió anular su juicio en Nueva York tras el bloqueo del Tesoro a su defensa legal",
+      "link": "https://www.infobae.com/venezuela/2026/02/27/maduro-pidio-anular-su-juicio-en-nueva-york-tras-el-bloqueo-del-tesoro-a-su-defensa-legal/",
+      "image": "https://www.infobae.com/resizer/v2/E22P5COZCZANPAYSDY23WN2BKY.jpg?auth=a4891613cfa0121a60e7fb24e0e5c54ec437389e8f07be055c44cd25a7c47aff&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Más de 200 presos políticos, incluido el gendarme argentino Nahuel Gallo, cumplen cinco días en huelga de hambre en El Rodeo I\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/mas-de-200-presos-politicos-incluido-el-gendarme-argentino-nahuel-gallo-cumplen-cinco-dias-en-huelga-de-hambre-en-el-rodeo-i/",
+      "title": "Foro Penal reporta que aún quedan 568 presos políticos, entre ellos 182 militares\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/foro-penal-reporta-que-aun-quedan-568-presos-politicos-entre-ellos-182-militares/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Un ciudadano de EE.UU. murió y otro resultó herido en tiroteo a lancha rápida en Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/02/26/eeuu/ciudadano-eeuu-murio-herido-lancha-cuba-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cuba-incidente-lancha.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Hillary Clinton comparece ante el Congreso sobre Epstein",
+      "link": "https://cnnespanol.cnn.com/2026/02/26/eeuu/hillary-clinton-camara-de-representantes-epstein-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263212990-1.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gustavo Petro y Delcy Rodríguez se reunirán el 14 de marzo para sellar acuerdos estratégicos",
-      "link": "https://noticiasvenevision.com/noticias/politica/gustavo-petro-y-delcy-rodriguez-se-reuniran-el-14-de-marzo-para-sellar-acuerdos-estrategicos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-02-18-at-17-10-02-d51ced.jpeg"
+      "title": "Excarcelados los dos últimos periodistas detenidos en Venezuela, según el SNTP",
+      "link": "https://noticiasvenevision.com/noticias/politica/excarcelados-los-dos-ultimos-periodistas-detenidos-en-venezuela-segun-el-sntp",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sntp-logo-d0444e.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TAREK WILLIAM SAAB ASEGURÓ QUE RESTAN 10 DÍAS PARA EL CIERRE DEL PROCESO DE AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/02/tarek-william-saab-aseguro-que-restan-10-dias-para-el-cierre-del-proceso-de-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/tarek-william-saab.jpg"
+      "title": "EE. UU. ESTIMÓ INGRESOS DE 2.000 MILLONES DE DÓLARES POR VENTAS DE CRUDO VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/02/ee-uu-estimo-ingresos-de-2-000-millones-de-dolares-por-ventas-de-crudo-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/chris-wright-eeuu-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Reportan fuerte granizada en Bogotá: estas son las zonas más afectadas",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/reportan-fuerte-granizada-en-bogota-estas-son-las-zonas-mas-afectadas-las-lluvias-en-la-ciudad-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8da9749/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff6%2F7e%2Ff575be7945fc93c7d135fee5aa92%2Fdiseno-3.jpg"
+      "title": "Hillary Clinton dice estar segura de que su esposo, Bill Clinton, no sabía de crímenes de Epstein",
+      "link": "https://www.noticiascaracol.com/mundo/hillary-clinton-dice-estar-segura-de-que-su-esposo-bill-clinton-no-sabia-de-crimenes-de-epstein-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c369a38/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F33%2F48%2Fae28b84c4b279020f217c51c22d3%2Fhillary-clinton.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/g9GVLOnQ.jpg"
     }
   ],
-  "lastUpdate": "2026-02-26T23:30:40.628Z"
+  "lastUpdate": "2026-02-27T02:05:14.460Z"
 };
