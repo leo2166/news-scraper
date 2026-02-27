@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "417,36",
-      "eur": "493,11"
+      "usd": "419,99",
+      "eur": "495,61"
     },
     "binance": {
-      "usdt": "632,50"
+      "usdt": "605,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "15 ONG exigen ruptura con la impunidad tras la salida del Fiscal General y el Defensor del Pueblo de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/27/15-ong-exigen-ruptura-con-la-impunidad-tras-la-salida-del-fiscal-general-y-el-defensor-del-pueblo-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/RX4XF6V3YVBT5OIOQBET7NL7TU.jpg?auth=df0610121074266134a8a9ad3b7fdccb50100e169235e8272fafc853c402fa56&smart=true&width=350&height=197&quality=85"
+      "title": "Enrique Márquez propuso renovar el ente electoral antes de que se realicen elecciones en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/27/enrique-marquez-propuso-renovar-el-ente-electoral-antes-de-que-se-realicen-elecciones-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6P52RWFGJ5AMFN5XAHFDB5XNLI.JPG?auth=d8312f81d4d9e48fb0077921db2dc020e1ac9977ac66f1f9910aee47095720c6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,21 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado Luis Augusto Romero: \"La renovación del Poder Ciudadano es clave para la normalización democrática de Venezuela\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-luis-augusto-romero-la-renovacion-del-poder-ciudadano-es-clave-para-la-normalizacion-democratica-de-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9662.jpg-1-b78030.jpeg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "«EL CARACAZO FUE LA PRIMERA REBELIÓN CONTRA LA BURGUESÍA»: JESÚS FARÍA",
-      "link": "https://noticierodigital.com/2026/02/el-caracazo-fue-la-primera-rebelion-contra-la-burguesia-jesus-faria/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/05/jesusfaria-corrupcion-elaissami-8may2023.jpg"
+      "title": "Jorge Arreaza confirma 217 excarcelaciones y más de 4 mil libertades plenas",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-confirma-217-excarcelaciones-y-mas-de-4-mil-libertades-plenas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-rodriguez-2-1280x853-b552bd.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla familiar de las víctimas del dron con explosivos que cayó sobre vivienda en Segovia, Antioquia",
-      "link": "https://www.noticiascaracol.com/colombia/habla-allegada-de-la-familia-que-fallecio-por-dron-con-explosivos-en-segovia-antioquia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1b31e3e/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3c%2F46%2Fecdfbaa24ca69c1fbce137fe0c50%2Fportadas-caracol-web-4.png"
+      "title": "Trump estudia una \"toma de control amistosa\" de Cuba que, dijo, “tiene problemas muy serios”",
+      "link": "https://www.noticiascaracol.com/mundo/trump-estudia-una-toma-de-control-amistosa-de-cuba-que-dijo-tiene-problemas-muy-serios-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6a59c49/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F34%2F1d%2F15dbd44e48c1bcd76ccebdda0b4a%2Ftrump-cuba-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. acusa a dos integrantes del Tren de Aragua por robo de cajeros",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-acusa-a-dos-integrantes-del-tren-de-aragua-por-robo-de-cajeros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Cr4v4gQs-WhatsApp-Image-2026-02-26-at-6.31.03-PM-750x430.jpeg"
+      "title": "Trump sugiere una intervención amistosa en Cuba: \"Están hablando con nosotros\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-sugiere-una-intervencion-amistosa-en-cuba-estan-hablando-con-nosotros/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/TE8ac50J-cuba-debate-eutanasia-1024x685-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T20:28:31.813Z"
+  "lastUpdate": "2026-02-27T21:30:06.205Z"
 };
