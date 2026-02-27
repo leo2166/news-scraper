@@ -5,7 +5,7 @@
       "eur": "493,11"
     },
     "binance": {
-      "usdt": "641,59"
+      "usdt": "639,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,23 +37,29 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-26-232206-e8f247.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PLATAFORMA UNITARIA REGISTRA 607 PRESOS POLÍTICOS EXCARCELADOS",
+      "link": "https://noticierodigital.com/2026/02/plataforma-unitaria-registra-607-presos-politicos-excarcelados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Hillary Clinton dice estar segura de que su esposo, Bill Clinton, no sabía de crímenes de Epstein",
-      "link": "https://www.noticiascaracol.com/mundo/hillary-clinton-dice-estar-segura-de-que-su-esposo-bill-clinton-no-sabia-de-crimenes-de-epstein-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c369a38/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F33%2F48%2Fae28b84c4b279020f217c51c22d3%2Fhillary-clinton.jpg"
+      "title": "Aplazan audiencia de Juliana Guerrero ante Fiscalía por títulos obtenidos en la Fundación San José",
+      "link": "https://www.noticiascaracol.com/judicial/aplazan-audiencia-de-juliana-guerrero-ante-fiscalia-por-titulos-obtenidos-en-la-fundacion-san-jose-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc81cea/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F49%2F58%2F025b81c548bdb8af64f7e2888da1%2Fjuliana-guerrero.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El presidente del Foro Económico Mundial deja su puesto por relación con Epstein",
-      "link": "https://laverdad.com/el-presidente-del-foro-economico-mundial-deja-su-puesto-por-relacion-con-epstein/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/davos.jpg"
+      "title": "Embajador de EE. UU. en Israel pide a los que quieran salir del país que lo “hagan hoy”",
+      "link": "https://laverdad.com/embajador-de-ee-uu-en-israel-pide-a-los-que-quieran-salir-del-pais-que-lo-hagan-hoy/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mike-Huckabee.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Hillary Clinton se defiende ante el Congreso y niega conocer a Jeffrey Epstein",
-      "link": "https://diarioversionfinal.com/mundo/hillary-clinton-se-defiende-ante-el-congreso-y-niega-conocer-a-jeffrey-epstein/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/g9GVLOnQ.jpg"
+      "title": "Pakistán y Afganistán entran en guerra tras colapso del acuerdo de seguridad",
+      "link": "https://diarioversionfinal.com/mundo/pakistan-y-afganistan-entran-en-guerra-tras-colapso-del-acuerdo-de-seguridad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-27T062157.904.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T13:00:34.539Z"
+  "lastUpdate": "2026-02-27T14:38:44.886Z"
 }
