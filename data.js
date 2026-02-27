@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,11"
     },
     "binance": {
-      "usdt": "639,00"
+      "usdt": "637,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué la experiencia de los Clinton podría acabar perjudicando a Trump",
-      "link": "https://cnnespanol.cnn.com/2026/02/27/eeuu/analisis-terrible-experiencia-clinton-perjudicando-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-01-20t164639z-1550917619-rc2ndca206j3-rtrmadp-3-usa-trump-inauguration-20260227054605310.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La madre de todas las crisis: por qué Cuba está tan cerca de un punto de no retorno",
+      "link": "https://cnnespanol.cnn.com/2026/02/27/latinoamerica/razones-crisis-cuba-economia-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261647218.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PLATAFORMA UNITARIA REGISTRA 607 PRESOS POLÍTICOS EXCARCELADOS",
-      "link": "https://noticierodigital.com/2026/02/plataforma-unitaria-registra-607-presos-politicos-excarcelados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
+      "title": "BRITO DESCARTÓ ELECCIONES TRAS CAPTURA DE MADURO: «AQUÍ NO HAY VACANCIA ABSOLUTA»",
+      "link": "https://noticierodigital.com/2026/02/brito-descarto-elecciones-tras-captura-de-maduro-aqui-no-hay-vacancia-absoluta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/jose-brito-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Aplazan audiencia de Juliana Guerrero ante Fiscalía por títulos obtenidos en la Fundación San José",
-      "link": "https://www.noticiascaracol.com/judicial/aplazan-audiencia-de-juliana-guerrero-ante-fiscalia-por-titulos-obtenidos-en-la-fundacion-san-jose-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc81cea/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F49%2F58%2F025b81c548bdb8af64f7e2888da1%2Fjuliana-guerrero.jpg"
+      "title": "Colombia le responde a Ecuador y también le impondrá aranceles del 50%, según Mincomercio",
+      "link": "https://www.noticiascaracol.com/economia/colombia-le-responde-a-ecuador-y-tambien-le-impondra-aranceles-del-50-segun-mincomercio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/770e93a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fba%2F6a%2F54f5247c44ba9ec3674b4c98a1b7%2Fcolombia-ecuador.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Embajador de EE. UU. en Israel pide a los que quieran salir del país que lo “hagan hoy”",
-      "link": "https://laverdad.com/embajador-de-ee-uu-en-israel-pide-a-los-que-quieran-salir-del-pais-que-lo-hagan-hoy/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/Mike-Huckabee.jpg"
+      "title": "Irán optimista en negociaciones con EE. UU. aunque un ataque parece inminente",
+      "link": "https://laverdad.com/iran-optimista-en-negociaciones-con-ee-uu-aunque-un-ataque-parece-inminente/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/Iran-ataque-inminente.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pakistán y Afganistán entran en guerra tras colapso del acuerdo de seguridad",
-      "link": "https://diarioversionfinal.com/mundo/pakistan-y-afganistan-entran-en-guerra-tras-colapso-del-acuerdo-de-seguridad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/images-2026-02-27T062157.904.jpg"
+      "title": "USS Gerald R. Ford llega a Israel en plena tensión con Irán",
+      "link": "https://diarioversionfinal.com/mundo/uss-gerald-r-ford-llega-a-israel-en-plena-tension-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/1200x675_cmsv2_eca83007-40e7-5386-96b1-5683e5eee6fc-9666662-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T14:38:44.886Z"
+  "lastUpdate": "2026-02-27T15:37:50.816Z"
 };
