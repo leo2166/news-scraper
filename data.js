@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,11"
     },
     "binance": {
-      "usdt": "629,89"
+      "usdt": "644,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez se reunió con directivos petroleros para avanzar en “proyectos gasíferos” y ampliar las inversiones extranjeras en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/27/delcy-rodriguez-se-reunio-con-directivos-petroleros-para-avanzar-en-proyectos-gasiferos-y-ampliar-las-inversiones-extranjeras-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/Q226WQM6WJBINBALNDLKVPK33U.JPG?auth=bf3b1256349edd960e39c338394346d8b34d49120a89a43b6420e79bae20d42e&smart=true&width=350&height=197&quality=85"
+      "title": "15 ONG exigen ruptura con la impunidad tras la salida del Fiscal General y el Defensor del Pueblo de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/27/15-ong-exigen-ruptura-con-la-impunidad-tras-la-salida-del-fiscal-general-y-el-defensor-del-pueblo-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/RX4XF6V3YVBT5OIOQBET7NL7TU.jpg?auth=df0610121074266134a8a9ad3b7fdccb50100e169235e8272fafc853c402fa56&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. estimó ingresos de 2.000 millones de dólares por ventas de crudo venezolano",
+      "title": "EE. UU. ESTIMÓ INGRESOS DE 2.000 MILLONES DE DÓLARES POR VENTAS DE CRUDO VENEZOLANO",
       "link": "https://noticierodigital.com/2026/02/ee-uu-estimo-ingresos-de-2-000-millones-de-dolares-por-ventas-de-crudo-venezolano/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/02/chris-wright-eeuu-3-627x376.jpg"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/g9GVLOnQ.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T09:41:27.673Z"
+  "lastUpdate": "2026-02-27T10:38:41.471Z"
 };
