@@ -5,7 +5,7 @@
       "eur": "493,11"
     },
     "binance": {
-      "usdt": "642,59"
+      "usdt": "641,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal reporta que aún quedan 568 presos políticos, entre ellos 182 militares\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/foro-penal-reporta-que-aun-quedan-568-presos-politicos-entre-ellos-182-militares/",
+      "title": "Alto comisionado de la ONU pide liberar a todos los presos políticos en Venezuela\nMUNDO",
+      "link": "https://www.elnacional.com/2026/02/alto-comisionado-de-la-onu-pide-liberar-a-todos-los-presos-politicos-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -35,12 +35,6 @@
       "title": "Enrique Márquez regresó a Venezuela luego de su visita a Washington",
       "link": "https://noticiasvenevision.com/noticias/politica/enrique-marquez-regreso-a-venezuela-luego-de-su-visita-a-washington",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-26-232206-e8f247.png"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "EE. UU. ESTIMÓ INGRESOS DE 2.000 MILLONES DE DÓLARES POR VENTAS DE CRUDO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/02/ee-uu-estimo-ingresos-de-2-000-millones-de-dolares-por-ventas-de-crudo-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/chris-wright-eeuu-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/g9GVLOnQ.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T11:32:54.540Z"
+  "lastUpdate": "2026-02-27T13:00:34.539Z"
 }
