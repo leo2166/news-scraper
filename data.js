@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "635,10"
+      "usdt": "636,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Enrique Márquez propuso renovar el ente electoral antes de que se realicen elecciones en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/27/enrique-marquez-propuso-renovar-el-ente-electoral-antes-de-que-se-realicen-elecciones-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6P52RWFGJ5AMFN5XAHFDB5XNLI.JPG?auth=d8312f81d4d9e48fb0077921db2dc020e1ac9977ac66f1f9910aee47095720c6&smart=true&width=350&height=197&quality=85"
+      "title": "Levantaron el arresto domiciliario a Freddy Superlano tras 19 meses: recuperó la libertad plena por la Ley de Amnistía en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/02/27/levantaron-el-arresto-domiciliario-a-freddy-superlano-tras-19-meses-recupero-la-libertad-plena-por-la-ley-de-amnistia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/LAA4KTKPC5GKHCMNMJBUEPONJY?auth=6e69b397edd0b0cceb8c2d300b384d99ce8965e88389d1d06c1d031a945f4254&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Enrique Márquez asegura que la crisis política terminará en una elección y pide que el destino sea \"la democracia\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/enrique-marquez-asegura-que-la-crisis-politica-terminara-en-una-eleccion-y-pide-que-el-destino-sea-la-democracia/",
+      "title": "Revelan lo que pensaba Nicolás Maduro de Delcy Rodríguez días antes de ser capturado por EE UU\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/02/revelan-lo-que-pensaba-nicolas-maduro-de-delcy-rodriguez-dias-antes-de-ser-capturado-por-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreaza confirma 217 excarcelaciones y más de 4 mil libertades plenas",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-confirma-217-excarcelaciones-y-mas-de-4-mil-libertades-plenas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-rodriguez-2-1280x853-b552bd.jpg"
+      "title": "AN anuncia convocatoria del 2 al 9 marzo para postular aspirantes a Fiscal y Defensor",
+      "link": "https://noticiasvenevision.com/noticias/politica/an-anuncia-convocatoria-del-2-al-9-marzo-para-postular-aspirantes-a-fiscal-y-defensor",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hcmhxgabeaaboqm-545f76.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONATEL CERRÓ E INCAUTÓ EQUIPOS DE LA EMISORA RÍTMICA 104.1 FM EN PUERTO CABELLO",
-      "link": "https://noticierodigital.com/2026/02/conatel-cerro-e-incauto-equipos-de-la-emisora-ritmica-104-1-fm-en-puerto-cabello/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/conatel-sede-foto-archivo-15oct2021.jpg"
+      "title": "EXCARCELARON A LA CAPITANA ROCÍO FERNÁNDEZ TRAS MESES DE DETENCIÓN, CONFIRMÓ FORO PENAL",
+      "link": "https://noticierodigital.com/2026/02/excarcelaron-a-la-capitana-rocio-fernandez-tras-meses-de-detencion-confirmo-foro-penal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Rocio-del-Valle-Fernandez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. confisca petrolero Skipper y 1,8 millones de barriles de crudo venezolano",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-confisca-petrolero-skipper-y-18-millones-de-barriles-de-crudo-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Skipper-750x430.jpg"
+      "title": "Pentágono da ultimátum a Anthropic y amenaza con romper relaciones",
+      "link": "https://diarioversionfinal.com/mundo/pentagono-da-ultimatum-a-anthropic-y-amenaza-con-romper-relaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/H12-Anthropic-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T22:27:06.026Z"
+  "lastUpdate": "2026-02-27T23:25:53.004Z"
 };
