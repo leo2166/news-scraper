@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "605,80"
+      "usdt": "635,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,10 +37,16 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-rodriguez-2-1280x853-b552bd.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CONATEL CERRÓ E INCAUTÓ EQUIPOS DE LA EMISORA RÍTMICA 104.1 FM EN PUERTO CABELLO",
+      "link": "https://noticierodigital.com/2026/02/conatel-cerro-e-incauto-equipos-de-la-emisora-ritmica-104-1-fm-en-puerto-cabello/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/conatel-sede-foto-archivo-15oct2021.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Trump estudia una \"toma de control amistosa\" de Cuba que, dijo, “tiene problemas muy serios”",
-      "link": "https://www.noticiascaracol.com/mundo/trump-estudia-una-toma-de-control-amistosa-de-cuba-que-dijo-tiene-problemas-muy-serios-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6a59c49/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F34%2F1d%2F15dbd44e48c1bcd76ccebdda0b4a%2Ftrump-cuba-1.jpg"
+      "title": "Mamá de Sara Sofía relata qué fue lo que supuestamente pasó con la niña y qué le hizo Nilson Díaz",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/mama-de-sara-sofia-relata-que-fue-lo-que-supuestamente-paso-con-la-nina-y-que-le-hizo-nilson-diaz-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c29a550/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2Fcb%2Ffa90fe84450d8fc7c44461ed7981%2Fsara-sofia-galvan-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump sugiere una intervención amistosa en Cuba: \"Están hablando con nosotros\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-sugiere-una-intervencion-amistosa-en-cuba-estan-hablando-con-nosotros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/TE8ac50J-cuba-debate-eutanasia-1024x685-1-750x430.jpg"
+      "title": "EE. UU. confisca petrolero Skipper y 1,8 millones de barriles de crudo venezolano",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-confisca-petrolero-skipper-y-18-millones-de-barriles-de-crudo-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Skipper-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T21:30:06.205Z"
+  "lastUpdate": "2026-02-27T22:27:06.026Z"
 }
