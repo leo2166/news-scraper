@@ -28,13 +28,13 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Hillary Clinton comparece ante el Congreso sobre Epstein",
       "link": "https://cnnespanol.cnn.com/2026/02/26/eeuu/hillary-clinton-camara-de-representantes-epstein-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263212990-1.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cuba-incidente-lancha.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Excarcelados los dos últimos periodistas detenidos en Venezuela, según el SNTP",
-      "link": "https://noticiasvenevision.com/noticias/politica/excarcelados-los-dos-ultimos-periodistas-detenidos-en-venezuela-segun-el-sntp",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sntp-logo-d0444e.png"
+      "title": "Enrique Márquez regresó a Venezuela luego de su visita a Washington",
+      "link": "https://noticiasvenevision.com/noticias/politica/enrique-marquez-regreso-a-venezuela-luego-de-su-visita-a-washington",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-02-26-232206-e8f247.png"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/g9GVLOnQ.jpg"
     }
   ],
-  "lastUpdate": "2026-02-27T02:05:14.460Z"
+  "lastUpdate": "2026-02-27T04:45:55.638Z"
 };
