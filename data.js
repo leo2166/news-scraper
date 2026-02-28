@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "635,59"
+      "usdt": "634,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump: el ayatola Alí Jamenei, líder supremo de Irán, ha muerto",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
+      "title": "Trump: el líder supremo de Irán murió en los ataques del sábado",
+      "link": "https://cnnespanol.cnn.com/2026/02/28/mundo/iran-ayatola-ali-jamenei-muere-dice-trump-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno desmiente información sobre designación de un nuevo Ministro de Defensa",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-desmiente-informacion-sobre-designacion-de-un-nuevo-ministro-de-defensa",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/palacio-de-miraflores-768x461-1-a46e5a.jpg"
+      "title": "Jorge Arreaza informó que excarcelaron a 31 militares",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-informo-que-excarcelaron-a-31-militares",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-0e63a1.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "TRUMP TRAS MUERTE DE JAMENEÍ: «BOMBARDEOS SERÁN HASTA QUE HAYA PAZ EN IRÁN»",
+      "link": "https://noticierodigital.com/2026/02/trump-tras-muerte-de-jamenei-bombardeos-seran-hasta-que-haya-paz-en-iran/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/243091c4ac9618ff9024bdf0a88c95dc.webp-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump confirma muerte del líder supremo iraní, Ali Jamenei",
-      "link": "https://diarioversionfinal.com/mundo/trump-confirma-muerte-del-lider-supremo-irani-ali-jamenei/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
+      "title": "Emergencia en el aeropuerto de Dubái tras ataque iraní",
+      "link": "https://diarioversionfinal.com/mundo/emergencia-en-el-aeropuerto-de-dubai-tras-ataque-irani/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0527-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-28T22:23:36.300Z"
+  "lastUpdate": "2026-02-28T23:22:20.359Z"
 };
