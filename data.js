@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "609,07"
+      "usdt": "609,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Enrique Márquez dice que Venezuela “es otro país” tras la captura de Maduro",
-      "link": "https://cnnespanol.cnn.com/2026/02/27/venezuela/entrevista-enrique-marquez-pais-cambios-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-27-at-21-33-02.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. e Israel lanzan ataques contra Irán",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2221006054.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Donald_Trump_EEUU-8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-28T06:39:34.640Z"
+  "lastUpdate": "2026-02-28T07:27:34.096Z"
 };
