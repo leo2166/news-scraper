@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "637,59"
+      "usdt": "636,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Revelan lo que pensaba Nicolás Maduro de Delcy Rodríguez días antes de ser capturado por EE UU\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/02/revelan-lo-que-pensaba-nicolas-maduro-de-delcy-rodriguez-dias-antes-de-ser-capturado-por-ee-uu/",
+      "title": "EE UU e Israel lanzaron ataque contra Irán este sábado\nMUNDO",
+      "link": "https://www.elnacional.com/2026/02/ee-uu-e-israel-lanzaron-ataque-contra-iran-este-sabado/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "EE.UU. e Israel atacan Irán, y Teherán lanza represalias",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-27-at-21-33-02.jpeg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/72407354-47326739-generated-thumbnail.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/FSs4pgIL-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-28T10:24:47.385Z"
+  "lastUpdate": "2026-02-28T11:20:32.486Z"
 };
