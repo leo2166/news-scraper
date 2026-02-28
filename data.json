@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "EE.UU. e Israel atacan Irán, y Teherán lanza represalias",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260228-iran-ataques-represalia-hp.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-en-iran.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Videos captan momento exacto de los ataques de Estados Unidos e Israel contra Irán",
-      "link": "https://www.noticiascaracol.com/mundo/videos-captan-momento-exacto-de-los-ataques-de-estados-unidos-e-israel-contra-iran-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d81ad06/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F90%2F89b35b7a4b799d4bf894c6906342%2Fvideos-captan-momento-exacto-de-los-ataques-de-estados-unidos-e-israel-contra-iran.jpg"
+      "title": "Según Media Luna Roja, más de 200 personas han muerto en Irán por ataques de EE. UU. e Israel",
+      "link": "https://www.noticiascaracol.com/mundo/segun-media-luna-roja-mas-de-200-personas-han-muerto-en-iran-por-ataques-de-ee-uu-e-israel-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f40434c/2147483647/strip/true/crop/1278x721+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F10%2Fd5%2F07e3839443cc8f845a4eed673289%2Fataques-iran.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán suspende servicios de internet y telefonía en medio de ofensiva militar",
-      "link": "https://diarioversionfinal.com/mundo/iran-suspende-servicios-de-internet-y-telefonia-en-medio-de-ofensiva-militar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Iran-sufre-un-corte-casi-total-de-la-conexion-a-1536x1024-1-750x430.jpg"
+      "title": "Irán comienza el cierre del estrecho de Ormuz en represalia por ataques",
+      "link": "https://diarioversionfinal.com/mundo/iran-comienza-el-cierre-del-estrecho-de-ormuz-en-represalia-por-ataques/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0517-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-28T18:34:15.649Z"
+  "lastUpdate": "2026-02-28T19:21:03.010Z"
 }
