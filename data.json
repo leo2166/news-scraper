@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "636,10"
+      "usdt": "636,05"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,33 +26,33 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Fuentes israelíes dicen que murió el ayatolá Alí Jamenei, líder supremo de Irán",
+      "title": "Fuentes israelíes dicen que murió el ayatola Alí Jamenei, líder supremo de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b7fce7c0-cc04-47e8-ab50-29149b3d1534.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela creará el Consejo Académico de Hidrocarburos para potenciar la producción nacional",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-creara-el-consejo-academico-de-hidrocarburos-para-potenciar-la-produccion-nacional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/04zc6303p-1-2048x1366jpg-194129-6ece67.jpg"
+      "title": "Gobierno desmiente información sobre designación de un nuevo Ministro de Defensa",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-desmiente-informacion-sobre-designacion-de-un-nuevo-ministro-de-defensa",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/palacio-de-miraflores-768x461-1-a46e5a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PLATAFORMA UNITARIA REGISTRA 618 PRESOS POLÍTICOS EXCARCELADOS HASTA ESTE 28F",
-      "link": "https://noticierodigital.com/2026/02/plataforma-unitaria-registra-618-presos-politicos-excarcelados-hasta-este-28f/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/20260223_145846-627x376.jpg"
+      "title": "JORGE ARREAZA INFORMÓ EXCARCELACIÓN DE 31 MILITARES PRESOS POLÍTICOS",
+      "link": "https://noticierodigital.com/2026/02/jorge-arreaza-informo-excarcelacion-de-31-militares-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/jorge-arreaza.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Según Media Luna Roja, más de 200 personas han muerto en Irán por ataques de EE. UU. e Israel",
-      "link": "https://www.noticiascaracol.com/mundo/segun-media-luna-roja-mas-de-200-personas-han-muerto-en-iran-por-ataques-de-ee-uu-e-israel-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f40434c/2147483647/strip/true/crop/1278x721+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F10%2Fd5%2F07e3839443cc8f845a4eed673289%2Fataques-iran.jpg"
+      "title": "EN VIVO | Ataque de Israel y Estados Unidos contra Irán, que responde a la ofensiva: minuto a minuto",
+      "link": "https://www.noticiascaracol.com/mundo/en-vivo-ataque-de-israel-y-estados-unidos-a-iran-minuto-a-minuto-de-la-ofensiva-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/101c289/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2F46%2F78e9cd364d2ca30c334b93b5dd1b%2Fen-vivo-ataque-de-israel-y-estados-unidos-a-iran-minuto-a-minuto-de-la-ofensiva.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "ONU y UE convocan reuniones de emergencia ante escalada militar en Irán",
-      "link": "https://laverdad.com/onu-y-ue-convocan-reuniones-de-emergencia-ante-escalada-militar-en-iran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/17161D524C43466D171E0F55514941711F14161853444C71141E-1200x800-1.jpg"
+      "title": "Iraníes celebran en Teherán presunta muerte del líder supremo, Ali Jameneí",
+      "link": "https://laverdad.com/iranies-celebran-en-teheran-presunta-muerte-del-lider-supremo-ali-jamenei/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/GettyImages-2255173177.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/1094063403_0_0_3069_2048_1440x900_80_0_1_71da3fb4f0c49f99306b6400b1ee7311.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-28T20:27:21.739Z"
+  "lastUpdate": "2026-02-28T21:22:05.463Z"
 }
