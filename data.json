@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "635,50"
+      "usdt": "636,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Israel atacan Irán, y Teherán lanza represalias",
+      "title": "Fuentes israelíes dicen que murió el ayatolá Alí Jamenei, líder supremo de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-en-iran.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b7fce7c0-cc04-47e8-ab50-29149b3d1534.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela rechaza el uso de la vía militar contra Irán",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-condeno-el-uso-de-la-via-militar-contra-iran",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cancilleriavenezuelaversionfinal-e5eb95.jpg"
+      "title": "Venezuela creará el Consejo Académico de Hidrocarburos para potenciar la producción nacional",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-creara-el-consejo-academico-de-hidrocarburos-para-potenciar-la-produccion-nacional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/04zc6303p-1-2048x1366jpg-194129-6ece67.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán comienza el cierre del estrecho de Ormuz en represalia por ataques",
-      "link": "https://diarioversionfinal.com/mundo/iran-comienza-el-cierre-del-estrecho-de-ormuz-en-represalia-por-ataques/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0517-750x430.webp"
+      "title": "Alí Jamenei, el líder religioso extremista que Netanyahu asegura haber matado",
+      "link": "https://diarioversionfinal.com/mundo/ali-jamenei-el-lider-religioso-extremista-que-netanyahu-asegura-haber-matado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/1094063403_0_0_3069_2048_1440x900_80_0_1_71da3fb4f0c49f99306b6400b1ee7311.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-28T19:21:03.010Z"
+  "lastUpdate": "2026-02-28T20:27:21.739Z"
 }
