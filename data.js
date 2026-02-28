@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "636,59"
+      "usdt": "627,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Bill Clinton niega tener conocimiento de los crímenes de Epstein en histórico testimonio",
-      "link": "https://cnnespanol.cnn.com/2026/02/27/eeuu/bill-clinton-testifica-congreso-epstein-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/d88b2170-a64b-43ad-8b60-1543b32fdcec.png?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Enrique Márquez dice que Venezuela “es otro país” tras la captura de Maduro",
+      "link": "https://cnnespanol.cnn.com/2026/02/27/venezuela/entrevista-enrique-marquez-pais-cambios-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-27-at-21-33-02.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "AN anuncia convocatoria del 2 al 9 marzo para postular aspirantes a Fiscal y Defensor",
-      "link": "https://noticiasvenevision.com/noticias/politica/an-anuncia-convocatoria-del-2-al-9-marzo-para-postular-aspirantes-a-fiscal-y-defensor",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hcmhxgabeaaboqm-545f76.jpg"
+      "title": "Excarcelados al menos ocho militares en Venezuela, dice la ONG Foro Penal",
+      "link": "https://noticiasvenevision.com/noticias/politica/excarcelados-al-menos-ocho-militares-en-venezuela-dice-la-ong-foro-penal",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-7684a4.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Donald_Trump_EEUU-8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-28T01:55:25.378Z"
+  "lastUpdate": "2026-02-28T03:56:09.814Z"
 };
