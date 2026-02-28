@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "608,89"
+      "usdt": "609,07"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Donald_Trump_EEUU-8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-02-28T04:56:53.464Z"
+  "lastUpdate": "2026-02-28T05:36:06.331Z"
 };
