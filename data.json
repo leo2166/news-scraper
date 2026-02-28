@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "634,59"
+      "usdt": "635,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Excarcelados al menos ocho militares en Venezuela, dice la ONG Foro Penal",
-      "link": "https://noticiasvenevision.com/noticias/politica/excarcelados-al-menos-ocho-militares-en-venezuela-dice-la-ong-foro-penal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-7684a4.jpg"
+      "title": "Venezuela rechaza el uso de la vía militar contra Irán",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-condeno-el-uso-de-la-via-militar-contra-iran",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cancilleriavenezuelaversionfinal-e5eb95.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TIMOTEO ZAMBRANO SE REUNIÓ CON VÍCTOR RAGO Y ABOGÓ POR UN NUEVO «PACTO SOCIAL»",
-      "link": "https://noticierodigital.com/2026/02/timoteo-zambrano-se-reunio-con-victor-rago-y-abogo-por-un-nuevo-pacto-social/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/imagen_2026-02-28_111830398-627x376.png"
+      "title": "PLATAFORMA UNITARIA REGISTRA 618 PRESOS POLÍTICOS EXCARCELADOS HASTA ESTE 28F",
+      "link": "https://noticierodigital.com/2026/02/plataforma-unitaria-registra-618-presos-politicos-excarcelados-hasta-este-28f/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/20260223_145846-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "La nueva guerra podría empujar el petróleo a 100 dólares por barril",
-      "link": "https://diarioversionfinal.com/mundo/la-nueva-guerra-podria-empujar-el-petroleo-a-100-dolares-por-barril/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/Petroleo-venezolano-a-EEUU-X-750x430.jpg"
+      "title": "Irán suspende servicios de internet y telefonía en medio de ofensiva militar",
+      "link": "https://diarioversionfinal.com/mundo/iran-suspende-servicios-de-internet-y-telefonia-en-medio-de-ofensiva-militar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Iran-sufre-un-corte-casi-total-de-la-conexion-a-1536x1024-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-28T17:20:50.870Z"
+  "lastUpdate": "2026-02-28T18:34:15.649Z"
 }
