@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "634,50"
+      "usdt": "634,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Según autoridades iraníes, al menos 85 personas murieron en ataque israelí contra escuela en Irán",
-      "link": "https://www.noticiascaracol.com/mundo/sube-a-40-la-cifra-de-ninas-muertas-en-un-ataque-israeli-contra-una-escuela-en-sur-de-iran-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5445aca/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F36%2Fa3%2F5b8217ed4b2e8601823a3a5f5bf0%2Fsube-a-40-la-cifra-de-ninas-muertas-en-un-ataque-israeli-contra-una-escuela-en-sur-de-iran.jpg"
+      "title": "Videos captan momento exacto de los ataques de Estados Unidos e Israel contra Irán",
+      "link": "https://www.noticiascaracol.com/mundo/videos-captan-momento-exacto-de-los-ataques-de-estados-unidos-e-israel-contra-iran-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d81ad06/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F90%2F89b35b7a4b799d4bf894c6906342%2Fvideos-captan-momento-exacto-de-los-ataques-de-estados-unidos-e-israel-contra-iran.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Primer ministro de Países Bajos expresa que lleva 10 años lidiando con “una homofobia enorme”",
-      "link": "https://laverdad.com/primer-ministro-de-paises-bajos-expresa-que-lleva-10-anos-lidiando-con-una-homofobia-enorme/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-28-at-10.34.04-AM.jpg"
+      "title": "ONU y UE convocan reuniones de emergencia ante escalada militar en Irán",
+      "link": "https://laverdad.com/onu-y-ue-convocan-reuniones-de-emergencia-ante-escalada-militar-en-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/17161D524C43466D171E0F55514941711F14161853444C71141E-1200x800-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ursula von der Leyen convoca reunión de urgencia ante escalada de conflicto en Irán",
-      "link": "https://diarioversionfinal.com/mundo/ursula-von-der-leyen-convoca-reunion-de-urgencia-ante-escalada-de-conflicto-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/fe3a236dcfea14d59f6cce5b9eeac550ae1fe2f9w-750x375-1.jpg"
+      "title": "La nueva guerra podría empujar el petróleo a 100 dólares por barril",
+      "link": "https://diarioversionfinal.com/mundo/la-nueva-guerra-podria-empujar-el-petroleo-a-100-dolares-por-barril/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/Petroleo-venezolano-a-EEUU-X-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-28T16:27:46.916Z"
+  "lastUpdate": "2026-02-28T17:20:50.870Z"
 };
