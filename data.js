@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "609,00"
+      "usdt": "637,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Estados Unidos ataca Irán",
+      "title": "EE.UU. e Israel atacan Irán, y Teherán lanza represalias",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-02-27-at-21-33-02.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia que EE. UU. controlará la refinación y exportación del petróleo venezolano",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-que-ee-uu-controlara-la-refinacion-y-exportacion-del-petroleo-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Donald_Trump_EEUU-8-750x430.webp"
+      "title": "Irán responde a bombardeos y descarga misiles contra Israel",
+      "link": "https://diarioversionfinal.com/mundo/iran-responde-a-bombardeos-y-descarga-misiles-contra-israel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/FSs4pgIL-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-02-28T09:26:56.590Z"
+  "lastUpdate": "2026-02-28T10:24:47.385Z"
 };
