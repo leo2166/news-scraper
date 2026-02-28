@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "636,05"
+      "usdt": "635,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@
     },
     {
       "source": "El Nacional",
-      "title": "De la captura de Maduro a la ofensiva total contra Irán: los bombardeos ordenados por Trump en su segundo mandato\nMUNDO",
-      "link": "https://www.elnacional.com/2026/02/de-la-captura-de-maduro-a-la-ofensiva-total-contra-iran-los-bombardeos-ordenados-por-trump-en-su-segundo-mandato/",
+      "title": "Trump confirmó la muerte del ayatolá Ali Jameneí y pidió a los iraníes que recuperen el país\nMUNDO",
+      "link": "https://www.elnacional.com/2026/02/trump-confirmo-la-muerte-del-ayatola-ali-jamenei-y-pidio-a-los-iranies-que-recuperen-el-pais/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Fuentes israelíes dicen que murió el ayatola Alí Jamenei, líder supremo de Irán",
+      "title": "Trump: el ayatola Alí Jamenei, líder supremo de Irán, ha muerto",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -35,12 +35,6 @@
       "title": "Gobierno desmiente información sobre designación de un nuevo Ministro de Defensa",
       "link": "https://noticiasvenevision.com/noticias/politica/gobierno-desmiente-informacion-sobre-designacion-de-un-nuevo-ministro-de-defensa",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/palacio-de-miraflores-768x461-1-a46e5a.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "JORGE ARREAZA INFORMÓ EXCARCELACIÓN DE 31 MILITARES PRESOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/02/jorge-arreaza-informo-excarcelacion-de-31-militares-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/jorge-arreaza.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Alí Jamenei, el líder religioso extremista que Netanyahu asegura haber matado",
-      "link": "https://diarioversionfinal.com/mundo/ali-jamenei-el-lider-religioso-extremista-que-netanyahu-asegura-haber-matado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/1094063403_0_0_3069_2048_1440x900_80_0_1_71da3fb4f0c49f99306b6400b1ee7311.jpg-750x430.webp"
+      "title": "Trump confirma muerte del líder supremo iraní, Ali Jamenei",
+      "link": "https://diarioversionfinal.com/mundo/trump-confirma-muerte-del-lider-supremo-irani-ali-jamenei/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-28T21:22:05.463Z"
+  "lastUpdate": "2026-02-28T22:23:36.300Z"
 }
