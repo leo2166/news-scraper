@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "618,89"
+      "usdt": "631,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«NO HAY NADA QUE CELEBRAR»: SUPERLANO EXIGIÓ LA LIBERACIÓN DE TODOS LOS PRESOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/02/no-hay-nada-que-celebrar-superlano-exigio-la-liberacion-de-todos-los-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/freddy-superlano-627x376.jpg"
+      "title": "ISRAEL ATACA DOS ESCUELAS EN IRÁN Y MATA A MÁS DE 50 PERSONAS",
+      "link": "https://noticierodigital.com/2026/02/israel-ataca-dos-escuelas-en-iran-y-mata-a-mas-de-50-personas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/imagen_2026-02-28_092709078-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Mamá de Sara Sofía relata qué fue lo que supuestamente pasó con la niña y qué le hizo Nilson Díaz",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/mama-de-sara-sofia-relata-que-fue-lo-que-supuestamente-paso-con-la-nina-y-que-le-hizo-nilson-diaz-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c29a550/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2Fcb%2Ffa90fe84450d8fc7c44461ed7981%2Fsara-sofia-galvan-1.jpg"
+      "title": "Sube a 40 la cifra de niñas muertas en un ataque israelí contra una escuela en sur de Irán",
+      "link": "https://www.noticiascaracol.com/mundo/sube-a-40-la-cifra-de-ninas-muertas-en-un-ataque-israeli-contra-una-escuela-en-sur-de-iran-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5445aca/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F36%2Fa3%2F5b8217ed4b2e8601823a3a5f5bf0%2Fsube-a-40-la-cifra-de-ninas-muertas-en-un-ataque-israeli-contra-una-escuela-en-sur-de-iran.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel asegura lanzó ataques contra el líder supremo Ali Jameneí y el presidente iraní",
-      "link": "https://diarioversionfinal.com/mundo/israel-asegura-lanzo-ataques-contra-el-lider-supremo-ali-jamenei-y-el-presidente-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/GWQ4DPFZJNDI5OHHTEII64GOAU-750x430.webp"
+      "title": "La UE condena la amenaza iraní y refuerza medidas tras ataques conjuntos",
+      "link": "https://diarioversionfinal.com/mundo/la-ue-condena-la-amenaza-irani-y-refuerza-medidas-tras-ataques-conjuntos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Karja-Kallas-Photo-by-Thierry-Monasse-Contributor-Getty-Images-EDITED-1024x576-1-750x430.png"
     }
   ],
-  "lastUpdate": "2026-02-28T12:47:12.329Z"
+  "lastUpdate": "2026-02-28T13:36:45.647Z"
 };
