@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "634,99"
+      "usdt": "634,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,8 +26,8 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump: el líder supremo de Irán murió en los ataques del sábado",
-      "link": "https://cnnespanol.cnn.com/2026/02/28/mundo/iran-ayatola-ali-jamenei-muere-dice-trump-trax",
+      "title": "Irán confirma la muerte del ayatola Alí Jamenei en los ataques",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Ataque de Israel y Estados Unidos contra Irán, que responde a la ofensiva: minuto a minuto",
-      "link": "https://www.noticiascaracol.com/mundo/en-vivo-ataque-de-israel-y-estados-unidos-a-iran-minuto-a-minuto-de-la-ofensiva-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/101c289/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2F46%2F78e9cd364d2ca30c334b93b5dd1b%2Fen-vivo-ataque-de-israel-y-estados-unidos-a-iran-minuto-a-minuto-de-la-ofensiva.jpg"
+      "title": "Con muerte de Alí Jamenei, ¿qué pasaría con régimen de Irán y quién podría suceder al líder supremo?",
+      "link": "https://www.noticiascaracol.com/mundo/con-muerte-de-ali-jamenei-que-pasaria-con-regimen-de-iran-y-quien-podria-suceder-al-lider-supremo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5150cfd/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F66%2F1d%2F0d0f109a481499e63f0f548f3498%2Fmuerte-ayatola.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Emergencia en el aeropuerto de Dubái tras ataque iraní",
-      "link": "https://diarioversionfinal.com/mundo/emergencia-en-el-aeropuerto-de-dubai-tras-ataque-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0527-750x430.jpeg"
+      "title": "Nuevo plan de Trump pondría en riesgo el permiso de trabajo de miles de migrantes",
+      "link": "https://diarioversionfinal.com/mundo/nuevo-plan-de-trump-pondria-en-riesgo-el-permiso-de-trabajo-de-miles-de-migrantes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0528-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-02-28T23:22:20.359Z"
+  "lastUpdate": "2026-03-01T02:25:14.416Z"
 }
