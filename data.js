@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "637,50"
+      "usdt": "629,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump confirmó la muerte del ayatolá Ali Jameneí y pidió a los iraníes que recuperen el país\nMUNDO",
-      "link": "https://www.elnacional.com/2026/02/trump-confirmo-la-muerte-del-ayatola-ali-jamenei-y-pidio-a-los-iranies-que-recuperen-el-pais/",
+      "title": "Irán activa un consejo de transición tras la muerte de Jamenei\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/iran-activa-un-consejo-de-transicion-tras-la-muerte-de-jamenei/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP TRAS MUERTE DE JAMENEÍ: «BOMBARDEOS SERÁN HASTA QUE HAYA PAZ EN IRÁN»",
-      "link": "https://noticierodigital.com/2026/02/trump-tras-muerte-de-jamenei-bombardeos-seran-hasta-que-haya-paz-en-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/243091c4ac9618ff9024bdf0a88c95dc.webp-627x376.jpg"
+      "title": "COLOMBIANOS DETENIDOS EN RODEO I MANTIENEN HUELGA DE HAMBRE Y DENUNCIAN EXCLUSIÓN DE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/03/colombianos-detenidos-en-rodeo-i-mantienen-huelga-de-hambre-y-denuncian-exclusion-de-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/rodeo-I-prision-miranda-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel desata nuevo bombardeo en el corazón de Teherán",
-      "link": "https://diarioversionfinal.com/mundo/israel-desata-nuevo-bombardeo-en-el-corazon-de-teheran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/kzItKzKw-image-750x430.jpg"
+      "title": "El Papa llama a frenar la escalada bélica en Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/el-papa-llama-a-frenar-la-escalada-belica-en-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/vOYIAtjd-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T11:21:30.960Z"
+  "lastUpdate": "2026-03-01T12:50:34.575Z"
 };
