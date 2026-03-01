@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "632,50"
+      "usdt": "631,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que EE.UU. hundió 9 buques iraníes y destruyó su cuartel naval",
+      "title": "Trump dice que EE.UU. destruyó el cuartel naval de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lider-supremo-iran-2.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263711658.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "WINGO INICIA OPERACIÓN EN LA RUTA CARACAS- MEDELLÍN ESTE 1 DE MARZO",
-      "link": "https://noticierodigital.com/2026/03/wingo-inicia-operacion-en-la-ruta-caracas-medellin-este-1-de-marzo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260301-WA0027-627x376.jpg"
+      "title": "ESPOSA DE NAHUEL GALLO NO TIENE INFORMACIÓN SOBRE SU LIBERACIÓN ",
+      "link": "https://noticierodigital.com/2026/03/esposa-de-nahuel-gallo-no-tiene-informacion-sobre-su-liberacion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/nahuel-gallo-gendarme-argentino-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Trump dice que EE. UU. habría destruido nueve buques de guerra de Irán",
+      "title": "EN VIVO | Tres militares estadounidenses han muerto en la ofensiva contra Irán",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3490f13/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2Fb5%2Fb6db98414d6ba694d6ae161ab612%2Ftrump-contra-iran.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/44c0616/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2F6a%2F990cb8cd48adb33f449824280029%2Fataques-a-iran.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-01T18:35:02.160Z"
+  "lastUpdate": "2026-03-01T19:22:57.525Z"
 }
