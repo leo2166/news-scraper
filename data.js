@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "635,99"
+      "usdt": "635,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Irán lanza otra ola de ataques en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataque-iran-20260301144618362.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quién es Alireza Arafi? Él es el nuevo miembro del consejo interino tras muerte de Alí Jameneí",
-      "link": "https://www.noticiascaracol.com/mundo/quien-es-alireza-arafi-el-es-el-nuevo-miembro-del-consejo-interino-tras-muerte-de-ali-jamenei-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f4ecd3c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F61%2F523bd38d413dbec7cf5bb301658f%2Ftamano-imagenes-59.png"
+      "title": "EN VIVO | Presidente de Irán aparece en público tras rumores sobre su destino por bombardeos",
+      "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4c70675/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8e%2Ffc%2F0371c6744ba3bf37299d65e36904%2Ftamano-imagenes-43.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Muere el ayatolá Ali Jameneí en bombardeos de EE. UU. e Israel",
-      "link": "https://laverdad.com/muere-el-ayatola-ali-jamenei-en-bombardeos-de-ee-uu-e-israel/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/lider-supremo-de-iran-ali-jamenei.jpg"
+      "title": "Papa León XIV pide detener la espiral de violencia en Oriente Medio",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-detener-la-espiral-de-violencia-en-oriente-medio/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/db06c80f920dbc7e11e652a0fb3c9d176a5452cc-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Violentos disturbios en Karachi tras la muerte de Jamenei, al menos 10 muertos",
-      "link": "https://diarioversionfinal.com/mundo/violentos-disturbios-en-karachi-tras-la-muerte-de-jamenei-al-menos-10-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/medios-iranies-afirman-que-jamenei-fue-asesinado_337e2d0e-4900-4041-97dd-1189b387686b_mediarawimagetrue-750x430.jpeg"
+      "title": "Pezeshkian rompe su silencio y promete venganza tras la muerte de Jamenei",
+      "link": "https://diarioversionfinal.com/mundo/pezeshkian-rompe-su-silencio-y-promete-venganza-tras-la-muerte-de-jamenei/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69a44ad8085cf.r_d.906-511-6250.jpeg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-01T14:25:12.923Z"
+  "lastUpdate": "2026-03-01T15:24:12.401Z"
 };
