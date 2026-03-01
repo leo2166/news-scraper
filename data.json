@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "635,50"
+      "usdt": "634,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán lanza otra ola de ataques en Medio Oriente",
+      "title": "Irán podría elegir nuevo líder supremo en uno o dos días",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataque-iran-20260301144618362.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lider-supremo-iran-2.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Presidente de Irán aparece en público tras rumores sobre su destino por bombardeos",
+      "title": "EN VIVO | Reportan muerte de más de 40 miembros de las fuerzas de seguridad en oeste de Irán",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4c70675/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8e%2Ffc%2F0371c6744ba3bf37299d65e36904%2Ftamano-imagenes-43.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5445aca/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F36%2Fa3%2F5b8217ed4b2e8601823a3a5f5bf0%2Fsube-a-40-la-cifra-de-ninas-muertas-en-un-ataque-israeli-contra-una-escuela-en-sur-de-iran.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide detener la espiral de violencia en Oriente Medio",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-detener-la-espiral-de-violencia-en-oriente-medio/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/db06c80f920dbc7e11e652a0fb3c9d176a5452cc-scaled.jpg"
+      "title": "Israel ataca el corazón de Teherán e Irán promete vengar la muerte de Jameneí",
+      "link": "https://laverdad.com/israel-ataca-el-corazon-de-teheran-e-iran-promete-vengar-la-muerte-de-jamenei/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/98be445412180c51b6fd7ba2d0bab850cfe49be5-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pezeshkian rompe su silencio y promete venganza tras la muerte de Jamenei",
-      "link": "https://diarioversionfinal.com/mundo/pezeshkian-rompe-su-silencio-y-promete-venganza-tras-la-muerte-de-jamenei/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69a44ad8085cf.r_d.906-511-6250.jpeg-750x430.webp"
+      "title": "EE. UU. rechaza que misiles iraníes hayan impactado el portaaviones USS Abraham Lincoln",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-rechaza-que-misiles-iranies-hayan-impactado-el-portaaviones-uss-abraham-lincoln/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/M6TSXNRH6JOP3ECP3ZJUYE6ZRQ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T15:24:12.401Z"
+  "lastUpdate": "2026-03-01T16:29:33.644Z"
 }
