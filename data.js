@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "635,10"
+      "usdt": "636,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Tres militares estadounidenses han muerto en la ofensiva contra Irán",
+      "title": "EN VIVO | Trump dice que prevé operaciones contra Irán durante \"cuatro semanas\"",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/44c0616/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2F6a%2F990cb8cd48adb33f449824280029%2Fataques-a-iran.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/45d3a4a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdf%2Fe0%2Fd47574a8496fb601c6bcc11b3008%2Fen-vivo-trump-dice-que-preve-operaciones-contra-iran-durante-cuatro-semanas.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Claudia Sheinbaum asegura que México seguirá promoviendo paz mundial ante crisis",
-      "link": "https://diarioversionfinal.com/mundo/claudia-sheinbaum-asegura-que-mexico-seguira-promoviendo-paz-mundial-ante-crisis/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-52-678x430.jpeg"
+      "title": "Trump confirma la muerte de 48 líderes iraníes en recientes ataques militares",
+      "link": "https://diarioversionfinal.com/mundo/trump-confirma-la-muerte-de-48-lideres-iranies-en-recientes-ataques-militares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/presidente-estados-unidos-donald-trump_96-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-01T20:28:06.866Z"
+  "lastUpdate": "2026-03-01T21:24:03.963Z"
 };
