@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "631,50"
+      "usdt": "635,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que EE.UU. destruyó el cuartel naval de Irán",
+      "title": "Israel lanza nueva oleada de ataques contra Teherán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263711658.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump acepta dialogar con Irán tras ofensiva militar conjunta con Israel",
-      "link": "https://diarioversionfinal.com/mundo/trump-acepta-dialogar-con-iran-tras-ofensiva-militar-conjunta-con-israel/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
+      "title": "Claudia Sheinbaum asegura que México seguirá promoviendo paz mundial ante crisis",
+      "link": "https://diarioversionfinal.com/mundo/claudia-sheinbaum-asegura-que-mexico-seguira-promoviendo-paz-mundial-ante-crisis/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-52-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-01T19:22:57.525Z"
+  "lastUpdate": "2026-03-01T20:28:06.866Z"
 };
