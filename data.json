@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "634,60"
+      "usdt": "607,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,8 +26,8 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán confirma la muerte del ayatola Alí Jamenei en los ataques",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
+      "title": "Muere el líder supremo de Irán",
+      "link": "https://cnnespanol.cnn.com/2026/02/28/mundo/iran-ayatola-ali-jamenei-muere-dice-trump-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nuevo plan de Trump pondría en riesgo el permiso de trabajo de miles de migrantes",
-      "link": "https://diarioversionfinal.com/mundo/nuevo-plan-de-trump-pondria-en-riesgo-el-permiso-de-trabajo-de-miles-de-migrantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0528-750x430.jpeg"
+      "title": "Irán decreta 40 días de duelo por la muerte de Alí Jamenei",
+      "link": "https://diarioversionfinal.com/mundo/iran-decreta-40-dias-de-duelo-por-la-muerte-de-ali-jamenei/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/5XAYCQN3DZDZNJNU2ALHBYAXE4-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T02:25:14.416Z"
+  "lastUpdate": "2026-03-01T04:53:57.445Z"
 }
