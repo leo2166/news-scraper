@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "636,10"
+      "usdt": "636,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Israel lanza nueva oleada de ataques contra Teherán",
+      "title": "Los ataques contra Irán podrían durar \"unas cuatro semanas\", dice Trump",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263711658.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263662318-20260301212305905.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Trump dice que prevé operaciones contra Irán durante \"cuatro semanas\"",
+      "title": "EN VIVO | Reportan varios heridos en Jerusalén tras ataque con misil iraní",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/45d3a4a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdf%2Fe0%2Fd47574a8496fb601c6bcc11b3008%2Fen-vivo-trump-dice-que-preve-operaciones-contra-iran-durante-cuatro-semanas.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c95162b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9d%2F40%2Fdffe9be84212a379d4fd6cc64040%2Fplantilla-fotos-63.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump confirma la muerte de 48 líderes iraníes en recientes ataques militares",
-      "link": "https://diarioversionfinal.com/mundo/trump-confirma-la-muerte-de-48-lideres-iranies-en-recientes-ataques-militares/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/presidente-estados-unidos-donald-trump_96-750x430.webp"
+      "title": "Mahmoud Ahmadinejad, expresidente de Irán y aliado del chavismo, habría muerto en ataques estadounidenses",
+      "link": "https://diarioversionfinal.com/mundo/mahmoud-ahmadinejad-expresidente-de-iran-y-aliado-del-chavismo-habria-muerto-en-ataques-estadounidenses/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/chavez-ahmadinejad-736x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T21:24:03.963Z"
+  "lastUpdate": "2026-03-01T22:24:47.879Z"
 };
