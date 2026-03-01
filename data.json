@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "634,59"
+      "usdt": "633,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Levantaron el arresto domiciliario a Freddy Superlano tras 19 meses: recuperó la libertad plena por la Ley de Amnistía en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/02/27/levantaron-el-arresto-domiciliario-a-freddy-superlano-tras-19-meses-recupero-la-libertad-plena-por-la-ley-de-amnistia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/LAA4KTKPC5GKHCMNMJBUEPONJY?auth=6e69b397edd0b0cceb8c2d300b384d99ce8965e88389d1d06c1d031a945f4254&smart=true&width=350&height=197&quality=85"
+      "title": "El caso del teniente venezolano que lleva más de un año y medio detenido tras ser acusado de rebelión contra Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/03/01/el-caso-del-teniente-venezolano-que-lleva-mas-de-un-ano-y-medio-detenido-tras-ser-acusado-de-rebelion-contra-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/N2SQ2IPD4JCV5NTHST5TZAQ5ZY.jpg?auth=85b0f64a39d2e6b8f55065681b3c6750c8c8640a88ed9f34e69703d59caf664b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Irán activa un consejo de transición tras la muerte de Jamenei\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/iran-activa-un-consejo-de-transicion-tras-la-muerte-de-jamenei/",
+      "title": "\"Llegaremos para garantizar una transición a la democracia ordenada\": María Corina Machado anuncia su regreso a Venezuela \"en pocas semanas\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-anuncia-su-regreso-en-pocas-semanas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -46,7 +46,7 @@
       "source": "Caracol Noticias",
       "title": "EN VIVO | Reportan muerte de más de 40 miembros de las fuerzas de seguridad en oeste de Irán",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5445aca/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F36%2Fa3%2F5b8217ed4b2e8601823a3a5f5bf0%2Fsube-a-40-la-cifra-de-ninas-muertas-en-un-ataque-israeli-contra-una-escuela-en-sur-de-iran.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f40434c/2147483647/strip/true/crop/1278x721+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F10%2Fd5%2F07e3839443cc8f845a4eed673289%2Fataques-iran.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/M6TSXNRH6JOP3ECP3ZJUYE6ZRQ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T16:29:33.644Z"
+  "lastUpdate": "2026-03-01T17:22:44.820Z"
 }
