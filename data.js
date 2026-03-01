@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "636,59"
+      "usdt": "636,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "\"Llegaremos para garantizar una transición a la democracia\": María Corina Machado anuncia que regresará pronto a Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-anuncia-su-regreso-en-pocas-semanas/",
+      "title": "Excarcelaron al gendarme argentino Nahuel Gallo tras más de un año detenido\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/excarcelaron-al-gendarme-argentino-nahuel-gallo-tras-mas-de-un-ano-detenido/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,19 +32,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreaza informó que excarcelaron a 31 militares",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-informo-que-excarcelaron-a-31-militares",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-0e63a1.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "ESPOSA DE NAHUEL GALLO NO TIENE INFORMACIÓN SOBRE SU LIBERACIÓN ",
-      "link": "https://noticierodigital.com/2026/03/esposa-de-nahuel-gallo-no-tiene-informacion-sobre-su-liberacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/nahuel-gallo-gendarme-argentino-627x376.jpg"
+      "title": "Nicolás Maduro Guerra propone una \"Ley de Convivencia\" y defiende la libertad económica",
+      "link": "https://noticiasvenevision.com/noticias/politica/nicolas-maduro-guerra-propone-una-ley-de-convivencia-y-defiende-la-libertad-economica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-nicols-maduro-guerra-01mar2026-e5ac08.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Reportan varios heridos en Jerusalén tras ataque con misil iraní",
+      "title": "EN VIVO |Explosiones en base británica luego del aval a EE. UU. para usar sus instalaciones",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/c95162b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9d%2F40%2Fdffe9be84212a379d4fd6cc64040%2Fplantilla-fotos-63.jpg"
     },
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/chavez-ahmadinejad-736x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T22:24:47.879Z"
+  "lastUpdate": "2026-03-01T23:24:41.492Z"
 };
