@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "607,00"
+      "usdt": "618,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán decreta 40 días de duelo por la muerte de Alí Jamenei",
-      "link": "https://diarioversionfinal.com/mundo/iran-decreta-40-dias-de-duelo-por-la-muerte-de-ali-jamenei/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/5XAYCQN3DZDZNJNU2ALHBYAXE4-750x430.jpg"
+      "title": "EE. UU. defiende en la ONU que los ataques a Irán representan “acciones legítimas”",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-defiende-en-la-onu-que-los-ataques-a-iran-representan-acciones-legitimas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/f09a43719fdc72433459e96e0206f22caf066b24w-640x427-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T04:53:57.445Z"
+  "lastUpdate": "2026-03-01T05:52:46.766Z"
 };
