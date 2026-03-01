@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "633,59"
+      "usdt": "632,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,19 +14,19 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El caso del teniente venezolano que lleva más de un año y medio detenido tras ser acusado de rebelión contra Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/03/01/el-caso-del-teniente-venezolano-que-lleva-mas-de-un-ano-y-medio-detenido-tras-ser-acusado-de-rebelion-contra-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/N2SQ2IPD4JCV5NTHST5TZAQ5ZY.jpg?auth=85b0f64a39d2e6b8f55065681b3c6750c8c8640a88ed9f34e69703d59caf664b&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado confirmó que regresará a Venezuela en “pocas semanas”: “La transición a la democracia es indetenible”",
+      "link": "https://www.infobae.com/venezuela/2026/03/01/maria-corina-machado-confirmo-que-regresara-a-venezuela-en-pocas-semanas-la-transicion-a-la-democracia-es-indetenible/",
+      "image": "https://www.infobae.com/resizer/v2/EJQ75JBTM5G7JGHFYCR3V6JWB4.jpg?auth=6790650b74e8edbdd4bc763cd60ef2ed194575e53baabda9de11f7070a4411d1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "\"Llegaremos para garantizar una transición a la democracia ordenada\": María Corina Machado anuncia su regreso a Venezuela \"en pocas semanas\"\nVENEZUELA",
+      "title": "\"Llegaremos para garantizar una transición a la democracia\": María Corina Machado anuncia que regresará pronto a Venezuela\nVENEZUELA",
       "link": "https://www.elnacional.com/2026/03/maria-corina-machado-anuncia-su-regreso-en-pocas-semanas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán podría elegir nuevo líder supremo en uno o dos días",
+      "title": "Trump dice que EE.UU. hundió 9 buques iraníes y destruyó su cuartel naval",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/lider-supremo-iran-2.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "COLOMBIANOS DETENIDOS EN RODEO I MANTIENEN HUELGA DE HAMBRE Y DENUNCIAN EXCLUSIÓN DE AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/03/colombianos-detenidos-en-rodeo-i-mantienen-huelga-de-hambre-y-denuncian-exclusion-de-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/rodeo-I-prision-miranda-627x376.jpg"
+      "title": "WINGO INICIA OPERACIÓN EN LA RUTA CARACAS- MEDELLÍN ESTE 1 DE MARZO",
+      "link": "https://noticierodigital.com/2026/03/wingo-inicia-operacion-en-la-ruta-caracas-medellin-este-1-de-marzo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260301-WA0027-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Reportan muerte de más de 40 miembros de las fuerzas de seguridad en oeste de Irán",
+      "title": "EN VIVO | Trump dice que EE. UU. habría destruido nueve buques de guerra de Irán",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f40434c/2147483647/strip/true/crop/1278x721+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F10%2Fd5%2F07e3839443cc8f845a4eed673289%2Fataques-iran.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3490f13/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2Fb5%2Fb6db98414d6ba694d6ae161ab612%2Ftrump-contra-iran.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. rechaza que misiles iraníes hayan impactado el portaaviones USS Abraham Lincoln",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-rechaza-que-misiles-iranies-hayan-impactado-el-portaaviones-uss-abraham-lincoln/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/M6TSXNRH6JOP3ECP3ZJUYE6ZRQ-750x430.jpg"
+      "title": "Trump acepta dialogar con Irán tras ofensiva militar conjunta con Israel",
+      "link": "https://diarioversionfinal.com/mundo/trump-acepta-dialogar-con-iran-tras-ofensiva-militar-conjunta-con-israel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-01T17:22:44.820Z"
+  "lastUpdate": "2026-03-01T18:35:02.160Z"
 };
