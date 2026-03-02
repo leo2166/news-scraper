@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "644,15"
+      "usdt": "639,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JEP CONFIRMA 603 LIBERACIONES ENTRE EL 8 DE ENERO Y EL 2 DE MARZO",
-      "link": "https://noticierodigital.com/2026/03/jep-confirma-603-liberaciones-entre-el-8-de-enero-y-el-2-de-marzo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/presos-politicos-caracas-zona-7-627x376.jpg"
+      "title": "TRUMP CRUZÓ LA LINEA AL ATACAR A IRÁN, AFIRMÓ LUIS DANIEL ÁLVAREZ",
+      "link": "https://noticierodigital.com/2026/03/trump-cruzo-la-linea-al-atacar-a-iran-afirmo-luis-daniel-alvarez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/76174176_803-575x376.webp"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Venezolano confiesa que mató al alcalde peruano Iroshi Ureta por 8.000 soles",
-      "link": "https://laverdad.com/venezolano-confiesa-que-mato-al-alcalde-peruano-iroshi-ureta-por-8-000-soles/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/venezolano-confiesa-haber-asesinado-al-alcalde-peruano-Iroshi-Ureta-1.jpg"
+      "title": "Petro compara su desempeño “en la cama” con los éxitos de su gobierno",
+      "link": "https://laverdad.com/petro-compara-su-desempeno-en-la-cama-con-los-exitos-de-su-gobierno/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Gustavo-Petro.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Milei desafía a la AFA: “Deben explicar su relación con el chavismo”",
-      "link": "https://diarioversionfinal.com/mundo/milei-desafia-a-la-afa-deben-explicar-su-relacion-con-el-chavismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/tapia-milei-elecciones-afa-igj-1892614-750x430.jpg"
+      "title": "Francia refuerza su poder nuclear ante creciente tensión internacional",
+      "link": "https://diarioversionfinal.com/mundo/francia-refuerza-su-poder-nuclear-ante-creciente-tension-internacional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/4b5b413204f188553dcc2e4e6bd0a5d36176c2fdw-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T17:44:28.989Z"
+  "lastUpdate": "2026-03-02T18:51:07.848Z"
 };
