@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "636,00"
+      "usdt": "644,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La guerra se intensifica en Medio Oriente",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-ali-jamenei-trax",
+      "title": "Trump dice a CNN que la “gran ola” en la guerra con Irán está por llegar",
+      "link": "https://cnnespanol.cnn.com/2026/03/02/eeuu/trump-cnn-ataques-iran-entrevista-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2259456142-20260208133414080.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado: “En pocas semanas nos vemos en Venezuela”",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-en-pocas-semanas-nos-vemos-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mariacorina_bio3-974d43.jpg"
+      "title": "José Luis Rodríguez Zapatero niega haber recibido remuneración por sus gestiones en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/jose-luis-rodriguez-zapatero-niega-haber-recibido-remuneracion-por-sus-gestiones-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/articulos-549020-26ac38.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "ANTONIO ECARRI: «SE DEBE REFORMAR EL PODER JUDICIAL ANTES DE IR A ELECCIONES»",
+      "link": "https://noticierodigital.com/2026/03/antonio-ecarri-se-debe-reformar-el-poder-judicial-antes-de-ir-a-elecciones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/antonio-ecarri-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Jefe del Pentágono dice que “Furia Épica” consiguió un cambio de régimen en Irán",
-      "link": "https://laverdad.com/jefe-del-pentagono-dice-que-furia-epica-consiguio-un-cambio-de-regimen-en-iran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataques-EE.-UU.-Iran.jpg"
+      "title": "Venezolano confiesa que mató al alcalde peruano Iroshi Ureta por 8.000 soles",
+      "link": "https://laverdad.com/venezolano-confiesa-que-mato-al-alcalde-peruano-iroshi-ureta-por-8-000-soles/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/venezolano-confiesa-haber-asesinado-al-alcalde-peruano-Iroshi-Ureta-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zapatero niega haber cobrado por su mediación en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/zapatero-niega-haber-cobrado-por-su-mediacion-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/zapatero-madurojpg-750x430.webp"
+      "title": "Operación militar contra Irán se prolongará, según jefe del Pentágono",
+      "link": "https://diarioversionfinal.com/mundo/operacion-militar-contra-iran-se-prolongara-segun-jefe-del-pentagono/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/0df4111e7394f14a684b4c4ebaada1d8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-02T15:42:03.774Z"
+  "lastUpdate": "2026-03-02T16:50:43.310Z"
 };
