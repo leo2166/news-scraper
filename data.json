@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "634,59"
+      "usdt": "636,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "La guerra se intensifica en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-ali-jamenei-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/crisis-iran.jpeg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2259456142-20260208133414080.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mariacorina_bio3-974d43.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "ESTRECHO DE ORMUZ BAJO FUEGO: IRÁN BOMBARDEA TRES PETROLEROS Y LANZA ADVERTENCIA ",
-      "link": "https://noticierodigital.com/2026/03/estrecho-de-ormuz-bajo-fuego-iran-bombardea-tres-petroleros-y-lanza-advertencia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/04/carguero-irani.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Conflicto en Medio Oriente: oficina de Netanyahu niega ataques en instalaciones por Irán",
-      "link": "https://www.noticiascaracol.com/mundo/en-vivo-ataques-de-israel-y-ee-uu-a-iran-noticias-del-conflicto-en-medio-oriente-hoy-2-de-marzo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/54a78a2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb8%2F71%2F760c054b4a20b597b6e870e81e22%2Ftamano-imagenes-73.png"
+      "title": "El duro relato de argentino que fue víctima de robo en Bogotá: \"Este viaje me cambió la vida\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/el-duro-relato-de-augusto-cardinale-argentino-que-fue-victima-de-robo-en-bogota-este-viaje-me-cambio-la-vida-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/14475ce/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faa%2F7e%2F4a5474e54dcea6c09d508748c5cb%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Medios iraníes afirman que Irán atacó la oficina de Netanyahu en Israel",
-      "link": "https://laverdad.com/medios-iranies-afirman-que-iran-ataco-la-oficina-de-netanyahu-en-israel/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-de-Iran-a-Israel-scaled.jpg"
+      "title": "Jefe del Pentágono dice que “Furia Épica” consiguió un cambio de régimen en Irán",
+      "link": "https://laverdad.com/jefe-del-pentagono-dice-que-furia-epica-consiguio-un-cambio-de-regimen-en-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataques-EE.-UU.-Iran.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Decenas de muertos y heridos dejan ataques israelíes contra Líbano y Beirut",
-      "link": "https://diarioversionfinal.com/mundo/decenas-de-muertos-y-heridos-dejan-ataques-israelies-contra-libano-y-beirut/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/hezbola-750x400-1.jpg"
+      "title": "Zapatero niega haber cobrado por su mediación en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/zapatero-niega-haber-cobrado-por-su-mediacion-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/zapatero-madurojpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-02T14:04:50.259Z"
+  "lastUpdate": "2026-03-02T15:42:03.774Z"
 }
