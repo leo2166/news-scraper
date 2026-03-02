@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Zapatero-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-02T05:53:11.572Z"
+  "lastUpdate": "2026-03-02T06:59:10.592Z"
 };
