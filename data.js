@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "636,25"
+      "usdt": "608,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado confirmó que regresará a Venezuela en “pocas semanas”: “La transición a la democracia es indetenible”",
-      "link": "https://www.infobae.com/venezuela/2026/03/01/maria-corina-machado-confirmo-que-regresara-a-venezuela-en-pocas-semanas-la-transicion-a-la-democracia-es-indetenible/",
-      "image": "https://www.infobae.com/resizer/v2/EJQ75JBTM5G7JGHFYCR3V6JWB4.jpg?auth=6790650b74e8edbdd4bc763cd60ef2ed194575e53baabda9de11f7070a4411d1&smart=true&width=350&height=197&quality=85"
+      "title": "La transición de Venezuela necesita que la oposición real inicie campaña electoral",
+      "link": "https://www.infobae.com/america/opinion/2026/03/01/la-transicion-de-venezuela-necesita-que-la-oposicion-real-inicie-campana-electoral/",
+      "image": "https://www.infobae.com/resizer/v2/SCIX7ECZLFAGLBAA2BQIFW4QWM.jpg?auth=cb0e0ffe0096bf7c313c9257dd2f67a3889e9c315599b81ddf96926d78d499e3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Nicolás Maduro Guerra propone una \"Ley de Convivencia\" y defiende la libertad económica",
-      "link": "https://noticiasvenevision.com/noticias/politica/nicolas-maduro-guerra-propone-una-ley-de-convivencia-y-defiende-la-libertad-economica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-nicols-maduro-guerra-01mar2026-e5ac08.jpg"
+      "title": "María Corina Machado: “En pocas semanas nos vemos en Venezuela”",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-en-pocas-semanas-nos-vemos-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mariacorina_bio3-974d43.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "DGCIM DETUVO AL EX VICEMINISTRO ALEXANDER «MIMOU» VARGAS",
+      "link": "https://noticierodigital.com/2026/03/dgcim-detuvo-al-ex-viceministro-alexander-mimou-vargas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260301-WA0068-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO |Explosiones en base británica luego del aval a EE. UU. para usar sus instalaciones",
-      "link": "https://www.noticiascaracol.com/mundo/en-vivo-iran-tiene-nuevo-lider-ayatola-alireza-arafi-es-el-el-tercer-miembro-del-consejo-interino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c95162b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9d%2F40%2Fdffe9be84212a379d4fd6cc64040%2Fplantilla-fotos-63.jpg"
+      "title": "Militares de EE.UU. muertos en Oriente Medio habrían sido atacados con drones iraníes en Kuwait: CNN",
+      "link": "https://www.noticiascaracol.com/mundo/militares-de-ee-uu-muertos-en-oriente-medio-habrian-sido-atacados-con-drones-iranies-en-kuwait-cnn-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/80224b5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffc%2F57%2Fd7f8b0024381b2cf8aefe57a0f0e%2Fmilitares-eeuu.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Mahmoud Ahmadinejad, expresidente de Irán y aliado del chavismo, habría muerto en ataques estadounidenses",
-      "link": "https://diarioversionfinal.com/mundo/mahmoud-ahmadinejad-expresidente-de-iran-y-aliado-del-chavismo-habria-muerto-en-ataques-estadounidenses/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/chavez-ahmadinejad-736x430.jpg"
+      "title": "Canciller argentino agradece a Italia y EE. UU. apoyo en liberación de Nahuel Gallo",
+      "link": "https://diarioversionfinal.com/mundo/canciller-argentino-agradece-a-italia-y-ee-uu-apoyo-en-liberacion-de-nahuel-gallo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Nahuel-Gallo-16-12-2024-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-01T23:24:41.492Z"
+  "lastUpdate": "2026-03-02T02:08:58.112Z"
 };
