@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "647,00"
+      "usdt": "616,78"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Trump advierte que gran oleada de ataques contra Irán no ha ocurrido\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/trump-gran-oleada-de-ataques-contra-iran-no-ha-ocurrido/",
+      "title": "La liberación de Nahuel Gallo: gobierno de Argentina quiere conocer vínculos de la AFA con el gobierno chavista\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/la-liberacion-de-nahuel-gallo-gobierno-de-argentina-quiere-conocer-vinculos-de-la-afa-con-el-gobierno-chavista/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/articulos-549020-26ac38.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "DELCY RODRÍGUEZ SOSTUVO ENCUENTRO CON DIRECCIÓN NACIONAL DEL PSUV EN CUMANÁ",
+      "link": "https://noticierodigital.com/2026/03/delcy-rodriguez-sostuvo-encuentro-con-direccion-nacional-del-psuv-en-cumana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-01-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "El duro relato de argentino que fue víctima de robo en Bogotá: \"Este viaje me cambió la vida\"",
       "link": "https://www.noticiascaracol.com/colombia/bogota/el-duro-relato-de-augusto-cardinale-argentino-que-fue-victima-de-robo-en-bogota-este-viaje-me-cambio-la-vida-rg10",
@@ -44,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Trump asegura que el ataque a Irán duraría más de cinco semanas",
-      "link": "https://laverdad.com/trump-asegura-que-el-ataque-a-iran-duraria-mas-de-cinco-semanas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Trump-guerra-de-Iran-5-semanas-scaled.jpg"
+      "title": "Israel bombardea sedes del Ministerio de Inteligencia y la Fuerza Quds en Teherán",
+      "link": "https://laverdad.com/israel-bombardea-sedes-del-ministerio-de-inteligencia-y-la-fuerza-quds-en-teheran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-Israel-a-Iran.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que las operaciones militares contra Irán continuarán el tiempo que sea necesario",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-las-operaciones-militares-contra-iran-continuaran-el-tiempo-que-sea-necesario/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
+      "title": "Conflicto en Medio Oriente deja seis militares estadounidenses muertos tras ataques a Irán",
+      "link": "https://diarioversionfinal.com/mundo/conflicto-en-medio-oriente-deja-seis-militares-estadounidenses-muertos-tras-ataques-a-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/6HkjS2W88l_992x558-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T20:38:50.700Z"
+  "lastUpdate": "2026-03-02T21:34:51.229Z"
 }
