@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "616,78"
+      "usdt": "645,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,19 +28,13 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Trump dice a CNN que la “gran ola” en la guerra con Irán está por llegar",
       "link": "https://cnnespanol.cnn.com/2026/03/02/eeuu/trump-cnn-ataques-iran-entrevista-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2259456142-20260208133414080.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/19e9aef8-a61b-4b68-b603-69fd8771e06c.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "José Luis Rodríguez Zapatero niega haber recibido remuneración por sus gestiones en Venezuela",
       "link": "https://noticiasvenevision.com/noticias/politica/jose-luis-rodriguez-zapatero-niega-haber-recibido-remuneracion-por-sus-gestiones-en-venezuela",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/articulos-549020-26ac38.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ SOSTUVO ENCUENTRO CON DIRECCIÓN NACIONAL DEL PSUV EN CUMANÁ",
-      "link": "https://noticierodigital.com/2026/03/delcy-rodriguez-sostuvo-encuentro-con-direccion-nacional-del-psuv-en-cumana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-01-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/6HkjS2W88l_992x558-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T21:34:51.229Z"
+  "lastUpdate": "2026-03-02T22:27:17.325Z"
 };
