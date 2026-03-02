@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "644,59"
+      "usdt": "644,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "¿Está Trump replicando en Irán la fórmula usada en Venezuela?\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/esta-trump-replicando-en-iran-la-formula-usada-en-venezuela/",
+      "title": "Trump advierte que gran oleada de ataques contra Irán no ha ocurrido\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/trump-gran-oleada-de-ataques-contra-iran-no-ha-ocurrido/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ANTONIO ECARRI: «SE DEBE REFORMAR EL PODER JUDICIAL ANTES DE IR A ELECCIONES»",
-      "link": "https://noticierodigital.com/2026/03/antonio-ecarri-se-debe-reformar-el-poder-judicial-antes-de-ir-a-elecciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/antonio-ecarri-627x376.jpg"
+      "title": "JEP CONFIRMA 603 LIBERACIONES ENTRE EL 8 DE ENERO Y EL 2 DE MARZO",
+      "link": "https://noticierodigital.com/2026/03/jep-confirma-603-liberaciones-entre-el-8-de-enero-y-el-2-de-marzo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/presos-politicos-caracas-zona-7-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Operación militar contra Irán se prolongará, según jefe del Pentágono",
-      "link": "https://diarioversionfinal.com/mundo/operacion-militar-contra-iran-se-prolongara-segun-jefe-del-pentagono/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/0df4111e7394f14a684b4c4ebaada1d8-750x430.webp"
+      "title": "Milei desafía a la AFA: “Deben explicar su relación con el chavismo”",
+      "link": "https://diarioversionfinal.com/mundo/milei-desafia-a-la-afa-deben-explicar-su-relacion-con-el-chavismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/tapia-milei-elecciones-afa-igj-1892614-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T16:50:43.310Z"
+  "lastUpdate": "2026-03-02T17:44:28.989Z"
 };
