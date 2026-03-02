@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "640,15"
+      "usdt": "647,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/articulos-549020-26ac38.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "DENUNCIAN AUMENTO DE MATRÍCULA A MÁS DE $2 MIL EN LA SANTA MARÍA",
-      "link": "https://noticierodigital.com/2026/03/denuncian-aumento-de-matricula-a-mas-de-2-mil-en-la-santa-maria/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260302-WA0177-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "El duro relato de argentino que fue víctima de robo en Bogotá: \"Este viaje me cambió la vida\"",
       "link": "https://www.noticiascaracol.com/colombia/bogota/el-duro-relato-de-augusto-cardinale-argentino-que-fue-victima-de-robo-en-bogota-este-viaje-me-cambio-la-vida-rg10",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T19:37:32.027Z"
+  "lastUpdate": "2026-03-02T20:38:50.700Z"
 };
