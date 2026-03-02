@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "608,99"
+      "usdt": "610,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los ataques contra Irán podrían durar \"unas cuatro semanas\", dice Trump",
+      "title": "Israel y Hezbollah intercambian golpes mientras el conflicto se profundiza",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263662318-20260301212305905.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-02t013830z-1148040331-rc21wjaw8ubo-rtrmadp-3-iran-crisis-lebanon-20260302023850040.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Canciller argentino agradece a Italia y EE. UU. apoyo en liberación de Nahuel Gallo",
-      "link": "https://diarioversionfinal.com/mundo/canciller-argentino-agradece-a-italia-y-ee-uu-apoyo-en-liberacion-de-nahuel-gallo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Nahuel-Gallo-16-12-2024-750x430.jpg"
+      "title": "Zapatero viajó a Arabia Saudí tras conocer que autoridades rastreaban dinero del rescate de Plus Ultra",
+      "link": "https://diarioversionfinal.com/mundo/zapatero-viajo-a-arabia-saudi-tras-conocer-que-autoridades-rastreaban-dinero-del-rescate-de-plus-ultra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Zapatero-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-02T02:08:58.112Z"
+  "lastUpdate": "2026-03-02T04:47:57.417Z"
 };
