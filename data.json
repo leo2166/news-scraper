@@ -5,7 +5,7 @@
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "640,50"
+      "usdt": "638,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "La guerra se intensifica en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-02t013830z-1148040331-rc21wjaw8ubo-rtrmadp-3-iran-crisis-lebanon-20260302023850040.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/humo-teheran-domingo-20260302105123746.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Militares de EE.UU. muertos en Oriente Medio habrían sido atacados con drones iraníes en Kuwait: CNN",
-      "link": "https://www.noticiascaracol.com/mundo/militares-de-ee-uu-muertos-en-oriente-medio-habrian-sido-atacados-con-drones-iranies-en-kuwait-cnn-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/80224b5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffc%2F57%2Fd7f8b0024381b2cf8aefe57a0f0e%2Fmilitares-eeuu.jpg"
+      "title": "EN VIVO | Conflicto en Medio Oriente: EE. UU. dice que sus cazas fueron derribados por \"fuego amigo\"",
+      "link": "https://www.noticiascaracol.com/mundo/en-vivo-ataques-de-israel-y-ee-uu-a-iran-noticias-del-conflicto-en-medio-oriente-hoy-2-de-marzo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/54a78a2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb8%2F71%2F760c054b4a20b597b6e870e81e22%2Ftamano-imagenes-73.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zapatero viajó a Arabia Saudí tras conocer que autoridades rastreaban dinero del rescate de Plus Ultra",
-      "link": "https://diarioversionfinal.com/mundo/zapatero-viajo-a-arabia-saudi-tras-conocer-que-autoridades-rastreaban-dinero-del-rescate-de-plus-ultra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Zapatero-1-750x430.webp"
+      "title": "EE.UU.: Atacante en Texas había expresado \"sentimientos a favor del régimen iraní\"",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-atacante-en-texas-habia-expresado-sentimientos-a-favor-del-regimen-irani/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-8.28.44-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-02T10:43:41.020Z"
+  "lastUpdate": "2026-03-02T11:32:32.613Z"
 }
