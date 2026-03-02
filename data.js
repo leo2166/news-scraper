@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "419,99",
-      "eur": "495,61"
+      "usd": "421,88",
+      "eur": "493,54"
     },
     "binance": {
-      "usdt": "645,10"
+      "usdt": "646,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/articulos-549020-26ac38.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "STALIN GONZÁLEZ: DIÁLOGO NO PUEDE SER UN ESLOGAN, DEBE CONVERTIRSE EN PRÁCTICA SOSTENIDA",
+      "link": "https://noticierodigital.com/2026/03/stalin-gonzalez-dialogo-no-puede-ser-un-eslogan-debe-convertirse-en-practica-sostenida/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/stalingonzalez-nuevocne-10ene2023.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "El duro relato de argentino que fue víctima de robo en Bogotá: \"Este viaje me cambió la vida\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/el-duro-relato-de-augusto-cardinale-argentino-que-fue-victima-de-robo-en-bogota-este-viaje-me-cambio-la-vida-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/14475ce/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faa%2F7e%2F4a5474e54dcea6c09d508748c5cb%2Fdiseno.jpg"
+      "title": "Duro relato de mamá en Fusagasugá que pide ayuda para repatriar cuerpo de hijo que murió en Brasil",
+      "link": "https://www.noticiascaracol.com/colombia/duro-relato-de-mama-en-fusagasuga-que-pide-ayuda-para-repatriar-cuerpo-de-hijo-que-murio-en-brasil-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/407b955/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fab%2Fad%2Fba1d751141b0805f111010e7bc23%2Faccidente-de-transito.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/6HkjS2W88l_992x558-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T22:27:17.325Z"
+  "lastUpdate": "2026-03-02T23:27:08.479Z"
 };
