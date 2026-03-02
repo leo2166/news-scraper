@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "632,87"
+      "usdt": "634,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump: Una transición como la de Venezuela es el escenario perfecto para Irán\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/trump-una-transicion-como-la-de-venezuela-es-el-escenario-perfecto-para-iran/",
+      "title": "¿Está Trump replicando en Irán la fórmula usada en Venezuela?\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/esta-trump-replicando-en-iran-la-formula-usada-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "La guerra se intensifica en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-ali-jamenei-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/humo-teheran-domingo-20260302105123746.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/crisis-iran.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPELLANES DE DDHH PIDEN AL CNE DESBLOQUEAR REGISTRO DE PARTIDOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/03/capellanes-de-ddhh-piden-al-cne-desbloquear-registro-de-partidos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/asistenciatecnica-cne-laprimaria-9mar2023-627x376.jpg"
+      "title": "ESTRECHO DE ORMUZ BAJO FUEGO: IRÁN BOMBARDEA TRES PETROLEROS Y LANZA ADVERTENCIA ",
+      "link": "https://noticierodigital.com/2026/03/estrecho-de-ormuz-bajo-fuego-iran-bombardea-tres-petroleros-y-lanza-advertencia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/04/carguero-irani.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Conflicto en Medio Oriente: nueva salva de misiles se dirige hacia Israel, según TV iraní",
+      "title": "EN VIVO | Conflicto en Medio Oriente: oficina de Netanyahu niega ataques en instalaciones por Irán",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-ataques-de-israel-y-ee-uu-a-iran-noticias-del-conflicto-en-medio-oriente-hoy-2-de-marzo-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/54a78a2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb8%2F71%2F760c054b4a20b597b6e870e81e22%2Ftamano-imagenes-73.png"
     },
     {
       "source": "La Verdad",
-      "title": "El argentino Nahuel Gallo llega a Buenos Aires tras ser liberado de El Rodeo I",
-      "link": "https://laverdad.com/el-argentino-nahuel-gallo-llega-a-buenos-aires-tras-ser-liberado-de-el-rodeo-i/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nahuel-Gallo-llega-a-Argentina-EFE-1.jpg"
+      "title": "Medios iraníes afirman que Irán atacó la oficina de Netanyahu en Israel",
+      "link": "https://laverdad.com/medios-iranies-afirman-que-iran-ataco-la-oficina-de-netanyahu-en-israel/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-de-Iran-a-Israel-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estrecho de Ormuz bajo fuego: Irán bombardea tres petroleros y obliga a 150 a fondearse",
-      "link": "https://diarioversionfinal.com/mundo/estrecho-de-ormuz-bajo-fuego-iran-bombardea-tres-petroleros-y-obliga-a-150-a-fondearse/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-9.57.02-AM-750x430.jpeg"
+      "title": "Decenas de muertos y heridos dejan ataques israelíes contra Líbano y Beirut",
+      "link": "https://diarioversionfinal.com/mundo/decenas-de-muertos-y-heridos-dejan-ataques-israelies-contra-libano-y-beirut/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/hezbola-750x400-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T13:00:02.597Z"
+  "lastUpdate": "2026-03-02T14:04:50.259Z"
 };
