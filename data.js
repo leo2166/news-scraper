@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "610,00"
+      "usdt": "640,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Excarcelaron al gendarme argentino Nahuel Gallo tras más de un año detenido\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/excarcelaron-al-gendarme-argentino-nahuel-gallo-tras-mas-de-un-ano-detenido/",
+      "title": "Trump: Una transición como la de Venezuela es el escenario perfecto para Irán\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/trump-una-transicion-como-la-de-venezuela-es-el-escenario-perfecto-para-iran/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Autoridades de Kuwait dijeron que “varios aviones militares de EE.UU. se estrellaron”",
+      "title": "La guerra se intensifica en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-02t013830z-1148040331-rc21wjaw8ubo-rtrmadp-3-iran-crisis-lebanon-20260302023850040.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Zapatero-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-02T09:51:44.444Z"
+  "lastUpdate": "2026-03-02T10:43:41.020Z"
 };
