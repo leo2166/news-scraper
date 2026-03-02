@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "495,61"
     },
     "binance": {
-      "usdt": "638,59"
+      "usdt": "632,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,7 +27,7 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "La guerra se intensifica en Medio Oriente",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/israel-lanza-ataque-preventivo-iran-trax",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-ali-jamenei-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/humo-teheran-domingo-20260302105123746.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DGCIM DETUVO AL EX VICEMINISTRO ALEXANDER «MIMOU» VARGAS",
-      "link": "https://noticierodigital.com/2026/03/dgcim-detuvo-al-ex-viceministro-alexander-mimou-vargas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260301-WA0068-627x376.jpg"
+      "title": "CAPELLANES DE DDHH PIDEN AL CNE DESBLOQUEAR REGISTRO DE PARTIDOS POLÍTICOS",
+      "link": "https://noticierodigital.com/2026/03/capellanes-de-ddhh-piden-al-cne-desbloquear-registro-de-partidos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/asistenciatecnica-cne-laprimaria-9mar2023-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Conflicto en Medio Oriente: EE. UU. dice que sus cazas fueron derribados por \"fuego amigo\"",
+      "title": "EN VIVO | Conflicto en Medio Oriente: nueva salva de misiles se dirige hacia Israel, según TV iraní",
       "link": "https://www.noticiascaracol.com/mundo/en-vivo-ataques-de-israel-y-ee-uu-a-iran-noticias-del-conflicto-en-medio-oriente-hoy-2-de-marzo-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/54a78a2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb8%2F71%2F760c054b4a20b597b6e870e81e22%2Ftamano-imagenes-73.png"
     },
     {
       "source": "La Verdad",
-      "title": "Israel ataca el corazón de Teherán e Irán promete vengar la muerte de Jameneí",
-      "link": "https://laverdad.com/israel-ataca-el-corazon-de-teheran-e-iran-promete-vengar-la-muerte-de-jamenei/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/98be445412180c51b6fd7ba2d0bab850cfe49be5-scaled.jpg"
+      "title": "El argentino Nahuel Gallo llega a Buenos Aires tras ser liberado de El Rodeo I",
+      "link": "https://laverdad.com/el-argentino-nahuel-gallo-llega-a-buenos-aires-tras-ser-liberado-de-el-rodeo-i/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nahuel-Gallo-llega-a-Argentina-EFE-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU.: Atacante en Texas había expresado \"sentimientos a favor del régimen iraní\"",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-atacante-en-texas-habia-expresado-sentimientos-a-favor-del-regimen-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-8.28.44-AM.jpeg"
+      "title": "Estrecho de Ormuz bajo fuego: Irán bombardea tres petroleros y obliga a 150 a fondearse",
+      "link": "https://diarioversionfinal.com/mundo/estrecho-de-ormuz-bajo-fuego-iran-bombardea-tres-petroleros-y-obliga-a-150-a-fondearse/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-9.57.02-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-02T11:32:32.613Z"
+  "lastUpdate": "2026-03-02T13:00:02.597Z"
 };
