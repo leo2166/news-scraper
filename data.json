@@ -5,7 +5,7 @@
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "646,86"
+      "usdt": "648,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "La liberación de Nahuel Gallo: gobierno de Argentina quiere conocer vínculos de la AFA con el gobierno chavista\nMUNDO",
+      "title": "La liberación de Nahuel Gallo: Argentina quiere conocer vínculos de la AFA con el gobierno chavista\nMUNDO",
       "link": "https://www.elnacional.com/2026/03/la-liberacion-de-nahuel-gallo-gobierno-de-argentina-quiere-conocer-vinculos-de-la-afa-con-el-gobierno-chavista/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice a CNN que la “gran ola” en la guerra con Irán está por llegar",
-      "link": "https://cnnespanol.cnn.com/2026/03/02/eeuu/trump-cnn-ataques-iran-entrevista-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/19e9aef8-a61b-4b68-b603-69fd8771e06c.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. se prepara para un “aumento importante” de ataques",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-ali-jamenei-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263738289-20260302212916077-20260302235330474.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "STALIN GONZÁLEZ: DIÁLOGO NO PUEDE SER UN ESLOGAN, DEBE CONVERTIRSE EN PRÁCTICA SOSTENIDA",
-      "link": "https://noticierodigital.com/2026/03/stalin-gonzalez-dialogo-no-puede-ser-un-eslogan-debe-convertirse-en-practica-sostenida/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/stalingonzalez-nuevocne-10ene2023.jpg"
+      "title": "EXCARCELARON A UN GRUPO DE PRESOS POLÍTICOS EN DISTINTOS CENTROS DE RECLUSIÓN DEL PAÍS",
+      "link": "https://noticierodigital.com/2026/03/excarcelaron-a-un-grupo-de-presos-politicos-en-distintos-centros-de-reclusion-del-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/tocoron-carcel-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Duro relato de mamá en Fusagasugá que pide ayuda para repatriar cuerpo de hijo que murió en Brasil",
-      "link": "https://www.noticiascaracol.com/colombia/duro-relato-de-mama-en-fusagasuga-que-pide-ayuda-para-repatriar-cuerpo-de-hijo-que-murio-en-brasil-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/407b955/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fab%2Fad%2Fba1d751141b0805f111010e7bc23%2Faccidente-de-transito.jpg"
+      "title": "Arabia Saudí confirma ataque con drones contra embajada de EE. UU. en Riad: Trump reaccionó",
+      "link": "https://www.noticiascaracol.com/mundo/arabia-saudi-confirma-ataque-con-drones-contra-embajada-de-ee-uu-en-riad-reportan-incendio-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/20b6e43/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3e%2F7e%2Fbc3d5c064fde97a9cbf507c6704b%2Fembajada-estados-unidos.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Conflicto en Medio Oriente deja seis militares estadounidenses muertos tras ataques a Irán",
-      "link": "https://diarioversionfinal.com/mundo/conflicto-en-medio-oriente-deja-seis-militares-estadounidenses-muertos-tras-ataques-a-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/6HkjS2W88l_992x558-750x430.jpg"
+      "title": "Irán amenaza a ciudadanos estadounidenses: “Ya no estarán a salvo en ningún lugar”",
+      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-a-ciudadanos-estadounidenses-ya-no-estaran-a-salvo-en-ningun-lugar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/b8RhqpTNT_1256x620__1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-02T23:27:08.479Z"
+  "lastUpdate": "2026-03-03T02:10:22.554Z"
 }
