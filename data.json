@@ -5,7 +5,7 @@
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "618,81"
+      "usdt": "642,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/colegio-nacional-de-periodistas-cnp-18e5d1.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "EXCARCELARON A UN GRUPO DE PRESOS POLÍTICOS EN DISTINTOS CENTROS DE RECLUSIÓN DEL PAÍS",
-      "link": "https://noticierodigital.com/2026/03/excarcelaron-a-un-grupo-de-presos-politicos-en-distintos-centros-de-reclusion-del-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/tocoron-carcel-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Guerra en Medio Oriente: minuto a minuto de ataques en Irán tras ofensiva de Israel y EE. UU.",
       "link": "https://www.noticiascaracol.com/mundo/guerra-en-medio-oriente-minuto-a-minuto-de-ataques-en-iran-tras-ofensiva-de-israel-y-ee-uu-rg10",
@@ -50,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Israel bombardea sedes del Ministerio de Inteligencia y la Fuerza Quds en Teherán",
-      "link": "https://laverdad.com/israel-bombardea-sedes-del-ministerio-de-inteligencia-y-la-fuerza-quds-en-teheran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-Israel-a-Iran.jpg"
+      "title": "Elevan a 787 la cifra de muertos en Irán por ataques de EE. UU. e Israel",
+      "link": "https://laverdad.com/elevan-a-787-la-cifra-de-muertos-en-iran-por-ataques-de-ee-uu-e-israel/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Iran-muertos-ataques.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La entrada de Hezbolá en la guerra provoca una nueva ola de desplazamientos en Líbano",
-      "link": "https://diarioversionfinal.com/mundo/la-entrada-de-hezbola-en-la-guerra-provoca-una-nueva-ola-de-desplazamientos-en-libano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AP26061241841791-750x430.jpg"
+      "title": "Irán ataca embajada de EE. UU. en Arabia: Trump promete represalias",
+      "link": "https://diarioversionfinal.com/mundo/iran-ataca-embajada-de-ee-uu-en-arabia-trump-promete-represalias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-15.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T11:33:09.149Z"
+  "lastUpdate": "2026-03-03T12:59:18.317Z"
 }
