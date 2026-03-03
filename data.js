@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "652,50"
+      "usdt": "654,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Departamento de Justicia de EE UU prepara acusación penal contra Delcy Rodríguez\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-prepara-acusacion-penal-contra-delcy-rodriguez/",
+      "title": "El peligroso eje Venezuela e Irán: ¿fue un factor clave para la extracción de Nicolás Maduro, 56 días antes del ataque a Teherán?\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/el-peligroso-eje-venezuela-e-iran-fue-un-factor-clave-para-la-extraccion-de-nicolas-maduro-56-dias-antes-del-ataque-a-teheran/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "IRÁN EXPANDE CONFLICTO TRAS ATACAR INFRAESTRUCTURAS ENERGÉTICAS DEL GOLFO PÉRSICO",
-      "link": "https://noticierodigital.com/2026/03/iran-expande-conflicto-tras-atacar-infraestructuras-energeticas-del-golfo-persico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-4-627x376.jpg"
+      "title": "EE. UU. DESMINTIÓ A REUTERS Y NEGÓ PLANES DE ACUSAR PENALMENTE A DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/03/ee-uu-desmintio-a-reuters-y-nego-planes-de-acusar-penalmente-a-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-2-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán desata el caos tras atacar infraestructuras energéticas del golfo Pérsico",
-      "link": "https://diarioversionfinal.com/mundo/iran-desata-el-caos-tras-atacar-infraestructuras-energeticas-del-golfo-persico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2026022821154396437-750x430.webp"
+      "title": "Trump asegura que la Marina de EE. UU. protegerá el tránsito de buques cisterna en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-la-marina-protegera-el-transito-de-buques-cisterna-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2026012917091919768-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T20:33:31.882Z"
+  "lastUpdate": "2026-03-03T21:34:48.828Z"
 };
