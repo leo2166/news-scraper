@@ -5,7 +5,7 @@
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "657,59"
+      "usdt": "658,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Persisten 568 presos políticos en Venezuela pese a la Ley de Amnistía, alertó el Foro Penal",
-      "link": "https://www.infobae.com/venezuela/2026/03/03/persisten-568-presos-politicos-en-venezuela-pese-a-la-ley-de-amnistia-alerto-el-foro-penal/",
-      "image": "https://www.infobae.com/resizer/v2/372GTBXM4NBERDREWIWECXCOOI.jpg?auth=2037a017c998a936aada3080e13e9d831a7bd1ab736ca2e5a7ca9b48a40294e4&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó nuevos contratos para exportar petróleo y derivados a Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/03/03/venezuela-firmo-nuevos-contratos-para-exportar-petroleo-y-derivados-a-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/VBNEFPPHVNCPDLXCJHHTLC6ZZI.JPG?auth=51be366027f1d476f1c286a704e99b4c00e3f138e335afe28906f4fb7b3944ca&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "El peligroso eje Venezuela e Irán: ¿fue un factor clave para la extracción de Nicolás Maduro, 56 días antes del ataque a Teherán?\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/el-peligroso-eje-venezuela-e-iran-fue-un-factor-clave-para-la-extraccion-de-nicolas-maduro-56-dias-antes-del-ataque-a-teheran/",
+      "title": "María Corina Machado encabeza preferencias electorales en Venezuela pese a estar fuera del país\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-encabeza-preferencias-electorales-en-venezuela-pese-a-estar-fuera-del-pais/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "LOCALIZARON CADÁVER DEL PERIODISTA WALTER JAIMES EN UNA CARRETERA DEL ESTADO MÉRIDA",
-      "link": "https://noticierodigital.com/2026/03/localizaron-cadaver-del-periodista-walter-jaimes-en-una-carretera-del-estado-merida/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/walter-jaimes-627x376.jpg"
+      "title": "NAHUEL GALLO RECIBIÓ UN TRATO «DESGASTANTE Y DOLOROSO» EN PRISIÓN, DENUNCIÓ SU ESPOSA",
+      "link": "https://noticierodigital.com/2026/03/nahuel-gallo-recibio-un-trato-desgastante-y-doloroso-en-prision-denuncio-su-esposa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/nahuel-gallo-argentina-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Venezuela anuncia nuevos contratos de venta de petróleo para el mercado de Estados Unidos",
-      "link": "https://www.noticiascaracol.com/mundo/venezuela-anuncia-nuevos-contratos-de-venta-de-petroleo-para-el-mercado-de-estados-unidos-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0889781/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F86%2F61%2F696072d5410ab73f62a5e739f8f2%2Fpetroleo-en-venezuela.jpg"
+      "title": "Los mensajes intimidantes que recibió mamá de las hermanas Hernández, asesinadas en Barranquilla",
+      "link": "https://www.noticiascaracol.com/colombia/los-mensajes-intimidantes-que-recibio-mama-de-las-hermanas-hernandez-asesinadas-en-barranquilla-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/79e7e81/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1f%2Fb5%2F419465874cac88067860147231e2%2Fhermanas-hernandez-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2026012917091919768-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T22:30:03.415Z"
+  "lastUpdate": "2026-03-03T23:28:44.233Z"
 }
