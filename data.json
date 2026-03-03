@@ -5,7 +5,7 @@
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "644,59"
+      "usdt": "649,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,7 +20,7 @@
     },
     {
       "source": "El Nacional",
-      "title": "Departamento de Justicia de EE UU prepara una acusación penal contra Delcy Rodríguez\nMUNDO",
+      "title": "Departamento de Justicia de EE UU prepara acusación penal contra Delcy Rodríguez\nMUNDO",
       "link": "https://www.elnacional.com/2026/03/ee-uu-prepara-acusacion-penal-contra-delcy-rodriguez/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
@@ -32,15 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "CNP saluda reconocimiento al periodismo independiente por parte de Jorge Rodríguez",
-      "link": "https://noticiasvenevision.com/noticias/politica/cnp-saluda-reconocimiento-al-periodismo-independiente-por-parte-de-jorge-rodriguez",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/colegio-nacional-de-periodistas-cnp-18e5d1.png"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "HENRY ALVIAREZ TRAS SALIR DE LA CÁRCEL: «NO TENGO ODIO NI RESENTIMIENTO»",
-      "link": "https://noticierodigital.com/2026/03/henry-alviarez-tras-salir-de-la-carcel-no-tengo-odio-ni-resentimiento/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260303-WA0122-627x376.jpg"
+      "title": "Dos dirigentes sindicales en el estado Bolívar fueron liberados tras ocho meses de detención",
+      "link": "https://noticiasvenevision.com/noticias/politica/dos-dirigentes-sindicales-en-el-estado-bolivar-fueron-liberados-tras-ocho-meses-de-detencion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-03-at-3.15.31-pm-b85ca9.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reuters: EE. UU. alista cargos penales contra Delcy Rodríguez por presunta \"corrupción\"",
-      "link": "https://diarioversionfinal.com/mundo/reuters-ee-uu-alista-cargos-penales-contra-delcy-rodriguez-por-presunta-corrupcion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WEP2WT7GR5MTDNKAO6HGVYDN3A-750x430.jpg"
+      "title": "Trump rompe negociaciones con España tras la negativa sobre las bases militares",
+      "link": "https://diarioversionfinal.com/mundo/trump-rompe-negociaciones-con-espana-tras-la-negativa-sobre-las-bases-militares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/trump-750x400-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T18:52:50.185Z"
+  "lastUpdate": "2026-03-03T19:39:42.000Z"
 }
