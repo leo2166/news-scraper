@@ -5,7 +5,7 @@
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "648,99"
+      "usdt": "618,81"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,14 +20,14 @@
     },
     {
       "source": "El Nacional",
-      "title": "Marco Rubio: EE UU atacó a Irán de forma preventiva tras conocer los planes de Israel\nNOTICIAS",
-      "link": "https://www.elnacional.com/2026/03/marco-rubio-ee-uu-ataco-a-iran-de-forma-preventiva-tras-conocer-los-planes-de-israel/",
+      "title": "Confirman nuevas excarcelaciones y reiteran que \"cientos de personas\" siguen detenidas en Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/confirman-nuevas-excarcelaciones-y-reiteran-que-cientos-de-personas-siguen-detenidas-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Israel ataca Beirut y Teherán mientras aliados de EE.UU. en el Golfo repelen ataques de Irán",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-ali-jamenei-trax",
+      "title": "Israel ataca Beirut y Teherán mientras países del Golfo repelen ataques de Irán",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-medio-oriente-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-portada-20260303091820105.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Arabia Saudí confirma ataque con drones contra embajada de EE. UU. en Riad: Trump reaccionó",
-      "link": "https://www.noticiascaracol.com/mundo/arabia-saudi-confirma-ataque-con-drones-contra-embajada-de-ee-uu-en-riad-reportan-incendio-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/20b6e43/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3e%2F7e%2Fbc3d5c064fde97a9cbf507c6704b%2Fembajada-estados-unidos.jpg"
+      "title": "Guerra en Medio Oriente: minuto a minuto de ataques en Irán tras ofensiva de Israel y EE. UU.",
+      "link": "https://www.noticiascaracol.com/mundo/guerra-en-medio-oriente-minuto-a-minuto-de-ataques-en-iran-tras-ofensiva-de-israel-y-ee-uu-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c98f69d/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F05%2Fac%2Ff4f1573a4bd9a5bc2eddf72941cd%2Ftamano-imagenes-76.png"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AP26061241841791-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T10:40:00.227Z"
+  "lastUpdate": "2026-03-03T11:33:09.149Z"
 }
