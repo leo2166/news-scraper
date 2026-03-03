@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "649,59"
+      "usdt": "652,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Fueron condenados por terrorismo, pero el verdadero motivo es otro: su relación con la familia del general “El Pollo” Carvajal",
-      "link": "https://www.infobae.com/venezuela/2026/03/03/fueron-condenados-por-terrorismo-pero-el-verdadero-motivo-es-otro-su-relacion-con-la-familia-del-general-el-pollo-carvajal/",
-      "image": "https://www.infobae.com/resizer/v2/6L4OOUFH4NECBHDXOVV7ATPYJQ.jpg?auth=4e9164f0bcf0aacd6c8b7739748b751f3556dd62f2b1b65d7bfb3e1f79efb2f9&smart=true&width=350&height=197&quality=85"
+      "title": "Persisten 568 presos políticos en Venezuela pese a la Ley de Amnistía, alertó el Foro Penal",
+      "link": "https://www.infobae.com/venezuela/2026/03/03/persisten-568-presos-politicos-en-venezuela-pese-a-la-ley-de-amnistia-alerto-el-foro-penal/",
+      "image": "https://www.infobae.com/resizer/v2/372GTBXM4NBERDREWIWECXCOOI.jpg?auth=2037a017c998a936aada3080e13e9d831a7bd1ab736ca2e5a7ca9b48a40294e4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dos dirigentes sindicales en el estado Bolívar fueron liberados tras ocho meses de detención",
-      "link": "https://noticiasvenevision.com/noticias/politica/dos-dirigentes-sindicales-en-el-estado-bolivar-fueron-liberados-tras-ocho-meses-de-detencion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-03-at-3.15.31-pm-b85ca9.jpeg"
+      "title": "Asamblea Nacional estudia reforma a la \"Ley contra el Odio\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-estudia-reforma-a-la-ley-contra-el-odio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/thumbs_b_c_cf3a3a581afced0de70aa9637f3568ef-c1bb6c.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "IRÁN EXPANDE CONFLICTO TRAS ATACAR INFRAESTRUCTURAS ENERGÉTICAS DEL GOLFO PÉRSICO",
+      "link": "https://noticierodigital.com/2026/03/iran-expande-conflicto-tras-atacar-infraestructuras-energeticas-del-golfo-persico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-4-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Israel ataca tres aeropuertos en Irán, entre ellos uno de Teherán",
-      "link": "https://laverdad.com/israel-ataca-tres-aeropuertos-en-iran-entre-ellos-uno-de-teheran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Israel-ataca-el-aerodromo-de-Karaj-en-Iran.jpg"
+      "title": "Trump amenaza cortar el comercio con España por su postura sobre la guerra de Irán",
+      "link": "https://laverdad.com/trump-amenaza-cortar-el-comercio-con-espana-por-su-postura-sobre-la-guerra-de-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Pedro-Sanchez-y-Donald-Trump.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump rompe negociaciones con España tras la negativa sobre las bases militares",
-      "link": "https://diarioversionfinal.com/mundo/trump-rompe-negociaciones-con-espana-tras-la-negativa-sobre-las-bases-militares/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/trump-750x400-1.jpg"
+      "title": "Irán desata el caos tras atacar infraestructuras energéticas del golfo Pérsico",
+      "link": "https://diarioversionfinal.com/mundo/iran-desata-el-caos-tras-atacar-infraestructuras-energeticas-del-golfo-persico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2026022821154396437-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-03T19:39:42.000Z"
+  "lastUpdate": "2026-03-03T20:33:31.882Z"
 };
