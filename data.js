@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "619,20"
+      "usdt": "619,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/colegio-nacional-de-periodistas-cnp-18e5d1.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "EXCARCELARON A UN GRUPO DE PRESOS POLÍTICOS EN DISTINTOS CENTROS DE RECLUSIÓN DEL PAÍS",
-      "link": "https://noticierodigital.com/2026/03/excarcelaron-a-un-grupo-de-presos-politicos-en-distintos-centros-de-reclusion-del-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/tocoron-carcel-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Arabia Saudí confirma ataque con drones contra embajada de EE. UU. en Riad: Trump reaccionó",
       "link": "https://www.noticiascaracol.com/mundo/arabia-saudi-confirma-ataque-con-drones-contra-embajada-de-ee-uu-en-riad-reportan-incendio-cb20",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel asegura haber eliminado al jefe del cuartel de inteligencia de Hezbolá en Líbano",
-      "link": "https://diarioversionfinal.com/mundo/israel-asegura-haber-eliminado-al-jefe-del-cuartel-de-inteligencia-de-hezbola-en-libano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/beirut-2-rjxirat8dyt75iw0x4cpvvntlvu19ogi7g17nvbuw0-750x430.webp"
+      "title": "La entrada de Hezbolá en la guerra provoca una nueva ola de desplazamientos en Líbano",
+      "link": "https://diarioversionfinal.com/mundo/la-entrada-de-hezbola-en-la-guerra-provoca-una-nueva-ola-de-desplazamientos-en-libano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AP26061241841791-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T04:46:39.361Z"
+  "lastUpdate": "2026-03-03T05:50:35.355Z"
 };
