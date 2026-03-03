@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "493,54"
     },
     "binance": {
-      "usdt": "613,00"
+      "usdt": "640,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Afganistán y Venezuela lideraron en 2025 peticiones de asilo en la UE\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/afganistan-y-venezuela-lideraron-peticiones-de-asilo-en-la-ue/",
+      "title": "Departamento de Justicia de EE UU prepara una acusación penal contra Delcy Rodríguez\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/ee-uu-prepara-acusacion-penal-contra-delcy-rodriguez/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Israel ataca Beirut y Teherán mientras países del Golfo repelen ataques de Irán",
+      "title": "Israel \"avanza\" en el Líbano mientras se amplía el conflicto en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-medio-oriente-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-portada-20260303091820105.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "VIDEOS | Largas filas de buses de Transmilenio en calle 80, NQS y Caracas; pasajeros deben caminar",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/videos-largas-filas-de-buses-de-transmilenio-en-calle-80-nqs-y-caracas-pasajeros-deben-caminar-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c6faa7c/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F42%2F69%2F62403d87462193c1cc4dd086fae4%2Ftamano-imagenes-48.jpg"
+      "title": "Debate de la Gran Consulta por Colombia EN VIVO: encuentro de precandidatos en Blu Radio",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/debate-de-la-gran-consulta-por-colombia-en-vivo-encuentro-de-precandidatos-en-blu-radio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/07d0e84/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa0%2Fd5%2F1016c8f54429985da09a5c0263fc%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel y Estados Unidos atacan edificio clave para liderazgo supremo iraní",
-      "link": "https://diarioversionfinal.com/mundo/israel-y-estados-unidos-atacan-edificio-clave-para-liderazgo-supremo-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/descarga-11-750x430.jpeg"
+      "title": "Irán llora a 165 víctimas de ataque aéreo reciente en escuela",
+      "link": "https://diarioversionfinal.com/mundo/iran-llora-a-165-victimas-de-ataque-aereo-reciente-en-escuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/f30366b9379b36176b593a8224653fb118911f1bw-1280x844-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T16:50:35.330Z"
+  "lastUpdate": "2026-03-03T17:43:34.211Z"
 };
