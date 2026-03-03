@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "421,88",
-      "eur": "493,54"
+      "usd": "425,67",
+      "eur": "491,49"
     },
     "binance": {
-      "usdt": "654,59"
+      "usdt": "657,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Israel \"avanza\" en el Líbano mientras se amplía el conflicto en Medio Oriente",
+      "title": "Se extiende la violencia en Medio Oriente tras nuevos ataques contra líderes iraníes",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-portada-20260303091820105.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26062593932241-20260303214510539.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. DESMINTIÓ A REUTERS Y NEGÓ PLANES DE ACUSAR PENALMENTE A DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/03/ee-uu-desmintio-a-reuters-y-nego-planes-de-acusar-penalmente-a-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-2-2-627x376.jpg"
+      "title": "LOCALIZARON CADÁVER DEL PERIODISTA WALTER JAIMES EN UNA CARRETERA DEL ESTADO MÉRIDA",
+      "link": "https://noticierodigital.com/2026/03/localizaron-cadaver-del-periodista-walter-jaimes-en-una-carretera-del-estado-merida/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/walter-jaimes-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Debate de la Gran Consulta por Colombia EN VIVO: encuentro de precandidatos en Blu Radio",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/debate-de-la-gran-consulta-por-colombia-en-vivo-encuentro-de-precandidatos-en-blu-radio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/07d0e84/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa0%2Fd5%2F1016c8f54429985da09a5c0263fc%2Fdiseno.jpg"
+      "title": "Venezuela anuncia nuevos contratos de venta de petróleo para el mercado de Estados Unidos",
+      "link": "https://www.noticiascaracol.com/mundo/venezuela-anuncia-nuevos-contratos-de-venta-de-petroleo-para-el-mercado-de-estados-unidos-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0889781/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F86%2F61%2F696072d5410ab73f62a5e739f8f2%2Fpetroleo-en-venezuela.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2026012917091919768-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T21:34:48.828Z"
+  "lastUpdate": "2026-03-03T22:30:03.415Z"
 }
