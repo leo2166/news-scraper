@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/colegio-nacional-de-periodistas-cnp-18e5d1.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "EXCARCELARON A UN GRUPO DE PRESOS POLÍTICOS EN DISTINTOS CENTROS DE RECLUSIÓN DEL PAÍS",
+      "link": "https://noticierodigital.com/2026/03/excarcelaron-a-un-grupo-de-presos-politicos-en-distintos-centros-de-reclusion-del-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/tocoron-carcel-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Arabia Saudí confirma ataque con drones contra embajada de EE. UU. en Riad: Trump reaccionó",
       "link": "https://www.noticiascaracol.com/mundo/arabia-saudi-confirma-ataque-con-drones-contra-embajada-de-ee-uu-en-riad-reportan-incendio-cb20",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AP26061241841791-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-03T06:53:45.750Z"
+  "lastUpdate": "2026-03-03T07:42:54.127Z"
 };
