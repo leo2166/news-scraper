@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "660,29"
+      "usdt": "631,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán reanuda ataques de represalia tras nueva ofensiva contra sus líderes",
+      "title": "Activos de EE.UU. en todo Medio Oriente fueron alcanzados por ataques",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260303-americansoldierskilled-20260304000848149.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260302-iran-todos-ataques-hp.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los mensajes intimidantes que recibió mamá de las hermanas Hernández, asesinadas en Barranquilla",
-      "link": "https://www.noticiascaracol.com/colombia/los-mensajes-intimidantes-que-recibio-mama-de-las-hermanas-hernandez-asesinadas-en-barranquilla-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/79e7e81/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1f%2Fb5%2F419465874cac88067860147231e2%2Fhermanas-hernandez-1.jpg"
+      "title": "\"La campaña se ha desarrollado pacíficamente\": Presidente Petro a días de las elecciones",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/la-campana-se-ha-desarrollado-pacificamente-presidente-petro-a-dias-de-las-elecciones-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b610615/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb7%2Ff6%2Fc7637c2e4e28acdb640c6d1627e9%2Fgustavo-petro-5.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscal General estadounidense desmiente investigación contra Delcy Rodríguez publicada por Reuters",
-      "link": "https://diarioversionfinal.com/mundo/fiscal-general-estadounidense-desmiente-investigacion-contra-delcy-rodriguez-publicada-por-reuters/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/trump-93637-750x430.jpg"
+      "title": "EE. UU. asegura haber destruido 17 barcos y 100 misiles balísticos de Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-asegura-haber-destruido-17-barcos-y-100-misiles-balisticos-de-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/iran-1-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-04T02:04:31.844Z"
+  "lastUpdate": "2026-03-04T04:40:31.775Z"
 };
