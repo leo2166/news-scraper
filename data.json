@@ -5,7 +5,7 @@
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "677,00"
+      "usdt": "687,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Vente Venezuela pide pronta realización de elecciones en el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/vente-venezuela-pide-pronta-realizacion-de-elecciones-en-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-ef4f19.jpg"
+      "title": "María Oropeza solicita seguimiento y libertad plena para los ciudadanos excarcelados",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-oropeza-solicita-seguimiento-y-libertad-plena-para-los-ciudadanos-excarcelados",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/c662f629-aa89-4bac-b59f-89502da41c30-83328c.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "OLIVEROS CONSIDERA CLAVE REDUCIR EL ENCAJE LEGAL CON UN PROGRAMA DE ESTABILIZACIÓN CAMBIARIA",
+      "link": "https://noticierodigital.com/2026/03/oliveros-considera-clave-reducir-el-encaje-legal-con-un-programa-de-estabilizacion-cambiaria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/asdrubaloliveros-reconversion-28abr2021-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/quakemap-sat-21678111-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T18:52:53.777Z"
+  "lastUpdate": "2026-03-04T19:38:51.292Z"
 }
