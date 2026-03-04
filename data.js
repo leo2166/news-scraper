@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "655,59"
+      "usdt": "663,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Alejo Vidal-Quadras: El mundo será mejor con un Irán laico y democrático \nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/alejo-vidal-quadras-iran-venezuela-transicion-democratica/",
+      "title": "Secretario de Interior de EE UU llega a Caracas\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/secretario-de-interior-de-ee-uu-llega-a-caracas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Israel intensifica sus ataques mientras las fuerzas iraníes contraatacan",
+      "title": "EE.UU. advierte que la ofensiva contra Irán apenas comienza",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26062593932241-20260304132407954.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/espana-eeuu.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-ef4f19.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "VENTAS COMERCIALES EN CARACAS AUMENTARON 15,6 % EN ENERO, REPORTA ECOANALÍTICA",
+      "link": "https://noticierodigital.com/2026/03/ventas-comerciales-en-caracas-aumentaron-156-en-enero-reporta-ecoanalitica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/bolivares-dolares-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Esto se sabe de capturados por el crimen de hermanas asesinadas en Barranquilla: así cayeron",
-      "link": "https://www.noticiascaracol.com/judicial/hermanas-asesinadas-en-barranquilla-asi-cayeron-y-lo-que-se-sabe-de-los-sospechosos-del-crimen-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bbf6465/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F15%2Ff8%2Fd2b6abfe40c2ab2a3da80251aa4e%2Fdiseno.jpg"
+      "title": "Emboscada en Caquetá durante instalación de puestos de votación deja tres militares muertos",
+      "link": "https://www.noticiascaracol.com/colombia/emboscada-en-caqueta-durante-instalacion-de-puestos-de-votacion-deja-tres-militares-muertos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc324e8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5a%2F6f%2F7b078de84e41b6607a02cf2fea08%2Fsoldados-muertos.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ecuador y EE. UU. inician operaciones conjuntas contra el narcoterrorismo",
-      "link": "https://diarioversionfinal.com/mundo/ecuador-y-ee-uu-inician-operaciones-conjuntas-contra-el-narcoterrorismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1987955-750x430.webp"
+      "title": "Conflicto en Medio Oriente se intensifica entre Israel, Irán y aliados internacionales",
+      "link": "https://diarioversionfinal.com/mundo/conflicto-en-medio-oriente-se-intensifica-entre-israel-iran-y-aliados-internacionales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ls-1-20260303112727627-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T14:01:16.827Z"
+  "lastUpdate": "2026-03-04T15:41:35.361Z"
 };
