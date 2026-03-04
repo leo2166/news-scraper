@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "425,67",
-      "eur": "491,49"
+      "usd": "427,93",
+      "eur": "497,42"
     },
     "binance": {
-      "usdt": "658,50"
+      "usdt": "676,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El presidente del Consejo de Energía de Estados Unidos llegó a Caracas para reunirse con funcionarios del régimen",
-      "link": "https://www.infobae.com/venezuela/2026/03/04/el-presidente-del-consejo-de-energia-de-estados-unidos-llego-a-caracas-para-reunirse-con-funcionarios-del-regimen/",
-      "image": "https://www.infobae.com/resizer/v2/3FGSXTKCFJGQ7KCC644PKHPBQY.PNG?auth=035c45850e5e1e9367178ff29d0846c5e48a7bba798cf04a263caa837a616359&smart=true&width=350&height=197&quality=85"
+      "title": "El secretario del Interior de Estados Unidos se reunió con Delcy Rodríguez en Caracas para discutir reformas en el sector minero",
+      "link": "https://www.infobae.com/venezuela/2026/03/04/el-secretario-del-interior-de-estados-unidos-se-reunio-con-delcy-rodriguez-en-caracas-para-discutir-reformas-en-el-sector-minero/",
+      "image": "https://www.infobae.com/resizer/v2/SC7V25RGPVHE3AURZKNZNQFYCM.jpg?auth=9470b1fe034bd7700a8a68ffe0bdd8b7192b625084dce41d7cc2c9030f6f6610&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DONALD TRUMP ELOGIÓ EL «EXCELENTE TRABAJO» DE DELCY RODRÍGUEZ EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/donald-trump-elogio-el-excelente-trabajo-de-delcy-rodriguez-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/donald-trump-627x376.jpg"
+      "title": "AMERICAN AIRLINES RECIBE AUTORIZACIÓN PARA RETOMAR VUELOS A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/american-airlines-recibe-autorizacion-para-retomar-vuelos-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/american-airlines-avion-16may2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-afirmo-que-el-fallo-de-la-Corte-Suprema-sobr-1-scaled-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-04T21:35:08.696Z"
+  "lastUpdate": "2026-03-04T22:32:31.240Z"
 };
