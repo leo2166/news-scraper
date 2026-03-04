@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "631,00"
+      "usdt": "661,28"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela firmó nuevos contratos para exportar petróleo y derivados a Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/03/03/venezuela-firmo-nuevos-contratos-para-exportar-petroleo-y-derivados-a-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/VBNEFPPHVNCPDLXCJHHTLC6ZZI.JPG?auth=51be366027f1d476f1c286a704e99b4c00e3f138e335afe28906f4fb7b3944ca&smart=true&width=350&height=197&quality=85"
+      "title": "El hijo de Nicolás Maduro llamó a garantizar la “hegemonía absoluta” del chavismo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/04/el-hijo-de-nicolas-maduro-llamo-a-garantizar-la-hegemonia-absoluta-del-chavismo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/CACNC4HJUBBRRJDECZ5O55LR3Q.JPG?auth=ee2e200e2a8ceaae1cfabadbf33fc174f21092690386ad93e5b52b65eac4dc0e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Activos de EE.UU. en todo Medio Oriente fueron alcanzados por ataques",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260302-iran-todos-ataques-hp.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261490350-20260228221642779.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/UINy55gR-nationalgeographic_163656_bx-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T05:43:14.969Z"
+  "lastUpdate": "2026-03-04T06:49:49.800Z"
 };
