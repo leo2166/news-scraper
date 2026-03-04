@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "667,59"
+      "usdt": "681,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "EE.UU. advierte que la ofensiva contra Irán apenas comienza",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1224401397.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262154186.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +37,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-ef4f19.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "EL 2026 SERÁ UN AÑO DE ALTO CRECIMIENTO ECONÓMICO, AFIRMÓ PEDRO PALMA ",
-      "link": "https://noticierodigital.com/2026/03/el-2026-sera-un-ano-de-alto-crecimiento-economico-afirmo-pedro-palma/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/economistapedropalma.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Emboscada en Caquetá durante instalación de puestos de votación deja tres militares muertos",
-      "link": "https://www.noticiascaracol.com/colombia/emboscada-en-caqueta-durante-instalacion-de-puestos-de-votacion-deja-tres-militares-muertos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fc324e8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5a%2F6f%2F7b078de84e41b6607a02cf2fea08%2Fsoldados-muertos.jpg"
+      "title": "Debate de la Consulta de las Soluciones EN VIVO: encuentro de precandidatos en Blu Radio",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/debate-de-la-consulta-de-las-soluciones-en-vivo-encuentro-de-precandidatos-en-blu-radio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a41680c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F73%2F27%2F89ac008b4139b0670d2f2fc36d02%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ls-1-20260303112727627-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T16:45:38.449Z"
+  "lastUpdate": "2026-03-04T17:39:12.343Z"
 };
