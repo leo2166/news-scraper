@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "676,57"
+      "usdt": "661,19"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El secretario del Interior de Estados Unidos se reunió con Delcy Rodríguez en Caracas para discutir reformas en el sector minero",
-      "link": "https://www.infobae.com/venezuela/2026/03/04/el-secretario-del-interior-de-estados-unidos-se-reunio-con-delcy-rodriguez-en-caracas-para-discutir-reformas-en-el-sector-minero/",
-      "image": "https://www.infobae.com/resizer/v2/SC7V25RGPVHE3AURZKNZNQFYCM.jpg?auth=9470b1fe034bd7700a8a68ffe0bdd8b7192b625084dce41d7cc2c9030f6f6610&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos autorizó a American Airlines a reanudar sus vuelos directos entre Miami y Venezuela tras cinco años de suspensión",
+      "link": "https://www.infobae.com/estados-unidos/2026/03/04/estados-unidos-autorizo-a-american-airlines-a-reanudar-sus-vuelos-directos-entre-miami-y-venezuela-tras-cinco-anos-de-suspension/",
+      "image": "https://www.infobae.com/resizer/v2/NZICHBHRLJFVXGE7TS2J7SYPXM.JPG?auth=39fe63cd219b88e93bbe8110d10ebb056254522d0dc18e010d5b0a3aacbb86b1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La Casa Blanca dice que España coopera con EE.UU. en la acción militar contra Irán; España lo niega",
+      "title": "Israel lanza nueva ola de ataques en todo Teherán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax?post-id=cmmcf6my8005e3b6rgcemsk1c",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264163943-20260304202435369.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264214443-20260304210011518.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Oropeza solicita seguimiento y libertad plena para los ciudadanos excarcelados",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-oropeza-solicita-seguimiento-y-libertad-plena-para-los-ciudadanos-excarcelados",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/c662f629-aa89-4bac-b59f-89502da41c30-83328c.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "AMERICAN AIRLINES RECIBE AUTORIZACIÓN PARA RETOMAR VUELOS A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/american-airlines-recibe-autorizacion-para-retomar-vuelos-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/american-airlines-avion-16may2022.jpg"
+      "title": "Secretario de Interior de EE.UU., Doug Burgum dice que empresas de minería desean comenzar a trabajar en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/secretario-de-interior-de-eeuu-doug-burgum-dice-que-empresas-de-mineria-desean-comenzar-a-trabajar-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/07_zc__7616_p-2048x1993-1-ec91ca.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Corte Suprema de EE. UU. limita la revisión judicial de solicitudes de asilo",
-      "link": "https://diarioversionfinal.com/mundo/la-corte-suprema-de-ee-uu-limita-la-revision-judicial-de-solicitudes-de-asilo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-afirmo-que-el-fallo-de-la-Corte-Suprema-sobr-1-scaled-1-750x430.webp"
+      "title": "Trump elogia cooperación de Rodríguez y asegura que el petróleo venezolano \"está empezando a fluir\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-elogia-cooperacion-de-rodriguez-y-asegura-que-el-petroleo-venezolano-esta-empezando-a-fluir/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/jmgh-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-04T22:32:31.240Z"
+  "lastUpdate": "2026-03-04T23:30:46.493Z"
 };
