@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "655,87"
+      "usdt": "655,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,8 +27,8 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "Israel intensifica sus ataques mientras las fuerzas iraníes contraatacan",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264031615-20260304094609163.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26062593932241-20260304132407954.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,23 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-ef4f19.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "EE. UU. AFIRMA QUE «DEGRADÓ GRAVEMENTE» 2.000 OBJETIVOS Y DEFENSAS AÉREAS DE IRÁN",
-      "link": "https://noticierodigital.com/2026/03/ee-uu-afirma-que-degrado-gravemente-2-000-objetivos-y-defensas-aereas-de-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-5-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Esto se sabe de capturados por el crimen de hermanas asesinadas en Barranquilla: así cayeron",
       "link": "https://www.noticiascaracol.com/judicial/hermanas-asesinadas-en-barranquilla-asi-cayeron-y-lo-que-se-sabe-de-los-sospechosos-del-crimen-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/bbf6465/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F15%2Ff8%2Fd2b6abfe40c2ab2a3da80251aa4e%2Fdiseno.jpg"
     },
     {
+      "source": "La Verdad",
+      "title": "Trump amenaza cortar el comercio con España por su postura sobre la guerra de Irán",
+      "link": "https://laverdad.com/trump-amenaza-cortar-el-comercio-con-espana-por-su-postura-sobre-la-guerra-de-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Pedro-Sanchez-y-Donald-Trump.jpg"
+    },
+    {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV renueva llamado a la paz mundial",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-renueva-llamado-a-la-paz-mundial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/papa-leon-xiv-en-audiencia-general-del-13-de-agosto-01-750x430.jpg"
+      "title": "Ecuador y EE. UU. inician operaciones conjuntas contra el narcoterrorismo",
+      "link": "https://diarioversionfinal.com/mundo/ecuador-y-ee-uu-inician-operaciones-conjuntas-contra-el-narcoterrorismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1987955-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-04T12:58:19.699Z"
+  "lastUpdate": "2026-03-04T14:01:16.827Z"
 };
