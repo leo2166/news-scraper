@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/UINy55gR-nationalgeographic_163656_bx-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T06:49:49.800Z"
+  "lastUpdate": "2026-03-04T07:38:11.494Z"
 };
