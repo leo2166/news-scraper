@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "659,99"
+      "usdt": "629,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Israel intensifica sus ataques mientras las fuerzas iraníes contraatacan",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/ataques-iran-ee-uu-israel-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261490350-20260228221642779.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264031615-20260304094609163.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/UINy55gR-nationalgeographic_163656_bx-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T10:37:14.597Z"
+  "lastUpdate": "2026-03-04T11:30:44.245Z"
 };
