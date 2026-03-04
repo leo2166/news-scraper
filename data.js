@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "687,00"
+      "usdt": "680,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. dice que pronto tendrá “dominio total” del espacio aéreo de Irán",
+      "title": "La Casa Blanca dice que España coopera con EE.UU. en la acción militar contra Irán; España lo niega",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2264013096-20260304011239864.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264163943-20260304202435369.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OLIVEROS CONSIDERA CLAVE REDUCIR EL ENCAJE LEGAL CON UN PROGRAMA DE ESTABILIZACIÓN CAMBIARIA",
-      "link": "https://noticierodigital.com/2026/03/oliveros-considera-clave-reducir-el-encaje-legal-con-un-programa-de-estabilizacion-cambiaria/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/asdrubaloliveros-reconversion-28abr2021-627x376.jpg"
+      "title": "FEDERACIÓN DE EMPLEADOS PÚBLICOS PROPONE SALARIO MÍNIMO EN 200 DÓLARES",
+      "link": "https://noticierodigital.com/2026/03/federacion-de-empleados-publicos-propone-salario-minimo-en-200-dolares/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/dolares-venezuela-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "El Vaticano advierte de que las guerras preventivas corren el riesgo de incendiar el mundo",
-      "link": "https://laverdad.com/el-vaticano-advierte-de-que-las-guerras-preventivas-corren-el-riesgo-de-incendiar-el-mundo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Pietro-Parolin-1.jpg"
+      "title": "Nahuel Gallo pide libertad para extranjeros detenidos en El Rodeo I",
+      "link": "https://laverdad.com/nahuel-gallo-pide-libertad-para-extranjeros-detenidos-en-el-rodeo-i/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nahuel-Gallo.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/quakemap-sat-21678111-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T19:38:51.292Z"
+  "lastUpdate": "2026-03-04T20:33:03.549Z"
 };
