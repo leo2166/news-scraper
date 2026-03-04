@@ -5,7 +5,7 @@
       "eur": "491,49"
     },
     "binance": {
-      "usdt": "663,00"
+      "usdt": "667,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El hijo de Nicolás Maduro llamó a garantizar la “hegemonía absoluta” del chavismo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/04/el-hijo-de-nicolas-maduro-llamo-a-garantizar-la-hegemonia-absoluta-del-chavismo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/CACNC4HJUBBRRJDECZ5O55LR3Q.JPG?auth=ee2e200e2a8ceaae1cfabadbf33fc174f21092690386ad93e5b52b65eac4dc0e&smart=true&width=350&height=197&quality=85"
+      "title": "El presidente del Consejo de Energía de Estados Unidos llegó a Caracas para reunirse con funcionarios del régimen",
+      "link": "https://www.infobae.com/venezuela/2026/03/04/el-presidente-del-consejo-de-energia-de-estados-unidos-llego-a-caracas-para-reunirse-con-funcionarios-del-regimen/",
+      "image": "https://www.infobae.com/resizer/v2/3FGSXTKCFJGQ7KCC644PKHPBQY.PNG?auth=035c45850e5e1e9367178ff29d0846c5e48a7bba798cf04a263caa837a616359&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "EE.UU. advierte que la ofensiva contra Irán apenas comienza",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/espana-eeuu.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1224401397.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENTAS COMERCIALES EN CARACAS AUMENTARON 15,6 % EN ENERO, REPORTA ECOANALÍTICA",
-      "link": "https://noticierodigital.com/2026/03/ventas-comerciales-en-caracas-aumentaron-156-en-enero-reporta-ecoanalitica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/bolivares-dolares-627x376.jpg"
+      "title": "EL 2026 SERÁ UN AÑO DE ALTO CRECIMIENTO ECONÓMICO, AFIRMÓ PEDRO PALMA ",
+      "link": "https://noticierodigital.com/2026/03/el-2026-sera-un-ano-de-alto-crecimiento-economico-afirmo-pedro-palma/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/economistapedropalma.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@
     },
     {
       "source": "La Verdad",
-      "title": "Trump amenaza cortar el comercio con España por su postura sobre la guerra de Irán",
-      "link": "https://laverdad.com/trump-amenaza-cortar-el-comercio-con-espana-por-su-postura-sobre-la-guerra-de-iran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Pedro-Sanchez-y-Donald-Trump.jpg"
+      "title": "Encuentran muerta a venezolana dentro de una casa rodante en Utah",
+      "link": "https://laverdad.com/encuentran-muerta-a-venezolana-dentro-de-una-casa-rodante-en-utah/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Mujer-muerta-en-Utah.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ls-1-20260303112727627-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T15:41:35.361Z"
+  "lastUpdate": "2026-03-04T16:45:38.449Z"
 }
