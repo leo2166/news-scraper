@@ -5,7 +5,7 @@
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "668,19"
+      "usdt": "669,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,8 +26,8 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Israel ejecuta más ataques contra Teherán y Beirut",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax?post-id=cmmcf6my8005e3b6rgcemsk1c",
+      "title": "Irán e Israel ejecutan nuevos ataques mientras el conflicto se extiende",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264214443-20260304210011518.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DICTARON LIBERTAD PLENA PARA EL EXALCALDE ERNESTO PARAQUEIMA TRAS SOLICITUD DE LA FISCALÍA",
+      "title": "Dictaron libertad plena para el exalcalde Ernesto Paraqueima tras solicitud de la Fiscalía",
       "link": "https://noticierodigital.com/2026/03/dictaron-libertad-plena-para-el-exalcalde-ernesto-paraqueima-tras-solicitud-de-la-fiscalia/",
       "image": "https://noticierodigital.com/wp-content/uploads/2023/05/paraqueima-ninos-autismo-4may2023.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump dice que Delcy Rodríguez, presidenta (e) de Venezuela, \"está haciendo un excelente trabajo\"",
-      "link": "https://www.noticiascaracol.com/mundo/trump-dice-que-delcy-rodriguez-presidenta-e-de-venezuela-esta-haciendo-un-excelente-trabajo-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4ac8236/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F12%2Fd0bb9139409b94d96df046f14530%2Fdelcy-trump.jpg"
+      "title": "La hipótesis preliminar que tienen autoridades sobre crimen de hermanas Hernández en Barranquilla",
+      "link": "https://www.noticiascaracol.com/judicial/la-hipotesis-preliminar-que-tienen-autoridades-sobre-crimen-de-hermanas-hernandez-en-barranquilla-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4648ad8/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7b%2Fcf%2Fe5658e3d429b9a063b24ffed00d2%2Fhermanas-hernandez.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ree-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T02:07:39.598Z"
+  "lastUpdate": "2026-03-05T04:45:14.120Z"
 }
