@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "661,19"
+      "usdt": "668,19"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos autorizó a American Airlines a reanudar sus vuelos directos entre Miami y Venezuela tras cinco años de suspensión",
-      "link": "https://www.infobae.com/estados-unidos/2026/03/04/estados-unidos-autorizo-a-american-airlines-a-reanudar-sus-vuelos-directos-entre-miami-y-venezuela-tras-cinco-anos-de-suspension/",
-      "image": "https://www.infobae.com/resizer/v2/NZICHBHRLJFVXGE7TS2J7SYPXM.JPG?auth=39fe63cd219b88e93bbe8110d10ebb056254522d0dc18e010d5b0a3aacbb86b1&smart=true&width=350&height=197&quality=85"
+      "title": "Juan Pablo Guanipa denunció que sigue procesado pese a obtener la “libertad plena” en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/05/juan-pablo-guanipa-denuncio-que-sigue-procesado-pese-a-obtener-la-libertad-plena-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/DJKJN7BJBVEZLPL4RGJ7QTL4R4.JPG?auth=abd6fe78c53e956fb154f09b99abf76cdb436d8423f45de6d024e5c99912a464&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "\"Es un lugar de bastante tortura psicológica\": el testimonio del gendarme argentino Nahuel Gallo, que pasó 448 días detenido en El Rodeo I\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/es-un-lugar-de-bastante-tortura-psicologica-el-testimonio-del-gendarme-argentino-nahuel-gallo-que-paso-448-dias-detenido-en-el-rodeo-i/",
+      "title": "Doug Burgum: El trabajo entre Venezuela y EE UU traerá paz y estabilidad al mundo\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/doug-burgum-el-trabajo-entre-venezuela-y-ee-uu-traera-paz/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Israel lanza nueva ola de ataques en todo Teherán",
+      "title": "Israel ejecuta más ataques contra Teherán y Beirut",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax?post-id=cmmcf6my8005e3b6rgcemsk1c",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264214443-20260304210011518.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Secretario de Interior de EE.UU., Doug Burgum dice que empresas de minería desean comenzar a trabajar en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/secretario-de-interior-de-eeuu-doug-burgum-dice-que-empresas-de-mineria-desean-comenzar-a-trabajar-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/07_zc__7616_p-2048x1993-1-ec91ca.jpg"
+      "title": "Embajada de EE.UU. en Venezuela destacó publicación de la Casa Blanca sobre las buenas relaciones entre ambas naciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-venezuela-destaco-publicacion-de-la-casa-blanca-sobre-las-buenas-relaciones-entre-ambas-naciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-1-e9fb3c.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "DICTARON LIBERTAD PLENA PARA EL EXALCALDE ERNESTO PARAQUEIMA TRAS SOLICITUD DE LA FISCALÍA",
+      "link": "https://noticierodigital.com/2026/03/dictaron-libertad-plena-para-el-exalcalde-ernesto-paraqueima-tras-solicitud-de-la-fiscalia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/05/paraqueima-ninos-autismo-4may2023.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump elogia cooperación de Rodríguez y asegura que el petróleo venezolano \"está empezando a fluir\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-elogia-cooperacion-de-rodriguez-y-asegura-que-el-petroleo-venezolano-esta-empezando-a-fluir/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/jmgh-750x430.png"
+      "title": "EE. UU. autoriza a American Airlines reanudar vuelos hacia Caracas y Maracaibo",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-autoriza-a-american-airlines-reanudar-vuelos-hacia-caracas-y-maracaibo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ree-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-04T23:30:46.493Z"
+  "lastUpdate": "2026-03-05T02:07:39.598Z"
 };
