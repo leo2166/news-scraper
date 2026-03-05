@@ -5,7 +5,7 @@
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "667,99"
+      "usdt": "667,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El conflicto en Medio Oriente se amplía y aumentan los vuelos de evacuación",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-espana.png?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump destituye a Noem",
+      "link": "https://cnnespanol.cnn.com/2026/03/05/eeuu/trump-reemplazar-noem-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/noem-vs-trump.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "OFAC RENUEVA LICENCIA A MONÓMEROS: INGRESOS IRÁN AL FONDO ADMINISTRADO POR EE .UU.",
-      "link": "https://noticierodigital.com/2026/03/ofac-renueva-licencia-a-monomeros-ingresos-iran-al-fondo-administrado-por-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/monomeros-colombo-venezolanos-627x376.jpg"
+      "title": "ECOPETROL PIDE NUEVAMENTE A LA OFAC QUE LEVANTE LIMITACIONES A LOS NEGOCIOS CON VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/ecopetrol-pide-nuevamente-a-la-ofac-que-levante-limitaciones-a-los-negocios-con-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/ecopetrol-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Trump quiere participar en el nombramiento del nuevo líder iraní, como “en Venezuela”",
-      "link": "https://laverdad.com/trump-quiere-participar-en-el-nombramiento-del-nuevo-lider-irani-como-en-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Trump-4-scaled.jpg"
+      "title": "Trump sustituye a Kristi Noem como secretaria de Seguridad Nacional",
+      "link": "https://laverdad.com/trump-sustituye-a-kristi-noem-como-secretaria-de-seguridad-nacional/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-sustituye-a-Kristi-Noem.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Importaciones de crudo venezolano a EE. UU. suben en medio de tensiones energéticas",
-      "link": "https://diarioversionfinal.com/mundo/importaciones-de-crudo-venezolano-a-ee-uu-suben-en-medio-de-tensiones-energeticas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Exportaciones-de-crudo-venezolano-a-EEUU-aumentan-592-durante-febrero-t-750x430.webp"
+      "title": "Irán niega cierre del estrecho de Ormuz: \"Es una afirmación absurda\"",
+      "link": "https://diarioversionfinal.com/mundo/iran-niega-cierre-del-estrecho-de-ormuz-es-una-afirmacion-absurda/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/estrecho-de-Ormuz-2-696x405-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T18:04:57.570Z"
+  "lastUpdate": "2026-03-05T19:52:16.003Z"
 }
