@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "667,10"
+      "usdt": "664,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU otorga licencia temporal a Gold Reserve para negociaciones con Venezuela\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-otorga-licencia-temporal-a-gold-reserve-para-negociaciones-con-venezuela/",
+      "title": "El anunciado regreso de María Corina Machado reabre debate sobre nuevas elecciones en Venezuela: ¿puede la oposición reorganizarse para la transición?\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/el-anunciado-regreso-de-maria-corina-machado-reabre-debate-sobre-nuevas-elecciones-en-venezuela-puede-la-oposicion-reorganizarse-para-la-transicion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Trump destituye a Noem",
       "link": "https://cnnespanol.cnn.com/2026/03/05/eeuu/trump-reemplazar-noem-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/noem-vs-trump.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264412227.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Embajada de EE.UU. en Venezuela destacó publicación de la Casa Blanca sobre las buenas relaciones entre ambas naciones",
       "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-venezuela-destaco-publicacion-de-la-casa-blanca-sobre-las-buenas-relaciones-entre-ambas-naciones",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-1-e9fb3c.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "¿LOS CASINOS FÍSICOS UTILIZAN OXÍGENO Y AROMAS AMBIENTALES PARA MANTENER AL JUGADOR ACTIVO?",
-      "link": "https://noticierodigital.com/2026/03/los-casinos-fisicos-utilizan-oxigeno-y-aromas-ambientales-para-mantener-al-jugador-activo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/09/casinos-en-linea-chips-15sep2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/3Xc2BjLw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T20:37:49.423Z"
+  "lastUpdate": "2026-03-05T21:36:50.503Z"
 };
