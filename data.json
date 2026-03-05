@@ -5,7 +5,7 @@
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "667,57"
+      "usdt": "667,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán e Israel lanzan nuevos ataques mientras el conflicto se extiende",
+      "title": "El conflicto en Medio Oriente se amplía y aumentan los vuelos de evacuación",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260305060533889.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-y-pedro-20260305105507778-20260305105524556.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ree-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T10:39:52.209Z"
+  "lastUpdate": "2026-03-05T11:34:23.584Z"
 }
