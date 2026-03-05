@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "659,50"
+      "usdt": "664,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El periodismo independiente venezolano volvió a Miraflores\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/el-periodismo-independiente-venezolano-volvio-a-miraflores/",
+      "title": "Axios: Trafigura y Minerven firman acuerdo multimillonario para vender hasta 1.000 kilos de oro\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/axios-trafigura-y-minerven-firman-acuerdo-multimillonario-para-vender-hasta-1-000-kilos-de-oro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«ENCUENTRO ENTRE DELCY RODRÍGUEZ Y GUSTAVO PETRO BUSCA FORTALECER LA FRONTERA»: MILTON RENGIFO",
-      "link": "https://noticierodigital.com/2026/03/encuentro-entre-delcy-rodriguez-y-gustavo-petro-busca-fortalecer-la-frontera-milton-rengifo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-24-627x376.jpg"
+      "title": "FORO PENAL REPORTA QUE PERMANECEN DETENIDOS 49 PRESOS POLÍTICOS CON NACIONALIDAD EXTRANJERA",
+      "link": "https://noticierodigital.com/2026/03/foro-penal-reporta-que-permanecen-detenidos-49-presos-politicos-con-nacionalidad-extranjera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/09/alfredo-romero-foro-penal-22sep2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. autoriza licencia temporal a Gold Reserve para negociar con Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-autoriza-licencia-temporal-a-gold-reserve-para-negociar-con-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/OFAC-Department-of-Treasury-837-x-399-750x399.jpg"
+      "title": "Israel ordena evacuación urgente de Dahiyeh, bastión de Hezbollah en sur de Beirut: “Salven sus vidas”",
+      "link": "https://diarioversionfinal.com/mundo/israel-ordena-evacuacion-urgente-de-dahiyeh-bastion-de-hezbollah-en-sur-de-beirut-salven-sus-vidas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-05-at-12.36.22-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-05T14:44:56.482Z"
+  "lastUpdate": "2026-03-05T15:51:59.931Z"
 };
