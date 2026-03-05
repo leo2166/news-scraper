@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "427,93",
-      "eur": "497,42"
+      "usd": "431,01",
+      "eur": "499,62"
     },
     "binance": {
-      "usdt": "664,10"
+      "usdt": "657,13"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Trump destituye a Noem",
       "link": "https://cnnespanol.cnn.com/2026/03/05/eeuu/trump-reemplazar-noem-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264412227.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/04383110-5e39-489e-a47f-8fa1e50b65cc.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump destituye a Kristi Noem como secretaria de Seguridad Nacional",
-      "link": "https://diarioversionfinal.com/mundo/trump-destituye-a-kristi-noem-como-secretaria-de-seguridad-nacional/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/3Xc2BjLw-750x430.jpg"
+      "title": "EE. UU. elimina sanciones al buque Kiara M vinculado al transporte de crudo venezolano",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-elimina-sanciones-al-buque-kiara-m-vinculados-al-transporte-de-crudo-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-2026-03-05T141119.460.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T21:36:50.503Z"
+  "lastUpdate": "2026-03-05T22:32:22.348Z"
 }
