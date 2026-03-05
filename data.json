@@ -5,7 +5,7 @@
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "639,80"
+      "usdt": "639,78"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Juan Pablo Guanipa denunció que sigue procesado pese a obtener la “libertad plena” en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/05/juan-pablo-guanipa-denuncio-que-sigue-procesado-pese-a-obtener-la-libertad-plena-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/DJKJN7BJBVEZLPL4RGJ7QTL4R4.JPG?auth=abd6fe78c53e956fb154f09b99abf76cdb436d8423f45de6d024e5c99912a464&smart=true&width=350&height=197&quality=85"
+      "title": "Un alto funcionario de EEUU afirmó que hay grandes oportunidades de desbloquear la riqueza mineral en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/05/un-alto-funcionario-de-eeuu-afirmo-que-en-venezuela-hay-grandes-oportunidades-de-desbloquear-la-riqueza-mineral-del-pais/",
+      "image": "https://www.infobae.com/resizer/v2/4N2OCGW7CVDI3JTW3RFZ7LHD4E.JPG?auth=ac98a0824fb0376ab84eb8d03e28072335487f6c93adefbafc1f311462134c72&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ree-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T07:42:42.468Z"
+  "lastUpdate": "2026-03-05T08:42:37.207Z"
 }
