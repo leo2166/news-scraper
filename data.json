@@ -5,7 +5,7 @@
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "667,00"
+      "usdt": "663,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,8 +27,8 @@
     {
       "source": "CNN en Español",
       "title": "El conflicto en Medio Oriente se amplía y aumentan los vuelos de evacuación",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-y-pedro-20260305105507778-20260305105524556.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26063725429466-20260305110504540.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DICTARON LIBERTAD PLENA PARA EL EXALCALDE ERNESTO PARAQUEIMA TRAS SOLICITUD DE LA FISCALÍA",
-      "link": "https://noticierodigital.com/2026/03/dictaron-libertad-plena-para-el-exalcalde-ernesto-paraqueima-tras-solicitud-de-la-fiscalia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/05/paraqueima-ninos-autismo-4may2023.jpg"
+      "title": "AXIOS: VENEZUELA FIRMA ACUERDO MULTIMILLONARIO DE ORO ENTRE MINERVEN Y TRAFIGURA",
+      "link": "https://noticierodigital.com/2026/03/axios-venezuela-firma-acuerdo-multimillonario-de-oro-entre-minerven-y-trafigura/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-6-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ree-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T11:34:23.584Z"
+  "lastUpdate": "2026-03-05T13:01:47.548Z"
 }
