@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "667,40"
+      "usdt": "667,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ECOPETROL PIDE NUEVAMENTE A LA OFAC QUE LEVANTE LIMITACIONES A LOS NEGOCIOS CON VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/ecopetrol-pide-nuevamente-a-la-ofac-que-levante-limitaciones-a-los-negocios-con-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/ecopetrol-referencial-627x376.jpg"
+      "title": "¿LOS CASINOS FÍSICOS UTILIZAN OXÍGENO Y AROMAS AMBIENTALES PARA MANTENER AL JUGADOR ACTIVO?",
+      "link": "https://noticierodigital.com/2026/03/los-casinos-fisicos-utilizan-oxigeno-y-aromas-ambientales-para-mantener-al-jugador-activo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/09/casinos-en-linea-chips-15sep2022.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Delcy Rodríguez hará su primer viaje internacional como presidenta (e) de Venezuela: será a Colombia",
-      "link": "https://www.noticiascaracol.com/mundo/delcy-rodriguez-hara-su-primer-viaje-internacional-como-presidenta-e-de-venezuela-sera-a-colombia-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6efdbe3/2147483647/strip/true/crop/1276x720+1+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2F74%2F6c432f704f22ac542a0775507b4c%2Fdelcy-petro-1.jpg"
+      "title": "Trump despide a Kristi Noem, clave en política antimigratoria, como secretaria de Seguridad Nacional",
+      "link": "https://www.noticiascaracol.com/mundo/trump-despide-a-kristi-noem-clave-en-politica-antimigratoria-como-secretaria-de-seguridad-nacional-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/883618b/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2d%2F6f%2F1a0569e5430db1597e4f8857fca1%2Ftrump-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán niega cierre del estrecho de Ormuz: \"Es una afirmación absurda\"",
-      "link": "https://diarioversionfinal.com/mundo/iran-niega-cierre-del-estrecho-de-ormuz-es-una-afirmacion-absurda/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/estrecho-de-Ormuz-2-696x405-1.jpg"
+      "title": "Trump destituye a Kristi Noem como secretaria de Seguridad Nacional",
+      "link": "https://diarioversionfinal.com/mundo/trump-destituye-a-kristi-noem-como-secretaria-de-seguridad-nacional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/3Xc2BjLw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T19:52:16.003Z"
+  "lastUpdate": "2026-03-05T20:37:49.423Z"
 };
