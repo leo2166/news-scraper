@@ -5,7 +5,7 @@
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "663,87"
+      "usdt": "659,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Un alto funcionario de EEUU afirmó que hay grandes oportunidades de desbloquear la riqueza mineral en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/05/un-alto-funcionario-de-eeuu-afirmo-que-en-venezuela-hay-grandes-oportunidades-de-desbloquear-la-riqueza-mineral-del-pais/",
-      "image": "https://www.infobae.com/resizer/v2/4N2OCGW7CVDI3JTW3RFZ7LHD4E.JPG?auth=ac98a0824fb0376ab84eb8d03e28072335487f6c93adefbafc1f311462134c72&smart=true&width=350&height=197&quality=85"
+      "title": "El gobierno de Venezuela y Estados Unidos consolidan su cooperación en recursos estratégicos",
+      "link": "https://www.infobae.com/venezuela/2026/03/05/el-gobierno-de-venezuela-y-estados-unidos-consolidan-su-cooperacion-en-recursos-estrategicos/",
+      "image": "https://www.infobae.com/resizer/v2/VXFBVZUD4FFOPGCWURN2QNFHLE.jpg?auth=a59ba2d2dbf3a389ab201ac3165913cc53385c06b82e61b03d3d9ec30a063ea8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "El conflicto en Medio Oriente se amplía y aumentan los vuelos de evacuación",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26063725429466-20260305110504540.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-15t231003z-1890649593-rc2u7gasa37i-rtrmadp-3-mexico-gas-pemex.JPG?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "AXIOS: VENEZUELA FIRMA ACUERDO MULTIMILLONARIO DE ORO ENTRE MINERVEN Y TRAFIGURA",
-      "link": "https://noticierodigital.com/2026/03/axios-venezuela-firma-acuerdo-multimillonario-de-oro-entre-minerven-y-trafigura/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-6-627x376.jpg"
+      "title": "«ENCUENTRO ENTRE DELCY RODRÍGUEZ Y GUSTAVO PETRO BUSCA FORTALECER LA FRONTERA»: MILTON RENGIFO",
+      "link": "https://noticierodigital.com/2026/03/encuentro-entre-delcy-rodriguez-y-gustavo-petro-busca-fortalecer-la-frontera-milton-rengifo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-24-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La hipótesis preliminar que tienen autoridades sobre crimen de hermanas Hernández en Barranquilla",
-      "link": "https://www.noticiascaracol.com/judicial/la-hipotesis-preliminar-que-tienen-autoridades-sobre-crimen-de-hermanas-hernandez-en-barranquilla-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4648ad8/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7b%2Fcf%2Fe5658e3d429b9a063b24ffed00d2%2Fhermanas-hernandez.jpg"
+      "title": "Menor sospechoso de crimen de hermanas en Barranquilla habría pertenecido a disidencias de las Farc",
+      "link": "https://www.noticiascaracol.com/judicial/nuevos-detalles-de-menor-de-edad-sospechoso-de-crimen-de-hermanas-en-barranquilla-habria-pertenecido-a-disidencias-de-las-farc-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/900e936/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F69%2F1a%2F857506794084b9ab8994fd2a8d68%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Nahuel Gallo pide libertad para extranjeros detenidos en El Rodeo I",
-      "link": "https://laverdad.com/nahuel-gallo-pide-libertad-para-extranjeros-detenidos-en-el-rodeo-i/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nahuel-Gallo.jpg"
+      "title": "Israel bombardea 40 puntos de Teherán en la duodécima oleada de ataques contra Irán",
+      "link": "https://laverdad.com/israel-bombardea-40-puntos-de-teheran-en-la-duodecima-oleada-de-ataques-contra-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/d601a0025c27840dcc562c951f063a720d4f0d89-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. autoriza a American Airlines reanudar vuelos hacia Caracas y Maracaibo",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-autoriza-a-american-airlines-reanudar-vuelos-hacia-caracas-y-maracaibo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ree-750x430.jpg"
+      "title": "EE. UU. autoriza licencia temporal a Gold Reserve para negociar con Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-autoriza-licencia-temporal-a-gold-reserve-para-negociar-con-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/OFAC-Department-of-Treasury-837-x-399-750x399.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T13:01:47.548Z"
+  "lastUpdate": "2026-03-05T14:44:56.482Z"
 }
