@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "497,42"
     },
     "binance": {
-      "usdt": "639,00"
+      "usdt": "639,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán e Israel ejecutan nuevos ataques mientras el conflicto se extiende",
+      "title": "Irán e Israel lanzan nuevos ataques mientras el conflicto se extiende",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264214443-20260304210011518.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260305060533889.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ree-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T05:48:50.078Z"
+  "lastUpdate": "2026-03-05T06:53:46.258Z"
 };
