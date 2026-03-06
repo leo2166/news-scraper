@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "648,60"
+      "usdt": "646,13"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela inspecciona estado de su Embajada y consulados en Estados Unidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-inspecciona-estado-de-su-embajada-y-consulados-en-estados-unidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_2026-02-26_17-29-02-1577b2.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA E ITALIA ELEVARON SUS RELACIONES DIPLOMÁTICAS AL NIVEL DE EMBAJADORES",
-      "link": "https://noticierodigital.com/2026/03/venezuela-e-italia-elevaron-sus-relaciones-diplomaticas-al-nivel-de-embajadores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/oliver-blanco-627x376.jpg"
+      "title": "Manuel Rosales pide crear condiciones para hacer elecciones \"transparentes\" en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/manuel-rosales-pide-crear-condiciones-para-hacer-elecciones-transparentes-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/92cf37255c9a93e341c902542b4f8918-8ee2a0.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Detalles sobre muerte de Camila García tras caer de tobogán en Chinácota: empresa se pronunció",
-      "link": "https://www.noticiascaracol.com/colombia/detalles-sobre-muerte-de-camila-garcia-tras-caer-de-tobogan-en-chinacota-empresa-se-pronuncio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dc29bdf/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2d%2F2b%2F2ca1ee11431ba9c485863344530a%2Fcamila-garcia-chinacota.jpg"
+      "title": "¿Habrá lluvias en Colombia este fin de semana electoral? Esto dice Ideam",
+      "link": "https://www.noticiascaracol.com/colombia/habra-lluvias-en-colombia-este-fin-de-semana-electoral-esto-dice-ideam-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b48fea/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F99%2F12%2Ffa1e426941558d3bdfa163121a1a%2Fideam.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/la-region-en-sudamerica-que-tiene-mas-petroleo-que-toda-arabia-saudita-y-canada-entera-143062-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T22:29:23.925Z"
+  "lastUpdate": "2026-03-06T23:28:03.301Z"
 }
