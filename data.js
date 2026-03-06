@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "645,00"
+      "usdt": "652,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump endurece su postura frente a Irán y advierte que solo aceptará una rendición incondicional\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/trump-endurece-su-postura-frente-a-iran-y-advierte-que-solo-aceptara-una-rendicion-incondicional/",
+      "title": "Venezolanos nacionalizados en España son los que más apoyan a la derecha\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/venezolanos-nacionalizados-en-espana-apoyan-mas-a-la-derecha/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "General Francis L. Donovan reafirma compromiso del Comando Sur con una Venezuela libre, segura y próspera",
-      "link": "https://noticiasvenevision.com/noticias/politica/general-francis-l-donovan-reafirma-compromiso-del-comando-sur-con-una-venezuela-libre-segura-y-prospera",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_639466895_18511345921072039_1142090391146593351_n-1-169a00.jpg"
+      "title": "Doug Burgum concluye visita a Venezuela: \"Los resultados comerciales se verán pronto\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/doug-burgum-concluye-visita-a-venezuela-los-resultados-comerciales-se-veran-pronto",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/usfly-050326-ezequielcarias-126-1280x853-480aee.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Donald Trump aseguró que el Gobierno de Cuba \"va a caer muy pronto\": ¿por qué?",
-      "link": "https://www.noticiascaracol.com/mundo/presidente-donald-trump-aseguro-que-el-gobierno-de-cuba-va-a-caer-muy-pronto-por-que-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0b7c936/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9b%2F9f%2Fbe99a7f049e78b2f77f6fc19118e%2Fcuba-trump.jpg"
+      "title": "Mujer víctima de ataque con martillo en Bogotá muestra su rostro por primera vez: \"Una nueva etapa\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/mujer-victima-de-ataque-con-martillo-en-bogota-muestra-su-rostro-por-primera-vez-una-nueva-etapa-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7bbf57d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F32%2F78%2F6784cf12427898321b4a868e24e9%2Fkarina-rincon-duran.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tribunal español rechaza querella contra Zapatero por supuestos vínculos con Maduro",
-      "link": "https://diarioversionfinal.com/mundo/tribunal-espanol-rechaza-querella-contra-zapatero-por-supuestos-vinculos-con-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1003744078977_260977105_1706x960-750x430.webp"
+      "title": "Comando Sur promete continuar colaboración con Venezuela en seguridad regional",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-promete-continuar-colaboracion-con-venezuela-en-seguridad-regional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/607d9c78-0c63-4eb4-a095-8f555706a911_alta-libre-aspect-ratio_default_0_x450y200-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T16:41:45.111Z"
+  "lastUpdate": "2026-03-06T17:35:33.211Z"
 };
