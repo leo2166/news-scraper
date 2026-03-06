@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "431,01",
-      "eur": "499,62"
+      "usd": "433,17",
+      "eur": "501,73"
     },
     "binance": {
-      "usdt": "646,50"
+      "usdt": "648,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_2026-02-26_17-29-02-1577b2.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "ROSALES: «LA POLÍTICA DEBE SER PARA EL BIENESTAR, NO PARA LA PERSECUCIÓN»",
-      "link": "https://noticierodigital.com/2026/03/rosales-la-politica-debe-ser-para-el-bienestar-no-para-la-persecucion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260306-WA0172-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Detalles sobre muerte de Camila García tras caer de tobogán en Chinácota: empresa se pronunció",
       "link": "https://www.noticiascaracol.com/colombia/detalles-sobre-muerte-de-camila-garcia-tras-caer-de-tobogan-en-chinacota-empresa-se-pronuncio-rg10",
@@ -50,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "El ejército israelí afirma que mató a 70 miembros de Hizbulá en sus ataques al Líbano",
-      "link": "https://laverdad.com/el-ejercito-israeli-afirma-que-mato-a-70-miembros-de-hizbula-en-sus-ataques-al-libano/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "El monito Punch se entristece luego que le quitan a su “madre peluche” Lupe",
+      "link": "https://laverdad.com/el-monito-punch-se-entristece-luego-que-le-quitan-a-su-madre-peluche-lupe/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Monito.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rusia estaría proporcionando inteligencia militar a Irán para atacar objetivos de EE. UU., según The Washington Post",
-      "link": "https://diarioversionfinal.com/mundo/rusia-estaria-proporcionando-inteligencia-militar-a-iran-para-atacar-objetivos-de-ee-uu-segun-the-washington-post/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/descarga-71.jpg"
+      "title": "El petróleo de Texas cierra en 90,9 dólares, su mayor subida semanal",
+      "link": "https://diarioversionfinal.com/mundo/el-petroleo-de-texas-cierra-en-909-dolares-su-mayor-subida-semanal/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/la-region-en-sudamerica-que-tiene-mas-petroleo-que-toda-arabia-saudita-y-canada-entera-143062-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T20:32:52.617Z"
+  "lastUpdate": "2026-03-06T21:30:05.030Z"
 };
