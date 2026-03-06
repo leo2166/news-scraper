@@ -5,7 +5,7 @@
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "658,50"
+      "usdt": "651,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Israel lanza \"amplia ola\" de ataques contra Teherán tras el bombardeo de Beirut",
+      "title": "Israel lanza \"amplia ola\" de ataques contra Teherán tras bombardeo en Beirut",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064719093935-20260306092919809.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACUERDOS CON EE. UU. BUSCAN «DESPLAZAR A ACTORES ILEGALES» EN EL SECTOR MINERO",
-      "link": "https://noticierodigital.com/2026/03/acuerdos-con-ee-uu-buscan-desplazar-a-actores-ilegales-en-el-sector-minero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Laura-Dogu-Doug-Burgum-EEUU-Venezuela-627x376.jpg"
+      "title": "ENRIQUE QUINTANA ES EL NUEVO PRESIDENTE DE CONATEL, SEGÚN GACETA OFICIAL",
+      "link": "https://noticierodigital.com/2026/03/enrique-quintana-es-el-nuevo-presidente-de-conatel-segun-gaceta-oficial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Enrique-Quintana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Teherán vivió hoy en la madrugada uno de los bombardeos más duros desde el inicio de la guerra",
-      "link": "https://diarioversionfinal.com/mundo/teheran-vivio-hoy-en-la-madrugada-uno-de-los-bombardeos-mas-duros-desde-el-inicio-de-la-guerra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/bombardeo-iran-726x430.jpg"
+      "title": "EEUU acelera producción de armas ante la posibilidad de que la guerra en Irán se prolongue",
+      "link": "https://diarioversionfinal.com/mundo/eeuu-acelera-produccion-de-armas-ante-la-posibilidad-de-que-la-guerra-en-iran-se-prolongue/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/09/Soldados-ejército-de-EEUU-version-final.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T11:29:26.457Z"
+  "lastUpdate": "2026-03-06T12:57:39.711Z"
 }
