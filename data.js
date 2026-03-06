@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "658,50"
+      "usdt": "658,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,19 +28,25 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "EE.UU. y Venezuela acuerdan reanudar relaciones diplomáticas y consulares",
       "link": "https://cnnespanol.cnn.com/2026/03/05/venezuela/eeuu-reanudar-relaciones-diplomaticas-consulares-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/04383110-5e39-489e-a47f-8fa1e50b65cc.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/beirut-20260306014622524.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Pablo Pérez: El apoyo oficialista a la inversión privada y la nueva Ley de Amnistía marcan un cambio profundo en el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/pablo-perez-el-apoyo-oficialista-a-la-inversion-privada-y-la-nueva-ley-de-amnistia-marcan-un-cambio-profundo-en-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/unnamed-bdb19c.jpg"
+      "title": "Gobierno nacional anuncia restablecimiento de relaciones diplomáticas con EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-eeuu-confirman-restablecimiento-de-las-relaciones-diplomaticas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela_eeuu-44abb4.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "ACUERDOS CON EE. UU. BUSCAN «DESPLAZAR A ACTORES ILEGALES» EN EL SECTOR MINERO",
+      "link": "https://noticierodigital.com/2026/03/acuerdos-con-ee-uu-buscan-desplazar-a-actores-ilegales-en-el-sector-minero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Laura-Dogu-Doug-Burgum-EEUU-Venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Estados Unidos y Venezuela acuerdan formalmente restablecer relaciones diplomáticas: los detalles",
-      "link": "https://www.noticiascaracol.com/mundo/estados-unidos-y-venezuela-acuerdan-formalmente-restablecer-relaciones-diplomaticas-los-detalles-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4ac8236/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F12%2Fd0bb9139409b94d96df046f14530%2Fdelcy-trump.jpg"
+      "title": "Hermano de candidata al Congreso fue asesinado en Nariño: lo que se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/hermano-de-candidata-al-congreso-fue-asesinado-en-narino-lo-que-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/07744ae/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F5e%2F34636fc345b5a75cc6574a12e0eb%2Fportadas-caracol-web-18.png"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-05T23:51:09.240Z"
+  "lastUpdate": "2026-03-06T02:06:39.397Z"
 };
