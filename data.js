@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "649,87"
+      "usdt": "644,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Israel lanza \"amplia ola\" de ataques contra Teherán tras bombardeo en Beirut",
+      "title": "Trump dice que no habrá acuerdo con Irán hasta una \"rendición incondicional\"",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064719093935-20260306092919809.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -37,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fanb-b35d5e-afa3fe.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "HOMBRE DE 36 AÑOS SE QUITÓ LA VIDA TRAS MANTENER UNA SURREAL RELACIÓN CON GEMINI",
+      "link": "https://noticierodigital.com/2026/03/hombre-de-36-anos-se-quito-la-vida-tras-mantener-una-surreal-relacion-con-gemini/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/UI5BKICVCVJMDFECGEJ2BLW334-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "'El monstruo de Latinoamérica', señalado de crímenes contra menores, fue extraditado a Colombia",
-      "link": "https://www.noticiascaracol.com/colombia/el-monstruo-de-latinoamerica-senalado-de-crimenes-contra-menores-fue-extraditado-a-colombia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1f13f31/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6b%2F4f%2F1faf9be249ba8a0eebe5b09b9d12%2Ftamano-imagenes-50.jpg"
+      "title": "Periodista colombiana fue detenida por el ICE en EE. UU. por insólita razón; había pedido asilo",
+      "link": "https://www.noticiascaracol.com/mundo/periodista-colombiana-fue-detenida-por-el-ice-en-ee-uu-por-insolita-razon-habia-pedido-asilo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d7d7b97/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F60%2F59%2F211812e147e2aa86e9710ced611a%2Ftamano-imagenes-2026-03-06t072340-579.png"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EEUU acelera producción de armas ante la posibilidad de que la guerra en Irán se prolongue",
-      "link": "https://diarioversionfinal.com/mundo/eeuu-acelera-produccion-de-armas-ante-la-posibilidad-de-que-la-guerra-en-iran-se-prolongue/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/09/Soldados-ejército-de-EEUU-version-final.jpg"
+      "title": "Trump descarta enviar tropas a Irán y califica la idea como “pérdida de tiempo”",
+      "link": "https://diarioversionfinal.com/mundo/trump-descarta-enviar-tropas-a-iran-y-califica-la-idea-como-perdida-de-tiempo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/thumbs_b_c_0624fd582f04758246a5258a23708712-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T13:57:55.173Z"
+  "lastUpdate": "2026-03-06T14:44:33.195Z"
 };
