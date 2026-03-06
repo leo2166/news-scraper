@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T04:42:34.854Z"
+  "lastUpdate": "2026-03-06T05:45:35.114Z"
 };
