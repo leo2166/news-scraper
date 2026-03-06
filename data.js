@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "644,10"
+      "usdt": "645,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HOMBRE DE 36 AÑOS SE QUITÓ LA VIDA TRAS MANTENER UNA SURREAL RELACIÓN CON GEMINI",
-      "link": "https://noticierodigital.com/2026/03/hombre-de-36-anos-se-quito-la-vida-tras-mantener-una-surreal-relacion-con-gemini/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/UI5BKICVCVJMDFECGEJ2BLW334-627x376.jpg"
+      "title": "BANCAMIGA RATIFICA COMPROMISO CON EL PAÍS CON INICIO DE SU PROGRAMA DE CAPACITACIÓN DE EMPRENDEDORES 2026 EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/03/bancamiga-ratifica-compromiso-con-el-pais-con-inicio-de-su-programa-de-capacitacion-de-emprendedores-2026-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260306-WA0099-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump sustituye a Kristi Noem como secretaria de Seguridad Nacional",
-      "link": "https://laverdad.com/trump-sustituye-a-kristi-noem-como-secretaria-de-seguridad-nacional/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-sustituye-a-Kristi-Noem.jpg"
+      "title": "El ejército israelí afirma que mató a 70 miembros de Hizbulá en sus ataques al Líbano",
+      "link": "https://laverdad.com/el-ejercito-israeli-afirma-que-mato-a-70-miembros-de-hizbula-en-sus-ataques-al-libano/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/El-Ejercito-israeli.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/thumbs_b_c_0624fd582f04758246a5258a23708712-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T14:44:33.195Z"
+  "lastUpdate": "2026-03-06T15:38:01.524Z"
 };
