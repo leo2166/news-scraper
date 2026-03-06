@@ -5,7 +5,7 @@
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "651,57"
+      "usdt": "649,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos y Venezuela restablecieron relaciones diplomáticas",
-      "link": "https://www.infobae.com/estados-unidos/2026/03/05/estados-unidos-y-venezuela-restablecieron-relaciones-diplomaticas/",
-      "image": "https://www.infobae.com/resizer/v2/WS72FTGXQRH7ZHDPS3LUPFKUIQ.jpg?auth=f04ded10612c2d04a09c08b17c076c9bb32c7901b618a9e5871e3cc19e051dfc&smart=true&width=350&height=197&quality=85"
+      "title": "Veintitrés años después del golpe del 11 de abril, tres policías siguen sin ver la libertad: la otra cara del caso Puente Llaguno",
+      "link": "https://www.infobae.com/venezuela/2026/03/06/veintitres-anos-despues-del-golpe-del-11-de-abril-tres-policias-siguen-sin-ver-la-libertad-la-otra-cara-del-caso-puente-llaguno/",
+      "image": "https://www.infobae.com/resizer/v2/MLASTHQ45REZ3ER5RMCVBCYG6I.jpg?auth=1bef07cad54729505ca42d46f04c862b0c9f529b0010321c76297b7ce8e0e563&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¿Puede replicar Trump en Irán la estrategia que usó para forzar un cambio de gobierno en Venezuela?\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/puede-replicar-trump-en-iran-la-estrategia-que-uso-para-forzar-un-cambio-de-gobierno-en-venezuela/",
+      "title": "Transparencia Venezuela: Deuda externa nacional superaría los 170.000 millones de dólares\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/transparencia-venezuela-deuda-externa-de-venezuela-superaria-los-170-000-millones-de-dolares/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -35,12 +35,6 @@
       "title": "Inicia despliegue de la Operación República para Consulta Popular",
       "link": "https://noticiasvenevision.com/noticias/politica/inicia-despliegue-de-la-operacion-republica-para-consulta-popular",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fanb-b35d5e-afa3fe.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "ENRIQUE QUINTANA ES EL NUEVO PRESIDENTE DE CONATEL, SEGÚN GACETA OFICIAL",
-      "link": "https://noticierodigital.com/2026/03/enrique-quintana-es-el-nuevo-presidente-de-conatel-segun-gaceta-oficial/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Enrique-Quintana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/09/Soldados-ejército-de-EEUU-version-final.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T12:57:39.711Z"
+  "lastUpdate": "2026-03-06T13:57:55.173Z"
 }
