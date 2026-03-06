@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "652,00"
+      "usdt": "617,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Doug Burgum concluye visita a Venezuela: \"Los resultados comerciales se verán pronto\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/doug-burgum-concluye-visita-a-venezuela-los-resultados-comerciales-se-veran-pronto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/usfly-050326-ezequielcarias-126-1280x853-480aee.jpg"
+      "title": "CNE activa plataforma digital para la Consulta Popular Nacional del 8 de marzo",
+      "link": "https://noticiasvenevision.com/noticias/politica/cne-activa-plataforma-digital-para-la-consulta-popular-nacional-del-8-de-marzo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cne-2025-again-51a6e0.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur promete continuar colaboración con Venezuela en seguridad regional",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-promete-continuar-colaboracion-con-venezuela-en-seguridad-regional/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/607d9c78-0c63-4eb4-a095-8f555706a911_alta-libre-aspect-ratio_default_0_x450y200-750x430.jpg"
+      "title": "Departamento del Tesoro emite licencia para autorizar comercio de oro venezolano",
+      "link": "https://diarioversionfinal.com/mundo/departamento-del-tesoro-emite-licencia-para-autorizar-comercio-de-oro-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/PCECFXDJ7VFGHGAEBEM2C3YSYI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T17:35:33.211Z"
+  "lastUpdate": "2026-03-06T18:47:18.734Z"
 };
