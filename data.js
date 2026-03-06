@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "499,62"
     },
     "binance": {
-      "usdt": "649,99"
+      "usdt": "658,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU y Venezuela restablecerán relaciones diplomáticas\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-y-venezuela-restableceran-sus-relaciones-diplomaticas/",
+      "title": "¿Puede replicar Trump en Irán la estrategia que usó para forzar un cambio de gobierno en Venezuela?\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/puede-replicar-trump-en-iran-la-estrategia-que-uso-para-forzar-un-cambio-de-gobierno-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Israel lanza una \"amplia ola\" de ataques contra Teherán tras el bombardeo de Beirut",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-cuba-20260305235942908.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Israel lanza \"amplia ola\" de ataques contra Teherán tras el bombardeo de Beirut",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064719093935-20260306092919809.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Estados Unidos y Venezuela acuerdan formalmente restablecer relaciones diplomáticas: los detalles",
-      "link": "https://www.noticiascaracol.com/mundo/estados-unidos-y-venezuela-acuerdan-formalmente-restablecer-relaciones-diplomaticas-los-detalles-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4ac8236/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F12%2Fd0bb9139409b94d96df046f14530%2Fdelcy-trump.jpg"
+      "title": "'El monstruo de Latinoamérica', señalado de crímenes contra menores, fue extraditado a Colombia",
+      "link": "https://www.noticiascaracol.com/colombia/el-monstruo-de-latinoamerica-senalado-de-crimenes-contra-menores-fue-extraditado-a-colombia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1f13f31/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6b%2F4f%2F1faf9be249ba8a0eebe5b09b9d12%2Ftamano-imagenes-50.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/bombardeo-iran-726x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-06T10:35:50.509Z"
+  "lastUpdate": "2026-03-06T11:29:26.457Z"
 };
