@@ -1,11 +1,8 @@
 {
   "rates": {
-    "bcv": {
-      "usd": "433,17",
-      "eur": "501,73"
-    },
+    "bcv": {},
     "binance": {
-      "usdt": "633,10"
+      "usdt": "634,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +25,7 @@
       "source": "CNN en Español",
       "title": "Ataques aéreos golpean a los vecinos del golfo tras disculpa del presidente iraní",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-20260307211025320.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hc01zcwakaasxf.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +34,10 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-2-739cdb.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "MARÍA CORINA MACHADO ASISTIRÁ AL ACTO DE TRANSMISIÓN DE MANDO PRESIDENCIAL EN CHILE",
-      "link": "https://noticierodigital.com/2026/03/maria-corina-machado-asistira-al-acto-de-transmision-de-mando-presidencial-en-chile/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Colombia femenina vs. Estados Unidos; siga EN VIVO en Gol Caracol",
-      "link": "https://www.noticiascaracol.com/golcaracol/partidos",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/22f7c66/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F15%2F20%2Fe9ac69a94e0e95a50bc3e38082f0%2Flinda-caicedo.jpg"
+      "title": "Elecciones 8 de marzo: Colombia elige el próximo Congreso y las consultas interpartidistas",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/elecciones-8-de-marzo-colombia-elige-el-proximo-congreso-y-las-consultas-interpartidistas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/441e37f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8a%2Fef%2F72cfb62844599823d848830c1f27%2Fhernan-penagos-registrador-nacional.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +52,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0895.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T22:24:14.211Z"
+  "lastUpdate": "2026-03-07T23:23:36.065Z"
 }
