@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "646,13"
+      "usdt": "647,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU flexibiliza sanciones al oro venezolano y autoriza a sus empresas a explotar y comercializar el mineral\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-flexibiliza-sanciones-al-oro-venezolano-y-autoriza-a-sus-empresas-a-explotar-y-comercializar-el-mineral/",
+      "title": "Los excluidos de la amnistía en Venezuela: una libertad que depende del poder político y no de los tribunales\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/los-excluidos-de-la-amnistia-en-venezuela-una-libertad-que-depende-del-poder-politico-y-no-de-los-tribunales/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Jefe de la ONU advierte que la guerra con Irán podría \"salirse del control de cualquiera\"",
+      "title": "Israel lanza una nueva oleada de ataques a Teherán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9757b74a8ad823fef2debd67f37ebd38b97bb235.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/renamethishorizontal-00-00-32-20-still001.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Manuel Rosales pide crear condiciones para hacer elecciones \"transparentes\" en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/manuel-rosales-pide-crear-condiciones-para-hacer-elecciones-transparentes-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/92cf37255c9a93e341c902542b4f8918-8ee2a0.png"
+      "title": "Delcy Rodríguez dice que retoma relaciones con EE.UU. por amistad y con inteligencia",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-dice-que-retoma-relaciones-con-eeuu-por-amistad-y-con-inteligencia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El petróleo de Texas cierra en 90,9 dólares, su mayor subida semanal",
-      "link": "https://diarioversionfinal.com/mundo/el-petroleo-de-texas-cierra-en-909-dolares-su-mayor-subida-semanal/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/la-region-en-sudamerica-que-tiene-mas-petroleo-que-toda-arabia-saudita-y-canada-entera-143062-750x430.jpg"
+      "title": "Más de 400 observadores internacionales supervisarán elecciones de este domingo en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/mas-de-400-observadores-internacionales-supervisaran-elecciones-de-este-domingo-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-9.51.13-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-06T23:28:03.301Z"
+  "lastUpdate": "2026-03-07T01:59:28.282Z"
 };
