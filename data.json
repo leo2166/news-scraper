@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "643,57"
+      "usdt": "640,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ISRAEL CONFIRMA ATAQUE EN TEHERÁN CONTRA 16 AVIONES «USADOS PARA ENVIAR ARMAS A HIZBULÁ»",
+      "link": "https://noticierodigital.com/2026/03/israel-confirma-ataque-en-teheran-contra-16-aviones-usados-para-enviar-armas-a-hizbula/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/teheran-iran-conflicto-belico-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Ecuador y Estados Unidos bombardearon campamento de disidencias de las Farc en frontera con Colombia",
       "link": "https://www.noticiascaracol.com/colombia/ecuador-y-estados-unidos-bombardearon-campamento-de-disidencias-de-las-farc-en-frontera-con-colombia-cb20",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel destruye aviones iraníes y agrava crisis energética en Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/israel-destruye-aviones-iranies-y-agrava-crisis-energetica-en-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ls-1-20260303112727627-1-750x430.jpg"
+      "title": "México enfrenta grave aumento de incendios forestales afectando miles de hectáreas",
+      "link": "https://diarioversionfinal.com/mundo/mexico-enfrenta-grave-aumento-de-incendios-forestales-afectando-miles-de-hectareas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/descarga-13-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T15:24:06.337Z"
+  "lastUpdate": "2026-03-07T16:28:34.458Z"
 }
