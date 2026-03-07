@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "638,56"
+      "usdt": "639,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Instalan mesas electorales para la Consulta Popular de este domingo",
-      "link": "https://noticiasvenevision.com/noticias/politica/instalan-mesas-electorales-para-la-consulta-popular-de-este-domingo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-4-696x375-2d670d.jpg"
+      "title": "Delcy Rodríguez ratifica ruta diplomática con EE. UU. tras reconocimiento de Donald Trump",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-ratifica-ruta-diplomatica-con-ee-uu-tras-reconocimiento-de-donald-trump",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-5-276fb8.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0886-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-07T18:35:05.905Z"
+  "lastUpdate": "2026-03-07T19:22:25.520Z"
 }
