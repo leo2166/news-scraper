@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "639,10"
+      "usdt": "607,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Alex Saab y Raúl Gorrín: vínculos con Maduro, ¿lavado del narco? y un temor compartido entre chavistas",
-      "link": "https://www.infobae.com/venezuela/2026/03/07/alex-saab-y-raul-gorrin-vinculos-con-maduro-lavado-del-narco-y-un-temor-compartido-entre-chavistas/",
-      "image": "https://www.infobae.com/resizer/v2/4XM43CXOZ5DPDGJHUMG54AVLWE.jpg?auth=62d26ad9a3c35a6baae504c561c51056d526521745e2d7f43f621279abdb8227&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado mantuvo una reunión privada con Donald Trump en la Casa Blanca",
+      "link": "https://www.infobae.com/venezuela/2026/03/07/maria-corina-machado-mantuvo-una-reunion-privada-con-donald-trump-en-la-casa-blanca/",
+      "image": "https://www.infobae.com/resizer/v2/2GUY2XTDBZFZBJAAMWECAHBF7E.jpg?auth=f411ab5481c4b23543013d64268611c14997da8224eeb148139fad04976fa725&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez ratifica ruta diplomática con EE. UU. tras reconocimiento de Donald Trump",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-ratifica-ruta-diplomatica-con-ee-uu-tras-reconocimiento-de-donald-trump",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-5-276fb8.jpg"
+      "title": "Segundo encuentro en la Casa Blanca entre Donald Trump y María Corina Machado",
+      "link": "https://noticiasvenevision.com/noticias/politica/segundo-encuentro-en-la-casa-blanca-entre-donald-trump-y-maria-corina-machado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-2-739cdb.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NICMER EVANS PIDE A NUEVO DIRECTOR DE CONATEL LEVANTAR BLOQUEOS Y DEVOLVER EMISORAS",
-      "link": "https://noticierodigital.com/2026/03/nicmer-evans-pide-a-nuevo-director-de-conatel-levantar-bloqueos-y-devolver-emisoras/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-2-627x376.jpg"
+      "title": "MARÍA CORINA MACHADO ASISTIRÁ AL ACTO DE TRANSMISIÓN DE MANDO PRESIDENCIAL EN CHILE",
+      "link": "https://noticierodigital.com/2026/03/maria-corina-machado-asistira-al-acto-de-transmision-de-mando-presidencial-en-chile/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "“¿Me recibe alguien?”: últimas palabras de Camila García antes de fatal accidente en tobogán",
-      "link": "https://www.noticiascaracol.com/colombia/me-recibe-alguien-ultimas-palabras-de-camila-garcia-antes-de-fatal-accidente-en-tobogan-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c544a68/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F62%2Fe57250a342afbfe137c9c21e85ef%2Ffoto-7.jpg"
+      "title": "Colombia femenina vs. Estados Unidos; siga EN VIVO en Gol Caracol",
+      "link": "https://www.noticiascaracol.com/golcaracol/partidos",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/22f7c66/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F15%2F20%2Fe9ac69a94e0e95a50bc3e38082f0%2Flinda-caicedo.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petro pide a Trump alejarse de Netanyahu porque \"lleva a la humanidad al abismo\"",
-      "link": "https://diarioversionfinal.com/mundo/petro-pide-a-trump-alejarse-de-netanyahu-porque-lleva-a-la-humanidad-al-abismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0886-750x430.webp"
+      "title": "Israel asegura haber atacado el principal centro de mando de la Fuerza Aérea iraní",
+      "link": "https://diarioversionfinal.com/mundo/israel-asegura-haber-atacado-el-principal-centro-de-mando-de-la-fuerza-aerea-irani/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0889-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T19:22:25.520Z"
+  "lastUpdate": "2026-03-07T20:26:46.136Z"
 };
