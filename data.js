@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "DEPARTAMENTO DE JUSTICIA DE EE. UU. ABRIRÍA INVESTIGACIONES CONTRA FUNCIONARIOS CUBANOS",
+      "link": "https://noticierodigital.com/2026/03/departamento-de-justicia-de-ee-uu-abriria-investigaciones-contra-funcionarios-cubanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/la-habana-cuba-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Habrá ley seca este fin de semana: ojo a las multas para quien consuma o venda alcohol en Bogotá",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/habra-ley-seca-este-fin-de-semana-ojo-a-las-multas-para-quien-consuma-o-venda-alcohol-en-bogota-so35",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-9.51.13-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T06:41:44.291Z"
+  "lastUpdate": "2026-03-07T07:29:09.268Z"
 };
