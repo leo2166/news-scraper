@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "616,99"
+      "usdt": "643,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Jesús Armas: No ha comenzado una transición porque el régimen está en el poder\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/jesus-armas-no-ha-comenzado-una-transicion-porque-el-regimen-esta-en-el-poder/",
+      "title": "Miami Herald: EE UU y Venezuela negocian la extradición de Alex Saab\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/miami-herald-ee-uu-y-venezuela-negocian-la-extradicion-de-alex-saab/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que intensificará la guerra después de que Irán se disculpara con sus vecinos",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265171334-20260307121242786.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump: \"Venimos a anunciar una nueva coalición militar\"",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-cumbre-escudo-americas-en-vivo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265255728.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +37,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "PUD CONTABILIZA 657 EXCARCELACIONES DESDE ENERO HASTA EL 6 DE MARZO",
-      "link": "https://noticierodigital.com/2026/03/pud-contabiliza-657-excarcelaciones-desde-enero-hasta-el-6-de-marzo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/plataforma-unitaria-p.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Habrá ley seca este fin de semana: ojo a las multas para quien consuma o venda alcohol en Bogotá",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/habra-ley-seca-este-fin-de-semana-ojo-a-las-multas-para-quien-consuma-o-venda-alcohol-en-bogota-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/983c3f2/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fad%2F3b%2F9ae0bdda494eba27dcfbddd42782%2Fley-seca-marzo-2026-cual-es-la-multa-para-quien-consuma-o-venda-alcohol.jpg"
+      "title": "Ecuador y Estados Unidos bombardearon campamento de disidencias de las Farc en frontera con Colombia",
+      "link": "https://www.noticiascaracol.com/colombia/ecuador-y-estados-unidos-bombardearon-campamento-de-disidencias-de-las-farc-en-frontera-con-colombia-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7b36521/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2a%2F16%2Fb95cc899476bbe578c372db7e706%2Ffoto-6.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV exhorta a soldados cristianos a defender paz y justicia",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-exhorta-a-soldados-cristianos-a-defender-paz-y-justicia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Papa-Leon-XIV-19-10-2025-750x430.jpg"
+      "title": "Israel destruye aviones iraníes y agrava crisis energética en Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/israel-destruye-aviones-iranies-y-agrava-crisis-energetica-en-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ls-1-20260303112727627-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-07T14:24:33.293Z"
+  "lastUpdate": "2026-03-07T15:24:06.337Z"
 };
