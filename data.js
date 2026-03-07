@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "636,57"
+      "usdt": "638,56"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Miami Herald: EE UU y Venezuela negocian la extradición de Alex Saab\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/miami-herald-ee-uu-y-venezuela-negocian-la-extradicion-de-alex-saab/",
+      "title": "María Corina Machado se reunió por segunda vez con Donald Trump en la Casa Blanca\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-se-reunio-por-segunda-vez-con-donald-trump-en-la-casa-blanca/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump: \"Venimos a anunciar una nueva coalición militar\"",
-      "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-cumbre-escudo-americas-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265255728.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump promete intensificar la guerra después de que Irán se disculpara con sus vecinos",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/presidente-iran-20260307154944255.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez dice que retoma relaciones con EE.UU. por amistad y con inteligencia",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-dice-que-retoma-relaciones-con-eeuu-por-amistad-y-con-inteligencia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
+      "title": "Instalan mesas electorales para la Consulta Popular de este domingo",
+      "link": "https://noticiasvenevision.com/noticias/politica/instalan-mesas-electorales-para-la-consulta-popular-de-este-domingo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-4-696x375-2d670d.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ecuador y Estados Unidos bombardearon campamento de disidencias de las Farc en frontera con Colombia",
-      "link": "https://www.noticiascaracol.com/colombia/ecuador-y-estados-unidos-bombardearon-campamento-de-disidencias-de-las-farc-en-frontera-con-colombia-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7b36521/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2a%2F16%2Fb95cc899476bbe578c372db7e706%2Ffoto-6.jpg"
+      "title": "“¿Me recibe alguien?”: últimas palabras de Camila García antes de fatal accidente en tobogán",
+      "link": "https://www.noticiascaracol.com/colombia/me-recibe-alguien-ultimas-palabras-de-camila-garcia-antes-de-fatal-accidente-en-tobogan-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c544a68/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F62%2Fe57250a342afbfe137c9c21e85ef%2Ffoto-7.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El monito Punch se entristece luego que le quitan a su “madre peluche” Lupe",
-      "link": "https://laverdad.com/el-monito-punch-se-entristece-luego-que-le-quitan-a-su-madre-peluche-lupe/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Monito.jpg"
+      "title": "Trump anuncia una nueva coalición militar en Latinoamérica contra los carteles",
+      "link": "https://laverdad.com/trump-anuncia-una-nueva-coalicion-militar-en-latinoamerica-contra-los-carteles/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/HC0T_YyWMAAEDoB.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "México enfrenta grave aumento de incendios forestales afectando miles de hectáreas",
-      "link": "https://diarioversionfinal.com/mundo/mexico-enfrenta-grave-aumento-de-incendios-forestales-afectando-miles-de-hectareas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/descarga-13-750x430.jpeg"
+      "title": "Petro pide a Trump alejarse de Netanyahu porque \"lleva a la humanidad al abismo\"",
+      "link": "https://diarioversionfinal.com/mundo/petro-pide-a-trump-alejarse-de-netanyahu-porque-lleva-a-la-humanidad-al-abismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0886-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-07T17:22:11.253Z"
+  "lastUpdate": "2026-03-07T18:35:05.905Z"
 };
