@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "646,57"
+      "usdt": "642,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El presidente de Irán se disculpa con sus vecinos del Golfo",
+      "title": "Trump dice que intensificará la guerra después de que Irán se disculpara con sus vecinos",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-2-20260307112009148.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265171334-20260307121242786.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez dice que retoma relaciones con EE.UU. por amistad y con inteligencia",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-dice-que-retoma-relaciones-con-eeuu-por-amistad-y-con-inteligencia",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "DEPARTAMENTO DE JUSTICIA DE EE. UU. ABRIRÍA INVESTIGACIONES CONTRA FUNCIONARIOS CUBANOS",
+      "link": "https://noticierodigital.com/2026/03/departamento-de-justicia-de-ee-uu-abriria-investigaciones-contra-funcionarios-cubanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/la-habana-cuba-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Más de 400 observadores internacionales supervisarán elecciones de este domingo en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/mas-de-400-observadores-internacionales-supervisaran-elecciones-de-este-domingo-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-9.51.13-PM-750x430.jpeg"
+      "title": "Inteligencia colombiana ubicó a “Iván Márquez” en Petare: Sordo y sin un ojo",
+      "link": "https://diarioversionfinal.com/mundo/inteligencia-colombiana-ubico-a-ivan-marquez-en-petare-sordo-y-sin-un-ojo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-56.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T11:20:31.512Z"
+  "lastUpdate": "2026-03-07T12:48:46.011Z"
 }
