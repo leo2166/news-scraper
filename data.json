@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "635,99"
+      "usdt": "633,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado se reunió por segunda vez con Donald Trump en la Casa Blanca\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-se-reunio-por-segunda-vez-con-donald-trump-en-la-casa-blanca/",
+      "title": "Capital internacional vuelve a mirar a Venezuela: inversionistas preparan viajes para explorar oportunidades en la etapa post-Maduro\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/inversionistas-internacionales-preparan-viajes-a-venezuela-para-explorar/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Ataques aéreos golpean a los vecinos del Golfo tras disculpa del presidente iraní",
+      "title": "Ataques aéreos golpean a los vecinos del golfo tras disculpa del presidente iraní",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-20260307211025320.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel asegura haber atacado el principal centro de mando de la Fuerza Aérea iraní",
-      "link": "https://diarioversionfinal.com/mundo/israel-asegura-haber-atacado-el-principal-centro-de-mando-de-la-fuerza-aerea-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0889-750x430.jpeg"
+      "title": "Trump culpa a Irán del bombardeo en escuela de niñas que dejó casi 180 muertos",
+      "link": "https://diarioversionfinal.com/mundo/trump-culpa-a-iran-del-bombardeo-en-escuela-de-ninas-que-dejo-casi-180-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0895.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T21:22:05.149Z"
+  "lastUpdate": "2026-03-07T22:24:14.211Z"
 }
