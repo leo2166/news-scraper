@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "607,30"
+      "usdt": "635,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump promete intensificar la guerra después de que Irán se disculpara con sus vecinos",
+      "title": "Ataques aéreos golpean a los vecinos del Golfo tras disculpa del presidente iraní",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/presidente-iran-20260307154944255.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-20260307211025320.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0889-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T20:26:46.136Z"
+  "lastUpdate": "2026-03-07T21:22:05.149Z"
 };
