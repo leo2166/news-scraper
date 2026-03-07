@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "618,50"
+      "usdt": "618,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Inflación en Venezuela se dispara a 475% en 2025, la más alta del mundo",
-      "link": "https://www.infobae.com/venezuela/2026/03/06/inflacion-en-venezuela-se-dispara-a-475-en-2025-la-mas-alta-del-mundo/",
-      "image": "https://www.infobae.com/resizer/v2/RH2V45ETWZE6VMFIEB7ZCIC6VM.jpg?auth=c7104f030c58183ef85019d4ddae2181cf137a9f48b868fcbf0dc50af1ad82cf&smart=true&width=350&height=197&quality=85"
+      "title": "Alex Saab y Raúl Gorrín: vínculos con Maduro, ¿lavado del narco? y un temor compartido entre chavistas",
+      "link": "https://www.infobae.com/venezuela/2026/03/07/alex-saab-y-raul-gorrin-vinculos-con-maduro-lavado-del-narco-y-un-temor-compartido-entre-chavistas/",
+      "image": "https://www.infobae.com/resizer/v2/4XM43CXOZ5DPDGJHUMG54AVLWE.jpg?auth=62d26ad9a3c35a6baae504c561c51056d526521745e2d7f43f621279abdb8227&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Israel afirma que se utilizaron más de 80 aviones de combate en ataques contra Irán",
+      "title": "El presidente de Irán se disculpa con sus vecinos del Golfo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/renamethishorizontal-00-00-32-20-still001.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/home-jpg.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-9.51.13-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T08:32:31.594Z"
+  "lastUpdate": "2026-03-07T09:29:35.285Z"
 }
