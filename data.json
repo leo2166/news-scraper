@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "616,70"
+      "usdt": "616,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PUD CONTABILIZA 657 EXCARCELACIONES DESDE ENERO HASTA EL 6 DE MARZO",
+      "link": "https://noticierodigital.com/2026/03/pud-contabiliza-657-excarcelaciones-desde-enero-hasta-el-6-de-marzo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/plataforma-unitaria-p.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Habrá ley seca este fin de semana: ojo a las multas para quien consuma o venda alcohol en Bogotá",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/habra-ley-seca-este-fin-de-semana-ojo-a-las-multas-para-quien-consuma-o-venda-alcohol-en-bogota-so35",
@@ -46,7 +52,7 @@
       "source": "La Verdad",
       "title": "El monito Punch se entristece luego que le quitan a su “madre peluche” Lupe",
       "link": "https://laverdad.com/el-monito-punch-se-entristece-luego-que-le-quitan-a-su-madre-peluche-lupe/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Monito.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Papa-Leon-XIV-19-10-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-07T13:38:54.694Z"
+  "lastUpdate": "2026-03-07T14:24:33.293Z"
 }
