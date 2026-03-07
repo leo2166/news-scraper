@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Los excluidos de la amnistía en Venezuela: una libertad que depende del poder político y no de los tribunales\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/los-excluidos-de-la-amnistia-en-venezuela-una-libertad-que-depende-del-poder-politico-y-no-de-los-tribunales/",
+      "title": "Jesús Armas: No ha comenzado una transición porque el régimen está en el poder\nNOTICIAS",
+      "link": "https://www.elnacional.com/2026/03/jesus-armas-no-ha-comenzado-una-transicion-porque-el-regimen-esta-en-el-poder/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Una nueva ola de ataques a Irán alcanza uno de los aeropuertos de Teherán",
+      "title": "Israel afirma que se utilizaron más de 80 aviones de combate en ataques contra Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/renamethishorizontal-00-00-32-20-still001.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-9.51.13-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T07:29:09.268Z"
+  "lastUpdate": "2026-03-07T08:32:31.594Z"
 };
