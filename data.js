@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "642,87"
+      "usdt": "616,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5799-2048x1638-83bc52.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "DEPARTAMENTO DE JUSTICIA DE EE. UU. ABRIRÍA INVESTIGACIONES CONTRA FUNCIONARIOS CUBANOS",
-      "link": "https://noticierodigital.com/2026/03/departamento-de-justicia-de-ee-uu-abriria-investigaciones-contra-funcionarios-cubanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/la-habana-cuba-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Habrá ley seca este fin de semana: ojo a las multas para quien consuma o venda alcohol en Bogotá",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/habra-ley-seca-este-fin-de-semana-ojo-a-las-multas-para-quien-consuma-o-venda-alcohol-en-bogota-so35",
@@ -52,14 +46,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "El monito Punch se entristece luego que le quitan a su “madre peluche” Lupe",
       "link": "https://laverdad.com/el-monito-punch-se-entristece-luego-que-le-quitan-a-su-madre-peluche-lupe/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Monito.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Inteligencia colombiana ubicó a “Iván Márquez” en Petare: Sordo y sin un ojo",
-      "link": "https://diarioversionfinal.com/mundo/inteligencia-colombiana-ubico-a-ivan-marquez-en-petare-sordo-y-sin-un-ojo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-56.jpeg"
+      "title": "Papa León XIV exhorta a soldados cristianos a defender paz y justicia",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-exhorta-a-soldados-cristianos-a-defender-paz-y-justicia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Papa-Leon-XIV-19-10-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-07T12:48:46.011Z"
+  "lastUpdate": "2026-03-07T13:38:54.694Z"
 };
