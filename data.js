@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "634,57"
+      "usdt": "636,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Enrique Márquez, ¿el candidato de Trump para las presidenciales en Venezuela?\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/enrique-marquez-el-candidato-de-trump-para-las-presidenciales-en-venezuela/",
+      "title": "EE UU recibe primer cargamento de oro venezolano por $ 100 millones\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/ee-uu-recibe-primer-cargamento-de-oro-venezolano-por-100-millones/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Israel dice que inició “ataques a gran escala” en Irán",
+      "title": "Israel dice que ejecuta “ataques a gran escala” en Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-elecciones.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ISRAEL DESMANTELÓ EN TEHERÁN UN CUARTEL GENERAL DE LA GUARDIA REVOLUCIONARIA DE IRÁN",
-      "link": "https://noticierodigital.com/2026/03/israel-desmantelo-en-teheran-un-cuartel-general-de-la-guardia-revolucionaria-de-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-4-627x376.jpg"
+      "title": "CAPTURAN EN COLOMBIA A CANDIDATO AL CONGRESO POR ACTUACIÓN IRREGULAR CON DINERO EN EFECTIVO",
+      "link": "https://noticierodigital.com/2026/03/capturan-en-colombia-a-candidato-al-congreso-por-actuacion-irregular-con-dinero-en-efectivo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-11-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Familia pide ayuda a diplomática estadounidense por Germán Giuliani detenido en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/familia-pide-ayuda-a-diplomatica-estadounidense-por-german-giuliani-detenido-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/JSO25P26ABFTBMACMC6ROUOCJE.webp"
+      "title": "Investigan como “acto terrorista” explosión en la Embajada estadounidense en Noruega",
+      "link": "https://diarioversionfinal.com/mundo/investigan-como-acto-terrorista-explosion-en-la-embajada-estadounidense-en-noruega/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0911-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-08T18:35:33.830Z"
+  "lastUpdate": "2026-03-08T19:24:06.588Z"
 };
