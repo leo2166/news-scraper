@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-08T05:43:06.499Z"
+  "lastUpdate": "2026-03-08T06:43:23.012Z"
 };
