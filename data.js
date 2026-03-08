@@ -1,8 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "433,17",
+      "eur": "501,73"
+    },
     "binance": {
-      "usdt": "634,10"
+      "usdt": "635,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -23,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Ataques aéreos golpean a los vecinos del golfo tras disculpa del presidente iraní",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hc01zcwakaasxf.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Irán envía mensajes contradictorios mientras Israel bombardea la capital",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax?post-id=cmmh1fn8i0000356rmzhgjkuj",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264577416.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -34,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-2-739cdb.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "MARÍA CORINA MACHADO ASISTIRÁ AL ACTO DE TRANSMISIÓN DE MANDO PRESIDENCIAL EN CHILE",
+      "link": "https://noticierodigital.com/2026/03/maria-corina-machado-asistira-al-acto-de-transmision-de-mando-presidencial-en-chile/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Elecciones 8 de marzo: Colombia elige el próximo Congreso y las consultas interpartidistas",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/elecciones-8-de-marzo-colombia-elige-el-proximo-congreso-y-las-consultas-interpartidistas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/441e37f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8a%2Fef%2F72cfb62844599823d848830c1f27%2Fhernan-penagos-registrador-nacional.jpg"
+      "title": "Estas son las cabezas de lista al Senado de la República: perfiles que participan este 8 de marzo",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/estas-son-las-cabezas-de-lista-al-senado-de-la-republica-perfiles-que-participaran-el-8-de-marzo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ba0cee9/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F40%2F83%2F9f3718fb4975af237b12ae255598%2Fsenado-7.jpg"
     },
     {
       "source": "La Verdad",
@@ -52,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0895.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-07T23:23:36.065Z"
+  "lastUpdate": "2026-03-08T02:09:21.994Z"
 };
