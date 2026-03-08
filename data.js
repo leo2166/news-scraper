@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "637,00"
+      "usdt": "637,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado mantuvo una reunión privada con Donald Trump en la Casa Blanca",
-      "link": "https://www.infobae.com/venezuela/2026/03/07/maria-corina-machado-mantuvo-una-reunion-privada-con-donald-trump-en-la-casa-blanca/",
-      "image": "https://www.infobae.com/resizer/v2/2GUY2XTDBZFZBJAAMWECAHBF7E.jpg?auth=f411ab5481c4b23543013d64268611c14997da8224eeb148139fad04976fa725&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal confirmó la excarcelación de al menos 670 presos políticos en Venezuela desde el pasado 8 de de enero",
+      "link": "https://www.infobae.com/venezuela/2026/03/08/el-foro-penal-confirmo-la-excarcelacion-de-al-menos-670-presos-politicos-en-venezuela-desde-el-pasado-8-de-de-enero/",
+      "image": "https://www.infobae.com/resizer/v2/CQTRFNAISJGBNFIEGAHW7YKS6E.JPG?auth=fb485ee618eae3803f0e9f10bbff46341d89479af843e5aad30c88a166d5bd4a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "EE UU recibe primer cargamento de oro venezolano por $ 100 millones\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-recibe-primer-cargamento-de-oro-venezolano-por-100-millones/",
+      "title": "Foro Penal contabiliza 670 excarcelaciones de presos políticos desde el 8 de enero\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/foro-penal-contabiliza-670-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Irán designa al hijo de Jamenei como nuevo líder supremo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264969599.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap22259009050823-20260303221532227-20260308212653470.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0911-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-08T21:24:36.344Z"
+  "lastUpdate": "2026-03-08T22:24:49.201Z"
 };
