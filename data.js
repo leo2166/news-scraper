@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "637,99"
+      "usdt": "607,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Capital internacional vuelve a mirar a Venezuela: inversionistas preparan viajes para explorar oportunidades en la etapa post-Maduro\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/inversionistas-internacionales-preparan-viajes-a-venezuela-para-explorar/",
+      "title": "Enrique Márquez, ¿el candidato de Trump para las presidenciales en Venezuela?\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/enrique-marquez-el-candidato-de-trump-para-las-presidenciales-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán envía mensajes contradictorios mientras Israel bombardea la capital",
+      "title": "Irán afirma que está cerca de elegir a su próximo líder supremo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax?post-id=cmmh1fn8i0000356rmzhgjkuj",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/758bced9afe5716f72aea9f85a5aa592cc9e80d6w.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-08T09:30:13.892Z"
+  "lastUpdate": "2026-03-08T10:26:20.051Z"
 };
