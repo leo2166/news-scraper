@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "635,57"
+      "usdt": "607,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Irán envía mensajes contradictorios mientras Israel bombardea la capital",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax?post-id=cmmh1fn8i0000356rmzhgjkuj",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264577416.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MARÍA CORINA MACHADO ASISTIRÁ AL ACTO DE TRANSMISIÓN DE MANDO PRESIDENCIAL EN CHILE",
+      "title": "María Corina Machado asistirá al acto de transmisión de mando presidencial en Chile",
       "link": "https://noticierodigital.com/2026/03/maria-corina-machado-asistira-al-acto-de-transmision-de-mando-presidencial-en-chile/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Estas son las cabezas de lista al Senado de la República: perfiles que participan este 8 de marzo",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/estas-son-las-cabezas-de-lista-al-senado-de-la-republica-perfiles-que-participaran-el-8-de-marzo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ba0cee9/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F40%2F83%2F9f3718fb4975af237b12ae255598%2Fsenado-7.jpg"
+      "title": "Destruyen urnas y cubículos de mesas de votación en Calamar, Bolívar, horas antes de las elecciones",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/destruyen-urnas-y-cubiculos-de-mesas-de-votacion-en-calamar-bolivar-horas-antes-de-las-elecciones-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f869418/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0c%2F9b%2F2560ef0b47368a1bb505fa62ab3f%2Fplantilla-fotos-2026-03-07t221540-554.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0895.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-08T02:09:21.994Z"
+  "lastUpdate": "2026-03-08T04:43:23.115Z"
 }
