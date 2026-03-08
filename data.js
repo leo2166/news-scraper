@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "637,99"
+      "usdt": "639,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO: estos son los resultados de las consultas interpartidistas de cara a las presidenciales",
+      "title": "Paloma Valencia y Claudia López ganan sus consultas; Roy Barreras lidera en Frente por la Vida",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/minuto-a-minuto-estos-son-los-resultados-de-consultas-interpartidistas-de-cara-a-las-presidenciales-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6afe335/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F46%2Fdf%2F5b7a4a474f39a9d0813612a1ae94%2Fcolombia-decide-2026.jpg"
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5c70c28/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2F13%2F628bbbff4a2b934a736fe5fb9256%2Fresultados-consultas.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0911-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-08T22:24:49.201Z"
+  "lastUpdate": "2026-03-08T23:25:20.831Z"
 };
