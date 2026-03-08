@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "635,99"
+      "usdt": "634,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Clérigos iraníes aseguran que ya se eligió al nuevo líder supremo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/758bced9afe5716f72aea9f85a5aa592cc9e80d6w.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/758bced9afe5716f72aea9f85a5aa592cc9e80d6w.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +37,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-2-739cdb.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "MARÍA CORINA MACHADO ASISTIRÁ AL ACTO DE TRANSMISIÓN DE MANDO PRESIDENCIAL EN CHILE",
-      "link": "https://noticierodigital.com/2026/03/maria-corina-machado-asistira-al-acto-de-transmision-de-mando-presidencial-en-chile/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "¿Qué beneficios tiene un ciudadano por votar en las elecciones de Congreso del 8 de marzo?",
-      "link": "https://www.noticiascaracol.com/colombia/guarde-su-certificado-electoral-beneficios-que-tiene-por-votar-en-las-elecciones-del-congreso-del-8-de-marzo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/954d37f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa2%2F79%2F7f8cee724ca2bf696075c5049dea%2Fdiseno-2.jpg"
+      "title": "Presidente Petro habla de operativos contra compra de votos en Colombia: “Mafias le llamo yo”",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/presidente-petro-habla-de-operativos-contra-compra-de-votos-en-colombia-mafias-le-llamo-yo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/882dc44/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faa%2F6a%2F45fa82b241c38dd39c071ef44945%2Fpetro-vota-legislativas.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán contabiliza 1.200 muertos y miles de afectados por ataques de EE. UU. e Israel",
-      "link": "https://diarioversionfinal.com/mundo/iran-contabiliza-1-200-muertos-y-miles-de-afectados-por-ataques-de-ee-uu-e-israel/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WSDZDKEEI5CWLIH7NFDUABXD5Q-750x430.webp"
+      "title": "Irán nombra nuevo líder supremo pero aún mantiene en secreto su identidad",
+      "link": "https://diarioversionfinal.com/mundo/iran-nombra-nuevo-lider-supremo-pero-aun-mantiene-en-secreto-su-identidad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/hamid-rasaee-centro-un-clerigo-musulman-chiita-2URRCZT3PNDRDPZCOMVN4H7BNA.webp"
     }
   ],
-  "lastUpdate": "2026-03-08T12:50:56.425Z"
+  "lastUpdate": "2026-03-08T13:40:12.428Z"
 };
