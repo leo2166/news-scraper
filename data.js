@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Trump anuncia una nueva coalición militar en Latinoamérica contra los carteles",
       "link": "https://laverdad.com/trump-anuncia-una-nueva-coalicion-militar-en-latinoamerica-contra-los-carteles/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/HC0T_YyWMAAEDoB.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-08T07:31:22.964Z"
+  "lastUpdate": "2026-03-08T08:32:44.172Z"
 };
