@@ -2,7 +2,7 @@ window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {},
     "binance": {
-      "usdt": "634,90"
+      "usdt": "634,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -23,21 +23,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Clérigos iraníes aseguran que ya se eligió al nuevo líder supremo",
+      "title": "Israel dice que inició “ataques a gran escala” en Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-elecciones.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Segundo encuentro en la Casa Blanca entre Donald Trump y María Corina Machado",
-      "link": "https://noticiasvenevision.com/noticias/politica/segundo-encuentro-en-la-casa-blanca-entre-donald-trump-y-maria-corina-machado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-2-739cdb.jpg"
+      "title": "Inició la primera Consulta Popular Nacional de este 2026 en todo el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/inicio-la-primera-consulta-popular-nacional-de-este-2026-en-todo-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-4-1-d39956.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BANCAMIGA ABRE EL TELÓN DE LA SUBASTA",
-      "link": "https://noticierodigital.com/2026/03/bancamiga-abre-el-telon-de-la-subasta/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-3-627x376.jpg"
+      "title": "HENRIQUE CAPRILES: «AQUÍ LOS QUE DEBEN PEDIR PERDÓN ES EL ESTADO A TODAS LAS VÍCTIMAS»",
+      "link": "https://noticierodigital.com/2026/03/henrique-capriles-aqui-los-que-deben-pedir-perdon-es-el-estado-a-todas-las-victimas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/henrique-capriles-radonski-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -53,10 +53,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Horario de verano inicia en Estados Unidos: relojes se adelantan oficialmente hoy",
-      "link": "https://diarioversionfinal.com/mundo/horario-de-verano-inicia-en-estados-unidos-relojes-se-adelantan-oficialmente-hoy/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/image-2-750x430.jpeg"
+      "title": "Zelenski enviará expertos ucranianos para mejorar defensa aérea y drones en Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-enviara-expertos-ucranianos-para-mejorar-defensa-aerea-y-drones-en-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Volodymyr-Zelensky-20-08-2022-EFE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-08T15:24:36.565Z"
+  "lastUpdate": "2026-03-08T16:29:39.969Z"
 };
