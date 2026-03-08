@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "636,90"
+      "usdt": "638,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Inició la primera Consulta Popular Nacional de este 2026 en todo el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/inicio-la-primera-consulta-popular-nacional-de-este-2026-en-todo-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-4-1-d39956.jpg"
+      "title": "Liberan bajo medidas cautelares a 25 detenidos de Zona 7",
+      "link": "https://noticiasvenevision.com/noticias/politica/liberan-bajo-medidas-cautelares-a-25-detenidos-de-zona-7",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/15bb73b3605874d1b0efef598d1c02171085cf60w-750x375-263a62.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPTURAN EN COLOMBIA A CANDIDATO AL CONGRESO POR ACTUACIÓN IRREGULAR CON DINERO EN EFECTIVO",
-      "link": "https://noticierodigital.com/2026/03/capturan-en-colombia-a-candidato-al-congreso-por-actuacion-irregular-con-dinero-en-efectivo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-11-627x376.jpg"
+      "title": "FORO PENAL VERIFICÓ 670 EXCARCELACIONES DE PRESOS POLÍTICOS DESDE EL 8 DE ENERO",
+      "link": "https://noticierodigital.com/2026/03/foro-penal-verifico-670-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/presospoliticos-venezuela.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Hernán Penagos, registrador nacional, dice que le enviará copia de las actas de preconteo a Petro",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/hernan-penagos-registrador-nacional-dice-que-le-enviara-copia-de-las-actas-de-preconteo-de-elecciones-de-congreso-al-presidente-petro-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0db0a28/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F55%2F1d%2F766e49a644c6804a7416ffd00f24%2Fdiseno-1.jpg"
+      "title": "Detienen y liberan al candidato a Cámara por Centro Democrático tras hallarle 15 millones de pesos",
+      "link": "https://www.noticiascaracol.com/politica/detienen-y-liberan-al-candidato-a-camara-victor-hugo-moreno-tras-hallarle-20-millones-de-pesos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/282105e/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F37%2Ff9%2F8e3808384d2b8f0d1da7368e20a4%2Fportadas-caracol-web-3.png"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0911-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-08T19:24:06.588Z"
+  "lastUpdate": "2026-03-08T20:27:37.773Z"
 };
