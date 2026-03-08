@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "638,00"
+      "usdt": "637,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Israel dice que ejecuta “ataques a gran escala” en Irán",
+      "title": "Irán designa al hijo de Jamenei como nuevo líder supremo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-elecciones.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264969599.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,15 +44,15 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Detienen y liberan al candidato a Cámara por Centro Democrático tras hallarle 15 millones de pesos",
-      "link": "https://www.noticiascaracol.com/politica/detienen-y-liberan-al-candidato-a-camara-victor-hugo-moreno-tras-hallarle-20-millones-de-pesos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/282105e/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F37%2Ff9%2F8e3808384d2b8f0d1da7368e20a4%2Fportadas-caracol-web-3.png"
+      "title": "EN VIVO: estos son los resultados de las consultas interpartidistas de cara a las presidenciales",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/minuto-a-minuto-estos-son-los-resultados-de-consultas-interpartidistas-de-cara-a-las-presidenciales-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6afe335/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F46%2Fdf%2F5b7a4a474f39a9d0813612a1ae94%2Fcolombia-decide-2026.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV expresa solidaridad con mujeres víctimas de violencia",
-      "link": "https://laverdad.com/papa-leon-xiv-expresa-solidaridad-con-mujeres-victimas-de-violencia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/dc331718eeacdb60e151bf033c8ba68de4cbcc02-scaled.jpg"
+      "title": "Más de 2 400 personas intentan cruzar ilegalmente frontera colombo-venezolana para votar",
+      "link": "https://laverdad.com/mas-de-2-400-personas-intentan-cruzar-ilegalmente-frontera-colombo-venezolana-para-votar/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/80ce3b32a7a177563b92182dd06ab076.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0911-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-08T20:27:37.773Z"
+  "lastUpdate": "2026-03-08T21:24:36.344Z"
 }
