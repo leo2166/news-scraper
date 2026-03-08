@@ -1,8 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "433,17",
+      "eur": "501,73"
+    },
     "binance": {
-      "usdt": "634,99"
+      "usdt": "634,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -35,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HENRIQUE CAPRILES: «AQUÍ LOS QUE DEBEN PEDIR PERDÓN ES EL ESTADO A TODAS LAS VÍCTIMAS»",
-      "link": "https://noticierodigital.com/2026/03/henrique-capriles-aqui-los-que-deben-pedir-perdon-es-el-estado-a-todas-las-victimas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/henrique-capriles-radonski-1-627x376.jpg"
+      "title": "ISRAEL DESMANTELÓ EN TEHERÁN UN CUARTEL GENERAL DE LA GUARDIA REVOLUCIONARIA DE IRÁN",
+      "link": "https://noticierodigital.com/2026/03/israel-desmantelo-en-teheran-un-cuartel-general-de-la-guardia-revolucionaria-de-iran/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-4-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -58,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Volodymyr-Zelensky-20-08-2022-EFE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-08T16:29:39.969Z"
+  "lastUpdate": "2026-03-08T17:23:35.663Z"
 };
