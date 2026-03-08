@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "636,57"
+      "usdt": "635,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,8 +26,8 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán afirma que está cerca de elegir a su próximo líder supremo",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/eeuu-israel-iran-guerra-ataques-medio-oriente-en-vivo-trax?post-id=cmmh1fn8i0000356rmzhgjkuj",
+      "title": "Clérigos iraníes aseguran que ya se eligió al nuevo líder supremo",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/758bced9afe5716f72aea9f85a5aa592cc9e80d6w.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Destruyen urnas y cubículos de mesas de votación en Calamar, Bolívar, horas antes de las elecciones",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/destruyen-urnas-y-cubiculos-de-mesas-de-votacion-en-calamar-bolivar-horas-antes-de-las-elecciones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f869418/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0c%2F9b%2F2560ef0b47368a1bb505fa62ab3f%2Fplantilla-fotos-2026-03-07t221540-554.jpg"
+      "title": "¿Qué beneficios tiene un ciudadano por votar en las elecciones de Congreso del 8 de marzo?",
+      "link": "https://www.noticiascaracol.com/colombia/guarde-su-certificado-electoral-beneficios-que-tiene-por-votar-en-las-elecciones-del-congreso-del-8-de-marzo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/954d37f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa2%2F79%2F7f8cee724ca2bf696075c5049dea%2Fdiseno-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos e Israel bombardearon importante instalación petrolera en Teherán",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-e-israel-bombardearon-importante-instalacion-petrolera-en-teheran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/fedsf-750x430.jpg"
+      "title": "Irán contabiliza 1.200 muertos y miles de afectados por ataques de EE. UU. e Israel",
+      "link": "https://diarioversionfinal.com/mundo/iran-contabiliza-1-200-muertos-y-miles-de-afectados-por-ataques-de-ee-uu-e-israel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WSDZDKEEI5CWLIH7NFDUABXD5Q-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-08T11:21:56.893Z"
+  "lastUpdate": "2026-03-08T12:50:56.425Z"
 }
