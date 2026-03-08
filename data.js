@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "607,10"
+      "usdt": "637,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "María Corina Machado asistirá al acto de transmisión de mando presidencial en Chile",
+      "title": "MARÍA CORINA MACHADO ASISTIRÁ AL ACTO DE TRANSMISIÓN DE MANDO PRESIDENCIAL EN CHILE",
       "link": "https://noticierodigital.com/2026/03/maria-corina-machado-asistira-al-acto-de-transmision-de-mando-presidencial-en-chile/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
     },
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump culpa a Irán del bombardeo en escuela de niñas que dejó casi 180 muertos",
-      "link": "https://diarioversionfinal.com/mundo/trump-culpa-a-iran-del-bombardeo-en-escuela-de-ninas-que-dejo-casi-180-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0895.jpeg"
+      "title": "Estados Unidos e Israel bombardearon importante instalación petrolera en Teherán",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-e-israel-bombardearon-importante-instalacion-petrolera-en-teheran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-08T04:43:23.115Z"
+  "lastUpdate": "2026-03-08T05:43:06.499Z"
 };
