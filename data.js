@@ -2,7 +2,7 @@ window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {},
     "binance": {
-      "usdt": "635,00"
+      "usdt": "634,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -25,7 +25,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Clérigos iraníes aseguran que ya se eligió al nuevo líder supremo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/758bced9afe5716f72aea9f85a5aa592cc9e80d6w.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-elecciones.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -41,9 +41,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro habla de operativos contra compra de votos en Colombia: “Mafias le llamo yo”",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/presidente-petro-habla-de-operativos-contra-compra-de-votos-en-colombia-mafias-le-llamo-yo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/882dc44/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faa%2F6a%2F45fa82b241c38dd39c071ef44945%2Fpetro-vota-legislativas.jpg"
+      "title": "Hernán Penagos, registrador nacional, dice que le enviará copia de las actas de preconteo a Petro",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/hernan-penagos-registrador-nacional-dice-que-le-enviara-copia-de-las-actas-de-preconteo-de-elecciones-de-congreso-al-presidente-petro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0db0a28/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F55%2F1d%2F766e49a644c6804a7416ffd00f24%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -53,10 +53,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel amenaza con perseguir al nuevo líder supremo iraní todavía desconocido",
-      "link": "https://diarioversionfinal.com/mundo/israel-amenaza-con-perseguir-al-nuevo-lider-supremo-irani-todavia-desconocido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2d456be0-4b95-11f0-8efc-193ffd471116.jpg.webp"
+      "title": "Horario de verano inicia en Estados Unidos: relojes se adelantan oficialmente hoy",
+      "link": "https://diarioversionfinal.com/mundo/horario-de-verano-inicia-en-estados-unidos-relojes-se-adelantan-oficialmente-hoy/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/image-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-08T14:25:49.869Z"
+  "lastUpdate": "2026-03-08T15:24:36.565Z"
 };
