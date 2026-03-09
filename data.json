@@ -2,7 +2,7 @@
   "rates": {
     "bcv": {},
     "binance": {
-      "usdt": "643,50"
+      "usdt": "642,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -11,9 +11,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal confirmó la excarcelación de al menos 670 presos políticos en Venezuela desde el pasado 8 de de enero",
-      "link": "https://www.infobae.com/venezuela/2026/03/08/el-foro-penal-confirmo-la-excarcelacion-de-al-menos-670-presos-politicos-en-venezuela-desde-el-pasado-8-de-de-enero/",
-      "image": "https://www.infobae.com/resizer/v2/CQTRFNAISJGBNFIEGAHW7YKS6E.JPG?auth=fb485ee618eae3803f0e9f10bbff46341d89479af843e5aad30c88a166d5bd4a&smart=true&width=350&height=197&quality=85"
+      "title": "“No sabemos nada”: la desesperación de la familia de Germán Giuliani, el argentino detenido en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/09/no-sabemos-nada-la-desesperacion-de-la-familia-de-german-giuliani-el-argentino-detenido-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/R7PYMUWV6ZC4ZPVEX433S4HDA4.jpg?auth=7032a3799cce9592be5f8fa900851413295fb907fab3031d4bec8155a9e1f463&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -58,5 +58,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qsUPMYYv-17506883743311-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T10:45:49.414Z"
+  "lastUpdate": "2026-03-09T11:35:03.576Z"
 }
