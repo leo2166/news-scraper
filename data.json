@@ -2,7 +2,7 @@
   "rates": {
     "bcv": {},
     "binance": {
-      "usdt": "642,60"
+      "usdt": "639,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -23,9 +23,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La guerra de Trump con Irán arrastra al mundo a su política destructora",
-      "link": "https://cnnespanol.cnn.com/2026/03/09/eeuu/analisis-guerra-trump-iran-mundo-politica-destructora-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/residentes-fotografian-las-llamas.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Irán tiene nuevo líder supremo: el hijo de Alí Jamenei",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-jamenei-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26063304147652.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -34,29 +34,23 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-08-at-6.34.44-pm-4f1402.jpeg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "FORO PENAL VERIFICÓ 670 EXCARCELACIONES DE PRESOS POLÍTICOS DESDE EL 8 DE ENERO",
-      "link": "https://noticierodigital.com/2026/03/foro-penal-verifico-670-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/presospoliticos-venezuela.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Ellos son Nadia Blel y Lidio García, los dos candidatos al Senado más votados el 8 de marzo",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ellos-son-los-dos-candidatos-al-senado-mas-votados-en-las-elecciones-del-8-de-marzo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c3078dc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F34%2F4b%2F5f326305413c88e47043a02ba432%2Fcanada-12.jpg"
+      "title": "¿Juan Daniel Oviedo contemplaría ser fórmula vicepresidencial de Paloma Valencia? Esto dijo",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/juan-daniel-oviedo-habla-del-futuro-de-su-vida-politica-tras-quedar-segundo-en-consulta-de-derecha-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0c24600/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2F7e%2F7f9d2512443f963b27345ee692b7%2Foviedo.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Más de 2 400 personas intentan cruzar ilegalmente frontera colombo-venezolana para votar",
-      "link": "https://laverdad.com/mas-de-2-400-personas-intentan-cruzar-ilegalmente-frontera-colombo-venezolana-para-votar/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/80ce3b32a7a177563b92182dd06ab076.jpg"
+      "title": "EE. UU. mata a 6 personas en ataque a “narcolancha” en el Pacífico",
+      "link": "https://laverdad.com/ee-uu-mata-a-6-personas-en-ataque-a-narcolancha-en-el-pacifico/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-45-a-lancha-pacifico.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "¡US$108! Precios del petróleo se disparan a medida que la guerra en Medio Oriente se intensifica",
-      "link": "https://diarioversionfinal.com/mundo/us108-precios-del-petroleo-se-disparan-a-medida-que-la-guerra-en-medio-oriente-se-intensifica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qsUPMYYv-17506883743311-750x430.jpg"
+      "title": "Tesoro de EE.UU. vicula pago de Plus Ultra dentro de red financiera vinculada a Álex Saab",
+      "link": "https://diarioversionfinal.com/mundo/tesoro-de-ee-uu-vicula-pago-de-plus-ultra-dentro-de-red-financiera-vinculada-a-alex-saab/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/f.elconfidencial.com_original_acb_9b9_5be_acb9b95be53ed57a903e6a71ef37763b-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T11:35:03.576Z"
+  "lastUpdate": "2026-03-09T13:04:56.895Z"
 }
