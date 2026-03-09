@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "644,00"
+      "usdt": "616,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Liberan bajo medidas cautelares a 25 detenidos de Zona 7",
-      "link": "https://noticiasvenevision.com/noticias/politica/liberan-bajo-medidas-cautelares-a-25-detenidos-de-zona-7",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/15bb73b3605874d1b0efef598d1c02171085cf60w-750x375-263a62.jpg"
+      "title": "Canciller Yván Gil insta a José Antonio Kast a actuar con \"responsabilidad histórica\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/canciller-yvan-gil-insta-a-jose-antonio-kast-a-actuar-con-responsabilidad-historica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-08-at-6.34.44-pm-4f1402.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "En vivo resultados de elecciones de Senado: Pacto Histórico y Centro Democrático lideran votación",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/resultados-elecciones-2026-para-senado-hoy-8-de-marzo-asi-quedo-nuevo-congreso-de-colombia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/78f1541/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F02%2F93%2F3d92c5e64ff7a943849d2b899495%2Fcanada-10.jpg"
+      "title": "Ellos son Nadia Blel y Lidio García, los dos candidatos al Senado más votados el 8 de marzo",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ellos-son-los-dos-candidatos-al-senado-mas-votados-en-las-elecciones-del-8-de-marzo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c3078dc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F34%2F4b%2F5f326305413c88e47043a02ba432%2Fcanada-12.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Paloma Valencia, senadora uribista, gana consulta de derecha y será candidata presidencial",
-      "link": "https://diarioversionfinal.com/mundo/paloma-valencia-senadora-uribista-gana-consulta-de-derecha-y-sera-candidata-presidencial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/wese-750x430.jpg"
+      "title": "¡US$108! Precios del petróleo se disparan a medida que la guerra en Medio Oriente se intensifica",
+      "link": "https://diarioversionfinal.com/mundo/us108-precios-del-petroleo-se-disparan-a-medida-que-la-guerra-en-medio-oriente-se-intensifica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qsUPMYYv-17506883743311-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T02:10:21.926Z"
+  "lastUpdate": "2026-03-09T04:51:48.242Z"
 };
