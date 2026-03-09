@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "643,00"
+      "usdt": "643,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,19 +14,19 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "“No sabemos nada”: la desesperación de la familia de Germán Giuliani, el argentino detenido en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/09/no-sabemos-nada-la-desesperacion-de-la-familia-de-german-giuliani-el-argentino-detenido-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/R7PYMUWV6ZC4ZPVEX433S4HDA4.jpg?auth=7032a3799cce9592be5f8fa900851413295fb907fab3031d4bec8155a9e1f463&smart=true&width=350&height=197&quality=85"
+      "title": "Un bebé y su madre fueron liberados de una cárcel militar en Venezuela: su padre permanece entre rejas",
+      "link": "https://www.infobae.com/venezuela/2026/03/09/un-bebe-y-su-madre-fueron-liberados-de-una-carcel-militar-en-venezuela-su-padre-permanece-entre-rejas/",
+      "image": "https://www.infobae.com/resizer/v2/Y5OQUNS3BZGK5CZZSQHXH62AGM.jpg?auth=cf61622bfcb53aa43649557b7baf464b2a1425467ea56a59ce6d729014dc7b32&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Von der Leyen: “No debería derramarse ni una lágrima por el régimen de Irán”\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/von-der-leyen-el-regimen-de-iran-no-merece-ni-una-lagrima/",
+      "title": "Comando Sur de EE UU realizó patrullaje aéreo frente a las costas de Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/comando-sur-de-ee-uu-realizo-un-patrullaje-aereo-frente-a-las-costas-de-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Suben precios del petróleo mientras Israel reanuda los ataques contra Irán",
+      "title": "Más de 1.700 muertos en Medio Oriente tras nueve días de guerra con Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-jamenei-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26067484115759-20260309141554302.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "IRÁN LANZA SU PRIMER ATAQUE CONTRA TEL AVIV BAJO EL LIDERAZGO DE MOJTABA JAMENEÍ",
-      "link": "https://noticierodigital.com/2026/03/iran-lanza-su-primer-ataque-contra-tel-aviv-bajo-el-liderazgo-de-mojtaba-jamenei/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-12-627x376.jpg"
+      "title": "UNT EXIGE REAPERTURA CONSULAR COMO PRIMER PASO PARA LA RECONCILIACIÓN",
+      "link": "https://noticierodigital.com/2026/03/unt-exige-reapertura-consular-como-primer-paso-para-la-reconciliacion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260309-WA0125-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Abelardo de la Espriella: “Si Paloma Valencia pasa a la segunda vuelta, yo le cargo la maleta\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-si-paloma-valencia-pasa-a-la-segunda-vuelta-yo-le-cargo-la-maleta-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9290f89/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fab%2F45%2Ffac1fc8043018fef63da169cabf8%2Fabelardo-de-la-espriella-y-paloma-valencia.jpg"
+      "title": "Los políticos 'quemados' del Congreso: Angélica Lozano, Jorge Robledo, Katherine Miranda y más",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/los-politicos-quemados-del-congreso-angelica-lozano-jorge-robledo-katherine-miranda-y-mas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1ead711/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbf%2F19%2F08e9facd422aaecf509c64358d31%2Fquemados-en-el-congreso.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Paloma Valencia gana consulta de derecha y será candidata presidencial en Colombia",
-      "link": "https://laverdad.com/paloma-valencia-gana-consulta-de-derecha-y-sera-candidata-presidencial-en-colombia/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Meteorito sobrevuela Alemania y causa daños en una vivienda",
+      "link": "https://laverdad.com/meteorito-sobrevuela-alemania-y-causa-danos-en-una-vivienda/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Meteorito-Alemania.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump solicita a Australia asilo para futbolistas iraníes y ofrece refugio en Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/trump-solicita-a-australia-asilo-para-futbolistas-iranies-y-ofrece-refugio-en-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
+      "title": "EE. UU. refuerza vigilancia aérea frente a Venezuela con despliegue de aeronaves militares",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-refuerza-vigilancia-aerea-frente-a-venezuela-con-despliegue-de-aeronaves-militares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/06347b6b6161d3ba877f06b608610bbb.webp-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T17:03:14.416Z"
+  "lastUpdate": "2026-03-09T18:54:24.568Z"
 };
