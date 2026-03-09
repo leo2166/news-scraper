@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "618,50"
+      "usdt": "618,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán designa al hijo de Jamenei como el nuevo líder supremo",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap22259009050823-20260303221532227-20260308212653470.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La guerra de Trump con Irán arrastra al mundo a su política destructora",
+      "link": "https://cnnespanol.cnn.com/2026/03/09/eeuu/analisis-guerra-trump-iran-mundo-politica-destructora-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/residentes-fotografian-las-llamas.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qsUPMYYv-17506883743311-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T07:12:23.993Z"
+  "lastUpdate": "2026-03-09T08:45:30.818Z"
 }
