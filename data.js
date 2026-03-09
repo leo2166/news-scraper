@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Más de 2 400 personas intentan cruzar ilegalmente frontera colombo-venezolana para votar",
       "link": "https://laverdad.com/mas-de-2-400-personas-intentan-cruzar-ilegalmente-frontera-colombo-venezolana-para-votar/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/80ce3b32a7a177563b92182dd06ab076.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qsUPMYYv-17506883743311-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T05:58:07.820Z"
+  "lastUpdate": "2026-03-09T07:12:23.993Z"
 };
