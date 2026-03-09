@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "639,99"
+      "usdt": "644,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal contabiliza 670 excarcelaciones de presos políticos desde el 8 de enero\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/foro-penal-contabiliza-670-excarcelaciones-de-presos-politicos-desde-el-8-de-enero/",
+      "title": "Colombia eligió nuevo Congreso en elecciones termómetro antes de las presidenciales\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/colombia-eligio-nuevo-congreso-en-elecciones-termometro-antes-de-las-presidenciales/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán designa al hijo de Jamenei como nuevo líder supremo",
+      "title": "Irán designa al hijo de Jamenei como el nuevo líder supremo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap22259009050823-20260303221532227-20260308212653470.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Paloma Valencia y Claudia López ganan sus consultas; Roy Barreras lidera en Frente por la Vida",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/minuto-a-minuto-estos-son-los-resultados-de-consultas-interpartidistas-de-cara-a-las-presidenciales-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5c70c28/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2F13%2F628bbbff4a2b934a736fe5fb9256%2Fresultados-consultas.jpg"
+      "title": "En vivo resultados de elecciones de Senado: Pacto Histórico y Centro Democrático lideran votación",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/resultados-elecciones-2026-para-senado-hoy-8-de-marzo-asi-quedo-nuevo-congreso-de-colombia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/78f1541/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F02%2F93%2F3d92c5e64ff7a943849d2b899495%2Fcanada-10.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Investigan como “acto terrorista” explosión en la Embajada estadounidense en Noruega",
-      "link": "https://diarioversionfinal.com/mundo/investigan-como-acto-terrorista-explosion-en-la-embajada-estadounidense-en-noruega/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_0911-750x430.jpeg"
+      "title": "Paloma Valencia, senadora uribista, gana consulta de derecha y será candidata presidencial",
+      "link": "https://diarioversionfinal.com/mundo/paloma-valencia-senadora-uribista-gana-consulta-de-derecha-y-sera-candidata-presidencial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/wese-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-08T23:25:20.831Z"
+  "lastUpdate": "2026-03-09T02:10:21.926Z"
 };
