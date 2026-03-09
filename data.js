@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "433,17",
-      "eur": "501,73"
+      "usd": "436,24",
+      "eur": "505,42"
     },
     "binance": {
-      "usdt": "649,00"
+      "usdt": "648,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Comando Sur de EE UU realizó patrullaje aéreo frente a las costas de Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/comando-sur-de-ee-uu-realizo-un-patrullaje-aereo-frente-a-las-costas-de-venezuela/",
+      "title": "María Corina Machado se reunirá con venezolanos en Santiago de Chile\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-se-reunira-con-venezolanos-en-santiago-de-chile/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ: «VENEZUELA NO ES UN PAÍS DE NARCOTRÁFICO»",
-      "link": "https://noticierodigital.com/2026/03/delcy-rodriguez-venezuela-no-es-un-pais-de-narcotrafico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/delcy-rodriguez-venezuela-3-627x376.jpg"
+      "title": "ACCIDENTE EN LA COTA MIL COBRÓ LA VIDA DE UN CORONEL DE BOMBEROS Y SU MADRE",
+      "link": "https://noticierodigital.com/2026/03/accidente-en-la-cota-mil-cobro-la-vida-de-un-coronel-de-bomberos-y-su-madre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/accidente-de-transito-cota-mil-caracas-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los políticos 'quemados' del Congreso: Angélica Lozano, Jorge Robledo, Katherine Miranda y más",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/los-politicos-quemados-del-congreso-angelica-lozano-jorge-robledo-katherine-miranda-y-mas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1ead711/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbf%2F19%2F08e9facd422aaecf509c64358d31%2Fquemados-en-el-congreso.jpg"
+      "title": "Iván Cepeda anuncia como su fórmula vicepresidencial a la lideresa indígena Aida Quilcué",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-anuncia-como-su-formula-vicepresidencial-a-la-lideresa-indigena-y-senadora-aida-quilcue-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/70ea597/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9f%2Ffc%2F6bc5b628461db65cb3035c1a1963%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/08th-Jan-2025.-President-Elect-Donald-Trump-gives-remarks-after-meeting-with-Senate-Republicans-Aaron-SchwartzSipa-USA-Credit-Sipa-USAlamy-scaled-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T21:33:50.013Z"
+  "lastUpdate": "2026-03-09T22:29:33.362Z"
 };
