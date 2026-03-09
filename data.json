@@ -1,11 +1,8 @@
 {
   "rates": {
-    "bcv": {
-      "usd": "433,17",
-      "eur": "501,73"
-    },
+    "bcv": {},
     "binance": {
-      "usdt": "618,00"
+      "usdt": "643,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +58,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qsUPMYYv-17506883743311-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T09:53:05.602Z"
+  "lastUpdate": "2026-03-09T10:45:49.414Z"
 }
