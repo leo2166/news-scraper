@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "643,20"
+      "usdt": "644,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Más de 1.700 muertos en Medio Oriente tras nueve días de guerra con Irán",
+      "title": "Trump califica la selección del nuevo líder supremo de Irán como un \"gran error\"",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-jamenei-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26067484115759-20260309141554302.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265608738-20260309193007144.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Meteorito sobrevuela Alemania y causa daños en una vivienda",
-      "link": "https://laverdad.com/meteorito-sobrevuela-alemania-y-causa-danos-en-una-vivienda/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Meteorito-Alemania.jpg"
+      "title": "Trump tacha de “grave error” elección de Mojtaba Jameneí como líder supremo de Irán",
+      "link": "https://laverdad.com/trump-tacha-de-grave-error-eleccion-de-mojtaba-jamenei-como-lider-supremo-de-iran/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/06347b6b6161d3ba877f06b608610bbb.webp-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T18:54:24.568Z"
+  "lastUpdate": "2026-03-09T19:41:00.315Z"
 };
