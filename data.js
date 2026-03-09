@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "618,40"
+      "usdt": "618,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Colombia eligió nuevo Congreso en elecciones termómetro antes de las presidenciales\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/colombia-eligio-nuevo-congreso-en-elecciones-termometro-antes-de-las-presidenciales/",
+      "title": "Pacto Histórico y Centro Democrático, las dos principales fuerzas políticas de Colombia\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/pacto-historico-y-centro-democratico-las-dos-principales-fuerzas-politicas-de-colombia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qsUPMYYv-17506883743311-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T08:45:30.818Z"
+  "lastUpdate": "2026-03-09T09:53:05.602Z"
 };
