@@ -5,7 +5,7 @@
       "eur": "501,73"
     },
     "binance": {
-      "usdt": "644,99"
+      "usdt": "649,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5121129252551502431_y-2ab15a.webp"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "UNT EXIGE REAPERTURA CONSULAR COMO PRIMER PASO PARA LA RECONCILIACIÓN",
-      "link": "https://noticierodigital.com/2026/03/unt-exige-reapertura-consular-como-primer-paso-para-la-reconciliacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260309-WA0125-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Los políticos 'quemados' del Congreso: Angélica Lozano, Jorge Robledo, Katherine Miranda y más",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/los-politicos-quemados-del-congreso-angelica-lozano-jorge-robledo-katherine-miranda-y-mas-rg10",
@@ -52,7 +46,7 @@
       "source": "La Verdad",
       "title": "Trump tacha de “grave error” elección de Mojtaba Jameneí como líder supremo de Irán",
       "link": "https://laverdad.com/trump-tacha-de-grave-error-eleccion-de-mojtaba-jamenei-como-lider-supremo-de-iran/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Mojtaba-Jamenei-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/06347b6b6161d3ba877f06b608610bbb.webp-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T19:41:00.315Z"
+  "lastUpdate": "2026-03-09T20:35:55.129Z"
 }
