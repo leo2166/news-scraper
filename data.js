@@ -1,8 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "433,17",
+      "eur": "501,73"
+    },
     "binance": {
-      "usdt": "639,87"
+      "usdt": "635,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -17,21 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Pacto Histórico y Centro Democrático, las dos principales fuerzas políticas de Colombia\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/pacto-historico-y-centro-democratico-las-dos-principales-fuerzas-politicas-de-colombia/",
+      "title": "Departamento del Tesoro de EE UU vincula transferencia de Plus Ultra con una red de blanqueo de Pdvsa\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/departamento-del-tesoro-de-ee-uu-vincula-transferencia-de-plus-ultra-con-una-red-de-blanqueo-de-pdvsa/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán tiene nuevo líder supremo: el hijo de Alí Jamenei",
+      "title": "Suben precios del petróleo mientras Israel reanuda los ataques contra Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-jamenei-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26063304147652.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26067484115759-20260309141554302.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Canciller Yván Gil insta a José Antonio Kast a actuar con \"responsabilidad histórica\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/canciller-yvan-gil-insta-a-jose-antonio-kast-a-actuar-con-responsabilidad-historica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-08-at-6.34.44-pm-4f1402.jpeg"
+      "title": "Asamblea Nacional inicia debate de la nueva Ley Orgánica de Minas este lunes",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-inicia-debate-de-la-nueva-ley-organica-de-minas-este-lunes",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/thumbs_b_c_cf3a3a581afced0de70aa9637f3568ef-c1bb6c.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "FAMILIA DEL ARGENTINO GERMÁN GIULIANI CLAMA POR SU LIBERACIÓN EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/familia-del-argentino-german-giuliani-clama-por-su-liberacion-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/Diseno-sin-titulo-28-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -41,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. mata a 6 personas en ataque a “narcolancha” en el Pacífico",
-      "link": "https://laverdad.com/ee-uu-mata-a-6-personas-en-ataque-a-narcolancha-en-el-pacifico/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-45-a-lancha-pacifico.jpg"
+      "title": "Partidos de Petro y Uribe serán las principales fuerzas del Senado colombiano",
+      "link": "https://laverdad.com/partidos-de-petro-y-uribe-seran-las-principales-fuerzas-del-senado-colombiano/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Los-partidos-de-Petro-y-Uribe-seran-las-principales-fuerzas-del-Senado-colombiano-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tesoro de EE.UU. vicula pago de Plus Ultra dentro de red financiera vinculada a Álex Saab",
-      "link": "https://diarioversionfinal.com/mundo/tesoro-de-ee-uu-vicula-pago-de-plus-ultra-dentro-de-red-financiera-vinculada-a-alex-saab/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/f.elconfidencial.com_original_acb_9b9_5be_acb9b95be53ed57a903e6a71ef37763b-750x430.jpg"
+      "title": "Vladimir Putin reconoce a Mojtaba Khamenei como nuevo líder supremo",
+      "link": "https://diarioversionfinal.com/mundo/vladimir-putin-reconoce-a-mojtaba-khamenei-como-nuevo-lider-supremo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Putin-19-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T13:04:56.895Z"
+  "lastUpdate": "2026-03-09T14:51:59.403Z"
 };
