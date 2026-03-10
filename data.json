@@ -5,7 +5,7 @@
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "647,99"
+      "usdt": "648,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La sombría elección que enfrenta Trump: ¿colapso económico o naval?",
-      "link": "https://cnnespanol.cnn.com/2026/03/10/economia/sombria-eleccion-trump-colapso-economico-naval-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064105577258-20260310053035879.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump da mensajes contradictorios sobre los tiempos de la guerra",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265246665-20260310105835665.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ella es Aída Quilcué, la lideresa indígena que será fórmula vicepresidencial de Iván Cepeda",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ella-es-aida-quilcue-la-lideresa-indigena-que-sera-formula-vicepresidencial-de-ivan-cepeda-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/36d9548/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2f%2F92%2F917645c74b93b7561f562b3565c9%2Ftamano-imagenes-17.png"
+      "title": "Abelardo de la Espriella anuncia al exministro José Manuel Restrepo como su fórmula vicepresidencial",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-anuncia-al-exministro-jose-manuel-restrepo-como-su-formula-vicepresidencial-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/20988aa/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb7%2F93%2Fe14de14640cdbe098d7693b1d216%2Fabelardo-de-la-espriella-y-jose-manuel-restrepo.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T10:39:54.715Z"
+  "lastUpdate": "2026-03-10T11:33:25.824Z"
 }
