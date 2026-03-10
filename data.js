@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "621,90"
+      "usdt": "622,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Putin y Trump hablan por teléfono de Irán y Venezuela en su primera conversación del año",
       "link": "https://laverdad.com/putin-y-trump-hablan-por-telefono-de-iran-y-venezuela-en-su-primera-conversacion-del-ano/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2025/02/Donald-Trump-Vladimir-Putin.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T04:42:09.178Z"
+  "lastUpdate": "2026-03-10T05:46:33.131Z"
 };
