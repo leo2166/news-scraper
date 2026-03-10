@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MAS SALUDÓ EL RESTABLECIMIENTO DE LAS RELACIONES DIPLOMÁTICAS ENTRE VENEZUELA Y EE. UU.",
+      "title": "MAS saludó el restablecimiento de las relaciones diplomáticas entre Venezuela y EE. UU.",
       "link": "https://noticierodigital.com/2026/03/mas-saludo-el-restablecimiento-de-las-relaciones-diplomaticas-entre-venezuela-y-ee-uu/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/03/felipe-mujica-mas-627x376.jpg"
     },
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Putin y Trump hablan por teléfono de Irán y Venezuela en su primera conversación del año",
       "link": "https://laverdad.com/putin-y-trump-hablan-por-telefono-de-iran-y-venezuela-en-su-primera-conversacion-del-ano/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/02/Donald-Trump-Vladimir-Putin.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T07:41:17.805Z"
+  "lastUpdate": "2026-03-10T08:42:49.460Z"
 };
