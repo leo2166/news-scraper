@@ -5,7 +5,7 @@
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "649,99"
+      "usdt": "645,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "Patrones de tortura: el expediente de la ONU sobre el Sebin y la Dgcim\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/patrones-tortura-onu-sebin-dgcim/",
+      "title": "Venezuela en el último lugar entre los países con libertad de prensa\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/venezuela-en-el-ultimo-lugar-entre-los-paises-con-libertad-de-prensa/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Trump \"controla el acelerador\" de la guerra con Irán, afirma Hegseth",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/secretario-hegseth.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064105577258-20260310053035879.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-76-83c2b0.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "UCEVISTAS SE MOVILIZAN ESTE 12M PARA EXIGIR AUMENTO DE BECAS Y DEL SALARIO ",
-      "link": "https://noticierodigital.com/2026/03/ucevistas-se-movilizan-este-12m-para-exigir-aumento-de-becas-y-del-salario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260310-WA0130-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Juliana Guerrero no asistió a audiencia de imputación por títulos falsos: ¿cuál fue la razón?",
-      "link": "https://www.noticiascaracol.com/judicial/juliana-guerrero-no-asistio-a-audiencia-de-imputacion-por-titulos-falsos-cual-fue-la-razon-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5b6f8c5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F91%2F8b%2Ffd149bbb43a58027a223cd40de1b%2Fdiseno-4.jpg"
+      "title": "Abatido alias Ramiro en un bombardeo del Ejército contra disidencias de las Farc en Antioquia",
+      "link": "https://www.noticiascaracol.com/colombia/abatido-alias-ramiro-en-un-bombardeo-del-ejercito-contra-disidencias-de-las-farc-en-antioquia-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ab21ded/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9a%2Fde%2F227397c4415dae154e3787f9fa9f%2Falias-ramiro.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El Pentágono advierte que este martes será el “día más intenso” de ataques en Irán",
-      "link": "https://laverdad.com/el-pentagono-advierte-que-este-martes-sera-el-dia-mas-intenso-de-ataques-en-iran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataques-EE.-UU.-Israel-Teheran.jpg"
+      "title": "Suben a 570 los muertos, más de 1.400 los heridos y a 759.000 los desplazados en el Líbano",
+      "link": "https://laverdad.com/suben-a-570-los-muertos-mas-de-1-400-los-heridos-y-a-759-000-los-desplazados-en-el-libano/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pedro Sánchez desata polémica en España por vuelo a la frontera venezolana sin registro público",
-      "link": "https://diarioversionfinal.com/mundo/pedro-sanchez-desata-polemica-en-espana-por-vuelo-a-la-frontera-venezolana-sin-registro-publico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/5fb28d925149e.r_d.622-407-12097-750x430.jpeg"
+      "title": "Zelenski alerta sobre graves consecuencias si EE. UU. levanta sanciones petroleras rusas",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-alerta-sobre-graves-consecuencias-si-ee-uu-levanta-sanciones-petroleras-rusas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zelenski-22-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T17:03:13.575Z"
+  "lastUpdate": "2026-03-10T18:50:16.173Z"
 }
