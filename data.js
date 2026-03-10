@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "649,49"
+      "usdt": "621,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,21 +38,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PRESIDENTE DE CAVECOM-E REPORTÓ CRECIMIENTO DE LA ECONOMÍA DIGITAL EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/presidente-de-cavecom-e-reporto-crecimiento-de-la-economia-digital-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/comercio-electronico-venezuela-1-627x376.jpg"
+      "title": "MAS SALUDÓ EL RESTABLECIMIENTO DE LAS RELACIONES DIPLOMÁTICAS ENTRE VENEZUELA Y EE. UU.",
+      "link": "https://noticierodigital.com/2026/03/mas-saludo-el-restablecimiento-de-las-relaciones-diplomaticas-entre-venezuela-y-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/felipe-mujica-mas-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así quedaría la Cámara por Bogotá en el Congreso según proyecciones: tiene 18 curules",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/asi-quedaria-la-camara-por-bogota-en-el-congreso-segun-proyecciones-tiene-18-curules-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6fcc593/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F74%2F78%2F683df029413ca925a86524032a1a%2Ftamano-imagenes-43.jpg"
+      "title": "Ella es Aída Quilcué, la lideresa indígena que será fórmula vicepresidencial de Iván Cepeda",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ella-es-aida-quilcue-la-lideresa-indigena-que-sera-formula-vicepresidencial-de-ivan-cepeda-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/36d9548/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2f%2F92%2F917645c74b93b7561f562b3565c9%2Ftamano-imagenes-17.png"
     },
     {
       "source": "La Verdad",
       "title": "Putin y Trump hablan por teléfono de Irán y Venezuela en su primera conversación del año",
       "link": "https://laverdad.com/putin-y-trump-hablan-por-telefono-de-iran-y-venezuela-en-su-primera-conversacion-del-ano/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/02/Donald-Trump-Vladimir-Putin.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T02:02:53.934Z"
+  "lastUpdate": "2026-03-10T04:42:09.178Z"
 };
