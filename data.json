@@ -5,7 +5,7 @@
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "621,80"
+      "usdt": "622,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l7039-scaled-17a0aa.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "MAS SALUDÓ EL RESTABLECIMIENTO DE LAS RELACIONES DIPLOMÁTICAS ENTRE VENEZUELA Y EE. UU.",
+      "link": "https://noticierodigital.com/2026/03/mas-saludo-el-restablecimiento-de-las-relaciones-diplomaticas-entre-venezuela-y-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/felipe-mujica-mas-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Ella es Aída Quilcué, la lideresa indígena que será fórmula vicepresidencial de Iván Cepeda",
       "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ella-es-aida-quilcue-la-lideresa-indigena-que-sera-formula-vicepresidencial-de-ivan-cepeda-rg10",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T06:52:17.029Z"
+  "lastUpdate": "2026-03-10T07:41:17.805Z"
 }
