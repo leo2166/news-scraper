@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "645,16"
+      "usdt": "647,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos difundió imágenes de cuatro aviones de guerra patrullando las costas de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/10/estados-unidos-difundio-imagenes-de-cuatro-aviones-de-guerra-patrullando-las-costas-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/3Z6RYJRVI5EDLLURHXDTWX5VYA.jpg?auth=216c1d73e79bdf8de3c9b2b3cfb777875484fac8033633ea11be3b7cded3a2a6&smart=true&width=350&height=197&quality=85"
+      "title": "El encuentro entre Gustavo Petro y Delcy Rodríguez el viernes será en un puente fronterizo",
+      "link": "https://www.infobae.com/venezuela/2026/03/10/el-encuentro-entre-gustavo-petro-y-delcy-rodriguez-el-viernes-sera-en-un-puente-fronterizo/",
+      "image": "https://www.infobae.com/resizer/v2/KCJSVYI4CRGELISWUFL7OFKNGI.jpg?auth=0ff18e944e2bb77e0b7097c786191e9e2b0efa5e442e479abf80381b93b88456&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tras dos años de detención Williams Dávila recuperó su libertad plena",
-      "link": "https://noticiasvenevision.com/noticias/politica/tras-dos-anos-de-detencion-williams-davila-recupero-su-libertad-plena",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_649849566_18562549225004511_4719624719135327779_n-1-4bdc58.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "REUNIÓN ENTRE DELCY RODRÍGUEZ Y GUSTAVO PETRO SERÁ EN EL PUENTE GIRARDOT",
-      "link": "https://noticierodigital.com/2026/03/reunion-entre-delcy-rodriguez-y-gustavo-petro-sera-en-el-puente-girardot/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260310-WA00831-627x376.jpg"
+      "title": "Gustavo Petro y Delcy Rodríguez se reunirán en puente Internacional Atanasio Girardot",
+      "link": "https://noticiasvenevision.com/noticias/politica/gustavo-petro-y-delcy-rodriguez-se-reuniran-en-puente-internacional-atanasio-girardot",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-76-83c2b0.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump insiste en rechazar al nuevo ayatolá y pide transición como la de Venezuela",
-      "link": "https://laverdad.com/trump-insiste-en-rechazar-al-nuevo-ayatola-y-pide-transicion-como-la-de-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Mojtaba-Jamenei-2.jpg"
+      "title": "El Pentágono advierte que este martes será el “día más intenso” de ataques en Irán",
+      "link": "https://laverdad.com/el-pentagono-advierte-que-este-martes-sera-el-dia-mas-intenso-de-ataques-en-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataques-EE.-UU.-Israel-Teheran.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pentágono advierte que la ofensiva contra Irán entra en su fase más intensa",
-      "link": "https://diarioversionfinal.com/mundo/pentagono-advierte-que-la-ofensiva-contra-iran-entra-en-su-fase-mas-intensa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1508030196-RL46jpKwClrpYu9txcxiO5N-366x256@diario_abc.webp"
+      "title": "Drones iraníes atacan zonas clave de Arabia Saudita y Kuwait",
+      "link": "https://diarioversionfinal.com/mundo/drones-iranies-atacan-zonas-clave-de-arabia-saudita-y-kuwait/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IR193N-EEUU_63951.webp"
     }
   ],
-  "lastUpdate": "2026-03-10T14:50:19.547Z"
+  "lastUpdate": "2026-03-10T16:01:49.291Z"
 };
