@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "647,85"
+      "usdt": "649,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESCLARECIERON EL HOMICIDIO DEL PERIODISTA WALTER JAIMES EN MÉRIDA, CONFIRMÓ CABELLO",
-      "link": "https://noticierodigital.com/2026/03/esclarecieron-el-homicidio-del-periodista-walter-jaimes-en-merida-confirmo-cabello/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/diosdado-cabello-venezuela-1-627x376.jpg"
+      "title": "AEROLÍNEA GOL REANUDÓ SUS VUELOS DIRECTOS ENTRE CARACAS Y SAO PAULO",
+      "link": "https://noticierodigital.com/2026/03/aerolinea-gol-reanudo-sus-vuelos-directos-entre-caracas-y-sao-paulo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/aerolinea-gol-brasil-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Abatido alias Ramiro en un bombardeo del Ejército contra disidencias de las Farc en Antioquia",
-      "link": "https://www.noticiascaracol.com/colombia/abatido-alias-ramiro-en-un-bombardeo-del-ejercito-contra-disidencias-de-las-farc-en-antioquia-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ab21ded/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9a%2Fde%2F227397c4415dae154e3787f9fa9f%2Falias-ramiro.jpg"
+      "title": "Hallan sin vida a Eutimio Valencia Duave, gobernador indígena del Chocó: ¿qué se sabe?",
+      "link": "https://www.noticiascaracol.com/judicial/hallan-sin-vida-a-eutimio-valencia-duave-gobernador-indigena-del-choco-que-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c44cd0e/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2F14%2F5dfb569b4f24b14b3239d1e98134%2Feutimio-valencia-duave.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ataques-beirut-israel-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T22:29:15.656Z"
+  "lastUpdate": "2026-03-10T23:28:41.648Z"
 };
