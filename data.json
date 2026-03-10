@@ -5,7 +5,7 @@
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "648,00"
+      "usdt": "649,49"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El opositor Juan Pablo Guanipa anunció que un tribunal venezolano ordenó el cierre de su causa por terrorismo",
-      "link": "https://www.infobae.com/venezuela/2026/03/09/el-opositor-juan-pablo-guanipa-anuncio-que-un-tribunal-venezolano-ordeno-el-cierre-de-su-causa-por-terrorismo/",
-      "image": "https://www.infobae.com/resizer/v2/6LNYSULSJFHERC4BETYPCEYFUY.jpg?auth=c1c3efc1f0c6ac6a4cdf49b5561e4714c9d12c841b096893d6cfd1e218f88e5a&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela abrió el mercado minero al capital extranjero con una reforma impulsada por Washington",
+      "link": "https://www.infobae.com/venezuela/2026/03/10/venezuela-abrio-el-mercado-minero-al-capital-extranjero-con-una-reforma-impulsada-por-washington/",
+      "image": "https://www.infobae.com/resizer/v2/52IETWL2CZFPRC7T42A4ZJJAHA.jpg?auth=ffb3a78108afced7692269469b1d8b945c573c8f6a418b3a8b03f740f0d25d49&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Llegan a Venezuela 134 migrantes repatriados en vuelo procedente de Estados Unidos\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/llegan-a-venezuela-134-migrantes-repatriados-en-vuelo-procedente-de-estados-unidos/",
+      "title": "Américo De Grazia recibe libertad plena por amnistía en Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/americo-de-grazia-recibe-libertad-plena-por-amnistia-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Encuentro bilateral entre Colombia y Venezuela busca fortalecer agenda común",
-      "link": "https://noticiasvenevision.com/noticias/politica/encuentro-bilateral-entre-colombia-y-venezuela-busca-fortalecer-agenda-comun",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5121129252551502431_y-2ab15a.webp"
+      "title": "Delcy Rodríguez: \"Venezuela no es un país de narcotraficantes\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-venezuela-no-es-un-pais-de-narcotraficantes",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l7039-scaled-17a0aa.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "PRESIDENTE DE CAVECOM-E REPORTÓ CRECIMIENTO DE LA ECONOMÍA DIGITAL EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/presidente-de-cavecom-e-reporto-crecimiento-de-la-economia-digital-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/comercio-electronico-venezuela-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Elecciones 2026: ¿cómo queda la izquierda, la derecha y el centro en el Senado tras los resultados?",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/resultados-elecciones-como-queda-la-izquierda-la-derecha-y-el-centro-en-el-senado-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/14fa673/2147483647/strip/true/crop/1280x722+0+9/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F15%2F8b%2F242968a6450cbadf05d8a8162a11%2Fcongreso-1.jpg"
+      "title": "Así quedaría la Cámara por Bogotá en el Congreso según proyecciones: tiene 18 curules",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/asi-quedaria-la-camara-por-bogota-en-el-congreso-segun-proyecciones-tiene-18-curules-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6fcc593/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F74%2F78%2F683df029413ca925a86524032a1a%2Ftamano-imagenes-43.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump califica de “gran error” la elección de Mojtaba Jamenei como líder supremo de Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-califica-de-gran-error-la-eleccion-de-mojtaba-jamenei-como-lider-supremo-de-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/08th-Jan-2025.-President-Elect-Donald-Trump-gives-remarks-after-meeting-with-Senate-Republicans-Aaron-SchwartzSipa-USA-Credit-Sipa-USAlamy-scaled-1-750x430.jpg"
+      "title": "Trump sorprende con visita a la comunidad venezolana en popular restaurante de Miami",
+      "link": "https://diarioversionfinal.com/mundo/trump-sorprende-con-visita-a-la-comunidad-venezolana-en-popular-restaurante-de-miami/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-09T23:28:55.159Z"
+  "lastUpdate": "2026-03-10T02:02:53.934Z"
 }
