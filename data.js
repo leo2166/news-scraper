@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "646,00"
+      "usdt": "645,16"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,40 +26,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Hegseth: pondremos fin a la guerra con Irán siguiendo \"nuestro cronograma\"",
+      "title": "Trump \"controla el acelerador\" de la guerra con Irán, afirma Hegseth",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/secretario-hegseth.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez: \"Venezuela no es un país de narcotraficantes\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-venezuela-no-es-un-pais-de-narcotraficantes",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l7039-scaled-17a0aa.jpg"
+      "title": "Tras dos años de detención Williams Dávila recuperó su libertad plena",
+      "link": "https://noticiasvenevision.com/noticias/politica/tras-dos-anos-de-detencion-williams-davila-recupero-su-libertad-plena",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_649849566_18562549225004511_4719624719135327779_n-1-4bdc58.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PRODUCCIÓN AVÍCOLA BUSCA RECUPERAR LOS NIVELES HISTÓRICOS DE 2013 Y 2014",
-      "link": "https://noticierodigital.com/2026/03/produccion-avicola-busca-recuperar-los-niveles-historicos-de-2013-y-2014/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/huevos-21mar2022.jpg"
+      "title": "REUNIÓN ENTRE DELCY RODRÍGUEZ Y GUSTAVO PETRO SERÁ EN EL PUENTE GIRARDOT",
+      "link": "https://noticierodigital.com/2026/03/reunion-entre-delcy-rodriguez-y-gustavo-petro-sera-en-el-puente-girardot/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260310-WA00831-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"Será una especie de Marco Rubio para mí\": De la Espriella sobre Restrepo, fórmula vicepresidencial",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-habla-de-su-formula-vicepresidencial-y-lo-que-viene-en-su-campana-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/05b3983/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2Fdd%2F70d8161942aab9fc6bf998593fb5%2Fabelardo-de-la-espriella.jpg"
+      "title": "Paloma Valencia habló de Juan Daniel Oviedo y la campaña: \"Todo el uribismo me acompaña\"",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/paloma-valencia-habla-sobre-formula-vicepresidencial-y-que-viene-en-su-campana-para-primera-vuelta-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6bc32e4/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F63%2F84%2Fb6bdcf2a44b9b0cf55a3bd713ff9%2Fpaloma-valencia-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump comparte con exiliados venezolanos en El Arepazo, en El Doral",
-      "link": "https://laverdad.com/trump-comparte-con-exiliados-venezolanos-en-el-arepazo-en-el-doral/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-El-Arepazo.jpg"
+      "title": "Trump insiste en rechazar al nuevo ayatolá y pide transición como la de Venezuela",
+      "link": "https://laverdad.com/trump-insiste-en-rechazar-al-nuevo-ayatola-y-pide-transicion-como-la-de-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Mojtaba-Jamenei-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. suspende temporalmente sanciones petroleras para frenar el alza del crudo",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-suspende-temporalmente-sanciones-petroleras-para-frenar-el-alza-del-crudo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/image-37-1-750x430.jpg"
+      "title": "Pentágono advierte que la ofensiva contra Irán entra en su fase más intensa",
+      "link": "https://diarioversionfinal.com/mundo/pentagono-advierte-que-la-ofensiva-contra-iran-entra-en-su-fase-mas-intensa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1508030196-RL46jpKwClrpYu9txcxiO5N-366x256@diario_abc.webp"
     }
   ],
-  "lastUpdate": "2026-03-10T13:02:06.726Z"
+  "lastUpdate": "2026-03-10T14:50:19.547Z"
 };
