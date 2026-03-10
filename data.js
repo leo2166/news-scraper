@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "651,00"
+      "usdt": "647,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La sombría elección que enfrenta el Gobierno de Trump: ¿colapso económico o naval?",
+      "title": "La sombría elección que enfrenta Trump: ¿colapso económico o naval?",
       "link": "https://cnnespanol.cnn.com/2026/03/10/economia/sombria-eleccion-trump-colapso-economico-naval-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064105577258-20260310053035879.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Putin y Trump hablan por teléfono de Irán y Venezuela en su primera conversación del año",
       "link": "https://laverdad.com/putin-y-trump-hablan-por-telefono-de-iran-y-venezuela-en-su-primera-conversacion-del-ano/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2025/02/Donald-Trump-Vladimir-Putin.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T09:44:13.942Z"
+  "lastUpdate": "2026-03-10T10:39:54.715Z"
 };
