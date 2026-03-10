@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "645,60"
+      "usdt": "646,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gustavo Petro y Delcy Rodríguez se reunirán en puente Internacional Atanasio Girardot",
-      "link": "https://noticiasvenevision.com/noticias/politica/gustavo-petro-y-delcy-rodriguez-se-reuniran-en-puente-internacional-atanasio-girardot",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-76-83c2b0.jpg"
+      "title": "Diputado José Gregorio Correa insta a la Asamblea Nacional a priorizar el salario y la situación de los jubilados",
+      "link": "https://noticiasvenevision.com/noticias/politica/diputado-jose-gregorio-correa-insta-a-la-asamblea-nacional-a-priorizar-el-salario-y-la-situacion-de-los-jubilados",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/020a6b35-804a-42f6-a28d-c5ad2f736b52-71096b.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "DEROGAR LEY DEL EJERCICIO DE LA MEDICINA Y LA DE TRÁNSITO TERRESTRE, EXIGIÓ FEDERACIÓN MÉDICA",
+      "link": "https://noticierodigital.com/2026/03/derogar-ley-del-ejercicio-de-la-medicina-y-la-de-transito-terrestre-exigio-federacion-medica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260310-WA0181-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Suben a 570 los muertos, más de 1.400 los heridos y a 759.000 los desplazados en el Líbano",
-      "link": "https://laverdad.com/suben-a-570-los-muertos-mas-de-1-400-los-heridos-y-a-759-000-los-desplazados-en-el-libano/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Bombardeo del Ejército colombiano a disidencias de las Farc deja 7 muertos y un herido",
+      "link": "https://laverdad.com/bombardeo-del-ejercito-colombiano-a-disidencias-de-las-farc-deja-7-muertos-y-un-herido/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Bombardeo-del-Ejercito-colombiano-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski alerta sobre graves consecuencias si EE. UU. levanta sanciones petroleras rusas",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-alerta-sobre-graves-consecuencias-si-ee-uu-levanta-sanciones-petroleras-rusas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zelenski-22-12-2025-750x430.jpg"
+      "title": "EE.UU. evalúa medidas para frenar alza de la gasolina tras crisis en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-evalua-medidas-para-frenar-alza-de-la-gasolina-tras-crisis-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/87646cf696581ed442ed37bfdc3ac41fd0202390-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T18:50:16.173Z"
+  "lastUpdate": "2026-03-10T19:38:41.092Z"
 };
