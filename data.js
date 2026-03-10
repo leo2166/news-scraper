@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "648,99"
+      "usdt": "646,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump da mensajes contradictorios sobre los tiempos de la guerra",
+      "title": "Hegseth: pondremos fin a la guerra con Irán siguiendo \"nuestro cronograma\"",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265246665-20260310105835665.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/secretario-hegseth.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MAS SALUDÓ EL RESTABLECIMIENTO DE LAS RELACIONES DIPLOMÁTICAS ENTRE VENEZUELA Y EE. UU.",
-      "link": "https://noticierodigital.com/2026/03/mas-saludo-el-restablecimiento-de-las-relaciones-diplomaticas-entre-venezuela-y-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/felipe-mujica-mas-627x376.jpg"
+      "title": "PRODUCCIÓN AVÍCOLA BUSCA RECUPERAR LOS NIVELES HISTÓRICOS DE 2013 Y 2014",
+      "link": "https://noticierodigital.com/2026/03/produccion-avicola-busca-recuperar-los-niveles-historicos-de-2013-y-2014/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/huevos-21mar2022.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Abelardo de la Espriella anuncia al exministro José Manuel Restrepo como su fórmula vicepresidencial",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-anuncia-al-exministro-jose-manuel-restrepo-como-su-formula-vicepresidencial-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/20988aa/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb7%2F93%2Fe14de14640cdbe098d7693b1d216%2Fabelardo-de-la-espriella-y-jose-manuel-restrepo.jpg"
+      "title": "\"Será una especie de Marco Rubio para mí\": De la Espriella sobre Restrepo, fórmula vicepresidencial",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-habla-de-su-formula-vicepresidencial-y-lo-que-viene-en-su-campana-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/05b3983/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2Fdd%2F70d8161942aab9fc6bf998593fb5%2Fabelardo-de-la-espriella.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Putin y Trump hablan por teléfono de Irán y Venezuela en su primera conversación del año",
-      "link": "https://laverdad.com/putin-y-trump-hablan-por-telefono-de-iran-y-venezuela-en-su-primera-conversacion-del-ano/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/02/Donald-Trump-Vladimir-Putin.jpg"
+      "title": "Trump comparte con exiliados venezolanos en El Arepazo, en El Doral",
+      "link": "https://laverdad.com/trump-comparte-con-exiliados-venezolanos-en-el-arepazo-en-el-doral/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-El-Arepazo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump sorprende con visita a la comunidad venezolana en popular restaurante de Miami",
-      "link": "https://diarioversionfinal.com/mundo/trump-sorprende-con-visita-a-la-comunidad-venezolana-en-popular-restaurante-de-miami/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
+      "title": "EE. UU. suspende temporalmente sanciones petroleras para frenar el alza del crudo",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-suspende-temporalmente-sanciones-petroleras-para-frenar-el-alza-del-crudo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/image-37-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T11:33:25.824Z"
+  "lastUpdate": "2026-03-10T13:02:06.726Z"
 };
