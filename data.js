@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "622,00"
+      "usdt": "651,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Américo De Grazia recibe libertad plena por amnistía en Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/americo-de-grazia-recibe-libertad-plena-por-amnistia-en-venezuela/",
+      "title": "Patrones de tortura: el expediente de la ONU sobre el Sebin y la Dgcim\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/patrones-tortura-onu-sebin-dgcim/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MAS saludó el restablecimiento de las relaciones diplomáticas entre Venezuela y EE. UU.",
+      "title": "MAS SALUDÓ EL RESTABLECIMIENTO DE LAS RELACIONES DIPLOMÁTICAS ENTRE VENEZUELA Y EE. UU.",
       "link": "https://noticierodigital.com/2026/03/mas-saludo-el-restablecimiento-de-las-relaciones-diplomaticas-entre-venezuela-y-ee-uu/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/03/felipe-mujica-mas-627x376.jpg"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T08:42:49.460Z"
+  "lastUpdate": "2026-03-10T09:44:13.942Z"
 };
