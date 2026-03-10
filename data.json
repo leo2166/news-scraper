@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "436,24",
-      "eur": "505,42"
+      "usd": "438,20",
+      "eur": "510,21"
     },
     "binance": {
-      "usdt": "646,56"
+      "usdt": "647,85"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela en el último lugar entre los países con libertad de prensa\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/venezuela-en-el-ultimo-lugar-entre-los-paises-con-libertad-de-prensa/",
+      "title": "Machado: “Estados Unidos está utilizando al propio régimen para desmontar buena parte de su estructura represiva”\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/machado-estados-unidos-esta-utilizando-al-propio-regimen-para-desmontar-buena-parte-de-su-estructura-represiva/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Los bombardeos de Israel en el Líbano matan 10 niños al día, dice la ONU",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-10-132019.png?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Irán comienza a instalar minas en el estrecho de Ormuz, según fuentes",
+      "link": "https://cnnespanol.cnn.com/2026/03/10/mundo/iran-minas-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁRQUEZ CUESTIONÓ EL PROCESO DE DESIGNACIÓN DEL FISCAL GENERAL Y DEFENSOR DEL PUEBLO",
-      "link": "https://noticierodigital.com/2026/03/marquez-cuestiono-el-proceso-de-designacion-del-fiscal-general-y-defensor-del-pueblo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/enriquemarquez-cne.jpg"
+      "title": "ESCLARECIERON EL HOMICIDIO DEL PERIODISTA WALTER JAIMES EN MÉRIDA, CONFIRMÓ CABELLO",
+      "link": "https://noticierodigital.com/2026/03/esclarecieron-el-homicidio-del-periodista-walter-jaimes-en-merida-confirmo-cabello/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/diosdado-cabello-venezuela-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ataques-beirut-israel-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T21:29:20.688Z"
+  "lastUpdate": "2026-03-10T22:29:15.656Z"
 }
