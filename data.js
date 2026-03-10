@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "646,89"
+      "usdt": "646,56"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Los bombardeos de Israel en el Líbano matan 10 niños al día, dice la ONU",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064105577258-20260310053035879.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-10-132019.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CNP PIDE ESCLARECER LAS CIRCUNSTANCIAS DE MUERTE DE LA COMUNICADORA YOLIMAR HIDALGO",
-      "link": "https://noticierodigital.com/2026/03/cnp-pide-esclarecer-las-circunstancias-de-muerte-de-la-comunicadora-yolimar-hidalgo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/10/cnp-conatel-censura-15oct2022.jpg"
+      "title": "MÁRQUEZ CUESTIONÓ EL PROCESO DE DESIGNACIÓN DEL FISCAL GENERAL Y DEFENSOR DEL PUEBLO",
+      "link": "https://noticierodigital.com/2026/03/marquez-cuestiono-el-proceso-de-designacion-del-fiscal-general-y-defensor-del-pueblo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/enriquemarquez-cne.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno español aprueba norma para atender a migrantes sin papeles en la sanidad pública",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-espanol-aprueba-norma-para-atender-a-migrantes-sin-papeles-en-la-sanidad-publica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ed1e4721-a37a-4f27-a922-cb2d4f242a0d_alta-libre-aspect-ratio_default_0-750x430.jpg"
+      "title": "ONU alerta que bombardeos israelíes en Líbano matan diez niños diariamente",
+      "link": "https://diarioversionfinal.com/mundo/onu-alerta-que-bombardeos-israelies-en-libano-matan-diez-ninos-diariamente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ataques-beirut-israel-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T20:35:18.216Z"
+  "lastUpdate": "2026-03-10T21:29:20.688Z"
 };
