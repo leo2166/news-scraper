@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "622,00"
+      "usdt": "621,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela abrió el mercado minero al capital extranjero con una reforma impulsada por Washington",
-      "link": "https://www.infobae.com/venezuela/2026/03/10/venezuela-abrio-el-mercado-minero-al-capital-extranjero-con-una-reforma-impulsada-por-washington/",
-      "image": "https://www.infobae.com/resizer/v2/52IETWL2CZFPRC7T42A4ZJJAHA.jpg?auth=ffb3a78108afced7692269469b1d8b945c573c8f6a418b3a8b03f740f0d25d49&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos difundió imágenes de cuatro aviones de guerra patrullando las costas de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/10/estados-unidos-difundio-imagenes-de-cuatro-aviones-de-guerra-patrullando-las-costas-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/3Z6RYJRVI5EDLLURHXDTWX5VYA.jpg?auth=216c1d73e79bdf8de3c9b2b3cfb777875484fac8033633ea11be3b7cded3a2a6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que la guerra con Irán podría acabar en días",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-jamenei-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cdd4c1cd-1036-4c87-a5c7-0b02797763cb.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La sombría elección que enfrenta el Gobierno de Trump: ¿colapso económico o naval?",
+      "link": "https://cnnespanol.cnn.com/2026/03/10/economia/sombria-eleccion-trump-colapso-economico-naval-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064105577258-20260310053035879.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez: \"Venezuela no es un país de narcotraficantes\"",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-venezuela-no-es-un-pais-de-narcotraficantes",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l7039-scaled-17a0aa.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "MAS SALUDÓ EL RESTABLECIMIENTO DE LAS RELACIONES DIPLOMÁTICAS ENTRE VENEZUELA Y EE. UU.",
-      "link": "https://noticierodigital.com/2026/03/mas-saludo-el-restablecimiento-de-las-relaciones-diplomaticas-entre-venezuela-y-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/felipe-mujica-mas-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-Arepazo-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T05:46:33.131Z"
+  "lastUpdate": "2026-03-10T06:52:17.029Z"
 };
