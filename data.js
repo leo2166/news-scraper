@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "646,00"
+      "usdt": "646,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump \"controla el acelerador\" de la guerra con Irán, afirma Hegseth",
+      "title": "Los bombardeos de Israel en el Líbano matan 10 niños al día, dice la ONU",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064105577258-20260310053035879.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEROGAR LEY DEL EJERCICIO DE LA MEDICINA Y LA DE TRÁNSITO TERRESTRE, EXIGIÓ FEDERACIÓN MÉDICA",
-      "link": "https://noticierodigital.com/2026/03/derogar-ley-del-ejercicio-de-la-medicina-y-la-de-transito-terrestre-exigio-federacion-medica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260310-WA0181-627x376.jpg"
+      "title": "CNP PIDE ESCLARECER LAS CIRCUNSTANCIAS DE MUERTE DE LA COMUNICADORA YOLIMAR HIDALGO",
+      "link": "https://noticierodigital.com/2026/03/cnp-pide-esclarecer-las-circunstancias-de-muerte-de-la-comunicadora-yolimar-hidalgo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/10/cnp-conatel-censura-15oct2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. evalúa medidas para frenar alza de la gasolina tras crisis en el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-evalua-medidas-para-frenar-alza-de-la-gasolina-tras-crisis-en-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/87646cf696581ed442ed37bfdc3ac41fd0202390-750x430.jpg"
+      "title": "Gobierno español aprueba norma para atender a migrantes sin papeles en la sanidad pública",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-espanol-aprueba-norma-para-atender-a-migrantes-sin-papeles-en-la-sanidad-publica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ed1e4721-a37a-4f27-a922-cb2d4f242a0d_alta-libre-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-10T19:38:41.092Z"
+  "lastUpdate": "2026-03-10T20:35:18.216Z"
 };
