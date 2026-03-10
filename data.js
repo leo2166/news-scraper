@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "505,42"
     },
     "binance": {
-      "usdt": "647,00"
+      "usdt": "649,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-76-83c2b0.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "UCEVISTAS SE MOVILIZAN ESTE 12M PARA EXIGIR AUMENTO DE BECAS Y DEL SALARIO ",
+      "link": "https://noticierodigital.com/2026/03/ucevistas-se-movilizan-este-12m-para-exigir-aumento-de-becas-y-del-salario/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260310-WA0130-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Paloma Valencia habló de Juan Daniel Oviedo y la campaña: \"Todo el uribismo me acompaña\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/paloma-valencia-habla-sobre-formula-vicepresidencial-y-que-viene-en-su-campana-para-primera-vuelta-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6bc32e4/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F63%2F84%2Fb6bdcf2a44b9b0cf55a3bd713ff9%2Fpaloma-valencia-1.jpg"
+      "title": "Juliana Guerrero no asistió a audiencia de imputación por títulos falsos: ¿cuál fue la razón?",
+      "link": "https://www.noticiascaracol.com/judicial/juliana-guerrero-no-asistio-a-audiencia-de-imputacion-por-titulos-falsos-cual-fue-la-razon-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5b6f8c5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F91%2F8b%2Ffd149bbb43a58027a223cd40de1b%2Fdiseno-4.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Drones iraníes atacan zonas clave de Arabia Saudita y Kuwait",
-      "link": "https://diarioversionfinal.com/mundo/drones-iranies-atacan-zonas-clave-de-arabia-saudita-y-kuwait/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IR193N-EEUU_63951.webp"
+      "title": "Pedro Sánchez desata polémica en España por vuelo a la frontera venezolana sin registro público",
+      "link": "https://diarioversionfinal.com/mundo/pedro-sanchez-desata-polemica-en-espana-por-vuelo-a-la-frontera-venezolana-sin-registro-publico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/5fb28d925149e.r_d.622-407-12097-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-10T16:01:49.291Z"
+  "lastUpdate": "2026-03-10T17:03:13.575Z"
 };
