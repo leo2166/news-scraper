@@ -5,7 +5,7 @@
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "627,00"
+      "usdt": "626,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. destruye barcos navales y minadores iraníes cerca del estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22439653-1365-8742472266242-still-20260310234047439.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán afirma haber lanzado sus ataques “más intensos”",
+      "link": "https://cnnespanol.cnn.com/2026/03/11/mundo/analisis-estados-unidos-iran-guerras-diferentes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1051-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-11T06:55:16.412Z"
+  "lastUpdate": "2026-03-11T07:43:33.726Z"
 }
