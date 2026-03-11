@@ -5,7 +5,7 @@
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "626,90"
+      "usdt": "657,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@
     },
     {
       "source": "El Nacional",
-      "title": "Reuters: Chevron y Shell avanzan en acuerdos de petróleo con Venezuela\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/reuters-chevron-y-shell-avanzan-en-acuerdos-de-petroleo-con-venezuela/",
+      "title": "David Smolansky: El chavismo en Venezuela es residual\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/david-smolansky-el-chavismo-en-venezuela-es-residual/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán afirma haber lanzado sus ataques “más intensos”",
+      "title": "Se intensifican ataques contra busques en el estrecho de Ormuz y la ofensiva de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz.png?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Bombardeo del Ejército colombiano a disidencias de las Farc deja 7 muertos y un herido",
       "link": "https://laverdad.com/bombardeo-del-ejercito-colombiano-a-disidencias-de-las-farc-deja-7-muertos-y-un-herido/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Bombardeo-del-Ejercito-colombiano-1.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1051-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-11T08:42:04.123Z"
+  "lastUpdate": "2026-03-11T09:42:52.651Z"
 }
