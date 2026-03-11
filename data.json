@@ -5,7 +5,7 @@
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "657,89"
+      "usdt": "660,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ERNESTO SAMPER RESPALDÓ LA GESTIÓN DE DELCY RODRÍGUEZ TRAS UNA REUNIÓN EN CARACAS",
-      "link": "https://noticierodigital.com/2026/03/ernesto-samper-respaldo-la-gestion-de-delcy-rodriguez-tras-una-reunion-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/ernesto-samper-delcy-rodriguez-627x376.jpg"
+      "title": "FENEGAS PROPUSO LA HOMOGENEIZACIÓN DE LAS ESTACIONES DE SERVICIO",
+      "link": "https://noticierodigital.com/2026/03/fenegas-propuso-la-homogeneizacion-de-las-estaciones-de-servicio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/colasdegasolina-3mar2023.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Revelan nota escrita a mano por Yeison Jiménez que fue hallada dos meses después de su muerte",
-      "link": "https://www.noticiascaracol.com/entretenimiento/revelan-nota-escrita-a-mano-por-yeison-jimenez-que-fue-hallada-dos-meses-despues-de-su-muerte-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d1da799/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F51%2F34%2F98c7eb344f1fb07900aa13c587d4%2Fplantilla-fotos-81.jpg"
+      "title": "Iván Cepeda dice por qué eligió a Quilcué como fórmula vicepresidencial: \"Nos honra como pueblo\"",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-inscribe-candidatura-a-la-presidencia-junto-a-su-formula-vicepresidencial-aida-quilcue-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/14fbb3a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F3b%2Fe94c56d848fea0e308e14782a588%2Fivan-cepeda-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
     }
   ],
-  "lastUpdate": "2026-03-11T22:27:41.377Z"
+  "lastUpdate": "2026-03-11T23:27:28.390Z"
 }
