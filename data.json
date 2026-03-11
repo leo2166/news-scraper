@@ -5,7 +5,7 @@
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "654,99"
+      "usdt": "624,51"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Se intensifican los ataques contra buques en el estrecho de Ormuz y la ofensiva de Irán",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/putin-20260311073207338.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "El líder supremo de Irán está \"a salvo\", dice el hijo del presidente del país",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-11-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/otro-jamenei.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Bombardeo del Ejército colombiano a disidencias de las Farc deja 7 muertos y un herido",
       "link": "https://laverdad.com/bombardeo-del-ejercito-colombiano-a-disidencias-de-las-farc-deja-7-muertos-y-un-herido/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Bombardeo-del-Ejercito-colombiano-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1051-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-11T10:40:07.235Z"
+  "lastUpdate": "2026-03-11T11:33:44.764Z"
 }
