@@ -5,7 +5,7 @@
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "623,54"
+      "usdt": "654,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El encuentro entre Gustavo Petro y Delcy Rodríguez el viernes será en un puente fronterizo",
-      "link": "https://www.infobae.com/venezuela/2026/03/10/el-encuentro-entre-gustavo-petro-y-delcy-rodriguez-el-viernes-sera-en-un-puente-fronterizo/",
-      "image": "https://www.infobae.com/resizer/v2/KCJSVYI4CRGELISWUFL7OFKNGI.jpg?auth=0ff18e944e2bb77e0b7097c786191e9e2b0efa5e442e479abf80381b93b88456&smart=true&width=350&height=197&quality=85"
+      "title": "La ministra de Salud de Venezuela confirmó muertes por fiebre amarilla pero evitó dar cifras para no generar “pánico”",
+      "link": "https://www.infobae.com/venezuela/2026/03/11/la-ministra-de-salud-de-venezuela-confirmo-muertes-por-fiebre-amarilla-pero-evito-dar-cifras-para-no-generar-panico/",
+      "image": "https://www.infobae.com/resizer/v2/OI7KFEI3YJEV5AWPSNIOXUC27E.jpg?auth=93b0c1a93b1ff8a59124fe69dbf7950c256e4e6d6efdaa3d9cc2a5fa57d97efc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Aumentan los ataques a barcos cerca del estrecho de Ormuz",
+      "title": "Países miembros de la AIE liberarán 400 millones de barriles",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-11-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/putin-20260311073207338.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petroleo-precios.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "KIM JONG UN OBSERVA PRUEBAS DE MISILES DE CRUCERO CON SU HIJA DE 13 AÑOS",
-      "link": "https://noticierodigital.com/2026/03/kim-jong-un-observa-pruebas-de-misiles-de-crucero-con-su-hija-de-13-anos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260311-WA0050-627x376.jpg"
+      "title": "PUD DENUNCIA «PACTO» PARA DESIGNACIÓN DE LOS NUEVOS FISCAL Y DEFENSOR DEL PUEBLO ",
+      "link": "https://noticierodigital.com/2026/03/pud-denuncia-pacto-para-designacion-de-los-nuevos-fiscal-y-defensor-del-pueblo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Bombardeo del Ejército colombiano a disidencias de las Farc deja 7 muertos y un herido",
-      "link": "https://laverdad.com/bombardeo-del-ejercito-colombiano-a-disidencias-de-las-farc-deja-7-muertos-y-un-herido/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Bombardeo-del-Ejercito-colombiano-1.jpg"
+      "title": "Detienen a venezolano en México por robo en casa de la artista Susana Zabaleta",
+      "link": "https://laverdad.com/detienen-a-venezolano-en-mexico-por-robo-en-casa-de-la-artista-susana-zabaleta/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel afirma que ataques contra Irán seguirán hasta alcanzar todos los objetivos",
-      "link": "https://diarioversionfinal.com/mundo/israel-afirma-que-ataques-contra-iran-seguiran-hasta-alcanzar-todos-los-objetivos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ministro-asuntos-exteriores-israeli-israel-katz-foto-archivo_98-750x375-1.webp"
+      "title": "Papa León XIV llama a rezar por víctimas en Irán y Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-llama-a-rezar-por-victimas-en-iran-y-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/papa-leon-xiv-en-audiencia-general-del-13-de-agosto-01-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-11T13:01:42.043Z"
+  "lastUpdate": "2026-03-11T14:46:23.995Z"
 }
