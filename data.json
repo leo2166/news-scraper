@@ -5,7 +5,7 @@
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "657,50"
+      "usdt": "654,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Se intensifican ataques contra busques en el estrecho de Ormuz y la ofensiva de Irán",
+      "title": "Se intensifican los ataques contra buques en el estrecho de Ormuz y la ofensiva de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-e-israel-iran-medio-oriente-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/putin-20260311073207338.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1051-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-11T09:42:52.651Z"
+  "lastUpdate": "2026-03-11T10:40:07.235Z"
 }
