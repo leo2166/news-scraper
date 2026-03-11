@@ -19,6 +19,12 @@ window.DASHBOARD_DATA = {
       "image": "https://www.infobae.com/resizer/v2/OI7KFEI3YJEV5AWPSNIOXUC27E.jpg?auth=93b0c1a93b1ff8a59124fe69dbf7950c256e4e6d6efdaa3d9cc2a5fa57d97efc&smart=true&width=350&height=197&quality=85"
     },
     {
+      "source": "El Nacional",
+      "title": "NYT: Gobierno de Trump y autoridades venezolanas avanzan en negociaciones sobre posible extradición de Alex Saab\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/nyt-gobierno-de-trump-y-autoridades-venezolanas-avanzan-en-negociaciones-sobre-posible-extradicion-de-alex-saab/",
+      "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
+    },
+    {
       "source": "CNN en Español",
       "title": "EE.UU. sería el responsable del ataque contra una escuela iraní, según fuentes",
       "link": "https://cnnespanol.cnn.com/2026/03/11/eeuu/ataque-escuela-iran-informe-civiles-muertos-trax",
@@ -32,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LLEGÓ A MAIQUETÍA NUEVO VUELO CON 270 VENEZOLANOS DEPORTADOS DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/03/llego-a-maiquetia-nuevo-vuelo-con-270-venezolanos-deportados-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-de-deportacion-venezolanos-eeuu-1-627x376.jpg"
+      "title": "ERNESTO SAMPER RESPALDÓ LA GESTIÓN DE DELCY RODRÍGUEZ TRAS UNA REUNIÓN EN CARACAS",
+      "link": "https://noticierodigital.com/2026/03/ernesto-samper-respaldo-la-gestion-de-delcy-rodriguez-tras-una-reunion-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/ernesto-samper-delcy-rodriguez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Tribunal ordena suspensión inmediata de decreto que dejaba en firme traslado de usuarios a Nueva EPS",
-      "link": "https://www.noticiascaracol.com/salud/tribunal-ordena-suspension-inmediata-de-decreto-que-dejaba-en-firme-traslado-de-usuarios-a-nueva-eps-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/68207f6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F51%2Fb3%2Fc6a413874f2dafd33746471df1e6%2Fnueva-eps-fallo.jpg"
+      "title": "Revelan nota escrita a mano por Yeison Jiménez que fue hallada dos meses después de su muerte",
+      "link": "https://www.noticiascaracol.com/entretenimiento/revelan-nota-escrita-a-mano-por-yeison-jimenez-que-fue-hallada-dos-meses-despues-de-su-muerte-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d1da799/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F51%2F34%2F98c7eb344f1fb07900aa13c587d4%2Fplantilla-fotos-81.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
     }
   ],
-  "lastUpdate": "2026-03-11T21:33:57.461Z"
+  "lastUpdate": "2026-03-11T22:27:41.377Z"
 };
