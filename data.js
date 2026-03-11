@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "654,50"
+      "usdt": "657,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUD DENUNCIA «PACTO» PARA DESIGNACIÓN DE LOS NUEVOS FISCAL Y DEFENSOR DEL PUEBLO ",
-      "link": "https://noticierodigital.com/2026/03/pud-denuncia-pacto-para-designacion-de-los-nuevos-fiscal-y-defensor-del-pueblo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
+      "title": "EDITOR PDF: CÓMO UN POTENTE EDITOR TRANSFORMA TU FLUJO DE TRABAJO DIARIO",
+      "link": "https://noticierodigital.com/2026/03/editor-pdf-como-un-potente-editor-transforma-tu-flujo-de-trabajo-diario/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260311-WA0098-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Detienen a venezolano en México por robo en casa de la artista Susana Zabaleta",
       "link": "https://laverdad.com/detienen-a-venezolano-en-mexico-por-robo-en-casa-de-la-artista-susana-zabaleta/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Adrian-David.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV llama a rezar por víctimas en Irán y Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-llama-a-rezar-por-victimas-en-iran-y-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/papa-leon-xiv-en-audiencia-general-del-13-de-agosto-01-750x430.jpg"
+      "title": "Mojtaba Jamenei resulta herido durante conflicto mientras asume liderazgo en Irán",
+      "link": "https://diarioversionfinal.com/mundo/mojtaba-jamenei-resulta-herido-durante-conflicto-mientras-asume-liderazgo-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/81f6a6b952eae677a4c5d6032c5358a802ea17c4w-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-11T14:46:23.995Z"
+  "lastUpdate": "2026-03-11T15:50:14.514Z"
 };
