@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "438,20",
-      "eur": "510,21"
+      "usd": "440,97",
+      "eur": "510,49"
     },
     "binance": {
-      "usdt": "659,89"
+      "usdt": "657,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -17,12 +17,6 @@ window.DASHBOARD_DATA = {
       "title": "La ministra de Salud de Venezuela confirmó muertes por fiebre amarilla pero evitó dar cifras para no generar “pánico”",
       "link": "https://www.infobae.com/venezuela/2026/03/11/la-ministra-de-salud-de-venezuela-confirmo-muertes-por-fiebre-amarilla-pero-evito-dar-cifras-para-no-generar-panico/",
       "image": "https://www.infobae.com/resizer/v2/OI7KFEI3YJEV5AWPSNIOXUC27E.jpg?auth=93b0c1a93b1ff8a59124fe69dbf7950c256e4e6d6efdaa3d9cc2a5fa57d97efc&smart=true&width=350&height=197&quality=85"
-    },
-    {
-      "source": "El Nacional",
-      "title": "\"No podía creer que mi torturador viviera libremente en EE.UU.\": los venezolanos que reconocieron en una telenovela al militar presunto responsable de sus detenciones\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/no-podia-creer-que-mi-torturador-viviera-libremente-en-ee-uu-los-venezolanos-que-reconocieron-en-una-telenovela-al-militar-presunto-responsable-de-sus-detenciones/",
-      "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
@@ -38,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PDVSA REPARARÁ TRAMO DEL GASODUCTO BINACIONAL PARA EXPORTAR GAS A COLOMBIA: REUTERS",
-      "link": "https://noticierodigital.com/2026/03/pdvsa-reparara-tramo-del-gasoducto-binacional-para-exportar-gas-a-colombia-reuters/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
+      "title": "LLEGÓ A MAIQUETÍA NUEVO VUELO CON 270 VENEZOLANOS DEPORTADOS DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/03/llego-a-maiquetia-nuevo-vuelo-con-270-venezolanos-deportados-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-de-deportacion-venezolanos-eeuu-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump afirma que destruyó casi todos los barcos minadores iraníes en Ormuz en una noche",
-      "link": "https://laverdad.com/trump-afirma-que-destruyo-casi-todos-los-barcos-minadores-iranies-en-ormuz-en-una-noche/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Trump-anuncia-que-ha-destruido-10-barcos-minadores-iranies.jpg"
+      "title": "The New York Times: Gobierno de Trump busca la extradición de Alex Saab",
+      "link": "https://laverdad.com/the-new-york-times-gobierno-de-trump-busca-la-extradicion-de-alex-saab/",
+      "image": "https://laverdad.com/wp-content/uploads/2024/10/Alex-Saab.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
     }
   ],
-  "lastUpdate": "2026-03-11T20:34:58.384Z"
+  "lastUpdate": "2026-03-11T21:33:57.461Z"
 };
