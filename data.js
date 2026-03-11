@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "658,60"
+      "usdt": "627,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estudio revela que mayoría de votantes en Estados Unidos desaprueba la gestión de Trump",
-      "link": "https://diarioversionfinal.com/mundo/estudio-revela-que-mayoria-de-votantes-en-estados-unidos-desaprueba-la-gestion-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
+      "title": "Aruba evalúa posible restitución del tráfico aéreo con Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/aruba-evalua-posible-restitucion-del-trafico-aereo-con-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1051-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-11T04:43:46.454Z"
+  "lastUpdate": "2026-03-11T05:50:02.949Z"
 };
