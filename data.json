@@ -5,7 +5,7 @@
       "eur": "510,21"
     },
     "binance": {
-      "usdt": "654,40"
+      "usdt": "659,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Atacan buques cerca del estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-11-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/putin-20260311073207338.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "EE.UU. sería el responsable del ataque contra una escuela iraní, según fuentes",
+      "link": "https://cnnespanol.cnn.com/2026/03/11/eeuu/ataque-escuela-iran-informe-civiles-muertos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26059720229863-20260311193557191.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "SE ACABA EL TIEMPO PARA QUE VENEZOLANOS DECLAREN SUS CRIPTOMONEDAS ANTE EL SENIAT",
-      "link": "https://noticierodigital.com/2026/03/se-acaba-el-tiempo-para-que-venezolanos-declaren-sus-criptomonedas-ante-el-seniat/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/seniat-referencial-627x376.jpg"
+      "title": "PDVSA REPARARÁ TRAMO DEL GASODUCTO BINACIONAL PARA EXPORTAR GAS A COLOMBIA: REUTERS",
+      "link": "https://noticierodigital.com/2026/03/pdvsa-reparara-tramo-del-gasoducto-binacional-para-exportar-gas-a-colombia-reuters/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Petro condiciona corredor humanitario para venezolanos a cambio de “respeto” de Noboa",
-      "link": "https://laverdad.com/petro-condiciona-corredor-humanitario-para-venezolanos-a-cambio-de-respeto-de-noboa/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Frontera-entre-Colombia-y-Ecuador-1.jpg"
+      "title": "Trump afirma que destruyó casi todos los barcos minadores iraníes en Ormuz en una noche",
+      "link": "https://laverdad.com/trump-afirma-que-destruyo-casi-todos-los-barcos-minadores-iranies-en-ormuz-en-una-noche/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Trump-anuncia-que-ha-destruido-10-barcos-minadores-iranies.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump amenaza a España con embargo por falta de cooperación en Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-a-espana-con-embargo-por-falta-de-cooperacion-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/08th-Jan-2025.-President-Elect-Donald-Trump-gives-remarks-after-meeting-with-Senate-Republicans-Aaron-SchwartzSipa-USA-Credit-Sipa-USAlamy-scaled-1-750x430.jpg"
+      "title": "ONU advierte que discursos de Trump contra migrantes generan graves violaciones",
+      "link": "https://diarioversionfinal.com/mundo/onu-advierte-que-discursos-de-trump-contra-migrantes-generan-graves-violaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
     }
   ],
-  "lastUpdate": "2026-03-11T19:41:35.990Z"
+  "lastUpdate": "2026-03-11T20:34:58.384Z"
 }
