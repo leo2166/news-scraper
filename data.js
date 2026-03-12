@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "659,50"
+      "usdt": "645,12"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La ministra de Salud de Venezuela confirmó muertes por fiebre amarilla pero evitó dar cifras para no generar “pánico”",
-      "link": "https://www.infobae.com/venezuela/2026/03/11/la-ministra-de-salud-de-venezuela-confirmo-muertes-por-fiebre-amarilla-pero-evito-dar-cifras-para-no-generar-panico/",
-      "image": "https://www.infobae.com/resizer/v2/OI7KFEI3YJEV5AWPSNIOXUC27E.jpg?auth=93b0c1a93b1ff8a59124fe69dbf7950c256e4e6d6efdaa3d9cc2a5fa57d97efc&smart=true&width=350&height=197&quality=85"
+      "title": "Derechos humanos y elecciones libres: el reclamo venezolano de 26 ONGs ante el encuentro Petro-Rodríguez",
+      "link": "https://www.infobae.com/venezuela/2026/03/12/derechos-humanos-y-elecciones-libres-el-reclamo-venezolano-de-26-ongs-ante-el-encuentro-petro-rodriguez/",
+      "image": "https://www.infobae.com/resizer/v2/KRCJY4GADFE6FNTZVVIESHT6KE.jpg?auth=bd8e052c095073d08af614bc63ca47123a2e4a92f73614e1d673cb86e435af51&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -27,7 +27,7 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "Irán ataca instalaciones y barcos petroleros en todo el Golfo",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-11-trax",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-12-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-ataque-20260311020540147.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "The New York Times: Gobierno de Trump busca la extradición de Alex Saab",
       "link": "https://laverdad.com/the-new-york-times-gobierno-de-trump-busca-la-extradicion-de-alex-saab/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2024/10/Alex-Saab.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17732599524124.webp"
     }
   ],
-  "lastUpdate": "2026-03-12T09:43:17.241Z"
+  "lastUpdate": "2026-03-12T10:39:31.556Z"
 };
