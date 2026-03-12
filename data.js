@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "661,89"
+      "usdt": "659,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Se intensifican los ataques a buques en el estrecho de Ormuz",
+      "title": "Irán ataca instalaciones y barcos petroleros en todo el Golfo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-11-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-ataque-20260311020540147.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela rechaza exploración sísmica unilateral de Guyana en áreas marítimas",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-rechaza-exploracion-sismica-unilateral-de-guyana-en-areas-maritimas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/yvan-gil-1367-6d9548.jpg"
+      "title": "Libertad plena para Rafael Tudares Bracho bajo la Ley de Amnistía",
+      "link": "https://noticiasvenevision.com/noticias/politica/libertad-plena-para-rafael-tudares-bracho-bajo-la-ley-de-amnistia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rafael-tudares-audiencia-preliminar-12-junio-19bb35.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO DENUNCIÓ SUPUESTA CAMPAÑA PARA DIVIDIR AL CHAVISMO POR RELACIONES CON EE. UU.",
-      "link": "https://noticierodigital.com/2026/03/cabello-denuncio-supuesta-campana-para-dividir-al-chavismo-por-relaciones-con-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diosdado-Cabello-627x376.jpg"
+      "title": "VENEZUELA RECHAZÓ CAMPAÑA DE EXPLORACIÓN SÍSMICA DE GUYANA EN AGUAS EN DISPUTA",
+      "link": "https://noticierodigital.com/2026/03/venezuela-rechazo-campana-de-exploracion-sismica-de-guyana-en-aguas-en-disputa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/12/cancilleria-casa-amarilla-10dic2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos reconoce a Delcy Rodríguez ante tribunales y le otorga representación legal de Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-reconoce-a-delcy-rodriguez-ante-tribunales-y-le-otorga-representacion-legal-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Delcy-Rodriguez-19-01-2026-750x430.jpg"
+      "title": "Trump asegura que Estados Unidos “ya ganó” la guerra con Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-estados-unidos-ya-gano-la-guerra-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-12T02:08:49.402Z"
+  "lastUpdate": "2026-03-12T04:47:41.612Z"
 };
