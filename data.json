@@ -5,7 +5,7 @@
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "650,69"
+      "usdt": "652,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Derechos humanos y elecciones libres: el reclamo venezolano de 26 ONGs ante el encuentro Petro-Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/03/12/derechos-humanos-y-elecciones-libres-el-reclamo-venezolano-de-26-ongs-ante-el-encuentro-petro-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/KRCJY4GADFE6FNTZVVIESHT6KE.jpg?auth=bd8e052c095073d08af614bc63ca47123a2e4a92f73614e1d673cb86e435af51&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado afirmó que regresará a Venezuela “en el contexto de un gran acuerdo nacional”",
+      "link": "https://www.infobae.com/venezuela/2026/03/12/maria-corina-machado-afirmo-que-regresara-a-venezuela-en-el-contexto-de-un-gran-acuerdo-nacional/",
+      "image": "https://www.infobae.com/resizer/v2/HUZNVVRMT5AQTFEVQIZJNHYVPQ.jpg?auth=63efbdbe89bd6c24200ac35e2fac48044a2b071403f6747a161c7ef770729f75&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado: “En Venezuela los jueces son presos políticos”\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-en-venezuela-los-jueces-son-presos-politicos/",
+      "title": "Misión Internacional sobre Venezuela: \"No se requiere de la Ley de Amnistía para excarcelar al que ha sido privado ilegítimamente de su libertad\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/mision-internacional-sobre-venezuela-no-se-requiere-de-la-ley-de-amnistia-para-excarcelar-al-que-ha-sido-privado-ilegitimamente-de-su-libertad/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Libertad plena para Rafael Tudares Bracho bajo la Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/libertad-plena-para-rafael-tudares-bracho-bajo-la-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rafael-tudares-audiencia-preliminar-12-junio-19bb35.png"
+      "title": "Delcy Rodríguez: \"Reconocimiento legal de EE. UU. no es a una persona, es a todo el país\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-reconocimiento-legal-de-ee-uu-no-es-a-una-persona-es-a-todo-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_delcy-rodriguez-a3dd3d.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Primeras imágenes de Wadith Manzur tras ser capturado por escándalo de la UNGRD",
-      "link": "https://www.noticiascaracol.com/judicial/primeras-imagenes-de-wadith-manzur-tras-ser-capturado-por-escandalo-de-la-ungrd-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/227e56d/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F42%2F87%2F4caa67e1406a9eff1e302804c0aa%2Fmanzur-capturado.jpg"
+      "title": "Paloma Valencia confirma a Juan Daniel Oviedo como su fórmula vicepresidencial",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/paloma-valencia-confirma-a-juan-daniel-oviedo-como-su-formula-vicepresidencial-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/880c5dc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F86%2F31%2Fbaefefdd4d2daf03767e18655ad7%2Fpaloma-valencia-y-juan-daniel-oviedo-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Al menos 12 muertos y 28 heridos deja el peor ataque israelí en Beirut",
-      "link": "https://laverdad.com/al-menos-12-muertos-y-28-heridos-deja-el-peor-ataque-israeli-en-beirut/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-Israel-Beirut.jpg"
+      "title": "Presidente de Chile firma decreto contra la migración irregular",
+      "link": "https://laverdad.com/presidente-de-chile-firma-decreto-contra-la-migracion-irregular/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jose-Antonio-Kast.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Mojtaba Jameneí aboga por cerrar el estrecho de Ormuz y vengar muertes en la guerra",
-      "link": "https://diarioversionfinal.com/mundo/mojtaba-jamenei-aboga-por-cerrar-el-estrecho-de-ormuz-y-vengar-muertes-en-la-guerra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/b187004d14e09d96a3ce18e25dbe2d77-750x430.webp"
+      "title": "Rick Scott prevé elecciones “libres y justas” en Venezuela en un año",
+      "link": "https://diarioversionfinal.com/mundo/rick-scott-preve-elecciones-libres-y-justas-en-venezuela-en-un-ano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/b722668ede633494bf53b2cd385f1a6a8175fb5b-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-12T16:05:10.523Z"
+  "lastUpdate": "2026-03-12T17:49:38.205Z"
 }
