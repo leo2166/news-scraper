@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "645,12"
+      "usdt": "656,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Irán ataca instalaciones y barcos petroleros en todo el Golfo",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-12-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-ataque-20260311020540147.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266026800-20260312044303171.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17732599524124.webp"
     }
   ],
-  "lastUpdate": "2026-03-12T10:39:31.556Z"
+  "lastUpdate": "2026-03-12T11:32:13.536Z"
 };
