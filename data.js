@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "657,00"
+      "usdt": "656,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Misión de la ONU reitera petición de ingreso a Venezuela: “Es la forma más clara de demostrar transparencia”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/mision-de-la-onu-reitera-peticion-de-ingreso-a-venezuela-es-la-forma-mas-clara-de-demostrar-transparencia/",
+      "title": "De la Morelos a la esquina caliente: trabajadores llevaron su reclamo por un salario justo hasta la Asamblea Nacional\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/trabajadores-salario-reclamo-asamblea-nacional/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TENDENCIAS 2026 EN NUEVOS CASINOS ONLINE: MÁS INTERACCIÓN, MÁS NARRATIVA Y MENOS ESTRUCTURA TRADICIONAL",
-      "link": "https://noticierodigital.com/2026/03/tendencias-2026-en-nuevos-casinos-online-mas-interaccion-mas-narrativa-y-menos-estructura-tradicional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260312-WA0203-627x376.jpg"
+      "title": "PETRO Y TRUMP SOSTUVIERON CONVERSACIÓN TELEFÓNICA PREVIA A REUNIÓN CON DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/03/petro-y-trump-sostuvieron-conversacion-telefonica-previa-a-reunion-con-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-donald-trump-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/scottrick_120722gn2_w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-12T20:36:17.408Z"
+  "lastUpdate": "2026-03-12T21:33:22.330Z"
 };
