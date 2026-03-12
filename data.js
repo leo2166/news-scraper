@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "659,00"
+      "usdt": "628,09"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que Estados Unidos “ya ganó” la guerra con Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-estados-unidos-ya-gano-la-guerra-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/IMG_0205-750x430.jpeg"
+      "title": "Israel bombardea “a gran escala” el Dahye en Beirut tras el último ataque de Hezbolá",
+      "link": "https://diarioversionfinal.com/mundo/israel-bombardea-a-gran-escala-el-dahye-en-beirut-tras-el-ultimo-ataque-de-hezbola/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17732599524124.webp"
     }
   ],
-  "lastUpdate": "2026-03-12T04:47:41.612Z"
+  "lastUpdate": "2026-03-12T05:52:10.401Z"
 };
