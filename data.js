@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "656,00"
+      "usdt": "625,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "De la Morelos a la esquina caliente: trabajadores llevaron su reclamo por un salario justo hasta la Asamblea Nacional\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/trabajadores-salario-reclamo-asamblea-nacional/",
+      "title": "Así fue el encuentro de María Corina Machado con la diáspora venezolana en Chile: \"Es el inicio de una nueva etapa\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/asi-fue-el-encuentro-de-maria-corina-machado-con-la-diaspora-venezolana-en-chile-es-el-inicio-de-una-nueva-etapa/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Academia Nacional de la Historia respalda postulación de Magaly Vásquez González a la Fiscalía General",
-      "link": "https://noticiasvenevision.com/noticias/politica/academia-nacional-de-la-historia-respalda-postulacion-de-magaly-vasquez-gonzalez-a-la-fiscalia-general",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-23b304.jpg"
+      "title": "Venezuela y Colombia posponen encuentro presidencial en la frontera",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-colombia-posponen-encuentro-presidencial-en-la-frontera",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-02-18-at-17-10-02-50fe77.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ENCUENTRO ENTRE DELCY RODRÍGUEZ Y GUSTAVO PETRO FUE CANCELADO",
-      "link": "https://noticierodigital.com/2026/03/encuentro-entre-delcy-rodriguez-y-gustavo-petro-fue-cancelado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-delcy-rodriguez-627x376.jpg"
+      "title": "UN INFORME DE IPYS REPORTÓ EL BLOQUEO A 43 MEDIOS DE COMUNICACIÓN EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/un-informe-de-ipys-reporto-el-bloqueo-a-43-medios-de-comunicacion-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/censura-prensa-libre.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum garantiza celebración del Mundial 2026 pese a \"mínimo riesgo de terrorismo\"",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-garantiza-celebracion-del-mundial-2026-pese-a-minimo-riesgo-de-terrorismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/sheinbaum-cancela-conferencia-mananera-1-septiembre-2025-750x430.jpeg"
+      "title": "\"Operación Furia Épica\": Estados Unidos destruyó 6 mil objetivos estratégicos iraníes",
+      "link": "https://diarioversionfinal.com/mundo/operacion-furia-epica-estados-unidos-destruyo-6-mil-objetivos-estrategicos-iranies/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/29fe168a5b766d43eba93e1de7dac719-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-12T22:27:09.472Z"
+  "lastUpdate": "2026-03-12T23:28:54.384Z"
 };
