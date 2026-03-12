@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "Trabajadores protestan para exigir aumento salarial tras cuatro años sin ajuste\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/trabajadores-protestan-para-exigir-aumento-salarial-tras-cuatro-anos-sin-ajuste/",
+      "title": "Misión de la ONU reitera petición de ingreso a Venezuela: “Es la forma más clara de demostrar transparencia”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/mision-de-la-onu-reitera-peticion-de-ingreso-a-venezuela-es-la-forma-mas-clara-de-demostrar-transparencia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Nuevo líder supremo dice que el estrecho de Ormuz seguirá cerrado",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-12-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-nuevo.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. reconoce a Delcy Rodríguez como “única jefa de Estado” en Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/03/12/venezuela/trump-reconocimiento-oficial-delcy-rodriguez-venezuela-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/delcy-rodriguez-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +37,22 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_delcy-rodriguez-a3dd3d.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "TENDENCIAS 2026 EN NUEVOS CASINOS ONLINE: MÁS INTERACCIÓN, MÁS NARRATIVA Y MENOS ESTRUCTURA TRADICIONAL",
+      "link": "https://noticierodigital.com/2026/03/tendencias-2026-en-nuevos-casinos-online-mas-interaccion-mas-narrativa-y-menos-estructura-tradicional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260312-WA0203-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "¿Qué pasará con curules de Wadith Manzur y Karen Manrique tras ser capturados por caso UNGRD?",
-      "link": "https://www.noticiascaracol.com/politica/que-pasara-con-curules-de-wadith-manzur-y-karen-manrique-tras-ser-capturados-por-caso-ungrd-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b71df0a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc2%2F9f%2Fba255c284344bd4579b3e22d2ec3%2Fmanzur-manrique-captura.jpg"
+      "title": "Elecciones 2026: lista de los candidatos a la Presidencia y sus fórmulas a la Vicepresidencia",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/elecciones-2026-lista-de-los-candidatos-a-la-presidencia-y-sus-formulas-a-la-vicepresidencia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/083d5f1/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F31%2Faa%2Fe03e6f5640139c7488e44938847e%2Fcasa-de-narino.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Venezolano enfrenta cargos federales tras agredir a un agente en Michigan",
-      "link": "https://laverdad.com/venezolano-enfrenta-cargos-federales-tras-agredir-a-un-agente-en-michigan/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/situacion-migratoria-del-detenido-Arnoldo-Jose-Marquez-Pulido.jpg"
+      "title": "Israel inicia una nueva “gran oleada de ataques” contra Teherán",
+      "link": "https://laverdad.com/israel-inicia-una-nueva-gran-oleada-de-ataques-contra-teheran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Israel-inicia-una-nueva-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/scottrick_120722gn2_w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-12T19:42:49.506Z"
+  "lastUpdate": "2026-03-12T20:36:17.408Z"
 }
