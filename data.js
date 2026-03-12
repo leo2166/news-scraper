@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "656,89"
+      "usdt": "653,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,22 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rafael-tudares-audiencia-preliminar-12-junio-19bb35.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA RECHAZÓ CAMPAÑA DE EXPLORACIÓN SÍSMICA DE GUYANA EN AGUAS EN DISPUTA",
-      "link": "https://noticierodigital.com/2026/03/venezuela-rechazo-campana-de-exploracion-sismica-de-guyana-en-aguas-en-disputa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/12/cancilleria-casa-amarilla-10dic2020.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Iván Cepeda dice por qué eligió a Quilcué como fórmula vicepresidencial: \"Nos honra como pueblo\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-inscribe-candidatura-a-la-presidencia-junto-a-su-formula-vicepresidencial-aida-quilcue-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/14fbb3a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F3b%2Fe94c56d848fea0e308e14782a588%2Fivan-cepeda-2.jpg"
+      "title": "Sergio Fajardo anuncia su fórmula vicepresidencial: Edna Bonilla, ex secretaria de Educación Bogotá",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/sergio-fajardo-anuncia-su-formula-vicepresidencial-edna-bonilla-ex-secretaria-de-educacion-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dab06e8/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5d%2Fb0%2Fc95b78a94b6387c747e74ff834aa%2Fsergio-fajardo-y-edna-bonilla.jpg"
     },
     {
       "source": "La Verdad",
       "title": "The New York Times: Gobierno de Trump busca la extradición de Alex Saab",
       "link": "https://laverdad.com/the-new-york-times-gobierno-de-trump-busca-la-extradicion-de-alex-saab/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/10/Alex-Saab.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17732599524124.webp"
     }
   ],
-  "lastUpdate": "2026-03-12T11:32:13.536Z"
+  "lastUpdate": "2026-03-12T13:01:26.011Z"
 };
