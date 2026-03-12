@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "655,00"
+      "usdt": "657,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Misión de la ONU sobre Venezuela: \"No se requiere de la Ley de Amnistía para excarcelar al que ha sido privado ilegítimamente de su libertad\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/mision-internacional-sobre-venezuela-no-se-requiere-de-la-ley-de-amnistia-para-excarcelar-al-que-ha-sido-privado-ilegitimamente-de-su-libertad/",
+      "title": "Trabajadores protestan para exigir aumento salarial tras cuatro años sin ajuste\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/trabajadores-protestan-para-exigir-aumento-salarial-tras-cuatro-anos-sin-ajuste/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,16 +37,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_delcy-rodriguez-a3dd3d.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "REUNIÓN ENTRE DELCY RODRÍGUEZ Y PETRO TIENE LA «BENDICIÓN» DE EE .UU., DIJO EXCANCILLER",
-      "link": "https://noticierodigital.com/2026/03/reunion-entre-delcy-rodriguez-y-petro-tiene-la-bendicion-de-ee-uu-dijo-excanciller/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260310-WA00831-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Elecciones 2026: lista de los candidatos a la Presidencia y sus fórmulas a la Vicepresidencia",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/elecciones-2026-lista-de-los-candidatos-a-la-presidencia-y-sus-formulas-a-la-vicepresidencia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/083d5f1/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F31%2Faa%2Fe03e6f5640139c7488e44938847e%2Fcasa-de-narino.jpg"
+      "title": "¿Qué pasará con curules de Wadith Manzur y Karen Manrique tras ser capturados por caso UNGRD?",
+      "link": "https://www.noticiascaracol.com/politica/que-pasara-con-curules-de-wadith-manzur-y-karen-manrique-tras-ser-capturados-por-caso-ungrd-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b71df0a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc2%2F9f%2Fba255c284344bd4579b3e22d2ec3%2Fmanzur-manrique-captura.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/scottrick_120722gn2_w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-12T18:55:16.518Z"
+  "lastUpdate": "2026-03-12T19:42:49.506Z"
 };
