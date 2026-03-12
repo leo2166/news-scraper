@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "648,00"
+      "usdt": "659,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Electricidad, almacenamiento y personal: los retos de la industria petrolera venezolana\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/electricidad-almacenamiento-y-personal-los-retos-de-la-industria-petrolera-venezolana/",
+      "title": "El dilema del salario en Venezuela: entre la inviabilidad técnica y la urgencia social\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/el-dilema-del-salario-en-venezuela-entre-la-inviabilidad-tecnica-y-la-urgencia-social/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "The New York Times: Gobierno de Trump busca la extradición de Alex Saab",
       "link": "https://laverdad.com/the-new-york-times-gobierno-de-trump-busca-la-extradicion-de-alex-saab/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/10/Alex-Saab.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17732599524124.webp"
     }
   ],
-  "lastUpdate": "2026-03-12T08:42:59.309Z"
+  "lastUpdate": "2026-03-12T09:43:17.241Z"
 };
