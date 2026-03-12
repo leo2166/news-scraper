@@ -5,7 +5,7 @@
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "653,00"
+      "usdt": "622,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "El dilema del salario en Venezuela: entre la inviabilidad técnica y la urgencia social\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/el-dilema-del-salario-en-venezuela-entre-la-inviabilidad-tecnica-y-la-urgencia-social/",
+      "title": "María Corina Machado: “En Venezuela los jueces son presos políticos”\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-en-venezuela-los-jueces-son-presos-politicos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán ataca instalaciones y barcos petroleros en todo el Golfo",
+      "title": "Nuevo líder supremo dice que el estrecho de Ormuz seguirá cerrado",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-12-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266026800-20260312044303171.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ayatola-nuevo.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -46,14 +46,14 @@
       "source": "La Verdad",
       "title": "The New York Times: Gobierno de Trump busca la extradición de Alex Saab",
       "link": "https://laverdad.com/the-new-york-times-gobierno-de-trump-busca-la-extradicion-de-alex-saab/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2024/10/Alex-Saab.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel bombardea “a gran escala” el Dahye en Beirut tras el último ataque de Hezbolá",
-      "link": "https://diarioversionfinal.com/mundo/israel-bombardea-a-gran-escala-el-dahye-en-beirut-tras-el-ultimo-ataque-de-hezbola/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17732599524124.webp"
+      "title": "Acnur estima que la guerra en Medio Oriente suma 3,2 millones de desplazados en Irán",
+      "link": "https://diarioversionfinal.com/mundo/acnur-estima-que-la-guerra-en-medio-oriente-suma-32-millones-de-desplazados-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69ae98f59ac5b.r_d.992-717-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-12T13:01:26.011Z"
+  "lastUpdate": "2026-03-12T14:49:23.332Z"
 }
