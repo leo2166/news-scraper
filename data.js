@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,49"
     },
     "binance": {
-      "usdt": "622,80"
+      "usdt": "650,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,23 +37,29 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rafael-tudares-audiencia-preliminar-12-junio-19bb35.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "GREMIOS LABORALES MARCHAN ESTE JUEVES EN CARACAS POR AUMENTO SALARIAL",
+      "link": "https://noticierodigital.com/2026/03/gremios-laborales-marchan-este-jueves-en-caracas-por-aumento-salarial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-14-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Sergio Fajardo anuncia su fórmula vicepresidencial: Edna Bonilla, ex secretaria de Educación Bogotá",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/sergio-fajardo-anuncia-su-formula-vicepresidencial-edna-bonilla-ex-secretaria-de-educacion-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dab06e8/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5d%2Fb0%2Fc95b78a94b6387c747e74ff834aa%2Fsergio-fajardo-y-edna-bonilla.jpg"
+      "title": "Primeras imágenes de Wadith Manzur tras ser capturado por escándalo de la UNGRD",
+      "link": "https://www.noticiascaracol.com/judicial/primeras-imagenes-de-wadith-manzur-tras-ser-capturado-por-escandalo-de-la-ungrd-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/227e56d/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F42%2F87%2F4caa67e1406a9eff1e302804c0aa%2Fmanzur-capturado.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "The New York Times: Gobierno de Trump busca la extradición de Alex Saab",
-      "link": "https://laverdad.com/the-new-york-times-gobierno-de-trump-busca-la-extradicion-de-alex-saab/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/10/Alex-Saab.jpg"
+      "title": "Al menos 12 muertos y 28 heridos deja el peor ataque israelí en Beirut",
+      "link": "https://laverdad.com/al-menos-12-muertos-y-28-heridos-deja-el-peor-ataque-israeli-en-beirut/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-Israel-Beirut.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Acnur estima que la guerra en Medio Oriente suma 3,2 millones de desplazados en Irán",
-      "link": "https://diarioversionfinal.com/mundo/acnur-estima-que-la-guerra-en-medio-oriente-suma-32-millones-de-desplazados-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69ae98f59ac5b.r_d.992-717-750x430.webp"
+      "title": "Mojtaba Jameneí aboga por cerrar el estrecho de Ormuz y vengar muertes en la guerra",
+      "link": "https://diarioversionfinal.com/mundo/mojtaba-jamenei-aboga-por-cerrar-el-estrecho-de-ormuz-y-vengar-muertes-en-la-guerra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/b187004d14e09d96a3ce18e25dbe2d77-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-12T14:49:23.332Z"
+  "lastUpdate": "2026-03-12T16:05:10.523Z"
 };
