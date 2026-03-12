@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "440,97",
-      "eur": "510,49"
+      "usd": "443,26",
+      "eur": "510,34"
     },
     "binance": {
-      "usdt": "656,69"
+      "usdt": "656,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez: \"Reconocimiento legal de EE. UU. no es a una persona, es a todo el país\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-reconocimiento-legal-de-ee-uu-no-es-a-una-persona-es-a-todo-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_delcy-rodriguez-a3dd3d.jpg"
+      "title": "Academia Nacional de la Historia respalda postulación de Magaly Vásquez González a la Fiscalía General",
+      "link": "https://noticiasvenevision.com/noticias/politica/academia-nacional-de-la-historia-respalda-postulacion-de-magaly-vasquez-gonzalez-a-la-fiscalia-general",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-23b304.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PETRO Y TRUMP SOSTUVIERON CONVERSACIÓN TELEFÓNICA PREVIA A REUNIÓN CON DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/03/petro-y-trump-sostuvieron-conversacion-telefonica-previa-a-reunion-con-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-donald-trump-627x376.jpg"
+      "title": "ENCUENTRO ENTRE DELCY RODRÍGUEZ Y GUSTAVO PETRO FUE CANCELADO",
+      "link": "https://noticierodigital.com/2026/03/encuentro-entre-delcy-rodriguez-y-gustavo-petro-fue-cancelado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-delcy-rodriguez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Elecciones 2026: lista de los candidatos a la Presidencia y sus fórmulas a la Vicepresidencia",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/elecciones-2026-lista-de-los-candidatos-a-la-presidencia-y-sus-formulas-a-la-vicepresidencia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/083d5f1/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F31%2Faa%2Fe03e6f5640139c7488e44938847e%2Fcasa-de-narino.jpg"
+      "title": "Delcy Rodríguez cancela su visita a Colombia para reunirse con Gustavo Petro",
+      "link": "https://www.noticiascaracol.com/mundo/delcy-rodriguez-cancela-su-visita-a-colombia-para-reunirse-con-gustavo-petro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cdd18cd/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F22%2Fb809a51c4aac9831092f2ccf6a89%2Fdelcy-rodriguez-gustavo-petro.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rick Scott prevé elecciones “libres y justas” en Venezuela en un año",
-      "link": "https://diarioversionfinal.com/mundo/rick-scott-preve-elecciones-libres-y-justas-en-venezuela-en-un-ano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/scottrick_120722gn2_w-750x430.jpg"
+      "title": "Sheinbaum garantiza celebración del Mundial 2026 pese a \"mínimo riesgo de terrorismo\"",
+      "link": "https://diarioversionfinal.com/mundo/sheinbaum-garantiza-celebracion-del-mundial-2026-pese-a-minimo-riesgo-de-terrorismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/sheinbaum-cancela-conferencia-mananera-1-septiembre-2025-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-12T21:33:22.330Z"
+  "lastUpdate": "2026-03-12T22:27:09.472Z"
 }
