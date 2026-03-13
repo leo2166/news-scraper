@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "443,26",
-      "eur": "510,34"
+      "usd": "446,80",
+      "eur": "511,22"
     },
     "binance": {
-      "usdt": "653,69"
+      "usdt": "655,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,33 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Mueren los 6 tripulantes a bordo de un avión de EE.UU. que se estrelló en Iraq",
+      "title": "Irán evalúa condiciones para permitir el paso de petróleo por el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-13-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/entdetention001-gettyimages-2260423639-20260313110835666.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26070637683164-20260313213058663.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez firma acuerdo con la empresa española Repsol y con la italiana Eni",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-firma-acuerdo-con-la-empresa-espanola-repsol-y-con-la-italiana-eni",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/d2dc46f8-52dd-406e-b04f-6b320ab73338-599d68.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "EE. UU. OFRECE HASTA $10 MILLONES POR INFORMACIÓN QUE LLEVE A LÍDERES DE IRÁN",
-      "link": "https://noticierodigital.com/2026/03/ee-uu-ofrece-hasta-10-millones-por-informacion-que-lleve-a-lideres-de-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/casa-blanca-e1584564187663.jpg"
+      "title": "Delegación colombiana de alto nivel llega a Miraflores para reunirse con autoridades venezolanas",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-colombiana-de-alto-nivel-llega-a-miraflores-para-reunirse-con-autoridades-venezolanas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/palacio-de-miraflores-768x461-1-a46e5a.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gobierno de Cuba confirma \"conversaciones\" con representantes de Estados Unidos",
-      "link": "https://www.noticiascaracol.com/mundo/gobierno-de-cuba-confirma-conversaciones-con-representantes-de-estados-unidos-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/17cbea7/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F14%2Fde%2F600019924a1ea4036b7c6a533f4f%2Fcuba-y-estados-unidos.jpg"
+      "title": "Elecciones 2026: los candidatos a la Presidencia y quiénes son sus fórmulas a la Vicepresidencia",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/elecciones-2026-lista-de-los-candidatos-a-la-presidencia-y-sus-formulas-a-la-vicepresidencia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/441d7f5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F25%2F7b%2F750f935f49dd9ff358126237a701%2Fcandidatos-a-la-presidencia-colombia.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Netanyahu asegura que ataques a Irán continuarán y cuestiona el liderazgo de Mojtabá Jameneí",
-      "link": "https://laverdad.com/netanyahu-asegura-que-ataques-a-iran-continuaran-y-cuestiona-el-liderazgo-de-mojtaba-jamenei/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Netanyahu-cuestiona-el-liderazgo-de-Mojtaba-Jamenei-1.jpg"
+      "title": "Expresidente Bolsonaro es hospitalizado con bronconeumonía y sin previsión de alta",
+      "link": "https://laverdad.com/expresidente-bolsonaro-es-hospitalizado-con-bronconeumonia-y-sin-prevision-de-alta/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-5.15.27-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-13T20:35:33.940Z"
+  "lastUpdate": "2026-03-13T21:33:48.787Z"
 };
