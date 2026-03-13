@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "655,69"
+      "usdt": "625,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/d2dc46f8-52dd-406e-b04f-6b320ab73338-599d68.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PROVEA CUESTIONÓ LA TRANSPARENCIA DE LAS CIFRAS DE AMNISTÍA PRESENTADAS POR JORGE ARREAZA",
+      "link": "https://noticierodigital.com/2026/03/provea-cuestiono-la-transparencia-de-las-cifras-de-amnistia-presentadas-por-jorge-arreaza/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/oscar-murillo-2324124-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Delcy Rodríguez cancela su visita a Colombia para reunirse con Gustavo Petro",
-      "link": "https://www.noticiascaracol.com/mundo/delcy-rodriguez-cancela-su-visita-a-colombia-para-reunirse-con-gustavo-petro-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cdd18cd/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F22%2Fb809a51c4aac9831092f2ccf6a89%2Fdelcy-rodriguez-gustavo-petro.jpg"
+      "title": "Juan Daniel Oviedo reconoce que no podrá aspirar a Alcaldía de Bogotá: \"Debemos tomar una decisión\"",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/juan-daniel-oviedo-reconoce-que-no-podra-aspirar-a-alcaldia-de-bogota-debemos-tomar-una-decision-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0c24600/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2F7e%2F7f9d2512443f963b27345ee692b7%2Foviedo.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de Cuba liberará 51 prisioneros tras gestiones y diálogo con el Vaticano",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-de-cuba-liberara-51-prisioneros-tras-gestiones-y-dialogo-con-el-vaticano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/cq5dam.thumbnail.cropped.1500.844-750x430.jpeg"
+      "title": "Estados Unidos autoriza temporalmente importación de petróleo ruso ante crisis global energética",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-autoriza-temporalmente-importacion-de-petroleo-ruso-ante-crisis-global-energetica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69aa45c90ccf6-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-13T02:06:06.457Z"
+  "lastUpdate": "2026-03-13T04:44:36.527Z"
 };
