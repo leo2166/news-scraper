@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "653,00"
+      "usdt": "653,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "VE sin Filtro y sociedad civil exigieron a Conatel el fin del bloqueo en Internet\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/ve-sin-filtro-exigio-a-conatel-el-fin-del-bloqueo-en-internet/",
+      "title": "La advertencia de la Misión de la ONU en su actualización oral: la represión sobrevive al sismo interno amparada en una engañosa sensación de apertura\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/la-advertencia-de-la-mision-de-la-onu-en-su-actualizacion-oral-la-represion-sobrevive-al-sismo-interno-amparada-en-una-enganosa-sensacion-de-apertura/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Mueren los 6 tripulantes a bordo de un avión de EE.UU. que se estrelló en Iraq",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-13-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sebastian-marset.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/entdetention001-gettyimages-2260423639-20260313110835666.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Presidenta encargada Delcy Rodríguez firma acuerdo con la empresa española Repsol y con la italiana Eni",
       "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-firma-acuerdo-con-la-empresa-espanola-repsol-y-con-la-italiana-eni",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/d2dc46f8-52dd-406e-b04f-6b320ab73338-599d68.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "EE. UU. OFRECE HASTA $10 MILLONES POR INFORMACIÓN QUE LLEVE A LÍDERES DE IRÁN",
+      "link": "https://noticierodigital.com/2026/03/ee-uu-ofrece-hasta-10-millones-por-informacion-que-lleve-a-lideres-de-iran/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/casa-blanca-e1584564187663.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Capturan en EE. UU. a venezolano acusado de “atroces crímenes violentos” en Chile",
-      "link": "https://laverdad.com/capturan-en-ee-uu-a-venezolano-acusado-de-atroces-crimenes-violentos-en-chile/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/01/Departamento-Justicia-EstadosUnidos.avif"
+      "title": "Netanyahu asegura que ataques a Irán continuarán y cuestiona el liderazgo de Mojtabá Jameneí",
+      "link": "https://laverdad.com/netanyahu-asegura-que-ataques-a-iran-continuaran-y-cuestiona-el-liderazgo-de-mojtaba-jamenei/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Netanyahu-cuestiona-el-liderazgo-de-Mojtaba-Jamenei-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sismo de magnitud 6,5 sacude el norte de Chile sin dejar víctimas",
-      "link": "https://diarioversionfinal.com/mundo/sismo-de-magnitud-65-sacude-el-norte-de-chile-sin-dejar-victimas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/un-nuevo-recordatorio-de-la-fuerza-de-la-tierra-el-sismo-de-magnitud-7-4-en-el-extremo-sur-de-chile-1746319821463_512.jpg"
+      "title": "Encuesta da 7 puntos por encima a Paloma Valencia para segunda vuelta presidencial de Colombia",
+      "link": "https://diarioversionfinal.com/mundo/encuesta-da-7-puntos-por-encima-a-paloma-valencia-para-segunda-vuelta-presidencial-de-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-5.15.27-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-13T19:31:44.342Z"
+  "lastUpdate": "2026-03-13T20:35:33.940Z"
 };
