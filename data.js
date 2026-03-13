@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "625,95"
+      "usdt": "625,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Israel inicia una nueva “gran oleada de ataques” contra Teherán",
       "link": "https://laverdad.com/israel-inicia-una-nueva-gran-oleada-de-ataques-contra-teheran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Israel-inicia-una-nueva-1-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69aa45c90ccf6-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-13T06:55:23.513Z"
+  "lastUpdate": "2026-03-13T07:45:32.112Z"
 };
