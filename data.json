@@ -5,7 +5,7 @@
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "624,41"
+      "usdt": "625,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela firmó un acuerdo con Repsol para impulsar la producción de gas y asegurar el abastecimiento interno",
-      "link": "https://www.infobae.com/venezuela/2026/03/12/venezuela-firmo-un-acuerdo-con-repsol-para-impulsar-la-produccion-de-gas-y-asegurar-el-abastecimiento-interno/",
-      "image": "https://www.infobae.com/resizer/v2/ER467BDFOZC55NN7HVDSM2DPDI.PNG?auth=498e1ef2498ce24bb4193b1b96ef1e3255109dc731a7950d0d0ea97a99ae4b35&smart=true&width=350&height=197&quality=85"
+      "title": "Foro Penal abogó por la elección de nuevos titulares independientes en la Fiscalía General y la Defensoría del Pueblo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/13/foro-penal-abogo-por-la-eleccion-de-nuevos-titulares-independientes-en-la-fiscalia-general-y-la-defensoria-del-pueblo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/SLWXQKAJJRBZTO7ACAXJHGHHBU.jpg?auth=842ab529ce6bae8258209819a26e855c07d843e1d1773fb20cf0acd3954e1c8c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69aa45c90ccf6-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-13T05:50:08.486Z"
+  "lastUpdate": "2026-03-13T06:55:23.513Z"
 }
