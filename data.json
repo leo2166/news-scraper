@@ -5,7 +5,7 @@
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "654,40"
+      "usdt": "653,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/d2dc46f8-52dd-406e-b04f-6b320ab73338-599d68.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA RECHAZA PRETENSIONES DE GUYANA EN AGUAS POR DELIMITAR",
-      "link": "https://noticierodigital.com/2026/03/venezuela-rechaza-pretensiones-de-guyana-en-aguas-por-delimitar/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/yvan-gil-venezuela-1-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Gobierno de Cuba confirma \"conversaciones\" con representantes de Estados Unidos",
       "link": "https://www.noticiascaracol.com/mundo/gobierno-de-cuba-confirma-conversaciones-con-representantes-de-estados-unidos-cb20",
@@ -50,9 +44,9 @@
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno cubano confirma “conversaciones” con representantes de EE. UU.",
-      "link": "https://laverdad.com/gobierno-cubano-confirma-conversaciones-con-representantes-de-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Gobierno-de-Cuba.jpg"
+      "title": "Capturan en EE. UU. a venezolano acusado de “atroces crímenes violentos” en Chile",
+      "link": "https://laverdad.com/capturan-en-ee-uu-a-venezolano-acusado-de-atroces-crimenes-violentos-en-chile/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/01/Departamento-Justicia-EstadosUnidos.avif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/un-nuevo-recordatorio-de-la-fuerza-de-la-tierra-el-sismo-de-magnitud-7-4-en-el-extremo-sur-de-chile-1746319821463_512.jpg"
     }
   ],
-  "lastUpdate": "2026-03-13T18:42:48.670Z"
+  "lastUpdate": "2026-03-13T19:31:44.342Z"
 }
