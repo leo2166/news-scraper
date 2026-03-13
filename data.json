@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "655,69"
+      "usdt": "655,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "La advertencia de la Misión de la ONU en su actualización oral: la represión sobrevive al sismo interno amparada en una engañosa sensación de apertura\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/la-advertencia-de-la-mision-de-la-onu-en-su-actualizacion-oral-la-represion-sobrevive-al-sismo-interno-amparada-en-una-enganosa-sensacion-de-apertura/",
+      "title": "EE UU emite licencia para permitir a sus empresas explotar y comercializar crudo venezolano\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/ee-uu-emite-licencia-para-permitir-a-sus-empresas-explotar-y-comercializar-crudo-venezolano/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -35,6 +35,12 @@
       "title": "Delegación colombiana de alto nivel llega a Miraflores para reunirse con autoridades venezolanas",
       "link": "https://noticiasvenevision.com/noticias/politica/delegacion-colombiana-de-alto-nivel-llega-a-miraflores-para-reunirse-con-autoridades-venezolanas",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/palacio-de-miraflores-768x461-1-a46e5a.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "LA CAUSA R DENUNCIÓ SUPUESTO HOSTIGAMIENTO CONTRA ALFREDO RAMOS EN FALCÓN",
+      "link": "https://noticierodigital.com/2026/03/la-causa-r-denuncio-supuesto-hostigamiento-contra-alfredo-ramos-en-falcon/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/alfredo-ramos-28jul2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-5.15.27-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-13T21:33:48.787Z"
+  "lastUpdate": "2026-03-13T22:28:58.562Z"
 }
