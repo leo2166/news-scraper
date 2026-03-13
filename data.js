@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "653,50"
+      "usdt": "654,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "NYT: Trump aconsejó a María Corina Machado que no vuelva a Venezuela por ahora\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/nyt-trump-aconsejo-a-maria-corina-machado-que-no-vuelva-a-venezuela-por-ahora/",
+      "title": "VE sin Filtro y sociedad civil exigieron a Conatel el fin del bloqueo en Internet\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/ve-sin-filtro-exigio-a-conatel-el-fin-del-bloqueo-en-internet/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«BONO CONTRA LA GUERRA ECONÓMICA» AUMENTÓ 25% EN MARZO: EQUIVALE A 150 DÓLARES",
-      "link": "https://noticierodigital.com/2026/03/bono-contra-la-guerra-economica-aumento-25-en-marzo-equivale-a-150-dolares/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/12/bonos-sistemapatria-19dic2022.jpg"
+      "title": "VENEZUELA RECHAZA PRETENSIONES DE GUYANA EN AGUAS POR DELIMITAR",
+      "link": "https://noticierodigital.com/2026/03/venezuela-rechaza-pretensiones-de-guyana-en-aguas-por-delimitar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/yvan-gil-venezuela-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro se pronunció tras captura de Sebastián Marset en Bolivia: \"Pagaba por asesinar\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/presidente-petro-se-pronuncio-tras-captura-de-sebastian-marset-en-bolivia-pagaba-por-asesinar-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/efdd680/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F72%2F57%2Ff51dd267454bb10db278b21c718b%2Ftamano-imagenes-14.png"
+      "title": "Gobierno de Cuba confirma \"conversaciones\" con representantes de Estados Unidos",
+      "link": "https://www.noticiascaracol.com/mundo/gobierno-de-cuba-confirma-conversaciones-con-representantes-de-estados-unidos-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/17cbea7/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F14%2Fde%2F600019924a1ea4036b7c6a533f4f%2Fcuba-y-estados-unidos.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Gobierno cubano confirma “conversaciones” con representantes de EE. UU.",
       "link": "https://laverdad.com/gobierno-cubano-confirma-conversaciones-con-representantes-de-ee-uu/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Gobierno-de-Cuba.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que Estados Unidos está \"destruyendo por completo\" a Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-estados-unidos-esta-destruyendo-por-completo-a-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
+      "title": "Sismo de magnitud 6,5 sacude el norte de Chile sin dejar víctimas",
+      "link": "https://diarioversionfinal.com/mundo/sismo-de-magnitud-65-sacude-el-norte-de-chile-sin-dejar-victimas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/un-nuevo-recordatorio-de-la-fuerza-de-la-tierra-el-sismo-de-magnitud-7-4-en-el-extremo-sur-de-chile-1746319821463_512.jpg"
     }
   ],
-  "lastUpdate": "2026-03-13T17:34:56.827Z"
+  "lastUpdate": "2026-03-13T18:42:48.670Z"
 };
