@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "652,60"
+      "usdt": "654,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Díaz-Canel confirma diálogos con EE.UU. sobre el embargo a Cuba",
       "link": "https://cnnespanol.cnn.com/2026/03/13/latinoamerica/diaz-canel-cuba-conferencia-dialogo-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-13t085230z-1665870248-rc2k3kasoo17-rtrmadp-3-israel-palestinians-alqudsday-iran-20260313124951182.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265660322.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,23 +37,29 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/d2dc46f8-52dd-406e-b04f-6b320ab73338-599d68.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "«SOY UN DEMÓCRATA, DEFENDERÍA A TODOS», AFIRMÓ LUIS BELTRÁN GUERRA ",
+      "link": "https://noticierodigital.com/2026/03/soy-un-democrata-defenderia-a-todos-afirmo-luis-beltran-guerra/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/1773415492765-627x376.png"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Juan Daniel Oviedo explica lo que acordó con Paloma Valencia y cuál será su papel en campaña",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/juan-daniel-oviedo-explica-lo-que-acordo-con-paloma-valencia-y-cual-sera-su-papel-en-campana-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2fce450/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faa%2Fce%2Fdabf723b4313bf47f3ffe94e7847%2Fjuan-daniel-oviedo.jpg"
+      "title": "Gobierno de Cuba confirma \"conversaciones\" con representantes de Estados Unidos",
+      "link": "https://www.noticiascaracol.com/mundo/gobierno-de-cuba-confirma-conversaciones-con-representantes-de-estados-unidos-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/17cbea7/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F14%2Fde%2F600019924a1ea4036b7c6a533f4f%2Fcuba-y-estados-unidos.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Israel inicia una nueva “gran oleada de ataques” contra Teherán",
-      "link": "https://laverdad.com/israel-inicia-una-nueva-gran-oleada-de-ataques-contra-teheran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Israel-inicia-una-nueva-1-scaled.jpg"
+      "title": "Díaz-Canel revela que el FBI viajará a Cuba para investigación del incidente de la lancha rápida",
+      "link": "https://laverdad.com/diaz-canel-revela-que-el-fbi-viajara-a-cuba-para-investigacion-del-incidente-de-la-lancha-rapida/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Miguel-Diaz-Canel.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Pentágono afirma que el nuevo líder supremo iraní está “herido” y posiblemente “desfigurado”",
-      "link": "https://diarioversionfinal.com/mundo/el-pentagono-afirma-que-el-nuevo-lider-supremo-irani-esta-herido-y-posiblemente-desfigurado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/e00ce56455e95471e290ffec02ff748b.webp-750x430.jpg"
+      "title": "Defensoría colombiana advierte sobre difícil situación en frontera tras cancelación de reunión",
+      "link": "https://diarioversionfinal.com/mundo/defensoria-colombiana-advierte-sobre-dificil-situacion-en-frontera-tras-cancelacion-de-reunion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/frontera-de-colombia-y-venezuela-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-13T14:03:49.795Z"
+  "lastUpdate": "2026-03-13T15:43:05.562Z"
 };
