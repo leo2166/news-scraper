@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "650,50"
+      "usdt": "653,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORDAN GOUDREAU SE DIO A LA FUGA Y ES CONSIDERADO PRÓFUGO POR ESTADOS UNIDOS",
-      "link": "https://noticierodigital.com/2026/03/jordan-goudreau-se-dio-a-la-fuga-y-es-considerado-profugo-por-estados-unidos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/Jordan-Goudreau-627x376.jpg"
+      "title": "«BONO CONTRA LA GUERRA ECONÓMICA» AUMENTÓ 25% EN MARZO: EQUIVALE A 150 DÓLARES",
+      "link": "https://noticierodigital.com/2026/03/bono-contra-la-guerra-economica-aumento-25-en-marzo-equivale-a-150-dolares/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/12/bonos-sistemapatria-19dic2022.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Elecciones 2026: los candidatos a la Presidencia y quiénes son sus fórmulas a la Vicepresidencia",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/elecciones-2026-lista-de-los-candidatos-a-la-presidencia-y-sus-formulas-a-la-vicepresidencia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/edece83/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F43%2F9f%2Fc37241d2491e815c255ace7ebeeb%2Fcandidatos-presidenciales.jpg"
+      "title": "Presidente Petro se pronunció tras captura de Sebastián Marset en Bolivia: \"Pagaba por asesinar\"",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/presidente-petro-se-pronuncio-tras-captura-de-sebastian-marset-en-bolivia-pagaba-por-asesinar-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/efdd680/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F72%2F57%2Ff51dd267454bb10db278b21c718b%2Ftamano-imagenes-14.png"
     },
     {
       "source": "La Verdad",
-      "title": "Díaz-Canel revela que el FBI viajará a Cuba para investigación del incidente de la lancha rápida",
-      "link": "https://laverdad.com/diaz-canel-revela-que-el-fbi-viajara-a-cuba-para-investigacion-del-incidente-de-la-lancha-rapida/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Miguel-Diaz-Canel.jpg"
+      "title": "Gobierno cubano confirma “conversaciones” con representantes de EE. UU.",
+      "link": "https://laverdad.com/gobierno-cubano-confirma-conversaciones-con-representantes-de-ee-uu/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Secretario de Guerra de EE. UU. supervisará a las Fanb por orden de Trump",
-      "link": "https://diarioversionfinal.com/mundo/secretario-de-guerra-de-ee-uu-supervisara-a-las-fanb-por-orden-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Pete-Hegseth-RNzazpeTvtulU3vBGhYBRbK-1200x840@diario_abc-750x430.jpg"
+      "title": "Trump asegura que Estados Unidos está \"destruyendo por completo\" a Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-estados-unidos-esta-destruyendo-por-completo-a-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-13T16:41:07.706Z"
+  "lastUpdate": "2026-03-13T17:34:56.827Z"
 };
