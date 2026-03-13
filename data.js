@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "625,00"
+      "usdt": "655,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado afirmó que regresará a Venezuela “en el contexto de un gran acuerdo nacional”",
-      "link": "https://www.infobae.com/venezuela/2026/03/12/maria-corina-machado-afirmo-que-regresara-a-venezuela-en-el-contexto-de-un-gran-acuerdo-nacional/",
-      "image": "https://www.infobae.com/resizer/v2/HUZNVVRMT5AQTFEVQIZJNHYVPQ.jpg?auth=63efbdbe89bd6c24200ac35e2fac48044a2b071403f6747a161c7ef770729f75&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó un acuerdo con Repsol para impulsar la producción de gas y asegurar el abastecimiento interno",
+      "link": "https://www.infobae.com/venezuela/2026/03/12/venezuela-firmo-un-acuerdo-con-repsol-para-impulsar-la-produccion-de-gas-y-asegurar-el-abastecimiento-interno/",
+      "image": "https://www.infobae.com/resizer/v2/ER467BDFOZC55NN7HVDSM2DPDI.PNG?auth=498e1ef2498ce24bb4193b1b96ef1e3255109dc731a7950d0d0ea97a99ae4b35&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. reconoce a Delcy Rodríguez como “única jefa de Estado” en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/03/12/venezuela/trump-reconocimiento-oficial-delcy-rodriguez-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/delcy-rodriguez-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán amenaza la infraestructura energética y promete hacer que Trump \"se arrepienta\"",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-12-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/diseno-sin-titulo-2-20260313001241417.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y Colombia posponen encuentro presidencial en la frontera",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-colombia-posponen-encuentro-presidencial-en-la-frontera",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-02-18-at-17-10-02-50fe77.jpeg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "UN INFORME DE IPYS REPORTÓ EL BLOQUEO A 43 MEDIOS DE COMUNICACIÓN EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/un-informe-de-ipys-reporto-el-bloqueo-a-43-medios-de-comunicacion-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/censura-prensa-libre.jpg"
+      "title": "Presidenta encargada Delcy Rodríguez firma acuerdo con la empresa española Repsol y con la italiana Eni",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-firma-acuerdo-con-la-empresa-espanola-repsol-y-con-la-italiana-eni",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/d2dc46f8-52dd-406e-b04f-6b320ab73338-599d68.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "\"Operación Furia Épica\": Estados Unidos destruyó 6 mil objetivos estratégicos iraníes",
-      "link": "https://diarioversionfinal.com/mundo/operacion-furia-epica-estados-unidos-destruyo-6-mil-objetivos-estrategicos-iranies/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/29fe168a5b766d43eba93e1de7dac719-750x430.jpeg"
+      "title": "Gobierno de Cuba liberará 51 prisioneros tras gestiones y diálogo con el Vaticano",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-cuba-liberara-51-prisioneros-tras-gestiones-y-dialogo-con-el-vaticano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/cq5dam.thumbnail.cropped.1500.844-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-12T23:28:54.384Z"
+  "lastUpdate": "2026-03-13T02:06:06.457Z"
 };
