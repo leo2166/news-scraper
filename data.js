@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "510,34"
     },
     "binance": {
-      "usdt": "652,87"
+      "usdt": "652,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Díaz-Canel confirma diálogos con EE.UU. sobre el embargo a Cuba",
       "link": "https://cnnespanol.cnn.com/2026/03/13/latinoamerica/diaz-canel-cuba-conferencia-dialogo-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1676979078.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-13t085230z-1665870248-rc2k3kasoo17-rtrmadp-3-israel-palestinians-alqudsday-iran-20260313124951182.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/d2dc46f8-52dd-406e-b04f-6b320ab73338-599d68.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "BANCAMIGA APUESTA POR LA INNOVACIÓN SOSTENIBLE CON SU RESPALDO AL “CONGRESO INTERNACIONAL DE SOSTENIBILIDAD CARACAS 2026”",
-      "link": "https://noticierodigital.com/2026/03/bancamiga-apuesta-por-la-innovacion-sostenible-con-su-respaldo-al-congreso-internacional-de-sostenibilidad-caracas-2026/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260313-WA0028-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Juan Daniel Oviedo reconoce que no podrá aspirar a Alcaldía de Bogotá: \"Debemos tomar una decisión\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/juan-daniel-oviedo-reconoce-que-no-podra-aspirar-a-alcaldia-de-bogota-debemos-tomar-una-decision-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0c24600/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2F7e%2F7f9d2512443f963b27345ee692b7%2Foviedo.jpg"
+      "title": "Juan Daniel Oviedo explica lo que acordó con Paloma Valencia y cuál será su papel en campaña",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/juan-daniel-oviedo-explica-lo-que-acordo-con-paloma-valencia-y-cual-sera-su-papel-en-campana-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2fce450/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faa%2Fce%2Fdabf723b4313bf47f3ffe94e7847%2Fjuan-daniel-oviedo.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Israel inicia una nueva “gran oleada de ataques” contra Teherán",
       "link": "https://laverdad.com/israel-inicia-una-nueva-gran-oleada-de-ataques-contra-teheran/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Israel-inicia-una-nueva-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno cubano confirma “conversaciones” con representantes de EE. UU. en medio de feroz crisis",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-cubano-confirma-conversaciones-con-representantes-de-ee-uu-en-medio-de-feroz-crisis/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/FETBNQXMVBGZLLQX7AIZ7T7FU4-750x430.webp"
+      "title": "El Pentágono afirma que el nuevo líder supremo iraní está “herido” y posiblemente “desfigurado”",
+      "link": "https://diarioversionfinal.com/mundo/el-pentagono-afirma-que-el-nuevo-lider-supremo-irani-esta-herido-y-posiblemente-desfigurado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/e00ce56455e95471e290ffec02ff748b.webp-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-13T12:59:40.266Z"
+  "lastUpdate": "2026-03-13T14:03:49.795Z"
 };
