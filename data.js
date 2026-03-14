@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "627,95"
+      "usdt": "627,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. eliminó activos militares en centro clave para la exportación petrolera de Irán, dice Trump",
+      "title": "EE.UU. eliminó bases militares en centro clave para la exportación petrolera de Irán, dice Trump",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-13-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263645679.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-11.47.44-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-14T09:33:52.255Z"
+  "lastUpdate": "2026-03-14T10:29:53.067Z"
 };
