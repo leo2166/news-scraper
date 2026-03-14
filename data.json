@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "627,50"
+      "usdt": "656,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. eliminó bases militares en centro clave para la exportación petrolera de Irán, dice Trump",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-13-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263645679.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "EE.UU. atacó centro clave para la exportación petrolera de Irán, dice Trump",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-652566478-20260314040827704-20260314064919488.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-11.47.44-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-14T10:29:53.067Z"
+  "lastUpdate": "2026-03-14T11:24:28.520Z"
 }
