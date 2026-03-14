@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "656,99"
+      "usdt": "654,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal reportó 690 presos políticos excarcelados en Venezuela desde el pasado 8 de enero",
-      "link": "https://www.infobae.com/venezuela/2026/03/14/el-foro-penal-reporto-690-presos-politicos-excarcelados-en-venezuela-desde-el-pasado-8-de-enero/",
-      "image": "https://www.infobae.com/resizer/v2/XKBZA4T4SJBCFD25I6KQQB3UL4.jpg?auth=4dd4e6762433021b6e66851d4b4f3de8888c1826a88a4af701fe3c1476e3fcd9&smart=true&width=350&height=197&quality=85"
+      "title": "La Embajada de EEUU en Caracas volvió a izar su bandera tras siete años: “Ha comenzado una nueva era para las relaciones”",
+      "link": "https://www.infobae.com/venezuela/2026/03/14/la-embajada-de-eeuu-en-caracas-volvio-a-izar-su-bandera-tras-siete-anos-ha-comenzado-una-nueva-era-para-las-relaciones/",
+      "image": "https://www.infobae.com/resizer/v2/LAHTZ6I7FFCQ5MCUBKTP4DVIKU.jpg?auth=e28ea3758342d90fd46a8b059bfd1ec1f3bba361d9d59cb4c6e26c0522fe3831&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. atacó centro clave para la exportación petrolera de Irán, dice Trump",
+      "title": "Irán prometió represalias tras bombardeo de EE.UU. de un centro petrolero crucial",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-652566478-20260314040827704-20260314064919488.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -49,17 +49,11 @@ window.DASHBOARD_DATA = {
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/66a9c92/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F79%2Faa%2Fb598695a4c8c91974272c4212076%2Festudiante-externado.jpg"
     },
     {
-      "source": "La Verdad",
-      "title": "Expresidente Bolsonaro es hospitalizado con bronconeumonía y sin previsión de alta",
-      "link": "https://laverdad.com/expresidente-bolsonaro-es-hospitalizado-con-bronconeumonia-y-sin-prevision-de-alta/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jair-Bolsonaro-1.jpg"
-    },
-    {
       "source": "Diario Versión Final",
-      "title": "Lluvias dejan 64 fallecidos, 8 desaparecidos y 22.500 damnificados en Perú",
-      "link": "https://diarioversionfinal.com/mundo/lluvias-dejan-64-fallecidos-8-desaparecidos-y-22-500-damnificados-en-peru/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-11.47.44-PM.jpeg"
+      "title": "EE. UU. autoriza suministro de tecnología y servicios para el sistema eléctrico venezolano",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-autoriza-suministro-de-tecnologia-y-servicios-para-el-sistema-electrico-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/electricidad-torre-electric-750x400.jpg"
     }
   ],
-  "lastUpdate": "2026-03-14T11:24:28.520Z"
+  "lastUpdate": "2026-03-14T12:53:08.608Z"
 };
