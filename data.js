@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "654,69"
+      "usdt": "654,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUD RECHAZÓ DECISIÓN JUDICIAL QUE NEGÓ AMNISTÍA A PERKINS ROCHA",
-      "link": "https://noticierodigital.com/2026/03/pud-rechazo-decision-judicial-que-nego-amnistia-a-perkins-rocha/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
+      "title": "COREA DEL NORTE LANZA 10 MISILES HACIA EL MAR DE JAPÓN",
+      "link": "https://noticierodigital.com/2026/03/corea-del-norte-lanza-10-misiles-hacia-el-mar-de-japon/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-14_091345010-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -49,11 +49,17 @@ window.DASHBOARD_DATA = {
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/66a9c92/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F79%2Faa%2Fb598695a4c8c91974272c4212076%2Festudiante-externado.jpg"
     },
     {
+      "source": "La Verdad",
+      "title": "Expresidente Bolsonaro es hospitalizado con bronconeumonía y sin previsión de alta",
+      "link": "https://laverdad.com/expresidente-bolsonaro-es-hospitalizado-con-bronconeumonia-y-sin-prevision-de-alta/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jair-Bolsonaro-1.jpg"
+    },
+    {
       "source": "Diario Versión Final",
-      "title": "EE. UU. autoriza suministro de tecnología y servicios para el sistema eléctrico venezolano",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-autoriza-suministro-de-tecnologia-y-servicios-para-el-sistema-electrico-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/electricidad-torre-electric-750x400.jpg"
+      "title": "La bandera de EE. UU. vuelve a ondear en la embajada en Caracas tras siete años",
+      "link": "https://diarioversionfinal.com/mundo/la-bandera-de-ee-uu-vuelve-a-ondear-en-la-embajada-en-caracas-tras-siete-anos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla-2026-03-14-a-las-7.33.54-a.m-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-14T12:53:08.608Z"
+  "lastUpdate": "2026-03-14T13:47:27.429Z"
 };
