@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "654,60"
+      "usdt": "655,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado denunció represión selectiva tras negación de amnistía a Perkins Rocha\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-denuncio-represion-selectiva-tras-negacion-de-amnistia-a-perkins-rocha/",
+      "title": "Bloomberg: Gobierno de Delcy Rodríguez evalúa retirar la ciudadanía a Alex Saab para facilitar su extradición a EE UU\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/bloomberg-gobierno-de-delcy-rodriguez-evalua-retirar-la-ciudadania-a-alex-saab-para-facilitar-su-extradicion-a-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump presiona para obtener ayuda en la reapertura del estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260314173011449.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El nuevo líder supremo de Irán no aparece, y quizá el sistema no lo necesite",
+      "link": "https://cnnespanol.cnn.com/2026/03/14/mundo/analisis-nuevo-lider-supremo-iran-aparecido-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-10t145909z-1346267152-rc26f49p3e5o-rtrmadp-3-iran-crisis-leader-20260314093403793.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petro anuncia que Colombia y Venezuela pedirán ingreso pleno al Mercosur",
-      "link": "https://diarioversionfinal.com/mundo/petro-anuncia-que-colombia-y-venezuela-pediran-ingreso-pleno-al-mercosur/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/04/MERCOSUR-1-750x430.jpg"
+      "title": "Un dron impacta la embajada de Estados Unidos en Bagdad",
+      "link": "https://diarioversionfinal.com/mundo/un-dron-impacta-la-embajada-de-estados-unidos-en-bagdad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/embajada-EEUU-Bagdad-696x428-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-14T20:29:33.224Z"
+  "lastUpdate": "2026-03-14T21:27:19.133Z"
 };
