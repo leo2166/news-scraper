@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "654,30"
+      "usdt": "654,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La Embajada de EEUU en Caracas volvió a izar su bandera tras siete años: “Ha comenzado una nueva era para las relaciones”",
-      "link": "https://www.infobae.com/venezuela/2026/03/14/la-embajada-de-eeuu-en-caracas-volvio-a-izar-su-bandera-tras-siete-anos-ha-comenzado-una-nueva-era-para-las-relaciones/",
-      "image": "https://www.infobae.com/resizer/v2/LAHTZ6I7FFCQ5MCUBKTP4DVIKU.jpg?auth=e28ea3758342d90fd46a8b059bfd1ec1f3bba361d9d59cb4c6e26c0522fe3831&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado condenó la decisión de la justicia chavista de negar la amnistía a Perkins Rocha",
+      "link": "https://www.infobae.com/venezuela/2026/03/14/maria-corina-machado-condeno-la-decision-de-la-justicia-chavista-de-negar-la-amnistia-a-perkins-rocha/",
+      "image": "https://www.infobae.com/resizer/v2/FGZIGL7OCRFMFBSZ345H6QU24Q.jpg?auth=1bb6741ec709967303669789ea24bfad867a1ceeb48a35ccab22fc195f7d9332&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Petro-09-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-14T16:32:46.023Z"
+  "lastUpdate": "2026-03-14T17:27:23.234Z"
 }
