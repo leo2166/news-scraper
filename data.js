@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "654,10"
+      "usdt": "654,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Estalla un incendio en un centro petrolero de Emiratos Árabes Unidos",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eau-petroleras.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265947005.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla papá de estudiante del Externado arrollada por un TransMilenio: \"Con dolor para toda la vida\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/habla-papa-de-estudiante-del-externado-arrollada-por-un-transmilenio-con-dolor-para-toda-la-vida-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/66a9c92/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F79%2Faa%2Fb598695a4c8c91974272c4212076%2Festudiante-externado.jpg"
+      "title": "Hombre en Bogotá pidió un carro por aplicación y le robaron sus pertenencias en el viaje",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/hombre-en-bogota-pidio-un-carro-por-aplicacion-y-le-robaron-sus-pertenencias-en-el-viaje-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/029ce5a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbf%2Fc5%2F70de590b424caaff4aa0d93bf2d9%2Fportadas-caracol-web-7.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscales de EE. UU. afirman que Maduro debe pagar su defensa con recursos propios",
-      "link": "https://diarioversionfinal.com/mundo/fiscales-de-ee-uu-afirman-que-maduro-debe-pagar-su-defensa-con-recursos-propios/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/europapress_7198633_january_2026_manhattan_new_york_usa_ousted_president_nicolas_maduro_of-scaled-1-750x430.webp"
+      "title": "Petro propone “doble nacionalidad” y arancel cero con Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/petro-propone-doble-nacionalidad-y-arancel-cero-con-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Petro-09-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-14T15:29:09.127Z"
+  "lastUpdate": "2026-03-14T16:32:46.023Z"
 };
