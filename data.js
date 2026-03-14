@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comisión binacional de buena vecindad entre Colombia y Venezuela será en abril en Maracaibo",
-      "link": "https://noticiasvenevision.com/noticias/politica/comision-binacional-de-buena-vecindad-entre-colombia-y-venezuela-sera-en-abril-en-maracaibo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/13eg__3153_p-2048x1857-cfe137.jpg"
+      "title": "Bandera de EE.UU. vuelve a ser izada en la embajada de Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/bandera-de-eeuu-vuelve-a-ser-izada-en-la-embajada-de-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/usembassyve_1773487429_3852614160840814968_2669079970-9cd7af.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "COREA DEL NORTE LANZA 10 MISILES HACIA EL MAR DE JAPÓN",
-      "link": "https://noticierodigital.com/2026/03/corea-del-norte-lanza-10-misiles-hacia-el-mar-de-japon/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-14_091345010-627x376.png"
+      "title": "MANIFESTANTES EN CUBA ASALTAN UN EDIFICIO DEL PARTIDO COMUNISTA",
+      "link": "https://noticierodigital.com/2026/03/manifestantes-en-cuba-asaltan-un-edificio-del-partido-comunista/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-14_101603136-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La bandera de EE. UU. vuelve a ondear en la embajada en Caracas tras siete años",
-      "link": "https://diarioversionfinal.com/mundo/la-bandera-de-ee-uu-vuelve-a-ondear-en-la-embajada-en-caracas-tras-siete-anos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla-2026-03-14-a-las-7.33.54-a.m-750x375-1.jpg"
+      "title": "Jueza otorga plazo a abogados venezolanos para definir su representación en tribunales de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/jueza-otorga-plazo-a-abogados-venezolanos-para-definir-su-representacion-en-tribunales-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Biden-Nominee-What-is-a-Woman-1200-x-630-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-14T13:47:27.429Z"
+  "lastUpdate": "2026-03-14T14:28:51.395Z"
 };
