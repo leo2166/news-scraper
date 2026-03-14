@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "654,30"
+      "usdt": "650,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Activistas exigen en Caracas el desbloqueo de 200 sitios web y denuncian la censura digital como obstáculo para la democracia en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/14/activistas-exigen-en-caracas-el-desbloqueo-de-200-sitios-web-y-denuncian-la-censura-digital-como-obstaculo-para-la-democracia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/ISBS3CWDSRAMHPU7Y3YCG356XY.jpg?auth=4fc603343920b9b04e653319fb37c6124368e33b0ad23fb78517a21e53638a5d&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal reportó 690 presos políticos excarcelados en Venezuela desde el pasado 8 de enero",
+      "link": "https://www.infobae.com/venezuela/2026/03/14/el-foro-penal-reporto-690-presos-politicos-excarcelados-en-venezuela-desde-el-pasado-8-de-enero/",
+      "image": "https://www.infobae.com/resizer/v2/XKBZA4T4SJBCFD25I6KQQB3UL4.jpg?auth=4dd4e6762433021b6e66851d4b4f3de8888c1826a88a4af701fe3c1476e3fcd9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "EE.UU. eliminó activos militares en centro clave para la exportación petrolera de Irán, dice Trump",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-13-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264216847.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2263645679.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-11.47.44-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-14T04:42:50.066Z"
+  "lastUpdate": "2026-03-14T05:45:41.796Z"
 }
