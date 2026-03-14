@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "657,69"
+      "usdt": "654,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "\"Estructuras represivas están mutando\" para mantener el poder en Venezuela, dice ONU",
-      "link": "https://cnnespanol.cnn.com/2026/03/13/venezuela/estructuras-represivas-mutando-onu-informe-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264216847.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. eliminó activos militares en centro clave para la exportación petrolera de Irán, dice Trump",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-13-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264216847.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CANCILLERES DE VENEZUELA Y COLOMBIA ACORDARON RUTAS DE TRABAJO BINACIONAL",
-      "link": "https://noticierodigital.com/2026/03/cancilleres-de-venezuela-y-colombia-acordaron-rutas-de-trabajo-binacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/rosa-villavicencio-yvan-gil-627x376.jpg"
+      "title": "PUD RECHAZÓ DECISIÓN JUDICIAL QUE NEGÓ AMNISTÍA A PERKINS ROCHA",
+      "link": "https://noticierodigital.com/2026/03/pud-rechazo-decision-judicial-que-nego-amnistia-a-perkins-rocha/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Registraduría denuncia robo de 3 equipos portátiles en lugar donde se hacen escrutinios electorales",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/registraduria-denuncia-robo-de-3-equipos-portatiles-en-lugar-donde-hacen-escrutinios-de-elecciones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3eba143/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffb%2F43%2F7ef8dd274244b1a525d1c2a08b9b%2Ftamano-imagenes-19.jpg"
+      "title": "Habla papá de estudiante del Externado arrollada por un TransMilenio: \"Con dolor para toda la vida\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/habla-papa-de-estudiante-del-externado-arrollada-por-un-transmilenio-con-dolor-para-toda-la-vida-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/66a9c92/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F79%2Faa%2Fb598695a4c8c91974272c4212076%2Festudiante-externado.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bolsonaro está en terapia intensiva en hospital de Brasilia: padece bronconeumonía",
-      "link": "https://diarioversionfinal.com/mundo/bolsonaro-esta-en-terapia-intensiva-en-hospital-de-brasilia-padece-bronconeumonia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-8.58.36-PM-750x430.jpeg"
+      "title": "Lluvias dejan 64 fallecidos, 8 desaparecidos y 22.500 damnificados en Perú",
+      "link": "https://diarioversionfinal.com/mundo/lluvias-dejan-64-fallecidos-8-desaparecidos-y-22-500-damnificados-en-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-11.47.44-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-14T02:04:04.780Z"
+  "lastUpdate": "2026-03-14T04:42:50.066Z"
 };
