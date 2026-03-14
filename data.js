@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "628,78"
+      "usdt": "627,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Desapariciones forzadas en Venezuela, el crimen que la ley de amnistía no aborda: ¿quién responde?\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/desapariciones-forzadas-en-venezuela-el-crimen-que-la-ley-de-amnistia-no-aborda-y-que-mantiene-cientos-de-personas-en-el-limbo-quien-responde/",
+      "title": "Por qué el venezolano ya no tiene prisa por volver\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/por-que-el-venezolano-ya-no-tiene-prisa-por-volver/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-11.47.44-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-14T08:36:27.901Z"
+  "lastUpdate": "2026-03-14T09:33:52.255Z"
 };
