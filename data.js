@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "656,69"
+      "usdt": "656,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y Colombia califican de \"exitosa\" la reciente reunión y ponen fecha para próximos encuentros binacionales",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-colombia-califican-de-supremamente-exitosa-la-reciente-reunion-y-ponen-fecha-para-proximos-encuentros-binacionales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comision-f7ce43.jpg"
+      "title": "MIPPCI estrena plataforma web para optimizar la difusión informativa",
+      "link": "https://noticiasvenevision.com/noticias/politica/mippci-estrena-plataforma-web-para-optimizar-la-difusion-informativa",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mippci-estrena-plataforma-web-para-optimizar-la-difusion-informativa-57670jpg-195348-5d23a3.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,15 +44,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Estados Unidos vuelve a izar su bandera en embajada de Venezuela después de siete años",
-      "link": "https://www.noticiascaracol.com/mundo/estados-unidos-vuelve-a-izar-su-bandera-en-embajada-de-venezuela-despues-de-siete-anos-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ea2208b/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F8f%2Ff5afb5f84e458d60bde110ad4a98%2Fportadas-caracol-web-10.png"
+      "title": "¿Por qué el nuevo líder supremo de Irán, Mojtaba Jamenei, aún no aparece en público?",
+      "link": "https://www.noticiascaracol.com/mundo/por-que-el-nuevo-lider-supremo-de-iran-mojtaba-jamenei-aun-no-aparece-en-publico-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f841b37/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe9%2F48%2F1a797c784b8db52324ab59b203c3%2Fmojtaba.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Trump anuncia la salida de Richard Grenell del Kennedy Center",
       "link": "https://laverdad.com/trump-anuncia-la-salida-de-richard-grenell-del-kennedy-center/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/descarga.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/000_98A4RB-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-14T22:26:59.691Z"
+  "lastUpdate": "2026-03-14T23:28:57.176Z"
 };
