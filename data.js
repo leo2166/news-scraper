@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "654,69"
+      "usdt": "654,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«SALARIO DE $250 ES FACTIBLE SIN CORRUPCIÓN», AFIRMÓ SUTHERLAND",
-      "link": "https://noticierodigital.com/2026/03/salario-de-250-es-factible-sin-corrupcion-afirmo-sutherland/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/02/manuel-sutherland-17feb2022.jpg"
+      "title": "EMPEORA FUNCIÓN RENAL DE BOLSONARO, SE ESTABILIZA NEUMONÍA, DICE HOSPITAL",
+      "link": "https://noticierodigital.com/2026/03/eempeora-funcion-renal-de-bolsonaro-se-estabiliza-neumonia-dice-hospital/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Bolsonaro_16julio-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/04/MERCOSUR-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-14T19:27:27.110Z"
+  "lastUpdate": "2026-03-14T20:29:33.224Z"
 };
