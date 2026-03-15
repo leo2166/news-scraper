@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "661,99"
+      "usdt": "660,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MURIÓ CANDIDATO PRESIDENCIAL PERUANO NAPOLEÓN BECERRA EN UN ACCIDENTE DE TRÁNSITO",
-      "link": "https://noticierodigital.com/2026/03/murio-candidato-presidencial-peruano-napoleon-becerra-en-un-accidente-de-transito/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-15_133419107-627x376.png"
+      "title": "ACRIBILLAN A VENEZOLANO POR DISPUTA DE NEGOCIOS EN QUEENS",
+      "link": "https://noticierodigital.com/2026/03/acribillan-a-venezolano-por-disputa-de-negocios-en-queens/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/11/escena_del_crimen_28nov2019.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. detiene a líder del “Tren de Aragua” vinculado al asesinato de Ronald Ojeda",
-      "link": "https://laverdad.com/ee-uu-detiene-a-lider-del-tren-de-aragua-vinculado-al-asesinato-de-ronald-ojeda/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/HDaJ93VXIAASUuQ.jpg"
+      "title": "Muere candidato presidencial peruano Napoléon Becerra en accidente de tránsito",
+      "link": "https://laverdad.com/muere-candidato-presidencial-peruano-napoleon-becerra-en-accidente-de-transito/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/f960x540-339290_413365_5050.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fallece el candidato presidencial peruano en un accidente de tránsito",
-      "link": "https://diarioversionfinal.com/mundo/fallece-el-candidato-presidencial-peruano-en-un-accidente-de-transito/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1966a6e98be2fb11a3cd952def10b2c5-750x430.webp"
+      "title": "Israel estima que la guerra contra Irán podría durar hasta seis semanas más",
+      "link": "https://diarioversionfinal.com/mundo/israel-estima-que-la-guerra-contra-iran-podria-durar-hasta-seis-semanas-mas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/TRQIMSJWDNCYPDOGTJNNXXKFE4-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-15T18:40:19.960Z"
+  "lastUpdate": "2026-03-15T19:28:29.688Z"
 };
