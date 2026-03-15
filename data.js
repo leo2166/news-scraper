@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "657,20"
+      "usdt": "654,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Dentro del ataque de Trump a Irán y la carrera por contener las consecuencias",
-      "link": "https://cnnespanol.cnn.com/2026/03/15/eeuu/dentro-decision-trump-atacar-iran-consecuencias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/misil-estadounidense-lanzan.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán asegura que su líder supremo está “en buen estado de salud”",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lider-supremo-bien.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez: Muy pronto estaremos izando la bandera de Venezuela en la Embajada de EE.UU.",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-muy-pronto-estaremos-izando-la-bandera-de-venezuela-en-la-embajada-de-eeuu",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7010-696x504-766cc5.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "EMPEORA FUNCIÓN RENAL DE BOLSONARO, SE ESTABILIZA NEUMONÍA, DICE HOSPITAL",
-      "link": "https://noticierodigital.com/2026/03/eempeora-funcion-renal-de-bolsonaro-se-estabiliza-neumonia-dice-hospital/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Bolsonaro_16julio-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Un peso pesado de Chevron también recomendó que Delcy Rodríguez siguiera en el poder",
-      "link": "https://diarioversionfinal.com/mundo/un-peso-pesado-de-chevron-tambien-recomendo-que-delcy-rodriguez-siguiera-en-el-poder/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/moshiri-750x430.jpg"
+      "title": "Guardia iraní amenaza con matar a Netanyahu",
+      "link": "https://diarioversionfinal.com/mundo/guardia-irani-amenaza-con-matar-a-netanyahu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/nPds6QtO-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-15T11:27:08.251Z"
+  "lastUpdate": "2026-03-15T12:54:48.926Z"
 };
