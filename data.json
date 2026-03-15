@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "657,20"
+      "usdt": "627,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que no está listo para un acuerdo que ponga fin a la guerra",
+      "title": "El Pentágono identifica a seis tripulantes muertos en accidente aéreo en Iraq",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260314173011449.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/pentagono-20260315064536019.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/000_98A4RB-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-15T05:05:46.976Z"
+  "lastUpdate": "2026-03-15T06:57:53.290Z"
 }
