@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "657,99"
+      "usdt": "657,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump anuncia la salida de Richard Grenell del Kennedy Center",
-      "link": "https://laverdad.com/trump-anuncia-la-salida-de-richard-grenell-del-kennedy-center/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/descarga.jpg"
+      "title": "Papa León XIV pide alto el fuego y diálogo ante la violencia en Oriente Medio",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-alto-el-fuego-y-dialogo-ante-la-violencia-en-oriente-medio/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/3620480e273fdca7066753dd065b4a74c7718276-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/trump-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-15T13:49:27.194Z"
+  "lastUpdate": "2026-03-15T14:30:44.406Z"
 };
