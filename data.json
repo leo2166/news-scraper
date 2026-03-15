@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "657,69"
+      "usdt": "657,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7010-696x504-766cc5.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA ELIMINA AL CAMPEÓN JAPÓN Y AVANZA A SEMIFINALES",
-      "link": "https://noticierodigital.com/2026/03/venezuela-elimina-al-campeon-japon-y-avanza-a-semifinales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-15_084926918-627x376.png"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Crudo relato de hija de pareja de adultos mayores asesinados en Suba: \"Vi a mi papá en el piso\"",
       "link": "https://www.noticiascaracol.com/colombia/bogota/crudo-relato-de-hija-de-pareja-de-adultos-mayores-asesinados-en-suba-vi-a-mi-papa-en-el-piso-so35",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump descarta negociar con Irán y advierte sobre nuevos bombardeos",
-      "link": "https://diarioversionfinal.com/mundo/trump-descarta-negociar-con-iran-y-advierte-sobre-nuevos-bombardeos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/trump-750x430.webp"
+      "title": "El papa León XIV llama al diálogo y pide un alto el fuego en Oriente Medio",
+      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-llama-al-dialogo-y-pide-un-alto-el-fuego-en-oriente-medio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/papa-leon-primera-misa-1jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-15T14:30:44.406Z"
+  "lastUpdate": "2026-03-15T15:29:55.528Z"
 }
