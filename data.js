@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "662,00"
+      "usdt": "663,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "AIE confirma la liberación de reservas de petróleo antes de finales de marzo",
-      "link": "https://cnnespanol.cnn.com/2026/03/15/mundo/iea-paises-liberaran-400-millones-barriles-petroleo-guerra-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/barriles-de-petroleo.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Ataques de EE.UU. e Israel en Irán impactan la infraestructura civil del país",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2266186369-20260315220837260.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Falta de energía eléctrica ha impulsado crecientes protestas ciudadanas en Cuba: régimen no puede contener crisis",
-      "link": "https://diarioversionfinal.com/mundo/falta-de-energia-electrica-ha-impulsado-crecientes-protestas-ciudadanas-en-cuba-regimen-no-puede-contener-crisis/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/protestas-en-cuba-1-750x430.jpg"
+      "title": "Derrota electoral para Pedro Sánchez: Partido Popular gana en Castilla y León",
+      "link": "https://diarioversionfinal.com/mundo/derrota-electoral-para-pedro-sanchez-partido-popular-gana-en-castilla-y-leon/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Manueco-y-Feijoo-15-03-2026-660x430.png"
     }
   ],
-  "lastUpdate": "2026-03-15T21:28:13.089Z"
+  "lastUpdate": "2026-03-15T22:28:42.764Z"
 };
