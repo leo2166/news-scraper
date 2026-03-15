@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "660,30"
+      "usdt": "661,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "AIE liberará 400 millones de barriles de petróleo por la guerra con Irán",
+      "title": "AIE confirma la liberación de reservas de petróleo antes de finales de marzo",
       "link": "https://cnnespanol.cnn.com/2026/03/15/mundo/iea-paises-liberaran-400-millones-barriles-petroleo-guerra-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/barriles-de-petroleo.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -38,21 +38,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MOTHERFLOWERS LANZA SU TERCER ÁLBUM «QUE VAYAN Y LO CUENTEN» CARGADO DE MEMORIA",
-      "link": "https://noticierodigital.com/2026/03/motherflowers-lanza-su-tercer-album-que-vayan-y-lo-cuenten-cargado-de-memoria/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-9-627x376.jpg"
+      "title": "MURIÓ CANDIDATO PRESIDENCIAL PERUANO NAPOLEÓN BECERRA EN UN ACCIDENTE DE TRÁNSITO",
+      "link": "https://noticierodigital.com/2026/03/murio-candidato-presidencial-peruano-napoleon-becerra-en-un-accidente-de-transito/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-15_133419107-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Crudo relato de hija de pareja de adultos mayores asesinados en Suba: \"Vi a mi papá en el piso\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/crudo-relato-de-hija-de-pareja-de-adultos-mayores-asesinados-en-suba-vi-a-mi-papa-en-el-piso-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/77e3ffb/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe9%2Fd3%2Fa4acb8134c13af4c68ebddbf4e09%2Fpareja-abuelos.jpg"
+      "title": "Videos revelan las últimas horas de David Acosta antes de desaparecer en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/videos-revelan-las-ultimas-horas-de-david-acosta-antes-de-desaparecer-en-bogota-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/60e743d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F06%2F8ea693214289bf50481845c30aaf%2Frevelan-imagenes-clave-del-ultimo-rastro-de-david-acosta-tras-salir-de-casino-en-bogota.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Asesinan a migrante venezolano en Nueva York en presunta disputa por negocio",
-      "link": "https://laverdad.com/asesinan-a-migrante-venezolano-en-nueva-york-en-presunta-disputa-por-negocio/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/venezuelan-immigrant-running-mobile-car-123583336.jpg"
+      "title": "EE. UU. detiene a líder del “Tren de Aragua” vinculado al asesinato de Ronald Ojeda",
+      "link": "https://laverdad.com/ee-uu-detiene-a-lider-del-tren-de-aragua-vinculado-al-asesinato-de-ronald-ojeda/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/HDaJ93VXIAASUuQ.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1966a6e98be2fb11a3cd952def10b2c5-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-15T17:28:37.917Z"
+  "lastUpdate": "2026-03-15T18:40:19.960Z"
 };
