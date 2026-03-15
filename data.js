@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Bloomberg: Gobierno de Delcy Rodríguez evalúa retirar la ciudadanía a Alex Saab para facilitar su extradición a EE UU\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/bloomberg-gobierno-de-delcy-rodriguez-evalua-retirar-la-ciudadania-a-alex-saab-para-facilitar-su-extradicion-a-ee-uu/",
+      "title": "Enrique Márquez: “Hay que guardar los egos en una gaveta para recuperar al país”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/enrique-marquez-egos-gaveta-transicion-2026/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/000_98A4RB-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-15T07:49:32.058Z"
+  "lastUpdate": "2026-03-15T08:37:55.429Z"
 };
