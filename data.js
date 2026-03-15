@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "627,10"
+      "usdt": "627,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El Pentágono identifica a seis tripulantes muertos en accidente aéreo en Iraq",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/pentagono-20260315064536019.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Dentro del ataque de Trump a Irán y la carrera por contener las consecuencias",
+      "link": "https://cnnespanol.cnn.com/2026/03/15/eeuu/dentro-decision-trump-atacar-iran-consecuencias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/misil-estadounidense-lanzan.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/000_98A4RB-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-15T08:37:55.429Z"
+  "lastUpdate": "2026-03-15T09:35:37.937Z"
 };
