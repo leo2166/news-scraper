@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "654,87"
+      "usdt": "657,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez prometió que Venezuela “muy pronto” izará su bandera en la embajada en EEUU",
-      "link": "https://www.infobae.com/venezuela/2026/03/15/delcy-rodriguez-prometio-que-venezuela-muy-pronto-izara-su-bandera-en-la-embajada-en-eeuu/",
-      "image": "https://www.infobae.com/resizer/v2/HXBCVM3VF5BIJMION3EOPP2GO4.JPG?auth=559fe1c4e5d442f9cc69a5c967c45f5f44661d3d25e9b8c7e5488fde33336699&smart=true&width=350&height=197&quality=85"
+      "title": "Corrupción en Venezuela: cuatro generales se pelean el control de una aduana fronteriza donde se manejan cobros ilegales",
+      "link": "https://www.infobae.com/venezuela/2026/03/15/corrupcion-en-venezuela-cuatro-generales-se-pelean-el-control-de-una-aduana-fronteriza-donde-se-manejan-cobros-ilegales/",
+      "image": "https://www.infobae.com/resizer/v2/7DU4IIL7PFGKXNUR2CG3HPC5KA.jpg?auth=9d407711c07121e53b666c592c801cf5af659bde3a12d13e643f6c5f349228ec&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,23 +37,29 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7010-696x504-766cc5.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "VENEZUELA ELIMINA AL CAMPEÓN JAPÓN Y AVANZA A SEMIFINALES",
+      "link": "https://noticierodigital.com/2026/03/venezuela-elimina-al-campeon-japon-y-avanza-a-semifinales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-15_084926918-627x376.png"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Crimen de pareja de adultos mayores en Suba: testimonio de hija, videos de cámaras y otras pistas",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/crimen-de-pareja-de-adultos-mayores-en-suba-testimonio-de-hija-videos-de-camaras-y-otras-pistas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fa83f4b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F53%2F05%2Fb724c3fa4747b4c04c0fb5dac39e%2Fcrimen-adultos-mayores.jpg"
+      "title": "Crudo relato de hija de pareja de adultos mayores asesinados en Suba: \"Vi a mi papá en el piso\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/crudo-relato-de-hija-de-pareja-de-adultos-mayores-asesinados-en-suba-vi-a-mi-papa-en-el-piso-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/77e3ffb/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe9%2Fd3%2Fa4acb8134c13af4c68ebddbf4e09%2Fpareja-abuelos.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Trump anuncia la salida de Richard Grenell del Kennedy Center",
       "link": "https://laverdad.com/trump-anuncia-la-salida-de-richard-grenell-del-kennedy-center/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/descarga.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Guardia iraní amenaza con matar a Netanyahu",
-      "link": "https://diarioversionfinal.com/mundo/guardia-irani-amenaza-con-matar-a-netanyahu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/nPds6QtO-image-750x430.jpg"
+      "title": "Trump descarta negociar con Irán y advierte sobre nuevos bombardeos",
+      "link": "https://diarioversionfinal.com/mundo/trump-descarta-negociar-con-iran-y-advierte-sobre-nuevos-bombardeos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/trump-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-15T12:54:48.926Z"
+  "lastUpdate": "2026-03-15T13:49:27.194Z"
 }
