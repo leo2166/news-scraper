@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Arrestaron en EEUU al presunto líder de la célula chilena del Tren de Aragua que es investigado por el crimen de Ronald Ojeda",
-      "link": "https://www.infobae.com/venezuela/2026/03/14/arrestaron-en-eeuu-al-presunto-lider-de-la-celula-chilena-del-tren-de-aragua-que-es-investigado-por-el-crimen-de-ronald-ojeda/",
-      "image": "https://www.infobae.com/resizer/v2/TB4IQRTOHNEQNIEZNF7SXGQTZU.jpg?auth=61cd781e7582fec8655f94fea2558b90e52a4ebc5fa4e471c428724994034252&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez prometió que Venezuela “muy pronto” izará su bandera en la embajada en EEUU",
+      "link": "https://www.infobae.com/venezuela/2026/03/15/delcy-rodriguez-prometio-que-venezuela-muy-pronto-izara-su-bandera-en-la-embajada-en-eeuu/",
+      "image": "https://www.infobae.com/resizer/v2/HXBCVM3VF5BIJMION3EOPP2GO4.JPG?auth=559fe1c4e5d442f9cc69a5c967c45f5f44661d3d25e9b8c7e5488fde33336699&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/000_98A4RB-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-15T06:57:53.290Z"
+  "lastUpdate": "2026-03-15T07:49:32.058Z"
 };
