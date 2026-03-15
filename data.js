@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "657,60"
+      "usdt": "660,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Enrique Márquez: “Hay que guardar los egos en una gaveta para recuperar al país”\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/enrique-marquez-egos-gaveta-transicion-2026/",
+      "title": "Ali Moshiri, exejecutivo de Chevron, habría aconsejado a la CIA mantener a Delcy Rodríguez tras la captura de Maduro\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/ali-moshiri-habria-aconsejado-a-la-cia-mantener-a-delcy-rodriguez/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7010-696x504-766cc5.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "MOTHERFLOWERS LANZA SU TERCER ÁLBUM «QUE VAYAN Y LO CUENTEN» CARGADO DE MEMORIA",
+      "link": "https://noticierodigital.com/2026/03/motherflowers-lanza-su-tercer-album-que-vayan-y-lo-cuenten-cargado-de-memoria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-9-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Crudo relato de hija de pareja de adultos mayores asesinados en Suba: \"Vi a mi papá en el piso\"",
       "link": "https://www.noticiascaracol.com/colombia/bogota/crudo-relato-de-hija-de-pareja-de-adultos-mayores-asesinados-en-suba-vi-a-mi-papa-en-el-piso-so35",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide alto el fuego y diálogo ante la violencia en Oriente Medio",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-alto-el-fuego-y-dialogo-ante-la-violencia-en-oriente-medio/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/3620480e273fdca7066753dd065b4a74c7718276-scaled.jpg"
+      "title": "Asesinan a migrante venezolano en Nueva York en presunta disputa por negocio",
+      "link": "https://laverdad.com/asesinan-a-migrante-venezolano-en-nueva-york-en-presunta-disputa-por-negocio/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El papa León XIV llama al diálogo y pide un alto el fuego en Oriente Medio",
-      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-llama-al-dialogo-y-pide-un-alto-el-fuego-en-oriente-medio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/papa-leon-primera-misa-1jpg-750x430.webp"
+      "title": "Escalada en Medio Oriente: Irán usa por primera vez el misil balístico Sejil contra Israel",
+      "link": "https://diarioversionfinal.com/mundo/escalada-en-medio-oriente-iran-usa-por-primera-vez-el-misil-balistico-sejil-contra-israel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Iran-usa-por-primera-vez-su-misil-balistico-‘Sejil-contra-Israel-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-15T15:29:55.528Z"
+  "lastUpdate": "2026-03-15T16:33:33.739Z"
 };
