@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "634,00"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump intensifica las peticiones a sus aliados para reabrir el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266715796-594x594.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Si Trump ya ganó la guerra, ¿por qué necesita barcos extranjeros para ponerle fin?",
+      "link": "https://cnnespanol.cnn.com/2026/03/16/eeuu/analisis-trump-guerra-iran-barcos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/teheran-20260316054051629.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/trump-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-16T05:15:38.993Z"
+  "lastUpdate": "2026-03-16T07:18:43.335Z"
 }
