@@ -5,7 +5,7 @@
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "682,65"
+      "usdt": "681,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,25 +28,19 @@
       "source": "CNN en Español",
       "title": "El sistema eléctrico de Cuba sufre un colapso total",
       "link": "https://cnnespanol.cnn.com/2026/03/16/latinoamerica/sistema-electrico-cuba-colapso-total-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2264256020-20260316192944750.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1605176555.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comisión de Convivencia y Paz convoca a medios para fortalecer el libre ejercicio del periodismo",
-      "link": "https://noticiasvenevision.com/noticias/politica/comision-de-convivencia-y-paz-convoca-a-medios-para-fortalecer-el-libre-ejercicio-del-periodismo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5170543383867928335_y-f199da.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "SECTOR TURISMO PROYECTA UN CRECIMIENTO DEL 12 % PARA SEMANA SANTA",
-      "link": "https://noticierodigital.com/2026/03/sector-turismo-proyecta-un-crecimiento-del-12-para-semana-santa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/marisela-loaiza-627x376.jpg"
+      "title": "Nuevo embajador de Portugal entrega Copias de Estilo ante Cancillería venezolana",
+      "link": "https://noticiasvenevision.com/noticias/politica/nuevo-embajador-de-portugal-entrega-copias-de-estilo-ante-cancilleria-venezolana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5028618697836268420_y-ad636c.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Millonarias joyas, videos en casino y pistas de desaparición de David Acosta: “No tengo paz”",
-      "link": "https://www.noticiascaracol.com/judicial/millonarias-joyas-videos-en-casino-y-pistas-de-desaparicion-de-david-acosta-no-tengo-paz-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4f2b177/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F5b%2F94aa019c47e3a7a19704070fa81d%2Fdavid-acosta.jpg"
+      "title": "Duras palabras de Trump sobre Cuba en medio de crisis energética: \"Podría hacer lo que quisiera\"",
+      "link": "https://www.noticiascaracol.com/mundo/duras-palabras-de-trump-sobre-cuba-en-medio-de-crisis-energetica-podria-hacer-lo-que-quisiera-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b0a9d57/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F53%2F66%2F910d563c45eb9e9620fc7cf6ce1c%2Fplantilla-fotos-2026-03-16t175131-544.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1337-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-16T22:34:28.973Z"
+  "lastUpdate": "2026-03-16T23:33:11.545Z"
 }
