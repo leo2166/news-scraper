@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "661,69"
+      "usdt": "666,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Delsa Solórzano: La oposición no se elige desde el poder, es la que decidió la gente\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/delsa-solorzano-la-oposicion-no-se-elige-desde-el-poder-es-la-que-decidio-la-gente/",
+      "title": "Colapsada la Gran Caracas por paro de transporte en reclamo de aumento del pasaje\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/colapsada-la-gran-caracas-por-paro-de-transporte/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,23 +37,29 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/capturar020520221021-1-3af425.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "REUTERS: TRAFIGURA GUIARÁ A MINERVEN EN PROGRAMA DE ABASTECIMIENTO RESPONSABLE DE ORO ",
+      "link": "https://noticierodigital.com/2026/03/reuters-trafigura-guiara-a-minerven-en-programa-de-abastecimiento-responsable-de-oro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/oro.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Motociclista que mató a abuelito en Bogotá podría quedar libre: “Se preocupó más por huir”",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/motociclista-que-mato-a-abuelito-en-bogota-podria-quedar-libre-se-preocupo-mas-por-huir-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c836411/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2Fa0%2Fc2c8fa9c495f94fe422d04f66173%2Fabuelito-arrollado.jpg"
+      "title": "Motociclista borracho señalado de atropellar a abuelito en Bogotá no aceptó cargos",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/motociclista-borracho-senalado-de-atropellar-a-abuelito-en-bogota-no-acepto-cargos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2ec2475/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa7%2F7d%2F4dd491cb4d0e8c9d0b4641632e51%2Fabuelito-arrollado-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Muere candidato presidencial peruano Napoléon Becerra en accidente de tránsito",
-      "link": "https://laverdad.com/muere-candidato-presidencial-peruano-napoleon-becerra-en-accidente-de-transito/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/f960x540-339290_413365_5050.jpg"
+      "title": "Arrestan en Nueva Jersey a venezolano, presunto miembro del “Tren de Aragua”",
+      "link": "https://laverdad.com/arrestan-en-nueva-jersey-a-venezolano-presunto-miembro-del-tren-de-aragua/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/preso-en-Nueva-Jersey.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán ataca Dubái y frena el tráfico en Ormuz mientras sube el temor a una crisis energética",
-      "link": "https://diarioversionfinal.com/mundo/iran-ataca-dubai-y-frena-el-trafico-en-ormuz-mientras-sube-el-temor-a-una-crisis-energetica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/columnas-de-fuego-y-humo-luego-de-un-ataque-de-un-FLFRJ57ZF5BHNEUPW4KJFNL2MY-750x430.jpg"
+      "title": "El papa León XIV pide a periodistas no convertir la información en propaganda de guerra",
+      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-pide-a-periodistas-no-convertir-la-informacion-en-propaganda-de-guerra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Papa-Leon-XIV-30-06-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-16T13:14:04.599Z"
+  "lastUpdate": "2026-03-16T15:00:35.017Z"
 };
