@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "677,50"
+      "usdt": "681,65"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán advierte de ataques contra instalaciones vinculadas a EE.UU.",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ultima-hora.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "El sistema eléctrico de Cuba sufre un colapso total",
+      "link": "https://cnnespanol.cnn.com/2026/03/16/latinoamerica/sistema-electrico-cuba-colapso-total-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2264256020-20260316192944750.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Comisión de Convivencia y Paz convoca a medios para fortalecer el libre ejercicio del periodismo",
       "link": "https://noticiasvenevision.com/noticias/politica/comision-de-convivencia-y-paz-convoca-a-medios-para-fortalecer-el-libre-ejercicio-del-periodismo",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5170543383867928335_y-f199da.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "ECARRI: «SISTEMA DE JUSTICIA ESTÁ CORROMPIDO HASTA LA MÉDULA'»",
-      "link": "https://noticierodigital.com/2026/03/ecarri-sistema-de-justicia-esta-corrompido-hasta-la-medula/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/antonio-ecarri.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Descubren un nuevo tipo de planeta con océano de magma y azufre",
-      "link": "https://laverdad.com/descubren-un-nuevo-tipo-de-planeta-con-oceano-de-magma-y-azufre/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nuevo-planeta.jpg"
+      "title": "Le diagnostican cáncer de mama a Susie Wiles, jefa de gabinete de Trump",
+      "link": "https://laverdad.com/le-diagnostican-cancer-de-mama-a-susie-wiles-jefa-de-gabinete-de-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Susie-Wiles.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONU exige claridad en liberaciones bajo la Ley de Amnistía en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/onu-exige-claridad-en-liberaciones-bajo-la-ley-de-amnistia-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/02/volker-turk-750x430.jpeg"
+      "title": "Caso Ojeda: Fiscal chileno dice que declaración de Maduro dependerá de \"su disposición\"",
+      "link": "https://diarioversionfinal.com/mundo/caso-ojeda-fiscal-chileno-dice-que-declaracion-de-maduro-dependera-de-su-disposicion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Angel-Valencia-y-Maduro-16-03-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-03-16T19:02:24.960Z"
+  "lastUpdate": "2026-03-16T20:39:18.990Z"
 }
