@@ -5,7 +5,7 @@
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "669,50"
+      "usdt": "677,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "Red de falsos noticieros difunde propaganda sobre Delcy Rodríguez en YouTube\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/red-de-falsos-noticieros-difunde-propaganda-de-delcy-rodriguez/",
+      "title": "Venezuela no ha enviado a la ONU la lista de presos liberados ni le ha permitido visitas\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/venezuela-no-ha-enviado-a-la-onu-la-lista-de-presos-liberados-ni-le-ha-permitido-visitas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump pide ayuda con el estrecho de Ormuz, pero ningún país se compromete",
+      "title": "Irán advierte de ataques contra instalaciones vinculadas a EE.UU.",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266715796-594x594.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ultima-hora.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +37,22 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5170543383867928335_y-f199da.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ECARRI: «SISTEMA DE JUSTICIA ESTÁ CORROMPIDO HASTA LA MÉDULA'»",
+      "link": "https://noticierodigital.com/2026/03/ecarri-sistema-de-justicia-esta-corrompido-hasta-la-medula/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/antonio-ecarri.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Aerocivil reporta nuevo incidente aéreo en El Dorado y hubo emergencia en despegue: revelan audio",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/aerocivil-reporta-nuevo-incidente-aereo-en-el-dorado-y-hubo-emergencia-en-despegue-revelan-audio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5241e35/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F03%2F78%2F1fe57d504984894a9b88c8fc7b79%2Favion-incidente.jpg"
+      "title": "Millonarias joyas, videos en casino y pistas de desaparición de David Acosta: “No tengo paz”",
+      "link": "https://www.noticiascaracol.com/judicial/millonarias-joyas-videos-en-casino-y-pistas-de-desaparicion-de-david-acosta-no-tengo-paz-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4f2b177/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F5b%2F94aa019c47e3a7a19704070fa81d%2Fdavid-acosta.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Descubren un nuevo tipo de planeta con océano de magma y azufre",
       "link": "https://laverdad.com/descubren-un-nuevo-tipo-de-planeta-con-oceano-de-magma-y-azufre/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nuevo-planeta.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/02/volker-turk-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-16T17:01:19.305Z"
+  "lastUpdate": "2026-03-16T19:02:24.960Z"
 }
