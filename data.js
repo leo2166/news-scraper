@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "668,30"
+      "usdt": "666,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,15 +44,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ecuador inicia 15 días de operaciones antinarco con apoyo de Estados Unidos: \"Estamos en guerra\"",
-      "link": "https://www.noticiascaracol.com/mundo/ecuador-inicia-15-dias-de-operaciones-antinarco-con-apoyo-de-estados-unidos-estamos-en-guerra-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4fe310b/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9a%2F1b%2F6d213b384d2ca4d7a92b3255181b%2Fsoldados-de-ecuador.jpg"
+      "title": "Motociclista que mató a abuelito en Bogotá podría quedar libre: “Se preocupó más por huir”",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/motociclista-que-mato-a-abuelito-en-bogota-podria-quedar-libre-se-preocupo-mas-por-huir-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c836411/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2Fa0%2Fc2c8fa9c495f94fe422d04f66173%2Fabuelito-arrollado.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Muere candidato presidencial peruano Napoléon Becerra en accidente de tránsito",
       "link": "https://laverdad.com/muere-candidato-presidencial-peruano-napoleon-becerra-en-accidente-de-transito/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/f960x540-339290_413365_5050.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/trump-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-16T10:10:48.781Z"
+  "lastUpdate": "2026-03-16T11:48:24.936Z"
 };
