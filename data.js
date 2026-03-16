@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "511,22"
     },
     "binance": {
-      "usdt": "666,69"
+      "usdt": "634,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Trump intensifica las peticiones a sus aliados para reabrir el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266715891-594x594.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266715796-594x594.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/trump-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-16T02:30:16.842Z"
+  "lastUpdate": "2026-03-16T05:15:38.993Z"
 };
