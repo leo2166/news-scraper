@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "446,80",
-      "eur": "511,22"
+      "usd": "448,37",
+      "eur": "514,98"
     },
     "binance": {
-      "usdt": "681,65"
+      "usdt": "680,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5170543383867928335_y-f199da.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "123 VENEZOLANOS RETORNARON AL PAÍS DESDE EE. UU. EN NUEVO VUELO DE DEPORTACIÓN",
+      "link": "https://noticierodigital.com/2026/03/123-venezolanos-retornaron-al-pais-desde-ee-uu-en-nuevo-vuelo-de-deportacion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-con-venezolanos-deportados-de-eeuu-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Millonarias joyas, videos en casino y pistas de desaparición de David Acosta: “No tengo paz”",
       "link": "https://www.noticiascaracol.com/judicial/millonarias-joyas-videos-en-casino-y-pistas-de-desaparicion-de-david-acosta-no-tengo-paz-rg10",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Caso Ojeda: Fiscal chileno dice que declaración de Maduro dependerá de \"su disposición\"",
-      "link": "https://diarioversionfinal.com/mundo/caso-ojeda-fiscal-chileno-dice-que-declaracion-de-maduro-dependera-de-su-disposicion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Angel-Valencia-y-Maduro-16-03-2026.jpg"
+      "title": "Trump considera improbable poner fin al conflicto con Irán esta misma semana",
+      "link": "https://diarioversionfinal.com/mundo/trump-considera-improbable-poner-fin-al-conflicto-con-iran-esta-misma-semana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Donald-Trump-presidente-de-Estados-Unidos-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-16T20:39:18.990Z"
+  "lastUpdate": "2026-03-16T21:40:18.043Z"
 };
