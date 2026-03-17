@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "685,65"
+      "usdt": "686,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Atacan embajada de EE.UU. en Bagdag y campos petrolíferos",
+      "title": "Atacan embajada de EE.UU. en Bagdad y campos petrolíferos",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-16-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26075716882983-20260317003231754.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/260313-tehran-iran-ew-330p-0114e9-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T08:54:47.017Z"
+  "lastUpdate": "2026-03-17T09:56:23.037Z"
 };
