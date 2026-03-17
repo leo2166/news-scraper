@@ -5,7 +5,7 @@
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "684,80"
+      "usdt": "679,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Israel afirma que mató al jefe de seguridad de Irán",
+      "title": "Funcionario de inteligencia de alto rango de EE.UU. renuncia por la guerra con Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260317095320544.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250672981-20260317141628891.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez convoca al desarrollo nacional frente a intentos de paralización del transporte en Caracas",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-convoca-al-desarrollo-nacional-frente-a-intentos-de-paralizacion-del-transporte-en-caracas",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5026529419585065630_w-5203ae.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA CELEBRA PASE DE FINAL AL CLÁSICO MUNDIAL TRAS VENCER A ITALIA 4-2",
-      "link": "https://noticierodigital.com/2026/03/venezuela-celebra-pase-de-final-al-clasico-mundial-tras-vencer-a-italia-4-2/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-18-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Trump asegura que sería un “gran honor” para él “tomar Cuba”",
-      "link": "https://laverdad.com/trump-asegura-que-seria-un-gran-honor-para-el-tomar-cuba/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-2.jpg"
+      "title": "Israel asegura que mató al secretario del Consejo Supremo de Seguridad iraní",
+      "link": "https://laverdad.com/israel-asegura-que-mato-al-secretario-del-consejo-supremo-de-seguridad-irani/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ali-Lariyani-referencial.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel afirma haber eliminado a Alí Larijani, jefe de seguridad iraní",
-      "link": "https://diarioversionfinal.com/mundo/israel-afirma-haber-eliminado-a-ali-larijani-jefe-de-seguridad-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AFP__20250813__69FH4L7__v1__HighRes__LebanonIranPoliticsDiplomacyParliament.jpg-750x430.jpeg"
+      "title": "ONU alerta que guerra en Irán podría provocar hambre a 45 millones en el mundo",
+      "link": "https://diarioversionfinal.com/mundo/onu-alerta-que-guerra-en-iran-podria-provocar-hambre-a-45-millones-en-el-mundo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/sahel-2022-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T13:14:00.939Z"
+  "lastUpdate": "2026-03-17T14:57:14.416Z"
 }
