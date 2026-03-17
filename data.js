@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "697,50"
+      "usdt": "699,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Encuesta Hercon Consultores: 8 de cada 10 venezolanos rechaza la gestión de Delcy Rodríguez mientras María Corina Machado consolida un apoyo masivo\nPOLÍTICA",
+      "title": "Encuesta Hercon Consultores: 8 de cada 10 venezolanos rechaza la gestión de Delcy Rodríguez, mientras María Corina Machado consolida apoyo masivo\nPOLÍTICA",
       "link": "https://www.elnacional.com/2026/03/hercon-consultores-encuesta-marzo-2026-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Funcionario de alto rango de EE.UU. renuncia con duro mensaje sobre la guerra",
-      "link": "https://cnnespanol.cnn.com/2026/03/17/eeuu/no-puedo-apoyar-guerra-kent-renuncia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250672981-20260317141628891.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán confirma la muerte del jefe de la fuerza paramilitar Basij",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-17-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-17-142139.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Freddy Superlano afirmó que la actual Ley de Amnistía no debe aplicarse de forma selectiva",
       "link": "https://noticiasvenevision.com/noticias/politica/freddy-superlano-afirmo-que-la-actual-ley-de-amnistia-no-debe-aplicarse-de-forma-selectiva",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ph5pjcf--a4552a.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "CAPTURADA POR GRABAR A SUS HIJAS MIENTRAS ERAN ABUSADAS SEXUALMENTE",
-      "link": "https://noticierodigital.com/2026/03/capturada-por-grabar-a-sus-hijas-mientras-eran-abusadas-sexualmente/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260317-WA0086-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Tribunal de apelaciones del Vaticano declara nulo el “juicio del siglo” contra el cardenal Becciu",
-      "link": "https://laverdad.com/tribunal-de-apelaciones-del-vaticano-declara-nulo-el-juicio-del-siglo-contra-el-cardenal-becciu/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/04/Angelo-Becciu-1.jpg"
+      "title": "Petro reporta 27 cuerpos carbonizados por bombardeos de Ecuador en la frontera",
+      "link": "https://laverdad.com/petro-reporta-27-cuerpos-carbonizados-por-bombardeos-de-ecuador-en-la-frontera/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Artefacto-explosivo-artefacto-explosivo-Jardines-de-Sucumbios.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. busca fertilizantes en Venezuela y Marruecos ante crisis por guerra con Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-busca-fertilizantes-en-venezuela-y-marruecos-ante-crisis-por-guerra-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/qHB2Iuil-750x430.jpg"
+      "title": "Venezolano ligado al Tren de Aragua se convierte en primer ciberdelincuente en lista del FBI",
+      "link": "https://diarioversionfinal.com/mundo/venezolano-ligado-al-tren-de-aragua-se-convierte-en-primer-ciberdelincuente-en-lista-del-fbi/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezolano-del-Tren-de-Aragua-primer-ciberdelincuente-en-lista-de-mas-buscados-del-FBI-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T19:15:38.043Z"
+  "lastUpdate": "2026-03-17T20:39:58.486Z"
 };
