@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "684,65"
+      "usdt": "679,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/260313-tehran-iran-ew-330p-0114e9-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T10:53:53.979Z"
+  "lastUpdate": "2026-03-17T11:43:13.699Z"
 };
