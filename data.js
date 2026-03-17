@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "679,80"
+      "usdt": "688,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Más de 130 personas se postularon para los cargos de fiscal general y defensor del pueblo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/17/mas-de-130-personas-se-postularon-para-los-cargos-de-fiscal-general-y-defensor-del-pueblo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/5FMTCCOCC5BDDN4DHDC6IXXQGM.jpg?auth=cd7209a10074008f18bfa134beba851bf5dc097fc029456c8b8d07c95290d1a0&smart=true&width=350&height=197&quality=85"
+      "title": "El sindicato de prensa de Venezuela denunció que le negaron la amnistía a un productor audiovisual",
+      "link": "https://www.infobae.com/venezuela/2026/03/17/el-sindicato-de-prensa-de-venezuela-denuncio-que-le-negaron-la-amnistia-a-un-productor-audiovisual/",
+      "image": "https://www.infobae.com/resizer/v2/2LSIMAJWZZADLGFJLKHZEQAV3U.jpg?auth=288c1a079575784a588cf11e7785777e41fb5d5923e9b8a7b60b5d3ed19f1853&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,8 +26,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Funcionario de inteligencia de alto rango de EE.UU. renuncia por la guerra con Irán",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-17-trax",
+      "title": "Funcionario de alto rango de EE.UU. renuncia con duro mensaje sobre la guerra",
+      "link": "https://cnnespanol.cnn.com/2026/03/17/eeuu/no-puedo-apoyar-guerra-kent-renuncia-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250672981-20260317141628891.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -38,22 +38,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Acueducto de Bogotá se pronuncia sobre homicidio de trabajador en Salitre: \"Un ejemplar servidor\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/acueducto-de-bogota-se-pronuncia-sobre-homicidio-de-trabajador-en-salitre-un-ejemplar-servidor-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c7a892a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9e%2F4d%2Fc13592694d6792bac7cebc33dd74%2Fsenado-34.jpg"
+      "title": "Así ocurrió el homicidio del trabajador de Acueducto de Bogotá en Salitre: “Tres disparos”",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/asi-ocurrio-el-homicidio-del-trabajador-de-acueducto-de-bogota-en-salitre-tres-disparos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c7406d9/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe9%2Fa0%2F2b963ebe46eb997f952ac07f7442%2Fportadas-caracol-web-23.png"
     },
     {
       "source": "La Verdad",
-      "title": "Israel asegura que mató al secretario del Consejo Supremo de Seguridad iraní",
-      "link": "https://laverdad.com/israel-asegura-que-mato-al-secretario-del-consejo-supremo-de-seguridad-irani/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ali-Lariyani-referencial.jpg"
+      "title": "Director del Centro contra el Terrorismo de EE. UU, renuncia en rechazo a la guerra de Irán",
+      "link": "https://laverdad.com/director-del-centro-contra-el-terrorismo-de-ee-uu-renuncia-en-rechazo-a-la-guerra-de-iran/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONU alerta que guerra en Irán podría provocar hambre a 45 millones en el mundo",
-      "link": "https://diarioversionfinal.com/mundo/onu-alerta-que-guerra-en-iran-podria-provocar-hambre-a-45-millones-en-el-mundo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/sahel-2022-750x430.webp"
+      "title": "Exjefe de la Patrulla Fronteriza que generó críticas por muertes en operativos se retira",
+      "link": "https://diarioversionfinal.com/mundo/exjefe-de-la-patrulla-fronteriza-que-genero-criticas-por-muertes-en-operativos-se-retira/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/bovino-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-17T14:57:14.416Z"
+  "lastUpdate": "2026-03-17T16:10:14.608Z"
 };
