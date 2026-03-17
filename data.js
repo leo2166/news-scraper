@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "448,37",
-      "eur": "514,98"
+      "usd": "451,51",
+      "eur": "520,64"
     },
     "binance": {
-      "usdt": "698,50"
+      "usdt": "699,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El sindicato de prensa de Venezuela denunció que le negaron la amnistía a un productor audiovisual",
-      "link": "https://www.infobae.com/venezuela/2026/03/17/el-sindicato-de-prensa-de-venezuela-denuncio-que-le-negaron-la-amnistia-a-un-productor-audiovisual/",
-      "image": "https://www.infobae.com/resizer/v2/2LSIMAJWZZADLGFJLKHZEQAV3U.jpg?auth=288c1a079575784a588cf11e7785777e41fb5d5923e9b8a7b60b5d3ed19f1853&smart=true&width=350&height=197&quality=85"
+      "title": "La junta directiva de PDVSA ratificó a Asdrúbal Chávez como presidente de Citgo",
+      "link": "https://www.infobae.com/venezuela/2026/03/17/la-junta-directiva-de-pdvsa-ratifico-a-asdrubal-chavez-como-presidente-de-citgo/",
+      "image": "https://www.infobae.com/resizer/v2/R4FOM2NTN5DRPNFXUTMETW2EOQ.jpg?auth=5a2b2f420359bc7bd5bf573445c402029a0764ea36531738de44e38c716d57f1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN EVALUÓ LA APLICACIÓN DE LA LEY DE AMNISTÍA JUNTO A RODRÍGUEZ ZAPATERO",
-      "link": "https://noticierodigital.com/2026/03/an-evaluo-la-aplicacion-de-la-ley-de-amnistia-junto-a-rodriguez-zapatero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/jorge-rodriguez-asamblea-nacional-jose-luis-rodriguez-zapatero-627x376.jpg"
+      "title": "GUSTAVO PETRO ABORDÓ LAS PERCEPCIONES SOBRE VENEZUELA JUNTO A EMMANUEL MACRON",
+      "link": "https://noticierodigital.com/2026/03/gustavo-petro-abordo-las-percepciones-sobre-venezuela-junto-a-emmanuel-macron/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/emmanuel-macron-gustavo-petro-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "EE. UU. construye muro negro en la frontera con México para dificultar escalada de migrantes",
       "link": "https://laverdad.com/ee-uu-construye-muro-negro-en-la-frontera-con-mexico-para-dificultar-escalada-de-migrantes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Muro-negro-frontera-EE.-UU.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezolano-del-Tren-de-Aragua-primer-ciberdelincuente-en-lista-de-mas-buscados-del-FBI-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T21:38:18.203Z"
+  "lastUpdate": "2026-03-17T22:34:23.928Z"
 };
