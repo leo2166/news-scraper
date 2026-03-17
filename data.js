@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "679,87"
+      "usdt": "684,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una ONG venezolana exigió la publicación inmediata de la lista completa de los nombres de los presos políticos liberados en el país",
-      "link": "https://www.infobae.com/venezuela/2026/03/17/una-ong-venezolana-exigio-la-publicacion-inmediata-de-la-lista-completa-de-los-nombres-de-los-presos-politicos-liberados-en-el-pais/",
-      "image": "https://www.infobae.com/resizer/v2/K63J6KCHBBCADNGC2ON2W7DFXU.jpg?auth=683b66a6f325800eda8059ce1122eb89cc95e866fec677de558af8e0e5027164&smart=true&width=350&height=197&quality=85"
+      "title": "Más de 130 personas se postularon para los cargos de fiscal general y defensor del pueblo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/17/mas-de-130-personas-se-postularon-para-los-cargos-de-fiscal-general-y-defensor-del-pueblo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/5FMTCCOCC5BDDN4DHDC6IXXQGM.jpg?auth=cd7209a10074008f18bfa134beba851bf5dc097fc029456c8b8d07c95290d1a0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Fiscalía chilena pide a Estados Unidos interrogar a Maduro por el asesinato del exmilitar opositor Ronald Ojeda\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/fiscalia-chilena-pide-a-estados-unidos-interrogar-a-maduro-por-crimen-del-exmilitar-opositor-ojeda/",
+      "title": "Piden a la Asamblea Nacional publicar criterios de evaluación para elegir al fiscal general y al defensor del pueblo\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/piden-publicar-criterios-para-elegir-al-fiscal-y-defender-del-pueblo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MAS INSTÓ A LA AN A GARANTIZAR TRANSPARENCIA EN LA DESIGNACIÓN DEL PODER CIUDADANO",
-      "link": "https://noticierodigital.com/2026/03/mas-insto-a-la-an-a-garantizar-transparencia-en-la-designacion-del-poder-ciudadano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/maria-verdeal-mas-venezuela-627x376.jpg"
+      "title": "VENEZUELA CELEBRA PASE DE FINAL AL CLÁSICO MUNDIAL TRAS VENCER A ITALIA 4-2",
+      "link": "https://noticierodigital.com/2026/03/venezuela-celebra-pase-de-final-al-clasico-mundial-tras-vencer-a-italia-4-2/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-18-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Le diagnostican cáncer de mama a Susie Wiles, jefa de gabinete de Trump",
-      "link": "https://laverdad.com/le-diagnostican-cancer-de-mama-a-susie-wiles-jefa-de-gabinete-de-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Susie-Wiles.jpg"
+      "title": "Trump asegura que sería un “gran honor” para él “tomar Cuba”",
+      "link": "https://laverdad.com/trump-asegura-que-seria-un-gran-honor-para-el-tomar-cuba/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "“No pasará mucho tiempo”: Trump afirma que la guerra contra Irán acabará “pronto”",
-      "link": "https://diarioversionfinal.com/mundo/no-pasara-mucho-tiempo-trump-afirma-que-la-guerra-contra-iran-acabara-pronto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/260313-tehran-iran-ew-330p-0114e9-750x430.webp"
+      "title": "Israel afirma haber eliminado a Alí Larijani, jefe de seguridad iraní",
+      "link": "https://diarioversionfinal.com/mundo/israel-afirma-haber-eliminado-a-ali-larijani-jefe-de-seguridad-irani/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AFP__20250813__69FH4L7__v1__HighRes__LebanonIranPoliticsDiplomacyParliament.jpg-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-17T11:43:13.699Z"
+  "lastUpdate": "2026-03-17T13:14:00.939Z"
 };
