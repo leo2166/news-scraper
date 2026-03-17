@@ -5,7 +5,7 @@
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "699,20"
+      "usdt": "698,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,16 +37,22 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ph5pjcf--a4552a.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "AN EVALUÓ LA APLICACIÓN DE LA LEY DE AMNISTÍA JUNTO A RODRÍGUEZ ZAPATERO",
+      "link": "https://noticierodigital.com/2026/03/an-evaluo-la-aplicacion-de-la-ley-de-amnistia-junto-a-rodriguez-zapatero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/jorge-rodriguez-asamblea-nacional-jose-luis-rodriguez-zapatero-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "El niño Kevin Acosta murió por negligencia de la Nueva EPS, dice Procuraduría",
-      "link": "https://www.noticiascaracol.com/judicial/el-nino-kevin-acosta-murio-por-negligencia-de-la-nueva-eps-dice-procuraduria-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4c9017c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F89%2Fc2%2F2bd17a9f4f20bf0b4047ec370ff7%2Fprocuraduria-kevin.jpg"
+      "title": "Se conoce video del crimen de funcionario del Acueducto de Bogotá en medio de intento de robo",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/se-conoce-video-del-crimen-de-funcionario-del-acueducto-de-bogota-en-medio-de-intento-de-robo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/473c5fb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F99%2F64%2F812f9c13479089cd3d8c4b35c74f%2Fvideo-acueducto.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Petro reporta 27 cuerpos carbonizados por bombardeos de Ecuador en la frontera",
-      "link": "https://laverdad.com/petro-reporta-27-cuerpos-carbonizados-por-bombardeos-de-ecuador-en-la-frontera/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Artefacto-explosivo-artefacto-explosivo-Jardines-de-Sucumbios.jpg"
+      "title": "EE. UU. construye muro negro en la frontera con México para dificultar escalada de migrantes",
+      "link": "https://laverdad.com/ee-uu-construye-muro-negro-en-la-frontera-con-mexico-para-dificultar-escalada-de-migrantes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Muro-negro-frontera-EE.-UU.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezolano-del-Tren-de-Aragua-primer-ciberdelincuente-en-lista-de-mas-buscados-del-FBI-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T20:39:58.486Z"
+  "lastUpdate": "2026-03-17T21:38:18.203Z"
 }
