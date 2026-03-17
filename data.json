@@ -5,7 +5,7 @@
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "686,50"
+      "usdt": "684,65"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Atacan embajada de EE.UU. en Bagdad y campos petrolíferos",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26075716882983-20260317003231754.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Israel afirma que mató al jefe de seguridad de Irán",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-17-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260317095320544.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ideam alerta nuevo frente frío en Colombia: lluvias y más viento esta semana en varias regiones",
-      "link": "https://www.noticiascaracol.com/colombia/ideam-alerta-nuevo-frente-frio-en-colombia-lluvias-y-mas-viento-esta-semana-en-varias-regiones-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b48fea/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F99%2F12%2Ffa1e426941558d3bdfa163121a1a%2Fideam.jpg"
+      "title": "Acueducto de Bogotá se pronuncia sobre homicidio de trabajador en Salitre: \"Un ejemplar servidor\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/acueducto-de-bogota-se-pronuncia-sobre-homicidio-de-trabajador-en-salitre-un-ejemplar-servidor-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c7a892a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9e%2F4d%2Fc13592694d6792bac7cebc33dd74%2Fsenado-34.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/260313-tehran-iran-ew-330p-0114e9-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T09:56:23.037Z"
+  "lastUpdate": "2026-03-17T10:53:53.979Z"
 }
