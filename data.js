@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "514,98"
     },
     "binance": {
-      "usdt": "688,70"
+      "usdt": "692,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Piden a la Asamblea Nacional publicar criterios de evaluación para elegir al fiscal general y al defensor del pueblo\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/piden-publicar-criterios-para-elegir-al-fiscal-y-defender-del-pueblo/",
+      "title": "Pdvsa nombró a Asdrúbal Chávez al frente de sus filiales en Estados Unidos\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/pdvsa-nombra-a-asdrubal-chavez-al-frente-de-filiales-en-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez convoca al desarrollo nacional frente a intentos de paralización del transporte en Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-convoca-al-desarrollo-nacional-frente-a-intentos-de-paralizacion-del-transporte-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5026529419585065630_w-5203ae.jpg"
+      "title": "Freddy Superlano afirmó que la actual Ley de Amnistía no debe aplicarse de forma selectiva",
+      "link": "https://noticiasvenevision.com/noticias/politica/freddy-superlano-afirmo-que-la-actual-ley-de-amnistia-no-debe-aplicarse-de-forma-selectiva",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ph5pjcf--a4552a.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "CAPTURADA POR GRABAR A SUS HIJAS MIENTRAS ERAN ABUSADAS SEXUALMENTE",
+      "link": "https://noticierodigital.com/2026/03/capturada-por-grabar-a-sus-hijas-mientras-eran-abusadas-sexualmente/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260317-WA0086-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Exjefe de la Patrulla Fronteriza que generó críticas por muertes en operativos se retira",
-      "link": "https://diarioversionfinal.com/mundo/exjefe-de-la-patrulla-fronteriza-que-genero-criticas-por-muertes-en-operativos-se-retira/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/bovino-750x430.jpg"
+      "title": "Trump afirma que EE.UU. puede reabrir el estrecho de Ormuz sin apoyo de la Otan",
+      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-ee-uu-puede-reabrir-el-estrecho-de-ormuz-sin-apoyo-de-la-otan/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-17T16:10:14.608Z"
+  "lastUpdate": "2026-03-17T17:58:40.948Z"
 };
