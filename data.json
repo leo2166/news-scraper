@@ -5,7 +5,7 @@
       "eur": "520,64"
     },
     "binance": {
-      "usdt": "685,00"
+      "usdt": "698,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán ataca Tel Aviv en represalia por la muerte del jefe de seguridad",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f5b31388890d53acaef140af2ec7d38088ceb6e5-20260318053143026.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán ataca Tel Aviv en represalia por la muerte de su jefe de seguridad",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ahora ser \"gusano\" en Cuba es sinónimo de valentía y lucha contra la dictadura, así lo explica la periodista Yoani Sánchez",
-      "link": "https://diarioversionfinal.com/mundo/ahora-ser-gusano-en-cuba-es-sinonimo-de-valentia-y-lucha-contra-la-dictadura-asi-lo-explica-la-periodista-yoani-sanchez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/sanchez.jpg"
+      "title": "Misil iraní deja dos muertos en Tel Aviv tras asegurar su venganza por la muerte de otro líder de la dictadura",
+      "link": "https://diarioversionfinal.com/mundo/misil-irani-deja-dos-muertos-en-tel-aviv-tras-asegurar-su-venganza-por-la-muerte-de-otro-lider-de-la-dictadura/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/tel-aviv.webp"
     }
   ],
-  "lastUpdate": "2026-03-18T09:56:03.004Z"
+  "lastUpdate": "2026-03-18T10:54:40.580Z"
 }
