@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "520,64"
     },
     "binance": {
-      "usdt": "698,99"
+      "usdt": "690,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán ataca Tel Aviv en represalia por la muerte de su jefe de seguridad",
+      "title": "Israel dice que mató al ministro de Inteligencia de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25159484894965-20260318110124446.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "“Este país merece algo mejor”: Sobrino de funcionario del Acueducto asesinado tras intento de robo",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/este-pais-merece-algo-mejor-sobrino-de-funcionario-del-acueducto-asesinado-tras-intento-de-robo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/38662ab/2147483647/strip/true/crop/1755x990+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F48%2F0c%2F8d5ab1e74ab2978b2cab06aab8f8%2Fplantilla-fotos-2026-03-17t215334-885.jpg"
+      "title": "El choque entre Iván Cepeda y Paloma Valencia durante plenaria del Senado: qué se dijeron",
+      "link": "https://www.noticiascaracol.com/politica/el-choque-entre-ivan-cepeda-y-paloma-valencia-durante-plenaria-del-senado-que-se-dijeron-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aa8d095/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F39%2F2750d2314242a92efd959d1e21fd%2Fivan-cepeda-y-paloma-valencia.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/tel-aviv.webp"
     }
   ],
-  "lastUpdate": "2026-03-18T10:54:40.580Z"
+  "lastUpdate": "2026-03-18T11:47:04.671Z"
 };
