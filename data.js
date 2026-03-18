@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "451,51",
-      "eur": "520,64"
+      "usd": "455,25",
+      "eur": "524,51"
     },
     "binance": {
-      "usdt": "700,68"
+      "usdt": "701,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez designa a Gustavo González López como nuevo Ministro de la Defensa",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-designa-a-gustavo-gonzalez-lopez-como-nuevo-ministro-de-la-defensa",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/dwazbccwoaeuqvz-ed31be.jpg"
+      "title": "Presidente de la AN recibe a Encargada de Negocios de EE.UU. Laura Dogu",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidente-de-la-an-recibe-a-encargada-de-negocios-de-eeuu-laura-dogu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-18-at-5.40.26-pm-3-b32feb.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONINDUSTRIA Y MIN. INDUSTRIA INSTALARÁN MESAS DE TRABAJO PARA IMPULSAR PRODUCCIÓN NACIONAL",
-      "link": "https://noticierodigital.com/2026/03/conindustria-y-min-industria-instalaran-mesas-de-trabajo-para-impulsar-produccion-nacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-18_155642628-627x376.png"
+      "title": "DELEGACIÓN DEL SENADO DE EE. UU. Y LAURA DOGU SE REUNIERON CON DIRECTIVA DE LA AN",
+      "link": "https://noticierodigital.com/2026/03/delegacion-del-senado-de-ee-uu-y-laura-dogu-se-reunieron-con-directiva-de-la-an/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/jorge-rodriguez-laura-dou-senado-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Vladimir Padrino deja de ser el ministro de Defensa de Venezuela: este funcionario será su reemplazo",
-      "link": "https://www.noticiascaracol.com/mundo/vladimir-padrino-deja-de-ser-el-ministro-de-venezuela-este-funcionario-sera-su-reemplazo-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e4ebbac/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F00%2F76%2F90ec6fab48569d5948ec61e1bc48%2Fpadrino-delcy.jpg"
+      "title": "VIDEO | Fuertes lluvias generan emergencias por inundaciones en Facatativá este 18 de marzo",
+      "link": "https://www.noticiascaracol.com/colombia/video-fuertes-lluvias-generan-emergencias-por-inundaciones-en-facatativa-este-18-de-marzo-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6181907/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F25%2Fbc%2Fe87b2203468fa6b6e386dd73506f%2Flluvias.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-18T21:35:13.587Z"
+  "lastUpdate": "2026-03-18T22:33:44.545Z"
 };
