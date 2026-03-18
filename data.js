@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "520,64"
     },
     "binance": {
-      "usdt": "682,87"
+      "usdt": "694,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Fiesta en Venezuela por la histórica victoria contra EEUU en béisbol: Delcy Rodríguez decretó feriado y Machado saludó al equipo",
-      "link": "https://www.infobae.com/venezuela/2026/03/18/fiesta-en-venezuela-por-la-historica-victoria-contra-eeuu-en-beisbol-delcy-rodriguez-decreto-feriado-y-machado-saludo-al-equipo/",
-      "image": "https://www.infobae.com/resizer/v2/6NOV3H7YFZFVXIRYIKVXHN6BXU.jpg?auth=047d0b8d465032cbbb9bf747f7461de5a72c08c9658ed5e4861ec6acd1abe51a&smart=true&width=350&height=197&quality=85"
+      "title": "Provea denunció que le negaron la amnistía a seis sindicalistas en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/18/provea-denuncio-que-le-negaron-la-amnistia-a-seis-sindicalistas-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/UU7TM7EMGBFWVE3S627FFI34LU.jpg?auth=6497a131a8d4bc94699bf1a8ac633bfa25eaac13fdb8e9143f4962817b2488ed&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¡Que viva Venezuela! Venció a Estados Unidos y es campeona del mundo\nDEPORTES",
-      "link": "https://www.elnacional.com/2026/03/que-viva-venezuela-vencio-a-estados-unidos-y-es-campeona-del-mundo/",
+      "title": "Zapatero en Caracas: \"Los mejores momentos de los países son aquellos en los que ha primado el perdón y la reconciliación\"\nNOTICIAS",
+      "link": "https://www.elnacional.com/2026/03/zapatero-en-caracas-los-mejores-momentos-de-los-paises-son-aquellos-en-los-que-ha-primado-el-perdon-y-la-reconciliacion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BLOOMBERG: EE .UU. ALIVIARÁ MÁS SANCIONES A VENEZUELA PARA LIBERAR MÁS PETRÓLEO",
-      "link": "https://noticierodigital.com/2026/03/bloomberg-ee-uu-aliviara-mas-sanciones-a-venezuela-para-liberar-mas-petroleo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/imagen_2026-03-18_085458614-627x376.png"
+      "title": "BANCAMIGA: 19 AÑOS IMPULSANDO LA BANCA DEL FUTURO EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/bancamiga-19-anos-impulsando-la-banca-del-futuro-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-23-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El choque entre Iván Cepeda y Paloma Valencia durante plenaria del Senado: qué se dijeron",
-      "link": "https://www.noticiascaracol.com/politica/el-choque-entre-ivan-cepeda-y-paloma-valencia-durante-plenaria-del-senado-que-se-dijeron-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aa8d095/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F39%2F2750d2314242a92efd959d1e21fd%2Fivan-cepeda-y-paloma-valencia.jpg"
+      "title": "Se conoce video clave en crimen de Luder Quiñones, músico de Willy García",
+      "link": "https://www.noticiascaracol.com/colombia/se-conoce-video-clave-en-crimen-de-luder-quinones-musico-de-willy-garcia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0df70c2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2f%2F16%2F5173c3bf4cb99c9388a058ebd2d3%2Fmusico-willy-garcia.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Solicitan 7 años de prisión para hijo de la princesa Mette-Marit de Noruega",
-      "link": "https://diarioversionfinal.com/mundo/solicitan-7-anos-de-prision-para-hijo-de-la-princesa-mette-marit-de-noruega/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/6SQQ5HVEAFFFBI3KNCECYYEZBU-750x430.jpg"
+      "title": "Juzgado español recibe prueba clave del financiamiento del Psoe por parte de Pdvsa",
+      "link": "https://diarioversionfinal.com/mundo/juzgado-espanol-recibe-prueba-clave-del-financiamiento-del-psoe-por-parte-de-pdvsa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/PDVSA-960-512-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-18T13:14:06.532Z"
+  "lastUpdate": "2026-03-18T15:03:25.585Z"
 };
