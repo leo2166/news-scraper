@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela firmó con India un acuerdo sanitario para acceder a medicamentos genéricos a bajo costo",
-      "link": "https://www.infobae.com/venezuela/2026/03/17/venezuela-firmo-con-india-un-acuerdo-sanitario-para-acceder-a-medicamentos-genericos-a-bajo-costo/",
-      "image": "https://www.infobae.com/resizer/v2/HAYNWNOCAJEWLHHSH7I3TXLC5Q.jpg?auth=9553c1489e6f7d5877f50280121212b792d7320356f1b43a395066106eebdb90&smart=true&width=350&height=197&quality=85"
+      "title": "El titular de la Asamblea Nacional venezolana señaló al alto comisionado de la ONU para los DDHH, Volker Türk, como un “enemigo” del país",
+      "link": "https://www.infobae.com/venezuela/2026/03/18/el-titular-de-la-asamblea-nacional-venezolana-senalo-al-alto-comisionado-de-la-onu-para-los-ddhh-volker-turk-como-un-enemigo-del-pais/",
+      "image": "https://www.infobae.com/resizer/v2/KJKLZVNUMVF7NJXTHRGR5AP44A.JPG?auth=9c513d381934038b8d5238ef40e4428e1c260384e2eb9401728a163cd8b7f3d1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán confirma la muerte de su principal líder de seguridad",
+      "title": "Irán ataca Tel Aviv en represalia por la muerte del jefe de seguridad",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26076395657378-20260318003549241.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f5b31388890d53acaef140af2ec7d38088ceb6e5-20260318053143026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump dispuesto a reducir acciones antiinmigrantes para llegar a acuerdo que permita la reapertura del Gobierno",
-      "link": "https://diarioversionfinal.com/mundo/trump-dispuesto-a-reducir-acciones-antiinmigrantes-para-llegar-a-acuerdo-que-permita-la-reapertura-del-gobierno/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/TLMD-indocumentados-ice-750x375-1.webp"
+      "title": "Trump insinúa que quiere a Venezuela como estado 51 de Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/trump-insinua-que-quiere-a-venezuela-como-estado-51-de-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/eAZBphcg-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-18T06:05:19.536Z"
+  "lastUpdate": "2026-03-18T07:52:50.417Z"
 };
