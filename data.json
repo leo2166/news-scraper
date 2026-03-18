@@ -5,7 +5,7 @@
       "eur": "520,64"
     },
     "binance": {
-      "usdt": "699,00"
+      "usdt": "700,65"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La junta directiva de PDVSA ratificó a Asdrúbal Chávez como presidente de Citgo",
-      "link": "https://www.infobae.com/venezuela/2026/03/17/la-junta-directiva-de-pdvsa-ratifico-a-asdrubal-chavez-como-presidente-de-citgo/",
-      "image": "https://www.infobae.com/resizer/v2/R4FOM2NTN5DRPNFXUTMETW2EOQ.jpg?auth=5a2b2f420359bc7bd5bf573445c402029a0764ea36531738de44e38c716d57f1&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó con India un acuerdo sanitario para acceder a medicamentos genéricos a bajo costo",
+      "link": "https://www.infobae.com/venezuela/2026/03/17/venezuela-firmo-con-india-un-acuerdo-sanitario-para-acceder-a-medicamentos-genericos-a-bajo-costo/",
+      "image": "https://www.infobae.com/resizer/v2/HAYNWNOCAJEWLHHSH7I3TXLC5Q.jpg?auth=9553c1489e6f7d5877f50280121212b792d7320356f1b43a395066106eebdb90&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Encuesta Hercon Consultores: 8 de cada 10 venezolanos rechaza la gestión de Delcy Rodríguez, mientras María Corina Machado consolida apoyo masivo\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/hercon-consultores-encuesta-marzo-2026-venezuela/",
+      "title": "Académicos y sociedad civil instan a iniciar proceso transparente de reconstrucción institucional en Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/academicos-y-sociedad-civil-instan-a-iniciar-proceso-transparente-de-reconstruccion-institucional-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán confirma la muerte del jefe de la fuerza paramilitar Basij",
+      "title": "Irán confirma la muerte de su principal líder de seguridad",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-en-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-17-142139.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26076395657378-20260318003549241.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Freddy Superlano afirmó que la actual Ley de Amnistía no debe aplicarse de forma selectiva",
-      "link": "https://noticiasvenevision.com/noticias/politica/freddy-superlano-afirmo-que-la-actual-ley-de-amnistia-no-debe-aplicarse-de-forma-selectiva",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ph5pjcf--a4552a.jpg"
+      "title": "Inicia proceso para que venezolanos en el exterior soliciten beneficios de Ley de Amnistía",
+      "link": "https://noticiasvenevision.com/noticias/politica/inicia-proceso-para-que-venezolanos-en-el-exterior-soliciten-beneficios-de-ley-de-amnistia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5030667624869727116-eaf554.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolano ligado al Tren de Aragua se convierte en primer ciberdelincuente en lista del FBI",
-      "link": "https://diarioversionfinal.com/mundo/venezolano-ligado-al-tren-de-aragua-se-convierte-en-primer-ciberdelincuente-en-lista-del-fbi/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezolano-del-Tren-de-Aragua-primer-ciberdelincuente-en-lista-de-mas-buscados-del-FBI-750x430.webp"
+      "title": "Trump dispuesto a reducir acciones antiinmigrantes para llegar a acuerdo que permita la reapertura del Gobierno",
+      "link": "https://diarioversionfinal.com/mundo/trump-dispuesto-a-reducir-acciones-antiinmigrantes-para-llegar-a-acuerdo-que-permita-la-reapertura-del-gobierno/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/TLMD-indocumentados-ice-750x375-1.webp"
     }
   ],
-  "lastUpdate": "2026-03-17T23:33:23.328Z"
+  "lastUpdate": "2026-03-18T02:13:06.570Z"
 }
