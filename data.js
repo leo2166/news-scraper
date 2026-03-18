@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/sanchez.jpg"
     }
   ],
-  "lastUpdate": "2026-03-18T08:51:42.506Z"
+  "lastUpdate": "2026-03-18T09:56:03.004Z"
 };
