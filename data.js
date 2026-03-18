@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "520,64"
     },
     "binance": {
-      "usdt": "668,50"
+      "usdt": "685,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/TLMD-indocumentados-ice-750x375-1.webp"
     }
   ],
-  "lastUpdate": "2026-03-18T04:57:04.229Z"
+  "lastUpdate": "2026-03-18T06:05:19.536Z"
 };
