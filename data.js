@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "520,64"
     },
     "binance": {
-      "usdt": "699,99"
+      "usdt": "700,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Quién es Gustavo González López, el general al que Delcy Rodríguez nombró al frente del Ministerio de Defensa",
-      "link": "https://www.infobae.com/venezuela/2026/03/18/quien-es-gustavo-gonzalez-lopez-el-general-que-delcy-rodriguez-nombro-al-frente-del-ministerio-de-defensa/",
-      "image": "https://www.infobae.com/resizer/v2/4XNJFNOYXRH3XIAOB5BO6NKBIE.jpg?auth=0d29945352615f8722c76f4beb9fc47eef341353a2d8cb66662a7625fac2afa8&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez designó a un ingeniero civil como ministro de Energía Eléctrica en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/18/delcy-rodriguez-designo-a-un-ingeniero-civil-como-ministro-de-energia-electrica-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/VTQHDC4EKZHDTIKH4WXKV24RWA.jpg?auth=cdc65de512dad755ef54c3f2587635003786d948e7287d695887a1d480b3a6a9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Delcy Rodríguez destituye a Vladimir Padrino López del cargo de ministro de Defensa",
       "link": "https://cnnespanol.cnn.com/2026/03/18/venezuela/relevan-vladimir-padrino-ministro-defensa-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238840387-20260104181817353.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap23166414772631-20260318125537291.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Colombia confirma 14 muertos en frontera con Ecuador pero sin vínculo aparente con bombas",
       "link": "https://laverdad.com/colombia-confirma-14-muertos-en-frontera-con-ecuador-pero-sin-vinculo-aparente-con-bombas/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ministro-defensa-colombia.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-18T20:37:52.410Z"
+  "lastUpdate": "2026-03-18T21:35:13.587Z"
 };
