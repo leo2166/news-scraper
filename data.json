@@ -5,7 +5,7 @@
       "eur": "520,64"
     },
     "binance": {
-      "usdt": "700,65"
+      "usdt": "668,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Académicos y sociedad civil instan a iniciar proceso transparente de reconstrucción institucional en Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/academicos-y-sociedad-civil-instan-a-iniciar-proceso-transparente-de-reconstruccion-institucional-en-venezuela/",
+      "title": "¡Qué viva Venezuela! Venció a Estados Unidos y es campeona del mundo\nDEPORTES",
+      "link": "https://www.elnacional.com/2026/03/que-viva-venezuela-vencio-a-estados-unidos-y-es-campeona-del-mundo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Inicia proceso para que venezolanos en el exterior soliciten beneficios de Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/inicia-proceso-para-que-venezolanos-en-el-exterior-soliciten-beneficios-de-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5030667624869727116-eaf554.jpg"
+      "title": "Delcy Rodríguez decreta día no laborable tras victoria de Venezuela en el Clásico Mundial de Béisbol",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-decreta-dia-no-laborable-tras-victoria-de-venezuela-en-el-clasico-mundial-de-beisbol",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/foto-aln-4-88651f.png"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "DETUVIERON A UNA EX PRESA POLÍTICA RECIENTEMENTE EXCARCELADA EN LA FRONTERA",
+      "link": "https://noticierodigital.com/2026/03/detuvieron-a-una-ex-presa-politica-recientemente-excarcelada-en-la-frontera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/maria-de-los-angeles-castillo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Se conoce video del crimen de funcionario del Acueducto de Bogotá en medio de intento de robo",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/se-conoce-video-del-crimen-de-funcionario-del-acueducto-de-bogota-en-medio-de-intento-de-robo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/473c5fb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F99%2F64%2F812f9c13479089cd3d8c4b35c74f%2Fvideo-acueducto.jpg"
+      "title": "“Este país merece algo mejor”: Sobrino de funcionario del Acueducto asesinado tras intento de robo",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/este-pais-merece-algo-mejor-sobrino-de-funcionario-del-acueducto-asesinado-tras-intento-de-robo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/38662ab/2147483647/strip/true/crop/1755x990+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F48%2F0c%2F8d5ab1e74ab2978b2cab06aab8f8%2Fplantilla-fotos-2026-03-17t215334-885.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/TLMD-indocumentados-ice-750x375-1.webp"
     }
   ],
-  "lastUpdate": "2026-03-18T02:13:06.570Z"
+  "lastUpdate": "2026-03-18T04:57:04.229Z"
 }
