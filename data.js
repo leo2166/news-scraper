@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "699,20"
+      "usdt": "696,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con \"volar\" el mayor yacimiento de gas de Irán",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260319041820130.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump amenaza con \"volar\" el mayor yacimiento de gas del mundo",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-2-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267209797-20260319054644187.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-19T09:43:59.366Z"
+  "lastUpdate": "2026-03-19T10:40:46.388Z"
 };
