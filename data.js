@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "695,50"
+      "usdt": "694,49"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Freedom House alerta que Venezuela sigue siendo ejemplo de deterioro democrático\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/freedom-house-alerta-que-venezuela-sigue-siendo-ejemplo-de-deterioro-democratico/",
+      "title": "Rick Scott se reúne con María Corina Machado y destaca su compromiso con democracia venezolana\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/rick-scott-se-reune-con-maria-corina-machado-y-destaca-su-compromiso-con-democracia-venezolana/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Trump afirma haberle dicho a Netanyahu que detuviera los ataques contra instalaciones energéticas",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267209797-20260319054644187.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-03-19-at-16-18-42-1.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Analista Jesús González: \"La estabilización del sistema eléctrico es la piedra angular para el nuevo modelo económico\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/dr-jesus-gonzalez-la-reestructuracion-del-gabinete-es-una-respuesta-necesaria",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/924f319e-1f83-4097-9de9-4b1544d81797-aca514.jpg"
+      "title": "Delcy Rodríguez juramenta al nuevo Gabinete Ejecutivo",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-juramenta-al-nuevo-gabinete-ejecutivo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5035510561273219995-49ac6b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RICK SCOTT SOSTUVO UN ENCUENTRO CON MCM: «ESTOY CON EL PUEBLO DE VENEZUELA»",
-      "link": "https://noticierodigital.com/2026/03/rick-scott-sostuvo-un-encuentro-con-mcm-estoy-con-el-pueblo-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/rick-scott-maria-corina-machado-627x376.jpg"
+      "title": "AN DIFIRIÓ LA SEGUNDA DISCUSIÓN DEL PROYECTO DE LEY DE MINAS",
+      "link": "https://noticierodigital.com/2026/03/an-difirio-la-segunda-discusion-del-proyecto-de-ley-de-minas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/an_asamblea_nacional_16dic2019.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Detienen a 2 venezolanos en Ecuador vinculados con el “Tren de Aragua”",
       "link": "https://laverdad.com/detienen-a-2-venezolanos-en-ecuador-vinculados-con-el-tren-de-aragua/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Detenidos-dos-venezolanos-en-Ecuador-a-los-que-el-Gobierno-vincula-al-Tren-de-Aragua.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1455-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-19T22:29:36.375Z"
+  "lastUpdate": "2026-03-19T23:30:34.602Z"
 };
