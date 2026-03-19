@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "695,50"
+      "usdt": "695,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Gustavo González López: de señalado por la ONU a ministro de la Defensa\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/gonzalez-lopez-ministro-defensa-expediente-onu/",
+      "title": "Hombres no identificados se llevan vehículos en grúa de la casa de Antonieta Jurado sin orden judicial\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/hombres-no-identificados-se-llevan-vehiculos-en-grua-de-la-casa-de-antonieta-jurado-sin-orden-judicial/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Se dispara precio del petróleo y EE.UU. considera medidas para aumentar la oferta",
+      "title": "Trump afirma haberle dicho a Netanyahu que detuviera los ataques contra instalaciones energéticas",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/precio-brent-19marzo-cnne.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9379027-20260319154320431.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Analista Jesús González: \"La estabilización del sistema eléctrico es la piedra angular para el nuevo modelo económico\"",
       "link": "https://noticiasvenevision.com/noticias/politica/dr-jesus-gonzalez-la-reestructuracion-del-gabinete-es-una-respuesta-necesaria",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/924f319e-1f83-4097-9de9-4b1544d81797-aca514.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "EE .UU. FLEXIBILIZA ALERTA DE VIAJE A VENEZUELA: AHORA PIDE «RECONSIDERAR EL VIAJE»",
-      "link": "https://noticierodigital.com/2026/03/ee-uu-flexibiliza-alerta-de-viaje-a-venezuela-ahora-pide-reconsiderar-el-viaje/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/embajada_eeuu_venezuela_10mar2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Secretario del Tesoro: “Con Maduro fuera puede haber cambio de régimen a cámara lenta en Cuba”",
-      "link": "https://diarioversionfinal.com/mundo/secretario-del-tesoro-con-maduro-fuera-puede-haber-cambio-de-regimen-a-camara-lenta-en-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/gettyimages-2213740779-750x430.jpg"
+      "title": "EE. UU. reduce advertencia de viaje para Venezuela con excepciones de “alto riesgo”",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-reduce-advertencia-de-viaje-para-venezuela-con-excepciones-de-alto-riesgo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezuela-alerta-viaje-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-19T19:06:41.590Z"
+  "lastUpdate": "2026-03-19T20:38:44.440Z"
 };
