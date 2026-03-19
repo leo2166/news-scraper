@@ -5,7 +5,7 @@
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "692,40"
+      "usdt": "696,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Medio centenar de ONG solicitaron habilitar tribunales itinerantes para la amnistía en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/19/medio-centenar-de-ong-solicitaron-habilitar-tribunales-itinerantes-para-la-amnistia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/CCGWFBULUZFH7M2XABCFQM3F44.JPG?auth=b23810e43cfd784d0dcfc6dc3fb79554a72a234eb83a31e74e5848fdd3ccf73f&smart=true&width=350&height=197&quality=85"
+      "title": "El partido de María Corina Machado saludó que Volker Türk pida aclarar el alcance de la amnistía en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/19/el-partido-de-maria-corina-machado-saludo-que-volker-turk-pida-aclarar-el-alcance-de-la-amnistia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/OFDUCSQHEBE75LLFO5JWDCTHWU.jpg?auth=9c0eba458950f7d2f65c8eaa5e5a53e093613309d6bff21d7b2de9fba0dc748c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¿Qué se sabe de Germán Gómez Lárez, el nuevo director de la Dgcim?\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/que-se-sabe-de-german-gomez-larez-el-nuevo-director-de-la-dgcim/",
+      "title": "Gustavo González López: de señalado por la ONU a ministro de la Defensa\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/gonzalez-lopez-ministro-defensa-expediente-onu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Se disparan los precios de la energía tras ataques a instalaciones en Medio Oriente",
+      "title": "Se dispara precio del petróleo y EE.UU. considera medidas para aumentar la oferta",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267209797-20260319054644187.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-18-112503.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,23 +37,29 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/presentacion-empresarial-para-proyectos-de-negocio-profesional-simple-azul-1-d17f5d.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "DARWIN GONZÁLEZ OTORGA LLAVE DE BARUTA A SELECCIÓN VENEZOLANA TRAS VICTORIA CONTRA EE .UU. EN EL CMB",
+      "link": "https://noticierodigital.com/2026/03/darwin-gonzalez-otorga-llave-de-baruta-a-seleccion-venezolana-tras-victoria-contra-ee-uu-en-el-cmb/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260319-WA0023-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Hay demoras en el Aeropuerto El Dorado en llegadas y salidas de vuelos, confirma Aerocivil",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/hay-demoras-en-llegadas-y-salidas-de-vuelos-en-el-aeropuerto-el-dorado-confirma-aerocivil-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/725cd08/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F28%2F36%2Ff4bf22fa495ca5009b11ee94951e%2Fhay-demoras-en-llegadas-y-salidas-de-vuelos-en-el-aeropuerto-el-dorado-confirma-aerocivil.jpg"
+      "title": "La USO pide renuncia de Ricardo Roa a presidencia Ecopetrol tras testimonio sobre apartamento",
+      "link": "https://www.noticiascaracol.com/economia/la-uso-pide-renuncia-de-ricardo-roa-a-presidencia-ecopetrol-tras-testimonio-sobre-apartamento-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c9a2373/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F5d%2F43d2a62d45ab80240d02b16c816b%2Fricardo-roa.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Colombia confirma 14 muertos en frontera con Ecuador pero sin vínculo aparente con bombas",
-      "link": "https://laverdad.com/colombia-confirma-14-muertos-en-frontera-con-ecuador-pero-sin-vinculo-aparente-con-bombas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ministro-defensa-colombia.jpg"
+      "title": "Secretario del Tesoro de EE. UU. augura un cambio de régimen “a cámara lenta” en Cuba",
+      "link": "https://laverdad.com/secretario-del-tesoro-de-ee-uu-augura-un-cambio-de-regimen-a-camara-lenta-en-cuba/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Precios del petróleo y del gas se disparan tras ataques a refinerías en Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/precios-del-petroleo-y-del-gas-se-disparan-tras-ataques-a-refinerias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Balancin-de-petroleo-en-Cabimas-Venezuela-750x430.webp"
+      "title": "Los reyes de España serán recibidos en audiencia por el papa León XIV",
+      "link": "https://diarioversionfinal.com/mundo/los-reyes-de-espana-seran-recibidos-en-audiencia-por-el-papa-leon-xiv/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1200x655_Reyes-papa-Leon-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-19T14:49:06.659Z"
+  "lastUpdate": "2026-03-19T15:55:15.985Z"
 }
