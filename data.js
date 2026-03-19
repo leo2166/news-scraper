@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "665,50"
+      "usdt": "665,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Colombia confirma 14 muertos en frontera con Ecuador pero sin vínculo aparente con bombas",
       "link": "https://laverdad.com/colombia-confirma-14-muertos-en-frontera-con-ecuador-pero-sin-vinculo-aparente-con-bombas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ministro-defensa-colombia.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-19T04:55:12.930Z"
+  "lastUpdate": "2026-03-19T05:58:32.075Z"
 };
