@@ -5,7 +5,7 @@
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "694,50"
+      "usdt": "695,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,27 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional debatirá este jueves en segunda discusión la nueva Ley Orgánica de Minas",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-debatira-este-jueves-en-segunda-discusion-la-nueva-ley-organica-de-minas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
+      "title": "Analista Jesús González: \"La estabilización del sistema eléctrico es la piedra angular para el nuevo modelo económico\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/dr-jesus-gonzalez-la-reestructuracion-del-gabinete-es-una-respuesta-necesaria",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/924f319e-1f83-4097-9de9-4b1544d81797-aca514.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "EE .UU. FLEXIBILIZA ALERTA DE VIAJE A VENEZUELA: AHORA PIDE «RECONSIDERAR EL VIAJE»",
+      "link": "https://noticierodigital.com/2026/03/ee-uu-flexibiliza-alerta-de-viaje-a-venezuela-ahora-pide-reconsiderar-el-viaje/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/embajada_eeuu_venezuela_10mar2020.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La USO pide renuncia de Ricardo Roa a presidencia Ecopetrol tras testimonio sobre apartamento",
-      "link": "https://www.noticiascaracol.com/economia/la-uso-pide-renuncia-de-ricardo-roa-a-presidencia-ecopetrol-tras-testimonio-sobre-apartamento-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c9a2373/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F5d%2F43d2a62d45ab80240d02b16c816b%2Fricardo-roa.jpg"
+      "title": "En fotos: los hallazgos en el centro clandestino de peleas de perros en La Calera, Cundinamarca",
+      "link": "https://www.noticiascaracol.com/judicial/en-fotos-los-hallazgos-en-el-centro-internacional-clandestino-de-peleas-de-perros-en-la-calera-cundinamarca-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cbaccab/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3f%2Fca%2F2a05c8a944a5a09e82d57ff801aa%2Fdiseno-5.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Secretario del Tesoro de EE. UU. augura un cambio de régimen “a cámara lenta” en Cuba",
-      "link": "https://laverdad.com/secretario-del-tesoro-de-ee-uu-augura-un-cambio-de-regimen-a-camara-lenta-en-cuba/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Cuba-1.jpg"
+      "title": "Detienen a 2 venezolanos en Ecuador vinculados con el “Tren de Aragua”",
+      "link": "https://laverdad.com/detienen-a-2-venezolanos-en-ecuador-vinculados-con-el-tren-de-aragua/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Detenidos-dos-venezolanos-en-Ecuador-a-los-que-el-Gobierno-vincula-al-Tren-de-Aragua.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/gettyimages-2213740779-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-19T17:57:31.762Z"
+  "lastUpdate": "2026-03-19T19:06:41.590Z"
 }
