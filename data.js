@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "696,50"
+      "usdt": "695,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,13 +28,13 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Se dispara precio del petróleo y EE.UU. considera medidas para aumentar la oferta",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-18-112503.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/precio-brent-19marzo-cnne.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez anuncia cambios estratégicos en el tren ejecutivo y la cúpula militar",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-cambios-estrategicos-en-el-tren-ejecutivo-y-la-cupula-militar",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/presentacion-empresarial-para-proyectos-de-negocio-profesional-simple-azul-1-d17f5d.png"
+      "title": "Asamblea Nacional debatirá este jueves en segunda discusión la nueva Ley Orgánica de Minas",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-debatira-este-jueves-en-segunda-discusion-la-nueva-ley-organica-de-minas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Secretario del Tesoro de EE. UU. augura un cambio de régimen “a cámara lenta” en Cuba",
       "link": "https://laverdad.com/secretario-del-tesoro-de-ee-uu-augura-un-cambio-de-regimen-a-camara-lenta-en-cuba/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Cuba-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Los reyes de España serán recibidos en audiencia por el papa León XIV",
-      "link": "https://diarioversionfinal.com/mundo/los-reyes-de-espana-seran-recibidos-en-audiencia-por-el-papa-leon-xiv/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1200x655_Reyes-papa-Leon-750x430.jpg"
+      "title": "Secretario del Tesoro: “Con Maduro fuera puede haber cambio de régimen a cámara lenta en Cuba”",
+      "link": "https://diarioversionfinal.com/mundo/secretario-del-tesoro-con-maduro-fuera-puede-haber-cambio-de-regimen-a-camara-lenta-en-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/gettyimages-2213740779-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-19T15:55:15.985Z"
+  "lastUpdate": "2026-03-19T16:58:58.050Z"
 };
