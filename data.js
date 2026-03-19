@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "663,99"
+      "usdt": "692,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Kast inicia construcción de zanja en la frontera con Perú para frenar inmigración ilegal",
-      "link": "https://diarioversionfinal.com/mundo/kast-inicia-construccion-de-zanja-en-la-frontera-con-peru-para-frenar-imigracion-ilegal/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
+      "title": "Precios del petróleo y del gas se disparan tras ataques a refinerías en Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/precios-del-petroleo-y-del-gas-se-disparan-tras-ataques-a-refinerias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Balancin-de-petroleo-en-Cabimas-Venezuela-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-19T13:06:28.310Z"
+  "lastUpdate": "2026-03-19T14:49:06.659Z"
 };
