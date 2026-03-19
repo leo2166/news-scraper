@@ -5,7 +5,7 @@
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "665,79"
+      "usdt": "699,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con \"volar por los aires\" el mayor yacimiento de gas de Irán",
+      "title": "Trump amenaza con \"volar\" el mayor yacimiento de gas de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260319041820130.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-19T05:58:32.075Z"
+  "lastUpdate": "2026-03-19T07:09:47.924Z"
 }
