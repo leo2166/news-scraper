@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "699,68"
+      "usdt": "665,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán ataca instalaciones energéticas del Golfo",
+      "title": "Trump amenaza con \"volar por los aires\" el mayor yacimiento de gas de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260319041820130.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Designan a Ana María Sanjuán como ministra para la Educación Universitaria",
-      "link": "https://noticiasvenevision.com/noticias/politica/designan-a-ana-maria-sanjuan-como-ministra-para-la-educacion-universitaria",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_9fd27e9fd27e9fd2-60e94a.png"
+      "title": "Delcy Rodríguez anuncia cambios estratégicos en el tren ejecutivo y la cúpula militar",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-cambios-estrategicos-en-el-tren-ejecutivo-y-la-cupula-militar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/presentacion-empresarial-para-proyectos-de-negocio-profesional-simple-azul-1-d17f5d.png"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Perros se peleaban a muerte en centro clandestino de La Calera: así desmantelaron el lugar",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/perros-se-peleaban-a-muerte-en-centro-clandestino-de-la-calera-asi-desmantelaron-el-lugar-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ee6eb38/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F69%2F34%2Ff73bba6e47529c5c6426d26dad8c%2Fsenado-38.jpg"
+      "title": "Videos de graves emergencias en Cundinamarca por lluvias: inundaciones afectan barrios y carreteras",
+      "link": "https://www.noticiascaracol.com/colombia/videos-de-graves-emergencias-en-cundinamarca-por-lluvias-inundaciones-afectan-barrios-y-carreteras-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b59390a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8a%2Fb2%2F1a0af68348c9bb962fc2797b9066%2Flluvias-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-19T02:21:51.964Z"
+  "lastUpdate": "2026-03-19T04:55:12.930Z"
 };
