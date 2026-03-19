@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "698,68"
+      "usdt": "699,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,39 +14,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez designó a un ingeniero civil como ministro de Energía Eléctrica en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/18/delcy-rodriguez-designo-a-un-ingeniero-civil-como-ministro-de-energia-electrica-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/VTQHDC4EKZHDTIKH4WXKV24RWA.jpg?auth=cdc65de512dad755ef54c3f2587635003786d948e7287d695887a1d480b3a6a9&smart=true&width=350&height=197&quality=85"
+      "title": "Laura Dogu y una delegación del Senado de Estados Unidos mantuvieron un encuentro con Jorge Rodríguez en el Parlamento de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/19/laura-dogu-y-una-delegacion-del-senado-de-estados-unidos-mantuvieron-un-encuentro-con-jorge-rodriguez-en-el-parlamento-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/WG3PAOEOFFCXLL2PYV26PPAIRY.PNG?auth=78c8b318bf737fd5e86cabac33ed01ad1af7a21e7659181ffb2e0573f1970d82&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "\"Diosdado Cabello embargó una casa que no pertenece a El Nacional y en este momento la están saqueando\", denuncia Antonieta Jurado, esposa de Miguel Henrique Otero\nNOTICIAS",
+      "title": "Antonieta Jurado de Otero denuncia ingreso y salida de camiones en vivienda embargada ilegalmente por Diosdado Cabello\nNOTICIAS",
       "link": "https://www.elnacional.com/2026/03/diosdado-cabello-usted-embargo-una-casa-que-no-pertenece-a-el-nacional-y-en-este-momento-la-estan-saqueando-denuncia-antonieta-jurado-de-otero-esposa-de-miguel-henrique-otero/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodríguez destituye a Vladimir Padrino López del cargo de ministro de Defensa",
-      "link": "https://cnnespanol.cnn.com/2026/03/18/venezuela/relevan-vladimir-padrino-ministro-defensa-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260318-estrecho-ormuz-mapas-hp.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Irán ataca instalaciones energéticas del Golfo",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Germán Gómez Lárez es designado como nuevo director de la DGCIM",
-      "link": "https://noticiasvenevision.com/noticias/politica/german-gomez-larez-es-designado-como-nuevo-director-de-la-dgcim",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/23a866ae-ab60-4ba8-adc5-0f0268d7c57c-21e2c1.jpg"
+      "title": "Designan a Ana María Sanjuán como ministra para la Educación Universitaria",
+      "link": "https://noticiasvenevision.com/noticias/politica/designan-a-ana-maria-sanjuan-como-ministra-para-la-educacion-universitaria",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_9fd27e9fd27e9fd2-60e94a.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ALTO FUNCIONARIO DE PORTUGAL REALIZARÁ VISITA OFICIAL A VENEZUELA A FINALES DE MARZO",
-      "link": "https://noticierodigital.com/2026/03/alto-funcionario-de-portugal-realizara-visita-oficial-a-venezuela-a-finales-de-marzo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Emidio-Sousa-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ NOMBRÓ A TAREK WILLIAM SAAB Y ANA MARÍA SANJUÁN EN SU GABINETE",
+      "link": "https://noticierodigital.com/2026/03/delcy-rodriguez-nombro-a-tarek-william-saab-y-ana-maria-sanjuan-en-su-gabinete/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/tarek-william-saab-ana-maria-sanjuan-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "VIDEO | Fuertes lluvias generan emergencias por inundaciones en Facatativá este 18 de marzo",
-      "link": "https://www.noticiascaracol.com/colombia/video-fuertes-lluvias-generan-emergencias-por-inundaciones-en-facatativa-este-18-de-marzo-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6181907/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F25%2Fbc%2Fe87b2203468fa6b6e386dd73506f%2Flluvias.jpg"
+      "title": "Perros se peleaban a muerte en centro clandestino de La Calera: así desmantelaron el lugar",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/perros-se-peleaban-a-muerte-en-centro-clandestino-de-la-calera-asi-desmantelaron-el-lugar-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ee6eb38/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F69%2F34%2Ff73bba6e47529c5c6426d26dad8c%2Fsenado-38.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-18T23:31:20.106Z"
+  "lastUpdate": "2026-03-19T02:21:51.964Z"
 };
