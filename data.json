@@ -5,7 +5,7 @@
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "695,80"
+      "usdt": "694,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "DARWIN GONZÁLEZ OTORGA LLAVE DE BARUTA A SELECCIÓN VENEZOLANA TRAS VICTORIA CONTRA EE .UU. EN EL CMB",
-      "link": "https://noticierodigital.com/2026/03/darwin-gonzalez-otorga-llave-de-baruta-a-seleccion-venezolana-tras-victoria-contra-ee-uu-en-el-cmb/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260319-WA0023-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "La USO pide renuncia de Ricardo Roa a presidencia Ecopetrol tras testimonio sobre apartamento",
       "link": "https://www.noticiascaracol.com/economia/la-uso-pide-renuncia-de-ricardo-roa-a-presidencia-ecopetrol-tras-testimonio-sobre-apartamento-rg10",
@@ -61,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/gettyimages-2213740779-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-19T16:58:58.050Z"
+  "lastUpdate": "2026-03-19T17:57:31.762Z"
 }
