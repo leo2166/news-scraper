@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "682,50"
+      "usdt": "688,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Delcy Rodríguez renueva el alto mando militar tras destituir a Padrino López\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/delcy-rodriguez-renueva-el-alto-mando-militar/",
+      "title": "Dos hermanas de militar, una de ellas adolescente, siguen detenidas\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/denuncian-que-dos-hermanas-de-militar-siguen-detenidas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "El petróleo sube a US$110 en medio de ataques a Irán durante el año nuevo persa",
+      "title": "El petróleo sube a US$ 110 en medio de ataques a Irán durante el año nuevo persa",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26064463922278-20260320123307529.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/oil-prices-20march-hp.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Venezuela y EE.UU fortalecerán la agenda diplomática y energética",
       "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-eeuu-fortaleceran-la-agenda-diplomatica-y-energetica",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l3725-d2a28d.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "GOBIERNO BUSCA EXPORTAR CACAO, CHOCOLATE Y CAFÉ A CHINA",
+      "link": "https://noticierodigital.com/2026/03/gobierno-busca-exportar-cacao-chocolate-y-cafe-a-china/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260320-WA0058-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Defensa de Maduro exige desestimar acusación de EE. UU. por imposibilidad de pagar abogados",
-      "link": "https://diarioversionfinal.com/mundo/defensa-de-maduro-exige-desestimar-acusacion-de-ee-uu-por-imposibilidad-de-pagar-abogados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-20260106203338775-750x430.png"
+      "title": "Italia reiteró su apoyo a las reformas en Venezuela y pidió la liberación de detenidos",
+      "link": "https://diarioversionfinal.com/mundo/italia-reitero-su-apoyo-a-las-reformas-en-venezuela-y-pidio-la-liberacion-de-detenidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Tajani--750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-20T13:01:01.839Z"
+  "lastUpdate": "2026-03-20T14:41:57.114Z"
 };
