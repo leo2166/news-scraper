@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "688,00"
+      "usdt": "682,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Dos hermanas de militar, una de ellas adolescente, siguen detenidas\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/denuncian-que-dos-hermanas-de-militar-siguen-detenidas/",
+      "title": "Apagón afectó a varios estados de Venezuela durante la madrugada de este viernes\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/apagon-afecto-a-varios-estados-de-venezuela-este-viernes/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO BUSCA EXPORTAR CACAO, CHOCOLATE Y CAFÉ A CHINA",
-      "link": "https://noticierodigital.com/2026/03/gobierno-busca-exportar-cacao-chocolate-y-cafe-a-china/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260320-WA0058-627x376.jpg"
+      "title": "MUERE EL ACTOR CHUCK NORRIS A LOS 86 AÑOS",
+      "link": "https://noticierodigital.com/2026/03/muere-el-actor-chuck-norris-a-los-86-anos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260320-WA0066-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gobierno rechaza amenaza de disidencias de prohibir acceso de misiones humanitarias en territorios",
-      "link": "https://www.noticiascaracol.com/colombia/gobierno-rechaza-amenaza-de-disidencias-de-prohibir-acceso-de-misiones-humanitarias-en-territorios-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/681198f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F69%2F22f7dc3f4eedb71a7481f56d5633%2Fmaduro-31.jpg"
+      "title": "Murió el actor estadounidense Chuck Norris a los 86 años: ícono de las artes marciales",
+      "link": "https://www.noticiascaracol.com/mundo/fallecio-chuck-norris-actor-estadounidense-e-icono-de-las-artes-marciales-tenia-86-anos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/31f6bf1/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2F17%2F00c086d5418faa0691f4deea758e%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Tajani--750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-20T14:41:57.114Z"
+  "lastUpdate": "2026-03-20T15:43:06.649Z"
 };
