@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "686,30"
+      "usdt": "686,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "La Ley de Amnistía es usada como un “espejismo” para proyectar estabilidad\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/afirman-que-la-ley-de-amnistia-funciona-como-un-espejismo/",
+      "title": "Venezolanos y cubanos, los más afectados por pagos de trámites migratorios congelados en EE UU\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/venezolanos-y-cubanos-los-mas-afectados-por-pagos-de-tramites-migratorios-congelados-en-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y EE.UU fortalecerán la agenda diplomática y energética",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-eeuu-fortaleceran-la-agenda-diplomatica-y-energetica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l3725-d2a28d.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ NOMBRÓ NUEVOS COMANDANTES DE LAS REDI",
-      "link": "https://noticierodigital.com/2026/03/delcy-rodriguez-nombro-nuevos-comandantes-de-las-redi/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/delcy-rodriguez-venezuela-9-627x376.jpg"
+      "title": "Diputado Félix Freites afirmó que Ley de Minas garantizará bienestar social e inversión",
+      "link": "https://noticiasvenevision.com/noticias/politica/diputado-felix-freites-afirmo-que-ley-de-minas-garantizara-bienestar-social-e-inversion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/78fd2fa0-d8d0-4a37-9a8f-cd149dc237c5-4bf960.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Impactante video: periodistas heridos tras ataque de Israel a un puente en Líbano",
-      "link": "https://www.noticiascaracol.com/mundo/impactante-video-periodistas-heridos-tras-ataque-de-israel-a-un-puente-en-libano-durante-reportaje-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6f725a5/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F51%2Fe9%2Fc75201f04b00b9dab534eedb1d9e%2Fdiseno.jpg"
+      "title": "Así fue el plan criminal para asesinar a Juan Felipe Rincón en Bogotá, según Fiscalía",
+      "link": "https://www.noticiascaracol.com/judicial/asi-fue-el-plan-criminal-para-asesinar-a-juan-felipe-rincon-en-bogota-segun-fiscalia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e2100ac/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8a%2F06%2F022d13f2442da2a6d2c3a18aecd5%2Ftamano-imagenes-11.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Justicia de EE.UU. investiga al presidente de Colombia, Gustavo Petro, según el NYT",
-      "link": "https://diarioversionfinal.com/mundo/la-justicia-de-ee-uu-investiga-al-presidente-de-colombia-gustavo-petro-segun-el-nyt/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/ba64a6c8f34c3220fac572db39e530ea444eb304w-750x430.jpg"
+      "title": "Corte peruana impone 20 años de cárcel a Vladimiro Montesinos por asesinato de periodista",
+      "link": "https://diarioversionfinal.com/mundo/corte-peruana-impone-20-anos-de-carcel-a-vladimiro-montesinos-por-asesinato-de-periodista/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Vladimiro-Montesinos-20-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-20T18:51:45.378Z"
+  "lastUpdate": "2026-03-20T19:37:22.740Z"
 };
