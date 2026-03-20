@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez designó nuevos jefes en Aviación, Armada y Milicia y reconfiguró la cúpula militar venezolana",
-      "link": "https://www.infobae.com/venezuela/2026/03/20/delcy-rodriguez-designo-nuevos-jefes-en-aviacion-armada-y-milicia-y-reconfiguro-la-cupula-militar-venezolana/",
-      "image": "https://www.infobae.com/resizer/v2/7DTFDS2TIFCFNEPS6HZBZBXWMQ.JPG?auth=b35a465676b107e03f3ead50d83d48cdbdfb87eaa0e4635ed003fb43f94e8d6d&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez recibió en Caracas a una delegación del Comité de Relaciones Exteriores del Senado de Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/03/20/delcy-rodriguez-recibio-en-caracas-a-una-delegacion-del-comite-de-relaciones-exteriores-del-senado-de-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/S45TP2ZPWJF4VFARCCX65SX7CQ.jpg?auth=50ac756eca893d4fc826c7e2b8782703b9822497386d11a75e159048a10148fa&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Dos petroleros con banderas de Rusia y Hong Kong estarían camino a Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/03/19/latinoamerica/buques-rusia-china-petroleo-cuba-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-03-19-at-16-18-42-1.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump está poniendo a prueba aún más una relación ya tensa entre EE.UU. e Israel",
+      "link": "https://cnnespanol.cnn.com/2026/03/20/mundo/analisis-administracion-trump-perjudicando-imagen-israel-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266868686-20260320051933785.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Detienen a 2 venezolanos en Ecuador vinculados con el “Tren de Aragua”",
       "link": "https://laverdad.com/detienen-a-2-venezolanos-en-ecuador-vinculados-con-el-tren-de-aragua/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Detenidos-dos-venezolanos-en-Ecuador-a-los-que-el-Gobierno-vincula-al-Tren-de-Aragua.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-20260106203338775-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-20T05:52:41.601Z"
+  "lastUpdate": "2026-03-20T06:56:36.857Z"
 };
