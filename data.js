@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-20260106203338775-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-20T06:56:36.857Z"
+  "lastUpdate": "2026-03-20T07:48:46.307Z"
 };
