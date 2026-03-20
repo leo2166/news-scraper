@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "688,30"
+      "usdt": "689,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez recibió en Caracas a una delegación del Comité de Relaciones Exteriores del Senado de Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/03/20/delcy-rodriguez-recibio-en-caracas-a-una-delegacion-del-comite-de-relaciones-exteriores-del-senado-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/S45TP2ZPWJF4VFARCCX65SX7CQ.jpg?auth=50ac756eca893d4fc826c7e2b8782703b9822497386d11a75e159048a10148fa&smart=true&width=350&height=197&quality=85"
+      "title": "Acto sin solemnidad, sonrisas forzadas y silencios incómodos en renovación del Alto Mando Militar",
+      "link": "https://www.infobae.com/venezuela/2026/03/20/acto-sin-solemnidad-sonrisas-forzadas-y-silencios-incomodos-en-renovacion-del-alto-mando-militar/",
+      "image": "https://www.infobae.com/resizer/v2/QQEBXUEJ7JG6XHHK632FXYGWVM.jpeg?auth=d0ce6817759714437f173ebedd63e2d094623a3a16c39711ce9fe9b0b841fdf7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Venezolanos y cubanos los más afectados por pagos de trámites migratorios congelados en EE UU\nMUNDO",
+      "title": "Venezolanos y cubanos, los más afectados por pagos de trámites migratorios congelados en EE UU\nMUNDO",
       "link": "https://www.elnacional.com/2026/03/venezolanos-y-cubanos-los-mas-afectados-por-pagos-de-tramites-migratorios-congelados-en-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump llama \"cobardes\" a los aliados de la OTAN por no ayudar con el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26079538166876-20260320194752321.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Delcy Rodríguez cambia la cúpula militar mientras busca afianzar el control",
+      "link": "https://cnnespanol.cnn.com/2026/03/20/venezuela/delcy-rodriguez-cambia-cupula-militar-busca-afianzar-poder-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-13t222810z-117654920-rc2x3ka2fxgr-rtrmadp-3-venezuela-colombia.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado Félix Freites afirmó que Ley de Minas garantizará bienestar social e inversión",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-felix-freites-afirmo-que-ley-de-minas-garantizara-bienestar-social-e-inversion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/78fd2fa0-d8d0-4a37-9a8f-cd149dc237c5-4bf960.jpg"
+      "title": "El dirigente político Biagio Pilieri anunció que recibió libertad plena",
+      "link": "https://noticiasvenevision.com/noticias/politica/el-dirigente-politico-biagio-pilieri-anuncio-que-recibio-libertad-plena",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/han-pasado-300-dias-de-la-detencion-del-periodista-dirigente-6a0266.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,15 +44,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así fue el plan criminal para asesinar a Juan Felipe Rincón en Bogotá, según Fiscalía",
-      "link": "https://www.noticiascaracol.com/judicial/asi-fue-el-plan-criminal-para-asesinar-a-juan-felipe-rincon-en-bogota-segun-fiscalia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e2100ac/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8a%2F06%2F022d13f2442da2a6d2c3a18aecd5%2Ftamano-imagenes-11.jpg"
+      "title": "Así operaba la red que movía migrantes ilegalmente en El Dorado: funcionarios estaban vinculados",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/asi-operaba-la-red-que-movia-migrantes-ilegalmente-en-el-dorado-funcionarios-estaban-vinculados-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/23eca04/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa7%2Fb9%2Fd5cf76c94354ad4f62d4fbe4c4d1%2Fportadas-caracol-web-37.png"
     },
     {
       "source": "La Verdad",
       "title": "Tomás Niembro Concha se declara culpable de fraude millonario y violar sanciones de EE. UU.",
       "link": "https://laverdad.com/tomas-niembro-concha-se-declara-culpable-de-fraude-millonario-y-violar-sanciones-de-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Tomas-Niembro-Concha.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Vladimiro-Montesinos-20-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-20T20:33:54.428Z"
+  "lastUpdate": "2026-03-20T21:31:00.396Z"
 };
