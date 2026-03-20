@@ -5,7 +5,7 @@
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "689,80"
+      "usdt": "655,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "BIOLYMPICS: EDUCACIÓN BILINGÜE EN VENEZUELA ESTRENA SU PROPIA APP",
-      "link": "https://noticierodigital.com/2026/03/biolympics-educacion-bilingue-en-venezuela-estrena-su-propia-app/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260320-WA0127-627x376.jpg"
+      "title": "TRIBUNAL ABSOLVIÓ A LA PERIODISTA NAKARY MENA Y A SU ESPOSO",
+      "link": "https://noticierodigital.com/2026/03/tribunal-absolvio-a-la-periodista-nakary-mena-y-a-su-esposo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/nakary-mena-periodista-libertad-plena-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Tomás Niembro Concha se declara culpable de fraude millonario y violar sanciones de EE. UU.",
       "link": "https://laverdad.com/tomas-niembro-concha-se-declara-culpable-de-fraude-millonario-y-violar-sanciones-de-ee-uu/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Tomas-Niembro-Concha.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Vladimiro-Montesinos-20-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-20T21:31:00.396Z"
+  "lastUpdate": "2026-03-20T22:29:35.104Z"
 }
