@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "686,68"
+      "usdt": "688,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Venezolanos y cubanos, los más afectados por pagos de trámites migratorios congelados en EE UU\nMUNDO",
+      "title": "Venezolanos y cubanos los más afectados por pagos de trámites migratorios congelados en EE UU\nMUNDO",
       "link": "https://www.elnacional.com/2026/03/venezolanos-y-cubanos-los-mas-afectados-por-pagos-de-tramites-migratorios-congelados-en-ee-uu/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Miles de infantes de Marina de EE.UU. se dirigen a Medio Oriente",
+      "title": "Trump llama \"cobardes\" a los aliados de la OTAN por no ayudar con el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9502385-20260320163943392.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26079538166876-20260320194752321.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Diputado Félix Freites afirmó que Ley de Minas garantizará bienestar social e inversión",
       "link": "https://noticiasvenevision.com/noticias/politica/diputado-felix-freites-afirmo-que-ley-de-minas-garantizara-bienestar-social-e-inversion",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/78fd2fa0-d8d0-4a37-9a8f-cd149dc237c5-4bf960.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "BIOLYMPICS: EDUCACIÓN BILINGÜE EN VENEZUELA ESTRENA SU PROPIA APP",
+      "link": "https://noticierodigital.com/2026/03/biolympics-educacion-bilingue-en-venezuela-estrena-su-propia-app/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260320-WA0127-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. ataca “narcolancha” en el Pacífico oriental: hay 3 sobrevivientes",
-      "link": "https://laverdad.com/ee-uu-ataca-narcolancha-en-el-pacifico-oriental-hay-3-sobrevivientes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-EE.-UU.-narcolancha-Pacifico-oriental.jpg"
+      "title": "Tomás Niembro Concha se declara culpable de fraude millonario y violar sanciones de EE. UU.",
+      "link": "https://laverdad.com/tomas-niembro-concha-se-declara-culpable-de-fraude-millonario-y-violar-sanciones-de-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Tomas-Niembro-Concha.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Vladimiro-Montesinos-20-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-20T19:37:22.740Z"
+  "lastUpdate": "2026-03-20T20:33:54.428Z"
 };
