@@ -5,7 +5,7 @@
       "eur": "524,51"
     },
     "binance": {
-      "usdt": "682,50"
+      "usdt": "684,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El petróleo sube a US$ 110 en medio de ataques a Irán durante el año nuevo persa",
+      "title": "Miles de infantes de Marina de EE.UU. se dirigen a Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/oil-prices-20march-hp.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9502385-20260320163943392.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Italia reiteró su apoyo a las reformas en Venezuela y pidió la liberación de detenidos",
-      "link": "https://diarioversionfinal.com/mundo/italia-reitero-su-apoyo-a-las-reformas-en-venezuela-y-pidio-la-liberacion-de-detenidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Tajani--750x430.jpeg"
+      "title": "EE. UU. ataca embarcación en el Pacífico Oriental y deja tres sobrevivientes",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-embarcacion-en-el-pacifico-oriental-y-deja-tres-sobrevivientes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/portada-ataque-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-20T15:43:06.649Z"
+  "lastUpdate": "2026-03-20T16:43:48.513Z"
 }
