@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "688,68"
+      "usdt": "656,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Petro-09-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-21T09:32:49.299Z"
+  "lastUpdate": "2026-03-21T10:27:44.583Z"
 };
