@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El crimen organizado y las mafias venezolanas, un reto mayúsculo para que EE UU pueda controlar el oro y los recursos naturales del país\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/el-crimen-organizado-y-las-mafias-venezolanas-un-reto-mayusculo-para-que-ee-uu-pueda-controlar-el-oro-y-los-recursos-naturales-del-pais/",
+      "title": "Sin libertad y sin hogar: el despojo patrimonial como arma de represión del chavismo a presos políticos\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/el-despojo-patrimonial-como-arma-de-represion-del-chavismo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Condenan a 22 años de prisión a alias “El Viejo” por magnicidio de Miguel Uribe",
       "link": "https://laverdad.com/condenan-a-22-anos-de-prision-a-alias-el-viejo-por-magnicidio-de-miguel-uribe/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Sin-titulo-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV llama a frenar a los “sembradores de odio” por guerra en Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-llama-a-frenar-a-los-sembradores-de-odio-por-guerra-en-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Papa-Leon-XIV-30-06-2025-750x430.png"
+      "title": "Trump arma coalición de 20 países para desbloquear estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/trump-arma-coalicion-de-20-paises-para-desbloquear-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1x-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-21T18:37:30.039Z"
+  "lastUpdate": "2026-03-21T19:25:09.238Z"
 };
