@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Familia de Hugo Marino pide ayuda a excarcelados tras 83 meses sin saber de su hijo: \"Necesito encontrar la verdad\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/familia-de-hugo-marino-pide-ayuda-a-liberados-tras-83-meses-sin-saber-de-su-hijo-necesito-encontrar-la-verdad/",
+      "title": "El crimen organizado y las mafias venezolanas, un reto mayúsculo para que EE UU pueda controlar el oro y los recursos naturales del país\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/el-crimen-organizado-y-las-mafias-venezolanas-un-reto-mayusculo-para-que-ee-uu-pueda-controlar-el-oro-y-los-recursos-naturales-del-pais/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -46,14 +46,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Tomás Niembro Concha se declara culpable de fraude millonario y violar sanciones de EE. UU.",
       "link": "https://laverdad.com/tomas-niembro-concha-se-declara-culpable-de-fraude-millonario-y-violar-sanciones-de-ee-uu/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Tomas-Niembro-Concha.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España reafirma que las comunicaciones con Delcy Rodríguez se hicieron “por cauces oficiales”",
-      "link": "https://diarioversionfinal.com/mundo/espana-reafirma-que-las-comunicaciones-con-delcy-rodriguez-se-hicieron-por-cauces-oficiales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16888787-750x430.jpg"
+      "title": "EE. UU. debilita la capacidad de Irán en el estrecho de Ormuz tras ataque a arsenal subterráneo",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-debilita-la-capacidad-de-iran-en-el-estrecho-de-ormuz-tras-ataque-a-arsenal-subterraneo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/descarga-75-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-21T15:26:53.198Z"
+  "lastUpdate": "2026-03-21T16:31:07.071Z"
 };
