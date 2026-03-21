@@ -5,7 +5,7 @@
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "656,90"
+      "usdt": "686,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,8 +27,8 @@
     {
       "source": "CNN en Español",
       "title": "EE.UU. levanta sanciones sobre 140 millones de barriles de petróleo iraní",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260321055635461.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-13t222810z-117654920-rc2x3ka2fxgr-rtrmadp-3-venezuela-colombia.JPG?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Petro-09-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-21T10:27:44.583Z"
+  "lastUpdate": "2026-03-21T11:24:04.079Z"
 }
