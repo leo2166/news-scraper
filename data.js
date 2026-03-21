@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "682,50"
+      "usdt": "687,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Dentro de la decisión más difícil de Trump en la guerra hasta ahora",
+      "title": "Trump se debate sobre si desplegar tropas en Irán",
       "link": "https://cnnespanol.cnn.com/2026/03/21/mundo/decision-trump-envio-tropas-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/9544177-20260321122606814.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -37,16 +37,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_655318048_18431490685142756_4786164090243342367_n-1dded9.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "«NUNCA HE HABLADO CON UN NARCO»: A PETRO NO LE INTERESA SUPUESTA INVESTIGACIÓN DE EE .UU.",
-      "link": "https://noticierodigital.com/2026/03/nunca-he-hablado-con-un-narco-a-petro-no-le-interesa-supuesta-investigacion-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-colombia-2-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Autoridades investigan presunto sicariato que cobró la vida de dos personas en Bucaramanga",
-      "link": "https://www.noticiascaracol.com/colombia/autoridades-investigan-presunto-sicariato-que-cobro-la-vida-de-dos-personas-en-bucaramanga-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/266dc20/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1d%2F8f%2F745d63aa4ba987a690d589cd194a%2Fdiseno-sin-titulo-2025-04-07t143707-226.jpg"
+      "title": "Murió hermana menor de Dilan Cruz tras resultar herida en accidente de tránsito en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/murio-hermana-menor-de-dilan-cruz-tras-resultar-herida-en-accidente-de-transito-en-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4f8e065/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F70%2F15%2F95e6d0c2403c8de6bcc3caee1586%2Fplantilla-fotos-2026-03-21t095321-976.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán pide cese inmediato de agresiones de EE.UU. e Israel para frenar conflicto en Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/iran-pide-cese-inmediato-de-agresiones-de-ee-uu-e-israel-para-frenar-conflicto-en-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IV32A7Y6NVFB3JIRRHO4MEVVIA-750x430.jpg"
+      "title": "España reafirma que las comunicaciones con Delcy Rodríguez se hicieron “por cauces oficiales”",
+      "link": "https://diarioversionfinal.com/mundo/espana-reafirma-que-las-comunicaciones-con-delcy-rodriguez-se-hicieron-por-cauces-oficiales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16888787-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-21T14:27:42.823Z"
+  "lastUpdate": "2026-03-21T15:26:53.198Z"
 };
