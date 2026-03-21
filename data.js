@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "689,50"
+      "usdt": "688,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Denuncian incendio en bioparque Wisirare: dejó más de 900 hectáreas afectadas",
-      "link": "https://www.noticiascaracol.com/colombia/denuncian-incendio-en-bioparque-wisirare-dejo-mas-de-900-hectareas-afectadas-en-casanar-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/becd33a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2Fb0%2Fac3b3fae492dbecf433415eb971d%2Fplantilla-fotos-2026-03-21t125239-170.jpg"
+      "title": "¿Quién era Mayerli Cruz, la hermana de Dilan Cruz que falleció tras un accidente en Bogotá?",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/quien-era-mayerli-cruz-la-hermana-de-dilan-cruz-que-fallecio-tras-un-accidente-en-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/803cfcc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9c%2Fac%2Fc70ab46d49918a26a615778d0203%2Fportadas-caracol-web-38.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Donald Trump rechaza llamado de paz del papa León XIV: \"No haces un alto el fuego cuando estás arrasando\"",
-      "link": "https://diarioversionfinal.com/mundo/donald-trump-rechaza-llamado-de-paz-del-papa-leon-xiv-no-haces-un-alto-el-fuego-cuando-estas-arrasando/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Trump-24-12-2025-750x430.jpg"
+      "title": "Lula tilda de \"antidemocrática\" política de EE. UU. hacia Cuba y Venezuela: \"No son dueños de nosotros\"",
+      "link": "https://diarioversionfinal.com/mundo/lula-tilda-de-antidemocratica-politica-de-ee-uu-hacia-cuba-y-venezuela-no-son-duenos-de-nosotros/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_21-3-2026_173948_www.facebook.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-21T21:26:29.519Z"
+  "lastUpdate": "2026-03-21T22:25:57.639Z"
 };
