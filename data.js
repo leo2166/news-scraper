@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "687,50"
+      "usdt": "688,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. debilita la capacidad de Irán en el estrecho de Ormuz tras ataque a arsenal subterráneo",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-debilita-la-capacidad-de-iran-en-el-estrecho-de-ormuz-tras-ataque-a-arsenal-subterraneo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/descarga-75-750x430.jpg"
+      "title": "Sujeto ligado a la Segunda Marquetalia señalado como autor intelectual del asesinato de Uribe Turbay",
+      "link": "https://diarioversionfinal.com/mundo/sujeto-ligado-a-la-segunda-marquetalia-senalado-como-autor-intelectual-del-asesinato-de-uribe-turbay/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/La-Fiscalia-de-Colombia-imputa-a-otro-implicado-en-el-magnicidio-del-senador-Miguel-Uribe-Turbay-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-21T16:31:07.071Z"
+  "lastUpdate": "2026-03-21T17:25:50.416Z"
 };
