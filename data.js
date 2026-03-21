@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Petro-09-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-21T07:33:28.380Z"
+  "lastUpdate": "2026-03-21T08:34:36.507Z"
 };
