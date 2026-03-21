@@ -32,28 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Nakary Mena y Gianni González recuperan libertad plena tras decisión del tribunal",
-      "link": "https://noticiasvenevision.com/noticias/politica/nakary-mena-y-gianni-gonzalez-recuperan-libertad-plena-tras-decision-del-tribunal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_655318048_18431490685142756_4786164090243342367_n-1dded9.jpg"
+      "title": "Venezuela participa en Foro de Alto Nivel CELAC-África en Colombia",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-participa-en-foro-de-alto-nivel-celac-africa-en-colombia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5039823528777157564-ce0bcf.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "LEOPOLDO LÓPEZ EXIGE AMNISTÍA PARA EXPOLICÍAS METROPOLITANOS: «HAN SUFRIDO COMO NADIE»",
+      "link": "https://noticierodigital.com/2026/03/leopoldo-lopez-exige-amnistia-para-expolicias-metropolitanos-han-sufrido-como-nadie/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/06/leopoldolopez-sanciones-cronogramaelectoral-28jun2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Murió hermana menor de Dilan Cruz tras resultar herida en accidente de tránsito en Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/murio-hermana-menor-de-dilan-cruz-tras-resultar-herida-en-accidente-de-transito-en-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4f8e065/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F70%2F15%2F95e6d0c2403c8de6bcc3caee1586%2Fplantilla-fotos-2026-03-21t095321-976.jpg"
+      "title": "Denuncian incendio en bioparque Wisirare: dejó más de 900 hectáreas afectadas",
+      "link": "https://www.noticiascaracol.com/colombia/denuncian-incendio-en-bioparque-wisirare-dejo-mas-de-900-hectareas-afectadas-en-casanar-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/becd33a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2Fb0%2Fac3b3fae492dbecf433415eb971d%2Fplantilla-fotos-2026-03-21t125239-170.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Tomás Niembro Concha se declara culpable de fraude millonario y violar sanciones de EE. UU.",
-      "link": "https://laverdad.com/tomas-niembro-concha-se-declara-culpable-de-fraude-millonario-y-violar-sanciones-de-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Tomas-Niembro-Concha.jpg"
+      "title": "Condenan a 22 años de prisión a alias “El Viejo” por magnicidio de Miguel Uribe",
+      "link": "https://laverdad.com/condenan-a-22-anos-de-prision-a-alias-el-viejo-por-magnicidio-de-miguel-uribe/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sujeto ligado a la Segunda Marquetalia señalado como autor intelectual del asesinato de Uribe Turbay",
-      "link": "https://diarioversionfinal.com/mundo/sujeto-ligado-a-la-segunda-marquetalia-senalado-como-autor-intelectual-del-asesinato-de-uribe-turbay/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/La-Fiscalia-de-Colombia-imputa-a-otro-implicado-en-el-magnicidio-del-senador-Miguel-Uribe-Turbay-750x430.jpeg"
+      "title": "Papa León XIV llama a frenar a los “sembradores de odio” por guerra en Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-llama-a-frenar-a-los-sembradores-de-odio-por-guerra-en-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Papa-Leon-XIV-30-06-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-21T17:25:50.416Z"
+  "lastUpdate": "2026-03-21T18:37:30.039Z"
 };
