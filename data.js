@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Más de 8.000 personas recuperaron la libertad en Venezuela tras el primer mes de la Ley de Amnistía, según el Parlamento",
-      "link": "https://www.infobae.com/venezuela/2026/03/20/mas-de-8000-personas-recuperaron-la-libertad-en-venezuela-tras-el-primer-mes-de-la-ley-de-amnistia-segun-el-parlamento/",
-      "image": "https://www.infobae.com/resizer/v2/H7MVWQC4R5EGHMOQ4FGDA2EQJQ.JPG?auth=d97ff3513b5d2239c8d10b87159852a359c63a2ec1da8bea357ae0fdf2728371&smart=true&width=350&height=197&quality=85"
+      "title": "Dos ONG calificaron a la amnistía general como un “espejismo” de estabilización de la crisis en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/21/dos-ong-calificaron-a-la-amnistia-general-como-un-espejismo-de-estabilizacion-de-la-crisis-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/JUANAOF47RDTNCC6ECN6QDKBMQ.jpg?auth=e7728cdc3880aac87051fee6fb39d8e5d8f10c6ee7c219b610ee394d3d671cfa&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Petro-09-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-21T04:26:33.299Z"
+  "lastUpdate": "2026-03-21T05:41:12.135Z"
 };
