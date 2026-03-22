@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "685,90"
+      "usdt": "686,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Solo dos de cada cien emprendimientos sobrevivieron más de tres años en Venezuela\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/dos-de-cada-cien-emprendimientos-logran-consolidarse-en-el-pais/",
+      "title": "Infobae: Informe de la DEA detalla red de vínculos entre Maduro e Irán en ámbitos militar, financiero y terrorista\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/infobae-informe-de-la-dea-detalla-red-de-vinculos-entre-maduro-e-iran-en-ambitos-militar-financiero-y-terrorista/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Este es el momento en que empezaron a seguir a Miguel Uribe Turbay, según alias El Viejo",
-      "link": "https://www.noticiascaracol.com/judicial/este-es-el-momento-en-que-empezaron-a-seguir-a-miguel-uribe-turbay-segun-alias-el-viejo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d5642cd/2147483647/strip/true/crop/1364x769+0+22/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fba%2F74%2Ff99abd54485f8910e6bf9f9bb828%2F500072826-18510250960037908-415618300087182198-n.jpg"
+      "title": "El sentido mensaje de Kokoriko tras el fallecimiento de su fundador, Eduardo Robayo Ferro",
+      "link": "https://www.noticiascaracol.com/colombia/el-sentido-mensaje-de-kokoriko-tras-el-fallecimiento-de-su-fundador-eduardo-robayo-ferro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0c63323/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2b%2Fec%2F50e5e9e84e5fab40f39e756861a5%2Fplantilla-fotos-69.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Papa León XIV califica las guerras como “un escándalo para la humanidad”",
       "link": "https://laverdad.com/papa-leon-xiv-califica-las-guerras-como-un-escandalo-para-la-humanidad/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/ff774b0c19840b3b75b046b57a8c39b530b6021d-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV denuncia el dolor de las guerras como “un escándalo para la humanidad”",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-denuncia-el-dolor-de-las-guerras-como-un-escandalo-para-la-humanidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/Papa-Leon-XIV-08-05-2025-750x430.png"
+      "title": "Irán amenaza con cerrar totalmente el Estrecho de Ormuz ante posible ataque de EE.UU.",
+      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-con-cerrar-totalmente-el-estrecho-de-ormuz-ante-posible-ataque-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17int-theworld-hormuz-lede-top-ctvf-promo-facebookJumbo-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-22T15:27:26.265Z"
+  "lastUpdate": "2026-03-22T16:31:51.100Z"
 };
