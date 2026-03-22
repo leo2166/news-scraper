@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "657,00"
+      "usdt": "688,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Sin libertad y sin hogar: el despojo patrimonial como arma de represión del chavismo a presos políticos\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/el-despojo-patrimonial-como-arma-de-represion-del-chavismo/",
+      "title": "Solo dos de cada cien emprendimientos sobrevivieron más de tres años en Venezuela\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/dos-de-cada-cien-emprendimientos-logran-consolidarse-en-el-pais/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Trump amenaza con desplegar agentes de ICE en los aeropuertos",
       "link": "https://laverdad.com/trump-amenaza-con-desplegar-agentes-de-ice-en-los-aeropuertos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/106e0a58a405b451d71fb56fc37f6a0b.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-22-at-5.12.52-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-22T09:33:21.209Z"
+  "lastUpdate": "2026-03-22T10:28:23.392Z"
 };
