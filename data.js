@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "689,20"
+      "usdt": "690,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Infobae: Informe de la DEA detalla red de vínculos entre Maduro e Irán en ámbitos militar, financiero y terrorista\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/infobae-informe-de-la-dea-detalla-red-de-vinculos-entre-maduro-e-iran-en-ambitos-militar-financiero-y-terrorista/",
+      "title": "María Corina Machado: “Washington no va a sostener un régimen represivo en Venezuela”\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-washington-no-va-a-sostener-un-regimen-represivo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán promete destruir \"irreversiblemente\" infraestructura crucial en Medio Oriente",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267396375-20260322115421846.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Gobierno de Trump desplegará agentes de ICE en aeropuertos",
+      "link": "https://cnnespanol.cnn.com/2026/03/22/eeuu/agentes-inmigracion-aeropuertos-tsa-insuficiente-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-24t182743z-1310982325-rc25tfahbqt8-rtrmadp-3-usa-trump-20260322162041985.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,22 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-ernesto-villegas-22mar2026-161239.jpeg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "EX PRESOS POLÍTICOS EXIGEN CELERIDAD Y FIN DEL ESTANCAMIENTO JUDICIAL A LA AN",
-      "link": "https://noticierodigital.com/2026/03/ex-presos-politicos-exigen-celeridad-y-fin-del-estancamiento-judicial-a-la-an/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/presospoliticos_-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Reportan accidente en la vía Girardot – Bogotá tras volcamiento de tractocamión: esto se sabe",
-      "link": "https://www.noticiascaracol.com/colombia/reportan-accidente-en-la-via-girardot-bogota-tras-volcamiento-de-tractocamion-esto-se-sabe-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b13798/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2d%2F88%2F50ce104d450cb433e89ab844bb5f%2Fplantilla-fotos-71.jpg"
+      "title": "Clima en Bogotá hoy domingo, 22 de marzo: las localidades más afectadas por lluvias",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/clima-en-bogota-hoy-domingo-22-de-marzo-las-localidades-mas-afectadas-por-lluvias-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b912927/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F49%2F85%2F400d86134825abb15f94db3bcb9d%2Flluvias-2.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Irán dice que cerrará completamente Ormuz si EE. UU. ataca sus centrales eléctricas",
       "link": "https://laverdad.com/iran-dice-que-cerrara-completamente-ormuz-si-ee-uu-ataca-sus-centrales-electricas/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/1536x864_cmsv2_d8318647-53ad-5b04-add7-55b65f2c5030-9686941.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/cuba-analiza-su-preparacion-militar-en-medio-de-tensiones-con-eeuu-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-22T19:26:02.292Z"
+  "lastUpdate": "2026-03-22T20:29:14.988Z"
 };
