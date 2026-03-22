@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "690,20"
+      "usdt": "690,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Diana Ospina, víctima de secuestro extorsivo en Bogotá, rompe el silencio: “Un día a la vez”",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/diana-ospina-victima-de-secuestro-extorsivo-en-bogota-rompe-el-silencio-un-dia-a-la-vez-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/11740dc/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F90%2Fb2%2F5b86733446fab6885f5609c2163b%2Fdiana-ospina.jpg"
+      "title": "Incendio forestal en Chocontá genera cierre total en la vía Bogotá-Tunja",
+      "link": "https://www.noticiascaracol.com/colombia/incendio-forestal-en-choconta-genera-cierre-total-en-la-via-bogota-tunja-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d264089/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa7%2F54%2Fcf7666774cc88a44218fbaa44cb2%2Fincendio.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski prevé posibles nuevos intercambios de prisioneros con Rusia",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-preve-posibles-nuevos-intercambios-de-prisioneros-con-rusia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zelenski-22-12-2025-750x430.jpg"
+      "title": "Cuba inicia el restablecimiento gradual del servicio eléctrico tras un nuevo colapso total del sistema",
+      "link": "https://diarioversionfinal.com/mundo/cuba-inicia-el-restablecimiento-gradual-del-servicio-electrico-tras-un-nuevo-colapso-total-del-sistema/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/06/cuba-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-22T21:27:45.995Z"
+  "lastUpdate": "2026-03-22T22:26:44.566Z"
 };
