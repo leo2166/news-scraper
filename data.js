@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "688,00"
+      "usdt": "687,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Solo dos de cada cien emprendimientos sobrevivieron más de tres años en Venezuela\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/dos-de-cada-cien-emprendimientos-logran-consolidarse-en-el-pais/",
+      "title": "​Armando.Info: El Sebin mudó el horror a La Arenosa\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/armando-info-el-sebin-mudo-el-horror-a-la-arenosa/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-22-at-5.12.52-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-22T10:28:23.392Z"
+  "lastUpdate": "2026-03-22T11:24:41.486Z"
 };
