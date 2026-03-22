@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "683,00"
+      "usdt": "686,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump quiere poner fin a la revolución de Castro, ¿pueden llegar a un acuerdo con Cuba?",
-      "link": "https://cnnespanol.cnn.com/2026/03/22/mundo/analisis-trump-fin-revolucion-cuba-acuerdo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/calles-la-habana-cuba.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán promete destruir \"irreversiblemente\" infraestructura crucial en Medio Oriente",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267396375-20260322115421846.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez lidera reunión para el abordaje del Plan Nacional de Ahorro Eléctrico ante ciclo de calor extremo",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-lidera-reunion-para-el-abordaje-del-plan-nacional-de-ahorro-electrico-ante-ciclo-de-calor-extremo",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-21-at-8.33.22-pm-9647df.jpeg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "SEMANA: SEGUNDA MARQUETALIA ORDENÓ MATAR A MIGUEL URIBE TURBAY",
-      "link": "https://noticierodigital.com/2026/03/semana-segunda-marquetalia-ordeno-matar-a-miguel-uribe-turbay/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/Miguel-Uribe-Turbay-Colombia-atentado-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. libera 45 millones de barriles de petróleo para frenar alza de precios",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-libera-45-millones-de-barriles-de-petroleo-para-frenar-alza-de-precios/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/eujpg-195825-750x430.jpg"
+      "title": "Papa León XIV denuncia el dolor de las guerras como “un escándalo para la humanidad”",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-denuncia-el-dolor-de-las-guerras-como-un-escandalo-para-la-humanidad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/Papa-Leon-XIV-08-05-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-22T13:44:34.268Z"
+  "lastUpdate": "2026-03-22T14:28:41.986Z"
 };
