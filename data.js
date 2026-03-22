@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Trump amenaza con desplegar agentes de ICE en los aeropuertos",
       "link": "https://laverdad.com/trump-amenaza-con-desplegar-agentes-de-ice-en-los-aeropuertos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/106e0a58a405b451d71fb56fc37f6a0b.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/250906-trump-ch-1434-d7d56e-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-22T04:52:30.439Z"
+  "lastUpdate": "2026-03-22T05:54:12.445Z"
 };
