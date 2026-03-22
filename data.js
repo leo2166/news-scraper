@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "686,20"
+      "usdt": "685,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-21-at-8.33.22-pm-9647df.jpeg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ASDRÚBAL OLIVEROS: «ES UN ERROR SUBESTIMAR EL EFECTO DE LA INFLACIÓN EN BOLÍVARES»",
+      "link": "https://noticierodigital.com/2026/03/asdrubal-oliveros-es-un-error-subestimar-el-efecto-de-la-inflacion-en-bolivares/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/07/asdrubaloliveros-zonaseconomicasespeciales-26jul2022.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Este es el momento en que empezaron a seguir a Miguel Uribe Turbay, según alias El Viejo",
       "link": "https://www.noticiascaracol.com/judicial/este-es-el-momento-en-que-empezaron-a-seguir-a-miguel-uribe-turbay-segun-alias-el-viejo-rg10",
@@ -44,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump amenaza con desplegar agentes de ICE en los aeropuertos",
-      "link": "https://laverdad.com/trump-amenaza-con-desplegar-agentes-de-ice-en-los-aeropuertos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/106e0a58a405b451d71fb56fc37f6a0b.jpg"
+      "title": "Papa León XIV califica las guerras como “un escándalo para la humanidad”",
+      "link": "https://laverdad.com/papa-leon-xiv-califica-las-guerras-como-un-escandalo-para-la-humanidad/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/Papa-Leon-XIV-08-05-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-22T14:28:41.986Z"
+  "lastUpdate": "2026-03-22T15:27:26.265Z"
 };
