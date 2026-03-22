@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "690,00"
+      "usdt": "690,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,10 +37,16 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-ernesto-villegas-22mar2026-161239.jpeg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "SNTP RECHAZÓ PROPUESTA DE REGISTRO OBLIGATORIO PARA MEDIOS DIGITALES",
+      "link": "https://noticierodigital.com/2026/03/sntp-rechazo-propuesta-de-registro-obligatorio-para-medios-digitales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/marco-ruiz-sntp-19dic2019.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Clima en Bogotá hoy domingo, 22 de marzo: las localidades más afectadas por lluvias",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/clima-en-bogota-hoy-domingo-22-de-marzo-las-localidades-mas-afectadas-por-lluvias-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b912927/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F49%2F85%2F400d86134825abb15f94db3bcb9d%2Flluvias-2.jpg"
+      "title": "Diana Ospina, víctima de secuestro extorsivo en Bogotá, rompe el silencio: “Un día a la vez”",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/diana-ospina-victima-de-secuestro-extorsivo-en-bogota-rompe-el-silencio-un-dia-a-la-vez-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/11740dc/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F90%2Fb2%2F5b86733446fab6885f5609c2163b%2Fdiana-ospina.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba anuncia preparación militar ante probable agresión de Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/cuba-anuncia-preparacion-militar-ante-probable-agresion-de-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/cuba-analiza-su-preparacion-militar-en-medio-de-tensiones-con-eeuu-750x430.webp"
+      "title": "Zelenski prevé posibles nuevos intercambios de prisioneros con Rusia",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-preve-posibles-nuevos-intercambios-de-prisioneros-con-rusia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zelenski-22-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-22T20:29:14.988Z"
+  "lastUpdate": "2026-03-22T21:27:45.995Z"
 };
