@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "688,00"
+      "usdt": "686,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez lidera reunión para el abordaje del Plan Nacional de Ahorro Eléctrico ante ciclo de calor extremo",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-lidera-reunion-para-el-abordaje-del-plan-nacional-de-ahorro-electrico-ante-ciclo-de-calor-extremo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-03-21-at-8.33.22-pm-9647df.jpeg"
+      "title": "Ernesto Villegas: “Es necesario hacer una revisión amplia de todo el ordenamiento jurídico que garantice las libertades”",
+      "link": "https://noticiasvenevision.com/noticias/politica/ernesto-villegas-es-necesario-hacer-una-revision-amplia-de-todo-el-ordenamiento-juridico-que-garantice-las-libertades",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-ernesto-villegas-22mar2026-161239.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DETENIDA JOVEN DE 18 AÑOS POR INTOXICAR A SU BEBÉ CON «TUA TUA» EN ANZOÁTEGUI",
-      "link": "https://noticierodigital.com/2026/03/detenida-joven-de-18-anos-por-intoxicar-a-su-bebe-con-tua-tua-en-anzoategui/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/03/funcionario-pnb.jpg"
+      "title": "TRABAJADORES VUELVEN A MARCHAR ESTE LUNES 23M: DETALLES, PUNTOS Y EXIGENCIAS SALARIALES",
+      "link": "https://noticierodigital.com/2026/03/trabajadores-vuelven-a-marchar-este-lunes-23m-detalles-puntos-y-exigencias-salariales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/trabajadoresmarcha23demarzo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Patrulla de la Policía fue atacada con artefacto explosivo en Chinácota; autoridades investigan",
-      "link": "https://www.noticiascaracol.com/colombia/patrulla-de-la-policia-fue-atacada-con-artefacto-explosivo-en-chinacota-autoridades-investigan-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1d319a6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F08%2Fdb%2F831b2cc4436bb8ffddcec1a480c8%2Fplantilla-fotos-73.jpg"
+      "title": "Reportan accidente en la vía Girardot – Bogotá tras volcamiento de tractocamión: esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/reportan-accidente-en-la-via-girardot-bogota-tras-volcamiento-de-tractocamion-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b13798/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2d%2F88%2F50ce104d450cb433e89ab844bb5f%2Fplantilla-fotos-71.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/cuba-analiza-su-preparacion-militar-en-medio-de-tensiones-con-eeuu-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-22T17:25:48.229Z"
+  "lastUpdate": "2026-03-22T18:38:45.950Z"
 };
