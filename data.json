@@ -5,7 +5,7 @@
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "687,69"
+      "usdt": "682,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Dos ONG calificaron a la amnistía general como un “espejismo” de estabilización de la crisis en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/21/dos-ong-calificaron-a-la-amnistia-general-como-un-espejismo-de-estabilizacion-de-la-crisis-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/JUANAOF47RDTNCC6ECN6QDKBMQ.jpg?auth=e7728cdc3880aac87051fee6fb39d8e5d8f10c6ee7c219b610ee394d3d671cfa&smart=true&width=350&height=197&quality=85"
+      "title": "Del aparato de inteligencia al mando militar: los antecedentes del ministro de Defensa de Venezuela, Gustavo González López",
+      "link": "https://www.infobae.com/venezuela/2026/03/22/del-aparato-de-inteligencia-al-mando-militar-los-antecedentes-del-ministro-de-defensa-de-venezuela-gustavo-gonzalez-lopez/",
+      "image": "https://www.infobae.com/resizer/v2/YKFZNX3JHVDXVAQJ55FSNDKKHI.jpg?auth=c80ff61de4593b5bacf103968ebe96fc83550d53b862d0c6caebd0b4e23f4273&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "​Armando.Info: El Sebin mudó el horror a La Arenosa\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/armando-info-el-sebin-mudo-el-horror-a-la-arenosa/",
+      "title": "Solo dos de cada cien emprendimientos sobrevivieron más de tres años en Venezuela\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/dos-de-cada-cien-emprendimientos-logran-consolidarse-en-el-pais/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Donald Trump da ultimátum: EE.UU. atacará centrales eléctricas de Irán si no abre estrecho de Ormuz",
-      "link": "https://www.noticiascaracol.com/mundo/donald-trump-da-ultimatum-ee-uu-atacara-centrales-electricas-de-iran-si-no-abre-estrecho-de-ormuz-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/beaa7f2/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F13%2Fa105853d49f78e98c65ec2e40f7c%2Fportadas-caracol-web-42.png"
+      "title": "Este es el momento en que empezaron a seguir a Miguel Uribe Turbay, según alias El Viejo",
+      "link": "https://www.noticiascaracol.com/judicial/este-es-el-momento-en-que-empezaron-a-seguir-a-miguel-uribe-turbay-segun-alias-el-viejo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d5642cd/2147483647/strip/true/crop/1364x769+0+22/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fba%2F74%2Ff99abd54485f8910e6bf9f9bb828%2F500072826-18510250960037908-415618300087182198-n.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Trump amenaza con desplegar agentes de ICE en los aeropuertos",
       "link": "https://laverdad.com/trump-amenaza-con-desplegar-agentes-de-ice-en-los-aeropuertos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/106e0a58a405b451d71fb56fc37f6a0b.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Caso de estudiante venezolano detenido por ICE en NY retumba en Congreso de EE.UU.",
-      "link": "https://diarioversionfinal.com/mundo/caso-de-estudiante-venezolano-detenido-por-ice-en-ny-retumba-en-congreso-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-22-at-5.12.52-AM-750x430.jpeg"
+      "title": "EE.UU. libera 45 millones de barriles de petróleo para frenar alza de precios",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-libera-45-millones-de-barriles-de-petroleo-para-frenar-alza-de-precios/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/eujpg-195825-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-22T11:24:41.486Z"
+  "lastUpdate": "2026-03-22T12:53:27.151Z"
 }
