@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "457,08",
-      "eur": "527,79"
+      "usd": "459,45",
+      "eur": "533,46"
     },
     "binance": {
-      "usdt": "693,00"
+      "usdt": "695,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Agentes de ICE se encuentran en al menos 14 aeropuertos",
       "link": "https://cnnespanol.cnn.com/eeuu/live-news/agentes-ice-aeropuertos-tsa-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/avion-colombia.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CEO DE CHEVRON SUGIERE MÁS REFORMAS A LA LEY DE HIDROCARBUROS DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/ceo-de-chevron-sugiere-mas-reformas-a-la-ley-de-hidrocarburos-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/05/mike_wirth_chevron_1may2020.jpg"
+      "title": "ARRIBARON 131 VENEZOLANOS DEPORTADOS DESDE EE. UU. AL AEROPUERTO DE MAIQUETÍA",
+      "link": "https://noticierodigital.com/2026/03/arribaron-131-venezolanos-deportados-desde-ee-uu-al-aeropuerto-de-maiquetia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-de-deportacion-eeuu-venezolanos-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ataque en la vía Panamericana deja un policía muerto y cinco heridos en Cauca",
-      "link": "https://www.noticiascaracol.com/colombia/ataque-en-la-via-panamericana-deja-un-policia-muerto-y-cinco-heridos-en-cauca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6ec22d9/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F07%2F40%2F5da8120d479ba2944152baa5ae5f%2Fvia-panamericana.jpg"
+      "title": "Primeras imágenes de militares heridos llegando a Bogotá tras accidente de avión en Putumayo",
+      "link": "https://www.noticiascaracol.com/colombia/primeras-imagenes-de-militares-heridos-llegando-a-bogota-tras-accidente-de-avion-en-putumayo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9f5d3e1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F70%2F21%2F6f074a5848cf85242d8ae1afc4f4%2Fllegada-heridos.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ministro de Defensa de Colombia descarta ataque en accidente de avión militar",
-      "link": "https://diarioversionfinal.com/mundo/ministro-de-defensa-de-colombia-descarta-ataque-en-accidente-de-avion-militar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Avion-militar-Colombia-23-03-2026-750x430.jpg"
+      "title": "Netanyahu asegura que seguirá atacando Irán pese a posible acuerdo de Trump",
+      "link": "https://diarioversionfinal.com/mundo/netanyahu-asegura-que-seguira-atacando-iran-pese-a-posible-acuerdo-de-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-23T21:37:21.522Z"
+  "lastUpdate": "2026-03-23T22:33:42.118Z"
 };
