@@ -5,7 +5,7 @@
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "685,00"
+      "usdt": "683,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,20 +14,20 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Del aparato de inteligencia al mando militar: los antecedentes del ministro de Defensa de Venezuela, Gustavo González López",
-      "link": "https://www.infobae.com/venezuela/2026/03/22/del-aparato-de-inteligencia-al-mando-militar-los-antecedentes-del-ministro-de-defensa-de-venezuela-gustavo-gonzalez-lopez/",
-      "image": "https://www.infobae.com/resizer/v2/YKFZNX3JHVDXVAQJ55FSNDKKHI.jpg?auth=c80ff61de4593b5bacf103968ebe96fc83550d53b862d0c6caebd0b4e23f4273&smart=true&width=350&height=197&quality=85"
+      "title": "Una red de propaganda a favor de Delcy Rodríguez usó actores y contenidos de medios para mejorar su imagen",
+      "link": "https://www.infobae.com/venezuela/2026/03/23/una-red-de-propaganda-a-favor-de-delcy-rodriguez-uso-actores-y-contenidos-de-medios-para-mejorar-su-imagen/",
+      "image": "https://www.infobae.com/resizer/v2/XW2FENSBYFGEZIC3NSUSJAOMAA.jpg?auth=abd0ee5892ee186e4429155fb338b41f8767eab2ce322e78809d5db5adec6eff&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Trump ordenó paralizar durante cinco días ataques a infraestructura energética iraní\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/trump-ordeno-paralizar-ataques-a-infraestructura-energetica-irani/",
+      "title": "En 2017 Ernesto Villegas mintió sistemáticamente sobre la muerte de Juan Pablo Pernalete\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/villegas-mintio-sistematicamente-sobre-la-muerte-de-pernalete/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Cierra el aeropuerto LaGuardia tras una colisión mortal",
-      "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-aeropuerto-laguardia-avion-tsa-ice-trax",
+      "title": "Trump pospone ataques contra las plantas energéticas de Irán durante cinco días",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-243trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-21-133908.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -37,23 +37,29 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/09-2-5cf138.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PLATAFORMA UNITARIA: FALTAN 472 PRESOS POLÍTICOS POR LIBERAR",
+      "link": "https://noticierodigital.com/2026/03/plataforma-unitaria-faltan-472-presos-politicos-por-liberar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Pasajera de avión Wingo que volvió de emergencia en Barranquilla: “Nos vimos al borde de la muerte”",
-      "link": "https://www.noticiascaracol.com/colombia/pasajera-de-avion-wingo-que-volvio-de-emergencia-en-barranquilla-nos-vimos-al-borde-de-la-muerte-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f778665/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F03%2F55%2F5b521f364ef68811d74613d75f2a%2Fpasajera-wingo.jpg"
+      "title": "Avión de Air Canada colisionó con vehículo en aeropuerto de Nueva York; dos personas murieron",
+      "link": "https://www.noticiascaracol.com/mundo/avion-de-air-canada-colisiono-con-vehiculo-en-aeropuerto-de-nueva-york-dos-personas-murieron-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/be68451/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F62%2F01%2Fd0da3f474f018723b9ab38e4dcd7%2Fplantilla-fotos-77.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Irán dice que cerrará completamente Ormuz si EE. UU. ataca sus centrales eléctricas",
-      "link": "https://laverdad.com/iran-dice-que-cerrara-completamente-ormuz-si-ee-uu-ataca-sus-centrales-electricas/",
+      "title": "Trump pospone 5 días los ataques a infraestructura energética iraní",
+      "link": "https://laverdad.com/trump-pospone-5-dias-los-ataques-a-infraestructura-energetica-irani/",
       "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juzgado español valida sobre de PDVSA entregado a comisionista como prueba de financiación del PSOE",
-      "link": "https://diarioversionfinal.com/mundo/juzgado-espanol-valida-sobre-de-pdvsa-entregado-a-comisionista-como-prueba-de-financiacion-del-psoe/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/26GB5EMWFVBGXJ2DMEJCTGCTAA.avif"
+      "title": "Brent en 112 dólares en cuarta semana de conflicto",
+      "link": "https://diarioversionfinal.com/mundo/brent-en-112-dolares-en-cuarta-semana-de-conflicto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/X6R5i7wo-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-23T13:09:10.230Z"
+  "lastUpdate": "2026-03-23T14:55:39.703Z"
 }
