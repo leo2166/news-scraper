@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "696,00"
+      "usdt": "691,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump pospone ataques contra las plantas energéticas de Irán durante cinco días",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-243trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267977139-20260323151433743.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Agentes de ICE se encuentran en al menos 14 aeropuertos",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/agentes-ice-aeropuertos-tsa-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/avion-colombia.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/juan-pablo-guanipa-proteccion-cidh-2894f5.jpeg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "SNTP: «PERIODISTA ROMÁN CAMACHO SIGUE BAJO MEDIDAS CAUTELARES Y SIN LIBERTAD PLENA» ",
-      "link": "https://noticierodigital.com/2026/03/sntp-periodista-roman-camacho-sigue-bajo-medidas-cautelares-y-sin-libertad-plena/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/roman-camacho-periodista-de-sucesos-12jul2021.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "VIDEO | Momento exacto en que avión Hércules de la FAC cae en Putumayo: más de 100 personas a bordo",
-      "link": "https://www.noticiascaracol.com/colombia/video-momento-exacto-en-que-avion-hercules-de-la-fac-cae-en-putumayo-mas-de-100-personas-abordo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3f0c91d/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F09%2F15%2Fee56ab1e4d6d94bd7e8c9899f99f%2Fsenado-51.jpg"
+      "title": "Mindefensa habla de \"condiciones\" de avión Hércules de la FAC que se accidentó en Putumayo",
+      "link": "https://www.noticiascaracol.com/colombia/mindefensa-habla-de-condiciones-de-avion-hercules-de-la-fac-que-se-accidento-en-putumayo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c9d5d05/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbb%2F35%2Ffcf20ffa4203888de4a2ea2436ba%2Fsenado-53.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Trump sobre venezolano acusado de crimen en Chicago: “Este animal entró por la política de Biden”",
       "link": "https://laverdad.com/trump-sobre-venezolano-acusado-de-crimen-en-chicago-este-animal-entro-por-la-politica-de-biden/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jose-Medina-venezolano-asesino-Chicago.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Chevron pide más reformas legales para ampliar inversiones en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/chevron-pide-mas-reformas-legales-para-ampliar-inversiones-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/n6qvKZ7f-cnne-1763449-chevron-vende-sus-activos-en-athabasca-oil-sands-y-duvernay-shale-750x430.jpg"
+      "title": "Confirman ocho muertos y 83 heridos tras accidente de avión militar en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/confirman-ocho-muertos-y-83-heridos-tras-accidente-de-avion-militar-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69c1840fca690.r_d.1952-1248-3000-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-23T19:50:09.587Z"
+  "lastUpdate": "2026-03-23T20:38:17.885Z"
 };
