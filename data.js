@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "657,00"
+      "usdt": "688,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Irán dice que cerrará completamente Ormuz si EE. UU. ataca sus centrales eléctricas",
       "link": "https://laverdad.com/iran-dice-que-cerrara-completamente-ormuz-si-ee-uu-ataca-sus-centrales-electricas/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/1536x864_cmsv2_d8318647-53ad-5b04-add7-55b65f2c5030-9686941.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_22-3-2026_22752_www.bing_.com_.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-23T02:22:47.365Z"
+  "lastUpdate": "2026-03-23T05:03:30.474Z"
 };
