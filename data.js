@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump fija un lunes decisivo con un ultimátum a Irán",
+      "title": "Irán amenaza con destruir infraestructura estadounidense en la región",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26070525672326-20260323012201838.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_22-3-2026_22752_www.bing_.com_.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-23T05:03:30.474Z"
+  "lastUpdate": "2026-03-23T07:11:30.806Z"
 };
