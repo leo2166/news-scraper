@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "689,50"
+      "usdt": "679,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado: “Washington no va a sostener un régimen represivo en Venezuela”\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-washington-no-va-a-sostener-un-regimen-represivo/",
+      "title": "Guerra en Oriente Medio y Venezuela marcan foro de los petroleros en Houston\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/guerra-en-oriente-medio-y-venezuela-marcan-foro-de-los-petroleros-en-houston/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán amenaza con destruir infraestructura estadounidense en la región",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26070525672326-20260323012201838.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cierra LaGuardia tras colisión mortal",
+      "link": "https://cnnespanol.cnn.com/2026/03/23/eeuu/autoridades-aeropuerto-laguardia-emergencia-aerea-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26070525672326-20260323012201838.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Irán dice que cerrará completamente Ormuz si EE. UU. ataca sus centrales eléctricas",
       "link": "https://laverdad.com/iran-dice-que-cerrara-completamente-ormuz-si-ee-uu-ataca-sus-centrales-electricas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/1536x864_cmsv2_d8318647-53ad-5b04-add7-55b65f2c5030-9686941.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/8PH8K32x-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-23T10:07:47.357Z"
+  "lastUpdate": "2026-03-23T11:43:19.881Z"
 };
