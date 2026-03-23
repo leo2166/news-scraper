@@ -5,7 +5,7 @@
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "689,90"
+      "usdt": "657,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Gobierno de Trump desplegará agentes de ICE en aeropuertos",
-      "link": "https://cnnespanol.cnn.com/2026/03/22/eeuu/agentes-inmigracion-aeropuertos-tsa-insuficiente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267396375-20260322115421846.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump fija un lunes decisivo con un ultimátum a Irán",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26070525672326-20260323012201838.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ernesto Villegas: “Es necesario hacer una revisión amplia de todo el ordenamiento jurídico que garantice las libertades”",
-      "link": "https://noticiasvenevision.com/noticias/politica/ernesto-villegas-es-necesario-hacer-una-revision-amplia-de-todo-el-ordenamiento-juridico-que-garantice-las-libertades",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-ernesto-villegas-22mar2026-161239.jpeg"
+      "title": "Ministra Jacqueline Faría inspecciona operatividad y seguridad del Metro de Caracas en La Hoyada",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministra-jacqueline-faria-inspecciona-operatividad-y-seguridad-del-metro-de-caracas-en-la-hoyada",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/09-2-5cf138.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Incendio forestal en Chocontá genera cierre total en la vía Bogotá-Tunja",
-      "link": "https://www.noticiascaracol.com/colombia/incendio-forestal-en-choconta-genera-cierre-total-en-la-via-bogota-tunja-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d264089/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa7%2F54%2Fcf7666774cc88a44218fbaa44cb2%2Fincendio.jpg"
+      "title": "Pasajera de avión Wingo que volvió de emergencia en Barranquilla: “Nos vimos al borde de la muerte”",
+      "link": "https://www.noticiascaracol.com/colombia/pasajera-de-avion-wingo-que-volvio-de-emergencia-en-barranquilla-nos-vimos-al-borde-de-la-muerte-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f778665/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F03%2F55%2F5b521f364ef68811d74613d75f2a%2Fpasajera-wingo.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Irán dice que cerrará completamente Ormuz si EE. UU. ataca sus centrales eléctricas",
       "link": "https://laverdad.com/iran-dice-que-cerrara-completamente-ormuz-si-ee-uu-ataca-sus-centrales-electricas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/1536x864_cmsv2_d8318647-53ad-5b04-add7-55b65f2c5030-9686941.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España exige apertura del Estrecho de Ormuz: \"El mundo no debe pagar los efectos de guerra\"",
-      "link": "https://diarioversionfinal.com/mundo/espana-exige-apertura-del-estrecho-de-ormuz-el-mundo-no-debe-pagar-los-efectos-de-guerra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/pedro-sanchez-28-de-abril-2025-720x430.jpg"
+      "title": "Exdirector de contraterrorismo dimite y exige a Trump escuchar voces opuestas a la guerra con Irán",
+      "link": "https://diarioversionfinal.com/mundo/exdirector-de-contraterrorismo-dimite-y-exige-a-trump-escuchar-voces-opuestas-a-la-guerra-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_22-3-2026_22752_www.bing_.com_.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-22T23:28:32.176Z"
+  "lastUpdate": "2026-03-23T02:22:47.365Z"
 }
