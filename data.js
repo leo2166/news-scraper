@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "695,00"
+      "usdt": "694,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Una familia venezolana necesita 645,6 dólares al mes para cubrir la canasta básica alimentaria\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/una-familia-venezolana-necesita-6456-dolares-al-mes-para-cubrir-la-canasta-basica-alimentaria/",
+      "title": "Mike Wirth, CEO de Chevron, considera que Ley de Hidrocarburos de Venezuela aún requiere mayor seguridad jurídica\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/mike-wirth-ceo-de-chevron-considera-que-ley-de-hidrocarburos-de-venezuela-aun-requiere-mayor-seguridad-juridica/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Pablo Guanipa exige cambio estructural en el Poder Electoral",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-pablo-guanipa-exige-cambio-estructural-en-el-poder-electoral",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/juan-pablo-guanipa-proteccion-cidh-2894f5.jpeg"
+      "title": "Ejecutivo Nacional activa Plan de Ahorro Eléctrico ante impacto de la emergencia climática",
+      "link": "https://noticiasvenevision.com/noticias/politica/ejecutivo-nacional-activa-plan-de-ahorro-electrico-ante-impacto-de-la-emergencia-climatica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/43_zc__2001_p-scaled-fda629.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ARRIBARON 131 VENEZOLANOS DEPORTADOS DESDE EE. UU. AL AEROPUERTO DE MAIQUETÍA",
-      "link": "https://noticierodigital.com/2026/03/arribaron-131-venezolanos-deportados-desde-ee-uu-al-aeropuerto-de-maiquetia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-de-deportacion-eeuu-venezolanos-627x376.jpg"
+      "title": "STALIN GONZÁLEZ EXIGIÓ SOLUCIONES INMEDIATAS ANTE LA CRISIS HÍDRICA NACIONAL",
+      "link": "https://noticierodigital.com/2026/03/stalin-gonzalez-exigio-soluciones-inmediatas-ante-la-crisis-hidrica-nacional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/StalinGonzalez_22julio-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Netanyahu asegura que seguirá atacando Irán pese a posible acuerdo de Trump",
-      "link": "https://diarioversionfinal.com/mundo/netanyahu-asegura-que-seguira-atacando-iran-pese-a-posible-acuerdo-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
+      "title": "Ataque israelí impacta en los suburbios del sur de Beirut tras advertencia",
+      "link": "https://diarioversionfinal.com/mundo/ataque-israeli-impacta-en-los-suburbios-del-sur-de-beirut-tras-advertencia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1703.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-23T22:33:42.118Z"
+  "lastUpdate": "2026-03-23T23:33:04.172Z"
 };
