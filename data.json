@@ -5,7 +5,7 @@
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "691,90"
+      "usdt": "693,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,23 +37,29 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/juan-pablo-guanipa-proteccion-cidh-2894f5.jpeg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CEO DE CHEVRON SUGIERE MÁS REFORMAS A LA LEY DE HIDROCARBUROS DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/ceo-de-chevron-sugiere-mas-reformas-a-la-ley-de-hidrocarburos-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/05/mike_wirth_chevron_1may2020.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Mindefensa habla de \"condiciones\" de avión Hércules de la FAC que se accidentó en Putumayo",
-      "link": "https://www.noticiascaracol.com/colombia/mindefensa-habla-de-condiciones-de-avion-hercules-de-la-fac-que-se-accidento-en-putumayo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c9d5d05/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbb%2F35%2Ffcf20ffa4203888de4a2ea2436ba%2Fsenado-53.jpg"
+      "title": "Ataque en la vía Panamericana deja un policía muerto y cinco heridos en Cauca",
+      "link": "https://www.noticiascaracol.com/colombia/ataque-en-la-via-panamericana-deja-un-policia-muerto-y-cinco-heridos-en-cauca-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6ec22d9/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F07%2F40%2F5da8120d479ba2944152baa5ae5f%2Fvia-panamericana.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump sobre venezolano acusado de crimen en Chicago: “Este animal entró por la política de Biden”",
-      "link": "https://laverdad.com/trump-sobre-venezolano-acusado-de-crimen-en-chicago-este-animal-entro-por-la-politica-de-biden/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Confirman al menos 8 muertos y 83 heridos en accidente de avión militar en Colombia",
+      "link": "https://laverdad.com/confirman-al-menos-8-muertos-y-83-heridos-en-accidente-de-avion-militar-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/a4e0918102661cc45abd7413c7e38aafc401f245-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Confirman ocho muertos y 83 heridos tras accidente de avión militar en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/confirman-ocho-muertos-y-83-heridos-tras-accidente-de-avion-militar-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/69c1840fca690.r_d.1952-1248-3000-750x430.jpeg"
+      "title": "Ministro de Defensa de Colombia descarta ataque en accidente de avión militar",
+      "link": "https://diarioversionfinal.com/mundo/ministro-de-defensa-de-colombia-descarta-ataque-en-accidente-de-avion-militar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Avion-militar-Colombia-23-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-23T20:38:17.885Z"
+  "lastUpdate": "2026-03-23T21:37:21.522Z"
 }
