@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "679,87"
+      "usdt": "685,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Guerra en Oriente Medio y Venezuela marcan foro de los petroleros en Houston\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/guerra-en-oriente-medio-y-venezuela-marcan-foro-de-los-petroleros-en-houston/",
+      "title": "Trump ordenó paralizar durante cinco días ataques a infraestructura energética iraní\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/trump-ordeno-paralizar-ataques-a-infraestructura-energetica-irani/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Cierra LaGuardia tras colisión mortal",
-      "link": "https://cnnespanol.cnn.com/2026/03/23/eeuu/autoridades-aeropuerto-laguardia-emergencia-aerea-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26070525672326-20260323012201838.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Cierra el aeropuerto LaGuardia tras una colisión mortal",
+      "link": "https://cnnespanol.cnn.com/eeuu/live-news/noticias-aeropuerto-laguardia-avion-tsa-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-21-133908.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Ministra Jacqueline Faría inspecciona operatividad y seguridad del Metro de Caracas en La Hoyada",
       "link": "https://noticiasvenevision.com/noticias/politica/ministra-jacqueline-faria-inspecciona-operatividad-y-seguridad-del-metro-de-caracas-en-la-hoyada",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/09-2-5cf138.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "SNTP RECHAZÓ PROPUESTA DE REGISTRO OBLIGATORIO PARA MEDIOS DIGITALES",
-      "link": "https://noticierodigital.com/2026/03/sntp-rechazo-propuesta-de-registro-obligatorio-para-medios-digitales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/marco-ruiz-sntp-19dic2019.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel ordena nuevos ataques contra infraestructura iraní en Teherán e intensifican el combate contra Hizbulá",
-      "link": "https://diarioversionfinal.com/mundo/israel-ordena-nuevos-ataques-contra-infraestructura-irani-en-teheran-e-intensifican-el-combate-contra-hizbula/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/8PH8K32x-image-750x430.jpg"
+      "title": "Juzgado español valida sobre de PDVSA entregado a comisionista como prueba de financiación del PSOE",
+      "link": "https://diarioversionfinal.com/mundo/juzgado-espanol-valida-sobre-de-pdvsa-entregado-a-comisionista-como-prueba-de-financiacion-del-psoe/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/26GB5EMWFVBGXJ2DMEJCTGCTAA.avif"
     }
   ],
-  "lastUpdate": "2026-03-23T11:43:19.881Z"
+  "lastUpdate": "2026-03-23T13:09:10.230Z"
 };
