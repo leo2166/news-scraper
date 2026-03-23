@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trabajadores y jubilados protestan por salarios dignos\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/trabajadores-y-jubilados-protestan-por-salarios-dignos/",
+      "title": "Una familia venezolana necesita 645,6 dólares al mes para cubrir la canasta básica alimentaria\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/una-familia-venezolana-necesita-6456-dolares-al-mes-para-cubrir-la-canasta-basica-alimentaria/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO Y MADURO GUERRA: «VENEZOLANOS EXIGEN FIN DE LAS SANCIONES»",
-      "link": "https://noticierodigital.com/2026/03/cabello-y-maduro-guerra-venezolanos-exigen-fin-de-las-sanciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260323-WA0098-627x376.jpg"
+      "title": "SNTP: «PERIODISTA ROMÁN CAMACHO SIGUE BAJO MEDIDAS CAUTELARES Y SIN LIBERTAD PLENA» ",
+      "link": "https://noticierodigital.com/2026/03/sntp-periodista-roman-camacho-sigue-bajo-medidas-cautelares-y-sin-libertad-plena/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/roman-camacho-periodista-de-sucesos-12jul2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump destaca avances con Venezuela y sugiere un modelo similar para Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-destaca-avances-con-venezuela-y-sugiere-un-modelo-similar-para-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
+      "title": "Chevron pide más reformas legales para ampliar inversiones en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/chevron-pide-mas-reformas-legales-para-ampliar-inversiones-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/n6qvKZ7f-cnne-1763449-chevron-vende-sus-activos-en-athabasca-oil-sands-y-duvernay-shale-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-23T18:56:20.513Z"
+  "lastUpdate": "2026-03-23T19:50:09.587Z"
 };
