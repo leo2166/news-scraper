@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "662,04"
+      "usdt": "696,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES APOYA DEMANDAS SALARIALES DE TRABAJADORES: «SUS PROPUESTAS IMPORTAN»",
-      "link": "https://noticierodigital.com/2026/03/capriles-apoya-demandas-salariales-de-trabajadores-sus-propuestas-importan/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/henrique-capriles-radonski-1-627x376.jpg"
+      "title": "CABELLO Y MADURO GUERRA: «VENEZOLANOS EXIGEN FIN DE LAS SANCIONES»",
+      "link": "https://noticierodigital.com/2026/03/cabello-y-maduro-guerra-venezolanos-exigen-fin-de-las-sanciones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260323-WA0098-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Petro reacciona a caída de avión de la FAC en Putumayo: esto dijo",
-      "link": "https://www.noticiascaracol.com/colombia/petro-reacciona-a-caida-de-avion-de-la-fac-en-putumayo-esto-dijo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3c97fb8/2147483647/strip/true/crop/1278x721+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5d%2Ffb%2Fe273b7a54c50b91561a5349f100f%2Fpetro-reaccion.jpg"
+      "title": "VIDEO | Momento exacto en que avión Hércules de la FAC cae en Putumayo: más de 100 personas a bordo",
+      "link": "https://www.noticiascaracol.com/colombia/video-momento-exacto-en-que-avion-hercules-de-la-fac-cae-en-putumayo-mas-de-100-personas-abordo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3f0c91d/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F09%2F15%2Fee56ab1e4d6d94bd7e8c9899f99f%2Fsenado-51.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-23T17:50:46.235Z"
+  "lastUpdate": "2026-03-23T18:56:20.513Z"
 };
