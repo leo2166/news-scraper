@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "527,79"
     },
     "binance": {
-      "usdt": "686,10"
+      "usdt": "662,04"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "En 2017 Ernesto Villegas mintió sistemáticamente sobre la muerte de Juan Pablo Pernalete\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/villegas-mintio-sistematicamente-sobre-la-muerte-de-pernalete/",
+      "title": "Trabajadores y jubilados protestan por salarios dignos\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/trabajadores-y-jubilados-protestan-por-salarios-dignos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,23 +37,29 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/juan-pablo-guanipa-proteccion-cidh-2894f5.jpeg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CAPRILES APOYA DEMANDAS SALARIALES DE TRABAJADORES: «SUS PROPUESTAS IMPORTAN»",
+      "link": "https://noticierodigital.com/2026/03/capriles-apoya-demandas-salariales-de-trabajadores-sus-propuestas-importan/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/henrique-capriles-radonski-1-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Avión de Air Canada colisionó con vehículo en aeropuerto de Nueva York; dos personas murieron",
-      "link": "https://www.noticiascaracol.com/mundo/avion-de-air-canada-colisiono-con-vehiculo-en-aeropuerto-de-nueva-york-dos-personas-murieron-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/be68451/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F62%2F01%2Fd0da3f474f018723b9ab38e4dcd7%2Fplantilla-fotos-77.jpg"
+      "title": "Petro reacciona a caída de avión de la FAC en Putumayo: esto dijo",
+      "link": "https://www.noticiascaracol.com/colombia/petro-reacciona-a-caida-de-avion-de-la-fac-en-putumayo-esto-dijo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3c97fb8/2147483647/strip/true/crop/1278x721+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5d%2Ffb%2Fe273b7a54c50b91561a5349f100f%2Fpetro-reaccion.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV: “¡Los bombardeos aéreos deberían haberse prohibido para siempre!”",
-      "link": "https://laverdad.com/leon-xiv-los-bombardeos-aereos-deberian-haberse-prohibido-para-siempre/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Leon-XIV.jpg"
+      "title": "Trump sobre venezolano acusado de crimen en Chicago: “Este animal entró por la política de Biden”",
+      "link": "https://laverdad.com/trump-sobre-venezolano-acusado-de-crimen-en-chicago-este-animal-entro-por-la-politica-de-biden/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jose-Medina-venezolano-asesino-Chicago.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Medios iraníes niegan acercamiento con Washington tras anuncio de Trump",
-      "link": "https://diarioversionfinal.com/mundo/medios-iranies-niegan-acercamiento-con-washington-tras-anuncio-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16894850-750x430.jpg"
+      "title": "Trump destaca avances con Venezuela y sugiere un modelo similar para Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-destaca-avances-con-venezuela-y-sugiere-un-modelo-similar-para-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-23T16:00:57.531Z"
+  "lastUpdate": "2026-03-23T17:50:46.235Z"
 };
