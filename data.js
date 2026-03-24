@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "692,44"
+      "usdt": "692,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Primeras imágenes de militares heridos llegando a Bogotá tras accidente de avión en Putumayo",
-      "link": "https://www.noticiascaracol.com/colombia/primeras-imagenes-de-militares-heridos-llegando-a-bogota-tras-accidente-de-avion-en-putumayo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9f5d3e1/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F70%2F21%2F6f074a5848cf85242d8ae1afc4f4%2Fllegada-heridos.jpg"
+      "title": "Ellos son seis de los 11 tripulantes que murieron en accidente aéreo en Putumayo: \"Vuelan más alto\"",
+      "link": "https://www.noticiascaracol.com/colombia/ellos-son-seis-de-los-11-tripulantes-que-murieron-en-accidente-aereo-en-putumayo-vuelan-mas-alto-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d5a4a07/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F30%2Fcf%2F5a1492e44eb1a0c4b301f9927efd%2Fsenado-55.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16993664-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-24T02:07:43.040Z"
+  "lastUpdate": "2026-03-24T04:53:52.335Z"
 };
