@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "694,00"
+      "usdt": "692,44"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Agentes de ICE se encuentran en al menos 14 aeropuertos",
-      "link": "https://cnnespanol.cnn.com/eeuu/live-news/agentes-ice-aeropuertos-tsa-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-red-on-black.png?c=16x9&q=w_800,c_fill"
+      "title": "Accidente aéreo en Colombia: hay más de 60 muertos",
+      "link": "https://cnnespanol.cnn.com/2026/03/23/colombia/avion-fuerza-aerea-accidente-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trumpescalerilla.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ejecutivo Nacional activa Plan de Ahorro Eléctrico ante impacto de la emergencia climática",
-      "link": "https://noticiasvenevision.com/noticias/politica/ejecutivo-nacional-activa-plan-de-ahorro-electrico-ante-impacto-de-la-emergencia-climatica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/43_zc__2001_p-scaled-fda629.jpg"
+      "title": "Delcy Rodríguez expresa \"profunda solidaridad\" con Colombia por accidente de avión militar",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-expresa-profunda-solidaridad-con-colombia-por-accidente-de-avion-militar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5026529419585065630_w-1b4db3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "STALIN GONZÁLEZ EXIGIÓ SOLUCIONES INMEDIATAS ANTE LA CRISIS HÍDRICA NACIONAL",
-      "link": "https://noticierodigital.com/2026/03/stalin-gonzalez-exigio-soluciones-inmediatas-ante-la-crisis-hidrica-nacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/StalinGonzalez_22julio-627x376.jpg"
+      "title": "PRESIDENTE DEL INAMEH VINCULÓ EL CALOR EN VENEZUELA CON EL INCREMENTO TÉRMICO GLOBAL",
+      "link": "https://noticierodigital.com/2026/03/presidente-del-inameh-vinculo-el-calor-en-venezuela-con-el-incremento-termico-global/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Reidy-Zambrano-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ataque israelí impacta en los suburbios del sur de Beirut tras advertencia",
-      "link": "https://diarioversionfinal.com/mundo/ataque-israeli-impacta-en-los-suburbios-del-sur-de-beirut-tras-advertencia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1703.jpeg"
+      "title": "Autoridades han levantado 34 cadáveres en accidente de avión militar en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/autoridades-han-levantado-34-cadaveres-en-accidente-de-avion-militar-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16993664-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-23T23:33:04.172Z"
+  "lastUpdate": "2026-03-24T02:07:43.040Z"
 };
