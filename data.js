@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "459,45",
-      "eur": "533,46"
+      "usd": "462,67",
+      "eur": "536,09"
     },
     "binance": {
-      "usdt": "697,70"
+      "usdt": "698,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El régimen chavista mantiene 503 presos políticos mientras la amnistía enfrenta su primera crisis de credibilidad",
-      "link": "https://www.infobae.com/venezuela/2026/03/24/el-regimen-chavista-mantiene-503-presos-politicos-mientras-la-amnistia-enfrenta-su-primera-crisis-de-credibilidad/",
-      "image": "https://www.infobae.com/resizer/v2/WJWR3DUNXRCWFDZ2RUHRUKXMW4.jpg?auth=b4de27a6c36c2584b59064040ea1e15f77048da7598e02eb1c4fd76e389ba901&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado afirmó que el gobierno de transición de Delcy Rodríguez “está desmantelando sus estructuras represivas” por órdenes de Donald Trump",
+      "link": "https://www.infobae.com/venezuela/2026/03/24/maria-corina-machado-afirmo-que-el-gobierno-de-transicion-de-delcy-rodriguez-esta-desmantelando-sus-estructuras-represivas-por-ordenes-de-donald-trump/",
+      "image": "https://www.infobae.com/resizer/v2/SKCPUGGIW5B2VAGRSA7THBVFFE.JPG?auth=331a17a18fd1d859ff96e6d4198c572a42f772b40d24fab0a6ac7d30bb8dc2a0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Fuente iraní afirma que hubo un \"acercamiento\" por parte de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sultan-qaboos.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Republicanos proponen plan para reabrir el DHS en medio de caos en aeropuertos",
+      "link": "https://cnnespanol.cnn.com/2026/03/24/eeuu/republicanos-impulsan-plan-cierre-dhs-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-24-125555.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez anuncia viaje de diplomáticos venezolanos a EE.UU.",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-viaje-de-diplomaticos-venezolanos-a-eeuu",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gettyimages-2261136143-59e8fa.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "AN DESIGNÓ A ARIANNY SEIJO NOGUERA COMO NUEVA PROCURADORA GENERAL",
-      "link": "https://noticierodigital.com/2026/03/an-designo-a-arianny-seijo-noguera-como-nueva-procuradora-general/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/asamblea-nacional-venezuela-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Embassy_of_Venezuela_-_Washington_D.C.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T21:38:37.733Z"
+  "lastUpdate": "2026-03-24T22:33:18.585Z"
 };
