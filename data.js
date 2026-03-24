@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "692,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump pospone durante cinco días los ataques contra las centrales eléctricas de Irán",
+      "title": "Trump pospone durante cinco días ataques contra centrales eléctricas de Irán",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-243trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267977139-20260323151433743.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Confirman al menos 8 muertos y 83 heridos en accidente de avión militar en Colombia",
       "link": "https://laverdad.com/confirman-al-menos-8-muertos-y-83-heridos-en-accidente-de-avion-militar-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/a4e0918102661cc45abd7413c7e38aafc401f245-1-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16993664-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-24T06:00:01.490Z"
+  "lastUpdate": "2026-03-24T07:16:42.564Z"
 };
