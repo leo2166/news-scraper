@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "692,69"
+      "usdt": "693,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Confirman al menos 8 muertos y 83 heridos en accidente de avión militar en Colombia",
       "link": "https://laverdad.com/confirman-al-menos-8-muertos-y-83-heridos-en-accidente-de-avion-militar-en-colombia/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/a4e0918102661cc45abd7413c7e38aafc401f245-1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/7T9jAPv0-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T08:54:22.876Z"
+  "lastUpdate": "2026-03-24T09:56:42.564Z"
 };
