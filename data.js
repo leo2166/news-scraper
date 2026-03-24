@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "691,69"
+      "usdt": "684,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una red de propaganda a favor de Delcy Rodríguez usó actores y contenidos de medios para mejorar su imagen",
-      "link": "https://www.infobae.com/venezuela/2026/03/23/una-red-de-propaganda-a-favor-de-delcy-rodriguez-uso-actores-y-contenidos-de-medios-para-mejorar-su-imagen/",
-      "image": "https://www.infobae.com/resizer/v2/XW2FENSBYFGEZIC3NSUSJAOMAA.jpg?auth=abd0ee5892ee186e4429155fb338b41f8767eab2ce322e78809d5db5adec6eff&smart=true&width=350&height=197&quality=85"
+      "title": "15 ONGs venezolanas alertaron sobre el riesgo de profundizar el daño ambiental con la ley de minería",
+      "link": "https://www.infobae.com/venezuela/2026/03/24/15-ongs-venezolanas-alertaron-sobre-el-riesgo-de-profundizar-el-dano-ambiental-con-la-ley-de-mineria/",
+      "image": "https://www.infobae.com/resizer/v2/XTM3XMXQ2VEJ3KVHYCZSA5I2N4.jpg?auth=288ebe4df5f70e71395dd23537d619ec2850af110eb386d2e4421b06cfa12ab8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué Trump podría no ser capaz de marcarse otro TACO en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/03/24/mundo/analisis-trump-taco-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2268040222-20260324104933901.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU., Israel e Irán envían señales contradictorias sobre posibles diálogos",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-24t085759z-1019409346-rc2vaka6zn16-rtrmadp-3-iran-crisis-israel-20260324105809059.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ellos son seis de los 11 tripulantes que murieron en accidente aéreo en Putumayo",
-      "link": "https://www.noticiascaracol.com/colombia/ellos-son-seis-de-los-11-tripulantes-que-murieron-en-accidente-aereo-en-putumayo-vuelan-mas-alto-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d5a4a07/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F30%2Fcf%2F5a1492e44eb1a0c4b301f9927efd%2Fsenado-55.jpg"
+      "title": "Primer parte médico de los sobrevivientes de accidente aéreo en Putumayo: informe de 24 pacientes",
+      "link": "https://www.noticiascaracol.com/colombia/primer-parte-medico-de-los-sobrevivientes-de-accidente-aereo-de-avion-militar-en-putumayo-informe-de-24-pacientes-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/615b078/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F26%2F5f%2F0d3ca3e941c99a392161927785a9%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/7T9jAPv0-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T10:54:48.857Z"
+  "lastUpdate": "2026-03-24T11:45:52.904Z"
 };
