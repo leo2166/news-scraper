@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump pospone durante cinco días ataques contra centrales eléctricas de Irán",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-eeuu-israel-iran-ataques-medio-oriente-vivo-243trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267977139-20260323151433743.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Por qué Trump podría no ser capaz de marcarse otro TACO en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/03/24/mundo/analisis-trump-taco-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26082786516372-20260324043842660.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Autoridades han levantado 34 cadáveres en accidente de avión militar en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/autoridades-han-levantado-34-cadaveres-en-accidente-de-avion-militar-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16993664-750x430.jpeg"
+      "title": "Irán ataca Tel Aviv justo cuando Trump decía que las conversaciones para bajar la hostilidad avanzaban",
+      "link": "https://diarioversionfinal.com/mundo/iran-ataca-tel-aviv-justo-cuando-trump-decia-que-las-conversaciones-para-bajar-la-hostilidad-avanzaban/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/7T9jAPv0-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T07:16:42.564Z"
+  "lastUpdate": "2026-03-24T08:54:22.876Z"
 };
