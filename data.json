@@ -5,7 +5,7 @@
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "680,80"
+      "usdt": "681,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "15 ONGs venezolanas alertaron sobre el riesgo de profundizar el daño ambiental con la ley de minería",
-      "link": "https://www.infobae.com/venezuela/2026/03/24/15-ongs-venezolanas-alertaron-sobre-el-riesgo-de-profundizar-el-dano-ambiental-con-la-ley-de-mineria/",
-      "image": "https://www.infobae.com/resizer/v2/XTM3XMXQ2VEJ3KVHYCZSA5I2N4.jpg?auth=288ebe4df5f70e71395dd23537d619ec2850af110eb386d2e4421b06cfa12ab8&smart=true&width=350&height=197&quality=85"
+      "title": "Trabajadores venezolanos marcharon por tercera vez en el año en reclamo de salarios dignos",
+      "link": "https://www.infobae.com/venezuela/2026/03/24/trabajadores-venezolanos-marcharon-por-tercera-vez-en-el-ano-en-reclamo-de-salarios-dignos/",
+      "image": "https://www.infobae.com/resizer/v2/IZ44YWFP6VA75EDQWGOEUHBNZM.jpg?auth=d1351d629f93bbb7ab6c7865fdca6cc3cfbc27bfad4427aefd2b4da2848d4089&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU., Israel e Irán envían señales contradictorias sobre posibles diálogos",
+      "title": "Por qué el fin de la guerra no hará que el combustible vuelva de inmediato a la normalidad",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-24t085759z-1019409346-rc2vaka6zn16-rtrmadp-3-iran-crisis-israel-20260324105809059.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sultan-qaboos.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "INFORME DE LA PETROLERA ENI INDICA QUE VENEZUELA LE DEBE $3.300 MILLONES",
-      "link": "https://noticierodigital.com/2026/03/informe-de-la-petrolera-eni-indica-que-venezuela-le-debe-3-300-millones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/02/crudo-petroleo-22feb2022.jpg"
+      "title": "KARIM VERA: “TÁCHIRA SOBREVIVE ENTRE LA OSCURIDAD Y EL ABANDONO”",
+      "link": "https://noticierodigital.com/2026/03/karim-vera-tachira-sobrevive-entre-la-oscuridad-y-el-abandono/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/karimvera-mafias-frontera-13ene2023.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Primer parte médico de los sobrevivientes de accidente aéreo en Putumayo: informe de 24 pacientes",
-      "link": "https://www.noticiascaracol.com/colombia/primer-parte-medico-de-los-sobrevivientes-de-accidente-aereo-de-avion-militar-en-putumayo-informe-de-24-pacientes-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/615b078/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F26%2F5f%2F0d3ca3e941c99a392161927785a9%2Fdiseno-1.jpg"
+      "title": "Revelan momento exacto en que futbolista Sub-20 de Millonarios se desploma durante partido en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-momento-exacto-en-que-futbolista-sub20-de-millonarios-se-desploma-en-pleno-partido-en-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2f9dd2c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F52%2F0d%2F11cdceaa463bb541bd0f2a2c1d1f%2Fportadas-caracol-web-37.png"
     },
     {
       "source": "La Verdad",
-      "title": "Confirman al menos 8 muertos y 83 heridos en accidente de avión militar en Colombia",
-      "link": "https://laverdad.com/confirman-al-menos-8-muertos-y-83-heridos-en-accidente-de-avion-militar-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/a4e0918102661cc45abd7413c7e38aafc401f245-1-scaled.jpg"
+      "title": "Rubio testificará este martes en caso criminal en Miami vinculado con el gobierno de Maduro",
+      "link": "https://laverdad.com/rubio-testificara-este-martes-en-caso-criminal-en-miami-vinculado-con-el-gobierno-de-maduro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Marco-Rubio-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ascienden a 66 los fallecidos tras desplome de avión de la Fuerza Aérea Colombiana",
-      "link": "https://diarioversionfinal.com/mundo/ascienden-a-66-los-fallecidos-tras-desplome-de-avion-de-la-fuerza-aerea-colombiana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/75afce48350b3f4a23757bd29942d8cbfd272856miniw-750x430.webp"
+      "title": "Venezolanos deberán gestionar viajes a República Dominicana desde Bogotá",
+      "link": "https://diarioversionfinal.com/mundo/venezolanos-deberan-gestionar-viajes-a-republica-dominicana-desde-bogota/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Bandera-de-Republica-Dominicana-960x640-1.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T13:13:25.789Z"
+  "lastUpdate": "2026-03-24T14:58:58.336Z"
 }
