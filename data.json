@@ -5,7 +5,7 @@
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "698,00"
+      "usdt": "699,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado afirmó que el gobierno de transición de Delcy Rodríguez “está desmantelando sus estructuras represivas” por órdenes de Donald Trump",
-      "link": "https://www.infobae.com/venezuela/2026/03/24/maria-corina-machado-afirmo-que-el-gobierno-de-transicion-de-delcy-rodriguez-esta-desmantelando-sus-estructuras-represivas-por-ordenes-de-donald-trump/",
-      "image": "https://www.infobae.com/resizer/v2/SKCPUGGIW5B2VAGRSA7THBVFFE.JPG?auth=331a17a18fd1d859ff96e6d4198c572a42f772b40d24fab0a6ac7d30bb8dc2a0&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento chavista designó a Mervin Maldonado como jefe del programa para migrantes venezolanos en el exterior",
+      "link": "https://www.infobae.com/venezuela/2026/03/24/el-parlamento-chavista-designo-a-mervin-maldonado-como-jefe-del-programa-para-migrantes-venezolanos-en-el-exterior/",
+      "image": "https://www.infobae.com/resizer/v2/J2DX43ESURFPRN6Z5OYYZ3HAHA.jpg?auth=a35bc346b0a72b33dd70f438681b07a1ebb09061ff5d033072a1c23f9bcb0935&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,10 +37,16 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gettyimages-2261136143-59e8fa.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CONOCOPHILLIPS EXIGIÓ REESTRUCTURAR SISTEMA FISCAL DE VENEZUELA PARA ATRAER INVERSIONES",
+      "link": "https://noticierodigital.com/2026/03/conocophillips-exigio-reestructurar-sistema-fiscal-de-venezuela-para-atraer-inversiones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/ryan-lance-conoccophillips-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Estos son los nombres y rostros de las víctimas del accidente aéreo que ocurrió en Putumayo",
-      "link": "https://www.noticiascaracol.com/colombia/estos-son-los-nombres-y-rostros-de-las-victimas-del-accidente-aereo-que-ocurrio-en-putumayo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f70e9eb/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F13%2F42%2Fab7c46784f50badc8ad3080f7e6d%2Fportadas-caracol-web-41.png"
+      "title": "Hablan familiares de muertos en accidente de avión Hércules de la FAC: \"Mi hijo me hace mucha falta\"",
+      "link": "https://www.noticiascaracol.com/colombia/hablan-familiares-de-muertos-en-accidente-de-avion-hercules-de-la-fac-mi-hijo-me-hace-mucha-falta-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/54562e1/2147483647/strip/true/crop/1280x722+0+7/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdc%2Fb5%2F8992810d40c1b113fa34715255af%2Faccidente-hercules.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Embassy_of_Venezuela_-_Washington_D.C.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T22:33:18.585Z"
+  "lastUpdate": "2026-03-24T23:32:54.722Z"
 }
