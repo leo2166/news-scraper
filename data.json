@@ -5,7 +5,7 @@
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "686,60"
+      "usdt": "685,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Delcy Rodríguez negoció en Barajas 6 millones de barriles de crudo para financiar al PSOE\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/el-espanol-delcy-rodriguez-negocio-en-barajas-6-millones-de-barriles-de-crudo-para-financiar-al-psoe/",
+      "title": "Pdvsa adeuda 3.300 millones de dólares a Eni tras años de impagos por gas\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/pdvsa-adeuda-3-300-millones-de-dolares-a-eni-tras-anos-de-impagos-por-gas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -31,23 +31,35 @@
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/sultan-qaboos.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
+      "source": "Noticias Venevisión",
+      "title": "Delcy Rodríguez expresa \"profunda solidaridad\" con Colombia por accidente de avión militar",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-expresa-profunda-solidaridad-con-colombia-por-accidente-de-avion-militar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5026529419585065630_w-1b4db3.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "NEGARON AMNISTÍA A JAVIER TARAZONA",
+      "link": "https://noticierodigital.com/2026/03/negaron-amnistia-a-javier-tarazona/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260324-WA0095-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Revelan momento exacto en que futbolista Sub-20 de Millonarios se desploma durante partido en Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-momento-exacto-en-que-futbolista-sub20-de-millonarios-se-desploma-en-pleno-partido-en-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2f9dd2c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F52%2F0d%2F11cdceaa463bb541bd0f2a2c1d1f%2Fportadas-caracol-web-37.png"
+      "title": "Ordenan captura de ‘Iván Márquez’, líder de Segunda Marquetalia, por magnicidio de Miguel Uribe",
+      "link": "https://www.noticiascaracol.com/judicial/ordenan-captura-de-ivan-marquez-lider-de-segunda-marquetalia-por-magnicidio-de-miguel-uribe-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dc5285a/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F20%2F20%2Fa2ed61224ce1b4b57f1bcc6357d9%2Fmarquez-por-uribe.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Rubio testificará este martes en caso criminal en Miami vinculado con el gobierno de Maduro",
-      "link": "https://laverdad.com/rubio-testificara-este-martes-en-caso-criminal-en-miami-vinculado-con-el-gobierno-de-maduro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Marco-Rubio-1.jpg"
+      "title": "Ordenan captura de 7 jefes de disidencia de las Farc implicados en magnicidio de Uribe Turbay",
+      "link": "https://laverdad.com/ordenan-captura-de-7-jefes-de-disidencia-de-las-farc-implicados-en-magnicidio-de-uribe-turbay/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/08/Miguel-Uribe-Turbay-feretro-Capitolio-2-1.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Primer barco del convoy humanitario llega a Cuba en medio de crisis energética",
-      "link": "https://diarioversionfinal.com/mundo/primer-barco-del-convoy-humanitario-llega-a-cuba-en-medio-de-crisis-energetica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2026-03-24T143A263A18Z-91151447-750x430.webp"
+      "title": "Marco Rubio testifica en el juicio contra David Rivera por presunto lobby venezolano",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-testifica-en-el-juicio-contra-david-rivera-por-presunto-lobby-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marco-Rubio-2-28-01-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T16:13:24.771Z"
+  "lastUpdate": "2026-03-24T17:56:23.349Z"
 }
