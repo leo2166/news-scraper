@@ -5,7 +5,7 @@
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "681,60"
+      "usdt": "686,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué el fin de la guerra no hará que el combustible vuelva de inmediato a la normalidad",
+      "title": "Fuente iraní afirma que hubo un \"acercamiento\" por parte de EE.UU.",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/sultan-qaboos.jpg?c=16x9&q=h_438,w_780,c_fill"
-    },
-    {
-      "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez expresa \"profunda solidaridad\" con Colombia por accidente de avión militar",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-expresa-profunda-solidaridad-con-colombia-por-accidente-de-avion-militar",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5026529419585065630_w-1b4db3.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "KARIM VERA: “TÁCHIRA SOBREVIVE ENTRE LA OSCURIDAD Y EL ABANDONO”",
-      "link": "https://noticierodigital.com/2026/03/karim-vera-tachira-sobrevive-entre-la-oscuridad-y-el-abandono/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/karimvera-mafias-frontera-13ene2023.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +44,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolanos deberán gestionar viajes a República Dominicana desde Bogotá",
-      "link": "https://diarioversionfinal.com/mundo/venezolanos-deberan-gestionar-viajes-a-republica-dominicana-desde-bogota/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Bandera-de-Republica-Dominicana-960x640-1.jpg"
+      "title": "Primer barco del convoy humanitario llega a Cuba en medio de crisis energética",
+      "link": "https://diarioversionfinal.com/mundo/primer-barco-del-convoy-humanitario-llega-a-cuba-en-medio-de-crisis-energetica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2026-03-24T143A263A18Z-91151447-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-24T14:58:58.336Z"
+  "lastUpdate": "2026-03-24T16:13:24.771Z"
 }
