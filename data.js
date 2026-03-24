@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "533,46"
     },
     "binance": {
-      "usdt": "684,87"
+      "usdt": "680,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "¿Por qué los Estados del Golfo no están tomando represalias contra Irán?\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/por-que-los-estados-del-golfo-no-estan-tomando-represalias-contra-iran/",
+      "title": "Delcy Rodríguez negoció en Barajas 6 millones de barriles de crudo para financiar al PSOE\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/el-espanol-delcy-rodriguez-negocio-en-barajas-6-millones-de-barriles-de-crudo-para-financiar-al-psoe/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PRESIDENTE DEL INAMEH VINCULÓ EL CALOR EN VENEZUELA CON EL INCREMENTO TÉRMICO GLOBAL",
-      "link": "https://noticierodigital.com/2026/03/presidente-del-inameh-vinculo-el-calor-en-venezuela-con-el-incremento-termico-global/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Reidy-Zambrano-627x376.jpg"
+      "title": "INFORME DE LA PETROLERA ENI INDICA QUE VENEZUELA LE DEBE $3.300 MILLONES",
+      "link": "https://noticierodigital.com/2026/03/informe-de-la-petrolera-eni-indica-que-venezuela-le-debe-3-300-millones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/02/crudo-petroleo-22feb2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán ataca Tel Aviv justo cuando Trump decía que las conversaciones para bajar la hostilidad avanzaban",
-      "link": "https://diarioversionfinal.com/mundo/iran-ataca-tel-aviv-justo-cuando-trump-decia-que-las-conversaciones-para-bajar-la-hostilidad-avanzaban/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/7T9jAPv0-image-750x430.jpg"
+      "title": "Ascienden a 66 los fallecidos tras desplome de avión de la Fuerza Aérea Colombiana",
+      "link": "https://diarioversionfinal.com/mundo/ascienden-a-66-los-fallecidos-tras-desplome-de-avion-de-la-fuerza-aerea-colombiana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/75afce48350b3f4a23757bd29942d8cbfd272856miniw-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-24T11:45:52.904Z"
+  "lastUpdate": "2026-03-24T13:13:25.789Z"
 };
