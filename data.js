@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "702,00"
+      "usdt": "700,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela y Argelia crearán un consejo empresarial para consolidar la alianza energética entre ambos países",
-      "link": "https://www.infobae.com/venezuela/2026/03/25/venezuela-y-argelia-crearan-un-consejo-empresarial-para-consolidar-la-alianza-energetica-entre-ambos-paises/",
-      "image": "https://www.infobae.com/resizer/v2/MYZYOTKVTNCVFBVSXSP6OQPOKE.jpg?auth=15e741d15ccc49c4c22d26816d8748d0f83f69d9121a62d3e42a8c8d031a369c&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez confía en que la Asamblea Nacional aprobará esta semana la nueva ley de minas en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/03/25/delcy-rodriguez-confia-en-que-la-asamblea-nacional-aprobara-esta-semana-la-nueva-ley-de-minas-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/ZW6JZU6YVJFMVG6DIRUSBYZJXM.jpg?auth=158b1af09552676e1155703ab0a28f89c14858a139eb20c9c4ad2fa2012534c5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado presenta en CERAWeek plan para reactivar el sector energético venezolano\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-presenta-en-ceraweek-plan-para-reactivar-el-sector-energetico-venezolano/",
+      "title": "El fracasado experimento político que terminó controlando miles de millones de dólares de Venezuela \nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/el-fracasado-experimento-politico-que-termino-controlando-miles-de-millones-de-dolares-de-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Se prevé el despliegue de unos 1.000 paracaidistas de EE.UU. en Medio Oriente",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325070919845.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-5-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325095816358.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-2-24-03-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T09:54:30.372Z"
+  "lastUpdate": "2026-03-25T10:50:36.913Z"
 };
