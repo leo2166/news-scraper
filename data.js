@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "462,67",
-      "eur": "536,09"
+      "usd": "466,60",
+      "eur": "540,17"
     },
     "binance": {
-      "usdt": "712,00"
+      "usdt": "709,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez apuesta por inversiones extranjeras ante un foro de Miami con promesas de crecimiento y un marco legal reformado",
-      "link": "https://www.infobae.com/venezuela/2026/03/25/delcy-rodriguez-apuesta-por-inversiones-extranjeras-ante-un-foro-de-miami-con-promesas-de-crecimiento-y-un-marco-legal-reformado/",
-      "image": "https://www.infobae.com/resizer/v2/MQQ5NDA2B5DIZNLCO7FNCTASFY.jpg?auth=ee92036cf68c13151764aace1ebeaa5c4c71328bf50159ff8e38bfba33fb1d4e&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos lleva inversores a Caracas por primera vez desde el restablecimiento diplomático",
+      "link": "https://www.infobae.com/venezuela/2026/03/25/estados-unidos-lleva-inversores-a-caracas-por-primera-vez-desde-el-restablecimiento-diplomatico/",
+      "image": "https://www.infobae.com/resizer/v2/CXBSSVA3TRHJTOFCTXUA5Q2BTM.JPG?auth=f8d24badec3ca14ae739af229143eaa3332f0d337fbcd09866048ef0ea1f4172&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Trabajadores y estudiantes marchan en Caracas para exigir aumento salarial y pensiones dignas\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/trabajadores-y-estudiantes-marchan-en-caracas-para-exigir-aumento-salarial-y-pensiones-dignas/",
+      "title": "EE UU trasladó 100 millones de dólares en oro desde Venezuela, según secretario de Interior\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/ee-uu-traslado-100-millones-de-dolares-en-oro-desde-venezuela-segun-secretario-de-interior/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. REPATRIÓ 100 MILLONES DE DÓLARES EN ORO DESDE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/ee-uu-repatrio-100-millones-de-dolares-en-oro-desde-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/doug-burgum-627x376.jpg"
+      "title": "FORO PENAL REPORTÓ LA NEGATIVA DE LOS JUZGADOS A ENTREGAR FALLOS SOBRE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/03/foro-penal-reporto-la-negativa-de-los-juzgados-a-entregar-fallos-sobre-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
       "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-Iran.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. desconoce cuándo podrá garantizar navegación en estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-desconoce-cuando-podra-garantizar-navegacion-en-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Iran-EstrechoOrmuz-Mapa-750x430.jpg"
+      "title": "EE. UU. ataca nueva “narcolancha” en el Caribe y confirman cuatro fallecidos",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-nueva-narcolancha-en-el-caribe-y-confirman-cuatro-fallecidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16817982-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-25T21:39:58.496Z"
+  "lastUpdate": "2026-03-25T22:36:46.499Z"
 };
