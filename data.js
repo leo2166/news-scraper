@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "700,00"
+      "usdt": "668,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Ordenan captura de 7 jefes de disidencia de las Farc implicados en magnicidio de Uribe Turbay",
       "link": "https://laverdad.com/ordenan-captura-de-7-jefes-de-disidencia-de-las-farc-implicados-en-magnicidio-de-uribe-turbay/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2025/08/Miguel-Uribe-Turbay-feretro-Capitolio-2-1.png"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-2-24-03-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T04:54:17.032Z"
+  "lastUpdate": "2026-03-25T06:01:09.944Z"
 };
