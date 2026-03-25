@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "699,89"
+      "usdt": "699,29"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU autoriza transacciones económicas para la reapertura de embajada venezolana\nMUNDO",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-autoriza-transacciones-economicas-para-la-reapertura-de-embajada-venezolana/",
+      "title": "María Corina Machado presenta en CERAWeek plan para reactivar el sector energético venezolano\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-presenta-en-ceraweek-plan-para-reactivar-el-sector-energetico-venezolano/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Republicanos proponen plan para reabrir el DHS en medio de caos en aeropuertos",
-      "link": "https://cnnespanol.cnn.com/2026/03/24/eeuu/republicanos-impulsan-plan-cierre-dhs-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-03-24-125555.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que Vance y Rubio están en conversaciones con Irán para poner fin a la guerra",
+      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-diplomacia.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez anuncia viaje de diplomáticos venezolanos a EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-viaje-de-diplomaticos-venezolanos-a-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gettyimages-2261136143-59e8fa.jpg"
+      "title": "Parlamento de Venezuela autoriza el nombramiento de embajadores en Colombia y Nicaragua",
+      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-de-venezuela-autoriza-el-nombramiento-de-embajadores-en-colombia-y-nicaragua",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/embajadores-675-9282b0.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONOCOPHILLIPS EXIGIÓ REESTRUCTURAR SISTEMA FISCAL DE VENEZUELA PARA ATRAER INVERSIONES",
-      "link": "https://noticierodigital.com/2026/03/conocophillips-exigio-reestructurar-sistema-fiscal-de-venezuela-para-atraer-inversiones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/ryan-lance-conoccophillips-627x376.jpg"
+      "title": "PDVSA DESMINTIÓ LA ENTREGA DE CUOTAS PETROLERAS A DIRIGENTES POLÍTICOS DE ESPAÑA",
+      "link": "https://noticierodigital.com/2026/03/pdvsa-desmintio-la-entrega-de-cuotas-petroleras-a-dirigentes-politicos-de-espana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/pdvsa-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump emite licencia para reaperturar la embajada de Venezuela en EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/trump-emite-licencia-para-reaperturar-la-embajada-de-venezuela-en-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Embassy_of_Venezuela_-_Washington_D.C.jpg"
+      "title": "ConocoPhillips: Venezuela necesita \"reestructurar\" su sistema fiscal para atraer inversiones",
+      "link": "https://diarioversionfinal.com/mundo/conocophillips-venezuela-necesita-reestructurar-su-sistema-fiscal-para-atraer-inversiones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Ryan-Lance-24-03-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-03-24T23:32:54.722Z"
+  "lastUpdate": "2026-03-25T02:12:37.336Z"
 };
