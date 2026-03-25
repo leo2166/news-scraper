@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "708,50"
+      "usdt": "710,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Cómo entender el proceso judicial contra Nicolás Maduro y Cilia Flores en EE.UU. y qué esperar de la audiencia de esta semana\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/como-entender-el-proceso-judicial-contra-nicolas-maduro-y-cilia-flores-en-ee-uu-y-que-esperar-de-la-audiencia-de-esta-semana/",
+      "title": "Laura Dogu se reunió con inversionistas de EE UU en Caracas: \"Desempeñará un papel fundamental en la construcción de una Venezuela estable y próspera\"\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/laura-dogu-se-reunio-con-inversionistas-de-ee-uu-en-caracas-desempenara-un-papel-fundamental-en-la-construccion-de-una-venezuela-estable-y-prospera/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán no aceptará un alto el fuego, dice medio estatal",
-      "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325095816358.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Así es la vida de Maduro y Cilia Flores en la prisión de Brooklyn",
+      "link": "https://cnnespanol.cnn.com/2026/03/25/venezuela/nicolas-maduro-cilia-flores-vida-prision-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325095816358.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FILIPINAS TRABAJA CON EE .UU. PARA PODER COMPRAR PETRÓLEO A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/filipinas-trabaja-con-ee-uu-para-poder-comprar-petroleo-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/petroleo-cuba-627x376.jpg"
+      "title": "RAFAEL SIMÓN JIMÉNEZ: «VIENE UN CAMBIO IRREVERSIBLE MÁS ALLÁ DE LAS ELECCIONES»",
+      "link": "https://noticierodigital.com/2026/03/rafael-simon-jimenez-viene-un-cambio-irreversible-mas-alla-de-las-elecciones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/02/rafaelsimonjimenez-descontentomaduro-divisionopositora-2feb2022.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Triple asesinato en Bosa se trataría de un feminicidio: revelan nombres de las víctimas",
-      "link": "https://www.noticiascaracol.com/judicial/investigan-triple-asesinato-de-una-mujer-y-sus-dos-hijas-en-bosa-y-si-se-trataria-de-feminicidio-revelan-nombres-de-las-victimas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1046745/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7b%2F2a%2F5e7e74c14b9481622c866c485822%2Fdiseno-1.jpg"
+      "title": "Condenan al senador Ciro Ramírez a 23 años de cárcel por el delito de concierto para delinquir",
+      "link": "https://www.noticiascaracol.com/judicial/condenan-al-exsenador-ciro-ramirez-a-23-anos-de-carcel-por-el-delito-de-concierto-para-delinquir-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2a4e392/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F11%2Fad%2F098e5d064c04b2d4841211d35113%2Fsenado-59.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Venezolano deportado a El Salvador reclama $1,3 millones a EE. UU.",
-      "link": "https://laverdad.com/venezolano-deportado-a-el-salvador-reclama-13-millones-a-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Neiyerver-Adrian-Leon-Rengel.jpg"
+      "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
+      "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "México denuncia la muerte de 13 connacionales bajo custodia de ICE en Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/mexico-denuncia-la-muerte-de-13-connacionales-bajo-custodia-de-ice-en-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17497986850180-750x430.webp"
+      "title": "Corte Suprema de Brasil autoriza régimen domiciliario para Jair Bolsonaro",
+      "link": "https://diarioversionfinal.com/mundo/corte-suprema-de-brasil-autoriza-regimen-domiciliario-para-jair-bolsonaro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jair-Bolsonaro-24-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T16:19:28.645Z"
+  "lastUpdate": "2026-03-25T17:58:52.589Z"
 };
