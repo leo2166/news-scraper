@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "540,17"
     },
     "binance": {
-      "usdt": "709,00"
+      "usdt": "709,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,46 +20,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU trasladó 100 millones de dólares en oro desde Venezuela, según secretario de Interior\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-traslado-100-millones-de-dolares-en-oro-desde-venezuela-segun-secretario-de-interior/",
+      "title": "Reuters: equipo de Exxon Mobil llega a Venezuela para evaluar recursos e instalaciones energéticas\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/reuters-equipo-de-exxon-mobil-llega-a-venezuela-para-evaluar-recursos-e-instalaciones-energeticas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Así es la vida de Maduro y Cilia Flores en la prisión de Brooklyn",
-      "link": "https://cnnespanol.cnn.com/2026/03/25/venezuela/nicolas-maduro-cilia-flores-vida-prision-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-29t171257z-718290459-rc2ewfaolpw6-rtrmadp-3-usa-trump-migration-venezuela.JPG?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Irán refuerza las defensas de la isla de Kharg ante un posible ataque terrestre de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/03/25/mundo/iran-isla-kharg-ataque-terrestre-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/kharg.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional aprueba propuesta de Antonio Ecarri para fortalecer lazos con parlamentarios de EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-aprueba-propuesta-de-antonio-ecarri-para-fortalecer-lazos-con-parlamentarios-de-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/antonio-ecarri-f1522d-f77327-d424d1.png"
+      "title": "Venezuela y la Santa Sede fortalecen diálogo sobre paz y reconciliación",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-la-santa-sede-fortalecen-dialogo-sobre-paz-y-reconciliacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_656278240_18578131930014700_6125993128024232639_n-1-08fc9f.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FORO PENAL REPORTÓ LA NEGATIVA DE LOS JUZGADOS A ENTREGAR FALLOS SOBRE AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/03/foro-penal-reporto-la-negativa-de-los-juzgados-a-entregar-fallos-sobre-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
+      "title": "ARRIBARON A VENEZUELA 171 MIGRANTES DEPORTADOS DESDE EE. UU.",
+      "link": "https://noticierodigital.com/2026/03/arribaron-a-venezuela-171-migrantes-deportados-desde-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-de-deportacion-venezolanos-eeuu-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Condenan al senador Ciro Ramírez a 23 años de cárcel por el delito de concierto para delinquir",
-      "link": "https://www.noticiascaracol.com/judicial/condenan-al-exsenador-ciro-ramirez-a-23-anos-de-carcel-por-el-delito-de-concierto-para-delinquir-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2a4e392/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F11%2Fad%2F098e5d064c04b2d4841211d35113%2Fsenado-59.jpg"
+      "title": "Meta y YouTube condenadas a pagar 3 millones de dólares en Estados Unidos: ¿por qué?",
+      "link": "https://www.noticiascaracol.com/mundo/meta-y-youtube-condenadas-a-pagar-3-millones-de-dolares-en-estados-unidos-por-que-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/453da8f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbe%2Fb9%2F6bd1999449939280785cedd197ed%2Fportadas-caracol-web.png"
     },
     {
       "source": "La Verdad",
       "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
       "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-Iran.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. ataca nueva “narcolancha” en el Caribe y confirman cuatro fallecidos",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-nueva-narcolancha-en-el-caribe-y-confirman-cuatro-fallecidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/16817982-750x430.jpeg"
+      "title": "Papa León XIV se reúne con exorcistas por aumento del satanismo mundial",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-se-reune-con-exorcistas-por-aumento-del-satanismo-mundial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/papaexorcistas-1773934185-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-25T22:36:46.499Z"
+  "lastUpdate": "2026-03-25T23:35:46.510Z"
 };
