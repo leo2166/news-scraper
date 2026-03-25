@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "672,60"
+      "usdt": "708,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El fracasado experimento político que terminó controlando miles de millones de dólares de Venezuela \nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/el-fracasado-experimento-politico-que-termino-controlando-miles-de-millones-de-dolares-de-venezuela/",
+      "title": "Cómo entender el proceso judicial contra Nicolás Maduro y Cilia Flores en EE.UU. y qué esperar de la audiencia de esta semana\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/como-entender-el-proceso-judicial-contra-nicolas-maduro-y-cilia-flores-en-ee-uu-y-que-esperar-de-la-audiencia-de-esta-semana/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "La Casa Blanca organiza encuentro en Pakistán para discutir el fin de la guerra",
+      "title": "Irán no aceptará un alto el fuego, dice medio estatal",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-5-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325095816358.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«MARÍA CORINA MACHADO SÍ PASÓ LA PÁGINA DEL 28J», RECHAZÓ CALECA",
-      "link": "https://noticierodigital.com/2026/03/maria-corina-machado-si-paso-la-pagina-del-28j-rechazo-caleca/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/12/andrescaleca-acuerdosbarbados.jpg"
+      "title": "FILIPINAS TRABAJA CON EE .UU. PARA PODER COMPRAR PETRÓLEO A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/filipinas-trabaja-con-ee-uu-para-poder-comprar-petroleo-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/petroleo-cuba-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Venezolano deportado a El Salvador reclama $1,3 millones a EE. UU.",
       "link": "https://laverdad.com/venezolano-deportado-a-el-salvador-reclama-13-millones-a-ee-uu/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Neiyerver-Adrian-Leon-Rengel.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Caracol Televisión aparta a dos presentadores tras denuncias de acoso",
-      "link": "https://diarioversionfinal.com/mundo/caracol-television-aparta-a-dos-presentadores-tras-denuncias-de-acoso/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/76515129_605-750x430.jpg"
+      "title": "México denuncia la muerte de 13 connacionales bajo custodia de ICE en Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/mexico-denuncia-la-muerte-de-13-connacionales-bajo-custodia-de-ice-en-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17497986850180-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-25T14:59:48.501Z"
+  "lastUpdate": "2026-03-25T16:19:28.645Z"
 };
