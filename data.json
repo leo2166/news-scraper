@@ -5,7 +5,7 @@
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "666,00"
+      "usdt": "672,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,34 +26,40 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Se prevé el despliegue de unos 1.000 paracaidistas de EE.UU. en Medio Oriente",
+      "title": "La Casa Blanca organiza encuentro en Pakistán para discutir el fin de la guerra",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-5-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325095816358.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "AN ha recibido 123 solicitudes de amnistía desde el exterior",
-      "link": "https://noticiasvenevision.com/noticias/politica/an-ha-recibido-123-solicitudes-de-amnistia-desde-el-exterior",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/an-aprueba-prorroga-de-30-dias-para-comision-especial-de-la-ley-de-amnistia-22c395.webp"
+      "title": "Designan a Coromoto Godoy como Embajadora de Venezuela ante la Organización de las Naciones Unidas",
+      "link": "https://noticiasvenevision.com/noticias/politica/designan-a-coromoto-godoy-como-embajadora-de-venezuela-ante-la-organizacion-de-las-naciones-unidas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-03-25-100357-646793.png"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "«MARÍA CORINA MACHADO SÍ PASÓ LA PÁGINA DEL 28J», RECHAZÓ CALECA",
+      "link": "https://noticierodigital.com/2026/03/maria-corina-machado-si-paso-la-pagina-del-28j-rechazo-caleca/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/12/andrescaleca-acuerdosbarbados.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Soldado sobreviviente tras accidente del avión Hércules de la FAC: \"No sé ni cómo salí de ahí\"",
-      "link": "https://www.noticiascaracol.com/colombia/soldado-sobreviviente-tras-accidente-del-avion-hercules-de-la-fac-no-se-ni-como-sali-de-ahi-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/13e3fca/2147483647/strip/true/crop/1280x722+0+14/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Feb%2Fea%2F559b89a44048a6b36bfe3de7ba73%2Faccidente-hercules-1.jpg"
+      "title": "Triple asesinato en Bosa se trataría de un feminicidio: revelan nombres de las víctimas",
+      "link": "https://www.noticiascaracol.com/judicial/investigan-triple-asesinato-de-una-mujer-y-sus-dos-hijas-en-bosa-y-si-se-trataria-de-feminicidio-revelan-nombres-de-las-victimas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1046745/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7b%2F2a%2F5e7e74c14b9481622c866c485822%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Ordenan captura de 7 jefes de disidencia de las Farc implicados en magnicidio de Uribe Turbay",
-      "link": "https://laverdad.com/ordenan-captura-de-7-jefes-de-disidencia-de-las-farc-implicados-en-magnicidio-de-uribe-turbay/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/08/Miguel-Uribe-Turbay-feretro-Capitolio-2-1.png"
+      "title": "Venezolano deportado a El Salvador reclama $1,3 millones a EE. UU.",
+      "link": "https://laverdad.com/venezolano-deportado-a-el-salvador-reclama-13-millones-a-ee-uu/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El mercado del petróleo tardará hasta cinco meses en estabilizarse tras un alto el fuego",
-      "link": "https://diarioversionfinal.com/mundo/el-mercado-del-petroleo-tardara-hasta-cinco-meses-en-estabilizarse-tras-un-alto-el-fuego/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/MCALLNSQGFJALIMOAPKHA4B63U.avif"
+      "title": "Caracol Televisión aparta a dos presentadores tras denuncias de acoso",
+      "link": "https://diarioversionfinal.com/mundo/caracol-television-aparta-a-dos-presentadores-tras-denuncias-de-acoso/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/76515129_605-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T13:12:03.672Z"
+  "lastUpdate": "2026-03-25T14:59:48.501Z"
 }
