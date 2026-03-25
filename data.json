@@ -5,7 +5,7 @@
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "713,50"
+      "usdt": "712,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/antonio-ecarri-f1522d-f77327-d424d1.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "EE. UU. REPATRIÓ 100 MILLONES DE DÓLARES EN ORO DESDE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/ee-uu-repatrio-100-millones-de-dolares-en-oro-desde-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/doug-burgum-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Condenan al senador Ciro Ramírez a 23 años de cárcel por el delito de concierto para delinquir",
       "link": "https://www.noticiascaracol.com/judicial/condenan-al-exsenador-ciro-ramirez-a-23-anos-de-carcel-por-el-delito-de-concierto-para-delinquir-rg10",
@@ -46,14 +52,14 @@
       "source": "La Verdad",
       "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
       "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-Iran.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán desmiente a Trump y asegura que no habrá acuerdo con Washington",
-      "link": "https://diarioversionfinal.com/mundo/iran-desmiente-a-trump-y-asegura-que-no-habra-acuerdo-con-washington/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/mojtaba-jamenei-donald-trump-750x430.webp"
+      "title": "EE. UU. desconoce cuándo podrá garantizar navegación en estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-desconoce-cuando-podra-garantizar-navegacion-en-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Iran-EstrechoOrmuz-Mapa-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T20:39:42.495Z"
+  "lastUpdate": "2026-03-25T21:39:58.496Z"
 }
