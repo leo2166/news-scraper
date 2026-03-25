@@ -5,7 +5,7 @@
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "668,60"
+      "usdt": "702,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Se espera el despliegue de alrededor de 1.000 paracaidistas de EE.UU. en Medio Oriente",
+      "title": "Se prevé el despliegue de unos 1.000 paracaidistas de EE.UU. en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325070919845.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-2-24-03-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T08:52:57.727Z"
+  "lastUpdate": "2026-03-25T09:54:30.372Z"
 }
