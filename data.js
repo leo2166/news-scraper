@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "711,00"
+      "usdt": "713,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Maduro enfrenta una nueva audiencia judicial mientras su figura se desdibuja en Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/maduro-enfrenta-una-nueva-audiencia-judicial-mientras-su-figura-se-desdibuja-en-venezuela/",
+      "title": "Trabajadores y estudiantes marchan en Caracas para exigir aumento salarial y pensiones dignas\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/trabajadores-y-estudiantes-marchan-en-caracas-para-exigir-aumento-salarial-y-pensiones-dignas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Así es la vida de Maduro y Cilia Flores en la prisión de Brooklyn",
       "link": "https://cnnespanol.cnn.com/2026/03/25/venezuela/nicolas-maduro-cilia-flores-vida-prision-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325095816358.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-29t171257z-718290459-rc2ewfaolpw6-rtrmadp-3-usa-trump-migration-venezuela.JPG?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreaza: 8.084 personas han recibido libertad plena bajo la Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-8084-personas-han-recibido-libertad-plena-bajo-la-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-rodriguez-2-1280x853-b552bd.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "PRODUCCIÓN PETROLERA VENEZOLANA LLEGÓ A 1,1 MILLONES DE BARRILES DIARIOS EN MARZO",
-      "link": "https://noticierodigital.com/2026/03/produccion-petrolera-venezolana-llego-a-11-millones-de-barriles-diarios-en-marzo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/bomba-de-extraccion-de-petroleo-en-Venezuela-627x376.jpg"
+      "title": "Asamblea Nacional aprueba propuesta de Antonio Ecarri para fortalecer lazos con parlamentarios de EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-aprueba-propuesta-de-antonio-ecarri-para-fortalecer-lazos-con-parlamentarios-de-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/antonio-ecarri-f1522d-f77327-d424d1.png"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cae helicóptero sobre techo de almacén en Florida y deja dos muertos",
-      "link": "https://diarioversionfinal.com/mundo/cae-helicoptero-sobre-techo-de-almacen-en-florida-y-deja-dos-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/florida-750x430.jpg"
+      "title": "Irán desmiente a Trump y asegura que no habrá acuerdo con Washington",
+      "link": "https://diarioversionfinal.com/mundo/iran-desmiente-a-trump-y-asegura-que-no-habra-acuerdo-con-washington/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/mojtaba-jamenei-donald-trump-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-25T19:08:03.977Z"
+  "lastUpdate": "2026-03-25T20:39:42.495Z"
 };
