@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento chavista designó a Mervin Maldonado como jefe del programa para migrantes venezolanos en el exterior",
-      "link": "https://www.infobae.com/venezuela/2026/03/24/el-parlamento-chavista-designo-a-mervin-maldonado-como-jefe-del-programa-para-migrantes-venezolanos-en-el-exterior/",
-      "image": "https://www.infobae.com/resizer/v2/J2DX43ESURFPRN6Z5OYYZ3HAHA.jpg?auth=a35bc346b0a72b33dd70f438681b07a1ebb09061ff5d033072a1c23f9bcb0935&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela y Argelia crearán un consejo empresarial para consolidar la alianza energética entre ambos países",
+      "link": "https://www.infobae.com/venezuela/2026/03/25/venezuela-y-argelia-crearan-un-consejo-empresarial-para-consolidar-la-alianza-energetica-entre-ambos-paises/",
+      "image": "https://www.infobae.com/resizer/v2/MYZYOTKVTNCVFBVSXSP6OQPOKE.jpg?auth=15e741d15ccc49c4c22d26816d8748d0f83f69d9121a62d3e42a8c8d031a369c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que Vance y Rubio están en conversaciones con Irán para poner fin a la guerra",
+      "title": "Se espera el despliegue de alrededor de 1.000 paracaidistas de EE.UU. en Medio Oriente",
       "link": "https://cnnespanol.cnn.com/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-244trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325043058371.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260325070919845.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-2-24-03-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T06:01:09.944Z"
+  "lastUpdate": "2026-03-25T07:53:05.052Z"
 }
