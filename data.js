@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "536,09"
     },
     "binance": {
-      "usdt": "700,90"
+      "usdt": "700,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PDVSA DESMINTIÓ LA ENTREGA DE CUOTAS PETROLERAS A DIRIGENTES POLÍTICOS DE ESPAÑA",
-      "link": "https://noticierodigital.com/2026/03/pdvsa-desmintio-la-entrega-de-cuotas-petroleras-a-dirigentes-politicos-de-espana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/pdvsa-referencial-627x376.jpg"
+      "title": "COROMOTO GODOY PASA A EMBAJADORA ONU Y JOHANN ALVAREZ ASUME COMERCIO EXTERIOR",
+      "link": "https://noticierodigital.com/2026/03/coromoto-godoy-pasa-a-embajadora-onu-y-johann-alvarez-asume-comercio-exterior/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/1774436517494-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-2-24-03-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-03-25T10:50:36.913Z"
+  "lastUpdate": "2026-03-25T11:42:17.604Z"
 };
