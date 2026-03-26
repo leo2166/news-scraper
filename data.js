@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "540,17"
     },
     "binance": {
-      "usdt": "677,30"
+      "usdt": "709,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal denunció que tribunales en Venezuela se niegan a entregar constancias sobre rechazos a solicitudes de amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/03/26/foro-penal-denuncio-que-tribunales-en-venezuela-se-niegan-a-entregar-constancias-sobre-rechazos-a-solicitudes-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/SLWXQKAJJRBZTO7ACAXJHGHHBU.jpg?auth=842ab529ce6bae8258209819a26e855c07d843e1d1773fb20cf0acd3954e1c8c&smart=true&width=350&height=197&quality=85"
+      "title": "Encierro de hasta 23 horas, sin contacto y bajo vigilancia extrema: la realidad carcelaria de Nicolás Maduro en Nueva York",
+      "link": "https://www.infobae.com/venezuela/2026/03/26/encierro-de-hasta-23-horas-sin-contacto-y-bajo-vigilancia-extrema-la-realidad-carcelaria-de-nicolas-maduro-en-nueva-york/",
+      "image": "https://www.infobae.com/resizer/v2/BA4QNRXNJZEXFDVLZ77CNBS5JY.JPG?auth=5f1971c805a66e1f150a1ff6c5586311e38217c08a9ca281961ce6e705839c8e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán presentan exigencias radicalmente diferentes para poner fin a la guerra",
+      "title": "EE.UU. e Irán, con posturas opuestas para terminar la guerra",
       "link": "https://cnnespanol.cnn.com/2026/03/25/eeuu/obstaculos-fin-guerra-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260326044642368.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV se reúne con exorcistas por aumento del satanismo mundial",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-se-reune-con-exorcistas-por-aumento-del-satanismo-mundial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/papaexorcistas-1773934185-750x430.webp"
+      "title": "Maduro presiona para desestimar caso en segunda audiencia de hoy en Nueva York",
+      "link": "https://diarioversionfinal.com/mundo/maduro-presiona-para-desestimar-caso-en-segunda-audiencia-de-hoy-en-nueva-york/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WfCWdEzu-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-26T07:10:10.743Z"
+  "lastUpdate": "2026-03-26T08:57:38.948Z"
 };
