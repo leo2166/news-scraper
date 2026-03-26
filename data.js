@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "540,17"
     },
     "binance": {
-      "usdt": "709,97"
+      "usdt": "706,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán refuerza las defensas de la isla de Kharg ante un posible ataque terrestre de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/03/25/mundo/iran-isla-kharg-ataque-terrestre-eeuu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/kharg.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. e Irán presentan exigencias radicalmente diferentes para poner fin a la guerra",
+      "link": "https://cnnespanol.cnn.com/2026/03/25/eeuu/obstaculos-fin-guerra-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/palestinos-20260326003740816.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,14 +37,8 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_656278240_18578131930014700_6125993128024232639_n-1-08fc9f.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "ARRIBARON A VENEZUELA 171 MIGRANTES DEPORTADOS DESDE EE. UU.",
-      "link": "https://noticierodigital.com/2026/03/arribaron-a-venezuela-171-migrantes-deportados-desde-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-de-deportacion-venezolanos-eeuu-2-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Meta y YouTube condenadas a pagar 3 millones de dólares en Estados Unidos: ¿por qué?",
+      "title": "Meta y YouTube, declaradas responsables en juicio por adicción a redes sociales en EE. UU.",
       "link": "https://www.noticiascaracol.com/mundo/meta-y-youtube-condenadas-a-pagar-3-millones-de-dolares-en-estados-unidos-por-que-cb20",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/453da8f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbe%2Fb9%2F6bd1999449939280785cedd197ed%2Fportadas-caracol-web.png"
     },
@@ -52,7 +46,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
       "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-Iran.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/papaexorcistas-1773934185-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-25T23:35:46.510Z"
+  "lastUpdate": "2026-03-26T02:26:43.929Z"
 };
