@@ -5,7 +5,7 @@
       "eur": "540,17"
     },
     "binance": {
-      "usdt": "706,25"
+      "usdt": "705,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "EE.UU. e Irán presentan exigencias radicalmente diferentes para poner fin a la guerra",
       "link": "https://cnnespanol.cnn.com/2026/03/25/eeuu/obstaculos-fin-guerra-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/palestinos-20260326003740816.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260326044642368.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,10 +37,16 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_656278240_18578131930014700_6125993128024232639_n-1-08fc9f.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "LAURA DOGU SOSTUVO UN ENCUENTRO CON INVERSIONISTAS ESTADOUNIDENSES EN CARACAS",
+      "link": "https://noticierodigital.com/2026/03/laura-dogu-sostuvo-un-encuentro-con-inversionistas-estadounidenses-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/laura-dogu-eeuu-venezuela-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Meta y YouTube, declaradas responsables en juicio por adicción a redes sociales en EE. UU.",
-      "link": "https://www.noticiascaracol.com/mundo/meta-y-youtube-condenadas-a-pagar-3-millones-de-dolares-en-estados-unidos-por-que-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/453da8f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbe%2Fb9%2F6bd1999449939280785cedd197ed%2Fportadas-caracol-web.png"
+      "title": "Así ocurrió el triple feminicidio que acabó con una madre y sus dos hijas en Bogotá, según Fiscalía",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/asi-ocurrio-el-triple-feminicidio-que-acabo-con-una-madre-y-sus-dos-hijas-en-bogota-segun-fiscalia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/13c1b07/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2Fd2%2Ff86b76644c0a84805edb5c1a8f6a%2Fportadas-caracol-web-40.png"
     },
     {
       "source": "La Verdad",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/papaexorcistas-1773934185-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-26T02:26:43.929Z"
+  "lastUpdate": "2026-03-26T05:06:50.380Z"
 }
