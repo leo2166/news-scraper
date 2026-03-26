@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Juez del caso Maduro dice que los cargos siguen en pie",
-      "link": "https://cnnespanol.cnn.com/2026/03/26/eeuu/live-news/ultima-hora-audiencia-nicolas-maduro-venezuela-noticias-reacciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22483658-15942-still.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Un Maduro más delgado permaneció en silencio; así fue la segunda audiencia",
+      "link": "https://cnnespanol.cnn.com/2026/03/26/eeuu/maduro-flores-segunda-audiencia-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/046d03a0d848560b3bd735962fd581d57434a63ew.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "IVÁN ACOSTA DICE QUE SE ABREN OPORTUNIDADES EN LOGÍSTICA Y ADMINISTRACIÓN TRAS APERTURA PETROLERA",
-      "link": "https://noticierodigital.com/2026/03/ivan-acosta-dice-que-se-abren-oportunidades-en-logistica-y-administracion-tras-apertura-petrolera/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-27-627x376.jpg"
+      "title": "TANIA DÍAZ PROPUSO HACER «UNA VACA» PARA PAGAR LA DEFENSA DE NICOLÁS MADURO",
+      "link": "https://noticierodigital.com/2026/03/tania-diaz-propuso-hacer-una-vaca-para-pagar-la-defensa-de-nicolas-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/tania-diaz-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/000_43RT24T-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-26T21:32:36.878Z"
+  "lastUpdate": "2026-03-26T22:31:03.334Z"
 };
