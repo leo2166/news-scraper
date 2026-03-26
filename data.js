@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "698,70"
+      "usdt": "698,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una investigación reveló cómo operan las campañas digitales del régimen de Venezuela: “No alcanza con tener medios propios”",
-      "link": "https://www.infobae.com/venezuela/2026/03/26/una-investigacion-revelo-como-operan-las-campanas-digitales-del-regimen-de-venezuela-no-alcanza-con-tener-medios-propios/",
-      "image": "https://www.infobae.com/resizer/v2/JUANAOF47RDTNCC6ECN6QDKBMQ.jpg?auth=e7728cdc3880aac87051fee6fb39d8e5d8f10c6ee7c219b610ee394d3d671cfa&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela aplazó por segunda ocasión el debate final de la reforma a la ley de minas",
+      "link": "https://www.infobae.com/venezuela/2026/03/26/el-parlamento-de-venezuela-aplazo-por-segunda-ocasion-el-debate-final-de-la-reforma-a-la-ley-de-minas/",
+      "image": "https://www.infobae.com/resizer/v2/UCYAUM7TUZFHVAPHYU3SX5IBKU.jpg?auth=47bdc1feabb0edcb4e0acdc6a9edc8087b3473e1317aa88f0c408aa813f057f0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Cabizbajo y más delgado: así se vio a Nicolás Maduro en su segunda audiencia\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/cabizbajo-y-mas-delgado-asi-se-vio-a-nicolas-maduro-en-su-segunda-audiencia/",
+      "title": "El espionaje que no se fue con Maduro\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/espionaje-digital-venezuela-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TANIA DÍAZ PROPUSO HACER «UNA VACA» PARA PAGAR LA DEFENSA DE NICOLÁS MADURO",
-      "link": "https://noticierodigital.com/2026/03/tania-diaz-propuso-hacer-una-vaca-para-pagar-la-defensa-de-nicolas-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/tania-diaz-venezuela-627x376.jpg"
+      "title": "TRUMP BROMEÓ SOBRE UNA POSTULACIÓN ELECTORAL EN VENEZUELA CONTRA DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/03/trump-bromeo-sobre-una-postulacion-electoral-en-venezuela-contra-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/donald-trump-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Noelia recibe la eutanasia en España tras dura batalla legal y revuelo mediático",
       "link": "https://laverdad.com/noelia-recibe-la-eutanasia-en-espana-tras-dura-batalla-legal-y-revuelo-mediatico/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Noelia.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/000_43RT24T-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-26T22:31:03.334Z"
+  "lastUpdate": "2026-03-26T23:33:31.407Z"
 };
