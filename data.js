@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "540,17"
     },
     "binance": {
-      "usdt": "705,30"
+      "usdt": "677,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos lleva inversores a Caracas por primera vez desde el restablecimiento diplomático",
-      "link": "https://www.infobae.com/venezuela/2026/03/25/estados-unidos-lleva-inversores-a-caracas-por-primera-vez-desde-el-restablecimiento-diplomatico/",
-      "image": "https://www.infobae.com/resizer/v2/CXBSSVA3TRHJTOFCTXUA5Q2BTM.JPG?auth=f8d24badec3ca14ae739af229143eaa3332f0d337fbcd09866048ef0ea1f4172&smart=true&width=350&height=197&quality=85"
+      "title": "Foro Penal denunció que tribunales en Venezuela se niegan a entregar constancias sobre rechazos a solicitudes de amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/03/26/foro-penal-denuncio-que-tribunales-en-venezuela-se-niegan-a-entregar-constancias-sobre-rechazos-a-solicitudes-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/SLWXQKAJJRBZTO7ACAXJHGHHBU.jpg?auth=842ab529ce6bae8258209819a26e855c07d843e1d1773fb20cf0acd3954e1c8c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
       "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-Iran.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/papaexorcistas-1773934185-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-26T05:06:50.380Z"
+  "lastUpdate": "2026-03-26T07:10:10.743Z"
 };
