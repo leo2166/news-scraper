@@ -5,7 +5,7 @@
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "697,50"
+      "usdt": "698,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,23 +37,29 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "IVÁN ACOSTA DICE QUE SE ABREN OPORTUNIDADES EN LOGÍSTICA Y ADMINISTRACIÓN TRAS APERTURA PETROLERA",
+      "link": "https://noticierodigital.com/2026/03/ivan-acosta-dice-que-se-abren-oportunidades-en-logistica-y-administracion-tras-apertura-petrolera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-27-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Noelia Castillo ya recibió la eutanasia en España: esto se sabe del procedimiento",
-      "link": "https://www.noticiascaracol.com/mundo/noelia-castillo-ya-recibio-la-eutanasia-en-espana-esto-se-sabe-del-procedimiento-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aabb78f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff2%2Fac%2F8d192f1b4f40843b1c1538409e0b%2Fsenado-62.jpg"
+      "title": "Soldado que falleció en la tragedia aérea de Putumayo se iba a casar: esta es la historia",
+      "link": "https://www.noticiascaracol.com/colombia/la-historia-del-soldado-que-fallecio-en-la-tragedia-aerea-de-putumayo-se-iba-a-casar-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b273bb9/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa0%2F9c%2Fbeb78a9f41c58cb60955740dbce9%2Fportadas-caracol-web.png"
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a Meta y YouTube a pagar $3 millones en EE. UU. por adicción a redes",
-      "link": "https://laverdad.com/condenan-a-meta-y-youtube-a-pagar-3-millones-en-ee-uu-por-adiccion-a-redes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Mark-Zuckerberg.jpg"
+      "title": "Noelia recibe la eutanasia en España tras dura batalla legal y revuelo mediático",
+      "link": "https://laverdad.com/noelia-recibe-la-eutanasia-en-espana-tras-dura-batalla-legal-y-revuelo-mediatico/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Noelia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tragedia en Bangladesh: al menos 23 muertos al caer un autobús a un río cuando subía a un ferry",
-      "link": "https://diarioversionfinal.com/mundo/tragedia-en-bangladesh-al-menos-23-muertos-al-caer-un-autobus-a-un-rio-cuando-subia-a-un-ferry/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_26-3-2026_154545_www.google.com_.jpeg"
+      "title": "España prepara regularización extraordinaria de 500.000 migrantes para abril",
+      "link": "https://diarioversionfinal.com/mundo/espana-prepara-regularizacion-extraordinaria-de-500-000-migrantes-para-abril/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/000_43RT24T-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-26T20:36:49.783Z"
+  "lastUpdate": "2026-03-26T21:32:36.878Z"
 }
