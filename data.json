@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "466,60",
-      "eur": "540,17"
+      "usd": "468,51",
+      "eur": "541,19"
     },
     "binance": {
-      "usdt": "697,30"
+      "usdt": "697,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Juez descartó desestimar el caso contra Nicolás Maduro y Cilia Flores en Nueva York\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/juez-descarto-desestimar-el-caso-contra-maduro-y-flores/",
+      "title": "Cabizbajo y más delgado: así se vio a Nicolás Maduro en su segunda audiencia\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/cabizbajo-y-mas-delgado-asi-se-vio-a-nicolas-maduro-en-su-segunda-audiencia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,16 +37,10 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "DIPUTADO MADURO GUERRA TACHA DE «ILEGAL» EL JUICIO CONTRA SU PADRE EN EE. UU.",
-      "link": "https://noticierodigital.com/2026/03/diputado-maduro-guerra-tacha-de-ilegal-el-juicio-contra-su-padre-en-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/12/nicolasmaduroguerra-dialogomexico-9dic2022.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Ella es Noelia Castillo, joven que recibirá eutanasia tras ser víctima de abuso y quedar parapléjica",
-      "link": "https://www.noticiascaracol.com/mundo/ella-es-noelia-castillo-joven-que-recibira-eutanasia-tras-ser-victima-de-abuso-y-quedar-paraplejica-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a522c2a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fcd%2Ff4%2Fd8efd273493d9b79c4d04d4245ac%2Fsenado-61.jpg"
+      "title": "Noelia Castillo ya recibió la eutanasia en España: esto se sabe del procedimiento",
+      "link": "https://www.noticiascaracol.com/mundo/noelia-castillo-ya-recibio-la-eutanasia-en-espana-esto-se-sabe-del-procedimiento-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aabb78f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff2%2Fac%2F8d192f1b4f40843b1c1538409e0b%2Fsenado-62.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Culmina audiencia de Maduro: Juez no desestimará el caso y reserva decisión sobre fondos bloqueados",
-      "link": "https://diarioversionfinal.com/mundo/culmina-audiencia-de-maduro-juez-no-desestimara-el-caso-y-reserva-decision-sobre-fondos-bloqueados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/madurocilia-750x430.png"
+      "title": "Tragedia en Bangladesh: al menos 23 muertos al caer un autobús a un río cuando subía a un ferry",
+      "link": "https://diarioversionfinal.com/mundo/tragedia-en-bangladesh-al-menos-23-muertos-al-caer-un-autobus-a-un-rio-cuando-subia-a-un-ferry/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_26-3-2026_154545_www.google.com_.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-26T19:06:57.825Z"
+  "lastUpdate": "2026-03-26T20:36:49.783Z"
 }
