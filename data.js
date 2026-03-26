@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "540,17"
     },
     "binance": {
-      "usdt": "677,43"
+      "usdt": "699,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Encierro de hasta 23 horas, sin contacto y bajo vigilancia extrema: la realidad carcelaria de Nicolás Maduro en Nueva York",
-      "link": "https://www.infobae.com/venezuela/2026/03/26/encierro-de-hasta-23-horas-sin-contacto-y-bajo-vigilancia-extrema-la-realidad-carcelaria-de-nicolas-maduro-en-nueva-york/",
-      "image": "https://www.infobae.com/resizer/v2/BA4QNRXNJZEXFDVLZ77CNBS5JY.JPG?auth=5f1971c805a66e1f150a1ff6c5586311e38217c08a9ca281961ce6e705839c8e&smart=true&width=350&height=197&quality=85"
+      "title": "Fechas alteradas, recursos negados y jueces parciales: las claves del caso de un comandante venezolano detenido",
+      "link": "https://www.infobae.com/venezuela/2026/03/26/fechas-alteradas-recursos-negados-y-jueces-parciales-las-claves-del-caso-de-un-comandante-venezolano-detenido/",
+      "image": "https://www.infobae.com/resizer/v2/4HDI3PEIIVGYFMC6MTRC3RG7JU.jpg?auth=dbef04ad55031fe763d76d766d53ca428cb85b8b3548d1c6a4fca0b47afcf439&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,15 +44,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así ocurrió el triple feminicidio que acabó con una madre y sus dos hijas en Bogotá, según Fiscalía",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/asi-ocurrio-el-triple-feminicidio-que-acabo-con-una-madre-y-sus-dos-hijas-en-bogota-segun-fiscalia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/13c1b07/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2Fd2%2Ff86b76644c0a84805edb5c1a8f6a%2Fportadas-caracol-web-40.png"
+      "title": "El último mensaje del soldado que murió al salvar a sus compañeros en el accidente aéreo en Putumayo",
+      "link": "https://www.noticiascaracol.com/colombia/el-ultimo-mensaje-del-soldado-que-murio-al-salvar-a-sus-companeros-en-el-accidente-aereo-en-putumayo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c13f028/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F8b%2F12ab6294486a93af83000f3d77f8%2Fportadas-caracol-web-5.png"
     },
     {
       "source": "La Verdad",
       "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
       "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-Iran.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WfCWdEzu-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-26T10:05:13.031Z"
+  "lastUpdate": "2026-03-26T11:50:42.494Z"
 };
