@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "540,17"
     },
     "binance": {
-      "usdt": "699,87"
+      "usdt": "707,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Fechas alteradas, recursos negados y jueces parciales: las claves del caso de un comandante venezolano detenido",
-      "link": "https://www.infobae.com/venezuela/2026/03/26/fechas-alteradas-recursos-negados-y-jueces-parciales-las-claves-del-caso-de-un-comandante-venezolano-detenido/",
-      "image": "https://www.infobae.com/resizer/v2/4HDI3PEIIVGYFMC6MTRC3RG7JU.jpg?auth=dbef04ad55031fe763d76d766d53ca428cb85b8b3548d1c6a4fca0b47afcf439&smart=true&width=350&height=197&quality=85"
+      "title": "Edmundo González Urrutia propuso elevar la producción de crudo en Venezuela tras años de “corrupción”",
+      "link": "https://www.infobae.com/venezuela/2026/03/26/edmundo-gonzalez-urrutia-propuso-elevar-la-produccion-de-crudo-en-venezuela-tras-anos-de-corrupcion/",
+      "image": "https://www.infobae.com/resizer/v2/VQTAD5BQYZGUZE6HBEE6AYAAJI.jpg?auth=b03fcabb2fff68cd12ff5a94dbf6089d147c2bc09d464265962a718e21354ca9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¿Qué ve, escucha y lee la población venezolana?\nENTRETENIMIENTO",
-      "link": "https://www.elnacional.com/2026/03/encuesta-nacional-de-consumo-cultural-revela-gustos-del-pais/",
+      "title": "La disputa sobre quién debe pagar la defensa de Maduro en EE.UU. (y qué ha pasado en otros casos contra expresidentes extranjeros)\nNOTICIAS",
+      "link": "https://www.elnacional.com/2026/03/la-disputa-sobre-quien-debe-pagar-la-defensa-de-maduro-en-ee-uu-y-que-ha-pasado-en-otros-casos-contra-expresidentes-extranjeros/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Maduro vuelve a los tribunales en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/03/26/mundo/maduro-regresa-tribunales-estados-unidos-defensa-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250133655.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/03/26/eeuu/live-news/ultima-hora-audiencia-nicolas-maduro-venezuela-noticias-reacciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-26t114740z-230840741-rc29ckaftu58-rtrmadp-3-usa-venezuela-maduro-new-york.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_656278240_18578131930014700_6125993128024232639_n-1-08fc9f.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "LAURA DOGU SOSTUVO UN ENCUENTRO CON INVERSIONISTAS ESTADOUNIDENSES EN CARACAS",
-      "link": "https://noticierodigital.com/2026/03/laura-dogu-sostuvo-un-encuentro-con-inversionistas-estadounidenses-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/laura-dogu-eeuu-venezuela-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "El último mensaje del soldado que murió al salvar a sus compañeros en el accidente aéreo en Putumayo",
-      "link": "https://www.noticiascaracol.com/colombia/el-ultimo-mensaje-del-soldado-que-murio-al-salvar-a-sus-companeros-en-el-accidente-aereo-en-putumayo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c13f028/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F8b%2F12ab6294486a93af83000f3d77f8%2Fportadas-caracol-web-5.png"
+      "title": "Revelan nombres y alias de los presuntos responsables del crimen del profesor Neill Felipe Cubides",
+      "link": "https://www.noticiascaracol.com/judicial/crimen-del-profesor-neill-felipe-cubides-revelan-nombres-y-alias-de-cuatro-de-los-presuntos-responsables-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1c62b35/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2Fb7%2Fdbb4f4444f48ab31c9568e1d4f55%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Irán rechaza plan de Trump y presenta su propias condiciones",
-      "link": "https://laverdad.com/iran-rechaza-plan-de-trump-y-presenta-su-propias-condiciones/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "EE. UU. ataca una nueva “narcolancha” en el Caribe y mata a 4 tripulantes",
+      "link": "https://laverdad.com/ee-uu-ataca-una-nueva-narcolancha-en-el-caribe-y-mata-a-4-tripulantes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Ataque-EE.-UU.-narcolancha-25-marzo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maduro presiona para desestimar caso en segunda audiencia de hoy en Nueva York",
-      "link": "https://diarioversionfinal.com/mundo/maduro-presiona-para-desestimar-caso-en-segunda-audiencia-de-hoy-en-nueva-york/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/WfCWdEzu-image-750x430.jpg"
+      "title": "Donald Trump lanza un ultimátum a Irán para negociar “antes de que sea demasiado tarde”",
+      "link": "https://diarioversionfinal.com/mundo/donald-trump-lanza-un-ultimatum-a-iran-para-negociar-antes-de-que-sea-demasiado-tarde/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-20-03-2026.png"
     }
   ],
-  "lastUpdate": "2026-03-26T11:50:42.494Z"
+  "lastUpdate": "2026-03-26T13:17:18.208Z"
 };
