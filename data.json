@@ -5,7 +5,7 @@
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "695,20"
+      "usdt": "696,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Misión diplomática venezolana inicia visita a Washington para fortalecer vínculos con EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/mision-diplomatica-venezolana-inicia-visita-a-washington-para-fortalecer-vinculos-con-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/kn4_n8u6-c5e633.jpg"
+      "title": "Parlamento venezolano informa sobre 21 nuevas postulaciones a fiscal general y defensor",
+      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-venezolano-informa-sobre-21-nuevas-postulaciones-a-fiscal-general-y-defensor",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-8063a3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«NO SOMOS RICOS»: MADURO GUERRA REITERÓ QUE SU PADRE NO TIENE CÓMO PAGAR SU DEFENSA",
-      "link": "https://noticierodigital.com/2026/03/no-somos-ricos-maduro-guerra-reitero-que-su-padre-no-tiene-como-pagar-su-defensa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/nicolas-maduro-guerra-627x376.jpg"
+      "title": "BANCA NACIONAL OPERARÁ CON NORMALIDAD DEL 30 DE MARZO AL 1 DE ABRIL",
+      "link": "https://noticierodigital.com/2026/03/banca-nacional-operara-con-normalidad-del-30-de-marzo-al-1-de-abril/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/sudeban-20ene20.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Revelan videos inéditos de la tragedia del Jet Set",
       "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jet-Set.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-18-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-27T22:33:49.146Z"
+  "lastUpdate": "2026-03-27T23:33:13.587Z"
 }
