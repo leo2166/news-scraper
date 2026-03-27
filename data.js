@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "695,60"
+      "usdt": "695,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Familiares de detenidos políticos piden mediación de El Vaticano ante la Nunciatura en Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-politicos-piden-mediacion-de-el-vaticano-ante-la-nunciatura-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_659800085_18002474663909911_5268479680452218457_n-579735.jpg"
+      "title": "Misión diplomática venezolana inicia visita a Washington para fortalecer vínculos con EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/mision-diplomatica-venezolana-inicia-visita-a-washington-para-fortalecer-vinculos-con-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/kn4_n8u6-c5e633.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PDVSA DESPLEGÓ EQUIPOS DE CONTENCIÓN POR DERRAMES DE CRUDO CERCA DE REFINERÍA CARDÓN",
-      "link": "https://noticierodigital.com/2026/03/pdvsa-desplego-equipos-de-contencion-por-derrames-de-crudo-cerca-de-la-refineria-cardon/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/bombas-de-extraccion-de-petroleo-maracaibo-627x376.jpg"
+      "title": "«NO SOMOS RICOS»: MADURO GUERRA REITERÓ QUE SU PADRE NO TIENE CÓMO PAGAR SU DEFENSA",
+      "link": "https://noticierodigital.com/2026/03/no-somos-ricos-maduro-guerra-reitero-que-su-padre-no-tiene-como-pagar-su-defensa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/nicolas-maduro-guerra-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Revelan videos inéditos de la tragedia del Jet Set",
       "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jet-Set.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-18-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-27T21:35:30.255Z"
+  "lastUpdate": "2026-03-27T22:33:49.146Z"
 };
