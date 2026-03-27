@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "694,20"
+      "usdt": "694,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y EE.UU. comienzan nueva etapa de fortalecimiento diplomático en Washington",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-eeuu-comienzan-nueva-etapa-de-fortalecimiento-diplomatico-en-washington",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-03-26-232121-5ab099.png"
+      "title": "Familiares de detenidos políticos piden mediación de El Vaticano ante la Nunciatura en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-politicos-piden-mediacion-de-el-vaticano-ante-la-nunciatura-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_659800085_18002474663909911_5268479680452218457_n-579735.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "FANB INCAUTA 212,8 KILOS DE COCAÍNA EN BOLÍVAR E INUTILIZA AERONAVE NO AUTORIZADA EN APURE",
+      "link": "https://noticierodigital.com/2026/03/fanb-incauta-2128-kilos-de-cocaina-en-bolivar-e-inutiliza-aeronave-no-autorizada-en-apure/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-3-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -44,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Detienen en Aruba a sujeto en medio de investigación que involucra dinero venezolano",
-      "link": "https://laverdad.com/detienen-en-aruba-a-sujeto-en-medio-de-investigacion-que-involucra-dinero-venezolano/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/12/Plus-Ultra-viaje-internacional.jpg"
+      "title": "El Papa viajará este sábado a Mónaco",
+      "link": "https://laverdad.com/el-papa-viajara-este-sabado-a-monaco/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Leon-XIV-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Buques-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-27T18:57:02.723Z"
+  "lastUpdate": "2026-03-27T19:42:31.287Z"
 };
