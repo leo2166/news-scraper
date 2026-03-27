@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "691,88"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "El espionaje que no se fue con Maduro\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/03/espionaje-digital-venezuela-maduro/",
+      "title": "Defensa de los activos venezolanos en el extranjero: opaca, con resultados desconocidos y facturas por cientos de millones de dólares\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/03/defensa-activos-venezuela-gastos-opacidad-citgo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_26-3-2026_201359_albertonews.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-27T08:54:45.075Z"
+  "lastUpdate": "2026-03-27T09:55:56.650Z"
 };
