@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "695,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Familia se salva por \"milagro\" de ser alcanzados en segundos por un misil iraní",
-      "link": "https://diarioversionfinal.com/mundo/familia-se-salva-por-milagro-de-ser-alcanzados-en-segundos-por-un-misil-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_26-3-2026_201359_albertonews.com_-750x430.jpeg"
+      "title": "Irán recluta menores de edad para hacer inteligencia en medio de la guerra con EEUU e Israel",
+      "link": "https://diarioversionfinal.com/mundo/iran-recluta-menores-de-edad-para-hacer-inteligencia-en-medio-de-la-guerra-con-eeuu-e-israel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/guardia-revolucionaria-iran-reclutamiento-menores-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-27T09:55:56.650Z"
+  "lastUpdate": "2026-03-27T10:51:43.559Z"
 };
