@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "693,00"
+      "usdt": "694,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-03-26-232121-5ab099.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "EGLÉE GONZÁLEZ LOBATO SE POSTULÓ COMO DEFENSORA DEL PUEBLO",
-      "link": "https://noticierodigital.com/2026/03/eglee-gonzalez-lobato-se-postulo-como-defensora-del-pueblo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/11/egleegonzalezlobato-laprimaria-7nov2022.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Fiscalía contempla reactivar orden de captura contra alias Calarcá tras lo hallado en dispositivos",
-      "link": "https://www.noticiascaracol.com/judicial/fiscalia-contempla-reactivar-orden-de-captura-contra-alias-calarca-tras-lo-hallado-en-dispositivos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/466f360/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa6%2Fa3%2F3bf9010f4236a60e87533e2a2b6d%2Forden-captura-calarca.jpg"
+      "title": "Ricardo Roa dice que no renunciará a la presidencia de Ecopetrol",
+      "link": "https://www.noticiascaracol.com/economia/ricardo-roa-dice-que-no-renunciara-a-la-presidencia-de-ecopetrol-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/22ed4e4/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2Fed%2F6fade83a47439d9ce6528604bd48%2Fricardo-roa-no-renuncia.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Fiscalía de Colombia pedirá ayuda a Venezuela para capturar a guerrilleros por magnicidio de Uribe Turbay",
-      "link": "https://laverdad.com/fiscalia-de-colombia-pedira-ayuda-a-venezuela-para-capturar-a-guerrilleros-por-magnicidio-de-uribe-turbay/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/08/Uribe-Turbay-muerte.jpg"
+      "title": "Detienen en Aruba a sujeto en medio de investigación que involucra dinero venezolano",
+      "link": "https://laverdad.com/detienen-en-aruba-a-sujeto-en-medio-de-investigacion-que-involucra-dinero-venezolano/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/12/Plus-Ultra-viaje-internacional.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. e Israel atacan instalaciones nucleares en Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-e-israel-atacan-instalaciones-nucleares-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-2.jpeg"
+      "title": "Trump no rompe con el chavismo y para la diáspora se disuelven las expectativas de transición",
+      "link": "https://diarioversionfinal.com/mundo/trump-no-rompe-con-el-chavismo-y-para-la-diaspora-se-disuelven-las-expectativas-de-transicion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Diaspora-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-27T16:55:55.653Z"
+  "lastUpdate": "2026-03-27T17:51:03.127Z"
 };
