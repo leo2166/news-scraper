@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "694,30"
+      "usdt": "694,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FANB INCAUTA 212,8 KILOS DE COCAÍNA EN BOLÍVAR E INUTILIZA AERONAVE NO AUTORIZADA EN APURE",
-      "link": "https://noticierodigital.com/2026/03/fanb-incauta-2128-kilos-de-cocaina-en-bolivar-e-inutiliza-aeronave-no-autorizada-en-apure/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-1-3-627x376.png"
+      "title": "DESPLEGADOS MÁS DE 229 MIL FUNCIONARIOS DE SEGURIDAD POR SEMANA SANTA",
+      "link": "https://noticierodigital.com/2026/03/desplegados-mas-de-229-mil-funcionarios-de-seguridad-por-semana-santa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260327-WA0234-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "El Papa viajará este sábado a Mónaco",
-      "link": "https://laverdad.com/el-papa-viajara-este-sabado-a-monaco/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Leon-XIV-1.jpg"
+      "title": "Revelan videos inéditos de la tragedia del Jet Set",
+      "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jet-Set.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reuters: Buque cisterna con combustible ruso que iba hacia Cuba llegó a aguas venezolanas",
-      "link": "https://diarioversionfinal.com/mundo/reuters-buque-cisterna-con-combustible-ruso-que-iba-hacia-cuba-llego-a-aguas-venezolanas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Buques-750x430.jpeg"
+      "title": "Trump plantea controlar el petróleo de Irán: “Es una opción, como en Venezuela”",
+      "link": "https://diarioversionfinal.com/mundo/trump-plantea-controlar-el-petroleo-de-iran-es-una-opcion-como-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-18-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-27T19:42:31.287Z"
+  "lastUpdate": "2026-03-27T20:39:32.928Z"
 };
