@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "692,87"
+      "usdt": "693,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump extiende a Irán hasta el 6 de abril su ultimátum para reabra el estrecho de Ormuz",
-      "link": "https://laverdad.com/trump-extiende-a-iran-hasta-el-6-de-abril-su-ultimatum-para-reabra-el-estrecho-de-ormuz/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/1536x864_cmsv2_d8318647-53ad-5b04-add7-55b65f2c5030-9686941.jpg"
+      "title": "Fiscalía de Colombia pedirá ayuda a Venezuela para capturar a guerrilleros por magnicidio de Uribe Turbay",
+      "link": "https://laverdad.com/fiscalia-de-colombia-pedira-ayuda-a-venezuela-para-capturar-a-guerrilleros-por-magnicidio-de-uribe-turbay/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/08/Uribe-Turbay-muerte.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscal Bondi advierte que EE. UU. podría procesar a más cómplices de Maduro",
-      "link": "https://diarioversionfinal.com/mundo/fiscal-bondi-advierte-que-ee-uu-podria-procesar-a-mas-complices-de-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/14a72f5190d254c782f27ada0e338429-750x430.webp"
+      "title": "EE. UU. e Israel atacan instalaciones nucleares en Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-e-israel-atacan-instalaciones-nucleares-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/images-2.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-27T15:53:27.719Z"
+  "lastUpdate": "2026-03-27T16:55:55.653Z"
 };
