@@ -5,7 +5,7 @@
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "697,68"
+      "usdt": "697,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez anuncia extensión de asueto de Semana Santa para el sector público",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-extension-de-asueto-de-semana-santa-para-el-sector-publico",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1--delcy-33f6f5.jpg"
+      "title": "Venezuela y EE.UU. comienzan nueva etapa de fortalecimiento diplomático en Washington",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-eeuu-comienzan-nueva-etapa-de-fortalecimiento-diplomatico-en-washington",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-03-26-232121-5ab099.png"
     },
     {
       "source": "Noticiero Digital",
@@ -44,15 +44,15 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Soldado que falleció en la tragedia aérea de Putumayo se iba a casar: esta es la historia",
-      "link": "https://www.noticiascaracol.com/colombia/la-historia-del-soldado-que-fallecio-en-la-tragedia-aerea-de-putumayo-se-iba-a-casar-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b273bb9/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa0%2F9c%2Fbeb78a9f41c58cb60955740dbce9%2Fportadas-caracol-web.png"
+      "title": "Ejército adelanta ofensiva contra facción de 'Iván Mordisco' en Vaupés: se reportan seis muertos",
+      "link": "https://www.noticiascaracol.com/colombia/ejercito-adelanta-ofensiva-contra-faccion-de-ivan-mordisco-en-vaupes-se-reportan-seis-muertos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c0a55b2/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff7%2F95%2F521eac6c422b8b9273111164367f%2Fmin-2025-05-09t143923-136.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Noelia recibe la eutanasia en España tras dura batalla legal y revuelo mediático",
       "link": "https://laverdad.com/noelia-recibe-la-eutanasia-en-espana-tras-dura-batalla-legal-y-revuelo-mediatico/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Noelia.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_26-3-2026_201359_albertonews.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-27T02:28:05.253Z"
+  "lastUpdate": "2026-03-27T05:07:34.303Z"
 }
