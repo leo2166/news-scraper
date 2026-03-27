@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "468,51",
-      "eur": "541,19"
+      "usd": "471,70",
+      "eur": "543,94"
     },
     "binance": {
-      "usdt": "694,50"
+      "usdt": "695,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Decidirán el futuro de la ciudadanía por nacimiento. Así llegaron sus familias a EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/03/27/eeuu/magistrados-corte-suprema-ee-uu-ciudadania-nacimiento-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/04-gettyimages-87996303-20260327112441622.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Sin ruptura con el chavismo, se enfría expectativa de transición para la diáspora",
+      "link": "https://cnnespanol.cnn.com/2026/03/27/venezuela/desvanece-expectativa-transicion-ruptura-chavismo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-04t013240z-50977365-rc2oejaeimer-rtrmadp-3-usa-venezuela-rodriguez.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DESPLEGADOS MÁS DE 229 MIL FUNCIONARIOS DE SEGURIDAD POR SEMANA SANTA",
-      "link": "https://noticierodigital.com/2026/03/desplegados-mas-de-229-mil-funcionarios-de-seguridad-por-semana-santa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/IMG-20260327-WA0234-627x376.jpg"
+      "title": "PDVSA DESPLEGÓ EQUIPOS DE CONTENCIÓN POR DERRAMES DE CRUDO CERCA DE REFINERÍA CARDÓN",
+      "link": "https://noticierodigital.com/2026/03/pdvsa-desplego-equipos-de-contencion-por-derrames-de-crudo-cerca-de-la-refineria-cardon/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/bombas-de-extraccion-de-petroleo-maracaibo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-18-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-27T20:39:32.928Z"
+  "lastUpdate": "2026-03-27T21:35:30.255Z"
 };
