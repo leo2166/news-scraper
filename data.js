@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "698,00"
+      "usdt": "697,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional retoma el debate sobre la Ley de Minas",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-retoma-el-debate-sobre-la-ley-de-minas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez anuncia extensión de asueto de Semana Santa para el sector público",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-extension-de-asueto-de-semana-santa-para-el-sector-publico",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1--delcy-33f6f5.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP BROMEÓ SOBRE UNA POSTULACIÓN ELECTORAL EN VENEZUELA CONTRA DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/03/trump-bromeo-sobre-una-postulacion-electoral-en-venezuela-contra-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/donald-trump-627x376.jpg"
+      "title": "AN APROBÓ 55 ARTÍCULOS DE LA REFORMA A LA LEY DE MINAS",
+      "link": "https://noticierodigital.com/2026/03/an-aprobo-55-articulos-de-la-reforma-a-la-ley-de-minas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/asamblea-nacional.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Noelia recibe la eutanasia en España tras dura batalla legal y revuelo mediático",
       "link": "https://laverdad.com/noelia-recibe-la-eutanasia-en-espana-tras-dura-batalla-legal-y-revuelo-mediatico/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Noelia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España prepara regularización extraordinaria de 500.000 migrantes para abril",
-      "link": "https://diarioversionfinal.com/mundo/espana-prepara-regularizacion-extraordinaria-de-500-000-migrantes-para-abril/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/000_43RT24T-750x430.jpeg"
+      "title": "Familia se salva por \"milagro\" de ser alcanzados en segundos por un misil iraní",
+      "link": "https://diarioversionfinal.com/mundo/familia-se-salva-por-milagro-de-ser-alcanzados-en-segundos-por-un-misil-irani/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Captura-de-pantalla_26-3-2026_201359_albertonews.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-26T23:33:31.407Z"
+  "lastUpdate": "2026-03-27T02:28:05.253Z"
 };
