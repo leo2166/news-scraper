@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "694,50"
+      "usdt": "694,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Defensa de los activos venezolanos en el extranjero: opaca, con resultados desconocidos y facturas por cientos de millones de dólares\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/defensa-activos-venezuela-gastos-opacidad-citgo/",
+      "title": "Encuesta Latam Pulse: María Corina Machado se mantiene como principal líder política de Venezuela\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/03/encuesta-latam-pulse-maria-corina-machado-se-mantiene-como-principal-lider-politica-de-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ricardo Roa dice que no renunciará a la presidencia de Ecopetrol",
-      "link": "https://www.noticiascaracol.com/economia/ricardo-roa-dice-que-no-renunciara-a-la-presidencia-de-ecopetrol-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/22ed4e4/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2Fed%2F6fade83a47439d9ce6528604bd48%2Fricardo-roa-no-renuncia.jpg"
+      "title": "Cuerpo hallado en zona rural sería de auxiliar de vuelo desaparecido en Medellín, según alcalde",
+      "link": "https://www.noticiascaracol.com/colombia/cuerpo-sin-vida-hallado-en-zona-rural-seria-de-eric-gutierrez-auxiliar-de-vuelo-desaparecido-en-medellin-segun-alcalde-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7383a2d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2F21%2F759224c644048496bbe8580b794c%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump no rompe con el chavismo y para la diáspora se disuelven las expectativas de transición",
-      "link": "https://diarioversionfinal.com/mundo/trump-no-rompe-con-el-chavismo-y-para-la-diaspora-se-disuelven-las-expectativas-de-transicion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Diaspora-2-750x430.jpg"
+      "title": "Reuters: Buque cisterna con combustible ruso que iba hacia Cuba llegó a aguas venezolanas",
+      "link": "https://diarioversionfinal.com/mundo/reuters-buque-cisterna-con-combustible-ruso-que-iba-hacia-cuba-llego-a-aguas-venezolanas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Buques-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-27T17:51:03.127Z"
+  "lastUpdate": "2026-03-27T18:57:02.723Z"
 };
