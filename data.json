@@ -5,7 +5,7 @@
       "eur": "541,19"
     },
     "binance": {
-      "usdt": "691,50"
+      "usdt": "695,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela aplazó por segunda ocasión el debate final de la reforma a la ley de minas",
-      "link": "https://www.infobae.com/venezuela/2026/03/26/el-parlamento-de-venezuela-aplazo-por-segunda-ocasion-el-debate-final-de-la-reforma-a-la-ley-de-minas/",
-      "image": "https://www.infobae.com/resizer/v2/UCYAUM7TUZFHVAPHYU3SX5IBKU.jpg?auth=47bdc1feabb0edcb4e0acdc6a9edc8087b3473e1317aa88f0c408aa813f057f0&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela aplazó por segunda vez una discusión clave para aprobar la ley de minas",
+      "link": "https://www.infobae.com/venezuela/2026/03/27/el-parlamento-de-venezuela-aplazo-por-segunda-vez-una-discusion-clave-para-aprobar-la-ley-de-minas/",
+      "image": "https://www.infobae.com/resizer/v2/UV73ZITJAFEG7LXAQWNCAAMNMI.jpg?auth=6f32f98275f00b9a5e4e000706f02ce452cfb59a1a9afff32179614d003c6e61&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El Senado de EE.UU. vota a favor de financiar la mayor parte del DHS",
-      "link": "https://cnnespanol.cnn.com/2026/03/27/eeuu/senado-aprueba-financiacion-dhs-excepto-ice-patrulla-fronteriza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260327074424334.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Decidirán el futuro de la ciudadanía por nacimiento. Así llegaron sus familias a EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/03/27/eeuu/magistrados-corte-suprema-ee-uu-ciudadania-nacimiento-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/04-gettyimages-87996303-20260327112441622.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN APROBÓ 55 ARTÍCULOS DE LA REFORMA A LA LEY DE MINAS",
-      "link": "https://noticierodigital.com/2026/03/an-aprobo-55-articulos-de-la-reforma-a-la-ley-de-minas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/asamblea-nacional.jpg"
+      "title": "ÁNGEL ARISTIMUÑO ALERTA CRISIS EN MONAGAS: «TENEMOS AGUA SOLO TRES HORAS AL DÍA»",
+      "link": "https://noticierodigital.com/2026/03/angel-aristimuno-alerta-crisis-en-monagas-tenemos-agua-solo-tres-horas-al-dia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-28-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@
       "source": "La Verdad",
       "title": "Noelia recibe la eutanasia en España tras dura batalla legal y revuelo mediático",
       "link": "https://laverdad.com/noelia-recibe-la-eutanasia-en-espana-tras-dura-batalla-legal-y-revuelo-mediatico/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Noelia.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Víctimas de Epstein demandan al gobierno de EE.UU. y Google por exposición de datos",
-      "link": "https://diarioversionfinal.com/mundo/victimas-de-epstein-demandan-al-gobierno-de-ee-uu-y-google-por-exposicion-de-datos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/video-mujeres-epstein-750x430.jpg"
+      "title": "Abatida pareja de Iván Mordisco en ofensiva militar en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/abatida-pareja-de-ivan-mordisco-en-ofensiva-militar-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/alias-lorena-e-ivan-mordisco-XHST5ZHFORFIXCRNM2AAYO2LVI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-27T13:08:05.075Z"
+  "lastUpdate": "2026-03-27T14:50:59.680Z"
 }
