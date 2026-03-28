@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,15"
+      "usdt": "699,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado celebra la reapertura de de Vente Venezuela en Bejucal: \"Estamos muy cerca de la libertad\"\nVENEZUELA",
+      "title": "María Corina Machado celebra la reapertura de Vente Venezuela en Bejucal: \"Estamos muy cerca de la libertad\"\nVENEZUELA",
       "link": "https://www.elnacional.com/2026/03/maria-corina-machado-celebra-la-reapertura-de-vente-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Los hutíes entran en la guerra de Irán con un ataque con misiles contra Israel",
-      "link": "https://cnnespanol.cnn.com/2026/03/28/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-7-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260328101020473.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Se realiza una tercera jornada de protestas “No Kings” en todo EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/03/28/eeuu/protestas-contra-gobierno-trump-no-kings-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/no-kings-c-2025-10-18t152352z-1448845292-rc2feharbkr9-rtrmadp-3-usa-trump-protests.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OTORGARON LIBERTAD PLENA A BLANCA SUÁREZ, APODERADA JUDICIAL DEL DIARIO LA VOZ",
-      "link": "https://noticierodigital.com/2026/03/otorgaron-libertad-plena-a-blanca-suarez-apoderada-judicial-del-diario-la-voz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/blanca-suarez-627x376.jpg"
+      "title": "SUPERLANO AUGURÓ EL «PRONTO» REGRESO DE MCM A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/superlano-auguro-el-pronto-regreso-de-mcm-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/freddy-superlano-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Confirman que cuerpo hallado en zona rural corresponde a auxiliar de vuelo desaparecido en Medellín",
-      "link": "https://www.noticiascaracol.com/colombia/confirman-que-cuerpo-hallado-en-zona-rural-corresponde-a-auxiliar-de-vuelo-desaparecido-en-medellin-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/868d9eb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F51%2Fa0%2Fece9c71f41f09a9c721b4b7c05f2%2Fplantilla-fotos-100.jpg"
+      "title": "Capturados por caso de Diana Ospina aceptan cargos en audiencia pública",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/capturados-por-caso-de-diana-ospina-aceptan-cargos-en-audiencia-publica-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/95db808/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4e%2F3b%2F45491568453dabd6652ded80c90d%2Fdetenidos-diana-ospina.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Papa-Leon-XIV-29-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-28T19:30:24.910Z"
+  "lastUpdate": "2026-03-28T20:31:38.005Z"
 };
