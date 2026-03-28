@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué le espera a Nicolás Maduro y Celia Flores en su proceso legal?",
-      "link": "https://cnnespanol.cnn.com/2026/03/27/venezuela/juez-hellerstein-maduro-flores-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267899064-20260326164310070.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los hutíes entran en la guerra de Irán con un ataque con misiles contra Israel",
+      "link": "https://cnnespanol.cnn.com/2026/03/27/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-7-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260328081858516.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Revelan videos inéditos de la tragedia del Jet Set",
       "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jet-Set.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/DHaasX38-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-28T08:40:22.619Z"
+  "lastUpdate": "2026-03-28T09:37:58.262Z"
 };
