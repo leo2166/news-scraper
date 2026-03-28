@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,40"
+      "usdt": "668,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Capturados por caso de Diana Ospina aceptan cargos en audiencia pública",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/capturados-por-caso-de-diana-ospina-aceptan-cargos-en-audiencia-publica-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/95db808/2147483647/strip/true/crop/1278x721+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4e%2F3b%2F45491568453dabd6652ded80c90d%2Fdetenidos-diana-ospina.jpg"
+      "title": "¿Qué decía la orden de vuelo del avión Hércules siniestrado en Puerto Leguízamo?",
+      "link": "https://www.noticiascaracol.com/colombia/que-decia-la-orden-de-vuelo-del-avion-hercules-siniestrado-en-puerto-leguizamo-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/49b2519/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F35%2Fac%2F28241b7e482e8995d85e9760a173%2Favion-hercules-orden-de-vuelo.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV insta en Mónaco a evangelizar con nuevos lenguajes y compromiso social",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-insta-en-monaco-a-evangelizar-con-nuevos-lenguajes-y-compromiso-social/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Papa-Leon-XIV-29-03-2026-750x430.jpg"
+      "title": "Comienzan las mayores protestas de \"No Kings\" contra Trump",
+      "link": "https://diarioversionfinal.com/mundo/comienzan-las-mayores-protestas-de-no-kings-contra-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/No-Kings-Trump-28-03-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-28T20:31:38.005Z"
+  "lastUpdate": "2026-03-28T21:30:11.089Z"
 };
