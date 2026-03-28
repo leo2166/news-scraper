@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "696,40"
+      "usdt": "698,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/misil-atacms-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-28T04:53:19.038Z"
+  "lastUpdate": "2026-03-28T05:57:33.975Z"
 };
