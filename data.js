@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "698,10"
+      "usdt": "696,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,8 +27,8 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "Los hutíes entran en la guerra de Irán con un ataque con misiles contra Israel",
-      "link": "https://cnnespanol.cnn.com/2026/03/27/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-7-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260328081858516.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/03/28/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-7-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260328101020473.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/DHaasX38-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-28T09:37:58.262Z"
+  "lastUpdate": "2026-03-28T10:33:30.304Z"
 };
