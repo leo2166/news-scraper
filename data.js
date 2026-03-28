@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "698,00"
+      "usdt": "697,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Parlamento venezolano informa sobre 21 nuevas postulaciones a fiscal general y defensor",
-      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-venezolano-informa-sobre-21-nuevas-postulaciones-a-fiscal-general-y-defensor",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-8063a3.jpg"
+      "title": "Foro Penal informa la excarcelación de un hispanovenezolano detenido en 2023",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-informa-la-excarcelacion-de-un-hispanovenezolano-detenido-en-2023",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/uruparu-1280x820-aa053e.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump reitera su decepción con la OTAN por el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/trump-reitera-su-decepcion-con-la-otan-por-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/DHaasX38-image-750x430.jpg"
+      "title": "Pakistán busca mediar en conflicto EE. UU. - Irán con respaldo de Arabia Saudí, Turquía y Egipto",
+      "link": "https://diarioversionfinal.com/mundo/pakistan-busca-mediar-en-conflicto-ee-uu-iran-con-respaldo-de-arabia-saudi-turquia-y-egipto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/GettyImages-2240462838-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-28T11:29:14.152Z"
+  "lastUpdate": "2026-03-28T12:56:45.600Z"
 };
