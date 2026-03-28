@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "668,00"
+      "usdt": "697,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado celebra la reapertura de Vente Venezuela en Bejucal: \"Estamos muy cerca de la libertad\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/maria-corina-machado-celebra-la-reapertura-de-vente-venezuela/",
+      "title": "Juan Pablo Guanipa carga contra Elvis Amoroso: \"No podemos ir a una elección con ese sinvergüenza allí\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/juan-pablo-guanipa-carga-contra-elvis-amoroso-no-podemos-ir-a-una-eleccion-con-ese-sinverguenza-alli/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/No-Kings-Trump-28-03-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-03-28T21:30:11.089Z"
+  "lastUpdate": "2026-03-28T22:30:00.423Z"
 };
