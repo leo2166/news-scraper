@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,90"
+      "usdt": "699,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Menos ideología y revisión de escoltas: los primeros cambios de Gustavo González López, el nuevo ministro de Defensa de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/03/28/menos-ideologia-y-revision-de-escoltas-los-primeros-cambios-de-gustavo-gonzalez-lopez-el-nuevo-ministro-de-defensa-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/UP236CF2KBEDLNEM2IN2BED6JY.jpg?auth=96096f8c134643b7e66ca38712ebc4c1c3dd11470fc06068fa3663b7522e5379&smart=true&width=350&height=197&quality=85"
+      "title": "Maria Corina Machado celebró la reapertura de la sede de Vente Venezuela en Caracas: “Estamos muy cerca de la libertad”",
+      "link": "https://www.infobae.com/venezuela/2026/03/28/maria-corina-machado-celebro-la-reapertura-de-la-sede-de-vente-venezuela-en-caracas-estamos-muy-cerca-de-la-libertad/",
+      "image": "https://www.infobae.com/resizer/v2/WPFN4RWDBVF5XHNEN6UR2X4YDE.JPG?auth=bb72e5114d20f5f6513fca0850024d0b65d35628e7163518b150ee6fe41b9273&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Activista Andreína Baduel afirma que Nuncio Apostólico se comprometió a mediar por privados de libertad",
-      "link": "https://noticiasvenevision.com/noticias/politica/activista-andreina-baduel-afirma-que-nuncio-apostolico-se-comprometio-a-mediar-por-privados-de-libertad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/andrena-baduel.-060aa4.PNG"
+      "title": "Vente Venezuela reabre su sede nacional en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/vente-venezuela-reabre-su-sede-nacional-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-3-b27ff6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "COPEI TOMÓ LAS CALLES EXIGIENDO UN NUEVO CNE",
-      "link": "https://noticierodigital.com/2026/03/copei-tomo-las-calles-exigiendo-un-nuevo-cne/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/copei-odca-627x376.jpg"
+      "title": "OTORGARON LIBERTAD PLENA A BLANCA SUÁREZ, APODERADA JUDICIAL DEL DIARIO LA VOZ",
+      "link": "https://noticierodigital.com/2026/03/otorgaron-libertad-plena-a-blanca-suarez-apoderada-judicial-del-diario-la-voz/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/blanca-suarez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Liberan a Tiger Woods tras varias horas arrestado tras su accidente de tráfico",
-      "link": "https://diarioversionfinal.com/mundo/liberan-a-tiger-woods-tras-varias-horas-arrestado-tras-su-accidente-de-trafico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Tiger-Woods-3-750x430.jpeg"
+      "title": "Papa León XIV insta en Mónaco a evangelizar con nuevos lenguajes y compromiso social",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-insta-en-monaco-a-evangelizar-con-nuevos-lenguajes-y-compromiso-social/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Papa-Leon-XIV-29-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-28T18:41:32.856Z"
+  "lastUpdate": "2026-03-28T19:30:24.910Z"
 };
