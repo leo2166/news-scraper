@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "666,40"
+      "usdt": "698,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela aplazó por segunda vez una discusión clave para aprobar la ley de minas",
-      "link": "https://www.infobae.com/venezuela/2026/03/27/el-parlamento-de-venezuela-aplazo-por-segunda-vez-una-discusion-clave-para-aprobar-la-ley-de-minas/",
-      "image": "https://www.infobae.com/resizer/v2/UV73ZITJAFEG7LXAQWNCAAMNMI.jpg?auth=6f32f98275f00b9a5e4e000706f02ce452cfb59a1a9afff32179614d003c6e61&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos levantó nuevas sanciones al sector minero de Venezuela en medio de la discusión por la ley de minas",
+      "link": "https://www.infobae.com/venezuela/2026/03/28/estados-unidos-levanto-nuevas-sanciones-al-sector-minero-de-venezuela-en-medio-de-la-discusion-por-la-ley-de-minas/",
+      "image": "https://www.infobae.com/resizer/v2/UGKN6J3R3NGKTJWGI4PRWTGF7Q.jpg?auth=d48a3f7c25095f5ae2b647a6a6cbe5406b4136163a824c5738f2a0889fce3b56&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Revelan videos inéditos de la tragedia del Jet Set",
       "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jet-Set.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Yemen se une oficialmente a la guerra esta noche tras atacar con un misil territorio israelí",
-      "link": "https://diarioversionfinal.com/mundo/yemen-se-une-oficialmente-a-la-guerra-esta-noche-tras-atacar-con-un-misil-territorio-israeli/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/misil-atacms-750x430.jpeg"
+      "title": "Trump reitera su decepción con la OTAN por el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/trump-reitera-su-decepcion-con-la-otan-por-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/DHaasX38-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-28T07:05:50.457Z"
+  "lastUpdate": "2026-03-28T08:40:22.619Z"
 };
