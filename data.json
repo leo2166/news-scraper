@@ -5,7 +5,7 @@
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,89"
+      "usdt": "699,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela retomó la administración de sus sedes diplomáticas en Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/03/29/venezuela-retomo-la-administracion-de-sus-sedes-diplomaticas-en-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/RJVFQRTGSJGZ5GI5VDG2T4SVAU.jpg?auth=17430d63ae55ee9120bd7afffad7ca8d57b364104ebc4394ee492a4d0f8939c0&smart=true&width=350&height=197&quality=85"
+      "title": "Un oficial venezolano sancionado por EEUU fue designado como director de Inteligencia de la Guardia Nacional",
+      "link": "https://www.infobae.com/venezuela/2026/03/29/un-oficial-venezolano-sancionado-por-eeuu-fue-designado-como-director-de-inteligencia-de-la-guardia-nacional/",
+      "image": "https://www.infobae.com/resizer/v2/6TAXKDZYEVDV7NBCDUREIGUK3U.png?auth=349317a195a1850c4fe470d965203316e6fe2e52497608192e65cf55e548019a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "¿Está Irán más cerca que nunca de fabricar una bomba nuclear?",
+      "title": "¿Está Irán más cerca de fabricar una bomba nuclear?",
       "link": "https://cnnespanol.cnn.com/2026/03/29/mundo/iran-acorralado-herido-fabricacion-bomba-nuclear-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26057784269650mujeriran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -38,21 +38,21 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "SUPERLANO AUGURÓ EL «PRONTO» REGRESO DE MCM A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/superlano-auguro-el-pronto-regreso-de-mcm-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/freddy-superlano-1-627x376.jpg"
+      "title": "MADURO Y FLORES ASEGURARON ESTAR «BIEN, FIRMES Y SERENOS» EN SU RECLUSIÓN EN EE. UU.",
+      "link": "https://noticierodigital.com/2026/03/maduro-y-flores-aseguraron-estar-bien-firmes-y-serenos-en-su-reclusion-en-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/nicolas-maduro-cilia-flores-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Las fuertes amenazas que habría recibido Diana Ospina durante su secuestro, según Fiscalía",
-      "link": "https://www.noticiascaracol.com/judicial/las-fuertes-amenazas-que-habria-recibido-diana-ospina-durante-su-secuestro-segun-fiscalia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/df9a499/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F53%2Fa9%2F123818bf4188a1dd014e58cc5296%2Fdiana-ospina-1.jpg"
+      "title": "Explosión en establecimiento del centro de Cali por presunta fuga de gas: una persona lesionada",
+      "link": "https://www.noticiascaracol.com/colombia/explosion-en-establecimiento-del-centro-de-cali-por-presunta-fuga-de-gas-una-persona-lesionada-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/afc0e6a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2F88%2F784ca949410582cfd9afdd5f551a%2Fplantilla-fotos-2026-03-29t082910-369.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Revelan videos inéditos de la tragedia del Jet Set",
-      "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Papa León XIV llama a “deponer las armas” en su primer Domingo de Ramos",
+      "link": "https://laverdad.com/papa-leon-xiv-llama-a-deponer-las-armas-en-su-primer-domingo-de-ramos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/9fefd5d07df9bc438b2e2170e0509092f8dbe41c-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-wife-transported-to-court_005-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-29T12:57:32.437Z"
+  "lastUpdate": "2026-03-29T13:55:58.441Z"
 }
