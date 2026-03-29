@@ -5,7 +5,7 @@
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,68"
+      "usdt": "699,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Protestas “No Kings” en EE.UU.",
+      "title": "Los demócratas tratan de descifrar el plan de Trump para 2026",
       "link": "https://cnnespanol.cnn.com/2026/03/28/eeuu/protestas-contra-gobierno-trump-no-kings-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/no-kings-c-2025-10-18t152352z-1448845292-rc2feharbkr9-rtrmadp-3-usa-trump-protests.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/votantes-phoenix-arizona.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Revelan videos inéditos de la tragedia del Jet Set",
       "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jet-Set.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezolano-estadounidense-28-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-29T02:31:01.418Z"
+  "lastUpdate": "2026-03-29T05:11:21.805Z"
 }
