@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "670,00"
+      "usdt": "699,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SAIME SUSPENDIÓ ATENCIÓN AL PÚBLICO EN TODO EL PAÍS POR ASUETO DE SEMANA SANTA",
-      "link": "https://noticierodigital.com/2026/03/saime-suspendio-atencion-al-publico-en-todo-el-pais-por-asueto-de-semana-santa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/saime-caracas-18ene2022.jpg"
+      "title": "ARREAZA REVELÓ QUE MÁS DE 100 VENEZOLANOS EN EL EXTERIOR SOLICITARON LA LEY DE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/03/arreaza-revelo-que-mas-de-100-venezolanos-en-el-exterior-solicitaron-la-ley-de-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/arreaza-scaled-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Papa León XIV llama a “deponer las armas” en su primer Domingo de Ramos",
       "link": "https://laverdad.com/papa-leon-xiv-llama-a-deponer-las-armas-en-su-primer-domingo-de-ramos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/9fefd5d07df9bc438b2e2170e0509092f8dbe41c-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. busca colonizar la Luna con la primera misión tripulada en más de medio siglo",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-busca-colonizar-la-luna-con-la-primera-mision-tripulada-en-mas-de-medio-siglo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/17743718935101-750x430.jpg"
+      "title": "Ucrania golpea el corazón energético ruso: Ataque con drones paraliza la refinería de Kírishi",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-golpea-el-corazon-energetico-ruso-ataque-con-drones-paraliza-la-refineria-de-kirishi/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/326739_doc1-700x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-29T17:31:32.626Z"
+  "lastUpdate": "2026-03-29T18:43:09.849Z"
 };
