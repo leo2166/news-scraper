@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "698,50"
+      "usdt": "699,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Maria Corina Machado celebró la reapertura de la sede de Vente Venezuela en Caracas: “Estamos muy cerca de la libertad”",
-      "link": "https://www.infobae.com/venezuela/2026/03/28/maria-corina-machado-celebro-la-reapertura-de-la-sede-de-vente-venezuela-en-caracas-estamos-muy-cerca-de-la-libertad/",
-      "image": "https://www.infobae.com/resizer/v2/WPFN4RWDBVF5XHNEN6UR2X4YDE.JPG?auth=bb72e5114d20f5f6513fca0850024d0b65d35628e7163518b150ee6fe41b9273&smart=true&width=350&height=197&quality=85"
+      "title": "El mensaje publicado en las redes del ex dictador Maduro dos días después de su comparecencia ante la Corte de Nueva York",
+      "link": "https://www.infobae.com/venezuela/2026/03/28/el-mensaje-publicado-en-las-redes-del-ex-dictador-maduro-dos-dias-despues-de-su-comparecencia-ante-la-corte-de-nueva-york/",
+      "image": "https://www.infobae.com/resizer/v2/XOFKNAB3NGRX7RE6VWT7P5GJHA.jpg?auth=7d61e33bbddd099e7d2a475f29d69ad083a84550ee93ecde42a0833e8b79d009&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Vente Venezuela reabre su sede nacional en Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/vente-venezuela-reabre-su-sede-nacional-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-ig.-no-cambiar-3-b27ff6.jpg"
+      "title": "Venezuela recupera el control de sus sedes diplomáticas en Estados Unidos",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-recupera-el-control-de-sus-sedes-diplomaticas-en-estados-unidos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_658358535_18578968009014700_1459122934240023551_n-262c72.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Qué decía la orden de vuelo del avión Hércules siniestrado en Puerto Leguízamo?",
-      "link": "https://www.noticiascaracol.com/colombia/que-decia-la-orden-de-vuelo-del-avion-hercules-siniestrado-en-puerto-leguizamo-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/49b2519/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F35%2Fac%2F28241b7e482e8995d85e9760a173%2Favion-hercules-orden-de-vuelo.jpg"
+      "title": "Las fuertes amenazas que habría recibido Diana Ospina durante su secuestro, según Fiscalía",
+      "link": "https://www.noticiascaracol.com/judicial/las-fuertes-amenazas-que-habria-recibido-diana-ospina-durante-su-secuestro-segun-fiscalia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/df9a499/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F53%2Fa9%2F123818bf4188a1dd014e58cc5296%2Fdiana-ospina-1.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Revelan videos inéditos de la tragedia del Jet Set",
       "link": "https://laverdad.com/revelan-videos-ineditos-de-la-tragedia-del-jet-set/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Jet-Set.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. refuerza su presencia en Medio Oriente con el buque USS Tripoli y 3.500 marinos",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-refuerza-su-presencia-en-medio-oriente-con-el-buque-uss-tripoli-y-3-500-marinos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/IMG_1945-750x430.webp"
+      "title": "ICE detiene en Arizona a un venezolano casado con estadounidense durante entrevista de residencia",
+      "link": "https://diarioversionfinal.com/mundo/ice-detiene-en-arizona-a-un-venezolano-casado-con-estadounidense-durante-entrevista-de-residencia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezolano-estadounidense-28-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-28T23:32:19.189Z"
+  "lastUpdate": "2026-03-29T02:31:01.418Z"
 };
