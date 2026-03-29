@@ -5,7 +5,7 @@
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,80"
+      "usdt": "698,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ARREAZA REVELÓ QUE MÁS DE 100 VENEZOLANOS EN EL EXTERIOR SOLICITARON LA LEY DE AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/03/arreaza-revelo-que-mas-de-100-venezolanos-en-el-exterior-solicitaron-la-ley-de-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/arreaza-scaled-1-627x376.jpg"
+      "title": "VELÁSQUEZ: «CON ESTE CNE NO PUEDE HABER NINGUNA ELECCIÓN EN VENEZUELA»",
+      "link": "https://noticierodigital.com/2026/03/velasquez-con-este-cne-no-puede-haber-ninguna-eleccion-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/andres-velasquez-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV llama a “deponer las armas” en su primer Domingo de Ramos",
-      "link": "https://laverdad.com/papa-leon-xiv-llama-a-deponer-las-armas-en-su-primer-domingo-de-ramos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Consulado de Venezuela en Uruguay reanuda emisión de salvoconductos",
+      "link": "https://laverdad.com/consulado-de-venezuela-en-uruguay-reanuda-emision-de-salvoconductos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/banderas-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/326739_doc1-700x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-29T18:43:09.849Z"
+  "lastUpdate": "2026-03-29T19:32:45.659Z"
 }
