@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "698,00"
+      "usdt": "698,01"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Pelea entre hinchas de la Selección Colombia, mientras se jugaba el primer tiempo frente a Francia",
-      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/pelea-entre-hinchas-de-la-seleccion-colombia-mientras-se-jugaba-el-primer-tiempo-frente-a-francia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9cb5df0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd5%2F54%2Fb172afc64aaeab52050c5cdffb51%2Ftamano-fotos-cms-2026-03-29t143741-932.jpg"
+      "title": "Jaminton Campaz descontó en Colombia vs Francia; remate potente en el área, al palo y golazo",
+      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/jaminton-campaz-desconto-en-colombia-vs-francia-remate-potente-en-el-area-al-palo-y-golazo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c7ced36/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F48%2F7f%2F77404d6d4335acb3769e2488732f%2Ftamano-fotos-cms-2026-03-29t155223-903.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/photo_5930467022888176830_x-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-29T20:33:43.325Z"
+  "lastUpdate": "2026-03-29T21:32:49.882Z"
 };
