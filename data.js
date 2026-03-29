@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "668,33"
+      "usdt": "701,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Venezolano-estadounidense-28-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-29T10:34:44.839Z"
+  "lastUpdate": "2026-03-29T11:29:50.679Z"
 };
