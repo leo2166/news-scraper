@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Qué es el Domingo de Ramos y qué se celebra? Oración para iniciar la Semana Santa",
-      "link": "https://www.noticiascaracol.com/estilo-de-vida/que-es-el-domingo-de-ramos-y-que-se-celebra-oracion-para-la-semana-santa-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/158daac/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2b%2F0f%2F05ebf3614fe2bb038d427619de78%2Fplantilla-fotos-2026-03-29t104154-697.jpg"
+      "title": "Pelea entre hinchas de la Selección Colombia, mientras se jugaba el primer tiempo frente a Francia",
+      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/pelea-entre-hinchas-de-la-seleccion-colombia-mientras-se-jugaba-el-primer-tiempo-frente-a-francia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9cb5df0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd5%2F54%2Fb172afc64aaeab52050c5cdffb51%2Ftamano-fotos-cms-2026-03-29t143741-932.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ucrania golpea el corazón energético ruso: Ataque con drones paraliza la refinería de Kírishi",
-      "link": "https://diarioversionfinal.com/mundo/ucrania-golpea-el-corazon-energetico-ruso-ataque-con-drones-paraliza-la-refineria-de-kirishi/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/326739_doc1-700x430.jpg"
+      "title": "Drones no identificados se estrellan en Finlandia y señalan “violación del territorio”",
+      "link": "https://diarioversionfinal.com/mundo/drones-no-identificados-se-estrellan-en-finlandia-y-senalan-violacion-del-territorio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/photo_5930467022888176830_x-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-29T19:32:45.659Z"
+  "lastUpdate": "2026-03-29T20:33:43.325Z"
 };
