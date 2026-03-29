@@ -5,7 +5,7 @@
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,80"
+      "usdt": "699,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "La batalla por Citgo no ha terminado ni está perdida \nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/batalla-legal-citgo-delaware-subasta-acreedores/",
+      "title": "Partidos de oposición desafían la represión y reactivan la movilización ciudadana: \"El terreno volvió a llenarse de dirigentes reales\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/oposicion-desafia-la-represion-y-reactiva-movilizacion-ciudadana/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_658358535_18578968009014700_1459122934240023551_n-262c72.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CARLOS SILVA AMARISTA ASUMIÓ LA PRESIDENCIA DEL METRO DE CARACAS",
+      "link": "https://noticierodigital.com/2026/03/carlos-silva-amarista-asumio-la-presidencia-del-metro-de-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/carlos-silva-amarista-metro-de-caracas-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Explosión en establecimiento del centro de Cali por presunta fuga de gas: una persona lesionada",
       "link": "https://www.noticiascaracol.com/colombia/explosion-en-establecimiento-del-centro-de-cali-por-presunta-fuga-de-gas-una-persona-lesionada-rg10",
@@ -46,7 +52,7 @@
       "source": "La Verdad",
       "title": "Papa León XIV llama a “deponer las armas” en su primer Domingo de Ramos",
       "link": "https://laverdad.com/papa-leon-xiv-llama-a-deponer-las-armas-en-su-primer-domingo-de-ramos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/9fefd5d07df9bc438b2e2170e0509092f8dbe41c-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-wife-transported-to-court_005-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-29T14:35:03.558Z"
+  "lastUpdate": "2026-03-29T15:32:52.114Z"
 }
