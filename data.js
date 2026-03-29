@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "699,90"
+      "usdt": "699,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Cambiará la política nuclear de Irán bajo su nuevo liderazgo?",
-      "link": "https://cnnespanol.cnn.com/2026/03/29/mundo/iran-acorralado-herido-fabricacion-bomba-nuclear-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26057784269650mujeriran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Maduro propone “perdón y diálogo” en Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/03/29/venezuela/maduro-carta-reconciliacion-paz-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26085658119286.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Explosión en establecimiento del centro de Cali por presunta fuga de gas: una persona lesionada",
-      "link": "https://www.noticiascaracol.com/colombia/explosion-en-establecimiento-del-centro-de-cali-por-presunta-fuga-de-gas-una-persona-lesionada-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/afc0e6a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2F88%2F784ca949410582cfd9afdd5f551a%2Fplantilla-fotos-2026-03-29t082910-369.jpg"
+      "title": "¿Qué es el Domingo de Ramos y qué se celebra? Oración para iniciar la Semana Santa",
+      "link": "https://www.noticiascaracol.com/estilo-de-vida/que-es-el-domingo-de-ramos-y-que-se-celebra-oracion-para-la-semana-santa-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/158daac/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2b%2F0f%2F05ebf3614fe2bb038d427619de78%2Fplantilla-fotos-2026-03-29t104154-697.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-wife-transported-to-court_005-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-29T15:32:52.114Z"
+  "lastUpdate": "2026-03-29T16:36:29.670Z"
 };
