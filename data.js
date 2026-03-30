@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "690,00"
+      "usdt": "685,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Tras envío de petrolero, Rusia dice que seguirá suministrando ayuda a Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/03/30/latinoamerica/rusia-seguira-enviando-petroleo-cuba-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214714033-20260329222552798.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "EE.UU. anunció que reanuda las operaciones de su Embajada en Caracas",
+      "link": "https://cnnespanol.cnn.com/2026/03/30/venezuela/eeuu-reabre-embajada-caracas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265999343.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez llama a la reconciliación y la justicia social en el inicio de la Semana Santa",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-llama-a-la-reconciliacion-y-la-justicia-social-en-el-inicio-de-la-semana-santa",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_2026-01-29_17-35-55-725157.jpg"
+      "title": "Laura Dogu anuncia reanudación formal de operaciones en la Embajada de Estados Unidos en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/laura-dogu-anuncia-reanudacion-formal-de-operaciones-en-la-embajada-de-estados-unidos-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/lauradogu-bc380e.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PETROLEROS FIRMAN ACUERDO PARA ATRAER NUEVOS INVERSIONISTAS HACIA VENEZUELA",
-      "link": "https://noticierodigital.com/2026/03/petroleros-firman-acuerdo-para-atraer-nuevos-inversionistas-hacia-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/1774880789820-627x376.png"
+      "title": "RAÚL YUSEF: «NUEVO CNE NO PUEDE SER NOMBRADO EN MIRAFLORES»",
+      "link": "https://noticierodigital.com/2026/03/raul-yusef-nuevo-cne-no-puede-ser-nombrado-en-miraflores/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/11/raulyusef-cachetada-americodegrazia-18nov2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Revelan vínculo entre casos de Diana Ospina y el profesor Neill Cubides: \"Mismo dueño\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-vinculo-entre-casos-de-diana-ospina-y-el-profesor-neill-cubides-mismo-dueno-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4f3c660/2147483647/strip/true/crop/1276x720+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3f%2F16%2F14c9f5e842529a2ca6e5392bb8e7%2Fportadas-caracol-web-47.png"
+      "title": "\"Hechos muy graves\": fiscal Camargo habla sobre los hallazgos en los archivos secretos de 'Calarcá'",
+      "link": "https://www.noticiascaracol.com/informes-especiales/hechos-muy-graves-fiscal-camargo-habla-sobre-los-hallazgos-en-los-archivos-secretos-de-calarca-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0551194/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2Fd2%2Feb19e9da46688dd75469dc92d72d%2Fsenado-69.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de Pedro Sánchez niega uso de su espacio aéreo a EE. UU. en conflicto con Irán",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-de-pedro-sanchez-niega-uso-de-su-espacio-aereo-a-ee-uu-en-conflicto-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2025052917562928760-750x430.webp"
+      "title": "Presentan denuncia para examinar posibles ingresos no declarados de Zapatero",
+      "link": "https://diarioversionfinal.com/mundo/presentan-denuncia-para-examinar-posibles-ingresos-no-declarados-de-zapatero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zapatero-19-12-2025-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-30T15:03:53.974Z"
+  "lastUpdate": "2026-03-30T16:57:01.033Z"
 };
