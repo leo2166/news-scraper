@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "542,64"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "688,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SUJETO ARMADO ACABÓ CON LA VIDA DEL CONCEJAL JOENIO NEGRETE EN ZULIA",
-      "link": "https://noticierodigital.com/2026/03/sujeto-armado-acabo-con-la-vida-del-concejal-joenio-negrete-en-zulia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Joenio-Negrete-PJ-627x376.jpg"
+      "title": "LLEGARON A MAIQUETÍA 209 VENEZOLANOS EN VUELO DE DEPORTACIÓN PROCEDENTE DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/03/llegaron-a-maiquetia-209-venezolanos-en-vuelo-de-deportacion-procedente-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/vuelo-de-deportacion-venezolanos-eeuu-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El crudo testimonio de sobreviviente del tiroteo en escuela de Argentina: “Empezó a reír”",
-      "link": "https://www.noticiascaracol.com/mundo/el-crudo-testimonio-de-sobreviviente-del-tiroteo-en-escuela-de-argentina-empezo-a-reir-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4ee6cd0/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3c%2F3b%2Fb0b638d9422487bb87fb6d17a652%2Fportadas-caracol-web-53.png"
+      "title": "La hipótesis sobre la muerte del auxiliar de vuelo Eric Gutiérrez en Medellín: su pareja habló",
+      "link": "https://www.noticiascaracol.com/colombia/la-hipotesis-sobre-la-muerte-del-auxiliar-de-vuelo-eric-gutierrez-en-medellin-su-pareja-hablo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6bfe7e9/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fef%2F2e%2F3c3baf6e4a548d72957b1a9b2f42%2Fbasica.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/karoline-leavitt-white-house-press-secretary-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-30T21:42:07.159Z"
+  "lastUpdate": "2026-03-30T22:36:58.269Z"
 };
