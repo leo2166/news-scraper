@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "681,50"
+      "usdt": "690,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,20 +14,20 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Un oficial venezolano sancionado por EEUU fue designado como director de Inteligencia de la Guardia Nacional",
-      "link": "https://www.infobae.com/venezuela/2026/03/29/un-oficial-venezolano-sancionado-por-eeuu-fue-designado-como-director-de-inteligencia-de-la-guardia-nacional/",
-      "image": "https://www.infobae.com/resizer/v2/6TAXKDZYEVDV7NBCDUREIGUK3U.png?auth=349317a195a1850c4fe470d965203316e6fe2e52497608192e65cf55e548019a&smart=true&width=350&height=197&quality=85"
+      "title": "La embajada de Estados Unidos reanuda sus actividades en Caracas después de siete años",
+      "link": "https://www.infobae.com/venezuela/2026/03/30/la-embajada-de-estados-unidos-reanuda-sus-actividades-en-caracas-despues-de-siete-anos/",
+      "image": "https://www.infobae.com/resizer/v2/HGCLGUORURF3LPAQ7IZVCIDJKA.JPG?auth=817914b94f063a2bbb501a87cce5fcfe9057d709d0a10053609cba51d2b098ab&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Qué medidas están tomando los gobiernos para aliviar el aumento de los precios de los combustibles en América Latina y el mundo\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/03/que-medidas-estan-tomando-los-gobiernos-para-aliviar-el-aumento-de-los-precios-de-los-combustibles-en-america-latina-y-el-mundo/",
+      "title": "Embajada de EE UU en Caracas reanuda oficialmente sus operaciones tras siete años\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/embajada-de-ee-uu-en-caracas-reanuda-oficialmente-sus-operaciones-tras-siete-anos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Petrolero ruso con 100.000 toneladas de crudo llega a Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/03/30/latinoamerica/petrolero-ruso-llega-cuba-efe",
+      "title": "Tras envío de petrolero, Rusia dice que seguirá suministrando ayuda a Cuba",
+      "link": "https://cnnespanol.cnn.com/2026/03/30/latinoamerica/rusia-seguira-enviando-petroleo-cuba-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214714033-20260329222552798.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CUBA RECIBE PRIMER CARGAMENTO DE PETRÓLEO EN TRES MESES: RUSIA LE ENVIÓ 700.000 BARRILES",
-      "link": "https://noticierodigital.com/2026/03/cuba-recibe-primer-cargamento-de-petroleo-en-tres-meses-rusia-le-envio-700-000-barriles/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/la-habana-cuba-627x376.jpg"
+      "title": "PETROLEROS FIRMAN ACUERDO PARA ATRAER NUEVOS INVERSIONISTAS HACIA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/petroleros-firman-acuerdo-para-atraer-nuevos-inversionistas-hacia-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/1774880789820-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Investigación contra oficial dejaría en evidencia nexos de 'Pitufo' con generales de la Policía",
-      "link": "https://www.noticiascaracol.com/informes-especiales/investigacion-contra-oficial-dejaria-en-evidencia-nexos-de-pitufo-con-generales-de-la-policia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d2f6455/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F73%2Fbb%2F6ad0beb246daa9eac6b4e89846a9%2Fsenado-72.jpg"
+      "title": "Revelan vínculo entre casos de Diana Ospina y el profesor Neill Cubides: \"Mismo dueño\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-vinculo-entre-casos-de-diana-ospina-y-el-profesor-neill-cubides-mismo-dueno-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4f3c660/2147483647/strip/true/crop/1276x720+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3f%2F16%2F14c9f5e842529a2ca6e5392bb8e7%2Fportadas-caracol-web-47.png"
     },
     {
       "source": "La Verdad",
-      "title": "El zuliano Edgar Peña dejar de ser el “número 3” del Vaticano",
-      "link": "https://laverdad.com/el-zuliano-edgar-pena-dejar-de-ser-el-numero-3-del-vaticano/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/10/Monsenor-Edgar-Pena.jpg"
+      "title": "Rusia asegura que seguirá suministrando ayuda a Cuba tras llegada de petrolero",
+      "link": "https://laverdad.com/rusia-asegura-que-seguira-suministrando-ayuda-a-cuba-tras-llegada-de-petrolero/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/petrolero-ruso-Cuba.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán confirma la muerte del jefe naval de la Guardia Revolucionaria",
-      "link": "https://diarioversionfinal.com/mundo/iran-confirma-la-muerte-del-jefe-naval-de-la-guardia-revolucionaria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Iran-confirma-muerte-de-comandante-de-la-Armada-de-Guardia-Revolucionaria-elorientaldemonagas.com-30-de-marzo-del-2026-1024x477-1.gif"
+      "title": "Gobierno de Pedro Sánchez niega uso de su espacio aéreo a EE. UU. en conflicto con Irán",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-pedro-sanchez-niega-uso-de-su-espacio-aereo-a-ee-uu-en-conflicto-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/2025052917562928760-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-30T13:21:34.451Z"
+  "lastUpdate": "2026-03-30T15:03:53.974Z"
 };
