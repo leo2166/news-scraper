@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "679,70"
+      "usdt": "685,49"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Buque-petrolero-29-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-30T07:47:00.693Z"
+  "lastUpdate": "2026-03-30T09:13:30.506Z"
 };
