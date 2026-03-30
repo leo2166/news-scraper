@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "685,49"
+      "usdt": "698,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. permitirá que buque petrolero ruso llegue a Cuba, dice Trump",
-      "link": "https://cnnespanol.cnn.com/2026/03/29/latinoamerica/buque-petrolero-rusia-acerca-cuba-embargo-estadounidense-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267411738.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Petrolero ruso con 100.000 toneladas de crudo llega a Cuba",
+      "link": "https://cnnespanol.cnn.com/2026/03/30/latinoamerica/petrolero-ruso-llega-cuba-efe",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2259625627.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Consulado de Venezuela en Uruguay reanuda emisión de salvoconductos",
       "link": "https://laverdad.com/consulado-de-venezuela-en-uruguay-reanuda-emision-de-salvoconductos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/banderas-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Buque-petrolero-29-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-30T09:13:30.506Z"
+  "lastUpdate": "2026-03-30T11:02:43.050Z"
 };
