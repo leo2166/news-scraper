@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "689,00"
+      "usdt": "659,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,8 +26,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. anunció que reanuda las operaciones de su Embajada en Caracas",
-      "link": "https://cnnespanol.cnn.com/2026/03/30/venezuela/eeuu-reabre-embajada-caracas-orix",
+      "title": "Cuánto durará el petróleo que llegó a Cuba en un carguero ruso",
+      "link": "https://cnnespanol.cnn.com/2026/03/30/latinoamerica/cuba-petroleo-carguero-rusia-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214714033-20260329222552798.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Presidente Kast frena la regularización masiva de migrantes en Chile",
-      "link": "https://laverdad.com/presidente-kast-frena-la-regularizacion-masiva-de-migrantes-en-chile/",
+      "title": "Vance sigue siendo favorito de los republicanos para suceder a Trump: Rubio recorta distancias",
+      "link": "https://laverdad.com/vance-sigue-siendo-favorito-de-los-republicanos-para-suceder-a-trump-rubio-recorta-distancias/",
       "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. asegura que no necesita ayuda de España en la operación contra Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-asegura-que-no-necesita-ayuda-de-espana-en-la-operacion-contra-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/4o993RHU-images-3.jpeg"
+      "title": "Marco Rubio: \"Desarrollo económico de Venezuela depende de un sistema democrático estable\"",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-desarrollo-economico-de-venezuela-depende-de-un-sistema-democratico-estable/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-30T19:03:20.260Z"
+  "lastUpdate": "2026-03-30T20:45:13.436Z"
 };
