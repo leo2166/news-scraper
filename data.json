@@ -5,7 +5,7 @@
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "684,00"
+      "usdt": "689,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/lauradogu-bc380e.webp"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "DEPÓSITOS EN DÓLARES SUBEN 11,3 % EN FEBRERO: ECOANALÍTICA ",
+      "link": "https://noticierodigital.com/2026/03/depositos-en-dolares-suben-113-en-febrero-ecoanalitica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/pago-en-dolares-referencial-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "\"Hechos muy graves\": fiscal Camargo habla sobre los hallazgos en los archivos secretos de 'Calarcá'",
       "link": "https://www.noticiascaracol.com/informes-especiales/hechos-muy-graves-fiscal-camargo-habla-sobre-los-hallazgos-en-los-archivos-secretos-de-calarca-rg10",
@@ -44,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Rusia asegura que seguirá suministrando ayuda a Cuba tras llegada de petrolero",
-      "link": "https://laverdad.com/rusia-asegura-que-seguira-suministrando-ayuda-a-cuba-tras-llegada-de-petrolero/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/petrolero-ruso-Cuba.jpg"
+      "title": "Presidente Kast frena la regularización masiva de migrantes en Chile",
+      "link": "https://laverdad.com/presidente-kast-frena-la-regularizacion-masiva-de-migrantes-en-chile/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rusia promete seguir suministrando petróleo a Cuba",
-      "link": "https://diarioversionfinal.com/mundo/rusia-promete-seguir-suministrando-petroleo-a-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/024006de62d27426130d268790648ebc-750x430.webp"
+      "title": "EE. UU. asegura que no necesita ayuda de España en la operación contra Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-asegura-que-no-necesita-ayuda-de-espana-en-la-operacion-contra-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/4o993RHU-images-3.jpeg"
     }
   ],
-  "lastUpdate": "2026-03-30T17:56:28.121Z"
+  "lastUpdate": "2026-03-30T19:03:20.260Z"
 }
