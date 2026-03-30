@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "685,60"
+      "usdt": "684,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,19 +28,13 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "EE.UU. anunció que reanuda las operaciones de su Embajada en Caracas",
       "link": "https://cnnespanol.cnn.com/2026/03/30/venezuela/eeuu-reabre-embajada-caracas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265999343.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214714033-20260329222552798.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Laura Dogu anuncia reanudación formal de operaciones en la Embajada de Estados Unidos en Caracas",
       "link": "https://noticiasvenevision.com/noticias/politica/laura-dogu-anuncia-reanudacion-formal-de-operaciones-en-la-embajada-de-estados-unidos-en-caracas",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/lauradogu-bc380e.webp"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "RAÚL YUSEF: «NUEVO CNE NO PUEDE SER NOMBRADO EN MIRAFLORES»",
-      "link": "https://noticierodigital.com/2026/03/raul-yusef-nuevo-cne-no-puede-ser-nombrado-en-miraflores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/11/raulyusef-cachetada-americodegrazia-18nov2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presentan denuncia para examinar posibles ingresos no declarados de Zapatero",
-      "link": "https://diarioversionfinal.com/mundo/presentan-denuncia-para-examinar-posibles-ingresos-no-declarados-de-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zapatero-19-12-2025-750x430.jpeg"
+      "title": "Rusia promete seguir suministrando petróleo a Cuba",
+      "link": "https://diarioversionfinal.com/mundo/rusia-promete-seguir-suministrando-petroleo-a-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/024006de62d27426130d268790648ebc-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-30T16:57:01.033Z"
+  "lastUpdate": "2026-03-30T17:56:28.121Z"
 };
