@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "471,70",
-      "eur": "543,94"
+      "usd": "473,87",
+      "eur": "542,64"
     },
     "binance": {
-      "usdt": "659,40"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La embajada de Estados Unidos reanuda sus actividades en Caracas después de siete años",
-      "link": "https://www.infobae.com/venezuela/2026/03/30/la-embajada-de-estados-unidos-reanuda-sus-actividades-en-caracas-despues-de-siete-anos/",
-      "image": "https://www.infobae.com/resizer/v2/HGCLGUORURF3LPAQ7IZVCIDJKA.JPG?auth=817914b94f063a2bbb501a87cce5fcfe9057d709d0a10053609cba51d2b098ab&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos dijo que la reapertura de su embajada en Caracas es solo el primer paso del plan de Trump",
+      "link": "https://www.infobae.com/venezuela/2026/03/30/estados-unidos-dijo-que-la-reapertura-de-su-embajada-en-caracas-es-solo-el-primer-paso-del-plan-de-trump/",
+      "image": "https://www.infobae.com/resizer/v2/YXXJLWNS6NB3VFIHLANJOY3OL4.jpg?auth=0fd9a0cfd0bf75ee50c8d8045eccded48186d8f69806bd199236c6f332746c23&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Cuánto durará el petróleo que llegó a Cuba en un carguero ruso",
       "link": "https://cnnespanol.cnn.com/2026/03/30/latinoamerica/cuba-petroleo-carguero-rusia-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214714033-20260329222552798.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-hegseth-rubio-gettyimages-2267901561.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEPÓSITOS EN DÓLARES SUBEN 11,3 % EN FEBRERO: ECOANALÍTICA ",
-      "link": "https://noticierodigital.com/2026/03/depositos-en-dolares-suben-113-en-febrero-ecoanalitica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/pago-en-dolares-referencial-627x376.jpg"
+      "title": "SUJETO ARMADO ACABÓ CON LA VIDA DEL CONCEJAL JOENIO NEGRETE EN ZULIA",
+      "link": "https://noticierodigital.com/2026/03/sujeto-armado-acabo-con-la-vida-del-concejal-joenio-negrete-en-zulia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Joenio-Negrete-PJ-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"Hechos muy graves\": fiscal Camargo habla sobre los hallazgos en los archivos secretos de 'Calarcá'",
-      "link": "https://www.noticiascaracol.com/informes-especiales/hechos-muy-graves-fiscal-camargo-habla-sobre-los-hallazgos-en-los-archivos-secretos-de-calarca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0551194/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2Fd2%2Feb19e9da46688dd75469dc92d72d%2Fsenado-69.jpg"
+      "title": "El crudo testimonio de sobreviviente del tiroteo en escuela de Argentina: “Empezó a reír”",
+      "link": "https://www.noticiascaracol.com/mundo/el-crudo-testimonio-de-sobreviviente-del-tiroteo-en-escuela-de-argentina-empezo-a-reir-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4ee6cd0/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3c%2F3b%2Fb0b638d9422487bb87fb6d17a652%2Fportadas-caracol-web-53.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio: \"Desarrollo económico de Venezuela depende de un sistema democrático estable\"",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-desarrollo-economico-de-venezuela-depende-de-un-sistema-democratico-estable/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
+      "title": "Casa Blanca afirma que envío de petróleo ruso a Cuba se permitió por razones humanitarias",
+      "link": "https://diarioversionfinal.com/mundo/casa-blanca-afirma-que-envio-de-petroleo-ruso-a-cuba-se-permitio-por-razones-humanitarias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/karoline-leavitt-white-house-press-secretary-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-30T20:45:13.436Z"
+  "lastUpdate": "2026-03-30T21:42:07.159Z"
 };
