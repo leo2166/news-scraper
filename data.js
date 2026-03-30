@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "543,94"
     },
     "binance": {
-      "usdt": "698,69"
+      "usdt": "698,85"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. permitirá que un buque petrolero ruso llegue a Cuba, dice Trump",
+      "title": "EE.UU. permitirá que buque petrolero ruso llegue a Cuba, dice Trump",
       "link": "https://cnnespanol.cnn.com/2026/03/29/latinoamerica/buque-petrolero-rusia-acerca-cuba-embargo-estadounidense-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267411738.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bruce Springsteen carga contra Trump: \"Las tropas federales trajeron muerte y terror a las calles\"",
-      "link": "https://diarioversionfinal.com/mundo/bruce-springsteen-carga-contra-trump-las-tropas-federales-trajeron-muerte-y-terror-a-las-calles/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Bruce-Springsteen-29-03-2026-750x430.png"
+      "title": "NYT: EE. UU. permitirá la llegada del buque petrolero ruso a Cuba",
+      "link": "https://diarioversionfinal.com/mundo/nyt-ee-uu-permitira-la-llegada-del-buque-petrolero-ruso-a-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Buque-petrolero-29-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-30T02:33:26.450Z"
+  "lastUpdate": "2026-03-30T05:25:05.833Z"
 };
