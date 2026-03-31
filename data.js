@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La Casa Blanca deja abierta la posibilidad de destruir las fuentes de energía de Irán",
+      "title": "Irán ataca un petrolero de Kuwait frente a las costas de Dubai",
       "link": "https://cnnespanol.cnn.com/2026/03/30/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-8-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/objetivos-amenazados-medio-ori.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260331054334169.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Vance sigue siendo favorito de los republicanos para suceder a Trump: Rubio recorta distancias",
       "link": "https://laverdad.com/vance-sigue-siendo-favorito-de-los-republicanos-para-suceder-a-trump-rubio-recorta-distancias/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/10/JD-Vance-Marco-Rubio.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-03-31T05:09:48.820Z"
+  "lastUpdate": "2026-03-31T07:15:25.698Z"
 };
