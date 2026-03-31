@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Varios coches arden tras la caída de fragmentos de misil en el centro de Israel",
-      "link": "https://cnnespanol.cnn.com/2026/03/30/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-8-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/objetivos-amenazados-medio-ori.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "La gasolina alcanza los US$ 4 por galón en EE.UU. por primera vez desde 2022",
+      "link": "https://cnnespanol.cnn.com/2026/03/31/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-9-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260331100101327.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-03-31T09:00:51.975Z"
+  "lastUpdate": "2026-03-31T10:53:17.479Z"
 };
