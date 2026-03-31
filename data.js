@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán ataca un petrolero de Kuwait frente a las costas de Dubai",
+      "title": "Varios coches arden tras la caída de fragmentos de misil en el centro de Israel",
       "link": "https://cnnespanol.cnn.com/2026/03/30/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-8-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260331054334169.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/objetivos-amenazados-medio-ori.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-03-31T07:15:25.698Z"
+  "lastUpdate": "2026-03-31T09:00:51.975Z"
 };
