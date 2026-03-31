@@ -5,7 +5,7 @@
       "eur": "542,64"
     },
     "binance": {
-      "usdt": "688,50"
+      "usdt": "689,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria considera clave la presencia de EE.UU. para la transición en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-considera-clave-la-presencia-de-eeuu-para-la-transicion-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ipzgx3tmwvft7dshbfxesirm4u-88a42d.avif"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "ASOBANCA: CARTERA DE CRÉDITO REPRESENTA 3 % DEL PIB",
-      "link": "https://noticierodigital.com/2026/03/asobanca-cartera-de-credito-representa-3-del-pib/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/pedropacheco-unionradio.jpg"
+      "title": "Voluntad Popular confirmó la excarcelación del activista Rafael Suárez",
+      "link": "https://noticiasvenevision.com/noticias/politica/voluntad-popular-confirmo-la-excarcelacion-del-activista-rafael-suarez",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rafael-suarez-voluntad-popular1-85734c.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. incluye a Venezuela en su nuevo perímetro de seguridad “Gran América del Norte”",
-      "link": "https://laverdad.com/ee-uu-incluye-a-venezuela-en-su-nuevo-perimetro-de-seguridad-gran-america-del-norte/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Pete-Hegseth.jpg"
+      "title": "León XIV portará la cruz en su primer viacrucis de Viernes Santo en el Coliseo",
+      "link": "https://laverdad.com/leon-xiv-portara-la-cruz-en-su-primer-viacrucis-de-viernes-santo-en-el-coliseo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/02/El-papa-Leon-XIV-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Elliott Abrams califica a Rodríguez Zapatero como una persona \"sin sentido moral\" en el caso venezolano",
-      "link": "https://diarioversionfinal.com/mundo/elliott-abrams-califica-a-rodriguez-zapatero-como-una-persona-sin-sentido-moral-en-el-caso-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Elliott-Abrams-750x430.jpg"
+      "title": "La OEA exige transparencia e independencia en la designación de nuevos Poderes Públicos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/la-oea-exige-transparencia-e-independencia-en-la-designacion-de-nuevos-poderes-publicos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Albert-Ramdin.-Foto-fuente-externa-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-31T15:02:42.553Z"
+  "lastUpdate": "2026-03-31T16:58:22.230Z"
 }
