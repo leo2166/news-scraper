@@ -1,8 +1,8 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "473,87",
-      "eur": "542,64"
+      "usd": "473,92",
+      "eur": "545,95"
     },
     "binance": {
       "usdt": "688,00"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La embajada de EEUU en Venezuela dijo que buscará vincular a empresarios de ambos países",
-      "link": "https://www.infobae.com/venezuela/2026/03/31/la-embajada-de-eeuu-en-venezuela-dijo-que-buscara-vincular-a-empresarios-de-ambos-paises/",
-      "image": "https://www.infobae.com/resizer/v2/YXXJLWNS6NB3VFIHLANJOY3OL4.jpg?auth=0fd9a0cfd0bf75ee50c8d8045eccded48186d8f69806bd199236c6f332746c23&smart=true&width=350&height=197&quality=85"
+      "title": "El gran ojo del régimen: un informe revela cómo opera el sistema que espía a millones de venezolanos",
+      "link": "https://www.infobae.com/venezuela/2026/03/31/el-gran-ojo-del-regimen-un-informe-revela-como-opera-el-sistema-que-espia-a-millones-de-venezolanos/",
+      "image": "https://www.infobae.com/resizer/v2/JEUZCGRDSJAP5P4EAD7LUZAPF4.png?auth=da1cfff597e23fb9b0723e1c325df6cdacc9093effcc6e1be6fbe5064110904e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado se reunió con Marco Rubio: lo que dijo tras el encuentro\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/foto-maria-corina-machado-se-reunio-con-marco-rubio-lo-que-dijo-tras-el-encuentro/",
+      "title": "Recuperación eléctrica en Venezuela requiere hasta 40.000 millones de dólares, según experto\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/03/recuperacion-electrica-en-venezuela-requiere-hasta-40-000-millones-de-dolares-segun-experto/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Los cambiantes objetivos del Gobierno de Trump para la guerra con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/03/31/eeuu/objetivos-cambiantes-trump-guerra-iran-analisis-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267898907-20260331192141974.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que EE.UU. podría terminar la guerra con Irán en 2 o 3 semanas",
+      "link": "https://cnnespanol.cnn.com/2026/03/31/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-9-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/32d740b0-c16d-4684-88a2-0c4dd339ffa0.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "OEA exigió a las autoridades venezolanas garantías en la designación del Fiscal General y del Defensor del Pueblo",
-      "link": "https://noticiasvenevision.com/noticias/politica/oea-exigio-a-las-autoridades-venezolanas-garantias-en-la-designacion-del-fiscal-general-y-del-defensor-del-pueblo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/albert-oea-fc60f3.jpg"
+      "title": "María Corina Machado se reunió con Marco Rubio",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-se-reunio-con-marco-rubio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hewmfeaxiaaxkqs-183432.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACTIVARON PLAN DE AHORRO ENERGÉTICO EN CENTROS COMERCIALES",
-      "link": "https://noticierodigital.com/2026/03/activaron-plan-de-ahorro-energetico-en-centros-comerciales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/centros-comerciales-venezuela-627x376.jpg"
+      "title": "TSJ DECLARÓ PROCEDENTE SOLICITAR A ESPAÑA LA EXTRADICIÓN DE UNA VENEZOLANA",
+      "link": "https://noticierodigital.com/2026/03/tsj-declaro-procedente-solicitar-a-espana-la-extradicion-de-una-venezolana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/tsj-venezuela-3-696x417-1.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Trump asegura que la guerra contra Irán no durará “mucho más tiempo”",
       "link": "https://laverdad.com/trump-asegura-que-la-guerra-contra-iran-no-durara-mucho-mas-tiempo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-6.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-y-el-papa-Leon-XIV-31-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-31T22:34:58.134Z"
+  "lastUpdate": "2026-03-31T23:35:08.122Z"
 };
