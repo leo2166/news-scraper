@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "542,64"
     },
     "binance": {
-      "usdt": "686,00"
+      "usdt": "686,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "León XIV portará la cruz en su primer viacrucis de Viernes Santo en el Coliseo",
-      "link": "https://laverdad.com/leon-xiv-portara-la-cruz-en-su-primer-viacrucis-de-viernes-santo-en-el-coliseo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/El-papa-Leon-XIV-scaled.jpg"
+      "title": "Trump asegura que la guerra contra Irán no durará “mucho más tiempo”",
+      "link": "https://laverdad.com/trump-asegura-que-la-guerra-contra-iran-no-durara-mucho-mas-tiempo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-6.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tensión en Jerusalén: Iglesia denuncia restricciones en el Santo Sepulcro",
-      "link": "https://diarioversionfinal.com/mundo/tension-en-jerusalen-iglesia-denuncia-restricciones-en-el-santo-sepulcro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/186b138903a8f768e645633bf1bb420f-750x430.webp"
+      "title": "La aprobación en Israel de la pena de muerte para palestinos indigna a Europa",
+      "link": "https://diarioversionfinal.com/mundo/la-aprobacion-en-israel-de-la-pena-de-muerte-para-palestinos-indigna-a-europa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AP25286421530945-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-31T19:15:02.100Z"
+  "lastUpdate": "2026-03-31T20:42:45.543Z"
 };
