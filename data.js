@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "542,64"
     },
     "binance": {
-      "usdt": "686,50"
+      "usdt": "689,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "[FOTO] María Corina Machado se reunió con Marco Rubio: lo que dijo tras el encuentro\nVENEZUELA",
+      "title": "María Corina Machado se reunió con Marco Rubio: lo que dijo tras el encuentro\nVENEZUELA",
       "link": "https://www.elnacional.com/2026/03/foto-maria-corina-machado-se-reunio-con-marco-rubio-lo-que-dijo-tras-el-encuentro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Hegseth dice que el \"esfuerzo primordial\" de EE.UU. es para lograr un acuerdo con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/03/31/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-9-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hegseth-345.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los cambiantes objetivos del Gobierno de Trump para la guerra con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/03/31/eeuu/objetivos-cambiantes-trump-guerra-iran-analisis-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267898907-20260331192141974.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +37,22 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/albert-oea-fc60f3.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "EEUU PROHIBIÓ LA PARTICIPACIÓN DE PAÍSES SANCIONADOS EN NEGOCIOS CON VENEZUELA",
+      "link": "https://noticierodigital.com/2026/03/eeuu-prohibio-la-participacion-de-paises-sancionados-en-negocios-con-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/11/departamento_del_tesoro_eeuu_26nov2019-e1602024542647.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Detalle clave permitió el rescate de hermanitos escondidos en selva de Caquetá: así fue operativo",
-      "link": "https://www.noticiascaracol.com/colombia/detalle-clave-permitio-el-rescate-de-hermanitos-escondidos-en-selva-de-caqueta-asi-fue-operativo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d16254b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2Fab%2F5807e8bb4137a5431be7d5b1fc41%2Fsenado-75.jpg"
+      "title": "Las conmovedoras imágenes del rescate de los seis hermanitos escondidos en la selva de Caquetá",
+      "link": "https://www.noticiascaracol.com/colombia/las-conmovedoras-imagenes-del-rescate-de-los-seis-hermanitos-escondidos-en-la-selva-de-caqueta-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c676665/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa8%2Ffe%2Fb53496db4701b45a69c2b8626652%2Fportadas-caracol-web-49.png"
     },
     {
       "source": "La Verdad",
       "title": "Trump asegura que la guerra contra Irán no durará “mucho más tiempo”",
       "link": "https://laverdad.com/trump-asegura-que-la-guerra-contra-iran-no-durara-mucho-mas-tiempo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-6.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/AP25286421530945-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-31T20:42:45.543Z"
+  "lastUpdate": "2026-03-31T21:39:18.163Z"
 };
