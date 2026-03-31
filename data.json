@@ -5,7 +5,7 @@
       "eur": "542,64"
     },
     "binance": {
-      "usdt": "689,35"
+      "usdt": "691,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,13 +14,13 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos dijo que la reapertura de su embajada en Caracas es solo el primer paso del plan de Trump",
-      "link": "https://www.infobae.com/venezuela/2026/03/30/estados-unidos-dijo-que-la-reapertura-de-su-embajada-en-caracas-es-solo-el-primer-paso-del-plan-de-trump/",
-      "image": "https://www.infobae.com/resizer/v2/YXXJLWNS6NB3VFIHLANJOY3OL4.jpg?auth=0fd9a0cfd0bf75ee50c8d8045eccded48186d8f69806bd199236c6f332746c23&smart=true&width=350&height=197&quality=85"
+      "title": "El nuevo ministro de Defensa de Venezuela ordenó a la Guardia Nacional reforzar la vigilancia durante la Semana Santa",
+      "link": "https://www.infobae.com/venezuela/2026/03/31/el-nuevo-ministro-de-defensa-de-venezuela-ordeno-a-la-guardia-nacional-reforzar-la-vigilancia-durante-la-semana-santa/",
+      "image": "https://www.infobae.com/resizer/v2/YKFZNX3JHVDXVAQJ55FSNDKKHI.jpg?auth=c80ff61de4593b5bacf103968ebe96fc83550d53b862d0c6caebd0b4e23f4273&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Encuesta revela que 64% de los venezolanos exigen comicios presidenciales en 2026\nVENEZUELA",
+      "title": "64% de los consultados en encuesta exige comicios presidenciales en Venezuela este año\nVENEZUELA",
       "link": "https://www.elnacional.com/2026/03/encuesta-revela-que-64-de-los-venezolanos-exigen-comicios-presidenciales-en-2026/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alto funcionario del Gobierno portugués llega a Venezuela para reunirse con el canciller Yván Gil",
-      "link": "https://noticiasvenevision.com/noticias/politica/alto-funcionario-del-gobierno-portugues-llegara-a-venezuela-para-reunirse-con-el-canciller-yvan-gil",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/alto-funcionario-del-gobierno-de-portugal-visitara-venezuela-e3319f.jpg"
+      "title": "Alcalde de Baruta celebra retorno de la Embajada de EE. UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/alcalde-de-baruta-celebra-retorno-de-la-embajada-de-ee-uu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/alcalde-de-baruta-darwin-gonzalez-la-alameda-354038-a77c38.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ACOMPAÑÓ A FELIGRESES CARAQUEÑOS Y PIDIÓ POR LA «CONVIVENCIA PACÍFICA»",
-      "link": "https://noticierodigital.com/2026/03/delcy-rodriguez-acompano-a-feligreses-caraquenos-y-pidio-por-la-convivencia-pacifica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/delcy-rodriguez-venezuela-10-627x376.jpg"
+      "title": "OVP DENUNCIÓ EL «TRASLADO INCONSULTO Y ARBITRARIO» DE 70 PRESOS POLÍTICOS A EL RODEO",
+      "link": "https://noticierodigital.com/2026/03/ovp-denuncio-el-traslado-inconsulto-y-arbitrario-de-70-presos-politicos-a-el-rodeo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Centro-Penitenciario-de-Yare-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Vance sigue siendo favorito de los republicanos para suceder a Trump: Rubio recorta distancias",
       "link": "https://laverdad.com/vance-sigue-siendo-favorito-de-los-republicanos-para-suceder-a-trump-rubio-recorta-distancias/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2025/10/JD-Vance-Marco-Rubio.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/karoline-leavitt-white-house-press-secretary-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-03-30T23:35:46.403Z"
+  "lastUpdate": "2026-03-31T02:28:31.136Z"
 }
