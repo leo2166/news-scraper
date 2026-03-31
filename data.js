@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "542,64"
     },
     "binance": {
-      "usdt": "689,00"
+      "usdt": "688,13"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU ubica a Venezuela dentro de la Gran Norteamérica, su mapa estratégico de seguridad\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/03/ee-uu-ubica-a-venezuela-dentro-de-la-gran-norteamerica-su-mapa-estrategico-de-seguridad/",
+      "title": "La OEA pide transparencia en el proceso de elección del fiscal general de Venezuela\nMUNDO",
+      "link": "https://www.elnacional.com/2026/03/la-oea-pide-transparencia-en-el-proceso-de-eleccion-del-fiscal-general-de-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,23 +37,29 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rafael-suarez-voluntad-popular1-85734c.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "Leopoldo López agradece nacionalidad: «España ha significado una patria fuera de la patria»",
+      "link": "https://noticierodigital.com/2026/03/leopoldo-lopez-agradece-nacionalidad-espana-ha-significado-una-patria-fuera-de-la-patria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/leopoldolopez-edmundo.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Giros en el caso de María Camila Díaz: las transacciones millonarias y la captura que da esperanzas",
-      "link": "https://www.noticiascaracol.com/judicial/giros-en-el-caso-de-maria-camila-diaz-las-transacciones-millonarias-y-la-captura-que-da-esperanzas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cff923e/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5a%2Fd7%2F203d15d9404090cfa4555b2976c2%2Ffotos-discover-2026-03-31t085727-883.jpg"
+      "title": "“Le advertí”: hermana de María Camila Díaz, colombiana desaparecida en México, da detalles del caso",
+      "link": "https://www.noticiascaracol.com/judicial/le-adverti-hermana-de-maria-camila-diaz-colombiana-desaparecida-en-mexico-da-detalles-del-caso-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/caebb59/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa4%2F00%2Fffb9d5e94564885e9383d78ff1b2%2Fportadas-caracol-web-46.png"
     },
     {
       "source": "La Verdad",
       "title": "León XIV portará la cruz en su primer viacrucis de Viernes Santo en el Coliseo",
       "link": "https://laverdad.com/leon-xiv-portara-la-cruz-en-su-primer-viacrucis-de-viernes-santo-en-el-coliseo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/El-papa-Leon-XIV-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La OEA exige transparencia e independencia en la designación de nuevos Poderes Públicos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/la-oea-exige-transparencia-e-independencia-en-la-designacion-de-nuevos-poderes-publicos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Albert-Ramdin.-Foto-fuente-externa-750x430.webp"
+      "title": "Irán amenaza con ataques a infraestructura civil de Apple y Google en Oriente Medio",
+      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-con-ataques-a-infraestructura-civil-de-apple-y-google-en-oriente-medio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/03/Apple-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-03-31T16:58:22.230Z"
+  "lastUpdate": "2026-03-31T17:59:36.001Z"
 };
