@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "473,92",
-      "eur": "545,95"
+      "usd": "474,06",
+      "eur": "550,90"
     },
     "binance": {
-      "usdt": "683,40"
+      "usdt": "687,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,34 +32,34 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jefe del Comando Sur dice que EE.UU. busca garantizar seguridad y oportunidades para Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/jefe-del-comando-sur-dice-que-eeuu-busca-garantizar-seguridad-y-oportunidades-para-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/156076da27e6f48fc3f17067257d71b30e231d95w-bc0a56.jpg"
+      "title": "Delcy Rodríguez confía en que su retiro de la lista de sancionados abra paso al fin del bloqueo de EE. UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-confia-en-que-su-retiro-de-la-lista-de-sancionados-abra-paso-al-fin-del-bloqueo-de-ee-uu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/06_zc__6352_p-scaled-e1772237723274-2048x1616-3bb45a-7960e1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "METRO DE CARACAS ACTIVA LA «RUTA PLAYERA» POR SEMANA SANTA",
-      "link": "https://noticierodigital.com/2026/04/metro-de-caracas-activa-la-ruta-playera-por-semana-santa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/metrobus-venezuela-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ APOSTÓ POR LA NORMALIZACIÓN DE LAS RELACIONES CON EE. UU.",
+      "link": "https://noticierodigital.com/2026/04/delcy-rodriguez-aposto-por-la-normalizacion-de-las-relaciones-con-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-3-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO lanzamiento de Artemis II, de la Nasa, a la órbita de la Luna: astronautas se ponen trajes",
-      "link": "https://www.noticiascaracol.com/mundo/en-vivo-lanzamiento-artemis-2-de-la-nasa-a-la-orbita-de-la-luna",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/59f28b0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F16%2F46%2Fa8c6a1bd4f45ad32a020a96f7cf6%2Fartemis-2.jpg"
+      "title": "Se conoce video del momento del accidente en la vía Zipaquirá-Ubaté: cámara de un carro lo registró",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/se-conoce-video-del-momento-del-accidente-en-la-via-zipaquira-ubate-camara-de-un-carro-lo-registro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f79a129/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0a%2F1d%2Ffb5ff23842869aea2ad27dce7085%2Faccidente-zipaquira.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Astronautas de Artemis II llegan a la plataforma de lanzamiento",
       "link": "https://laverdad.com/astronautas-de-artemis-ii-llegan-a-la-plataforma-de-lanzamiento/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Astronautas-Artemis.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La misión Artemis II se prepara para su histórico viaje tripulado alrededor de la Luna",
-      "link": "https://diarioversionfinal.com/mundo/la-mision-artemis-ii-se-prepara-para-su-historico-viaje-tripulado-alrededor-de-la-luna/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/000_A69V4P6-750x430.jpg"
+      "title": "Irán advierte a israelíes que se refugien tras fin del plazo para atacar empresas estadounidenses",
+      "link": "https://diarioversionfinal.com/mundo/iran-advierte-a-israelies-que-se-refugien-tras-fin-del-plazo-para-atacar-empresas-estadounidenses/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2079-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-01T20:44:01.279Z"
+  "lastUpdate": "2026-04-01T21:42:13.393Z"
 }
