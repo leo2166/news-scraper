@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "545,95"
     },
     "binance": {
-      "usdt": "680,00"
+      "usdt": "687,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Marco Rubio pide paciencia para lograr el proceso de transición y de elecciones libres en Venezuela\nMUNDO",
+      "title": "Marco Rubio sobre la transición democrática de Venezuela: \"Tenemos que ser pacientes pero tampoco podemos ser complacientes\"\nMUNDO",
       "link": "https://www.elnacional.com/2026/04/marco-rubio-pide-paciencia-para-lograr-el-proceso-de-transicion-y-de-elecciones-libres-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump sugiere que EE.UU. está considerando abandonar la OTAN",
-      "link": "https://cnnespanol.cnn.com/2026/03/31/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-9-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/32d740b0-c16d-4684-88a2-0c4dd339ffa0.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que EE.UU. está evaluando abandonar la OTAN",
+      "link": "https://cnnespanol.cnn.com/2026/04/01/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-10-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260401104102584.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Donald Trump afirma que Estados Unidos saldrá de Irán \"muy pronto\", ¿un nuevo giro en su postura?",
-      "link": "https://www.noticiascaracol.com/mundo/donald-trump-afirma-que-estados-unidos-saldra-de-iran-muy-pronto-un-nuevo-giro-en-su-postura-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a0d0128/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2F9e%2Ffb4b0410480aa1d20590bfe90b37%2Ftrump-contempla-tomar-el-petroleo-de-iran-y-no-descarta-apoderarse-de-la-isla-de-jarg.jpg"
+      "title": "Lo que se sabe de explosión en vía Zipaquirá-Ubaté: Gobernador de Cundinamarca explica las causas",
+      "link": "https://www.noticiascaracol.com/colombia/lo-que-se-sabe-de-explosion-en-via-zipaquira-ubate-gobernador-de-cundinamarca-explica-las-causas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/59e0b00/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1c%2F18%2Fc3285593407d9507ab3a0f28670d%2Flo-que-se-sabe-de-explosion-en-via-zipaquira-ubate-gobernador-de-cundinamarca-explica-las-causas.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Trump asegura que la guerra contra Irán no durará “mucho más tiempo”",
       "link": "https://laverdad.com/trump-asegura-que-la-guerra-contra-iran-no-durara-mucho-mas-tiempo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-6.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba refinará crudo ruso del barco Anatoli Kolodkin para satisfacer \"necesidades críticas\"",
-      "link": "https://diarioversionfinal.com/mundo/cuba-refinara-crudo-ruso-del-barco-anatoli-kolodkin-para-satisfacer-necesidades-criticas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1774178351-petrolero-ruso-anatoly-kolodkin-700000-barriles-crudo-continua-rumbo-cuba-pese-sanciones-750x430.jpg"
+      "title": "\"Siempre supe que era un tigre de papel\": Trump se decanta por abandonar la OTAN",
+      "link": "https://diarioversionfinal.com/mundo/siempre-supe-que-era-un-tigre-de-papel-trump-se-decanta-por-abandonar-la-otan/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-8.37.27-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-01T10:57:18.063Z"
+  "lastUpdate": "2026-04-01T11:55:27.229Z"
 };
