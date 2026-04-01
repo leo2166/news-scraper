@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "687,00"
+      "usdt": "685,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos levantó las sanciones contra Delcy Rodríguez, presidenta encargada de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/01/estados-unidos-levanto-las-sanciones-contra-delcy-rodriguez-presidenta-encargada-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/MQQ5NDA2B5DIZNLCO7FNCTASFY.jpg?auth=ee92036cf68c13151764aace1ebeaa5c4c71328bf50159ff8e38bfba33fb1d4e&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela multiplica sus envíos de crudo a India y alcanza su mayor nivel de exportaciones desde 2019",
+      "link": "https://www.infobae.com/venezuela/2026/04/01/venezuela-multiplica-sus-envios-de-crudo-a-india-y-alcanza-su-mayor-nivel-de-exportaciones-desde-2019/",
+      "image": "https://www.infobae.com/resizer/v2/EVPN2ZIKVVHCFOO3INAGQPIGQM.JPG?auth=c4d09b6891891f51465bbf0b507472d4f184527ddcee49cc10ba3bdb734a4307&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. levanta las sanciones contra Delcy Rodríguez",
-      "link": "https://cnnespanol.cnn.com/2026/04/01/venezuela/eeuu-levanta-sanciones-delcy-rodriguez-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/d45aadee2fa2e7bbf2ff44bc04297a09ae95b44f-20260326020509073.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¡Despega la histórica misión Artemis II rumbo a la Luna!",
+      "link": "https://cnnespanol.cnn.com/2026/04/01/ciencia/live-news/noticias-mision-artemis-ii-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maxresdefault-20260401221618548.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez confía en que su retiro de la lista de sancionados abra paso al fin del bloqueo de EE. UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-confia-en-que-su-retiro-de-la-lista-de-sancionados-abra-paso-al-fin-del-bloqueo-de-ee-uu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/06_zc__6352_p-scaled-e1772237723274-2048x1616-3bb45a-7960e1.jpg"
+      "title": "Embajada de EE. UU. en Venezuela comparte mensaje de Marco Rubio sobre el futuro de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-en-venezuela-comparte-mensaje-de-marco-rubio-sobre-el-futuro-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6ff32cfabadfec3d272aeee7364bf01bc87c0d41w-9e1172.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ APOSTÓ POR LA NORMALIZACIÓN DE LAS RELACIONES CON EE. UU.",
-      "link": "https://noticierodigital.com/2026/04/delcy-rodriguez-aposto-por-la-normalizacion-de-las-relaciones-con-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-3-1-627x376.jpg"
+      "title": "CONSECOMERCIO EXIGIÓ DESCENTRALIZACIÓN Y MENOR PRESIÓN FISCAL",
+      "link": "https://noticierodigital.com/2026/04/consecomercio-exigio-descentralizacion-y-menor-presion-fiscal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/consecomercio-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@
       "source": "La Verdad",
       "title": "Astronautas de Artemis II llegan a la plataforma de lanzamiento",
       "link": "https://laverdad.com/astronautas-de-artemis-ii-llegan-a-la-plataforma-de-lanzamiento/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Astronautas-Artemis.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán advierte a israelíes que se refugien tras fin del plazo para atacar empresas estadounidenses",
-      "link": "https://diarioversionfinal.com/mundo/iran-advierte-a-israelies-que-se-refugien-tras-fin-del-plazo-para-atacar-empresas-estadounidenses/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2079-750x430.jpeg"
+      "title": "Talento venezolano dice presente en la misión Artemis II hacia la luna",
+      "link": "https://diarioversionfinal.com/mundo/talento-venezolano-dice-presente-en-la-mision-artemis-ii-hacia-la-luna/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2080-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-01T21:42:13.393Z"
+  "lastUpdate": "2026-04-01T22:38:23.945Z"
 }
