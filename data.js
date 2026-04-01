@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "545,95"
     },
     "binance": {
-      "usdt": "680,90"
+      "usdt": "683,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela rechazó la petición de la OEA respecto a la elección del fiscal general y el defensor del pueblo",
-      "link": "https://www.infobae.com/venezuela/2026/04/01/venezuela-rechazo-la-peticion-de-la-oea-respecto-a-la-eleccion-del-fiscal-general-y-el-defensor-del-pueblo/",
-      "image": "https://www.infobae.com/resizer/v2/JY2QL2PPAVHGZB7QRXTY6JGMFA.jpg?auth=b661638d6dfa8b4a6391bd4ae28867a339d4533c4be5d45d81ef5ad4dd67c5af&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos levantó las sanciones contra Delcy Rodríguez, presidenta encargada de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/01/estados-unidos-levanto-las-sanciones-contra-delcy-rodriguez-presidenta-encargada-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/MQQ5NDA2B5DIZNLCO7FNCTASFY.jpg?auth=ee92036cf68c13151764aace1ebeaa5c4c71328bf50159ff8e38bfba33fb1d4e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "EE UU permite a empresas extranjeras operar con petróleo de Venezuela bajo estrictas condiciones\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/ee-uu-permite-a-empresas-extranjeras-operar-con-petroleo-de-venezuela-bajo-estrictas-condiciones/",
+      "title": "EE UU levanta las sanciones contra Delcy Rodríguez\nMUNDO",
+      "link": "https://www.elnacional.com/2026/04/ee-uu-levanta-las-sanciones-contra-delcy-rodriguez/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Corte Suprema cuestiona el decreto de Trump sobre ciudadanía por nacimiento",
-      "link": "https://cnnespanol.cnn.com/2026/04/01/eeuu/live-news/ciudadania-por-nacimiento-corte-suprema-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/birthright-20260401143229088.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. levanta las sanciones contra Delcy Rodríguez",
+      "link": "https://cnnespanol.cnn.com/2026/04/01/venezuela/eeuu-levanta-sanciones-delcy-rodriguez-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/d45aadee2fa2e7bbf2ff44bc04297a09ae95b44f-20260326020509073.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "REUTERS: DELCY RODRÍGUEZ SE PREPARA PARA TOMAR CONTROL DE CITGO",
-      "link": "https://noticierodigital.com/2026/04/reuters-delcy-rodriguez-se-prepara-para-tomar-control-de-citgo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/citgo-estados-unidos.jpg"
+      "title": "METRO DE CARACAS ACTIVA LA «RUTA PLAYERA» POR SEMANA SANTA",
+      "link": "https://noticierodigital.com/2026/04/metro-de-caracas-activa-la-ruta-playera-por-semana-santa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/metrobus-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Migrantes venezolanos están atrapados en Miami: “Queremos irnos y no podemos”",
-      "link": "https://laverdad.com/migrantes-venezolanos-estan-atrapados-en-miami-queremos-irnos-y-no-podemos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Astronautas de Artemis II llegan a la plataforma de lanzamiento",
+      "link": "https://laverdad.com/astronautas-de-artemis-ii-llegan-a-la-plataforma-de-lanzamiento/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Astronautas-Artemis.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/000_A69V4P6-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-01T19:03:12.289Z"
+  "lastUpdate": "2026-04-01T20:44:01.279Z"
 };
