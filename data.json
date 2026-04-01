@@ -5,7 +5,7 @@
       "eur": "545,95"
     },
     "binance": {
-      "usdt": "680,00"
+      "usdt": "680,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado se reunió con Marco Rubio",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-se-reunio-con-marco-rubio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hewmfeaxiaaxkqs-183432.jpg"
+      "title": "Jefe del Comando Sur dice que EE.UU. busca garantizar seguridad y oportunidades para Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/jefe-del-comando-sur-dice-que-eeuu-busca-garantizar-seguridad-y-oportunidades-para-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/156076da27e6f48fc3f17067257d71b30e231d95w-bc0a56.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHINA ACUSÓ A EE .UU. DE INTERFERIR EN SU RELACIÓN CON VENEZUELA ",
-      "link": "https://noticierodigital.com/2026/04/china-acuso-a-ee-uu-de-interferir-en-su-relacion-con-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/10/china-sanciones.jpg"
+      "title": "REUTERS: DELCY RODRÍGUEZ SE PREPARA PARA TOMAR CONTROL DE CITGO",
+      "link": "https://noticierodigital.com/2026/04/reuters-delcy-rodriguez-se-prepara-para-tomar-control-de-citgo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/citgo-estados-unidos.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Clara López renunciaría a candidatura a la Presidencia para sumarse a la campaña de Iván Cepeda",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/clara-lopez-renunciaria-a-candidatura-a-la-presidencia-para-sumarse-a-la-campana-de-ivan-cepeda-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4a32057/2147483647/strip/true/crop/1276x720+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd3%2F96%2F59cb4bcf41fa979291afc44baf6a%2Fsenado-84.jpg"
+      "title": "EN VIVO lanzamiento de Artemis II, de la Nasa, a la órbita de la Luna: astronautas se ponen trajes",
+      "link": "https://www.noticiascaracol.com/mundo/en-vivo-lanzamiento-artemis-2-de-la-nasa-a-la-orbita-de-la-luna",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/59f28b0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F16%2F46%2Fa8c6a1bd4f45ad32a020a96f7cf6%2Fartemis-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán niega haber pedido un alto el fuego a EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/iran-niega-haber-pedido-un-alto-el-fuego-a-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/20251219_040325414_Irxn_niega_acuerdo_de_alto_el_fuego_con_Israel-0.jpg_1849050693-750x430.webp"
+      "title": "La misión Artemis II se prepara para su histórico viaje tripulado alrededor de la Luna",
+      "link": "https://diarioversionfinal.com/mundo/la-mision-artemis-ii-se-prepara-para-su-historico-viaje-tripulado-alrededor-de-la-luna/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/000_A69V4P6-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-01T17:52:33.012Z"
+  "lastUpdate": "2026-04-01T19:03:12.289Z"
 }
