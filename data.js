@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "545,95"
     },
     "binance": {
-      "usdt": "688,69"
+      "usdt": "688,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Trump asegura que la guerra contra Irán no durará “mucho más tiempo”",
       "link": "https://laverdad.com/trump-asegura-que-la-guerra-contra-iran-no-durara-mucho-mas-tiempo/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Donald-Trump-6.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que guerra con Irán podría terminar en dos o tres semanas",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-guerra-con-iran-podria-terminar-en-dos-o-tres-semanas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
+      "title": "Cuba refinará crudo ruso del barco Anatoli Kolodkin para satisfacer \"necesidades críticas\"",
+      "link": "https://diarioversionfinal.com/mundo/cuba-refinara-crudo-ruso-del-barco-anatoli-kolodkin-para-satisfacer-necesidades-criticas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/1774178351-petrolero-ruso-anatoly-kolodkin-700000-barriles-crudo-continua-rumbo-cuba-pese-sanciones-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-01T02:39:12.597Z"
+  "lastUpdate": "2026-04-01T05:24:56.045Z"
 };
