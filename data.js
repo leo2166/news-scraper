@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "545,95"
     },
     "binance": {
-      "usdt": "681,00"
+      "usdt": "679,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,19 +14,19 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La moneda de Venezuela se devaluó un 36% frente al dólar estadounidense en el primer trimestre de 2026",
-      "link": "https://www.infobae.com/venezuela/2026/04/01/la-moneda-de-venezuela-se-devaluo-un-36-frente-al-dolar-estadounidense-en-el-primer-trimestre-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/KXTPQ3MFGFBCDCHNMHTY3JP72U.JPG?auth=dd56c8fe761b181030839429470a92425a5cabc2103bc6871609c5958ff5d240&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela rechazó la petición de la OEA respecto a la elección del fiscal general y el defensor del pueblo",
+      "link": "https://www.infobae.com/venezuela/2026/04/01/venezuela-rechazo-la-peticion-de-la-oea-respecto-a-la-eleccion-del-fiscal-general-y-el-defensor-del-pueblo/",
+      "image": "https://www.infobae.com/resizer/v2/JY2QL2PPAVHGZB7QRXTY6JGMFA.jpg?auth=b661638d6dfa8b4a6391bd4ae28867a339d4533c4be5d45d81ef5ad4dd67c5af&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Trump afirma que el presidente de Irán pidió un alto el fuego que considerará si se abre Ormuz\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/trump-afirma-que-el-presidente-de-iran-pidio-un-alto-el-fuego-que-considerara-si-se-abre-ormuz/",
+      "title": "Miles de fieles veneran al Nazareno de San Pablo en Caracas\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/miles-de-fieles-veneran-al-nazareno-de-san-pablo-en-caracas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump llega a la Corte Suprema por debate sobre ciudadanía por nacimiento",
+      "title": "Corte Suprema cuestiona el decreto de Trump sobre ciudadanía por nacimiento",
       "link": "https://cnnespanol.cnn.com/2026/04/01/eeuu/live-news/ciudadania-por-nacimiento-corte-suprema-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/birthright-20260401143229088.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESPAÑA ELIMINA LA REGULARIZACIÓN EXPRÉS PARA VENEZOLANOS",
-      "link": "https://noticierodigital.com/2026/04/espana-elimina-la-regularizacion-expres-para-venezolanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/venezuela-venezolanos-espana-627x376.jpg"
+      "title": "CHINA ACUSÓ A EE .UU. DE INTERFERIR EN SU RELACIÓN CON VENEZUELA ",
+      "link": "https://noticierodigital.com/2026/04/china-acuso-a-ee-uu-de-interferir-en-su-relacion-con-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/10/china-sanciones.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La hipótesis sobre la causa del accidente e incendio en vía Zipaquirá-Ubaté: gobernador da detalles",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/la-hipotesis-sobre-la-causa-del-accidente-e-incendio-en-via-zipaquira-ubate-gobernador-da-detalles-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ce6080/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fba%2F2e%2F2e05b42644ad88ee8ea03099074f%2Fportadas-caracol-web-57.png"
+      "title": "Clara López renunciaría a candidatura a la Presidencia para sumarse a la campaña de Iván Cepeda",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/clara-lopez-renunciaria-a-candidatura-a-la-presidencia-para-sumarse-a-la-campana-de-ivan-cepeda-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4a32057/2147483647/strip/true/crop/1276x720+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd3%2F96%2F59cb4bcf41fa979291afc44baf6a%2Fsenado-84.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "España elimina la regularización exprés para venezolanos",
-      "link": "https://laverdad.com/espana-elimina-la-regularizacion-expres-para-venezolanos/",
+      "title": "Irán niega haber solicitado un alto el fuego como asegura Trump",
+      "link": "https://laverdad.com/iran-niega-haber-solicitado-un-alto-el-fuego-como-asegura-trump/",
       "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rusia capacitó a influencers y periodistas venezolanos para desinformar en Latinoamérica",
-      "link": "https://diarioversionfinal.com/mundo/rusia-capacito-a-influencers-y-periodistas-venezolanos-para-desinformar-en-latinoamerica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/07/periodistas-750x430.jpg"
+      "title": "Reino Unido preside reunión de 35 países para garantizar apertura del estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/reino-unido-preside-reunion-de-35-paises-para-garantizar-apertura-del-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/reino-unido-organizara-una-reunion-con-lideres-para-evaluar-medidas-para-reabrir-ormuz-58588-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-01T15:04:45.014Z"
+  "lastUpdate": "2026-04-01T16:56:11.120Z"
 };
