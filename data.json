@@ -5,7 +5,7 @@
       "eur": "545,95"
     },
     "binance": {
-      "usdt": "683,00"
+      "usdt": "681,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "Marco Rubio sobre la transición democrática de Venezuela: \"Tenemos que ser pacientes pero tampoco podemos ser complacientes\"\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/marco-rubio-pide-paciencia-para-lograr-el-proceso-de-transicion-y-de-elecciones-libres-en-venezuela/",
+      "title": "Trump afirma que el presidente de Irán pidió un alto el fuego que considerará si se abre Ormuz\nMUNDO",
+      "link": "https://www.elnacional.com/2026/04/trump-afirma-que-el-presidente-de-iran-pidio-un-alto-el-fuego-que-considerara-si-se-abre-ormuz/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que EE.UU. está evaluando abandonar la OTAN",
-      "link": "https://cnnespanol.cnn.com/2026/04/01/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-10-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260401104102584.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump llega a la Corte Suprema por debate sobre ciudadanía por nacimiento",
+      "link": "https://cnnespanol.cnn.com/2026/04/01/eeuu/live-news/ciudadania-por-nacimiento-corte-suprema-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/birthright-20260401143229088.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN PABLO GUANIPA RESALTÓ EL «TRABAJO EN EQUIPO» DE LA OPOSICIÓN DENTRO Y FUERA DEL PAÍS",
-      "link": "https://noticierodigital.com/2026/03/juan-pablo-guanipa-resalto-el-trabajo-en-equipo-de-la-oposicion-dentro-y-fuera-del-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/juan-pablo-guanipa-627x376.jpg"
+      "title": "ESPAÑA ELIMINA LA REGULARIZACIÓN EXPRÉS PARA VENEZOLANOS",
+      "link": "https://noticierodigital.com/2026/04/espana-elimina-la-regularizacion-expres-para-venezolanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/venezuela-venezolanos-espana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Lo que se sabe de explosión en vía Zipaquirá-Ubaté: Gobernador de Cundinamarca explica las causas",
-      "link": "https://www.noticiascaracol.com/colombia/lo-que-se-sabe-de-explosion-en-via-zipaquira-ubate-gobernador-de-cundinamarca-explica-las-causas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/59e0b00/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1c%2F18%2Fc3285593407d9507ab3a0f28670d%2Flo-que-se-sabe-de-explosion-en-via-zipaquira-ubate-gobernador-de-cundinamarca-explica-las-causas.jpg"
+      "title": "La hipótesis sobre la causa del accidente e incendio en vía Zipaquirá-Ubaté: gobernador da detalles",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/la-hipotesis-sobre-la-causa-del-accidente-e-incendio-en-via-zipaquira-ubate-gobernador-da-detalles-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ce6080/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fba%2F2e%2F2e05b42644ad88ee8ea03099074f%2Fportadas-caracol-web-57.png"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV pide rezar en Semana Santa “por las víctimas inocentes de la guerra”",
-      "link": "https://laverdad.com/leon-xiv-pide-rezar-en-semana-santa-por-las-victimas-inocentes-de-la-guerra/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-Miercoles-Santo.jpg"
+      "title": "España elimina la regularización exprés para venezolanos",
+      "link": "https://laverdad.com/espana-elimina-la-regularizacion-expres-para-venezolanos/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Papa León XIV retoma la tradición en San Juan de Letrán para su primera Semana Santa",
-      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-retoma-la-tradicion-en-san-juan-de-letran-para-su-primera-semana-santa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/papa-leon-xiv-en-audiencia-general-del-13-de-agosto-01-750x430.jpg"
+      "title": "Rusia capacitó a influencers y periodistas venezolanos para desinformar en Latinoamérica",
+      "link": "https://diarioversionfinal.com/mundo/rusia-capacito-a-influencers-y-periodistas-venezolanos-para-desinformar-en-latinoamerica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/07/periodistas-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-01T13:23:50.277Z"
+  "lastUpdate": "2026-04-01T15:04:45.014Z"
 }
