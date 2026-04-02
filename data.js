@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump destacó la alianza energética de EEUU con Venezuela: “Ahora estamos trabajando codo con codo”",
-      "link": "https://www.infobae.com/venezuela/2026/04/02/donald-trump-destaco-la-alianza-energetica-de-eeuu-con-venezuela-ahora-estamos-trabajando-codo-con-codo/",
-      "image": "https://www.infobae.com/resizer/v2/GW7A5V5PMBDIZH3PGHHEM2SHXY.JPG?auth=64503d2154afad2f191e86d6141aa6c72a8180db44b59e18ace34e63b27e0533&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de presos políticos en Venezuela realizaron un viacrucis en las afueras del penal El Rodeo I",
+      "link": "https://www.infobae.com/venezuela/2026/04/02/familiares-de-presos-politicos-en-venezuela-realizaron-un-viacrucis-en-las-afueras-del-penal-el-rodeo-i/",
+      "image": "https://www.infobae.com/resizer/v2/5I4UKPJP6NDJZMIDL7UASYWYAE.jpg?auth=e630c7b836eb0e551938757d12883156cf29a48cdfb1ddf7ad4be94488f9ba39&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "La lucha de María Corina Machado por romper el pragmatismo de Trump\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-y-delcy-rodriguez-protagonizan-debates-sobre-futuro-de-venezuela-en-ee-uu/",
+      "title": "Trump asegura que la guerra con Irán acabará en tres semanas: \"Los objetivos están cerca de ser completados\"\nMUNDO",
+      "link": "https://www.elnacional.com/2026/04/trump-asegura-que-la-guerra-acabara-en-tres-semanas-y-que-esta-cerca-de-completarla/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_PETROLEO-EXTRAPESADO.jpg"
     }
   ],
-  "lastUpdate": "2026-04-02T10:06:24.904Z"
+  "lastUpdate": "2026-04-02T11:45:19.481Z"
 };
