@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "684,10"
+      "usdt": "682,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Trump dice que la guerra con Irán está \"cerca de concluir\"",
       "link": "https://cnnespanol.cnn.com/2026/04/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-11-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2268831911.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2268831911.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "WILMER RUPERTI REAPARECE EN REDES SOCIALES LUEGO DE MÁS DE UNA SEMANA DETENIDO ",
-      "link": "https://noticierodigital.com/2026/04/wilmer-ruperti-reaparece-en-redes-sociales-luego-de-mas-de-una-semana-detenido/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/Diseno-sin-titulo-26-627x376.jpg"
+      "title": "MINISTERIO DE SALUD ANUNCIA UN PLAN PARA LA RECUPERACIÓN «INTEGRAL» DE LOS HOSPITALES",
+      "link": "https://noticierodigital.com/2026/04/ministerio-de-salud-anuncia-un-plan-para-la-recuperacion-integral-de-los-hospitales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/03/emergencia-hospital-venezuela.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump asegura que la guerra acabará en 3 semanas y que está “cerca de completarla”",
-      "link": "https://laverdad.com/trump-asegura-que-la-guerra-acabara-en-3-semanas-y-que-esta-cerca-de-completarla/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Donald-Trump-discurso-a-la-nacion.jpg"
+      "title": "Convivir con el autismo: cómo entender un cerebro que “funciona de forma diferente”",
+      "link": "https://laverdad.com/convivir-con-el-autismo-como-entender-un-cerebro-que-funciona-de-forma-diferente/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Autismo-1-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "León XIV llama a la Iglesia a alejarse del poder y la prepotencia en su primer Jueves Santo",
-      "link": "https://diarioversionfinal.com/mundo/leon-xiv-llama-a-la-iglesia-a-alejarse-del-poder-y-la-prepotencia-en-su-primer-jueves-santo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/foto-papa-leon-xiv-111878-750x430.jpg"
+      "title": "Trump amenaza con retirar a EE. UU. de la OTAN y la califica de “tigre de papel”",
+      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-con-retirar-a-ee-uu-de-la-otan-y-la-califica-de-tigre-de-papel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/17750378938046.webp"
     }
   ],
-  "lastUpdate": "2026-04-02T14:56:27.093Z"
+  "lastUpdate": "2026-04-02T16:02:48.434Z"
 };
