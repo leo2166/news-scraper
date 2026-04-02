@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_658730749_18450423706106934_6134309889341130179_n-82477a.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "SOCIEDAD CIVIL HIZO UN «VIACRUCIS» EN EL CEMENTERIO PARA EXPONER DENUNCIAS",
+      "link": "https://noticierodigital.com/2026/04/sociedad-civil-hizo-un-viacrucis-en-el-cementerio-para-exponer-denuncias/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Trump despide a su fiscal general, Pam Bondi, tras gestión de archivos Epstein e investigaciones",
       "link": "https://www.noticiascaracol.com/mundo/trump-despide-a-su-fiscal-general-pam-bondi-tras-gestion-de-archivos-epstein-e-investigaciones-cb20",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Wall Street cae tras anuncio de Trump sobre ofensiva en Irán",
-      "link": "https://diarioversionfinal.com/mundo/wall-street-cae-tras-anuncio-de-trump-sobre-ofensiva-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WALL-STREET-11-750x430.webp"
+      "title": "Jueza ordena restituir permisos de trabajo a migrantes afectados por CBP One",
+      "link": "https://diarioversionfinal.com/mundo/jueza-ordena-restituir-permisos-de-trabajo-a-migrantes-afectados-por-cbp-one/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/confusion-usuarios-cbp-one-abandonar-eeuu-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-02T20:35:57.881Z"
+  "lastUpdate": "2026-04-02T21:38:25.914Z"
 };
