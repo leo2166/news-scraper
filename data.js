@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "684,00"
+      "usdt": "684,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PLATAFORMA PATRIA INCORPORA OPCIÓN PARA VERIFICAR DATOS CADA SEIS MESES ",
-      "link": "https://noticierodigital.com/2026/04/plataforma-patria-incorpora-opcion-para-verificar-datos-cada-seis-meses/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/sistema-patria-androide-telefono-semaforo-acceso-8oct2021.jpg"
+      "title": "SOCIEDAD CIVIL HIZO UN «VIACRUCIS» EN EL CEMENTERIO PARA EXPONER DENUNCIAS",
+      "link": "https://noticierodigital.com/2026/04/sociedad-civil-hizo-un-viacrucis-en-el-cementerio-para-exponer-denuncias/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump destituye a la fiscal general, Pam Bondi",
-      "link": "https://laverdad.com/trump-destituye-a-la-fiscal-general-pam-bondi/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Pam-Bondi.jpg"
+      "title": "Fiscal Karim Khan podría volver a la CPI",
+      "link": "https://laverdad.com/fiscal-karim-khan-podria-volver-a-la-cpi/",
+      "image": "https://laverdad.com/wp-content/uploads/2024/11/01-header-Karim-Khan-ICC.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Buque con combustible ruso cambia rumbo y descarga en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/buque-con-combustible-ruso-cambia-rumbo-y-descarga-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/NJZZKNHDVBKW7KWYXBSQGMXYY4.avif"
+      "title": "Wall Street cae tras anuncio de Trump sobre ofensiva en Irán",
+      "link": "https://diarioversionfinal.com/mundo/wall-street-cae-tras-anuncio-de-trump-sobre-ofensiva-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WALL-STREET-11-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-02T18:57:42.710Z"
+  "lastUpdate": "2026-04-02T19:52:23.864Z"
 };
