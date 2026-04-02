@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que la guerra con Irán está \"cerca de concluir\" en un discurso a la nación",
+      "title": "Trump dice que la guerra con Irán está \"cerca de concluir\"",
       "link": "https://cnnespanol.cnn.com/2026/04/01/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-10-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-discurso-20260402011332066.png?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Astronautas de Artemis II llegan a la plataforma de lanzamiento",
       "link": "https://laverdad.com/astronautas-de-artemis-ii-llegan-a-la-plataforma-de-lanzamiento/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Astronautas-Artemis.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/descarga-3-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-02T05:03:10.730Z"
+  "lastUpdate": "2026-04-02T07:13:49.375Z"
 };
