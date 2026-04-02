@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "686,99"
+      "usdt": "686,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,34 +26,40 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La NASA lanzó la histórica misión tripulada Artemis II hacia la Luna",
-      "link": "https://cnnespanol.cnn.com/2026/04/01/ciencia/live-news/noticias-mision-artemis-ii-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ateneaarg.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump dice que la guerra con Irán está \"cerca de concluir\" en un discurso a la nación",
+      "link": "https://cnnespanol.cnn.com/2026/04/01/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-10-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-discurso-20260402011332066.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE. UU. en Venezuela comparte mensaje de Marco Rubio sobre el futuro de Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-en-venezuela-comparte-mensaje-de-marco-rubio-sobre-el-futuro-de-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6ff32cfabadfec3d272aeee7364bf01bc87c0d41w-9e1172.jpg"
+      "title": "Viceministro Oliver Blanco anuncia reuniones con funcionarios de Administración Trump",
+      "link": "https://noticiasvenevision.com/noticias/politica/viceministro-oliver-blanco-anuncia-reuniones-con-funcionarios-de-administracion-trump",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_657600300_18580007434014700_4506821560510253782_n-db15e0.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "INDIA DESPLAZA A CHINA Y SE CONVIERTE EN EL MAYOR COMPRADOR DE CRUDO VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/04/india-desplaza-a-china-y-se-convierte-en-el-mayor-comprador-de-crudo-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/04/petroleo-venezuela-chevron-21abr2020.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO lanzamiento Artemis II, de Nasa, a la Luna: nave alcanza la órbita de la Tierra",
-      "link": "https://www.noticiascaracol.com/mundo/en-vivo-lanzamiento-artemis-2-de-la-nasa-a-la-orbita-de-la-luna",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ab2c301/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fac%2Fb1%2F0d97651049e2b02be2a1090d9949%2Fartemis-2-8.jpg"
+      "title": "Reportan accidente de tránsito en vía Bogotá - La Vega en la noche de este miércoles: bus se volcó",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/accidente-de-transito-en-la-via-bogota-la-vega-en-la-noche-de-este-miercoles-1-de-abril-reportan-que-bus-se-volco-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5505bfa/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F57%2F0a%2F84b6078f442ca77885f33807dab4%2Fdiseno-4.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Astronautas de Artemis II llegan a la plataforma de lanzamiento",
       "link": "https://laverdad.com/astronautas-de-artemis-ii-llegan-a-la-plataforma-de-lanzamiento/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Astronautas-Artemis.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Talento venezolano dice presente en la misión Artemis II hacia la luna",
-      "link": "https://diarioversionfinal.com/mundo/talento-venezolano-dice-presente-en-la-mision-artemis-ii-hacia-la-luna/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2080-750x430.png"
+      "title": "¡Artemis II despega con éxito! La humanidad de Misión en la Luna 54 años después",
+      "link": "https://diarioversionfinal.com/mundo/artemis-ii-despega-con-exito-la-humanidad-de-mision-en-la-luna-54-anos-despues/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-8.31.28-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-01T23:36:49.260Z"
+  "lastUpdate": "2026-04-02T02:24:52.394Z"
 }
