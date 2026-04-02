@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Inversores que llegan a Venezuela se preparan para asumir riesgos con optimismo, según WSJ\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/inversores-que-llegan-a-venezuela-se-preparan-para-asumir-riesgos-con-optimismo-segun-wsj/",
+      "title": "¿Quiénes son los funcionarios que siguen bajo el cerco de la OFAC?\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/quienes-son-los-funcionarios-que-siguen-bajo-el-cerco-de-la-ofac/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Fiscal Karim Khan podría volver a la CPI",
       "link": "https://laverdad.com/fiscal-karim-khan-podria-volver-a-la-cpi/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/11/01-header-Karim-Khan-ICC.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/confusion-usuarios-cbp-one-abandonar-eeuu-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-02T22:32:03.911Z"
+  "lastUpdate": "2026-04-02T23:35:59.270Z"
 };
