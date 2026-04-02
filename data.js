@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "685,50"
+      "usdt": "682,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Trump asegura que la guerra con Irán acabará en tres semanas: \"Los objetivos están cerca de ser completados\"\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/trump-asegura-que-la-guerra-acabara-en-tres-semanas-y-que-esta-cerca-de-completarla/",
+      "title": "\"Estamos trabajando codo con codo\": Trump destaca la alianza petrolera con Venezuela en su discurso \nMUNDO",
+      "link": "https://www.elnacional.com/2026/04/estamos-trabajando-codo-con-codo-trump-recuerda-la-alianza-petrolera-con-venezuela-en-su-discurso/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Trump dice que la guerra con Irán está \"cerca de concluir\"",
       "link": "https://cnnespanol.cnn.com/2026/04/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-11-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260402093720468.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2268831911.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "INDIA DESPLAZA A CHINA Y SE CONVIERTE EN EL MAYOR COMPRADOR DE CRUDO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/04/india-desplaza-a-china-y-se-convierte-en-el-mayor-comprador-de-crudo-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/04/petroleo-venezuela-chevron-21abr2020.jpg"
+      "title": "FREDDY SUPERLANO ASISTIÓ A LA PROCESIÓN DEL NAZARENO POR PROMESA HECHA EN PRISIÓN ",
+      "link": "https://noticierodigital.com/2026/04/freddy-superlano-asistio-a-la-procesion-del-nazareno-por-promesa-hecha-en-prision/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/freddysuperlano-cartaalexsaab.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El petróleo sube otro 6% y la amenaza de la guerra en Irán solo empeora",
-      "link": "https://diarioversionfinal.com/mundo/el-petroleo-sube-otro-6-y-la-amenaza-de-la-guerra-en-iran-solo-empeora/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_PETROLEO-EXTRAPESADO.jpg"
+      "title": "Inversionistas extranjeros vuelven la mirada a Venezuela pese a riesgos estructurales",
+      "link": "https://diarioversionfinal.com/mundo/inversionistas-extranjeros-vuelven-la-mirada-a-venezuela-pese-a-riesgos-estructurales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AA1ZXnqV-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-02T11:45:19.481Z"
+  "lastUpdate": "2026-04-02T13:15:16.280Z"
 };
