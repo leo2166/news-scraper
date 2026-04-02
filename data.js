@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "684,35"
+      "usdt": "684,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SOCIEDAD CIVIL HIZO UN «VIACRUCIS» EN EL CEMENTERIO PARA EXPONER DENUNCIAS",
-      "link": "https://noticierodigital.com/2026/04/sociedad-civil-hizo-un-viacrucis-en-el-cementerio-para-exponer-denuncias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-627x376.jpg"
+      "title": "FAMILIARES PIDEN INVESTIGAR MUERTE DE UN JOVEN EN LA GUAIRA: FUE HALLADO EN UNA PISCINA",
+      "link": "https://noticierodigital.com/2026/04/familiares-piden-investigar-muerte-de-un-joven-en-la-guaira-fue-hallado-en-una-piscina/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/playalaguaira-23mar2023.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/confusion-usuarios-cbp-one-abandonar-eeuu-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-02T21:38:25.914Z"
+  "lastUpdate": "2026-04-02T22:32:03.911Z"
 };
