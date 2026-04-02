@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "686,50"
+      "usdt": "685,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Reportan accidente de tránsito en vía Bogotá - La Vega en la noche de este miércoles: bus se volcó",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/accidente-de-transito-en-la-via-bogota-la-vega-en-la-noche-de-este-miercoles-1-de-abril-reportan-que-bus-se-volco-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5505bfa/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F57%2F0a%2F84b6078f442ca77885f33807dab4%2Fdiseno-4.jpg"
+      "title": "Trump dice que durante las próximas dos o tres semanas EE. UU. va a atacar Irán con \"mucha fuerza\"",
+      "link": "https://www.noticiascaracol.com/mundo/trump-dice-que-durante-las-proximas-dos-o-tres-semanas-ee-uu-va-a-atacar-iran-con-mucha-fuerza-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a13617d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2F9d%2F360c8e0342689682b4f18aa65f5f%2Fdonald-trump-14.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "¡Artemis II despega con éxito! La humanidad de Misión en la Luna 54 años después",
-      "link": "https://diarioversionfinal.com/mundo/artemis-ii-despega-con-exito-la-humanidad-de-mision-en-la-luna-54-anos-despues/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-8.31.28-PM-1-750x430.jpeg"
+      "title": "Comando Sur califica reapertura de Embajada en Caracas de “hito histórico regional”",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-califica-reapertura-de-embajada-en-caracas-de-hito-historico-regional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/descarga-3-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-02T02:24:52.394Z"
+  "lastUpdate": "2026-04-02T05:03:10.730Z"
 }
