@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "652,28"
+      "usdt": "683,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán aún tiene capacidades de lanzamiento de misiles, según fuentes",
-      "link": "https://cnnespanol.cnn.com/2026/04/02/eeuu/exclusivo-inteligencia-iran-lanzamiento-misiles-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-02-175617.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cuba anuncia que liberará a más de 2.000 prisioneros",
+      "link": "https://cnnespanol.cnn.com/2026/04/03/latinoamerica/cuba-liberara-prisioneros-crisis-economica-estados-unidos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap551785294167-20260403043007265.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Fiscal Karim Khan podría volver a la CPI",
       "link": "https://laverdad.com/fiscal-karim-khan-podria-volver-a-la-cpi/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/11/01-header-Karim-Khan-ICC.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Randy-George-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-03T09:54:16.493Z"
+  "lastUpdate": "2026-04-03T10:43:55.008Z"
 };
