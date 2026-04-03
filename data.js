@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "684,00"
+      "usdt": "681,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "¿Quiénes son los funcionarios que siguen bajo el cerco de la OFAC?\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/quienes-son-los-funcionarios-que-siguen-bajo-el-cerco-de-la-ofac/",
+      "title": "Foro Penal contabiliza 490 presos políticos en Venezuela en medio del proceso de amnistía\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/foro-penal-contabiliza-490-presos-politicos-en-venezuela-en-medio-del-proceso-de-amnistia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump destituye a Pam Bondi del cargo de secretaria de Justicia",
-      "link": "https://cnnespanol.cnn.com/2026/04/02/eeuu/trump-hablo-secretaria-de-justicia-pam-bondi-reemplazo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/pam-bondi-c-gettyimages-2197229998.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Orion, la nave en la que viajan los astronautas de Artemis II, se dirige a la Luna",
+      "link": "https://cnnespanol.cnn.com/2026/04/01/ciencia/live-news/noticias-mision-artemis-ii-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260402-mision-a-la-luna.png?q=w_400,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno Nacional activa plan para la recuperación \"integral\" de los hospitales",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-activa-plan-para-la-recuperacion-integral-de-los-hospitales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_658730749_18450423706106934_6134309889341130179_n-82477a.jpg"
+      "title": "Delcy Rodríguez exhorta a la Iglesia a sumarse al encuentro de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-exhorta-a-la-iglesia-a-sumarse-al-encuentro-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/02_zc_l3875_p-scaled-61f5b6.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,15 +44,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump despide a su fiscal general, Pam Bondi, tras gestión de archivos Epstein e investigaciones",
-      "link": "https://www.noticiascaracol.com/mundo/trump-despide-a-su-fiscal-general-pam-bondi-tras-gestion-de-archivos-epstein-e-investigaciones-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6fe89ec/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F01%2Ffe%2Fe285b69b428e9a7d9d47762ca4a3%2Fbondi.jpg"
+      "title": "Parte médico de James Rodríguez; \"tiene una afección de origen no deportivo\"",
+      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/parte-medico-de-james-rodriguez-tiene-una-afeccion-de-origen-no-deportivo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/52f292f/2147483647/strip/true/crop/1276x720+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2F10%2F7fa2dccf41d1a4df501b88e8b837%2Ftamano-fotos-cms-2026-03-25t134718-916.png"
     },
     {
       "source": "La Verdad",
       "title": "Fiscal Karim Khan podría volver a la CPI",
       "link": "https://laverdad.com/fiscal-karim-khan-podria-volver-a-la-cpi/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2024/11/01-header-Karim-Khan-ICC.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/confusion-usuarios-cbp-one-abandonar-eeuu-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-02T23:35:59.270Z"
+  "lastUpdate": "2026-04-03T02:26:24.034Z"
 };
