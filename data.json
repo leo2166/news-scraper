@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "675,85"
+      "usdt": "679,51"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Protestas de estudiantes y trabajadores vuelven a ser protagonistas en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/04/03/venezuela/protestas-estudiantes-trabajadores-tres-meses-caida-maduro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-03t073524z-1744395632-rc2ihkaxale3-rtrmadp-3-iran-crisis-20260403110710459.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Derriban avión de combate de EE.UU. sobre Irán, según fuentes",
+      "link": "https://cnnespanol.cnn.com/2026/04/03/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-12-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-02-175617.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez exhorta a la Iglesia a sumarse al encuentro de Venezuela",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-exhorta-a-la-iglesia-a-sumarse-al-encuentro-de-venezuela",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/02_zc_l3875_p-scaled-61f5b6.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "CUBA ANUNCIA INDULTOS A 2.000 PRESOS EN EL CONTEXTO DE LA SEMANA SANTA",
+      "link": "https://noticierodigital.com/2026/04/cuba-anuncia-indultos-a-2-000-presos-en-el-contexto-de-la-semana-santa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/miguel-diaz-canel-cuba-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -46,14 +52,14 @@
       "source": "La Verdad",
       "title": "Astronautas de Artemis II se lanzan hacia la Luna tras un día orbitando la Tierra",
       "link": "https://laverdad.com/astronautas-de-artemis-ii-se-lanzan-hacia-la-luna-tras-un-dia-orbitando-la-tierra/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "León XIV insta al diálogo para lograr la paz en Oriente Medio",
-      "link": "https://diarioversionfinal.com/mundo/leon-xiv-insta-al-dialogo-para-lograr-la-paz-en-oriente-medio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/foto-papa-leon-xiv-111878-750x430.jpg"
+      "title": "Irán confirma derribo de caza estadounidense sobre su territorio",
+      "link": "https://diarioversionfinal.com/mundo/iran-confirma-derribo-de-caza-estadounidense-sobre-su-territorio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-6.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-03T14:42:23.077Z"
+  "lastUpdate": "2026-04-03T15:39:00.185Z"
 }
