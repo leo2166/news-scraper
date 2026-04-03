@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "676,01"
+      "usdt": "676,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Baltazar Porras: \"A Maduro se le ofreció salir pacíficamente de Venezuela, pero no aceptó\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/baltazar-porras-a-maduro-se-le-ofrecio-salir-pacificamente-de-venezuela-pero-no-acepto/",
+      "title": "Provea exige transparencia en la designación del nuevo fiscal y defensor del Pueblo\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/provea-exige-transparencia-en-la-designacion-del-nuevo-fiscal-y-defensor-del-pueblo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "Derriban avión de combate de EE.UU. sobre Irán, según fuentes",
       "link": "https://cnnespanol.cnn.com/2026/04/03/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-12-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-02-175617.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/avion-derribado.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Confirman la muerte de dos personas tras accidente de camión cisterna en la vía Bogotá–Girardot",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/confirman-la-muerte-de-dos-personas-tras-accidente-de-camion-cisterna-en-la-via-bogota-girardot-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3fd3c6f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F49%2Fc406c3ed49a9b5c4ac935ce525c0%2Fplantilla-fotos-2026-04-03t092033-735.jpg"
+      "title": "¿Qué se sabe del avión de combate de Estados Unidos derribado en Irán y qué ha dicho Donald Trump?",
+      "link": "https://www.noticiascaracol.com/mundo/que-se-sabe-del-avion-de-combate-de-estados-unidos-derribado-en-iran-y-que-ha-dicho-donald-trump-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e28e947/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F67%2F53%2F869da59545998208bfe6f7654735%2Fcaza-de-combate-derribaron-en-iran.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Destituyen al jefe del Estado Mayor de EE .UU. en plena guerra de Irán",
-      "link": "https://laverdad.com/destituyen-al-jefe-del-estado-mayor-de-ee-uu-en-plena-guerra-de-iran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Randy-George.jpg"
+      "title": "Zuliana Daniela Rojas gana premio Archie Carr por estudio de las tortugas marinas",
+      "link": "https://laverdad.com/zuliana-daniela-rojas-gana-premio-archie-carr-por-estudio-de-las-tortugas-marinas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Daniela-Rojas-Canizales.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. rescata a uno de los pilotos de caza derribado en Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-rescata-a-uno-de-los-pilotos-de-caza-derribado-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2026-04-03T121820.966-1024x683-1-750x430.jpg"
+      "title": "Gobierno cubano inicia excarcelaciones tras indulto de Semana Santa",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-cubano-inicia-excarcelaciones-tras-indulto-de-semana-santa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/c10e78f6e817433e4b3e37a1f54e90b8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-03T17:34:56.773Z"
+  "lastUpdate": "2026-04-03T18:49:39.226Z"
 };
