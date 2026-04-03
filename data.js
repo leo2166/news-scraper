@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "677,00"
+      "usdt": "676,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. rescata a un miembro de la tripulación de avión de combate derribado",
+      "title": "Irán atacó dos aviones de combate estadounidenses este viernes",
       "link": "https://cnnespanol.cnn.com/2026/04/03/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-12-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/avion-derribado.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "NUEVA ESPARTA PREVÉ AUMENTO DE VISITANTES EN UN 19% POR ASUETO DE SEMANA SANTA",
-      "link": "https://noticierodigital.com/2026/04/nueva-esparta-preve-aumento-de-visitantes-en-un-19-por-asueto-de-semana-santa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/nueva-esparta-isla-de-margarita-627x376.jpg"
+      "title": "GOBIERNO DE TRUMP DESTITUYE A RANDY GEORGE JEFE DEL ESTADO MAYOR DEL EJÉRCITO ",
+      "link": "https://noticierodigital.com/2026/04/gobierno-de-trump-destituye-a-randy-george-jefe-del-estado-mayor-del-ejercito/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "La Nasa comparte primeras fotos de la Tierra tomadas por Artemis II",
       "link": "https://laverdad.com/la-nasa-comparte-primeras-fotos-de-la-tierra-tomadas-por-artemis-ii/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Atemis-Tierra.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Hallan restos humanos en carguero tailandés atacado por Irán en Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/hallan-restos-humanos-en-carguero-tailandes-atacado-por-iran-en-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
+      "title": "Ataque contra una planta de gas en Abu Dabi dejó al menos un muerto y cuatro heridos",
+      "link": "https://diarioversionfinal.com/mundo/ataque-contra-una-planta-de-gas-en-abu-dabi-dejo-al-menos-un-muerto-y-cuatro-heridos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_3-4-2026_173255_www.noticiasdenavarra.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-03T20:37:15.190Z"
+  "lastUpdate": "2026-04-03T21:35:07.988Z"
 };
