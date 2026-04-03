@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "676,50"
+      "usdt": "675,85"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Foro Penal reportó que aún quedan 490 presos políticos en Venezuela a la espera de su liberación",
-      "link": "https://www.infobae.com/venezuela/2026/04/03/foro-penal-reporto-que-aun-quedan-490-presos-politicos-en-venezuela-a-la-espera-de-su-liberacion/",
-      "image": "https://www.infobae.com/resizer/v2/AQPJI2U5Z5BGHJLLBRVOUZZQRQ.jpg?auth=da9a4e5285f8236b52deb633d90382dc9fba536869b7148050a7eb0d3087b8da&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela y la “octava nacionalidad”: la tesis de un militar sobre la transición y la tutela de Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/04/03/venezuela-y-la-octava-nacionalidad-la-tesis-de-un-militar-sobre-la-transicion-y-la-tutela-de-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/FDRCVRBZEVHJTOC7ZZMJNVG2MI.jpg?auth=6bd09cbef6ec3c71478899248b91575919a7c382ea20738902a2abb740ad89f3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Protestas de estudiantes y trabajadores vuelven a ser protagonistas en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/04/03/venezuela/protestas-estudiantes-trabajadores-tres-meses-caida-maduro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/8023409921001.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-03t073524z-1744395632-rc2ihkaxale3-rtrmadp-3-iran-crisis-20260403110710459.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/02_zc_l3875_p-scaled-61f5b6.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "FAMILIARES PIDEN INVESTIGAR MUERTE DE UN JOVEN EN LA GUAIRA: FUE HALLADO EN UNA PISCINA",
-      "link": "https://noticierodigital.com/2026/04/familiares-piden-investigar-muerte-de-un-joven-en-la-guaira-fue-hallado-en-una-piscina/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/playalaguaira-23mar2023.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Parte médico de James Rodríguez; \"tiene una afección de origen no deportivo\"",
-      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/parte-medico-de-james-rodriguez-tiene-una-afeccion-de-origen-no-deportivo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/52f292f/2147483647/strip/true/crop/1276x720+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2F10%2F7fa2dccf41d1a4df501b88e8b837%2Ftamano-fotos-cms-2026-03-25t134718-916.png"
+      "title": "Confirman la muerte de dos personas tras accidente de camión cisterna en la vía Bogotá–Girardot",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/confirman-la-muerte-de-dos-personas-tras-accidente-de-camion-cisterna-en-la-via-bogota-girardot-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3fd3c6f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F49%2Fc406c3ed49a9b5c4ac935ce525c0%2Fplantilla-fotos-2026-04-03t092033-735.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Fiscal Karim Khan podría volver a la CPI",
-      "link": "https://laverdad.com/fiscal-karim-khan-podria-volver-a-la-cpi/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Astronautas de Artemis II se lanzan hacia la Luna tras un día orbitando la Tierra",
+      "link": "https://laverdad.com/astronautas-de-artemis-ii-se-lanzan-hacia-la-luna-tras-un-dia-orbitando-la-tierra/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. releva al Jefe del Estado Mayor del Ejército en plena escalada militar con Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-releva-al-jefe-del-estado-mayor-del-ejercito-en-plena-escalada-militar-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Randy-George-750x430.jpg"
+      "title": "León XIV insta al diálogo para lograr la paz en Oriente Medio",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-insta-al-dialogo-para-lograr-la-paz-en-oriente-medio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/foto-papa-leon-xiv-111878-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-03T13:05:11.946Z"
+  "lastUpdate": "2026-04-03T14:42:23.077Z"
 }
