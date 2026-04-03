@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "677,01"
+      "usdt": "677,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Provea exige transparencia en la designación del nuevo fiscal y defensor del Pueblo\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/provea-exige-transparencia-en-la-designacion-del-nuevo-fiscal-y-defensor-del-pueblo/",
+      "title": "90 días sin Nicolás Maduro: ¿Qué ha cambiado y qué sigue igual desde su captura por parte de Estados Unidos?\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/90-dias-sin-nicolas-maduro-que-ha-cambiado-y-que-sigue-igual-desde-su-captura-por-parte-de-estados-unidos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,9 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez exhorta a la Iglesia a sumarse al encuentro de Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-exhorta-a-la-iglesia-a-sumarse-al-encuentro-de-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/02_zc_l3875_p-scaled-61f5b6.jpg"
+      "title": "Familiares de detenidos piden celeridad en las liberaciones este Viernes Santo",
+      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-piden-celeridad-en-las-liberaciones-este-viernes-santo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-5-0d6190.jfif"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "NUEVA ESPARTA PREVÉ AUMENTO DE VISITANTES EN UN 19% POR ASUETO DE SEMANA SANTA",
+      "link": "https://noticierodigital.com/2026/04/nueva-esparta-preve-aumento-de-visitantes-en-un-19-por-asueto-de-semana-santa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/nueva-esparta-isla-de-margarita-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Segundo avión estadounidense se estrella en el Golfo Pérsico",
-      "link": "https://diarioversionfinal.com/mundo/segundo-avion-estadounidense-se-estrella-en-el-golfo-persico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/8e2159b9b57776a29c63304f8da31a5a-750x430.webp"
+      "title": "Hallan restos humanos en carguero tailandés atacado por Irán en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/hallan-restos-humanos-en-carguero-tailandes-atacado-por-iran-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
     }
   ],
-  "lastUpdate": "2026-04-03T19:38:33.325Z"
+  "lastUpdate": "2026-04-03T20:37:15.190Z"
 };
