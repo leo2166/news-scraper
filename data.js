@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "681,69"
+      "usdt": "683,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jueza ordena restituir permisos de trabajo a migrantes afectados por CBP One",
-      "link": "https://diarioversionfinal.com/mundo/jueza-ordena-restituir-permisos-de-trabajo-a-migrantes-afectados-por-cbp-one/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/confusion-usuarios-cbp-one-abandonar-eeuu-750x430.webp"
+      "title": "EE. UU. releva al Jefe del Estado Mayor del Ejército en plena escalada militar con Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-releva-al-jefe-del-estado-mayor-del-ejercito-en-plena-escalada-militar-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Randy-George-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-03T02:26:24.034Z"
+  "lastUpdate": "2026-04-03T05:05:29.748Z"
 };
