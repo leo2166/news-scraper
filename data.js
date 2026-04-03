@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "683,50"
+      "usdt": "652,28"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El magnate petrolero venezolano Wilmer Ruperti fue liberado por el régimen chavista",
-      "link": "https://www.infobae.com/venezuela/2026/04/02/el-magnate-petrolero-venezolano-wilmer-ruperti-fue-liberado-por-el-regimen-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/VBAND7LXURCF3IVEY7JMCS3GOE.jpg?auth=4d0ce0d0c16df619f08008dbca89ffa7cf60fbc8a79452a1c4a1df7deea10885&smart=true&width=350&height=197&quality=85"
+      "title": "Foro Penal reportó que aún quedan 490 presos políticos en Venezuela a la espera de su liberación",
+      "link": "https://www.infobae.com/venezuela/2026/04/03/foro-penal-reporto-que-aun-quedan-490-presos-politicos-en-venezuela-a-la-espera-de-su-liberacion/",
+      "image": "https://www.infobae.com/resizer/v2/AQPJI2U5Z5BGHJLLBRVOUZZQRQ.jpg?auth=da9a4e5285f8236b52deb633d90382dc9fba536869b7148050a7eb0d3087b8da&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Orion, la nave en la que viajan los astronautas de Artemis II, se dirige a la Luna",
-      "link": "https://cnnespanol.cnn.com/2026/04/01/ciencia/live-news/noticias-mision-artemis-ii-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260402-mision-a-la-luna.png?q=w_400,c_fill"
+      "title": "Irán aún tiene capacidades de lanzamiento de misiles, según fuentes",
+      "link": "https://cnnespanol.cnn.com/2026/04/02/eeuu/exclusivo-inteligencia-iran-lanzamiento-misiles-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-02-175617.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Randy-George-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-03T05:05:29.748Z"
+  "lastUpdate": "2026-04-03T07:09:58.714Z"
 };
