@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "676,15"
+      "usdt": "677,01"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Derriban avión de combate de EE.UU. sobre Irán, según fuentes",
+      "title": "EE.UU. rescata a un miembro de la tripulación de avión de combate derribado",
       "link": "https://cnnespanol.cnn.com/2026/04/03/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-12-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/avion-derribado.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/avion-derribado.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez exhorta a la Iglesia a sumarse al encuentro de Venezuela",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-exhorta-a-la-iglesia-a-sumarse-al-encuentro-de-venezuela",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/02_zc_l3875_p-scaled-61f5b6.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "MUERE OTRO TRABAJADOR EN FERROMINERA: EL SEGUNDO CASO EN MENOS DE UN MES",
-      "link": "https://noticierodigital.com/2026/04/muere-otro-trabajador-en-ferrominera-el-segundo-caso-en-menos-de-un-mes/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Zuliana Daniela Rojas gana premio Archie Carr por estudio de las tortugas marinas",
-      "link": "https://laverdad.com/zuliana-daniela-rojas-gana-premio-archie-carr-por-estudio-de-las-tortugas-marinas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Daniela-Rojas-Canizales.jpg"
+      "title": "La Nasa comparte primeras fotos de la Tierra tomadas por Artemis II",
+      "link": "https://laverdad.com/la-nasa-comparte-primeras-fotos-de-la-tierra-tomadas-por-artemis-ii/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Atemis-Tierra.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno cubano inicia excarcelaciones tras indulto de Semana Santa",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-cubano-inicia-excarcelaciones-tras-indulto-de-semana-santa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/c10e78f6e817433e4b3e37a1f54e90b8-750x430.webp"
+      "title": "Segundo avión estadounidense se estrella en el Golfo Pérsico",
+      "link": "https://diarioversionfinal.com/mundo/segundo-avion-estadounidense-se-estrella-en-el-golfo-persico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/8e2159b9b57776a29c63304f8da31a5a-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-03T18:49:39.226Z"
+  "lastUpdate": "2026-04-03T19:38:33.325Z"
 };
