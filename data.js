@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "La Nasa comparte primeras fotos de la Tierra tomadas por Artemis II",
       "link": "https://laverdad.com/la-nasa-comparte-primeras-fotos-de-la-tierra-tomadas-por-artemis-ii/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Atemis-Tierra.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/FF-PENTAGONO-EEUU-PIXABAY-20030926-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-04T04:50:26.847Z"
+  "lastUpdate": "2026-04-04T05:57:19.556Z"
 };
