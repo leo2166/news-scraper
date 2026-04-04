@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "673,10"
+      "usdt": "642,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela y la “octava nacionalidad”: la tesis de un militar sobre la transición y la tutela de Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/04/03/venezuela-y-la-octava-nacionalidad-la-tesis-de-un-militar-sobre-la-transicion-y-la-tutela-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/FDRCVRBZEVHJTOC7ZZMJNVG2MI.jpg?auth=6bd09cbef6ec3c71478899248b91575919a7c382ea20738902a2abb740ad89f3&smart=true&width=350&height=197&quality=85"
+      "title": "Una ONG venezolana pidió por un proceso transparente en la elección de los titulares de la Fiscalía General y la Defensoría del Pueblo",
+      "link": "https://www.infobae.com/venezuela/2026/04/04/una-ong-venezolana-pidio-por-un-proceso-transparente-en-la-eleccion-de-los-titulares-de-la-fiscalia-general-y-la-defensoria-del-pueblo/",
+      "image": "https://www.infobae.com/resizer/v2/RX4XF6V3YVBT5OIOQBET7NL7TU.jpg?auth=df0610121074266134a8a9ad3b7fdccb50100e169235e8272fafc853c402fa56&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/FF-PENTAGONO-EEUU-PIXABAY-20030926-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-04T07:08:10.213Z"
+  "lastUpdate": "2026-04-04T08:41:17.844Z"
 };
