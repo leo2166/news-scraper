@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "635,00"
+      "usdt": "664,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los aviones derribados desmienten dichos de Trump sobre invulnerabilidad aérea",
-      "link": "https://cnnespanol.cnn.com/2026/04/03/eeuu/derribo-avion-combate-desmiente-invulnerabilidad-aerea-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260404082718333.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que \"se acaba el tiempo\" para que Irán reabra el estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/04/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-13-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260404100824120.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV retoma la tradición de cargar la cruz en el viacrucis del Coliseo",
-      "link": "https://laverdad.com/papa-leon-xiv-retoma-la-tradicion-de-cargar-la-cruz-en-el-viacrucis-del-coliseo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/c30cc9ffef7bcf1d9a354b003adb5f2d86543277-scaled.jpg"
+      "title": "Misión Artemis II de la NASA se aproxima a la Luna sin contratiempos",
+      "link": "https://laverdad.com/mision-artemis-ii-de-la-nasa-se-aproxima-a-la-luna-sin-contratiempos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis-II-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski denunció que escalada rusa mediante ataques aéreos dejó 10 muertos en Ucrania",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-denuncio-que-escalada-rusa-mediante-ataques-aereos-dejo-10-muertos-en-ucrania/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Ataques-a-Kiev-04-04-2026-750x430.jpg"
+      "title": "Capturan en el sur de Italia a Roberto Mazzarella, jefe de la Camorra napolitana",
+      "link": "https://diarioversionfinal.com/mundo/capturan-en-el-sur-de-italia-a-roberto-mazzarella-jefe-de-la-camorra-napolitana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-04-at-11.46.04-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-04T14:35:04.007Z"
+  "lastUpdate": "2026-04-04T15:32:37.968Z"
 };
