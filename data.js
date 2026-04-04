@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "659,90"
+      "usdt": "662,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Papa León XIV preside su primera Vigilia Pascual en San Pedro",
       "link": "https://laverdad.com/papa-leon-xiv-preside-su-primera-vigilia-pascual-en-san-pedro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/8f476cbcfb2d8496cb2ce37325b2944fe546d1e1-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AP-Abdolrahim-Mousavi-Iran-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-04T22:31:24.397Z"
+  "lastUpdate": "2026-04-04T23:32:00.290Z"
 };
