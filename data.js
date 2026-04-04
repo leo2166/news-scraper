@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "670,70"
+      "usdt": "673,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/FF-PENTAGONO-EEUU-PIXABAY-20030926-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-04T02:11:10.012Z"
+  "lastUpdate": "2026-04-04T04:50:26.847Z"
 };
