@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán atacó dos aviones de combate estadounidenses",
-      "link": "https://cnnespanol.cnn.com/2026/04/03/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-12-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/file-f15-1.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Aviones derribados desmienten dichos de Trump sobre invulnerabilidad aérea",
+      "link": "https://cnnespanol.cnn.com/2026/04/03/eeuu/derribo-avion-combate-desmiente-invulnerabilidad-aerea-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-07t230230z-2034923301-rc2wzjan4nw0-rtrmadp-3-usa-trump-20260403180850992-20260403214720710.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "La Nasa comparte primeras fotos de la Tierra tomadas por Artemis II",
       "link": "https://laverdad.com/la-nasa-comparte-primeras-fotos-de-la-tierra-tomadas-por-artemis-ii/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Atemis-Tierra.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/FF-PENTAGONO-EEUU-PIXABAY-20030926-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-04T05:57:19.556Z"
+  "lastUpdate": "2026-04-04T07:08:10.213Z"
 };
