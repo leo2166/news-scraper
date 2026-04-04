@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "671,35"
+      "usdt": "661,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Elvira Salazar sobre Delcy Rodríguez: \"Es solo una solución corta hasta que haya elecciones en Venezuela\"\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/maria-elvira-salazar-sobre-delcy-rodriguez-es-solo-una-solucion-corta-hasta-que-haya-elecciones-en-venezuela/",
+      "title": "Provea advierte que Delcy Rodríguez solo puede estar en el poder por otros 90 días: se vencen los plazos constitucionales para llamar a elecciones\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/provea-advierte-que-delcy-rodriguez-solo-puede-estar-en-el-poder-por-otros-90-dias-se-vencen-los-plazos-constitucionales-para-llamar-a-elecciones/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "La Nasa comparte primeras fotos de la Tierra tomadas por Artemis II",
       "link": "https://laverdad.com/la-nasa-comparte-primeras-fotos-de-la-tierra-tomadas-por-artemis-ii/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Atemis-Tierra.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Pentágono confirma 13 militares estadounidenses muertos y 365 heridos en guerra con Irán",
-      "link": "https://diarioversionfinal.com/mundo/el-pentagono-confirma-13-militares-estadounidenses-muertos-y-365-heridos-en-guerra-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/FF-PENTAGONO-EEUU-PIXABAY-20030926-750x430.jpg"
+      "title": "Irán autoriza el tránsito de buques con ayuda humanitaria y productos esenciales por Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/iran-autoriza-el-transito-de-buques-con-ayuda-humanitaria-y-productos-esenciales-por-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-Ormuz-04-04-2026-660x430.png"
     }
   ],
-  "lastUpdate": "2026-04-04T11:29:51.586Z"
+  "lastUpdate": "2026-04-04T12:57:11.190Z"
 };
