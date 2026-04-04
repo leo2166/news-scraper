@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "664,99"
+      "usdt": "659,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Portugal ratifica compromiso diplomático con Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/portugal-ratifica-compromiso-diplomatico-con-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/portugal-4ca124.webp"
+      "title": "Presidenta (E) Delcy Rodríguez resaltó la devoción y sana convivencia del pueblo en Semana Santa",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-resalto-la-devocion-y-sana-convivencia-del-pueblo-en-semana-santa",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-semana-santa-1-2048x1607-9a3ac2.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "FAO reporta aumento del precio de alimentos en un 2,4 % por conflicto en Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/fao-reporta-aumento-del-precio-de-alimentos-en-un-24-por-conflicto-en-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/FAO-alimentos-04-04-2026-750x430.jpg"
+      "title": "Irán rechaza el \"inútil\" y \"estúpido\" ultimátum de Trump para que reabra Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/iran-rechaza-el-inutil-y-estupido-ultimatum-de-trump-para-que-reabra-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AP-Abdolrahim-Mousavi-Iran-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-04T21:31:56.601Z"
+  "lastUpdate": "2026-04-04T22:31:24.397Z"
 }
