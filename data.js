@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "666,00"
+      "usdt": "665,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,22 +44,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Atentado con moto bomba en Briceño, Antioquia, dejó dos heridos: “Reacción cobarde de criminales”",
-      "link": "https://www.noticiascaracol.com/colombia/atentado-con-moto-bomba-en-briceno-antioquia-dejo-dos-heridos",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dd27ab3/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd3%2Fad%2F7a1a40ad40b6ad496e0e45642952%2Fatentado-en-briceno-antioquia.jpg"
+      "title": "Videos muestran saqueo tras volcamiento en vía a Villeta; conductor habría tenido problema de salud",
+      "link": "https://www.noticiascaracol.com/colombia/videos-muestran-saqueo-tras-volcamiento-en-via-a-villeta-conductor-habria-tenido-problema-de-salud-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0bab453/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff3%2F5f%2F3155ad02448bb0647993763b9ea0%2Fplantilla-fotos-96.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Misión Artemis II de la NASA se aproxima a la Luna sin contratiempos",
       "link": "https://laverdad.com/mision-artemis-ii-de-la-nasa-se-aproxima-a-la-luna-sin-contratiempos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis-II-1.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "ICE captura a sobrinas del fallecido general iraní Soleimani: las deportarán de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/ice-captura-a-sobrinas-del-fallecido-general-irani-soleimani-las-deportaran-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/ICE-EEUU-19-04-2025.jpeg"
+      "title": "Culmina en Cuba el descargue del petrolero ruso para aliviar crisis energética",
+      "link": "https://diarioversionfinal.com/mundo/culmina-en-cuba-el-descargue-del-petrolero-ruso-para-aliviar-crisis-energetica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/d33b515bb5e5f566c326117a9290cd14-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-04T18:43:30.378Z"
+  "lastUpdate": "2026-04-04T19:32:03.804Z"
 };
