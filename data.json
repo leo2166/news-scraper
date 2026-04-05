@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "663,00"
+      "usdt": "661,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela conmemora el 58.° aniversario del fallecimiento de Martin Luther King Jr.",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-conmemora-el-580-aniversario-del-fallecimiento-de-martin-luther-king-jr",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/martin-luther-king-jr-ad4e4f.jpg"
+      "title": "Buque Escuela Simón Bolívar fondea en aguas de la Isla de Dominica en misión de paz y fraternidad",
+      "link": "https://noticiasvenevision.com/noticias/politica/buque-escuela-simon-bolivar-fondea-en-aguas-de-la-isla-de-dominica-en-mision-de-paz-y-fraternidad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/bescuela-3d68e1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "OVP reportó la muerte del recluso Henry Cristancho en la cárcel de Uribana",
+      "title": "OVP REPORTÓ LA MUERTE DEL RECLUSO HENRY CRISTANCHO EN LA CÁRCEL DE URIBANA",
       "link": "https://noticierodigital.com/2026/04/ovp-reporto-la-muerte-del-recluso-henry-cristancho-en-la-carcel-de-uribana/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Mensaje de Pascua del papa León XIV: un llamado a la paz y a no ser indiferente ante la guerra",
-      "link": "https://www.noticiascaracol.com/mundo/mensaje-de-pascua-del-papa-leon-xiv-un-llamado-a-la-paz-y-a-no-ser-indiferente-ante-la-guerra-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bd0faaa/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2F19%2F689cc9b241329ce25895c79e865c%2Fplantilla-fotos-99.jpg"
+      "title": "Movilidad en Bogotá EN VIVO 5 de abril: así están las entradas a la ciudad en el fin de Semana Santa",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-en-vivo-5-de-abril-asi-estan-las-entradas-a-la-ciudad-en-el-fin-de-semana-santa-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/839dc2b/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb7%2Fa8%2Fcaf8db1c4a1e8fd6b9843ae42a10%2Fdiseno-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Bagher-Ghalibaf-05-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T22:32:10.066Z"
+  "lastUpdate": "2026-04-05T23:35:13.163Z"
 }
