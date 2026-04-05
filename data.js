@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "663,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OVP REPORTÓ LA MUERTE DEL RECLUSO HENRY CRISTANCHO EN LA CÁRCEL DE URIBANA",
+      "title": "OVP reportó la muerte del recluso Henry Cristancho en la cárcel de Uribana",
       "link": "https://noticierodigital.com/2026/04/ovp-reporto-la-muerte-del-recluso-henry-cristancho-en-la-carcel-de-uribana/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-2-627x376.jpg"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Bagher-Ghalibaf-05-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T21:33:15.950Z"
+  "lastUpdate": "2026-04-05T22:32:10.066Z"
 };
