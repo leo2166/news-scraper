@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Papa León XIV preside su primera Vigilia Pascual en San Pedro",
       "link": "https://laverdad.com/papa-leon-xiv-preside-su-primera-vigilia-pascual-en-san-pedro/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/8f476cbcfb2d8496cb2ce37325b2944fe546d1e1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T09:39:21.658Z"
+  "lastUpdate": "2026-04-05T10:34:58.116Z"
 };
