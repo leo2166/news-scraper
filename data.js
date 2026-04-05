@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "661,70"
+      "usdt": "659,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado pide a los venezolanos seguir avanzando: \"Estamos cerca del retorno a la vida\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-pide-a-los-venezolanos-seguir-avanzando-estamos-cerca-del-retorno-a-la-vida/",
+      "title": "Braulio Jatar: Primero democracia, después estabilidad y recuperación \nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/04/braulio-jatar-primero-democracia-despues-estabilidad-y-recuperacion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Papa León XIV preside su primera Vigilia Pascual en San Pedro",
       "link": "https://laverdad.com/papa-leon-xiv-preside-su-primera-vigilia-pascual-en-san-pedro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/8f476cbcfb2d8496cb2ce37325b2944fe546d1e1-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T10:34:58.116Z"
+  "lastUpdate": "2026-04-05T11:30:48.358Z"
 };
