@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El general que Diosdado Cabello no nombró en la Operación Relámpago del Catatumbo: desaparición forzada y denuncias de tortura",
-      "link": "https://www.infobae.com/venezuela/2026/04/05/el-general-que-diosdado-cabello-no-nombro-en-la-operacion-relampago-del-catatumbo-desaparicion-forzada-y-denuncias-de-tortura/",
-      "image": "https://www.infobae.com/resizer/v2/SOCQCL3FCRHNRMSP7KMODEA7SM.jpg?auth=f0c822aa879d6918f1b05d1d423772dc1e6bb1370d078bbb3429a2a0a40a53f2&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado viajará a Madrid para reunirse con la diáspora venezolana",
+      "link": "https://www.infobae.com/venezuela/2026/04/05/maria-corina-machado-viajara-a-madrid-para-reunirse-con-la-diaspora-venezolana/",
+      "image": "https://www.infobae.com/resizer/v2/OML2CXNQABHBVMRJDR65XRX4GQ.JPG?auth=d65cdb73cf43236e04645faa16f10be1e4a746ddfad9ef9172bf25fc1f5d07ad&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/martin-luther-king-jr-ad4e4f.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "OVP REPORTÓ LA MUERTE DEL RECLUSO HENRY CRISTANCHO EN LA CÁRCEL DE URIBANA",
+      "link": "https://noticierodigital.com/2026/04/ovp-reporto-la-muerte-del-recluso-henry-cristancho-en-la-carcel-de-uribana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-2-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Mensaje de Pascua del papa León XIV: un llamado a la paz y a no ser indiferente ante la guerra",
       "link": "https://www.noticiascaracol.com/mundo/mensaje-de-pascua-del-papa-leon-xiv-un-llamado-a-la-paz-y-a-no-ser-indiferente-ante-la-guerra-cb20",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Bagher-Ghalibaf-05-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T20:34:48.649Z"
+  "lastUpdate": "2026-04-05T21:33:15.950Z"
 }
