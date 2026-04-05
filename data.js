@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "660,50"
+      "usdt": "658,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "NICOLÁS MADURO GUERRA ENVIÓ UN MENSAJE DE «UNIÓN» POR LA SEMANA SANTA",
-      "link": "https://noticierodigital.com/2026/04/nicolas-maduro-guerra-envio-un-mensaje-de-union-por-la-semana-santa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-627x376.png"
+      "title": "HENRY ALVIAREZ LLAMA A «RESTABLECER» LOS COMANDITOS PARA RECIBIR A MARÍA CORINA MACHADO",
+      "link": "https://noticierodigital.com/2026/04/henry-alviarez-llama-a-restablecer-los-comanditos-para-recibir-a-maria-corina-machado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/henry-alviarez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV insta a no ser indiferentes ante la guerra en su primer mensaje pascual",
-      "link": "https://laverdad.com/papa-leon-xiv-insta-a-no-ser-indiferentes-ante-la-guerra-en-su-primer-mensaje-pascual/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/ff406e779944f4d88283759bac97c977d94c7e1d.jpg"
+      "title": "Trump insiste en desatar “el infierno” en Irán si no reabre Ormuz el martes",
+      "link": "https://laverdad.com/trump-insiste-en-desatar-el-infierno-en-iran-si-no-reabre-ormuz-el-martes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Trump-voto-por-correo-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-05-at-9.53.35-AM-730x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-05T13:57:33.009Z"
+  "lastUpdate": "2026-04-05T14:40:20.018Z"
 };
