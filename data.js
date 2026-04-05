@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "657,00"
+      "usdt": "659,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado llamó a seguir avanzando hacia la libertad de Venezuela: “Nuestro dolor hoy se transforma en esperanza”",
-      "link": "https://www.infobae.com/venezuela/2026/04/05/maria-corina-machado-llamo-a-seguir-avanzando-hacia-la-libertad-de-venezuela-nuestro-dolor-hoy-se-transforma-en-esperanza/",
-      "image": "https://www.infobae.com/resizer/v2/N5PH2GCU6FDEFB22B2ODG4O6OE.JPG?auth=67e2e9e5cf742d5158cce1d723e2b9c14e00cfc86c6cd5bf912b7d453af0c933&smart=true&width=350&height=197&quality=85"
+      "title": "El general que Diosdado Cabello no nombró en la Operación Relámpago del Catatumbo: desaparición forzada y denuncias de tortura",
+      "link": "https://www.infobae.com/venezuela/2026/04/05/el-general-que-diosdado-cabello-no-nombro-en-la-operacion-relampago-del-catatumbo-desaparicion-forzada-y-denuncias-de-tortura/",
+      "image": "https://www.infobae.com/resizer/v2/SOCQCL3FCRHNRMSP7KMODEA7SM.jpg?auth=f0c822aa879d6918f1b05d1d423772dc1e6bb1370d078bbb3429a2a0a40a53f2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump reiteró el plazo a Irán para lograr un acuerdo",
-      "link": "https://cnnespanol.cnn.com/2026/04/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-13-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-habla-desde-oficina-oval.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Claves y dudas del rescate del aviador estadounidense en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/04/05/mundo/operacion-rescate-aviador-iran-se-sabe-ignora-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/restos-f-15-derribado-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Trump insiste en desatar “el infierno” en Irán si no reabre Ormuz el martes",
       "link": "https://laverdad.com/trump-insiste-en-desatar-el-infierno-en-iran-si-no-reabre-ormuz-el-martes/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Trump-voto-por-correo-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-05-at-9.53.35-AM-730x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-05T16:37:26.567Z"
+  "lastUpdate": "2026-04-05T17:32:15.116Z"
 };
