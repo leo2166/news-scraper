@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "658,00"
+      "usdt": "627,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Rescatan al tripulante desaparecido del F-15 en Irán, dice Trump",
+      "title": "Trump reiteró el plazo a Irán para lograr un acuerdo",
       "link": "https://cnnespanol.cnn.com/2026/04/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-13-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/aeronave.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-habla-desde-oficina-oval.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-05-at-9.53.35-AM-730x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-05T14:40:20.018Z"
+  "lastUpdate": "2026-04-05T15:33:27.020Z"
 };
