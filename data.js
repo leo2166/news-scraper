@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "656,00"
+      "usdt": "660,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "Nicolás Maduro Guerra envió un mensaje de «unión» por la Semana Santa",
+      "title": "NICOLÁS MADURO GUERRA ENVIÓ UN MENSAJE DE «UNIÓN» POR LA SEMANA SANTA",
       "link": "https://noticierodigital.com/2026/04/nicolas-maduro-guerra-envio-un-mensaje-de-union-por-la-semana-santa/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habló dueño de carro rojo usado para robar a familia en el McDonald's de la calle 127",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/hablo-dueno-de-carro-rojo-usado-para-robar-a-familia-en-el-mcdonalds-de-la-calle-127-tambien-lo-habian-robado-dias-antes-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/841b863/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F82%2F2c%2Fa000a64b4e13a461f5b577e3029a%2Fdiseno-2.jpg"
+      "title": "Mensaje de Pascua del papa León XIV: un llamado a la paz y a no ser indiferente ante la guerra",
+      "link": "https://www.noticiascaracol.com/mundo/mensaje-de-pascua-del-papa-leon-xiv-un-llamado-a-la-paz-y-a-no-ser-indiferente-ante-la-guerra-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bd0faaa/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2F19%2F689cc9b241329ce25895c79e865c%2Fplantilla-fotos-99.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV preside su primera Vigilia Pascual en San Pedro",
-      "link": "https://laverdad.com/papa-leon-xiv-preside-su-primera-vigilia-pascual-en-san-pedro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/8f476cbcfb2d8496cb2ce37325b2944fe546d1e1-scaled.jpg"
+      "title": "Papa León XIV insta a no ser indiferentes ante la guerra en su primer mensaje pascual",
+      "link": "https://laverdad.com/papa-leon-xiv-insta-a-no-ser-indiferentes-ante-la-guerra-en-su-primer-mensaje-pascual/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/ff406e779944f4d88283759bac97c977d94c7e1d.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán asegura que frustró intento de rescate de piloto y derribó cuatro aeronaves de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/iran-asegura-que-frustro-intento-de-rescate-de-piloto-y-derribo-cuatro-aeronaves-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WCQ5IVMISVDIVK2GOOY22KLAXE-750x430.jpg"
+      "title": "La Nasa confirma que misión Artemis II va a mitad de camino hacia la Luna",
+      "link": "https://diarioversionfinal.com/mundo/la-nasa-confirma-que-mision-artemis-ii-va-a-mitad-de-camino-hacia-la-luna/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-05-at-9.53.35-AM-730x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-05T12:58:49.114Z"
+  "lastUpdate": "2026-04-05T13:57:33.009Z"
 };
