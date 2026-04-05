@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "662,50"
+      "usdt": "660,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una ONG venezolana pidió por un proceso transparente en la elección de los titulares de la Fiscalía General y la Defensoría del Pueblo",
-      "link": "https://www.infobae.com/venezuela/2026/04/04/una-ong-venezolana-pidio-por-un-proceso-transparente-en-la-eleccion-de-los-titulares-de-la-fiscalia-general-y-la-defensoria-del-pueblo/",
-      "image": "https://www.infobae.com/resizer/v2/RX4XF6V3YVBT5OIOQBET7NL7TU.jpg?auth=df0610121074266134a8a9ad3b7fdccb50100e169235e8272fafc853c402fa56&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado llamó a seguir avanzando hacia la libertad de Venezuela: “Nuestro dolor hoy se transforma en esperanza”",
+      "link": "https://www.infobae.com/venezuela/2026/04/05/maria-corina-machado-llamo-a-seguir-avanzando-hacia-la-libertad-de-venezuela-nuestro-dolor-hoy-se-transforma-en-esperanza/",
+      "image": "https://www.infobae.com/resizer/v2/N5PH2GCU6FDEFB22B2ODG4O6OE.JPG?auth=67e2e9e5cf742d5158cce1d723e2b9c14e00cfc86c6cd5bf912b7d453af0c933&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela moderniza su marco legal: la nueva Ley de Minas busca atraer capital extranjero y arbitraje internacional\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/venezuela-moderniza-su-marco-legal-la-nueva-ley-de-minas-busca-atraer-capital-extranjero-y-arbitraje-internacional/",
+      "title": "María Corina Machado pide a los venezolanos seguir avanzando: \"Estamos cerca del retorno a la vida\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-pide-a-los-venezolanos-seguir-avanzando-estamos-cerca-del-retorno-a-la-vida/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Cómo perdió Pam Bondi su trabajo?",
-      "link": "https://cnnespanol.cnn.com/2026/04/04/eeuu/como-pam-bondi-perdio-trabajo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235635789-20260404053622564.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "El arrepentimiento de los votantes de Trump ahora es evidente",
+      "link": "https://cnnespanol.cnn.com/2026/04/04/eeuu/votantes-trump-arrepentidos-encuentas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataque-iran-4-abril.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez resaltó la devoción y sana convivencia del pueblo en Semana Santa",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-resalto-la-devocion-y-sana-convivencia-del-pueblo-en-semana-santa",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-semana-santa-1-2048x1607-9a3ac2.jpg"
+      "title": "Venezuela conmemora el 58.° aniversario del fallecimiento de Martin Luther King Jr.",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-conmemora-el-580-aniversario-del-fallecimiento-de-martin-luther-king-jr",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/martin-luther-king-jr-ad4e4f.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Papa León XIV preside su primera Vigilia Pascual en San Pedro",
       "link": "https://laverdad.com/papa-leon-xiv-preside-su-primera-vigilia-pascual-en-san-pedro/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/8f476cbcfb2d8496cb2ce37325b2944fe546d1e1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán rechaza el \"inútil\" y \"estúpido\" ultimátum de Trump para que reabra Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/iran-rechaza-el-inutil-y-estupido-ultimatum-de-trump-para-que-reabra-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AP-Abdolrahim-Mousavi-Iran-750x430.webp"
+      "title": "Trump afirmó que varios líderes militares iraníes fueron eliminados durante un ataque en Teherán",
+      "link": "https://diarioversionfinal.com/mundo/trump-afirmo-que-varios-lideres-militares-iranies-fueron-eliminados-durante-un-ataque-en-teheran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-04T23:32:00.290Z"
+  "lastUpdate": "2026-04-05T02:33:20.142Z"
 };
