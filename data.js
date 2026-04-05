@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "659,00"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Cardenal Baltazar Porras: “Para ir a elecciones, los ciudadanos deben decidir por sí mismos”\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/cardenal-baltazar-porras-para-ir-a-elecciones-los-ciudadanos-deben-decidir-por-si-mismos-y-no-bajo-el-senalamiento-del-poder/",
+      "title": "Tres meses de Delcy Rodríguez en el poder: ¿Cuánto más puede estirar el chavismo el calendario electoral?\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/tres-meses-de-delcy-rodriguez-en-el-poder-cuanto-mas-puede-estirar-el-chavismo-el-calendario-electoral/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/martin-luther-king-jr-ad4e4f.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "JUSTICIA, ENCUENTRO Y PERDÓN PROPONE INDULTO PARA 679 PRESOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/04/justicia-encuentro-y-perdon-propone-indulto-para-679-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/presos-politicos-venezuela-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Mensaje de Pascua del papa León XIV: un llamado a la paz y a no ser indiferente ante la guerra",
       "link": "https://www.noticiascaracol.com/mundo/mensaje-de-pascua-del-papa-leon-xiv-un-llamado-a-la-paz-y-a-no-ser-indiferente-ante-la-guerra-cb20",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Embajador de Irán se reunió con colectivos del 23 de Enero",
-      "link": "https://diarioversionfinal.com/mundo/embajador-de-iran-se-reunio-con-colectivos-del-23-de-enero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/photo_5087249128890239970_x-1-750x430.jpg"
+      "title": "Régimen iraní amenaza a Trump con extender la guerra a todo Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/regimen-irani-amenaza-a-trump-con-extender-la-guerra-a-todo-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Bagher-Ghalibaf-05-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T19:34:15.136Z"
+  "lastUpdate": "2026-04-05T20:34:48.649Z"
 };
