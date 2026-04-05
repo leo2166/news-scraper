@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "661,50"
+      "usdt": "661,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El arrepentimiento de los votantes de Trump ahora es evidente",
-      "link": "https://cnnespanol.cnn.com/2026/04/04/eeuu/votantes-trump-arrepentidos-encuentas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataque-iran-4-abril.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Rescatan al tripulante desaparecido del F-15 en Irán, dice Trump",
+      "link": "https://cnnespanol.cnn.com/2026/04/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-13-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/aeronave.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Papa León XIV preside su primera Vigilia Pascual en San Pedro",
       "link": "https://laverdad.com/papa-leon-xiv-preside-su-primera-vigilia-pascual-en-san-pedro/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/8f476cbcfb2d8496cb2ce37325b2944fe546d1e1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/fedsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T05:12:35.315Z"
+  "lastUpdate": "2026-04-05T07:07:45.851Z"
 }
