@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "659,35"
+      "usdt": "656,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "NICOLÁS MADURO GUERRA ENVIÓ UN MENSAJE DE «UNIÓN» POR LA SEMANA SANTA",
+      "title": "Nicolás Maduro Guerra envió un mensaje de «unión» por la Semana Santa",
       "link": "https://noticierodigital.com/2026/04/nicolas-maduro-guerra-envio-un-mensaje-de-union-por-la-semana-santa/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-627x376.png"
     },
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Papa León XIV preside su primera Vigilia Pascual en San Pedro",
       "link": "https://laverdad.com/papa-leon-xiv-preside-su-primera-vigilia-pascual-en-san-pedro/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/8f476cbcfb2d8496cb2ce37325b2944fe546d1e1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirmó que varios líderes militares iraníes fueron eliminados durante un ataque en Teherán",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirmo-que-varios-lideres-militares-iranies-fueron-eliminados-durante-un-ataque-en-teheran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/fedsf-750x430.jpg"
+      "title": "Irán asegura que frustró intento de rescate de piloto y derribó cuatro aeronaves de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/iran-asegura-que-frustro-intento-de-rescate-de-piloto-y-derribo-cuatro-aeronaves-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WCQ5IVMISVDIVK2GOOY22KLAXE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T11:30:48.358Z"
+  "lastUpdate": "2026-04-05T12:58:49.114Z"
 };
