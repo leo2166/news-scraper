@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "627,00"
+      "usdt": "657,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HENRY ALVIAREZ LLAMA A «RESTABLECER» LOS COMANDITOS PARA RECIBIR A MARÍA CORINA MACHADO",
-      "link": "https://noticierodigital.com/2026/04/henry-alviarez-llama-a-restablecer-los-comanditos-para-recibir-a-maria-corina-machado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/henry-alviarez-627x376.jpg"
+      "title": "JUSTICIA, ENCUENTRO Y PERDÓN PROPONE INDULTO PARA 679 PRESOS POLÍTICOS",
+      "link": "https://noticierodigital.com/2026/04/justicia-encuentro-y-perdon-propone-indulto-para-679-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/presos-politicos-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,7 +52,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Trump insiste en desatar “el infierno” en Irán si no reabre Ormuz el martes",
       "link": "https://laverdad.com/trump-insiste-en-desatar-el-infierno-en-iran-si-no-reabre-ormuz-el-martes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Trump-voto-por-correo-1.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-05-at-9.53.35-AM-730x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-05T15:33:27.020Z"
+  "lastUpdate": "2026-04-05T16:37:26.567Z"
 };
