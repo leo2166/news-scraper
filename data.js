@@ -1,8 +1,8 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "474,06",
-      "eur": "550,90"
+      "usd": "474,53",
+      "eur": "547,56"
     },
     "binance": {
       "usdt": "664,35"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez continúa al frente de Venezuela pese al vencimiento del plazo otorgado por el Tribunal Supremo",
-      "link": "https://www.infobae.com/venezuela/2026/04/06/delcy-rodriguez-continua-al-frente-de-venezuela-pese-al-vencimiento-del-plazo-otorgado-por-el-tribunal-supremo/",
-      "image": "https://www.infobae.com/resizer/v2/CDXK3Y7UMJCGBMQYDW62EDDI54.JPG?auth=5601fd57e249d8cf35c4257570103b39bc1b12679a46a3fad6242b194b4921b5&smart=true&width=350&height=197&quality=85"
+      "title": "El chavismo y la oposición buscan blindar varios activos de Venezuela en Estados Unidos ante la disputa por su representación legal",
+      "link": "https://www.infobae.com/estados-unidos/2026/04/06/el-chavismo-y-la-oposicion-buscan-blindar-varios-activos-de-venezuela-en-estados-unidos-ante-la-disputa-por-su-representacion-legal/",
+      "image": "https://www.infobae.com/resizer/v2/76EWJBTRLZGRHBEBHOHZGQ6JZA.JPG?auth=65c6a5c6fb68de53a7abf412f5394241d9b459a15176bbb245b35a17fd4507d1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Casi la mitad de la diáspora venezolana regresaría si mejoran la seguridad y la economía\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/casi-la-mitad-de-la-diaspora-venezolana-regresaria-si-mejoran-la-seguridad-y-la-economia/",
+      "title": "Reuters: Gobierno y oposición podrían coordinar defensa de Citgo en tribunales\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/reuters-gobierno-y-oposicion-podrian-coordinar-defensa-de-citgo-en-tribunales/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRANSACCIONES ELECTRÓNICAS AUMENTARON 17% DURANTE ASUETO DE SEMANA SANTA",
-      "link": "https://noticierodigital.com/2026/04/transacciones-electronicas-aumentaron-17-durante-asueto-de-semana-santa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-627x376.png"
+      "title": "EE. UU. NOTIFICÓ NUEVO MÉTODO DE SOLICITUD DE VISAS ELECTRÓNICAS PARA VIAJAR A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/ee-uu-notifico-nuevo-metodo-de-solicitud-de-visas-electronicas-para-viajar-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Lemus dice desconocer supuesto pacto entre DNI y Fiscalía para no extraditar a 'Papá Pitufo'",
-      "link": "https://www.noticiascaracol.com/informes-especiales/lemus-dice-desconocer-supuesto-pacto-de-dni-y-fiscalia-para-no-extraditar-a-papa-pitufo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ae0d9d2/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F63%2F05%2Fbaf8b9504ac29f76e35f2ab6f436%2Fjorge-lemus-y-papa-pitufo.jpg"
+      "title": "Hipótesis sobre muerte de hermanitos dentro de un refrigerador en Vista Hermosa, Meta",
+      "link": "https://www.noticiascaracol.com/colombia/hipotesis-sobre-muerte-de-hermanitos-dentro-de-un-refrigerador-en-vista-hermosa-meta-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cb03494/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff4%2F41%2F36d08c654bceb728532bb1be69f1%2Fhermanos-refrigerador-meta-1.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Artemis II alcanza la órbita lunar tras más de 50 años de ausencia humana",
       "link": "https://laverdad.com/artemis-ii-alcanza-la-orbita-lunar-tras-mas-de-50-anos-de-ausencia-humana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Proyecto-nuevo-11.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Wall Street cierra al alza previo al fin del plazo de Trump a Irán",
-      "link": "https://diarioversionfinal.com/mundo/wall-street-cierra-al-alza-previo-al-fin-del-plazo-de-trump-a-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/61d0e5fc65a761887743c08522973517-750x430.webp"
+      "title": "Empresa de telecomunicaciones Millicom muestra interés en el mercado venezolano",
+      "link": "https://diarioversionfinal.com/mundo/empresa-de-telecomunicaciones-millicom-muestra-interes-en-el-mercado-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/dplnews_tigo-millicom_mc60422-scaled-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-06T21:38:12.281Z"
+  "lastUpdate": "2026-04-06T22:37:16.553Z"
 };
