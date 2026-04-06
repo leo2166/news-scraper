@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "630,50"
+      "usdt": "659,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "A Trump le cuesta decidirse sobre el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/04/06/economia/analisis-trump-decidirse-estrecho-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-ormuz-vista-aerea-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán rechaza un alto el fuego temporal",
+      "link": "https://cnnespanol.cnn.com/2026/04/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-14-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-teheran-6-abril-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -52,7 +52,7 @@
       "source": "La Verdad",
       "title": "Astronautas afirman que ya vieron la cara oculta de la Luna desde Orión",
       "link": "https://laverdad.com/astronautas-afirman-que-ya-vieron-la-cara-oculta-de-la-luna-desde-orion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/fotos-Tierra-Artemis-II-1.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IZ2RHGoG-image.jpg"
     }
   ],
-  "lastUpdate": "2026-04-06T10:57:02.555Z"
+  "lastUpdate": "2026-04-06T11:51:03.290Z"
 }
