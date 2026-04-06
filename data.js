@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "666,00"
+      "usdt": "664,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que la propuesta de alto el fuego \"no es lo suficientemente buena\"",
-      "link": "https://cnnespanol.cnn.com/2026/04/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269521384-20260406162948877.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Artemis II rompe el récord de distancia del Apollo 13",
+      "link": "https://cnnespanol.cnn.com/2026/04/06/ciencia/live-news/mision-artemis-ii-luna-en-vivo-ultima-hora-imagenes-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-04-134604.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/baltazar-porras-domingo-resurreccion-bda683.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "MUERE DECANO DE LA FACULTAD DE ARQUITECTURA DE LA UCV JAVIER CARICATTO",
-      "link": "https://noticierodigital.com/2026/04/muere-decano-de-la-facultad-de-arquitectura-de-la-ucv-javier-caricatto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-627x376.png"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Misión Artemis II EN VIVO | Tripulación conocerá la cara oculta de la Luna: detalles del evento",
+      "title": "Artemis II EN VIVO | Astronautas se convierten en los humanos que han estado más lejos de la Tierra",
       "link": "https://www.noticiascaracol.com/mundo/trayectoria-de-artemis-2-en-vivo-mision-de-la-nasa-conocera-la-cara-oculta-de-la-luna-este-lunes-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/56dca1e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2F76%2Fef59081e444293dd06d27842c335%2Fsenado-88.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El 44,5 % de migrantes evaluaría volver si mejoran condiciones del país",
-      "link": "https://laverdad.com/el-445-de-migrantes-evaluaria-volver-si-mejoran-condiciones-del-pais/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Diaspora-venezolana.jpg"
+      "title": "Artemis II supera récord del Apolo 13 como la misión tripulada más alejada de la Tierra",
+      "link": "https://laverdad.com/artemis-ii-supera-record-del-apolo-13-como-la-mision-tripulada-mas-alejada-de-la-tierra/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis-Luna-record.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump critica a la OTAN y sugiere que EE.UU. podría abandonar la Alianza",
-      "link": "https://diarioversionfinal.com/mundo/trump-critica-a-la-otan-y-sugiere-que-ee-uu-podria-abandonar-la-alianza/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
+      "title": "Orion rompe récord histórico y se convierte en la misión tripulada más lejana de la Tierra",
+      "link": "https://diarioversionfinal.com/mundo/orion-rompe-record-historico-y-se-convierte-en-la-mision-tripulada-mas-lejana-de-la-tierra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/7DS74NO6EVFXDKKUE3KYMO2BMY.avif"
     }
   ],
-  "lastUpdate": "2026-04-06T17:44:40.916Z"
+  "lastUpdate": "2026-04-06T19:01:25.078Z"
 };
