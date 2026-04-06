@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "666,13"
+      "usdt": "664,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela no logra reubicar tres buques fantasma con cinco millones de barriles de crudo a bordo",
-      "link": "https://www.infobae.com/venezuela/2026/04/06/venezuela-no-logra-reubicar-tres-buques-fantasma-con-cinco-millones-de-barriles-de-crudo-a-bordo/",
-      "image": "https://www.infobae.com/resizer/v2/MJ64ARQVT5FVNNUNYQO6VCUBRY.JPG?auth=4f5eb8d9a55f93d49133ae96c75c88e29fcdd9054fe6c9b2d8e0e8753354069e&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez continúa al frente de Venezuela pese al vencimiento del plazo otorgado por el Tribunal Supremo",
+      "link": "https://www.infobae.com/venezuela/2026/04/06/delcy-rodriguez-continua-al-frente-de-venezuela-pese-al-vencimiento-del-plazo-otorgado-por-el-tribunal-supremo/",
+      "image": "https://www.infobae.com/resizer/v2/CDXK3Y7UMJCGBMQYDW62EDDI54.JPG?auth=5601fd57e249d8cf35c4257570103b39bc1b12679a46a3fad6242b194b4921b5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,22 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ANDRÉS CALECA: «EL CHAVISMO PERDIÓ SU BASE SOCIAL DE APOYO Y SU LEGITIMIDAD POLÍTICA»",
-      "link": "https://noticierodigital.com/2026/04/andres-caleca-el-chavismo-perdio-su-base-social-de-apoyo-y-su-legitimidad-politica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/andrescaleca-mpv.jpg"
+      "title": "TRANSACCIONES ELECTRÓNICAS AUMENTARON 17% DURANTE ASUETO DE SEMANA SANTA",
+      "link": "https://noticierodigital.com/2026/04/transacciones-electronicas-aumentaron-17-durante-asueto-de-semana-santa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Artemis II EN VIVO | Astronautas se convierten en los humanos que han estado más lejos de la Tierra",
-      "link": "https://www.noticiascaracol.com/mundo/trayectoria-de-artemis-2-en-vivo-mision-de-la-nasa-conocera-la-cara-oculta-de-la-luna-este-lunes-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/56dca1e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2F76%2Fef59081e444293dd06d27842c335%2Fsenado-88.jpg"
+      "title": "Lemus dice desconocer supuesto pacto entre DNI y Fiscalía para no extraditar a 'Papá Pitufo'",
+      "link": "https://www.noticiascaracol.com/informes-especiales/lemus-dice-desconocer-supuesto-pacto-de-dni-y-fiscalia-para-no-extraditar-a-papa-pitufo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ae0d9d2/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F63%2F05%2Fbaf8b9504ac29f76e35f2ab6f436%2Fjorge-lemus-y-papa-pitufo.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Artemis II alcanza la órbita lunar tras más de 50 años de ausencia humana",
       "link": "https://laverdad.com/artemis-ii-alcanza-la-orbita-lunar-tras-mas-de-50-anos-de-ausencia-humana/",
       "image": "https://laverdad.com/wp-content/uploads/2026/04/Proyecto-nuevo-11.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "Wall Street cierra al alza previo al fin del plazo de Trump a Irán",
+      "link": "https://diarioversionfinal.com/mundo/wall-street-cierra-al-alza-previo-al-fin-del-plazo-de-trump-a-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/61d0e5fc65a761887743c08522973517-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-06T20:38:19.207Z"
+  "lastUpdate": "2026-04-06T21:38:12.281Z"
 };
