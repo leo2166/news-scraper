@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "655,00"
+      "usdt": "657,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,29 +37,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-32bc3e.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "CARACAS: BOMBEROS RECUPERARON CUERPO DE UNA MUJER EN EL RÍO GUAIRE",
-      "link": "https://noticierodigital.com/2026/04/caracas-bomberos-recuperaron-cuerpo-de-una-mujer-en-el-rio-guaire/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/01/bello-monte-guaire-caracas-ruta-oro25ene2021.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro se pronuncia sobre contactos entre la DNI, emisarios del Gobierno y ‘Papá Pitufo'",
-      "link": "https://www.noticiascaracol.com/politica/presidente-petro-se-pronuncia-sobre-contactos-entre-la-dni-emisarios-del-gobierno-y-papa-pitufo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/07a57fc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa6%2F7f%2F05f4ddfe4141b5bd0dfb7ed46030%2Fsenado-43.jpg"
+      "title": "¿Por qué es tan importante que la misión Artemis II llegue al lado oscuro de la Luna?",
+      "link": "https://www.noticiascaracol.com/mundo/artemis-2-por-que-es-tan-importante-que-llegue-al-lado-oscuro-de-la-luna-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6742824/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe2%2F8d%2Fbb4963e2497f8b156323c2a15909%2Ffotos-discover-2026-04-06t082652-166.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Astronautas afirman que ya vieron la cara oculta de la Luna desde Orión",
-      "link": "https://laverdad.com/astronautas-afirman-que-ya-vieron-la-cara-oculta-de-la-luna-desde-orion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/fotos-Tierra-Artemis-II-1.jpg"
+      "title": "La Guardia Revolucionaria iraní confirma muerte de su jefe de Inteligencia en ataque",
+      "link": "https://laverdad.com/la-guardia-revolucionaria-irani-confirma-muerte-de-su-jefe-de-inteligencia-en-ataque/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Mayid-Jadami.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Katz confirmó ataque a la mayor planta petroquímica de Irán dejándola \"fuera de servicio\"",
-      "link": "https://diarioversionfinal.com/mundo/katz-confirmo-ataque-a-la-mayor-planta-petroquimica-de-iran-dejandola-fuera-de-servicio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ministro-asuntos-exteriores-israeli-israel-katz-foto-archivo_98-750x375-1.webp"
+      "title": "Finaliza descarga de petróleo ruso que aliviará el suministro en Cuba",
+      "link": "https://diarioversionfinal.com/mundo/finaliza-descarga-de-petroleo-ruso-que-aliviara-el-suministro-en-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/8bd72fc0-2c74-11f1-a75a-f95187682629-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-06T13:12:32.995Z"
+  "lastUpdate": "2026-04-06T14:48:30.819Z"
 };
