@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "630,44"
+      "usdt": "632,45"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Candidato presidencial denunciará a Petro por presuntas \"interceptaciones ilegales\"",
-      "link": "https://diarioversionfinal.com/mundo/candidato-presidencial-denunciara-a-petro-por-presuntas-interceptaciones-ilegales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/Petro-15-07-2025.jpg"
+      "title": "La aerolínea venezolana Plus Ultra pagaba mensualmente miles de euros al amigo de Zapatero",
+      "link": "https://diarioversionfinal.com/mundo/la-aerolinea-venezolana-plus-ultra-pagaba-mensualmente-miles-de-euros-al-amigo-de-zapatero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/48b9ciNG-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-06T05:25:08.486Z"
+  "lastUpdate": "2026-04-06T07:44:33.016Z"
 };
