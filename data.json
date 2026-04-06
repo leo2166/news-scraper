@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "668,98"
+      "usdt": "667,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "En video: Jean Carlos Centeno suspendió un concierto por una guerra de botellas que dejó varios heridos",
-      "link": "https://www.infobae.com/colombia/2026/04/06/en-video-jean-carlos-centeno-suspendio-un-concierto-por-una-guerra-de-botellas-que-dejo-varios-heridos/",
-      "image": "https://www.infobae.com/resizer/v2/4YARIUX3PZC2DJD6WABBPB32GI.jpg?auth=cb945b4190d5b6ba7a9abcc78be170c9b872811167dd349685f8d5b04e3c364f&smart=true&width=350&height=197&quality=85"
+      "title": "El ex dictador Maduro envió un mensaje de Pascuas desde la cárcel lleno de alusiones a la resurrección",
+      "link": "https://www.infobae.com/venezuela/2026/04/06/el-ex-dictador-maduro-envio-un-mensaje-de-pascuas-desde-la-carcel-lleno-de-alusiones-a-la-resurreccion/",
+      "image": "https://www.infobae.com/resizer/v2/MEL6E3MZTVF5BHLJ4JCXDZGKQQ.jpg?auth=715775ccb9d26ea2bdac3ab9e8a1644d780d6ef41fc09a341f7a5b0f3c3e5e69&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Rehenes de la revolución: ¿por qué el chavismo dejó a los militares por fuera de la amnistía?\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/04/rehenes-de-la-revolucion-por-que-el-chavismo-dejo-a-los-militares-por-fuera-de-la-amnistia/",
+      "title": "Venezuela registró 386 incidentes contra la libertad de expresión en 2025\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/venezuela-registro-386-incidentes-contra-la-libertad-de-expresion-en-2025/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán rechaza alto el fuego temporal e insiste en un fin de la guerra",
+      "title": "Trump dice que la propuesta de alto el fuego \"no es lo suficientemente buena\"",
       "link": "https://cnnespanol.cnn.com/2026/04/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-teheran-6-abril-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269521384-20260406162948877.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Autoridades de la Iglesia Católica abogan por la paz el entendimiento y el diálogo en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/autoridades-de-la-iglesia-catolica-abogan-por-la-paz-el-entendimiento-y-el-dialogo-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-32bc3e.png"
+      "title": "Cardenal Baltazar Porras: \"La libertad de información es indispensable para el discernimiento ciudadano\"*",
+      "link": "https://noticiasvenevision.com/noticias/politica/cardenal-baltazar-porras-la-libertad-de-informacion-es-indispensable-para-el-discernimiento-ciudadano",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/baltazar-porras-domingo-resurreccion-bda683.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RECUPERACIÓN ECONÓMICA Y DE LAS «LIBERTADES POLÍTICAS», PIDE EL MAS",
-      "link": "https://noticierodigital.com/2026/04/recuperacion-economica-y-de-las-libertades-politicas-pide-el-mas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/felipe-mujica-mas-627x376.jpg"
+      "title": "«RELACIÓN CON VENEZUELA FUNCIONA DE MARAVILLA», REITERÓ TRUMP",
+      "link": "https://noticierodigital.com/2026/04/relacion-con-venezuela-funciona-de-maravilla-reitero-trump/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/donald-trump-estados-unidos-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Irán presenta propuesta a EE. UU. para poner fin a la guerra",
-      "link": "https://laverdad.com/iran-presenta-propuesta-a-ee-uu-para-poner-fin-a-la-guerra/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Abas-Araqchi.jpg"
+      "title": "El 44,5 % de migrantes evaluaría volver si mejoran condiciones del país",
+      "link": "https://laverdad.com/el-445-de-migrantes-evaluaria-volver-si-mejoran-condiciones-del-pais/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Diaspora-venezolana.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tres petroleros de la flota fantasma permanecen varados frente a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/tres-petroleros-de-la-flota-fantasma-permanecen-varados-frente-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1189d83fb3a92380d08226ad01e86180-750x430.webp"
+      "title": "Kast confía en que venezolanos y otros extranjeros sin papeles abandonen Chile de manera voluntaria",
+      "link": "https://diarioversionfinal.com/mundo/kast-confia-en-que-venezolanos-y-otros-extranjeros-sin-papeles-abandonen-chile-de-manera-voluntaria/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-22-12-2025.jpg"
     }
   ],
-  "lastUpdate": "2026-04-06T15:49:00.081Z"
+  "lastUpdate": "2026-04-06T16:50:01.396Z"
 }
