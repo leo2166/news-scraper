@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "659,00"
+      "usdt": "655,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OVP REPORTÓ LA MUERTE DEL RECLUSO HENRY CRISTANCHO EN LA CÁRCEL DE URIBANA",
-      "link": "https://noticierodigital.com/2026/04/ovp-reporto-la-muerte-del-recluso-henry-cristancho-en-la-carcel-de-uribana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-2-627x376.jpg"
+      "title": "CARACAS: BOMBEROS RECUPERARON CUERPO DE UNA MUJER EN EL RÍO GUAIRE",
+      "link": "https://noticierodigital.com/2026/04/caracas-bomberos-recuperaron-cuerpo-de-una-mujer-en-el-rio-guaire/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/01/bello-monte-guaire-caracas-ruta-oro25ene2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -52,14 +52,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Astronautas afirman que ya vieron la cara oculta de la Luna desde Orión",
       "link": "https://laverdad.com/astronautas-afirman-que-ya-vieron-la-cara-oculta-de-la-luna-desde-orion/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/fotos-Tierra-Artemis-II-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel mata al jefe de inteligencia de Inteligencia de la Guardia Revolucionaria en Teherán",
-      "link": "https://diarioversionfinal.com/mundo/israel-mata-al-jefe-de-inteligencia-de-inteligencia-de-la-guardia-revolucionaria-en-teheran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IZ2RHGoG-image.jpg"
+      "title": "Katz confirmó ataque a la mayor planta petroquímica de Irán dejándola \"fuera de servicio\"",
+      "link": "https://diarioversionfinal.com/mundo/katz-confirmo-ataque-a-la-mayor-planta-petroquimica-de-iran-dejandola-fuera-de-servicio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ministro-asuntos-exteriores-israeli-israel-katz-foto-archivo_98-750x375-1.webp"
     }
   ],
-  "lastUpdate": "2026-04-06T11:51:03.290Z"
+  "lastUpdate": "2026-04-06T13:12:32.995Z"
 };
