@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "664,00"
+      "usdt": "666,13"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El ex dictador Maduro envió un mensaje de Pascuas desde la cárcel lleno de alusiones a la resurrección",
-      "link": "https://www.infobae.com/venezuela/2026/04/06/el-ex-dictador-maduro-envio-un-mensaje-de-pascuas-desde-la-carcel-lleno-de-alusiones-a-la-resurreccion/",
-      "image": "https://www.infobae.com/resizer/v2/MEL6E3MZTVF5BHLJ4JCXDZGKQQ.jpg?auth=715775ccb9d26ea2bdac3ab9e8a1644d780d6ef41fc09a341f7a5b0f3c3e5e69&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela no logra reubicar tres buques fantasma con cinco millones de barriles de crudo a bordo",
+      "link": "https://www.infobae.com/venezuela/2026/04/06/venezuela-no-logra-reubicar-tres-buques-fantasma-con-cinco-millones-de-barriles-de-crudo-a-bordo/",
+      "image": "https://www.infobae.com/resizer/v2/MJ64ARQVT5FVNNUNYQO6VCUBRY.JPG?auth=4f5eb8d9a55f93d49133ae96c75c88e29fcdd9054fe6c9b2d8e0e8753354069e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Venezuela registró 386 incidentes contra la libertad de expresión en 2025\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/venezuela-registro-386-incidentes-contra-la-libertad-de-expresion-en-2025/",
+      "title": "Casi la mitad de la diáspora venezolana regresaría si mejoran la seguridad y la economía\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/casi-la-mitad-de-la-diaspora-venezolana-regresaria-si-mejoran-la-seguridad-y-la-economia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/baltazar-porras-domingo-resurreccion-bda683.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ANDRÉS CALECA: «EL CHAVISMO PERDIÓ SU BASE SOCIAL DE APOYO Y SU LEGITIMIDAD POLÍTICA»",
+      "link": "https://noticierodigital.com/2026/04/andres-caleca-el-chavismo-perdio-su-base-social-de-apoyo-y-su-legitimidad-politica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/andrescaleca-mpv.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Artemis II EN VIVO | Astronautas se convierten en los humanos que han estado más lejos de la Tierra",
       "link": "https://www.noticiascaracol.com/mundo/trayectoria-de-artemis-2-en-vivo-mision-de-la-nasa-conocera-la-cara-oculta-de-la-luna-este-lunes-rg10",
@@ -44,16 +50,10 @@
     },
     {
       "source": "La Verdad",
-      "title": "Artemis II supera récord del Apolo 13 como la misión tripulada más alejada de la Tierra",
-      "link": "https://laverdad.com/artemis-ii-supera-record-del-apolo-13-como-la-mision-tripulada-mas-alejada-de-la-tierra/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis-Luna-record.jpg"
-    },
-    {
-      "source": "Diario Versión Final",
-      "title": "Orion rompe récord histórico y se convierte en la misión tripulada más lejana de la Tierra",
-      "link": "https://diarioversionfinal.com/mundo/orion-rompe-record-historico-y-se-convierte-en-la-mision-tripulada-mas-lejana-de-la-tierra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/7DS74NO6EVFXDKKUE3KYMO2BMY.avif"
+      "title": "Artemis II alcanza la órbita lunar tras más de 50 años de ausencia humana",
+      "link": "https://laverdad.com/artemis-ii-alcanza-la-orbita-lunar-tras-mas-de-50-anos-de-ausencia-humana/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Proyecto-nuevo-11.jpg"
     }
   ],
-  "lastUpdate": "2026-04-06T19:01:25.078Z"
+  "lastUpdate": "2026-04-06T20:38:19.207Z"
 }
