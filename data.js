@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "667,00"
+      "usdt": "666,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«RELACIÓN CON VENEZUELA FUNCIONA DE MARAVILLA», REITERÓ TRUMP",
-      "link": "https://noticierodigital.com/2026/04/relacion-con-venezuela-funciona-de-maravilla-reitero-trump/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/donald-trump-estados-unidos-627x376.jpg"
+      "title": "MUERE DECANO DE LA FACULTAD DE ARQUITECTURA DE LA UCV JAVIER CARICATTO",
+      "link": "https://noticierodigital.com/2026/04/muere-decano-de-la-facultad-de-arquitectura-de-la-ucv-javier-caricatto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Por qué es tan importante que la misión Artemis II llegue al lado oscuro de la Luna?",
-      "link": "https://www.noticiascaracol.com/mundo/artemis-2-por-que-es-tan-importante-que-llegue-al-lado-oscuro-de-la-luna-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6742824/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe2%2F8d%2Fbb4963e2497f8b156323c2a15909%2Ffotos-discover-2026-04-06t082652-166.jpg"
+      "title": "Misión Artemis II EN VIVO | Tripulación conocerá la cara oculta de la Luna: detalles del evento",
+      "link": "https://www.noticiascaracol.com/mundo/trayectoria-de-artemis-2-en-vivo-mision-de-la-nasa-conocera-la-cara-oculta-de-la-luna-este-lunes-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/56dca1e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F56%2F76%2Fef59081e444293dd06d27842c335%2Fsenado-88.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Kast confía en que venezolanos y otros extranjeros sin papeles abandonen Chile de manera voluntaria",
-      "link": "https://diarioversionfinal.com/mundo/kast-confia-en-que-venezolanos-y-otros-extranjeros-sin-papeles-abandonen-chile-de-manera-voluntaria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-22-12-2025.jpg"
+      "title": "Trump critica a la OTAN y sugiere que EE.UU. podría abandonar la Alianza",
+      "link": "https://diarioversionfinal.com/mundo/trump-critica-a-la-otan-y-sugiere-que-ee-uu-podria-abandonar-la-alianza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-06T16:50:01.396Z"
+  "lastUpdate": "2026-04-06T17:44:40.916Z"
 };
