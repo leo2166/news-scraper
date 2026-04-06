@@ -5,7 +5,7 @@
       "eur": "547,56"
     },
     "binance": {
-      "usdt": "664,35"
+      "usdt": "667,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Artemis II rompe el récord de distancia del Apollo 13",
+      "title": "Astronautas de Artemis II restablecen contacto con la Tierra",
       "link": "https://cnnespanol.cnn.com/2026/04/06/ciencia/live-news/mision-artemis-ii-luna-en-vivo-ultima-hora-imagenes-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-04-134604.png?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/83421f2e-fa4d-485b-b435-c89c9cbd4a25.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. NOTIFICÓ NUEVO MÉTODO DE SOLICITUD DE VISAS ELECTRÓNICAS PARA VIAJAR A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/ee-uu-notifico-nuevo-metodo-de-solicitud-de-visas-electronicas-para-viajar-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
+      "title": "CIDH OTORGÓ MEDIDAS CAUTELARES AL PRESO POLÍTICO VENEZOLANO YORMAN ACEVEDO",
+      "link": "https://noticierodigital.com/2026/04/cidh-otorgo-medidas-cautelares-al-preso-politico-venezolano-yorman-acevedo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/cidh.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/dplnews_tigo-millicom_mc60422-scaled-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-06T22:37:16.553Z"
+  "lastUpdate": "2026-04-06T23:36:46.782Z"
 }
