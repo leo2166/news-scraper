@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "661,10"
+      "usdt": "661,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado viajará a Madrid para reunirse con la diáspora venezolana",
-      "link": "https://www.infobae.com/venezuela/2026/04/05/maria-corina-machado-viajara-a-madrid-para-reunirse-con-la-diaspora-venezolana/",
-      "image": "https://www.infobae.com/resizer/v2/OML2CXNQABHBVMRJDR65XRX4GQ.JPG?auth=d65cdb73cf43236e04645faa16f10be1e4a746ddfad9ef9172bf25fc1f5d07ad&smart=true&width=350&height=197&quality=85"
+      "title": "En video: Jean Carlos Centeno suspendió un concierto por una guerra de botellas que dejó varios heridos",
+      "link": "https://www.infobae.com/colombia/2026/04/06/en-video-jean-carlos-centeno-suspendio-un-concierto-por-una-guerra-de-botellas-que-dejo-varios-heridos/",
+      "image": "https://www.infobae.com/resizer/v2/4YARIUX3PZC2DJD6WABBPB32GI.jpg?auth=cb945b4190d5b6ba7a9abcc78be170c9b872811167dd349685f8d5b04e3c364f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Buque Escuela Simón Bolívar fondea en aguas de la Isla de Dominica en misión de paz y fraternidad",
-      "link": "https://noticiasvenevision.com/noticias/politica/buque-escuela-simon-bolivar-fondea-en-aguas-de-la-isla-de-dominica-en-mision-de-paz-y-fraternidad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/bescuela-3d68e1.jpg"
+      "title": "Autoridades de la Iglesia Católica abogan por la paz el entendimiento y el diálogo en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/autoridades-de-la-iglesia-catolica-abogan-por-la-paz-el-entendimiento-y-el-dialogo-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-32bc3e.png"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Movilidad en Bogotá EN VIVO 5 de abril: así están las entradas a la ciudad en el fin de Semana Santa",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/movilidad-en-bogota-en-vivo-5-de-abril-asi-estan-las-entradas-a-la-ciudad-en-el-fin-de-semana-santa-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/839dc2b/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb7%2Fa8%2Fcaf8db1c4a1e8fd6b9843ae42a10%2Fdiseno-2.jpg"
+      "title": "Presidente Petro se pronuncia sobre contactos entre la DNI, emisarios del Gobierno y ‘Papá Pitufo'",
+      "link": "https://www.noticiascaracol.com/politica/presidente-petro-se-pronuncia-sobre-contactos-entre-la-dni-emisarios-del-gobierno-y-papa-pitufo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/07a57fc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa6%2F7f%2F05f4ddfe4141b5bd0dfb7ed46030%2Fsenado-43.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Régimen iraní amenaza a Trump con extender la guerra a todo Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/regimen-irani-amenaza-a-trump-con-extender-la-guerra-a-todo-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Bagher-Ghalibaf-05-04-2026-750x430.jpg"
+      "title": "Nasa revela la cara oculta de la Luna vista por tripulación de Artemis II",
+      "link": "https://diarioversionfinal.com/mundo/nasa-revela-la-cara-oculta-de-la-luna-vista-por-tripulacion-de-artemis-ii/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Luna-05-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-05T23:35:13.163Z"
+  "lastUpdate": "2026-04-06T02:34:21.487Z"
 };
