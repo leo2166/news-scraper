@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "657,80"
+      "usdt": "668,98"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán rechaza un alto el fuego temporal",
+      "title": "Irán rechaza alto el fuego temporal e insiste en un fin de la guerra",
       "link": "https://cnnespanol.cnn.com/2026/04/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-14-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataques-teheran-6-abril-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-32bc3e.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "RECUPERACIÓN ECONÓMICA Y DE LAS «LIBERTADES POLÍTICAS», PIDE EL MAS",
+      "link": "https://noticierodigital.com/2026/04/recuperacion-economica-y-de-las-libertades-politicas-pide-el-mas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/felipe-mujica-mas-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "¿Por qué es tan importante que la misión Artemis II llegue al lado oscuro de la Luna?",
       "link": "https://www.noticiascaracol.com/mundo/artemis-2-por-que-es-tan-importante-que-llegue-al-lado-oscuro-de-la-luna-rg10",
@@ -44,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "La Guardia Revolucionaria iraní confirma muerte de su jefe de Inteligencia en ataque",
-      "link": "https://laverdad.com/la-guardia-revolucionaria-irani-confirma-muerte-de-su-jefe-de-inteligencia-en-ataque/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Mayid-Jadami.jpg"
+      "title": "Irán presenta propuesta a EE. UU. para poner fin a la guerra",
+      "link": "https://laverdad.com/iran-presenta-propuesta-a-ee-uu-para-poner-fin-a-la-guerra/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Abas-Araqchi.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Finaliza descarga de petróleo ruso que aliviará el suministro en Cuba",
-      "link": "https://diarioversionfinal.com/mundo/finaliza-descarga-de-petroleo-ruso-que-aliviara-el-suministro-en-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/8bd72fc0-2c74-11f1-a75a-f95187682629-750x430.webp"
+      "title": "Tres petroleros de la flota fantasma permanecen varados frente a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/tres-petroleros-de-la-flota-fantasma-permanecen-varados-frente-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1189d83fb3a92380d08226ad01e86180-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-06T14:48:30.819Z"
+  "lastUpdate": "2026-04-06T15:49:00.081Z"
 }
