@@ -5,7 +5,7 @@
       "eur": "550,90"
     },
     "binance": {
-      "usdt": "661,50"
+      "usdt": "630,44"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Claves y dudas del rescate del aviador estadounidense en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/04/05/mundo/operacion-rescate-aviador-iran-se-sabe-ignora-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/restos-f-15-derribado-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Imágenes satelitales muestran cráteres en el área donde se rescató al aviador de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/04/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-13-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-img-pneo4-std-2026040507281-20260406024052246.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nasa revela la cara oculta de la Luna vista por tripulación de Artemis II",
-      "link": "https://diarioversionfinal.com/mundo/nasa-revela-la-cara-oculta-de-la-luna-vista-por-tripulacion-de-artemis-ii/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Luna-05-04-2026-750x430.jpg"
+      "title": "Candidato presidencial denunciará a Petro por presuntas \"interceptaciones ilegales\"",
+      "link": "https://diarioversionfinal.com/mundo/candidato-presidencial-denunciara-a-petro-por-presuntas-interceptaciones-ilegales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/Petro-15-07-2025.jpg"
     }
   ],
-  "lastUpdate": "2026-04-06T02:34:21.487Z"
+  "lastUpdate": "2026-04-06T05:25:08.486Z"
 }
