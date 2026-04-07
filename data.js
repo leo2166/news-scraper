@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "547,56"
     },
     "binance": {
-      "usdt": "666,90"
+      "usdt": "667,11"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Transparencia Venezuela alerta sobre irregularidades en postulaciones a fiscal y defensor del pueblo\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/denuncian-candidatos-no-idoneos-para-fiscal-y-defensor-del-pueblo/",
+      "title": "Juez impide a defensa de Maduro compartir pruebas con Diosdado Cabello y otros acusados\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/juez-impide-a-defensa-de-maduro-compartir-pruebas-con-diosdado-cabello-y-otros-acusados/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump lanza una gran amenaza después de ataque a estratégica isla iraní",
+      "title": "Trump dice que está en “negociaciones intensas” sobre la guerra con Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/isla-de-jarg-20260407135203391-20260407135220263.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260407103504482.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump sobre Irán: “Esta noche morirá toda una civilización, para no volver jamás”",
-      "link": "https://laverdad.com/trump-sobre-iran-esta-noche-morira-toda-una-civilizacion-para-no-volver-jamas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Donald-Trump-1.jpg"
+      "title": "León XIV califica de inaceptable amenaza de Trump contra Irán",
+      "link": "https://laverdad.com/leon-xiv-califica-de-inaceptable-amenaza-de-trump-contra-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presidente iraní afirma que está dispuesto a dar su vida ante ultimátum de Trump",
-      "link": "https://diarioversionfinal.com/mundo/presidente-irani-afirma-que-esta-dispuesto-a-dar-su-vida-ante-ultimatum-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-28.jpg"
+      "title": "Pakistán pide a Trump extender el ultimátum a Irán dos semanas",
+      "link": "https://diarioversionfinal.com/mundo/pakistan-pide-a-trump-extender-el-ultimatum-a-iran-dos-semanas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-29.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T19:57:08.243Z"
+  "lastUpdate": "2026-04-07T20:54:10.748Z"
 };
