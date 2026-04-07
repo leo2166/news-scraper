@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "547,56"
     },
     "binance": {
-      "usdt": "666,00"
+      "usdt": "665,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Trump amenaza con aniquilar \"todo Irán\" si no se alcanza un acuerdo",
       "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-presser-20260407080755471.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tiroteo-estambul.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/tagreuters.com2026newsml_KBN3PR2OT-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T10:56:05.676Z"
+  "lastUpdate": "2026-04-07T11:54:45.057Z"
 };
