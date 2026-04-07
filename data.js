@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "547,56"
     },
     "binance": {
-      "usdt": "637,42"
+      "usdt": "666,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Reuters: Gobierno y oposición podrían coordinar defensa de Citgo en tribunales\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/reuters-gobierno-y-oposicion-podrian-coordinar-defensa-de-citgo-en-tribunales/",
+      "title": "Rehenes sin uniforme: \"criminalización por afecto\"\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/04/rehenes-sin-uniforme-criminalizacion-por-afecto/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/tagreuters.com2026newsml_KBN3PR2OT-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T07:18:24.343Z"
+  "lastUpdate": "2026-04-07T09:03:23.716Z"
 };
