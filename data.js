@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "549,70"
     },
     "binance": {
-      "usdt": "667,11"
+      "usdt": "667,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,33 +20,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Juez impide a defensa de Maduro compartir pruebas con Diosdado Cabello y otros acusados\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/juez-impide-a-defensa-de-maduro-compartir-pruebas-con-diosdado-cabello-y-otros-acusados/",
+      "title": "Trump aplaza posible ataque a Irán: lo que se sabe de la decisión\nMUNDO",
+      "link": "https://www.elnacional.com/2026/04/trump-aplaza-posible-ataque-a-iran-lo-que-se-sabe-de-la-decision/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que está en “negociaciones intensas” sobre la guerra con Irán",
+      "title": "Trump acuerda un alto el fuego de dos semanas con Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270091565-20260407213325502.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26096678051341-20260407224450068.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal advierte ralentización en la aplicación de la Ley de Amnistía y exige liberación integral de los presos políticos",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-advierte-ralentizacion-en-la-aplicacion-de-la-ley-de-amnistia-y-exige-liberacion-integral-de-los-presos-politicos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ee-alfredo-romero-foro-penal-daniel-h-5687-1024x683-3ad4e8.jpg"
+      "title": "TSJ declara constitucionalidad de Ley Orgánica de Celeridad de Trámites",
+      "link": "https://noticiasvenevision.com/noticias/politica/tsj-declara-constitucionalidad-de-ley-organica-de-celeridad-de-tramites",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsj-960x640-1-1-250913.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEFENSA DENUNCIÓ IRREGULARIDADES PROCESALES TRAS DETENCIÓN DE UNA COMERCIANTE",
-      "link": "https://noticierodigital.com/2026/04/defensa-denuncio-irregularidades-procesales-tras-detencion-de-una-comerciante/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/pnb-elconejo-24mar2023.jpg"
+      "title": "EE. UU. E IRÁN ACORDARON UNA TREGUA DE DOS SEMANAS",
+      "link": "https://noticierodigital.com/2026/04/ee-uu-e-iran-acordaron-una-tregua-de-dos-semanas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/donald-trump-estados-unidos-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Libertad para Ricardo Bonilla, investigado en caso UNGRD, por vencimiento de términos",
-      "link": "https://www.noticiascaracol.com/judicial/libertad-para-ricardo-bonilla-investigado-en-caso-ungrd-por-vencimiento-de-terminos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1130b4a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F77%2F37%2F06f3698e4999822d02e4d42cf547%2Fricardo-bonilla.jpg"
+      "title": "Interpol retira circular roja en contra de Carlos Ramón González, investigado por caso UNGRD",
+      "link": "https://www.noticiascaracol.com/judicial/interpol-retira-circular-roja-en-contra-de-carlos-ramon-gonzalez-investigado-por-caso-ungrd-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/396f795/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F02%2Fb0%2F06ac18d842a6a754dc88c0f31a12%2Fcarlos-ramon-gonzalez-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-29.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T22:38:47.914Z"
+  "lastUpdate": "2026-04-07T23:37:23.118Z"
 };
