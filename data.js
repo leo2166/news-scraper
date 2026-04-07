@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "547,56"
     },
     "binance": {
-      "usdt": "665,15"
+      "usdt": "666,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La nave Orion se dirige de regreso hacia la Tierra",
-      "link": "https://cnnespanol.cnn.com/2026/04/06/ciencia/live-news/mision-artemis-ii-luna-en-vivo-ultima-hora-imagenes-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/83421f2e-fa4d-485b-b435-c89c9cbd4a25.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump amenaza con aniquilar \"todo Irán\" si no se alcanza un acuerdo",
+      "link": "https://cnnespanol.cnn.com/2026/04/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-14-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260402-mision-a-la-luna.png?q=w_400,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Hipótesis sobre muerte de hermanitos dentro de un refrigerador en Vista Hermosa, Meta",
-      "link": "https://www.noticiascaracol.com/colombia/hipotesis-sobre-muerte-de-hermanitos-dentro-de-un-refrigerador-en-vista-hermosa-meta-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cb03494/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff4%2F41%2F36d08c654bceb728532bb1be69f1%2Fhermanos-refrigerador-meta-1.jpg"
+      "title": "Ladrones se roban carro en Bogotá y secuestraron a niña de 7 años: video del momento",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/ladrones-se-roban-carro-en-bogota-y-secuestraron-a-nina-de-7-anos-video-del-momento-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d9befcf/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa8%2F72%2Ff75411c2422c807a1ce3000c6d4a%2Fsecuestro-bogota.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/tagreuters.com2026newsml_KBN3PR2OT-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T02:29:16.949Z"
+  "lastUpdate": "2026-04-07T05:10:03.993Z"
 };
