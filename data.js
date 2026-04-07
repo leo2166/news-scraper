@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "547,56"
     },
     "binance": {
-      "usdt": "665,15"
+      "usdt": "656,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con aniquilar \"todo Irán\" si no se alcanza un acuerdo",
+      "title": "EE.UU. ataca objetivos militares en estratégica isla de Jarg",
       "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tiroteo-estambul.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/isla-de-jarg.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAVECOM-E REPORTÓ CRECIMIENTO EN EL COMERCIO ELECTRÓNICO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/04/cavecom-e-reporto-crecimiento-en-el-comercio-electronico-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/richard-ujueta-cavecom-e-627x376.jpg"
+      "title": "BARRERA MÁS IMPORTANTE PARA AUMENTAR SALARIOS ES LA LEY DEL TRABAJO: LVL",
+      "link": "https://noticierodigital.com/2026/04/barrera-mas-importante-para-aumentar-salarios-es-la-ley-del-trabajo-lvl/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/LuisVicenteLeon_-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ladrones se roban carro en Bogotá y secuestraron a niña de 7 años: video del momento",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/ladrones-se-roban-carro-en-bogota-y-secuestraron-a-nina-de-7-anos-video-del-momento-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d9befcf/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa8%2F72%2Ff75411c2422c807a1ce3000c6d4a%2Fsecuestro-bogota.jpg"
+      "title": "Salida temporal de Ricardo Roa de Ecopetrol: ¿qué dicen los accionistas y el sindicato?",
+      "link": "https://www.noticiascaracol.com/economia/salida-temporal-de-ricardo-roa-de-ecopetrol-que-dicen-los-accionistas-y-el-sindicato-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fbedd76/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F69%2F1b2cb9fc4b77b41c49eac9f39bda%2Fricardo-roa-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. prepara ofensiva para derrotar a Irán en Ormuz pese a despliegue de tropas",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-prepara-ofensiva-para-derrotar-a-iran-en-ormuz-pese-a-despliegue-de-tropas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/tagreuters.com2026newsml_KBN3PR2OT-750x430.jpg"
+      "title": "Irán pondrá a jóvenes como cadenas humanas en centrales eléctricas esta tarde ante amenazas de Trump",
+      "link": "https://diarioversionfinal.com/mundo/iran-pondra-a-jovenes-como-cadenas-humanas-en-centrales-electricas-esta-tarde-ante-amenazas-de-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Centrales-electricas-de-iran-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-07T11:54:45.057Z"
+  "lastUpdate": "2026-04-07T13:20:29.892Z"
 };
