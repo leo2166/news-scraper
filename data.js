@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "547,56"
     },
     "binance": {
-      "usdt": "659,10"
+      "usdt": "660,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Otorgaron la libertad plena a Julio Balza, miembro del equipo de prensa de María Corina Machado en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/07/otorgaron-la-libertad-plena-a-julio-balza-miembro-del-equipo-de-prensa-de-maria-corina-machado-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/FVP5HYDKSFCK5N3WLB552V62GE.jpg?auth=d49eb70ce33f4fba5c5ce72be6a55618961179eccea2f09981a2d83504b73962&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Justicia, Encuentro y Perdón denunció que la aplicación selectiva de la amnistía en Venezuela genera vulnerabilidad",
+      "link": "https://www.infobae.com/venezuela/2026/04/07/la-ong-justicia-encuentro-y-perdon-denuncio-que-la-aplicacion-selectiva-de-la-amnistia-en-venezuela-genera-vulnerabilidad/",
+      "image": "https://www.infobae.com/resizer/v2/6P7DDCL45JAYTBYZKQB7HL4OHM.jpg?auth=0a51458fa28ba3511be89c3e7f7ef2c6d6063616f9e5838661ce285e84b9d0be&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Rehenes sin uniforme: \"criminalización por afecto\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/04/rehenes-sin-uniforme-criminalizacion-por-afecto/",
+      "title": "Netanyahu confirma bombardeos de Israel a vías ferroviarias y puentes en Irán\nMUNDO",
+      "link": "https://www.elnacional.com/2026/04/netanyahu-confirma-bombardeos-a-vias-ferreas-y-puentes-en-iran/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FAMILIARES DE PRESOS POLÍTICOS CUMPLEN 90 DÍAS EN VIGILIA AFUERA DE EL HELICOIDE",
-      "link": "https://noticierodigital.com/2026/04/familiares-de-presos-politicos-cumplen-90-dias-en-vigilia-afuera-de-el-helicoide/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-5-627x376.jpg"
+      "title": "GOBIERNO ESPAÑOL SE REUNIRÍA CON MARÍA CORINA MACHADO SI LO SOLICITA FORMALMENTE",
+      "link": "https://noticierodigital.com/2026/04/gobierno-espanol-se-reuniria-con-maria-corina-machado-si-lo-solicita-formalmente/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/cancilleria-espana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Cuatro heridos en ataque con drones contra casas de caserío de El Tarra",
-      "link": "https://laverdad.com/cuatro-heridos-en-ataque-con-drones-contra-casas-de-caserio-de-el-tarra/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Ataque-con-drones-El-Tarra.jpg"
+      "title": "Trump sobre Irán: “Esta noche morirá toda una civilización, para no volver jamás”",
+      "link": "https://laverdad.com/trump-sobre-iran-esta-noche-morira-toda-una-civilizacion-para-no-volver-jamas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Donald-Trump-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo frente al consulado de Israel en Estambul deja un atacante muerto y dos heridos",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-frente-al-consulado-de-israel-en-estambul-deja-un-atacante-muerto-y-dos-heridos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/G67VU2WN5JGWNJHDDJZFB2J3VY-750x430.jpg"
+      "title": "Juez de EE. UU. rechaza pedido de Maduro para compartir pruebas con otros acusados",
+      "link": "https://diarioversionfinal.com/mundo/juez-de-ee-uu-rechaza-pedido-de-maduro-para-compartir-pruebas-con-otros-acusados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/bocetos_segundaaudiencia_NicolasMaduroCiliaFlores_260320261-750x375-1.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-07T15:09:27.026Z"
+  "lastUpdate": "2026-04-07T16:59:28.453Z"
 };
