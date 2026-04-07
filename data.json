@@ -1,8 +1,8 @@
 {
   "rates": {
     "bcv": {
-      "usd": "474,53",
-      "eur": "547,56"
+      "usd": "475,01",
+      "eur": "549,70"
     },
     "binance": {
       "usdt": "667,11"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La ONG Justicia, Encuentro y Perdón denunció que la aplicación selectiva de la amnistía en Venezuela genera vulnerabilidad",
-      "link": "https://www.infobae.com/venezuela/2026/04/07/la-ong-justicia-encuentro-y-perdon-denuncio-que-la-aplicacion-selectiva-de-la-amnistia-en-venezuela-genera-vulnerabilidad/",
-      "image": "https://www.infobae.com/resizer/v2/6P7DDCL45JAYTBYZKQB7HL4OHM.jpg?auth=0a51458fa28ba3511be89c3e7f7ef2c6d6063616f9e5838661ce285e84b9d0be&smart=true&width=350&height=197&quality=85"
+      "title": "Familias de campesinos acusados de nexos con grupos armados colombianos exigen al Parlamento venezolano que los incluya en la amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/04/07/familias-de-campesinos-acusados-de-nexos-con-grupos-armados-colombianos-exigen-al-parlamento-venezolano-que-los-incluya-en-la-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/BMD4JF36YFAVVPV6LYC4EUD7TU.jpg?auth=3b338092d7c93ae23c87fb5166da395ef1270bf2fe509fc46ac0a8404f1862b1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Trump dice que está en “negociaciones intensas” sobre la guerra con Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260407103504482.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270091565-20260407213325502.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PAREJA DE VENEZOLANOS Y SU HIJO DE 5 AÑOS MURIÓ EN FATAL ACCIDENTE EN MÉXICO",
-      "link": "https://noticierodigital.com/2026/04/pareja-de-venezolanos-y-su-hijo-de-5-anos-murio-en-fatal-accidente-en-mexico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260407-WA0176-627x376.jpg"
+      "title": "VENTA DE CITGO A AMBER ENERGY POR 5.900 MILLONES DE DÓLARES SE ESTANCA EN EE. UU.",
+      "link": "https://noticierodigital.com/2026/04/venta-de-citgo-a-amber-energy-por-5-900-millones-de-dolares-se-estanca-en-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/citgo-21oct-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esto se sabe del grave accidente de bus en vía Ibagué–Bogotá: seis personas murieron",
-      "link": "https://www.noticiascaracol.com/colombia/esto-se-sabe-del-grave-accidente-de-bus-en-via-ibague-bogota-seis-personas-murieron-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/01c9860/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9d%2Fd6%2F060618904d21b0acfae9b85fce6e%2Fsenado-96.jpg"
+      "title": "Libertad para Ricardo Bonilla, investigado en caso UNGRD, por vencimiento de términos",
+      "link": "https://www.noticiascaracol.com/judicial/libertad-para-ricardo-bonilla-investigado-en-caso-ungrd-por-vencimiento-de-terminos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1130b4a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F77%2F37%2F06f3698e4999822d02e4d42cf547%2Fricardo-bonilla.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-29.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T20:54:10.748Z"
+  "lastUpdate": "2026-04-07T21:42:07.171Z"
 }
