@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una ONG pidió una “reparación integral” para las víctimas de violaciones de derechos humanos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/07/una-ong-pidio-una-reparacion-integral-para-las-victimas-de-violaciones-de-derechos-humanos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/ZX4ADYUEZJATVKCTTKI7BIFFKU.jpg?auth=47343c1d4a7e7425ff84c28250542d5985c665e64aaab36927f9fec95746dc17&smart=true&width=350&height=197&quality=85"
+      "title": "Otorgaron la libertad plena a Julio Balza, miembro del equipo de prensa de María Corina Machado en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/07/otorgaron-la-libertad-plena-a-julio-balza-miembro-del-equipo-de-prensa-de-maria-corina-machado-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/FVP5HYDKSFCK5N3WLB552V62GE.jpg?auth=d49eb70ce33f4fba5c5ce72be6a55618961179eccea2f09981a2d83504b73962&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -27,8 +27,8 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "Trump amenaza con aniquilar \"todo Irán\" si no se alcanza un acuerdo",
-      "link": "https://cnnespanol.cnn.com/2026/04/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-14-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-19t174414z-1699446535-rc2t5faur9nh-rtrmadp-3-iran-nuclear-contamination-risks-20260406143155567.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-presser-20260407080755471.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/tagreuters.com2026newsml_KBN3PR2OT-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T09:03:23.716Z"
+  "lastUpdate": "2026-04-07T10:56:05.676Z"
 };
