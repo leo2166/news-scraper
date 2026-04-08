@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "669,00"
+      "usdt": "635,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Reuters: sistema refinador en Venezuela sigue rezagado pese al aumento de producción petrolera\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/reuters-sistema-refinador-en-venezuela-sigue-rezagado-pese-al-aumento-de-produccion-petrolera/",
+      "title": "Delcy Rodríguez anuncia que habrá aumento del salario a partir del 1 de mayo\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/delcy-rodriguez-anuncia-aumento-del-salario-a-partir-del-1-de-mayo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
       "title": "A prueba, el frágil alto el fuego entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/4434b29f-47ab-4252-8da3-60dbb39d8959.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-08t111223z-590392774-rc2wkkabf756-rtrmadp-3-iran-crisis-oman-hormuz-1.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LE NEGARON LA AMNISTÍA AL TENIENTE CORONEL IGBERT MARÍN CHAPARRO",
-      "link": "https://noticierodigital.com/2026/04/le-negaron-la-amnistia-al-teniente-coronel-igbert-marin-chaparro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/teniente-coronel-igbert-marin-chaparro-foto-archivo-de-justiciaorg-5ene2022.jpg"
+      "title": "DELCY RODRÍGUEZ CONFIRMÓ INCREMENTO SALARIAL PARA EL PRÓXIMO 1 DE MAYO",
+      "link": "https://noticierodigital.com/2026/04/delcy-rodriguez-confirmo-incremento-salarial-para-el-proximo-1-de-mayo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-venezuela-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Video | Joyas y motos: las excentricidades de alias Mison, peligroso criminal capturado en Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/video-joyas-y-motos-las-excentricidades-de-alias-mison-peligroso-criminal-capturado-en-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f03a299/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe9%2F5f%2Fbcb1001b435491bfec719095a2c0%2Fexcentricidades.jpg"
+      "title": "NASA confirma que inodoro de la misión Artemis II ya funciona de nuevo, ¿por qué ha sido un desafío?",
+      "link": "https://www.noticiascaracol.com/mundo/nasa-confirma-que-inodoro-de-la-mision-artemis-ii-ya-funciona-de-nuevo-por-que-ha-sido-un-desafio-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2b73830/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5d%2F47%2F0a43df2545afbb32847ca51de43b%2Fartemis-ii-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/8f7a93e6-9bcf-4d0f-871c-4447413f9ceb_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-08T22:39:58.870Z"
+  "lastUpdate": "2026-04-08T23:38:52.699Z"
 };
