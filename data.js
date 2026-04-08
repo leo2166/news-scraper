@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "549,70"
     },
     "binance": {
-      "usdt": "670,50"
+      "usdt": "641,06"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Shelly-Kittleson-07-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-08T02:30:07.341Z"
+  "lastUpdate": "2026-04-08T05:11:30.253Z"
 };
