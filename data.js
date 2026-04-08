@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "549,70"
     },
     "binance": {
-      "usdt": "671,00"
+      "usdt": "641,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,8 +26,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán acuerdan un alto el fuego de dos semanas",
-      "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
+      "title": "Entra en vigor un frágil alto el fuego entre EE.UU. e Irán",
+      "link": "https://cnnespanol.cnn.com/2026/04/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-16-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-239964-ejercito-estados-unidos.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Shelly-Kittleson-07-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-08T09:02:06.567Z"
+  "lastUpdate": "2026-04-08T10:56:59.730Z"
 };
