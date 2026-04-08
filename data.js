@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "549,70"
     },
     "binance": {
-      "usdt": "666,00"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "191 militares presos políticos esperan el acceso a los beneficios de la Ley de Amnistía: denuncian fraude y abandono",
-      "link": "https://www.infobae.com/venezuela/2026/04/08/191-militares-presos-politicos-esperan-el-acceso-a-los-beneficios-de-la-ley-de-amnistia-denuncian-fraude-y-abandono/",
-      "image": "https://www.infobae.com/resizer/v2/OQBCM4HHWVGWDHBD35W24JLY3I.jpg?auth=81f482eb7d35aa98ca3f7b4713cf9909356d3b0d49fd4b299343512faaed76d1&smart=true&width=350&height=197&quality=85"
+      "title": "Juan Pablo Guanipa analizó el proceso político y social de Venezuela: “Estamos en transición”",
+      "link": "https://www.infobae.com/venezuela/2026/04/08/juan-pablo-guanipa-analizo-el-proceso-politico-y-social-de-venezuela-estamos-en-transicion/",
+      "image": "https://www.infobae.com/resizer/v2/7JD6QLZCRFAQ3GEE6PZEBINAHE.jpg?auth=8fe33d9565f65066185fd994c91c5e653db0b7c25e8cf08e14fcb8e84eed28dc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Estados Unidos e Irán observan una precaria tregua\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/estados-unidos-e-iran-observan-una-precaria-tregua/",
+      "title": "OIT urge al gobierno aumentar el salario mínimo y aplicar reformas laborales\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/oit-urge-a-delcy-rodriguez-a-aumentar-el-salario-minimo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Entra en vigor un frágil alto el fuego entre EE.UU. e Irán",
+      "title": "El frágil alto el fuego tambalea tras anuncio de Irán de que bloqueará el tráfico por Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/04/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269727395-20260408075750532.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz-20260407141538450.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EL HATILLO REGISTRÓ UNA REDUCCIÓN DEL 12% DE LOS INCENDIOS FORESTALES EN LA ENTIDAD",
-      "link": "https://noticierodigital.com/2026/04/el-hatillo-registro-una-reduccion-del-12-de-los-incendios-forestales-en-la-entidad/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-3-627x376.png"
+      "title": "ELÍAS JAUA: «VENEZUELA ESTÁ EN UNA SITUACIÓN DE TUTELAJE Y SOBERANÍA CONDICIONADA»",
+      "link": "https://noticierodigital.com/2026/04/elias-jaua-venezuela-esta-en-una-situacion-de-tutelaje-y-soberania-condicionada/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/02/elias-jaua-10feb2020.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Iván Cepeda y Paloma Valencia tuvieron nueva discusión durante la plenaria del Senado: esto dijeron",
-      "link": "https://www.noticiascaracol.com/politica/candidatos-ivan-cepeda-y-paloma-valencia-tuvieron-nueva-discusion-durante-la-plenaria-del-senado-esto-dijeron-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8dfb522/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbd%2F08%2F36b286bc412bbb76a7af1cb6700e%2Fdiseno.jpg"
+      "title": "Una modelo y una excuñada de Zulma Guzmán estarían entre las víctimas del caso talio: esto se sabe",
+      "link": "https://www.noticiascaracol.com/los-informantes/una-modelo-y-una-excunada-de-zulma-guzman-estarian-entre-las-victimas-del-caso-talio-esto-se-sabe-pr30",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d47d9d0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe3%2Ff3%2F464babcf46f6812f0360560a45d0%2Fnuevos-detalles-del-crimen-del-talio-otras-posibles-victimas-de-zulma-guzman.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Vigilia en Santo Domingo recuerda a las 236 víctimas de la tragedia de Jet Set",
-      "link": "https://laverdad.com/vigilia-en-santo-domingo-recuerda-a-las-236-victimas-de-la-tragedia-de-jet-set/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/vigilia-Jet-Set-scaled.jpg"
+      "title": "Aplazan por lluvia acto por aniversario del mortal colapso de Jet Set",
+      "link": "https://laverdad.com/aplazan-por-lluvia-acto-por-aniversario-del-mortal-colapso-de-jet-set/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Jet-Set-vigilia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán amenaza con retirarse de acuerdo de alto al fuego si siguen ataques contra Líbano",
-      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-con-retirarse-de-acuerdo-de-alto-al-fuego-si-siguen-ataques-contra-libano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Tiro-Libano-08-04-2026-750x430.jpg"
+      "title": "Alto al fuego no resuelve bloqueo: más de 800 buques siguen atrapados en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/alto-al-fuego-no-resuelve-bloqueo-mas-de-800-buques-siguen-atrapados-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Buques-Ormuz-08-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-08T15:11:19.619Z"
+  "lastUpdate": "2026-04-08T17:03:01.422Z"
 };
