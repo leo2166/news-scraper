@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "475,01",
-      "eur": "549,70"
+      "usd": "475,96",
+      "eur": "556,52"
     },
     "binance": {
-      "usdt": "666,50"
+      "usdt": "669,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@
     },
     {
       "source": "El Nacional",
-      "title": "Encuesta Meganálisis: la mayoría de los consultados descarta recuperación económica con el chavismo en el poder\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/la-mayoria-de-los-venezolanos-no-cree-que-habra-recuperacion-economica-con-el-chavismo-en-el-poder/",
+      "title": "Reuters: sistema refinador en Venezuela sigue rezagado pese al aumento de producción petrolera\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/reuters-sistema-refinador-en-venezuela-sigue-rezagado-pese-al-aumento-de-produccion-petrolera/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Vance reitera que el alto el fuego no durará si Irán no reabre el estrecho de Ormuz",
+      "title": "A prueba, el frágil alto el fuego entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-16-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/4434b29f-47ab-4252-8da3-60dbb39d8959.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Centro \"Democracia e Inclusión\" pide al CNE elecciones generales en el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/centro-democracia-e-inclusion-pide-al-cne-elecciones-generales-en-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cne-ve-8fe448.jpg"
+      "title": "Presidenta (E) felicita a la atleta Clara Fuentes por su triunfo en Bangkok",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-felicita-a-la-atleta-clara-fuentes-por-su-triunfo-en-bangkok",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-04-08-183325-05fc8b.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SUPERLANO EXIGIÓ ANTE LA ONU ACCESO DE LA CRUZ ROJA A LAS CÁRCELES VENEZOLANAS",
-      "link": "https://noticierodigital.com/2026/04/superlano-exigio-ante-la-onu-acceso-de-la-cruz-roja-a-las-carceles-venezolanas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/freddy-superlano-627x376.jpg"
+      "title": "LE NEGARON LA AMNISTÍA AL TENIENTE CORONEL IGBERT MARÍN CHAPARRO",
+      "link": "https://noticierodigital.com/2026/04/le-negaron-la-amnistia-al-teniente-coronel-igbert-marin-chaparro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/teniente-coronel-igbert-marin-chaparro-foto-archivo-de-justiciaorg-5ene2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/8f7a93e6-9bcf-4d0f-871c-4447413f9ceb_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-08T21:41:25.880Z"
+  "lastUpdate": "2026-04-08T22:39:58.870Z"
 }
