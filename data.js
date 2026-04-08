@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "549,70"
     },
     "binance": {
-      "usdt": "665,00"
+      "usdt": "666,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La Casa Blanca afirma que el cese del fuego continuará si el estrecho de Ormuz permanece abierto",
+      "title": "Vance reitera que el alto el fuego no durará si Irán no reabre el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/04/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-08-113138.png?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/4434b29f-47ab-4252-8da3-60dbb39d8959.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ECARRI PROPONE «MODELO DE 1943» PARA ATRAER INVERSIÓN TRASNACIONAL A LA MINERÍA",
-      "link": "https://noticierodigital.com/2026/04/ecarri-propone-modelo-de-1943-para-atraer-inversion-trasnacional-a-la-mineria/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/antonio-ecarri-627x376.jpg"
+      "title": "SUPERLANO EXIGIÓ ANTE LA ONU ACCESO DE LA CRUZ ROJA A LAS CÁRCELES VENEZOLANAS",
+      "link": "https://noticierodigital.com/2026/04/superlano-exigio-ante-la-onu-acceso-de-la-cruz-roja-a-las-carceles-venezolanas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/freddy-superlano-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/8f7a93e6-9bcf-4d0f-871c-4447413f9ceb_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-08T20:43:22.171Z"
+  "lastUpdate": "2026-04-08T21:41:25.880Z"
 };
