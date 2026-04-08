@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "549,70"
     },
     "binance": {
-      "usdt": "667,50"
+      "usdt": "670,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Familias de campesinos acusados de nexos con grupos armados colombianos exigen al Parlamento venezolano que los incluya en la amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/04/07/familias-de-campesinos-acusados-de-nexos-con-grupos-armados-colombianos-exigen-al-parlamento-venezolano-que-los-incluya-en-la-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/BMD4JF36YFAVVPV6LYC4EUD7TU.jpg?auth=3b338092d7c93ae23c87fb5166da395ef1270bf2fe509fc46ac0a8404f1862b1&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez convoca a líderes religiosos a supervisar la amnistía mientras 490 presos políticos siguen detenidos",
+      "link": "https://www.infobae.com/venezuela/2026/04/08/delcy-rodriguez-convoca-a-lideres-religiosos-a-supervisar-la-amnistia-mientras-490-presos-politicos-siguen-detenidos/",
+      "image": "https://www.infobae.com/resizer/v2/IQRLU2X5YVHQHKYQNIHPCFYYYI?auth=b7e880d09014ac3e8583e613156bfaf18bcfea5078e3b8b4b8132947cf1e4d00&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump acuerda un alto el fuego de dos semanas con Irán",
+      "title": "EE.UU. e Irán acuerdan un alto el fuego de dos semanas",
       "link": "https://cnnespanol.cnn.com/2026/04/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-15-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26096678051341-20260407224450068.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "TSJ declara constitucionalidad de Ley Orgánica de Celeridad de Trámites",
-      "link": "https://noticiasvenevision.com/noticias/politica/tsj-declara-constitucionalidad-de-ley-organica-de-celeridad-de-tramites",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsj-960x640-1-1-250913.jpg"
+      "title": "Delcy Rodríguez dirigirá mensaje a la nación este miércoles con propuesta de cambios profundos",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-dirigira-mensaje-a-la-nacion-este-miercoles-con-propuesta-de-cambios-profundos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5091338332893023436-2171b9.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. E IRÁN ACORDARON UNA TREGUA DE DOS SEMANAS",
-      "link": "https://noticierodigital.com/2026/04/ee-uu-e-iran-acordaron-una-tregua-de-dos-semanas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/donald-trump-estados-unidos-1-627x376.jpg"
+      "title": "MIGRACIÓN COLOMBIA IMPLEMENTÓ NUEVO SISTEMA DE CITAS PARA TRÁMITES DE EXTRANJEROS",
+      "link": "https://noticierodigital.com/2026/04/migracion-colombia-implemento-nuevo-sistema-de-citas-para-tramites-de-extranjeros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/frontera-colombia-afp-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pakistán pide a Trump extender el ultimátum a Irán dos semanas",
-      "link": "https://diarioversionfinal.com/mundo/pakistan-pide-a-trump-extender-el-ultimatum-a-iran-dos-semanas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-29.jpg"
+      "title": "Milicia proiraní en Irak libera a periodista estadounidense secuestrada",
+      "link": "https://diarioversionfinal.com/mundo/milicia-proirani-en-irak-libera-a-periodista-estadounidense-secuestrada/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Shelly-Kittleson-07-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-07T23:37:23.118Z"
+  "lastUpdate": "2026-04-08T02:30:07.341Z"
 };
