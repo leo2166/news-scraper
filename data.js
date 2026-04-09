@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "659,00"
+      "usdt": "660,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La oposición mayoritaria de Venezuela presentará el próximo domingo una hoja de ruta para la transición",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/la-oposicion-mayoritaria-de-venezuela-presentara-el-proximo-domingo-una-hoja-de-ruta-para-la-transicion/",
-      "image": "https://www.infobae.com/resizer/v2/52ML5IIESVCWNNZZODVDB3NNBM.jpg?auth=2fe014f335254803676b3706e18fd6fcf218e5a6d90b0604b805057716878ada&smart=true&width=350&height=197&quality=85"
+      "title": "American Airlines fija el 30 de abril para reanudar vuelos directos entre Miami y Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/04/09/american-airlines-fija-el-30-de-abril-para-reanudar-vuelos-directos-entre-miami-y-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/WMAKKWJ32NEEVLQBUJCMQKOOXQ.JPG?auth=c38f8273473145e4aa7491ce7a797acee36693d326a4dda63cf22382b75bdfc8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Gobierno publica después de 10 años el Boletín Epidemiológico: más de 1.000 casos de malaria y 21 fallecidos por fiebre amarilla entre 2025-2026\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/gobierno-publica-despues-de-10-anos-el-boletin-epidemiologico-mas-de-1-000-casos-de-malaria-y-21-fallecidos-por-fiebre-amarilla-entre-2025-2026/",
+      "title": "Gobierno oprime marcha de trabajadores por salarios y pensiones\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/gobierno-oprime-marcha-de-trabajadores-por-salarios-y-pensiones/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU e Irán se preparan para conversaciones con el paso por Ormuz aún restringido",
+      "title": "Netanyahu afirma que Israel iniciará “negociaciones directas” con el Líbano",
       "link": "https://cnnespanol.cnn.com/2026/04/09/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormus-restringido.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269931888-20260409172837799.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BANCAMIGA Y ZONA TECH SELLAN ALIANZA PARA IMPULSAR EL ACCESO A LA TECNOLOGÍA EN EL PAÍS",
-      "link": "https://noticierodigital.com/2026/04/bancamiga-y-zona-tech-sellan-alianza-para-impulsar-el-acceso-a-la-tecnologia-en-el-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260409-WA0048-627x376.jpg"
+      "title": "AMERICAN AIRLINES ACTIVARÁ VUELOS DIRECTOS ENTRE MIAMI Y CARACAS A PARTIR DEL 30A",
+      "link": "https://noticierodigital.com/2026/04/american-airlines-activara-vuelos-directos-entre-miami-y-caracas-a-partir-del-30a/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/american-airlines-avion-16may2022.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La brutal pelea de hinchas tras partido de Junior en Cartagena: joven murió tras violento ataque",
-      "link": "https://www.noticiascaracol.com/colombia/la-brutal-pelea-de-hinchas-tras-partido-de-junior-en-cartagena-joven-murio-tras-violento-ataque-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d5ee365/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F19%2F8a%2Fc3e71b64438d830955546a6ab52c%2Ffotos-discover-2026-04-09t085653-636.jpg"
+      "title": "Los graves efectos de un eventual súper fenómeno de El Niño en Colombia: esto advierten expertos",
+      "link": "https://www.noticiascaracol.com/colombia/super-fenomeno-de-el-nino-y-sus-graves-efectos-en-colombia-en-caso-de-un-eventual-desarrollo-esto-advierten-expertos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dbe4184/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2F8b%2F8361a4e94d0f9c9a8d036f619cd7%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán acusa a Israel de una “violación flagrante” del alto al fuego",
-      "link": "https://diarioversionfinal.com/mundo/iran-acusa-a-israel-de-una-violacion-flagrante-del-alto-al-fuego/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/69d67482e98933-58530296-750x430.webp"
+      "title": "Netanyahu afirma que Israel negociará con el Líbano para el desarme de Hezbollah",
+      "link": "https://diarioversionfinal.com/mundo/netanyahu-afirma-que-israel-negociara-con-el-libano-para-el-desarme-de-hezbollah/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/israel-benjamin-netanyahu-afpjpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-09T16:18:26.838Z"
+  "lastUpdate": "2026-04-09T17:59:06.266Z"
 };
