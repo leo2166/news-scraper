@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "659,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal informó que en Venezuela hay 485 presos políticos y dijo que la amnistía ralentiza su libertad",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/el-foro-penal-informo-que-en-venezuela-hay-485-presos-politicos-y-dijo-que-la-amnistia-ralentiza-su-libertad/",
-      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición mayoritaria de Venezuela presentará el próximo domingo una hoja de ruta para la transición",
+      "link": "https://www.infobae.com/venezuela/2026/04/09/la-oposicion-mayoritaria-de-venezuela-presentara-el-proximo-domingo-una-hoja-de-ruta-para-la-transicion/",
+      "image": "https://www.infobae.com/resizer/v2/52ML5IIESVCWNNZZODVDB3NNBM.jpg?auth=2fe014f335254803676b3706e18fd6fcf218e5a6d90b0604b805057716878ada&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Foro Penal registra 485 presos políticos en Venezuela y asegura que amnistía ralentiza su libertad\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/foro-penal-registra-485-presos-politicos-en-venezuela-y-asegura-que-amnistia-ralentiza-su-libertad/",
+      "title": "Gobierno publica después de 10 años el Boletín Epidemiológico: más de 1.000 casos de malaria y 21 fallecidos por fiebre amarilla entre 2025-2026\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/gobierno-publica-despues-de-10-anos-el-boletin-epidemiologico-mas-de-1-000-casos-de-malaria-y-21-fallecidos-por-fiebre-amarilla-entre-2025-2026/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,21 +38,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA INICIÓ ABRIL COMO EL TERCER PROVEEDOR DE PETRÓLEO DE EE .UU.",
-      "link": "https://noticierodigital.com/2026/04/venezuela-inicio-abril-como-el-tercer-proveedor-de-petroleo-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/05/opep-acuerda-leve-aumento-en-la-produccion-de-petroleo-107281.jpg"
+      "title": "BANCAMIGA Y ZONA TECH SELLAN ALIANZA PARA IMPULSAR EL ACCESO A LA TECNOLOGÍA EN EL PAÍS",
+      "link": "https://noticierodigital.com/2026/04/bancamiga-y-zona-tech-sellan-alianza-para-impulsar-el-acceso-a-la-tecnologia-en-el-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260409-WA0048-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Caso 'Papá Pitufo': Procuraduría abrió investigación disciplinaria al exdirector de DNI, Jorge Lemus",
-      "link": "https://www.noticiascaracol.com/judicial/caso-alias-papa-pitufo-procuraduria-abrio-investigacion-disciplinaria-al-exdirector-del-dni-jorge-lemus-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0888fff/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb6%2Fe7%2F43c7502248dd93e530948ee123b8%2Flemus-y-pitufo-1.jpg"
+      "title": "La brutal pelea de hinchas tras partido de Junior en Cartagena: joven murió tras violento ataque",
+      "link": "https://www.noticiascaracol.com/colombia/la-brutal-pelea-de-hinchas-tras-partido-de-junior-en-cartagena-joven-murio-tras-violento-ataque-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d5ee365/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F19%2F8a%2Fc3e71b64438d830955546a6ab52c%2Ffotos-discover-2026-04-09t085653-636.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Detienen a médico venezolano en Texas pese a estatus migratorio en proceso",
-      "link": "https://laverdad.com/detienen-a-medico-venezolano-en-texas-pese-a-estatus-migratorio-en-proceso/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Enrique-Veliz.jpg"
+      "title": "León XIV se reúne con su nuevo nuncio en EE. UU. en medio de la crisis en Oriente Medio",
+      "link": "https://laverdad.com/leon-xiv-se-reune-con-su-nuevo-nuncio-en-ee-uu-en-medio-de-la-crisis-en-oriente-medio/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-Gabriele-Caccia.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/69d67482e98933-58530296-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-09T14:05:24.728Z"
+  "lastUpdate": "2026-04-09T16:18:26.838Z"
 };
