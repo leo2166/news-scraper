@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "660,69"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "American Airlines fija el 30 de abril para reanudar vuelos directos entre Miami y Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/american-airlines-fija-el-30-de-abril-para-reanudar-vuelos-directos-entre-miami-y-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/WMAKKWJ32NEEVLQBUJCMQKOOXQ.JPG?auth=c38f8273473145e4aa7491ce7a797acee36693d326a4dda63cf22382b75bdfc8&smart=true&width=350&height=197&quality=85"
+      "title": "Protesta en Caracas: el régimen chavista dispersó una marcha de trabajadores hacia Miraflores",
+      "link": "https://www.infobae.com/venezuela/2026/04/09/protesta-en-caracas-el-regimen-chavista-disperso-una-marcha-de-trabajadores-hacia-miraflores/",
+      "image": "https://www.infobae.com/resizer/v2/DVGSTUIOVVHV3OYQA3LWH763NU.jpg?auth=fadee54d8c03ae0a1a8571e5929fbc056eeb5a6eefa5c7f85ad73c1b7ab65d24&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/israel-benjamin-netanyahu-afpjpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-09T17:59:06.266Z"
+  "lastUpdate": "2026-04-09T19:21:22.098Z"
 };
