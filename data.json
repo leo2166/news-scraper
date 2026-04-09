@@ -5,7 +5,7 @@
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "665,69"
+      "usdt": "665,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos sopesa levantar las sanciones del Banco Central de Venezuela para ayudar a la economía",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/estados-unidos-sopesa-levantar-las-sanciones-del-banco-central-de-venezuela-para-ayudar-a-la-economia/",
-      "image": "https://www.infobae.com/resizer/v2/GIMKNO6E6ZN5VGNTOIAMMRHPKA.jpg?auth=64e78382138ad4cd2389e36a2bdb3a0e701c7997a6acbf25a5e74f2f05a722fd&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez anunció nuevas medidas económicas y prometió una suba salarial en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/09/delcy-rodriguez-anuncio-nuevas-medidas-economicas-y-prometio-una-suba-salarial-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/X7A4JJC745HQRDZIG6UAEW3Z2I.jpg?auth=1691aacd8a048def8ada435e5e78c2299e7a0ab51db3e55dda366f9d1f8d25a7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,25 +28,25 @@
       "source": "CNN en Español",
       "title": "A prueba, el frágil alto el fuego entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-08t111223z-590392774-rc2wkkabf756-rtrmadp-3-iran-crisis-oman-hormuz-1.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-04-08-113138.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Convocan peregrinación del 19 de abril al 1 de mayo en rechazo a las sanciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/convocan-peregrinacion-del-19-de-abril-al-1-de-mayo-en-rechazo-a-las-sanciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ame3060-venezuela-eeuu-09fce4.jpg"
+      "title": "Promulgan Ley de Celeridad y Optimización de Trámites Administrativos",
+      "link": "https://noticiasvenevision.com/noticias/politica/promulgan-ley-de-celeridad-y-optimizacion-de-tramites-administrativos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/firmaaa-ff2d8d.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIOSDADO CABELLO ACUSÓ A LA OPOSICIÓN DE ACTUAR CON «ODIO»",
-      "link": "https://noticierodigital.com/2026/04/diosdado-cabello-acuso-a-la-oposicion-de-actuar-con-odio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/diosdado-cabello-venezuela-627x376.jpg"
+      "title": "JUAN PABLO GUANIPA EXIGE CAMBIOS POLÍTICOS PARA EL FUTURO DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/juan-pablo-guanipa-exige-cambios-politicos-para-el-futuro-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/juan-pablo-guanipa-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Standard & Poor's rebaja la calificación de riesgo de Colombia, ¿qué implica?",
-      "link": "https://www.noticiascaracol.com/economia/standard-poors-rebaja-la-calificacion-de-riesgo-de-colombia-que-implica-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/404aa64/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fce%2F07%2Fe58fdad341998ef27b285bdb3114%2Fplantilla-fotos-2.jpg"
+      "title": "\"Lo traiciona\": la pista clave que llevó a la captura de 'Mison', peligroso criminal de Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/lo-traiciona-la-pista-clave-que-llevo-a-la-captura-de-mison-peligroso-criminal-de-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5b527b1/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd0%2Fc3%2F576e2f5740ba8c1f451526b8043c%2Fportadas-caracol-web-64.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Hezbollah anunció nuevos ataques contra Israel y lo acusó de violar el alto el fuego",
-      "link": "https://diarioversionfinal.com/mundo/hezbollah-anuncio-nuevos-ataques-contra-israel-y-lo-acuso-de-violar-el-alto-el-fuego/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2248.webp"
+      "title": "Netanyahu sobre el fin de la guerra: “Seguimos con el dedo en el gatillo”",
+      "link": "https://diarioversionfinal.com/mundo/netanyahu-sobre-el-fin-de-la-guerra-seguimos-con-el-dedo-en-el-gatillo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-09T02:25:18.182Z"
+  "lastUpdate": "2026-04-09T05:10:12.319Z"
 }
