@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "666,69"
+      "usdt": "665,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Denuncian agresiones contra periodistas durante cobertura de la marcha en Caracas\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/sntp-denuncia-agresiones-contra-periodistas-durante-cobertura-de-movilizacion-en-caracas/",
+      "title": "AN designa a Larry Devoe fiscal general y a Eglée González Lobato defensora del pueblo\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/an-designa-a-larry-devoe-como-fiscal-general-y-eglee-gonzalez-lobato-como-defensora-del-pueblo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "A pesar del cese del fuego, los barcos no están atravesando el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/04/09/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-08t111223z-590392774-rc2wkkabf756-rtrmadp-3-iran-crisis-oman-hormuz-20260409205059848.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Asamblea de Venezuela aprueba ley de minas que abre el sector a inversión extranjera",
+      "link": "https://cnnespanol.cnn.com/2026/04/09/venezuela/asamblea-nueva-ley-minas-inversiones-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-04-09-at-15-55-35.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EGLEE GONZÁLEZ LOBATO DESIGNADA POR LA AN COMO NUEVA DEFENSORA DEL PUEBLO",
-      "link": "https://noticierodigital.com/2026/04/eglee-gonzalez-lobato-designada-por-la-an-como-nueva-defensora-del-pueblo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/11/egleegonzalezlobato-inhabilitados-mexico-30nov2021.jpg"
+      "title": "AN APROBÓ NUEVA LEY ORGÁNICA DE MINAS PARA PERMITIR LA INVERSIÓN EXTRANJERA",
+      "link": "https://noticierodigital.com/2026/04/an-aprobo-nueva-ley-organica-de-minas-para-permitir-la-inversion-extranjera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/asamblea-nacional-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-09T21:45:36.018Z"
+  "lastUpdate": "2026-04-09T22:41:14.553Z"
 };
