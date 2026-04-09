@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "665,69"
+      "usdt": "666,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La incertidumbre contractual frena el interés inversor en el sector energético venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/la-incertidumbre-contractual-frena-el-interes-inversor-en-el-sector-energetico-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/2JBYM343ENGVNAHNMO7ZIAFV5Q.JPG?auth=475f294e33df7791c93a7754db58f31f6b0717f0f89af8e8f3a197be54b80024&smart=true&width=350&height=197&quality=85"
+      "title": "Larry Devoe, colaborador cercano del chavismo, fue designado como nuevo fiscal general de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/09/larry-devoe-colaborador-cercano-del-chavismo-fue-designado-como-nuevo-fiscal-general-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/T4FTDS6ZRVBYJLKU7RN4OUWU6A.jpg?auth=027b5375d7cab74583ad42a65427296f7d3ac600c01d675c00fea5a4163237ad&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN APROBÓ NUEVA LEY ORGÁNICA DE MINAS PARA PERMITIR LA INVERSIÓN EXTRANJERA",
-      "link": "https://noticierodigital.com/2026/04/an-aprobo-nueva-ley-organica-de-minas-para-permitir-la-inversion-extranjera/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/asamblea-nacional-venezuela-627x376.jpg"
+      "title": "CUERPOS DE SEGURIDAD DETUVIERON A DIRIGENTE ESTUDIANTIL DURANTE PROTESTA EN CARACAS",
+      "link": "https://noticierodigital.com/2026/04/cuerpos-de-seguridad-detuvieron-a-dirigente-estudiantil-durante-protesta-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/ort-betancourt-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Datos ocultos del concierto de Nelson Velásquez en la cárcel de Itagüí: ¿cuánto habría costado?",
-      "link": "https://www.noticiascaracol.com/colombia/datos-ocultos-del-concierto-de-nelson-velasquez-en-la-carcel-de-itagui-cuanto-habria-costado-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/301b0d5/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F75%2F1b%2F75f04c0d4b979f015e2efa84e3ad%2Fnelson-velasquez-1.jpg"
+      "title": "Ecuador subirá aranceles a importaciones desde Colombia del 50% al 100% y recrudece guerra comercial",
+      "link": "https://www.noticiascaracol.com/mundo/ecuador-subira-aranceles-a-importaciones-desde-colombia-del-50-al-100-y-recrudece-guerra-comercial-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ff25862/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F57%2F40%2Ff91a14c3434ea0a03991aa3891dd%2Ffrontera-colombia-y-ecuador.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-09T22:41:14.553Z"
+  "lastUpdate": "2026-04-09T23:37:39.127Z"
 };
