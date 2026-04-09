@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "475,96",
-      "eur": "556,52"
+      "usd": "476,43",
+      "eur": "556,66"
     },
     "binance": {
-      "usdt": "667,69"
+      "usdt": "666,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,7 +20,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "SNTP denuncia agresiones contra 10 periodistas durante cobertura de movilización en Caracas\nVENEZUELA",
+      "title": "Denuncian agresiones contra periodistas durante cobertura de la marcha en Caracas\nVENEZUELA",
       "link": "https://www.elnacional.com/2026/04/sntp-denuncia-agresiones-contra-periodistas-durante-cobertura-de-movilizacion-en-caracas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria Democrática presentará hoja de ruta para la transición",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-democratica-presentara-hoja-de-ruta-para-la-transicion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_669398106_18581314129053185_2058475293886921455_n-fb05bc.jpg"
+      "title": "Delcy Rodríguez visita Granada en su primer viaje a otro país como presidenta encargada",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-visita-granada-en-su-primer-viaje-a-otro-pais-como-presidenta-encargada",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/668570052_933597529424915_4831156977019113323_n-0351f6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EL PAÍS NECESITA BAJAR LA INFLACIÓN», REPROCHÓ CAPRILES TRAS ANUNCIOS SOBRE EL SALARIO",
-      "link": "https://noticierodigital.com/2026/04/el-pais-necesita-bajar-la-inflacion-reprocho-capriles-tras-anuncios-sobre-el-salario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/henrique-capriles-radonski-2-627x376.jpg"
+      "title": "EGLEE GONZÁLEZ LOBATO DESIGNADA POR LA AN COMO NUEVA DEFENSORA DEL PUEBLO",
+      "link": "https://noticierodigital.com/2026/04/eglee-gonzalez-lobato-designada-por-la-an-como-nueva-defensora-del-pueblo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/11/egleegonzalezlobato-inhabilitados-mexico-30nov2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los graves efectos de un eventual súper fenómeno de El Niño en Colombia: esto advierten expertos",
-      "link": "https://www.noticiascaracol.com/colombia/super-fenomeno-de-el-nino-y-sus-graves-efectos-en-colombia-en-caso-de-un-eventual-desarrollo-esto-advierten-expertos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dbe4184/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2F8b%2F8361a4e94d0f9c9a8d036f619cd7%2Fdiseno-1.jpg"
+      "title": "Datos ocultos del concierto de Nelson Velásquez en la cárcel de Itagüí: ¿cuánto habría costado?",
+      "link": "https://www.noticiascaracol.com/colombia/datos-ocultos-del-concierto-de-nelson-velasquez-en-la-carcel-de-itagui-cuanto-habria-costado-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/301b0d5/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F75%2F1b%2F75f04c0d4b979f015e2efa84e3ad%2Fnelson-velasquez-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-09T20:52:52.779Z"
+  "lastUpdate": "2026-04-09T21:45:36.018Z"
 };
