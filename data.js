@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "631,00"
+      "usdt": "664,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció nuevas medidas económicas y prometió una suba salarial en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/delcy-rodriguez-anuncio-nuevas-medidas-economicas-y-prometio-una-suba-salarial-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/X7A4JJC745HQRDZIG6UAEW3Z2I.jpg?auth=1691aacd8a048def8ada435e5e78c2299e7a0ab51db3e55dda366f9d1f8d25a7&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal informó que en Venezuela hay 485 presos políticos y dijo que la amnistía ralentiza su libertad",
+      "link": "https://www.infobae.com/venezuela/2026/04/09/el-foro-penal-informo-que-en-venezuela-hay-485-presos-politicos-y-dijo-que-la-amnistia-ralentiza-su-libertad/",
+      "image": "https://www.infobae.com/resizer/v2/W36IXU2F2ZCSLL5Q4YVVXHQKIE.jpg?auth=fd886276af2ac3d5ce3af99be9fd94ab04f65b94b1804836a1317b46173b55f9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Delcy Rodríguez anuncia que habrá aumento del salario a partir del 1 de mayo\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/delcy-rodriguez-anuncia-aumento-del-salario-a-partir-del-1-de-mayo/",
+      "title": "Foro Penal registra 485 presos políticos en Venezuela y asegura que amnistía ralentiza su libertad\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/foro-penal-registra-485-presos-politicos-en-venezuela-y-asegura-que-amnistia-ralentiza-su-libertad/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "A prueba, el frágil alto el fuego entre EE.UU. e Irán",
+      "title": "Los ataques en el Líbano tensan el frágil alto el fuego entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-16-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-2026-04-07t163609z-1719476162-rc2gkka1mv7g-rtrmadp-3-hungary-usa-vance-20260409062432993.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26098622044782a-20260409000624277.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-09T09:09:01.341Z"
+  "lastUpdate": "2026-04-09T10:59:18.175Z"
 };
