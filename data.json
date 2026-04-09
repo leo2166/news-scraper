@@ -5,7 +5,7 @@
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "667,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Protesta en Caracas: el régimen chavista dispersó una marcha de trabajadores hacia Miraflores",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/protesta-en-caracas-el-regimen-chavista-disperso-una-marcha-de-trabajadores-hacia-miraflores/",
-      "image": "https://www.infobae.com/resizer/v2/DVGSTUIOVVHV3OYQA3LWH763NU.jpg?auth=fadee54d8c03ae0a1a8571e5929fbc056eeb5a6eefa5c7f85ad73c1b7ab65d24&smart=true&width=350&height=197&quality=85"
+      "title": "La incertidumbre contractual frena el interés inversor en el sector energético venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/04/09/la-incertidumbre-contractual-frena-el-interes-inversor-en-el-sector-energetico-venezolano/",
+      "image": "https://www.infobae.com/resizer/v2/2JBYM343ENGVNAHNMO7ZIAFV5Q.JPG?auth=475f294e33df7791c93a7754db58f31f6b0717f0f89af8e8f3a197be54b80024&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Gobierno oprime marcha de trabajadores por salarios y pensiones\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/gobierno-oprime-marcha-de-trabajadores-por-salarios-y-pensiones/",
+      "title": "SNTP denuncia agresiones contra 10 periodistas durante cobertura de movilización en Caracas\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/sntp-denuncia-agresiones-contra-periodistas-durante-cobertura-de-movilizacion-en-caracas/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Netanyahu afirma que Israel iniciará “negociaciones directas” con el Líbano",
+      "title": "A pesar del cese del fuego, los barcos no están atravesando el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/04/09/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269931888-20260409172837799.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-08t111223z-590392774-rc2wkkabf756-rtrmadp-3-iran-crisis-oman-hormuz-20260409205059848.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Promulgan Ley de Celeridad y Optimización de Trámites Administrativos",
-      "link": "https://noticiasvenevision.com/noticias/politica/promulgan-ley-de-celeridad-y-optimizacion-de-tramites-administrativos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/firmaaa-ff2d8d.png"
+      "title": "Plataforma Unitaria Democrática presentará hoja de ruta para la transición",
+      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-democratica-presentara-hoja-de-ruta-para-la-transicion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_669398106_18581314129053185_2058475293886921455_n-fb05bc.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AMERICAN AIRLINES ACTIVARÁ VUELOS DIRECTOS ENTRE MIAMI Y CARACAS A PARTIR DEL 30A",
-      "link": "https://noticierodigital.com/2026/04/american-airlines-activara-vuelos-directos-entre-miami-y-caracas-a-partir-del-30a/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/american-airlines-avion-16may2022.jpg"
+      "title": "«EL PAÍS NECESITA BAJAR LA INFLACIÓN», REPROCHÓ CAPRILES TRAS ANUNCIOS SOBRE EL SALARIO",
+      "link": "https://noticierodigital.com/2026/04/el-pais-necesita-bajar-la-inflacion-reprocho-capriles-tras-anuncios-sobre-el-salario/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/henrique-capriles-radonski-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "León XIV se reúne con su nuevo nuncio en EE. UU. en medio de la crisis en Oriente Medio",
-      "link": "https://laverdad.com/leon-xiv-se-reune-con-su-nuevo-nuncio-en-ee-uu-en-medio-de-la-crisis-en-oriente-medio/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-Gabriele-Caccia.jpg"
+      "title": "Artemis II alista el regreso a la Tierra y amerizaje en penúltimo día de misión",
+      "link": "https://laverdad.com/artemis-ii-alista-el-regreso-a-la-tierra-y-amerizaje-en-penultimo-dia-de-mision/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Netanyahu afirma que Israel negociará con el Líbano para el desarme de Hezbollah",
-      "link": "https://diarioversionfinal.com/mundo/netanyahu-afirma-que-israel-negociara-con-el-libano-para-el-desarme-de-hezbollah/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/israel-benjamin-netanyahu-afpjpg-750x430.webp"
+      "title": "Putin declara una tregua de menos de dos días en Ucrania por la Pascua ortodoxa",
+      "link": "https://diarioversionfinal.com/mundo/putin-declara-una-tregua-de-menos-de-dos-dias-en-ucrania-por-la-pascua-ortodoxa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-09T19:21:22.098Z"
+  "lastUpdate": "2026-04-09T20:52:52.779Z"
 }
