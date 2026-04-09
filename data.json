@@ -5,7 +5,7 @@
       "eur": "556,52"
     },
     "binance": {
-      "usdt": "630,60"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Ataques de Israel en el Líbano tensan el frágil alto el fuego entre EE.UU. e Irán",
+      "title": "EE.UU e Irán se preparan para conversaciones con el paso por Ormuz aún restringido",
       "link": "https://cnnespanol.cnn.com/2026/04/09/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-17-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269811605-20260409043614230.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormus-restringido.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN PABLO GUANIPA EXIGE CAMBIOS POLÍTICOS PARA EL FUTURO DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/juan-pablo-guanipa-exige-cambios-politicos-para-el-futuro-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/juan-pablo-guanipa-627x376.jpg"
+      "title": "VENEZUELA INICIÓ ABRIL COMO EL TERCER PROVEEDOR DE PETRÓLEO DE EE .UU.",
+      "link": "https://noticierodigital.com/2026/04/venezuela-inicio-abril-como-el-tercer-proveedor-de-petroleo-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/05/opep-acuerda-leve-aumento-en-la-produccion-de-petroleo-107281.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"Lo traiciona\": la pista clave que llevó a la captura de 'Mison', peligroso criminal de Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/lo-traiciona-la-pista-clave-que-llevo-a-la-captura-de-mison-peligroso-criminal-de-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5b527b1/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd0%2Fc3%2F576e2f5740ba8c1f451526b8043c%2Fportadas-caracol-web-64.png"
+      "title": "Caso 'Papá Pitufo': Procuraduría abrió investigación disciplinaria al exdirector de DNI, Jorge Lemus",
+      "link": "https://www.noticiascaracol.com/judicial/caso-alias-papa-pitufo-procuraduria-abrio-investigacion-disciplinaria-al-exdirector-del-dni-jorge-lemus-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0888fff/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb6%2Fe7%2F43c7502248dd93e530948ee123b8%2Flemus-y-pitufo-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Arrestan a alias “Mison”, cabecilla de la banda “Los Maracuchos” en Bogotá",
-      "link": "https://laverdad.com/arrestan-a-alias-mison-cabecilla-de-la-banda-los-maracuchos-en-bogota/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/alias-Mison-banda-Los-Maracuchos-Bogota.jpg"
+      "title": "Detienen a médico venezolano en Texas pese a estatus migratorio en proceso",
+      "link": "https://laverdad.com/detienen-a-medico-venezolano-en-texas-pese-a-estatus-migratorio-en-proceso/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Enrique-Veliz.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Netanyahu sobre el fin de la guerra: “Seguimos con el dedo en el gatillo”",
-      "link": "https://diarioversionfinal.com/mundo/netanyahu-sobre-el-fin-de-la-guerra-seguimos-con-el-dedo-en-el-gatillo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
+      "title": "Irán acusa a Israel de una “violación flagrante” del alto al fuego",
+      "link": "https://diarioversionfinal.com/mundo/iran-acusa-a-israel-de-una-violacion-flagrante-del-alto-al-fuego/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/69d67482e98933-58530296-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-09T11:59:17.841Z"
+  "lastUpdate": "2026-04-09T14:05:24.728Z"
 }
