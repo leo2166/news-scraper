@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "662,00"
+      "usdt": "666,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal denunció que un dirigente juvenil fue detenido en las protestas reprimidas por el régimen en Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/04/10/el-foro-penal-denuncio-que-un-dirigente-juvenil-fue-detenido-en-las-protestas-reprimidas-por-el-regimen-en-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/B5LPEBNWQ5CCXGURTRK4CIYSCQ.JPG?auth=e8430f64ccff6f0c684a9427f96dd3d8bd66234b20740501fed0480e8ae299ff&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela publicó su boletín epidemiológico tras diez años sin divulgar datos de salud",
+      "link": "https://www.infobae.com/venezuela/2026/04/10/venezuela-publico-su-boletin-epidemiologico-tras-diez-anos-sin-divulgar-datos-de-salud/",
+      "image": "https://www.infobae.com/resizer/v2/ZKLRHX2AAVGQPFGUJALDR2JOXA.jpg?auth=edc610a96f081992d75e400144fde48b89eddd09950d81a47021e18eccbe42e7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Oposición democrática presentará una hoja de ruta para la transición en Venezuela\nNOTICIAS",
-      "link": "https://www.elnacional.com/2026/04/oposicion-democratica-presentara-una-hoja-de-ruta-para-la-transicion-en-venezuela/",
+      "title": "Larry Devoe, el funcionario de confianza de Delcy Rodríguez que asume la Fiscalía General\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/larry-devoe-operador-juridico-del-chavismo-asume-la-fiscalia/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,34 +32,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Magaly Vásquez aboga por la reinstitucionalización del país tras decisión de la AN sobre la Fiscalía",
-      "link": "https://noticiasvenevision.com/noticias/politica/magaly-vasquez-aboga-por-la-reinstitucionalizacion-del-pais-tras-decision-de-la-an-sobre-la-fiscalia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/magaly-vasquez-2021-4-170d09.jpg"
+      "title": "Cardenal Baltazar Porras rechaza agresiones contra manifestaciones pacíficas",
+      "link": "https://noticiasvenevision.com/noticias/politica/cardenal-baltazar-porras-rechaza-agresiones-contra-manifestaciones-pacificas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_6vomir6vomir6vom-1214e6.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONOCOPHILLIPS EVALÚA GARANTÍAS JURÍDICAS PARA UN EVENTUAL REGRESO A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/conocophillips-evalua-garantias-juridicas-para-un-eventual-regreso-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/conocophilips-627x376.jpg"
+      "title": "AL ÚLTIMO HONOR QUE LLEGÓ A VENEZUELA LE DURA 3 DÍAS LA BATERÍA",
+      "link": "https://noticierodigital.com/2026/04/al-ultimo-honor-que-llego-a-venezuela-le-dura-3-dias-la-bateria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1775830309460-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Lo que no se ve de la campaña de Paloma Valencia y sus conversaciones con su hija Amapola",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/lo-que-no-se-ve-de-la-campana-de-paloma-valencia-y-sus-conversaciones-con-su-hija-amapola-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9cb673c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F59%2F12%2Fdf1411204fab806144b58de96175%2Fpaloma-valencia.jpg"
+      "title": "Petro ordena a embajadora en Ecuador venir de nuevo a Colombia tras aumento de aranceles del 100 %",
+      "link": "https://www.noticiascaracol.com/politica/petro-ordeno-a-la-embajadora-en-ecuador-venir-a-colombia-tras-aumentos-de-aranceles-de-ese-pais-del-100-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8da1544/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F4d%2Ff7965e804b2aa1517e418e9516a9%2Fmovilidad-bogota-2026-01-21t231617-974.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Artemis II alista el regreso a la Tierra y amerizaje en penúltimo día de misión",
-      "link": "https://laverdad.com/artemis-ii-alista-el-regreso-a-la-tierra-y-amerizaje-en-penultimo-dia-de-mision/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Artemis-1.jpg"
+      "title": "El Vaticano calma los rumores de un desencuentro con la Administración Trump",
+      "link": "https://laverdad.com/el-vaticano-calma-los-rumores-de-un-desencuentro-con-la-administracion-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/papa-leon.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estrecho de Ormuz mantiene tráfico “mínimo” de buques durante tregua con Irán",
-      "link": "https://diarioversionfinal.com/mundo/estrecho-de-ormuz-mantiene-trafico-minimo-de-buques-durante-tregua-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
+      "title": "EE.UU. e Irán desembarcan en Pakistán para protagonizar compleja negociación",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-e-iran-desembarcan-en-pakistan-para-protagonizar-compleja-negociacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-10-at-10.31.05-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-10T13:12:25.219Z"
+  "lastUpdate": "2026-04-10T14:48:54.506Z"
 };
