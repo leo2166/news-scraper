@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "666,15"
+      "usdt": "665,98"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Larry Devoe, colaborador cercano del chavismo, fue designado como nuevo fiscal general de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/09/larry-devoe-colaborador-cercano-del-chavismo-fue-designado-como-nuevo-fiscal-general-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/T4FTDS6ZRVBYJLKU7RN4OUWU6A.jpg?auth=027b5375d7cab74583ad42a65427296f7d3ac600c01d675c00fea5a4163237ad&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela aprobó una nueva ley de minas que permite la inversión extranjera en el sector aurífero",
+      "link": "https://www.infobae.com/venezuela/2026/04/10/el-parlamento-de-venezuela-aprobo-una-nueva-ley-de-minas-que-permite-la-inversion-extranjera-en-el-sector-aurifero/",
+      "image": "https://www.infobae.com/resizer/v2/XTM3XMXQ2VEJ3KVHYCZSA5I2N4.jpg?auth=288ebe4df5f70e71395dd23537d619ec2850af110eb386d2e4421b06cfa12ab8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -28,25 +28,25 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Asamblea de Venezuela aprueba ley de minas que abre el sector a inversión extranjera",
       "link": "https://cnnespanol.cnn.com/2026/04/09/venezuela/asamblea-nueva-ley-minas-inversiones-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-04-09-at-15-55-35.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/56057eaed751141245fce964d43693e8e6496164w.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez visita Granada en su primer viaje a otro país como presidenta encargada",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-visita-granada-en-su-primer-viaje-a-otro-pais-como-presidenta-encargada",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/668570052_933597529424915_4831156977019113323_n-0351f6.jpg"
+      "title": "Parlamento venezolano aprueba la Ley Orgánica de Minas",
+      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-venezolano-aprueba-la-ley-organica-de-minas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-debate-ley-de-minas-67a813.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CUERPOS DE SEGURIDAD DETUVIERON A DIRIGENTE ESTUDIANTIL DURANTE PROTESTA EN CARACAS",
-      "link": "https://noticierodigital.com/2026/04/cuerpos-de-seguridad-detuvieron-a-dirigente-estudiantil-durante-protesta-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/ort-betancourt-627x376.jpg"
+      "title": "CONOCOPHILLIPS EVALÚA GARANTÍAS JURÍDICAS PARA UN EVENTUAL REGRESO A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/conocophillips-evalua-garantias-juridicas-para-un-eventual-regreso-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/conocophilips-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ecuador subirá aranceles a importaciones desde Colombia del 50% al 100% y recrudece guerra comercial",
-      "link": "https://www.noticiascaracol.com/mundo/ecuador-subira-aranceles-a-importaciones-desde-colombia-del-50-al-100-y-recrudece-guerra-comercial-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ff25862/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F57%2F40%2Ff91a14c3434ea0a03991aa3891dd%2Ffrontera-colombia-y-ecuador.jpg"
+      "title": "Lo que no se ve de la campaña de Paloma Valencia y sus conversaciones con su hija Amapola",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/lo-que-no-se-ve-de-la-campana-de-paloma-valencia-y-sus-conversaciones-con-su-hija-amapola-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9cb673c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F59%2F12%2Fdf1411204fab806144b58de96175%2Fpaloma-valencia.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Putin declara una tregua de menos de dos días en Ucrania por la Pascua ortodoxa",
-      "link": "https://diarioversionfinal.com/mundo/putin-declara-una-tregua-de-menos-de-dos-dias-en-ucrania-por-la-pascua-ortodoxa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
+      "title": "Marshall Billingslea tacha de “un gran paso atrás” en Venezuela represión contra marcha de trabajadores",
+      "link": "https://diarioversionfinal.com/mundo/marshall-billingslea-tacha-de-un-gran-paso-atras-en-venezuela-represion-contra-marcha-de-trabajadores/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Protestas-Caracas-09-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-09T23:37:39.127Z"
+  "lastUpdate": "2026-04-10T02:35:50.836Z"
 };
