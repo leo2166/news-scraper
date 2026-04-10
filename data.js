@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "637,00"
+      "usdt": "667,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela publicó su boletín epidemiológico tras diez años sin divulgar datos de salud",
-      "link": "https://www.infobae.com/venezuela/2026/04/10/venezuela-publico-su-boletin-epidemiologico-tras-diez-anos-sin-divulgar-datos-de-salud/",
-      "image": "https://www.infobae.com/resizer/v2/ZKLRHX2AAVGQPFGUJALDR2JOXA.jpg?auth=edc610a96f081992d75e400144fde48b89eddd09950d81a47021e18eccbe42e7&smart=true&width=350&height=197&quality=85"
+      "title": "Detención y torturas: el perturbador relato de un padre sobre su hijo detenido por el “Caso Cadetes”",
+      "link": "https://www.infobae.com/venezuela/2026/04/10/detencion-y-torturas-el-perturbador-relato-de-un-padre-sobre-su-hijo-detenido-por-el-caso-cadetes/",
+      "image": "https://www.infobae.com/resizer/v2/GLRN4JHU25G5RDTV3ICNTPU65U.jpg?auth=17717b15a81de4082204db439aada3e08e01e3c7bfc0f3c61a03ebebc5822348&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Larry Devoe, el funcionario de confianza de Delcy Rodríguez que asume la Fiscalía General\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/larry-devoe-operador-juridico-del-chavismo-asume-la-fiscalia/",
+      "title": "¿Quién es Eglée González, la nueva defensora del pueblo?\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/quien-es-eglee-gonzalez-la-nueva-defensora-del-pueblo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Vance parte a Pakistán tras advertir a Irán contra cualquier intento de engañar a EE.UU.",
+      "title": "Trump advierte a Irán que la ofensiva se intensificará si no se alcanza un acuerdo",
       "link": "https://cnnespanol.cnn.com/2026/04/10/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-18-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270099333.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-the-new-york-post.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Cardenal Baltazar Porras rechaza agresiones contra manifestaciones pacíficas",
-      "link": "https://noticiasvenevision.com/noticias/politica/cardenal-baltazar-porras-rechaza-agresiones-contra-manifestaciones-pacificas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_6vomir6vomir6vom-1214e6.png"
+      "title": "Asamblea Nacional ratifica a Coromoto Godoy como representante de Venezuela ante la ONU",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-ratifica-a-coromoto-godoy-como-representante-de-venezuela-ante-la-onu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_637710935_18046471937739579_6741920025251813018_n-1-c6eaab.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ITALIA Y VENEZUELA RELANZAN RELACIÓN BILATERAL TRAS LIBERACIÓN DE CIUDADANOS ITALIANOS",
-      "link": "https://noticierodigital.com/2026/04/italia-y-venezuela-relanzan-relacion-bilateral-tras-liberacion-de-ciudadanos-italianos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1775831880243-627x376.png"
+      "title": "DECRETAN LIBERTAD PLENA PARA LA PERIODISTA CARMELA LONGO",
+      "link": "https://noticierodigital.com/2026/04/decretan-libertad-plena-para-la-periodista-carmela-longo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/carmelalongo-liberada.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "El Vaticano calma los rumores de un desencuentro con la Administración Trump",
-      "link": "https://laverdad.com/el-vaticano-calma-los-rumores-de-un-desencuentro-con-la-administracion-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/papa-leon.jpg"
+      "title": "León XIV: Dios no bendice las guerras y los cristianos no apoyan a quienes bombardean",
+      "link": "https://laverdad.com/leon-xiv-dios-no-bendice-las-guerras-y-los-cristianos-no-apoyan-a-quienes-bombardean/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-2.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-10-at-11.05.39-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-10T15:54:11.472Z"
+  "lastUpdate": "2026-04-10T16:52:48.768Z"
 };
