@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "669,80"
+      "usdt": "668,33"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Henrique Capriles rechaza gestión económica y solicita soluciones salariales inmediatas",
-      "link": "https://noticiasvenevision.com/noticias/politica/henrique-capriles-rechaza-gestion-economica-y-solicita-soluciones-salariales-inmediatas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/capriles-72b595.png"
+      "title": "Trinidad y Tobago reconoce a Delcy Rodríguez y se prepara para enviar delegación a Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/trinidad-y-tobago-reconoce-a-delcy-rodriguez-y-se-prepara-para-enviar-delegacion-a-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/trinidad-y-tobago-bandera-860x521.jpg-00c9e7.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "IRFAAN ALI DISPUESTO A REUNIRSE CON DELCY RODRÍGUEZ PESE PUGNA POR EL ESEQUIBO",
-      "link": "https://noticierodigital.com/2026/04/irfaan-ali-dispuesto-a-reunirse-con-delcy-rodriguez-pese-pugna-por-el-esequibo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/irfaan-ali-627x376.jpg"
+      "title": "«NUNCA MÁS PRISIÓN NI PERSECUCIÓN POLÍTICA», EXIGIÓ DELSA SOLÓRZANO",
+      "link": "https://noticierodigital.com/2026/04/nunca-mas-prision-ni-persecucion-politica-exigio-delsa-solorzano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delsa-solorzano-encuentro-ciudadano-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Colombia elevará al 100% los aranceles a las importaciones de Ecuador, en respuesta al país vecino",
-      "link": "https://www.noticiascaracol.com/economia/colombia-elevara-al-100-los-aranceles-a-las-importaciones-de-ecuador-en-respuesta-al-pais-vecino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9cb2371/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd5%2F2a%2F7a10234e4895bed4493c1b0789c2%2Fmovilidad-bogota-2026-01-24t133710-663.jpg"
+      "title": "¿Por qué el regreso de Artemis II a Tierra es una prueba de fuego tan riesgosa para los astronautas?",
+      "link": "https://www.noticiascaracol.com/mundo/por-que-el-regreso-de-artemis-ii-a-tierra-es-una-prueba-de-fuego-tan-riesgosa-para-los-astronautas-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3786bcf/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7a%2F7c%2Fea39a0764e3385b5b8a88254c6f2%2Fartemis-ii-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Islamabad-10-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-10T22:38:31.882Z"
+  "lastUpdate": "2026-04-10T23:35:59.601Z"
 };
