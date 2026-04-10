@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "669,69"
+      "usdt": "669,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,7 +20,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "\"El lugar de España no es al lado de Maduro ni de Delcy\": Feijóo llama a Europa a rechazar dictaduras y apoyar a la oposición venezolana\nMUNDO",
+      "title": "\"El lugar de España no es al lado de Maduro ni de Delcy\": Núñez Feijóo llama a Europa a rechazar dictaduras y apoyar a la oposición venezolana\nMUNDO",
       "link": "https://www.elnacional.com/2026/04/el-lugar-de-espana-no-es-al-lado-de-maduro-ni-de-delcy-feijoo-llama-a-europa-a-rechazar-dictaduras-y-apoyar-a-la-oposicion-venezolana/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESTABLECEN PLAN PARA CERTIFICAR A VENEZUELA COMO PAÍS LIBRE DE FIEBRE AFTOSA",
-      "link": "https://noticierodigital.com/2026/04/establecen-plan-para-certificar-a-venezuela-como-pais-libre-de-fiebre-aftosa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/fiebre-aftosa-venezuela-627x376.jpg"
+      "title": "IRFAAN ALI DISPUESTO A REUNIRSE CON DELCY RODRÍGUEZ PESE PUGNA POR EL ESEQUIBO",
+      "link": "https://noticierodigital.com/2026/04/irfaan-ali-dispuesto-a-reunirse-con-delcy-rodriguez-pese-pugna-por-el-esequibo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/irfaan-ali-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Netanyahu acusa a España de librar \"una guerra diplomática\" contra Israel",
-      "link": "https://diarioversionfinal.com/mundo/netanyahu-acusa-a-espana-de-librar-una-guerra-diplomatica-contra-israel/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/sNjob78H-w980-p16x9-2024-07-13T195839Z_18958989_RC2JU8ATYMGZ_RTRMADP_3_ISRAEL-PALESTINIANS-NETANYAHU-750x430.jpg"
+      "title": "EE. UU. e Irán deciden en Islamabad el fin de la guerra",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-e-iran-deciden-en-islamabad-el-fin-de-la-guerra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Islamabad-10-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-10T21:38:03.190Z"
+  "lastUpdate": "2026-04-10T22:38:31.882Z"
 };
