@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "666,78"
+      "usdt": "668,43"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,7 +20,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "¿Quién es Eglée González, la nueva defensora del pueblo?\nVENEZUELA",
+      "title": "¿Quién es Eglée González, la defensora del pueblo?\nVENEZUELA",
       "link": "https://www.elnacional.com/2026/04/quien-es-eglee-gonzalez-la-nueva-defensora-del-pueblo/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Felipe Mujica: \"La renovación del Fiscal y la Defensora abre una puerta hacia la autonomía institucional y el pluralismo\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/felipe-mujica-la-renovacion-del-fiscal-y-la-defensora-abre-una-puerta-hacia-la-autonomia-institucional-y-el-pluralismo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/b1aee955-6c4d-4732-8cd4-b864dbfe04b4-f2b713.jpg"
+      "title": "Tribunal decreta sobreseimiento de causa contra periodista Carmela Longo",
+      "link": "https://noticiasvenevision.com/noticias/politica/tribunal-decreta-sobreseimiento-de-causa-contra-periodista-carmela-longo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/wmremove-transformed-ed077f.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DECRETAN LIBERTAD PLENA PARA LA PERIODISTA CARMELA LONGO",
-      "link": "https://noticierodigital.com/2026/04/decretan-libertad-plena-para-la-periodista-carmela-longo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/carmelalongo-liberada.jpg"
+      "title": "ALVARO LEYVA DIJO QUE PETRO VIVE RODEADO DE «DECADENCIA Y VICIO»",
+      "link": "https://noticierodigital.com/2026/04/alvaro-leyva-dijo-que-petro-vive-rodeado-de-decadencia-y-vicio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-02-at-2.35.07-PM-627x376.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-10-at-11.05.39-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-10T17:49:41.483Z"
+  "lastUpdate": "2026-04-10T18:54:45.738Z"
 };
