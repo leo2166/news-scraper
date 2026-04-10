@@ -5,7 +5,7 @@
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "665,99"
+      "usdt": "663,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@
     },
     {
       "source": "El Nacional",
-      "title": "AN designa a Larry Devoe fiscal general y a Eglée González Lobato defensora del pueblo\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/an-designa-a-larry-devoe-como-fiscal-general-y-eglee-gonzalez-lobato-como-defensora-del-pueblo/",
+      "title": "Oposición democrática presentará una hoja de ruta para la transición en Venezuela\nNOTICIAS",
+      "link": "https://www.elnacional.com/2026/04/oposicion-democratica-presentara-una-hoja-de-ruta-para-la-transicion-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "El alto el fuego en Irán se enfrenta al caos sobre el terreno",
-      "link": "https://cnnespanol.cnn.com/2026/04/09/eeuu/acuerdo-iran-estrecho-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-e-iran-guerra.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Israel y Hezbollah intercambian ataques en medio de la frágil tregua",
+      "link": "https://cnnespanol.cnn.com/2026/04/10/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-18-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270081233-20260410105835288.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Protestas-Caracas-09-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-10T10:55:13.087Z"
+  "lastUpdate": "2026-04-10T11:49:58.651Z"
 }
