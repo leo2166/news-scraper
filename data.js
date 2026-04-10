@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "665,98"
+      "usdt": "665,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Parlamento venezolano aprueba la Ley Orgánica de Minas",
-      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-venezolano-aprueba-la-ley-organica-de-minas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-debate-ley-de-minas-67a813.jpg"
+      "title": "Magaly Vásquez aboga por la reinstitucionalización del país tras decisión de la AN sobre la Fiscalía",
+      "link": "https://noticiasvenevision.com/noticias/politica/magaly-vasquez-aboga-por-la-reinstitucionalizacion-del-pais-tras-decision-de-la-an-sobre-la-fiscalia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/magaly-vasquez-2021-4-170d09.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Protestas-Caracas-09-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-10T02:35:50.836Z"
+  "lastUpdate": "2026-04-10T05:25:54.219Z"
 };
