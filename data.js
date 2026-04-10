@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "667,69"
+      "usdt": "666,78"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional ratifica a Coromoto Godoy como representante de Venezuela ante la ONU",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-ratifica-a-coromoto-godoy-como-representante-de-venezuela-ante-la-onu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_637710935_18046471937739579_6741920025251813018_n-1-c6eaab.jpg"
+      "title": "Felipe Mujica: \"La renovación del Fiscal y la Defensora abre una puerta hacia la autonomía institucional y el pluralismo\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/felipe-mujica-la-renovacion-del-fiscal-y-la-defensora-abre-una-puerta-hacia-la-autonomia-institucional-y-el-pluralismo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/b1aee955-6c4d-4732-8cd4-b864dbfe04b4-f2b713.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Petro ordena a embajadora en Ecuador venir de nuevo a Colombia tras aumento de aranceles del 100 %",
-      "link": "https://www.noticiascaracol.com/politica/petro-ordeno-a-la-embajadora-en-ecuador-venir-a-colombia-tras-aumentos-de-aranceles-de-ese-pais-del-100-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8da1544/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F4d%2Ff7965e804b2aa1517e418e9516a9%2Fmovilidad-bogota-2026-01-21t231617-974.jpg"
+      "title": "Oposición pide convocar elecciones presidenciales en Venezuela ante \"ausencia absoluta\" de Maduro",
+      "link": "https://www.noticiascaracol.com/mundo/oposicion-pide-convocar-elecciones-presidenciales-en-venezuela-ante-ausencia-absoluta-de-maduro-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f306b48/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbb%2F75%2F07fd5145481995d2ac830531b828%2Fmachado-y-maduro.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-10-at-11.05.39-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-10T16:52:48.768Z"
+  "lastUpdate": "2026-04-10T17:49:41.483Z"
 };
