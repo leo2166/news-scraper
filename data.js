@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "665,20"
+      "usdt": "637,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela aprobó una nueva ley de minas que permite la inversión extranjera en el sector aurífero",
-      "link": "https://www.infobae.com/venezuela/2026/04/10/el-parlamento-de-venezuela-aprobo-una-nueva-ley-de-minas-que-permite-la-inversion-extranjera-en-el-sector-aurifero/",
-      "image": "https://www.infobae.com/resizer/v2/XTM3XMXQ2VEJ3KVHYCZSA5I2N4.jpg?auth=288ebe4df5f70e71395dd23537d619ec2850af110eb386d2e4421b06cfa12ab8&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal denunció que un dirigente juvenil fue detenido en las protestas reprimidas por el régimen en Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/04/10/el-foro-penal-denuncio-que-un-dirigente-juvenil-fue-detenido-en-las-protestas-reprimidas-por-el-regimen-en-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/B5LPEBNWQ5CCXGURTRK4CIYSCQ.JPG?auth=e8430f64ccff6f0c684a9427f96dd3d8bd66234b20740501fed0480e8ae299ff&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Asamblea de Venezuela aprueba ley de minas que abre el sector a inversión extranjera",
-      "link": "https://cnnespanol.cnn.com/2026/04/09/venezuela/asamblea-nueva-ley-minas-inversiones-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/56057eaed751141245fce964d43693e8e6496164w.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "El alto el fuego en Irán se enfrenta al caos sobre el terreno",
+      "link": "https://cnnespanol.cnn.com/2026/04/09/eeuu/acuerdo-iran-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-e-iran-guerra.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Protestas-Caracas-09-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-10T05:25:54.219Z"
+  "lastUpdate": "2026-04-10T07:28:38.544Z"
 };
