@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "556,66"
     },
     "binance": {
-      "usdt": "668,43"
+      "usdt": "669,33"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump advierte a Irán que la ofensiva se intensificará si no se alcanza un acuerdo",
-      "link": "https://cnnespanol.cnn.com/2026/04/10/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-18-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-the-new-york-post.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Vuelve la misión Artemis II a la Tierra",
+      "link": "https://cnnespanol.cnn.com/2026/04/10/ciencia/live-news/regreso-mision-artemis-tierra-en-vivo-ultima-hora-imagenes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/artemisnasa.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tribunal decreta sobreseimiento de causa contra periodista Carmela Longo",
-      "link": "https://noticiasvenevision.com/noticias/politica/tribunal-decreta-sobreseimiento-de-causa-contra-periodista-carmela-longo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/wmremove-transformed-ed077f.jpeg"
+      "title": "Henrique Capriles rechaza gestión económica y solicita soluciones salariales inmediatas",
+      "link": "https://noticiasvenevision.com/noticias/politica/henrique-capriles-rechaza-gestion-economica-y-solicita-soluciones-salariales-inmediatas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/capriles-72b595.png"
     },
     {
       "source": "Noticiero Digital",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El papa iniciará su gira por África en Argelia, país musulmán y cuna de San Agustín",
-      "link": "https://diarioversionfinal.com/mundo/el-papa-iniciara-su-gira-por-africa-en-argelia-pais-musulman-y-cuna-de-san-agustin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-10-at-11.05.39-AM-750x430.jpeg"
+      "title": "Netanyahu acusa a España de librar \"una guerra diplomática\" contra Israel",
+      "link": "https://diarioversionfinal.com/mundo/netanyahu-acusa-a-espana-de-librar-una-guerra-diplomatica-contra-israel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/sNjob78H-w980-p16x9-2024-07-13T195839Z_18958989_RC2JU8ATYMGZ_RTRMADP_3_ISRAEL-PALESTINIANS-NETANYAHU-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-10T18:54:45.738Z"
+  "lastUpdate": "2026-04-10T19:44:27.587Z"
 };
