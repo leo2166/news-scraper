@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "667,15"
+      "usdt": "666,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado: “No hay represión que pueda detener las demandas de los venezolanos”",
-      "link": "https://www.infobae.com/venezuela/2026/04/11/maria-corina-machado-no-hay-represion-que-pueda-detener-las-demandas-de-los-venezolanos/",
-      "image": "https://www.infobae.com/resizer/v2/UNG6BNZK3NG3ZON6MZXXPZEO7A.jpg?auth=34cdf6d1214acf6f7c51d6c864e3c8818ece30d2cf894002770fba23da33f672&smart=true&width=350&height=197&quality=85"
+      "title": "Exigen la liberación de los ex policías metropolitanos detenidos hace 24 años por el régimen chavista",
+      "link": "https://www.infobae.com/venezuela/2026/04/11/exigen-la-liberacion-de-los-ex-policias-metropolitanos-detenidos-hace-24-anos-por-el-regimen-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/MLASTHQ45REZ3ER5RMCVBCYG6I.jpg?auth=1bef07cad54729505ca42d46f04c862b0c9f529b0010321c76297b7ce8e0e563&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado: \"El régimen no entiende que esto cambió para siempre\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-el-regimen-no-entiende-que-esto-cambio-para-siempre/",
+      "title": "Primero Justicia exigió la liberación de policías detenidos hace 23 años\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/04/primero-justicia-exigio-la-liberacion-de-policias-detenidos-hace-23-anos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,34 +32,34 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "MP desmiente muerte de colombiano tras protesta en Rodeo I",
-      "link": "https://noticiasvenevision.com/noticias/politica/mp-desmiente-muerte-de-colombiano-tras-protesta-en-rodeo-i",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/edificio_ministerio_publico-e1b13a.jpg"
+      "title": "Ministerio de Relaciones Exteriores implementa visado digital para turistas y empresarios que quieran viajar a Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-relaciones-exteriores-implementa-visado-digital-para-turistas-y-empresarios-que-quieran-viajar-a-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cancilleria-de-venezuela-98700-bd7c66.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DESPLIEGUE GUBERNAMENTAL ASISTIÓ A MÁS DE 13 MIL HABITANTES EN CARACAS",
-      "link": "https://noticierodigital.com/2026/04/despliegue-gubernamental-asistio-a-mas-de-13-mil-habitantes-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-caracas-cotiza-627x376.jpg"
+      "title": "HIMIOB EXIGIÓ EXCARCELACIÓN DE LOS POLICÍAS METROPOLITANOS TRAS 24 AÑOS DE DETENCIÓN",
+      "link": "https://noticierodigital.com/2026/04/himiob-exigio-excarcelacion-de-los-policias-metropolitanos-condenados-por-sucesos-de-abril/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Operativo por presunto abuso contra menor en Usme terminó en desmanes: autoridades se pronunciaron",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/operativo-por-presunto-abuso-contra-menor-en-usme-termino-en-desmanes-autoridades-se-pronunciaron-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/184f843/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9a%2F49%2Fb33fe1ff416aa28c524d99c5fcfd%2Fplantilla-fotos-2026-04-11t083700-217.jpg"
+      "title": "Pistas perdidas y nuevos detalles rodean al caso de Tatiana Hernández tras un año de su desaparición",
+      "link": "https://www.noticiascaracol.com/colombia/pistas-perdidas-y-nuevos-detalles-rodean-al-caso-de-tatiana-hernandez-tras-un-ano-de-su-desaparicion-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d67d5a7/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F50%2Fdf%2F1c67aa714c2f966db1903508d91e%2Fportadas-caracol-web-58.png"
     },
     {
       "source": "La Verdad",
-      "title": "Misión Artemis II culmina con éxito y abre paso a nuevos alunizajes",
-      "link": "https://laverdad.com/mision-artemis-ii-culmina-con-exito-y-abre-paso-a-nuevos-alunizajes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/5cfb53f09fa74be7c368a862ee841aa7a5a333b1-scaled.jpg"
+      "title": "Papa León XIV exhorta a líderes del mundo a detener la “exhibición de fuerza”",
+      "link": "https://laverdad.com/papa-leon-xiv-exhorta-a-lideres-del-mundo-a-detener-la-exhibicion-de-fuerza/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/4e03289340d6959f57b1a09de770f14c68079c0c-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Congresista Carlos Gimenez asegura que \"es hora de que Diosdado Cabello enfrente la justicia estadounidense\"",
-      "link": "https://diarioversionfinal.com/mundo/congresista-carlos-gimenez-asegura-que-es-hora-de-que-diosdado-cabello-enfrente-la-justicia-estadounidense/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/carlos-gimenez-750x376.webp"
+      "title": "Amnistía Internacional condena represión policial durante protesta en Caracas",
+      "link": "https://diarioversionfinal.com/mundo/amnistia-internacional-condena-represion-policial-durante-protesta-en-caracas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/HFe4cofXoAAfLWE-800x500.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-11T19:35:23.303Z"
+  "lastUpdate": "2026-04-11T20:35:03.312Z"
 }
