@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "669,39"
+      "usdt": "638,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Trinidad y Tobago reconoció a Delcy Rodríguez como presidenta encargada de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/10/trinidad-y-tobago-reconocio-a-delcy-rodriguez-como-presidenta-encargada-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/WOACVOE3DFC6TI7WNISGREQFU4.jpg?auth=bd52c1bd797755271ad5215af73fe1a7630e81f2c101b15da656d03752e2aa2d&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de presos políticos intensificarán sus protestas tras una fuerte represión en la cárcel El Rodeo I",
+      "link": "https://www.infobae.com/venezuela/2026/04/11/familiares-de-presos-politicos-intensificaran-sus-protestas-tras-una-fuerte-represion-en-la-carcel-el-rodeo-i/",
+      "image": "https://www.infobae.com/resizer/v2/ZX4ADYUEZJATVKCTTKI7BIFFKU.jpg?auth=47343c1d4a7e7425ff84c28250542d5985c665e64aaab36927f9fec95746dc17&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-30-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-11T06:01:34.167Z"
+  "lastUpdate": "2026-04-11T07:50:08.547Z"
 };
