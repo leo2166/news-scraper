@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "663,69"
+      "usdt": "665,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LIBERARON A CUATRO JÓVENES DETENIDOS DURANTE PROTESTA EN CARACAS",
-      "link": "https://noticierodigital.com/2026/04/liberaron-a-cuatro-jovenes-detenidos-durante-protesta-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/protesta-detencion-jovenes-627x376.jpg"
+      "title": "HABITANTES DEL SUR DE VALENCIA PROTESTARON POR CONSTANTES FALLAS ELÉCTRICAS",
+      "link": "https://noticierodigital.com/2026/04/habitantes-del-sur-de-valencia-protestaron-por-constantes-fallas-electricas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/11/sin-luz-apagon-bajon-10nov2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así fue el amerizaje de Artemis II en la Tierra: primeras imágenes del regreso de los astronautas",
-      "link": "https://www.noticiascaracol.com/mundo/asi-fue-el-amerizaje-de-artemis-ii-en-la-tierra-primeras-imagenes-del-regreso-de-los-astronautas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7d49e03/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F64%2F07%2Fd291eeaf4403bc7cfe64169cf6a6%2Fartemis-ii-2.jpg"
+      "title": "Pistas perdidas y nuevos detalles rodean al caso de Tatiana Hernández tras un año de su desaparición",
+      "link": "https://www.noticiascaracol.com/colombia/pistas-perdidas-y-nuevos-detalles-rodean-al-caso-de-tatiana-hernandez-tras-un-ano-de-su-desaparicion-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d67d5a7/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F50%2Fdf%2F1c67aa714c2f966db1903508d91e%2Fportadas-caracol-web-58.png"
     },
     {
       "source": "La Verdad",
-      "title": "Emiten circular roja contra jefes de disidencia de las Farc por crimen de Uribe Turbay",
-      "link": "https://laverdad.com/emiten-circular-roja-contra-jefes-de-disidencia-de-las-farc-por-crimen-de-uribe-turbay/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/08/Maria-Claudia-Tarazona-Miguel-Uribe-Turbay.jpg"
+      "title": "Misión Artemis II culmina con éxito y abre paso a nuevos alunizajes",
+      "link": "https://laverdad.com/mision-artemis-ii-culmina-con-exito-y-abre-paso-a-nuevos-alunizajes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/5cfb53f09fa74be7c368a862ee841aa7a5a333b1-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos e Irán inician negociaciones para un alto el fuego en Pakistán",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-e-iran-inician-negociaciones-para-un-alto-el-fuego-en-pakistan/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1b0f2d03-90ea-4b20-bdf9-d20ee58c4a74_w1080_h608_s-750x430.jpg"
+      "title": "Ucrania y Rusia intercambian prisioneros antes de tregua por la Pascua ortodoxa",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-y-rusia-intercambian-prisioneros-antes-de-tregua-por-la-pascua-ortodoxa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/descarga-78.jpg"
     }
   ],
-  "lastUpdate": "2026-04-11T12:59:21.764Z"
+  "lastUpdate": "2026-04-11T13:59:14.605Z"
 };
