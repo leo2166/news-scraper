@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "665,69"
+      "usdt": "666,11"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@
     },
     {
       "source": "El Nacional",
-      "title": "Balance del primer trimestre 2026: hostigamiento judicial y agresiones físicas acorralan al periodismo venezolano\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/balance-del-primer-trimestre-2026-hostigamiento-judicial-y-agresiones-fisicas-acorralan-al-periodismo-venezolano/",
+      "title": "María Corina Machado: \"El régimen no entiende que esto cambió para siempre\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-el-regimen-no-entiende-que-esto-cambio-para-siempre/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -37,10 +37,16 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/edificio_ministerio_publico-e1b13a.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "EXCARCELARON A ALEXIS GUEDEZ TRAS PERMANECER DETENIDO DESDE EL 2025",
+      "link": "https://noticierodigital.com/2026/04/excarcelaron-a-alexis-guedez-tras-permanecer-detenido-desde-el-2025/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/alexis-guedez-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
-      "title": "Entre \"desconfianzas\" y exigencias: EE. UU. y Irán inician negociaciones en Pakistan",
-      "link": "https://www.noticiascaracol.com/mundo/entre-desconfianzas-y-exigencias-ee-uu-y-iran-inician-negociaciones-en-pakistan-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ddd191e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F01%2Fd5%2F540abc88465aacbb5ba12957acbb%2Fplantilla-fotos-2026-04-11t093323-075.jpg"
+      "title": "Operativo por presunto abuso contra menor en Usme terminó en desmanes: autoridades se pronunciaron",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/operativo-por-presunto-abuso-contra-menor-en-usme-termino-en-desmanes-autoridades-se-pronunciaron-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/184f843/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9a%2F49%2Fb33fe1ff416aa28c524d99c5fcfd%2Fplantilla-fotos-2026-04-11t083700-217.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONU advierte crisis alimentaria en Líbano tras cinco semanas de ataques y desplazamientos masivos",
-      "link": "https://diarioversionfinal.com/mundo/onu-advierte-crisis-alimentaria-en-libano-tras-cinco-semanas-de-ataques-y-desplazamientos-masivos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/descarga-82.jpg"
+      "title": "Irán y EE. UU. cierran la primera fase de diálogo en Islamabad con avances preliminares",
+      "link": "https://diarioversionfinal.com/mundo/iran-y-ee-uu-cierran-la-primera-fase-de-dialogo-en-islamabad-con-avances-preliminares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/descarga-86.jpg"
     }
   ],
-  "lastUpdate": "2026-04-11T16:37:45.348Z"
+  "lastUpdate": "2026-04-11T17:32:16.236Z"
 }
