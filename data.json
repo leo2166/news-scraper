@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "667,00"
+      "usdt": "667,48"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delsa Solórzano sostuvo una reunión con Roland Carreño y Williams Dávila",
-      "link": "https://noticiasvenevision.com/noticias/politica/delsa-solorzano-sostuvo-una-reunion-con-roland-carreno-y-williams-davila",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rdp-delsa-solorzano.8-1280x853-edd71e.jpg"
+      "title": "MP desmiente muerte de colombiano tras protesta en Rodeo I",
+      "link": "https://noticiasvenevision.com/noticias/politica/mp-desmiente-muerte-de-colombiano-tras-protesta-en-rodeo-i",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/edificio_ministerio_publico-e1b13a.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así fue el amerizaje de Artemis II en la Tierra: primeras imágenes del regreso de los astronautas",
-      "link": "https://www.noticiascaracol.com/mundo/asi-fue-el-amerizaje-de-artemis-ii-en-la-tierra-primeras-imagenes-del-regreso-de-los-astronautas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7d49e03/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F64%2F07%2Fd291eeaf4403bc7cfe64169cf6a6%2Fartemis-ii-2.jpg"
+      "title": "Habla colombiana encargada del regreso a la Tierra de Artemis II: \"Un sentimiento maravilloso\"",
+      "link": "https://www.noticiascaracol.com/mundo/habla-colombiana-encargada-del-regreso-a-la-tierra-de-artemis-ii-un-sentimiento-maravilloso-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e11f480/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5a%2Fe0%2F4c6d8c5f4b1b8e1021c97abbda04%2Fexcentricidades-9.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "¡Histórico amerizaje de Artemis II! La Nasa inicia un nuevo capítulo en la exploración",
-      "link": "https://diarioversionfinal.com/mundo/historico-amerizaje-de-artemis-ii-la-nasa-inicia-un-nuevo-capitulo-en-la-exploracion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Artemis-II-10-04-2026-750x430.jpg"
+      "title": "Trump felicita a la tripulación de Artemis II: \"El siguiente paso, Marte\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-felicita-a-la-tripulacion-de-artemis-ii-el-siguiente-paso-marte/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-30-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-11T02:22:06.436Z"
+  "lastUpdate": "2026-04-11T04:55:20.567Z"
 }
