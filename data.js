@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "666,33"
+      "usdt": "667,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPERTOS PROPONEN ACUERDO POLÍTICO PARA DESIGNAR NUEVAS AUTORIDADES DEL CNE",
-      "link": "https://noticierodigital.com/2026/04/expertos-proponen-acuerdo-politico-para-designar-nuevas-autoridades-del-cne/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Estatuto-Electoral-Especial-627x376.jpg"
+      "title": "DESPLIEGUE GUBERNAMENTAL ASISTIÓ A MÁS DE 13 MIL HABITANTES EN CARACAS",
+      "link": "https://noticierodigital.com/2026/04/despliegue-gubernamental-asistio-a-mas-de-13-mil-habitantes-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-caracas-cotiza-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Buques de EE. UU. cruzan el estrecho de Ormuz para iniciar operaciones de desminado",
-      "link": "https://diarioversionfinal.com/mundo/buques-de-ee-uu-cruzan-el-estrecho-de-ormuz-para-iniciar-operaciones-de-desminado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/4704666-900x643-1-750x430.webp"
+      "title": "Congresista Carlos Gimenez asegura que \"es hora de que Diosdado Cabello enfrente la justicia estadounidense\"",
+      "link": "https://diarioversionfinal.com/mundo/congresista-carlos-gimenez-asegura-que-es-hora-de-que-diosdado-cabello-enfrente-la-justicia-estadounidense/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/carlos-gimenez-750x376.webp"
     }
   ],
-  "lastUpdate": "2026-04-11T18:46:02.559Z"
+  "lastUpdate": "2026-04-11T19:35:23.303Z"
 };
