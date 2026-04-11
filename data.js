@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "662,50"
+      "usdt": "663,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -31,12 +31,6 @@ window.DASHBOARD_DATA = {
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2023-02-14t071531z-228206069-rc2paz93f7bo-rtrmadp-3-china-iran-20260411055105126.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
-      "source": "Noticias Venevisión",
-      "title": "Andreína Baduel denuncia que niegan medicina y visitas a su hermano detenido",
-      "link": "https://noticiasvenevision.com/noticias/politica/andreina-baduel-denuncia-que-niegan-medicina-y-visitas-a-su-hermano-detenido",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/andrena-baduel.-060aa4.PNG"
-    },
-    {
       "source": "Noticiero Digital",
       "title": "HIMIOB EXIGIÓ EXCARCELACIÓN DE LOS POLICÍAS METROPOLITANOS TRAS 24 AÑOS DE DETENCIÓN",
       "link": "https://noticierodigital.com/2026/04/himiob-exigio-excarcelacion-de-los-policias-metropolitanos-condenados-por-sucesos-de-abril/",
@@ -44,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Pistas perdidas y nuevos detalles rodean al caso de Tatiana Hernández tras un año de su desaparición",
-      "link": "https://www.noticiascaracol.com/colombia/pistas-perdidas-y-nuevos-detalles-rodean-al-caso-de-tatiana-hernandez-tras-un-ano-de-su-desaparicion-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d67d5a7/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F50%2Fdf%2F1c67aa714c2f966db1903508d91e%2Fportadas-caracol-web-58.png"
+      "title": "Atleta paralímpica en Bogotá que habría sido arrastrada por bus del Sitp: quedó en UCI",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/atleta-paralimpica-en-bogota-que-habria-sido-arrastrada-por-bus-del-sitp-quedo-en-uci-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4b31676/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb2%2F3e%2Fb6f5a05c4ce69b4e78e1f4b8d385%2Fportadas-caracol-web-7.png"
     },
     {
       "source": "La Verdad",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/HFe4cofXoAAfLWE-800x500.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-11T22:33:24.998Z"
+  "lastUpdate": "2026-04-11T23:35:34.336Z"
 };
