@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "666,00"
+      "usdt": "665,03"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán mantienen conversaciones directas en Pakistán",
+      "title": "Conversaciones entre EE.UU. e Irán se prolongan en Pakistán",
       "link": "https://cnnespanol.cnn.com/2026/04/11/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-19-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2023-02-14t071531z-228206069-rc2paz93f7bo-rtrmadp-3-china-iran-20260411055105126.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio de Relaciones Exteriores implementa visado digital para turistas y empresarios que quieran viajar a Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-relaciones-exteriores-implementa-visado-digital-para-turistas-y-empresarios-que-quieran-viajar-a-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cancilleria-de-venezuela-98700-bd7c66.jpeg"
+      "title": "Andreína Baduel denuncia que niegan medicina y visitas a su hermano detenido",
+      "link": "https://noticiasvenevision.com/noticias/politica/andreina-baduel-denuncia-que-niegan-medicina-y-visitas-a-su-hermano-detenido",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/andrena-baduel.-060aa4.PNG"
     },
     {
       "source": "Noticiero Digital",
@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV exhorta a líderes del mundo a detener la “exhibición de fuerza”",
-      "link": "https://laverdad.com/papa-leon-xiv-exhorta-a-lideres-del-mundo-a-detener-la-exhibicion-de-fuerza/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/4e03289340d6959f57b1a09de770f14c68079c0c-scaled.jpg"
+      "title": "El 88,6 % de los venezolanos en Perú trabaja en la informalidad",
+      "link": "https://laverdad.com/el-886-de-los-venezolanos-en-peru-trabaja-en-la-informalidad/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/7ZWHLZVX4NGWHFH3X6XPLNK3TQ.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/HFe4cofXoAAfLWE-800x500.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-11T20:35:03.312Z"
+  "lastUpdate": "2026-04-11T21:34:04.533Z"
 };
