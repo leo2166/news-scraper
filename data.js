@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "668,00"
+      "usdt": "663,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos intensificarán sus protestas tras una fuerte represión en la cárcel El Rodeo I",
-      "link": "https://www.infobae.com/venezuela/2026/04/11/familiares-de-presos-politicos-intensificaran-sus-protestas-tras-una-fuerte-represion-en-la-carcel-el-rodeo-i/",
-      "image": "https://www.infobae.com/resizer/v2/ZX4ADYUEZJATVKCTTKI7BIFFKU.jpg?auth=47343c1d4a7e7425ff84c28250542d5985c665e64aaab36927f9fec95746dc17&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado: “No hay represión que pueda detener las demandas de los venezolanos”",
+      "link": "https://www.infobae.com/venezuela/2026/04/11/maria-corina-machado-no-hay-represion-que-pueda-detener-las-demandas-de-los-venezolanos/",
+      "image": "https://www.infobae.com/resizer/v2/UNG6BNZK3NG3ZON6MZXXPZEO7A.jpg?auth=34cdf6d1214acf6f7c51d6c864e3c8818ece30d2cf894002770fba23da33f672&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "¡Felicidades. Artemis II, misión cumplida! Astronautas amerizaron en el Pacífico\nCIENCIA Y TECNOLOGÍA",
-      "link": "https://www.elnacional.com/2026/04/ameriza-en-el-pacifico-la-capsula-tripulada-de-artemis-ii-con-ayuda-de-paracaidas/",
+      "title": "Reuters: Demoras en el Ministerio de Petróleo frenan inversiones por 100.000 millones de dólares en Venezuela\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/reuters-demoras-en-el-ministerio-de-petroleo-frenan-inversiones-por-100-000-millones-de-dolares-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Vance se reúne con el primer ministro de Pakistán",
+      "title": "Comenzaron en Pakistán las conversaciones de alto el fuego entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/11/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-19-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2023-02-14t071531z-228206069-rc2paz93f7bo-rtrmadp-3-china-iran-20260411055105126.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2023-02-14t071531z-228206069-rc2paz93f7bo-rtrmadp-3-china-iran-20260411055105126.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN BARRETO PLANTEÓ LA NECESIDAD DE UN ACUERDO NACIONAL",
-      "link": "https://noticierodigital.com/2026/04/juan-barreto-planteo-la-necesidad-de-un-acuerdo-nacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/juanbarreto-7mar2023.jpg"
+      "title": "LIBERARON A CUATRO JÓVENES DETENIDOS DURANTE PROTESTA EN CARACAS",
+      "link": "https://noticierodigital.com/2026/04/liberaron-a-cuatro-jovenes-detenidos-durante-protesta-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/protesta-detencion-jovenes-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla colombiana encargada del regreso a la Tierra de Artemis II: \"Un sentimiento maravilloso\"",
-      "link": "https://www.noticiascaracol.com/mundo/habla-colombiana-encargada-del-regreso-a-la-tierra-de-artemis-ii-un-sentimiento-maravilloso-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e11f480/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5a%2Fe0%2F4c6d8c5f4b1b8e1021c97abbda04%2Fexcentricidades-9.jpg"
+      "title": "Así fue el amerizaje de Artemis II en la Tierra: primeras imágenes del regreso de los astronautas",
+      "link": "https://www.noticiascaracol.com/mundo/asi-fue-el-amerizaje-de-artemis-ii-en-la-tierra-primeras-imagenes-del-regreso-de-los-astronautas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7d49e03/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F64%2F07%2Fd291eeaf4403bc7cfe64169cf6a6%2Fartemis-ii-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán no sabe dónde puso las minas submarinas en el estrecho de Ormuz y ahora crece el peligro",
-      "link": "https://diarioversionfinal.com/mundo/iran-no-sabe-donde-puso-las-minas-submarinas-en-el-estrecho-de-ormuz-y-ahora-crece-el-peligro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/c0RCbCLy-image-750x430.jpg"
+      "title": "Estados Unidos e Irán inician negociaciones para un alto el fuego en Pakistán",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-e-iran-inician-negociaciones-para-un-alto-el-fuego-en-pakistan/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1b0f2d03-90ea-4b20-bdf9-d20ee58c4a74_w1080_h608_s-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-11T11:30:54.626Z"
+  "lastUpdate": "2026-04-11T12:59:21.764Z"
 };
