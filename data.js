@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "665,35"
+      "usdt": "665,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,12 +37,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/edificio_ministerio_publico-e1b13a.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "MÁS DE 8 MIL PERSONAS HAN SIDO BENEFICIADAS CON LA LEY DE AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/04/mas-de-8-mil-personas-han-sido-beneficiadas-con-la-ley-de-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/arreaza-scaled-1-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Entre \"desconfianzas\" y exigencias: EE. UU. y Irán inician negociaciones en Pakistan",
       "link": "https://www.noticiascaracol.com/mundo/entre-desconfianzas-y-exigencias-ee-uu-y-iran-inician-negociaciones-en-pakistan-cb20",
@@ -56,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irfaan Ali no descarta reunión reunirse con Delcy Rodríguez pese a disputa por el Esequibo",
-      "link": "https://diarioversionfinal.com/mundo/irfaan-ali-no-descarta-reunion-reunirse-con-delcy-rodriguez-pese-a-disputa-por-el-esequibo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/irfaan-ali-2023-event-recap-image-scaled-1-768x512-1-750x430.jpg"
+      "title": "ONU advierte crisis alimentaria en Líbano tras cinco semanas de ataques y desplazamientos masivos",
+      "link": "https://diarioversionfinal.com/mundo/onu-advierte-crisis-alimentaria-en-libano-tras-cinco-semanas-de-ataques-y-desplazamientos-masivos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/descarga-82.jpg"
     }
   ],
-  "lastUpdate": "2026-04-11T15:34:08.669Z"
+  "lastUpdate": "2026-04-11T16:37:45.348Z"
 };
