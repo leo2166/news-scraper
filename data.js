@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "668,00"
+      "usdt": "665,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Reuters: Demoras en el Ministerio de Petróleo frenan inversiones por 100.000 millones de dólares en Venezuela\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/reuters-demoras-en-el-ministerio-de-petroleo-frenan-inversiones-por-100-000-millones-de-dolares-en-venezuela/",
+      "title": "Balance del primer trimestre 2026: hostigamiento judicial y agresiones físicas acorralan al periodismo venezolano\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/balance-del-primer-trimestre-2026-hostigamiento-judicial-y-agresiones-fisicas-acorralan-al-periodismo-venezolano/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Comenzaron en Pakistán las conversaciones de alto el fuego entre EE.UU. e Irán",
+      "title": "Están en marcha en Pakistán las conversaciones entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/11/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-19-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2023-02-14t071531z-228206069-rc2paz93f7bo-rtrmadp-3-china-iran-20260411055105126.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HABITANTES DEL SUR DE VALENCIA PROTESTARON POR CONSTANTES FALLAS ELÉCTRICAS",
-      "link": "https://noticierodigital.com/2026/04/habitantes-del-sur-de-valencia-protestaron-por-constantes-fallas-electricas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/11/sin-luz-apagon-bajon-10nov2021.jpg"
+      "title": "MÁS DE 8 MIL PERSONAS HAN SIDO BENEFICIADAS CON LA LEY DE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/04/mas-de-8-mil-personas-han-sido-beneficiadas-con-la-ley-de-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/arreaza-scaled-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Interpol emite circular roja contra jefes de la Segunda Marquetalia por magnicidio de Miguel Uribe",
-      "link": "https://diarioversionfinal.com/mundo/interpol-emite-circular-roja-contra-jefes-de-la-segunda-marquetalia-por-magnicidio-de-miguel-uribe/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/descarga.gif"
+      "title": "Irfaan Ali no descarta reunión reunirse con Delcy Rodríguez pese a disputa por el Esequibo",
+      "link": "https://diarioversionfinal.com/mundo/irfaan-ali-no-descarta-reunion-reunirse-con-delcy-rodriguez-pese-a-disputa-por-el-esequibo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/irfaan-ali-2023-event-recap-image-scaled-1-768x512-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-11T14:47:05.733Z"
+  "lastUpdate": "2026-04-11T15:34:08.669Z"
 };
