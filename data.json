@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "657,69"
+      "usdt": "663,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Exigen la liberación de los ex policías metropolitanos detenidos hace 24 años por el régimen chavista",
-      "link": "https://www.infobae.com/venezuela/2026/04/11/exigen-la-liberacion-de-los-ex-policias-metropolitanos-detenidos-hace-24-anos-por-el-regimen-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/MLASTHQ45REZ3ER5RMCVBCYG6I.jpg?auth=1bef07cad54729505ca42d46f04c862b0c9f529b0010321c76297b7ce8e0e563&smart=true&width=350&height=197&quality=85"
+      "title": "Denuncian que un comandante venezolano detenido hace 17 meses es sometido a tratos “inhumanos” en prisión",
+      "link": "https://www.infobae.com/venezuela/2026/04/12/denuncian-que-un-comandante-venezolano-detenido-hace-17-meses-es-sometido-a-tratos-inhumanos-en-prision/",
+      "image": "https://www.infobae.com/resizer/v2/A2M7V2B6EBGAXNGTMR2JFDLJN4.jpg?auth=4e6afa4bb55d48da4d1c702b6ad57eceabd191c8d088d3379cd97cbc3f1d82f0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con destruir la infraestructura de Irán “en un día”",
+      "title": "Trump amenaza con destruir Irán “en un día”",
       "link": "https://cnnespanol.cnn.com/2026/04/11/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-19-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-11abr.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PEÑALOZA ADVIRTIÓ QUE LA RECUPERACIÓN ECONÓMICA REQUIERE UN CAMBIO POLÍTICO",
-      "link": "https://noticierodigital.com/2026/04/penaloza-advirtio-que-la-recuperacion-economica-requiere-un-cambio-politico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/04/pedropablopenaloza-cartaabiden-18abr2022.jpg"
+      "title": "EGU: «SIN ELECCIONES LIBRES, NO HAY TRANSICIÓN DEMOCRÁTICA»",
+      "link": "https://noticierodigital.com/2026/04/egu-sin-elecciones-libres-no-hay-transicion-democratica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/edmundo-gonzalez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Por qué no hubo acuerdo en Pakistán? Claves para entender las tensiones entre Estados Unidos y Irán",
-      "link": "https://www.noticiascaracol.com/mundo/por-que-no-hubo-acuerdo-en-pakistan-claves-para-entender-las-tensiones-entre-estados-unidos-y-iran-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/bd0a50f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F84%2Fb6%2Fed3ca28542d1ba573c72c7ce2f26%2Fplantilla-fotos-2026-04-12t073536-612.jpg"
+      "title": "Donald Trump afirma que EE.UU. bloqueará el estrecho de Ormuz tras no llegar a un acuerdo con Irán",
+      "link": "https://www.noticiascaracol.com/mundo/donald-trump-afirma-que-ee-uu-bloqueara-el-estrecho-de-ormuz-tras-no-llegar-a-un-acuerdo-con-iran-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7f6b1a5/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F41%2Fae%2F9242cdc740bbaf7d9664f876146a%2Fdonald-trump.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump ordena bloqueo en Ormuz para impedir que Irán use el petróleo como \"arma de chantaje\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-ordena-el-bloqueo-en-ormuz-para-impedir-que-iran-use-el-petroleo-como-arma-de-chantaje/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/IMG_2767-750x430.webp"
+      "title": "Tiroteo en un restaurante Chick-fil-A de Nueva Jersey deja varios heridos y genera pánico",
+      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-un-restaurante-chick-fil-a-de-nueva-jersey-deja-varios-heridos-y-genera-panico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_12-4-2026_122943_lapatilla.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-12T15:36:35.328Z"
+  "lastUpdate": "2026-04-12T16:40:10.788Z"
 }
