@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "661,69"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Denuncian que un comandante venezolano detenido hace 17 meses es sometido a tratos “inhumanos” en prisión",
-      "link": "https://www.infobae.com/venezuela/2026/04/12/denuncian-que-un-comandante-venezolano-detenido-hace-17-meses-es-sometido-a-tratos-inhumanos-en-prision/",
-      "image": "https://www.infobae.com/resizer/v2/A2M7V2B6EBGAXNGTMR2JFDLJN4.jpg?auth=4e6afa4bb55d48da4d1c702b6ad57eceabd191c8d088d3379cd97cbc3f1d82f0&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado afirmó que los venezolanos están listos para participar en elecciones libres: los detalles del plan",
+      "link": "https://www.infobae.com/venezuela/2026/04/12/maria-corina-machado-afirmo-que-los-venezolanos-estan-listos-para-participar-en-elecciones-libres-los-detalles-del-plan/",
+      "image": "https://www.infobae.com/resizer/v2/CKXKD3LGK5E5DCZ7DB4TM6NHEY.jpg?auth=52767cf2eaf8456df5b5ecf4b0c2bc6ce56530f799f9f77b073fe33aefffb73e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Jorge Rodríguez prioriza la economía venezolana sobre los comicios: \"Es necesario avanzar hacia un dinamismo\"\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/jorge-rodriguez-prioriza-la-economia-venezolana-sobre-los-comicios-es-necesario-avanzar-hacia-un-dinamismo/",
+      "title": "Plataforma Unitaria presenta su hoja de ruta: negociación y presión ciudadana para rescatar el voto libre\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/plataforma-unitaria-presenta-su-hoja-de-ruta-negociacion-y-presion-ciudadana-para-rescatar-el-voto-libre/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Andreína Baduel denuncia que niegan medicina y visitas a su hermano detenido",
-      "link": "https://noticiasvenevision.com/noticias/politica/andreina-baduel-denuncia-que-niegan-medicina-y-visitas-a-su-hermano-detenido",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/andrena-baduel.-060aa4.PNG"
+      "title": "Stalin González: \"Las sanciones no son responsables de la crisis económica. La crisis económica es de la mala política del gobierno\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/stalin-gonzalez-las-sanciones-no-son-responsables-de-la-crisis-economica-la-crisis-economica-es-de-la-mala-politica-del-gobierno",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8539-303a8a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PEÑALOZA ADVIRTIÓ QUE LA RECUPERACIÓN ECONÓMICA REQUIERE UN CAMBIO POLÍTICO",
-      "link": "https://noticierodigital.com/2026/04/penaloza-advirtio-que-la-recuperacion-economica-requiere-un-cambio-politico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/04/pedropablopenaloza-cartaabiden-18abr2022.jpg"
+      "title": "CHAVISMO CONMEMORÓ SUCESOS DE ABRIL DE 2002 DESDE LA EMBAJADA DE CUBA EN CARACAS",
+      "link": "https://noticierodigital.com/2026/04/chavismo-conmemoro-sucesos-de-abril-de-2002-desde-la-embajada-de-cuba-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/chavismo-venezuela-12-de-abril-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo en un restaurante Chick-fil-A de Nueva Jersey deja varios heridos y genera pánico",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-un-restaurante-chick-fil-a-de-nueva-jersey-deja-varios-heridos-y-genera-panico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_12-4-2026_122943_lapatilla.com_-750x430.jpeg"
+      "title": "Posible bloqueo de Ormuz afectaría principalmente a Irán",
+      "link": "https://diarioversionfinal.com/mundo/posible-bloqueo-de-ormuz-afectaria-principalmente-a-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
     }
   ],
-  "lastUpdate": "2026-04-12T17:35:12.344Z"
+  "lastUpdate": "2026-04-12T18:51:44.241Z"
 }
