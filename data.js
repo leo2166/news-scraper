@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Vance dice que no hay acuerdo con Irán tras conversaciones maratónicas",
+      "title": "Vance dice que no hay acuerdo con Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/11/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-19-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vance-no-acuerdo.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/john-cornyn-ken-paxton.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_12-4-2026_05259_elpitazo.net_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-12T08:50:17.250Z"
+  "lastUpdate": "2026-04-12T09:45:29.739Z"
 };
