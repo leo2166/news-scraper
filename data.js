@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "660,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Perú elige presidente en las urnas: hay 35 candidatos",
+      "title": "Keiko Fujimori lidera las elecciones en Perú, según boca de urna",
       "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/peru-candidatos-keiko.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Péter Magyar gana las elecciones en Hungría y marca el fin de la era Orbán",
-      "link": "https://diarioversionfinal.com/mundo/peter-magyar-gana-las-elecciones-en-hungria-y-marca-el-fin-de-la-era-orban/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/b53da36a-c0d6-4ea6-a918-e091459dd513_16-9-aspect-ratio_default_0-750x430.jpg"
+      "title": "Elecciones en Perú cierran tras jornada marcada por retrasos en Lima",
+      "link": "https://diarioversionfinal.com/mundo/elecciones-en-peru-cierran-tras-jornada-marcada-por-retrasos-en-lima/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AP26102505542211-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-12T22:35:37.418Z"
+  "lastUpdate": "2026-04-12T23:35:51.215Z"
 };
