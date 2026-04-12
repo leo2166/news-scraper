@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "661,89"
+      "usdt": "661,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué busca Trump con el bloqueo del estrecho de Ormuz?",
-      "link": "https://cnnespanol.cnn.com/2026/04/12/eeuu/trump-amenaza-bloqueo-estrecho-ormuz-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/usa-trump-ormuz.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Perú elige presidente en las urnas: hay 35 candidatos",
+      "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/peru-candidatos-keiko.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Stalin González: \"Las sanciones no son responsables de la crisis económica. La crisis económica es de la mala política del gobierno\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/stalin-gonzalez-las-sanciones-no-son-responsables-de-la-crisis-economica-la-crisis-economica-es-de-la-mala-politica-del-gobierno",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8539-303a8a.jpg"
+      "title": "Jorge Rodríguez: “Estamos en un diálogo profundo con todos los factores de oposición, incluso con aquellos que viven en el exterior”",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-estamos-en-un-dialogo-profundo-con-todos-los-factores-de-oposicion-incluso-con-aquellos-que-viven-en-el-exterior",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/elpaisamerica_1775992801_3873629817871465566_37346596733-b6b0e9.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "🔴Millonarios vs. Santa Fe, EN VIVO HOY: siga el minuto a minuto del clásico por Liga BetPlay I-2026",
-      "link": "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/millonarios-vs-santa-fe-en-vivo-hoy-siga-el-minuto-a-minuto-del-clasico-por-liga-betplay-i-2026-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cab4d8f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7b%2Fc2%2Fa9f953bb4f51a14a2eb1cf2dfa13%2Fmilllos.jpg"
+      "title": "El drama de la mamá de Tatiana Hernández a un año de su desaparición en Cartagena: “No voy a parar”",
+      "link": "https://www.noticiascaracol.com/colombia/el-drama-de-la-mama-de-tatiana-hernandez-a-un-ano-de-su-desaparicion-en-cartagena-no-voy-a-parar-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/36659e8/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0b%2F50%2Ffe6f5dbe41088d40d85393cf2529%2Fportadas-caracol-web-14.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que Irán terminará regresando a la mesa de negociación con EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-iran-terminara-regresando-a-la-mesa-de-negociacion-con-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
+      "title": "Elecciones en Perú: gobierno descarta fraude y atribuye retrasos a fuerza mayor",
+      "link": "https://diarioversionfinal.com/mundo/elecciones-en-peru-gobierno-descarta-fraude-y-atribuye-retrasos-a-fuerza-mayor/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/zMxORl2S-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-12T20:37:16.235Z"
+  "lastUpdate": "2026-04-12T21:35:24.669Z"
 }
