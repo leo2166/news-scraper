@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "664,30"
+      "usdt": "633,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_12-4-2026_05259_elpitazo.net_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-12T07:14:49.331Z"
+  "lastUpdate": "2026-04-12T08:50:17.250Z"
 };
