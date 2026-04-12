@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "661,69"
+      "usdt": "654,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Vance dice que no hay acuerdo con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/04/11/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-19-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2023-02-14t071531z-228206069-rc2paz93f7bo-rtrmadp-3-china-iran-20260411055105126.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Fracaso de diálogo entre EE.UU. e Irán agrava la crisis",
+      "link": "https://cnnespanol.cnn.com/2026/04/12/mundo/fracaso-conversaciones-eeuu-iran-duro-golpe-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26102066715935ajd.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HIMIOB EXIGIÓ EXCARCELACIÓN DE LOS POLICÍAS METROPOLITANOS TRAS 24 AÑOS DE DETENCIÓN",
-      "link": "https://noticierodigital.com/2026/04/himiob-exigio-excarcelacion-de-los-policias-metropolitanos-condenados-por-sucesos-de-abril/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
+      "title": "NAHUEL GALLO CORRIÓ MARATÓN CON MENSAJE DE LIBERACIÓN DE PRESOS POLÍTICOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/nahuel-gallo-corrio-maraton-con-mensaje-de-liberacion-de-presos-politicos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/nahuel-gallo-carrera-argentina-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ICE detiene a médica venezolana y a su hija de 5 años tras bloqueo de trámites migratorios",
-      "link": "https://diarioversionfinal.com/mundo/ice-detiene-a-medica-venezolana-y-a-su-hija-de-5-anos-tras-bloqueo-de-tramites-migratorios/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_12-4-2026_05259_elpitazo.net_-750x430.jpeg"
+      "title": "Jorge Rodríguez al El País de España: \"No diría que es una transición lo que se está viviendo\"",
+      "link": "https://diarioversionfinal.com/mundo/jorge-rodriguez-al-el-pais-de-espana-no-diria-que-es-una-transicion-lo-que-se-esta-viviendo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/TDEneZbw-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-12T11:34:32.086Z"
+  "lastUpdate": "2026-04-12T13:02:55.518Z"
 };
