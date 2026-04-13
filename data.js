@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "659,50"
+      "usdt": "656,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Avanza lento el escrutinio en Perú tras una compleja jornada electoral",
+      "title": "Perú se encamina a segunda vuelta entre Keiko Fujimori y López Aliaga",
       "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260412-mapa-resultados-peru-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Manada de perros le arrancó las orejas y los brazos a venezolano que iba por lote vacío en Bogotá",
-      "link": "https://www.noticiascaracol.com/los-informantes/capitulos/manada-de-perros-le-arranco-las-orejas-y-los-brazos-a-venezolano-que-iba-por-lote-vacio-en-bogota-pr30",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/57d3aef/2147483647/strip/true/crop/1915x1080+5+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd5%2Fa7%2F92081dd64ae5a40394a47217869a%2Fpor-si-acaso.jpg"
+      "title": "\"No sientan miedo, sientan orgullo\": Karol G en Coachella y su mensaje a los latinos",
+      "link": "https://www.noticiascaracol.com/entretenimiento/no-sientan-miedo-sientan-orgullo-karol-g-en-coachella-y-su-mensaje-a-los-latinos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/996ec56/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F19%2Ffa%2F813cec91479c8d2fa3b9f45756dc%2Fkarol-g-coachella.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-10.56.38-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-13T10:46:21.915Z"
+  "lastUpdate": "2026-04-13T12:03:32.517Z"
 };
