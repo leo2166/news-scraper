@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "660,69"
+      "usdt": "659,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Keiko Fujimori lidera las elecciones en Perú, según boca de urna",
+      "title": "Ordenan en Perú una ampliación parcial de las elecciones hasta el lunes",
       "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/peru-candidatos-keiko.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260412-mapa-resultados-peru-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez afirma que la democracia venezolana se consolida desde la organización comunitaria",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-afirma-que-la-democracia-venezolana-se-consolida-desde-la-organizacion-comunitaria",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1776009959269333653xg-4d324d.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "VENEZUELA LAMENTÓ LA MUERTE DE DECENAS DE PERSONAS DURANTE ESTAMPIDA EN HAITÍ",
-      "link": "https://noticierodigital.com/2026/04/venezuela-lamento-la-muerte-de-decenas-de-personas-durante-estampida-en-haiti/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/estampida-mortal-en-haiti-627x376.jpg"
+      "title": "Plataforma Unitaria Democrática presentó oficialmente su hoja de ruta",
+      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-democratica-presento-oficialmente-su-hoja-de-ruta",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hfizxywxwaaozox-a74d9f.png"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Elecciones en Perú cierran tras jornada marcada por retrasos en Lima",
-      "link": "https://diarioversionfinal.com/mundo/elecciones-en-peru-cierran-tras-jornada-marcada-por-retrasos-en-lima/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AP26102505542211-750x430.jpg"
+      "title": "Elecciones en Perú continúan este lunes por retrasos en Lima",
+      "link": "https://diarioversionfinal.com/mundo/elecciones-en-peru-continuan-este-lunes-por-retrasos-en-lima/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/elecciones-peru-2026-amplian-horario-de-votacion-y-ahora-podras-votar-hasta-esta-nueva-hora-en-todo-el-pais-1337509-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-12T23:35:51.215Z"
+  "lastUpdate": "2026-04-13T02:43:26.414Z"
 }
