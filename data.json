@@ -5,7 +5,7 @@
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "668,69"
+      "usdt": "669,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Chevron expande sus operaciones en Venezuela tras firmar acuerdos estratégicos para aumentar la producción petrolera",
-      "link": "https://www.infobae.com/venezuela/2026/04/13/chevron-expande-sus-operaciones-en-venezuela-tras-firmar-acuerdos-estrategicos-para-aumentar-la-produccion-petrolera/",
-      "image": "https://www.infobae.com/resizer/v2/S2MSAOTQKFHY5ADFAWYIY4RP74.JPG?auth=747da0795bc7c35e2b62a279f8891b3186711356766c84b07ce5b1576c4af8c7&smart=true&width=350&height=197&quality=85"
+      "title": "Macron recibió a María Corina Machado en el Elíseo y respaldó una transición democrática en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/13/macron-recibio-a-maria-corina-machado-en-el-eliseo-y-respaldo-una-transicion-democratica-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4I2Z47FHRVBSXJ2FACOBNA37AQ.jpg?auth=6271dd9a67f1fcca15a9dd3c6efe5a76eeccd07ae5c53986015bc3dda88cc245&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Marco Rubio sobre Venezuela: No permitiremos que el hemisferio occidental sea base de operaciones de rivales de EE UU\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/marco-rubio-venezuela-petroleo-eeuu-2026/",
+      "title": "Estados Unidos anuncia un acuerdo de Chevron con Venezuela: \"Respalda la recuperación económica\"\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/estados-unidos-anuncia-un-acuerdo-de-chevron-con-venezuela-respalda-la-recuperacion-economica/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "El caos electoral y la crisis de institucionalidad en Perú",
-      "link": "https://cnnespanol.cnn.com/2026/04/13/latinoamerica/peru-fallas-sistema-electoral-onpe-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270514677.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cierran las últimas mesas de votación en Perú, 25 horas después de lo previsto",
+      "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260412-mapa-resultados-peru-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,15 +38,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHEVRON Y PDVSA FIRMARON NUEVOS ACUERDOS PARA AMPLIAR OPERACIONES PETROLERAS",
-      "link": "https://noticierodigital.com/2026/04/chevron-y-pdvsa-firmaron-nuevos-acuerdos-para-ampliar-operaciones-petroleras/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/chevron-licencia-eeuu-27may2022-627x376.webp"
+      "title": "LLEGARON A MAIQUETÍA 190 VENEZOLANOS DEPORTADOS DESDE EE. UU.",
+      "link": "https://noticierodigital.com/2026/04/llegaron-a-maiquetia-190-venezolanos-deportados-desde-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/vuelo-de-deportacion-venezolanos-eeuu-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro se pronuncia sobre protestas y bloqueos por aumento en el avalúo catastral",
-      "link": "https://www.noticiascaracol.com/politica/presidente-petro-se-pronuncia-sobre-protestas-y-bloqueos-por-aumento-en-el-avaluo-catastral-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8f579d0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3b%2F8e%2F3fe981a34f7e8b3ca4684a473f04%2Fgustavo-petro.jpg"
+      "title": "Delcy Rodríguez designa a Vladimir Padrino, exministro de Defensa, como ministro de Agricultura",
+      "link": "https://www.noticiascaracol.com/mundo/vladimir-padrino-lidera-ministerio-en-venezuela-nuevamente-delcy-rodriguez-lo-designa-como-ministro-de-agricultura-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e4ebbac/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F00%2F76%2F90ec6fab48569d5948ec61e1bc48%2Fpadrino-delcy.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/01/3f38433ea210c11d0c08ec3ad5f7f6ed3b43a343-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-13T22:43:01.024Z"
+  "lastUpdate": "2026-04-13T23:42:38.325Z"
 }
