@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "656,69"
+      "usdt": "653,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Perú se encamina a segunda vuelta entre Keiko Fujimori y López Aliaga",
+      "title": "Perú se encamina a una segunda vuelta tras retrasos en la jornada",
       "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260412-mapa-resultados-peru-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA LAMENTÓ LA MUERTE DE DECENAS DE PERSONAS DURANTE ESTAMPIDA EN HAITÍ",
-      "link": "https://noticierodigital.com/2026/04/venezuela-lamento-la-muerte-de-decenas-de-personas-durante-estampida-en-haiti/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/estampida-mortal-en-haiti-627x376.jpg"
+      "title": "MINISTRA SANJUÁN RECHAZÓ MANIPULACIÓN DE LA FCU Y REITERÓ LLAMADO AL DIÁLOGO",
+      "link": "https://noticierodigital.com/2026/04/ministra-sanjuan-rechazo-manipulacion-de-la-fcu-y-reitero-llamado-al-dialogo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1776089343242-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"No sientan miedo, sientan orgullo\": Karol G en Coachella y su mensaje a los latinos",
-      "link": "https://www.noticiascaracol.com/entretenimiento/no-sientan-miedo-sientan-orgullo-karol-g-en-coachella-y-su-mensaje-a-los-latinos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/996ec56/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F19%2Ffa%2F813cec91479c8d2fa3b9f45756dc%2Fkarol-g-coachella.jpg"
+      "title": "Encontraron a las siete personas desaparecidas en el cerro de Monserrate",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/encontraron-a-las-siete-personas-desaparecidas-en-el-cerro-de-monserrate-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f16077f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5b%2F76%2F415b2b7daa29056af4b5cf8aa9dc%2Fmaxresdefault.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump anuncia que tomará el control de Ormuz tras fallar negociación con Irán",
-      "link": "https://laverdad.com/trump-anuncia-que-tomara-el-control-de-ormuz-tras-fallar-negociacion-con-iran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/35787f55-ba46-4bd2-a345-8740e1808ee9_16-9-discover-aspect-ratio_default_0.jpg"
+      "title": "El Papa asegura que no le teme a la administración Trump ni a predicar el Evangelio",
+      "link": "https://laverdad.com/el-papa-asegura-que-no-le-teme-a-la-administracion-trump-ni-a-predicar-el-evangelio/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Proyecto-nuevo-23.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump arremete contra el Papa: “Es débil y le hace daño a la Iglesia católica”",
-      "link": "https://diarioversionfinal.com/mundo/trump-arremete-contra-el-papa-es-debil-y-le-hace-dano-a-la-iglesia-catolica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-10.56.38-PM-750x430.jpeg"
+      "title": "China pide “paso sin obstáculos” en Ormuz tras anuncio de bloqueo por parte de Trump",
+      "link": "https://diarioversionfinal.com/mundo/china-pide-paso-sin-obstaculos-en-ormuz-tras-anuncio-de-bloqueo-por-parte-de-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-13T12:03:32.517Z"
+  "lastUpdate": "2026-04-13T14:49:28.397Z"
 };
