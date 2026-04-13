@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "658,13"
+      "usdt": "664,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/guanipa-84ecf3.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ECUADOR: DOS PRIMAS VENEZOLANAS FUERON EJECUTADAS EN UNA PLANTACIÓN",
+      "link": "https://noticierodigital.com/2026/04/ecuador-dos-primas-venezolanas-fueron-ejecutadas-en-una-plantacion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260413-WA0143-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Se registra tiroteo cerca del Ministerio de Defensa en Bogotá: dos personas fueron capturadas",
       "link": "https://www.noticiascaracol.com/colombia/bogota/se-registra-tiroteo-cerca-del-ministerio-de-defensa-en-bogota-dos-personas-fueron-capturadas-rg10",
@@ -44,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Perú se encamina a segunda vuelta entre derechista Fujimori y ultraderechista López Aliaga",
-      "link": "https://laverdad.com/peru-se-encamina-a-segunda-vuelta-entre-derechista-fujimori-y-ultraderechista-lopez-aliaga/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Keiko-Fujimori-Rafael-Lopez-Aliaga.jpg"
+      "title": "Trump descarta disculparse con el Papa porque “dijo cosas que están mal”",
+      "link": "https://laverdad.com/trump-descarta-disculparse-con-el-papa-porque-dijo-cosas-que-estan-mal/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/image-2026-04-13T150656.593.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "¡Tensión en Argelia! Reportan dos intentos de atentado durante la histórica visita del Papa",
-      "link": "https://diarioversionfinal.com/mundo/tension-en-argelia-reportan-dos-intentos-de-atentado-durante-la-historica-visita-del-papa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-672x430.webp"
+      "title": "Autoridades estadounidenses liberan a hija de médica venezolana detenida por el ICE en Texas",
+      "link": "https://diarioversionfinal.com/mundo/autoridades-estadounidenses-liberan-a-hija-de-medica-venezolana-detenida-por-el-ice-en-texas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-3.15.54-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-13T18:01:59.020Z"
+  "lastUpdate": "2026-04-13T20:05:38.468Z"
 };
