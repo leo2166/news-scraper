@@ -5,7 +5,7 @@
       "eur": "560,05"
     },
     "binance": {
-      "usdt": "659,69"
+      "usdt": "659,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,19 +14,19 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado afirmó que los venezolanos están listos para participar en elecciones libres: los detalles del plan",
-      "link": "https://www.infobae.com/venezuela/2026/04/12/maria-corina-machado-afirmo-que-los-venezolanos-estan-listos-para-participar-en-elecciones-libres-los-detalles-del-plan/",
-      "image": "https://www.infobae.com/resizer/v2/CKXKD3LGK5E5DCZ7DB4TM6NHEY.jpg?auth=52767cf2eaf8456df5b5ecf4b0c2bc6ce56530f799f9f77b073fe33aefffb73e&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición venezolana exigió un nuevo ente electoral como garantía para futuros comicios",
+      "link": "https://www.infobae.com/venezuela/2026/04/13/la-oposicion-venezolana-exigio-un-nuevo-ente-electoral-como-garantia-para-futuros-comicios/",
+      "image": "https://www.infobae.com/resizer/v2/ITM2L73KBZF6NMZQVGGK5O65NM.JPG?auth=0353432c1f39132cb73eff52c9a64a3a95f9cdf133804ea6eb697f96a0941358&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado aseguró que los venezolanos están listos para elecciones: \"Queremos elegir a todo\"\nPOLÍTICA",
-      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-aseguro-que-los-venezolanos-estan-listos-para-elecciones-queremos-elegir-a-todo/",
+      "title": "100 días de Delcy Rodríguez en el poder: una presidencia a espaldas de la Constitución\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/100-dias-de-delcy-rodriguez-en-el-poder-presidencia-a-espaldas-de-la-constitucion/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Ordenan en Perú una ampliación parcial de las elecciones hasta el lunes",
+      "title": "Avanza lento el escrutinio en Perú tras una compleja jornada electoral",
       "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260412-mapa-resultados-peru-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-12-at-10.56.38-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-13T08:04:41.331Z"
+  "lastUpdate": "2026-04-13T10:46:21.915Z"
 }
