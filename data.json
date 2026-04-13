@@ -5,7 +5,7 @@
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "669,01"
+      "usdt": "668,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La oposición venezolana exigió un nuevo ente electoral como garantía para futuros comicios",
-      "link": "https://www.infobae.com/venezuela/2026/04/13/la-oposicion-venezolana-exigio-un-nuevo-ente-electoral-como-garantia-para-futuros-comicios/",
-      "image": "https://www.infobae.com/resizer/v2/ITM2L73KBZF6NMZQVGGK5O65NM.JPG?auth=0353432c1f39132cb73eff52c9a64a3a95f9cdf133804ea6eb697f96a0941358&smart=true&width=350&height=197&quality=85"
+      "title": "Chevron expande sus operaciones en Venezuela tras firmar acuerdos estratégicos para aumentar la producción petrolera",
+      "link": "https://www.infobae.com/venezuela/2026/04/13/chevron-expande-sus-operaciones-en-venezuela-tras-firmar-acuerdos-estrategicos-para-aumentar-la-produccion-petrolera/",
+      "image": "https://www.infobae.com/resizer/v2/S2MSAOTQKFHY5ADFAWYIY4RP74.JPG?auth=747da0795bc7c35e2b62a279f8891b3186711356766c84b07ce5b1576c4af8c7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Marco Rubio sobre Venezuela: No vamos a permitir que el hemisferio occidental sea una base de operaciones para adversarios y rivales de Estados Unidos\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/marco-rubio-sobre-venezuela-no-vamos-a-permitir-que-el-hemisferio-occidental-sea-una-base-de-operaciones-para-adversarios-y-rivales-de-estados-unidos/",
+      "title": "Marco Rubio sobre Venezuela: No permitiremos que el hemisferio occidental sea base de operaciones de rivales de EE UU\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/marco-rubio-venezuela-petroleo-eeuu-2026/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/01/3f38433ea210c11d0c08ec3ad5f7f6ed3b43a343-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-13T21:51:08.038Z"
+  "lastUpdate": "2026-04-13T22:43:01.024Z"
 }
