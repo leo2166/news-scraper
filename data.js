@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "477,15",
-      "eur": "560,05"
+      "usd": "477,63",
+      "eur": "559,21"
     },
     "binance": {
-      "usdt": "664,69"
+      "usdt": "669,01"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,46 +20,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Demócratas de EE UU aprueban resolución a favor de la transición democrática en Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/democratas-aprueban-resolucion-a-favor-de-transicion-democratica/",
+      "title": "Marco Rubio sobre Venezuela: No vamos a permitir que el hemisferio occidental sea una base de operaciones para adversarios y rivales de Estados Unidos\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/marco-rubio-sobre-venezuela-no-vamos-a-permitir-que-el-hemisferio-occidental-sea-una-base-de-operaciones-para-adversarios-y-rivales-de-estados-unidos/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Perú se encamina a una segunda vuelta tras retrasos en la jornada",
-      "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260412-mapa-resultados-peru-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "El caos electoral y la crisis de institucionalidad en Perú",
+      "link": "https://cnnespanol.cnn.com/2026/04/13/latinoamerica/peru-fallas-sistema-electoral-onpe-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270514677.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tomás Guanipa: La libertad de expresión y el derecho a manifestación deben respetarse",
-      "link": "https://noticiasvenevision.com/noticias/politica/tomas-guanipa-la-libertad-de-expresion-y-el-derecho-a-manifestacion-deben-respetarse",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/guanipa-84ecf3.png"
+      "title": "Vladimir Padrino López es designado como ministro de Agricultura Productiva y Tierras",
+      "link": "https://noticiasvenevision.com/noticias/politica/vladimir-padrino-lopez-es-designado-como-ministro-de-agricultura-productiva-y-tierras",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/padrino-lopez-dfc259.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ECUADOR: DOS PRIMAS VENEZOLANAS FUERON EJECUTADAS EN UNA PLANTACIÓN",
-      "link": "https://noticierodigital.com/2026/04/ecuador-dos-primas-venezolanas-fueron-ejecutadas-en-una-plantacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260413-WA0143-627x376.jpg"
+      "title": "CHEVRON Y PDVSA FIRMARON NUEVOS ACUERDOS PARA AMPLIAR OPERACIONES PETROLERAS",
+      "link": "https://noticierodigital.com/2026/04/chevron-y-pdvsa-firmaron-nuevos-acuerdos-para-ampliar-operaciones-petroleras/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/chevron-licencia-eeuu-27may2022-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Se registra tiroteo cerca del Ministerio de Defensa en Bogotá: dos personas fueron capturadas",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/se-registra-tiroteo-cerca-del-ministerio-de-defensa-en-bogota-dos-personas-fueron-capturadas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c632188/2147483647/strip/true/crop/1280x722+0+51/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F09%2F3b%2Fe011c36649a0845f669b9b3fff78%2Fdescarga-2024-10-11t083104-881.jfif"
+      "title": "Presidente Petro se pronuncia sobre protestas y bloqueos por aumento en el avalúo catastral",
+      "link": "https://www.noticiascaracol.com/politica/presidente-petro-se-pronuncia-sobre-protestas-y-bloqueos-por-aumento-en-el-avaluo-catastral-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8f579d0/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3b%2F8e%2F3fe981a34f7e8b3ca4684a473f04%2Fgustavo-petro.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump descarta disculparse con el Papa porque “dijo cosas que están mal”",
-      "link": "https://laverdad.com/trump-descarta-disculparse-con-el-papa-porque-dijo-cosas-que-estan-mal/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/image-2026-04-13T150656.593.jpg"
+      "title": "Se viraliza video del encuentro de la astronauta del Artemis II con su perrita",
+      "link": "https://laverdad.com/se-viraliza-video-del-encuentro-de-la-astronauta-del-artemis-ii-con-su-perrita/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Astronauta-del-Artemis-II.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Autoridades estadounidenses liberan a hija de médica venezolana detenida por el ICE en Texas",
-      "link": "https://diarioversionfinal.com/mundo/autoridades-estadounidenses-liberan-a-hija-de-medica-venezolana-detenida-por-el-ice-en-texas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-3.15.54-PM-750x430.jpeg"
+      "title": "Secretario general de ONU insta a EE. UU. e Irán a reanudar negociación",
+      "link": "https://diarioversionfinal.com/mundo/secretario-general-de-onu-insta-a-ee-uu-e-iran-a-reanudar-negociacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/01/3f38433ea210c11d0c08ec3ad5f7f6ed3b43a343-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-13T20:05:38.468Z"
+  "lastUpdate": "2026-04-13T21:51:08.038Z"
 };
