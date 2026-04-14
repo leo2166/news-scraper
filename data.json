@@ -5,7 +5,7 @@
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "673,99"
+      "usdt": "673,53"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. contempla una segunda ronda de conversaciones con Irán",
+      "title": "Trump dice que las conversaciones con Irán podrían reanudarse en los próximos dos días",
       "link": "https://cnnespanol.cnn.com/2026/04/13/eeuu/iran-nuevas-negociaciones-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260414-iran-ports-es-hp.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270719290-20260414142717505-20260414185944279.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "SNTP informa sentencia absolutoria a favor del periodista Ramón Centeno y denuncia irregularidades en caso de Gabriel González",
-      "link": "https://noticiasvenevision.com/noticias/politica/sntp-informa-sentencia-absolutoria-a-favor-del-periodista-ramon-centeno-y-denuncia-irregularidades-en-caso-de-gabriel-gonzalez",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-82-8ec5dd.jpg"
+      "title": "Jorge Arreaza aseguró que al menos 8 mil personas han sido beneficiadas con la Ley de Amnistía",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-aseguro-que-al-menos-8-mil-personas-han-sido-beneficiadas-con-la-ley-de-amnistia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-arreaza-8c82d0.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FMI PROYECTA QUE ECONOMÍA DE VENEZUELA CRECERÁ 4 % PARA 2026",
-      "link": "https://noticierodigital.com/2026/04/fmi-proyecta-que-economia-de-venezuela-crecera-4-para-2026/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/fmi.jpg"
+      "title": "EX PRESOS POLÍTICOS DENUNCIAN RETRASOS EN AMNISTÍA ANTE LAS NACIONES UNIDAS",
+      "link": "https://noticierodigital.com/2026/04/ex-presos-politicos-denuncian-retrasos-en-amnistia-ante-las-naciones-unidas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1776190795336-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Acnur revela que un tercio de los venezolanos en Latinoamérica se plantea regresar",
-      "link": "https://laverdad.com/acnur-revela-que-un-tercio-de-los-venezolanos-en-latinoamerica-se-plantea-regresar/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/12/Venezolanos-Migrantes.jpg"
+      "title": "Expulsan a seis venezolanos por reincidir en hurtos en Bogotá",
+      "link": "https://laverdad.com/expulsan-a-seis-venezolanos-por-reincidir-en-hurtos-en-bogota/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/deportados-colombia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel y Líbano inician conversaciones directas en Washington mediadas por EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/israel-y-libano-inician-conversaciones-directas-en-washington-mediadas-por-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/joseph-aoun-y-netanyahu.-fotos-getty-750x430.webp"
+      "title": "Guerra en Medio Oriente provoca la mayor caída histórica en la producción de petróleo",
+      "link": "https://diarioversionfinal.com/mundo/guerra-en-medio-oriente-provoca-la-mayor-caida-historica-en-la-produccion-de-petroleo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-14T17:09:06.579Z"
+  "lastUpdate": "2026-04-14T19:16:38.991Z"
 }
