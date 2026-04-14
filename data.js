@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "670,69"
+      "usdt": "640,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El escrutinio en Perú llegó al 60 %, 18 horas después de lo prometido",
-      "link": "https://cnnespanol.cnn.com/2026/04/12/latinoamerica/live-news/elecciones-presidenciales-peru-resultados-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260412-mapa-resultados-peru-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "El enfoque de Trump hacia Irán es una proyección de su marca personal",
+      "link": "https://cnnespanol.cnn.com/2026/04/14/mundo/analisis-crisis-iran-mundo-resistente-exigencias-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2270781502-20260414043736705.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Paro campesino se mantiene en Santander y otras regiones: así fue jornada de diálogos",
-      "link": "https://www.noticiascaracol.com/colombia/paro-campesino-se-mantiene-en-santander-y-otras-regiones-asi-fue-jornada-de-dialogos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6860e22/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F76%2F6c%2F8d70a2564999a575058d0dcbfcf8%2Fexcentricidades-12.jpg"
+      "title": "Petro ordena traslado de capos que participaron en fiesta en la cárcel de Itagüí: \"Se acabó el tema\"",
+      "link": "https://www.noticiascaracol.com/colombia/petro-ordena-traslado-de-capos-que-participaron-en-fiesta-en-la-carcel-de-itagui-se-acabo-el-tema-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/231ba8e/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9c%2F05%2F75cca84f4a60b1dd727a15816d9a%2Fexcentricidades-14.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. bombardea nueva narcolancha en el Pacífico y confirma dos fallecidos",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-bombardea-nueva-narcolancha-en-el-pacifico-y-confirma-dos-fallecidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/efe_b611ee51c3b6a19a5f827b07c1e330c630e25f83w-750x430.webp"
+      "title": "Previo a las negociaciones, Israel avanza en el sur del Líbano y Hezbollah no detiene ataques",
+      "link": "https://diarioversionfinal.com/mundo/previo-a-las-negociaciones-israel-avanza-en-el-sur-del-libano-y-hezbollah-no-detiene-ataques/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/GettyImages-2194615183-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-14T02:36:39.169Z"
+  "lastUpdate": "2026-04-14T05:24:20.632Z"
 };
