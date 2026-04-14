@@ -5,7 +5,7 @@
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "673,53"
+      "usdt": "672,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Más de un tercio de los refugiados venezolanos en América Latina podría volver a su país si se dieran las condiciones",
-      "link": "https://www.infobae.com/venezuela/2026/04/14/mas-de-un-tercio-de-los-refugiados-venezolanos-en-america-latina-podria-volver-a-su-pais-si-se-dieran-las-condiciones/",
-      "image": "https://www.infobae.com/resizer/v2/2VIPOJBHU3ZHPVS4G6IMUIWUEA.jpg?auth=f3d15b3d28bf037d0cf56d58dcad74096ecde49abd696f5a52592e854c2b6e1e&smart=true&width=350&height=197&quality=85"
+      "title": "Ex presos políticos venezolanos denunciaron ante la ONU que la amnistía se aplica “con selectividad perversa”",
+      "link": "https://www.infobae.com/venezuela/2026/04/14/ex-presos-politicos-venezolanos-denunciaron-ante-la-onu-que-la-amnistia-se-aplica-con-selectividad-perversa/",
+      "image": "https://www.infobae.com/resizer/v2/QWC6ZR5FCJBKXAUBPXS22ZPW7M.jpg?auth=6e385951c8edfe85989c5a2f841afd3a203927af8a714cc2410662a79115355e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Acnur: Más de un tercio de los refugiados venezolanos en Latinoamérica se plantea regresar al país\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/acnur-mas-de-un-tercio-de-los-refugiados-venezolanos-en-latinoamerica-se-plantea-regresar-al-pais/",
+      "title": "Estados Unidos suaviza las sanciones al BCV y otras instituciones bancarias\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/estados-unidos-suaviza-las-sanciones-al-bcv-y-otras-instituciones-bancarias/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que las conversaciones con Irán podrían reanudarse en los próximos dos días",
-      "link": "https://cnnespanol.cnn.com/2026/04/13/eeuu/iran-nuevas-negociaciones-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270719290-20260414142717505-20260414185944279.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. dice que Israel y el Líbano acordaron entablar nuevas negociaciones",
+      "link": "https://cnnespanol.cnn.com/2026/04/14/mundo/live-news/guerra-ee-uu-israel-iran-estados-unidos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/d36d8f1f-1d85-4365-a982-e953590c3647.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EX PRESOS POLÍTICOS DENUNCIAN RETRASOS EN AMNISTÍA ANTE LAS NACIONES UNIDAS",
-      "link": "https://noticierodigital.com/2026/04/ex-presos-politicos-denuncian-retrasos-en-amnistia-ante-las-naciones-unidas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1776190795336-627x376.png"
+      "title": "EE .UU. NIEGA SALIDA DE DOGU DE LA EMBAJADA EN CARACAS TRAS RUMORES ",
+      "link": "https://noticierodigital.com/2026/04/ee-uu-niega-salida-de-dogu-de-la-embajada-en-caracas-tras-rumores/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Laura-Dogu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El recorrido mortal de Los Camaleones, banda detrás del crimen contra profesor Neill Felipe Cubides",
-      "link": "https://www.noticiascaracol.com/judicial/el-recorrido-mortal-de-los-camaleones-banda-detras-del-crimen-contra-profesor-neill-felipe-cubides-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/59ca225/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F07%2F82%2F736c40244f91bcde67a5f6bef6ac%2Fneill-felipe-cubides-1.jpg"
+      "title": "Revelan nuevos videos y testimonios que reconstruyen balacera en el norte de Bogotá: \"Era terrible\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-nuevos-videos-y-testimonios-que-reconstruyen-balacera-en-el-norte-de-bogota-era-terrible-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/93f732f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffb%2F55%2Fee9f03324798b3d07b29e16148ed%2Fexcentricidades-15.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Expulsan a seis venezolanos por reincidir en hurtos en Bogotá",
-      "link": "https://laverdad.com/expulsan-a-seis-venezolanos-por-reincidir-en-hurtos-en-bogota/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/deportados-colombia.jpg"
+      "title": "Petro señala a Shakira: “Me sacó la chispa cuando dijo ‘las mujeres facturan”",
+      "link": "https://laverdad.com/petro-senala-a-shakira-me-saco-la-chispa-cuando-dijo-las-mujeres-facturan/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/image-2026-04-14T154931.942.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Guerra en Medio Oriente provoca la mayor caída histórica en la producción de petróleo",
-      "link": "https://diarioversionfinal.com/mundo/guerra-en-medio-oriente-provoca-la-mayor-caida-historica-en-la-produccion-de-petroleo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
+      "title": "Madrid: El Bloque Constitucional de Venezuela discute este miercoles la vía para las elecciones (Invitación a la comunidad venezolana)",
+      "link": "https://diarioversionfinal.com/mundo/madrid-el-bloque-constitucional-de-venezuela-discute-este-miercoles-la-via-para-las-elecciones-invitacion-a-la-comunidad-venezolana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/4972349592553238213-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-14T19:16:38.991Z"
+  "lastUpdate": "2026-04-14T20:55:02.385Z"
 }
