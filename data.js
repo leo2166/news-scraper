@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "642,80"
+      "usdt": "670,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "EE UU anuncia acuerdo con Chevron para apoyar economía nacional\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/acuerdo-eeuu-chevron-venezuela-petroleo-2026/",
+      "title": "Juan Pablo Guanipa: “El venezolano pervive tan optimista como desesperado”\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/04/uan-pablo-guanipa-entrevista-transicion-venezuela-machado/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/GettyImages-2194615183-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-14T07:47:06.818Z"
+  "lastUpdate": "2026-04-14T09:18:51.915Z"
 };
