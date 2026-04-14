@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "671,00"
+      "usdt": "637,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El subsecretario de la Oficina de Hidrocarburos de Estados Unidos visita Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/04/14/el-subsecretario-de-la-oficina-de-hidrocarburos-de-estados-unidos-visita-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/ZY5EBLW5HJCL7IIAJIPEW4BGIU.JPG?auth=b1163a690efb09df99f5ac41c20c22dd5579c0453e4bfaf0b4996f38a9a2839b&smart=true&width=350&height=197&quality=85"
+      "title": "Más de un tercio de los refugiados venezolanos en América Latina podría volver a su país si se dieran las condiciones",
+      "link": "https://www.infobae.com/venezuela/2026/04/14/mas-de-un-tercio-de-los-refugiados-venezolanos-en-america-latina-podria-volver-a-su-pais-si-se-dieran-las-condiciones/",
+      "image": "https://www.infobae.com/resizer/v2/2VIPOJBHU3ZHPVS4G6IMUIWUEA.jpg?auth=f3d15b3d28bf037d0cf56d58dcad74096ecde49abd696f5a52592e854c2b6e1e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FELIPE MUJICA INSISTIÓ EN LA RESTITUCIÓN DE LAS LIBERTADES DEMOCRÁTICAS",
-      "link": "https://noticierodigital.com/2026/04/felipe-mujica-aplaudio-designaciones-de-larry-devoe-y-eglee-gonzalez-lobato/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/mas-venezuela-felipe-mujica-627x376.jpg"
+      "title": "FMI PROYECTA QUE ECONOMÍA DE VENEZUELA CRECERÁ 4 % PARA 2026",
+      "link": "https://noticierodigital.com/2026/04/fmi-proyecta-que-economia-de-venezuela-crecera-4-para-2026/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/fmi.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Abelardo de la Espriella habla de su fe: \"He sido el único candidato que ha puesto primero a Dios\"",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-habla-de-su-fe-he-sido-el-unico-candidato-que-ha-puesto-primero-a-dios-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/68d5581/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa9%2F20%2F29499f3d4835a59c1f2b18be6a95%2Fexcentricidades-13.jpg"
+      "title": "Las razones por las que se les practicará la eutanasia a hipopótamos en Colombia",
+      "link": "https://www.noticiascaracol.com/colombia/las-razones-por-los-que-se-les-practicara-la-eutanasia-a-hipopotamos-en-colombia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ae41f3/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd8%2F2f%2Fa6405fdf4359a6625dd3f47d62ea%2Ffotos-discover-2026-04-14t090621-433.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Se viraliza video del encuentro de la astronauta del Artemis II con su perrita",
-      "link": "https://laverdad.com/se-viraliza-video-del-encuentro-de-la-astronauta-del-artemis-ii-con-su-perrita/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Astronauta-del-Artemis-II.jpg"
+      "title": "Acnur revela que un tercio de los venezolanos en Latinoamérica se plantea regresar",
+      "link": "https://laverdad.com/acnur-revela-que-un-tercio-de-los-venezolanos-en-latinoamerica-se-plantea-regresar/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/12/Venezolanos-Migrantes.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "León XIV llama a la fraternidad y critica la soberbia durante su visita a África",
-      "link": "https://diarioversionfinal.com/mundo/leon-xiv-llama-a-la-fraternidad-y-critica-la-soberbia-durante-su-visita-a-africa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/69de28c3b8d9f-750x430.jpeg"
+      "title": "Irán ejecutó a más de 1.600 personas en 2025, según ONG",
+      "link": "https://diarioversionfinal.com/mundo/iran-ejecuto-a-mas-de-1-600-personas-en-2025-segun-ong/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/MX5PSSVUYBEVPEPRCIF5ST4KXU-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-14T13:27:35.426Z"
+  "lastUpdate": "2026-04-14T15:13:43.516Z"
 };
