@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "670,00"
+      "usdt": "671,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El enfoque de Trump hacia Irán es una proyección de su marca personal",
+      "title": "La crisis de Irán muestra un mundo más resistente ante las exigencias de Trump",
       "link": "https://cnnespanol.cnn.com/2026/04/14/mundo/analisis-crisis-iran-mundo-resistente-exigencias-trump-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2270781502-20260414043736705.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/GettyImages-2194615183-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-14T09:18:51.915Z"
+  "lastUpdate": "2026-04-14T11:03:20.261Z"
 };
