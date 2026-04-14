@@ -5,7 +5,7 @@
       "eur": "559,21"
     },
     "binance": {
-      "usdt": "671,90"
+      "usdt": "671,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez designó a Vladimir Padrino López al frente del Ministerio de Agricultura",
-      "link": "https://www.infobae.com/venezuela/2026/04/14/delcy-rodriguez-designo-a-vladimir-padrino-lopez-al-frente-del-ministerio-de-agricultura/",
-      "image": "https://www.infobae.com/resizer/v2/M4MX5DIP2NHBHAJTY3PSDC2ET4.jpg?auth=a125438ef64add32e8d43dd36a2ed08ca4bc5589df382ce88add276abae50255&smart=true&width=350&height=197&quality=85"
+      "title": "El subsecretario de la Oficina de Hidrocarburos de Estados Unidos visita Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/04/14/el-subsecretario-de-la-oficina-de-hidrocarburos-de-estados-unidos-visita-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/ZY5EBLW5HJCL7IIAJIPEW4BGIU.JPG?auth=b1163a690efb09df99f5ac41c20c22dd5579c0453e4bfaf0b4996f38a9a2839b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La crisis de Irán muestra un mundo más resistente ante las exigencias de Trump",
-      "link": "https://cnnespanol.cnn.com/2026/04/14/mundo/analisis-crisis-iran-mundo-resistente-exigencias-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2270781502-20260414043736705.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. contempla una segunda ronda de conversaciones con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/04/14/mundo/live-news/guerra-ee-uu-israel-iran-estados-unidos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260414-iran-ports-es-hp.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Petro ordena traslado de capos que participaron en fiesta en la cárcel de Itagüí: \"Se acabó el tema\"",
-      "link": "https://www.noticiascaracol.com/colombia/petro-ordena-traslado-de-capos-que-participaron-en-fiesta-en-la-carcel-de-itagui-se-acabo-el-tema-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/231ba8e/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9c%2F05%2F75cca84f4a60b1dd727a15816d9a%2Fexcentricidades-14.jpg"
+      "title": "Abelardo de la Espriella habla de su fe: \"He sido el único candidato que ha puesto primero a Dios\"",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/abelardo-de-la-espriella-habla-de-su-fe-he-sido-el-unico-candidato-que-ha-puesto-primero-a-dios-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/68d5581/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa9%2F20%2F29499f3d4835a59c1f2b18be6a95%2Fexcentricidades-13.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Previo a las negociaciones, Israel avanza en el sur del Líbano y Hezbollah no detiene ataques",
-      "link": "https://diarioversionfinal.com/mundo/previo-a-las-negociaciones-israel-avanza-en-el-sur-del-libano-y-hezbollah-no-detiene-ataques/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/GettyImages-2194615183-750x430.jpg"
+      "title": "León XIV llama a la fraternidad y critica la soberbia durante su visita a África",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-llama-a-la-fraternidad-y-critica-la-soberbia-durante-su-visita-a-africa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/69de28c3b8d9f-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-14T11:03:20.261Z"
+  "lastUpdate": "2026-04-14T13:27:35.426Z"
 }
