@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "564,98"
     },
     "binance": {
-      "usdt": "652,00"
+      "usdt": "655,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Aliados de EE.UU. no pueden escapar a las consecuencias de la guerra",
-      "link": "https://cnnespanol.cnn.com/2026/04/15/mundo/analisis-aliados-estados-unidos-guerra-trump-consecuencias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260415055916895.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán amenaza el transporte marítimo en el mar Rojo",
+      "link": "https://cnnespanol.cnn.com/2026/04/15/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182675015.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "John Barrett es el nuevo encargado de negocios de Estados Unidos en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/john-barrett-es-el-nuevo-encargado-de-negocios-de-estados-unidos-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hf41mplasaixzdj-cb3b7a.jpg"
+      "title": "Primer ministro de Países Bajos se reunió este miércoles con María Corina Machado",
+      "link": "https://noticiasvenevision.com/noticias/politica/primer-ministro-de-paises-bajos-se-reunio-este-miercoles-con-maria-corina-machado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/maria-corina-machado-y-primer-ministro-de-los-paises-bajos-730x524-507712.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GONZÁLEZ LOBATO: «UNA DEFENSORÍA TIENE QUE SER CERCANA Y ACCESIBLE PARA EL CIUDADANO»",
-      "link": "https://noticierodigital.com/2026/04/gonzalez-lobato-una-defensoria-tiene-que-ser-cercana-y-accesible-para-el-ciudadano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1776264684304-627x376.png"
+      "title": "TRIBUNAL ORDENÓ CERRAR EL CASO CONTRA EL PERIODISTA ROMÁN CAMACHO",
+      "link": "https://noticierodigital.com/2026/04/tribunal-ordeno-cerrar-el-caso-contra-el-periodista-roman-camacho/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/roman-camacho-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "En Bogotá, 12 personas fueron sorprendidas delinquiendo y con brazalete del Inpec: ¿quién controla?",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/en-bogota-12-personas-fueron-sorprendidas-delinquiendo-y-con-brazalete-del-inpec-quien-controla-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9f3a1e9/2147483647/strip/true/crop/1280x722+0+40/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb8%2Fae%2F79c3e5994d6a91d90dc329048b6c%2Fbrazalete-inpec.jpg"
+      "title": "Delcy Rodríguez cumple 100 días como presidenta encargada de Venezuela, ¿qué ha cambiado?",
+      "link": "https://www.noticiascaracol.com/mundo/delcy-rodriguez-cumple-100-dias-como-presidenta-encargada-de-venezuela-que-ha-cambiado-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/46f3da0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F17%2F4a%2F750765ac420081ce3055143cc6f4%2Fdelcy-rodriguez-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que está reabriendo el Estrecho de Ormuz “para siempre”",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-esta-reabriendo-el-estrecho-de-ormuz-para-siempre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Iran-EstrechoOrmuz-Mapa-750x430.jpg"
+      "title": "El Papa León XIV exige el cese de los conflictos globales: \"El mundo tiene sed de paz\"",
+      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-exige-el-cese-de-los-conflictos-globales-el-mundo-tiene-sed-de-paz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-LEON.jpg"
     }
   ],
-  "lastUpdate": "2026-04-15T16:05:44.171Z"
+  "lastUpdate": "2026-04-15T18:05:20.694Z"
 };
