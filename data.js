@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "564,98"
     },
     "binance": {
-      "usdt": "661,99"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos levantó las sanciones contra el Banco Central de Venezuela y habilitó operaciones financieras internacionales",
-      "link": "https://www.infobae.com/estados-unidos/2026/04/14/estados-unidos-levanto-las-sanciones-contra-el-banco-central-de-venezuela-y-habilito-operaciones-financieras-internacionales/",
-      "image": "https://www.infobae.com/resizer/v2/MZQL4NG3VNGB3JUHKKJQLSVFTI.jpg?auth=0f1bbc382e16e1ec663fcf1852b3825f5d4cebd8f85fbfdf15d297a242595978&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez pidió el fin de las sanciones a Venezuela en una reunión con una delegación de EEUU en Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/04/15/delcy-rodriguez-pidio-el-fin-de-las-sanciones-a-venezuela-en-una-reunion-con-una-delegacion-de-eeuu-en-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/6Z5NNNS7M5CEXJRJZ5OYVYQTMU.JPG?auth=c20d40dd183565f6fd35ebafcd73f8bdea372efda7a2ec1113b7e43149590eda&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GRUPO DE AMISTAD DE LA AN EVALUÓ PROPUESTAS DE ACERCAMIENTO CON LA UE",
-      "link": "https://noticierodigital.com/2026/04/grupo-de-amistad-de-la-an-evaluo-propuestas-de-acercamiento-con-la-ue/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/asamblea-nacional.jpg"
+      "title": "CAPOZZOLO RESPALDÓ MESA DE DIÁLOGO PARA CONSTRUIR NUEVOS CONSENSOS ECONÓMICOS",
+      "link": "https://noticierodigital.com/2026/04/capozzolo-respaldo-mesa-de-dialogo-para-construir-nuevos-consensos-economicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Capozzolo_presidenteFedecamaras-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Revelan nuevos videos y testimonios que reconstruyen balacera en el norte de Bogotá: \"Era terrible\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-nuevos-videos-y-testimonios-que-reconstruyen-balacera-en-el-norte-de-bogota-era-terrible-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/93f732f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffb%2F55%2Fee9f03324798b3d07b29e16148ed%2Fexcentricidades-15.jpg"
+      "title": "Nelson Velásquez asegura que actuó \"de buena fe\" en concierto dentro de cárcel de Itagüí",
+      "link": "https://www.noticiascaracol.com/colombia/nelson-velasquez-asegura-que-actuo-de-buena-fe-en-concierto-dentro-de-carcel-de-itagui-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d0c1e52/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd7%2F11%2F7ea6885b408792fb88bf926958a6%2Fnelson-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Madrid: El Bloque Constitucional de Venezuela discute este miercoles la vía para las elecciones (Invitación a la comunidad venezolana)",
-      "link": "https://diarioversionfinal.com/mundo/madrid-el-bloque-constitucional-de-venezuela-discute-este-miercoles-la-via-para-las-elecciones-invitacion-a-la-comunidad-venezolana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/4972349592553238213-750x430.jpg"
+      "title": "Lula envía al Congreso proyecto de ley para reducir la jornada laboral en Brasil",
+      "link": "https://diarioversionfinal.com/mundo/lula-envia-al-congreso-proyecto-de-ley-para-reducir-la-jornada-laboral-en-brasil/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/lula-da-silva-13-de-diciembre-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-14T23:42:12.892Z"
+  "lastUpdate": "2026-04-15T02:34:56.446Z"
 };
