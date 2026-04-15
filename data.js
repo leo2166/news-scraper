@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "564,98"
     },
     "binance": {
-      "usdt": "631,00"
+      "usdt": "630,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez pidió el fin de las sanciones a Venezuela en una reunión con una delegación de EEUU en Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/04/15/delcy-rodriguez-pidio-el-fin-de-las-sanciones-a-venezuela-en-una-reunion-con-una-delegacion-de-eeuu-en-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/6Z5NNNS7M5CEXJRJZ5OYVYQTMU.JPG?auth=c20d40dd183565f6fd35ebafcd73f8bdea372efda7a2ec1113b7e43149590eda&smart=true&width=350&height=197&quality=85"
+      "title": "Scott Bessent respaldó la reincorporación de Venezuela al FMI tras la eliminación de sanciones al Banco Central",
+      "link": "https://www.infobae.com/venezuela/2026/04/15/scott-bessent-respaldo-la-reincorporacion-de-venezuela-al-fmi-tras-la-eliminacion-de-sanciones-al-banco-central/",
+      "image": "https://www.infobae.com/resizer/v2/PXDO363VFBBJTJVOBLDTKHBHRM.JPG?auth=8e420aece1eeda609f4246f4a97900e59bd25135bdb657afdc1b25c6de11b1d7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. levanta sanciones contra el Banco Central de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/04/14/venezuela/eeuu-reduce-sanciones-banco-central-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1473240557.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los aliados de EE.UU. no pueden escapar a las consecuencias de la guerra",
+      "link": "https://cnnespanol.cnn.com/2026/04/15/mundo/analisis-aliados-estados-unidos-guerra-trump-consecuencias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260415055916895.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump desmiente el fin de la operación en Irán pero señala que está \"muy cerca\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-desmiente-el-fin-de-la-operacion-en-iran-pero-senala-que-esta-muy-cerca/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
+      "title": "EEUU celebra que Venezuela vuelva, de la mano Delcy Rodríguez, al Fondo Monetario Internacional, el demonio según Chávez",
+      "link": "https://diarioversionfinal.com/mundo/eeuu-celebra-que-venezuela-vuelva-de-la-mano-delcy-rodriguez-al-fondo-monetario-internacional-el-demonio-segun-chavez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/3sRv84tX-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-15T05:24:46.174Z"
+  "lastUpdate": "2026-04-15T07:47:11.969Z"
 };
