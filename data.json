@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "478,58",
-      "eur": "564,98"
+      "usd": "479,78",
+      "eur": "565,98"
     },
     "binance": {
-      "usdt": "657,00"
+      "usdt": "654,21"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Justicia venezolana anula causas penales contra Román Camacho y Elides Rojas",
-      "link": "https://noticiasvenevision.com/noticias/politica/justicia-venezolana-anula-causas-penales-contra-roman-camacho-y-elides-rojas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-2-3904a8.png"
+      "title": "Delcy Rodríguez apuesta por una relación \"a largo plazo\" entre Venezuela y Estados Unidos",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-apuesta-por-una-relacion-a-largo-plazo-entre-venezuela-y-estados-unidos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/14_zc__8010_p-2048x1365-844042.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUNCIONARIO DEL TSJ FOTOGRAFIÓ A PERIODISTAS DURANTE PROTESTA SINDICAL, DENUNCIÓ EL SNTP",
-      "link": "https://noticierodigital.com/2026/04/funcionario-del-tsj-fotografio-a-periodistas-durante-protesta-sindical-denuncio-el-sntp/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/intimidacion-tsj-periodistas-627x376.jpg"
+      "title": "JUAN PABLO GUANIPA EXIGIÓ A DELCY RODRÍGUEZ LA LIBERACIÓN DE LOS POLICÍAS METROPOLITANOS",
+      "link": "https://noticierodigital.com/2026/04/juan-pablo-guanipa-exigio-a-delcy-rodriguez-la-liberacion-de-los-policias-metropolitanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/juan-pablo-guanipa-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Daniel Quintero sería nombrado nuevo superintendente de Salud",
-      "link": "https://www.noticiascaracol.com/politica/daniel-quintero-seria-nombrado-nuevo-superintendente-de-salud-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9f8c55f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F63%2Fbf%2F1366fa18400694b693343f54be1c%2Fdaniel-quintero.jpg"
+      "title": "Esto habrían cobrado miembros del Inpec en cárcel de Itagüí a gente que ingresó sin permiso",
+      "link": "https://www.noticiascaracol.com/colombia/esto-habrian-cobrado-miembros-del-inpec-en-carcel-de-itagui-a-gente-que-ingreso-sin-permiso-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e4dce05/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F93%2F32%2Fa9b69836430c97a79c73df198ab9%2Fpagos-carcel.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fujimori rechaza llamado a insurgencia de candidato López Aliaga, quien denunció \"fraude\"",
-      "link": "https://diarioversionfinal.com/mundo/fujimori-rechaza-llamado-a-insurgencia-de-candidato-lopez-aliaga-quien-denuncio-fraude/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Keiko-y-Aliaga-15-04-2026-750x430.jpg"
+      "title": "EE. UU. no renovará relajación temporal de sanciones para el petróleo ruso e iraní",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-no-renovara-relajacion-temporal-de-sanciones-para-el-petroleo-ruso-e-irani/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2551-660x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-15T22:41:38.554Z"
+  "lastUpdate": "2026-04-15T23:41:54.521Z"
 }
