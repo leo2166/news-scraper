@@ -5,7 +5,7 @@
       "eur": "564,98"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "631,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez recibe a delegación de Energía de los Estados Unidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-recibe-a-delegacion-de-energia-de-los-estados-unidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5114062102913027308_w-b2c455.jpg"
+      "title": "Comando Sur realiza nuevo ataque contra supuesta narcolancha en el Pacífico",
+      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-realiza-nuevo-ataque-contra-supuesta-narcolancha-en-el-pacifico",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ataque-eua-narcolancha-b52bc6.webp"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Nelson Velásquez asegura que actuó \"de buena fe\" en concierto dentro de cárcel de Itagüí",
-      "link": "https://www.noticiascaracol.com/colombia/nelson-velasquez-asegura-que-actuo-de-buena-fe-en-concierto-dentro-de-carcel-de-itagui-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d0c1e52/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd7%2F11%2F7ea6885b408792fb88bf926958a6%2Fnelson-1.jpg"
+      "title": "Videos de seguridad revelan cómo ocurrió el violento atraco en Oxxo de la localidad de Teusaquillo",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/nuevos-videos-de-camaras-revelan-como-ocurrio-el-violento-atraco-en-oxxo-de-la-localidad-de-teusaquillo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/db190e8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F11%2F80%2Fc87ad30d434ca6d75775ceb053ef%2Fplantilla-fotos-53.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula envía al Congreso proyecto de ley para reducir la jornada laboral en Brasil",
-      "link": "https://diarioversionfinal.com/mundo/lula-envia-al-congreso-proyecto-de-ley-para-reducir-la-jornada-laboral-en-brasil/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/lula-da-silva-13-de-diciembre-750x430.jpg"
+      "title": "Trump desmiente el fin de la operación en Irán pero señala que está \"muy cerca\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-desmiente-el-fin-de-la-operacion-en-iran-pero-senala-que-esta-muy-cerca/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-15T02:34:56.446Z"
+  "lastUpdate": "2026-04-15T05:24:46.174Z"
 }
