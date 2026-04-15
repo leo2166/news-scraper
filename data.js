@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "564,98"
     },
     "binance": {
-      "usdt": "662,50"
+      "usdt": "630,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Scott Bessent respaldó la reincorporación de Venezuela al FMI tras la eliminación de sanciones al Banco Central",
-      "link": "https://www.infobae.com/venezuela/2026/04/15/scott-bessent-respaldo-la-reincorporacion-de-venezuela-al-fmi-tras-la-eliminacion-de-sanciones-al-banco-central/",
-      "image": "https://www.infobae.com/resizer/v2/PXDO363VFBBJTJVOBLDTKHBHRM.JPG?auth=8e420aece1eeda609f4246f4a97900e59bd25135bdb657afdc1b25c6de11b1d7&smart=true&width=350&height=197&quality=85"
+      "title": "Conmoción en Uruguay: asesinaron a un delivery venezolano con un destornillador tras una discusión de tránsito",
+      "link": "https://www.infobae.com/america/america-latina/2026/04/15/conmocion-en-uruguay-asesinaron-a-un-delivery-venezolano-con-un-destornillador-tras-una-discusion-de-transito/",
+      "image": "https://www.infobae.com/resizer/v2/HGM2HF7AZZCQFLBJH5NEIECCS4.png?auth=bc2a8460c3722caa2ff6bedae1709c29000689fca7049f2d7bf6ad8674c10b35&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "\"Perdimos todo\": los habitantes de Mata de Guineo, en Táchira, tras los deslizamientos\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/perdimos-todo-la-dura-realidad-habitantes-de-mata-de-guineo-tras-lluvias/",
+      "title": "Machado no se reunirá con Pedro Sánchez: \"En ciertos momentos no convienen ciertas reuniones\"\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/machado-no-se-reunira-con-pedro-sanchez-en-ciertos-momentos-no-convienen-ciertas-reuniones/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/3sRv84tX-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-15T09:20:49.692Z"
+  "lastUpdate": "2026-04-15T10:59:24.851Z"
 };
