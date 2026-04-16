@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,98"
     },
     "binance": {
-      "usdt": "624,80"
+      "usdt": "650,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Ayuso y María Corina Machado preparan encuentro en Madrid\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/ayuso-maria-corina-machado-encuentro-madrid/",
+      "title": "El nuevo rol de EE UU en Venezuela: lo que se espera de John Barrett como encargado de negocios\nPOLÍTICA",
+      "link": "https://www.elnacional.com/2026/04/john-barrett-venezuela-tutela-economica-mineria/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-16T07:47:27.464Z"
+  "lastUpdate": "2026-04-16T09:20:19.600Z"
 };
