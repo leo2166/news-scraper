@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,98"
     },
     "binance": {
-      "usdt": "654,21"
+      "usdt": "655,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Así es como EE.UU. e Irán podrían llegar a un acuerdo en el que ambos se declaren ganadores",
-      "link": "https://cnnespanol.cnn.com/2026/04/15/mundo/estados-unidos-iran-acuerdo-paz-victoria-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/22532613-clean-trumponfoxiran-di-00-00-17-20-still001-20260412232224007.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Qué significa para el Gobierno de Rodríguez el alivio a sanciones de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/04/15/venezuela/eeuu-sanciones-banco-central-venezuela-delcy-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1235650868.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez apuesta por una relación \"a largo plazo\" entre Venezuela y Estados Unidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-apuesta-por-una-relacion-a-largo-plazo-entre-venezuela-y-estados-unidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/14_zc__8010_p-2048x1365-844042.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez recibe a delegación de la UE y Servicio Europeo de Acción Exterior",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-recibe-a-delegacion-de-la-ue-y-servicio-europeo-de-accion-exterior",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/01_jz_l5584_p-2048x1365-3e44df.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN PABLO GUANIPA EXIGIÓ A DELCY RODRÍGUEZ LA LIBERACIÓN DE LOS POLICÍAS METROPOLITANOS",
-      "link": "https://noticierodigital.com/2026/04/juan-pablo-guanipa-exigio-a-delcy-rodriguez-la-liberacion-de-los-policias-metropolitanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/juan-pablo-guanipa-627x376.jpg"
+      "title": "CABELLO PLANTEÓ REABRIR INVESTIGACIÓN CONTRA CAPRILES POR HECHOS DE VIOLENCIA EN 2013",
+      "link": "https://noticierodigital.com/2026/04/cabello-planteo-reabrir-investigacion-contra-capriles-por-hechos-de-violencia-en-2013/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/diosdado-cabello-venezuela-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esto habrían cobrado miembros del Inpec en cárcel de Itagüí a gente que ingresó sin permiso",
-      "link": "https://www.noticiascaracol.com/colombia/esto-habrian-cobrado-miembros-del-inpec-en-carcel-de-itagui-a-gente-que-ingreso-sin-permiso-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e4dce05/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F93%2F32%2Fa9b69836430c97a79c73df198ab9%2Fpagos-carcel.jpg"
+      "title": "Daniel Quintero será nombrado nuevo superintendente de Salud",
+      "link": "https://www.noticiascaracol.com/politica/daniel-quintero-seria-nombrado-nuevo-superintendente-de-salud-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9f8c55f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F63%2Fbf%2F1366fa18400694b693343f54be1c%2Fdaniel-quintero.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. no renovará relajación temporal de sanciones para el petróleo ruso e iraní",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-no-renovara-relajacion-temporal-de-sanciones-para-el-petroleo-ruso-e-irani/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2551-660x430.jpeg"
+      "title": "EE. UU. afirma que impidió el paso de 10 buques con bloqueo en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-afirma-que-impidio-el-paso-de-10-buques-con-bloqueo-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-15T23:41:54.521Z"
+  "lastUpdate": "2026-04-16T02:41:58.307Z"
 };
