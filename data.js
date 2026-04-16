@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,41"
     },
     "binance": {
-      "usdt": "655,45"
+      "usdt": "655,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Nuevo encargado de negocios de Estados Unidos llega con la misión de supervisar los cambios institucionales en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/16/el-nuevo-encargado-de-negocios-de-estados-unidos-llega-con-la-mision-de-supervisar-cambios-institucionales-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/EXQIZR72KVHNDDJZ6UMAEUTXWE.jpg?auth=4018263bddb7a88ebe30fede8d2db53a5ec4743a4b1e36376b9d3aac5ff29ad4&smart=true&width=350&height=197&quality=85"
+      "title": "Padrino López refuerza el control militar sobre el manejo de los alimentos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/16/padrino-lopez-refuerza-el-control-militar-sobre-el-manejo-de-los-alimentos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/GXV5H2AILNBT5O75OOJQIUKC6U.jpg?auth=d0e61544ebe18cdaf6652b4e8873f0195698d0f186a4578d8458d4bd8e0c21ad&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump anuncia un alto el fuego de 10 días en el Líbano",
+      "title": "Entra en vigor el alto el fuego de 10 días en el Líbano",
       "link": "https://cnnespanol.cnn.com/2026/04/16/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26106419725378-20260416202919837.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/23d1c236-a1b1-46a4-a086-6f49362c14e6.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -37,16 +37,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/7ucubwvh.jpg-ae2c90.jpeg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "PJ DENUNCIÓ LA DETENCIÓN DEL EXDIPUTADO ALEXIS PAPARONI EN MAIQUETÍA",
-      "link": "https://noticierodigital.com/2026/04/pj-denuncio-la-detencion-del-exdiputado-alexis-paparoni-en-maiquetia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/alexis-paparoni-24mar2020.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Revelan video clave de asesinato de hombre que defendió a mujer que estaba siendo robada en Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-video-clave-de-asesinato-de-hombre-que-defendio-a-mujer-que-estaba-siendo-robada-en-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8df8cf1/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2Fa9%2F7b27284543c396d8b32e292afcb1%2Ffotos-discover-2026-04-16t160242-696.jpg"
+      "title": "Defensas de Laura Moreno y de los Colmenares chocan en versiones tras decisión de Corte Suprema",
+      "link": "https://www.noticiascaracol.com/judicial/defensas-de-laura-moreno-y-de-los-colmenares-chocan-en-versiones-tras-decision-de-corte-suprema-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d6ddbd3/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb0%2F7f%2F723b37704a21814ab1f87ede5bd3%2Fcaso-colmenares.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2589-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-16T21:43:19.302Z"
+  "lastUpdate": "2026-04-16T22:40:38.097Z"
 };
