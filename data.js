@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "479,78",
-      "eur": "565,98"
+      "usd": "480,26",
+      "eur": "565,41"
     },
     "binance": {
-      "usdt": "655,00"
+      "usdt": "655,45"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Lula da Silva pide elecciones generales en Venezuela como solución a crisis política\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/lula-da-silva-propone-elecciones-generales-venezuela/",
+      "title": "Departamento de Estado de EE UU: “Esperamos que María Corina Machado pueda regresar y participar libremente en una elección”\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/ee-uu-maria-corina-machado-elecciones-libres/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE .UU. CONTRATÓ UNA EMPRESA PARA AUDITAR FINANZAS DE VENEZUELA, SEGÚN PABLO PÉREZ",
-      "link": "https://noticierodigital.com/2026/04/ee-uu-contrato-una-empresa-para-auditar-finanzas-de-venezuela-segun-pablo-perez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/09/pablo-perez-zulia.jpg"
+      "title": "PJ DENUNCIÓ LA DETENCIÓN DEL EXDIPUTADO ALEXIS PAPARONI EN MAIQUETÍA",
+      "link": "https://noticierodigital.com/2026/04/pj-denuncio-la-detencion-del-exdiputado-alexis-paparoni-en-maiquetia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/alexis-paparoni-24mar2020.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Donald Trump dice que Israel y Líbano acordaron un alto el fuego de diez días",
-      "link": "https://www.noticiascaracol.com/mundo/donald-trump-dice-que-israel-y-libano-acordaron-un-alto-el-fuego-de-diez-dias-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6ddc504/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdd%2Fe5%2F766d28ba4c5fa43a9ec35ed1ae6b%2Flibano-israel-trump.jpg"
+      "title": "Revelan video clave de asesinato de hombre que defendió a mujer que estaba siendo robada en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/revelan-video-clave-de-asesinato-de-hombre-que-defendio-a-mujer-que-estaba-siendo-robada-en-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8df8cf1/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2Fa9%2F7b27284543c396d8b32e292afcb1%2Ffotos-discover-2026-04-16t160242-696.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "España cree que normalización de relaciones entre FMI y Venezuela se formalizará en días",
-      "link": "https://diarioversionfinal.com/mundo/espana-cree-que-normalizacion-de-relaciones-entre-fmi-y-venezuela-se-formalizara-en-dias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/01/fmi-30-de-enero.jpg"
+      "title": "Díaz-Canel llama a cubanos a estar listos para una \"agresión militar\" de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/diaz-canel-llama-a-cubanos-a-estar-listos-para-una-agresion-militar-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2589-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-16T20:50:04.047Z"
+  "lastUpdate": "2026-04-16T21:43:19.302Z"
 };
