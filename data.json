@@ -5,7 +5,7 @@
       "eur": "565,98"
     },
     "binance": {
-      "usdt": "649,50"
+      "usdt": "652,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El nuevo encargado de negocios de Estados Unidos llega con la misión de supervisar cambios institucionales en Venezuela",
+      "title": "Nuevo encargado de negocios de Estados Unidos llega con la misión de supervisar los cambios institucionales en Venezuela",
       "link": "https://www.infobae.com/venezuela/2026/04/16/el-nuevo-encargado-de-negocios-de-estados-unidos-llega-con-la-mision-de-supervisar-cambios-institucionales-en-venezuela/",
       "image": "https://www.infobae.com/resizer/v2/EXQIZR72KVHNDDJZ6UMAEUTXWE.jpg?auth=4018263bddb7a88ebe30fede8d2db53a5ec4743a4b1e36376b9d3aac5ff29ad4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Lo que realmente cambió en Venezuela tras la Licencia General 57 de Estados Unidos\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/lo-que-realmente-cambio-en-venezuela-tras-licencia-de-la-ofac/",
+      "title": "Lula da Silva pide elecciones generales en Venezuela como solución a crisis política\nNOTICIAS",
+      "link": "https://www.elnacional.com/2026/04/lula-da-silva-pide-elecciones-generales-en-venezuela-como-solucion-a-crisis-politica/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez recibe a delegación de la UE y Servicio Europeo de Acción Exterior",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-recibe-a-delegacion-de-la-ue-y-servicio-europeo-de-accion-exterior",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/01_jz_l5584_p-2048x1365-3e44df.jpg"
+      "title": "PUD presentó hoja de ruta para la transición al CNP y al SNTP",
+      "link": "https://noticiasvenevision.com/noticias/politica/pud-presento-hoja-de-ruta-para-la-transicion-al-cnp-y-al-sntp",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/reunion-de-la-plataforma-unitaria-con-el-cnp-y-sntp-1-2a9650.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MINISTRO COLOMBIANO DIJO QUE VENEZUELA «YA NO QUIERE» VENDER MONÓMEROS",
-      "link": "https://noticierodigital.com/2026/04/ministro-colombiano-dijo-que-venezuela-ya-no-quiere-vender-monomeros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1776356454806-627x376.png"
+      "title": "LULA PLANTEA ELECCIONES GENERALES EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/lula-plantea-elecciones-generales-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/luiz-inacio-lula-da-silva-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia alto al fuego de 10 días entre Israel y el Líbano",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-alto-al-fuego-de-10-dias-entre-israel-y-el-libano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Trump-2-22-12-2025-750x430.png"
+      "title": "Metsola respalda al Papa tras las críticas de Trump y le invita al Parlamento Europeo",
+      "link": "https://diarioversionfinal.com/mundo/metsola-respalda-al-papa-tras-las-criticas-de-trump-y-le-invita-al-parlamento-europeo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-y-Roberta-Metsola-16-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-16T17:15:27.027Z"
+  "lastUpdate": "2026-04-16T19:15:40.258Z"
 }
