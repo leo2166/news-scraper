@@ -5,7 +5,7 @@
       "eur": "565,41"
     },
     "binance": {
-      "usdt": "655,00"
+      "usdt": "654,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/7ucubwvh.jpg-ae2c90.jpeg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "EE. UU. DIO POR SUPERADA LA PRIMERA FASE DE ESTABILIZACIÓN EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/ee-uu-dio-por-superada-la-primera-fase-de-estabilizacion-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/michael-kozak-eeuu-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Defensas de Laura Moreno y de los Colmenares chocan en versiones tras decisión de Corte Suprema",
       "link": "https://www.noticiascaracol.com/judicial/defensas-de-laura-moreno-y-de-los-colmenares-chocan-en-versiones-tras-decision-de-corte-suprema-rg10",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Díaz-Canel llama a cubanos a estar listos para una \"agresión militar\" de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/diaz-canel-llama-a-cubanos-a-estar-listos-para-una-agresion-militar-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2589-750x430.jpeg"
+      "title": "Liberan a Ezequiel Véliz, el médico venezolano que fue detenido por el ICE en Texas",
+      "link": "https://diarioversionfinal.com/mundo/liberan-a-ezequiel-veliz-el-medico-venezolano-que-fue-detenido-por-el-ice-en-texas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2601.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-16T22:40:38.097Z"
+  "lastUpdate": "2026-04-16T23:41:11.757Z"
 }
