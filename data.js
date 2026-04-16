@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,98"
     },
     "binance": {
-      "usdt": "651,61"
+      "usdt": "649,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez contrata a un lobista en Estados Unidos para su campaña presidencial",
-      "link": "https://www.infobae.com/venezuela/2026/04/16/delcy-rodriguez-contrata-a-un-lobista-en-estados-unidos-para-su-campana-presidencial/",
-      "image": "https://www.infobae.com/resizer/v2/IU3DYGOWAFGJZOSQDPJEOPZKRQ.jpg?auth=f7dc39f211acfdcf15096b3ab573c7ed64442208a7be29aa19519c8567fee826&smart=true&width=350&height=197&quality=85"
+      "title": "El nuevo encargado de negocios de Estados Unidos llega con la misión de supervisar cambios institucionales en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/16/el-nuevo-encargado-de-negocios-de-estados-unidos-llega-con-la-mision-de-supervisar-cambios-institucionales-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/EXQIZR72KVHNDDJZ6UMAEUTXWE.jpg?auth=4018263bddb7a88ebe30fede8d2db53a5ec4743a4b1e36376b9d3aac5ff29ad4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. advierte a Irán que debe llegar a un acuerdo o se reanudarán los ataques",
+      "title": "Trump anuncia un alto el fuego de 10 días en el Líbano",
       "link": "https://cnnespanol.cnn.com/2026/04/16/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hegseth-warn-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270719290-20260416043007305-20260416155231360.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUZKAS PLANTEA CNE «ESPECIAL» PARA LA TRANSICIÓN: SIN CAMBIAR POR COMPLETO LA LOPRE ",
-      "link": "https://noticierodigital.com/2026/04/puzkas-plantea-cne-especial-para-la-transicion-sin-cambiar-por-completo-la-lopre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/eugeniomartinez-presidenciales2024-1.jpg"
+      "title": "MINISTRO COLOMBIANO DIJO QUE VENEZUELA «YA NO QUIERE» VENDER MONÓMEROS",
+      "link": "https://noticierodigital.com/2026/04/ministro-colombiano-dijo-que-venezuela-ya-no-quiere-vender-monomeros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1776356454806-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Supersalud cuestiona reciente intervención de Nueva EPS y designación de Jorge Iván Ospina",
-      "link": "https://www.noticiascaracol.com/salud/supersalud-cuestiona-reciente-intervencion-de-nueva-eps-y-designacion-de-jorge-ivan-ospina-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c29fc4d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F18%2Fbf%2F21441a374d4ba250acfdff9ef7ed%2Fnueva-eps-supersalud.jpg"
+      "title": "Donald Trump dice que Israel y Líbano acordaron un alto el fuego de diez días",
+      "link": "https://www.noticiascaracol.com/mundo/donald-trump-dice-que-israel-y-libano-acordaron-un-alto-el-fuego-de-diez-dias-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6ddc504/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdd%2Fe5%2F766d28ba4c5fa43a9ec35ed1ae6b%2Flibano-israel-trump.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV desde Camerún: “El mundo está siendo destruido por unos pocos tiranos”",
-      "link": "https://laverdad.com/leon-xiv-desde-camerun-el-mundo-esta-siendo-destruido-por-unos-pocos-tiranos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-Camerun-1.jpg"
+      "title": "Gobierno de Kast activa expulsión de inmigrantes irregulares con primer vuelo",
+      "link": "https://laverdad.com/gobierno-de-kast-activa-expulsion-de-inmigrantes-irregulares-con-primer-vuelo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Expulsion-migrantes-Chile.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Duro discurso del Papa en Camerún: “El mundo es asolado por un puñado de tiranos”",
-      "link": "https://diarioversionfinal.com/mundo/duro-discurso-del-papa-en-camerun-que-apunta-a-trump-el-mundo-esta-siendo-asolado-por-un-punado-de-tiranos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.23.58-AM-1-750x430.jpeg"
+      "title": "Trump anuncia alto al fuego de 10 días entre Israel y el Líbano",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-alto-al-fuego-de-10-dias-entre-israel-y-el-libano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Trump-2-22-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-16T15:26:29.409Z"
+  "lastUpdate": "2026-04-16T17:15:27.027Z"
 };
