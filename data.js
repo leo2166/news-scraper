@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,98"
     },
     "binance": {
-      "usdt": "653,61"
+      "usdt": "651,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Trump levanta las sanciones al Banco Central de Venezuela y le acerca un salvavidas a Delcy Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/04/16/trump-levanta-las-sanciones-al-banco-central-de-venezuela-y-le-acerca-un-salvavidas-a-delcy-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/7RPYSA6GPNCPJMTPZIBDNQPPOA.JPG?auth=53c4cb2db2032c8b20ed295a461ff9149dc70b4d475d997525ae75620f7b65f8&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez contrata a un lobista en Estados Unidos para su campaña presidencial",
+      "link": "https://www.infobae.com/venezuela/2026/04/16/delcy-rodriguez-contrata-a-un-lobista-en-estados-unidos-para-su-campana-presidencial/",
+      "image": "https://www.infobae.com/resizer/v2/IU3DYGOWAFGJZOSQDPJEOPZKRQ.jpg?auth=f7dc39f211acfdcf15096b3ab573c7ed64442208a7be29aa19519c8567fee826&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Denuncias de abusos en un albergue de niños migrantes abren investigación federal",
-      "link": "https://cnnespanol.cnn.com/2026/04/16/eeuu/exclusivo-denuncias-abuso-albergue-ninos-migrantes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/aldea-infantil.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. advierte a Irán que debe llegar a un acuerdo o se reanudarán los ataques",
+      "link": "https://cnnespanol.cnn.com/2026/04/16/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-2-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hegseth-warn-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "REPSOL SUSCRIBE ACUERDO PARA RECUPERAR CONTROL DE SUS OPERACIONES PETROLERAS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/repsol-suscribe-acuerdo-para-recuperar-control-de-sus-operaciones-petroleras-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/10/repsol-sanciones.jpg"
+      "title": "PUZKAS PLANTEA CNE «ESPECIAL» PARA LA TRANSICIÓN: SIN CAMBIAR POR COMPLETO LA LOPRE ",
+      "link": "https://noticierodigital.com/2026/04/puzkas-plantea-cne-especial-para-la-transicion-sin-cambiar-por-completo-la-lopre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/eugeniomartinez-presidenciales2024-1.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Daniel Quintero será nombrado nuevo superintendente de Salud",
-      "link": "https://www.noticiascaracol.com/politica/daniel-quintero-seria-nombrado-nuevo-superintendente-de-salud-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9f8c55f/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F63%2Fbf%2F1366fa18400694b693343f54be1c%2Fdaniel-quintero.jpg"
+      "title": "Supersalud cuestiona reciente intervención de Nueva EPS y designación de Jorge Iván Ospina",
+      "link": "https://www.noticiascaracol.com/salud/supersalud-cuestiona-reciente-intervencion-de-nueva-eps-y-designacion-de-jorge-ivan-ospina-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c29fc4d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F18%2Fbf%2F21441a374d4ba250acfdff9ef7ed%2Fnueva-eps-supersalud.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump, Xi, Netanyahu y León XIV, entre los líderes más influyentes de Time en 2026",
-      "link": "https://laverdad.com/trump-xi-netanyahu-y-leon-xiv-entre-los-lideres-mas-influyentes-de-time-en-2026/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Time-influyentes-lideres-2026.jpg"
+      "title": "León XIV desde Camerún: “El mundo está siendo destruido por unos pocos tiranos”",
+      "link": "https://laverdad.com/leon-xiv-desde-camerun-el-mundo-esta-siendo-destruido-por-unos-pocos-tiranos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-Camerun-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. afirma que impidió el paso de 10 buques con bloqueo en Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-afirma-que-impidio-el-paso-de-10-buques-con-bloqueo-en-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
+      "title": "Duro discurso del Papa en Camerún: “El mundo es asolado por un puñado de tiranos”",
+      "link": "https://diarioversionfinal.com/mundo/duro-discurso-del-papa-en-camerun-que-apunta-a-trump-el-mundo-esta-siendo-asolado-por-un-punado-de-tiranos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.23.58-AM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-16T13:45:47.662Z"
+  "lastUpdate": "2026-04-16T15:26:29.409Z"
 };
