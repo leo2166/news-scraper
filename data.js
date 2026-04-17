@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,41"
     },
     "binance": {
-      "usdt": "654,61"
+      "usdt": "655,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Padrino López refuerza el control militar sobre el manejo de los alimentos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/16/padrino-lopez-refuerza-el-control-militar-sobre-el-manejo-de-los-alimentos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/GXV5H2AILNBT5O75OOJQIUKC6U.jpg?auth=d0e61544ebe18cdaf6652b4e8873f0195698d0f186a4578d8458d4bd8e0c21ad&smart=true&width=350&height=197&quality=85"
+      "title": "El Fondo Monetario Internacional y el Banco Mundial reanudaron sus relaciones con Venezuela tras más de seis años de ruptura",
+      "link": "https://www.infobae.com/venezuela/2026/04/17/el-fondo-monetario-internacional-reanudo-sus-relaciones-con-venezuela-tras-mas-de-seis-anos-de-ruptura/",
+      "image": "https://www.infobae.com/resizer/v2/Z2SG7S77GFHHVJXWOT4JXZO5YA.JPG?auth=2ec1d01e6c7b7835a2bf13f6aeaf0fea26f5cf14a63741545f21251fbce25684&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Departamento de Estado de EE UU: “Esperamos que María Corina Machado pueda regresar y participar libremente en una elección”\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/ee-uu-maria-corina-machado-elecciones-libres/",
+      "title": "El Banco Mundial retoma relaciones con Venezuela\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/el-banco-mundial-retoma-relaciones-con-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Entra en vigor el alto el fuego de 10 días en el Líbano",
-      "link": "https://cnnespanol.cnn.com/2026/04/16/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/23d1c236-a1b1-46a4-a086-6f49362c14e6.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La economía de Perú empieza a sentir el impacto de la incertidumbre electoral",
+      "link": "https://cnnespanol.cnn.com/2026/04/16/latinoamerica/economia-peru-incertidumbre-electoral-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-01t140158z-1258063195-rc2fkca16pfq-rtrmadp-3-peru-economy-1.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Autoridades militares y policiales de Venezuela y Colombia se reunieron para coordinar operaciones contra el crimen organizado en la frontera",
-      "link": "https://noticiasvenevision.com/noticias/politica/autoridades-militares-y-policiales-de-venezuela-y-colombia-se-reunieron-para-coordinar-operaciones-contra-el-crimen-organizado-en-la-frontera",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/7ucubwvh.jpg-ae2c90.jpeg"
+      "title": "Presidenta (E) designa a Luis Pérez como nuevo presidente del BCV",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-designa-a-luis-perez-como-nuevo-presidente-del-bcv",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gettyimages-1235650868-8fd69c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. DIO POR SUPERADA LA PRIMERA FASE DE ESTABILIZACIÓN EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/ee-uu-dio-por-superada-la-primera-fase-de-estabilizacion-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/michael-kozak-eeuu-627x376.jpg"
+      "title": "GUAIDÓ REVELÓ QUE SOBREVIVIÓ A UN ACCIDENTE CEREBROVASCULAR",
+      "link": "https://noticierodigital.com/2026/04/guaido-revelo-que-sobrevivio-a-un-accidente-cerebrovascular/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/juanguaido-3abr2023-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2601.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-16T23:41:11.757Z"
+  "lastUpdate": "2026-04-17T02:37:13.218Z"
 };
