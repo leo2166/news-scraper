@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,41"
     },
     "binance": {
-      "usdt": "648,00"
+      "usdt": "619,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Tomará meses la reanudación de relaciones consulares entre Estados Unidos y Venezuela\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/tomara-meses-la-reanudacion-de-relaciones-consulares-entre-estados-unidos-y-venezuela/",
+      "title": "Así proyecta el PNUD el futuro económico de Venezuela tras el fin de la era Maduro\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/asi-proyecta-el-pnud-el-futuro-economico-de-venezuela-tras-el-fin-de-la-era-maduro/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PROVEA SE SUMA AL LLAMADO DE LOS TRABAJADORES Y EXIGE UN «SALARIO MÍNIMO DIGNO»",
-      "link": "https://noticierodigital.com/2026/04/provea-se-suma-al-llamado-de-los-trabajadores-y-exige-un-salario-minimo-digno/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/provea-oscar-murillo-627x376.jpg"
+      "title": "UNIÓN EUROPEA DONÓ $175.000 PARA ATENDER LA CRISIS HÍDRICA EN SUCRE",
+      "link": "https://noticierodigital.com/2026/04/union-europea-dono-175-000-para-atender-la-crisis-hidrica-en-sucre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/unioneuropea-negociaciones-mexico-20ago2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,8 +50,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Arrestan a 5 venezolanos en Giorgia por vender camionetas robadas en Texas",
-      "link": "https://laverdad.com/arrestan-a-5-venezolanos-en-giorgia-por-vender-camionetas-robadas-en-texas/",
+      "title": "Arrestan a 5 venezolanos en Georgia por vender camionetas robadas en Texas",
+      "link": "https://laverdad.com/arrestan-a-5-venezolanos-en-georgia-por-vender-camionetas-robadas-en-texas/",
       "image": "https://laverdad.com/wp-content/uploads/2026/04/detenidos-4.jpg"
     },
     {
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/lula-1068x598-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-17T17:50:00.671Z"
+  "lastUpdate": "2026-04-17T19:01:55.888Z"
 };
