@@ -1,8 +1,8 @@
 {
   "rates": {
     "bcv": {
-      "usd": "480,26",
-      "eur": "565,41"
+      "usd": "481,22",
+      "eur": "568,52"
     },
     "binance": {
       "usdt": "650,00"
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "FVM CONVOCÓ A UNA ASAMBLEA NACIONAL PARA RECLAMAR MEJORAS SALARIALES",
-      "link": "https://noticierodigital.com/2026/04/fvm-convoco-a-una-asamblea-nacional-para-reclamar-mejoras-salariales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/protestanacional-maestros.jpg"
+      "title": "TRANSPARENCIA VENEZUELA ALERTÓ SOBRE EL IMPACTO NEGATIVO DE VARIAS LEYES VIGENTES",
+      "link": "https://noticierodigital.com/2026/04/transparencia-venezuela-alerto-sobre-el-impacto-negativo-de-varias-leyes-vigentes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/04/an_asamblea_nacional_23abr2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/FMI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-17T21:41:49.326Z"
+  "lastUpdate": "2026-04-17T22:39:38.022Z"
 }
