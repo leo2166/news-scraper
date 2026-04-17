@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,41"
     },
     "binance": {
-      "usdt": "619,70"
+      "usdt": "650,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Academia de Ciencias Políticas y Sociales de Venezuela pide restablecer el orden constitucional y llamar a elecciones",
-      "link": "https://www.infobae.com/venezuela/2026/04/17/la-academia-de-ciencias-politicas-y-sociales-de-venezuela-pide-restablecer-el-orden-constitucional-y-llamar-a-elecciones/",
-      "image": "https://www.infobae.com/resizer/v2/2Z3FABFN2REIXBWN66RAERBQY4.jpg?auth=a58a9f149eb0ba5082d4fc2206233c23b6e29b96751c5ec8d9c4f89ea7fb4578&smart=true&width=350&height=197&quality=85"
+      "title": "Migrantes venezolanos condicionan su regreso al país a una serie de mejoras económicas y sociales",
+      "link": "https://www.infobae.com/venezuela/2026/04/17/migrantes-venezolanos-condicionan-su-regreso-al-pais-a-una-serie-de-mejoras-economicas-y-sociales/",
+      "image": "https://www.infobae.com/resizer/v2/3AWHGGBQDFE45PSWGDHX5TBS4Y.JPG?auth=ceec89f37e520610fabf185a6fa7f4967d1ad5565408ec5505d52f12bd82018c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,28 +38,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNIÓN EUROPEA DONÓ $175.000 PARA ATENDER LA CRISIS HÍDRICA EN SUCRE",
-      "link": "https://noticierodigital.com/2026/04/union-europea-dono-175-000-para-atender-la-crisis-hidrica-en-sucre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/unioneuropea-negociaciones-mexico-20ago2021.jpg"
+      "title": "MADRID ENTREGÓ LLAVE DE ORO A MARÍA CORINA POR SU «LUCHA DEMOCRÁTICA»",
+      "link": "https://noticierodigital.com/2026/04/madrid-entrego-llave-de-oro-a-maria-corina-por-su-lucha-democratica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260417-WA0154-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla desde el hospital hijo de capitán de embarcación colombiana atacada por Armada del Perú",
+      "title": "Habla herido en carguero colombiano atacado a tiros por Armada de Perú: “Estaba mi bebé de un año”",
       "link": "https://www.noticiascaracol.com/colombia/habla-desde-el-hospital-hijo-de-capitan-de-embarcacion-atacada-por-armada-del-peru-en-rio-putumayo-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/81af182/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F35%2F4c%2F744b35284962bd4bbf00c772dcae%2Fataque-embarcacion-colombiana.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Arrestan a 5 venezolanos en Georgia por vender camionetas robadas en Texas",
-      "link": "https://laverdad.com/arrestan-a-5-venezolanos-en-georgia-por-vender-camionetas-robadas-en-texas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/detenidos-4.jpg"
+      "title": "Nahuel Gallo se presenta como querellante en causa contra Maduro por crímenes de lesa humanidad",
+      "link": "https://laverdad.com/nahuel-gallo-se-presenta-como-querellante-en-causa-contra-maduro-por-crimenes-de-lesa-humanidad/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nahuel-Gallo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula descarta mediar en Venezuela: “Si Delcy quiere o no convocar elecciones es problema de ella”",
-      "link": "https://diarioversionfinal.com/mundo/lula-descarta-mediar-en-venezuela-si-delcy-quiere-o-no-convocar-elecciones-es-problema-de-ella/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/lula-1068x598-1-750x430.jpg"
+      "title": "FMI actuará con \"celeridad\" para dar acceso a Venezuela a programas de crédito",
+      "link": "https://diarioversionfinal.com/mundo/fmi-actuara-con-celeridad-para-dar-acceso-a-venezuela-a-programas-de-credito/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/FMI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-17T19:01:55.888Z"
+  "lastUpdate": "2026-04-17T20:44:15.808Z"
 };
