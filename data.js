@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "565,41"
     },
     "binance": {
-      "usdt": "654,13"
+      "usdt": "654,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Edmundo González fue hospitalizado en Madrid y no asistirá al encuentro con María Corina Machado",
-      "link": "https://www.infobae.com/venezuela/2026/04/17/edmundo-gonzalez-fue-hospitalizado-en-madrid-y-no-asistira-al-encuentro-con-maria-corina-machado/",
-      "image": "https://www.infobae.com/resizer/v2/RXCUURX2F5FUZHDKNZFTDUFUWI.jpg?auth=7888c16ca56a3193a36124cc1d9e7c59f9cbf424f19097522f8cafa58865167a&smart=true&width=350&height=197&quality=85"
+      "title": "La sentencia al \"Pollo\" Carvajal, ex jefe de inteligencia de Hugo Chávez en Venezuela, fue suspendida sin fecha en Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/04/17/la-sentencia-al-pollo-carvajal-ex-jefe-de-inteligencia-de-hugo-chavez-en-venezuela-fue-suspendida-sin-fecha-en-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/IIQ4LZ735RC2PIHB4ZAPIHLCVA.jpg?auth=274e6362ee86f4d2e4a9591b4f283b07d9892dbc15e9b6d1b69f65927260a936&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Por qué el gobierno de Kast en Chile expulsó a 19 colombianos y a otros extranjeros?",
-      "link": "https://www.noticiascaracol.com/mundo/por-que-el-gobierno-de-kast-en-chile-expulso-a-19-colombianos-y-a-otros-extranjeros-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9e81fbd/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7b%2F2a%2Fc353358046158d0e16ab22ad02ac%2Fexcentricidades-21.jpg"
+      "title": "Presidente Petro anuncia que el próximo 24 de abril viajará a Venezuela",
+      "link": "https://www.noticiascaracol.com/politica/presidente-petro-anuncia-que-el-proximo-24-de-abril-viajara-a-venezuela-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e9aa00c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fef%2Fed%2F294c564444ed900017dd66f88ba1%2Fpetro-espana.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EEUU y China empiezan la carrera por las tierras raras de Brasil",
-      "link": "https://diarioversionfinal.com/mundo/eeuu-y-china-empiezan-la-carrera-por-las-tierras-raras-de-brasil/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/qg5OyAK0-image-750x430.jpg"
+      "title": "Grupo Cisneros está levantando un fondo de mil millones de dólares para invertir en Venezuela en bienes raíces y turismo de lujo",
+      "link": "https://diarioversionfinal.com/mundo/grupo-cisneros-esta-levantando-un-fondo-de-mil-millones-de-dolares-para-invertir-en-venezuela-en-bienes-raices-y-turismo-de-lujo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/hjqUFbOf-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-17T10:56:42.477Z"
+  "lastUpdate": "2026-04-17T11:54:07.662Z"
 };
