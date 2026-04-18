@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "653,23"
+      "usdt": "652,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una ONG venezolana pidió fijar un salario mínimo digno ante la “pobreza extrema” que sufren los residentes del país",
-      "link": "https://www.infobae.com/venezuela/2026/04/18/una-ong-venezolana-pidio-fijar-un-salario-minimo-digno-ante-la-pobreza-extrema-que-sufren-los-residentes-del-pais/",
-      "image": "https://www.infobae.com/resizer/v2/OLJPFIRY4FBCFKMHXZ7HRQNBWI.jpg?auth=3ab6c964354ff6fd1a7047cf6857127508e6a13f820bf56e97bab474a98bcf69&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal informó que todavía hay 477 presos políticos en Venezuela pese a la ley de amnistía aprobada por el chavismo",
+      "link": "https://www.infobae.com/venezuela/2026/04/18/el-foro-penal-informo-que-todavia-hay-477-presos-politicos-en-venezuela-pese-a-la-ley-de-amnistia-aprobada-por-el-chavismo/",
+      "image": "https://www.infobae.com/resizer/v2/XKBZA4T4SJBCFD25I6KQQB3UL4.jpg?auth=4dd4e6762433021b6e66851d4b4f3de8888c1826a88a4af701fe3c1476e3fcd9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Carlos Baute pone la torta en acto de MCM con cantico racista contra Delcy Rodríguez",
-      "link": "https://diarioversionfinal.com/mundo/carlos-baute-pone-la-torta-en-acto-de-mcm-con-cantico-racista-contra-delcy-rodriguez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Carlos-Baute-750x430.jpeg"
+      "title": "México, España y Brasil abogan por un diálogo \"respetuoso y constructivo\" con Cuba",
+      "link": "https://diarioversionfinal.com/mundo/mexico-espana-y-brasil-abogan-por-un-dialogo-respetuoso-y-constructivo-con-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/cuba-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-18T22:36:00.642Z"
+  "lastUpdate": "2026-04-18T23:35:49.695Z"
 };
