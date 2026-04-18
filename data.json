@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "650,00"
+      "usdt": "650,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,7 +28,7 @@
       "source": "CNN en Español",
       "title": "Irán dispara contra un buque cisterna tras el nuevo cierre del estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/04/18/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-12-29t205516z-1932074113-rc2kqiaydye1-rtrmadp-3-israel-palestinians-trump-netanyahu-20260418044738463.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz-20260407141538450.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EL ENGAÑO DE MARÍA CORINA ES LO QUE IMPIDE TRANSICIÓN EN VENEZUELA», SEGÚN LEOCENIS GARCÍA",
-      "link": "https://noticierodigital.com/2026/04/el-engano-de-maria-corina-es-lo-que-impide-transicion-en-venezuela-segun-leocenis-garcia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/leocenis-garcia-627x376.jpg"
+      "title": "CONDENADAS A 25 AÑOS POR TRÁFICO DE DROGAS EXALCALDESA Y EXDIPUTADA DEL PSUV",
+      "link": "https://noticierodigital.com/2026/04/condenadas-a-25-anos-por-trafico-de-drogas-exalcaldesa-y-exdiputada-del-psuv/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-12.56.04-PM-627x376.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que Irán no puede presionar a EE. UU. con el cierre del estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-iran-no-puede-presionar-a-ee-uu-con-el-cierre-del-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
+      "title": "MCM se reúne con la comunidad venezolana en España: “Hoy comienza el regreso a casa”",
+      "link": "https://diarioversionfinal.com/mundo/mcm-se-reune-con-la-comunidad-venezolana-en-espana-hoy-comienza-el-regreso-a-casa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-10.24.04-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-18T16:41:07.484Z"
+  "lastUpdate": "2026-04-18T17:36:53.568Z"
 }
