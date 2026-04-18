@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "622,50"
+      "usdt": "622,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los movimientos de Delcy Rodríguez en el Banco Central de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/04/17/venezuela/cambios-banco-central-guerra-perez-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-04-17-at-15-23-40.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Buscan alcanzar un acuerdo después de que Irán declarara abierto el estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/04/17/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-3-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-01t141012z-1581774200-rc2egka88qj5-rtrmadp-3-iran-crisis-20260416125344658.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-18T05:06:59.216Z"
+  "lastUpdate": "2026-04-18T07:09:09.909Z"
 };
