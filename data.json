@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "653,00"
+      "usdt": "652,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,15 +44,15 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"Solo quiero justicia\": el dolor de la madre del estudiante de Uniminuto asesinado en TransMilenio",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/le-quitaron-sus-suenos-el-dolor-de-la-madre-del-estudiante-de-uniminuto-asesinado-en-transmilenio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/484d271/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1f%2F20%2Ffe6c1460428ab09ad9f36333e606%2Fasesinato-de-fredy-santiago-guzman-en-transmilenio-familia-denuncia-falta-de-seguridad.jpg"
+      "title": "Galán habla de universitario asesinado en TransMilenio: \"Estamos en guerra contra la delincuencia\"",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/galan-habla-de-universitario-asesinado-en-transmilenio-estamos-en-guerra-contra-la-delincuencia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9ef00d6/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F46%2F49%2F7066da0a4754880e417f3e549ac4%2Ffredy-santiago-guzman-cardenas-y-carlos-fernando-galan.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Nahuel Gallo se presenta como querellante en causa contra Maduro por crímenes de lesa humanidad",
-      "link": "https://laverdad.com/nahuel-gallo-se-presenta-como-querellante-en-causa-contra-maduro-por-crimenes-de-lesa-humanidad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/03/Nahuel-Gallo.jpg"
+      "title": "Irán cierra Ormuz y Trump advierte posible reanudación de ataques",
+      "link": "https://laverdad.com/iran-cierra-ormuz-y-trump-advierte-posible-reanudacion-de-ataques/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/980ef9fdbb473cf32d5debeabb87994afa493121.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Pollo-Caravajal-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-18T18:52:56.411Z"
+  "lastUpdate": "2026-04-18T19:41:02.396Z"
 }
