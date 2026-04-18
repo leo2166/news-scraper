@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "649,61"
+      "usdt": "651,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,33 +20,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Madrid entregó la Llave de Oro de la ciudad a María Corina Machado\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/madrid-entrego-la-llave-de-oro-de-la-ciudad-a-maria-corina-machado/",
+      "title": "María Corina en Madrid: una agenda política marcada por la emoción de la diáspora\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/maria-corina-en-madrid-una-agenda-politica-marcada-por-la-emocion-de-la-diaspora/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán reanudarán conversaciones el lunes, según fuentes iraníes",
-      "link": "https://cnnespanol.cnn.com/2026/04/17/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-01t141012z-1581774200-rc2egka88qj5-rtrmadp-3-iran-crisis-20260416125344658.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los movimientos de Delcy Rodríguez en el Banco Central de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/04/17/venezuela/cambios-banco-central-guerra-perez-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-04-17-at-15-23-40.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Petro viajará a Caracas el 24 de abril para reunirse con Delcy Rodríguez",
-      "link": "https://noticiasvenevision.com/noticias/politica/petro-viajara-a-caracas-el-24-de-abril-para-reunirse-con-delcy-rodriguez",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/petro-1-1024x683-1-f7c258.jpg"
+      "title": "EE.UU. espera que Venezuela trabaje junto al FMI en políticas que beneficien a la población",
+      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-espera-que-venezuela-trabaje-junto-al-fmi-en-politicas-que-beneficien-a-la-poblacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fmi-1-17c1e6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "OCARIZ: «PARA QUE LA REALIDAD ECONÓMICA MEJORE TIENE QUE HABER CONFIANZA»",
-      "link": "https://noticierodigital.com/2026/04/ocariz-para-que-la-realidad-economica-mejore-tiene-que-haber-confianza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/carlosocariz-primarias-reconectarconlagente-1jun2022-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ Y ALBERTO GALÍNDEZ ESTABLECIERON UNA AGENDA DE TRABAJO CONJUNTA",
+      "link": "https://noticierodigital.com/2026/04/delcy-rodriguez-y-alberto-galindez-establecieron-una-agenda-de-trabajo-conjunta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-alberto-galindez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla herido en carguero colombiano atacado a tiros por Armada de Perú: “Estaba mi bebé de un año”",
-      "link": "https://www.noticiascaracol.com/colombia/habla-desde-el-hospital-hijo-de-capitan-de-embarcacion-atacada-por-armada-del-peru-en-rio-putumayo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/81af182/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F35%2F4c%2F744b35284962bd4bbf00c772dcae%2Fataque-embarcacion-colombiana.jpg"
+      "title": "Presidente Petro dice que la CIA tiene \"datos reales\" sobre posible atentado contra Iván Cepeda",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/presidente-petro-dice-que-la-cia-tiene-datos-reales-sobre-posible-atentado-contra-ivan-cepeda-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6dfac98/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2F0d%2Fd21d44a64fea8770997309963539%2Fgustavo-petro-e-ivan-cepeda.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "FMI actuará con \"celeridad\" para dar acceso a Venezuela a programas de crédito",
-      "link": "https://diarioversionfinal.com/mundo/fmi-actuara-con-celeridad-para-dar-acceso-a-venezuela-a-programas-de-credito/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/FMI-750x430.jpg"
+      "title": "Trump afirma que \"muy pronto\" habrá \"un nuevo amanecer para Cuba\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-muy-pronto-habra-un-nuevo-amanecer-para-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-17-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-17T23:39:40.820Z"
+  "lastUpdate": "2026-04-18T02:28:18.053Z"
 };
