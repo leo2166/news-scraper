@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "653,10"
+      "usdt": "652,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Galán habla de universitario asesinado en TransMilenio: \"Estamos en guerra contra la delincuencia\"",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/galan-habla-de-universitario-asesinado-en-transmilenio-estamos-en-guerra-contra-la-delincuencia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9ef00d6/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F46%2F49%2F7066da0a4754880e417f3e549ac4%2Ffredy-santiago-guzman-cardenas-y-carlos-fernando-galan.jpg"
+      "title": "Fredy Santiago Guzmán habló de no querer ir a clases horas antes de ser asesinado en TransMilenio",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/fredy-santiago-guzman-hablo-de-no-querer-ir-a-clases-horas-antes-de-ser-asesinado-en-transmilenio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7dd82f0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2Fd2%2F463c36a841a28e213a16970e6477%2Fasesinato-de-fredy-santiago-guzman-en-transmilenio-no-queria-ir-a-la-universidad.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán advierte que cualquier buque en Ormuz será considerado objetivo militar",
-      "link": "https://diarioversionfinal.com/mundo/iran-advierte-que-cualquier-buque-en-ormuz-sera-considerado-objetivo-militar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/estrecho-de-Ormuz-2-696x405-1.jpg"
+      "title": "James Story insta a definir cronograma electoral para garantizar una salida democrática en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/james-story-insta-a-definir-cronograma-electoral-para-garantizar-una-salida-democratica-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/12/james_story_23-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-18T20:37:49.222Z"
+  "lastUpdate": "2026-04-18T21:36:10.536Z"
 };
