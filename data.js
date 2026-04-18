@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "651,99"
+      "usdt": "622,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro dice que la CIA tiene \"datos reales\" sobre posible atentado contra Iván Cepeda",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/presidente-petro-dice-que-la-cia-tiene-datos-reales-sobre-posible-atentado-contra-ivan-cepeda-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6dfac98/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2F0d%2Fd21d44a64fea8770997309963539%2Fgustavo-petro-e-ivan-cepeda.jpg"
+      "title": "Trump plantea asociarse con Irán para extraer uranio, y dice que Ormuz está abierto: \"Polvo nuclear\"",
+      "link": "https://www.noticiascaracol.com/mundo/trump-plantea-asociarse-con-iran-para-extraer-uranio-y-dice-que-ormuz-esta-abierto-polvo-nuclear-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ba1ce68/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa4%2Fac%2Fb10910fe41468797ccb293afcf88%2Fa-63.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que \"muy pronto\" habrá \"un nuevo amanecer para Cuba\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-muy-pronto-habra-un-nuevo-amanecer-para-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-17-04-2026-750x430.jpg"
+      "title": "Trump dice que Ormuz está abierto pero mantiene bloqueo naval contra Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-ormuz-esta-abierto-pero-mantiene-bloqueo-naval-contra-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-18T02:28:18.053Z"
+  "lastUpdate": "2026-04-18T05:06:59.216Z"
 };
