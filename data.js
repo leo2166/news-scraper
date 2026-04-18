@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,50"
+      "usdt": "652,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,8 +27,8 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "Irán afirma que vuelve a aplicar restricciones en el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/04/17/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-01t141012z-1581774200-rc2egka88qj5-rtrmadp-3-iran-crisis-20260416125344658.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/04/18/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260418100524907.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-18T09:50:18.945Z"
+  "lastUpdate": "2026-04-18T10:40:56.188Z"
 };
