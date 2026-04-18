@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "622,10"
+      "usdt": "622,46"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Migrantes venezolanos condicionan su regreso al país a una serie de mejoras económicas y sociales",
-      "link": "https://www.infobae.com/venezuela/2026/04/17/migrantes-venezolanos-condicionan-su-regreso-al-pais-a-una-serie-de-mejoras-economicas-y-sociales/",
-      "image": "https://www.infobae.com/resizer/v2/3AWHGGBQDFE45PSWGDHX5TBS4Y.JPG?auth=ceec89f37e520610fabf185a6fa7f4967d1ad5565408ec5505d52f12bd82018c&smart=true&width=350&height=197&quality=85"
+      "title": "Una ONG venezolana pidió fijar un salario mínimo digno ante la “pobreza extrema” que sufren los residentes del país",
+      "link": "https://www.infobae.com/venezuela/2026/04/18/una-ong-venezolana-pidio-fijar-un-salario-minimo-digno-ante-la-pobreza-extrema-que-sufren-los-residentes-del-pais/",
+      "image": "https://www.infobae.com/resizer/v2/OLJPFIRY4FBCFKMHXZ7HRQNBWI.jpg?auth=3ab6c964354ff6fd1a7047cf6857127508e6a13f820bf56e97bab474a98bcf69&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-18T07:09:09.909Z"
+  "lastUpdate": "2026-04-18T08:52:16.582Z"
 }
