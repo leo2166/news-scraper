@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,00"
+      "usdt": "653,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina Machado recibe la Medalla de Oro de Madrid: \"Desde aquí comenzamos a preparar esta nueva fase\"\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-recibe-la-medalla-de-oro-de-madrid-desde-aqui-comenzamos-a-preparar-esta-nueva-fase/",
+      "title": "María Corina Machado da un poderoso discurso en Madrid y promete que regresará a Venezuela con Edmundo González\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/maria-corina-machado-da-un-poderoso-discurso-en-madrid-y-promete-que-regresara-a-venezuela-con-edmundo-gonzalez/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán dispara contra un buque cisterna tras el nuevo cierre del estrecho de Ormuz",
+      "title": "Guardia Revolucionaria de Irán dice que está cerrando el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/04/18/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz-20260407141538450.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-cerrado.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP CRITICA «LO MAL QUE LE VA A ESPAÑA» EN SU ECONOMÍA",
-      "link": "https://noticierodigital.com/2026/04/trump-critica-lo-mal-que-le-va-a-espana-en-su-economia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/donald-trump-627x376.jpg"
+      "title": "CHOQUE DE VEHÍCULOS DE CARGA DEJÓ 7 MUERTOS EN LARA",
+      "link": "https://noticierodigital.com/2026/04/choque-de-vehiculos-de-carga-dejo-7-muertos-en-lara/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/imagen_2026-04-18_150446743-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Irán cierra Ormuz y Trump advierte posible reanudación de ataques",
-      "link": "https://laverdad.com/iran-cierra-ormuz-y-trump-advierte-posible-reanudacion-de-ataques/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/980ef9fdbb473cf32d5debeabb87994afa493121.jpg"
+      "title": "Papa León XIV aclara que sus discursos en África no van dirigidos a Trump",
+      "link": "https://laverdad.com/papa-leon-xiv-aclara-que-sus-discursos-en-africa-no-van-dirigidos-a-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/dd4cedefc427d4b67379f253a7d51dc2f142b6c0-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. enjuiciará a narco colombiano, protector de Alex Saab, que se entregó en Maracaibo",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-enjuiciara-a-narco-colombiano-protector-de-alex-saab-que-se-entrego-en-maracaibo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Pollo-Caravajal-750x430.jpeg"
+      "title": "Irán advierte que cualquier buque en Ormuz será considerado objetivo militar",
+      "link": "https://diarioversionfinal.com/mundo/iran-advierte-que-cualquier-buque-en-ormuz-sera-considerado-objetivo-militar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/estrecho-de-Ormuz-2-696x405-1.jpg"
     }
   ],
-  "lastUpdate": "2026-04-18T19:41:02.396Z"
+  "lastUpdate": "2026-04-18T20:37:49.222Z"
 };
