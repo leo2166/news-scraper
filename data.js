@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "650,61"
+      "usdt": "649,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,13 +20,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "María Corina en Madrid: una agenda política marcada por la emoción de la diáspora\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/maria-corina-en-madrid-una-agenda-politica-marcada-por-la-emocion-de-la-diaspora/",
+      "title": "Machado: La cumbre de Barcelona muestra que la reunión con Sánchez no es conveniente\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/machado-la-cumbre-de-barcelona-muestra-que-la-reunion-con-sanchez-no-es-conveniente/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán cerrará el estrecho de Ormuz tras la \"ruptura de confianza\" de EE.UU.",
+      "title": "Irán dispara contra un buque cisterna tras el nuevo cierre del estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/04/18/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-4-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260418100524907.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump plantea asociarse con Irán para extraer uranio, y dice que Ormuz está abierto: \"Polvo nuclear\"",
-      "link": "https://www.noticiascaracol.com/mundo/trump-plantea-asociarse-con-iran-para-extraer-uranio-y-dice-que-ormuz-esta-abierto-polvo-nuclear-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ba1ce68/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa4%2Fac%2Fb10910fe41468797ccb293afcf88%2Fa-63.jpg"
+      "title": "Esto dijo la Uniminuto tras la muerte de estudiante que fue apuñalado en estación de TransMilenio",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/esto-dijo-la-uniminuto-tras-la-muerte-de-joven-que-fue-apunalado-en-estacion-de-transmilenio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f58f0f1/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6a%2Ffb%2F28597b044f3da45dfe704679fcd7%2Fexcentricidades-24.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump dice que Ormuz está abierto pero mantiene bloqueo naval contra Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-ormuz-esta-abierto-pero-mantiene-bloqueo-naval-contra-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
+      "title": "ICE arresta a otro médico venezolano mientras regularizaba su estatus migratorio",
+      "link": "https://diarioversionfinal.com/mundo/ice-arresta-a-otro-medico-venezolano-mientras-regularizaba-su-estatus-migratorio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/ice-detuvo-al-medico-venezolano-jose-gregorio-ESPR2ZVVFVGYZFLFSRUUXO4PQU-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-18T11:35:04.508Z"
+  "lastUpdate": "2026-04-18T13:03:49.771Z"
 };
