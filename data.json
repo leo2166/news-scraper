@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "650,50"
+      "usdt": "649,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Los familiares de presos políticos cumplen 100 días de vigilias frente a las cárceles de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/19/los-familiares-de-presos-politicos-cumplen-100-dias-de-vigilias-frente-a-las-carceles-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/45FV5JBMJNGR3IPMVIRWYDMRJQ.jpg?auth=208ae3465bf3a10a0d4ca5171858acfb780538f780d9cef4f13c1ba98eb0f70a&smart=true&width=350&height=197&quality=85"
+      "title": "Militares retirados denuncian “ruptura del orden constitucional” y piden elecciones libres en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/19/militares-retirados-denuncian-ruptura-del-orden-constitucional-y-piden-elecciones-libres-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/N2OD6CMW6BDTPCFKNAZ4AJPOPA.jpg?auth=edec62b1fbdd3a3857620e53d6dc832a035df784e2bedabea6a0741eb6ca2a96&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Definen hoja de ruta para la “Gran Peregrinación” en rechazo a las sanciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/definen-hoja-de-ruta-para-la-gran-peregrinacion-en-rechazo-a-las-sanciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/f6d67f358cd438f20e121e246d0aa54a-a8d067.jpg"
+      "title": "Hoy inicia Peregrinación Nacional por una Venezuela sin Sanciones y en Paz",
+      "link": "https://noticiasvenevision.com/noticias/politica/hoy-inicia-peregrinacion-nacional-por-una-venezuela-sin-sanciones-y-en-paz",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/proyecto-nuevo-1-5-13c82b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHOQUE DE VEHÍCULOS DE CARGA DEJÓ 7 MUERTOS EN LARA",
-      "link": "https://noticierodigital.com/2026/04/choque-de-vehiculos-de-carga-dejo-7-muertos-en-lara/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/imagen_2026-04-18_150446743-627x376.png"
+      "title": "VENEZUELA INICIA «GRAN PEREGRINACIÓN NACIONAL» POR EL FIN DE LAS SANCIONES",
+      "link": "https://noticierodigital.com/2026/04/venezuela-inicia-gran-peregrinacion-nacional-por-el-fin-de-las-sanciones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/imagen_2026-04-19_101519500-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV aclara que sus discursos en África no van dirigidos a Trump",
-      "link": "https://laverdad.com/papa-leon-xiv-aclara-que-sus-discursos-en-africa-no-van-dirigidos-a-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/dd4cedefc427d4b67379f253a7d51dc2f142b6c0-scaled.jpg"
+      "title": "Papa León XIV ve “esperanza” en tregua de Líbano y condena ataques en Ucrania",
+      "link": "https://laverdad.com/papa-leon-xiv-ve-esperanza-en-tregua-de-libano-y-condena-ataques-en-ucrania/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/39226b273b2c6042e252eb9f7c00f950609abe91-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pakistán despliega dispositivo de seguridad por posible nueva ronda de negociaciones entre EE.UU. e Irán",
-      "link": "https://diarioversionfinal.com/mundo/pakistan-despliega-dispositivo-de-seguridad-por-posible-nueva-ronda-de-negociaciones-entre-ee-uu-e-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/CQEIDAJU5ZB5HPB227PFWCXRGA-750x430.jpg"
+      "title": "Irán acusa a EE.UU. de violar el alto el fuego con bloqueo marítimo",
+      "link": "https://diarioversionfinal.com/mundo/iran-acusa-a-ee-uu-de-violar-el-alto-el-fuego-con-bloqueo-maritimo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AP23332217730904-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-19T13:02:59.964Z"
+  "lastUpdate": "2026-04-19T14:40:31.211Z"
 }
