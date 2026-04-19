@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "651,61"
+      "usdt": "652,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,14 +14,14 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Militares retirados denuncian “ruptura del orden constitucional” y piden elecciones libres en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/19/militares-retirados-denuncian-ruptura-del-orden-constitucional-y-piden-elecciones-libres-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/N2OD6CMW6BDTPCFKNAZ4AJPOPA.jpg?auth=edec62b1fbdd3a3857620e53d6dc832a035df784e2bedabea6a0741eb6ca2a96&smart=true&width=350&height=197&quality=85"
+      "title": "American Airlines sacó a la venta los pasajes para restablecer la ruta Miami-Caracas tras seis años",
+      "link": "https://www.infobae.com/venezuela/2026/04/19/american-airlines-saco-a-la-venta-los-pasajes-para-restablecer-la-ruta-miami-caracas-tras-seis-anos/",
+      "image": "https://www.infobae.com/resizer/v2/SC673EHYBNANXALPPHOBHMVDFQ.jpg?auth=e9af9b59ab54e225e256471d467cdf8c25e92c7eecb311b252d4d622503d9f3d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "Analistas prevén estabilización del tipo de cambio en Venezuela tras medidas de la OFAC\nECONOMÍA",
-      "link": "https://www.elnacional.com/2026/04/analistas-preven-estabilizacion-del-tipo-de-cambio-en-venezuela-tras-medidas-de-la-ofac/",
+      "title": "\"No hacer elecciones conlleva un riesgo mayor\": la advertencia de Machado desde Madrid sobre aplazar los comicios\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/no-hacer-elecciones-conlleva-un-riesgo-mayor-la-advertencia-de-machado-desde-madrid-sobre-aplazar-los-comicios/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -61,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/98-3-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-19T21:37:10.133Z"
+  "lastUpdate": "2026-04-19T22:36:55.729Z"
 }
