@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,00"
+      "usdt": "622,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHOQUE DE VEHÍCULOS DE CARGA DEJÓ 7 MUERTOS EN LARA",
+      "title": "Choque de vehículos de carga dejó 7 muertos en Lara",
       "link": "https://noticierodigital.com/2026/04/choque-de-vehiculos-de-carga-dejo-7-muertos-en-lara/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/04/imagen_2026-04-18_150446743-627x376.png"
     },
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Baqer-Qalibaf-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-19T05:29:42.691Z"
+  "lastUpdate": "2026-04-19T07:20:36.348Z"
 };
