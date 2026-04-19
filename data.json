@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,00"
+      "usdt": "651,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alfredo Romero: \"se pueden liberar a todos sin necesidad de una amnistía\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/alfredo-romero-se-pueden-liberar-a-todos-sin-necesisdad-de-una-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9347-1-a315a1.jpg"
+      "title": "Foro Penal reporta que 477 privados de libertad permanecen detenidos en Venezuela pese a recientes amnistías",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-reporta-que-477-privados-de-libertad-permanecen-detenidos-en-venezuela-pese-a-recientes-amnistias",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo-1-7efe19.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -44,9 +44,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quiénes son las víctimas del ataque durante rodaje televisivo en el centro de Bogotá? Esto se sabe",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/quienes-son-las-victimas-del-ataque-durante-rodaje-televisivo-en-el-centro-de-bogota-esto-se-sabe-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8c94279/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2c%2Fd5%2Fa73252054e629ce60c7cccded2d3%2Fplantilla-fotos-2026-04-19t132357-561.jpg"
+      "title": "Mindefensa se pronuncia sobre las posibles amenazas contra el candidato Iván Cepeda",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/mindefensa-niega-que-la-cia-tenga-informacion-sobre-posible-atentado-contra-el-candidato-ivan-cepeda-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f652ffe/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F35%2F92%2Fed26a3ad40d89cc46a869af93831%2Fplantilla-fotos-2026-04-19t093513-991.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo en Luisiana deja ocho menores fallecidos en una tragedia familiar",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-luisiana-deja-ocho-menores-fallecidos-en-una-tragedia-familiar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/hgr6spixcaaog7q_181-13143256_20260419101418-699x430.webp"
+      "title": "Estados Unidos intercepta buque de carga iraní en el golfo de Omán",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-intercepta-buque-de-carga-irani-en-el-golfo-de-oman/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/98-3-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-19T20:38:33.804Z"
+  "lastUpdate": "2026-04-19T21:37:10.133Z"
 }
