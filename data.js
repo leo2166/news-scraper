@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,80"
+      "usdt": "653,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Familiares de presos políticos cumplieron 100 días de vigilias frente a cárceles\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/familiares-de-presos-politicos-cumplieron-100-dias-de-vigilias-frente-a-carceles/",
+      "title": "American Airlines activa boletos Miami-Caracas: tarifas superan los $1.500 por alta demanda\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/american-airlines-activa-boletos-miami-caracas-tarifas-superan-los-1-500-por-alta-demanda/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -38,15 +38,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«HAY QUE DAR RESPUESTAS A PRESOS POLÍTICOS Y FAMILIARES», DIJO DEFENSORA DEL PUEBLO",
-      "link": "https://noticierodigital.com/2026/04/hay-que-dar-respuestas-a-presos-politicos-y-familiares-dijo-defensora-del-pueblo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/imagen_2026-04-19_131048709-627x376.png"
+      "title": "DE LOS 760 PRESOS EXCARCELADOS SOLO 180 HAN SIDO AMNISTIADOS, ALERTÓ FORO PENAL",
+      "link": "https://noticierodigital.com/2026/04/de-los-760-presos-excarcelados-solo-180-han-sido-amnistiados-alerto-foro-penal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/09/alfredo-romero-foro-penal-22sep2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump advierte ataques contra infraestructura energética de Irán si no hay acuerdo en Pakistán",
-      "link": "https://www.noticiascaracol.com/mundo/trump-advierte-ataques-contra-infraestructura-energetica-de-iran-si-no-hay-acuerdo-en-pakistan-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f4288fa/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd6%2F64%2F14c4c4924ff894f27bd705471c3d%2Fplantilla-fotos-2026-04-19t083947-613.jpg"
+      "title": "¿Quiénes son las víctimas del ataque durante rodaje televisivo en el centro de Bogotá? Esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/quienes-son-las-victimas-del-ataque-durante-rodaje-televisivo-en-el-centro-de-bogota-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/8c94279/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2c%2Fd5%2Fa73252054e629ce60c7cccded2d3%2Fplantilla-fotos-2026-04-19t132357-561.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/481748_1859313-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-19T17:36:00.239Z"
+  "lastUpdate": "2026-04-19T18:52:55.751Z"
 };
