@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,61"
+      "usdt": "650,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "¿Cómo se desarrollaron 24 horas de vaivenes en el estrecho de Ormuz?",
-      "link": "https://cnnespanol.cnn.com/2026/04/18/mundo/24-horas-vaivenes-estrecho-de-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-cerrado-2.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. e Irán están “lejos de un acuerdo final”, dice el principal negociador iraní",
+      "link": "https://cnnespanol.cnn.com/2026/04/19/mundo/live-news/guerra-ee-uu-israel-iran-ataques-vivo-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108447289863a-20260419111601940.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Mohammad Baqer Qalibaf afirma que hay avances con EE. UU. pero acuerdo final \"está lejos\"",
-      "link": "https://diarioversionfinal.com/mundo/mohammad-baqer-qalibaf-afirma-que-hay-avances-con-ee-uu-pero-acuerdo-final-esta-lejos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Baqer-Qalibaf-750x430.webp"
+      "title": "Pakistán despliega dispositivo de seguridad por posible nueva ronda de negociaciones entre EE.UU. e Irán",
+      "link": "https://diarioversionfinal.com/mundo/pakistan-despliega-dispositivo-de-seguridad-por-posible-nueva-ronda-de-negociaciones-entre-ee-uu-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/CQEIDAJU5ZB5HPB227PFWCXRGA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-19T11:35:31.016Z"
+  "lastUpdate": "2026-04-19T13:02:59.964Z"
 }
