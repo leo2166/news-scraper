@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,99"
+      "usdt": "652,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "QUINCEAÑERA MURIÓ AL SER IMPACTADA POR UN RAYO EN AMAZONAS",
-      "link": "https://noticierodigital.com/2026/04/quinceanera-murio-al-ser-impactada-por-un-rayo-en-amazonas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/08/leonardo-vera-economista-30ago2022.jpg"
+      "title": "«HAY QUE DAR RESPUESTAS A PRESOS POLÍTICOS Y FAMILIARES», DIJO DEFENSORA DEL PUEBLO",
+      "link": "https://noticierodigital.com/2026/04/hay-que-dar-respuestas-a-presos-politicos-y-familiares-dijo-defensora-del-pueblo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/imagen_2026-04-19_131048709-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Más de 20.000 marineros siguen varados en el Golfo Pérsico por conflicto en Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/mas-de-20-000-marineros-siguen-varados-en-el-golfo-persico-por-conflicto-en-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/764ec48dc11c5d3875ffabe3479e43ba-750x430.jpg"
+      "title": "Petro niega vínculos con alias “Fito” y anuncia acción legal contra Daniel Noboa",
+      "link": "https://diarioversionfinal.com/mundo/petro-niega-vinculos-con-alias-fito-y-anuncia-accion-legal-contra-daniel-noboa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/481748_1859313-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-19T16:41:01.016Z"
+  "lastUpdate": "2026-04-19T17:36:00.239Z"
 };
