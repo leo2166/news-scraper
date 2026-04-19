@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,00"
+      "usdt": "651,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Guardia Revolucionaria de Irán dice que está cerrando el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/04/18/mundo/live-news/guerra-ee-uu-e-israel-iran-ataques-en-vivo-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-cerrado.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Cómo se desarrollaron 24 horas de vaivenes en el estrecho de Ormuz?",
+      "link": "https://cnnespanol.cnn.com/2026/04/18/mundo/24-horas-vaivenes-estrecho-de-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-cerrado-2.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "México, España y Brasil abogan por un diálogo \"respetuoso y constructivo\" con Cuba",
-      "link": "https://diarioversionfinal.com/mundo/mexico-espana-y-brasil-abogan-por-un-dialogo-respetuoso-y-constructivo-con-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/cuba-750x430.webp"
+      "title": "Mohammad Baqer Qalibaf afirma que hay avances con EE. UU. pero acuerdo final \"está lejos\"",
+      "link": "https://diarioversionfinal.com/mundo/mohammad-baqer-qalibaf-afirma-que-hay-avances-con-ee-uu-pero-acuerdo-final-esta-lejos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Baqer-Qalibaf-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-18T23:35:49.695Z"
+  "lastUpdate": "2026-04-19T02:43:35.477Z"
 };
