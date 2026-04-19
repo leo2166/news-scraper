@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "649,00"
+      "usdt": "651,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Hoy inicia Peregrinación Nacional por una Venezuela sin Sanciones y en Paz",
-      "link": "https://noticiasvenevision.com/noticias/politica/hoy-inicia-peregrinacion-nacional-por-una-venezuela-sin-sanciones-y-en-paz",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/proyecto-nuevo-1-5-13c82b.jpg"
+      "title": "Eglée González Lobato: \"Yo defiendo los derechos humanos, pero hay deberes también para respetar\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/eglee-gonzalez-lobato-yo-defiendo-los-derechos-humanos-pero-hay-deberes-tambien-para-respetar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-eglee-gonzalez-lobato-19abr2026-621c5f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA INICIA «GRAN PEREGRINACIÓN NACIONAL» POR EL FIN DE LAS SANCIONES",
-      "link": "https://noticierodigital.com/2026/04/venezuela-inicia-gran-peregrinacion-nacional-por-el-fin-de-las-sanciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/imagen_2026-04-19_101519500-627x376.png"
+      "title": "QUINCEAÑERA MURIÓ AL SER IMPACTADA POR UN RAYO EN AMAZONAS",
+      "link": "https://noticierodigital.com/2026/04/quinceanera-murio-al-ser-impactada-por-un-rayo-en-amazonas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/08/leonardo-vera-economista-30ago2022.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Fredy Santiago Guzmán habló de no querer ir a clases horas antes de ser asesinado en TransMilenio",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/fredy-santiago-guzman-hablo-de-no-querer-ir-a-clases-horas-antes-de-ser-asesinado-en-transmilenio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7dd82f0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2Fd2%2F463c36a841a28e213a16970e6477%2Fasesinato-de-fredy-santiago-guzman-en-transmilenio-no-queria-ir-a-la-universidad.jpg"
+      "title": "Trump advierte ataques contra infraestructura energética de Irán si no hay acuerdo en Pakistán",
+      "link": "https://www.noticiascaracol.com/mundo/trump-advierte-ataques-contra-infraestructura-energetica-de-iran-si-no-hay-acuerdo-en-pakistan-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f4288fa/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd6%2F64%2F14c4c4924ff894f27bd705471c3d%2Fplantilla-fotos-2026-04-19t083947-613.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán acusa a EE.UU. de violar el alto el fuego con bloqueo marítimo",
-      "link": "https://diarioversionfinal.com/mundo/iran-acusa-a-ee-uu-de-violar-el-alto-el-fuego-con-bloqueo-maritimo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/AP23332217730904-750x430.jpg"
+      "title": "Más de 20.000 marineros siguen varados en el Golfo Pérsico por conflicto en Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/mas-de-20-000-marineros-siguen-varados-en-el-golfo-persico-por-conflicto-en-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/764ec48dc11c5d3875ffabe3479e43ba-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-19T14:40:31.211Z"
+  "lastUpdate": "2026-04-19T15:37:38.853Z"
 };
