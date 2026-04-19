@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,99"
+      "usdt": "650,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Mindefensa se pronuncia sobre las posibles amenazas contra el candidato Iván Cepeda",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/mindefensa-niega-que-la-cia-tenga-informacion-sobre-posible-atentado-contra-el-candidato-ivan-cepeda-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f652ffe/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F35%2F92%2Fed26a3ad40d89cc46a869af93831%2Fplantilla-fotos-2026-04-19t093513-991.jpg"
+      "title": "🔴 Selección Colombia vs. Argentina, EN VIVO HOY; minuto a minuto del Sudamericano Sub-17",
+      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/seleccion-colombia-vs-argentina-en-vivo-hoy-minuto-a-minuto-del-sudamericano-sub-17-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/04464a9/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa7%2Fe5%2F94a6a69147c2b5fa90e2a8e68adc%2Ftamano-fotos-cms-9.png"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos intercepta buque de carga iraní en el golfo de Omán",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-intercepta-buque-de-carga-irani-en-el-golfo-de-oman/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/98-3-750x430.webp"
+      "title": "Pakistán busca destrabar las negociaciones entre EE.UU. e Irán",
+      "link": "https://diarioversionfinal.com/mundo/pakistan-busca-destrabar-las-negociaciones-entre-ee-uu-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-7.04.19-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-19T22:36:55.729Z"
+  "lastUpdate": "2026-04-19T23:37:26.845Z"
 };
