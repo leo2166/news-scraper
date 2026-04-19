@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "622,60"
+      "usdt": "623,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Foro Penal informó que todavía hay 477 presos políticos en Venezuela pese a la ley de amnistía aprobada por el chavismo",
-      "link": "https://www.infobae.com/venezuela/2026/04/18/el-foro-penal-informo-que-todavia-hay-477-presos-politicos-en-venezuela-pese-a-la-ley-de-amnistia-aprobada-por-el-chavismo/",
-      "image": "https://www.infobae.com/resizer/v2/XKBZA4T4SJBCFD25I6KQQB3UL4.jpg?auth=4dd4e6762433021b6e66851d4b4f3de8888c1826a88a4af701fe3c1476e3fcd9&smart=true&width=350&height=197&quality=85"
+      "title": "Los familiares de presos políticos cumplen 100 días de vigilias frente a las cárceles de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/19/los-familiares-de-presos-politicos-cumplen-100-dias-de-vigilias-frente-a-las-carceles-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/45FV5JBMJNGR3IPMVIRWYDMRJQ.jpg?auth=208ae3465bf3a10a0d4ca5171858acfb780538f780d9cef4f13c1ba98eb0f70a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Baqer-Qalibaf-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-19T07:20:36.348Z"
+  "lastUpdate": "2026-04-19T08:55:03.472Z"
 };
