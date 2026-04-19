@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "651,61"
+      "usdt": "652,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,27 @@
     },
     {
       "source": "El Nacional",
-      "title": "American Airlines activa boletos Miami-Caracas: tarifas superan los $1.500 por alta demanda\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/american-airlines-activa-boletos-miami-caracas-tarifas-superan-los-1-500-por-alta-demanda/",
+      "title": "Analistas prevén estabilización del tipo de cambio en Venezuela tras medidas de la OFAC\nECONOMÍA",
+      "link": "https://www.elnacional.com/2026/04/analistas-preven-estabilizacion-del-tipo-de-cambio-en-venezuela-tras-medidas-de-la-ofac/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán están “lejos de un acuerdo final”, dice el principal negociador iraní",
+      "title": "EE.UU. incautó un barco con bandera iraní en el golfo de Omán, según Trump",
       "link": "https://cnnespanol.cnn.com/2026/04/19/mundo/live-news/guerra-ee-uu-israel-iran-ataques-vivo-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108447289863a-20260419111601940.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9621605-20260417181039913-20260419200157108.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Eglée González Lobato: \"Yo defiendo los derechos humanos, pero hay deberes también para respetar\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/eglee-gonzalez-lobato-yo-defiendo-los-derechos-humanos-pero-hay-deberes-tambien-para-respetar",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-eglee-gonzalez-lobato-19abr2026-621c5f.jpg"
+      "title": "Alfredo Romero: \"se pueden liberar a todos sin necesidad de una amnistía\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/alfredo-romero-se-pueden-liberar-a-todos-sin-necesisdad-de-una-amnistia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9347-1-a315a1.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "MARÍA CORINA RECHAZÓ «CÁNTICOS RACISTAS» CONTRA DELCY RODRÍGUEZ TRAS ACTO EN MADRID",
+      "link": "https://noticierodigital.com/2026/04/maria-corina-rechazo-canticos-racistas-contra-delcy-rodriguez-tras-acto-en-madrid/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/maria-corina-machado-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/hgr6spixcaaog7q_181-13143256_20260419101418-699x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-19T19:41:32.132Z"
+  "lastUpdate": "2026-04-19T20:38:33.804Z"
 }
