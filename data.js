@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "651,61"
+      "usdt": "652,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Calixto Ortega: relaciones con el FMI no responden a ningún plan de financiamiento",
-      "link": "https://noticiasvenevision.com/noticias/politica/calixto-ortega-relaciones-con-el-fmi-no-responden-a-ningun-plan-de-financiamiento",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/calixto-ortega-sanchez-2011-004fb4.jpg"
+      "title": "Definen hoja de ruta para la “Gran Peregrinación” en rechazo a las sanciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/definen-hoja-de-ruta-para-la-gran-peregrinacion-en-rechazo-a-las-sanciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/f6d67f358cd438f20e121e246d0aa54a-a8d067.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Baqer-Qalibaf-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-19T02:43:35.477Z"
+  "lastUpdate": "2026-04-19T05:29:42.691Z"
 };
