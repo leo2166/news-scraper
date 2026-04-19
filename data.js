@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "653,50"
+      "usdt": "652,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Mohammad-Baqer-Qalibaf-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-19T09:48:31.661Z"
+  "lastUpdate": "2026-04-19T10:39:39.111Z"
 };
