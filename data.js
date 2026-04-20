@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "651,61"
+      "usdt": "652,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Migrantes condicionan su regreso a Venezuela a una serie de mejoras económicas y sociales\nMUNDO",
-      "link": "https://www.elnacional.com/2026/04/migrantes-condicionan-su-regreso-a-venezuela-a-una-serie-de-mejoras-economicas-y-sociales/",
+      "title": "Machado confía en que España acompañe en el futuro la causa democrática en Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/machado-confia-en-que-espana-acompane-en-el-futuro-la-causa-democratica-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Nuevas amenazas sacuden el alto el fuego de Irán",
-      "link": "https://cnnespanol.cnn.com/2026/04/20/eeuu/analisis-amenazas-alto-fuego-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petroleros-anclados-estrecho-ormuz.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán promete represalias por la incautación de buque en el Golfo de Omán",
+      "link": "https://cnnespanol.cnn.com/2026/04/20/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petrolero-20260420103806325.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pakistán busca destrabar las negociaciones entre EE.UU. e Irán",
-      "link": "https://diarioversionfinal.com/mundo/pakistan-busca-destrabar-las-negociaciones-entre-ee-uu-e-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-7.04.19-PM-750x430.jpeg"
+      "title": "Feijóo defiende la coherencia de María Corina Machado frente a Pedro Sánchez",
+      "link": "https://diarioversionfinal.com/mundo/feijoo-defiende-la-coherencia-de-maria-corina-machado-frente-a-pedro-sanchez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WX76lpir-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-20T08:08:18.183Z"
+  "lastUpdate": "2026-04-20T10:48:41.650Z"
 };
