@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,58"
     },
     "binance": {
-      "usdt": "664,80"
+      "usdt": "663,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez encabeza inicio de la \"Gran Peregrinación Nacional\" en el estado Zulia",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-encabeza-inicio-de-la-gran-peregrinacion-nacional-en-el-estado-zulia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rodrguez-48f96a.png"
+      "title": "Ministerio Público y ONU exploran cooperación para fortalecer la justicia",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-publico-y-onu-exploran-cooperacion-para-fortalecer-la-justicia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/esnoticia-el-fiscal-general-de-la-repblica-larry-devoe-mrquez-sostuvo-este-lunes-una-reu-5291a5.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE RODRÍGUEZ INSTÓ A LA OPOSICIÓN A «PASAR LA PÁGINA» PARA SUPERAR DIFERENCIAS",
-      "link": "https://noticierodigital.com/2026/04/jorge-rodriguez-insto-a-la-oposicion-a-pasar-la-pagina-para-superar-diferencias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/jorge-rodriguez-627x376.jpg"
+      "title": "VENEZUELA ENTREGÓ A LA JUSTICIA PANAMEÑA AL PRESUNTO TERRORISTA ALI ZAKI HAGE JALIL",
+      "link": "https://noticierodigital.com/2026/04/venezuela-entrego-a-la-justicia-panamena-al-presunto-terrorista-ali-zaki-hage-jalil/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Ali-Zaki-Hage-Jalil-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "VIDEO | Turista murió en medio de balacera en una pirámide de Teotihuacán, México",
-      "link": "https://www.noticiascaracol.com/mundo/video-turista-murio-en-medio-de-balacera-en-una-piramide-de-teotihuacan-mexico-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6916f1b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F24%2Ff5%2F69161b1048f08d701a28b3e6336c%2Fexcentricidades-25.jpg"
+      "title": "Hombre que atacó a trabajadores de ‘Sin senos sí hay paraíso’ tuvo incidente un día antes: alcalde",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/hombre-que-ataco-a-trabajadores-de-sin-senos-si-hay-paraiso-tuvo-incidente-un-dia-antes-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/83768ed/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F42%2F9f%2Fa2513b39409a8292ab6c953c62d4%2Fcaso-sin-snos.jpg"
     },
     {
       "source": "La Verdad",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-20T22:43:10.443Z"
+  "lastUpdate": "2026-04-20T23:42:28.394Z"
 };
