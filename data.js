@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "652,00"
+      "usdt": "648,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán promete represalias por la incautación de buque en el Golfo de Omán",
+      "title": "Irán promete represalias por la incautación de buque en el golfo de Omán",
       "link": "https://cnnespanol.cnn.com/2026/04/20/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/petrolero-20260420103806325.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "La Selección Colombia ganó el título del Sudamericano Sub-17; goleada 4-0 sobre Argentina",
-      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/la-seleccion-colombia-gano-el-titulo-del-sudamericano-sub-17-goleada-4-0-sobre-argentina-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0f7222a/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F23%2F44%2F81f5869b4778b9b17c39811be1f4%2Fdiseno-sin-titulo-2026-04-19t190921-037.jpg"
+      "title": "Terremoto en Japón de magnitud 7.5 tiene en alerta de tsunami con olas de 3 metros",
+      "link": "https://www.noticiascaracol.com/mundo/terremoto-en-japon-de-magnitud-7-5-tienen-en-alerta-de-tsunami-con-olas-de-3-metros-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5a2f10b/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F58%2F46%2Ffc53de7e4fbc971f750fc355ffcb%2Fterremoto-japon.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Feijóo defiende la coherencia de María Corina Machado frente a Pedro Sánchez",
-      "link": "https://diarioversionfinal.com/mundo/feijoo-defiende-la-coherencia-de-maria-corina-machado-frente-a-pedro-sanchez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WX76lpir-image-750x430.jpg"
+      "title": "A 48 horas de acabar el alto al fuego Islamabad está lista para el diálogo entre Irán y EEUU",
+      "link": "https://diarioversionfinal.com/mundo/a-48-horas-de-acabar-el-alto-al-fuego-islamabad-esta-lista-para-el-dialogo-entre-iran-y-eeuu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/E7DSV6Ey-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-20T10:48:41.650Z"
+  "lastUpdate": "2026-04-20T12:04:44.496Z"
 };
