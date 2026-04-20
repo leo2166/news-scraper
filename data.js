@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "658,00"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "American Airlines sacó a la venta los pasajes para restablecer la ruta Miami-Caracas tras seis años",
-      "link": "https://www.infobae.com/venezuela/2026/04/19/american-airlines-saco-a-la-venta-los-pasajes-para-restablecer-la-ruta-miami-caracas-tras-seis-anos/",
-      "image": "https://www.infobae.com/resizer/v2/SC673EHYBNANXALPPHOBHMVDFQ.jpg?auth=e9af9b59ab54e225e256471d467cdf8c25e92c7eecb311b252d4d622503d9f3d&smart=true&width=350&height=197&quality=85"
+      "title": "A oscuras y sin agua: los venezolanos sufren el colapso de los servicios públicos",
+      "link": "https://www.infobae.com/venezuela/2026/04/20/a-oscuras-y-sin-agua-los-venezolanos-sufren-el-colapso-de-los-servicios-publicos/",
+      "image": "https://www.infobae.com/resizer/v2/TUFCS3GKIXQFS6GIG6GBQULXTM.jpg?auth=83f49a99e2a401e400625810feb99635018f5be815a9bea43574819091f97691&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FCU-UCV RECHAZÓ REUNIRSE CON MINISTRA SANJUÁN POR INVITACIÓN «INFORMAL»",
-      "link": "https://noticierodigital.com/2026/04/fcu-ucv-rechazo-reunirse-con-ministra-sanjuan-por-invitacion-informal/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/FCU_UCV_MiguelangelSuarez-627x376.jpg"
+      "title": "ANDREÍNA BADUEL DENUNCIA SUSPENSIÓN DE VISITAS A SU HERMANO JOSNARS EN EL RODEO I",
+      "link": "https://noticierodigital.com/2026/04/andreina-baduel-denuncia-suspension-de-visitas-a-su-hermano-josnars-en-el-rodeo-i/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/andreina-baduel-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Japón retira la alerta por tsunami tras el terremoto de 7,7 con al menos 1 herido",
-      "link": "https://laverdad.com/japon-retira-la-alerta-por-tsunami-tras-el-terremoto-de-77-con-al-menos-1-herido/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Alerta-de-tsunami-Japon.jpg"
+      "title": "Tumba de Francisco en Roma sigue atrayendo a sus devotos un año después de su muerte",
+      "link": "https://laverdad.com/tumba-de-francisco-en-roma-sigue-atrayendo-a-sus-devotos-un-ano-despues-de-su-muerte/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Tumba-del-papa-Francisco.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Negociaciones entre Israel y Líbano continúan este jueves en Washington",
-      "link": "https://diarioversionfinal.com/mundo/negociaciones-entre-israel-y-libano-continuan-este-jueves-en-washington/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Israel-y-el-Libano-750x375-1.jpg"
+      "title": "La Habana confirma haber celebrado reciente reunión en Cuba con representantes de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/la-habana-confirma-haber-celebrado-reciente-reunion-en-cuba-con-representantes-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Cuba-20-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-20T17:57:58.611Z"
+  "lastUpdate": "2026-04-20T19:17:24.355Z"
 };
