@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "663,00"
+      "usdt": "663,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -37,6 +37,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rodrguez-48f96a.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "OVP REPORTÓ LA MUERTE DE DOS RECLUSOS POR COMPLICACIONES MÉDICAS EN EL RODEO",
+      "link": "https://noticierodigital.com/2026/04/ovp-reporto-la-muerte-de-dos-reclusos-por-complicaciones-medicas-en-el-rodeo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/el-rodeo-carcel-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "VIDEO | Turista murió en medio de balacera en una pirámide de Teotihuacán, México",
       "link": "https://www.noticiascaracol.com/mundo/video-turista-murio-en-medio-de-balacera-en-una-piramide-de-teotihuacan-mexico-rg10",
@@ -50,10 +56,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "MCM sostiene encuentro con José María Aznar y reafirma compromiso con la “libertad de Venezuela”",
-      "link": "https://diarioversionfinal.com/mundo/mcm-sostiene-encuentro-con-jose-maria-aznar-y-reafirma-compromiso-con-la-libertad-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/mcm-espana.jpg"
+      "title": "Hombre protagoniza tiroteo en pirámides de Teotihuacán: mata a mujer canadiense y luego se suicida",
+      "link": "https://diarioversionfinal.com/mundo/hombre-protagoniza-tiroteo-en-piramides-de-teotihuacan-mata-a-mujer-canadiense-y-luego-se-suicida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Piramide-Teotihuacan-20-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-20T20:47:55.160Z"
+  "lastUpdate": "2026-04-20T21:48:33.521Z"
 }
