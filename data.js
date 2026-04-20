@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "649,00"
+      "usdt": "658,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Machado tilda de agresivas declaraciones de Albares y justifica su negativa a reunirse con Pedro Sánchez\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/machado-tilda-de-agresiones-declaraciones-de-albares/",
+      "title": "Transparencia Venezuela exige la derogación del marco legal restrictivo en el país\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/transparencia-venezuela-exige-la-derogacion-del-marco-legal-restrictivo-en-el-pais/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
@@ -32,21 +32,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de Venezuela en España denuncia discurso de odio de Carlos Baute",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-venezuela-en-espana-denuncia-discurso-de-odio-de-carlos-baute",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/consulado-1024x768-867903.jpg"
+      "title": "Delcy Rodríguez encabeza inicio de la \"Gran Peregrinación Nacional\" en el estado Zulia",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-encabeza-inicio-de-la-gran-peregrinacion-nacional-en-el-estado-zulia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rodrguez-48f96a.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PÉREZ VIVAS: EE. UU. «DEBE PRESIONAR» PARA ELECCIONES EN 2026",
-      "link": "https://noticierodigital.com/2026/04/perez-vivas-ee-uu-debe-presionar-para-elecciones-en-2026/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/cesar-perez-vivas-1-627x376.jpg"
+      "title": "FCU-UCV RECHAZÓ REUNIRSE CON MINISTRA SANJUÁN POR INVITACIÓN «INFORMAL»",
+      "link": "https://noticierodigital.com/2026/04/fcu-ucv-rechazo-reunirse-con-ministra-sanjuan-por-invitacion-informal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/FCU_UCV_MiguelangelSuarez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Foro Negocios Ditu y Caracol Televisión: Panorama económico y propuestas para el futuro de Colombia",
-      "link": "https://www.noticiascaracol.com/economia/foro-panorama-economico-y-propuestas-para-el-futuro-de-colombia-organizado-por-negocios-ditu-y-caracol-television-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1769dfd/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6c%2F43%2F2dad2007d1daae3bb1709a3a4b26%2Fmaxresdefault-live.jpg"
+      "title": "¿Hubo riesgo de choque entre dos aviones al intentar aterrizar en El Dorado? Aerocivil explicó",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/hubo-riesgo-de-choque-de-dos-aviones-al-intentar-aterrizar-en-el-dorado-aerocivil-explico-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/71f1552/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2Feb%2F489723364874843772b32a7f945e%2Faeropuerto-el-dorado.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "JD Vance viaja a Islamabad para negociar con Irán, pese a rechazo de Teherán",
-      "link": "https://diarioversionfinal.com/mundo/jd-vance-viaja-a-islamabad-para-negociar-con-iran-pese-a-rechazo-de-teheran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/jd-vance-750x430.webp"
+      "title": "Negociaciones entre Israel y Líbano continúan este jueves en Washington",
+      "link": "https://diarioversionfinal.com/mundo/negociaciones-entre-israel-y-libano-continuan-este-jueves-en-washington/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Israel-y-el-Libano-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-04-20T16:09:48.773Z"
+  "lastUpdate": "2026-04-20T17:57:58.611Z"
 };
