@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "663,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "A oscuras y sin agua: los venezolanos sufren el colapso de los servicios públicos",
-      "link": "https://www.infobae.com/venezuela/2026/04/20/a-oscuras-y-sin-agua-los-venezolanos-sufren-el-colapso-de-los-servicios-publicos/",
-      "image": "https://www.infobae.com/resizer/v2/TUFCS3GKIXQFS6GIG6GBQULXTM.jpg?auth=83f49a99e2a401e400625810feb99635018f5be815a9bea43574819091f97691&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez va por la toma del Poder Judicial en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/20/delcy-rodriguez-va-por-la-toma-del-poder-judicial-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/ZCCSUWBJZ5CSLHKNE7Y7OMIF3A.jpg?auth=3ed007c288947e3cbb671a99df811b17b74ae2589d74e605898b93f590ea8174&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -37,16 +37,10 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rodrguez-48f96a.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "ANDREÍNA BADUEL DENUNCIA SUSPENSIÓN DE VISITAS A SU HERMANO JOSNARS EN EL RODEO I",
-      "link": "https://noticierodigital.com/2026/04/andreina-baduel-denuncia-suspension-de-visitas-a-su-hermano-josnars-en-el-rodeo-i/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/andreina-baduel-1-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "¿Hubo riesgo de choque entre dos aviones al intentar aterrizar en El Dorado? Aerocivil explicó",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/hubo-riesgo-de-choque-de-dos-aviones-al-intentar-aterrizar-en-el-dorado-aerocivil-explico-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/71f1552/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2Feb%2F489723364874843772b32a7f945e%2Faeropuerto-el-dorado.jpg"
+      "title": "VIDEO | Turista murió en medio de balacera en una pirámide de Teotihuacán, México",
+      "link": "https://www.noticiascaracol.com/mundo/video-turista-murio-en-medio-de-balacera-en-una-piramide-de-teotihuacan-mexico-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6916f1b/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F24%2Ff5%2F69161b1048f08d701a28b3e6336c%2Fexcentricidades-25.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Habana confirma haber celebrado reciente reunión en Cuba con representantes de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/la-habana-confirma-haber-celebrado-reciente-reunion-en-cuba-con-representantes-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Cuba-20-04-2026-750x430.jpg"
+      "title": "MCM sostiene encuentro con José María Aznar y reafirma compromiso con la “libertad de Venezuela”",
+      "link": "https://diarioversionfinal.com/mundo/mcm-sostiene-encuentro-con-jose-maria-aznar-y-reafirma-compromiso-con-la-libertad-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/mcm-espana.jpg"
     }
   ],
-  "lastUpdate": "2026-04-20T19:17:24.355Z"
+  "lastUpdate": "2026-04-20T20:47:55.160Z"
 }
