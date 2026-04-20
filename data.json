@@ -5,7 +5,7 @@
       "eur": "568,52"
     },
     "binance": {
-      "usdt": "650,00"
+      "usdt": "651,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,7 +26,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. incautó un barco con bandera iraní en el golfo de Omán, según Trump",
+      "title": "Irán promete represalias tras incautación por parte de EE.UU. de un barco",
       "link": "https://cnnespanol.cnn.com/2026/04/19/mundo/live-news/guerra-ee-uu-israel-iran-ataques-vivo-4-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/9561132-20260420002446078.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -35,6 +35,12 @@
       "title": "Embajada de Venezuela en España denuncia discurso de odio de Carlos Baute",
       "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-venezuela-en-espana-denuncia-discurso-de-odio-de-carlos-baute",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/consulado-1024x768-867903.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "MARÍA CORINA RECHAZÓ «CÁNTICOS RACISTAS» CONTRA DELCY RODRÍGUEZ TRAS ACTO EN MADRID",
+      "link": "https://noticierodigital.com/2026/04/maria-corina-rechazo-canticos-racistas-contra-delcy-rodriguez-tras-acto-en-madrid/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/maria-corina-machado-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +61,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-19-at-7.04.19-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-20T02:44:26.297Z"
+  "lastUpdate": "2026-04-20T05:42:03.258Z"
 }
