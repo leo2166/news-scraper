@@ -50,9 +50,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. ataca una nueva “narcolancha” en el Caribe y deja 3 muertos",
-      "link": "https://laverdad.com/ee-uu-ataca-una-nueva-narcolancha-en-el-caribe-y-deja-3-muertos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Japón retira la alerta por tsunami tras el terremoto de 7,7 con al menos 1 herido",
+      "link": "https://laverdad.com/japon-retira-la-alerta-por-tsunami-tras-el-terremoto-de-77-con-al-menos-1-herido/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Alerta-de-tsunami-Japon.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/jd-vance-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-20T14:51:10.692Z"
+  "lastUpdate": "2026-04-20T16:09:48.773Z"
 };
