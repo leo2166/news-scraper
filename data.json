@@ -5,7 +5,7 @@
       "eur": "567,58"
     },
     "binance": {
-      "usdt": "655,61"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Otorgaron la libertad condicional al ex alcalde opositor venezolano Rafael Ramírez",
-      "link": "https://www.infobae.com/venezuela/2026/04/21/otorgaron-la-libertad-condicional-al-ex-alcalde-opositor-venezolano-rafael-ramirez/",
-      "image": "https://www.infobae.com/resizer/v2/BIUD6R4DLBB6DGKUAK6KZKQEMY.jpg?auth=f3925dd5e6d342217897996c36531f2f524b7cbc28fbd1b349b9f0cbd82143d4&smart=true&width=350&height=197&quality=85"
+      "title": "Las nueve leyes que deben ser derogadas para una transición democrática en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/21/las-nueve-leyes-que-deben-ser-derogadas-para-una-transicion-democratica-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/LCD5CXUZBZGTPPLITDQFAOY6DQ.JPG?auth=e8c0351abdc9ad4241b668b0b4d767fefc34664986d4dac87f24c01281633736&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MARÍA CORINA MACHADO: «UN CRONOGRAMA ELECTORAL CON UNA FECHA ES LA GARANTÍA DE LA PAZ»",
-      "link": "https://noticierodigital.com/2026/04/maria-corina-machado-un-cronograma-electoral-con-una-fecha-es-la-garantia-de-la-paz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-7-627x376.png"
+      "title": "JOHEL ORTA RECHAZÓ SILENCIO OPOSITOR TRAS ATAQUE RACISTA CONTRA DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/04/johel-orta-rechazo-silencio-opositor-tras-ataque-racista-contra-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/johel-orta-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Venezolana mata de una puñalada a su pareja y se da a la fuga en Chile",
-      "link": "https://laverdad.com/venezolana-mata-de-una-punalada-a-su-pareja-y-se-da-a-la-fuga-en-chile/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/venezolana-asesina.jpg"
+      "title": "Tribunal dominicano aplaza audiencia contra propietarios de Jet Set",
+      "link": "https://laverdad.com/tribunal-dominicano-aplaza-audiencia-contra-propietarios-de-jet-set/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Hermanos-Espaillat-juicio-Jet-Set.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bachelet y Grossi presentan sus candidaturas para liderar la ONU",
-      "link": "https://diarioversionfinal.com/mundo/bachelet-y-grossi-presentan-sus-candidaturas-para-liderar-la-onu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
+      "title": "JD Vance aplaza su viaje a Pakistán en medio de tensiones con Irán",
+      "link": "https://diarioversionfinal.com/mundo/jd-vance-aplaza-su-viaje-a-pakistan-en-medio-de-tensiones-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/jd_vance_ap-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-21T15:13:44.713Z"
+  "lastUpdate": "2026-04-21T17:02:34.045Z"
 }
