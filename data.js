@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,71"
     },
     "binance": {
-      "usdt": "660,50"
+      "usdt": "658,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Al menos cinco reclusos murieron en un motín en una cárcel en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/21/al-menos-cinco-reclusos-murieron-en-un-motin-en-una-carcel-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/CNTY2LRNQZCUBIDHCBHJNNAZN4.jpg?auth=a77f02cdb711fb52b347b333180a4f19dd87832c6b9edde5a8146d5bc5e26338&smart=true&width=350&height=197&quality=85"
+      "title": "Amnistía Internacional denunció que el régimen venezolano mantiene intacta su maquinaria represiva pese a la excarcelación de presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/04/21/amnistia-internacional-denuncio-que-el-regimen-venezolano-mantiene-intacta-su-maquinaria-represiva-pese-a-la-excarcelacion-de-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/DCIUF4XVR5BONKQTVSXTZYWVPQ.jpg?auth=fada4462ab8fe27e5b4ea6c828cece36e89b85d066957797fdb2163c51779cbe&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE RODRÍGUEZ REPUDIÓ CÁNTICOS RACISTAS CONTRA DELCY RODRÍGUEZ EN MADRID",
-      "link": "https://noticierodigital.com/2026/04/jorge-rodriguez-repudio-canticos-racistas-contra-delcy-rodriguez-en-madrid/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/jorge-rodriguez-an-627x376.jpg"
+      "title": "DARWIN GONZÁLEZ ASUMIÓ UNA POSTURA INDEPENDIENTE TRAS SEPARARSE DE FUERZA VECINAL",
+      "link": "https://noticierodigital.com/2026/04/darwin-gonzalez-asumio-una-postura-independiente-tras-separarse-de-fuerza-vecinal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/06/darwingonzalez_coronavirus_25jun2020_.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/01/BACHELET-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-21T21:46:19.777Z"
+  "lastUpdate": "2026-04-21T22:38:43.347Z"
 };
