@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Un acuerdo para poner fin a la guerra parecía cerca, hasta que Trump habló",
-      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/acuerdo-fin-guerra-iran-trump-redes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108712459309-20260420205053573-20260421063620815.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Vance partirá hacia Pakistán para conversaciones de paz",
+      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vance-20260421101612251.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -61,5 +61,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2976-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-21T09:27:16.883Z"
+  "lastUpdate": "2026-04-21T11:07:07.650Z"
 };
