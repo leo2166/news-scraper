@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,58"
     },
     "binance": {
-      "usdt": "662,00"
+      "usdt": "664,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que es \"poco probable\" extender el alto el fuego con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/04/20/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108712459309-20260420220031758.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "\"Estamos desbordados\": caos y largas filas en regularización de migrantes en España",
+      "link": "https://cnnespanol.cnn.com/2026/04/20/espana/caos-filas-esperanza-inicia-regularizacion-migrantes-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22556079-19738-945-still.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,9 +44,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Hombre que atacó a trabajadores de ‘Sin senos sí hay paraíso’ tuvo incidente un día antes: alcalde",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/hombre-que-ataco-a-trabajadores-de-sin-senos-si-hay-paraiso-tuvo-incidente-un-dia-antes-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/83768ed/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F42%2F9f%2Fa2513b39409a8292ab6c953c62d4%2Fcaso-sin-snos.jpg"
+      "title": "Revelan audio de incidente aéreo en El Dorado que obligó a avión a abortar aterrizaje: \"Misma pista\"",
+      "link": "https://www.noticiascaracol.com/colombia/revelan-audio-de-incidente-aereo-en-el-dorado-que-obligo-a-avion-a-abortar-aterrizaje-misma-pista-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/abd2053/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2F99%2F13a0c9ea40f4867c12c9a72389bf%2Faviones.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Netanyahu advirtió que las Fuerzas de Defensa israelíes “no han terminado el trabajo en Irán”",
-      "link": "https://diarioversionfinal.com/mundo/netanyahu-advirtio-que-las-fuerzas-de-defensa-israelies-no-han-terminado-el-trabajo-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
+      "title": "La Armada de EE. UU. interceptó 27 embarcaciones desde el inicio del bloqueo naval a Irán",
+      "link": "https://diarioversionfinal.com/mundo/la-armada-de-ee-uu-intercepto-27-embarcaciones-desde-el-inicio-del-bloqueo-naval-a-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Todo-buque-que-se-acerque-a-Ormuz-sera-tomado-como-objetivo-advierten-Guardianes-de-la-Revolucion-iranies-1-1536x865-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-21T02:38:20.112Z"
+  "lastUpdate": "2026-04-21T05:27:56.726Z"
 };
