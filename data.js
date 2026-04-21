@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,58"
     },
     "binance": {
-      "usdt": "663,61"
+      "usdt": "655,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez va por la toma del Poder Judicial en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/20/delcy-rodriguez-va-por-la-toma-del-poder-judicial-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/ZCCSUWBJZ5CSLHKNE7Y7OMIF3A.jpg?auth=3ed007c288947e3cbb671a99df811b17b74ae2589d74e605898b93f590ea8174&smart=true&width=350&height=197&quality=85"
+      "title": "Otorgaron la libertad condicional al ex alcalde opositor venezolano Rafael Ramírez",
+      "link": "https://www.infobae.com/venezuela/2026/04/21/otorgaron-la-libertad-condicional-al-ex-alcalde-opositor-venezolano-rafael-ramirez/",
+      "image": "https://www.infobae.com/resizer/v2/BIUD6R4DLBB6DGKUAK6KZKQEMY.jpg?auth=f3925dd5e6d342217897996c36531f2f524b7cbc28fbd1b349b9f0cbd82143d4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
-      "title": "AI denuncia crímenes de lesa humanidad \"impunes\" en Venezuela en 2025\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/ai-denuncia-crimenes-de-lesa-humanidad-impunes-en-venezuela-en-2025/",
+      "title": "Extraditan desde Venezuela a terrorista de Hezbolá vinculado a atentado aéreo en Panamá\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/extraditan-de-venezuela-a-panama-a-terrorista-de-hezbola/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "Vance partirá hacia Pakistán para conversaciones de paz",
-      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vance-20260421101612251.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El acuerdo de paz parecía cerca, hasta que Trump comenzó a postear en redes",
+      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/acuerdo-fin-guerra-iran-trump-redes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108712459309-20260420205053573-20260421063620815.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«LOS VENEZOLANOS ASPIRAMOS A RECUPERAR LA CALIDAD DE VIDA»: STALIN GONZÁLEZ",
-      "link": "https://noticierodigital.com/2026/04/los-venezolanos-aspiramos-a-recuperar-la-calidad-de-vida-stalin-gonzalez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/stalingonzalez_-627x376.jpg"
+      "title": "PRIMERA SEMANA DE LA LIGA MAYOR DE BÉISBOL PROFESIONAL ANOTÓ 126 CARRERAS",
+      "link": "https://noticierodigital.com/2026/04/primera-semana-de-la-liga-mayor-de-beisbol-profesional-anoto-126-carreras/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-4-1-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presunto terrorista de Hezbolá fue extraditado desde Venezuela a Panamá",
-      "link": "https://diarioversionfinal.com/mundo/presunto-terrorista-de-hezbola-fue-extraditado-desde-venezuela-a-panama/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2976-750x430.jpeg"
+      "title": "León XIV honra a Francisco en el primer aniversario de su muerte",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-honra-a-francisco-en-el-primer-aniversario-de-su-muerte/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/papa-francisco-y-leon-xiv-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-21T11:07:07.650Z"
+  "lastUpdate": "2026-04-21T13:28:24.362Z"
 };
