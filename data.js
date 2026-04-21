@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,58"
     },
     "binance": {
-      "usdt": "659,00"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Las nueve leyes que deben ser derogadas para una transición democrática en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/21/las-nueve-leyes-que-deben-ser-derogadas-para-una-transicion-democratica-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/LCD5CXUZBZGTPPLITDQFAOY6DQ.JPG?auth=e8c0351abdc9ad4241b668b0b4d767fefc34664986d4dac87f24c01281633736&smart=true&width=350&height=197&quality=85"
+      "title": "Al menos cinco reclusos murieron en un motín en una cárcel en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/21/al-menos-cinco-reclusos-murieron-en-un-motin-en-una-carcel-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/CNTY2LRNQZCUBIDHCBHJNNAZN4.jpg?auth=a77f02cdb711fb52b347b333180a4f19dd87832c6b9edde5a8146d5bc5e26338&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Qué pasó en el tiroteo en Teotihuacán",
-      "link": "https://cnnespanol.cnn.com/2026/04/21/mexico/teotihuacan-tiroteo-que-paso-ataque-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/piramides-mex.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que extenderá el alto el fuego con Irán hasta que concluyan negociaciones",
+      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271663841-20260421124010303-20260421203756550.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional inicia proceso para renovar a los magistrados del TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-inicia-proceso-para-renovar-a-los-magistrados-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
+      "title": "Ministerio para el Servicio Penitenciario confirma cinco fallecidos tras riña en Yare III",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-para-el-servicio-penitenciario-confirma-cinco-fallecidos-tras-rina-en-yare-iii",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/zdjehteq-b6a4ef.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«PEREGRINACIÓN CONTRA SANCIONES SIRVE DE PRECAMPAÑA AL CHAVISMO»: PEDRO PABLO PEÑALOZA",
-      "link": "https://noticierodigital.com/2026/04/peregrinacion-contra-sanciones-sirve-de-precampana-al-chavismo-pedro-pablo-penaloza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/pedropablo-laprimaria.jpg"
+      "title": "BLOOMBERG: ACREEDORES DE VENEZUELA SE REUNIERON CON FUNCIONARIOS DE TRUMP",
+      "link": "https://noticierodigital.com/2026/04/bloomberg-acreedores-de-venezuela-se-reunieron-con-funcionarios-de-trump/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-2-5-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,16 +50,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Tribunal dominicano aplaza audiencia contra propietarios de Jet Set",
-      "link": "https://laverdad.com/tribunal-dominicano-aplaza-audiencia-contra-propietarios-de-jet-set/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Hermanos-Espaillat-juicio-Jet-Set.jpg"
+      "title": "Santa María la Mayor rinde tributo a Francisco en el primer aniversario de su muerte",
+      "link": "https://laverdad.com/santa-maria-la-mayor-rinde-tributo-a-francisco-en-el-primer-aniversario-de-su-muerte/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Misa-Santa-Maria-la-Mayor-un-ano-sin-Francisco.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. impone nuevas sanciones a Irán en medio de incertidumbre por negociaciones",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-impone-nuevas-sanciones-a-iran-en-medio-de-incertidumbre-por-negociaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/departamento-del-tesoro-de-eeuu-3dic2019-750x430.webp"
+      "title": "Bachelet confía en que el mundo esté listo para una mujer al frente de la ONU",
+      "link": "https://diarioversionfinal.com/mundo/bachelet-confia-en-que-el-mundo-este-listo-para-una-mujer-al-frente-de-la-onu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/01/BACHELET-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-21T19:12:58.070Z"
+  "lastUpdate": "2026-04-21T20:53:51.264Z"
 };
