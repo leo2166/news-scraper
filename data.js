@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,58"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "659,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,33 +20,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "El Nacional",
-      "title": "Suspenden visitas en Yare III y alertan sobre falta de información a familiares tras motín\nVENEZUELA",
-      "link": "https://www.elnacional.com/2026/04/suspenden-visitas-en-yare-iii-y-anuncian-investigacion-tras-motin/",
+      "title": "Amnistía Internacional advierte que persisten las violaciones de derechos humanos en Venezuela\nVENEZUELA",
+      "link": "https://www.elnacional.com/2026/04/amnistia-internacional-advierte-que-persisten-las-violaciones-de-derechos-humanos-en-venezuela/",
       "image": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png"
     },
     {
       "source": "CNN en Español",
-      "title": "El acuerdo de paz parecía cerca, hasta que Trump comenzó a postear en redes",
-      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/acuerdo-fin-guerra-iran-trump-redes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vance-20260421101612251.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Qué pasó en el tiroteo en Teotihuacán",
+      "link": "https://cnnespanol.cnn.com/2026/04/21/mexico/teotihuacan-tiroteo-que-paso-ataque-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/piramides-mex.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "OVP denunció el fallecimiento de dos personas privadas de libertad en El Rodeo III y IV",
-      "link": "https://noticiasvenevision.com/noticias/politica/ovp-denuncio-el-fallecimiento-de-dos-personas-privadas-de-libertad-en-el-rodeo-iii-y-iv",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/zdjehteq-41e41b.jpg"
+      "title": "Asamblea Nacional inicia proceso para renovar a los magistrados del TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-inicia-proceso-para-renovar-a-los-magistrados-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_repblica_bolivariana_de_venezuela-1-7240da.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOHEL ORTA RECHAZÓ SILENCIO OPOSITOR TRAS ATAQUE RACISTA CONTRA DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/04/johel-orta-rechazo-silencio-opositor-tras-ataque-racista-contra-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/johel-orta-627x376.jpg"
+      "title": "«PEREGRINACIÓN CONTRA SANCIONES SIRVE DE PRECAMPAÑA AL CHAVISMO»: PEDRO PABLO PEÑALOZA",
+      "link": "https://noticierodigital.com/2026/04/peregrinacion-contra-sanciones-sirve-de-precampana-al-chavismo-pedro-pablo-penaloza/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/pedropablo-laprimaria.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Video | Los momentos de horror que vivieron turistas durante tiroteo en México: \"No te muevas, mamá\"",
-      "link": "https://www.noticiascaracol.com/mundo/video-los-momentos-de-horror-que-vivieron-turistas-durante-tiroteo-en-mexico-no-te-muevas-mama-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6d18360/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2F16%2F0cbabd644ff98e573cd04192707b%2Ftiroteo-en-mexico-1.jpg"
+      "title": "¿Habrá debate entre Iván Cepeda, Paloma Valencia y Abelardo de la Espriella? Lo que se sabe",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/habra-debate-entre-ivan-cepeda-paloma-valencia-y-abelardo-de-la-espriella-lo-que-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2417a07/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F72%2Fb4%2F245699ac4c049a294c6e9997c75a%2Ffotos-discover-2026-04-21t105355-682.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "JD Vance aplaza su viaje a Pakistán en medio de tensiones con Irán",
-      "link": "https://diarioversionfinal.com/mundo/jd-vance-aplaza-su-viaje-a-pakistan-en-medio-de-tensiones-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/jd_vance_ap-750x430.jpg"
+      "title": "EE. UU. impone nuevas sanciones a Irán en medio de incertidumbre por negociaciones",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-impone-nuevas-sanciones-a-iran-en-medio-de-incertidumbre-por-negociaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/departamento-del-tesoro-de-eeuu-3dic2019-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-21T17:02:34.045Z"
+  "lastUpdate": "2026-04-21T19:12:58.070Z"
 };
