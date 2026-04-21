@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,58"
     },
     "binance": {
-      "usdt": "664,00"
+      "usdt": "633,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "\"Estamos desbordados\": caos y largas filas en regularización de migrantes en España",
-      "link": "https://cnnespanol.cnn.com/2026/04/20/espana/caos-filas-esperanza-inicia-regularizacion-migrantes-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22556079-19738-945-still.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Un acuerdo para poner fin a la guerra parecía cerca, hasta que Trump habló",
+      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/acuerdo-fin-guerra-iran-trump-redes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108712459309-20260420205053573-20260421063620815.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Armada de EE. UU. interceptó 27 embarcaciones desde el inicio del bloqueo naval a Irán",
-      "link": "https://diarioversionfinal.com/mundo/la-armada-de-ee-uu-intercepto-27-embarcaciones-desde-el-inicio-del-bloqueo-naval-a-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Todo-buque-que-se-acerque-a-Ormuz-sera-tomado-como-objetivo-advierten-Guardianes-de-la-Revolucion-iranies-1-1536x865-1-750x430.jpg"
+      "title": "Presunto terrorista de Hezbolá fue extraditado desde Venezuela a Panamá",
+      "link": "https://diarioversionfinal.com/mundo/presunto-terrorista-de-hezbola-fue-extraditado-desde-venezuela-a-panama/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_2976-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-21T05:27:56.726Z"
+  "lastUpdate": "2026-04-21T07:51:30.134Z"
 };
