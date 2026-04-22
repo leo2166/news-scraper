@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,71"
     },
     "binance": {
-      "usdt": "657,96"
+      "usdt": "657,78"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Amnistía Internacional denunció que el régimen venezolano mantiene intacta su maquinaria represiva pese a la excarcelación de presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/04/21/amnistia-internacional-denuncio-que-el-regimen-venezolano-mantiene-intacta-su-maquinaria-represiva-pese-a-la-excarcelacion-de-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/DCIUF4XVR5BONKQTVSXTZYWVPQ.jpg?auth=fada4462ab8fe27e5b4ea6c828cece36e89b85d066957797fdb2163c51779cbe&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento venezolano abrió el proceso para renovar magistrados del Tribunal Supremo",
+      "link": "https://www.infobae.com/venezuela/2026/04/22/el-parlamento-venezolano-abrio-el-proceso-para-renovar-magistrados-del-tribunal-supremo/",
+      "image": "https://www.infobae.com/resizer/v2/UW4AYY2T2RGN3HJI6YKL5JIE64.JPG?auth=cbb167d29a451d39109dbd22dd945c53167388ba80c7599d95d3b88cd49e2054&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "El Nacional",
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que extenderá el alto el fuego con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/04/21/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271663841-20260421124010303-20260421203756550.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Por qué Trump extendió su alto el fuego con Irán?",
+      "link": "https://cnnespanol.cnn.com/2026/04/21/eeuu/por-que-trump-extendio-alto-el-fuego-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26108533804366-20260422020113738.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio para el Servicio Penitenciario confirma cinco fallecidos tras riña en Yare III",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-para-el-servicio-penitenciario-confirma-cinco-fallecidos-tras-rina-en-yare-iii",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/zdjehteq-b6a4ef.jpg"
+      "title": "Asamblea Nacional designa Comisión Preliminar para el Comité de Postulaciones Judiciales",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-designa-comision-preliminar-para-el-comite-de-postulaciones-judiciales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hgdznqhwaaav8kh-5aec03.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ANUNCIÓ GESTIONES ANTE EL FMI PARA LIBERAR 5.000 MILLONES DE DÓLARES",
-      "link": "https://noticierodigital.com/2026/04/delcy-rodriguez-anuncio-gestiones-ante-el-fmi-para-liberar-5-000-millones-de-dolares/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-venezuela-p49-627x376.jpg"
+      "title": "PROVEA EXIGIÓ PROFUNDA REFORMA DEL SISTEMA JUDICIAL TRAS SUCESOS EN LA CÁRCEL DE YARE III",
+      "link": "https://noticierodigital.com/2026/04/provea-exigio-profunda-reforma-del-sistema-judicial-tras-sucesos-en-la-carcel-de-yare-iii/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/provea-oscar-murillo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump extiende el alto el fuego con Irán para darle más tiempo a las negociaciones",
-      "link": "https://www.noticiascaracol.com/mundo/trump-extiende-el-alto-el-fuego-con-iran-para-darle-mas-tiempo-a-las-negociaciones-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/89607a5/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2F20%2F38e332074879862562b73ad7d813%2Ftrump.jpg"
+      "title": "Plantón por la muerte de estudiante de Uniminuto: así está la movilidad en la calle 80",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/planton-por-la-muerte-de-estudiante-de-uniminuto-asi-esta-la-movilidad-en-la-calle-80-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/212a95f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb7%2F61%2F61ee2e82406d96a97e46b7b4a797%2Fasesinato-de-fredy-santiago-guzman-en-transmilenio-no-habia-policia-en-la-estacion.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,10 +56,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bachelet confía en que el mundo esté listo para una mujer al frente de la ONU",
-      "link": "https://diarioversionfinal.com/mundo/bachelet-confia-en-que-el-mundo-este-listo-para-una-mujer-al-frente-de-la-onu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/01/BACHELET-750x430.jpeg"
+      "title": "El primer ministro pakistaní agradece a Trump la extensión del alto el fuego con Irán",
+      "link": "https://diarioversionfinal.com/mundo/el-primer-ministro-pakistani-agradece-a-trump-la-extension-del-alto-el-fuego-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Shebaz-Sharif-y-Trump-21-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-21T23:35:14.155Z"
+  "lastUpdate": "2026-04-22T02:36:30.677Z"
 };
