@@ -5,7 +5,7 @@
       "eur": "567,71"
     },
     "binance": {
-      "usdt": "655,50"
+      "usdt": "658,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,7 +14,7 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Salud en terapia intensiva: denuncian que el 90% de los hospitales en Venezuela están desabastecidos",
+      "title": "Salud en terapia intensiva: Denuncian que 90% de los hospitales en Venezuela están desabastecidos",
       "link": "https://www.infobae.com/venezuela/2026/04/22/salud-en-terapia-intensiva-denuncian-que-el-90-de-los-hospitales-en-venezuela-estan-desabastecidos/",
       "image": "https://www.infobae.com/resizer/v2/34N24WAX5ZG2DHWQM2KOOXNHMM.jpg?auth=956a468a51b07f20dbfb2dcb3dc8d305ed386e7f9ccb48236d100541d8476ce2&smart=true&width=350&height=197&quality=85"
     },
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PADRINO LÓPEZ PROMETE «HACER JUSTICIA SOCIAL» EN EL CAMPO",
-      "link": "https://noticierodigital.com/2026/04/padrino-lopez-promete-hacer-justicia-social-en-el-campo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/vladimir-padrino-lopez-venezuela-fanb-627x376.jpg"
+      "title": "LASER AIRLINES ANUNCIA VUELOS DIRECTOS A MIAMI A TRAVÉS DE GLOBAL X",
+      "link": "https://noticierodigital.com/2026/04/laser-airlines-anuncia-vuelos-directos-a-miami-a-traves-de-global-x/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/laser-airlines-venezuela-maiquetia-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Presidente Gustavo Petro podría decretar un nuevo aumento del salario mínimo? Expertos responden",
-      "link": "https://www.noticiascaracol.com/economia/presidente-gustavo-petro-podria-decretar-un-nuevo-aumento-del-salario-minimo-expertos-responden-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/86c53bf/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe5%2Fa2%2Fb76bd37347a8888d6045cd05261f%2Fvotacion-2.jpg"
+      "title": "Candidatos presidenciales reaccionan a denuncias de Angie Rodríguez sobre qué pasa en Casa de Nariño",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/candidatos-presidenciales-reaccionan-a-denuncias-de-angie-rodriguez-sobre-que-pasa-en-casa-de-narino-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9434a3b/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3e%2Fef%2Fa4e1093f409893171be8a1fddaa1%2Fangie-rodriguez-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscalía peruana solicita detención preliminar de exjefe del órgano electoral",
-      "link": "https://diarioversionfinal.com/mundo/fiscalia-peruana-solicita-detencion-preliminar-de-exjefe-del-organo-electoral/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/F9746DB72B0CF1CC77ADCF2C9CB2EA0F_1776696536_original-750x430.jpg"
+      "title": "Zapatero cuestiona a María Corina por no reunirse con Pedro Sánchez en España",
+      "link": "https://diarioversionfinal.com/mundo/zapatero-cuestiona-a-maria-corina-por-no-reunirse-con-pedro-sanchez-en-espana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/06/ZAPATERO-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-22T17:02:07.894Z"
+  "lastUpdate": "2026-04-22T19:14:09.468Z"
 }
