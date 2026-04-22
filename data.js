@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,71"
     },
     "binance": {
-      "usdt": "656,00"
+      "usdt": "655,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,27 +14,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "“Es un cuento chino”: activista dice que es falsa la versión oficial sobre el motín carcelario en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/22/es-un-cuento-chino-activista-dice-que-es-falsa-la-version-oficial-sobre-el-motin-carcelario-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/4VDOSCDJXZAI3NHBDFCWNPFJGQ.jpg?auth=f3867808ae8a45cadcedc23a5f74b208e03b2f2d2c9f218b95c7df162953a1ac&smart=true&width=350&height=197&quality=85"
+      "title": "Salud en terapia intensiva: denuncian que el 90% de los hospitales en Venezuela están desabastecidos",
+      "link": "https://www.infobae.com/venezuela/2026/04/22/salud-en-terapia-intensiva-denuncian-que-el-90-de-los-hospitales-en-venezuela-estan-desabastecidos/",
+      "image": "https://www.infobae.com/resizer/v2/34N24WAX5ZG2DHWQM2KOOXNHMM.jpg?auth=956a468a51b07f20dbfb2dcb3dc8d305ed386e7f9ccb48236d100541d8476ce2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Cambio de postura de Trump sobre Irán podría ir más allá de una táctica",
+      "title": "Por qué el cambio de postura de Trump sobre Irán sería más que un simple \"TACO\"",
       "link": "https://cnnespanol.cnn.com/2026/04/22/mundo/ultimo-cambio-trump-iran-taco-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26106526222750-20260422044509871.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional designa Comisión Preliminar para el Comité de Postulaciones Judiciales",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-designa-comision-preliminar-para-el-comite-de-postulaciones-judiciales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hgdznqhwaaav8kh-5aec03.jpg"
+      "title": "Diputado Henrique Capriles reacciona a la crisis en el penal Yare III",
+      "link": "https://noticiasvenevision.com/noticias/politica/diputado-henrique-capriles-reacciona-a-la-crisis-en-el-penal-yare-iii",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/obj_20250519t043018s0006i_1_1_1_39_3_1-14ea1d.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA VENEZOLANA NANCY HAIDAR SE ALZA CON ORO TRAS DOMINAR EL TAEKWONDO EN PANAMÁ",
-      "link": "https://noticierodigital.com/2026/04/la-venezolana-nancy-haidar-se-alza-con-oro-tras-dominar-el-taekwondo-en-panama/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-3-2-627x376.png"
+      "title": "PADRINO LÓPEZ PROMETE «HACER JUSTICIA SOCIAL» EN EL CAMPO",
+      "link": "https://noticierodigital.com/2026/04/padrino-lopez-promete-hacer-justicia-social-en-el-campo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/vladimir-padrino-lopez-venezuela-fanb-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Trump lee la Biblia en medio de la guerra con Irán y tensiones con León XIV",
-      "link": "https://laverdad.com/trump-lee-la-biblia-en-medio-de-la-guerra-con-iran-y-tensiones-con-leon-xiv/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Donald-Trump-6.jpg"
+      "title": "Para Trump existe la posibilidad de retomar el viernes las negociaciones con Irán",
+      "link": "https://laverdad.com/para-trump-existe-la-posibilidad-de-retomar-el-viernes-las-negociaciones-con-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Donald-Trump-5.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Muere segundo casco azul francés tras emboscada en misión de la ONU en Líbano",
-      "link": "https://diarioversionfinal.com/mundo/muere-segundo-casco-azul-frances-tras-emboscada-en-mision-de-la-onu-en-libano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/419a1205-c820-453a-9753-dd5104708680_16-9-discover-aspect-ratio_default_0-750x430.jpg"
+      "title": "Fiscalía peruana solicita detención preliminar de exjefe del órgano electoral",
+      "link": "https://diarioversionfinal.com/mundo/fiscalia-peruana-solicita-detencion-preliminar-de-exjefe-del-organo-electoral/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/F9746DB72B0CF1CC77ADCF2C9CB2EA0F_1776696536_original-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-22T15:13:58.156Z"
+  "lastUpdate": "2026-04-22T17:02:07.894Z"
 };
