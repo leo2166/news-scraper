@@ -5,7 +5,7 @@
       "eur": "567,01"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "659,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué más de 400 pandilleros van a megajuicio por asesinatos en El Salvador",
-      "link": "https://cnnespanol.cnn.com/2026/04/22/latinoamerica/pandilleros-megajuicio-asesinatos-el-salvador-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-21t032619z-894014057-rc25tka8soog-rtrmadp-3-el-salvador-crime.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Caravana migrante sale del sur de México, pero muchos ya no van a EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/04/22/mexico/caravana-migrante-mexico-no-eeuu-ap",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/paraguaymigrantes.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ CONFORMÓ EQUIPO PARA LA REVISIÓN Y PRIORIZACIÓN DE ACTIVOS PÚBLICOS",
-      "link": "https://noticierodigital.com/2026/04/delcy-rodriguez-conformo-equipo-para-la-revision-y-priorizacion-de-activos-publicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-venezuela-8-627x376.jpg"
+      "title": "REPSOL DESCARGÓ BUQUES CON CRUDO VENEZOLANO EN ESPAÑA",
+      "link": "https://noticierodigital.com/2026/04/repsol-descargo-buques-con-crudo-venezolano-en-espana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/repsol-espana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán apresa dos buques en Ormuz y Pakistán activa gestiones para destrabar diálogo",
-      "link": "https://diarioversionfinal.com/mundo/iran-apresa-dos-buques-en-ormuz-y-pakistan-activa-gestiones-para-destrabar-dialogo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_3032-750x430.webp"
+      "title": "Trump no fijó fecha límite para recibir propuesta de Irán, dice la Casa Blanca",
+      "link": "https://diarioversionfinal.com/mundo/trump-no-fijo-fecha-limite-para-recibir-propuesta-de-iran-dice-la-casa-blanca/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/02/white-house-press-secretary-karoline-leavitt-holds-first-daily-press-briefing-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-22T21:51:41.147Z"
+  "lastUpdate": "2026-04-22T22:48:50.721Z"
 }
