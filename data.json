@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "482,76",
-      "eur": "567,71"
+      "usd": "483,34",
+      "eur": "567,01"
     },
     "binance": {
-      "usdt": "658,00"
+      "usdt": "659,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Salud en terapia intensiva: Denuncian que 90% de los hospitales en Venezuela están desabastecidos",
-      "link": "https://www.infobae.com/venezuela/2026/04/22/salud-en-terapia-intensiva-denuncian-que-el-90-de-los-hospitales-en-venezuela-estan-desabastecidos/",
-      "image": "https://www.infobae.com/resizer/v2/34N24WAX5ZG2DHWQM2KOOXNHMM.jpg?auth=956a468a51b07f20dbfb2dcb3dc8d305ed386e7f9ccb48236d100541d8476ce2&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez saca de carrera a “El Potro” de Maduro en medio de un escándalo de corrupción en el hipismo",
+      "link": "https://www.infobae.com/venezuela/2026/04/22/delcy-rodriguez-saca-de-carrera-a-el-potro-de-maduro-en-medio-de-un-escandalo-de-corrupcion-en-el-hipismo/",
+      "image": "https://www.infobae.com/resizer/v2/NMYDDXJGJQR2UDBQYEBYDNMX2I.jpg?auth=716ca6ad5b681e90832b7b5e0eca132b58d8ea2ff9c346d88e8bb0fca988a107&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué el cambio de postura de Trump sobre Irán sería más que un simple \"TACO\"",
-      "link": "https://cnnespanol.cnn.com/2026/04/22/mundo/ultimo-cambio-trump-iran-taco-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26106526222750-20260422044509871.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Por qué más de 400 pandilleros van a megajuicio por asesinatos en El Salvador",
+      "link": "https://cnnespanol.cnn.com/2026/04/22/latinoamerica/pandilleros-megajuicio-asesinatos-el-salvador-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-21t032619z-894014057-rc25tka8soog-rtrmadp-3-el-salvador-crime.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,28 +32,28 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "LASER AIRLINES ANUNCIA VUELOS DIRECTOS A MIAMI A TRAVÉS DE GLOBAL X",
-      "link": "https://noticierodigital.com/2026/04/laser-airlines-anuncia-vuelos-directos-a-miami-a-traves-de-global-x/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/laser-airlines-venezuela-maiquetia-627x376.jpg"
+      "title": "ONG RECLAMAN ELECCIONES COMO RUTA A LA «REINSTITUCIONALIZACIÓN DE VENEZUELA»",
+      "link": "https://noticierodigital.com/2026/04/ong-reclaman-elecciones-como-ruta-a-la-reinstitucionalizacion-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/cne-eleccionespresidenciales-conradoperez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Candidatos presidenciales reaccionan a denuncias de Angie Rodríguez sobre qué pasa en Casa de Nariño",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/candidatos-presidenciales-reaccionan-a-denuncias-de-angie-rodriguez-sobre-que-pasa-en-casa-de-narino-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9434a3b/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3e%2Fef%2Fa4e1093f409893171be8a1fddaa1%2Fangie-rodriguez-1.jpg"
+      "title": "\"Proteja mi vida\": el mensaje de Angie Rodríguez al presidente Gustavo Petro tras revelaciones",
+      "link": "https://www.noticiascaracol.com/politica/proteja-mi-vida-el-mensaje-de-angie-rodriguez-al-presidente-gustavo-petro-tras-revelaciones-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/db2854f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc4%2F50%2Fc454625149a2b1bb9ecf901e1662%2Fangie-rodriguez-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Para Trump existe la posibilidad de retomar el viernes las negociaciones con Irán",
-      "link": "https://laverdad.com/para-trump-existe-la-posibilidad-de-retomar-el-viernes-las-negociaciones-con-iran/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Donald-Trump-5.jpg"
+      "title": "Detienen en Argentina a un colombiano acusado de participar en el asesinato de Uribe Turbay",
+      "link": "https://laverdad.com/detienen-en-argentina-a-un-colombiano-acusado-de-participar-en-el-asesinato-de-uribe-turbay/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/08/Maria-Claudia-Tarazona-Miguel-Uribe-Turbay.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zapatero cuestiona a María Corina por no reunirse con Pedro Sánchez en España",
-      "link": "https://diarioversionfinal.com/mundo/zapatero-cuestiona-a-maria-corina-por-no-reunirse-con-pedro-sanchez-en-espana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/06/ZAPATERO-750x430.jpg"
+      "title": "La Haya abrirá en mayo audiencias por la disputa del Esequibo entre Guyana y Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/la-haya-abrira-en-mayo-audiencias-por-la-disputa-del-esequibo-entre-guyana-y-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1200x675_cmsv2_714d2c4e-2331-5176-84aa-6469d7898dff-8407940-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-22T19:14:09.468Z"
+  "lastUpdate": "2026-04-22T20:55:26.136Z"
 }
