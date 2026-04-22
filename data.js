@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,71"
     },
     "binance": {
-      "usdt": "654,80"
+      "usdt": "656,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El diputado opositor venezolano David Uzcátegui dijo que hay trabajo pendiente para liberar a los presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/04/22/el-diputado-opositor-venezolano-david-uzcategui-dijo-que-hay-trabajo-pendiente-para-liberar-a-los-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/6P7DDCL45JAYTBYZKQB7HL4OHM.jpg?auth=0a51458fa28ba3511be89c3e7f7ef2c6d6063616f9e5838661ce285e84b9d0be&smart=true&width=350&height=197&quality=85"
+      "title": "“Es un cuento chino”: activista dice que es falsa la versión oficial sobre el motín carcelario en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/22/es-un-cuento-chino-activista-dice-que-es-falsa-la-version-oficial-sobre-el-motin-carcelario-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4VDOSCDJXZAI3NHBDFCWNPFJGQ.jpg?auth=f3867808ae8a45cadcedc23a5f74b208e03b2f2d2c9f218b95c7df162953a1ac&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EL 90 % DE LOS HOSPITALES ESTÁ «ABANDONADO», SEGÚN FEDERACIÓN MÉDICA",
-      "link": "https://noticierodigital.com/2026/04/el-90-de-los-hospitales-esta-abandonado-segun-federacion-medica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/douglas-leon-natera-12-abr-2021.jpg"
+      "title": "LA VENEZOLANA NANCY HAIDAR SE ALZA CON ORO TRAS DOMINAR EL TAEKWONDO EN PANAMÁ",
+      "link": "https://noticierodigital.com/2026/04/la-venezolana-nancy-haidar-se-alza-con-oro-tras-dominar-el-taekwondo-en-panama/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-3-2-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Nuevo choque entre Paloma Valencia e Iván Cepeda en el Senado por debates presidenciales",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/nuevo-choque-entre-paloma-valencia-e-ivan-cepeda-en-el-senado-por-debates-presidenciales-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/dbdcae2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5f%2Fec%2Ffe90a4e24db0aaf48b49841b9b15%2Fexcentricidades-28.jpg"
+      "title": "¿Presidente Gustavo Petro podría decretar un nuevo aumento del salario mínimo? Expertos responden",
+      "link": "https://www.noticiascaracol.com/economia/presidente-gustavo-petro-podria-decretar-un-nuevo-aumento-del-salario-minimo-expertos-responden-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/86c53bf/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe5%2Fa2%2Fb76bd37347a8888d6045cd05261f%2Fvotacion-2.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Santa María la Mayor rinde tributo a Francisco en el primer aniversario de su muerte",
-      "link": "https://laverdad.com/santa-maria-la-mayor-rinde-tributo-a-francisco-en-el-primer-aniversario-de-su-muerte/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Misa-Santa-Maria-la-Mayor-un-ano-sin-Francisco.jpg"
+      "title": "Trump lee la Biblia en medio de la guerra con Irán y tensiones con León XIV",
+      "link": "https://laverdad.com/trump-lee-la-biblia-en-medio-de-la-guerra-con-iran-y-tensiones-con-leon-xiv/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Donald-Trump-6.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Acreedores de deuda venezolana se reúnen con funcionarios de Trump para discutir la recuperación del país",
-      "link": "https://diarioversionfinal.com/mundo/acreedores-de-deuda-venezolana-se-reunen-con-funcionarios-de-trump-para-discutir-la-recuperacion-del-pais/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-33.jpg"
+      "title": "Muere segundo casco azul francés tras emboscada en misión de la ONU en Líbano",
+      "link": "https://diarioversionfinal.com/mundo/muere-segundo-casco-azul-frances-tras-emboscada-en-mision-de-la-onu-en-libano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/419a1205-c820-453a-9753-dd5104708680_16-9-discover-aspect-ratio_default_0-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-22T13:28:41.873Z"
+  "lastUpdate": "2026-04-22T15:13:58.156Z"
 };
