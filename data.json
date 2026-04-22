@@ -5,7 +5,7 @@
       "eur": "567,71"
     },
     "binance": {
-      "usdt": "658,10"
+      "usdt": "655,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "¿Por qué Trump extendió su alto el fuego con Irán?",
-      "link": "https://cnnespanol.cnn.com/2026/04/21/eeuu/por-que-trump-extendio-alto-el-fuego-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26108533804366-20260422020113738.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Barcos atacados en el estrecho de Ormuz tras extensión del alto al fuego",
+      "link": "https://cnnespanol.cnn.com/2026/04/22/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-2-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-de-ormuz-20260422105658790.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Onpe-21-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-22T09:21:08.761Z"
+  "lastUpdate": "2026-04-22T11:05:40.687Z"
 }
