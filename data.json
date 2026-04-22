@@ -5,7 +5,7 @@
       "eur": "567,71"
     },
     "binance": {
-      "usdt": "628,10"
+      "usdt": "658,63"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El Parlamento venezolano abrió el proceso para renovar magistrados del Tribunal Supremo",
-      "link": "https://www.infobae.com/venezuela/2026/04/22/el-parlamento-venezolano-abrio-el-proceso-para-renovar-magistrados-del-tribunal-supremo/",
-      "image": "https://www.infobae.com/resizer/v2/UW4AYY2T2RGN3HJI6YKL5JIE64.JPG?auth=cbb167d29a451d39109dbd22dd945c53167388ba80c7599d95d3b88cd49e2054&smart=true&width=350&height=197&quality=85"
+      "title": "Pese a la Ley de Amnistía, Foro Penal cifró en 473 los presos políticos en Venezuela a la espera de su libertad",
+      "link": "https://www.infobae.com/venezuela/2026/04/22/pese-a-la-ley-de-amnistia-foro-penal-cifro-en-473-los-presos-politicos-en-venezuela-a-la-espera-de-su-libertad/",
+      "image": "https://www.infobae.com/resizer/v2/AGEQG7MCVZBYBI7HNL327P2VUY.jpg?auth=b04c3ab4cae03c6cfa139ca2465722dd21950ec96bce5f28c30b4a8444aea8b3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Onpe-21-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-22T05:26:18.900Z"
+  "lastUpdate": "2026-04-22T07:48:37.828Z"
 }
