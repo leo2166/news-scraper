@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "660,61"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que el alto el fuego entre Israel y el Líbano se extendió 3 semanas",
-      "link": "https://cnnespanol.cnn.com/2026/04/23/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260423204328116-20260423204507123-20260423204536019.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Arrestan a militar por presuntamente apostar sobre la captura de Maduro",
+      "link": "https://cnnespanol.cnn.com/2026/04/23/eeuu/arrestan-soldado-apuesta-captura-maduro-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york-20260423224613291.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -31,16 +31,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_675447541_18585774634014700_4811686013226295896_n-941f8f.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "FUERZA VECINAL CONFIRMÓ LA RENUNCIA DEL ALCALDE DARWIN GONZÁLEZ A LA ORGANIZACIÓN",
-      "link": "https://noticierodigital.com/2026/04/fuerza-vecinal-confirmo-la-renuncia-del-alcalde-darwin-gonzalez-a-la-organizacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/gustavo-duque-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Carlos Carrillo responde a los señalamientos de Angie Rodríguez: “Son abiertamente mentirosos”",
-      "link": "https://www.noticiascaracol.com/politica/carlos-carrillo-responde-a-los-senalamientos-de-angie-rodriguez-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f5544c4/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2Fe4%2F2c34b6504ed0bccbf4475fe5eaf7%2Fcarrillo-angie-rodriguez.jpg"
+      "title": "Esta es la lista actualizada en 2026 de lo que sí y lo que no cubren las EPS en Colombia",
+      "link": "https://www.noticiascaracol.com/salud/esta-es-la-lista-actualizada-en-2026-de-lo-que-si-y-lo-que-no-cubren-las-eps-en-colombia-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6522225/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F03%2F1e%2F471e25d04700a09a511f73f30d55%2Fmedicamentos.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +44,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "León XIV subraya que la Iglesia no aprueba bendición formal de parejas homosexuales",
-      "link": "https://diarioversionfinal.com/mundo/leon-xiv-subraya-que-la-iglesia-no-aprueba-bendicion-formal-de-parejas-homosexuales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/papa.jpeg"
+      "title": "EE. UU. auditará la gestión de archivos de Jeffrey Epstein por el Departamento de Justicia",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-auditara-la-gestion-de-archivos-de-jeffrey-epstein-por-el-departamento-de-justicia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2019/08/jeffrey.jpg"
     }
   ],
-  "lastUpdate": "2026-04-23T22:45:01.900Z"
+  "lastUpdate": "2026-04-23T23:46:04.600Z"
 };
