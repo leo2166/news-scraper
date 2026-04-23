@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "483,34",
-      "eur": "567,01"
+      "usd": "483,87",
+      "eur": "566,84"
     },
     "binance": {
-      "usdt": "659,00"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El nuevo encargado de negocios de Estados Unidos en Venezuela llegó a Caracas para impulsar el plan de tres fases de Donald Trump",
-      "link": "https://www.infobae.com/venezuela/2026/04/23/el-nuevo-encargado-de-negocios-de-estados-unidos-en-venezuela-llego-a-caracas-para-impulsar-el-plan-de-tres-fases-de-donald-trump/",
-      "image": "https://www.infobae.com/resizer/v2/EBBZTZFFOFAQBN7FAQMJNQFXPA.PNG?auth=aa47992b0e274fb3e0ecd01f04eed301fc7654e54c11f4bb6a47e8c5d668a380&smart=true&width=350&height=197&quality=85"
+      "title": "Empresarios venezolanos se suman a la “peregrinación” de Delcy Rodríguez",
+      "link": "https://www.infobae.com/venezuela/2026/04/23/empresarios-venezolanos-se-suman-a-la-peregrinacion-de-delcy-rodriguez/",
+      "image": "https://www.infobae.com/resizer/v2/WYWYVODE6FEHRPSYJANIDXRWPU.JPG?auth=31b99cd717ff991b4b5f719ca0c2570b68e334f0a2f2ef6ffd55b63db06d2eb5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "FEDECÁMARAS ABOGA POR UN AJUSTE SALARIAL QUE SEA «SOSTENIBLE EN EL TIEMPO»",
-      "link": "https://noticierodigital.com/2026/04/fedecamaras-aboga-por-un-ajuste-salarial-que-sea-sostenible-en-el-tiempo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Capozzolo_presidenteFedecamaras-627x376.jpg"
+      "title": "WINGO OFRECE BOLETOS ENTRE CARACAS Y COLOMBIA DESDE $104 POR TRAYECTO",
+      "link": "https://noticierodigital.com/2026/04/wingo-ofrece-boletos-entre-caracas-y-colombia-desde-104-por-trayecto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/09/aerolinea-wingo-12sep2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Venezolano mata con arma blanca a su expareja en España y luego se suicida",
-      "link": "https://laverdad.com/venezolano-mata-con-arma-blanca-a-su-expareja-en-espana-y-luego-se-suicida/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/image-2026-04-23T140048.914.jpg"
+      "title": "Trump elogia la labor “excepcional” del secretario de Marina tras abandonar el cargo",
+      "link": "https://laverdad.com/trump-elogia-la-labor-excepcional-del-secretario-de-marina-tras-abandonar-el-cargo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/John-Phelan.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estafadores migratorios en Florida defraudaron más de 20 millones de dólares",
-      "link": "https://diarioversionfinal.com/mundo/estafadores-migratorios-en-florida-defraudaron-mas-de-20-millones-de-dolares/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_23-4-2026_142850_www.infobae.com_-750x430.jpeg"
+      "title": "Trump descarta presión para terminar el conflicto con Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-descarta-presion-para-terminar-el-conflicto-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-23T19:09:04.685Z"
+  "lastUpdate": "2026-04-23T20:53:25.608Z"
 }
