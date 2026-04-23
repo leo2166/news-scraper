@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,01"
     },
     "binance": {
-      "usdt": "660,01"
+      "usdt": "630,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "\"Proteja mi vida\": el mensaje de Angie Rodríguez al presidente Gustavo Petro tras revelaciones",
-      "link": "https://www.noticiascaracol.com/politica/proteja-mi-vida-el-mensaje-de-angie-rodriguez-al-presidente-gustavo-petro-tras-revelaciones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/db2854f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc4%2F50%2Fc454625149a2b1bb9ecf901e1662%2Fangie-rodriguez-2.jpg"
+      "title": "Reportan batalla campal entre hinchas de Nacional y Junior en el centro de Bogotá: hay dos muertos",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/reportan-batalla-campal-entre-hinchas-de-nacional-y-junior-en-el-centro-de-bogota-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/20317b2/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1e%2F1d%2F689bfcad4010b1403c6e90951b97%2Fsenado-3.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolana mató a su pareja en Chile: Hace un año murió el bebé de ambos",
-      "link": "https://diarioversionfinal.com/mundo/venezolana-mato-a-su-pareja-en-chile-hace-un-ano-murio-el-bebe-de-ambos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/photo_5139150286789217244_y-750x430.jpg"
+      "title": "Secretario de Marina de Estados Unidos es destituido tras meses de disputas en el Pentágono",
+      "link": "https://diarioversionfinal.com/mundo/secretario-de-marina-de-estados-unidos-es-destituido-tras-meses-de-disputas-en-el-pentagono/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/17037164-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-23T02:40:26.792Z"
+  "lastUpdate": "2026-04-23T05:30:57.065Z"
 };
