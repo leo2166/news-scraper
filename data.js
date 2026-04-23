@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,01"
     },
     "binance": {
-      "usdt": "659,61"
+      "usdt": "659,45"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Una empresa brasileña apuesta por Venezuela y expande sus operaciones petroleras",
-      "link": "https://www.infobae.com/venezuela/2026/04/23/una-empresa-brasilena-apuesta-por-venezuela-y-expande-sus-operaciones-petroleras/",
-      "image": "https://www.infobae.com/resizer/v2/GN4I6Z5SJJA75KGWAS2FMRNL3Y.JPG?auth=1690fc74ed20948cb793f5deb1a4f117479bbac45ecd958121ab818449bdf9b4&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez encargó un plan para optimizar activos y fortalecer la producción en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/23/delcy-rodriguez-encargo-un-plan-para-optimizar-activos-y-fortalecer-la-produccion-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/JYSWODQJRNFKHISSYEYEGW4A5E.jpg?auth=67c9e6f986a612b65f6f10583b201ab3bb1098e0c73aca749a4a9c8a7de4a505&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué la teoría económica de Trump no tendrá éxito en gasolineras",
-      "link": "https://cnnespanol.cnn.com/2026/04/23/eeuu/analisis-arcana-teoria-economica-equipo-trump-gasolineras-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26091087343089-20260423054325693.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que el régimen iraní está fracturado. La realidad es más compleja",
+      "link": "https://cnnespanol.cnn.com/2026/04/23/mundo/trump-afirma-regimen-irani-fracturado-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271516100-20260423045306198.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/17037164-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-23T09:44:51.883Z"
+  "lastUpdate": "2026-04-23T11:09:54.873Z"
 };
