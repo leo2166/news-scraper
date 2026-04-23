@@ -5,7 +5,7 @@
       "eur": "567,01"
     },
     "binance": {
-      "usdt": "657,12"
+      "usdt": "656,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Las audiencias por la disputa territorial entre Guyana y Venezuela comenzarán el próximo 4 de mayo",
-      "link": "https://www.infobae.com/venezuela/2026/04/23/las-audiencias-por-la-disputa-territorial-entre-guyana-y-venezuela-comenzaran-el-proximo-4-de-mayo/",
-      "image": "https://www.infobae.com/resizer/v2/DUTEUFGLIZA2RCGI3YTDEMNUE4.jpg?auth=18a89fe8ac7a7ba30ea45576c6e144f7bdf3e49594a06b10e2511a75d2de46dd&smart=true&width=350&height=197&quality=85"
+      "title": "12.187: el número que revela el tamaño de la represión chavista en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/23/12187-el-numero-que-revela-el-tamano-de-la-represion-chavista-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/ZR3NJMSMHBGBXDQOCZO2JXTSNQ.jpg?auth=298c8ed939df185c955be95a06b9e528338f00fd6a7d8b1c12acba814d79ef4f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
       "title": "Delcy Rodríguez promete crecimiento en Venezuela, pero tres salarios mínimos caben en un dólar",
       "link": "https://cnnespanol.cnn.com/2026/04/23/venezuela/delcy-rodriguez-inflacion-salario-minimo-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265215428.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petro-delcy.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MERCOSUR EVALUARÁ UN POSIBLE REGRESO DE VENEZUELA TRAS NUEVO PANORAMA POLÍTICO",
-      "link": "https://noticierodigital.com/2026/04/mercosur-evaluara-un-posible-regreso-de-venezuela-tras-nuevo-panorama-politico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/mercosur-18mar2020.jpg"
+      "title": "CONSECOMERCIO PIDE HABILITAR CRÉDITOS CON DÓLARES BANCARIZADOS",
+      "link": "https://noticierodigital.com/2026/04/consecomercio-pide-habilitar-creditos-con-dolares-bancarizados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/pago-en-dolares-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El recorrido de hinchas de Nacional asesinados en Bogotá durante riña con barristas del Junior",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/el-recorrido-de-hinchas-de-nacional-asesinados-en-bogota-durante-rina-con-barristas-del-junior-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/4f7f729/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2F3a%2F0683c5a34c59baef2171d68ac9f3%2Fhinchas-de-nacional.jpg"
+      "title": "UNP responde a Angie Rodríguez por protección a Juliana Guerrero y dice que lo solicitó desde Dapre",
+      "link": "https://www.noticiascaracol.com/colombia/unp-responde-a-angie-rodriguez-por-proteccion-a-juliana-guerrero-y-dice-que-lo-solicito-desde-dapre-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a1ffa1f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe3%2F95%2Ff55d576d4d6d851ae6d20358d9f9%2Fangie-rodriguez-y-juliana-guerrero.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. detiene otro buque con petróleo iraní durante operativo en el Índico",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-detiene-otro-buque-con-petroleo-irani-durante-operativo-en-el-indico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/images-40.jpg"
+      "title": "Fiscalía libera a pareja de barinesa asesinada en Perú",
+      "link": "https://diarioversionfinal.com/mundo/fiscalia-libera-a-pareja-de-barinesa-asesinada-en-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-11.09.29-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-23T13:43:26.225Z"
+  "lastUpdate": "2026-04-23T15:53:43.740Z"
 }
