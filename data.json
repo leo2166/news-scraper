@@ -5,7 +5,7 @@
       "eur": "567,01"
     },
     "binance": {
-      "usdt": "656,70"
+      "usdt": "658,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "12.187: el número que revela el tamaño de la represión chavista en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/23/12187-el-numero-que-revela-el-tamano-de-la-represion-chavista-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/ZR3NJMSMHBGBXDQOCZO2JXTSNQ.jpg?auth=298c8ed939df185c955be95a06b9e528338f00fd6a7d8b1c12acba814d79ef4f&smart=true&width=350&height=197&quality=85"
+      "title": "La CIDH afirmó que 2025 fue el año en que se consolidó un “régimen dictatorial” en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/23/la-cidh-afirmo-que-2025-fue-el-ano-en-que-se-consolido-un-regimen-dictatorial-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/J52WXSC2XRG2JL6WF7SLUFKSVM.jpg?auth=650d3e6bf0cb65e6b3c1129f320b40a19a99d404bee286e66334f408a35997c4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodríguez promete crecimiento en Venezuela, pero tres salarios mínimos caben en un dólar",
-      "link": "https://cnnespanol.cnn.com/2026/04/23/venezuela/delcy-rodriguez-inflacion-salario-minimo-venezuela-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petro-delcy.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Trump amenaza con disparar a los barcos que coloquen minas en el Estrecho",
+      "link": "https://cnnespanol.cnn.com/2026/04/23/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-3-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260423090404385-20260423090421093.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "UNP responde a Angie Rodríguez por protección a Juliana Guerrero y dice que lo solicitó desde Dapre",
-      "link": "https://www.noticiascaracol.com/colombia/unp-responde-a-angie-rodriguez-por-proteccion-a-juliana-guerrero-y-dice-que-lo-solicito-desde-dapre-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a1ffa1f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe3%2F95%2Ff55d576d4d6d851ae6d20358d9f9%2Fangie-rodriguez-y-juliana-guerrero.jpg"
+      "title": "Carlos Carrillo responde a los señalamientos de Angie Rodríguez: “Son abiertamente mentirosos”",
+      "link": "https://www.noticiascaracol.com/politica/carlos-carrillo-responde-a-los-senalamientos-de-angie-rodriguez-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f5544c4/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2Fe4%2F2c34b6504ed0bccbf4475fe5eaf7%2Fcarrillo-angie-rodriguez.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscalía libera a pareja de barinesa asesinada en Perú",
-      "link": "https://diarioversionfinal.com/mundo/fiscalia-libera-a-pareja-de-barinesa-asesinada-en-peru/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-11.09.29-AM.jpeg"
+      "title": "Incendios forestales arrasan el sureste de EE.UU.: más de 50 casas destruidas en Georgia",
+      "link": "https://diarioversionfinal.com/mundo/incendios-forestales-arrasan-el-sureste-de-ee-uu-mas-de-50-casas-destruidas-en-georgia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/incendio-eaton-california-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-23T15:53:43.740Z"
+  "lastUpdate": "2026-04-23T17:21:03.370Z"
 }
