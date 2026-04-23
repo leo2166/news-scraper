@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "661,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Empresarios venezolanos se suman a la “peregrinación” de Delcy Rodríguez",
-      "link": "https://www.infobae.com/venezuela/2026/04/23/empresarios-venezolanos-se-suman-a-la-peregrinacion-de-delcy-rodriguez/",
-      "image": "https://www.infobae.com/resizer/v2/WYWYVODE6FEHRPSYJANIDXRWPU.JPG?auth=31b99cd717ff991b4b5f719ca0c2570b68e334f0a2f2ef6ffd55b63db06d2eb5&smart=true&width=350&height=197&quality=85"
+      "title": "Los desaparecidos en la revolución bolivariana: casos emblemáticos cuyas familias no volvieron a saber de ellos",
+      "link": "https://www.infobae.com/venezuela/2026/04/23/los-desaparecidos-en-la-revolucion-bolivariana-casos-emblematicos-cuyas-familias-no-volvieron-a-saber-de-ellos/",
+      "image": "https://www.infobae.com/resizer/v2/ZN63UDEWTJAENFD6QIWKLHIGLU.png?auth=404ff825728ede8d53b7e43410ab5240fb8f725635b23751709fe8e833da17fc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con disparar a los barcos que coloquen minas en el Estrecho",
+      "title": "Trump dice que el alto el fuego entre Israel y el Líbano se extendió 3 semanas",
       "link": "https://cnnespanol.cnn.com/2026/04/23/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260423090404385-20260423090421093.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260423204328116-20260423204507123-20260423204536019.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "WINGO OFRECE BOLETOS ENTRE CARACAS Y COLOMBIA DESDE $104 POR TRAYECTO",
-      "link": "https://noticierodigital.com/2026/04/wingo-ofrece-boletos-entre-caracas-y-colombia-desde-104-por-trayecto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/09/aerolinea-wingo-12sep2022.jpg"
+      "title": "DELCY RODRÍGUEZ SALUDÓ LA LLEGADA DEL NUEVO ENCARGADO DE NEGOCIOS DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/04/delcy-rodriguez-saludo-la-llegada-del-nuevo-encargado-de-negocios-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-ven-p2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump descarta presión para terminar el conflicto con Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-descarta-presion-para-terminar-el-conflicto-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Trump-1-750x430.jpg"
+      "title": "León XIV subraya que la Iglesia no aprueba bendición formal de parejas homosexuales",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-subraya-que-la-iglesia-no-aprueba-bendicion-formal-de-parejas-homosexuales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/papa.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-23T20:53:25.608Z"
+  "lastUpdate": "2026-04-23T21:46:26.699Z"
 };
