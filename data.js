@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,01"
     },
     "binance": {
-      "usdt": "659,61"
+      "usdt": "660,01"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela aplicó la Ley de Amnistía a 8.616 personas desde su aprobación, según el Parlamento",
-      "link": "https://www.infobae.com/venezuela/2026/04/22/venezuela-aplico-la-ley-de-amnistia-a-8616-personas-desde-su-aprobacion-segun-el-parlamento/",
-      "image": "https://www.infobae.com/resizer/v2/EEFQWGTMO5D4XOKQPJHYHS7FRQ.JPG?auth=2ff3a8024125750d8b22d2e8e068756e2ac575420bc2ca5df884ff278044ab88&smart=true&width=350&height=197&quality=85"
+      "title": "Una empresa brasileña apuesta por Venezuela y expande sus operaciones petroleras",
+      "link": "https://www.infobae.com/venezuela/2026/04/23/una-empresa-brasilena-apuesta-por-venezuela-y-expande-sus-operaciones-petroleras/",
+      "image": "https://www.infobae.com/resizer/v2/GN4I6Z5SJJA75KGWAS2FMRNL3Y.JPG?auth=1690fc74ed20948cb793f5deb1a4f117479bbac45ecd958121ab818449bdf9b4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Instalan Comisión de Evaluación de Activos Públicos",
-      "link": "https://noticiasvenevision.com/noticias/politica/instalan-comision-de-evaluacion-de-activos-publicos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8543-5f39fd.JPG"
+      "title": "Primer ministro de Portugal Luis Montenegro se reunió con María Corina Machado en Lisboa",
+      "link": "https://noticiasvenevision.com/noticias/politica/primer-ministro-de-portugal-luis-montenegro-se-reunio-con-maria-corina-machado-en-lisboa",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/9d1a2db2141322ab5605fbf561f1fc216b9158bdw-b9c86a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EMBAJADOR RAMÓN MANIGLIA PRESENTÓ SUS COPIAS DE ESTILO ANTE EL GOBIERNO DE COLOMBIA",
-      "link": "https://noticierodigital.com/2026/04/embajador-ramon-maniglia-presento-sus-copias-de-estilo-ante-el-gobierno-de-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/ramon-maniglia-Juana-Castro-Santamaria-627x376.jpg"
+      "title": "PJ: «EL DESESPERO EN LAS FAMILIAS SE HA TRANSFORMADO EN PROTESTAS»",
+      "link": "https://noticierodigital.com/2026/04/pj-el-desespero-en-las-familias-se-ha-transformado-en-protestas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/primero-justicia-16dic-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Angie Rodríguez denuncia que le pusieron un espía y revela chats de él presuntamente con Carrillo",
-      "link": "https://www.noticiascaracol.com/politica/angie-rodriguez-denuncia-que-le-pusieron-un-espia-y-revela-chats-de-el-presuntamente-con-carrillo-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c11d881/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F10%2Ff3%2F846db1b44908bb3bb6365f92c2d5%2Fangie-rodriguez-chat.jpg"
+      "title": "\"Proteja mi vida\": el mensaje de Angie Rodríguez al presidente Gustavo Petro tras revelaciones",
+      "link": "https://www.noticiascaracol.com/politica/proteja-mi-vida-el-mensaje-de-angie-rodriguez-al-presidente-gustavo-petro-tras-revelaciones-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/db2854f/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc4%2F50%2Fc454625149a2b1bb9ecf901e1662%2Fangie-rodriguez-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump no fijó fecha límite para recibir propuesta de Irán, dice la Casa Blanca",
-      "link": "https://diarioversionfinal.com/mundo/trump-no-fijo-fecha-limite-para-recibir-propuesta-de-iran-dice-la-casa-blanca/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/02/white-house-press-secretary-karoline-leavitt-holds-first-daily-press-briefing-750x430.webp"
+      "title": "Venezolana mató a su pareja en Chile: Hace un año murió el bebé de ambos",
+      "link": "https://diarioversionfinal.com/mundo/venezolana-mato-a-su-pareja-en-chile-hace-un-ano-murio-el-bebe-de-ambos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/photo_5139150286789217244_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-22T23:46:34.890Z"
+  "lastUpdate": "2026-04-23T02:40:26.792Z"
 };
