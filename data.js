@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "628,70"
+      "usdt": "661,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Corte Internacional de Justicia iniciará las audiencias sobre la disputa por la región de Esequibo entre Guyana y Venezuela del 4 al 11 de mayo",
-      "link": "https://www.infobae.com/venezuela/2026/04/23/la-corte-internacional-de-justicia-iniciara-las-audiencias-sobre-la-disputa-por-la-region-de-esequibo-entre-guyana-y-venezuela-del-4-al-11-de-mayo/",
-      "image": "https://www.infobae.com/resizer/v2/Z4Y7UIMFJJC4LDPSTEX6LQHN2Q.jpg?auth=123c690adbb51b3a584efd351300f52af5744677526e041f9c5b5a4607a6b1b8&smart=true&width=350&height=197&quality=85"
+      "title": "El presidente colombiano Gustavo Petro se reúne con Delcy Rodríguez en Caracas con el foco puesto en seguridad e inteligencia",
+      "link": "https://www.infobae.com/venezuela/2026/04/24/el-presidente-colombiano-gustavo-petro-se-reune-con-delcy-rodriguez-en-caracas-con-el-foco-puesto-en-seguridad-e-inteligencia/",
+      "image": "https://www.infobae.com/resizer/v2/KCJSVYI4CRGELISWUFL7OFKNGI.jpg?auth=0ff18e944e2bb77e0b7097c786191e9e2b0efa5e442e479abf80381b93b88456&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Arrestan a militar por presuntamente apostar sobre la captura de Maduro",
-      "link": "https://cnnespanol.cnn.com/2026/04/23/eeuu/arrestan-soldado-apuesta-captura-maduro-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york-20260423224613291.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Delcy Rodriguez dice que la Ley de Amnistía \"llega a su fin\"",
+      "link": "https://cnnespanol.cnn.com/2026/04/23/venezuela/delcy-rodriguez-fin-ley-amnistia-casos-pendientes-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270759766-20260423232603813.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/ICE-16-07-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-24T05:36:09.195Z"
+  "lastUpdate": "2026-04-24T08:04:43.530Z"
 };
