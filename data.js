@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "659,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SNTP REPORTÓ LA LIBERTAD PLENA DE LA REPORTERA DEYSI PEÑA",
-      "link": "https://noticierodigital.com/2026/04/sntp-reporto-la-libertad-plena-de-la-reportera-deysi-pena/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-10-627x376.jpg"
+      "title": "VENEZUELA Y EE. UU. NEGOCIAN LA INCORPORACIÓN DE OPOSITORES A LA JUNTA DEL BCV",
+      "link": "https://noticierodigital.com/2026/04/venezuela-y-ee-uu-negocian-la-incorporacion-de-opositores-a-la-junta-del-bcv/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/06/bcv_banco_venezuela.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gustavo Petro llega a Venezuela y se reúne, por primera vez, con Delcy Rodríguez",
-      "link": "https://www.noticiascaracol.com/politica/cumbre-de-presidentes-gustavo-petro-y-delcy-rodriguez-en-venezuela-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/db93431/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5b%2Fc8%2F40cd5e9b4959bd48a4b29071dcf4%2Fpetro-reunido-con-delcy.jpg"
+      "title": "Atentado en Cali: video del momento de la explosión de bus escolar cerca a Batallón Pichincha",
+      "link": "https://www.noticiascaracol.com/colombia/atentado-en-cali-video-del-momento-de-la-explosion-de-bus-escolar-cerca-a-batallon-pichincha-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/eb6800d/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe6%2Fdb%2F17f75f2f4f97b64cf9e777e0e564%2Fatentado-en-cali.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/ICE-2-03-12-2025.jpg"
     }
   ],
-  "lastUpdate": "2026-04-24T21:48:38.316Z"
+  "lastUpdate": "2026-04-24T22:39:10.730Z"
 };
