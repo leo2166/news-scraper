@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "659,00"
+      "usdt": "658,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,46 +14,46 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El presidente colombiano Gustavo Petro se reúne con Delcy Rodríguez en Caracas con el foco puesto en seguridad e inteligencia",
-      "link": "https://www.infobae.com/venezuela/2026/04/24/el-presidente-colombiano-gustavo-petro-se-reune-con-delcy-rodriguez-en-caracas-con-el-foco-puesto-en-seguridad-e-inteligencia/",
-      "image": "https://www.infobae.com/resizer/v2/KCJSVYI4CRGELISWUFL7OFKNGI.jpg?auth=0ff18e944e2bb77e0b7097c786191e9e2b0efa5e442e479abf80381b93b88456&smart=true&width=350&height=197&quality=85"
+      "title": "Alerta en Venezuela: califican de arbitraria e inconstitucional la eliminación de la Ley de Amnistía",
+      "link": "https://www.infobae.com/venezuela/2026/04/24/alerta-en-venezuela-califican-de-arbitraria-e-inconstitucional-la-eliminacion-de-la-ley-de-amnistia/",
+      "image": "https://www.infobae.com/resizer/v2/KXJ23NV7X5DGFB3JAAMQSIJADI.jpg?auth=b00bf9ea845a83b76118a403c0aa75a964ae53f057732ea95665440eaac57f0e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Hegseth dice que la disputa por el estrecho de Ormuz es \"mucho más\" de Europa que de EE.UU.",
+      "title": "Trump envía a Witkoff y Kushner a Pakistán para nuevas conversaciones con Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/24/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hegseth-22.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270428086.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y Colombia instalan en Caracas la Comisión de Vecindad con la seguridad fronteriza como eje central",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-colombia-instalan-en-caracas-la-comision-de-vecindad-con-la-seguridad-fronteriza-como-eje-central",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fileblob260423030652-2d4ddb.jpg"
+      "title": "Presidente Petro abordará \"los principales desafíos en la frontera\" con Delcy Rodríguez",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidente-petro-abordara-los-principales-desafios-en-la-frontera-con-delcy-rodriguez",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-y-petro-800x500-f1fc46.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUSTICIA ARGENTINA CITA A DECLARAR A NAHUEL GALLO POR INVESTIGACIÓN SOBRE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/justicia-argentina-cita-a-declarar-a-nahuel-gallo-por-investigacion-sobre-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-10-627x376.png"
+      "title": "DELSA SOLÓRZANO CRITICA FIN DE LEY DE AMNISTÍA: «QUEDAN MÁS DE 500 PRESOS»",
+      "link": "https://noticierodigital.com/2026/04/delsa-solorzano-critica-fin-de-ley-de-amnistia-quedan-mas-de-500-presos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/delsasolorzano-primaria-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Caída de narco invisible: fingía ser empresario, pero era enlace de 'Mordisco' con narcos mexicanos",
-      "link": "https://www.noticiascaracol.com/colombia/caida-de-narco-invisible-fingia-ser-empresario-pero-era-enlace-de-mordisco-con-narcos-mexicanos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/205142d/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F42%2F53%2F5ed591e3424aaa6fd1585442b481%2Ffotos-discover-2026-04-24t080830-931.jpg"
+      "title": "Grande Nairo Quintana; ganó la etapa 2 de la Vuelta a Asturias y dedicatoria a Cristian Muñoz",
+      "link": "https://www.noticiascaracol.com/golcaracol/ciclismo/grande-nairo-quintana-gano-en-solitario-la-etapa-2-de-la-vuelta-a-asturias-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7617a3a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdd%2F65%2F0c6e25624435a8cc8e47b5c9f1cf%2Ftamano-fotos-cms-2026-04-24t101743-824.png"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. acusa a soldado de usar información clasificada sobre captura de Maduro para apostar",
-      "link": "https://laverdad.com/ee-uu-acusa-a-soldado-de-usar-informacion-clasificada-sobre-captura-de-maduro-para-apostar/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Gannon-Ken-Van-Dyke.jpg"
+      "title": "Madre venezolana y su hijo de 2 años mueren en incendio de vivienda en Chile",
+      "link": "https://laverdad.com/madre-venezolana-y-su-hijo-de-2-anos-mueren-en-incendio-de-vivienda-en-chile/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Madre-venezolana-e-hijo-mueren-incendio-Chile.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezuela figura como el segundo país con más solicitudes de asilo en la UE",
-      "link": "https://diarioversionfinal.com/mundo/venezuela-figura-como-el-segundo-pais-con-mas-solicitudes-de-asilo-en-la-ue/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/venezolanos-espanajpg-1024x576-1-750x430.jpg"
+      "title": "Terror en Cúcuta: Ola de violencia sacude la frontera con ocho muertos en 48 horas",
+      "link": "https://diarioversionfinal.com/mundo/terror-en-cucuta-ola-de-violencia-sacude-la-frontera-con-ocho-muertos-en-48-horas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Violencia-en-cucuta-1-1024x599-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-24T15:09:00.357Z"
+  "lastUpdate": "2026-04-24T16:57:45.401Z"
 };
