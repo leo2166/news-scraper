@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "628,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Instalada Comisión para Consulta Nacional sobre la reforma penal",
-      "link": "https://noticiasvenevision.com/noticias/politica/instalada-comision-para-consulta-nacional-sobre-la-reforma-penal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/instalada-comision-para-la-gran-consulta-nacional-sobre-reforma-de-la-justicia-penal2-2d3a41.jpg"
+      "title": "Venezuela y Colombia instalan en Caracas la Comisión de Vecindad con la seguridad fronteriza como eje central",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-colombia-instalan-en-caracas-la-comision-de-vecindad-con-la-seguridad-fronteriza-como-eje-central",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fileblob260423030652-2d4ddb.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esta es la lista actualizada en 2026 de lo que sí y lo que no cubren las EPS en Colombia",
-      "link": "https://www.noticiascaracol.com/salud/esta-es-la-lista-actualizada-en-2026-de-lo-que-si-y-lo-que-no-cubren-las-eps-en-colombia-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6522225/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F03%2F1e%2F471e25d04700a09a511f73f30d55%2Fmedicamentos.jpg"
+      "title": "Ataque armado en Cúcuta deja tres muertos y varios heridos: esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/ataque-armado-en-cucuta-deja-tres-muertos-y-varios-heridos-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0ab3801/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5e%2Ffb%2F2cbca22648538a57470f62b05ede%2Fcucuta.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/ICE-16-07-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-24T02:40:46.382Z"
+  "lastUpdate": "2026-04-24T05:36:09.195Z"
 };
