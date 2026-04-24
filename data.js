@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "659,61"
+      "usdt": "659,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Por qué Trump defendió al soldado acusado de apostar por la caída de Maduro?",
-      "link": "https://cnnespanol.cnn.com/2026/04/24/eeuu/trump-soldado-apuesta-maduro-polymarket-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-polymarket-ap26113711415286.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cuántos detenidos políticos permanecen en prisión tras el “fin de la Ley de Amnistía”",
+      "link": "https://cnnespanol.cnn.com/2026/04/24/venezuela/fin-ley-amnistia-detenidos-politicos-prision-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271492547.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Constitucionalista Mariana Campos: \"La transparencia y la titularidad de los jueces son claves para la reforma judicial en Venezuela\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/constitucionalista-mariana-campos-la-transparencia-y-la-titularidad-de-los-jueces-son-claves-para-la-reforma-judicial-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ab3b7be4-8285-454b-b80c-be79e02be52e-68ef63.jpg"
+      "title": "Venezuela y Colombia sellan alianza estratégica en materia de comercio, energía y seguridad",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-colombia-sellan-alianza-estrategica-en-materia-de-comercio-energia-y-seguridad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l8531-2048x1484-50869e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA Y EE. UU. NEGOCIAN LA INCORPORACIÓN DE OPOSITORES A LA JUNTA DEL BCV",
-      "link": "https://noticierodigital.com/2026/04/venezuela-y-ee-uu-negocian-la-incorporacion-de-opositores-a-la-junta-del-bcv/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/06/bcv_banco_venezuela.jpg"
+      "title": "GOBIERNO DESMINTIÓ LA INCLUSIÓN DE OPOSITORES EN LA DIRECTIVA DEL BCV",
+      "link": "https://noticierodigital.com/2026/04/gobierno-desmintio-la-inclusion-de-opositores-en-la-directiva-del-bcv/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/palacio-miraflores-caracas-11mar2022.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Miami encabeza los arrestos migratorios de ICE durante el segundo mandato de Trump",
-      "link": "https://diarioversionfinal.com/mundo/miami-encabeza-los-arrestos-migratorios-de-ice-durante-el-segundo-mandato-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/ICE-2-03-12-2025.jpg"
+      "title": "EE.UU. evalúa restablecer el pelotón de fusilamiento en ejecuciones federales",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-evalua-restablecer-el-peloton-de-fusilamiento-en-ejecuciones-federales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1065732287-FF-PRESO-PENA-MUERTE-KITTIRAT-ROEKBURI-WEB-SHUTTERSTOCK-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-24T22:39:10.730Z"
+  "lastUpdate": "2026-04-24T23:39:34.806Z"
 };
