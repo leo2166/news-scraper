@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "483,87",
-      "eur": "566,84"
+      "usd": "484,74",
+      "eur": "567,40"
     },
     "binance": {
-      "usdt": "658,00"
+      "usdt": "660,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Alerta en Venezuela: califican de arbitraria e inconstitucional la eliminación de la Ley de Amnistía",
-      "link": "https://www.infobae.com/venezuela/2026/04/24/alerta-en-venezuela-califican-de-arbitraria-e-inconstitucional-la-eliminacion-de-la-ley-de-amnistia/",
-      "image": "https://www.infobae.com/resizer/v2/KXJ23NV7X5DGFB3JAAMQSIJADI.jpg?auth=b00bf9ea845a83b76118a403c0aa75a964ae53f057732ea95665440eaac57f0e&smart=true&width=350&height=197&quality=85"
+      "title": "Vuelos directos entre Estados Unidos y Venezuela: la promesa del despegue de los negocios y el turismo",
+      "link": "https://www.infobae.com/venezuela/2026/04/24/vuelos-directos-entre-estados-unidos-y-venezuela-la-promesa-del-despegue-de-los-negocios-y-el-turismo/",
+      "image": "https://www.infobae.com/resizer/v2/B6JHK2QXUBCSDDQWYJZ2OW7YBA.jpeg?auth=670d458ff704c90621c8d491877d2dc4f38e7387f5586951891e966a3f42bc20&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -29,6 +29,12 @@
       "title": "Constitucionalista Mariana Campos: \"La transparencia y la titularidad de los jueces son claves para la reforma judicial en Venezuela\"",
       "link": "https://noticiasvenevision.com/noticias/politica/constitucionalista-mariana-campos-la-transparencia-y-la-titularidad-de-los-jueces-son-claves-para-la-reforma-judicial-en-venezuela",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ab3b7be4-8285-454b-b80c-be79e02be52e-68ef63.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "SNTP REPORTÓ LA LIBERTAD PLENA DE LA REPORTERA DEYSI PEÑA",
+      "link": "https://noticierodigital.com/2026/04/sntp-reporto-la-libertad-plena-de-la-reportera-deysi-pena/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-10-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -49,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/ICE-2-03-12-2025.jpg"
     }
   ],
-  "lastUpdate": "2026-04-24T19:52:27.239Z"
+  "lastUpdate": "2026-04-24T20:50:17.436Z"
 }
