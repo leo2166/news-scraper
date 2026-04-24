@@ -5,7 +5,7 @@
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "658,61"
+      "usdt": "660,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,7 +20,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump envía a Witkoff y Kushner a Pakistán para nuevas conversaciones con Irán",
+      "title": "Trump envía una delegación a Pakistán para nuevas conversaciones con Irán",
       "link": "https://cnnespanol.cnn.com/2026/04/24/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-4-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270428086.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELSA SOLÓRZANO CRITICA FIN DE LEY DE AMNISTÍA: «QUEDAN MÁS DE 500 PRESOS»",
-      "link": "https://noticierodigital.com/2026/04/delsa-solorzano-critica-fin-de-ley-de-amnistia-quedan-mas-de-500-presos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/delsasolorzano-primaria-1-627x376.jpg"
+      "title": "EXCARCELAN CORONEL TACHIRENSE PRESO POR LAS ACTAS DEL 28J",
+      "link": "https://noticierodigital.com/2026/04/excarcelan-coronel-tachirense-preso-por-las-actas-del-28j/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260424-WA0081-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Terror en Cúcuta: Ola de violencia sacude la frontera con ocho muertos en 48 horas",
-      "link": "https://diarioversionfinal.com/mundo/terror-en-cucuta-ola-de-violencia-sacude-la-frontera-con-ocho-muertos-en-48-horas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Violencia-en-cucuta-1-1024x599-1-750x430.webp"
+      "title": "Muere venezolano tras sufrir un infarto durante control policial en Florida",
+      "link": "https://diarioversionfinal.com/mundo/muere-venezolano-tras-sufrir-un-infarto-durante-control-policial-en-florida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/TJ0K3rP2-Captura.png"
     }
   ],
-  "lastUpdate": "2026-04-24T16:57:45.401Z"
+  "lastUpdate": "2026-04-24T17:53:09.538Z"
 }
