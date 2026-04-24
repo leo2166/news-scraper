@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "661,30"
+      "usdt": "659,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodriguez dice que la Ley de Amnistía \"llega a su fin\"",
-      "link": "https://cnnespanol.cnn.com/2026/04/23/venezuela/delcy-rodriguez-fin-ley-amnistia-casos-pendientes-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270759766-20260423232603813.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. prepara opciones de ataque en el estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/04/23/eeuu/fuerzas-armadas-planes-atacar-iran-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eeuu-estrecho.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Agentes de ICE deberán obtener orden judicial antes de entrar a casas, según NBC",
-      "link": "https://diarioversionfinal.com/mundo/agentes-de-ice-deberan-obtener-orden-judicial-antes-de-entrar-a-casas-segun-nbc/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/ICE-16-07-2025-750x430.png"
+      "title": "A juicio uno de los militares que participó en la captura de Maduro: apostó 33 mil dólares al éxito de la incursión usando secretos militares",
+      "link": "https://diarioversionfinal.com/mundo/a-juicio-uno-de-los-militares-que-participo-en-la-captura-de-maduro-aposto-33-mil-dolares-al-exito-de-la-incursion-usando-secretos-militares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/maduro-wife-transported-to-court_005-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-24T08:04:43.530Z"
+  "lastUpdate": "2026-04-24T10:22:28.486Z"
 };
