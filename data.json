@@ -5,7 +5,7 @@
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "659,61"
+      "usdt": "659,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. prepara opciones de ataque en el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/04/23/eeuu/fuerzas-armadas-planes-atacar-iran-estrecho-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/netanyahu-cancer.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Hegseth dice que la disputa por el estrecho de Ormuz es \"mucho más\" de Europa que de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/04/24/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hegseth-22.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EN LO QUE VA DE AÑO SUBASTAS EN EL MERCADO CAMBIARIO SUPERAN LOS $3.000 MILLONES",
-      "link": "https://noticierodigital.com/2026/04/en-lo-que-va-de-ano-subastas-en-el-mercado-cambiario-superan-los-3-000-millones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/02/asdrubaloliveros-bolivar-dolar-8feb2023.jpg"
+      "title": "JUSTICIA ARGENTINA CITA A DECLARAR A NAHUEL GALLO POR INVESTIGACIÓN SOBRE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/justicia-argentina-cita-a-declarar-a-nahuel-gallo-por-investigacion-sobre-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-1-10-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Justicia argentina cita a Nahuel Gallo en causa por crímenes de lesa humanidad en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/justicia-argentina-cita-a-nahuel-gallo-en-causa-por-crimenes-de-lesa-humanidad-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Nahuel-Agustin-Gallo-funcionario-argentino-1024x577-1-750x430.jpg"
+      "title": "Venezuela figura como el segundo país con más solicitudes de asilo en la UE",
+      "link": "https://diarioversionfinal.com/mundo/venezuela-figura-como-el-segundo-pais-con-mas-solicitudes-de-asilo-en-la-ue/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/venezolanos-espanajpg-1024x576-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-24T13:49:21.859Z"
+  "lastUpdate": "2026-04-24T15:09:00.357Z"
 }
