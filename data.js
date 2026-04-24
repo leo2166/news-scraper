@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "566,84"
     },
     "binance": {
-      "usdt": "660,00"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Los desaparecidos en la revolución bolivariana: casos emblemáticos cuyas familias no volvieron a saber de ellos",
-      "link": "https://www.infobae.com/venezuela/2026/04/23/los-desaparecidos-en-la-revolucion-bolivariana-casos-emblematicos-cuyas-familias-no-volvieron-a-saber-de-ellos/",
-      "image": "https://www.infobae.com/resizer/v2/ZN63UDEWTJAENFD6QIWKLHIGLU.png?auth=404ff825728ede8d53b7e43410ab5240fb8f725635b23751709fe8e833da17fc&smart=true&width=350&height=197&quality=85"
+      "title": "La Corte Internacional de Justicia iniciará las audiencias sobre la disputa por la región de Esequibo entre Guyana y Venezuela del 4 al 11 de mayo",
+      "link": "https://www.infobae.com/venezuela/2026/04/23/la-corte-internacional-de-justicia-iniciara-las-audiencias-sobre-la-disputa-por-la-region-de-esequibo-entre-guyana-y-venezuela-del-4-al-11-de-mayo/",
+      "image": "https://www.infobae.com/resizer/v2/Z4Y7UIMFJJC4LDPSTEX6LQHN2Q.jpg?auth=123c690adbb51b3a584efd351300f52af5744677526e041f9c5b5a4607a6b1b8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -26,9 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Oliver Blanco recibió al nuevo Encargado de Negocios de EE. UU. en Venezuela, John Barrett",
-      "link": "https://noticiasvenevision.com/noticias/politica/oliver-blanco-recibio-al-nuevo-encargado-de-negocios-de-ee-uu-en-venezuela-john-barrett",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_675447541_18585774634014700_4811686013226295896_n-941f8f.jpg"
+      "title": "Instalada Comisión para Consulta Nacional sobre la reforma penal",
+      "link": "https://noticiasvenevision.com/noticias/politica/instalada-comision-para-consulta-nacional-sobre-la-reforma-penal",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/instalada-comision-para-la-gran-consulta-nacional-sobre-reforma-de-la-justicia-penal2-2d3a41.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "GOBIERNO VENEZOLANO INSTALÓ MESAS DE TRABAJO CON LA CANCILLER COLOMBIANA",
+      "link": "https://noticierodigital.com/2026/04/gobierno-venezolano-instalo-mesas-de-trabajo-con-la-canciller-colombiana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/yvan-gil-venezuela-colombia-rosa-villavicencio-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. auditará la gestión de archivos de Jeffrey Epstein por el Departamento de Justicia",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-auditara-la-gestion-de-archivos-de-jeffrey-epstein-por-el-departamento-de-justicia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2019/08/jeffrey.jpg"
+      "title": "Agentes de ICE deberán obtener orden judicial antes de entrar a casas, según NBC",
+      "link": "https://diarioversionfinal.com/mundo/agentes-de-ice-deberan-obtener-orden-judicial-antes-de-entrar-a-casas-segun-nbc/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/ICE-16-07-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-23T23:46:04.600Z"
+  "lastUpdate": "2026-04-24T02:40:46.382Z"
 };
