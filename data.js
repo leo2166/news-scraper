@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,40"
+      "usdt": "662,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Ataque con explosivos en Colombia deja al menos 7 muertos y varios heridos",
+      "title": "Ataque con explosivos en Colombia deja al menos 14 muertos y varios heridos",
       "link": "https://cnnespanol.cnn.com/2026/04/25/colombia/ataque-explosivos-al-menos-7-muertos-26-atentados-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/image-7-20260425210709748.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272567764.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump cancela el viaje a Pakistán de sus negociadores en medio de conversaciones con Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-cancela-el-viaje-a-pakistan-de-sus-negociadores-en-medio-de-conversaciones-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/rss-efe448bb044b592e2190a7f59a1059a1d2b004573f1w-750x430.webp"
+      "title": "Siete muertos y 17 heridos tras ataque con cilindro bomba contra un autobús en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/siete-muertos-y-17-heridos-tras-ataque-con-cilindro-bomba-contra-un-autobus-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Bus-explosion-25-04-2026-578x430.png"
     }
   ],
-  "lastUpdate": "2026-04-25T22:37:45.907Z"
+  "lastUpdate": "2026-04-25T23:38:33.543Z"
 };
