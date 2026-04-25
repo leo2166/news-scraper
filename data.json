@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "631,00"
+      "usdt": "658,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Los enviados estadounidenses Witkoff y Kushner se dirigen a Pakistán",
+      "title": "Ministro de Asuntos Exteriores iraní se reúne con la cúpula política de Pakistán, según medios estatales",
       "link": "https://cnnespanol.cnn.com/2026/04/25/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260425095413701.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/dialogo-iran-pakistan.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-24-at-9.25.00-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-25T10:44:20.070Z"
+  "lastUpdate": "2026-04-25T11:38:46.653Z"
 }
