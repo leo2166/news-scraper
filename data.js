@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "659,99"
+      "usdt": "660,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cuántos detenidos políticos permanecen en prisión tras el “fin de la Ley de Amnistía”",
-      "link": "https://cnnespanol.cnn.com/2026/04/24/venezuela/fin-ley-amnistia-detenidos-politicos-prision-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271492547.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Rodríguez y Petro acuerdan combatir a grupos criminales en la frontera común",
+      "link": "https://cnnespanol.cnn.com/2026/04/24/venezuela/gustavo-petro-visita-delcy-rodriguez-crimen-organizado-frontera-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272284740.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y Colombia sellan alianza estratégica en materia de comercio, energía y seguridad",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-colombia-sellan-alianza-estrategica-en-materia-de-comercio-energia-y-seguridad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l8531-2048x1484-50869e.jpg"
+      "title": "John Barrett ratifica estrategia de tres fases para Venezuela en diálogo con Delcy Rodríguez",
+      "link": "https://noticiasvenevision.com/noticias/politica/john-barrett-ratifica-estrategia-de-tres-fases-para-venezuela-en-dialogo-con-delcy-rodriguez",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hgtydxkaeaafsy_-0bea66.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO DESMINTIÓ LA INCLUSIÓN DE OPOSITORES EN LA DIRECTIVA DEL BCV",
-      "link": "https://noticierodigital.com/2026/04/gobierno-desmintio-la-inclusion-de-opositores-en-la-directiva-del-bcv/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/palacio-miraflores-caracas-11mar2022.jpg"
+      "title": "GRUPO PARLAMENTARIO LIBERTAD RECHAZÓ LA ANULACIÓN DE LA LEY DE AMNISTÍA",
+      "link": "https://noticierodigital.com/2026/04/grupo-parlamentario-libertad-rechazo-la-anulacion-de-la-ley-de-amnistia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/11/asamblea-nacional-an-archivo-26nov19.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. evalúa restablecer el pelotón de fusilamiento en ejecuciones federales",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-evalua-restablecer-el-peloton-de-fusilamiento-en-ejecuciones-federales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1065732287-FF-PRESO-PENA-MUERTE-KITTIRAT-ROEKBURI-WEB-SHUTTERSTOCK-750x430.jpg"
+      "title": "Washington insiste en plan de tres fases para Venezuela tras reunión entre Barrett y Rodríguez",
+      "link": "https://diarioversionfinal.com/mundo/washington-insiste-en-plan-de-tres-fases-para-venezuela-tras-reunion-entre-barrett-y-rodriguez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-24-at-9.25.00-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-24T23:39:34.806Z"
+  "lastUpdate": "2026-04-25T02:30:03.439Z"
 };
