@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "659,61"
+      "usdt": "659,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Vuelos directos entre Estados Unidos y Venezuela: la promesa del despegue de los negocios y el turismo",
-      "link": "https://www.infobae.com/venezuela/2026/04/24/vuelos-directos-entre-estados-unidos-y-venezuela-la-promesa-del-despegue-de-los-negocios-y-el-turismo/",
-      "image": "https://www.infobae.com/resizer/v2/B6JHK2QXUBCSDDQWYJZ2OW7YBA.jpeg?auth=670d458ff704c90621c8d491877d2dc4f38e7387f5586951891e966a3f42bc20&smart=true&width=350&height=197&quality=85"
+      "title": "El encargado de negocios de EEUU insistió en la necesidad de “seguir implementando” el plan de tres fases de Trump en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/25/el-encargado-de-negocios-de-eeuu-insistio-en-la-necesidad-de-seguir-implementando-el-plan-de-tres-fases-de-trump-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/CI76UHHY5NGSFPJX2YLSARCHJQ.JPG?auth=d5aef411c188d6633f533d35b7fd7d5ffa42540663be1667b9196e7774d2fd6c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-24-at-9.25.00-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-25T07:17:42.029Z"
+  "lastUpdate": "2026-04-25T08:53:44.605Z"
 }
