@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "630,00"
+      "usdt": "659,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El encargado de negocios de EEUU insistió en la necesidad de “seguir implementando” el plan de tres fases de Trump en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/25/el-encargado-de-negocios-de-eeuu-insistio-en-la-necesidad-de-seguir-implementando-el-plan-de-tres-fases-de-trump-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/CI76UHHY5NGSFPJX2YLSARCHJQ.JPG?auth=d5aef411c188d6633f533d35b7fd7d5ffa42540663be1667b9196e7774d2fd6c&smart=true&width=350&height=197&quality=85"
+      "title": "EEUU autorizó a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores",
+      "link": "https://www.infobae.com/venezuela/2026/04/25/eeuu-autorizo-a-venezuela-el-pago-de-los-abogados-de-nicolas-maduro-y-cilia-flores/",
+      "image": "https://www.infobae.com/resizer/v2/ABRTIEJXPREAHOJXHCBDYPI6RE.JPG?auth=aae97ed991c68179a397f353379c92cb0bc898508b1bc1f8fbfe1acffc6b8b73&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Una ley establece un plazo de 60 días para guerras no autorizadas por el Congreso",
-      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/ley-60-dias-guerras-no-autorizadas-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-ley.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. acepta que el Gobierno de Venezuela pague por la defensa de Maduro",
+      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/venezuela-maduro-defensa-legal-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254194688-20260425131729800-20260425133836543.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GRUPO PARLAMENTARIO LIBERTAD RECHAZÓ LA ANULACIÓN DE LA LEY DE AMNISTÍA",
-      "link": "https://noticierodigital.com/2026/04/grupo-parlamentario-libertad-rechazo-la-anulacion-de-la-ley-de-amnistia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2019/11/asamblea-nacional-an-archivo-26nov19.jpg"
+      "title": "SOLDADO DE EE. UU. OBTUVO LIBERTAD BAJO FIANZA TRAS LUCRARSE CON LA CAPTURA DE MADURO",
+      "link": "https://noticierodigital.com/2026/04/soldado-de-ee-uu-obtuvo-libertad-bajo-fianza-tras-lucrarse-con-la-captura-de-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/polymarket-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Atentado en Cali: video del momento de la explosión de bus escolar cerca a Batallón Pichincha",
-      "link": "https://www.noticiascaracol.com/colombia/atentado-en-cali-video-del-momento-de-la-explosion-de-bus-escolar-cerca-a-batallon-pichincha-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/eb6800d/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe6%2Fdb%2F17f75f2f4f97b64cf9e777e0e564%2Fatentado-en-cali.jpg"
+      "title": "¿Quiénes estarían detrás de los atentados en Cali y Palmira? Esto dicen las autoridades",
+      "link": "https://www.noticiascaracol.com/colombia/quienes-estarian-detras-de-los-atentados-en-cali-y-palmira-esto-dicen-las-autoridades-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d248e65/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff7%2F25%2F89fb0df5481a9be8b1725f7fb43b%2Fplantilla-fotos-2026-04-25t075532-427.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV genera polémica al criticar la bendición de arzobispo a parejas homosexuales",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-genera-polemica-al-criticar-la-bendicion-de-arzobispo-a-parejas-homosexuales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-08-04-2026-750x430.png"
+      "title": "EE. UU. sigue deteniendo buques de Irán en medio de incertidumbre sobre negociación",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-sigue-deteniendo-buques-de-iran-en-medio-de-incertidumbre-sobre-negociacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/2004627-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-25T13:05:56.916Z"
+  "lastUpdate": "2026-04-25T14:41:54.952Z"
 };
