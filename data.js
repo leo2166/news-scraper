@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "658,61"
+      "usdt": "630,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Ministro de Asuntos Exteriores iraní se reúne con la cúpula política de Pakistán, según medios estatales",
-      "link": "https://cnnespanol.cnn.com/2026/04/25/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/dialogo-iran-pakistan.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Una ley establece un plazo de 60 días para guerras no autorizadas por el Congreso",
+      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/ley-60-dias-guerras-no-autorizadas-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-ley.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Washington insiste en plan de tres fases para Venezuela tras reunión entre Barrett y Rodríguez",
-      "link": "https://diarioversionfinal.com/mundo/washington-insiste-en-plan-de-tres-fases-para-venezuela-tras-reunion-entre-barrett-y-rodriguez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-24-at-9.25.00-PM-750x430.jpeg"
+      "title": "Papa León XIV genera polémica al criticar la bendición de arzobispo a parejas homosexuales",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-genera-polemica-al-criticar-la-bendicion-de-arzobispo-a-parejas-homosexuales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-08-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-25T11:38:46.653Z"
+  "lastUpdate": "2026-04-25T13:05:56.916Z"
 };
