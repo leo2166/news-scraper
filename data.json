@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "661,00"
+      "usdt": "662,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -31,16 +31,10 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/segunda-audiencia-de-maduro-1-1068x601-e58654.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "JUAN BARRETO AFIRMÓ QUE EE. UU. PIERDE HEGEMONÍA FRENTE AL NUEVO MAPA GEOPOLÍTICO",
-      "link": "https://noticierodigital.com/2026/04/juan-barreto-afirmo-que-ee-uu-pierde-hegemonia-frente-al-nuevo-mapa-geopolitico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/juanbarreto-7mar2023.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "“Lo quiero volver a ver”: desgarrador relato de papá de ciclista Cristian Muñoz, fallecido en España",
-      "link": "https://www.noticiascaracol.com/colombia/lo-quiero-volver-a-ver-desgarrador-relato-de-papa-de-ciclista-cristian-munoz-fallecido-en-espana-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/66d9c0e/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8d%2F46%2F2b943f7a441cbc69311a480e5c49%2Fplantilla-fotos-2026-04-25t112102-604.jpg"
+      "title": "“Se han encontrado nuevas amenazas”: Benedetti habla sobre seguridad de candidatos a la Presidencia",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/se-han-encontrado-nuevas-amenazas-benedetti-habla-sobre-seguridad-de-candidatos-a-la-presidencia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/09f12a2/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F81%2Fd1%2Fa474417d4e9a8f21dcca42df245b%2Ffotos-discover-2026-04-25t131145-633.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +49,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/Citgo-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-04-25T18:54:16.009Z"
+  "lastUpdate": "2026-04-25T19:44:05.020Z"
 }
