@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,00"
+      "usdt": "661,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "John Barrett ratifica estrategia de tres fases para Venezuela en diálogo con Delcy Rodríguez",
-      "link": "https://noticiasvenevision.com/noticias/politica/john-barrett-ratifica-estrategia-de-tres-fases-para-venezuela-en-dialogo-con-delcy-rodriguez",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hgtydxkaeaafsy_-0bea66.jpg"
+      "title": "EE.UU. autoriza al gobierno de Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores",
+      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-autoriza-al-gobierno-de-venezuela-el-pago-de-los-abogados-de-nicolas-maduro-y-cilia-flores",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/segunda-audiencia-de-maduro-1-1068x601-e58654.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LUIS FLORIDO EXIGIÓ EL SOBRESEIMIENTO PARA MILITARES ENCARCELADOS POR RAZONES POLÍTICAS",
-      "link": "https://noticierodigital.com/2026/04/luis-florido-exigio-el-sobreseimiento-para-militares-encarcelados-por-razones-politicas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/luis-florido-627x376.jpg"
+      "title": "JUAN BARRETO AFIRMÓ QUE EE. UU. PIERDE HEGEMONÍA FRENTE AL NUEVO MAPA GEOPOLÍTICO",
+      "link": "https://noticierodigital.com/2026/04/juan-barreto-afirmo-que-ee-uu-pierde-hegemonia-frente-al-nuevo-mapa-geopolitico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/juanbarreto-7mar2023.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,9 +44,9 @@
     },
     {
       "source": "La Verdad",
-      "title": "ICE arresta a venezolano condenado por falsificación, hurto y robo con allanamiento",
-      "link": "https://laverdad.com/ice-arresta-a-venezolano-condenado-por-falsificacion-hurto-y-robo-con-allanamiento/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Samir-Alejandro-Flores-De-Leon.jpg"
+      "title": "Dos muertos en nuevo ataque de EE. UU. contra embarcación en el Pacífico",
+      "link": "https://laverdad.com/dos-muertos-en-nuevo-ataque-de-ee-uu-contra-embarcacion-en-el-pacifico/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/nuevo-ataque-a-lancha-en-el-Pacifico.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/Citgo-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-04-25T17:37:34.128Z"
+  "lastUpdate": "2026-04-25T18:54:16.009Z"
 }
