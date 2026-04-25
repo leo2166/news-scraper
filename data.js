@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "631,05"
+      "usdt": "659,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Rodríguez y Petro acuerdan combatir a grupos criminales en la frontera común",
-      "link": "https://cnnespanol.cnn.com/2026/04/24/venezuela/gustavo-petro-visita-delcy-rodriguez-crimen-organizado-frontera-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272284740.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los enviados estadounidenses Witkoff y Kushner se dirigen a Pakistán",
+      "link": "https://cnnespanol.cnn.com/2026/04/24/mundo/live-news/guerra-ee-uu-israel-iran-medio-oriente-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270428086.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-24-at-9.25.00-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-25T05:12:13.842Z"
+  "lastUpdate": "2026-04-25T07:17:42.029Z"
 };
