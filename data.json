@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,00"
+      "usdt": "662,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. acepta que el Gobierno de Venezuela pague por la defensa de Maduro",
-      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/venezuela-maduro-defensa-legal-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254194688-20260425131729800-20260425133836543.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Ataque con explosivos en Colombia deja al menos 7 muertos y varios heridos",
+      "link": "https://cnnespanol.cnn.com/2026/04/25/colombia/ataque-explosivos-al-menos-7-muertos-26-atentados-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/image-7-20260425210709748.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Amber Energy plantea invertir $11.000 millones en Citgo si la Ofac autoriza la operación",
-      "link": "https://diarioversionfinal.com/mundo/amber-energy-plantea-invertir-11-000-millones-en-citgo-si-la-ofac-autoriza-la-operacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/Citgo-750x375-1.jpg"
+      "title": "Trump cancela el viaje a Pakistán de sus negociadores en medio de conversaciones con Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-cancela-el-viaje-a-pakistan-de-sus-negociadores-en-medio-de-conversaciones-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/rss-efe448bb044b592e2190a7f59a1059a1d2b004573f1w-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-25T21:37:25.384Z"
+  "lastUpdate": "2026-04-25T22:37:45.907Z"
 }
