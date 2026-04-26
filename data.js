@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,89"
+      "usdt": "661,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -22,7 +22,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Presunto atacante armado compartió escritos anti-Trump antes del evento, dice una fuente",
       "link": "https://cnnespanol.cnn.com/2026/04/26/eeuu/sospechoso-tiroteo-cena-corresponsales-casa-blanca-profesor-california-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/wolf-blitzer.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/investigacion-tiroteo.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Ataques-contra-Ucrania-26-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-26T22:39:18.725Z"
+  "lastUpdate": "2026-04-26T23:39:19.165Z"
 };
