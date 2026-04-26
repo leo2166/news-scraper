@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,00"
+      "usdt": "662,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,21 +20,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Sospechoso del tiroteo en Cena de Corresponsales se definía como “asesino federal”",
+      "title": "Presunto atacante armado compartió escritos anti-Trump antes del evento, dice una fuente",
       "link": "https://cnnespanol.cnn.com/2026/04/26/eeuu/sospechoso-tiroteo-cena-corresponsales-casa-blanca-profesor-california-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/wolf-blitzer.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Carlos Apitz: \"Me temo que lo que está planteado hoy en Venezuela no es libertad de expresión\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-me-temo-que-lo-que-esta-planteado-hoy-en-venezuela-no-es-libertad-de-expresion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/miniatura-mariflor-19ccd9.png"
+      "title": "Plataforma Unitaria Democrática expresa \"enérgica condena\" al ataque contra Trump",
+      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-democratica-expresa-energica-condena-al-ataque-contra-trump",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plataforma-unitaria-ea41ed.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AMERICAN AIRLINES SUMARÁ UN NUEVO VUELO EN LA RUTA MIAMI-CARACAS",
-      "link": "https://noticierodigital.com/2026/04/american-airlines-sumara-un-nuevo-vuelo-en-la-ruta-miami-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/american-airlines-avion-16may2022.jpg"
+      "title": "PUD CONDENÓ EL ATAQUE ARMADO CONTRA DONALD TRUMP EN WASHINGTON",
+      "link": "https://noticierodigital.com/2026/04/pud-condeno-el-ataque-armado-contra-donald-trump-en-washington/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/aee10543fba4dd28de246ef44ec90c4d83bc836b-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-26T19:48:15.633Z"
+  "lastUpdate": "2026-04-26T20:39:01.357Z"
 };
