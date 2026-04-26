@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "660,61"
+      "usdt": "663,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump fue retirado de la Cena de Corresponsales en la Casa Blanca tras disparos",
-      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/trump-retirado-cena-corresponsales-casa-blanca-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272601539.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Retiran a Trump de la Cena de Corresponsales de la Casa Blanca tras disparos",
+      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/live-news/live-news-trump-retirado-cena-corresponsales-casa-blanca-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cena-corresponsales-casa-blanca.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "FANB anuncia incorporación de 4 mil nuevos integrantes a la Tropa Profesional",
-      "link": "https://noticiasvenevision.com/noticias/politica/fanb-anuncia-incorporacion-de-4-mil-nuevos-integrantes-a-la-tropa-profesional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fanb-1-85ea84.jpg"
+      "title": "Presidenta (E) de Venezuela Delcy Rodríguez rechazó intento de agresión contra Presidente Trump",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-de-venezuela-delcy-rodriguez-rechazo-intento-de-agresion-contra-presidente-trump",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/18358194_tn-delcy-rodriguez-venezuela-537efe.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIRECTOR EJECUTIVO CONFIRMÓ CONVERSACIONES PARA REABRIR LA CADENA HILTON EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/director-ejecutivo-confirmo-conversaciones-para-reabrir-la-cadena-hilton-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Christopher-Nassetta-627x376.jpg"
+      "title": "YVÁN GIL DESPIDIÓ A GUSTAVO PETRO TRAS CONCLUIR SU AGENDA OFICIAL EN CARACAS",
+      "link": "https://noticierodigital.com/2026/04/yvan-gil-despidio-a-gustavo-petro-tras-concluir-su-agenda-oficial-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/yvan-gil-gustavo-petro-colombia-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Evacúan a Donald Trump y a su esposa de reunión tras reportes de disparos en Washington",
-      "link": "https://www.noticiascaracol.com/mundo/evacuan-a-donald-trump-y-a-su-esposa-de-reunion-tras-reportes-de-disparos-en-washington-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/71165b9/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe8%2Fba%2F1fcac2ba4fd188d30b1847a9d0bf%2Ftrump.jpg"
+      "title": "Trump asegura que un tirador fue detenido tras ser evacuado de cena en Washington",
+      "link": "https://www.noticiascaracol.com/mundo/trump-asegura-que-un-tirador-fue-detenido-tras-ser-evacuado-de-cena-en-washington-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/de24571/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2F1f%2Ffa191fe444018702d85663b6f271%2Ftrump-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Servicio Secreto evacúa a Trump de cena con corresponsales tras escucharse disparos",
-      "link": "https://diarioversionfinal.com/mundo/servicio-secreto-evacua-a-trump-de-cena-con-corresponsales-tras-escucharse-disparos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-cena-25-04-2026.png"
+      "title": "Aumenta a 14 el número de muertos en Colombia por ataque con cilindro bomba",
+      "link": "https://diarioversionfinal.com/mundo/aumenta-a-14-el-numero-de-muertos-en-colombia-por-ataque-con-cilindro-bomba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Colombia-Via-Panamericana-atentado-696x446-1-696x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-26T02:46:31.867Z"
+  "lastUpdate": "2026-04-26T05:40:12.158Z"
 };
