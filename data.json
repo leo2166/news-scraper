@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "663,30"
+      "usdt": "631,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EEUU autorizó a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores",
-      "link": "https://www.infobae.com/venezuela/2026/04/25/eeuu-autorizo-a-venezuela-el-pago-de-los-abogados-de-nicolas-maduro-y-cilia-flores/",
-      "image": "https://www.infobae.com/resizer/v2/ABRTIEJXPREAHOJXHCBDYPI6RE.JPG?auth=aae97ed991c68179a397f353379c92cb0bc898508b1bc1f8fbfe1acffc6b8b73&smart=true&width=350&height=197&quality=85"
+      "title": "Falta de crédito, inflación y distorsiones cambiarias ahogan el emprendimiento en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/26/falta-de-credito-inflacion-y-distorsiones-cambiarias-ahogan-el-emprendimiento-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/HOB7NREILVDWXFLFIXBNCPTQQQ.jpg?auth=a06faa019ac0670b37ce3d2cbc0356de1074913e1dcf537a5ff04f57d57fae0b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "YVÁN GIL DESPIDIÓ A GUSTAVO PETRO TRAS CONCLUIR SU AGENDA OFICIAL EN CARACAS",
-      "link": "https://noticierodigital.com/2026/04/yvan-gil-despidio-a-gustavo-petro-tras-concluir-su-agenda-oficial-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/yvan-gil-gustavo-petro-colombia-venezuela-627x376.jpg"
+      "title": "DIRECTOR EJECUTIVO CONFIRMÓ CONVERSACIONES PARA REABRIR LA CADENA HILTON EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/director-ejecutivo-confirmo-conversaciones-para-reabrir-la-cadena-hilton-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Christopher-Nassetta-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Colombia-Via-Panamericana-atentado-696x446-1-696x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-26T05:40:12.158Z"
+  "lastUpdate": "2026-04-26T07:40:21.922Z"
 }
