@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "661,56"
+      "usdt": "661,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,20 +21,20 @@
     {
       "source": "CNN en Español",
       "title": "Sospechoso del tiroteo en Cena de Corresponsales se definía como “asesino federal”",
-      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/live-news/live-news-trump-retirado-cena-corresponsales-casa-blanca-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cena-corresponsales-casa-blanca.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/04/26/eeuu/sospechoso-tiroteo-cena-corresponsales-casa-blanca-profesor-california-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/wolf-blitzer.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) de Venezuela Delcy Rodríguez rechazó intento de agresión contra Presidente Trump",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-de-venezuela-delcy-rodriguez-rechazo-intento-de-agresion-contra-presidente-trump",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/18358194_tn-delcy-rodriguez-venezuela-537efe.jpg"
+      "title": "Amelia Belisario: \"No puede existir democracia sin separación de poderes públicos\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/amelia-belisario-no-puede-existir-democracia-sin-separacion-de-poderes-publicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-04-26-135207-586310.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PADRES DE JUAN PABLO PERNALETE EXIGIERON REABRIR INVESTIGACIÓN POR SU ASESINATO",
-      "link": "https://noticierodigital.com/2026/04/padres-de-juan-pablo-pernalete-exigieron-reabrir-investigacion-por-su-asesinato/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/juan-pablo-pernalete-627x376.jpg"
+      "title": "JOSÉ GREGORIO CARIBAS FUNDÓ EL MOVIMIENTO PULSO SOCIAL TRAS RENUNCIAR A UNT",
+      "link": "https://noticierodigital.com/2026/04/jose-gregorio-caribas-fundo-el-movimiento-pulso-social-tras-renunciar-a-unt/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/goyo-caribas-6dic19.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/aee10543fba4dd28de246ef44ec90c4d83bc836b-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-26T17:39:07.243Z"
+  "lastUpdate": "2026-04-26T18:55:59.755Z"
 }
