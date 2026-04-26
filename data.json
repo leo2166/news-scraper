@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,00"
+      "usdt": "662,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -31,12 +31,6 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/18358194_tn-delcy-rodriguez-venezuela-537efe.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "JUAN CARLOS APITZ CUESTIONÓ CONTRADICCIONES SOBRE LA LIBERTAD DE EXPRESIÓN EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/juan-carlos-apitz-cuestiono-contradicciones-sobre-la-libertad-de-expresion-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/juancarlosapitz-cne.jpg"
-    },
-    {
       "source": "Caracol Noticias",
       "title": "Videos | Así fue evacuado Trump y el vicepresidente JD Vance tras tiroteo en evento en Washington",
       "link": "https://www.noticiascaracol.com/mundo/videos-asi-fue-evacuado-trump-y-el-vicepresidente-jd-vance-tras-tiroteo-en-evento-en-washington-cb20",
@@ -44,16 +38,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Al menos 14 muertos en atentado con cilindro bomba en el suroeste de Colombia",
-      "link": "https://laverdad.com/al-menos-14-muertos-en-atentado-con-cilindro-bomba-en-el-suroeste-de-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/2b9199903f57b3fd10f570c179be453d7c219316-scaled.jpg"
+      "title": "Papa León XIV advierte sobre los riesgos de la energía atómica al recordar Chernóbil",
+      "link": "https://laverdad.com/papa-leon-xiv-advierte-sobre-los-riesgos-de-la-energia-atomica-al-recordar-chernobil/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/536b35a2055dae29679af1612b6ab75778228731-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "¿Por qué el Papa León XIV se enfrentó a Donald Trump? | VF en corto",
-      "link": "https://diarioversionfinal.com/mundo/por-que-el-papa-leon-xiv-se-enfrento-a-donald-trump-vf-en-corto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/705de383-1e2c-4de5-9320-ae8804f0811f-750x430.jpeg"
+      "title": "Histórico: Trump es el primer presidente estadounidense en sufrir tres atentados en solo dos años",
+      "link": "https://diarioversionfinal.com/mundo/historico-trump-es-el-primer-presidente-estadounidense-en-sufrir-tres-atentados-en-solo-dos-anos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/0f253d5fc523cb65f8d3899f2b3913afa0913142c34786d7a2f40a6400a4b904-1024x682-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-26T14:43:27.015Z"
+  "lastUpdate": "2026-04-26T15:42:02.983Z"
 }
