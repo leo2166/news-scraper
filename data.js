@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,60"
+      "usdt": "662,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ATAQUE EXPLOSIVO DEJÓ 14 MUERTOS Y 38 HERIDOS EN UNA CARRETERA DE COLOMBIA",
-      "link": "https://noticierodigital.com/2026/04/ataque-explosivo-dejo-14-muertos-y-38-heridos-en-una-carretera-de-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/colombia-atentado-terrorista-via-panamericana-627x376.jpg"
+      "title": "JUAN CARLOS APITZ CUESTIONÓ CONTRADICCIONES SOBRE LA LIBERTAD DE EXPRESIÓN EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/04/juan-carlos-apitz-cuestiono-contradicciones-sobre-la-libertad-de-expresion-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/juancarlosapitz-cne.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Dos muertos en nuevo ataque de EE. UU. contra embarcación en el Pacífico",
-      "link": "https://laverdad.com/dos-muertos-en-nuevo-ataque-de-ee-uu-contra-embarcacion-en-el-pacifico/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/nuevo-ataque-a-lancha-en-el-Pacifico.jpg"
+      "title": "Al menos 14 muertos en atentado con cilindro bomba en el suroeste de Colombia",
+      "link": "https://laverdad.com/al-menos-14-muertos-en-atentado-con-cilindro-bomba-en-el-suroeste-de-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/2b9199903f57b3fd10f570c179be453d7c219316-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Aumenta a 14 el número de muertos en Colombia por ataque con cilindro bomba",
-      "link": "https://diarioversionfinal.com/mundo/aumenta-a-14-el-numero-de-muertos-en-colombia-por-ataque-con-cilindro-bomba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Colombia-Via-Panamericana-atentado-696x446-1-696x430.jpg"
+      "title": "¿Por qué el Papa León XIV se enfrentó a Donald Trump? | VF en corto",
+      "link": "https://diarioversionfinal.com/mundo/por-que-el-papa-leon-xiv-se-enfrento-a-donald-trump-vf-en-corto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/705de383-1e2c-4de5-9320-ae8804f0811f-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-26T13:07:31.148Z"
+  "lastUpdate": "2026-04-26T14:43:27.015Z"
 };
