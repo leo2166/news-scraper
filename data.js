@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Colombia-Via-Panamericana-atentado-696x446-1-696x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-26T09:01:29.156Z"
+  "lastUpdate": "2026-04-26T10:45:09.929Z"
 };
