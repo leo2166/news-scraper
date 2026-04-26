@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "660,61"
+      "usdt": "661,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Colombia-Via-Panamericana-atentado-696x446-1-696x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-26T10:45:09.929Z"
+  "lastUpdate": "2026-04-26T11:39:28.323Z"
 };
