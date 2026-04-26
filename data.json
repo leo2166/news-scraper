@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "661,61"
+      "usdt": "662,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Retiran a Trump de la Cena de Corresponsales de la Casa Blanca tras disparos",
+      "title": "Sospechoso del tiroteo en Cena de Corresponsales era profesor en California",
       "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/live-news/live-news-trump-retirado-cena-corresponsales-casa-blanca-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/melania-trump-donald-trump-25-abril-2026.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cena-corresponsales-casa-blanca.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIRECTOR EJECUTIVO CONFIRMÓ CONVERSACIONES PARA REABRIR LA CADENA HILTON EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/director-ejecutivo-confirmo-conversaciones-para-reabrir-la-cadena-hilton-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Christopher-Nassetta-627x376.jpg"
+      "title": "ATAQUE EXPLOSIVO DEJÓ 14 MUERTOS Y 38 HERIDOS EN UNA CARRETERA DE COLOMBIA",
+      "link": "https://noticierodigital.com/2026/04/ataque-explosivo-dejo-14-muertos-y-38-heridos-en-una-carretera-de-colombia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/colombia-atentado-terrorista-via-panamericana-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump asegura que un tirador fue detenido tras ser evacuado de cena en Washington",
-      "link": "https://www.noticiascaracol.com/mundo/trump-asegura-que-un-tirador-fue-detenido-tras-ser-evacuado-de-cena-en-washington-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/de24571/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4a%2F1f%2Ffa191fe444018702d85663b6f271%2Ftrump-1.jpg"
+      "title": "Videos | Así fue evacuado Trump y el vicepresidente JD Vance tras tiroteo en evento en Washington",
+      "link": "https://www.noticiascaracol.com/mundo/videos-asi-fue-evacuado-trump-y-el-vicepresidente-jd-vance-tras-tiroteo-en-evento-en-washington-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3997b25/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6d%2F5e%2F5f24678743c1975e8bf2edb9ce9e%2Fplantilla-fotos-2026-04-26t073207-801.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Colombia-Via-Panamericana-atentado-696x446-1-696x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-26T11:39:28.323Z"
+  "lastUpdate": "2026-04-26T13:07:31.148Z"
 }
