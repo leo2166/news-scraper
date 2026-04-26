@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "632,00"
+      "usdt": "661,56"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Falta de crédito, inflación y distorsiones cambiarias ahogan el emprendimiento en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/26/falta-de-credito-inflacion-y-distorsiones-cambiarias-ahogan-el-emprendimiento-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/HOB7NREILVDWXFLFIXBNCPTQQQ.jpg?auth=a06faa019ac0670b37ce3d2cbc0356de1074913e1dcf537a5ff04f57d57fae0b&smart=true&width=350&height=197&quality=85"
+      "title": "Cheremo: el video musical que reveló una red de corrupción entre policías y jueces en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/26/cheremo-el-video-musical-que-revelo-una-red-de-corrupcion-entre-policias-y-jueces-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/7SFUZF5PWJERNHTIWCCP26YMSM.jpg?auth=713abe5669bdcd8418db20ade3154fa63fb69e61849944a6671c0d4c77451e4e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Sospechoso del tiroteo en Cena de Corresponsales era profesor en California",
+      "title": "Sospechoso del tiroteo en Cena de Corresponsales se definía como “asesino federal”",
       "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/live-news/live-news-trump-retirado-cena-corresponsales-casa-blanca-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cena-corresponsales-casa-blanca.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cena-corresponsales-casa-blanca.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CARMEN MELÉNDEZ: “NOSOTROS NO NOS CANSAREMOS DE PEDIR EL CESE DE LAS SANCIONES”",
-      "link": "https://noticierodigital.com/2026/04/carmen-melendez-nosotros-no-nos-cansaremos-de-pedir-el-cese-de-las-sanciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/carmen-melendez-627x376.jpg"
+      "title": "PADRES DE JUAN PABLO PERNALETE EXIGIERON REABRIR INVESTIGACIÓN POR SU ASESINATO",
+      "link": "https://noticierodigital.com/2026/04/padres-de-juan-pablo-pernalete-exigieron-reabrir-investigacion-por-su-asesinato/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/juan-pablo-pernalete-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/aee10543fba4dd28de246ef44ec90c4d83bc836b-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-26T16:43:14.499Z"
+  "lastUpdate": "2026-04-26T17:39:07.243Z"
 };
