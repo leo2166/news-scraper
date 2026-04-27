@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "484,74",
-      "eur": "567,40"
+      "usd": "485,23",
+      "eur": "569,30"
     },
     "binance": {
-      "usdt": "676,00"
+      "usdt": "675,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,19 +26,19 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela reafirma cooperación con Togo en el 66° aniversario de su independencia",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-reafirma-cooperacion-con-togo-en-el-660-aniversario-de-su-independencia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gil-b90e48.png"
+      "title": "Venezuela y Barbados acuerdan trabajar juntos en energía, producción alimentaria y turismo",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-barbados-acuerdan-trabajar-juntos-en-energia-produccion-alimentaria-y-turismo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5152584832821955642_w-2048x1364-a87488.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "OPERACIONES EN EMBAJADA DE EE. UU. EN CARACAS REQUERIRÁ DE $14,3 MILLONES",
-      "link": "https://noticierodigital.com/2026/04/operaciones-en-embajada-de-ee-uu-en-caracas-requerira-de-143-millones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
+      "title": "JOEL GARCÍA CUESTIONÓ LA DESIGNACIÓN DE MAGISTRADOS AFINES A INTERESES PARTIDISTAS",
+      "link": "https://noticierodigital.com/2026/04/joel-garcia-cuestiono-la-designacion-de-magistrados-afines-a-intereses-partidistas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/joel-garcia-abogado.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "La razón por la que la Fiscalía allanó cientos de tiendas Lili Pink a nivel nacional",
+      "title": "La razón por la que la Fiscalía allanó varias tiendas Lili Pink a nivel nacional",
       "link": "https://www.noticiascaracol.com/colombia/la-razon-por-la-que-la-fiscalia-allano-cientos-de-tiendas-de-lili-pink-a-nivel-nacional-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/5874693/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2F6b%2F068e7a28493d81f449ed3cb80814%2Flili-pink-2.jpg"
     },
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tres muertos deja nuevo ataque de EE. UU. contra una lancha en el Pacífico Oriental",
-      "link": "https://diarioversionfinal.com/mundo/tres-muertos-deja-nuevo-ataque-de-ee-uu-contra-una-lancha-en-el-pacifico-oriental/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Lancha-atacada-27-04-2026.jpg"
+      "title": "Expectativa en Uruguay, Argentina y Perú por inminente visita del Papa León XIV",
+      "link": "https://diarioversionfinal.com/mundo/expectativa-en-uruguay-argentina-y-peru-por-inminente-visita-del-papa-leon-xiv/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-y-arzobispo-Daniel-Sturla-27-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-27T21:02:42.020Z"
+  "lastUpdate": "2026-04-27T22:53:10.751Z"
 }
