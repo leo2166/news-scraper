@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "665,00"
+      "usdt": "673,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "“No espero perdón”: revisan escritos del sospechoso del tiroteo en Washington",
-      "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/autoridades-revisan-escritos-sospechoso-tiroteo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f7206af5bd404f9c-20260427134323038.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Acusan de intentar asesinar a Trump al sospechoso del tiroteo en Washington",
+      "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/live-news/ultima-hora-tiroteo-cena-corresponsales-sospechoso-noticias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f7206af5bd404f9c-20260427134323038.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,22 +38,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Resultados de encuesta Invamer: Iván Cepeda 44,3%; De la Espriella 21,5%; Paloma Valencia 19,8%",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/resultados-encuesta-invamer-intencion-de-voto-primera-vuelta-presidencial-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aa8337b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F16%2Fbbe942014089a128b8474e641d80%2Fivan-cepeda-abelardo-de-la-espriella-paloma-valencia-claudia-lopez-y-sergio-fajardo.jpg"
+      "title": "Una persona con “problemas mentales”: mindefensa sobre ‘Marlon’, responsable de atentado en Cajibío",
+      "link": "https://www.noticiascaracol.com/colombia/una-persona-con-problemas-mentales-mindefensa-sobre-marlon-responsable-de-atentado-en-cajibio-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ffd65d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F21%2F37%2F71b7a53147cdba308a6953006aba%2Fataque-cajibio-alias-marlon.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Nuevo ataque de EE. UU. contra “narcolancha” deja 3 muertos en el Pacífico oriental",
-      "link": "https://laverdad.com/nuevo-ataque-de-ee-uu-contra-narcolancha-deja-3-muertos-en-el-pacifico-oriental/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Ataque-EE.-UU.-narcolancha.jpg"
+      "title": "León XIV recibe a la arzobispa de Canterbury y llama a la unidad",
+      "link": "https://laverdad.com/leon-xiv-recibe-a-la-arzobispa-de-canterbury-y-llama-a-la-unidad/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Leon-XIV-arzobispa-de-Canterbury.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Putin alaba \"valentía y heroísmo\" de Irán y asegura haber recibido mensaje de líder supremo",
-      "link": "https://diarioversionfinal.com/mundo/putin-alaba-valentia-y-heroismo-de-iran-y-asegura-haber-recibido-mensaje-de-lider-supremo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-750x430.jpeg"
+      "title": "Macron intenta convencer a Trump de reabrir el estrecho de Ormuz y prevé contactar con Irán",
+      "link": "https://diarioversionfinal.com/mundo/macron-intenta-convencer-a-trump-de-reabrir-el-estrecho-de-ormuz-y-preve-contactar-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/macron-26-de-agosto-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-27T17:22:41.710Z"
+  "lastUpdate": "2026-04-27T19:22:59.630Z"
 };
