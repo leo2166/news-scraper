@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "657,39"
+      "usdt": "631,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,21 +14,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Cheremo: el video musical que reveló una red de corrupción entre policías y jueces en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/26/cheremo-el-video-musical-que-revelo-una-red-de-corrupcion-entre-policias-y-jueces-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/7SFUZF5PWJERNHTIWCCP26YMSM.jpg?auth=713abe5669bdcd8418db20ade3154fa63fb69e61849944a6671c0d4c77451e4e&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez llegó a Barbados en su segunda visita internacional como presidenta encargada de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/27/delcy-rodriguez-llego-a-barbados-en-su-segunda-visita-internacional-como-presidenta-encargada-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/JUQODACVOBGGHDAOOUZD3SR6NE.jpg?auth=2725bfb96e05e8856ea422b502486fdaf3afabbdb7c54ffb496cfb07e30233e8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump pide reprogramar la cena de corresponsales de la Casa Blanca",
+      "title": "Sospechoso del tiroteo compartió escritos anti-Trump antes del evento",
       "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/live-news/live-news-trump-retirado-cena-corresponsales-casa-blanca-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/investigacion-tiroteo.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria Democrática expresa \"enérgica condena\" al ataque contra Trump",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-democratica-expresa-energica-condena-al-ataque-contra-trump",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plataforma-unitaria-ea41ed.jpg"
+      "title": "Delcy Rodríguez llega a Barbados en su segundo viaje al extranjero como Presidenta Encargada",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-llega-a-barbados-en-su-segundo-viaje-al-extranjero-como-presidenta-encargada",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-04-26-at-10.42.05-pm-f2c479.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-26-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-27T02:49:24.084Z"
+  "lastUpdate": "2026-04-27T05:55:25.222Z"
 };
