@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "661,61"
+      "usdt": "657,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Presunto atacante armado compartió escritos anti-Trump antes del evento, dice una fuente",
-      "link": "https://cnnespanol.cnn.com/2026/04/26/eeuu/sospechoso-tiroteo-cena-corresponsales-casa-blanca-profesor-california-trax",
+      "title": "Trump pide reprogramar la cena de corresponsales de la Casa Blanca",
+      "link": "https://cnnespanol.cnn.com/2026/04/25/eeuu/live-news/live-news-trump-retirado-cena-corresponsales-casa-blanca-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/investigacion-tiroteo.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Estas son las identidades de víctimas mortales de atentado en Cajibío, Cauca: ya son 20 los muertos",
-      "link": "https://www.noticiascaracol.com/colombia/estas-son-las-identidades-de-victimas-mortales-de-atentado-en-cajibio-cauca-ya-son-20-los-muertos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/771c1c5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F3f%2Fcf%2Fe88300204f45a3e2afb02783b140%2Ffotos-discover-2026-04-26t132404-534.jpg"
+      "title": "Encuesta Invamer: escenarios segunda vuelta entre Cepeda, Valencia, De la Espriella, López y Fajardo",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/encuesta-invamer-escenarios-segunda-vuelta-ivan-cepeda-paloma-valencia-abelardo-de-la-espriella-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/69110b5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa9%2Fef%2F38c3242644a1b038577ee154d974%2Fclaudia-lopez-sergio-fajardo-paloma-valencia-ivan-cepeda-y-abelardo-de-la-espriella.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Al menos nueve muertos por bombardeos rusos contra Ucrania: Zelenski pide que le refuercen el apoyo",
-      "link": "https://diarioversionfinal.com/mundo/al-menos-nueve-muertos-por-bombardeos-rusos-contra-ucrania-zelenski-pide-que-le-refuercen-el-apoyo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Ataques-contra-Ucrania-26-04-2026-750x430.png"
+      "title": "Papa León XIV pide responsabilidad en el uso de la energía atómica en aniversario de Chernóbil",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-pide-responsabilidad-en-el-uso-de-la-energia-atomica-en-aniversario-de-chernobil/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-26-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-26T23:39:19.165Z"
+  "lastUpdate": "2026-04-27T02:49:24.084Z"
 };
