@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "631,30"
+      "usdt": "662,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -22,7 +22,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Un nuevo ataque a los rituales que definen la democracia estadounidense",
       "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/analisis-ataque-rituales-democracia-estadounidense-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/investigacion-tiroteo.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tiroteocenacorresponsales.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-26-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-04-27T08:26:26.086Z"
+  "lastUpdate": "2026-04-27T11:04:48.136Z"
 };
