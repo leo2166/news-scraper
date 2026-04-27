@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,30"
     },
     "binance": {
-      "usdt": "675,00"
+      "usdt": "676,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOEL GARCÍA CUESTIONÓ LA DESIGNACIÓN DE MAGISTRADOS AFINES A INTERESES PARTIDISTAS",
-      "link": "https://noticierodigital.com/2026/04/joel-garcia-cuestiono-la-designacion-de-magistrados-afines-a-intereses-partidistas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/joel-garcia-abogado.jpg"
+      "title": "DIOSDADO CABELLO DESESTIMÓ LA CONVOCATORIA DE UN PROCESO ELECTORAL A CORTO PLAZO",
+      "link": "https://noticierodigital.com/2026/04/diosdado-cabello-desestimo-la-convocatoria-de-un-proceso-electoral-a-corto-plazo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/diosdado-cabello-venezuela-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Expectativa en Uruguay, Argentina y Perú por inminente visita del Papa León XIV",
-      "link": "https://diarioversionfinal.com/mundo/expectativa-en-uruguay-argentina-y-peru-por-inminente-visita-del-papa-leon-xiv/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-y-arzobispo-Daniel-Sturla-27-04-2026-750x430.jpg"
+      "title": "Capturan a El Jardinero, considerado” sucesor de “El Mencho” en el Cártel de Jalisco",
+      "link": "https://diarioversionfinal.com/mundo/capturan-a-el-jardinero-considerado-sucesor-de-el-mencho-en-el-cartel-de-jalisco/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_3269-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-27T22:53:10.751Z"
+  "lastUpdate": "2026-04-27T23:54:52.033Z"
 };
