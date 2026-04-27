@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "662,50"
+      "usdt": "663,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez llegó a Barbados en su segunda visita internacional como presidenta encargada de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/27/delcy-rodriguez-llego-a-barbados-en-su-segunda-visita-internacional-como-presidenta-encargada-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/JUQODACVOBGGHDAOOUZD3SR6NE.jpg?auth=2725bfb96e05e8856ea422b502486fdaf3afabbdb7c54ffb496cfb07e30233e8&smart=true&width=350&height=197&quality=85"
+      "title": "Empresas petroleras reactivan sus equipos almacenados en Venezuela tras la revisión de contratos",
+      "link": "https://www.infobae.com/venezuela/2026/04/27/empresas-petroleras-reactivan-sus-equipos-almacenados-en-venezuela-tras-la-revision-de-contratos/",
+      "image": "https://www.infobae.com/resizer/v2/P2GIB7G2KRC5LG3JTZQQVMG54A.JPG?auth=78d11b44b5cac5bba99c511315a2e8fb644432c21e5bca45ca77620528653dc9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Un nuevo ataque a los rituales que definen la democracia estadounidense",
-      "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/analisis-ataque-rituales-democracia-estadounidense-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tiroteocenacorresponsales.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "“No espero perdón”: revisan escritos del sospechoso del tiroteo en Washington",
+      "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/autoridades-revisan-escritos-sospechoso-tiroteo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f7206af5bd404f9c-20260427134323038.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUD CONDENÓ EL ATAQUE ARMADO CONTRA DONALD TRUMP EN WASHINGTON",
-      "link": "https://noticierodigital.com/2026/04/pud-condeno-el-ataque-armado-contra-donald-trump-en-washington/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
+      "title": "ACCIDENTE EN LA CARRETERA MÉRIDA-BARINAS DEJA UNAS 10 PERSONAS FALLECIDAS",
+      "link": "https://noticierodigital.com/2026/04/accidente-en-la-carretera-merida-barinas-deja-unas-10-personas-fallecidas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-19-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Encuesta Invamer: escenarios segunda vuelta entre Cepeda, Valencia, De la Espriella, López y Fajardo",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/encuesta-invamer-escenarios-segunda-vuelta-ivan-cepeda-paloma-valencia-abelardo-de-la-espriella-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/69110b5/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa9%2Fef%2F38c3242644a1b038577ee154d974%2Fclaudia-lopez-sergio-fajardo-paloma-valencia-ivan-cepeda-y-abelardo-de-la-espriella.jpg"
+      "title": "Resultados de encuesta Invamer: Iván Cepeda 44,3%; De la Espriella 21,5%; Paloma Valencia 19,8%",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/resultados-encuesta-invamer-intencion-de-voto-primera-vuelta-presidencial-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/aa8337b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffd%2F16%2Fbbe942014089a128b8474e641d80%2Fivan-cepeda-abelardo-de-la-espriella-paloma-valencia-claudia-lopez-y-sergio-fajardo.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV pide responsabilidad en el uso de la energía atómica en aniversario de Chernóbil",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-pide-responsabilidad-en-el-uso-de-la-energia-atomica-en-aniversario-de-chernobil/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-26-04-2026-750x430.png"
+      "title": "Sospechoso del atentado fallido contra Trump comparece ante un juez en Washington",
+      "link": "https://diarioversionfinal.com/mundo/sospechoso-del-atentado-fallido-contra-trump-comparece-ante-un-juez-en-washington/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Cole-Allen-27-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-27T11:04:48.136Z"
+  "lastUpdate": "2026-04-27T13:54:43.076Z"
 };
