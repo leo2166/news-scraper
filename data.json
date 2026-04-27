@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "673,99"
+      "usdt": "676,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela se queda sin maestros: “Se requerirían 50 años para cubrir el déficit de profesores graduados”",
-      "link": "https://www.infobae.com/venezuela/2026/04/27/venezuela-se-queda-sin-maestros-se-requeririan-50-anos-para-cubrir-el-deficit-de-profesores-graduados/",
-      "image": "https://www.infobae.com/resizer/v2/ROU2XDFZFPPS46Z42ENVJR3TWM.jpg?auth=fcb311b99efc1ea694336961d50222ebe48e2ddc6f7b52833b7543e28164dc43&smart=true&width=350&height=197&quality=85"
+      "title": "El Banco Central de Venezuela confirmó que una firma estadounidense auditará el uso de sus recursos en el exterior",
+      "link": "https://www.infobae.com/venezuela/2026/04/27/el-banco-central-de-venezuela-confirmo-que-una-firma-estadounidense-auditara-el-uso-de-sus-recursos-en-el-exterior/",
+      "image": "https://www.infobae.com/resizer/v2/MZQL4NG3VNGB3JUHKKJQLSVFTI.jpg?auth=0f1bbc382e16e1ec663fcf1852b3825f5d4cebd8f85fbfdf15d297a242595978&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Acusan de intentar asesinar a Trump al sospechoso del tiroteo en Washington",
+      "title": "Sospechoso de tiroteo, acusado de intento de asesinato de Trump",
       "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/live-news/ultima-hora-tiroteo-cena-corresponsales-sospechoso-noticias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f7206af5bd404f9c-20260427134323038.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-jimmy-kimmell-split-20260427183746036.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "«NUEVO TSJ ES EL PRIMER PASO PARA TENER SEGURIDAD JURÍDICA», DIJO ECARRI",
-      "link": "https://noticierodigital.com/2026/04/nuevo-tsj-es-el-primer-paso-para-tener-seguridad-juridica-dijo-ecarri/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260427-WA0020-627x376.jpg"
+      "title": "OPERACIONES EN EMBAJADA DE EE. UU. EN CARACAS REQUERIRÁ DE $14,3 MILLONES",
+      "link": "https://noticierodigital.com/2026/04/operaciones-en-embajada-de-ee-uu-en-caracas-requerira-de-143-millones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Una persona con “problemas mentales”: mindefensa sobre ‘Marlon’, responsable de atentado en Cajibío",
-      "link": "https://www.noticiascaracol.com/colombia/una-persona-con-problemas-mentales-mindefensa-sobre-marlon-responsable-de-atentado-en-cajibio-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5ffd65d/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F21%2F37%2F71b7a53147cdba308a6953006aba%2Fataque-cajibio-alias-marlon.jpg"
+      "title": "La razón por la que la Fiscalía allanó cientos de tiendas Lili Pink a nivel nacional",
+      "link": "https://www.noticiascaracol.com/colombia/la-razon-por-la-que-la-fiscalia-allano-cientos-de-tiendas-de-lili-pink-a-nivel-nacional-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5874693/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2F6b%2F068e7a28493d81f449ed3cb80814%2Flili-pink-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Macron intenta convencer a Trump de reabrir el estrecho de Ormuz y prevé contactar con Irán",
-      "link": "https://diarioversionfinal.com/mundo/macron-intenta-convencer-a-trump-de-reabrir-el-estrecho-de-ormuz-y-preve-contactar-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/macron-26-de-agosto-750x430.webp"
+      "title": "Tres muertos deja nuevo ataque de EE. UU. contra una lancha en el Pacífico Oriental",
+      "link": "https://diarioversionfinal.com/mundo/tres-muertos-deja-nuevo-ataque-de-ee-uu-contra-una-lancha-en-el-pacifico-oriental/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Lancha-atacada-27-04-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-04-27T19:22:59.630Z"
+  "lastUpdate": "2026-04-27T21:02:42.020Z"
 }
