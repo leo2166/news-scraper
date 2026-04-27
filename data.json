@@ -5,7 +5,7 @@
       "eur": "567,40"
     },
     "binance": {
-      "usdt": "663,00"
+      "usdt": "663,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Empresas petroleras reactivan sus equipos almacenados en Venezuela tras la revisión de contratos",
-      "link": "https://www.infobae.com/venezuela/2026/04/27/empresas-petroleras-reactivan-sus-equipos-almacenados-en-venezuela-tras-la-revision-de-contratos/",
-      "image": "https://www.infobae.com/resizer/v2/P2GIB7G2KRC5LG3JTZQQVMG54A.JPG?auth=78d11b44b5cac5bba99c511315a2e8fb644432c21e5bca45ca77620528653dc9&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela se queda sin maestros: “Se requerirían 50 años para cubrir el déficit de profesores graduados”",
+      "link": "https://www.infobae.com/venezuela/2026/04/27/venezuela-se-queda-sin-maestros-se-requeririan-50-anos-para-cubrir-el-deficit-de-profesores-graduados/",
+      "image": "https://www.infobae.com/resizer/v2/ROU2XDFZFPPS46Z42ENVJR3TWM.jpg?auth=fcb311b99efc1ea694336961d50222ebe48e2ddc6f7b52833b7543e28164dc43&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACCIDENTE EN LA CARRETERA MÉRIDA-BARINAS DEJA UNAS 10 PERSONAS FALLECIDAS",
-      "link": "https://noticierodigital.com/2026/04/accidente-en-la-carretera-merida-barinas-deja-unas-10-personas-fallecidas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-19-627x376.png"
+      "title": "«NUEVO TSJ ES EL PRIMER PASO PARA TENER SEGURIDAD JURÍDICA», DIJO ECARRI",
+      "link": "https://noticierodigital.com/2026/04/nuevo-tsj-es-el-primer-paso-para-tener-seguridad-juridica-dijo-ecarri/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/IMG-20260427-WA0020-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV advierte sobre los riesgos de la energía atómica al recordar Chernóbil",
-      "link": "https://laverdad.com/papa-leon-xiv-advierte-sobre-los-riesgos-de-la-energia-atomica-al-recordar-chernobil/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/536b35a2055dae29679af1612b6ab75778228731-scaled.jpg"
+      "title": "Nuevo ataque de EE. UU. contra “narcolancha” deja 3 muertos en el Pacífico oriental",
+      "link": "https://laverdad.com/nuevo-ataque-de-ee-uu-contra-narcolancha-deja-3-muertos-en-el-pacifico-oriental/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Ataque-EE.-UU.-narcolancha.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sospechoso del atentado fallido contra Trump comparece ante un juez en Washington",
-      "link": "https://diarioversionfinal.com/mundo/sospechoso-del-atentado-fallido-contra-trump-comparece-ante-un-juez-en-washington/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Cole-Allen-27-04-2026-750x430.jpg"
+      "title": "“No espero perdón”: Autoridades revisan escritos del profesor sospechoso del tiroteo en Cena de Corresponsales",
+      "link": "https://diarioversionfinal.com/mundo/no-espero-perdon-utoridades-revisan-escritos-del-profesor-sospechoso-del-tiroteo-en-cena-de-corresponsales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-11.24.12-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-27T13:54:43.076Z"
+  "lastUpdate": "2026-04-27T15:49:27.986Z"
 }
