@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,30"
     },
     "binance": {
-      "usdt": "676,00"
+      "usdt": "673,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez sacude el Tribunal Supremo de Justicia y elimina a magistrados de la pareja Maduro-Flores",
-      "link": "https://www.infobae.com/venezuela/2026/04/28/delcy-rodriguez-sacude-el-tribunal-supremo-de-justicia-y-elimina-a-magistrados-de-la-pareja-maduro-flores/",
-      "image": "https://www.infobae.com/resizer/v2/4LJTPA7QKZEFFKLHADODB3QQG4.jpg?auth=fc9914b324b546c14eee118fdf1b5646c39c8d38201743f3a846ccabd69e8520&smart=true&width=350&height=197&quality=85"
+      "title": "Dudas sobre el destino de las 71 toneladas de insumos médicos que envió Estados Unidos a Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/28/dudas-sobre-el-destino-de-las-71-toneladas-de-insumos-medicos-que-envio-estados-unidos-a-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6KJMLBF5PBEXLPBBZC3PM3TEAM.jpg?auth=f8125c1061ac3d0a709c989e6ee9a022dbdcf9df62cee9547adcaf6fd0062fec&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Emiratos Árabes Unidos se retirará de la OPEP",
-      "link": "https://cnnespanol.cnn.com/2026/04/28/mundo/live-news/guerra-ee-uu-israel-iran-6-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/usa-iran-conflic.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Juez de EE.UU. acepta licencias de la OFAC como pago de la defensa de Maduro",
+      "link": "https://cnnespanol.cnn.com/2026/04/28/venezuela/juez-eeuu-acepta-licencias-pago-defensa-maduro-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-2-20260428095815014.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EDMUNDO GONZÁLEZ TRAS RECIBIR ALTA MÉDICA: «SIGO ATENTO A VENEZUELA»",
-      "link": "https://noticierodigital.com/2026/04/edmundo-gonzalez-tras-recibir-alta-medica-sigo-atento-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/edmundo-gonzalez-2422-1200x640-1-627x376.webp"
+      "title": "«VENEZUELA TENDRÁ EL MAYOR VIGOR FINANCIERO DE LA REGIÓN», SEGÚN CEPAL",
+      "link": "https://noticierodigital.com/2026/04/venezuela-tendra-el-mayor-vigor-financiero-de-la-region-segun-cepal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/cepal-reunion.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "CPI aceptó denuncia contra ‘Iván Mordisco’ por delitos de lesa humanidad, dijo presidente Petro",
-      "link": "https://www.noticiascaracol.com/judicial/cpi-acepto-denuncia-contra-ivan-mordisco-por-delitos-de-lesa-humanidad-dijo-presidente-petro-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/431f9b5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fee%2F13%2F088e4a1b4323be94e8e87ddad5fb%2Fivan-mordisco-lesa-humanidad.jpg"
+      "title": "Así funcionaría red que presuntamente involucra a Lili Pink en lavado de activos y contrabando",
+      "link": "https://www.noticiascaracol.com/judicial/asi-funcionaria-red-que-presuntamente-involucra-a-lili-pink-en-lavado-de-activos-y-contrabando-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a02e432/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F26%2Faa%2Fe1d62af146edad0169c268838707%2Fexcentricidades-39.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/onu-facilitara-transporte-terrestre-por-bloqueo-en-estrecho-ormuz-fd38a3e7-focus-0-0-1200-675-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-28T16:51:44.595Z"
+  "lastUpdate": "2026-04-28T18:17:46.681Z"
 };
