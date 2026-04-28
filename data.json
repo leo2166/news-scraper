@@ -5,7 +5,7 @@
       "eur": "569,43"
     },
     "binance": {
-      "usdt": "676,12"
+      "usdt": "646,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Emiratos Árabes Unidos se retirará de la OPEP",
-      "link": "https://cnnespanol.cnn.com/2026/04/28/mundo/live-news/guerra-ee-uu-israel-iran-6-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-2-20260428095815014.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El Gobierno de Trump pausa temporalmente las decisiones de inmigración",
+      "link": "https://cnnespanol.cnn.com/2026/04/28/eeuu/gobierno-trump-pausa-decisiones-inmigracion-seguridad-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2242610269.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "IRFAAN ALI SE QUEJÓ ANTE LA CARICOM POR UN BROCHE QUE USÓ DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/04/irfaan-ali-se-quejo-ante-la-caricom-por-un-broche-que-uso-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-venezuela-9-627x376.jpg"
+      "title": "SOLDADO DE EE. UU. SE DECLARÓ NO CULPABLE TRAS APOSTAR SOBRE LA CAPTURA DE MADURO",
+      "link": "https://noticierodigital.com/2026/04/soldado-de-ee-uu-se-declaro-no-culpable-tras-apostar-sobre-la-captura-de-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Gannon-Van-Dyke-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/07/Departamento-de-Estado-EEUU-2-810x540-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-28T21:58:27.210Z"
+  "lastUpdate": "2026-04-28T23:02:08.670Z"
 }
