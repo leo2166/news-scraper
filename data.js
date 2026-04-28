@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "485,23",
-      "eur": "569,30"
+      "usd": "486,20",
+      "eur": "569,43"
     },
     "binance": {
-      "usdt": "674,99"
+      "usdt": "676,12"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Juez de EE.UU. acepta licencias de la OFAC como pago de la defensa de Maduro",
-      "link": "https://cnnespanol.cnn.com/2026/04/28/venezuela/juez-eeuu-acepta-licencias-pago-defensa-maduro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-2-20260428095815014.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Emiratos Árabes Unidos se retirará de la OPEP",
+      "link": "https://cnnespanol.cnn.com/2026/04/28/mundo/live-news/guerra-ee-uu-israel-iran-6-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-2-20260428095815014.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Magaly Vázquez enfatiza que el perfil de los magistrados debe ser autónomo y transparente",
-      "link": "https://noticiasvenevision.com/noticias/politica/magaly-vazquez-enfatiza-que-el-perfil-de-los-magistrados-debe-ser-autonomo-y-transparente",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/poster-h-4-ecd4c3.jpg"
+      "title": "John Barrett ratifica la ejecución del plan de tres fases tras cinco días de su llegada a Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/john-barrett-ratifica-la-ejecucion-del-plan-de-tres-fases-tras-cinco-dias-de-su-llegada-a-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_barrett-compressed-e1776968298476-d4490f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FIFA EVALÚA APLICAR MENOS SANCIONES EN PARTIDOS CLAVES DEL MUNDIAL",
-      "link": "https://noticierodigital.com/2026/04/fifa-evalua-aplicar-menos-sanciones-en-partidos-claves-del-mundial/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-21-627x376.png"
+      "title": "IRFAAN ALI SE QUEJÓ ANTE LA CARICOM POR UN BROCHE QUE USÓ DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/04/irfaan-ali-se-quejo-ante-la-caricom-por-un-broche-que-uso-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-venezuela-9-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Ordenan suspensión provisional del traslado de $25 billones de fondos privados a Colpensiones",
-      "link": "https://www.noticiascaracol.com/judicial/ordenan-suspension-provisional-del-traslado-de-25-billones-de-fondos-privados-a-colpensiones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cf23ca8/2147483647/strip/true/crop/1489x840+0+18/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F43%2F2e%2F9664b8ac464eaf1306d7635cf9c4%2Fcolpensiones.jpg"
+      "title": "Luis Díaz, golazo y desequilibrio puro en vibrante 5-4 de PSG sobre Bayern Múnich, en Champions",
+      "link": "https://www.noticiascaracol.com/golcaracol/colombianos-en-el-exterior/luis-diaz-golazo-y-desequilibrio-puro-en-vibrante-5-4-de-psg-sobre-bayern-munich-en-champions-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/251a424/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2F52%2F0774f4b643d7af78dfec8bd8679e%2F23-diaz.png"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tragedia en Indonesia: 15 mujeres mueren en colisión de trenes",
-      "link": "https://diarioversionfinal.com/mundo/tragedia-en-indonesia-15-mujeres-mueren-en-colision-de-trenes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/FIBTZIUJVBATHM7HLCXQSG3VGY-750x430.jpg"
+      "title": "EE. UU. reduce en miles de millones “financiación ilícita” del régimen de Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-reduce-en-miles-de-millones-financiacion-ilicita-del-regimen-de-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/07/Departamento-de-Estado-EEUU-2-810x540-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-28T20:16:42.770Z"
+  "lastUpdate": "2026-04-28T21:58:27.210Z"
 };
