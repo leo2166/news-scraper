@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,30"
     },
     "binance": {
-      "usdt": "647,60"
+      "usdt": "648,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El Banco Central de Venezuela confirmó que una firma estadounidense auditará el uso de sus recursos en el exterior",
-      "link": "https://www.infobae.com/venezuela/2026/04/27/el-banco-central-de-venezuela-confirmo-que-una-firma-estadounidense-auditara-el-uso-de-sus-recursos-en-el-exterior/",
-      "image": "https://www.infobae.com/resizer/v2/MZQL4NG3VNGB3JUHKKJQLSVFTI.jpg?auth=0f1bbc382e16e1ec663fcf1852b3825f5d4cebd8f85fbfdf15d297a242595978&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos instó al sector petrolero venezolano a aprovechar una “oportunidad histórica” tras la reapertura bilateral",
+      "link": "https://www.infobae.com/venezuela/2026/04/28/estados-unidos-insto-al-sector-petrolero-venezolano-a-aprovechar-una-oportunidad-historica-tras-la-reapertura-bilateral/",
+      "image": "https://www.infobae.com/resizer/v2/CI76UHHY5NGSFPJX2YLSARCHJQ.JPG?auth=d5aef411c188d6633f533d35b7fd7d5ffa42540663be1667b9196e7774d2fd6c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Qué revelan las cuentas de redes atribuidas al acusado de intentar asesinar a Trump",
-      "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/redes-sociales-cole-tomas-allen-tiroteo-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/119138-fbiwhcdgunman-digvid-20260427222655334.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La hipócrita cruzada de Trump contra la retórica violenta y la realidad de un país dividido",
+      "link": "https://cnnespanol.cnn.com/2026/04/28/eeuu/analisis-hipocrita-cruzada-trump-retorica-violenta-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-26t023507z-1898837441-rc2qwkarmr12-rtrmadp-3-usa-trump-dinner-20260428043606548.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/maduro-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-28T02:56:15.407Z"
+  "lastUpdate": "2026-04-28T06:09:06.699Z"
 };
