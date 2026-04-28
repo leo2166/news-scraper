@@ -5,7 +5,7 @@
       "eur": "569,30"
     },
     "binance": {
-      "usdt": "677,62"
+      "usdt": "676,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,33 +14,33 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos instó al sector petrolero venezolano a aprovechar una “oportunidad histórica” tras la reapertura bilateral",
-      "link": "https://www.infobae.com/venezuela/2026/04/28/estados-unidos-insto-al-sector-petrolero-venezolano-a-aprovechar-una-oportunidad-historica-tras-la-reapertura-bilateral/",
-      "image": "https://www.infobae.com/resizer/v2/CI76UHHY5NGSFPJX2YLSARCHJQ.JPG?auth=d5aef411c188d6633f533d35b7fd7d5ffa42540663be1667b9196e7774d2fd6c&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez sacude el Tribunal Supremo de Justicia y elimina a magistrados de la pareja Maduro-Flores",
+      "link": "https://www.infobae.com/venezuela/2026/04/28/delcy-rodriguez-sacude-el-tribunal-supremo-de-justicia-y-elimina-a-magistrados-de-la-pareja-maduro-flores/",
+      "image": "https://www.infobae.com/resizer/v2/4LJTPA7QKZEFFKLHADODB3QQG4.jpg?auth=fc9914b324b546c14eee118fdf1b5646c39c8d38201743f3a846ccabd69e8520&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Exclusivo: Trump acelera deportaciones de niños inmigrantes bajo custodia del Gobierno de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/04/28/eeuu/exclusiva-trump-acelera-deportaciones-ninos-inmigrantes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1334162484-20260428094731034.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Emiratos Árabes Unidos se retirará de la OPEP",
+      "link": "https://cnnespanol.cnn.com/2026/04/28/mundo/live-news/guerra-ee-uu-israel-iran-6-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/usa-iran-conflic.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Henrique Capriles insta a garantizar la independencia y transparencia en la selección de nuevos magistrados del TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/henrique-capriles-insta-a-garantizar-la-independencia-y-transparencia-en-la-seleccion-de-nuevos-magistrados-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rrw6eqvyjzc3vf5g5yb5aukjlq-a7f0ba.avif"
+      "title": "Delegación de la Asamblea Nacional  solicita reingreso pleno de Venezuela al Parlasur",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-de-la-asamblea-nacional-formaliza-en-montevideo-solicitud-para-el-reingreso-pleno-de-venezuela-al-parlasur",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_681709060_18104848577506888_6661008762263995985_n-a880e6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUD REPORTÓ LA EXCARCELACIÓN DE APENAS 18 PRESOS POLÍTICOS DURANTE EL ÚLTIMO MES",
-      "link": "https://noticierodigital.com/2026/04/pud-reporto-la-excarcelacion-de-apenas-18-presos-politicos-durante-el-ultimo-mes/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/plataforma-unitaria-p-1-627x376.jpg"
+      "title": "EDMUNDO GONZÁLEZ TRAS RECIBIR ALTA MÉDICA: «SIGO ATENTO A VENEZUELA»",
+      "link": "https://noticierodigital.com/2026/04/edmundo-gonzalez-tras-recibir-alta-medica-sigo-atento-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/edmundo-gonzalez-2422-1200x640-1-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Paloma Valencia denunció presunto plan de disidencias para asesinarla: Mindefensa se pronunció",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/paloma-valencia-denuncio-presunto-plan-de-disidencias-para-asesinarla-mindefensa-se-pronuncio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0ce7619/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2F55%2F934534a443fa80cb03835244e445%2Fpaloma-valencia.jpg"
+      "title": "CPI aceptó denuncia contra ‘Iván Mordisco’ por delitos de lesa humanidad, dijo presidente Petro",
+      "link": "https://www.noticiascaracol.com/judicial/cpi-acepto-denuncia-contra-ivan-mordisco-por-delitos-de-lesa-humanidad-dijo-presidente-petro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/431f9b5/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fee%2F13%2F088e4a1b4323be94e8e87ddad5fb%2Fivan-mordisco-lesa-humanidad.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juez avala continuidad del caso contra Maduro y Cilia Flores con licencias modificadas",
-      "link": "https://diarioversionfinal.com/mundo/juez-avala-continuidad-del-caso-contra-maduro-y-cilia-flores-con-licencias-modificadas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/maduro-750x430.webp"
+      "title": "ONU lanza mecanismo para facilitar el transporte terrestre en Medio Oriente por crisis en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/onu-lanza-mecanismo-para-facilitar-el-transporte-terrestre-en-medio-oriente-por-crisis-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/onu-facilitara-transporte-terrestre-por-bloqueo-en-estrecho-ormuz-fd38a3e7-focus-0-0-1200-675-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-28T11:45:00.034Z"
+  "lastUpdate": "2026-04-28T16:51:44.595Z"
 }
