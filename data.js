@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,30"
     },
     "binance": {
-      "usdt": "676,61"
+      "usdt": "647,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Sospechoso de tiroteo, acusado de intento de asesinato de Trump",
-      "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/live-news/ultima-hora-tiroteo-cena-corresponsales-sospechoso-noticias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-jimmy-kimmell-split-20260427183746036.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Qué revelan las cuentas de redes atribuidas al acusado de intentar asesinar a Trump",
+      "link": "https://cnnespanol.cnn.com/2026/04/27/eeuu/redes-sociales-cole-tomas-allen-tiroteo-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/119138-fbiwhcdgunman-digvid-20260427222655334.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIOSDADO CABELLO DESESTIMÓ LA CONVOCATORIA DE UN PROCESO ELECTORAL A CORTO PLAZO",
-      "link": "https://noticierodigital.com/2026/04/diosdado-cabello-desestimo-la-convocatoria-de-un-proceso-electoral-a-corto-plazo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/diosdado-cabello-venezuela-2-627x376.jpg"
+      "title": "PUD REPORTÓ LA EXCARCELACIÓN DE APENAS 18 PRESOS POLÍTICOS DURANTE EL ÚLTIMO MES",
+      "link": "https://noticierodigital.com/2026/04/pud-reporto-la-excarcelacion-de-apenas-18-presos-politicos-durante-el-ultimo-mes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/plataforma-unitaria-p-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Capturan a El Jardinero, considerado” sucesor de “El Mencho” en el Cártel de Jalisco",
-      "link": "https://diarioversionfinal.com/mundo/capturan-a-el-jardinero-considerado-sucesor-de-el-mencho-en-el-cartel-de-jalisco/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/IMG_3269-750x430.jpeg"
+      "title": "Juez avala continuidad del caso contra Maduro y Cilia Flores con licencias modificadas",
+      "link": "https://diarioversionfinal.com/mundo/juez-avala-continuidad-del-caso-contra-maduro-y-cilia-flores-con-licencias-modificadas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/maduro-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-27T23:54:52.033Z"
+  "lastUpdate": "2026-04-28T02:56:15.407Z"
 };
