@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,43"
     },
     "binance": {
-      "usdt": "646,55"
+      "usdt": "676,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos aseguró que el sector privado está preparado para impulsar la recuperación económica de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/29/estados-unidos-aseguro-que-el-sector-privado-esta-preparado-para-impulsar-la-recuperacion-economica-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6DNRBUGCLRF7VNEHVHTDMMHWHM.PNG?auth=0ed4f08fac86459aabad62afef89880a87f4f6ae01e4c8a1f2a77353462916df&smart=true&width=350&height=197&quality=85"
+      "title": "PDVSA y la petrolera italiana ENI firmaron un nuevo convenio para incrementar la producción de gas en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/29/pdvsa-y-la-petrolera-italiana-eni-firmaron-un-nuevo-convenio-para-incrementar-la-produccion-de-gas-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/I3IXQCCWPVHFXI5BAX7KCJJRCE.jpg?auth=0135b8a7954e8b965f855fc486f3f347c4bcc1c55afa0dde50512a91e89b6119&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Carlos-y-Trump-28-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-29T05:55:32.763Z"
+  "lastUpdate": "2026-04-29T08:20:31.282Z"
 };
