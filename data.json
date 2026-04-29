@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "486,20",
-      "eur": "569,43"
+      "usd": "487,12",
+      "eur": "569,76"
     },
     "binance": {
-      "usdt": "675,50"
+      "usdt": "668,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -22,7 +22,7 @@
       "source": "CNN en Español",
       "title": "EE.UU. acusa al gobernador de Sinaloa de narcotráfico y posesión de armas",
       "link": "https://cnnespanol.cnn.com/2026/04/29/mexico/acusacion-gobernador-sinaloa-ruben-rocha-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-04-29-at-13-39-15.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/harfuch2.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -31,16 +31,10 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/henry-alviarez-vente-venezuela-001-960x640-6d4f43.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "VILLAVICENCIO: «NO ES CIERTO QUE NO NOS INTERESEN LOS (COLOMBIANOS) DETENIDOS EN VENEZUELA»",
-      "link": "https://noticierodigital.com/2026/04/villavicencio-no-es-cierto-que-no-nos-interesen-los-colombianos-detenidos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/rosa-villavicencio-colombia-1-627x376.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "La casa de los espíritus llega a Prime Video: Alfonso Herrera y Nicole Wallace hablan en exclusiva",
-      "link": "https://www.noticiascaracol.com/entretenimiento/serie-de-la-casa-de-los-espiritus-llega-a-prime-video-alfonso-herrera-y-nicole-wallace-hablan-en-exclusiva-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3199edb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F25%2F57%2F69a101ca47ed94c1faaae139b17b%2Fdiseno.jpg"
+      "title": "Funcionarios del Ministerio del Interior son retenidos por indígenas emberá en Bogotá",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/funcionarios-del-ministerio-del-interior-son-retenidos-por-indigenas-embera-en-bogota-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b5bffd/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4c%2F60%2Fdb864cfd462f814c05bb85763ab9%2Findigenas-bogota.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +44,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Walmart presenta en Florida plan para entregar pedidos con drones",
-      "link": "https://diarioversionfinal.com/mundo/walmart-presenta-en-florida-plan-para-entregar-pedidos-con-drones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Walmart-dron-29-04-2026-750x430.jpeg"
+      "title": "Presidente Noboa acusa a Petro de impulsar incursión de guerrilleros a Ecuador",
+      "link": "https://diarioversionfinal.com/mundo/presidente-noboa-acusa-a-petro-de-impulsar-incursion-de-guerrilleros-a-ecuador/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/Daniel-Noboa-02-07-2024.jpg"
     }
   ],
-  "lastUpdate": "2026-04-29T21:06:18.864Z"
+  "lastUpdate": "2026-04-29T22:57:22.481Z"
 }
