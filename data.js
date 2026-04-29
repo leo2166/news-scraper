@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,43"
     },
     "binance": {
-      "usdt": "646,00"
+      "usdt": "649,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Bajo la presión de Trump, la administración de Delcy Rodríguez se presta a rendir cuentas y mostrar el manejo de los fondos públicos",
-      "link": "https://www.infobae.com/venezuela/2026/04/28/bajo-la-presion-de-trump-la-administracion-de-delcy-rodriguez-se-presta-a-rendir-cuentas-y-mostrar-el-manejo-de-los-fondos-publicos/",
-      "image": "https://www.infobae.com/resizer/v2/PCTV5NDB4FHJLITHE4Y54IDDNE.PNG?auth=653bf6f63a83dad7e8229c98138fc883fc9b33ae1152252a1aee728202c8b2ed&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos aseguró que el sector privado está preparado para impulsar la recuperación económica de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/29/estados-unidos-aseguro-que-el-sector-privado-esta-preparado-para-impulsar-la-recuperacion-economica-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6DNRBUGCLRF7VNEHVHTDMMHWHM.PNG?auth=0ed4f08fac86459aabad62afef89880a87f4f6ae01e4c8a1f2a77353462916df&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "John Barrett ratifica la ejecución del plan de tres fases tras cinco días de su llegada a Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/john-barrett-ratifica-la-ejecucion-del-plan-de-tres-fases-tras-cinco-dias-de-su-llegada-a-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_barrett-compressed-e1776968298476-d4490f.jpg"
+      "title": "Ministerio Público y organizaciones de derechos humanos establecen mecanismo de comunicación",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-publico-y-organizaciones-de-derechos-humanos-establecen-mecanismo-de-comunicacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/este-martes-el-fiscal-general-de-la-repblica_-larry-devoe-mrquez_-recibi-en-la-sede-del-mini-c3e670.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SOLDADO DE EE. UU. SE DECLARÓ NO CULPABLE TRAS APOSTAR SOBRE LA CAPTURA DE MADURO",
-      "link": "https://noticierodigital.com/2026/04/soldado-de-ee-uu-se-declaro-no-culpable-tras-apostar-sobre-la-captura-de-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Gannon-Van-Dyke-627x376.jpg"
+      "title": "CECODAP EXIGIÓ AL MP LA LIBERACIÓN DE LA ADOLESCENTE DETENIDA SAMANTHA HERNÁNDEZ",
+      "link": "https://noticierodigital.com/2026/04/cecodap-exigio-al-mp-la-liberacion-de-la-adolescente-detenida-samantha-hernandez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/carlostrapani-cecodap-27mar2023.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Luis Díaz, golazo y desequilibrio puro en vibrante 5-4 de PSG sobre Bayern Múnich, en Champions",
-      "link": "https://www.noticiascaracol.com/golcaracol/colombianos-en-el-exterior/luis-diaz-golazo-y-desequilibrio-puro-en-vibrante-5-4-de-psg-sobre-bayern-munich-en-champions-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/251a424/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2F52%2F0774f4b643d7af78dfec8bd8679e%2F23-diaz.png"
+      "title": "¿Por qué la JEP aumentó cifra de falsos positivos de 6.402 a 7.837? Magistrado explicó",
+      "link": "https://www.noticiascaracol.com/judicial/por-que-la-jep-aumento-cifra-de-falsos-positivos-de-6-402-a-7-837-magistrado-explico-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/06a21e6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fee%2Fa2%2F4722c40c41638ce534458aa3d1a2%2Ffalsos-positivos.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. reduce en miles de millones “financiación ilícita” del régimen de Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-reduce-en-miles-de-millones-financiacion-ilicita-del-regimen-de-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/07/Departamento-de-Estado-EEUU-2-810x540-1-750x430.jpg"
+      "title": "Ayuda rusa mitiga los apagones, pero la crisis sigue frenando la vida de los cubanos",
+      "link": "https://diarioversionfinal.com/mundo/ayuda-rusa-mitiga-los-apagones-pero-la-crisis-sigue-frenando-la-vida-de-los-cubanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/Sin-luz-Cuba-21-10-2024.jpg"
     }
   ],
-  "lastUpdate": "2026-04-28T23:02:08.670Z"
+  "lastUpdate": "2026-04-29T02:54:26.133Z"
 };
