@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,43"
     },
     "binance": {
-      "usdt": "676,61"
+      "usdt": "676,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La sutil pero impactante advertencia del rey Carlos III a EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/04/29/eeuu/analisis-sutil-advertencia-rey-carlos-estados-unidos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2261803347.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump endurece el tono con Irán mientras siguen los ataques",
+      "link": "https://cnnespanol.cnn.com/2026/04/29/mundo/live-news/guerra-ee-uu-israel-iran-7-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260429103455236.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio Público y organizaciones de derechos humanos establecen mecanismo de comunicación",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-publico-y-organizaciones-de-derechos-humanos-establecen-mecanismo-de-comunicacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/este-martes-el-fiscal-general-de-la-repblica_-larry-devoe-mrquez_-recibi-en-la-sede-del-mini-c3e670.png"
+      "title": "Gobierno de Portugal espera que en Venezuela se impulse un proceso de transición democrática",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-de-portugal-espera-que-en-venezuela-se-impulse-un-proceso-de-transicion-democratica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/el-ministro-de-exteriores-de-portugal-paulo-rangel-010822.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -38,22 +38,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Pacientes con cáncer de Nueva EPS están en vilo tras decisión del Instituto Nacional de Cancerología",
-      "link": "https://www.noticiascaracol.com/salud/la-preocupacion-de-los-pacientes-con-cancer-de-la-nueva-eps-tras-decision-del-inc-muy-critico-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a0b666f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F05%2F3152a63542b6a8364ea6a094f7a4%2Fexcentricidades-41.jpg"
+      "title": "Corte de agua hoy en Bogotá: los barrios que se quedarán sin el servicio durante 34 horas",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/corte-de-agua-hoy-en-bogota-los-barrios-que-se-quedaran-sin-el-servicio-durante-34-horas-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/26c8d66/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2a%2F4e%2Fd04eb1c048339f684cb013d270f3%2Fcorte-de-agua-en-bogota-hoy-barrios-que-se-quedaran-sin-el-servicio-por-34-horas.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Reducen condena a yerno de Ledezma por participar en trama de lavado de Pdvsa",
-      "link": "https://laverdad.com/reducen-condena-a-yerno-de-ledezma-por-participar-en-trama-de-lavado-de-pdvsa/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/yerno-de-Ledezma.jpg"
+      "title": "Acusado en causa por corrupción en España dice que Sánchez era el jefe de “banda criminal”",
+      "link": "https://laverdad.com/acusado-en-causa-por-corrupcion-en-espana-dice-que-sanchez-era-el-jefe-de-banda-criminal/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/Pedro-Sanchez-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "¿Cómo afectaría la salida de Emiratos Árabes de la OPEP en mayo?",
-      "link": "https://diarioversionfinal.com/mundo/como-afectaria-la-salida-de-emiratos-arabes-de-la-opep-en-mayo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/xacwadxB-image-750x430.jpg"
+      "title": "EE.UU. comenzará a cobrar tarifa anual a solicitantes de asilo desde mayo",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-comenzara-a-cobrar-tarifa-anual-a-solicitantes-de-asilo-desde-mayo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/SNQVP42FMZEC7NKMCQLTLGLNAA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-29T15:13:36.633Z"
+  "lastUpdate": "2026-04-29T17:39:38.922Z"
 };
