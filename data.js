@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,43"
     },
     "binance": {
-      "usdt": "674,69"
+      "usdt": "676,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Fiscalía de Venezuela acordó establecer canales de “comunicación directa” con varias ONG",
-      "link": "https://www.infobae.com/venezuela/2026/04/29/la-fiscalia-de-venezuela-acordo-establecer-canales-de-comunicacion-directa-con-varias-ong/",
-      "image": "https://www.infobae.com/resizer/v2/T66KJA3MLJA5RJ3M35XRWWZWIU.jpg?auth=35d35cf754ee4b2aadf10a66e0884aa6e184515cc54dfe22b6666de9f3256372&smart=true&width=350&height=197&quality=85"
+      "title": "Un broche aviva las tensiones diplomáticas entre Venezuela y Guyana",
+      "link": "https://www.infobae.com/venezuela/2026/04/29/un-broche-aviva-las-tensiones-diplomaticas-entre-venezuela-y-guyana/",
+      "image": "https://www.infobae.com/resizer/v2/NR3I6SCOGNHZ5A5WC6KBBO6KMI.jpg?auth=0aba58651784c2023e79d40dfb3934767e766f74f7f132cc0499290159a7d1ea&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CECODAP EXIGIÓ AL MP LA LIBERACIÓN DE LA ADOLESCENTE DETENIDA SAMANTHA HERNÁNDEZ",
-      "link": "https://noticierodigital.com/2026/04/cecodap-exigio-al-mp-la-liberacion-de-la-adolescente-detenida-samantha-hernandez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/carlostrapani-cecodap-27mar2023.jpg"
+      "title": "TRIBUNALES DEBEN SEGUIR RECIBIENDO SOLICITUDES DE AMNISTÍA, DIJO NORA BRACHO",
+      "link": "https://noticierodigital.com/2026/04/tribunales-deben-seguir-recibiendo-solicitudes-de-amnistia-dijo-nora-bracho/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-5-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "El papa expresa su preocupación por ola de violencia en Colombia: \"Graves pérdidas\"",
-      "link": "https://www.noticiascaracol.com/mundo/el-papa-expresa-su-preocupacion-por-ola-de-violencia-en-colombia-graves-perdidas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/645a039/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6c%2Ff5%2F7d205d674e25b1a0c195da25e179%2Fexcentricidades-40.jpg"
+      "title": "Pacientes con cáncer de Nueva EPS están en vilo tras decisión del Instituto Nacional de Cancerología",
+      "link": "https://www.noticiascaracol.com/salud/la-preocupacion-de-los-pacientes-con-cancer-de-la-nueva-eps-tras-decision-del-inc-muy-critico-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a0b666f/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F05%2F3152a63542b6a8364ea6a094f7a4%2Fexcentricidades-41.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Soldado de EE. UU. se declara no culpable de apostar en Polymarket sobre operativo de Maduro",
-      "link": "https://laverdad.com/soldado-de-ee-uu-se-declara-no-culpable-de-apostar-en-polymarket-sobre-operativo-de-maduro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Gannon-Ken-Van-Dyke-1.jpg"
+      "title": "Reducen condena a yerno de Ledezma por participar en trama de lavado de Pdvsa",
+      "link": "https://laverdad.com/reducen-condena-a-yerno-de-ledezma-por-participar-en-trama-de-lavado-de-pdvsa/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/yerno-de-Ledezma.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Aldama, el empresario que cooperó con Delcy Rodríguez, afirma en el juicio que Pedro Sánchez es como el líder de la banda",
-      "link": "https://diarioversionfinal.com/mundo/aldama-el-empresario-que-coopero-con-delcy-rodriguez-afirma-en-el-juicio-que-pedro-sanchez-es-como-el-lider-de-la-banda/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/yM22anNt-image-750x430.jpg"
+      "title": "¿Cómo afectaría la salida de Emiratos Árabes de la OPEP en mayo?",
+      "link": "https://diarioversionfinal.com/mundo/como-afectaria-la-salida-de-emiratos-arabes-de-la-opep-en-mayo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/xacwadxB-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-29T12:18:20.560Z"
+  "lastUpdate": "2026-04-29T15:13:36.633Z"
 };
