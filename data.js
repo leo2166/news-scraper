@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "663,50"
+      "usdt": "662,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Caracas anunció que no habrá plata para un gran aumento del salario mínimo a los trabajadores",
-      "link": "https://www.infobae.com/venezuela/2026/04/30/caracas-anuncio-que-no-habra-plata-para-un-gran-aumento-del-salario-minimo-a-los-trabajadores/",
-      "image": "https://www.infobae.com/resizer/v2/IQKJ3MRBQ5GQBDHG6EMYBVIZGU.jpg?auth=8265dbfb883fe7bc4c26dbe6e12e202e271eb65b4491f8cb6e9fd9b6b0d31b78&smart=true&width=350&height=197&quality=85"
+      "title": "El Departamento de Transporte de EEUU celebró el restablecimiento de los vuelos comerciales con Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/30/el-departamento-de-transporte-de-eeuu-celebro-el-restablecimiento-de-los-vuelos-comerciales-con-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/GZJ73AXKC5FV7MJDH5X7R66LLE.JPG?auth=7e97614a18c7401142e5902db8dae1e72ad1c05d35bdecb8900aec581e4d5830&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -32,28 +32,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "STALIN GONZÁLEZ: «LA PAZ IMPLICA QUE EL SALARIO ALCANCE»",
-      "link": "https://noticierodigital.com/2026/04/stalin-gonzalez-la-paz-implica-que-el-salario-alcance/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/stalin-gonzalez-627x376.jpg"
+      "title": "RAFAEL UZCÁTEGUI: «PRESIDENCIALES EN 2030 NO ES TRANSICIÓN»",
+      "link": "https://noticierodigital.com/2026/04/rafael-uzcategui-presidenciales-en-2030-no-es-transicion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/09/rafael_uzcategui_provea.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Instituto Nacional de Cancerología y Nueva EPS llegan a acuerdo para atención de pacientes",
-      "link": "https://www.noticiascaracol.com/salud/instituto-nacional-de-cancerologia-y-nueva-eps-llegan-a-acuerdo-para-atencion-de-pacientes-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9102009/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6b%2F57%2Fc57110fc4335a826520a159d0fb2%2Finstituto-nacional-cancerologia-1.jpg"
+      "title": "Ellos son los tres colombianos detenidos por Israel en Flotilla Global Sumud, que se dirigía a Gaza",
+      "link": "https://www.noticiascaracol.com/mundo/ellos-son-los-tres-colombianos-detenidos-por-israel-en-flotilla-global-sumud-que-se-dirigia-a-gaza-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a756bfa/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdd%2F47%2F1d550cc9416ab4613d31ed08e3e2%2Fexcentricidades-44.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Acusado en causa por corrupción en España dice que Sánchez era el jefe de “banda criminal”",
-      "link": "https://laverdad.com/acusado-en-causa-por-corrupcion-en-espana-dice-que-sanchez-era-el-jefe-de-banda-criminal/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/Pedro-Sanchez-2.jpg"
+      "title": "Despega de Miami el primer vuelo comercial directo entre EE. UU. y Venezuela en siete años",
+      "link": "https://laverdad.com/despega-de-miami-el-primer-vuelo-comercial-directo-entre-ee-uu-y-venezuela-en-siete-anos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/American-Airlines-Miami-Caracas.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Primer vuelo directo entre EE. UU. y Venezuela en siete años despega desde Miami",
-      "link": "https://diarioversionfinal.com/mundo/primer-vuelo-directo-entre-ee-uu-y-venezuela-en-siete-anos-despega-desde-miami/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1536x864_cmsv2_f9359fdd-deaf-55da-94cd-ed17b67de81e-9742538-750x430.webp"
+      "title": "Gobierno de Trump estima en 25.000 millones el costo de su operación militar en Irán",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-trump-estima-en-25-000-millones-el-costo-de-su-operacion-militar-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/yymmdd-topic-horizontal-rename-this-00-00-31-29-still001-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-30T15:48:32.457Z"
+  "lastUpdate": "2026-04-30T17:21:53.378Z"
 };
