@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "664,46"
+      "usdt": "641,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. acusa al gobernador de Sinaloa de narcotráfico y posesión de armas",
-      "link": "https://cnnespanol.cnn.com/2026/04/29/mexico/acusacion-gobernador-sinaloa-ruben-rocha-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/harfuch2.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "EE.UU. negará visas a quienes digan que temen persecución en su país",
+      "link": "https://cnnespanol.cnn.com/2026/04/29/eeuu/negara-visas-persecucion-pais-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1224917096-20260429201318186-20260429205044538.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUNCIONARIOS DE EE. UU. VIAJARÁN A CARACAS PARA PACTAR NUEVAS INVERSIONES PETROLERAS",
-      "link": "https://noticierodigital.com/2026/04/funcionarios-de-ee-uu-viajaran-a-caracas-para-pactar-nuevas-inversiones-petroleras/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Jarrod-Agen-627x376.jpg"
+      "title": "PDVSA CONTROLÓ UN INCENDIO EN LA UNIDAD DE CRAQUEO DE LA REFINERÍA CARDÓN",
+      "link": "https://noticierodigital.com/2026/04/pdvsa-controlo-un-incendio-en-la-unidad-de-craqueo-de-la-refineria-cardon/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/refineria-cardon-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Reportan grave accidente de tránsito en la vía que conecta La Mesa y Mosquera: numerosas víctimas",
-      "link": "https://www.noticiascaracol.com/colombia/grave-accidente-de-transito-en-la-via-que-conecta-la-mesa-y-mosquera-en-cundinamarca-reportan-varias-victimas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1d49151/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F97%2F4d%2F9b4f590f4bc3a400d3370894f030%2Fdiseno.png"
+      "title": "Minsalud desautoriza restricción del Instituto de Cancerología para prestar servicio a Nueva EPS",
+      "link": "https://www.noticiascaracol.com/politica/minsalud-desautoriza-restriccion-del-instituto-de-cancerologia-para-prestar-servicio-a-nueva-eps-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/14921b8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F62%2F17%2F5b3a9c334aafb19167cea9859715%2Finstituto-de-cancerologia.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presidente Noboa acusa a Petro de impulsar incursión de guerrilleros a Ecuador",
-      "link": "https://diarioversionfinal.com/mundo/presidente-noboa-acusa-a-petro-de-impulsar-incursion-de-guerrilleros-a-ecuador/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/Daniel-Noboa-02-07-2024.jpg"
+      "title": "Exdirector del FBI se presenta ante tribunal tras ser acusado de amenazas contra Trump",
+      "link": "https://diarioversionfinal.com/mundo/exdirector-del-fbi-se-presenta-ante-tribunal-tras-ser-acusado-de-amenazas-contra-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/ImageTransformer-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-29T23:59:07.950Z"
+  "lastUpdate": "2026-04-30T03:55:39.450Z"
 };
