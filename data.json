@@ -5,7 +5,7 @@
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "664,00"
+      "usdt": "663,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez pidió el cese de más de 1.000 sanciones de países extranjeros contra Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/04/30/delcy-rodriguez-pidio-el-cese-de-mas-de-1000-sanciones-de-paises-extranjeros-contra-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/4XKXXQ2BWZH7DC7LOWJYJSEPAA.JPG?auth=5a2daa1e8b8ab16569e73c61e73683aae7142e667b8ed53d8beb8bc5345360e0&smart=true&width=350&height=197&quality=85"
+      "title": "Caracas anunció que no habrá plata para un gran aumento del salario mínimo a los trabajadores",
+      "link": "https://www.infobae.com/venezuela/2026/04/30/caracas-anuncio-que-no-habra-plata-para-un-gran-aumento-del-salario-minimo-a-los-trabajadores/",
+      "image": "https://www.infobae.com/resizer/v2/IQKJ3MRBQ5GQBDHG6EMYBVIZGU.jpg?auth=8265dbfb883fe7bc4c26dbe6e12e202e271eb65b4491f8cb6e9fd9b6b0d31b78&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "La guerra con Irán podría destruir la economía de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/04/30/economia/destruccion-demanda-guerra-iran-economia-ee-uu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petroleo-20260430081953753.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Tras la acusación de EE.UU. contra el gobernador de Sinaloa, Sheinbaum exigió pruebas",
+      "link": "https://cnnespanol.cnn.com/2026/04/30/mexico/sheinbaum-acusacion-gobernador-sinaloa-eeuu-pruebas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273242958.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUNCIONARIOS DE TRUMP LLEGARÁN EN PRIMER VUELO DE AMERICAN PARA CONCRETAR ACUERDOS ENERGÉTICOS EN CARACAS",
-      "link": "https://noticierodigital.com/2026/04/funcionarios-de-trump-llegaran-en-primer-vuelo-de-american-para-concretar-acuerdos-energeticos-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/american_airlines.jpg"
+      "title": "STALIN GONZÁLEZ: «LA PAZ IMPLICA QUE EL SALARIO ALCANCE»",
+      "link": "https://noticierodigital.com/2026/04/stalin-gonzalez-la-paz-implica-que-el-salario-alcance/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/stalin-gonzalez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Nuevo incidente en aeropuerto El Dorado por presencia de drones: dos vuelos comerciales afectados",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/nuevo-incidente-en-aeropuerto-el-dorado-por-presencia-de-drones-dos-vuelos-comerciales-afectados-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/df6d4a6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9d%2F46%2F4723ea18441f90b14c9909e6710a%2Faeropuerto-el-dorado.jpg"
+      "title": "Instituto Nacional de Cancerología y Nueva EPS llegan a acuerdo para atención de pacientes",
+      "link": "https://www.noticiascaracol.com/salud/instituto-nacional-de-cancerologia-y-nueva-eps-llegan-a-acuerdo-para-atencion-de-pacientes-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9102009/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6b%2F57%2Fc57110fc4335a826520a159d0fb2%2Finstituto-nacional-cancerologia-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detenido en Vigo un prófugo reclamado por Venezuela por una estafa de 637.000 euros",
-      "link": "https://diarioversionfinal.com/mundo/detenido-en-vigo-un-profugo-reclamado-por-venezuela-por-una-estafa-de-637-000-euros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/maxresdefault-750x430.jpg"
+      "title": "Primer vuelo directo entre EE. UU. y Venezuela en siete años despega desde Miami",
+      "link": "https://diarioversionfinal.com/mundo/primer-vuelo-directo-entre-ee-uu-y-venezuela-en-siete-anos-despega-desde-miami/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/1536x864_cmsv2_f9359fdd-deaf-55da-94cd-ed17b67de81e-9742538-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-04-30T13:56:52.953Z"
+  "lastUpdate": "2026-04-30T15:48:32.457Z"
 }
