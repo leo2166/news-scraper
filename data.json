@@ -5,7 +5,7 @@
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "668,69"
+      "usdt": "664,46"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,15 +26,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Henry Alviarez: \"La verdadera reconciliación pasa por un nuevo proceso electoral\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/henry-alviarez-la-verdadera-reconciliacion-pasa-por-un-nuevo-proceso-electoral",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/henry-alviarez-vente-venezuela-001-960x640-6d4f43.jpg"
+      "title": "Director del Consejo Nacional de Dominio Energético de EE.UU. visita Venezuela este jueves",
+      "link": "https://noticiasvenevision.com/noticias/politica/director-del-consejo-nacional-de-dominio-energetico-de-eeuu-visita-venezuela-este-jueves",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jarrod_agen_usg00ga-50ce41.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "FUNCIONARIOS DE EE. UU. VIAJARÁN A CARACAS PARA PACTAR NUEVAS INVERSIONES PETROLERAS",
+      "link": "https://noticierodigital.com/2026/04/funcionarios-de-ee-uu-viajaran-a-caracas-para-pactar-nuevas-inversiones-petroleras/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Jarrod-Agen-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Funcionarios del Ministerio del Interior son retenidos por indígenas emberá en Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/funcionarios-del-ministerio-del-interior-son-retenidos-por-indigenas-embera-en-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9b5bffd/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4c%2F60%2Fdb864cfd462f814c05bb85763ab9%2Findigenas-bogota.jpg"
+      "title": "Reportan grave accidente de tránsito en la vía que conecta La Mesa y Mosquera: numerosas víctimas",
+      "link": "https://www.noticiascaracol.com/colombia/grave-accidente-de-transito-en-la-via-que-conecta-la-mesa-y-mosquera-en-cundinamarca-reportan-varias-victimas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1d49151/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F97%2F4d%2F9b4f590f4bc3a400d3370894f030%2Fdiseno.png"
     },
     {
       "source": "La Verdad",
@@ -49,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/Daniel-Noboa-02-07-2024.jpg"
     }
   ],
-  "lastUpdate": "2026-04-29T22:57:22.481Z"
+  "lastUpdate": "2026-04-29T23:59:07.950Z"
 }
