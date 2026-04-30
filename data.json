@@ -5,7 +5,7 @@
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "663,00"
+      "usdt": "664,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "EEUU enviará una delegación con funcionarios de la Casa blanca a Venezuela para avanzar acuerdos mineros y energéticos",
-      "link": "https://www.infobae.com/venezuela/2026/04/30/eeuu-enviara-una-delegacion-con-funcionarios-de-la-casa-blanca-a-venezuela-para-avanzar-acuerdos-mineros-y-energeticos/",
-      "image": "https://www.infobae.com/resizer/v2/OORXM3LXOJH2BCRB377F2I2OFE.JPG?auth=2e80543d01eb526c91bfb3d556c02cf7de07cc1253ffa814aecc9a506ac5b265&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez pidió el cese de más de 1.000 sanciones de países extranjeros contra Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/04/30/delcy-rodriguez-pidio-el-cese-de-mas-de-1000-sanciones-de-paises-extranjeros-contra-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4XKXXQ2BWZH7DC7LOWJYJSEPAA.JPG?auth=5a2daa1e8b8ab16569e73c61e73683aae7142e667b8ed53d8beb8bc5345360e0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump apuesta a que su bloqueo doblegará a Irán",
-      "link": "https://cnnespanol.cnn.com/2026/04/30/mundo/analisis-trump-bloqueo-doblegara-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9634703a-20260430045650946.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La guerra con Irán podría destruir la economía de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/04/30/economia/destruccion-demanda-guerra-iran-economia-ee-uu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/petroleo-20260430081953753.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PDVSA CONTROLÓ UN INCENDIO EN LA UNIDAD DE CRAQUEO DE LA REFINERÍA CARDÓN",
-      "link": "https://noticierodigital.com/2026/04/pdvsa-controlo-un-incendio-en-la-unidad-de-craqueo-de-la-refineria-cardon/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/refineria-cardon-referencial-627x376.jpg"
+      "title": "FUNCIONARIOS DE TRUMP LLEGARÁN EN PRIMER VUELO DE AMERICAN PARA CONCRETAR ACUERDOS ENERGÉTICOS EN CARACAS",
+      "link": "https://noticierodigital.com/2026/04/funcionarios-de-trump-llegaran-en-primer-vuelo-de-american-para-concretar-acuerdos-energeticos-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/01/american_airlines.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Presidente Petro propone a Noboa un encuentro fronterizo y le pide que \"deje de creer en mentiras\"",
-      "link": "https://www.noticiascaracol.com/mundo/presidente-petro-propone-a-noboa-un-encuentro-fronterizo-y-le-pide-que-deje-de-creer-en-mentiras-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9cb2371/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd5%2F2a%2F7a10234e4895bed4493c1b0789c2%2Fmovilidad-bogota-2026-01-24t133710-663.jpg"
+      "title": "Nuevo incidente en aeropuerto El Dorado por presencia de drones: dos vuelos comerciales afectados",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/nuevo-incidente-en-aeropuerto-el-dorado-por-presencia-de-drones-dos-vuelos-comerciales-afectados-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/df6d4a6/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9d%2F46%2F4723ea18441f90b14c9909e6710a%2Faeropuerto-el-dorado.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "El petróleo Brent se dispara a 126 dólares ante las tensiones en Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/el-petroleo-brent-se-dispara-a-126-dolares-ante-las-tensiones-en-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/pnNYf1xm-image-750x430.jpg"
+      "title": "Detenido en Vigo un prófugo reclamado por Venezuela por una estafa de 637.000 euros",
+      "link": "https://diarioversionfinal.com/mundo/detenido-en-vigo-un-profugo-reclamado-por-venezuela-por-una-estafa-de-637-000-euros/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/maxresdefault-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-30T11:28:26.089Z"
+  "lastUpdate": "2026-04-30T13:56:52.953Z"
 }
