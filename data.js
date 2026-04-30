@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "641,97"
+      "usdt": "633,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. negará visas a quienes digan que temen persecución en su país",
-      "link": "https://cnnespanol.cnn.com/2026/04/29/eeuu/negara-visas-persecucion-pais-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1224917096-20260429201318186-20260429205044538.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump apuesta a que su bloqueo doblegará a Irán",
+      "link": "https://cnnespanol.cnn.com/2026/04/30/mundo/analisis-trump-bloqueo-doblegara-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9634703a-20260430045650946.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/ImageTransformer-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-30T03:55:39.450Z"
+  "lastUpdate": "2026-04-30T06:27:30.388Z"
 };
