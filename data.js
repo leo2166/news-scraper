@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "662,20"
+      "usdt": "661,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,9 +26,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Parlamento Europeo espera que Venezuela tenga avances significativos para lograr una transición democrática",
-      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-europeo-espera-que-venezuela-tenga-avances-significativos-para-lograr-una-transicion-democratica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ursula-von-der-leyen-en-el-parlamento-europeo-1-800x500-acea85.jpg"
+      "title": "Delcy Rodríguez propone a diputado Timoteo Zambrano como nuevo embajador ante España",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-propone-a-diputado-timoteo-zambrano-como-nuevo-embajador-ante-espana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1421471397-krih-u202036865136dvh-1200x840diario_abc-a1b2d8.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/peru-tren-aragua-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-30T19:22:14.726Z"
+  "lastUpdate": "2026-04-30T21:01:21.758Z"
 };
