@@ -5,7 +5,7 @@
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "633,20"
+      "usdt": "633,48"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Un broche aviva las tensiones diplomáticas entre Venezuela y Guyana",
-      "link": "https://www.infobae.com/venezuela/2026/04/29/un-broche-aviva-las-tensiones-diplomaticas-entre-venezuela-y-guyana/",
-      "image": "https://www.infobae.com/resizer/v2/NR3I6SCOGNHZ5A5WC6KBBO6KMI.jpg?auth=0aba58651784c2023e79d40dfb3934767e766f74f7f132cc0499290159a7d1ea&smart=true&width=350&height=197&quality=85"
+      "title": "EEUU enviará una delegación con funcionarios de la Casa blanca a Venezuela para avanzar acuerdos mineros y energéticos",
+      "link": "https://www.infobae.com/venezuela/2026/04/30/eeuu-enviara-una-delegacion-con-funcionarios-de-la-casa-blanca-a-venezuela-para-avanzar-acuerdos-mineros-y-energeticos/",
+      "image": "https://www.infobae.com/resizer/v2/OORXM3LXOJH2BCRB377F2I2OFE.JPG?auth=2e80543d01eb526c91bfb3d556c02cf7de07cc1253ffa814aecc9a506ac5b265&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/ImageTransformer-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-04-30T06:27:30.388Z"
+  "lastUpdate": "2026-04-30T09:11:36.926Z"
 }
