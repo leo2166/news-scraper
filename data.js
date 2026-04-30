@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "487,12",
-      "eur": "569,76"
+      "usd": "489,55",
+      "eur": "574,19"
     },
     "binance": {
-      "usdt": "661,97"
+      "usdt": "662,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Presos políticos en Venezuela: el Foro Penal reportó 454 detenidos, en medio de reclamos internacionales y familiares",
-      "link": "https://www.infobae.com/venezuela/2026/04/30/presos-politicos-en-venezuela-el-foro-penal-reporto-454-detenidos-en-medio-de-reclamos-internacionales-y-familiares/",
-      "image": "https://www.infobae.com/resizer/v2/SGBTUFQOIZB3VLZDYEX5PUFIPY.jpg?auth=f1b8c68a2498f5039b29f9f263bf299234adc20053e49aac5b0f75224a6cefc6&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez anunció un ajuste del ingreso mínimo integral a 240 dólares mensuales",
+      "link": "https://www.infobae.com/venezuela/2026/04/30/delcy-rodriguez-anuncio-un-ajuste-del-ingreso-minimo-integral-a-240-dolares-mensuales/",
+      "image": "https://www.infobae.com/resizer/v2/2YNMD2V2FBGJJPKOVQERD2IZN4.JPG?auth=e00ed0a76b24f4e873fcb3afd5348f7580b9f918b3bb4d87181e8ae72175d324&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Tras la acusación de EE.UU. contra el gobernador de Sinaloa, Sheinbaum exigió pruebas",
-      "link": "https://cnnespanol.cnn.com/2026/04/30/mexico/sheinbaum-acusacion-gobernador-sinaloa-eeuu-pruebas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mercados-20260430162643379.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Delcy Rodríguez anuncia incremento del ingreso mínimo integral en Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/04/30/venezuela/delcy-rodriguez-incremento-ingreso-minimo-integral-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1104559-experto-muchos-dolares-en-venezuela-son-de-narcotrafico.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "REPSOL PLANEA AUMENTAR PRODUCCIÓN DE QUEROSENO Y RECIBIRÁ UN CARGAMENTO DE CRUDO DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/04/repsol-planea-aumentar-produccion-de-queroseno-y-recibira-un-cargamento-de-crudo-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/repsol-sede-5jun2022-627x376.jpg"
+      "title": "AN PUBLICARÁ LISTA DE PRESELECCIONADOS PARA EL COMITÉ DE POSTULACIONES JUDICIALES",
+      "link": "https://noticierodigital.com/2026/04/an-publicara-lista-de-preseleccionados-para-el-comite-de-postulaciones-judiciales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Giuseppe-Alessandrello-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Tribunal confirma medida de aseguramiento contra el exministro Velasco por escándalo de la UNGRD",
-      "link": "https://www.noticiascaracol.com/judicial/tribunal-confirma-medida-de-aseguramiento-contra-el-exministro-velasco-por-escandalo-ungrd-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a8b6e00/2147483647/strip/true/crop/1915x1080+5+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F98%2F3c%2F692e75ba4d5ea6f16337b761e405%2Fmujer-bus-24.jpg"
+      "title": "El lujoso apartamento en el que se escondía suegra de Carolina Flores en Venezuela: así escapó",
+      "link": "https://www.noticiascaracol.com/mundo/el-lujoso-apartamento-en-el-que-se-escondia-suegra-de-carolina-flores-en-venezuela-asi-escapo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/198b1fb/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2F86%2F5508654b4758b81c5b41c3253e0a%2Ferika-herrera-suegra-de-carolina-flores.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Operativo en Perú deja 25 arrestos ligados al Tren de Aragua",
-      "link": "https://diarioversionfinal.com/mundo/operativo-en-peru-deja-25-arrestos-ligados-al-tren-de-aragua/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/peru-tren-aragua-750x430.jpg"
+      "title": "Colombia analiza trasladar hipopótamos de Escobar a India para frenar su expansión",
+      "link": "https://diarioversionfinal.com/mundo/colombia-analiza-trasladar-hipopotamos-de-escobar-a-india-para-frenar-su-expansion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Hipopotamos-de-Escobar-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-30T21:01:21.758Z"
+  "lastUpdate": "2026-04-30T22:53:30.084Z"
 };
