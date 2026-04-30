@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "569,76"
     },
     "binance": {
-      "usdt": "633,48"
+      "usdt": "663,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Minsalud desautoriza restricción del Instituto de Cancerología para prestar servicio a Nueva EPS",
-      "link": "https://www.noticiascaracol.com/politica/minsalud-desautoriza-restriccion-del-instituto-de-cancerologia-para-prestar-servicio-a-nueva-eps-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/14921b8/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F62%2F17%2F5b3a9c334aafb19167cea9859715%2Finstituto-de-cancerologia.jpg"
+      "title": "Presidente Petro propone a Noboa un encuentro fronterizo y le pide que \"deje de creer en mentiras\"",
+      "link": "https://www.noticiascaracol.com/mundo/presidente-petro-propone-a-noboa-un-encuentro-fronterizo-y-le-pide-que-deje-de-creer-en-mentiras-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/9cb2371/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd5%2F2a%2F7a10234e4895bed4493c1b0789c2%2Fmovilidad-bogota-2026-01-24t133710-663.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Exdirector del FBI se presenta ante tribunal tras ser acusado de amenazas contra Trump",
-      "link": "https://diarioversionfinal.com/mundo/exdirector-del-fbi-se-presenta-ante-tribunal-tras-ser-acusado-de-amenazas-contra-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/ImageTransformer-750x430.jpeg"
+      "title": "El petróleo Brent se dispara a 126 dólares ante las tensiones en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/el-petroleo-brent-se-dispara-a-126-dolares-ante-las-tensiones-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/pnNYf1xm-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-04-30T09:11:36.926Z"
+  "lastUpdate": "2026-04-30T11:28:26.089Z"
 };
