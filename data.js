@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,50"
+      "usdt": "663,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El alto el fuego en la guerra con Irán pende de un hilo",
-      "link": "https://cnnespanol.cnn.com/2026/05/01/mundo/alto-el-fuego-iran-pende-hilo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273288099-20260501082549303-20260501093624764.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán envió una nueva propuesta de paz a los mediadores de Pakistán",
+      "link": "https://cnnespanol.cnn.com/2026/05/01/mundo/live-news/guerra-ee-uu-israel-iran-9-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260501093839906.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/Petro-15-07-2025.jpg"
     }
   ],
-  "lastUpdate": "2026-05-01T11:06:20.061Z"
+  "lastUpdate": "2026-05-01T13:19:20.597Z"
 };
