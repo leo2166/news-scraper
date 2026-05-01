@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "665,00"
+      "usdt": "662,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Qué pasará con los bienes de Lili Pink incautados por las autoridades tras allanamiento?",
-      "link": "https://www.noticiascaracol.com/judicial/que-pasara-con-los-bienes-de-lili-pink-incautados-por-las-autoridades-tras-allanamiento-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1992ea3/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa8%2Fd2%2F43349dbd4f668bc145818f389e50%2Flili-pink-7.jpg"
+      "title": "Resolución de Minsalud elimina barreras que antes dificultaban acceso a muerte digna por eutanasia",
+      "link": "https://www.noticiascaracol.com/salud/eutanasia-en-colombia-resolucion-de-minsalud-elimina-barreras-que-antes-dificultaban-el-acceso-a-la-muerte-digna-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/61e675a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbf%2Fa0%2F226374444047bbcb0770713b614f%2Ftamano-imagenes-27.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Iran-20-04-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-01T14:56:01.545Z"
+  "lastUpdate": "2026-05-01T15:58:31.012Z"
 };
