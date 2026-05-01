@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,60"
+      "usdt": "632,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció un ajuste del ingreso mínimo integral a 240 dólares mensuales",
-      "link": "https://www.infobae.com/venezuela/2026/04/30/delcy-rodriguez-anuncio-un-ajuste-del-ingreso-minimo-integral-a-240-dolares-mensuales/",
-      "image": "https://www.infobae.com/resizer/v2/2YNMD2V2FBGJJPKOVQERD2IZN4.JPG?auth=e00ed0a76b24f4e873fcb3afd5348f7580b9f918b3bb4d87181e8ae72175d324&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó acuerdos con dos empresas de Estados Unidos para potenciar la producción de crudo y gas",
+      "link": "https://www.infobae.com/venezuela/2026/05/01/venezuela-firmo-acuerdos-con-dos-empresas-de-estados-unidos-para-potenciar-la-produccion-de-crudo-y-gas/",
+      "image": "https://www.infobae.com/resizer/v2/FFSWJTTXZFAP3EGEU72VMSMNQA.jpg?auth=128fc219ce86b4f7010e29a11be0089801049cb127b643542342e9ff26bafe59&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Delcy Rodríguez anuncia incremento del ingreso mínimo integral en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/04/30/venezuela/delcy-rodriguez-incremento-ingreso-minimo-integral-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1104559-experto-muchos-dolares-en-venezuela-son-de-narcotrafico.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cómo la guerra con Irán podría sacudir o quebrar la economía de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/04/30/economia/destruccion-demanda-guerra-iran-economia-ee-uu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266824285-20260430100236511.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Resolución de Minsalud elimina barreras que antes dificultaban acceso a muerte digna por eutanasia",
-      "link": "https://www.noticiascaracol.com/salud/eutanasia-en-colombia-resolucion-de-minsalud-elimina-barreras-que-antes-dificultaban-el-acceso-a-la-muerte-digna-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/61e675a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbf%2Fa0%2F226374444047bbcb0770713b614f%2Ftamano-imagenes-27.jpg"
+      "title": "¿Qué pasará con los bienes de Lili Pink incautados por las autoridades tras allanamiento?",
+      "link": "https://www.noticiascaracol.com/judicial/que-pasara-con-los-bienes-de-lili-pink-incautados-por-las-autoridades-tras-allanamiento-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1992ea3/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fa8%2Fd2%2F43349dbd4f668bc145818f389e50%2Flili-pink-7.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/Petro-15-07-2025.jpg"
     }
   ],
-  "lastUpdate": "2026-05-01T03:27:31.375Z"
+  "lastUpdate": "2026-05-01T06:36:46.763Z"
 };
