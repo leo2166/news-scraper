@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,97"
+      "usdt": "662,09"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán envió una nueva propuesta de paz a los mediadores de Pakistán",
+      "title": "Trump dice que no está satisfecho con la última propuesta de Irán",
       "link": "https://cnnespanol.cnn.com/2026/05/01/mundo/live-news/guerra-ee-uu-israel-iran-9-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-22t135552z-1735166757-rc2cukawh6zk-rtrmadp-3-iran-crisis-daily-life-20260501133936858.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274036196.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GUERRA EN IRÁN TERMINÓ CON EL ALTO EL FUEGO, DIJO EL GOBIERNO DE TRUMP",
-      "link": "https://noticierodigital.com/2026/05/guerra-en-iran-termino-con-el-alto-el-fuego-dijo-el-gobierno-de-trump/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/donald-trump-1-627x376.jpg"
+      "title": "PJ: AJUSTE ES UNA «BURLA» ANTE INFLACIÓN ANUALIZADA DE 649,5 %",
+      "link": "https://noticierodigital.com/2026/05/pj-ajuste-es-una-burla-ante-inflacion-anualizada-de-6495/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/primero_justicia_16dic-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Resolución de Minsalud elimina barreras que antes dificultaban acceso a muerte digna por eutanasia",
-      "link": "https://www.noticiascaracol.com/salud/eutanasia-en-colombia-resolucion-de-minsalud-elimina-barreras-que-antes-dificultaban-el-acceso-a-la-muerte-digna-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/61e675a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbf%2Fa0%2F226374444047bbcb0770713b614f%2Ftamano-imagenes-27.jpg"
+      "title": "EN VIVO | Movilidad en Bogotá y TransMilenio hoy viernes 1 de mayo de 2026, Día del Trabajador",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/en-vivo-movilidad-en-bogota-y-transmilenio-hoy-viernes-1-de-mayo-de-2026-dia-del-trabajador-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a02368d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2Fa1%2Fd399d81f45418aac3231ca5e66c2%2Fmovilidad-en-bogota-hoy-viernes-1-de-mayo-de-2026-dia-del-trabajador.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán presenta nueva propuesta de paz a EE.UU. mediante mediación de Pakistán",
-      "link": "https://diarioversionfinal.com/mundo/iran-presenta-nueva-propuesta-de-paz-a-ee-uu-mediante-mediacion-de-pakistan/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Iran-20-04-2026-750x430.jpeg"
+      "title": "Hallan muerto en su vehículo a candidato al Senado de Oklahoma tras varios días desaparecido",
+      "link": "https://diarioversionfinal.com/mundo/hallan-muerto-en-su-vehiculo-a-candidato-al-senado-de-oklahoma-tras-varios-dias-desaparecido/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_1-5-2026_123152_lapatilla.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-01T15:58:31.012Z"
+  "lastUpdate": "2026-05-01T17:07:14.177Z"
 };
