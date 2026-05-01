@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,09"
+      "usdt": "632,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela firmó acuerdos con dos empresas de Estados Unidos para potenciar la producción de crudo y gas",
-      "link": "https://www.infobae.com/venezuela/2026/05/01/venezuela-firmo-acuerdos-con-dos-empresas-de-estados-unidos-para-potenciar-la-produccion-de-crudo-y-gas/",
-      "image": "https://www.infobae.com/resizer/v2/FFSWJTTXZFAP3EGEU72VMSMNQA.jpg?auth=128fc219ce86b4f7010e29a11be0089801049cb127b643542342e9ff26bafe59&smart=true&width=350&height=197&quality=85"
+      "title": "Informe CIDH 2025: impunidad y concentración de poder afianzan el régimen de facto en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/01/informe-cidh-2025-impunidad-y-concentracion-de-poder-afianzan-el-regimen-de-facto-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/EOXXGBJMAFDC7LNSIB2JEIAWTM.jpeg?auth=d22cf011642fa56f5aa2c81ce54ad6a85683363f621a6fbb1f513e32e115dcc9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -26,27 +26,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez propone a diputado Timoteo Zambrano como nuevo embajador ante España",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-propone-a-diputado-timoteo-zambrano-como-nuevo-embajador-ante-espana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1421471397-krih-u202036865136dvh-1200x840diario_abc-a1b2d8.jpg"
+      "title": "John Barrett: \"Venezuela vuelve a estar abierta a los negocios\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/john-barrett-venezuela-vuelve-a-estar-abierta-a-los-negocios",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-05-01-130759-8fbd88.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PJ: AJUSTE ES UNA «BURLA» ANTE INFLACIÓN ANUALIZADA DE 649,5 %",
-      "link": "https://noticierodigital.com/2026/05/pj-ajuste-es-una-burla-ante-inflacion-anualizada-de-6495/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/primero_justicia_16dic-1-627x376.jpg"
+      "title": "TRABAJADORES ENTREGARON DOCUMENTO A DEFENSORÍA PARA EXIGIR AUMENTO «QUE ALCANCE»",
+      "link": "https://noticierodigital.com/2026/05/trabajadores-entregaron-documento-a-defensoria-para-exigir-aumento-que-alcance/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-2.30.10-PM-627x376.jpeg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "EN VIVO | Movilidad en Bogotá y TransMilenio hoy viernes 1 de mayo de 2026, Día del Trabajador",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/en-vivo-movilidad-en-bogota-y-transmilenio-hoy-viernes-1-de-mayo-de-2026-dia-del-trabajador-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a02368d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2Fa1%2Fd399d81f45418aac3231ca5e66c2%2Fmovilidad-en-bogota-hoy-viernes-1-de-mayo-de-2026-dia-del-trabajador.jpg"
+      "title": "¿Cómo queda el salario mínimo en Venezuela tras anuncio de Delcy Rodríguez?",
+      "link": "https://www.noticiascaracol.com/mundo/como-queda-el-salario-minimo-en-venezuela-tras-anuncio-de-delcy-rodriguez-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3cdb2b0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4c%2F71%2Fd34f4fab4adba56ed01e371e22a9%2Fdelcy-rodriguez-aumento-salario.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Gobierno de Trump celebra reinicio de vuelos comerciales entre EE. UU. y Venezuela",
-      "link": "https://laverdad.com/gobierno-de-trump-celebra-reinicio-de-vuelos-comerciales-entre-ee-uu-y-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/American-Airlines-Miami-Caracas-1.jpg"
+      "title": "Hallan culpable de conspiración al excongresista de EE. UU. vinculado con gobierno de Maduro",
+      "link": "https://laverdad.com/hallan-culpable-de-conspiracion-al-excongresista-de-ee-uu-vinculado-con-gobierno-de-maduro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/David-Rivera.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_1-5-2026_123152_lapatilla.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-01T17:07:14.177Z"
+  "lastUpdate": "2026-05-01T19:12:51.639Z"
 };
