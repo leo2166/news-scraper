@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "664,30"
+      "usdt": "664,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -22,7 +22,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Irán ve posible nuevo conflicto tras el rechazo de Trump de la última propuesta de paz",
       "link": "https://cnnespanol.cnn.com/2026/05/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274090362.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-conflicto-eeuu-20260502170811343.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -31,16 +31,10 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/an22-e5add4.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "DÍAZ-CANEL RESPONDE A TRUMP: «NINGÚN AGRESOR ENCONTRARÁ RENDICIÓN EN CUBA»",
-      "link": "https://noticierodigital.com/2026/05/diaz-canel-responde-a-trump-ningun-agresor-encontrara-rendicion-en-cuba/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/09/miguel-diaz-canel-21sep2020.jpg"
-    },
-    {
       "source": "Caracol Noticias",
-      "title": "Cierre de Spirit Airlines: Avianca ofrece vuelos sin costo de tarifa aérea a pasajeros afectados",
-      "link": "https://www.noticiascaracol.com/economia/cierre-de-spirit-airlines-avianca-ofrece-vuelos-sin-costo-de-tarifa-aerea-a-pasajeros-afectados-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6e289d3/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2F5b%2F7c73f5394f51b9ff2e1aa07be169%2Fque-paso-con-spirit-airlines-avianca-ofrece-vuelos-sin-costo-de-tarifa-aerea.jpg"
+      "title": "Lo que reveló la autopsia de Carolina Flores sobre su feminicidio: \"Sevicia y violencia extrema\"",
+      "link": "https://www.noticiascaracol.com/mundo/lo-que-revelo-la-autopsia-de-carolina-flores-sobre-su-feminicidio-sevicia-y-violencia-extrema-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3ef24aa/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F55%2Fe0%2F32b8a1304a5fbb8e48f65febbd98%2Fcarolina-flores-2.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +49,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/cnne-1639219-presidente-cuba-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-02T16:49:38.190Z"
+  "lastUpdate": "2026-05-02T17:43:16.485Z"
 };
