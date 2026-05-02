@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,39"
+      "usdt": "663,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Inteligencia de EE. UU. habría detectado plan de escape de Maduro hacia Europa",
-      "link": "https://diarioversionfinal.com/mundo/inteligencia-de-ee-uu-habria-detectado-plan-de-escape-de-maduro-hacia-europa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/OBx7P2v6-Maduro-02-05-2026-750x430.png"
+      "title": "Irán ve posible nuevo conflicto tras el rechazo de Trump a última propuesta de paz",
+      "link": "https://diarioversionfinal.com/mundo/iran-ve-posible-nuevo-conflicto-tras-el-rechazo-de-trump-a-ultima-propuesta-de-paz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
     }
   ],
-  "lastUpdate": "2026-05-02T20:50:12.305Z"
+  "lastUpdate": "2026-05-02T21:41:07.255Z"
 };
