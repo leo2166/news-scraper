@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,69"
+      "usdt": "662,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FVF ANUNCIÓ JUEGO AMISTOSO ENTRE LA VINOTINTO Y TURQUÍA",
-      "link": "https://noticierodigital.com/2026/05/fvf-anuncio-juego-amistoso-entre-la-vinotinto-y-turquia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/01/salomon-rondon-vinotinto-ante-bolivia-28ene2022.jpg"
+      "title": "MARÍA CORINA MACHADO LLAMA A CONCENTRARSE ESTE 3 DE MAYO EN MÁS DE 120 CIUDADES",
+      "link": "https://noticierodigital.com/2026/05/maria-corina-machado-llama-a-concentrarse-este-3-de-mayo-en-mas-de-120-ciudades/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/mariacorina_Madrid-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Terremoto de magnitud 5,7 sacude el oeste de Japón",
-      "link": "https://diarioversionfinal.com/mundo/terremoto-de-magnitud-57-sacude-el-oeste-de-japon/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/un-terremoto-de-magnitud-de-75-golpea-japon-y-activa-la-alerta-por-tsunami-59543-750x430.jpg"
+      "title": "Japón adquiere crudo ruso por primera vez desde el cierre del estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/japon-adquiere-crudo-ruso-por-primera-vez-desde-el-cierre-del-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/201f6edb4fdb0d71f68b8cb72262208d-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-02T14:48:01.943Z"
+  "lastUpdate": "2026-05-02T15:46:52.980Z"
 };
