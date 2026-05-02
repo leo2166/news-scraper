@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,98"
+      "usdt": "663,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán ve posible nuevo conflicto tras el rechazo de Trump de la última propuesta de paz",
-      "link": "https://cnnespanol.cnn.com/2026/05/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-conflicto-eeuu-20260502170811343.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Caos tras cierre de operaciones de Spirit Airlines",
+      "link": "https://cnnespanol.cnn.com/2026/05/02/eeuu/cierre-spirit-airlines-caos-cancelacion-vuelos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779543-copia-de-foto-para-wp-2024-11-11t124414-919.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Corte Internacional de Justicia inicia audiencias el lunes #4May por disputa del Esequibo",
-      "link": "https://diarioversionfinal.com/mundo/corte-internacional-de-justicia-inicia-audiencias-el-lunes-4may-por-disputa-del-esequibo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_3571-750x430.jpeg"
+      "title": "Inteligencia de EE. UU. habría detectado plan de escape de Maduro hacia Europa",
+      "link": "https://diarioversionfinal.com/mundo/inteligencia-de-ee-uu-habria-detectado-plan-de-escape-de-maduro-hacia-europa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/OBx7P2v6-Maduro-02-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-02T19:57:08.950Z"
+  "lastUpdate": "2026-05-02T20:50:12.305Z"
 };
