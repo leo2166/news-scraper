@@ -5,7 +5,7 @@
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "664,10"
+      "usdt": "663,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -31,6 +31,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/an22-e5add4.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PRESIDENTE DE AIRBUS DICE QUE PESE A REZAGO VENEZUELA «ES UN MERCADO CON POTENCIAL»",
+      "link": "https://noticierodigital.com/2026/05/presidente-de-airbus-dice-que-pese-a-rezago-venezuela-es-un-mercado-con-potencial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-627x376.jpg"
+    },
+    {
       "source": "Caracol Noticias",
       "title": "Lo que reveló la autopsia de Carolina Flores sobre su feminicidio: \"Sevicia y violencia extrema\"",
       "link": "https://www.noticiascaracol.com/mundo/lo-que-revelo-la-autopsia-de-carolina-flores-sobre-su-feminicidio-sevicia-y-violencia-extrema-rg10",
@@ -44,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Díaz-Canel responde a Trump: “Ningún agresor, por poderoso que sea, encontrará rendición en Cuba”",
-      "link": "https://diarioversionfinal.com/mundo/diaz-canel-responde-a-trump-ningun-agresor-por-poderoso-que-sea-encontrara-rendicion-en-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/cnne-1639219-presidente-cuba-750x430.jpg"
+      "title": "Trump aprieta el puño y saca de la cama a Raúl Castro",
+      "link": "https://diarioversionfinal.com/mundo/trump-aprieta-el-puno-y-saca-de-la-cama-a-raul-castro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-02-at-2.03.21-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-02T17:43:16.485Z"
+  "lastUpdate": "2026-05-02T19:00:20.125Z"
 }
