@@ -5,7 +5,7 @@
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "661,56"
+      "usdt": "662,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -22,13 +22,13 @@
       "source": "CNN en Español",
       "title": "Caos tras cierre de operaciones de Spirit Airlines",
       "link": "https://cnnespanol.cnn.com/2026/05/02/eeuu/cierre-spirit-airlines-caos-cancelacion-vuelos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779543-copia-de-foto-para-wp-2024-11-11t124414-919.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271676333-20260422204234435.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional publica lista de aspirantes al Comité de Postulaciones Judiciales",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-publica-lista-de-aspirantes-al-comite-de-postulaciones-judiciales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/an22-e5add4.jpg"
+      "title": "Vuelo especial de repatriación trae de vuelta a Venezuela seis menores de edad y un adulto desde EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/vuelo-especial-de-repatriacion-trae-de-vuelta-a-venezuela-a-seis-menores-de-edad-y-un-adulto-desde-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-01-16-at-12.35.57-pm-1-5c869e.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Aerocivil pone en marcha plan de contingencia por cese de operaciones de Spirit Airlines",
-      "link": "https://www.noticiascaracol.com/economia/aerocivil-pone-en-marcha-plan-de-contingencia-por-cese-de-operaciones-de-spirit-airlines-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1a3444a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2Ff6%2Fddf4bf6c45a692d70c0f8b308a97%2Faerocivil-pone-en-marcha-plan-de-contingencia-por-cese-de-operaciones-de-spirit-airlines.jpg"
+      "title": "El judío hallado sin vida en Bogotá vino buscando esposa y se casó con una de 18 años, según NY Post",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/el-judio-hallado-sin-vida-en-bogota-vino-buscando-esposa-y-se-caso-con-una-de-18-anos-segun-ny-post-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1a3d7f6/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe9%2Fc3%2Fe7ea5f7147cc9b64c6620dcf2302%2Fportadas-caracol-web-90.png"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-de-Ormuz-2-02-05-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-05-02T22:41:47.393Z"
+  "lastUpdate": "2026-05-02T23:43:28.108Z"
 }
