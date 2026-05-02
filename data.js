@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,97"
+      "usdt": "662,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amplía las sanciones sobre Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/05/01/eeuu/trump-amplia-sanciones-cuba-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-ley-dhs.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que EE.UU. “tomará el control” de Cuba regresando de la guerra con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/01/mundo/live-news/guerra-ee-uu-israel-iran-9-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f53b0246-174b-4762-9f42-f29d0cf2f7dc.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comisión Preliminar del Comité de Postulaciones Judiciales publicará listado de aspirantes este 2 de mayo",
-      "link": "https://noticiasvenevision.com/noticias/politica/comision-preliminar-del-comite-de-postulaciones-judiciales-publicara-listado-de-aspirantes-este-2-de-mayo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/este-sbado-se-conocern-los-nombres-de-los-41-ciudadanos-y-ciudadanas-que-aspiran-a-integrar-e-39ef39.jpg"
+      "title": "PUD calificó de \"opaco\" el anuncio sobre el aumento del \"ingreso mínimo integral\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/pud-califico-de-opaco-el-anuncio-sobre-el-aumento-del-ingreso-minimo-integral",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/pud_comunicado1.jpg-c1cd29.webp"
     },
     {
       "source": "Noticiero Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esto dijo la suegra de la exreina Carolina Flores durante su captura en Venezuela: \"¿Por qué?\"",
-      "link": "https://www.noticiascaracol.com/mundo/esto-dijo-la-suegra-de-la-ex-reina-carolina-flores-durante-su-captura-en-venezuela-por-que-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/60f27b7/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8e%2F2a%2Fc9442dcc4c8088a92f99615c4f51%2Fcarolina-flores.jpg"
+      "title": "Revelan el minuto a minuto del asesinato de Carolina Flores: “29 minutos para matar”",
+      "link": "https://www.noticiascaracol.com/mundo/revelan-el-minuto-a-minuto-del-asesinato-de-carolina-flores-29-minutos-para-matar-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/88f6c98/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F86%2F5e%2F4713e38e4ee29a6ba4a8c949783c%2Fportadas-caracol-web-47.png"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Migrante cubano muere bajo custodia de ICE en Georgia",
-      "link": "https://diarioversionfinal.com/mundo/migrante-cubano-muere-bajo-custodia-de-ice-en-georgia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/ICE-03-12-2025-750x430.png"
+      "title": "Más del 60 % de los estadounidenses considera un error la guerra en Irán",
+      "link": "https://diarioversionfinal.com/mundo/mas-del-60-de-los-estadounidenses-considera-un-error-la-guerra-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/ILGD2SYPMRIPRWCCPRDKEBH2FM-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-01T22:51:23.919Z"
+  "lastUpdate": "2026-05-02T02:43:49.738Z"
 };
