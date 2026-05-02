@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,88"
+      "usdt": "661,56"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Lo que reveló la autopsia de Carolina Flores sobre su feminicidio: \"Sevicia y violencia extrema\"",
-      "link": "https://www.noticiascaracol.com/mundo/lo-que-revelo-la-autopsia-de-carolina-flores-sobre-su-feminicidio-sevicia-y-violencia-extrema-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/3ef24aa/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F55%2Fe0%2F32b8a1304a5fbb8e48f65febbd98%2Fcarolina-flores-2.jpg"
+      "title": "Aerocivil pone en marcha plan de contingencia por cese de operaciones de Spirit Airlines",
+      "link": "https://www.noticiascaracol.com/economia/aerocivil-pone-en-marcha-plan-de-contingencia-por-cese-de-operaciones-de-spirit-airlines-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1a3444a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff9%2Ff6%2Fddf4bf6c45a692d70c0f8b308a97%2Faerocivil-pone-en-marcha-plan-de-contingencia-por-cese-de-operaciones-de-spirit-airlines.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán ve posible nuevo conflicto tras el rechazo de Trump a última propuesta de paz",
-      "link": "https://diarioversionfinal.com/mundo/iran-ve-posible-nuevo-conflicto-tras-el-rechazo-de-trump-a-ultima-propuesta-de-paz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
+      "title": "Parlamento iraní aprobará una ley que restringirá el tráfico por el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/parlamento-irani-aprobara-una-ley-que-restringira-el-trafico-por-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-de-Ormuz-2-02-05-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-05-02T21:41:07.255Z"
+  "lastUpdate": "2026-05-02T22:41:47.393Z"
 };
