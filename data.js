@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,70"
+      "usdt": "663,75"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Hezbollah despliega una nueva arma para evadir la detección de Israel",
-      "link": "https://cnnespanol.cnn.com/2026/05/03/mundo/hezbollah-arma-evadir-deteccion-israel-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/funeral-idan-fooks-israel.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Europa enfrenta nuevos problemas tras el retiro militar de EE.UU. en Alemania",
+      "link": "https://cnnespanol.cnn.com/2026/05/03/mundo/trump-soldados-alemania-europa-crisis-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273852829-20260503142533053-20260503171804252.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LUIS VICENTE LEÓN NO DUDA DE QUE HAYA ELECCIONES PERO LAS CONDICIONA A UN ACUERDO POLÍTICO",
-      "link": "https://noticierodigital.com/2026/05/luis-vicente-leon-no-duda-de-que-haya-elecciones-pero-las-condiciona-a-un-acuerdo-politico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/LuisVicenteLeon_-627x376.jpg"
+      "title": "OPOSITORES SE CONCENTRARON EN ALGUNAS CIUDADES POR LOS PRESOS POLÍTICOS",
+      "link": "https://noticierodigital.com/2026/05/opositores-se-concentraron-en-algunas-ciudades-por-los-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-2-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Trump ve poco probable aceptar nueva propuesta de Irán: “Aún no paga un precio suficientemente alto”",
-      "link": "https://www.noticiascaracol.com/mundo/trump-ve-poco-probable-aceptar-nueva-propuesta-de-iran-aun-no-paga-un-precio-suficientemente-alto-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f3a4fdf/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0e%2Fde%2F8faab0a04527b13dccc1dd86c2f7%2Ftrump-iran.jpg"
+      "title": "Masacre en Cúcuta deja cuatro personas muertas: líder comunal entre las víctimas",
+      "link": "https://www.noticiascaracol.com/colombia/masacre-en-cucuta-deja-cuatro-personas-muertas-lider-comunal-entre-las-victimas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1f8fc1a/2147483647/strip/true/crop/1915x1080+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F1b%2Fbf%2F4123c0924ab5abff70b5aaff482d%2Fbanner-2025-04-05t095323-260.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/Petroleo-OPEP-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-03T17:47:31.839Z"
+  "lastUpdate": "2026-05-03T19:00:11.595Z"
 };
