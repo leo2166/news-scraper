@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "NICOLÁS MADURO GUERRA: «MI PAPÁ NO TIENE DINERO, NO TIENE CUENTAS, NO TIENE TESTAFERROS»",
-      "link": "https://noticierodigital.com/2026/05/nicolas-maduro-guerra-mi-papa-no-tiene-dinero-no-tiene-cuentas-no-tiene-testaferros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/01/nicolasmaduroguerra-maduromagodelaeconomia-23ene2023.jpg"
+      "title": "DESAPARECE JOVEN EN AMAZONAS Y APUNTAN COMO RESPONSABLE AL ELN",
+      "link": "https://noticierodigital.com/2026/05/desaparece-joven-en-amazonas-y-apuntan-como-responsable-al-eln/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Expertos descartan traiciones en Cuba: “No es Venezuela ni Irán”, aseguran",
-      "link": "https://diarioversionfinal.com/mundo/expertos-descartan-traiciones-en-cuba-no-es-venezuela-ni-iran-aseguran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/retgdsf-750x430.jpg"
+      "title": "Venezolano gana concurso nacional de dirección coral “Le mani in suono” en Italia",
+      "link": "https://diarioversionfinal.com/mundo/venezolano-gana-concurso-nacional-de-direccion-coral-le-mani-in-suono-en-italia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/fred.jpg"
     }
   ],
-  "lastUpdate": "2026-05-03T14:50:08.212Z"
+  "lastUpdate": "2026-05-03T15:48:41.314Z"
 };
