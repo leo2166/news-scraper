@@ -5,7 +5,7 @@
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,79"
+      "usdt": "663,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que revisará la nueva propuesta de Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-20260503105546527.JPEG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Hezbollah despliega una nueva arma para evadir la detección de Israel",
+      "link": "https://cnnespanol.cnn.com/2026/05/03/mundo/hezbollah-arma-evadir-deteccion-israel-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/funeral-idan-fooks-israel.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-02-at-10.08.16-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-03T11:42:24.160Z"
+  "lastUpdate": "2026-05-03T13:11:34.277Z"
 }
