@@ -5,7 +5,7 @@
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,79"
+      "usdt": "663,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado convocó para este domingo concentraciones en más de 120 ciudades en apoyo a los presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/05/02/maria-corina-machado-convoco-para-este-domingo-concentraciones-en-mas-de-120-ciudades-en-apoyo-a-los-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/XR5GLVCOEJG3TOKNHN3MRUEFWU.JPG?auth=51bcdefa68597cef9d1bcbd529f08c8d320dd2dabf07b383fbefb02bb2252a90&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado exigió renovar el CNE “lo antes posible” y fijó condiciones para avanzar hacia elecciones en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/03/maria-corina-machado-exigio-renovar-el-cne-lo-antes-posible-y-fijo-condiciones-para-avanzar-hacia-elecciones-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/YXGEQJO62JHJRDDKLK7ZWWCUXI.jpg?auth=a1ef1f6341815da6b1cb644d6e593799a6a2efedb1732ff79b86ce840ff940f1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Aparatoso accidente en la vía Soacha-Mesitas durante Plan Retorno en Cundinamarca",
-      "link": "https://www.noticiascaracol.com/colombia/aparatoso-accidente-en-la-via-soacha-mesitas-durante-plan-retorno-en-cundinamarca-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f7f9e6c/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F2b%2F734569cd4cc894e5a70904734142%2Fportadas-caracol-web-94.png"
+      "title": "🔴Colombia femenina Sub-17 vs. Paraguay, EN VIVO: minuto a minuto del partido por el Sudamericano",
+      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/colombia-femenina-sub-17-vs-paraguay-en-vivo-minuto-a-minuto-del-partido-por-el-sudamericano-so35",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/78b618f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff4%2Fcb%2Ff9d9a19540e69ca6466edbd58b80%2Fmamcc.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "“La nueva propuesta iraní me resulta inaceptable”, dijo Trump sobre plan de paz de Teherán",
-      "link": "https://diarioversionfinal.com/mundo/la-nueva-propuesta-irani-me-resulta-inaceptable-dijo-trump-sobre-plan-de-paz-de-teheran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
+      "title": "Emiratos Árabes Unidos restableció el tráfico aéreo y levantó restricciones impuestas por el conflicto regional",
+      "link": "https://diarioversionfinal.com/mundo/emiratos-arabes-unidos-restablecio-el-trafico-aereo-y-levanto-restricciones-impuestas-por-el-conflicto-regional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/38099160_605-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-03T21:42:06.622Z"
+  "lastUpdate": "2026-05-03T22:41:44.949Z"
 }
