@@ -14,15 +14,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Jaime Bayly presentó en la Feria del Libro de Bogotá ‘Los golpistas’, la novela que explora los secretos del fallido golpe contra Hugo Chávez",
-      "link": "https://www.infobae.com/venezuela/2026/05/03/jaime-bayly-presento-en-la-feria-del-libro-de-bogota-los-golpistas-la-novela-que-explora-los-secretos-del-fallido-golpe-contra-hugo-chavez/",
-      "image": "https://www.infobae.com/resizer/v2/ZT3URSZRWZGJ3GSVERAGINFNFY.jpg?auth=007684d42f83b91a48811ebbf1e024724317f249027897c73ddd5eaf0ef021a7&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado convocó para este domingo concentraciones en más de 120 ciudades en apoyo a los presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/05/02/maria-corina-machado-convoco-para-este-domingo-concentraciones-en-mas-de-120-ciudades-en-apoyo-a-los-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/XR5GLVCOEJG3TOKNHN3MRUEFWU.JPG?auth=51bcdefa68597cef9d1bcbd529f08c8d320dd2dabf07b383fbefb02bb2252a90&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Europa enfrenta nuevos problemas tras retirada militar de EE.UU. en Alemania",
-      "link": "https://cnnespanol.cnn.com/2026/05/03/mundo/trump-soldados-alemania-europa-crisis-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273852829-20260503142533053-20260503171804252.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. escoltará barcos a través del estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/05/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108447361822-20260502052843161.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
     }
   ],
-  "lastUpdate": "2026-05-03T20:52:04.673Z"
+  "lastUpdate": "2026-05-03T21:42:06.622Z"
 };
