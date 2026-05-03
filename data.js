@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,88"
+      "usdt": "663,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ZOOM ACLARA QUE ENTREGA DE DIVISAS EN TAQUILLA «DEPENDE DE DISPONIBILIDAD DE EFECTIVO»",
-      "link": "https://noticierodigital.com/2026/05/zoom-aclara-que-entrega-de-divisas-en-taquilla-depende-de-disponibilidad-de-efectivo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-627x376.png"
+      "title": "NICOLÁS MADURO GUERRA: «MI PAPÁ NO TIENE DINERO, NO TIENE CUENTAS, NO TIENE TESTAFERROS»",
+      "link": "https://noticierodigital.com/2026/05/nicolas-maduro-guerra-mi-papa-no-tiene-dinero-no-tiene-cuentas-no-tiene-testaferros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/01/nicolasmaduroguerra-maduromagodelaeconomia-23ene2023.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -44,16 +44,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Díaz-Canel alerta por amenazas de Trump de “tomar el control” de la isla",
-      "link": "https://laverdad.com/diaz-canel-alerta-por-amenazas-de-trump-de-tomar-el-control-de-la-isla/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Sin-titulo.jpg"
+      "title": "Papa León XIV denuncia violaciones a la libertad de prensa",
+      "link": "https://laverdad.com/papa-leon-xiv-denuncia-violaciones-a-la-libertad-de-prensa/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/9e3cbcb085ffca3764c9387747fd3e9c2b10b24f-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump revisa sin optimismo propuesta de 14 puntos de Irán para finalizar la guerra",
-      "link": "https://diarioversionfinal.com/mundo/trump-revisa-sin-optimismo-propuesta-de-14-puntos-de-iran-para-finalizar-la-guerra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-02-at-10.08.16-PM-750x430.jpeg"
+      "title": "Expertos descartan traiciones en Cuba: “No es Venezuela ni Irán”, aseguran",
+      "link": "https://diarioversionfinal.com/mundo/expertos-descartan-traiciones-en-cuba-no-es-venezuela-ni-iran-aseguran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/retgdsf-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-03T13:11:34.277Z"
+  "lastUpdate": "2026-05-03T14:50:08.212Z"
 };
