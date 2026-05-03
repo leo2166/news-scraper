@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,50"
+      "usdt": "631,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Caos tras cierre de operaciones de Spirit Airlines",
-      "link": "https://cnnespanol.cnn.com/2026/05/02/eeuu/cierre-spirit-airlines-caos-cancelacion-vuelos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271676333-20260422204234435.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Trump dice que revisará la nueva propuesta de Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-02-172330.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Vuelo especial de repatriación trae de vuelta a Venezuela seis menores de edad y un adulto desde EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/vuelo-especial-de-repatriacion-trae-de-vuelta-a-venezuela-a-seis-menores-de-edad-y-un-adulto-desde-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-01-16-at-12.35.57-pm-1-5c869e.jpeg"
+      "title": "Delcy Rodríguez anuncia despliegue nacional de las Brigadas de Atención Integral para los Abuelos y Abuelas",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-despliegue-nacional-de-las-brigadas-de-atencion-integral-para-los-abuelos-y-abuelas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/maxresdefault-2a7a36.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "El judío hallado sin vida en Bogotá vino buscando esposa y se casó con una de 18 años, según NY Post",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/el-judio-hallado-sin-vida-en-bogota-vino-buscando-esposa-y-se-caso-con-una-de-18-anos-segun-ny-post-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1a3d7f6/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe9%2Fc3%2Fe7ea5f7147cc9b64c6620dcf2302%2Fportadas-caracol-web-90.png"
+      "title": "Trump ve poco probable aceptar nueva propuesta de Irán: “Aún no paga un precio suficientemente alto”",
+      "link": "https://www.noticiascaracol.com/mundo/trump-ve-poco-probable-aceptar-nueva-propuesta-de-iran-aun-no-paga-un-precio-suficientemente-alto-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f3a4fdf/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F0e%2Fde%2F8faab0a04527b13dccc1dd86c2f7%2Ftrump-iran.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Parlamento iraní aprobará una ley que restringirá el tráfico por el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/parlamento-irani-aprobara-una-ley-que-restringira-el-trafico-por-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-de-Ormuz-2-02-05-2026.jpg"
+      "title": "Trump revisa sin optimismo propuesta de 14 puntos de Irán para finalizar la guerra",
+      "link": "https://diarioversionfinal.com/mundo/trump-revisa-sin-optimismo-propuesta-de-14-puntos-de-iran-para-finalizar-la-guerra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-02-at-10.08.16-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-02T23:43:28.108Z"
+  "lastUpdate": "2026-05-03T02:56:42.258Z"
 };
