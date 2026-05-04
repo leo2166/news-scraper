@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "663,75"
+      "usdt": "662,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-03-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-04T06:14:10.092Z"
+  "lastUpdate": "2026-05-04T09:19:45.181Z"
 };
