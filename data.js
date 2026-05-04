@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "662,79"
+      "usdt": "662,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,8 +20,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Fuerzas Armadas de EE.UU. ayudarán a guiar buques a través del estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/05/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-trax",
+      "title": "Irán amenaza a las fuerzas de EE.UU. en Ormuz tras el anuncio de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/05/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-4-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-01t172007z-982900821-rc210lax5ipo-rtrmadp-3-iran-crisis-saudi-liquor-20260504001103580.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-03-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-04T09:19:45.181Z"
+  "lastUpdate": "2026-05-04T11:49:02.741Z"
 };
