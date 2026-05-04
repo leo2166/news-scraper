@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "673,97"
+      "usdt": "673,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,9 +20,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Estados Unidos e Irán intercambiaron disparos en el estrecho de Ormuz",
+      "title": "Trump se niega a decir si el alto el fuego con Irán sigue vigente",
       "link": "https://cnnespanol.cnn.com/2026/05/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ilustracion-vladimir-putin-cnn.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274032322.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EL CHAPO» GUZMÁN INSISTE EN SER EXTRADITADO A MÉXICO",
-      "link": "https://noticierodigital.com/2026/05/el-chapo-guzman-insiste-en-ser-extraditado-a-mexico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/03/joaquin-chapo-guzman-9mar2021.jpg"
+      "title": "PETROLERA ITALIANA ENI REANUDÓ LA RECEPCIÓN DE CRUDO VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/05/petrolera-italiana-eni-reanudo-la-recepcion-de-crudo-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/eni-italia-empresa-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El “Chapo” Guzmán solicita su extradición a México",
-      "link": "https://diarioversionfinal.com/mundo/el-chapo-guzman-solicita-su-extradicion-a-mexico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/descarga-1-750x430.webp"
+      "title": "El precio del petróleo volvió a escalar mientras EE. UU. escolta barcos en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/el-precio-del-petroleo-volvio-a-escalar-mientras-ee-uu-escolta-barcos-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Balancin-de-petroleo-en-Cabimas-Venezuela-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-04T20:15:10.669Z"
+  "lastUpdate": "2026-05-04T22:01:28.745Z"
 };
