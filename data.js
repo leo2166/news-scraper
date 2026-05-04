@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "677,83"
+      "usdt": "673,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -32,15 +32,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SEPA CUÁNTO CUESTA LA ENTRADA A LA EXPO BELLEZA Y BIENESTAR EN EL CCCT",
-      "link": "https://noticierodigital.com/2026/05/sepa-cuanto-cuesta-la-entrada-a-la-expo-belleza-y-bienestar-en-el-ccct/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-6-627x376.png"
+      "title": "«EL CHAPO» GUZMÁN INSISTE EN SER EXTRADITADO A MÉXICO",
+      "link": "https://noticierodigital.com/2026/05/el-chapo-guzman-insiste-en-ser-extraditado-a-mexico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/03/joaquin-chapo-guzman-9mar2021.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Video | Avión se estrelló contra edificio en Brasil y reportan dos muertos: esto se sabe",
-      "link": "https://www.noticiascaracol.com/mundo/video-avion-se-estrello-contra-edificio-en-brasil-y-reportan-dos-muertos-esto-se-sabe-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/fe338c9/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6a%2F32%2F3d9f42b848cb9598a216771d462f%2Fbre-b-23.jpg"
+      "title": "Habla sobreviviente de accidente de Monster Truck en Popayán: el vehículo pasó sobre él y su familia",
+      "link": "https://www.noticiascaracol.com/colombia/habla-sobreviviente-de-accidente-de-monster-truck-en-popayan-el-vehiculo-paso-sobre-el-y-su-familia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/eb5e335/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F22%2Fad%2F05a66a3f42869027ea231a0d9453%2Fportadas-caracol-web-6.png"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Directiva de la CEV regala al Papa León XIV la camiseta de los campeones del Clásico Mundial",
-      "link": "https://diarioversionfinal.com/mundo/directiva-de-la-cev-regala-al-papa-leon-xiv-la-camiseta-de-los-campeones-del-clasico-mundial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-1.00.19-PM-750x430.jpeg"
+      "title": "El “Chapo” Guzmán solicita su extradición a México",
+      "link": "https://diarioversionfinal.com/mundo/el-chapo-guzman-solicita-su-extradicion-a-mexico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/descarga-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-04T18:15:01.677Z"
+  "lastUpdate": "2026-05-04T20:15:10.669Z"
 };
