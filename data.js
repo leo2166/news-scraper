@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "489,55",
-      "eur": "574,19"
+      "usd": "490,04",
+      "eur": "574,04"
     },
     "binance": {
-      "usdt": "673,00"
+      "usdt": "672,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,21 +26,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela defiende ante la CIJ sus derechos históricos sobre la Guayana Esequiba",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-defiende-ante-la-cij-sus-derechos-historicos-sobre-la-guayana-esequiba",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/eur-erco-peace-palace-international-court-of-justice-of-the-united-nations-the-hague-image-1-2-da77be.jpg"
+      "title": "Defensoría del Pueblo se compromete a atender denuncias de detenidos en el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/defensoria-del-pueblo-se-compromete-a-atender-denuncias-de-detenidos-en-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/2826ab1215d71deae59c8214aad0428d1d456783w-380251.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PETROLERA ITALIANA ENI REANUDÓ LA RECEPCIÓN DE CRUDO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/05/petrolera-italiana-eni-reanudo-la-recepcion-de-crudo-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/eni-italia-empresa-627x376.jpg"
+      "title": "ARROZ IMPORTADO SATURÓ LOS SILOS DE GUÁRICO Y AMENAZA LA PRODUCCIÓN NACIONAL",
+      "link": "https://noticierodigital.com/2026/05/arroz-importado-saturo-los-silos-de-guarico-y-amenaza-la-produccion-nacional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/productores-de-arroz-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Habla sobreviviente de accidente de Monster Truck en Popayán: el vehículo pasó sobre él y su familia",
-      "link": "https://www.noticiascaracol.com/colombia/habla-sobreviviente-de-accidente-de-monster-truck-en-popayan-el-vehiculo-paso-sobre-el-y-su-familia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/eb5e335/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F22%2Fad%2F05a66a3f42869027ea231a0d9453%2Fportadas-caracol-web-6.png"
+      "title": "Formulan pliego de cargos contra Sammy Rodríguez, exedecán de Petro, por acoso y violencia de género",
+      "link": "https://www.noticiascaracol.com/colombia/formulan-pliego-de-cargos-contra-sammy-rodriguez-exedecan-de-petro-por-acoso-y-violencia-de-genero-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c7ed664/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F61%2Fd6%2F5bc4f2b14a8882f22cb4b1a0068d%2Fsammy-rodriguez.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El precio del petróleo volvió a escalar mientras EE. UU. escolta barcos en el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/el-precio-del-petroleo-volvio-a-escalar-mientras-ee-uu-escolta-barcos-en-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Balancin-de-petroleo-en-Cabimas-Venezuela-750x430.webp"
+      "title": "Trump: “Irán será borrado de la faz de la Tierra si ataca embarcaciones estadounidenses”",
+      "link": "https://diarioversionfinal.com/mundo/trump-iran-sera-borrado-de-la-faz-de-la-tierra-si-ataca-embarcaciones-estadounidenses/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/rss-efe448bb044b592e2190a7f59a1059a1d2b004573f1w-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-04T22:01:28.745Z"
+  "lastUpdate": "2026-05-04T23:54:08.168Z"
 };
