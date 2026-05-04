@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,19"
     },
     "binance": {
-      "usdt": "631,50"
+      "usdt": "662,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,15 +20,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. escoltará barcos a través del estrecho de Ormuz",
+      "title": "Fuerzas Armadas de EE.UU. ayudarán a guiar buques a través del estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/05/02/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26108447361822-20260502052843161.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-01t172007z-982900821-rc210lax5ipo-rtrmadp-3-iran-crisis-saudi-liquor-20260504001103580.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez anuncia despliegue nacional de las Brigadas de Atención Integral para los Abuelos y Abuelas",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-despliegue-nacional-de-las-brigadas-de-atencion-integral-para-los-abuelos-y-abuelas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/maxresdefault-2a7a36.jpg"
+      "title": "Perkins Rocha: \"El Poder Judicial actual tiene una gran deuda con parte de la sociedad”",
+      "link": "https://noticiasvenevision.com/noticias/politica/perkins-rocha-el-poder-judicial-actual-tiene-una-gran-deuda-con-parte-de-la-sociedad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_684166187_18592358695010065_6236293259955898961_n-e39ca9.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -38,9 +38,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "🔴Colombia femenina Sub-17 vs. Paraguay, EN VIVO: minuto a minuto del partido por el Sudamericano",
-      "link": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/colombia-femenina-sub-17-vs-paraguay-en-vivo-minuto-a-minuto-del-partido-por-el-sudamericano-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/78b618f/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff4%2Fcb%2Ff9d9a19540e69ca6466edbd58b80%2Fmamcc.jpg"
+      "title": "¿Quiénes son las víctimas que fallecieron en el accidente de Paratebueno, Cundinamarca? Esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/quienes-son-las-victimas-que-fallecieron-en-el-accidente-de-paratebueno-cundinamarca-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/717962b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F6f%2F48%2F1b8eaab745909927b8eed85bc4b2%2Fportadas-caracol-web-99.png"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia \"Proyecto Libertad\" para escoltar barcos neutrales bloqueados en el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-proyecto-libertad-para-escoltar-barcos-neutrales-bloqueados-en-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-de-Ormuz--750x430.jpg"
+      "title": "Irán consideraría cualquier \"interferencia\" de EE. UU. en Ormuz como una violación del alto al fuego",
+      "link": "https://diarioversionfinal.com/mundo/iran-consideraria-cualquier-interferencia-de-ee-uu-en-ormuz-como-una-violacion-del-alto-al-fuego/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-03-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-03T23:46:58.474Z"
+  "lastUpdate": "2026-05-04T02:54:00.095Z"
 };
