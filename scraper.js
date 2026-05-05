@@ -8,7 +8,7 @@ const OUTPUT_FILE = path.join(__dirname, 'data.json');
 // --- Helper: Scrape BCV Direct (Dólar y Euro) ---
 async function scrapeBCV(browser) {
     console.log('💵 Scrapeando BCV directamente...');
-    const result = { usd: null, eur: null };
+    const result = { usd: null, eur: null, fechaValor: null };
     let page = null;
 
     try {
@@ -25,7 +25,17 @@ async function scrapeBCV(browser) {
             const dolarEl = document.querySelector('#dolar strong, #dolar .centrado');
             const euroEl = document.querySelector('#euro strong, #euro .centrado');
 
-            // Estrategia 2: Buscar en divs con clase recuadroActual
+            // Capturar la Fecha Valor oficial del BCV
+            // El BCV publica tasas del día hábil siguiente después de las ~5 PM
+            const fechaValorEl = document.querySelector('.pull-right.dinpro.center span.date-display-single');
+            // Selector alternativo por si cambia la clase
+            const fechaValorAlt = !fechaValorEl
+                ? document.querySelector('span.date-display-single')
+                : null;
+            const fechaValor = (fechaValorEl || fechaValorAlt)
+                ? (fechaValorEl || fechaValorAlt).innerText.trim()
+                : null;
+
             let dolar = null, euro = null;
 
             if (dolarEl) {
@@ -35,7 +45,7 @@ async function scrapeBCV(browser) {
                 euro = euroEl.innerText.trim();
             }
 
-            // Estrategia 3: Buscar en toda la página por patrones
+            // Estrategia 2: Buscar en toda la página por patrones
             if (!dolar || !euro) {
                 const allText = document.body.innerText;
 
@@ -47,7 +57,7 @@ async function scrapeBCV(browser) {
                 if (euroMatch && !euro) euro = euroMatch[1];
             }
 
-            return { dolar, euro };
+            return { dolar, euro, fechaValor };
         });
 
         await page.close();
@@ -64,6 +74,13 @@ async function scrapeBCV(browser) {
             console.log(`✅ BCV Euro: ${result.eur}`);
         } else {
             console.log('⚠️ BCV Euro no encontrado');
+        }
+
+        if (rates.fechaValor) {
+            result.fechaValor = rates.fechaValor;
+            console.log(`📅 BCV Fecha Valor: ${result.fechaValor}`);
+        } else {
+            console.log('⚠️ BCV Fecha Valor no encontrada');
         }
 
     } catch (error) {
@@ -167,6 +184,7 @@ async function scrape() {
     console.log('🚀 Iniciando scraper actualizado (BCV + Binance Web)...');
     const browser = await puppeteer.launch({
         headless: "new",
+        executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
         args: [
             '--no-sandbox',
             '--disable-setuid-sandbox',
@@ -196,6 +214,10 @@ async function scrape() {
     if (bcvRates.eur) {
         const val = parseFloat(bcvRates.eur.replace(',', '.'));
         finalData.rates.bcv.eur = val.toFixed(2).replace('.', ',');
+    }
+    // Guardar la fecha valor oficial del BCV
+    if (bcvRates.fechaValor) {
+        finalData.rates.bcv.fechaValor = bcvRates.fechaValor;
     }
 
     // 2. Obtener tasa Binance P2P directamente (Web Scraping)

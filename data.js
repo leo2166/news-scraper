@@ -2,10 +2,11 @@ window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
       "usd": "493,38",
-      "eur": "577,52"
+      "eur": "577,52",
+      "fechaValor": "Miércoles, 06 Mayo 2026"
     },
     "binance": {
-      "usdt": "679,00"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -25,12 +26,6 @@ window.DASHBOARD_DATA = {
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york-20260423224613291.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
-      "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez aborda planes y proyectos en coordinación con Motor Agroalimentario",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-aborda-planes-y-proyectos-en-coordinacion-con-motor-agroalimentario",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5172749253305109598_w-2048x1365-5ac175.jpg"
-    },
-    {
       "source": "Noticiero Digital",
       "title": "JUAN PABLO GUANIPA DESDE MARACAIBO: «MARÍA CORINA VA A VENIR PRONTO A VENEZUELA»",
       "link": "https://noticierodigital.com/2026/05/juan-pablo-guanipa-desde-maracaibo-maria-corina-va-a-venir-pronto-a-venezuela/",
@@ -46,7 +41,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Los tres infectados por hantavirus en el crucero serán evacuados a Países Bajos",
       "link": "https://laverdad.com/los-tres-infectados-por-hantavirus-en-el-crucero-seran-evacuados-a-paises-bajos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Crucero-hantavirus.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -55,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-05-05T22:55:42.139Z"
+  "lastUpdate": "2026-05-05T23:14:28.062Z"
 };

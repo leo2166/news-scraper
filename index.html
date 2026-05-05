@@ -78,8 +78,9 @@
 
             // Rates
             if (data.rates.bcv) {
-                if (data.rates.bcv.usd) createRateCard(container, 'BCV Dólar', data.rates.bcv.usd, 'tag-bcv');
-                if (data.rates.bcv.eur) createRateCard(container, 'BCV Euro', data.rates.bcv.eur, 'tag-bcv');
+                const fechaValorBCV = data.rates.bcv.fechaValor || null;
+                if (data.rates.bcv.usd) createRateCard(container, 'BCV Dólar', data.rates.bcv.usd, 'tag-bcv', fechaValorBCV);
+                if (data.rates.bcv.eur) createRateCard(container, 'BCV Euro', data.rates.bcv.eur, 'tag-bcv', fechaValorBCV);
             }
             /*
             if (data.rates.kontigo && data.rates.kontigo.usd) {
@@ -111,13 +112,22 @@
             }
         }
 
-        function createRateCard(container, name, value, tagClass) {
+        function createRateCard(container, name, value, tagClass, fechaValor) {
             const tmpl = document.getElementById('rate-card-template');
             const clone = tmpl.content.cloneNode(true);
 
             clone.querySelector('.source-tag').textContent = name;
             clone.querySelector('.source-tag').classList.add(tagClass);
             clone.querySelector('.rate-value').innerHTML = `${value} <span style="font-size: 1rem; opacity: 0.5;">VES</span>`;
+
+            // Mostrar la Fecha Valor oficial del BCV en azul bajo las tasas
+            if (fechaValor) {
+                const fechaEl = document.createElement('div');
+                fechaEl.style.cssText = 'font-size: 0.82rem; color: #3b82f6; font-weight: 700; margin-top: 8px;';
+                fechaEl.textContent = `Fecha Valor: ${fechaValor}`;
+                const rateDisplay = clone.querySelector('.rate-display');
+                rateDisplay.appendChild(fechaEl);
+            }
 
             container.appendChild(clone);
         }
