@@ -1,11 +1,11 @@
 {
   "rates": {
     "bcv": {
-      "usd": "490,04",
-      "eur": "574,04"
+      "usd": "494,11",
+      "eur": "578,38"
     },
     "binance": {
-      "usdt": "678,97"
+      "usdt": "681,12"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La imagen de Maduro se borra mientras Delcy Rodríguez asume mayor protagonismo",
-      "link": "https://www.infobae.com/venezuela/2026/05/05/la-imagen-de-maduro-se-borra-mientras-delcy-rodriguez-asume-mayor-protagonismo/",
-      "image": "https://www.infobae.com/resizer/v2/L2MCXIXGENFBVE2K3EMGRHV7WY.jpg?auth=b28d01a3f448c81464e7002f89f249dac6b59ddd99bdb7d1529a5eee0fafe545&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Transparencia Venezuela acusa al gobierno de Delcy Rodríguez de ocultar información clave sobre fondos públicos",
+      "link": "https://www.infobae.com/venezuela/2026/05/05/la-ong-transparencia-venezuela-acusa-al-gobierno-de-delcy-rodriguez-de-ocultar-informacion-clave-sobre-fondos-publicos/",
+      "image": "https://www.infobae.com/resizer/v2/4XKXXQ2BWZH7DC7LOWJYJSEPAA.JPG?auth=5a2daa1e8b8ab16569e73c61e73683aae7142e667b8ed53d8beb8bc5345360e0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
       "title": "EE.UU. dice que el alto el fuego con Irán sigue vigente a pesar del aumento de las tensiones",
       "link": "https://cnnespanol.cnn.com/2026/05/05/mundo/live-news/guerra-ee-uu-israel-iran-ataques-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244907044.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vuelos-20260505194452577.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,9 +32,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ASDRÚBAL OLIVEROS: «POLÍTICA DE INTERVENCIÓN CAMBIARIA DEL BCV ESTÁ INCOMPLETA»",
-      "link": "https://noticierodigital.com/2026/05/asdrubal-oliveros-politica-de-intervencion-cambiaria-del-bcv-esta-incompleta/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/05/asdrubaloliveros-desdolarizar-17may2023.jpg"
+      "title": "RUBIO DICE QUE LA POSTURA DE EE. UU. HACIA DIOSDADO CABELLO NO HA CAMBIADO",
+      "link": "https://noticierodigital.com/2026/05/rubio-dice-que-la-postura-de-ee-uu-hacia-diosdado-cabello-no-ha-cambiado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-64634-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -55,5 +55,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-05-05T19:20:35.690Z"
+  "lastUpdate": "2026-05-05T21:03:06.476Z"
 }
