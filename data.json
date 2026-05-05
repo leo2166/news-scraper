@@ -5,7 +5,7 @@
       "eur": "574,04"
     },
     "binance": {
-      "usdt": "681,37"
+      "usdt": "678,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,15 +14,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El juicio federal contra Maduro en Nueva York aplaza su tercera audiencia hasta el 30 de junio",
-      "link": "https://www.infobae.com/estados-unidos/2026/05/05/el-juicio-federal-contra-maduro-en-nueva-york-aplaza-su-tercera-audiencia-hasta-el-30-de-junio/",
-      "image": "https://www.infobae.com/resizer/v2/XGZIYZELL5AWVJOMCL3YMK3R7E.jpg?auth=af00e61be5869d37c46ea924b69251f88efd420c780b6aaa70352c8dd20843f0&smart=true&width=350&height=197&quality=85"
+      "title": "El partido de María Corina Machado reportó un muerto por lluvias en Venezuela y pidió atención del Gobierno",
+      "link": "https://www.infobae.com/venezuela/2026/05/05/el-partido-de-maria-corina-machado-reporto-un-muerto-por-lluvias-en-venezuela-y-pidio-atencion-del-gobierno/",
+      "image": "https://www.infobae.com/resizer/v2/SNHDFOWGWNAUXAYSX6ETA3BIOU.jpg?auth=270369783f38c88dfcb0dff5b2adbb12ba2757c65d3cc9305485f37f408a44cc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán acusa a EE.UU. y sus aliados de poner en peligro la seguridad marítima",
+      "title": "Pentágono dice que Irán atacó a las fuerzas de EE.UU. más de 10 veces durante alto el fuego",
       "link": "https://cnnespanol.cnn.com/2026/05/05/mundo/live-news/guerra-ee-uu-israel-iran-ataques-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260505101107923.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-30t174545z-1046818313-rc2tzkarc3fg-rtrmadp-3-iran-crisis-usa-congress-20260505115822601.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -32,15 +32,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DESIGNARON A CALIXTO ORTEGA SÁNCHEZ COMO GOBERNADOR DE VENEZUELA ANTE EL FMI",
-      "link": "https://noticierodigital.com/2026/05/designaron-a-calixto-ortega-sanchez-como-gobernador-de-venezuela-ante-el-fmi/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/calixto-ortega-sanchez-627x376.jpg"
+      "title": "JUAN PABLO GUANIPA PIDE LIBERACIÓN DE LUIS PEROZO EXPRESO POLÍTICO NUEVAMENTE ENCARCELADO",
+      "link": "https://noticierodigital.com/2026/05/juan-pablo-guanipa-pide-liberacion-de-luis-perozo-expreso-politico-nuevamente-encarcelado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/juan-pablo-guanipa-2-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Confirman muerte de 9 mineros luego de quedar atrapados en mina de Sutatausa, Cundinamarca",
-      "link": "https://www.noticiascaracol.com/colombia/confirman-muerte-de-9-mineros-luego-de-quedar-atrapados-en-mina-de-sutatausa-cundinamarca-so35",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b0c3735/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5e%2F33%2Fafda61274b29af14cf586ceea88e%2Fmineros.jpg"
+      "title": "Clínica Medical suspende algunos servicios en Bogotá por dificultades financieras",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/clinica-medical-suspende-algunos-servicios-en-bogota-por-dificultades-financieras-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0a26355/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F19%2Fd0%2F4d65867e49bba315c97263e666a2%2Fexcentricidades-47.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,10 +50,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump sobre Venezuela: \"Están viendo cosas que no veían desde hace 20 años\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-sobre-venezuela-estan-viendo-cosas-que-no-veian-desde-hace-20-anos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
+      "title": "Explosión en mina de carbón deja nueve muertos en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/explosion-en-mina-de-carbon-deja-nueve-muertos-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/PBEQYIQTYNHDXEAPORGTNMYQA4-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-05T12:02:19.988Z"
+  "lastUpdate": "2026-05-05T15:08:14.497Z"
 }
