@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,04"
     },
     "binance": {
-      "usdt": "678,95"
+      "usdt": "678,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,46 +14,46 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El partido de María Corina Machado reportó un muerto por lluvias en Venezuela y pidió atención del Gobierno",
-      "link": "https://www.infobae.com/venezuela/2026/05/05/el-partido-de-maria-corina-machado-reporto-un-muerto-por-lluvias-en-venezuela-y-pidio-atencion-del-gobierno/",
-      "image": "https://www.infobae.com/resizer/v2/SNHDFOWGWNAUXAYSX6ETA3BIOU.jpg?auth=270369783f38c88dfcb0dff5b2adbb12ba2757c65d3cc9305485f37f408a44cc&smart=true&width=350&height=197&quality=85"
+      "title": "La imagen de Maduro se borra mientras Delcy Rodríguez asume mayor protagonismo",
+      "link": "https://www.infobae.com/venezuela/2026/05/05/la-imagen-de-maduro-se-borra-mientras-delcy-rodriguez-asume-mayor-protagonismo/",
+      "image": "https://www.infobae.com/resizer/v2/L2MCXIXGENFBVE2K3EMGRHV7WY.jpg?auth=b28d01a3f448c81464e7002f89f249dac6b59ddd99bdb7d1529a5eee0fafe545&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Pentágono dice que Irán atacó a las fuerzas de EE.UU. más de 10 veces durante alto el fuego",
-      "link": "https://cnnespanol.cnn.com/2026/05/05/mundo/live-news/guerra-ee-uu-israel-iran-ataques-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-30t174545z-1046818313-rc2tzkarc3fg-rtrmadp-3-iran-crisis-usa-congress-20260505115822601.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Entró a EE.UU. oculto en auto y hoy es obispo en un bastión republicano",
+      "link": "https://cnnespanol.cnn.com/2026/05/05/eeuu/obispo-inmigrante-el-salvador-papa-trump-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244907044.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez lideró reconocimiento a deportistas nacionales que estuvieron en los IV Juegos Suramericanos de la Juventud",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-lidero-reconocimiento-a-deportistas-nacionales-que-estuvieron-en-los-iv-juegos-suramericanos-de-la-juventud",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/15_zc__5953_p-2048x1365-4d9630.jpg"
+      "title": "Denuncian irregularidades en caso Plaza Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/denuncian-irregularidades-en-caso-plaza-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/caso-plaza-venezuela-1-4c9ed4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN PABLO GUANIPA PIDE LIBERACIÓN DE LUIS PEROZO EXPRESO POLÍTICO NUEVAMENTE ENCARCELADO",
-      "link": "https://noticierodigital.com/2026/05/juan-pablo-guanipa-pide-liberacion-de-luis-perozo-expreso-politico-nuevamente-encarcelado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/juan-pablo-guanipa-2-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ: «DISPONIBILIDAD DE ALIMENTOS AUMENTÓ 9% EN EL PRIMER TRIMESTRE»",
+      "link": "https://noticierodigital.com/2026/05/delcy-rodriguez-disponibilidad-de-alimentos-aumento-9-en-el-primer-trimestre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-ven-47-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Clínica Medical suspende algunos servicios en Bogotá por dificultades financieras",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/clinica-medical-suspende-algunos-servicios-en-bogota-por-dificultades-financieras-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0a26355/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F19%2Fd0%2F4d65867e49bba315c97263e666a2%2Fexcentricidades-47.jpg"
+      "title": "Mina de Sutatausa tenía fallas advertidas antes de la explosión que dejó 9 muertos: \"Emanaciones\"",
+      "link": "https://www.noticiascaracol.com/colombia/mina-de-sutatausa-tenia-fallas-advertidas-antes-de-la-explosion-que-dejo-9-muertos-emanaciones-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e1185dc/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F62%2F1d%2F6591ebeb4602bef99fea88087ff4%2Fportadas-caracol-web-2026-05-05t090333-267.png"
     },
     {
       "source": "La Verdad",
-      "title": "Marco Rubio abordará con León XIV la guerra en Irán y asuntos de Latinoamérica",
-      "link": "https://laverdad.com/marco-rubio-abordara-con-leon-xiv-la-guerra-en-iran-y-asuntos-de-latinoamerica/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Leon-XIV-Marco-Rubio.jpg"
+      "title": "EE. UU. ataca nueva “narcolancha” en el Caribe que deja 2 muertos",
+      "link": "https://laverdad.com/ee-uu-ataca-nueva-narcolancha-en-el-caribe-que-deja-2-muertos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Ataque-EE.-UU.-Caribe.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Explosión en mina de carbón deja nueve muertos en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/explosion-en-mina-de-carbon-deja-nueve-muertos-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/PBEQYIQTYNHDXEAPORGTNMYQA4-750x430.jpg"
+      "title": "Trump critica al papa León XIV a horas de la visita de Marco Rubio al Vaticano",
+      "link": "https://diarioversionfinal.com/mundo/trump-critica-al-papa-leon-xiv-a-horas-de-la-visita-de-marco-rubio-al-vaticano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/pipe-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-05T15:08:14.497Z"
+  "lastUpdate": "2026-05-05T17:25:56.313Z"
 };
