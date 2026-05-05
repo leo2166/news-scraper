@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,04"
     },
     "binance": {
-      "usdt": "648,40"
+      "usdt": "680,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,7 +20,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump se niega a decir si el alto el fuego con Irán sigue vigente",
+      "title": "EE.UU. e Irán intensifican ataques en el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/05/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-4-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2226239770-20260504155444663-20260505030351952.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-05T05:43:53.664Z"
+  "lastUpdate": "2026-05-05T08:10:16.528Z"
 };
