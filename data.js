@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,04"
     },
     "binance": {
-      "usdt": "672,50"
+      "usdt": "678,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,9 +14,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela enfrenta el riesgo de perder el Esequibo en la Corte Internacional de Justicia",
-      "link": "https://www.infobae.com/venezuela/2026/05/04/venezuela-enfrenta-el-riesgo-de-perder-el-esequibo-en-la-corte-internacional-de-justicia/",
-      "image": "https://www.infobae.com/resizer/v2/XCCNBY755NCPBHNG6YFFQT2A2Q.jpg?auth=d6d0697ca9d3dc065b67c3cd29fea065732a341e947c9d93ad8e5cad249c7369&smart=true&width=350&height=197&quality=85"
+      "title": "El juicio federal contra Maduro en Nueva York aplaza su tercera audiencia hasta el 30 de junio",
+      "link": "https://www.infobae.com/estados-unidos/2026/05/05/el-juicio-federal-contra-maduro-en-nueva-york-aplaza-su-tercera-audiencia-hasta-el-30-de-junio/",
+      "image": "https://www.infobae.com/resizer/v2/XGZIYZELL5AWVJOMCL3YMK3R7E.jpg?auth=af00e61be5869d37c46ea924b69251f88efd420c780b6aaa70352c8dd20843f0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -26,15 +26,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Defensoría del Pueblo se compromete a atender denuncias de detenidos en el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/defensoria-del-pueblo-se-compromete-a-atender-denuncias-de-detenidos-en-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/2826ab1215d71deae59c8214aad0428d1d456783w-380251.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez lideró reconocimiento a deportistas nacionales que estuvieron en los IV Juegos Suramericanos de la Juventud",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-lidero-reconocimiento-a-deportistas-nacionales-que-estuvieron-en-los-iv-juegos-suramericanos-de-la-juventud",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/15_zc__5953_p-2048x1365-4d9630.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ARROZ IMPORTADO SATURÓ LOS SILOS DE GUÁRICO Y AMENAZA LA PRODUCCIÓN NACIONAL",
-      "link": "https://noticierodigital.com/2026/05/arroz-importado-saturo-los-silos-de-guarico-y-amenaza-la-produccion-nacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/productores-de-arroz-627x376.jpg"
+      "title": "DESIGNARON A CALIXTO ORTEGA SÁNCHEZ COMO GOBERNADOR DE VENEZUELA ANTE EL FMI",
+      "link": "https://noticierodigital.com/2026/05/designaron-a-calixto-ortega-sanchez-como-gobernador-de-venezuela-ante-el-fmi/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/calixto-ortega-sanchez-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -50,10 +50,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump: “Irán será borrado de la faz de la Tierra si ataca embarcaciones estadounidenses”",
-      "link": "https://diarioversionfinal.com/mundo/trump-iran-sera-borrado-de-la-faz-de-la-tierra-si-ataca-embarcaciones-estadounidenses/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/rss-efe448bb044b592e2190a7f59a1059a1d2b004573f1w-750x430.webp"
+      "title": "Protestan en Texas por detención de venezolana y sus hijos durante operativo migratorio",
+      "link": "https://diarioversionfinal.com/mundo/protestan-en-texas-por-detencion-de-venezolana-y-sus-hijos-durante-operativo-migratorio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_3827-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-04T23:54:08.168Z"
+  "lastUpdate": "2026-05-05T02:46:18.486Z"
 };
