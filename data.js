@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "494,11",
-      "eur": "578,38"
+      "usd": "493,38",
+      "eur": "577,52"
     },
     "binance": {
-      "usdt": "681,12"
+      "usdt": "679,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -20,27 +20,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. dice que el alto el fuego con Irán sigue vigente a pesar del aumento de las tensiones",
-      "link": "https://cnnespanol.cnn.com/2026/05/05/mundo/live-news/guerra-ee-uu-israel-iran-ataques-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vuelos-20260505194452577.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "¿Por qué EE.UU. permitió que Venezuela pague la defensa de Maduro?",
+      "link": "https://cnnespanol.cnn.com/2026/05/05/venezuela/defensa-maduro-victoria-complica-poder-caracas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york-20260423224613291.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Denuncian irregularidades en caso Plaza Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/denuncian-irregularidades-en-caso-plaza-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/caso-plaza-venezuela-1-4c9ed4.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez aborda planes y proyectos en coordinación con Motor Agroalimentario",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-aborda-planes-y-proyectos-en-coordinacion-con-motor-agroalimentario",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5172749253305109598_w-2048x1365-5ac175.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUBIO DICE QUE LA POSTURA DE EE. UU. HACIA DIOSDADO CABELLO NO HA CAMBIADO",
-      "link": "https://noticierodigital.com/2026/05/rubio-dice-que-la-postura-de-ee-uu-hacia-diosdado-cabello-no-ha-cambiado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-64634-627x376.jpg"
+      "title": "JUAN PABLO GUANIPA DESDE MARACAIBO: «MARÍA CORINA VA A VENIR PRONTO A VENEZUELA»",
+      "link": "https://noticierodigital.com/2026/05/juan-pablo-guanipa-desde-maracaibo-maria-corina-va-a-venir-pronto-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/juan-pablo-guanipa-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Lo llaman de números desconocidos? Así venderían sus datos a posibles extorsionistas en Bogotá",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/lo-llaman-de-numeros-desconocidos-asi-venderian-sus-datos-a-posibles-extorsionistas-en-bogota-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c4c7aec/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Faf%2F96%2Fc72ecbf74a5bb55783a64e42a47f%2Fllamadas-spam-noticias-caracol.jpg"
+      "title": "Se conoce qué país recibirá el crucero varado por brote de hantavirus en Cabo Verde",
+      "link": "https://www.noticiascaracol.com/mundo/se-conoce-que-pais-recibira-el-crucero-varado-por-brote-de-hantavirus-en-cabo-verde-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/ce91d1c/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F80%2Feb%2Fae8c5c664c13b038190a08a78979%2Fhantavirus.jpg"
     },
     {
       "source": "La Verdad",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-05-05T21:03:06.476Z"
+  "lastUpdate": "2026-05-05T22:55:42.139Z"
 };
