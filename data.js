@@ -5,7 +5,7 @@ window.DASHBOARD_DATA = {
       "eur": "574,04"
     },
     "binance": {
-      "usdt": "680,79"
+      "usdt": "680,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,8 +21,8 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "EE.UU. e Irán intensifican ataques en el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/05/04/mundo/live-news/guerra-ee-uu-israel-iran-ataques-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2226239770-20260504155444663-20260505030351952.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/05/05/mundo/live-news/guerra-ee-uu-israel-iran-ataques-5-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260505101107923.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -55,5 +55,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-05T08:10:16.528Z"
+  "lastUpdate": "2026-05-05T10:46:31.766Z"
 };
