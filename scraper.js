@@ -182,9 +182,8 @@ async function scrapeBinance(browser) {
 
 async function scrape() {
     console.log('🚀 Iniciando scraper actualizado (BCV + Binance Web)...');
-    const browser = await puppeteer.launch({
+    const launchOptions = {
         headless: "new",
-        executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
         args: [
             '--no-sandbox',
             '--disable-setuid-sandbox',
@@ -192,7 +191,13 @@ async function scrape() {
             '--disable-gpu',
             '--disable-quic'
         ]
-    });
+    };
+
+    if (!process.env.CI) {
+        launchOptions.executablePath = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+    }
+
+    const browser = await puppeteer.launch(launchOptions);
 
     const finalData = {
         rates: {
