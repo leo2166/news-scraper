@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,58"
+      "usdt": "688,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El hotel en Caracas que se convirtió en centro de poder tras la caída de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/05/06/el-hotel-en-caracas-que-se-convirtio-en-centro-de-poder-tras-la-caida-de-maduro-donde-se-reunen-diplomaticos-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/HYG2AZ4WUJB6ZEJMR6LOUXYFSM.PNG?auth=0a2d7522a6e88bea1bcf2366408786733436e2f8984535caa1896bd37dd74ff1&smart=true&width=350&height=197&quality=85"
+      "title": "Alertan que la mayoría de los presos políticos excarcelados en Venezuela continúan sometidos a la vigilancia del régimen",
+      "link": "https://www.infobae.com/venezuela/2026/05/06/alertan-que-la-mayoria-de-los-presos-politicos-excarcelados-en-venezuela-continuan-sometidos-a-la-vigilancia-del-regimen/",
+      "image": "https://www.infobae.com/resizer/v2/UFSVYYQ7Z5FTXNWXGOB2ENQ26A.jpeg?auth=48a86c996600f8a2bb033e320097a5a75fd30138c1b9d21b9733e043478a2a10&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Partido MPV propone mediación internacional como garante en reforma del Poder Judicial",
-      "link": "https://noticiasvenevision.com/noticias/politica/partido-mpv-propone-mediacion-internacional-como-garante-en-reforma-del-poder-judicial",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5995794003737556805_w-e38a7f.jpg"
+      "title": "María Corina Machado agradece el llamado de la OEA para la liberación de detenidos por razones políticas en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-agradece-el-llamado-de-la-oea-por-la-liberacion-de-detenidos-por-razones-politicas-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/51013b2bb03b1c863ed484ecf387f64d2342b274-1-780x1170-c8e47e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE RODRÍGUEZ AFIRMÓ QUE AN AVANZARÁ EN TRANSFORMACIÓN DEL SISTEMA DE JUSTICIA",
-      "link": "https://noticierodigital.com/2026/05/jorge-rodriguez-afirmo-que-an-avanzara-en-transformacion-del-sistema-de-justicia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/jorge-rodriguez-venezuela-1-627x376.jpg"
+      "title": "JOHN BARRETT AFIRMÓ QUE VENEZUELA NECESITA CAMBIOS REGULATORIOS PARA ATRAER INVERSIONES",
+      "link": "https://noticierodigital.com/2026/05/john-barrett-afirmo-que-venezuela-necesita-cambios-regulatorios-para-atraer-inversiones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/john-barrett-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/AA21Seez.jpg"
     }
   ],
-  "lastUpdate": "2026-05-06T22:56:00.234Z"
+  "lastUpdate": "2026-05-06T23:53:06.698Z"
 }
