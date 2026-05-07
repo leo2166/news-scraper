@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "691,79"
+      "usdt": "692,58"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esta es la rara variante del hantavirus: es la única confirmada que se transmite entre humanos",
-      "link": "https://www.noticiascaracol.com/salud/esta-es-la-rara-del-hantavirus-la-unica-confirmada-que-se-transmite-entre-humanos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d356646/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F76%2F5f%2Fec6aefa645d88a8471148b4787c9%2Fplantilla-fotos-2026-05-06t170814-178.jpg"
+      "title": "Reporte de presunto dron obligó a suspender operaciones por varios minutos en aeropuerto El Dorado",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/reporte-de-presunto-dron-obligo-a-suspender-operaciones-por-varios-minutos-en-el-dorado-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f7cf35a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe7%2F10%2F35adfe2c48bfbce7b59788f800fa%2Faeropuerto-el-dorado-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ted-Turner-730x524-1-730x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-07T02:53:24.197Z"
+  "lastUpdate": "2026-05-07T06:11:37.625Z"
 };
