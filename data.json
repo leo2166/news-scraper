@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,67"
+      "usdt": "686,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez repite la fórmula de Chávez para tomar el control del Tribunal Supremo de Justicia",
-      "link": "https://www.infobae.com/venezuela/2026/05/07/delcy-rodriguez-repite-la-formula-de-chavez-para-tomar-el-control-del-tribunal-supremo-de-justicia/",
-      "image": "https://www.infobae.com/resizer/v2/ZSGJOHEYLFHKZFL7M4XO3UDVB4.jpg?auth=369b283adf05dd59ce5a5a7aa32c7df84113372e7883198e5de134c899875613&smart=true&width=350&height=197&quality=85"
+      "title": "El costo oculto de ampliar el Tribunal Supremo de Justicia: más magistrados, más escoltas y una factura que crece",
+      "link": "https://www.infobae.com/venezuela/2026/05/07/el-costo-oculto-de-ampliar-el-tribunal-supremo-de-justicia-mas-magistrados-mas-escoltas-y-una-factura-que-crece/",
+      "image": "https://www.infobae.com/resizer/v2/43Q42T2DVNFEBNBZHETFZUY3XI.jpg?auth=71fdef84b8fa48b535ca186af90c4e83b5048fcd5e5835e0ee910a76d494c467&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump está atrapado en su propia estrategia en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/trump-atrapado-estrategia-encontrar-salida-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274083611-20260507044330576.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán impone nuevas normas para el estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/iran-normas-estrecho-ormuz-ventajas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273981246-20260507170119315.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,21 +33,21 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MACHADO PIDE AL MUNDO «ACTUAR DE INMEDIATO» POR LIBERACIÓN DE NARGES MOHAMMADI",
-      "link": "https://noticierodigital.com/2026/05/machado-pide-al-mundo-actuar-de-inmediato-por-liberacion-de-narges-mohammadi/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
+      "title": "JOSÉ MANUEL PUENTE: «VENEZUELA SIGUE TENIENDO LA INFLACIÓN MÁS ALTA DEL MUNDO»",
+      "link": "https://noticierodigital.com/2026/05/jose-manuel-puente-venezuela-sigue-teniendo-la-inflacion-mas-alta-del-mundo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/depreciacion-inflacion-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Alcalde de Villa de Leyva fue capturado por el CTI de la Fiscalía: esto se sabe",
-      "link": "https://www.noticiascaracol.com/colombia/alcalde-de-villa-de-leyva-fue-capturado-por-el-cti-de-la-fiscalia-esto-se-sabe-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2bda5b6/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ffa%2F01%2F596da99a43c8ac5e8bd907c55f12%2Fexcentricidades-54.jpg"
+      "title": "Hallaron objetos personales de Mateo Pérez, periodista desaparecido en Antioquia, dice familiar",
+      "link": "https://www.noticiascaracol.com/colombia/hallaron-objetos-personales-de-mateo-perez-periodista-desaparecido-en-briceno-dice-familiar-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/7b774ef/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9f%2F9f%2F7dedb7054ce1879ec5fa8fe0425d%2Fperiodista-desaparecido.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "OMS descarta que brote de hantavirus se convierta en una gran epidemia",
-      "link": "https://laverdad.com/oms-descarta-que-brote-de-hantavirus-se-convierta-en-una-gran-epidemia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Maria-Van-Kerkhove-OMS.jpg"
+      "title": "Exfuncionarios de PoliChacao exponen torturas en El Helicoide ante la Corte Interamericana",
+      "link": "https://laverdad.com/exfuncionarios-de-polichacao-exponen-torturas-en-el-helicoide-ante-la-corte-interamericana/",
+      "image": "https://laverdad.com/wp-content/uploads/2024/09/el-helicoide.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/MV-Hondius-07-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-07T16:50:21.098Z"
+  "lastUpdate": "2026-05-07T18:25:12.321Z"
 }
