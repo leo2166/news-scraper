@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "693,10"
+      "usdt": "691,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Provea instó al gobierno venezolano a avanzar en una Justicia independiente tras la intención de incorporar jueces al TSJ",
-      "link": "https://www.infobae.com/venezuela/2026/05/07/provea-insto-al-gobierno-venezolano-a-avanzar-en-una-justicia-independiente-tras-la-intencion-de-incorporar-jueces-al-tsj/",
-      "image": "https://www.infobae.com/resizer/v2/DCJBVCPX5RFM5GPPYQZ3BAVAKE.jpg?auth=619412cf4094724392a75abb639b140397eec7dd998f13645cd149e389b9e547&smart=true&width=350&height=197&quality=85"
+      "title": "La CIDH denunció la disparidad de cifras de presos liberados en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/07/la-cidh-denuncio-la-disparidad-de-cifras-de-presos-liberados-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/GSZ5EVS6BFEYVDVGIGFSBHQWR4.jpg?auth=bcc3508c4a4b6105c9ab2a5b5601176a357ff3347dfa3a26417be52758fdca3f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán respondería la propuesta de EE.UU. para poner fin a la guerra el jueves, dice fuente",
-      "link": "https://cnnespanol.cnn.com/2026/05/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-6-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26126595926049-20260507003517485.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump está atrapado por su propia estrategia en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/trump-atrapado-estrategia-encontrar-salida-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274083611-20260507044330576.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Reporte de presunto dron obligó a suspender operaciones por varios minutos en aeropuerto El Dorado",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/reporte-de-presunto-dron-obligo-a-suspender-operaciones-por-varios-minutos-en-el-dorado-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f7cf35a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe7%2F10%2F35adfe2c48bfbce7b59788f800fa%2Faeropuerto-el-dorado-1.jpg"
+      "title": "30 pasajeros del crucero con hantavirus desembarcaron antes de cuarentena: lista de nacionalidades",
+      "link": "https://www.noticiascaracol.com/mundo/30-pasajeros-del-crucero-con-brote-de-hantavirus-desembarcaron-antes-de-la-cuarentena-lista-de-nacionalidades-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/6e84870/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2Fbc%2F8433b5fb46b6bf6811d974948a6d%2Fdiseno-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Muere Ted Turner, fundador de CNN y Cartoon Network",
-      "link": "https://diarioversionfinal.com/mundo/muere-ted-turner-fundador-de-cnn-y-cartoon-network/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ted-Turner-730x524-1-730x430.jpg"
+      "title": "Trump asegura que en Venezuela “la gente está bailando en las calles”",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-en-venezuela-la-gente-esta-bailando-en-las-calles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/rss-efe448bb044b592e2190a7f59a1059a1d2b004573f1w-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-07T09:32:50.727Z"
+  "lastUpdate": "2026-05-07T11:47:36.509Z"
 };
