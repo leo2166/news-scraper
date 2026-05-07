@@ -1,9 +1,9 @@
 {
   "rates": {
     "bcv": {
-      "usd": "496,83",
-      "eur": "583,87",
-      "fechaValor": "Jueves, 07 Mayo 2026"
+      "usd": "499,86",
+      "eur": "588,10",
+      "fechaValor": "Viernes, 08 Mayo 2026"
     },
     "binance": {
       "usdt": "686,60"
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez se reúne con Kate Forbes y altas autoridades de la Cruz Roja y Media Luna Roja",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-se-reune-con-kate-forbes-y-altas-autoridades-de-la-cruz-roja-y-media-luna-roja",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3156-scaled-072aee.jpg"
+      "title": "Embajador Gerson Revanales: \"La defensa del Esequibo requiere voluntad política y reconocimiento del orden jurídico internacional\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajador-gerson-revanales-la-defensa-del-esequibo-requiere-voluntad-politica-y-reconocimiento-del-orden-juridico-internacional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/459b62e3-2de6-45dd-949c-dc639e691543-1834b4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOSÉ MANUEL PUENTE: «VENEZUELA SIGUE TENIENDO LA INFLACIÓN MÁS ALTA DEL MUNDO»",
-      "link": "https://noticierodigital.com/2026/05/jose-manuel-puente-venezuela-sigue-teniendo-la-inflacion-mas-alta-del-mundo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/depreciacion-inflacion-627x376.jpg"
+      "title": "HOMBRE MATÓ A SU PAREJA Y A SU BEBÉ A PUÑALADAS EN SAN ANTONIO",
+      "link": "https://noticierodigital.com/2026/05/hombre-mato-a-su-pareja-y-a-su-bebe-a-punaladas-en-san-antonio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/barquisimeto-asesinatocomerciantearabe-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -45,16 +45,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "Exfuncionarios de PoliChacao exponen torturas en El Helicoide ante la Corte Interamericana",
-      "link": "https://laverdad.com/exfuncionarios-de-polichacao-exponen-torturas-en-el-helicoide-ante-la-corte-interamericana/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/09/el-helicoide.jpg"
+      "title": "Detienen en México al sicario venezolano Eliezer José “N”",
+      "link": "https://laverdad.com/detienen-en-mexico-al-sicario-venezolano-eliezer-jose-n/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Eliezer-Jose-N.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "¡Tensión sanitaria mundial! OMS confirma cinco casos de hantavirus en crucero que viaja a España",
-      "link": "https://diarioversionfinal.com/mundo/tension-sanitaria-mundial-oms-confirma-cinco-casos-de-hantavirus-en-crucero-que-viaja-a-espana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/MV-Hondius-07-05-2026-750x430.jpg"
+      "title": "Salida de Emiratos de la OPEP reconfigura el panorama petrolero mundial y favorece a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/salida-de-emiratos-de-la-opep-reconfigura-el-panorama-petrolero-mundial-y-favorece-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/12/opep-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-07T18:25:12.321Z"
+  "lastUpdate": "2026-05-07T20:14:30.225Z"
 }
