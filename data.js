@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "688,87"
+      "usdt": "691,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán revisa propuesta de EE.UU. para poner fin a la guerra, según una fuente",
+      "title": "Irán respondería la propuesta de EE.UU. para poner fin a la guerra el jueves, dice fuente",
       "link": "https://cnnespanol.cnn.com/2026/05/06/mundo/live-news/guerra-ee-uu-israel-iran-ataques-6-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269663591-20260506191830433.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26126595926049-20260507003517485.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado agradece el llamado de la OEA para la liberación de detenidos por razones políticas en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-agradece-el-llamado-de-la-oea-por-la-liberacion-de-detenidos-por-razones-politicas-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/51013b2bb03b1c863ed484ecf387f64d2342b274-1-780x1170-c8e47e.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez se reúne con Kate Forbes y altas autoridades de la Cruz Roja y Media Luna Roja",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-se-reune-con-kate-forbes-y-altas-autoridades-de-la-cruz-roja-y-media-luna-roja",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3156-scaled-072aee.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOHN BARRETT AFIRMÓ QUE VENEZUELA NECESITA CAMBIOS REGULATORIOS PARA ATRAER INVERSIONES",
-      "link": "https://noticierodigital.com/2026/05/john-barrett-afirmo-que-venezuela-necesita-cambios-regulatorios-para-atraer-inversiones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/john-barrett-eeuu-627x376.jpg"
+      "title": "DEFENSORÍA DEL PUEBLO INICIÓ MESAS DE CONSULTA CON SECTORES DE LA SOCIEDAD CIVIL",
+      "link": "https://noticierodigital.com/2026/05/defensoria-del-pueblo-inicio-mesas-de-consulta-con-sectores-de-la-sociedad-civil/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/eglee-gonzalez-lobato-defensoria-del-pueblo-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. inmoviliza petrolero iraní en el golfo de Omán en medio del bloqueo naval",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-inmoviliza-petrolero-irani-en-el-golfo-de-oman-en-medio-del-bloqueo-naval/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/AA21Seez.jpg"
+      "title": "Muere Ted Turner, fundador de CNN y Cartoon Network",
+      "link": "https://diarioversionfinal.com/mundo/muere-ted-turner-fundador-de-cnn-y-cartoon-network/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ted-Turner-730x524-1-730x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-06T23:53:06.698Z"
+  "lastUpdate": "2026-05-07T02:53:24.197Z"
 };
