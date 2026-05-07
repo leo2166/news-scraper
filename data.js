@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "692,58"
+      "usdt": "693,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Alertan que la mayoría de los presos políticos excarcelados en Venezuela continúan sometidos a la vigilancia del régimen",
-      "link": "https://www.infobae.com/venezuela/2026/05/06/alertan-que-la-mayoria-de-los-presos-politicos-excarcelados-en-venezuela-continuan-sometidos-a-la-vigilancia-del-regimen/",
-      "image": "https://www.infobae.com/resizer/v2/UFSVYYQ7Z5FTXNWXGOB2ENQ26A.jpeg?auth=48a86c996600f8a2bb033e320097a5a75fd30138c1b9d21b9733e043478a2a10&smart=true&width=350&height=197&quality=85"
+      "title": "Provea instó al gobierno venezolano a avanzar en una Justicia independiente tras la intención de incorporar jueces al TSJ",
+      "link": "https://www.infobae.com/venezuela/2026/05/07/provea-insto-al-gobierno-venezolano-a-avanzar-en-una-justicia-independiente-tras-la-intencion-de-incorporar-jueces-al-tsj/",
+      "image": "https://www.infobae.com/resizer/v2/DCJBVCPX5RFM5GPPYQZ3BAVAKE.jpg?auth=619412cf4094724392a75abb639b140397eec7dd998f13645cd149e389b9e547&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ted-Turner-730x524-1-730x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-07T06:11:37.625Z"
+  "lastUpdate": "2026-05-07T09:32:50.727Z"
 };
