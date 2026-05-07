@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "499,86",
-      "eur": "588,10",
-      "fechaValor": "Viernes, 08 Mayo 2026"
+      "usd": "496,83",
+      "eur": "583,87",
+      "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,37"
+      "usdt": "686,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán impone nuevas normas para el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/iran-normas-estrecho-ormuz-ventajas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273981246-20260507170119315.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. ataca instalaciones militares en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-7-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/filephotolabel-20260507214542309-20260507220121291.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "OMS no cree que el brote de hantavirus se convierta en pandemia",
-      "link": "https://diarioversionfinal.com/mundo/oms-no-cree-que-el-brote-de-hantavirus-se-convierta-en-pandemia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/oms-21-de-enero-2025-750x430.webp"
+      "title": "Trump amenaza con respuestas “mucho más violentas” a Irán si no hay acuerdo",
+      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-con-respuestas-mucho-mas-violentas-a-iran-si-no-hay-acuerdo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-07T21:59:04.490Z"
+  "lastUpdate": "2026-05-07T23:05:33.771Z"
 };
