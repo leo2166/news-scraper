@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 07 Mayo 2026"
     },
     "binance": {
-      "usdt": "691,95"
+      "usdt": "688,27"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,13 +15,13 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La CIDH denunció la disparidad de cifras de presos liberados en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/07/la-cidh-denuncio-la-disparidad-de-cifras-de-presos-liberados-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/GSZ5EVS6BFEYVDVGIGFSBHQWR4.jpg?auth=bcc3508c4a4b6105c9ab2a5b5601176a357ff3347dfa3a26417be52758fdca3f&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen de Nicaragua volvió a nombrar a una ex alcaldesa de Managua como embajadora en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/07/el-regimen-de-nicaragua-volvio-a-nombrar-a-una-ex-alcaldesa-de-managua-como-embajadora-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/XJKSQULUTNDEHGY3ZYCBEHA3VY.jpg?auth=8da594b12e62911fa950563dbb7f5721e81fb2c21a395640079b3f64858ddf68&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump está atrapado por su propia estrategia en Irán",
+      "title": "Trump está atrapado en su propia estrategia en Irán",
       "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/trump-atrapado-estrategia-encontrar-salida-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274083611-20260507044330576.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEFENSORÍA DEL PUEBLO INICIÓ MESAS DE CONSULTA CON SECTORES DE LA SOCIEDAD CIVIL",
-      "link": "https://noticierodigital.com/2026/05/defensoria-del-pueblo-inicio-mesas-de-consulta-con-sectores-de-la-sociedad-civil/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/eglee-gonzalez-lobato-defensoria-del-pueblo-627x376.jpg"
+      "title": "SECTOR AVÍCOLA CRECIÓ 48% ENTRE 2024 Y 2025, SEGÚN LA FEDERACIÓN NACIONAL DE AVICULTURA",
+      "link": "https://noticierodigital.com/2026/05/sector-avicola-crecio-48-entre-2024-y-2025-segun-la-federacion-nacional-de-avicultura/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-10-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que en Venezuela “la gente está bailando en las calles”",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-en-venezuela-la-gente-esta-bailando-en-las-calles/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/rss-efe448bb044b592e2190a7f59a1059a1d2b004573f1w-750x430.webp"
+      "title": "Rubio dialoga sobre la paz en Medio Oriente con el Papa: ¿Apagará incendio de Trump?",
+      "link": "https://diarioversionfinal.com/mundo/rubio-dialoga-sobre-la-paz-en-medio-oriente-con-el-papa-apagara-incendio-de-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-9.52.20-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-07T11:47:36.509Z"
+  "lastUpdate": "2026-05-07T14:09:20.916Z"
 };
