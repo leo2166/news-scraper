@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "496,83",
-      "eur": "583,87",
-      "fechaValor": "Jueves, 07 Mayo 2026"
+      "usd": "499,86",
+      "eur": "588,10",
+      "fechaValor": "Viernes, 08 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,96"
+      "usdt": "685,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,33 +15,33 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El costo oculto de ampliar el Tribunal Supremo de Justicia: más magistrados, más escoltas y una factura que crece",
-      "link": "https://www.infobae.com/venezuela/2026/05/07/el-costo-oculto-de-ampliar-el-tribunal-supremo-de-justicia-mas-magistrados-mas-escoltas-y-una-factura-que-crece/",
-      "image": "https://www.infobae.com/resizer/v2/43Q42T2DVNFEBNBZHETFZUY3XI.jpg?auth=71fdef84b8fa48b535ca186af90c4e83b5048fcd5e5835e0ee910a76d494c467&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela extrajo el material nuclear de su único reactor experimental",
+      "link": "https://www.infobae.com/venezuela/2026/05/08/venezuela-extrajo-el-material-nuclear-de-su-unico-reactor-experimental/",
+      "image": "https://www.infobae.com/resizer/v2/IKABTFPVVJCXBH6L7EI5ZJI2LY.jpg?auth=8b8c7286a27c2c6d44517023277f5aeb94f2a3b44cb50f5e6a53958e446af970&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. ataca instalaciones militares en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-7-trax",
+      "title": "EE.UU. ataca objetivos iraníes, pero asegura que \"no busca una escalada\"",
+      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/eeuu-ataca-instalaciones-militares-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/filephotolabel-20260507214542309-20260507220121291.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Defensoría del Pueblo se pronunció tras anuncio del fallecimiento de Víctor Hugo Quero Navas",
-      "link": "https://noticiasvenevision.com/noticias/politica/defensoria-del-pueblo-se-pronuncio-tras-anuncio-del-fallecimiento-de-victor-hugo-quero-navas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/defensoria-del-pueblo-2d8fab.jpg"
+      "title": "Ministerio Público inicia investigación penal tras el fallecimiento del ciudadano Víctor Hugo Quero Navas",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-publico-inicia-investigacion-penal-tras-el-fallecimiento-del-ciudadano-victor-hugo-quero-navas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ministerio_pblico_en_caracas_venezuela-5bd49d.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EJECUTIVO INICIÓ MANIOBRAS DE ESTABILIZACIÓN ANTE ALTA DEMANDA ELÉCTRICA",
-      "link": "https://noticierodigital.com/2026/05/ejecutivo-inicio-maniobras-de-estabilizacion-ante-alta-demanda-electrica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/05/apagones-sinluz-22may2023.jpg"
+      "title": "OVP EXIGIÓ DESTITUIR AL MINISTRO JULIO GARCÍA ZERPA TRAS MUERTE DE VÍCTOR HUGO QUERO",
+      "link": "https://noticierodigital.com/2026/05/ovp-exigio-destituir-al-ministro-julio-garcia-zerpa-tras-muerte-de-victor-hugo-quero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/victor-hugo-quero-carmen-navas-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Asesinan a presidenta del Concejo de Obando, Valle del Cauca, Mileidy Villada: detalles del crimen",
-      "link": "https://www.noticiascaracol.com/colombia/asesinan-a-presidenta-del-concejo-de-obando-valle-del-cauca-mileidy-villada-detalles-del-crimen-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/94b2f3a/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F17%2F4a%2Ff907a2124a71901bf1e4d0829d57%2Fconcejo-obando-mileidy-villada.jpg"
+      "title": "Cancelado el partido de Medellín vs Flamengo, por Copa Libertadores, por incidentes en el Atanasio",
+      "link": "https://www.noticiascaracol.com/golcaracol/cancelado-el-partido-de-medellin-vs-flamengo-por-copa-libertadores-por-incidentes-en-el-atanasio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e8c9cc0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F10%2Fd1e2807b40048b0617147438b53b%2Fdiseno-sin-titulo-2026-05-07t205304-442.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump amenaza con respuestas “mucho más violentas” a Irán si no hay acuerdo",
-      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-con-respuestas-mucho-mas-violentas-a-iran-si-no-hay-acuerdo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
+      "title": "EE. UU. exige la liberación de Narges Mohammadi ante el riesgo de muerte en Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-exige-la-liberacion-de-narges-mohammadi-ante-el-riesgo-de-muerte-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/NARGES-MOHAMMADI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-07T23:05:33.771Z"
+  "lastUpdate": "2026-05-08T02:55:59.568Z"
 }
