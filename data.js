@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Muerte del preso político Víctor Quero Navas estremece a la opinión pública venezolana que exige justicia",
-      "link": "https://www.infobae.com/venezuela/2026/05/08/muerte-del-preso-politico-victor-quero-navas-estremece-a-la-opinion-publica-venezolana-que-exige-justicia/",
-      "image": "https://www.infobae.com/resizer/v2/CUTANRG75VBU7HG44KHOWTGZ74.jpg?auth=7f547baafb8f47d604e9c10f22741f095c57f9933d95a5ed5e75742707a836dc&smart=true&width=350&height=197&quality=85"
+      "title": "Migrantes venezolanos en Argentina muestran “mayor potencial de retorno” a su país",
+      "link": "https://www.infobae.com/venezuela/2026/05/08/migrantes-venezolanos-en-argentina-muestran-mayor-potencial-de-retorno-a-su-pais/",
+      "image": "https://www.infobae.com/resizer/v2/KG2DJPVMEZGOLCFRICE5S2YEFQ.JPG?auth=08ec0ea9e52a0eb1ef1e8af3abb373ab46c6ee83ce104aae2e69f4522ff37345&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPO BELLEZA Y BIENESTAR ABRIÓ SUS PUERTAS EN CARACAS Y PREVÉ RECIBIR A MÁS DE 20.000 PERSONAS",
-      "link": "https://noticierodigital.com/2026/05/expo-belleza-y-bienestar-abrio-sus-puertas-en-caracas-y-preve-recibir-a-mas-de-20-000-personas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-5-627x376.png"
+      "title": "EMBAJADA DE EE. UU. RETIRÓ 13 KILOS DE URANIO ENRIQUECIDO DE REACTOR EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/embajada-de-ee-uu-retiro-13-kilos-de-uranio-enriquecido-de-reactor-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-6-627x376.png"
     },
     {
       "source": "Caracol Noticias",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. dispara y bloquea dos petroleros iraníes en el golfo de Omán",
-      "link": "https://laverdad.com/ee-uu-dispara-y-bloquea-dos-petroleros-iranies-en-el-golfo-de-oman/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/EE.UU_.-dos-petroleros-iranies-golfo-de-Oman.jpg"
+      "title": "Meloni y Rubio liman asperezas y destacan la importancia de la colaboración trasatlántica",
+      "link": "https://laverdad.com/meloni-y-rubio-liman-asperezas-y-destacan-la-importancia-de-la-colaboracion-trasatlantica/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/1366x768_cmsv2_a191da45-92f2-55bb-9be5-c7a3127be3df-9751533-1-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. comienza a desclasificar archivos gubernamentales sobre Ovnis y vida extraterrestre",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-comienza-a-desclasificar-archivos-gubernamentales-sobre-ovnis-y-vida-extraterrestre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/eeuu-1-1024x683.jpg-750x430.webp"
+      "title": "Senador Rick Scott exige restablecer sanciones contra Delcy por muerte de Víctor Quero",
+      "link": "https://diarioversionfinal.com/mundo/senador-rick-scott-exige-restablecer-sanciones-contra-delcy-por-muerte-de-victor-quero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/senador-rick-scott-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-08T19:18:42.694Z"
+  "lastUpdate": "2026-05-08T21:01:34.333Z"
 };
