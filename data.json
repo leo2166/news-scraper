@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "499,86",
-      "eur": "588,10",
-      "fechaValor": "Viernes, 08 Mayo 2026"
+      "usd": "500,46",
+      "eur": "589,27",
+      "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "679,37"
+      "usdt": "681,41"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. espera hoy una \"oferta seria\" de Irán, a pesar de los últimos ataques",
-      "link": "https://cnnespanol.cnn.com/2026/05/08/mundo/live-news/guerra-ee-uu-israel-iran-ataques-medio-oriente-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273981246-20260506124338142.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Llegó a EE.UU. a los 4 años y fue deportado a un país que no recuerda",
+      "link": "https://cnnespanol.cnn.com/2026/05/08/eeuu/joven-deportado-honduras-15-anios-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/35594251-94257832-generated-thumbnail.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,13 +33,13 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EMBAJADA DE EE. UU. RETIRÓ 13 KILOS DE URANIO ENRIQUECIDO DE REACTOR EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/embajada-de-ee-uu-retiro-13-kilos-de-uranio-enriquecido-de-reactor-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-6-627x376.png"
+      "title": "CÁMARA COLOMBO VENEZOLANA PROYECTÓ COMERCIO BINACIONAL DE USD $ 1,6 MILLARDOS",
+      "link": "https://noticierodigital.com/2026/05/camara-colombo-venezolana-proyecto-comercio-binacional-de-usd-16-millardos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/transportistas-de-carga-pesada-colombia-venezuela-frontera-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Gobierno Nacional pide suspender capturas de 29 integrantes del Clan del Golfo: ¿qué implica?",
+      "title": "Gobierno pide suspender capturas de 29 integrantes del Clan del Golfo, entre ellos 'Chiquito Malo'",
       "link": "https://www.noticiascaracol.com/judicial/gobierno-nacional-pide-suspender-ordenes-de-captura-de-29-integrantes-del-clan-del-golfo-que-implica-la-solicitud-rg10",
       "image": "https://caracoltv.brightspotcdn.com/dims4/default/e21b227/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F65%2Fd9%2Fe0c4394c4f4bb5c3dc85bc4c97f6%2Fdiseno.jpg"
     },
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Senador Rick Scott exige restablecer sanciones contra Delcy por muerte de Víctor Quero",
-      "link": "https://diarioversionfinal.com/mundo/senador-rick-scott-exige-restablecer-sanciones-contra-delcy-por-muerte-de-victor-quero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/senador-rick-scott-750x430.webp"
+      "title": "El papa celebra su primer año de pontificado en Nápoles y Pompeya",
+      "link": "https://diarioversionfinal.com/mundo/el-papa-celebra-su-primer-ano-de-pontificado-en-napoles-y-pompeya/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Papa-Leon-XIV-08-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-08T21:01:34.333Z"
+  "lastUpdate": "2026-05-08T22:55:33.123Z"
 }
