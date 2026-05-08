@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 08 Mayo 2026"
     },
     "binance": {
-      "usdt": "684,00"
+      "usdt": "681,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado acusó al chavismo de torturar y asesinar a Víctor Hugo Quero Navas en la cárcel Rodeo I",
-      "link": "https://www.infobae.com/venezuela/2026/05/08/maria-corina-machado-acuso-al-chavismo-de-torturar-y-asesinar-a-victor-hugo-quero-navas-en-la-carcel-rodeo-i/",
-      "image": "https://www.infobae.com/resizer/v2/OD7QBSJD3JESDO5IJGIDKDQQIE.JPG?auth=14a67fb06f766d17a62b57cb7eada88780b08422c301e6444d8f92431dd75c90&smart=true&width=350&height=197&quality=85"
+      "title": "Muerte del preso político Víctor Quero Navas estremece a la opinión pública venezolana que exige justicia",
+      "link": "https://www.infobae.com/venezuela/2026/05/08/muerte-del-preso-politico-victor-quero-navas-estremece-a-la-opinion-publica-venezolana-que-exige-justicia/",
+      "image": "https://www.infobae.com/resizer/v2/CUTANRG75VBU7HG44KHOWTGZ74.jpg?auth=7f547baafb8f47d604e9c10f22741f095c57f9933d95a5ed5e75742707a836dc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Las propuestas de Claudia López en El país de los jóvenes: esto contestó la candidata presidencial",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/las-propuestas-de-claudia-lopez-en-el-pais-de-los-jovenes-esto-contesto-la-candidata-presidencial-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/15b10c4/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7a%2F0a%2F4b28f047406583831bc28037ce87%2Fclaudia-lopez-1.jpg"
+      "title": "EE. UU. desclasifica primeros archivos sobre ovnis y vida extraterrestre",
+      "link": "https://www.noticiascaracol.com/mundo/ee-uu-desclasifica-primeros-archivos-sobre-ovnis-y-vida-extraterrestre-cb20",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a876274/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9b%2F1c%2Fdb33057b4801bc1c0fc4dc3e19f7%2Fovnis.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Lula afirma que reunión con Trump sirvió para dar “un paso importante” en la relación",
-      "link": "https://laverdad.com/lula-afirma-que-reunion-con-trump-sirvio-para-dar-un-paso-importante-en-la-relacion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Lula-Trump.jpg"
+      "title": "Italia a Rubio tras desavenencias con Trump: “También Estados Unidos necesita a Europa”",
+      "link": "https://laverdad.com/italia-a-rubio-tras-desavenencias-con-trump-tambien-estados-unidos-necesita-a-europa/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/99c340732db119ff3c519a026b5d270000466dce-1-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-9.19.55-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-08T13:49:02.272Z"
+  "lastUpdate": "2026-05-08T15:22:46.914Z"
 }
