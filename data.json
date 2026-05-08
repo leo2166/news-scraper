@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 08 Mayo 2026"
     },
     "binance": {
-      "usdt": "685,40"
+      "usdt": "686,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela extrajo el material nuclear de su único reactor experimental",
-      "link": "https://www.infobae.com/venezuela/2026/05/08/venezuela-extrajo-el-material-nuclear-de-su-unico-reactor-experimental/",
-      "image": "https://www.infobae.com/resizer/v2/IKABTFPVVJCXBH6L7EI5ZJI2LY.jpg?auth=8b8c7286a27c2c6d44517023277f5aeb94f2a3b44cb50f5e6a53958e446af970&smart=true&width=350&height=197&quality=85"
+      "title": "La Fiscalía de Venezuela ordenó exhumar el cuerpo del preso político Víctor Hugo Quero Navas, nueve meses después de su muerte",
+      "link": "https://www.infobae.com/venezuela/2026/05/08/la-fiscalia-de-venezuela-ordeno-exhumar-el-cuerpo-del-preso-politico-victor-hugo-quero-navas-nueve-meses-despues-de-su-muerte/",
+      "image": "https://www.infobae.com/resizer/v2/SLSCG7YYWVC5LMO425ZVD2D2AM.jpg?auth=9abdbc7655414f17d76f8828c11695fda95f74d991c72602d4ee604b35c9cd93&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio Público inicia investigación penal tras el fallecimiento del ciudadano Víctor Hugo Quero Navas",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-publico-inicia-investigacion-penal-tras-el-fallecimiento-del-ciudadano-victor-hugo-quero-navas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ministerio_pblico_en_caracas_venezuela-5bd49d.jpg"
+      "title": "Gobernador Neil Villamizar destaca firmeza de Venezuela ante la CIJ por el Esequibo",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobernador-neil-villamizar-destaca-firmeza-de-venezuela-ante-la-cij-por-el-esequibo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gobernador-electo-de-la-guayana-esequiba-neil-villamizar-42397-50c470.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "Cancelado el partido de Medellín vs Flamengo, por Copa Libertadores, por incidentes en el Atanasio",
-      "link": "https://www.noticiascaracol.com/golcaracol/cancelado-el-partido-de-medellin-vs-flamengo-por-copa-libertadores-por-incidentes-en-el-atanasio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e8c9cc0/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F10%2Fd1e2807b40048b0617147438b53b%2Fdiseno-sin-titulo-2026-05-07t205304-442.jpg"
+      "title": "Dron encontrado cerca a Catam, en Bogotá, pertenecería a las disidencias de las Farc: esto se sabe",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/dron-encontrado-cerca-a-catam-en-bogota-perteneceria-a-las-disidencias-de-las-farc-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/1b51386/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F42%2Fd5%2Ff64b9a0f4272971dade56f06321d%2Fdron-catam.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. exige la liberación de Narges Mohammadi ante el riesgo de muerte en Irán",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-exige-la-liberacion-de-narges-mohammadi-ante-el-riesgo-de-muerte-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/NARGES-MOHAMMADI-750x430.jpg"
+      "title": "León XIV celebra su primer aniversario como papa con visita pastoral a Pompeya y Nápoles",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-celebra-su-primer-aniversario-como-papa-con-visita-pastoral-a-pompeya-y-napoles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/HX4PDTLXLJDW5DPFMPVNI6WQ3M-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-08T02:55:59.568Z"
+  "lastUpdate": "2026-05-08T05:31:42.261Z"
 }
