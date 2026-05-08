@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 08 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,90"
+      "usdt": "656,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,14 +15,14 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La Fiscalía de Venezuela ordenó exhumar el cuerpo del preso político Víctor Hugo Quero Navas, nueve meses después de su muerte",
-      "link": "https://www.infobae.com/venezuela/2026/05/08/la-fiscalia-de-venezuela-ordeno-exhumar-el-cuerpo-del-preso-politico-victor-hugo-quero-navas-nueve-meses-despues-de-su-muerte/",
-      "image": "https://www.infobae.com/resizer/v2/SLSCG7YYWVC5LMO425ZVD2D2AM.jpg?auth=9abdbc7655414f17d76f8828c11695fda95f74d991c72602d4ee604b35c9cd93&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado acusó al chavismo de torturar y asesinar a Víctor Hugo Quero Navas en la cárcel Rodeo I",
+      "link": "https://www.infobae.com/venezuela/2026/05/08/maria-corina-machado-acuso-al-chavismo-de-torturar-y-asesinar-a-victor-hugo-quero-navas-en-la-carcel-rodeo-i/",
+      "image": "https://www.infobae.com/resizer/v2/OD7QBSJD3JESDO5IJGIDKDQQIE.JPG?auth=14a67fb06f766d17a62b57cb7eada88780b08422c301e6444d8f92431dd75c90&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
       "title": "EE.UU. ataca objetivos iraníes, pero asegura que \"no busca una escalada\"",
-      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/eeuu-ataca-instalaciones-militares-iran-trax",
+      "link": "https://cnnespanol.cnn.com/2026/05/07/mundo/live-news/guerra-ee-uu-israel-iran-ataques-7-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/filephotolabel-20260507214542309-20260507220121291.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/HX4PDTLXLJDW5DPFMPVNI6WQ3M-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-08T05:31:42.261Z"
+  "lastUpdate": "2026-05-08T07:42:55.163Z"
 };
