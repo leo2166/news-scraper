@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 08 Mayo 2026"
     },
     "binance": {
-      "usdt": "679,99"
+      "usdt": "679,37"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobernador Neil Villamizar destaca firmeza de Venezuela ante la CIJ por el Esequibo",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobernador-neil-villamizar-destaca-firmeza-de-venezuela-ante-la-cij-por-el-esequibo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gobernador-electo-de-la-guayana-esequiba-neil-villamizar-42397-50c470.jpg"
+      "title": "CEV y dirigentes políticos solicitan justicia en el caso Víctor Quero",
+      "link": "https://noticiasvenevision.com/noticias/politica/cev-y-dirigentes-politicos-solicitan-justicia-en-el-caso-victor-quero",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/carmen-navas-mother-victor-hugo-quero-who-thumb7-16859722a-fb79de.webp"
     },
     {
       "source": "Noticiero Digital",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Caracol Noticias",
-      "title": "EE. UU. desclasifica primeros archivos sobre ovnis y vida extraterrestre",
-      "link": "https://www.noticiascaracol.com/mundo/ee-uu-desclasifica-primeros-archivos-sobre-ovnis-y-vida-extraterrestre-cb20",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a876274/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F9b%2F1c%2Fdb33057b4801bc1c0fc4dc3e19f7%2Fovnis.jpg"
+      "title": "Gobierno Nacional pide suspender capturas de 29 integrantes del Clan del Golfo: ¿qué implica?",
+      "link": "https://www.noticiascaracol.com/judicial/gobierno-nacional-pide-suspender-ordenes-de-captura-de-29-integrantes-del-clan-del-golfo-que-implica-la-solicitud-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/e21b227/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F65%2Fd9%2Fe0c4394c4f4bb5c3dc85bc4c97f6%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "OMS alcara que el hantavirus sólo se transmite por “contacto cercano, cara a cara”",
-      "link": "https://laverdad.com/oms-alcara-que-el-hantavirus-solo-se-transmite-por-contacto-cercano-cara-a-cara/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/9f33fc71-f328-4ce7-8c85-6559c07bdc23-1.png"
+      "title": "EE. UU. dispara y bloquea dos petroleros iraníes en el golfo de Omán",
+      "link": "https://laverdad.com/ee-uu-dispara-y-bloquea-dos-petroleros-iranies-en-el-golfo-de-oman/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/EE.UU_.-dos-petroleros-iranies-golfo-de-Oman.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/eeuu-1-1024x683.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-08T17:18:09.156Z"
+  "lastUpdate": "2026-05-08T19:18:42.694Z"
 }
