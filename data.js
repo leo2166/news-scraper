@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "681,37"
+      "usdt": "682,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SHELL EVALÚA EXPORTAR GAS VENEZOLANO A TRAVÉS DE TRINIDAD Y TOBAGO",
-      "link": "https://noticierodigital.com/2026/05/shell-evalua-exportar-gas-venezolano-a-traves-de-trinidad-y-tobago/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/shell-estados-unidos-627x376.jpg"
+      "title": "EGU CUESTIONÓ MANEJO DE FONDOS VENEZOLANOS MIENTRAS PERSISTE CRISIS ELÉCTRICA",
+      "link": "https://noticierodigital.com/2026/05/egu-cuestiono-manejo-de-fondos-venezolanos-mientras-persiste-crisis-electrica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/edmundo-gonzalez-2422-1200x640-1-627x376.webp"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fallece a los 64 años Germán Vargas Lleras, exvicepresidente de Colombia",
-      "link": "https://diarioversionfinal.com/mundo/fallece-a-los-64-anos-german-vargas-lleras-exvicepresidente-de-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/images-2026-05-09T054501.357.jpg"
+      "title": "Cuba enfrentará apagones que afectarán al 52 % del país este sábado",
+      "link": "https://diarioversionfinal.com/mundo/cuba-enfrentara-apagones-que-afectaran-al-52-del-pais-este-sabado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/hasta-un-43-de-cuba-quedara-este-sabado-a-la-vez-sin-corriente-por-la-crisis-e-20260418-125931-TM8J-1200x675-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-09T13:18:29.367Z"
+  "lastUpdate": "2026-05-09T14:51:17.017Z"
 };
