@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "680,99"
+      "usdt": "680,37"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "\"Superrevolucionarios\": cómo opera el grupo que amenaza el acuerdo entre EE.UU. e Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/superrevolucionarios-radicales-iranies-acuerdo-estados-unidos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-30t041705z-1365669286-rc23zkalp9pg-rtrmadp-3-iran-crisis-20260507010352518-20260509100455902.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Las claves del discurso de Trump sobre la guerra en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/guerra-iran-argumentos-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/download-5-20260509111908035.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "INCENDIO CONSUMIÓ UNA HABITACIÓN EN VIVIENDA DE EL MARQUÉS",
-      "link": "https://noticierodigital.com/2026/05/incendio-consumio-una-habitacion-en-vivienda-de-el-marques/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/bomberos-incendio-caracas-627x376.jpg"
+      "title": "FIRMA DE FLORIDA EXPORTARÁ CRUDO VENEZOLANO POR PRIMERA VEZ TRAS ALIVIO DE SANCIONES",
+      "link": "https://noticierodigital.com/2026/05/firma-de-florida-exportara-crudo-venezolano-por-primera-vez-tras-alivio-de-sanciones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/petroleo-venezuela-referencial-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Germán Vargas Lleras, un sobreviviente: estos fueron los atentados de los que fue víctima",
-      "link": "https://www.noticiascaracol.com/politica/german-vargas-lleras-un-sobreviviente-estos-fueron-los-atentados-de-los-que-fue-victima-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/2b742d9/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F65%2F2e%2F34a7d5384748b513930998eb3098%2Fgerman-vargas-lleras-2.jpg"
+      "title": "¿Quién fue Germán Vargas Lleras, exvicepresidente de la República? Esta fue su vida política",
+      "link": "https://www.noticiascaracol.com/politica/quien-era-german-vargas-lleras-exvicepresidente-de-la-republica-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/595c57d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F75%2F3d667fce409da39650a4a00497f4%2Fplantilla-fotos-39.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La OIEA confirma envío de 13 kilos de uranio enriquecido desde Venezuela hacia EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/la-oiea-confirma-envio-de-13-kilos-de-uranio-enriquecido-desde-venezuela-hacia-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/nnsa-loading-nuclear-fuel-750x430.webp"
+      "title": "México incauta 26 bultos de cocaína y detiene a dos extranjeros en costas de Guerrero",
+      "link": "https://diarioversionfinal.com/mundo/mexico-incauta-26-bultos-de-cocaina-y-detiene-a-dos-extranjeros-en-costas-de-guerrero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_9-5-2026_164046_lapatilla.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-09T19:02:43.659Z"
+  "lastUpdate": "2026-05-09T20:43:14.925Z"
 };
