@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "652,88"
+      "usdt": "683,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Migrantes venezolanos en Argentina muestran “mayor potencial de retorno” a su país",
-      "link": "https://www.infobae.com/venezuela/2026/05/08/migrantes-venezolanos-en-argentina-muestran-mayor-potencial-de-retorno-a-su-pais/",
-      "image": "https://www.infobae.com/resizer/v2/KG2DJPVMEZGOLCFRICE5S2YEFQ.JPG?auth=08ec0ea9e52a0eb1ef1e8af3abb373ab46c6ee83ce104aae2e69f4522ff37345&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado instó al gobierno venezolano liberar a todos los presos políticos “antes de que mueran más”",
+      "link": "https://www.infobae.com/venezuela/2026/05/09/maria-corina-machado-insto-al-gobierno-venezolano-liberar-a-todos-los-presos-politicos-antes-de-que-mueran-mas/",
+      "image": "https://www.infobae.com/resizer/v2/QTI4P5KWVVFFLC6C6SNHJTKSKM.JPG?auth=69ff0ca2a93553943d1edd0e611e2d18d4082c886be9ba266e53d722f813cd04&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Min-Salud-Chile-08-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-09T06:15:57.435Z"
+  "lastUpdate": "2026-05-09T08:26:25.562Z"
 }
