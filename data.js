@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "682,00"
+      "usdt": "681,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EGU CUESTIONÓ MANEJO DE FONDOS VENEZOLANOS MIENTRAS PERSISTE CRISIS ELÉCTRICA",
-      "link": "https://noticierodigital.com/2026/05/egu-cuestiono-manejo-de-fondos-venezolanos-mientras-persiste-crisis-electrica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/edmundo-gonzalez-2422-1200x640-1-627x376.webp"
+      "title": "ACTIVISTAS EXIGIERON LA REAPERTURA DE LA EMBAJADA DE VENEZUELA EN ARGENTINA",
+      "link": "https://noticierodigital.com/2026/05/activistas-exigieron-la-reapertura-de-la-embajada-de-venezuela-en-argentina/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/adicora-paraguana-falcon-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Meloni y Rubio liman asperezas y destacan la importancia de la colaboración trasatlántica",
-      "link": "https://laverdad.com/meloni-y-rubio-liman-asperezas-y-destacan-la-importancia-de-la-colaboracion-trasatlantica/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/1366x768_cmsv2_a191da45-92f2-55bb-9be5-c7a3127be3df-9751533-1-1.jpg"
+      "title": "Ataque de EE. UU. contra embarcación en el Pacífico Oriental deja dos muertos",
+      "link": "https://laverdad.com/ataque-de-ee-uu-contra-embarcacion-en-el-pacifico-oriental-deja-dos-muertos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/16931122.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba enfrentará apagones que afectarán al 52 % del país este sábado",
-      "link": "https://diarioversionfinal.com/mundo/cuba-enfrentara-apagones-que-afectaran-al-52-del-pais-este-sabado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/hasta-un-43-de-cuba-quedara-este-sabado-a-la-vez-sin-corriente-por-la-crisis-e-20260418-125931-TM8J-1200x675-1-750x430.webp"
+      "title": "EE.UU. intensifica presión marítima con “bloqueo total” a Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-intensifica-presion-maritima-con-bloqueo-total-a-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/HH4iC9zW0AANHTu-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-09T14:51:17.017Z"
+  "lastUpdate": "2026-05-09T15:53:06.059Z"
 };
