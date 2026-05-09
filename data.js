@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "682,50"
+      "usdt": "680,37"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Confirman identidad de Víctor Hugo Quero tras exhumación",
-      "link": "https://noticiasvenevision.com/noticias/politica/confirman-identidad-de-victor-hugo-quero-tras-exhumacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asda-1-27f679.jpg"
+      "title": "Delcy Rodríguez viajará en las próximas horas para defender los derechos soberanos de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-viajara-en-las-proximas-horas-para-defender-los-derechos-soberanos-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_2026-05-09_13-22-31-4a8997.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fatal accidente en Denver: Hombre invade pista y es arrollado por avión en despegue",
-      "link": "https://diarioversionfinal.com/mundo/fatal-accidente-en-denver-persona-invade-pista-y-es-arrollada-por-avion-en-despegue/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/avion-frontier-e1778336974136-750x430.jpg"
+      "title": "Universidad Francisco Marroquín confiere doctorado honoris causa al venezolano Marcel Granier",
+      "link": "https://diarioversionfinal.com/mundo/universidad-francisco-marroquin-confiere-doctorado-honoris-causa-al-venezolano-marcel-granier/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_9-5-2026_18298_www.elnacional.com_-709x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-09T21:43:17.124Z"
+  "lastUpdate": "2026-05-09T22:44:21.095Z"
 };
