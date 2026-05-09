@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "652,88"
+      "usdt": "652,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Inteligencia de EE.UU. cree que el líder supremo de Irán aún define la estrategia de guerra",
-      "link": "https://cnnespanol.cnn.com/2026/05/08/mundo/lider-supremo-iran-vista-publica-influye-estrategia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-08-181313.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "\"Superrevolucionarios\": cómo opera el grupo que amenaza el acuerdo entre EE.UU. e Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/superrevolucionarios-radicales-iranies-acuerdo-estados-unidos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-30t041705z-1365669286-rc23zkalp9pg-rtrmadp-3-iran-crisis-20260507010352518-20260509100455902.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Min-Salud-Chile-08-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-09T10:05:10.333Z"
+  "lastUpdate": "2026-05-09T11:51:11.073Z"
 };
