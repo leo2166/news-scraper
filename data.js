@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "652,50"
+      "usdt": "681,37"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VLADIMIR VILLEGAS PIDIÓ LLEGAR «AL FONDO» EN INVESTIGACIONES POR MUERTE DE VÍCTOR QUERO",
-      "link": "https://noticierodigital.com/2026/05/vladimir-villegas-pidio-llegar-al-fondo-en-investigaciones-por-muerte-de-victor-quero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/victor-hugo-quero-tumba-627x376.jpg"
+      "title": "SHELL EVALÚA EXPORTAR GAS VENEZOLANO A TRAVÉS DE TRINIDAD Y TOBAGO",
+      "link": "https://noticierodigital.com/2026/05/shell-evalua-exportar-gas-venezolano-a-traves-de-trinidad-y-tobago/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/shell-estados-unidos-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Aislaron en Chile a dos pasajeros del crucero donde hubo el brote de hantavirus",
-      "link": "https://diarioversionfinal.com/mundo/aislaron-en-chile-a-dos-pasajeros-del-crucero-donde-hubo-el-brote-de-hantavirus/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Min-Salud-Chile-08-05-2026-750x430.jpg"
+      "title": "Fallece a los 64 años Germán Vargas Lleras, exvicepresidente de Colombia",
+      "link": "https://diarioversionfinal.com/mundo/fallece-a-los-64-anos-german-vargas-lleras-exvicepresidente-de-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/images-2026-05-09T054501.357.jpg"
     }
   ],
-  "lastUpdate": "2026-05-09T11:51:11.073Z"
+  "lastUpdate": "2026-05-09T13:18:29.367Z"
 };
