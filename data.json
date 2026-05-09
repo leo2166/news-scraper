@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "683,79"
+      "usdt": "652,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Los republicanos toman ventaja en la guerra de redistribución de distritos",
-      "link": "https://cnnespanol.cnn.com/2026/05/08/eeuu/guerra-redistribucion-distritos-republicanos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-08-131457.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Inteligencia de EE.UU. cree que el líder supremo de Irán aún define la estrategia de guerra",
+      "link": "https://cnnespanol.cnn.com/2026/05/08/mundo/lider-supremo-iran-vista-publica-influye-estrategia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-08-181313.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Min-Salud-Chile-08-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-09T08:26:25.562Z"
+  "lastUpdate": "2026-05-09T10:05:10.333Z"
 }
