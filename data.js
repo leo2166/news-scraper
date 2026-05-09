@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "680,37"
+      "usdt": "651,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Las claves del discurso de Trump sobre la guerra en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/guerra-iran-argumentos-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260509101526669.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Irán promete represalias contra EE.UU. si hay más ataques contra buques",
+      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/live-news/guerra-ee-uu-israel-iran-1-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-09-155710.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "¿Quién fue Germán Vargas Lleras, exvicepresidente de la República? Esta fue su vida política",
-      "link": "https://www.noticiascaracol.com/politica/quien-era-german-vargas-lleras-exvicepresidente-de-la-republica-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/595c57d/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F75%2F3d667fce409da39650a4a00497f4%2Fplantilla-fotos-39.jpg"
+      "title": "Video: así fue la llegada del féretro de Germán Vargas Lleras al Palacio de San Carlos",
+      "link": "https://www.noticiascaracol.com/politica/video-asi-fue-la-llegada-del-feretro-de-german-vargas-lleras-al-palacio-de-san-carlos-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/31a501b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2F0d%2F6e728669461ab8055cc0f129b83d%2Fplantilla-fotos-41.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Universidad Francisco Marroquín confiere doctorado honoris causa al venezolano Marcel Granier",
-      "link": "https://diarioversionfinal.com/mundo/universidad-francisco-marroquin-confiere-doctorado-honoris-causa-al-venezolano-marcel-granier/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_9-5-2026_18298_www.elnacional.com_-709x430.jpeg"
+      "title": "Venezolano es condenado en EE.UU. tras hacerse pasar por estudiante adolescente en escuela de Ohio",
+      "link": "https://diarioversionfinal.com/mundo/venezolano-es-condenado-en-ee-uu-tras-hacerse-pasar-por-estudiante-adolescente-en-escuela-de-ohio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_9-5-2026_194519_noticiaalminuto.com_.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-09T22:44:21.095Z"
+  "lastUpdate": "2026-05-09T23:50:45.520Z"
 };
