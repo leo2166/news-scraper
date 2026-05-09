@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "681,49"
+      "usdt": "682,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "María Corina Machado instó al gobierno venezolano liberar a todos los presos políticos “antes de que mueran más”",
-      "link": "https://www.infobae.com/venezuela/2026/05/09/maria-corina-machado-insto-al-gobierno-venezolano-liberar-a-todos-los-presos-politicos-antes-de-que-mueran-mas/",
-      "image": "https://www.infobae.com/resizer/v2/QTI4P5KWVVFFLC6C6SNHJTKSKM.JPG?auth=69ff0ca2a93553943d1edd0e611e2d18d4082c886be9ba266e53d722f813cd04&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez anunció que viajará a La Haya para representar a Venezuela en la disputa con Guyana por el Esequibo",
+      "link": "https://www.infobae.com/venezuela/2026/05/09/delcy-rodriguez-anuncio-que-viajara-a-la-haya-para-representar-a-venezuela-en-la-disputa-con-guyana-por-el-esequibo/",
+      "image": "https://www.infobae.com/resizer/v2/GPME5ST2SZB37FQV7OA33DY4SY.JPG?auth=79f89be5ee9f3c1e0d350c1fa32d198117e33eb7ad57c9a2f84f67d987a44c50&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MDI CALIFICÓ COMO «CRIMEN DE ESTADO» LA MUERTE DE VÍCTOR HUGO QUERO",
-      "link": "https://noticierodigital.com/2026/05/mdi-califico-como-crimen-de-estado-la-muerte-de-victor-hugo-quero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/nicmer-evans-venezuela-627x376.jpg"
+      "title": "BCV RETOMÓ PRESENCIA INTERNACIONAL EN EL LATAM ECONOMIC FORUM",
+      "link": "https://noticierodigital.com/2026/05/bcv-retomo-presencia-internacional-en-el-latam-economic-forum/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/bcv-latam-economic-forum-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -45,9 +45,9 @@
     },
     {
       "source": "La Verdad",
-      "title": "Ataque de EE. UU. contra embarcación en el Pacífico Oriental deja dos muertos",
-      "link": "https://laverdad.com/ataque-de-ee-uu-contra-embarcacion-en-el-pacifico-oriental-deja-dos-muertos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/16931122.jpg"
+      "title": "Venezolanos en Argentina exigen reabrir la embajada y activar el registro electoral",
+      "link": "https://laverdad.com/venezolanos-en-argentina-exigen-reabrir-la-embajada-y-activar-el-registro-electoral/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/HH4qvkQXYAYS6bD.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/images-2026-05-09T090643.262.jpg"
     }
   ],
-  "lastUpdate": "2026-05-09T16:55:49.743Z"
+  "lastUpdate": "2026-05-09T17:52:12.412Z"
 }
