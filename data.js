@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "682,56"
+      "usdt": "681,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Pese a la Ley de Amnistía, Foro Penal reportó 457 presos políticos en Venezuela a la espera de su liberación",
-      "link": "https://www.infobae.com/venezuela/2026/05/10/pese-a-la-ley-de-amnistia-foro-penal-reporto-473-presos-politicos-en-venezuela-a-la-espera-de-su-liberacion/",
-      "image": "https://www.infobae.com/resizer/v2/FO3U32BBUVBTNMOOH4BSVP6T44.jpg?auth=4b4bf32cc211bbc997ad7457511fee0faf652db0d8e02fa178bdae5eb8a7e0a4&smart=true&width=350&height=197&quality=85"
+      "title": "Caso Tancol: desapariciones, torturas, irregularidades judiciales y tres condenados a 30 años por terrorismo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/10/caso-tancol-desapariciones-torturas-irregularidades-judiciales-y-tres-condenados-a-30-anos-por-terrorismo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/HWV3TA4IDRGNTN4MVAJC4GQVNU.jpg?auth=5b8ff21c7bcffc3aa927ae10125173b02c794ecf350d17c763b4fb2da4437d46&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FIRMA DE FLORIDA EXPORTARÁ CRUDO VENEZOLANO POR PRIMERA VEZ TRAS ALIVIO DE SANCIONES",
-      "link": "https://noticierodigital.com/2026/05/firma-de-florida-exportara-crudo-venezolano-por-primera-vez-tras-alivio-de-sanciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/petroleo-venezuela-referencial-627x376.jpg"
+      "title": "EE. UU. AMPLIÓ CONTRATACIÓN DE PERSONAL VENEZOLANO EN SU EMBAJADA EN CARACAS",
+      "link": "https://noticierodigital.com/2026/05/ee-uu-amplio-contratacion-de-personal-venezolano-en-su-embajada-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/embajada_eeuu_venezuela_10mar2020.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Venezolano obtiene título universitario antes de graduarse de secundaria en EE. UU.",
-      "link": "https://laverdad.com/venezolano-obtiene-titulo-universitario-antes-de-graduarse-de-secundaria-en-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/684984365_1617973770338113_8097166179432638143_n.jpg"
+      "title": "Papa León XIV agradece acogida al MV Hondius y alerta sobre violencia en Mali y Chad",
+      "link": "https://laverdad.com/papa-leon-xiv-agradece-acogida-al-mv-hondius-y-alerta-sobre-violencia-en-mali-y-chad/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/10/006a2e162045d26a437c9dfdc2e0e99bcf43da36-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-08-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-10T13:19:12.587Z"
+  "lastUpdate": "2026-05-10T14:53:40.088Z"
 };
