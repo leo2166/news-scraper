@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. evaluará respuesta de Irán a una “línea roja muy clara”",
+      "title": "Trump califica la propuesta de Irán como \"totalmente inaceptable\"",
       "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/live-news/guerra-ee-uu-israel-iran-1-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-09-155710.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2275229138-20260510202729308.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Españoles repatriados del crucero con brote de hantavirus ya están en el hospital",
-      "link": "https://diarioversionfinal.com/mundo/espanoles-repatriados-del-crucero-con-brote-de-hantavirus-ya-estan-en-el-hospital/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/54d91c44-fa3a-42af-8930-50ad8e8dae6d_16-9-discover-aspect-ratio_default_0_x953y423-750x430.webp"
+      "title": "Autoridad sanitaria de EE.UU. aclara: el hantavirus no se comporta como la Covid",
+      "link": "https://diarioversionfinal.com/mundo/autoridad-sanitaria-de-ee-uu-aclara-el-hantavirus-no-se-comporta-como-la-covid/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Jay-Bhattacharya-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-10T19:05:04.120Z"
+  "lastUpdate": "2026-05-10T20:49:40.203Z"
 };
