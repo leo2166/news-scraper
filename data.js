@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "651,00"
+      "usdt": "683,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez viajará en las próximas horas para defender los derechos soberanos de Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-viajara-en-las-proximas-horas-para-defender-los-derechos-soberanos-de-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_2026-05-09_13-22-31-4a8997.jpg"
+      "title": "Gobierno nacional inicia despliegue de 100 días del Programa por la Paz y la Convivencia Democrática",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-inicia-despliegue-de-100-dias-del-programa-por-la-paz-y-la-convivencia-democratica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ernesto-villegas-198762-f43539.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Video: así fue la llegada del féretro de Germán Vargas Lleras al Palacio de San Carlos",
-      "link": "https://www.noticiascaracol.com/politica/video-asi-fue-la-llegada-del-feretro-de-german-vargas-lleras-al-palacio-de-san-carlos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/31a501b/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2F0d%2F6e728669461ab8055cc0f129b83d%2Fplantilla-fotos-41.jpg"
+      "title": "Hermano de Germán Vargas Lleras cuenta lo que le dijo antes de fallecer: \"Deja un legado\"",
+      "link": "https://www.noticiascaracol.com/politica/hermano-de-german-vargas-lleras-cuenta-lo-que-le-dijo-antes-de-fallecer-deja-un-legado-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/5aa824c/2147483647/strip/true/crop/1276x720+3+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2F69%2Fe4ed2ea74c3abbef15c7fac1a063%2Fexcentricidades-59.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolano es condenado en EE.UU. tras hacerse pasar por estudiante adolescente en escuela de Ohio",
-      "link": "https://diarioversionfinal.com/mundo/venezolano-es-condenado-en-ee-uu-tras-hacerse-pasar-por-estudiante-adolescente-en-escuela-de-ohio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_9-5-2026_194519_noticiaalminuto.com_.jpeg"
+      "title": "Panamá confirmó dos casos de sarampión importados en turistas europeos",
+      "link": "https://diarioversionfinal.com/mundo/panama-confirmo-dos-casos-de-sarampion-importados-en-turistas-europeos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/MINSA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-09T23:50:45.520Z"
+  "lastUpdate": "2026-05-10T02:58:12.421Z"
 };
