@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "680,79"
+      "usdt": "682,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez llega a Países Bajos para defender la vigencia del Acuerdo de Ginebra",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-llega-a-paises-bajos-para-defender-la-vigencia-del-acuerdo-de-ginebra",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-05-10-111143-46448a.png"
+      "title": "Rafael Badell: \"Del Poder Judicial depende el correcto funcionamiento del Estado de derecho\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/rafael-badell-del-poder-judicial-depende-el-correcto-funcionamiento-del-estado-de-derecho",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_1935-c89f90.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRINIDAD Y TOBAGO ASEGURÓ QUE “NO ES VISIBLE” DERRAME DENUNCIADO POR VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/trinidad-y-tobago-aseguro-que-no-es-visible-derrame-denunciado-por-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/derrame-de-crudo-playa-627x376.jpg"
+      "title": "LA VINOTINTO CLASIFICÓ AL MUNDIAL FEMENINO SUB-17 TRAS VENCER A COLOMBIA",
+      "link": "https://noticierodigital.com/2026/05/la-vinotinto-clasifico-al-mundial-femenino-sub-17-tras-vencer-a-colombia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/venezuela-la-vinotinto-futbol-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolana gana millonaria demanda por violencia doméstica y fraude en EE.UU.",
-      "link": "https://diarioversionfinal.com/mundo/venezolana-gana-millonaria-demanda-por-violencia-domestica-y-fraude-en-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/41641018937-1080pnbcstations-750x430.webp"
+      "title": "Españoles repatriados del crucero con brote de hantavirus ya están en el hospital",
+      "link": "https://diarioversionfinal.com/mundo/espanoles-repatriados-del-crucero-con-brote-de-hantavirus-ya-estan-en-el-hospital/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/54d91c44-fa3a-42af-8930-50ad8e8dae6d_16-9-discover-aspect-ratio_default_0_x953y423-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-10T17:54:17.433Z"
+  "lastUpdate": "2026-05-10T19:05:04.120Z"
 };
