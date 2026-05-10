@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "683,00"
+      "usdt": "652,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció que viajará a La Haya para representar a Venezuela en la disputa con Guyana por el Esequibo",
-      "link": "https://www.infobae.com/venezuela/2026/05/09/delcy-rodriguez-anuncio-que-viajara-a-la-haya-para-representar-a-venezuela-en-la-disputa-con-guyana-por-el-esequibo/",
-      "image": "https://www.infobae.com/resizer/v2/GPME5ST2SZB37FQV7OA33DY4SY.JPG?auth=79f89be5ee9f3c1e0d350c1fa32d198117e33eb7ad57c9a2f84f67d987a44c50&smart=true&width=350&height=197&quality=85"
+      "title": "Pese a la Ley de Amnistía, Foro Penal reportó 473 presos políticos en Venezuela a la espera de su liberación",
+      "link": "https://www.infobae.com/venezuela/2026/05/10/pese-a-la-ley-de-amnistia-foro-penal-reporto-473-presos-politicos-en-venezuela-a-la-espera-de-su-liberacion/",
+      "image": "https://www.infobae.com/resizer/v2/FO3U32BBUVBTNMOOH4BSVP6T44.jpg?auth=4b4bf32cc211bbc997ad7457511fee0faf652db0d8e02fa178bdae5eb8a7e0a4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán promete represalias contra EE.UU. si hay más ataques contra buques",
-      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/live-news/guerra-ee-uu-israel-iran-1-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-09-155710.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El crucero afectado por el hantavirus se aproxima a Tenerife",
+      "link": "https://cnnespanol.cnn.com/2026/05/10/mundo/crucero-hantavirus-puerto-tenerife-pasajeros-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/soldados-puerto-tenerife.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno nacional inicia despliegue de 100 días del Programa por la Paz y la Convivencia Democrática",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-inicia-despliegue-de-100-dias-del-programa-por-la-paz-y-la-convivencia-democratica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ernesto-villegas-198762-f43539.jpg"
+      "title": "Embajada de EE.UU. en Caracas continúa proceso de captación de personal local",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-continua-proceso-de-captacion-de-personal-local",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/embajada-de-ee.-uu-en-caracas-db6e29.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/MINSA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-10T02:58:12.421Z"
+  "lastUpdate": "2026-05-10T06:16:34.760Z"
 };
