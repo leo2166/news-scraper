@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "681,99"
+      "usdt": "680,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -47,14 +47,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Papa León XIV agradece acogida al MV Hondius y alerta sobre violencia en Mali y Chad",
       "link": "https://laverdad.com/papa-leon-xiv-agradece-acogida-al-mv-hondius-y-alerta-sobre-violencia-en-mali-y-chad/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2025/10/006a2e162045d26a437c9dfdc2e0e99bcf43da36-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que “Venezuela está bien administrada”",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-venezuela-esta-bien-administrada/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
+      "title": "Venezolana gana millonaria demanda por violencia doméstica y fraude en EE.UU.",
+      "link": "https://diarioversionfinal.com/mundo/venezolana-gana-millonaria-demanda-por-violencia-domestica-y-fraude-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/41641018937-1080pnbcstations-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-10T16:56:51.272Z"
+  "lastUpdate": "2026-05-10T17:54:17.433Z"
 };
