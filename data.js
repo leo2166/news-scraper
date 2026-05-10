@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "652,10"
+      "usdt": "652,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,7 +21,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El crucero afectado por el hantavirus se aproxima a Tenerife",
+      "title": "El crucero afectado por el hantavirus llega al puerto de Tenerife",
       "link": "https://cnnespanol.cnn.com/2026/05/10/mundo/crucero-hantavirus-puerto-tenerife-pasajeros-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/soldados-puerto-tenerife.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/MINSA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-10T06:16:34.760Z"
+  "lastUpdate": "2026-05-10T08:54:12.554Z"
 };
