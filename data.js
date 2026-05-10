@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "681,00"
+      "usdt": "681,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Comienza en Tenerife el desembarco del crucero afectado por hantavirus",
-      "link": "https://cnnespanol.cnn.com/2026/05/10/mundo/live-news/ultima-hora-crucero-hantavirus-tenerife-repatriacion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/funcionarios-salud-seguridad-puerto-granadilla.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Irán responde a propuesta de EE.UU. para poner fin a la guerra",
+      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/live-news/guerra-ee-uu-israel-iran-1-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-09-155710.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE.UU. en Caracas continúa proceso de captación de personal local",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-continua-proceso-de-captacion-de-personal-local",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/embajada-de-ee.-uu-en-caracas-db6e29.jpg"
+      "title": "Delcy Rodríguez llega a Países Bajos para defender la vigencia del Acuerdo de Ginebra",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-llega-a-paises-bajos-para-defender-la-vigencia-del-acuerdo-de-ginebra",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-05-10-111143-46448a.png"
     },
     {
       "source": "Noticiero Digital",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-08-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-10T14:53:40.088Z"
+  "lastUpdate": "2026-05-10T15:54:58.707Z"
 };
