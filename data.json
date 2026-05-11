@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "500,46",
-      "eur": "589,27",
-      "fechaValor": "Lunes, 11 Mayo 2026"
+      "usd": "504,91",
+      "eur": "595,05",
+      "fechaValor": "Martes, 12 Mayo 2026"
     },
     "binance": {
-      "usdt": "700,00"
+      "usdt": "701,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Fox News aseguró que Trump “considera seriamente hacer de Venezuela el estado 51 de Estados Unidos”",
-      "link": "https://www.infobae.com/venezuela/2026/05/11/fox-news-aseguro-que-trump-considera-seriamente-hacer-de-venezuela-el-estado-51-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/WS72FTGXQRH7ZHDPS3LUPFKUIQ.jpg?auth=f04ded10612c2d04a09c08b17c076c9bb32c7901b618a9e5871e3cc19e051dfc&smart=true&width=350&height=197&quality=85"
+      "title": "Larry Fink es muy optimista sobre la oportunidad de invertir en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/11/larry-fink-es-muy-optimista-sobre-la-oportunidad-de-invertir-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/F6JSXVUXANBFLHYHLWYHP2Z52Y.JPG?auth=829b371ab8271c360c6103c019a3b24bce89a607f651920525d189d858d2d324&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que el alto el fuego con Irán está “muy debilitado”",
-      "link": "https://cnnespanol.cnn.com/2026/05/11/mundo/live-news/guerra-ee-uu-e-israel-iran-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/6aec640c-a310-49c2-843b-66c3d36c6779.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Por qué las conversaciones entre Irán y EE.UU. se estancaron",
+      "link": "https://cnnespanol.cnn.com/2026/05/11/mundo/por-que-conversaciones-iran-eeuu-estancadas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/6aec640c-a310-49c2-843b-66c3d36c6779.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez afirmó que Venezuela no renunciará a sus derechos sobre la Guayana Esequiba",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-afirmo-que-venezuela-no-renunciara-a-sus-derechos-sobre-la-guayana-esequiba",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cij-4-1-1024x576-694f44.jpg"
+      "title": "Conferencia Episcopal Venezolana exige determinar responsabilidades de la muerte de Víctor Quero",
+      "link": "https://noticiasvenevision.com/noticias/politica/conferencia-episcopal-venezolana-exige-determinar-responsabilidades-de-la-muerte-de-victor-quero",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cev_vzla-263631.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MARÍA CORINA MACHADO: «NO HABRÁ VENGANZA, QUIENES FACILITEN LA TRANSICIÓN TENDRÁN GARANTÍAS»",
-      "link": "https://noticierodigital.com/2026/05/maria-corina-machado-no-habra-venganza-quienes-faciliten-la-transicion-tendran-garantias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/maria-corina-machado-627x376.jpg"
+      "title": "FEDECÁMARAS PLANTEÓ MODERNIZAR LA LEY DEL TRABAJO Y REVISAR CONTRATACIÓN POR HORAS",
+      "link": "https://noticierodigital.com/2026/05/fedecamaras-planteo-modernizar-la-ley-del-trabajo-y-revisar-contratacion-por-horas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/tiziana-polesel-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. coloca bajo vigilancia por hantavirus a sus 18 pasajeros del Hondius",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-coloca-bajo-vigilancia-por-hantavirus-a-sus-18-pasajeros-del-hondius/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/imagetransformer-cdcQ4TlUM-750x430.webp"
+      "title": "Trump considera \"increíblemente débil\" el alto al fuego con Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-considera-increiblemente-debil-el-alto-al-fuego-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-11T21:17:26.048Z"
+  "lastUpdate": "2026-05-11T22:54:07.100Z"
 }
