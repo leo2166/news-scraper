@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "687,50"
+      "usdt": "691,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,40 +21,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Pasajeros estadounidenses del crucero con hantavirus llegan a Nebraska",
+      "title": "Trump dice que el alto el fuego con Irán está “muy debilitado”",
       "link": "https://cnnespanol.cnn.com/2026/05/11/mundo/live-news/guerra-ee-uu-e-israel-iran-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-de-ormuz-20260511101742296.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ilustraciones-reclutamiento-iran.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Trinidad y Tobago: \"No es visible\" el derrame de hidrocarburos que afecta a Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/trinidad-y-tobago-no-es-visible-el-derrame-de-hidrocarburos-que-afecta-a-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/x3a1889-1436x1536-6e4148.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "CNN: FUENTE DE QATAR DICE QUE MACHADO NO FORMÓ PARTE DEL PLAN DE EE. UU. PARA SACAR A MADURO",
-      "link": "https://noticierodigital.com/2026/05/cnn-fuente-de-qatar-dice-que-machado-no-formo-parte-del-plan-de-ee-uu-para-sacar-a-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/maria-corina-machado-venezuela-ceraweeek-2026-3-627x376.jpg"
+      "title": "Venezuela defiende en La Haya sus derechos históricos sobre la Guayana Esequiba",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-defiende-en-la-haya-sus-derechos-historicos-sobre-la-guayana-esequiba",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6vf5kkbqs5gjrozgm432ydmoqa-047ff9.avif"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Esposa de Miguel Uribe dice que apoyará a Paloma Valencia en primera vuelta y explica el porqué",
-      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/esposa-de-miguel-uribe-dice-que-apoyara-a-paloma-valencia-en-primera-vuelta-y-explica-el-porque-ex40",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c8c422e/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4f%2F12%2F32f593f7499da3a273924dae3e49%2Ftarazona-paloma.jpg"
+      "title": "Así despiden a Germán Vargas Lleras, exvicepresidente de Colombia",
+      "link": "https://www.noticiascaracol.com/politica/asi-despiden-a-german-vargas-lleras-exvicepresidente-de-colombia-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/61b2295/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F90%2F62%2F0d5d50614343a8e8f23f9c93e0f6%2Fvargas-lleras-funeral-vivo.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV agradece acogida al MV Hondius y alerta sobre violencia en Mali y Chad",
-      "link": "https://laverdad.com/papa-leon-xiv-agradece-acogida-al-mv-hondius-y-alerta-sobre-violencia-en-mali-y-chad/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/10/006a2e162045d26a437c9dfdc2e0e99bcf43da36-scaled.jpg"
+      "title": "Irán asegura que su propuesta de paz no es “desmesurada” tras el rechazo de Trump",
+      "link": "https://laverdad.com/iran-asegura-que-su-propuesta-de-paz-no-es-desmesurada-tras-el-rechazo-de-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/530555e0-157f-4e04-a346-ccb8544ef1bd-1.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Francia detecta primer caso positivo de hantavirus y EE. UU. confirma otro caso \"leve\"",
-      "link": "https://diarioversionfinal.com/mundo/francia-detecta-primer-caso-positivo-de-hantavirus-y-ee-uu-confirma-otro-caso-leve/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/afp-20260507-aa-07052026-2769077_181-13336493_20260511045308-699x430.webp"
+      "title": "EE. UU. realizó más de 25 vuelos de inteligencia militar cerca de Cuba desde febrero",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-realizo-mas-de-25-vuelos-de-inteligencia-militar-cerca-de-cuba-desde-febrero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/cuba.jpg"
     }
   ],
-  "lastUpdate": "2026-05-11T14:53:09.713Z"
+  "lastUpdate": "2026-05-11T17:25:05.739Z"
 };
