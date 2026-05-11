@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "691,20"
+      "usdt": "695,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela defiende en La Haya sus derechos históricos sobre la Guayana Esequiba",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-defiende-en-la-haya-sus-derechos-historicos-sobre-la-guayana-esequiba",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6vf5kkbqs5gjrozgm432ydmoqa-047ff9.avif"
+      "title": "Delcy Rodríguez afirmó que Venezuela no renunciará a sus derechos sobre la Guayana Esequiba",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-afirmo-que-venezuela-no-renunciara-a-sus-derechos-sobre-la-guayana-esequiba",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cij-4-1-1024x576-694f44.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "Albares pide «no buscar tres pies al gato» ante la futura visita de Delcy Rodríguez a Madrid",
+      "link": "https://noticierodigital.com/2026/05/albares-pide-no-buscar-tres-pies-al-gato-ante-la-futura-visita-de-delcy-rodriguez-a-madrid/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/jose-manuel-albares.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -39,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Irán asegura que su propuesta de paz no es “desmesurada” tras el rechazo de Trump",
-      "link": "https://laverdad.com/iran-asegura-que-su-propuesta-de-paz-no-es-desmesurada-tras-el-rechazo-de-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/530555e0-157f-4e04-a346-ccb8544ef1bd-1.png"
+      "title": "OMS no descarta que se vean nuevos casos de hantavirus en próximos días o la próxima semana",
+      "link": "https://laverdad.com/oms-no-descarta-que-se-vean-nuevos-casos-de-hantavirus-en-proximos-dias-o-la-proxima-semana/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/crucero-hantavirus-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. realizó más de 25 vuelos de inteligencia militar cerca de Cuba desde febrero",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-realizo-mas-de-25-vuelos-de-inteligencia-militar-cerca-de-cuba-desde-febrero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/cuba.jpg"
+      "title": "Panamá ofrece vuelos financiados por EE. UU. para repatriación voluntaria de venezolanos",
+      "link": "https://diarioversionfinal.com/mundo/panama-ofrece-vuelos-financiados-por-ee-uu-para-repatriacion-voluntaria-de-venezolanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Migrar-Panama-11-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-11T17:25:05.739Z"
+  "lastUpdate": "2026-05-11T19:47:32.477Z"
 };
