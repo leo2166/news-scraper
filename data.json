@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,79"
+      "usdt": "686,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump califica la propuesta de Irán como \"totalmente inaceptable\"",
-      "link": "https://cnnespanol.cnn.com/2026/05/09/mundo/live-news/guerra-ee-uu-israel-iran-1-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274478453.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "China está aprendiendo de la guerra de EE.UU. con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/10/mundo/china-lecciones-estados-unidos-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/fort-bliss-texas-fuerza-aerea.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA VINOTINTO CLASIFICÓ AL MUNDIAL FEMENINO SUB-17 TRAS VENCER A COLOMBIA",
-      "link": "https://noticierodigital.com/2026/05/la-vinotinto-clasifico-al-mundial-femenino-sub-17-tras-vencer-a-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/venezuela-la-vinotinto-futbol-627x376.jpg"
+      "title": "RIÑA ENTRE HERMANOS TERMINÓ EN HOMICIDIO EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/05/rina-entre-hermanos-termino-en-homicidio-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/cicpc-16mar2022.jpeg"
     },
     {
       "source": "Caracol Noticias",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Narges-Mohammadi-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-11T07:41:12.511Z"
+  "lastUpdate": "2026-05-11T11:21:18.590Z"
 }
