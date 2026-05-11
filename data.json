@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,99"
+      "usdt": "687,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Caso Tancol: desapariciones, torturas, irregularidades judiciales y tres condenados a 30 años por terrorismo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/10/caso-tancol-desapariciones-torturas-irregularidades-judiciales-y-tres-condenados-a-30-anos-por-terrorismo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/HWV3TA4IDRGNTN4MVAJC4GQVNU.jpg?auth=5b8ff21c7bcffc3aa927ae10125173b02c794ecf350d17c763b4fb2da4437d46&smart=true&width=350&height=197&quality=85"
+      "title": "Murió bajo custodia el preso político José Manuel García Sabino y reaviva los reclamos de justicia en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/11/murio-bajo-custodia-el-preso-politico-jose-manuel-garcia-sabino-y-reaviva-los-reclamos-de-justicia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/KCCG2SG5ANHNTMMNEMATRWC67U.jfif?auth=484797f3d9546bc8b175940eb3c74951af87ae376d00888008fa6e1d1bb29672&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "China está aprendiendo de la guerra de EE.UU. con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/10/mundo/china-lecciones-estados-unidos-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/fort-bliss-texas-fuerza-aerea.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Pasajeros estadounidenses del crucero con hantavirus llegan a Nebraska",
+      "link": "https://cnnespanol.cnn.com/2026/05/11/mundo/live-news/guerra-ee-uu-e-israel-iran-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-de-ormuz-20260511101742296.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,15 +33,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "RIÑA ENTRE HERMANOS TERMINÓ EN HOMICIDIO EN LA GUAIRA",
-      "link": "https://noticierodigital.com/2026/05/rina-entre-hermanos-termino-en-homicidio-en-la-guaira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/cicpc-16mar2022.jpeg"
+      "title": "CNN: FUENTE DE QATAR DICE QUE MACHADO NO FORMÓ PARTE DEL PLAN DE EE. UU. PARA SACAR A MADURO",
+      "link": "https://noticierodigital.com/2026/05/cnn-fuente-de-qatar-dice-que-machado-no-formo-parte-del-plan-de-ee-uu-para-sacar-a-maduro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/maria-corina-machado-venezuela-ceraweeek-2026-3-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Los horrores que vivió colombiana que era sedada y explotada sexualmente en Ecuador: así fue rescate",
-      "link": "https://www.noticiascaracol.com/judicial/los-horrores-que-vivio-colombiana-que-era-sedada-y-explotada-sexualmente-en-ecuador-asi-fue-rescate-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/63cfce1/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe4%2F70%2Fab7e53234fc386a7ad07c86cf8fd%2Fexcentricidades-64.jpg"
+      "title": "Esposa de Miguel Uribe dice que apoyará a Paloma Valencia en primera vuelta y explica el porqué",
+      "link": "https://www.noticiascaracol.com/politica/elecciones-colombia/esposa-de-miguel-uribe-dice-que-apoyara-a-paloma-valencia-en-primera-vuelta-y-explica-el-porque-ex40",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/c8c422e/2147483647/strip/true/crop/1276x720+4+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F4f%2F12%2F32f593f7499da3a273924dae3e49%2Ftarazona-paloma.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Premio Nobel de la Paz Narges Mohammadi recibe atención médica en hospital de Teherán",
-      "link": "https://diarioversionfinal.com/mundo/premio-nobel-de-la-paz-narges-mohammadi-recibe-atencion-medica-en-hospital-de-teheran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Narges-Mohammadi-750x430.jpg"
+      "title": "Francia detecta primer caso positivo de hantavirus y EE. UU. confirma otro caso \"leve\"",
+      "link": "https://diarioversionfinal.com/mundo/francia-detecta-primer-caso-positivo-de-hantavirus-y-ee-uu-confirma-otro-caso-leve/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/afp-20260507-aa-07052026-2769077_181-13336493_20260511045308-699x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-11T11:21:18.590Z"
+  "lastUpdate": "2026-05-11T14:53:09.713Z"
 }
