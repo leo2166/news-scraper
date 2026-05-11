@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 11 Mayo 2026"
     },
     "binance": {
-      "usdt": "695,99"
+      "usdt": "700,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Murió bajo custodia el preso político José Manuel García Sabino y reaviva los reclamos de justicia en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/11/murio-bajo-custodia-el-preso-politico-jose-manuel-garcia-sabino-y-reaviva-los-reclamos-de-justicia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/KCCG2SG5ANHNTMMNEMATRWC67U.jfif?auth=484797f3d9546bc8b175940eb3c74951af87ae376d00888008fa6e1d1bb29672&smart=true&width=350&height=197&quality=85"
+      "title": "Fox News aseguró que Trump “considera seriamente hacer de Venezuela el estado 51 de Estados Unidos”",
+      "link": "https://www.infobae.com/venezuela/2026/05/11/fox-news-aseguro-que-trump-considera-seriamente-hacer-de-venezuela-el-estado-51-de-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/WS72FTGXQRH7ZHDPS3LUPFKUIQ.jpg?auth=f04ded10612c2d04a09c08b17c076c9bb32c7901b618a9e5871e3cc19e051dfc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
       "title": "Trump dice que el alto el fuego con Irán está “muy debilitado”",
       "link": "https://cnnespanol.cnn.com/2026/05/11/mundo/live-news/guerra-ee-uu-e-israel-iran-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ilustraciones-reclutamiento-iran.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/6aec640c-a310-49c2-843b-66c3d36c6779.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "Albares pide «no buscar tres pies al gato» ante la futura visita de Delcy Rodríguez a Madrid",
-      "link": "https://noticierodigital.com/2026/05/albares-pide-no-buscar-tres-pies-al-gato-ante-la-futura-visita-de-delcy-rodriguez-a-madrid/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/jose-manuel-albares.jpg"
+      "title": "MARÍA CORINA MACHADO: «NO HABRÁ VENGANZA, QUIENES FACILITEN LA TRANSICIÓN TENDRÁN GARANTÍAS»",
+      "link": "https://noticierodigital.com/2026/05/maria-corina-machado-no-habra-venganza-quienes-faciliten-la-transicion-tendran-garantias/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/maria-corina-machado-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -45,16 +45,16 @@
     },
     {
       "source": "La Verdad",
-      "title": "OMS no descarta que se vean nuevos casos de hantavirus en próximos días o la próxima semana",
-      "link": "https://laverdad.com/oms-no-descarta-que-se-vean-nuevos-casos-de-hantavirus-en-proximos-dias-o-la-proxima-semana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/crucero-hantavirus-2.jpg"
+      "title": "Suspenden en Bolivia el juicio contra el expresidente Evo Morales y ordenan su captura",
+      "link": "https://laverdad.com/suspenden-en-bolivia-el-juicio-contra-el-expresidente-evo-morales-y-ordenan-su-captura/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Evo-Morales-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Panamá ofrece vuelos financiados por EE. UU. para repatriación voluntaria de venezolanos",
-      "link": "https://diarioversionfinal.com/mundo/panama-ofrece-vuelos-financiados-por-ee-uu-para-repatriacion-voluntaria-de-venezolanos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Migrar-Panama-11-05-2026-750x430.png"
+      "title": "EE. UU. coloca bajo vigilancia por hantavirus a sus 18 pasajeros del Hondius",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-coloca-bajo-vigilancia-por-hantavirus-a-sus-18-pasajeros-del-hondius/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/imagetransformer-cdcQ4TlUM-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-11T19:47:32.477Z"
+  "lastUpdate": "2026-05-11T21:17:26.048Z"
 }
