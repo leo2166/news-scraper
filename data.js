@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 12 Mayo 2026"
     },
     "binance": {
-      "usdt": "692,00"
+      "usdt": "701,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/la-region-en-sudamerica-que-tiene-mas-petroleo-que-toda-arabia-saudita-y-canada-entera-143062-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-12T03:58:56.674Z"
+  "lastUpdate": "2026-05-12T06:43:10.457Z"
 };
