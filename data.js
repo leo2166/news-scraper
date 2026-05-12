@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "María Corina Machado insiste en que no vuelve a Venezuela por “seguridad”",
-      "link": "https://cnnespanol.cnn.com/2026/05/11/venezuela/maria-corina-machado-amanpour-venezuela-trump-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22614956-40201-107-still.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Un barco ruso transportaba una carga misteriosa",
+      "link": "https://cnnespanol.cnn.com/2026/05/12/mundo/barco-ruso-hundio-reactores-nucleares-submarinos-corea-norte-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/download-6-20260512054051811.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/la-region-en-sudamerica-que-tiene-mas-petroleo-que-toda-arabia-saudita-y-canada-entera-143062-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-12T06:43:10.457Z"
+  "lastUpdate": "2026-05-12T09:39:43.231Z"
 };
