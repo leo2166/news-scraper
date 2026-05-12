@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 12 Mayo 2026"
     },
     "binance": {
-      "usdt": "699,10"
+      "usdt": "699,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La nueva política cambiaria de Delcy Rodríguez no logra frenar la devaluación del bolívar en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/12/la-nueva-politica-cambiaria-de-delcy-rodriguez-no-logra-frenar-la-devaluacion-del-bolivar-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/E6TN3XX4XZHCTBWEAPTPVQZPBQ.JPG?auth=fb3c8b4ebdfb5d8e008b4228c8de0a0d774ee1086b9ae7a5da5aa8e7e50e5289&smart=true&width=350&height=197&quality=85"
+      "title": "La muerte de Víctor Quero pone el foco sobre el caso de Hugo Marino, preso político desaparecido desde 2019",
+      "link": "https://www.infobae.com/venezuela/2026/05/12/la-muerte-de-victor-quero-pone-el-foco-sobre-el-caso-de-hugo-marino-preso-politico-desaparecido-desde-2019/",
+      "image": "https://www.infobae.com/resizer/v2/PYG2VPS6TFBD3AQAZFBDQJ574E.png?auth=68cbf095e465786af13c1aebaa909b7ad24edb9e2d9684052d21dcd05e924e12&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "ONU exige investigar caso de Víctor Quero y esclarecer la fecha real de su fallecimiento",
-      "link": "https://noticiasvenevision.com/noticias/politica/onu-exige-investigar-caso-de-victor-quero-y-esclarecer-la-fecha-real-de-su-fallecimiento",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/victor-quero-efe-696x461-9b4f14.png"
+      "title": "Yvan Gil calificó las declaraciones de Antonio Guterres sobre el 3 de enero en Venezuela como \"impropias\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/yvan-gil-califico-las-declaraciones-de-antonio-guterres-sobre-el-3-de-enero-en-venezuela-como-impropias",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-92-5cbc76.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "INH ANUNCIA LA LLEGADA DE 19 EJEMPLARES IMPORTADOS Y MEJOR SEÑAL EN HD",
-      "link": "https://noticierodigital.com/2026/05/inh-anuncia-la-llegada-de-19-ejemplares-importados-y-mejor-senal-en-hd/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-3-2-627x376.png"
+      "title": "DELSA SOLÓRZANO CUESTIONÓ 3 VERSIONES OFICIALES SOBRE LA MUERTE DE VÍCTOR QUERO",
+      "link": "https://noticierodigital.com/2026/05/delsa-solorzano-cuestiono-3-versiones-oficiales-sobre-la-muerte-de-victor-quero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260512-WA0171-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pentágono eleva a 29.000 millones de dólares el coste de la guerra en Irán",
-      "link": "https://diarioversionfinal.com/mundo/pentagono-eleva-a-29-000-millones-de-dolares-el-coste-de-la-guerra-en-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/04/Pentagono-750x430.jpg"
+      "title": "Trump promete liberación total de presos políticos en Venezuela: “Vamos a sacarlos a todos”",
+      "link": "https://diarioversionfinal.com/mundo/trump-promete-liberacion-total-de-presos-politicos-en-venezuela-vamos-a-sacarlos-a-todos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/9fe34cbddc7c6595e25f59f5be82960da35449e7w-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-12T17:11:24.339Z"
+  "lastUpdate": "2026-05-12T19:53:12.083Z"
 };
