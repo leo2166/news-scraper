@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FEDECÁMARAS PLANTEÓ MODERNIZAR LA LEY DEL TRABAJO Y REVISAR CONTRATACIÓN POR HORAS",
-      "link": "https://noticierodigital.com/2026/05/fedecamaras-planteo-modernizar-la-ley-del-trabajo-y-revisar-contratacion-por-horas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/tiziana-polesel-627x376.jpg"
+      "title": "INCAUTARON ARMAS, DROGAS Y DINERO EN OPERATIVO CONTRA EL TREN DE ARAGUA EN EE. UU.",
+      "link": "https://noticierodigital.com/2026/05/incautaron-armas-drogas-y-dinero-en-operativo-contra-el-tren-de-aragua-en-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/operativo-tren-de-aragua-eeuu-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Así despiden a Germán Vargas Lleras, exvicepresidente de Colombia",
-      "link": "https://www.noticiascaracol.com/politica/asi-despiden-a-german-vargas-lleras-exvicepresidente-de-colombia-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/61b2295/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F90%2F62%2F0d5d50614343a8e8f23f9c93e0f6%2Fvargas-lleras-funeral-vivo.jpg"
+      "title": "Extraños mensajes que habría enviado mamá de Vicente, niño que murió de golpe de calor en un carro",
+      "link": "https://www.noticiascaracol.com/mundo/extranos-mensajes-que-habria-enviado-mama-de-vicente-nino-que-murio-de-golpe-de-calor-en-un-carro-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0a37c5a/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F73%2Ff6%2F485bb11e42699f3fbc9814ece9f6%2Fvicente-meza.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump considera \"increíblemente débil\" el alto al fuego con Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-considera-increiblemente-debil-el-alto-al-fuego-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
+      "title": "“Una invasión a Cuba podría ser inminente”: Axios vaticina una posible operación militar de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/una-invasion-a-cuba-podria-ser-inminente-axios-vaticina-una-posible-operacion-militar-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/EEUU-nueva-fuerza-drogas-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-11T22:54:07.100Z"
+  "lastUpdate": "2026-05-11T23:58:38.331Z"
 };
