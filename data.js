@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 12 Mayo 2026"
     },
     "binance": {
-      "usdt": "694,00"
+      "usdt": "699,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela y Estados Unidos buscan ampliar la conectividad aérea y las exportaciones de energía",
-      "link": "https://www.infobae.com/venezuela/2026/05/12/venezuela-y-estados-unidos-buscan-ampliar-la-conectividad-aerea-y-las-exportaciones-de-energia/",
-      "image": "https://www.infobae.com/resizer/v2/QV7XREFLGZBITJGPQJITIUGI2Y.jpg?auth=a897a6d8e80ea3532e65ca853e046356c0fe449149d0404b32751a90f0b649b1&smart=true&width=350&height=197&quality=85"
+      "title": "La nueva política cambiaria de Delcy Rodríguez no logra frenar la devaluación del bolívar en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/12/la-nueva-politica-cambiaria-de-delcy-rodriguez-no-logra-frenar-la-devaluacion-del-bolivar-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/E6TN3XX4XZHCTBWEAPTPVQZPBQ.JPG?auth=fb3c8b4ebdfb5d8e008b4228c8de0a0d774ee1086b9ae7a5da5aa8e7e50e5289&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "La historia del barco ruso que se hundió con una carga misteriosa",
-      "link": "https://cnnespanol.cnn.com/2026/05/12/mundo/barco-ruso-hundio-reactores-nucleares-submarinos-corea-norte-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/download-6-20260512054051811.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La guerra de Irán podría tener un sorprendente lado positivo para la economía mundial",
+      "link": "https://cnnespanol.cnn.com/2026/05/12/economia/guerra-iran-positivo-economia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260512095612954.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,28 +33,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESPAÑA RECIBE PRIMER BARCO CON CRUDO VENEZOLANO COMO PAGO DEL GAS QUE PRODUCE REPSOL",
-      "link": "https://noticierodigital.com/2026/05/espana-recibe-primer-barco-con-crudo-venezolano-como-pago-del-gas-que-produce-repsol/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/repsol-sede-5jun2022-627x376.jpg"
+      "title": "INH ANUNCIA LA LLEGADA DE 19 EJEMPLARES IMPORTADOS Y MEJOR SEÑAL EN HD",
+      "link": "https://noticierodigital.com/2026/05/inh-anuncia-la-llegada-de-19-ejemplares-importados-y-mejor-senal-en-hd/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-3-2-627x376.png"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Fiscalía no accede a suspensión de órdenes de captura contra miembros del Clan del Golfo",
-      "link": "https://www.noticiascaracol.com/judicial/fiscalia-niega-suspension-de-ordenes-de-captura-contra-miembros-del-clan-del-golfo-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b92da79/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2F66%2F3357c5ef4600ae2eefe09a776f34%2Fexcentricidades-68.jpg"
+      "title": "Robo en una estación de gasolina en Soacha terminó en balacera: habría varias víctimas",
+      "link": "https://www.noticiascaracol.com/colombia/bogota/robo-en-una-estacion-de-gasolina-en-soacha-termino-en-balacera-habria-varias-victimas-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/963ee02/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc3%2Fe3%2Fa0db967f4d9eba84da72ef229acf%2Fportadas-caracol-web-2026-05-12t105200-236.png"
     },
     {
       "source": "La Verdad",
-      "title": "La OMS eleva a 11 los casos positivos por hantavirus: el riesgo sigue siendo bajo",
-      "link": "https://laverdad.com/la-oms-eleva-a-11-los-casos-positivos-por-hantavirus-el-riesgo-sigue-siendo-bajo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/2275215923-GI-1-2.jpg"
+      "title": "Trump se someterá a otro chequeo médico el 26 de mayo",
+      "link": "https://laverdad.com/trump-se-sometera-a-otro-chequeo-medico-el-26-de-mayo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Donald-Trump-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Líder de Hizbulá propone diálogo “indirecto” con Israel antes de nueva ronda de conversaciones",
-      "link": "https://diarioversionfinal.com/mundo/lider-de-hizbula-propone-dialogo-indirecto-con-israel-antes-de-nueva-ronda-de-conversaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Naim-Qassem-714x430.jpg"
+      "title": "Pentágono eleva a 29.000 millones de dólares el coste de la guerra en Irán",
+      "link": "https://diarioversionfinal.com/mundo/pentagono-eleva-a-29-000-millones-de-dolares-el-coste-de-la-guerra-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/04/Pentagono-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-12T14:31:30.279Z"
+  "lastUpdate": "2026-05-12T17:11:24.339Z"
 };
