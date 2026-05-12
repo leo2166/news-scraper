@@ -1,9 +1,9 @@
 {
   "rates": {
     "bcv": {
-      "usd": "504,91",
-      "eur": "595,05",
-      "fechaValor": "Martes, 12 Mayo 2026"
+      "usd": "508,60",
+      "eur": "596,60",
+      "fechaValor": "Miércoles, 13 Mayo 2026"
     },
     "binance": {
       "usdt": "702,00"
@@ -15,33 +15,33 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La muerte de Víctor Quero pone el foco sobre el caso de Hugo Marino, preso político desaparecido desde 2019",
-      "link": "https://www.infobae.com/venezuela/2026/05/12/la-muerte-de-victor-quero-pone-el-foco-sobre-el-caso-de-hugo-marino-preso-politico-desaparecido-desde-2019/",
-      "image": "https://www.infobae.com/resizer/v2/PYG2VPS6TFBD3AQAZFBDQJ574E.png?auth=68cbf095e465786af13c1aebaa909b7ad24edb9e2d9684052d21dcd05e924e12&smart=true&width=350&height=197&quality=85"
+      "title": "Científicos venezolanos consideran un “duro golpe” a la investigación el retiro del uranio enriquecido",
+      "link": "https://www.infobae.com/venezuela/2026/05/12/cientificos-venezolanos-consideran-un-duro-golpe-a-la-investigacion-el-retiro-del-uranio-enriquecido/",
+      "image": "https://www.infobae.com/resizer/v2/7437FL7HLZB4TKKXYTDASYFR2I.jpg?auth=80616b5a19057ebe4b1ad057eb7f45dcae0027787e85fc260e914bc842b5df50&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "La guerra de Irán podría tener un sorprendente lado positivo para la economía mundial",
-      "link": "https://cnnespanol.cnn.com/2026/05/12/economia/guerra-iran-positivo-economia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260512095612954.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "La CIA intensifica guerra secreta contra los carteles en México",
+      "link": "https://cnnespanol.cnn.com/2026/05/12/eeuu/cia-operaciones-carteles-narcotrafico-mexico-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1764293-president-bush-tours-cia-headquarters.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Yvan Gil calificó las declaraciones de Antonio Guterres sobre el 3 de enero en Venezuela como \"impropias\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/yvan-gil-califico-las-declaraciones-de-antonio-guterres-sobre-el-3-de-enero-en-venezuela-como-impropias",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-92-5cbc76.jpg"
+      "title": "Donald Trump garantiza la liberación de todos los presos políticos en el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/donald-trump-garantiza-la-liberacion-de-todos-los-presos-politicos-en-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5772927025470443315_y-387f4f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN APROBÓ REFORMA PARCIAL DE LA LEY ORGÁNICA DEL TSJ",
-      "link": "https://noticierodigital.com/2026/05/an-aprobo-reforma-parcial-de-la-ley-organica-del-tsj/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/asamblea-nacional-chavista-627x376.jpg"
+      "title": "DOUGLAS RICO REVELÓ CÓMO CAPTURARON EN VENEZUELA A MEXICANA ACUSADA DE FEMICIDIO",
+      "link": "https://noticierodigital.com/2026/05/douglas-rico-revelo-como-capturaron-en-venezuela-a-mexicana-acusada-de-femicidio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/erika-herrera-asesinato-carolina-flores-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Robo en una estación de gasolina en Soacha terminó en balacera: habría varias víctimas",
-      "link": "https://www.noticiascaracol.com/colombia/bogota/robo-en-una-estacion-de-gasolina-en-soacha-termino-en-balacera-habria-varias-victimas-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/963ee02/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc3%2Fe3%2Fa0db967f4d9eba84da72ef229acf%2Fportadas-caracol-web-2026-05-12t105200-236.png"
+      "title": "Detalles del tiroteo en Soacha: video muestra a ladrones disfrazados como empleados de gasolinera",
+      "link": "https://www.noticiascaracol.com/colombia/detalles-del-tiroteo-en-soacha-video-muestra-a-ladrones-disfrazados-como-empleados-de-gasolinera-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/0eb9988/2147483647/strip/true/crop/1280x722+0+1/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd0%2Fb5%2F8f06c9d24de084549d385da6c7d9%2Fbalacera-soacha.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4161.webp"
     }
   ],
-  "lastUpdate": "2026-05-12T21:20:14.979Z"
+  "lastUpdate": "2026-05-12T23:02:15.176Z"
 }
