@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 12 Mayo 2026"
     },
     "binance": {
-      "usdt": "701,68"
+      "usdt": "689,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,13 +15,13 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Larry Fink es muy optimista sobre la oportunidad de invertir en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/11/larry-fink-es-muy-optimista-sobre-la-oportunidad-de-invertir-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/F6JSXVUXANBFLHYHLWYHP2Z52Y.JPG?auth=829b371ab8271c360c6103c019a3b24bce89a607f651920525d189d858d2d324&smart=true&width=350&height=197&quality=85"
+      "title": "La frontera venezolana, territorio bajo sombra: “El narcotráfico define rutas, silencios y alianzas”",
+      "link": "https://www.infobae.com/venezuela/2026/05/12/la-frontera-venezolana-territorio-bajo-sombra-el-narcotrafico-define-rutas-silencios-y-alianzas/",
+      "image": "https://www.infobae.com/resizer/v2/NSSDVLAVCJFIHFTWHIMXP6LBUQ.jpg?auth=c6a33ee0c3f130a7e8bf1a61de50a77fb2121a5e8f820cdcd8309a2da6a54575&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Un barco ruso transportaba una carga misteriosa",
+      "title": "La historia del barco ruso que se hundió con una carga misteriosa",
       "link": "https://cnnespanol.cnn.com/2026/05/12/mundo/barco-ruso-hundio-reactores-nucleares-submarinos-corea-norte-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/download-6-20260512054051811.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Caracol Noticias",
-      "title": "Suspenden la totalidad de decreto que ordenaba traslado de dineros de fondos privados a Colpensiones",
-      "link": "https://www.noticiascaracol.com/judicial/suspenden-la-totalidad-de-decreto-que-ordenaba-traslado-de-dineros-de-fondos-privados-a-colpensiones-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/cf23ca8/2147483647/strip/true/crop/1489x840+0+18/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F43%2F2e%2F9664b8ac464eaf1306d7635cf9c4%2Fcolpensiones.jpg"
+      "title": "Video: Ejército realiza operación \"contundente\" contra el Eln en Catatumbo; reportan varios muertos",
+      "link": "https://www.noticiascaracol.com/colombia/video-ejercito-realiza-operacion-contundente-contra-el-eln-en-catatumbo-esto-se-sabe-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/30fac7a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F82%2Fab%2Fd48b51f34686a096e17c91f50f26%2Fexcentricidades-66.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/la-region-en-sudamerica-que-tiene-mas-petroleo-que-toda-arabia-saudita-y-canada-entera-143062-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-12T09:39:43.231Z"
+  "lastUpdate": "2026-05-12T11:56:24.516Z"
 };
