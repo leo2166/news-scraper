@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 12 Mayo 2026"
     },
     "binance": {
-      "usdt": "689,00"
+      "usdt": "694,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La frontera venezolana, territorio bajo sombra: “El narcotráfico define rutas, silencios y alianzas”",
-      "link": "https://www.infobae.com/venezuela/2026/05/12/la-frontera-venezolana-territorio-bajo-sombra-el-narcotrafico-define-rutas-silencios-y-alianzas/",
-      "image": "https://www.infobae.com/resizer/v2/NSSDVLAVCJFIHFTWHIMXP6LBUQ.jpg?auth=c6a33ee0c3f130a7e8bf1a61de50a77fb2121a5e8f820cdcd8309a2da6a54575&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela y Estados Unidos buscan ampliar la conectividad aérea y las exportaciones de energía",
+      "link": "https://www.infobae.com/venezuela/2026/05/12/venezuela-y-estados-unidos-buscan-ampliar-la-conectividad-aerea-y-las-exportaciones-de-energia/",
+      "image": "https://www.infobae.com/resizer/v2/QV7XREFLGZBITJGPQJITIUGI2Y.jpg?auth=a897a6d8e80ea3532e65ca853e046356c0fe449149d0404b32751a90f0b649b1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,28 +33,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA PROTESTÓ ANTE LA ONU POR DECLARACIONES DE ANTÓNIO GUTERRES",
-      "link": "https://noticierodigital.com/2026/05/venezuela-protesto-ante-la-onu-por-declaraciones-de-antonio-guterres/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/12/cancilleria-casa-amarilla-10dic2020.jpg"
+      "title": "ESPAÑA RECIBE PRIMER BARCO CON CRUDO VENEZOLANO COMO PAGO DEL GAS QUE PRODUCE REPSOL",
+      "link": "https://noticierodigital.com/2026/05/espana-recibe-primer-barco-con-crudo-venezolano-como-pago-del-gas-que-produce-repsol/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/repsol-sede-5jun2022-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Video: Ejército realiza operación \"contundente\" contra el Eln en Catatumbo; reportan varios muertos",
-      "link": "https://www.noticiascaracol.com/colombia/video-ejercito-realiza-operacion-contundente-contra-el-eln-en-catatumbo-esto-se-sabe-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/30fac7a/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F82%2Fab%2Fd48b51f34686a096e17c91f50f26%2Fexcentricidades-66.jpg"
+      "title": "Fiscalía no accede a suspensión de órdenes de captura contra miembros del Clan del Golfo",
+      "link": "https://www.noticiascaracol.com/judicial/fiscalia-niega-suspension-de-ordenes-de-captura-contra-miembros-del-clan-del-golfo-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/b92da79/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd1%2F66%2F3357c5ef4600ae2eefe09a776f34%2Fexcentricidades-68.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Suspenden en Bolivia el juicio contra el expresidente Evo Morales y ordenan su captura",
-      "link": "https://laverdad.com/suspenden-en-bolivia-el-juicio-contra-el-expresidente-evo-morales-y-ordenan-su-captura/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Evo-Morales-scaled.jpg"
+      "title": "La OMS eleva a 11 los casos positivos por hantavirus: el riesgo sigue siendo bajo",
+      "link": "https://laverdad.com/la-oms-eleva-a-11-los-casos-positivos-por-hantavirus-el-riesgo-sigue-siendo-bajo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/2275215923-GI-1-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petróleo de Texas sube 2,78 % luego que Trump tildara de “frágil” el alto el fuego",
-      "link": "https://diarioversionfinal.com/mundo/petroleo-de-texas-sube-278-luego-que-trump-tildara-de-fragil-el-alto-el-fuego/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/la-region-en-sudamerica-que-tiene-mas-petroleo-que-toda-arabia-saudita-y-canada-entera-143062-750x430.jpg"
+      "title": "Líder de Hizbulá propone diálogo “indirecto” con Israel antes de nueva ronda de conversaciones",
+      "link": "https://diarioversionfinal.com/mundo/lider-de-hizbula-propone-dialogo-indirecto-con-israel-antes-de-nueva-ronda-de-conversaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Naim-Qassem-714x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-12T11:56:24.516Z"
+  "lastUpdate": "2026-05-12T14:31:30.279Z"
 };
