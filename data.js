@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 13 Mayo 2026"
     },
     "binance": {
-      "usdt": "701,97"
+      "usdt": "700,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -23,38 +23,38 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Trump y Xi se reúnen en China. América Latina entra en la disputa geopolítica",
       "link": "https://cnnespanol.cnn.com/2026/05/13/latinoamerica/trump-xi-disputa-geopolitica-latinoamerica-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20251027-trump-us-xi-china-tariffs-20260513084002033.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243556893-20260513114509291.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional aprueba reforma para elevar el número de magistrados en el TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-aprueba-reforma-para-elevar-el-numero-de-magistrados-en-el-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-fiscal-general-defensor-pueblo-1-1-d36991.jpg"
+      "title": "Human Rights Watch afirma que Ley de Amnistía tiene \"deficiencias\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/human-rights-watch-afirma-que-ley-de-amnistia-tiene-deficiencias",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/2025-11-28t183a173a35z-90550678-288272-4c9f0c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REMESAS HACIA VENEZUELA PROMEDIAN $80 MENSUALES, DIJO ASDRÚBAL OLIVEROS",
-      "link": "https://noticierodigital.com/2026/05/remesas-hacia-venezuela-promedian-80-mensuales-dijo-asdrubal-oliveros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/08/asdrubaloliveros-venezuelapasodepresion-a-estancamiento-31ago2021.jpg"
+      "title": "EN EL PRIMER TRIMESTRE EL 75% DE EMPRESAS MANUFACTURERAS ACCEDIÓ A SUBASTAS DE DIVISAS",
+      "link": "https://noticierodigital.com/2026/05/en-el-primer-trimestre-el-75-de-empresas-manufactureras-accedio-a-subastas-de-divisas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-1-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Cuatro soldados fallecieron tras ataque de las disidencias en Buenos Aires, Guaviare: ¿qué ocurrió?",
-      "link": "https://www.noticiascaracol.com/colombia/cuatro-soldados-fallecieron-tras-ataque-de-las-disidencias-en-buenos-aire-guaviare-que-ocurrio-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/94b1d9e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbc%2Ffd%2Fa9ae3b7841a4bd97f25adbcc47cd%2Fdiseno.jpg"
+      "title": "Avianca inicia acciones legales contra pasajero en estado de embriaguez señalado de agresión sexual",
+      "link": "https://www.noticiascaracol.com/colombia/avianca-inicia-acciones-legales-contra-pasajero-en-estado-de-embriaguez-senalado-de-agresion-sexual-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a86d1af/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F32%2F02%2Fb433ebc84545b6f84913fb3ce95b%2Fexcentricidades-70.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Buscan en Europa tratamientos contra el hantavirus",
-      "link": "https://laverdad.com/buscan-en-europa-tratamientos-contra-el-hantavirus/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/ChatGPT-Image-13-may-2026-10_31_33-a.m.-1.png"
+      "title": "Detienen a venezolano que vendía marihuana por delivery junto a un adolescente en Chile",
+      "link": "https://laverdad.com/detienen-a-venezolano-que-vendia-marihuana-por-delivery-junto-a-un-adolescente-en-chile/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/venezolano-detenido.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Fed de Nueva York gana apelación de banco puertorriqueño cerrado por vínculos con Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/la-fed-de-nueva-york-gana-apelacion-de-banco-puertorriqueno-cerrado-por-vinculos-con-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Fed-New-York-750x430.webp"
+      "title": "Supuesto testaferro de Zapatero oculta en Miami un millón de euros en cuentas que siguen activas",
+      "link": "https://diarioversionfinal.com/mundo/supuesto-testaferro-de-zapatero-oculta-en-miami-un-millon-de-euros-en-cuentas-que-siguen-activas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/09/EuropaPress_5917729_expresidente_gobierno_jose_luis_rodriguez_zapatero_desayuno_informativo-scaled-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-13T18:02:14.421Z"
+  "lastUpdate": "2026-05-13T20:46:03.350Z"
 };
