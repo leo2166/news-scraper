@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 13 Mayo 2026"
     },
     "binance": {
-      "usdt": "700,30"
+      "usdt": "704,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,46 +15,46 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Human Rights Watch afirmó que ley de amnistía en Venezuela presenta “graves deficiencias”",
-      "link": "https://www.infobae.com/venezuela/2026/05/13/human-rights-watch-afirmo-que-ley-de-amnistia-en-venezuela-presenta-graves-deficiencias/",
-      "image": "https://www.infobae.com/resizer/v2/GSZ5EVS6BFEYVDVGIGFSBHQWR4.jpg?auth=bcc3508c4a4b6105c9ab2a5b5601176a357ff3347dfa3a26417be52758fdca3f&smart=true&width=350&height=197&quality=85"
+      "title": "“Bono no es salario”: docentes universitarios protestaron para denunciar la crisis salarial en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/13/bono-no-es-salario-docentes-universitarios-protestaron-para-denunciar-la-crisis-salarial-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/YXP5QKQ7DZBJHOP2PDGUZ2YSFM.jpg?auth=ddbb95d1417a462b51623384d7b80f6849aeb45bd2eb491ea42a93d653a96d6a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump y Xi se preparan para un cara a cara en Beijing",
-      "link": "https://cnnespanol.cnn.com/2026/05/13/mundo/mundo-guerra-trump-xi-enfrentamiento-beijing-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20251027-trump-us-xi-china-tariffs-20260513084002033.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump y Xi se reúnen en China. América Latina entra en la disputa geopolítica",
+      "link": "https://cnnespanol.cnn.com/2026/05/13/latinoamerica/trump-xi-disputa-geopolitica-latinoamerica-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/rtump-en-china.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional instala Grupo Parlamentario de Amistad Venezuela–Estados Unidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-instala-grupo-parlamentario-de-amistad-venezuelaestados-unidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-12-at-6.06.50-pm-1-c7639a.jpeg"
+      "title": "Asamblea Nacional aprueba reforma para elevar el número de magistrados en el TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-aprueba-reforma-para-elevar-el-numero-de-magistrados-en-el-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-fiscal-general-defensor-pueblo-1-1-d36991.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO RATIFICÓ META DE SEMBRAR 10 MILLONES DE ÁRBOLES",
-      "link": "https://noticierodigital.com/2026/05/gobierno-ratifico-meta-de-sembrar-10-millones-de-arboles/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/freddy-nanez-venezuela-627x376.jpg"
+      "title": "«EL GOBIERNO SOLO ENTREGARÍA EL PODER A UN MODERADO», DIJO BRITO",
+      "link": "https://noticierodigital.com/2026/05/el-gobierno-solo-entregaria-el-poder-a-un-moderado-dijo-brito/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/jose-brito-627x376.jpg"
     },
     {
       "source": "Caracol Noticias",
-      "title": "Torturada, abusada y obligada a abortar: mamá y padrastro habrían sometido a niña en Ibagué 10 años",
-      "link": "https://www.noticiascaracol.com/colombia/torturada-abusada-y-obligada-a-abortar-mama-y-padrastro-habrian-sometido-a-nina-en-ibague-10-anos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/f0495f1/2147483647/strip/true/crop/1280x722+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fce%2F92%2F8e413424461190ae98e895dda344%2Fabuso-ibague.jpg"
+      "title": "Cuatro soldados fallecieron tras ataque de las disidencias en Buenos Aires, Guaviare: ¿qué ocurrió?",
+      "link": "https://www.noticiascaracol.com/colombia/cuatro-soldados-fallecieron-tras-ataque-de-las-disidencias-en-buenos-aire-guaviare-que-ocurrio-rg10",
+      "image": "https://caracoltv.brightspotcdn.com/dims4/default/94b1d9e/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fbc%2Ffd%2Fa9ae3b7841a4bd97f25adbcc47cd%2Fdiseno.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump se someterá a otro chequeo médico el 26 de mayo",
-      "link": "https://laverdad.com/trump-se-sometera-a-otro-chequeo-medico-el-26-de-mayo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Donald-Trump-2.jpg"
+      "title": "Buscan en Europa tratamientos contra el hantavirus",
+      "link": "https://laverdad.com/buscan-en-europa-tratamientos-contra-el-hantavirus/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/ChatGPT-Image-13-may-2026-10_31_33-a.m.-1.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump publica imagen del mapa de Venezuela pintado con bandera de EE. UU. como el “estado 51”",
-      "link": "https://diarioversionfinal.com/mundo/trump-publica-imagen-del-mapa-de-venezuela-pintado-con-bandera-de-ee-uu-como-el-estado-51/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estado-51-12-05-2026-750x430.jpg"
+      "title": "Cuba advierte que un ataque de EE.UU. causaría “baño de sangre”",
+      "link": "https://diarioversionfinal.com/mundo/cuba-advierte-que-un-ataque-de-ee-uu-causaria-bano-de-sangre/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Bruno-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-13T12:04:34.036Z"
+  "lastUpdate": "2026-05-13T15:46:06.542Z"
 };
