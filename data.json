@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "508,60",
-      "eur": "596,60",
-      "fechaValor": "Miércoles, 13 Mayo 2026"
+      "usd": "510,79",
+      "eur": "598,12",
+      "fechaValor": "Jueves, 14 Mayo 2026"
     },
     "binance": {
-      "usdt": "700,00"
+      "usdt": "699,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EN EL PRIMER TRIMESTRE EL 75% DE EMPRESAS MANUFACTURERAS ACCEDIÓ A SUBASTAS DE DIVISAS",
-      "link": "https://noticierodigital.com/2026/05/en-el-primer-trimestre-el-75-de-empresas-manufactureras-accedio-a-subastas-de-divisas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-1-627x376.jpg"
-    },
-    {
-      "source": "Caracol Noticias",
-      "title": "Avianca inicia acciones legales contra pasajero en estado de embriaguez señalado de agresión sexual",
-      "link": "https://www.noticiascaracol.com/colombia/avianca-inicia-acciones-legales-contra-pasajero-en-estado-de-embriaguez-senalado-de-agresion-sexual-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/a86d1af/2147483647/strip/true/crop/1276x720+0+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F32%2F02%2Fb433ebc84545b6f84913fb3ce95b%2Fexcentricidades-70.jpg"
+      "title": "LUIS FLORIDO DENUNCIÓ “JUSTICIA POLITIZADA” DURANTE DEBATE SOBRE REFORMA DEL TSJ",
+      "link": "https://noticierodigital.com/2026/05/luis-florido-denuncio-justicia-politizada-durante-debate-sobre-reforma-del-tsj/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/luisflorido_detencion_andreabianchi_30mar2020_.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +45,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Supuesto testaferro de Zapatero oculta en Miami un millón de euros en cuentas que siguen activas",
-      "link": "https://diarioversionfinal.com/mundo/supuesto-testaferro-de-zapatero-oculta-en-miami-un-millon-de-euros-en-cuentas-que-siguen-activas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/09/EuropaPress_5917729_expresidente_gobierno_jose_luis_rodriguez_zapatero_desayuno_informativo-scaled-1-750x430.jpg"
+      "title": "\"EE. UU. busca enfrentar a los cubanos con su Gobierno mediante bloqueo\", afirma Díaz-Canel",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-busca-enfrentar-a-los-cubanos-con-su-gobierno-mediante-bloqueo-afirma-diaz-canel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/000_98A4RB-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-13T20:46:03.350Z"
+  "lastUpdate": "2026-05-13T22:12:26.987Z"
 }
