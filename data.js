@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 13 Mayo 2026"
     },
     "binance": {
-      "usdt": "670,00"
+      "usdt": "699,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Donald Trump prometió liberar a todos los presos políticos en Venezuela: “Vamos a sacarlos”",
-      "link": "https://www.infobae.com/venezuela/2026/05/13/donald-trump-prometio-liberar-a-todos-los-presos-politicos-en-venezuela-vamos-a-sacarlos/",
-      "image": "https://www.infobae.com/resizer/v2/72LJTAZR3JG5TGHLOH4D5QTTOU.jpg?auth=d6974d8e9aa6baf68ea597d43615dc66457937bec6b9aa98f0f416a1ec978a31&smart=true&width=350&height=197&quality=85"
+      "title": "El comercio entre Estados Unidos y Venezuela creció más de 20% tras la captura de Nicolás Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/05/13/el-comercio-entre-estados-unidos-y-venezuela-crecio-mas-de-20-tras-la-captura-de-nicolas-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/4XUTEPDI4VDELFHCW6BRORTGCM.JPG?auth=0ca015f0423725a3108ee4e1d45be7e48ca9a5cc6fe02ffbd948c0abe9474ba2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump y Xi se preparan para enfrentarse en Beijing",
+      "title": "Trump y Xi se preparan para un cara a cara en Beijing",
       "link": "https://cnnespanol.cnn.com/2026/05/13/mundo/mundo-guerra-trump-xi-enfrentamiento-beijing-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-871865900-20260513044132098.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20251027-trump-us-xi-china-tariffs-20260513084002033.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estado-51-12-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-13T06:49:05.994Z"
+  "lastUpdate": "2026-05-13T09:44:53.023Z"
 };
