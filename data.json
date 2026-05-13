@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 13 Mayo 2026"
     },
     "binance": {
-      "usdt": "704,20"
+      "usdt": "701,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "“Bono no es salario”: docentes universitarios protestaron para denunciar la crisis salarial en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/13/bono-no-es-salario-docentes-universitarios-protestaron-para-denunciar-la-crisis-salarial-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/YXP5QKQ7DZBJHOP2PDGUZ2YSFM.jpg?auth=ddbb95d1417a462b51623384d7b80f6849aeb45bd2eb491ea42a93d653a96d6a&smart=true&width=350&height=197&quality=85"
+      "title": "La crisis eléctrica se agudiza en Venezuela: el 90% de los hogares sufre cortes diarios o esporádicos",
+      "link": "https://www.infobae.com/venezuela/2026/05/13/la-crisis-electrica-se-agudiza-en-venezuela-el-90-de-los-hogares-sufre-cortes-diarios-o-esporadicos/",
+      "image": "https://www.infobae.com/resizer/v2/52EJIX2BXF64ZVF6PUHIPYCK2E.jpg?auth=12c405ee13b7eaad9e24e26ae70036ac58d2d2d3e9f8db839820405e7b370325&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
       "title": "Trump y Xi se reúnen en China. América Latina entra en la disputa geopolítica",
       "link": "https://cnnespanol.cnn.com/2026/05/13/latinoamerica/trump-xi-disputa-geopolitica-latinoamerica-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/rtump-en-china.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20251027-trump-us-xi-china-tariffs-20260513084002033.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EL GOBIERNO SOLO ENTREGARÍA EL PODER A UN MODERADO», DIJO BRITO",
-      "link": "https://noticierodigital.com/2026/05/el-gobierno-solo-entregaria-el-poder-a-un-moderado-dijo-brito/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/jose-brito-627x376.jpg"
+      "title": "REMESAS HACIA VENEZUELA PROMEDIAN $80 MENSUALES, DIJO ASDRÚBAL OLIVEROS",
+      "link": "https://noticierodigital.com/2026/05/remesas-hacia-venezuela-promedian-80-mensuales-dijo-asdrubal-oliveros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/08/asdrubaloliveros-venezuelapasodepresion-a-estancamiento-31ago2021.jpg"
     },
     {
       "source": "Caracol Noticias",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba advierte que un ataque de EE.UU. causaría “baño de sangre”",
-      "link": "https://diarioversionfinal.com/mundo/cuba-advierte-que-un-ataque-de-ee-uu-causaria-bano-de-sangre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Bruno-750x430.webp"
+      "title": "La Fed de Nueva York gana apelación de banco puertorriqueño cerrado por vínculos con Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/la-fed-de-nueva-york-gana-apelacion-de-banco-puertorriqueno-cerrado-por-vinculos-con-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Fed-New-York-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-13T15:46:06.542Z"
+  "lastUpdate": "2026-05-13T18:02:14.421Z"
 }
