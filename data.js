@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 13 Mayo 2026"
     },
     "binance": {
-      "usdt": "699,99"
+      "usdt": "700,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "El comercio entre Estados Unidos y Venezuela creció más de 20% tras la captura de Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/05/13/el-comercio-entre-estados-unidos-y-venezuela-crecio-mas-de-20-tras-la-captura-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/4XUTEPDI4VDELFHCW6BRORTGCM.JPG?auth=0ca015f0423725a3108ee4e1d45be7e48ca9a5cc6fe02ffbd948c0abe9474ba2&smart=true&width=350&height=197&quality=85"
+      "title": "Human Rights Watch afirmó que ley de amnistía en Venezuela presenta “graves deficiencias”",
+      "link": "https://www.infobae.com/venezuela/2026/05/13/human-rights-watch-afirmo-que-ley-de-amnistia-en-venezuela-presenta-graves-deficiencias/",
+      "image": "https://www.infobae.com/resizer/v2/GSZ5EVS6BFEYVDVGIGFSBHQWR4.jpg?auth=bcc3508c4a4b6105c9ab2a5b5601176a357ff3347dfa3a26417be52758fdca3f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estado-51-12-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-13T09:44:53.023Z"
+  "lastUpdate": "2026-05-13T12:04:34.036Z"
 };
