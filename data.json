@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "510,79",
-      "eur": "598,12",
-      "fechaValor": "Jueves, 14 Mayo 2026"
+      "usd": "515,18",
+      "eur": "601,45",
+      "fechaValor": "Viernes, 15 Mayo 2026"
     },
     "binance": {
-      "usdt": "716,50"
+      "usdt": "723,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Las desapariciones forzadas en Venezuela crecieron un 196 % en 2025",
-      "link": "https://www.infobae.com/venezuela/2026/05/14/las-desapariciones-forzadas-en-venezuela-crecieron-un-196-en-2025/",
-      "image": "https://www.infobae.com/resizer/v2/HMM35RH57RBXRHNCPHO56HO5IM.jpg?auth=9d9243ecccf504c4f0ddc10e60581afebcd98512be1e821757e4cb06783321ac&smart=true&width=350&height=197&quality=85"
+      "title": "Líderes y ex presos políticos inician una “gran cruzada” para relanzar a la oposición en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/14/lideres-y-ex-presos-politicos-inician-una-gran-cruzada-para-relanzar-a-la-oposicion-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4ODZAL25UNDQXMC3C45L55XWJ4.JPG?auth=f3c63e84472f44eb5ba8ba0765062ff270a9e30c5987cff0a3539086f3e1a880&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump afirma que Xi prometió no proporcionarle equipo militar a Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/13/mundo/live-news/trump-xi-jinping-visita-china-en-vivo-noticias-y-mas",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mike-banks-patrulla.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Cuba informa de reunión de su ministro del Interior con director de la CIA",
+      "link": "https://cnnespanol.cnn.com/2026/05/14/mundo/director-cia-reunion-ministro-interior-cuba-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-14-150108.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESPAÑA NO DARÁ MÁS RESIDENCIA A VENEZOLANOS POR RAZONES HUMANITARIAS DESDE JUNIO",
-      "link": "https://noticierodigital.com/2026/05/espana-no-dara-mas-residencia-a-venezolanos-por-razones-humanitarias-desde-junio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/venezuela-venezolanos-espana-627x376.jpg"
+      "title": "DIRECTOR DE LA CIA SE REUNIÓ EN SECRETO CON INTELIGENCIA CUBANA EN LA HABANA",
+      "link": "https://noticierodigital.com/2026/05/director-de-la-cia-se-reunio-en-secreto-con-inteligencia-cubana-en-la-habana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/john-ratcliffe-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,5 +50,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4240.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-14T21:10:38.845Z"
+  "lastUpdate": "2026-05-14T22:56:40.308Z"
 }
