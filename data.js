@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 14 Mayo 2026"
     },
     "binance": {
-      "usdt": "705,97"
+      "usdt": "699,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,40 +15,40 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "La industria manufacturera privada en Venezuela aumentó más de un 9% en el primer trimestre de 2026",
-      "link": "https://www.infobae.com/venezuela/2026/05/14/la-industria-manufacturera-privada-en-venezuela-aumento-mas-de-un-9-en-el-primer-trimestre-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/RN3PDBMV7FCOBDW2QBYKYGAM24.png?auth=39ca18a358b473b3f2a22c64a4adfc5e85e2e8e2ddb5bdbb81ed1803101245a1&smart=true&width=350&height=197&quality=85"
+      "title": "Militares retirados alertan sobre el colapso de Venezuela y exigen el retorno al orden constitucional",
+      "link": "https://www.infobae.com/venezuela/2026/05/14/militares-retirados-alertan-sobre-el-colapso-de-venezuela-y-exigen-el-retorno-al-orden-constitucional/",
+      "image": "https://www.infobae.com/resizer/v2/SR3KZAMMGNGRPB7WB75GYKSNQ4.png?auth=461e9f3997a8423780bdabba79fa0521310fcc6621bb73fdf5bc452cf7949fe2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Xi celebra las relaciones con EE.UU., pero advierte a Trump sobre Taiwán",
+      "title": "Trump dice que Xi le ofreció ayuda con Irán",
       "link": "https://cnnespanol.cnn.com/2026/05/13/mundo/live-news/trump-xi-jinping-visita-china-en-vivo-noticias-y-mas",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2244073622-20260514044256333.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Academia de Ciencias Políticas y Sociales solicita investigación por fallecimiento de Víctor Hugo Quero Navas",
-      "link": "https://noticiasvenevision.com/noticias/politica/academia-de-ciencias-politicas-y-sociales-solicita-investigacion-por-fallecimiento-de-victor-hugo-quero-navas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vi_academiadeciencias_header-4f7901.jpg"
+      "title": "Nicolás Maduro Guerra: “El chavismo debe pedir perdón por sus excesos”",
+      "link": "https://noticiasvenevision.com/noticias/politica/nicolas-maduro-guerra-el-chavismo-debe-pedir-perdon-por-sus-excesos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/maduro-guerra-100d80.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CLAUDIO FERMÍN: «ES INADMISIBLE QUE TRUMP QUIERA CONVERTIR A VENEZUELA EN EL ESTADO 51»",
-      "link": "https://noticierodigital.com/2026/05/claudio-fermin-es-inadmisible-que-trump-quiera-convertir-a-venezuela-en-el-estado-51/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/claudio-fermin-627x376.jpg"
+      "title": "JOSÉ SIMÓN ELARBA RATIFICA EN MONAGAS EL COMPROMISO DE BANCAMIGA CON EL DESARROLLO ECONÓMICO DEL PAÍS",
+      "link": "https://noticierodigital.com/2026/05/jose-simon-elarba-ratifica-en-monagas-el-compromiso-de-bancamiga-con-el-desarrollo-economico-del-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260514-WA0139-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Venezolanos demandan al gobierno de EE. UU. por redada: exigen $5 millones",
-      "link": "https://laverdad.com/venezolanos-demandan-al-gobierno-de-ee-uu-por-redada-exigen-5-millones/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Migrantes-redada-Chicago.jpg"
+      "title": "España no dará más residencia a venezolanos por razones humanitarias",
+      "link": "https://laverdad.com/espana-no-dara-mas-residencia-a-venezolanos-por-razones-humanitarias/",
+      "image": "https://laverdad.com/wp-content/uploads/2024/06/Venezolanos-en-espana.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España no concederá nuevas residencias por razones humanitarias a venezolanos desde el #12Jun",
-      "link": "https://diarioversionfinal.com/mundo/espana-no-concedera-nuevas-residencias-por-razones-humanitarias-a-venezolanos-desde-el-12jun/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4211-750x430.jpeg"
+      "title": "Noboa impulsa elecciones libres en Venezuela y respaldo político a cambio en Cuba",
+      "link": "https://diarioversionfinal.com/mundo/noboa-impulsa-elecciones-libres-en-venezuela-y-respaldo-politico-a-cambio-en-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/Daniel-Noboa-02-07-2024.jpg"
     }
   ],
-  "lastUpdate": "2026-05-14T15:19:00.836Z"
+  "lastUpdate": "2026-05-14T17:50:44.740Z"
 };
