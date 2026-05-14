@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 14 Mayo 2026"
     },
     "binance": {
-      "usdt": "709,57"
+      "usdt": "716,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "Estados Unidos consideró un “hito clave” la extracción de uranio enriquecido de Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/05/14/estados-unidos-considero-un-hito-clave-la-extraccion-de-uranio-enriquecido-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/TJCOKFAO73MGIFM6NHZFZV57OM.jpg?auth=fddb2b187764d2ef0d1087d4ccc80c8f2ac740a139ef7c428c70e34966f95aad&smart=true&width=350&height=197&quality=85"
+      "title": "Las desapariciones forzadas en Venezuela crecieron un 196 % en 2025",
+      "link": "https://www.infobae.com/venezuela/2026/05/14/las-desapariciones-forzadas-en-venezuela-crecieron-un-196-en-2025/",
+      "image": "https://www.infobae.com/resizer/v2/HMM35RH57RBXRHNCPHO56HO5IM.jpg?auth=9d9243ecccf504c4f0ddc10e60581afebcd98512be1e821757e4cb06783321ac&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOSÉ SIMÓN ELARBA RATIFICA EN MONAGAS EL COMPROMISO DE BANCAMIGA CON EL DESARROLLO ECONÓMICO DEL PAÍS",
-      "link": "https://noticierodigital.com/2026/05/jose-simon-elarba-ratifica-en-monagas-el-compromiso-de-bancamiga-con-el-desarrollo-economico-del-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260514-WA0139-627x376.jpg"
+      "title": "ESPAÑA NO DARÁ MÁS RESIDENCIA A VENEZOLANOS POR RAZONES HUMANITARIAS DESDE JUNIO",
+      "link": "https://noticierodigital.com/2026/05/espana-no-dara-mas-residencia-a-venezolanos-por-razones-humanitarias-desde-junio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/venezuela-venezolanos-espana-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump apoyará la campaña de Benjamin Netanyahu para continuar como primer ministro",
-      "link": "https://diarioversionfinal.com/mundo/trump-apoyara-la-campana-de-benjamin-netanyahu-para-continuar-como-primer-ministro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4236-750x430.jpeg"
+      "title": "EE. UU. mantiene bajo vigilancia a 41 personas por exposición al hantavirus",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-mantiene-bajo-vigilancia-a-41-personas-por-exposicion-al-hantavirus/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4240.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-14T19:46:01.097Z"
+  "lastUpdate": "2026-05-14T21:10:38.845Z"
 }
