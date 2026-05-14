@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 14 Mayo 2026"
     },
     "binance": {
-      "usdt": "699,97"
+      "usdt": "709,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Militares retirados alertan sobre el colapso de Venezuela y exigen el retorno al orden constitucional",
-      "link": "https://www.infobae.com/venezuela/2026/05/14/militares-retirados-alertan-sobre-el-colapso-de-venezuela-y-exigen-el-retorno-al-orden-constitucional/",
-      "image": "https://www.infobae.com/resizer/v2/SR3KZAMMGNGRPB7WB75GYKSNQ4.png?auth=461e9f3997a8423780bdabba79fa0521310fcc6621bb73fdf5bc452cf7949fe2&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos consideró un “hito clave” la extracción de uranio enriquecido de Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/05/14/estados-unidos-considero-un-hito-clave-la-extraccion-de-uranio-enriquecido-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/TJCOKFAO73MGIFM6NHZFZV57OM.jpg?auth=fddb2b187764d2ef0d1087d4ccc80c8f2ac740a139ef7c428c70e34966f95aad&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que Xi le ofreció ayuda con Irán",
+      "title": "Trump afirma que Xi prometió no proporcionarle equipo militar a Irán",
       "link": "https://cnnespanol.cnn.com/2026/05/13/mundo/live-news/trump-xi-jinping-visita-china-en-vivo-noticias-y-mas",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2244073622-20260514044256333.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mike-banks-patrulla.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,16 +39,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "España no dará más residencia a venezolanos por razones humanitarias",
-      "link": "https://laverdad.com/espana-no-dara-mas-residencia-a-venezolanos-por-razones-humanitarias/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/06/Venezolanos-en-espana.jpg"
+      "title": "ICE libera bajo fianza a médica venezolana Rubeliz Bolívar tras pasar un mes presa",
+      "link": "https://laverdad.com/ice-libera-bajo-fianza-a-medica-venezolana-rubeliz-bolivar-tras-pasar-un-mes-presa/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/doctora-Rubeliz-Bolivar.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Noboa impulsa elecciones libres en Venezuela y respaldo político a cambio en Cuba",
-      "link": "https://diarioversionfinal.com/mundo/noboa-impulsa-elecciones-libres-en-venezuela-y-respaldo-politico-a-cambio-en-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/Daniel-Noboa-02-07-2024.jpg"
+      "title": "Trump apoyará la campaña de Benjamin Netanyahu para continuar como primer ministro",
+      "link": "https://diarioversionfinal.com/mundo/trump-apoyara-la-campana-de-benjamin-netanyahu-para-continuar-como-primer-ministro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4236-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-14T17:50:44.740Z"
+  "lastUpdate": "2026-05-14T19:46:01.097Z"
 };
