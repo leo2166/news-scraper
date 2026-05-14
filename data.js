@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 14 Mayo 2026"
     },
     "binance": {
-      "usdt": "700,00"
+      "usdt": "705,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Venezuela anunció la reestructuración de su deuda externa",
-      "link": "https://www.infobae.com/venezuela/2026/05/13/venezuela-anuncio-la-reestructuracion-de-su-deuda-externa/",
-      "image": "https://www.infobae.com/resizer/v2/VRHFOJDYTVF2TA4MATQGCFKPJU.JPG?auth=6fa1a7684edc5f95257691d5fe86a5a1998fc587aee25e0bede96825da342e75&smart=true&width=350&height=197&quality=85"
+      "title": "Activistas venezolanos ratificaron que la lucha por la diversidad sexual es inseparable de la democracia",
+      "link": "https://www.infobae.com/venezuela/2026/05/14/activistas-venezolanos-ratificaron-que-la-lucha-por-la-diversidad-sexual-es-inseparable-de-la-democracia/",
+      "image": "https://www.infobae.com/resizer/v2/RGA4HXWTFNGW7DYDN2734BOMDA.jpg?auth=64039bb9339d1c118a0548f047f14e37162ce56ee514e590de848d1acd58e279&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela anuncia reestructuración de su deuda externa y la de PDVSA",
-      "link": "https://cnnespanol.cnn.com/2026/05/13/venezuela/reestructuracion-deuda-externa-pdvsa-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2015-04-20t120000z-1841646308-gf10000065712-rtrmadp-3-venezuela-pdvsa-opec-20260107162511821.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump y Xi se encuentran en Beijing para una cumbre de alto nivel",
+      "link": "https://cnnespanol.cnn.com/2026/05/13/mundo/live-news/trump-xi-jinping-visita-china-en-vivo-noticias-y-mas",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243556893-20260513114509291.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez regresa a Venezuela tras asistir a la CIJ por la disputa con Guyana",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-regresa-a-venezuela-tras-asistir-a-la-cij-por-la-disputa-con-guyana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela-guyana_24536-ff39c3.png"
+      "title": "Venezuela presenta más de 3 mil evidencias ante la CIJ sobre el Esequibo",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-presenta-mas-de-3-mil-evidencias-ante-la-cij-sobre-el-esequibo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9506-c4a9a0.JPG"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ANUNCIÓ QUE VENEZUELA DESCONOCERÁ FALLO DE LA CIJ SOBRE EL ESEQUIBO",
-      "link": "https://noticierodigital.com/2026/05/delcy-rodriguez-anuncio-que-venezuela-desconocera-fallo-de-la-cij-sobre-el-esequibo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/delcy-rodriguez-ven-p332-627x376.jpg"
+      "title": "CABELLO ACUSÓ A MCM DE IMPULSAR CAMPAÑA POR CASO VÍCTOR QUERO",
+      "link": "https://noticierodigital.com/2026/05/cabello-acuso-a-mcm-de-impulsar-campana-por-caso-victor-quero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diosdado-Cabello-mazo-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "\"EE. UU. busca enfrentar a los cubanos con su Gobierno mediante bloqueo\", afirma Díaz-Canel",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-busca-enfrentar-a-los-cubanos-con-su-gobierno-mediante-bloqueo-afirma-diaz-canel/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/000_98A4RB-750x430.jpg"
+      "title": "Trump se reúne con Xi Jinping en medio de tensiones y la guerra en Irán",
+      "link": "https://diarioversionfinal.com/mundo/donald-trump-se-reune-con-xi-jinping-en-medio-de-tensiones-y-la-guerra-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/f7fa552fdcf998a4d2feb919722d20f3-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-13T23:59:20.871Z"
+  "lastUpdate": "2026-05-14T04:06:35.435Z"
 };
