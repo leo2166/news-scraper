@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 15 Mayo 2026"
     },
     "binance": {
-      "usdt": "681,00"
+      "usdt": "714,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Trump se refirió al modelo de chándal de Maduro que usó Marco Rubio rumbo a China: “Se veía muy bien”",
-      "link": "https://www.infobae.com/venezuela/2026/05/15/trump-se-refirio-al-modelo-de-chandal-de-maduro-que-uso-marco-rubio-rumbo-a-china-se-veia-muy-bien/",
-      "image": "https://www.infobae.com/resizer/v2/Y2DOCHFDEJC5TGC735WMPQJHVQ.jpg?auth=192d36a35c76ee57aa0cbfc4d11c596a37ec6710e3c799a458e4705f7fd958fe&smart=true&width=350&height=197&quality=85"
+      "title": "Provea: 10.853 personas fueron asesinadas por agentes del Estado durante el régimen de Nicolás Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/05/15/provea-10853-personas-fueron-asesinadas-por-agentes-del-estado-durante-el-regimen-de-nicolas-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/SJTWTXQVN5EBFNADVGUE46SBIU.jpg?auth=02dc2def8510e21a0f328653d0afdc45a9c4d69edbce224786e0e69766ac1593&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES: «ENTRAN MÁS RECURSOS Y LA GENTE SIGUE LUCHANDO PARA COMER»",
-      "link": "https://noticierodigital.com/2026/05/capriles-entran-mas-recursos-y-la-gente-sigue-luchando-para-comer/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/henrique-capriles-radonski-1-627x376.jpg"
+      "title": "LAVROV DIJO QUE EE .UU. USA CON IRÁN LA MISMA ESTRATEGIA QUE USÓ CON VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/lavrov-dijo-que-ee-uu-usa-con-iran-la-misma-estrategia-que-uso-con-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/07/lavrov-rusia-venezuela.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rusia y Ucrania intercambian cuerpos de soldados caídos tras canje de prisioneros",
-      "link": "https://diarioversionfinal.com/mundo/rusia-y-ucrania-intercambian-cuerpos-de-soldados-caidos-tras-canje-de-prisioneros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/161a2fbc41e94e1012f090e321e8e36c-89695605-750x430.webp"
+      "title": "Migrantes titulares de la Green Card serán nuevo objetivo de deportación en EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/migrantes-titulares-de-la-green-card-seran-nuevo-objetivo-de-deportacion-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/14dc-green-cards-jumbo-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-15T17:27:42.612Z"
+  "lastUpdate": "2026-05-15T19:38:47.038Z"
 };
