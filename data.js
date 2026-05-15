@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 15 Mayo 2026"
     },
     "binance": {
-      "usdt": "725,02"
+      "usdt": "727,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump abandona China tras la ronda final de conversaciones",
-      "link": "https://cnnespanol.cnn.com/2026/05/13/mundo/live-news/trump-xi-jinping-visita-china-en-vivo-noticias-y-mas",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hiunhfhweaayw-t-20260515001758257.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump deja China con pocos resultados concretos, pero con una relación estabilizada",
+      "link": "https://cnnespanol.cnn.com/2026/05/15/mundo/trump-china-conclusiones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/espia-irani.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MCM DIJO QUE TRUMP «ESTÁ ENVIANDO UN MENSAJE» SOBRE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/mcm-dijo-que-trump-esta-enviando-un-mensaje-sobre-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/maria-corina-machado-20260515000-627x376.jpg"
+      "title": "JOSÉ ROLÓN Y JEFRE MATA FUERON RETENIDOS MÁS DE CUATRO HORAS EN UNA ALCABALA, DENUNCIÓ VENTE",
+      "link": "https://noticierodigital.com/2026/05/jose-rolon-y-jefre-mata-fueron-retenidos-mas-de-cuatro-horas-en-una-alcabala-denuncio-vente/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-16-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4240.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-15T10:23:49.030Z"
+  "lastUpdate": "2026-05-15T12:53:19.627Z"
 };
