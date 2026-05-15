@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 15 Mayo 2026"
     },
     "binance": {
-      "usdt": "714,68"
+      "usdt": "687,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Nicolás Maduro Guerra: “El chavismo debe pedir perdón por sus excesos”",
-      "link": "https://noticiasvenevision.com/noticias/politica/nicolas-maduro-guerra-el-chavismo-debe-pedir-perdon-por-sus-excesos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/maduro-guerra-100d80.jpg"
+      "title": "Manuel Rosales propone la \"reinstitucionalización\" del CNE",
+      "link": "https://noticiasvenevision.com/noticias/politica/manuel-rosales-propone-la-reinstitucionalizacion-del-cne",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-3-565bcb.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LAVROV DIJO QUE EE .UU. USA CON IRÁN LA MISMA ESTRATEGIA QUE USÓ CON VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/lavrov-dijo-que-ee-uu-usa-con-iran-la-misma-estrategia-que-uso-con-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/07/lavrov-rusia-venezuela.jpg"
+      "title": "AL MENOS SEIS HERIDOS DEJÓ EXPLOSIÓN EN PLATAFORMA PETROLERA EN ZULIA",
+      "link": "https://noticierodigital.com/2026/05/al-menos-seis-heridos-dejo-explosion-en-plataforma-petrolera-en-zulia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Pero-me-mantengo-en-escenarios-15-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/14dc-green-cards-jumbo-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-15T19:38:47.038Z"
+  "lastUpdate": "2026-05-15T21:01:13.293Z"
 };
