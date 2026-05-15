@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 15 Mayo 2026"
     },
     "binance": {
-      "usdt": "723,00"
+      "usdt": "721,37"
     },
     "kontigo": {
       "usd": "N/A"
@@ -23,7 +23,7 @@
       "source": "CNN en Español",
       "title": "Cuba informa de reunión de su ministro del Interior con director de la CIA",
       "link": "https://cnnespanol.cnn.com/2026/05/14/mundo/director-cia-reunion-ministro-interior-cuba-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-14-150108.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-12t215522z-881439158-rc2v7labl4fp-rtrmadp-3-cuba-crisis-fuel.JPG?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIRECTOR DE LA CIA SE REUNIÓ EN SECRETO CON INTELIGENCIA CUBANA EN LA HABANA",
-      "link": "https://noticierodigital.com/2026/05/director-de-la-cia-se-reunio-en-secreto-con-inteligencia-cubana-en-la-habana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/john-ratcliffe-627x376.jpg"
+      "title": "CAPRILES PIDIÓ SOLUCIONES PARA CRISIS DEL SISTEMA ELÉCTRICO",
+      "link": "https://noticierodigital.com/2026/05/capriles-pidio-soluciones-para-crisis-del-sistema-electrico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/henrique-capriles-radonski-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,5 +50,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4240.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-14T22:56:40.308Z"
+  "lastUpdate": "2026-05-14T23:59:22.094Z"
 }
