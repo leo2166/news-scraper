@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 15 Mayo 2026"
     },
     "binance": {
-      "usdt": "727,57"
+      "usdt": "726,37"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,22 +33,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOSÉ ROLÓN Y JEFRE MATA FUERON RETENIDOS MÁS DE CUATRO HORAS EN UNA ALCABALA, DENUNCIÓ VENTE",
-      "link": "https://noticierodigital.com/2026/05/jose-rolon-y-jefre-mata-fueron-retenidos-mas-de-cuatro-horas-en-una-alcabala-denuncio-vente/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-16-627x376.png"
+      "title": "MOTORIZADOS EJECUTAN A SANGRE FRÍA A UNA JOVEN EN MARACAIBO",
+      "link": "https://noticierodigital.com/2026/05/motorizados-ejecutan-a-sangre-fria-a-una-joven-en-maracaibo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/cicpc-foto-de-douglas-rico-23ago2021.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "ICE libera bajo fianza a médica venezolana Rubeliz Bolívar tras pasar un mes presa",
-      "link": "https://laverdad.com/ice-libera-bajo-fianza-a-medica-venezolana-rubeliz-bolivar-tras-pasar-un-mes-presa/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/doctora-Rubeliz-Bolivar.jpg"
+      "title": "Trump asegura que tuvo un “buen entendimiento” con Xi Jinping sobre Irán y Taiwán",
+      "link": "https://laverdad.com/trump-asegura-que-tuvo-un-buen-entendimiento-con-xi-jinping-sobre-iran-y-taiwan/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/1e8769866a2e056b00d00ccb41b7e64cef725d26-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. mantiene bajo vigilancia a 41 personas por exposición al hantavirus",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-mantiene-bajo-vigilancia-a-41-personas-por-exposicion-al-hantavirus/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/IMG_4240.jpeg"
+      "title": "Rusia y Ucrania intercambian cuerpos de soldados caídos tras canje de prisioneros",
+      "link": "https://diarioversionfinal.com/mundo/rusia-y-ucrania-intercambian-cuerpos-de-soldados-caidos-tras-canje-de-prisioneros/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/161a2fbc41e94e1012f090e321e8e36c-89695605-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-15T12:53:19.627Z"
+  "lastUpdate": "2026-05-15T15:13:01.199Z"
 };
