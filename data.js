@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "515,18",
-      "eur": "601,45",
-      "fechaValor": "Viernes, 15 Mayo 2026"
+      "usd": "517,96",
+      "eur": "602,19",
+      "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "687,00"
+      "usdt": "722,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Provea: 10.853 personas fueron asesinadas por agentes del Estado durante el régimen de Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/05/15/provea-10853-personas-fueron-asesinadas-por-agentes-del-estado-durante-el-regimen-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/SJTWTXQVN5EBFNADVGUE46SBIU.jpg?auth=02dc2def8510e21a0f328653d0afdc45a9c4d69edbce224786e0e69766ac1593&smart=true&width=350&height=197&quality=85"
+      "title": "Incendio en la planta de gas de PDVSA en Venezuela: seis heridos y la petrolera investiga las causas",
+      "link": "https://www.infobae.com/venezuela/2026/05/15/incendio-en-la-planta-de-gas-de-pdvsa-en-venezuela-seis-heridos-y-la-petrolera-investiga-las-causas/",
+      "image": "https://www.infobae.com/resizer/v2/VS24ZNXM7FEPZKXVMOB7B4UPLE.jpg?auth=b5531de59a09ea1d8e4db1c1ae2ffe6d181056607b2100236b7d26bcdaa0dc7a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Aumento de muertes en los centros de detención de ICE. ¿A qué se debe?",
-      "link": "https://cnnespanol.cnn.com/2026/05/15/eeuu/muertes-ice-dhs-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22617844-729923-416-thumb.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "EE.UU. trabaja para imputar al expresidente de Cuba Raúl Castro",
+      "link": "https://cnnespanol.cnn.com/2026/05/15/latinoamerica/eeuu-trabaja-imputar-raul-castro-cuba-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26121550676152-20260515200938274.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Manuel Rosales propone la \"reinstitucionalización\" del CNE",
       "link": "https://noticiasvenevision.com/noticias/politica/manuel-rosales-propone-la-reinstitucionalizacion-del-cne",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-3-565bcb.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "AL MENOS SEIS HERIDOS DEJÓ EXPLOSIÓN EN PLATAFORMA PETROLERA EN ZULIA",
-      "link": "https://noticierodigital.com/2026/05/al-menos-seis-heridos-dejo-explosion-en-plataforma-petrolera-en-zulia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Pero-me-mantengo-en-escenarios-15-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -50,5 +44,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/14dc-green-cards-jumbo-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-15T21:01:13.293Z"
+  "lastUpdate": "2026-05-15T22:54:25.003Z"
 };
