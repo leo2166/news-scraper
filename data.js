@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "694,00"
+      "usdt": "729,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,7 +21,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump regresa de China sin ningún avance sobre Irán",
+      "title": "Trump regresa de China sin ningún avance en Irán",
       "link": "https://cnnespanol.cnn.com/2026/05/16/mundo/trump-regresa-china-ningun-avance-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2275858582-20260516085916983.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN PABLO GUANIPA PIDIÓ A TRUMP «PONER EN LA PRESIDENCIA» A MARÍA CORINA MACHADO",
-      "link": "https://noticierodigital.com/2026/05/juan-pablo-guanipa-pidio-a-trump-poner-en-la-presidencia-a-maria-corina-machado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/juan-pablo-guanipa-1-627x376.jpg"
+      "title": "MARÍA CORINA MACHADO VISITARÁ PANAMÁ ENTRE EL 22 Y EL 25M",
+      "link": "https://noticierodigital.com/2026/05/maria-corina-machado-visitara-panama-entre-el-22-y-el-25m/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/maria-corina-machado-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El papa León XIV aprueba creación de comisión vaticana sobre inteligencia artificial",
-      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-aprueba-creacion-de-comision-vaticana-sobre-inteligencia-artificial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-10.50.41-AM-750x430.jpeg"
+      "title": "Estados Unidos prepara el despliegue de aeronaves propias para vuelos de deportación",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-prepara-el-despliegue-de-aeronaves-propias-para-vuelos-de-deportacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WuOHg86V-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-16T15:59:58.315Z"
+  "lastUpdate": "2026-05-16T17:10:09.545Z"
 };
