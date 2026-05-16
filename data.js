@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "729,99"
+      "usdt": "723,23"
     },
     "kontigo": {
       "usd": "N/A"
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Huelguistas bloquean carreteras en Bolivia y piden renuncia del presidente Rodrigo Paz",
-      "link": "https://diarioversionfinal.com/mundo/huelguistas-bloquean-carreteras-en-bolivia-y-piden-renuncia-del-presidente-rodrigo-paz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Bloqueos-Bolivia-15-05-2026-750x430.jpg"
+      "title": "Trump anuncia la muerte de un alto líder del Estado Islámico en Nigeria",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-la-muerte-de-un-alto-lider-del-estado-islamico-en-nigeria/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/26int-nigeria-assess-qcph-videoSixteenByNineJumbo1600-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-16T11:51:21.578Z"
+  "lastUpdate": "2026-05-16T13:23:01.566Z"
 };
