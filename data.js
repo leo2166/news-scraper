@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "720,00"
+      "usdt": "725,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA Y EL BANCO MUNDIAL ACORDARON CONTINUAR DIÁLOGO TÉCNICO",
-      "link": "https://noticierodigital.com/2026/05/venezuela-y-el-banco-mundial-acordaron-continuar-dialogo-tecnico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/delcy-rodriguez-banco-mundial-2-627x376.jpg"
+      "title": "LA VINOTINTO CLASIFICÓ AL MUNDIAL FEMENINO SUB-17 TRAS VENCER A COLOMBIA",
+      "link": "https://noticierodigital.com/2026/05/la-vinotinto-clasifico-al-mundial-femenino-sub-17-tras-vencer-a-colombia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/venezuela-la-vinotinto-futbol-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Bloqueos-Bolivia-15-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-16T02:55:07.532Z"
+  "lastUpdate": "2026-05-16T05:55:42.467Z"
 };
