@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "725,00"
+      "usdt": "720,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. trabaja para imputar al expresidente de Cuba Raúl Castro",
-      "link": "https://cnnespanol.cnn.com/2026/05/15/latinoamerica/eeuu-trabaja-imputar-raul-castro-cuba-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26121550676152-20260515200938274.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Funcionarios sospechan que Irán vulneró sistemas de gasolineras de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/05/15/eeuu/exclusivo-hackers-lectores-gasolineras-sospechan-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-15-135501.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Manuel Rosales propone la \"reinstitucionalización\" del CNE",
-      "link": "https://noticiasvenevision.com/noticias/politica/manuel-rosales-propone-la-reinstitucionalizacion-del-cne",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-3-565bcb.jpg"
+      "title": "CIDH solicita liberación de detenidos y pide visita formal a Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/cidh-solicita-liberacion-de-detenidos-y-pide-visita-formal-a-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/la-cidh-present-sus-observaciones-en-el-caso-chirinos-salamanca-vs.-venezuela-durante-las-audi-78a659.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "VENEZUELA Y EL BANCO MUNDIAL ACORDARON CONTINUAR DIÁLOGO TÉCNICO",
+      "link": "https://noticierodigital.com/2026/05/venezuela-y-el-banco-mundial-acordaron-continuar-dialogo-tecnico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/delcy-rodriguez-banco-mundial-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -39,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Migrantes titulares de la Green Card serán nuevo objetivo de deportación en EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/migrantes-titulares-de-la-green-card-seran-nuevo-objetivo-de-deportacion-en-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/14dc-green-cards-jumbo-750x430.webp"
+      "title": "Huelguistas bloquean carreteras en Bolivia y piden renuncia del presidente Rodrigo Paz",
+      "link": "https://diarioversionfinal.com/mundo/huelguistas-bloquean-carreteras-en-bolivia-y-piden-renuncia-del-presidente-rodrigo-paz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Bloqueos-Bolivia-15-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-15T23:54:44.397Z"
+  "lastUpdate": "2026-05-16T02:55:07.532Z"
 };
