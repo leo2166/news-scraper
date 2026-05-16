@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "731,68"
+      "usdt": "732,65"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Detrás de la brillante fachada de la \"nueva\" Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/05/16/venezuela/detras-brillante-fachada-nueva-venezuela-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2275617886-20260516145434386.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Las deportaciones no cuentan toda la historia de la ofensiva migratoria de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/05/16/eeuu/deportaciones-historia-medidas-migratorias-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-16-121143.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "CIDH solicita liberación de detenidos y pide visita formal a Venezuela",
       "link": "https://noticiasvenevision.com/noticias/politica/cidh-solicita-liberacion-de-detenidos-y-pide-visita-formal-a-venezuela",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/la-cidh-present-sus-observaciones-en-el-caso-chirinos-salamanca-vs.-venezuela-durante-las-audi-78a659.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "KARÍN SALANOVA: «MÁS DEL 70% DE LOS HOGARES VENEZOLANOS SUFRE POBREZA DE INGRESOS»",
-      "link": "https://noticierodigital.com/2026/05/karin-salanova-mas-del-70-de-los-hogares-venezolanos-sufre-pobreza-de-ingresos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/karin_salanova_11mar2020.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +39,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump presiona a Irán: “Lo van a pasar muy mal si no hay acuerdo de paz”",
-      "link": "https://diarioversionfinal.com/mundo/trump-presiona-a-iran-lo-van-a-pasar-muy-mal-si-no-hay-acuerdo-de-paz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-29-04-2026-750x430.jpg"
+      "title": "Tensión en Bolivia: seguidores de Evo Morales toman aeropuerto de Chimoré para evitar su detención",
+      "link": "https://diarioversionfinal.com/mundo/tension-en-bolivia-seguidores-de-evo-morales-toman-aeropuerto-de-chimore-para-evitar-su-detencion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-5.23.40-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-16T20:48:44.831Z"
+  "lastUpdate": "2026-05-16T21:50:26.817Z"
 };
