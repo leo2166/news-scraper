@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "727,57"
+      "usdt": "729,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Funcionarios sospechan que Irán vulneró sistemas de gasolineras de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/05/15/eeuu/exclusivo-hackers-lectores-gasolineras-sospechan-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-15-135501.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El portaviones más grande de EE.UU. regresa a casa tras su despliegue en la guerra de Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/16/eeuu/portaaviones-estadounidense-regresa-despliegue-record-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9595354-20260516094920754.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Bloqueos-Bolivia-15-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-16T10:16:08.357Z"
+  "lastUpdate": "2026-05-16T11:51:21.578Z"
 };
