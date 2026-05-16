@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Incendio en la planta de gas de PDVSA en Venezuela: seis heridos y la petrolera investiga las causas",
-      "link": "https://www.infobae.com/venezuela/2026/05/15/incendio-en-la-planta-de-gas-de-pdvsa-en-venezuela-seis-heridos-y-la-petrolera-investiga-las-causas/",
-      "image": "https://www.infobae.com/resizer/v2/VS24ZNXM7FEPZKXVMOB7B4UPLE.jpg?auth=b5531de59a09ea1d8e4db1c1ae2ffe6d181056607b2100236b7d26bcdaa0dc7a&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez se reunió con una delegación del Banco Mundial en busca de inversiones internacionales para Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/16/delcy-rodriguez-se-reunio-con-una-delegacion-del-banco-mundial-en-busca-de-inversiones-internacionales-para-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/G23MBTSOAVDTNGKKRK2BZGTCK4.jpg?auth=420c3378ae12f4aaad9f9ecc1b7d122e43906e1d99bf1966c5fb0cbf44fa0c3d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA VINOTINTO CLASIFICÓ AL MUNDIAL FEMENINO SUB-17 TRAS VENCER A COLOMBIA",
-      "link": "https://noticierodigital.com/2026/05/la-vinotinto-clasifico-al-mundial-femenino-sub-17-tras-vencer-a-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/venezuela-la-vinotinto-futbol-627x376.jpg"
+      "title": "CIDH EXIGIÓ LIBERAR A TODOS LOS PRESOS POLÍTICOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/cidh-exigio-liberar-a-todos-los-presos-politicos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/cidh.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Bloqueos-Bolivia-15-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-16T05:55:42.467Z"
+  "lastUpdate": "2026-05-16T08:05:59.059Z"
 };
