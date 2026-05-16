@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "723,23"
+      "usdt": "724,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El portaviones más grande de EE.UU. regresa a casa tras su despliegue en la guerra de Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/16/eeuu/portaaviones-estadounidense-regresa-despliegue-record-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9595354-20260516094920754.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump regresa de China sin ningún avance sobre Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/16/mundo/trump-regresa-china-ningun-avance-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2275858582-20260516085916983.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CIDH EXIGIÓ LIBERAR A TODOS LOS PRESOS POLÍTICOS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/cidh-exigio-liberar-a-todos-los-presos-politicos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/cidh.jpg"
+      "title": "JUAN PABLO GUANIPA PIDIÓ A TRUMP «PONER EN LA PRESIDENCIA» A MARÍA CORINA MACHADO",
+      "link": "https://noticierodigital.com/2026/05/juan-pablo-guanipa-pidio-a-trump-poner-en-la-presidencia-a-maria-corina-machado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/juan-pablo-guanipa-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia la muerte de un alto líder del Estado Islámico en Nigeria",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-la-muerte-de-un-alto-lider-del-estado-islamico-en-nigeria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/26int-nigeria-assess-qcph-videoSixteenByNineJumbo1600-750x430.jpg"
+      "title": "El papa León XIV aprueba creación de comisión vaticana sobre inteligencia artificial",
+      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-aprueba-creacion-de-comision-vaticana-sobre-inteligencia-artificial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-10.50.41-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-16T13:23:01.566Z"
+  "lastUpdate": "2026-05-16T14:56:28.701Z"
 };
