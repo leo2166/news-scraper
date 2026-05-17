@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Alex Saab arribó a un aeropuerto de Miami tras ser deportado de Venezuela: fue escoltado por agentes de la DEA",
-      "link": "https://www.infobae.com/venezuela/2026/05/17/alex-saab-arribo-a-un-aeropuerto-de-miami-tras-ser-deportado-de-venezuela-fue-escoltado-por-la-agentes-de-la-dea/",
-      "image": "https://www.infobae.com/resizer/v2/PP4HSRU43VDAZJ2FRELDVF5F3A.jpg?auth=b64b2858cb2b27b94582dc3328f531f84c1866b0cefc8b41c7f2bd258b4cde1d&smart=true&width=350&height=197&quality=85"
+      "title": "Nancy Guerrero, directora de MSF para Sudamérica: “En América Latina la principal epidemia es la violencia”",
+      "link": "https://www.infobae.com/america/america-latina/2026/05/17/nancy-guerrero-directora-de-msf-para-sudamerica-en-america-latina-la-principal-epidemia-es-la-violencia/",
+      "image": "https://www.infobae.com/resizer/v2/ZJOR7Z22UFHO7HX5ZBKUQG36KI.JPG?auth=beb7df34ff7f108c7dd0eb38ac87c3dc913cc5feea4711a1b679d62e35ac1438&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-5.23.40-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-17T06:44:19.412Z"
+  "lastUpdate": "2026-05-17T09:05:24.605Z"
 };
