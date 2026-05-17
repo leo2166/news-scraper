@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "731,57"
+      "usdt": "731,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela deporta a EE.UU. al empresario Alex Saab",
-      "link": "https://cnnespanol.cnn.com/2026/05/16/venezuela/empresario-alex-saab-deportado-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2275617886-20260516145434386.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Irán busca nueva fuente de energía en profundidades del estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/05/17/mundo/iran-energia-cables-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-12-144717.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-5.23.40-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-17T09:05:24.605Z"
+  "lastUpdate": "2026-05-17T11:06:41.728Z"
 };
