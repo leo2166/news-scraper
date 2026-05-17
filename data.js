@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "741,15"
+      "usdt": "740,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Arturo Peraza S.J.: \"La democracia no funciona en sociedades en donde no hay acuerdos de base\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/arturo-peraza-sj-la-democracia-no-funciona-en-sociedades-en-donde-no-hay-acuerdos-de-base",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3068.jpg-f741db.jpeg"
+      "title": "TSA avanza en la conectividad aérea entre ciudades de Venezuela y Estados Unidos",
+      "link": "https://noticiasvenevision.com/noticias/politica/tsa-avanza-en-la-conectividad-aerea-entre-ciudades-de-venezuela-y-estados-unidos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/embajada-de-ee.-uu-en-caracas-5d0f4f.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/2241213817-GI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-17T22:54:40.070Z"
+  "lastUpdate": "2026-05-17T23:58:11.974Z"
 };
