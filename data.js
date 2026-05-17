@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "731,50"
+      "usdt": "734,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Nancy Guerrero, directora de MSF para Sudamérica: “En América Latina la principal epidemia es la violencia”",
-      "link": "https://www.infobae.com/america/america-latina/2026/05/17/nancy-guerrero-directora-de-msf-para-sudamerica-en-america-latina-la-principal-epidemia-es-la-violencia/",
-      "image": "https://www.infobae.com/resizer/v2/ZJOR7Z22UFHO7HX5ZBKUQG36KI.JPG?auth=beb7df34ff7f108c7dd0eb38ac87c3dc913cc5feea4711a1b679d62e35ac1438&smart=true&width=350&height=197&quality=85"
+      "title": "Salida negociada: internacionalista propone explotar conjuntamente el Esequibo para evitar una escalada entre Venezuela y Guyana",
+      "link": "https://www.infobae.com/venezuela/2026/05/17/salida-negociada-internacionalista-propone-explotar-conjuntamente-el-esequibo-para-evitar-una-escalada-entre-venezuela-y-guyana/",
+      "image": "https://www.infobae.com/resizer/v2/GDIJY6PHVJB4TJWBCB2U6I7RGY.jpg?auth=3fd5673c006e8c5b644b59cf2cb5c3b69b5dc6d912c51ff1f9ff60119f9bc91a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TAREK WILLIAM SAAB ANUNCIÓ ENCUENTRO COMUNAL DE LA GRAN MISIÓN VIVA VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/tarek-william-saab-anuncio-encuentro-comunal-de-la-gran-mision-viva-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/tarek-william-saab-1-627x376.jpg"
+      "title": "VENEZUELA Y SURINAM ANUNCIAN CONEXIÓN AÉREA TRAS REUNIÓN PRESIDENCIAL",
+      "link": "https://noticierodigital.com/2026/05/venezuela-y-surinam-anuncian-conexion-aerea-tras-reunion-presidencial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Venezuela_Surinam-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tensión en Bolivia: seguidores de Evo Morales toman aeropuerto de Chimoré para evitar su detención",
-      "link": "https://diarioversionfinal.com/mundo/tension-en-bolivia-seguidores-de-evo-morales-toman-aeropuerto-de-chimore-para-evitar-su-detencion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-5.23.40-PM-750x430.jpeg"
+      "title": "La OMS declara emergencia de salud internacional por epidemia de ébola en el Congo y Uganda",
+      "link": "https://diarioversionfinal.com/mundo/la-oms-declara-emergencia-de-salud-internacional-por-epidemia-de-ebola-en-el-congo-y-uganda/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-17-at-8.53.58-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-17T11:06:41.728Z"
+  "lastUpdate": "2026-05-17T13:21:11.060Z"
 };
