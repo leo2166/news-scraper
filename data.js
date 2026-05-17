@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "750,11"
+      "usdt": "741,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo una oficina británica terminó en el centro de la guerra con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/17/mundo/iran-golfo-persico-barcos-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/uk-1.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump vuelve a lanzar amenaza contra Irán: “No quedará nada”",
+      "link": "https://cnnespanol.cnn.com/2026/05/17/mundo/trump-advertencia-iran-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276409200-20260517203053676.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/2241213817-GI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-17T21:55:33.507Z"
+  "lastUpdate": "2026-05-17T22:54:40.070Z"
 };
