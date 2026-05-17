@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "730,00"
+      "usdt": "731,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Quién es Alex Saab, el máximo aliado y testaferro colombiano de Nicolás Maduro que Venezuela deportó a Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/05/17/quien-es-alex-saab-el-maximo-aliado-y-testaferro-colombiano-de-nicolas-maduro-que-venezuela-deporto-a-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/EAWZBJFUQ2MVCUESFWTKVZW5TY.jpg?auth=6acd473820272041f85c2acd14a6f772a4890af7788fec2f2c78249004719987&smart=true&width=350&height=197&quality=85"
+      "title": "Alex Saab arribó a un aeropuerto de Miami tras ser deportado de Venezuela: fue escoltado por agentes de la DEA",
+      "link": "https://www.infobae.com/venezuela/2026/05/17/alex-saab-arribo-a-un-aeropuerto-de-miami-tras-ser-deportado-de-venezuela-fue-escoltado-por-la-agentes-de-la-dea/",
+      "image": "https://www.infobae.com/resizer/v2/PP4HSRU43VDAZJ2FRELDVF5F3A.jpg?auth=b64b2858cb2b27b94582dc3328f531f84c1866b0cefc8b41c7f2bd258b4cde1d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela confirma la deportación de Alex Saab",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-informo-la-deportacion-de-alex-saab",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/alex_saab-750x375-4fdf0f.jpg"
+      "title": "Gobierno Nacional sostiene encuentro estratégico con el Canciller de Surinam",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-sostiene-encuentro-estrategico-con-el-canciller-de-surinam",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-y-el-canciller-de-surinam-melvin-bouva-60935-625290.png"
     },
     {
       "source": "Noticiero Digital",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-5.23.40-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-17T03:29:25.266Z"
+  "lastUpdate": "2026-05-17T06:44:19.412Z"
 };
