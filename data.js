@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "714,98"
+      "usdt": "750,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump vuelve a lanzar amenaza contra Irán: “No quedará nada”",
-      "link": "https://cnnespanol.cnn.com/2026/05/17/mundo/trump-advertencia-iran-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276409200-20260517203053676.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Armas en la televisión y en las calles de Irán mientras Trump renueva las amenazas",
+      "link": "https://cnnespanol.cnn.com/2026/05/18/mundo/armas-television-iran-trump-amenazas-guerra-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276409200-20260517203053676.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/2241213817-GI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-18T08:43:52.857Z"
+  "lastUpdate": "2026-05-18T12:30:56.817Z"
 };
