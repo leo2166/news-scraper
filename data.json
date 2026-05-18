@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "755,05"
+      "usdt": "724,64"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "El costo humano de la prisión política en Venezuela también se mide en madres muertas",
-      "link": "https://www.infobae.com/venezuela/2026/05/18/el-costo-humano-de-la-prision-politica-en-venezuela-tambien-se-mide-en-madres-muertas/",
-      "image": "https://www.infobae.com/resizer/v2/4LJUKAKQ6JH6HACGRBI573B32U.JPG?auth=fbcb90ed07652f0351f0ac8e5f6edf0a02b9790d0d65bfc73046e77f4c6c363d&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos presentó nuevos cargos por lavado de dinero contra Álex Saab tras su deportación desde Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/05/18/estados-unidos-presento-nuevos-cargos-por-lavado-de-dinero-contra-alex-saab-tras-su-deportacion-desde-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/PP4HSRU43VDAZJ2FRELDVF5F3A.jpg?auth=b64b2858cb2b27b94582dc3328f531f84c1866b0cefc8b41c7f2bd258b4cde1d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ALEX SAAB COMPARECERÁ EN UN TRIBUNAL EN MIAMI TRAS SER EXTRADITADO DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/alex-saab-comparecera-en-un-tribunal-en-miami-tras-ser-extraditado-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/12/alexsaab-dea.jpg"
+      "title": "EE. UU. ACUSÓ NUEVAMENTE A ALEX SAAB POR LAVADO DE DINERO Y OTROS CARGOS",
+      "link": "https://noticierodigital.com/2026/05/ee-uu-acuso-nuevamente-a-alex-saab-por-lavado-de-dinero-y-otros-cargos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/nicolas-maduro-alex-saab-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Aeroméxico anuncia su regreso a Venezuela tras casi una década",
-      "link": "https://diarioversionfinal.com/mundo/aeromexico-anuncia-su-regreso-a-venezuela-tras-casi-una-decada/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/23_aeromexico_getty-750x430.jpg"
+      "title": "Trump pospone ataque a Irán mientras continúan negociaciones con países del Golfo",
+      "link": "https://diarioversionfinal.com/mundo/trump-pospone-ataque-a-iran-mientras-continuan-negociaciones-con-paises-del-golfo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/gettyimages-2275858730-612x612-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-18T20:24:51.222Z"
+  "lastUpdate": "2026-05-18T22:03:18.475Z"
 }
