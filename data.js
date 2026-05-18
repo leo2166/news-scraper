@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "740,00"
+      "usdt": "749,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Infobae",
-      "title": "Juan Pablo Guanipa: “Alex Saab es un criminal que hizo su fortuna a costa del hambre de los venezolanos”",
-      "link": "https://www.infobae.com/venezuela/2026/05/17/juan-pablo-guanipa-alex-saab-es-un-criminal-que-hizo-su-fortuna-a-costa-del-hambre-de-los-venezolanos/",
-      "image": "https://www.infobae.com/resizer/v2/UFXXRHB5V5BJ3JKYAD5ZX4ES4A.jpg?auth=4377efaf05c325a50c9e129fce6525604f7e4a89427555b7ec6154dc192da57d&smart=true&width=350&height=197&quality=85"
+      "title": "Murió Carmen Navas, la madre que buscó durante meses a su hijo preso político fallecido bajo custodia del chavismo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/18/murio-carmen-navas-la-madre-que-busco-durante-meses-a-su-hijo-preso-politico-fallecido-bajo-custodia-del-chavismo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/5ICHZZTG4JG6TDFCOYLD2L6WGY.jpg?auth=ba2f23cf5b8235d195acebdc79669d5b5cc6f911f1c76478f1418cc36553694c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP ADVIERTE: «NO QUEDARÁ NADA» SI IRÁN NO ACEPTA ACUERDO",
-      "link": "https://noticierodigital.com/2026/05/trump-advierte-no-quedara-nada-si-iran-no-acepta-acuerdo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/donald-trump-ven-627x376.jpg"
+      "title": "FALLECIÓ LA MADRE DE VÍCTOR HUGO QUERO",
+      "link": "https://noticierodigital.com/2026/05/fallecio-la-madre-de-victor-hugo-quero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/victor-hugo-quero-carmen-navas-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -50,5 +50,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/2241213817-GI-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-17T23:58:11.974Z"
+  "lastUpdate": "2026-05-18T04:20:09.068Z"
 };
