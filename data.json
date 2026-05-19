@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "736,97"
+      "usdt": "744,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@
   "news": [
     {
       "source": "Infobae",
-      "title": "La Iglesia Católica de Venezuela exhortó a liberar a los presos políticos para retomar la convivencia",
-      "link": "https://www.infobae.com/venezuela/2026/05/19/la-iglesia-catolica-de-venezuela-exhorto-a-liberar-a-los-presos-politicos-para-retomar-la-convivencia/",
-      "image": "https://www.infobae.com/resizer/v2/SZNRGG5DVNEX7CGTW76K6HO2X4.jpg?auth=1ff4883561fbb90877803d62a4c76c8822162bf1599839463d0d74b198839dd5&smart=true&width=350&height=197&quality=85"
+      "title": "La canasta alimentaria de las familias venezolanas aumentó un 5,5% en abril",
+      "link": "https://www.infobae.com/venezuela/2026/05/19/la-canasta-alimentaria-de-una-familia-venezolana-aumento-un-55-en-abril/",
+      "image": "https://www.infobae.com/resizer/v2/GMVPTJ7UGLNFFX5BCNL75DLSP4.jpg?auth=8928b0f10bf90fea0de76c1095e8790c87e373f6cef40db82c0b33a0e804f144&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump pierde el control sobre su grupo demográfico más importante",
-      "link": "https://cnnespanol.cnn.com/2026/05/19/eeuu/trump-pierde-control-grupo-demografico-importante-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2276427595-20260519044251089.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Trump dice que pospondrá el ataque a Irán \"quizás hasta la próxima semana\"",
+      "link": "https://cnnespanol.cnn.com/2026/05/19/mundo/trump-limite-ataques-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-09t192706z-1821657245-rc2u5lami6gi-rtrmadp-3-ww2-anniversary-putin-20260519053548856.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comunicado: Presidencia de la República lamenta el fallecimiento de Carmen Teresa Navas",
-      "link": "https://noticiasvenevision.com/noticias/politica/comunicado-presidencia-de-la-republica-lamenta-el-fallecimiento-de-carmen-teresa-navas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comunicado-768x351.jpg-8b681e.webp"
+      "title": "Merys Torres de Sequea, de 71 años, es excarcelada tras ocho meses de reclusión en el INOF",
+      "link": "https://noticiasvenevision.com/noticias/politica/merys-torres-de-sequea-de-71-anos-es-excarcelada-tras-ocho-meses-de-reclusion-en-el-inof",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-1-fb3f8f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ABOGADO DENUNCIÓ ANTE LA CPI EL CASO DE VÍCTOR HUGO QUERO NAVAS",
-      "link": "https://noticierodigital.com/2026/05/abogado-denuncio-ante-la-cpi-el-caso-de-victor-hugo-quero-navas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/victor-hugo-quero-navas-627x376.jpg"
+      "title": "DIOSDADO CABELLO: «EN LA MEDIDA QUE ENTRE PLATA VAMOS A SEGUIR AUMENTANDO EL INGRESO»",
+      "link": "https://noticierodigital.com/2026/05/diosdado-cabello-en-la-medida-que-entre-plata-vamos-a-seguir-aumentando-el-ingreso/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/diosdado-cabello-venezuela-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos suspenderá visados y aplicará controles aeroportuarios por el ébola",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-suspendera-visados-y-aplicara-controles-aeroportuarios-por-el-ebola/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/tsa-aeropuerto-eeuu-afp-750x430.webp"
+      "title": "Trump asegura que EE. UU. puede resolver la crisis en Cuba \"sin dificultad\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-ee-uu-puede-resolver-la-crisis-en-cuba-sin-dificultad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-19T16:20:16.508Z"
+  "lastUpdate": "2026-05-19T19:01:06.489Z"
 }
