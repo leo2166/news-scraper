@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "517,96",
-      "eur": "602,19",
-      "fechaValor": "Martes, 19 Mayo 2026"
+      "usd": "520,91",
+      "eur": "604,16",
+      "fechaValor": "Miércoles, 20 Mayo 2026"
     },
     "binance": {
-      "usdt": "744,10"
+      "usdt": "743,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIOSDADO CABELLO: «EN LA MEDIDA QUE ENTRE PLATA VAMOS A SEGUIR AUMENTANDO EL INGRESO»",
-      "link": "https://noticierodigital.com/2026/05/diosdado-cabello-en-la-medida-que-entre-plata-vamos-a-seguir-aumentando-el-ingreso/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/diosdado-cabello-venezuela-2-627x376.jpg"
+      "title": "CONSUMO DE AZÚCAR EN VENEZUELA SE UBICA ENTRE 20 Y 25 KILOS PER CÁPITA AL AÑO",
+      "link": "https://noticierodigital.com/2026/05/consumo-de-azucar-en-venezuela-se-ubica-entre-20-y-25-kilos-per-capita-al-ano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/02/azucar-perdida-14feb2023.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que EE. UU. puede resolver la crisis en Cuba \"sin dificultad\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-ee-uu-puede-resolver-la-crisis-en-cuba-sin-dificultad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
+      "title": "Zapatero también salta en el escándalo del CLAP: ¿Jugó con el hambre de los venezolanos?",
+      "link": "https://diarioversionfinal.com/mundo/zapatero-tambien-salta-en-el-escandalo-del-clap-jugo-con-el-hambre-de-los-venezolanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-4.02.54-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-19T19:01:06.489Z"
+  "lastUpdate": "2026-05-19T21:19:32.699Z"
 };
