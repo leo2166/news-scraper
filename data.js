@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "724,64"
+      "usdt": "760,85"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Díaz-Canel advierte sobre “baño de sangre” si EE.UU. actúa contra Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/05/18/latinoamerica/diaz-canel-amenaza-eeuu-cuba-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2016-07-30t120000z-1034143215-s1betsltvdaa-rtrmadp-3-usa-cuba.JPG?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Tres muertos tras tiroteo en la mayor mezquita de San Diego",
+      "link": "https://cnnespanol.cnn.com/2026/05/18/eeuu/live-news/tiroteo-centro-islamico-san-diego-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2275802281-20260518212458767.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "APUCV denuncia caos en el pago del Bono de Responsabilidad Profesional y exige diálogo",
-      "link": "https://noticiasvenevision.com/noticias/politica/apucv-denuncia-caos-en-el-pago-del-bono-de-responsabilidad-profesional-y-exige-dialogo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jose-gregorio-afonso-2009ab-e5375d.jpeg"
+      "title": "Alex Saab comparece ante corte de Miami tras deportación desde Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/alex-saab-comparece-ante-corte-de-miami-tras-deportacion-desde-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5793017851688980138_y-2bc9f7.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. ACUSÓ NUEVAMENTE A ALEX SAAB POR LAVADO DE DINERO Y OTROS CARGOS",
-      "link": "https://noticierodigital.com/2026/05/ee-uu-acuso-nuevamente-a-alex-saab-por-lavado-de-dinero-y-otros-cargos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/nicolas-maduro-alex-saab-627x376.jpg"
+      "title": "AEROMÉXICO EVALÚA RETOMAR VUELOS DIRECTOS ENTRE CIUDAD DE MÉXICO Y CARACAS",
+      "link": "https://noticierodigital.com/2026/05/aeromexico-evalua-retomar-vuelos-directos-entre-ciudad-de-mexico-y-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/aeromexico-mexico-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump pospone ataque a Irán mientras continúan negociaciones con países del Golfo",
-      "link": "https://diarioversionfinal.com/mundo/trump-pospone-ataque-a-iran-mientras-continuan-negociaciones-con-paises-del-golfo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/gettyimages-2275858730-612x612-1-750x430.jpg"
+      "title": "Protestas en La Paz dejan heridos y saqueos a instituciones públicas, denuncia gobierno boliviano",
+      "link": "https://diarioversionfinal.com/mundo/protestas-en-la-paz-dejan-heridos-y-saqueos-a-instituciones-publicas-denuncia-gobierno-boliviano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Protestas-Bolivia-18-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-18T22:03:18.475Z"
+  "lastUpdate": "2026-05-19T00:06:35.742Z"
 };
