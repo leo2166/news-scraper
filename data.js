@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 19 Mayo 2026"
     },
     "binance": {
-      "usdt": "759,71"
+      "usdt": "760,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -23,7 +23,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Tres muertos tras tiroteo en la mayor mezquita de San Diego",
       "link": "https://cnnespanol.cnn.com/2026/05/18/eeuu/live-news/tiroteo-centro-islamico-san-diego-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1948402848-20260518211353282.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2276427595-20260519044251089.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Protestas en La Paz dejan heridos y saqueos a instituciones públicas, denuncia gobierno boliviano",
-      "link": "https://diarioversionfinal.com/mundo/protestas-en-la-paz-dejan-heridos-y-saqueos-a-instituciones-publicas-denuncia-gobierno-boliviano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Protestas-Bolivia-18-05-2026-750x430.png"
+      "title": "Zapatero es el primer presidente de Gobierno español imputado en democracia: El escándalo Plus Ultra y Venezuela le estallaron en la cara",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/zapatero-es-el-primer-presidente-de-gobierno-espanol-imputado-en-democracia-el-escandalo-plus-ultra-y-venezuela-le-estallaron-en-la-cara/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/823424-158790-zapatero-202021-20afp_0-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-19T05:00:56.233Z"
+  "lastUpdate": "2026-05-19T09:42:50.459Z"
 };
