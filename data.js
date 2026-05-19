@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "496,83",
-      "eur": "583,87",
-      "fechaValor": "Jueves, 07 Mayo 2026"
+      "usd": "520,91",
+      "eur": "604,16",
+      "fechaValor": "Miércoles, 20 Mayo 2026"
     },
     "binance": {
-      "usdt": "686,58"
+      "usdt": "743,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -14,47 +14,47 @@ window.DASHBOARD_DATA = {
   },
   "news": [
     {
+      "source": "Banca y Negocios",
+      "title": "Advierten que grandes importaciones de maíz desde EE.UU. y Brasil afectan comercialización de producción nacional",
+      "link": "https://www.bancaynegocios.com/advierten-que-grandes-importaciones-de-maiz-desde-ee-uu-y-brasil-afectan-comercializacion-de-produccion-nacional/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/MAIZ-VENEZUELA-COSECHA.jpg"
+    },
+    {
       "source": "Infobae",
-      "title": "El hotel en Caracas que se convirtió en centro de poder tras la caída de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/05/06/el-hotel-en-caracas-que-se-convirtio-en-centro-de-poder-tras-la-caida-de-maduro-donde-se-reunen-diplomaticos-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/HYG2AZ4WUJB6ZEJMR6LOUXYFSM.PNG?auth=0a2d7522a6e88bea1bcf2366408786733436e2f8984535caa1896bd37dd74ff1&smart=true&width=350&height=197&quality=85"
+      "title": "La canasta alimentaria de las familias venezolanas aumentó un 5,5% en abril",
+      "link": "https://www.infobae.com/venezuela/2026/05/19/la-canasta-alimentaria-de-una-familia-venezolana-aumento-un-55-en-abril/",
+      "image": "https://www.infobae.com/resizer/v2/GMVPTJ7UGLNFFX5BCNL75DLSP4.jpg?auth=8928b0f10bf90fea0de76c1095e8790c87e373f6cef40db82c0b33a0e804f144&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Muere Ted Turner, fundador de CNN, a los 87 años",
-      "link": "https://cnnespanol.cnn.com/2026/05/06/eeuu/muere-ted-turner-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ted-turner-2011-gettyimages-112544025.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Trump dice que pospondrá el ataque a Irán \"quizás hasta la próxima semana\"",
+      "link": "https://cnnespanol.cnn.com/2026/05/19/mundo/trump-limite-ataques-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-09t192706z-1821657245-rc2u5lami6gi-rtrmadp-3-ww2-anniversary-putin-20260519053548856.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Pedro Infante anuncia avances en la conformación del Comité de Postulaciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/pedro-infante-anuncia-avances-en-la-conformacion-del-comite-de-postulaciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diputado-pedro-infante-anuncia-nacimiento-de-la-liga-parlamentaria-mundial-antifacista-20241107210405-002db6.jpg"
+      "title": "Merys Torres de Sequea, de 71 años, es excarcelada tras ocho meses de reclusión en el INOF",
+      "link": "https://noticiasvenevision.com/noticias/politica/merys-torres-de-sequea-de-71-anos-es-excarcelada-tras-ocho-meses-de-reclusion-en-el-inof",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-1-fb3f8f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PROVEA EXIGIÓ INDEPENDENCIA JUDICIAL EN EVENTUAL REFORMA DEL TSJ",
-      "link": "https://noticierodigital.com/2026/05/provea-exigio-independencia-judicial-en-eventual-reforma-del-tsj/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/marino-alvarado-627x376.jpg"
-    },
-    {
-      "source": "Caracol Noticias",
-      "title": "Esta es la rara variante del hantavirus: es la única confirmada que se transmite entre humanos",
-      "link": "https://www.noticiascaracol.com/salud/esta-es-la-rara-del-hantavirus-la-unica-confirmada-que-se-transmite-entre-humanos-rg10",
-      "image": "https://caracoltv.brightspotcdn.com/dims4/default/d356646/2147483647/strip/true/crop/1276x720+2+0/resize/390x220!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F76%2F5f%2Fec6aefa645d88a8471148b4787c9%2Fplantilla-fotos-2026-05-06t170814-178.jpg"
+      "title": "LIBERARÁN A 300 PRESOS POLÍTICOS, INCLUIDOS POLICÍAS METROPOLITANOS",
+      "link": "https://noticierodigital.com/2026/05/liberaran-a-300-presos-politicos-incluidos-policias-metropolitanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/asamblea-nacional-ven-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump a León XIV: “Le guste o no, Irán no puede tener un arma nuclear”",
-      "link": "https://laverdad.com/trump-a-leon-xiv-le-guste-o-no-iran-no-puede-tener-un-arma-nuclear/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Donald-Trump.jpg"
+      "title": "Trump da a Irán un ultimátum para cerrar un acuerdo nuclear en los próximos días",
+      "link": "https://laverdad.com/trump-da-a-iran-un-ultimatum-para-cerrar-un-acuerdo-nuclear-en-los-proximos-dias/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Donald-Trump-3.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. inmoviliza petrolero iraní en el golfo de Omán en medio del bloqueo naval",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-inmoviliza-petrolero-irani-en-el-golfo-de-oman-en-medio-del-bloqueo-naval/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/AA21Seez.jpg"
+      "title": "Zapatero también salta en el escándalo del CLAP: ¿Jugó con el hambre de los venezolanos?",
+      "link": "https://diarioversionfinal.com/mundo/zapatero-tambien-salta-en-el-escandalo-del-clap-jugo-con-el-hambre-de-los-venezolanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-4.02.54-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-06T22:31:46.083Z"
+  "lastUpdate": "2026-05-19T21:24:19.336Z"
 };

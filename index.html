@@ -43,7 +43,7 @@
                 <span class="source-tag tag-news"></span>
                 <span class="timestamp"></span>
             </div>
-            <img src="" alt="News Image" class="news-image">
+            <img src="" alt="News Image" class="news-image" referrerpolicy="no-referrer">
             <h3 class="news-title"></h3>
             <div class="news-footer">
                 <a href="#" target="_blank" class="read-more">Leer más →</a>
@@ -98,10 +98,15 @@
                     const clone = tmpl.content.cloneNode(true);
 
                     const card = clone.querySelector('.card');
-                    if (index === 0) card.classList.add('featured');
 
                     clone.querySelector('.source-tag').textContent = item.source;
-                    clone.querySelector('.news-image').src = item.image || 'https://via.placeholder.com/300x160?text=No+Image';
+                    
+                    let imageUrl = item.image || 'https://via.placeholder.com/300x160?text=No+Image';
+                    if (item.image && item.image.includes('bancaynegocios.com')) {
+                        imageUrl = `https://images.weserv.nl/?url=${encodeURIComponent(item.image)}`;
+                    }
+                    clone.querySelector('.news-image').src = imageUrl;
+                    
                     clone.querySelector('.news-title').textContent = item.title || 'Sin título';
                     clone.querySelector('.read-more').href = item.link;
 

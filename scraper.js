@@ -239,6 +239,31 @@ async function scrape() {
     // 3. Scrape News Portals with Lazy Load Support
     const newsSources = [
         {
+            name: 'Banca y Negocios',
+            url: 'https://www.bancaynegocios.com/category/economia/economia-nacional/',
+            fn: () => {
+                const article = document.querySelector('article');
+                if (!article) return null;
+                const titleEl = article.querySelector('.post-title a');
+                if (!titleEl) return null;
+                const title = titleEl.innerText.trim();
+                const link = titleEl.href;
+                const spanImg = article.querySelector('#post_image');
+                let image = spanImg ? spanImg.innerText.trim() : null;
+                if (!image) {
+                    const imgEl = article.querySelector('.post-thumbnail img');
+                    if (imgEl) {
+                        image = imgEl.getAttribute('data-lzysrc') || imgEl.src;
+                    }
+                }
+                if (!image) {
+                    const metaImg = document.querySelector('meta[property="og:image"]');
+                    if (metaImg) image = metaImg.content;
+                }
+                return { title, link, image };
+            }
+        },
+        {
             name: 'Infobae',
             url: 'https://www.infobae.com/venezuela/',
             fn: () => {
