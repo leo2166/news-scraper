@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela está abierta a resolución de disputas contractuales en el extranjero",
-      "link": "https://www.infobae.com/venezuela/2026/05/20/venezuela-esta-abierta-a-resolucion-de-disputas-contractuales-en-el-extranjero/",
-      "image": "https://www.infobae.com/resizer/v2/2JBYM343ENGVNAHNMO7ZIAFV5Q.JPG?auth=475f294e33df7791c93a7754db58f31f6b0717f0f89af8e8f3a197be54b80024&smart=true&width=350&height=197&quality=85"
+      "title": "El encargado de negocios EEUU en Caracas evaluó las posibles alianzas en Venezuela con inversores para avanzar en acuerdos estratégicos",
+      "link": "https://www.infobae.com/venezuela/2026/05/20/el-encargado-de-negocios-eeuu-en-caracas-evaluo-las-posibles-alianzas-en-venezuela-con-inversores-para-avanzar-en-acuerdos-estrategicos/",
+      "image": "https://www.infobae.com/resizer/v2/CBSJKXOBIZFBPJYSBINFSX2FKE.jpg?auth=a79465ae374236b5bff50348026c126d3fa700ad4436643bfcbf30e773ca5309&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Zapatero-16-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-20T03:36:11.361Z"
+  "lastUpdate": "2026-05-20T07:43:04.614Z"
 };
