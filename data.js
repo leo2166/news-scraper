@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "520,91",
-      "eur": "604,16",
-      "fechaValor": "Miércoles, 20 Mayo 2026"
+      "usd": "523,67",
+      "eur": "609,34",
+      "fechaValor": "Jueves, 21 Mayo 2026"
     },
     "binance": {
-      "usdt": "745,30"
+      "usdt": "748,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -29,7 +29,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Estados Unidos presenta cargos penales contra Raúl Castro",
       "link": "https://cnnespanol.cnn.com/2026/05/20/latinoamerica/live-news/ultima-hora-cuba-acusacion-raul-castro-en-vivo-noticias-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273419249-20260519125553386.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26135754139053-20260520202100713.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELEGACIÓN DE EMPRESARIOS DE BRASIL VIAJARÁ A CARACAS EN JUNIO PARA EVALUAR OPORTUNIDADES ",
-      "link": "https://noticierodigital.com/2026/05/delegacion-de-empresarios-de-brasil-viajara-a-caracas-en-junio-para-evaluar-oportunidades/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/gente_venezolanos_caminando_caracas_2023.jpg-1-627x376.jpeg"
+      "title": "DELCY RODRÍGUEZ ENCABEZÓ ENCUENTRO NACIONAL DE TRANSPORTISTAS EN MIRAFLORES",
+      "link": "https://noticierodigital.com/2026/05/delcy-rodriguez-encabezo-encuentro-nacional-de-transportistas-en-miraflores/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/delcy-rodriguez-venezuela-3-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. imputa al expresidente cubano Raúl Castro por asesinato",
-      "link": "https://laverdad.com/ee-uu-imputa-al-expresidente-cubano-raul-castro-por-asesinato/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Todd-Blanche.jpg"
+      "title": "Trump descarta “escalada” en Cuba y anticipa un anuncio sobre el bloqueo petrolero",
+      "link": "https://laverdad.com/trump-descarta-escalada-en-cuba-y-anticipa-un-anuncio-sobre-el-bloqueo-petrolero/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Donald-Trump-6-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump descarta una escalada con Cuba y promete anunciar medidas sobre bloqueo petrolero",
-      "link": "https://diarioversionfinal.com/mundo/trump-descarta-una-escalada-con-cuba-y-promete-anunciar-medidas-sobre-bloqueo-petrolero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-31-03-2026-750x430.jpg"
+      "title": "Díaz‑Canel califica como “acción política” la acusación de EE.UU. contra Raúl Castro",
+      "link": "https://diarioversionfinal.com/mundo/diaz-canel-califica-como-accion-politica-la-acusacion-de-ee-uu-contra-raul-castro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/07/Miguel-Diaz-Canel-Bermudez-.-Cuba-.-EFE-.-3cf49d82805bde7b76c45259dca96ce127010c88w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-20T19:25:08.884Z"
+  "lastUpdate": "2026-05-20T21:54:11.333Z"
 };
