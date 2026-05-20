@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 20 Mayo 2026"
     },
     "binance": {
-      "usdt": "734,00"
+      "usdt": "733,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Reclamaron justicia en el velatorio de Carmen Navas, madre de un preso político fallecido bajo custodia del Estado en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/19/reclamaron-justicia-en-el-velatorio-de-carmen-navas-madre-de-un-preso-politico-fallecido-bajo-custodia-del-estado-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/GVU4SYVH6RHWNAR6IVM3TJWZSA.JPG?auth=bb822eadd6e1e6e64a796dcb28bac5d42c85f7239ebee9977a77978e633f21fa&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela está abierta a resolución de disputas contractuales en el extranjero",
+      "link": "https://www.infobae.com/venezuela/2026/05/20/venezuela-esta-abierta-a-resolucion-de-disputas-contractuales-en-el-extranjero/",
+      "image": "https://www.infobae.com/resizer/v2/2JBYM343ENGVNAHNMO7ZIAFV5Q.JPG?auth=475f294e33df7791c93a7754db58f31f6b0717f0f89af8e8f3a197be54b80024&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidente de la Asamblea Nacional anuncia que 300 personas serán liberadas esta semana",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidente-de-la-asamblea-nacional-anuncia-que-300-personas-seran-liberadas-esta-semana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diputado-jorge-rodriguez-senala-relacion-de-alex-saab-con-agencias-estadounidenses-20260519212826-07c952.jpg"
+      "title": "Delcy Rodríguez lideró en Ciudad Bolívar inicio de la segunda etapa de la Gran Peregrinación Nacional",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-lidero-en-ciudad-bolivar-inicio-de-la-segunda-etapa-de-la-gran-peregrinacion-nacional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l1550-2048x1590-f5381e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUD SE REUNIRÁ CON MARÍA CORINA MACHADO EN PANAMÁ",
-      "link": "https://noticierodigital.com/2026/05/pud-se-reunira-con-maria-corina-machado-en-panama/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/plataforma-unitaria-p-1-627x376.jpg"
+      "title": "OVP DENUNCIÓ OTRA MUERTE BAJO CUSTODIA EN TOCUYITO Y ELEVÓ CIFRA A 17",
+      "link": "https://noticierodigital.com/2026/05/ovp-denuncio-otra-muerte-bajo-custodia-en-tocuyito-y-elevo-cifra-a-17/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/07/carcel_tocuyito_carabobo_24jul2020.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zapatero también salta en el escándalo del CLAP: ¿Jugó con el hambre de los venezolanos?",
-      "link": "https://diarioversionfinal.com/mundo/zapatero-tambien-salta-en-el-escandalo-del-clap-jugo-con-el-hambre-de-los-venezolanos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-4.02.54-PM-750x430.jpeg"
+      "title": "Udef sitúa a familia chavista Amaro Chacón como pagadores de comisiones a red de Zapatero",
+      "link": "https://diarioversionfinal.com/mundo/udef-situa-a-familia-chavista-amaro-chacon-como-pagadores-de-comisiones-a-red-de-zapatero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Zapatero-16-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-19T23:01:48.007Z"
+  "lastUpdate": "2026-05-20T03:36:11.361Z"
 };
