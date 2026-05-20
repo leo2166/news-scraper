@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 21 Mayo 2026"
     },
     "binance": {
-      "usdt": "748,50"
+      "usdt": "748,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inversores ven reestructuración de deuda como \"primer paso\" para retomar el contacto comercial y financiero de Venezuela",
-      "link": "https://www.bancaynegocios.com/inversores-ven-reestructuracion-de-deuda-como-primer-paso-para-retomar-el-contacto-comercial-y-financiero-de-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/02/DolaresIngresosSalarios.jpg"
+      "title": "En 2026 el consumidor venezolano es pragmático y valora atributos de calidad, indica experto",
+      "link": "https://www.bancaynegocios.com/en-2026-el-consumidor-venezolano-es-pragmatico-y-valora-atributos-de-calidad-indica-experto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2018/06/mercado-compras-alimentos-e1654538713223.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Estados Unidos presenta cargos penales contra Raúl Castro",
+      "title": "Trump dice que \"muy pronto\" habrá un anuncio sobre el embargo a Cuba",
       "link": "https://cnnespanol.cnn.com/2026/05/20/latinoamerica/live-news/ultima-hora-cuba-acusacion-raul-castro-en-vivo-noticias-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26135754139053-20260520202100713.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277328170-20260520193419797.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria define en Panamá, próximas líneas de acción política en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-define-en-panama-proximas-lineas-de-accion-politica-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/pud-4b56a5.webp"
+      "title": "Comité de Postulaciones Judiciales aprobó cronograma para seleccionar autoridades",
+      "link": "https://noticiasvenevision.com/noticias/politica/comite-de-postulaciones-judiciales-aprobo-cronograma-para-seleccionar-autoridades",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5795204707302182585_x-631029.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ENCABEZÓ ENCUENTRO NACIONAL DE TRANSPORTISTAS EN MIRAFLORES",
-      "link": "https://noticierodigital.com/2026/05/delcy-rodriguez-encabezo-encuentro-nacional-de-transportistas-en-miraflores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/delcy-rodriguez-venezuela-3-627x376.jpg"
+      "title": "VENEZUELA Y CATAR EVALUARON ALIANZAS EN TRANSPORTE AÉREO Y MARÍTIMO",
+      "link": "https://noticierodigital.com/2026/05/venezuela-y-catar-evaluaron-alianzas-en-transporte-aereo-y-maritimo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/venezuela-catar-jacqueline-faria-Salman-Nabit-Mubarak-Abdullah-Al-Khulaifi-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Díaz‑Canel califica como “acción política” la acusación de EE.UU. contra Raúl Castro",
-      "link": "https://diarioversionfinal.com/mundo/diaz-canel-califica-como-accion-politica-la-acusacion-de-ee-uu-contra-raul-castro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/07/Miguel-Diaz-Canel-Bermudez-.-Cuba-.-EFE-.-3cf49d82805bde7b76c45259dca96ce127010c88w-750x430.jpg"
+      "title": "Trump se niega a decir si EE. UU. capturaría a Raúl Castro como lo hizo con Maduro",
+      "link": "https://diarioversionfinal.com/mundo/trump-se-niega-a-decir-si-ee-uu-capturaria-a-raul-castro-como-lo-hizo-con-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-06-at-2.21.51-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-20T21:54:11.333Z"
+  "lastUpdate": "2026-05-20T23:13:51.297Z"
 };
