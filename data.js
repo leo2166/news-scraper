@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 20 Mayo 2026"
     },
     "binance": {
-      "usdt": "694,00"
+      "usdt": "711,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo se gestó en EE.UU. el proceso por el que Raúl Castro sería acusado",
-      "link": "https://cnnespanol.cnn.com/2026/05/20/mundo/tres-decadas-gestandose-proceso-raul-castro-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26135754139053-20260520043813728.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. alista acusación contra Raúl Castro y Cuba homenajea a Fidel",
+      "link": "https://cnnespanol.cnn.com/2026/05/20/latinoamerica/eeuu-alista-acusacion-raul-castro-cuba-rechaza-injerencias-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2255942405.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OVP DENUNCIÓ OTRA MUERTE BAJO CUSTODIA EN TOCUYITO Y ELEVÓ CIFRA A 17",
-      "link": "https://noticierodigital.com/2026/05/ovp-denuncio-otra-muerte-bajo-custodia-en-tocuyito-y-elevo-cifra-a-17/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/07/carcel_tocuyito_carabobo_24jul2020.jpg"
+      "title": "PEDRO SÁNCHEZ ENVÍA «TODO SU APOYO» A ZAPATERO POR SER IMPUTADO EN EL CASO PLUS ULTRA",
+      "link": "https://noticierodigital.com/2026/05/pedro-sanchez-envia-todo-su-apoyo-a-zapatero-por-ser-imputado-en-el-caso-plus-ultra/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/pedro-sanchez-25oct2020-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump da a Irán un ultimátum para cerrar un acuerdo nuclear en los próximos días",
-      "link": "https://laverdad.com/trump-da-a-iran-un-ultimatum-para-cerrar-un-acuerdo-nuclear-en-los-proximos-dias/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Donald-Trump-3.jpg"
+      "title": "Colombia tramitará con Venezuela extradición de implicados en crimen de Yulixa Toloza",
+      "link": "https://laverdad.com/colombia-tramitara-con-venezuela-extradicion-de-implicados-en-crimen-de-yulixa-toloza/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Detenidos-Yulixa-Toloza.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Pedro Sánchez: \"Todo el respeto a la presunción de inocencia y todo mi apoyo a Zapatero\"",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/pedro-sanchez-todo-el-respeto-a-la-presuncion-de-inocencia-y-todo-mi-apoyo-a-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/AVlcmDkf-image-750x430.jpg"
+      "title": "Colombia pedirá a Venezuela la extradición de implicados en caso Yulixa Toloza",
+      "link": "https://diarioversionfinal.com/mundo/colombia-pedira-a-venezuela-la-extradicion-de-implicados-en-caso-yulixa-toloza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/w1200h800-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-20T10:50:23.561Z"
+  "lastUpdate": "2026-05-20T13:38:35.992Z"
 };
