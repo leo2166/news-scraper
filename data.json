@@ -15,14 +15,14 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Calixto Ortega: Venezuela está abierta más que nunca a los negocios",
-      "link": "https://www.bancaynegocios.com/calixto-ortega-venezuela-esta-abierta-mas-que-nunca-a-los-negocios/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/calixto_ortega_sanchez.webp"
+      "title": "Ventas de neumáticos incrementaron hasta 35% impulsadas por plataformas de financiamiento",
+      "link": "https://www.bancaynegocios.com/ventas-de-neumaticos-incrementaron-hasta-35-porciento-impulsadas-por-plataformas-de-financiamiento/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/10/CAUCHOS-VENEZUELA.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Familias marcharon en silencio en Caracas para pedir justicia por la muerte de presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/05/21/familias-marcharon-en-silencio-en-caracas-para-pedir-justicia-por-la-muerte-de-presos-politicos/",
+      "title": "Maquinaria de represión y fichas de cambio: por qué el chavismo no libera a todos los presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/05/21/maquinaria-de-represion-y-fichas-de-cambio-por-que-el-chavismo-no-libera-a-todos-los-presos-politicos/",
       "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
     },
     {
@@ -33,22 +33,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Lester Toledo regresa a Venezuela tras 10 años en el exilio",
-      "link": "https://noticiasvenevision.com/noticias/politica/lester-toledo-regresa-a-venezuela-tras-10-anos-en-el-exilio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_1689-8e382a.jpeg"
+      "title": "Delcy Rodríguez viajará a la India en busca de acuerdos petroleros, afirmó Marco Rubio",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-viajara-a-la-india-en-busca-de-acuerdos-petroleros-afirmo-marco-rubio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-india-acuerdos-petroleros-1-6b16b7.webp"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "Hotel Cayena se convierte en el centro de los inversionistas interesados en Venezuela",
+      "link": "https://noticierodigital.com/2026/05/hotel-cayena-se-convierte-en-el-centro-de-los-inversionistas-interesados-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-3-3-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "China pide a EE. UU. dejar de usar el “garrote judicial” contra Cuba",
-      "link": "https://laverdad.com/china-pide-a-ee-uu-dejar-de-usar-el-garrote-judicial-contra-cuba/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Guo-Jiakun.jpg"
+      "title": "Juez bloquea 490.780 euros de las cuentas de Zapatero",
+      "link": "https://laverdad.com/juez-bloquea-490-780-euros-de-las-cuentas-de-zapatero/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Zapatero.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rick Scott denuncia el asesinato de Víctor Quero: \"Toda persona responsable rendirá cuentas\"",
-      "link": "https://diarioversionfinal.com/mundo/rick-scott-denuncia-el-asesinato-de-victor-quero-toda-persona-responsable-rendira-cuentas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-21-at-1.39.19-PM-750x430.jpeg"
+      "title": "Presidente de Panamá recibirá a María Corina Machado para abordar transición democrática venezolana",
+      "link": "https://diarioversionfinal.com/mundo/presidente-de-panama-recibira-a-maria-corina-machado-para-abordar-transicion-democratica-venezolana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/maria-corina-machado-venezuela-oslo-panama.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-21T17:58:55.705Z"
+  "lastUpdate": "2026-05-21T20:04:40.555Z"
 }
