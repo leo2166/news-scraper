@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 21 Mayo 2026"
     },
     "binance": {
-      "usdt": "749,99"
+      "usdt": "744,71"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "La guerra que la Fuerza Armada venezolana no cuenta: pobladores del Catatumbo denuncian ejecuciones y terror en Semprúm",
-      "link": "https://www.infobae.com/venezuela/2026/05/21/la-guerra-que-la-fuerza-armada-venezolana-no-cuenta-pobladores-del-catatumbo-denuncian-ejecuciones-y-terror-en-semprum/",
-      "image": "https://www.infobae.com/resizer/v2/6QML5WCVMFG4TIH2L3BSLL2JOI.jpg?auth=5107e0885ccf3dfe37aeb0aa85e76611e935d9d7b998c0c84dfe4bf444de8601&smart=true&width=350&height=197&quality=85"
+      "title": "Familias marcharon en silencio en Caracas para pedir justicia por la muerte de presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/05/21/familias-marcharon-en-silencio-en-caracas-para-pedir-justicia-por-la-muerte-de-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
       "title": "Trump busca redimirse en Cuba tras el fracaso en su intento de cambiar Irán",
       "link": "https://cnnespanol.cnn.com/2026/05/21/eeuu/analisis-trump-redimirse-cuba-fracaso-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2277287504-20260521044730114.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-20-120202.png?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -38,23 +38,17 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-12-at-2.15.28-pm-80debe.jpeg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "CONSECOMERCIO ADVIRTIÓ QUE FALLAS ELÉCTRICAS PONEN EN RIESGO ALIMENTOS Y MEDICINAS",
-      "link": "https://noticierodigital.com/2026/05/consecomercio-advirtio-que-fallas-electricas-ponen-en-riesgo-alimentos-y-medicinas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/consecomercio-jose-gregorio-rodriguez-627x376.jpg"
-    },
-    {
       "source": "La Verdad",
-      "title": "Trump descarta “escalada” en Cuba y anticipa un anuncio sobre el bloqueo petrolero",
-      "link": "https://laverdad.com/trump-descarta-escalada-en-cuba-y-anticipa-un-anuncio-sobre-el-bloqueo-petrolero/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Donald-Trump-6-scaled.jpg"
+      "title": "China pide a EE. UU. dejar de usar el “garrote judicial” contra Cuba",
+      "link": "https://laverdad.com/china-pide-a-ee-uu-dejar-de-usar-el-garrote-judicial-contra-cuba/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Guo-Jiakun.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump se niega a decir si EE. UU. capturaría a Raúl Castro como lo hizo con Maduro",
-      "link": "https://diarioversionfinal.com/mundo/trump-se-niega-a-decir-si-ee-uu-capturaria-a-raul-castro-como-lo-hizo-con-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-06-at-2.21.51-PM-750x430.jpeg"
+      "title": "María Elvira Salazar estima elecciones en Venezuela para \"el año que viene\"",
+      "link": "https://diarioversionfinal.com/mundo/maria-elvira-salazar-estima-elecciones-en-venezuela-para-el-ano-que-viene/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/maria-elvira-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-21T11:25:37.981Z"
+  "lastUpdate": "2026-05-21T15:27:41.815Z"
 }
