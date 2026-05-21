@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 21 Mayo 2026"
     },
     "binance": {
-      "usdt": "748,00"
+      "usdt": "749,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "En 2026 el consumidor venezolano es pragmático y valora atributos de calidad, indica experto",
-      "link": "https://www.bancaynegocios.com/en-2026-el-consumidor-venezolano-es-pragmatico-y-valora-atributos-de-calidad-indica-experto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2018/06/mercado-compras-alimentos-e1654538713223.jpg"
+      "title": "BCV: Economía venezolana creció 2,5% en el primer trimestre, pese a caída del PIB petrolero",
+      "link": "https://www.bancaynegocios.com/bcv-economia-venezolana-crecio-25-en-el-primer-trimestre-pese-a-caida-del-pib-petrolero/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/PIB-VENEZUELA.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que \"muy pronto\" habrá un anuncio sobre el embargo a Cuba",
-      "link": "https://cnnespanol.cnn.com/2026/05/20/latinoamerica/live-news/ultima-hora-cuba-acusacion-raul-castro-en-vivo-noticias-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277328170-20260520193419797.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Podría la acusación a Castro llevar a una guerra entre EE.UU. y Cuba?",
+      "link": "https://cnnespanol.cnn.com/2026/05/20/latinoamerica/acusacion-castro-guerra-eeuu-cuba-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-20-120202.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comité de Postulaciones Judiciales aprobó cronograma para seleccionar autoridades",
-      "link": "https://noticiasvenevision.com/noticias/politica/comite-de-postulaciones-judiciales-aprobo-cronograma-para-seleccionar-autoridades",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5795204707302182585_x-631029.jpg"
+      "title": "Grupo Parlamentario Libertad solicita audiencia al Fiscal General para conocer avances en el caso de Víctor Hugo Quero",
+      "link": "https://noticiasvenevision.com/noticias/politica/grupo-parlamentario-libertad-solicita-audiencia-al-fiscal-general-para-conocer-avances-en-el-caso-de-victor-hugo-quero",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-12-at-2.15.28-pm-80debe.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA Y CATAR EVALUARON ALIANZAS EN TRANSPORTE AÉREO Y MARÍTIMO",
-      "link": "https://noticierodigital.com/2026/05/venezuela-y-catar-evaluaron-alianzas-en-transporte-aereo-y-maritimo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/venezuela-catar-jacqueline-faria-Salman-Nabit-Mubarak-Abdullah-Al-Khulaifi-627x376.jpg"
+      "title": "CONSECOMERCIO ADVIRTIÓ QUE FALLAS ELÉCTRICAS PONEN EN RIESGO ALIMENTOS Y MEDICINAS",
+      "link": "https://noticierodigital.com/2026/05/consecomercio-advirtio-que-fallas-electricas-ponen-en-riesgo-alimentos-y-medicinas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/consecomercio-jose-gregorio-rodriguez-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-06-at-2.21.51-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-20T23:13:51.297Z"
+  "lastUpdate": "2026-05-21T03:43:10.566Z"
 };
