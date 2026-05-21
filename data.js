@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 21 Mayo 2026"
     },
     "binance": {
-      "usdt": "749,57"
+      "usdt": "749,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Podría la acusación a Castro llevar a una guerra entre EE.UU. y Cuba?",
-      "link": "https://cnnespanol.cnn.com/2026/05/20/latinoamerica/acusacion-castro-guerra-eeuu-cuba-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-20-120202.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump busca redimirse en Cuba tras el fracaso en su intento de cambiar Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/21/eeuu/analisis-trump-redimirse-cuba-fracaso-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2277287504-20260521044730114.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-06-at-2.21.51-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-21T07:53:37.455Z"
+  "lastUpdate": "2026-05-21T11:25:37.981Z"
 };
