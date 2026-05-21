@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 21 Mayo 2026"
     },
     "binance": {
-      "usdt": "744,71"
+      "usdt": "748,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "BCV: Economía venezolana creció 2,5% en el primer trimestre, pese a caída del PIB petrolero",
-      "link": "https://www.bancaynegocios.com/bcv-economia-venezolana-crecio-25-en-el-primer-trimestre-pese-a-caida-del-pib-petrolero/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/PIB-VENEZUELA.jpg"
+      "title": "Calixto Ortega: Venezuela está abierta más que nunca a los negocios",
+      "link": "https://www.bancaynegocios.com/calixto-ortega-venezuela-esta-abierta-mas-que-nunca-a-los-negocios/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/calixto_ortega_sanchez.webp"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump busca redimirse en Cuba tras el fracaso en su intento de cambiar Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/21/eeuu/analisis-trump-redimirse-cuba-fracaso-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-20-120202.png?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Rubio expresa pesimismo sobre un acuerdo con Cuba",
+      "link": "https://cnnespanol.cnn.com/2026/05/21/latinoamerica/rubio-pesimismo-acuerdo-cuba-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276894755.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Grupo Parlamentario Libertad solicita audiencia al Fiscal General para conocer avances en el caso de Víctor Hugo Quero",
-      "link": "https://noticiasvenevision.com/noticias/politica/grupo-parlamentario-libertad-solicita-audiencia-al-fiscal-general-para-conocer-avances-en-el-caso-de-victor-hugo-quero",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-12-at-2.15.28-pm-80debe.jpeg"
+      "title": "Lester Toledo regresa a Venezuela tras 10 años en el exilio",
+      "link": "https://noticiasvenevision.com/noticias/politica/lester-toledo-regresa-a-venezuela-tras-10-anos-en-el-exilio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_1689-8e382a.jpeg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "María Elvira Salazar estima elecciones en Venezuela para \"el año que viene\"",
-      "link": "https://diarioversionfinal.com/mundo/maria-elvira-salazar-estima-elecciones-en-venezuela-para-el-ano-que-viene/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/maria-elvira-750x430.jpg"
+      "title": "Rick Scott denuncia el asesinato de Víctor Quero: \"Toda persona responsable rendirá cuentas\"",
+      "link": "https://diarioversionfinal.com/mundo/rick-scott-denuncia-el-asesinato-de-victor-quero-toda-persona-responsable-rendira-cuentas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-21-at-1.39.19-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-21T15:27:41.815Z"
+  "lastUpdate": "2026-05-21T17:58:55.705Z"
 };
