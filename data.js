@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 22 Mayo 2026"
     },
     "binance": {
-      "usdt": "728,00"
+      "usdt": "743,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -29,7 +29,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "El segundo mandato de Trump se centra cada vez más en una sola cosa: Trump",
       "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/analisis-segundo-mandato-trump-centra-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/260521miami-0.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1248961995-20260522073207585.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "INTT ANUNCIÓ RESTRICCIÓN PARCIAL EN LA ARC POR COMPETENCIA CICLÍSTICA ESTE SÁBADO",
-      "link": "https://noticierodigital.com/2026/05/intt-anuncio-restriccion-parcial-en-la-arc-por-competencia-ciclistica-este-sabado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/07/colaautopista_regionaldelcentro_6jul2020_.jpg"
+      "title": "MACHADO LLEGA A PANAMÁ PARA TENER UNA AGENDA JUNTO A MIGRANTES Y DIRIGENTES VENEZOLANOS",
+      "link": "https://noticierodigital.com/2026/05/machado-llega-a-panama-para-tener-una-agenda-junto-a-migrantes-y-dirigentes-venezolanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-11-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Juez bloquea 490.780 euros de las cuentas de Zapatero",
-      "link": "https://laverdad.com/juez-bloquea-490-780-euros-de-las-cuentas-de-zapatero/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Zapatero.jpg"
+      "title": "El Pentágono publica segunda partida de documentos gubernamentales sobre ovnis",
+      "link": "https://laverdad.com/el-pentagono-publica-segunda-partida-de-documentos-gubernamentales-sobre-ovnis/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Pentagono-ovnis.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Capturados tres venezolanos con 978 paquetes de presunta cocaína en operativo marítimo",
-      "link": "https://diarioversionfinal.com/mundo/capturados-tres-venezolanos-con-978-paquetes-de-presunta-cocaina-en-operativo-maritimo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/droga-1.jpg"
+      "title": "Marco Rubio asegura que EE.UU. estudia un “plan B” para reabrir el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-asegura-que-ee-uu-estudia-un-plan-b-para-reabrir-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T12:18:39.037Z"
+  "lastUpdate": "2026-05-22T15:47:21.726Z"
 };
