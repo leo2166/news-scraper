@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 22 Mayo 2026"
     },
     "binance": {
-      "usdt": "748,99"
+      "usdt": "748,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,6 +38,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_6020305854542227847_x-0ad845.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "INTT ANUNCIÓ RESTRICCIÓN PARCIAL EN LA ARC POR COMPETENCIA CICLÍSTICA ESTE SÁBADO",
+      "link": "https://noticierodigital.com/2026/05/intt-anuncio-restriccion-parcial-en-la-arc-por-competencia-ciclistica-este-sabado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/07/colaautopista_regionaldelcentro_6jul2020_.jpg"
+    },
+    {
       "source": "La Verdad",
       "title": "Juez bloquea 490.780 euros de las cuentas de Zapatero",
       "link": "https://laverdad.com/juez-bloquea-490-780-euros-de-las-cuentas-de-zapatero/",
@@ -45,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump aviva tensión con Cuba y deja abierta la posibilidad de una intervención militar",
-      "link": "https://diarioversionfinal.com/mundo/trump-aviva-tension-con-cuba-y-deja-abierta-la-posibilidad-de-una-intervencion-militar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/trump-cuba-750x430.webp"
+      "title": "Capturados tres venezolanos con 978 paquetes de presunta cocaína en operativo marítimo",
+      "link": "https://diarioversionfinal.com/mundo/capturados-tres-venezolanos-con-978-paquetes-de-presunta-cocaina-en-operativo-maritimo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/droga-1.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T00:02:17.467Z"
+  "lastUpdate": "2026-05-22T05:00:37.383Z"
 }
