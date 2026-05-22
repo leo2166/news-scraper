@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Cancillería de Venezuela evita molestar a Trump y guarda silencio ante los ataques contra Raúl Castro y sus aliados",
-      "link": "https://www.infobae.com/venezuela/2026/05/21/cancilleria-de-venezuela-evita-molestar-a-trump-y-guarda-silencio-ante-los-ataques-contra-raul-castro-y-sus-aliados/",
-      "image": "https://www.infobae.com/resizer/v2/R36IZ7RKR5GQZKFWY55DS5RSHU.jpg?auth=aa2b46182ac8dbfbdaf8057d696df28b6b03a711ce159fdf97c8782744f4af08&smart=true&width=350&height=197&quality=85"
+      "title": "Organización de militares retirados denuncia “infamia de Estado” y exige transición con elecciones libres",
+      "link": "https://www.infobae.com/venezuela/2026/05/22/organizacion-de-militares-retirados-denuncia-infamia-de-estado-y-exige-transicion-con-elecciones-libres/",
+      "image": "https://www.infobae.com/resizer/v2/6R74WLDGFZCQVEJZRO3VVOZTCE.png?auth=5e4d7ec00c9030d86a10c2f4d0e962fedf2c3e3887110c62dc49f5a7eda26dc7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Fondo contra \"persecución judicial\" frustra aprobación de paquete migratorio en el Senado",
-      "link": "https://cnnespanol.cnn.com/2026/05/21/eeuu/republicanos-rebelan-fondo-de-trump-judicializacion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/republicanos-enojados.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Republicanos cancelan la votación sobre los poderes para la guerra contra Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/21/eeuu/republicanos-votacion-iran-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-21-173943.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/droga-1.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T05:00:37.383Z"
+  "lastUpdate": "2026-05-22T09:24:16.587Z"
 };
