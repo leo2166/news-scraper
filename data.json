@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 22 Mayo 2026"
     },
     "binance": {
-      "usdt": "748,57"
+      "usdt": "728,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "Organización de militares retirados denuncia “infamia de Estado” y exige transición con elecciones libres",
+      "title": "Organización de militares retirados denuncia “infamia de Estado” y exige elecciones libres en Venezuela",
       "link": "https://www.infobae.com/venezuela/2026/05/22/organizacion-de-militares-retirados-denuncia-infamia-de-estado-y-exige-transicion-con-elecciones-libres/",
       "image": "https://www.infobae.com/resizer/v2/6R74WLDGFZCQVEJZRO3VVOZTCE.png?auth=5e4d7ec00c9030d86a10c2f4d0e962fedf2c3e3887110c62dc49f5a7eda26dc7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Republicanos cancelan la votación sobre los poderes para la guerra contra Irán",
-      "link": "https://cnnespanol.cnn.com/2026/05/21/eeuu/republicanos-votacion-iran-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-21-173943.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El segundo mandato de Trump se centra cada vez más en una sola cosa: Trump",
+      "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/analisis-segundo-mandato-trump-centra-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/260521miami-0.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/droga-1.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T09:24:16.587Z"
+  "lastUpdate": "2026-05-22T12:18:39.037Z"
 }
