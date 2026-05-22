@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 22 Mayo 2026"
     },
     "binance": {
-      "usdt": "743,96"
+      "usdt": "745,72"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,40 +21,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Organización de militares retirados denuncia “infamia de Estado” y exige elecciones libres en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/22/organizacion-de-militares-retirados-denuncia-infamia-de-estado-y-exige-transicion-con-elecciones-libres/",
-      "image": "https://www.infobae.com/resizer/v2/6R74WLDGFZCQVEJZRO3VVOZTCE.png?auth=5e4d7ec00c9030d86a10c2f4d0e962fedf2c3e3887110c62dc49f5a7eda26dc7&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela aseguró que EEUU verificó los estándares de seguridad en dos aeropuertos para nuevos vuelos",
+      "link": "https://www.infobae.com/venezuela/2026/05/22/venezuela-aseguro-que-eeuu-verifico-los-estandares-de-seguridad-en-dos-aeropuertos-para-nuevos-vuelos/",
+      "image": "https://www.infobae.com/resizer/v2/2P6GCO67KBFT3F6J6T4BQHHBSQ.jpg?auth=d6029c79140eb4f2cfe0685e068107066447af1d9dffbee1f61bfc1a76bb647a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "El segundo mandato de Trump se centra cada vez más en una sola cosa: Trump",
-      "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/analisis-segundo-mandato-trump-centra-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1248961995-20260522073207585.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Con presencia de Díaz-Canel, miles protestan frente a la Embajada de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/05/22/latinoamerica/cubanos-protestan-embajada-eeuu-acusacion-raul-castro-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277117896.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Sindicatos convocaron a jornada de protesta nacional para el próximo 3 de junio",
-      "link": "https://noticiasvenevision.com/noticias/politica/sindicatos-convocaron-a-jornada-de-protesta-nacional-para-el-proximo-3-de-junio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_6020305854542227847_x-0ad845.jpg"
+      "title": "María Corina Machado llegó a Panamá para reunirse con el presidente Mulino",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-llego-a-panama-para-reunirse-con-el-presidente-mulino",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tfzssqv5nbgjtfk5tqyazyi7cq-2915f5.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MACHADO LLEGA A PANAMÁ PARA TENER UNA AGENDA JUNTO A MIGRANTES Y DIRIGENTES VENEZOLANOS",
-      "link": "https://noticierodigital.com/2026/05/machado-llega-a-panama-para-tener-una-agenda-junto-a-migrantes-y-dirigentes-venezolanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-11-627x376.png"
+      "title": "EJECUTIVA DE CHEVRON VENEZUELA: «CADA FLIQUEO DE LUZ NOS PUEDE TUMBAR 40 POZOS DE UN PESTAÑAZO»",
+      "link": "https://noticierodigital.com/2026/05/ejecutiva-de-chevron-venezuela-cada-fliqueo-de-luz-nos-puede-tumbar-40-pozos-de-un-pestanazo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/chevron-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El Pentágono publica segunda partida de documentos gubernamentales sobre ovnis",
-      "link": "https://laverdad.com/el-pentagono-publica-segunda-partida-de-documentos-gubernamentales-sobre-ovnis/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Pentagono-ovnis.jpg"
+      "title": "Capturan en Medellín a la “influencer” zuliana Valentina Mor por robo a extranjeros",
+      "link": "https://laverdad.com/capturan-en-medellin-a-la-influencer-zuliana-valentina-mor-por-robo-a-extranjeros/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Valentina-Mor.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio asegura que EE.UU. estudia un “plan B” para reabrir el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-asegura-que-ee-uu-estudia-un-plan-b-para-reabrir-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/c56952398ef8ea56b94763400a0c08b7e7a15852-750x430.jpg"
+      "title": "Tulsi Gabbard dimite como directora de Inteligencia Nacional en Gobierno de Trump, según Fox New",
+      "link": "https://diarioversionfinal.com/mundo/tulsi-gabbard-dimite-como-directora-de-inteligencia-nacional-en-el-gobierno-de-trump-segun-fox-new/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/c-2024-08-30t015214z-54504739-rc20q9akkqbm-rtrmadp-3-usa-election-trump-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T15:47:21.726Z"
+  "lastUpdate": "2026-05-22T17:51:39.966Z"
 };
