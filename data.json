@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "526,87",
-      "eur": "610,38",
-      "fechaValor": "Viernes, 22 Mayo 2026"
+      "usd": "530,50",
+      "eur": "615,50",
+      "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "744,87"
+      "usdt": "754,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Con presencia de Díaz-Canel, miles protestan frente a la Embajada de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/05/22/latinoamerica/cubanos-protestan-embajada-eeuu-acusacion-raul-castro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277117896.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. y su fijación con Cuba, una isla que se resiste al cambio",
+      "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/estados-unidos-cuba-cambio-analisis-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277116464.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 41 MIL JÓVENES SE HAN REGISTRADO EN EL PORTAL «VENEZUELA RENACE»",
-      "link": "https://noticierodigital.com/2026/05/mas-de-41-mil-jovenes-se-han-registrado-en-el-portal-venezuela-renace/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/delcy-rodriguez-venezuela-5-627x376.jpg"
+      "title": "CAMILLA FABRI, ESPOSA DE ALEX SAAB, VA RUMBO A ITALIA JUNTO A SUS HIJOS",
+      "link": "https://noticierodigital.com/2026/05/camilla-fabri-esposa-de-alex-saab-va-rumbo-a-italia-junto-a-sus-hijos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-3-4-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Felipe-Gonzalez-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T19:45:33.329Z"
+  "lastUpdate": "2026-05-22T21:09:51.965Z"
 }
