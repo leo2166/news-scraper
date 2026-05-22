@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "754,50"
+      "usdt": "754,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. y su fijación con Cuba, una isla que se resiste al cambio",
-      "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/estados-unidos-cuba-cambio-analisis-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277116464.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. exige que quienes buscan la “green card” salgan del país para solicitarla",
+      "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/gobierno-exige-salir-pais-green-card-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-455371780-20260522220427642.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado llegó a Panamá para reunirse con el presidente Mulino",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-llego-a-panama-para-reunirse-con-el-presidente-mulino",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tfzssqv5nbgjtfk5tqyazyi7cq-2915f5.jpg"
+      "title": "Carlos Ocariz anuncia su regreso a Venezuela tras meses en el exilio",
+      "link": "https://noticiasvenevision.com/noticias/politica/carlos-ocariz-anuncia-su-regreso-a-venezuela-tras-meses-en-el-exilio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/carlos-ocariz-e62f66.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAMILLA FABRI, ESPOSA DE ALEX SAAB, VA RUMBO A ITALIA JUNTO A SUS HIJOS",
-      "link": "https://noticierodigital.com/2026/05/camilla-fabri-esposa-de-alex-saab-va-rumbo-a-italia-junto-a-sus-hijos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-3-4-627x376.png"
+      "title": "DELCY RODRÍGUEZ ASEGURÓ QUE HUBO 395 LIBERACIONES POR VÍAS ALTERNATIVAS",
+      "link": "https://noticierodigital.com/2026/05/delcy-rodriguez-aseguro-que-hubo-395-liberaciones-por-vias-alternativas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/delcy-rodriguez-venezuela-4-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Felipe-Gonzalez-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T21:09:51.965Z"
+  "lastUpdate": "2026-05-22T22:59:11.094Z"
 };
