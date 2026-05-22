@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 22 Mayo 2026"
     },
     "binance": {
-      "usdt": "748,59"
+      "usdt": "748,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Ventas de neumáticos incrementaron hasta 35% impulsadas por plataformas de financiamiento",
-      "link": "https://www.bancaynegocios.com/ventas-de-neumaticos-incrementaron-hasta-35-porciento-impulsadas-por-plataformas-de-financiamiento/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/10/CAUCHOS-VENEZUELA.jpg"
+      "title": "Inician pago del complemento al Ingreso Integral de pensionados: equivale a US$9,73",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-complemento-al-ingreso-integral-de-pensionados-equivale-a-us9punto73/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1.jpeg"
     },
     {
       "source": "Infobae",
@@ -33,15 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez viajará a la India en busca de acuerdos petroleros, afirmó Marco Rubio",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-viajara-a-la-india-en-busca-de-acuerdos-petroleros-afirmo-marco-rubio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-india-acuerdos-petroleros-1-6b16b7.webp"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "MANUEL ROSALES PRESENTARÁ PROPUESTA ENERGÉTICA ANTE EE. UU. Y LA CAF",
-      "link": "https://noticierodigital.com/2026/05/manuel-rosales-presentara-propuesta-energetica-ante-ee-uu-y-la-caf/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/manuel-rosales-627x376.jpg"
+      "title": "Sindicatos convocaron a jornada de protesta nacional para el próximo 3 de junio",
+      "link": "https://noticiasvenevision.com/noticias/politica/sindicatos-convocaron-a-jornada-de-protesta-nacional-para-el-proximo-3-de-junio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_6020305854542227847_x-0ad845.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. juramenta 77 nuevos jueces de inmigración para reducir retrasos judiciales",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-juramenta-77-nuevos-jueces-de-inmigracion-para-reducir-retrasos-judiciales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/GettyImages-2240760995-scaled-1-750x430.jpg"
+      "title": "Trump aviva tensión con Cuba y deja abierta la posibilidad de una intervención militar",
+      "link": "https://diarioversionfinal.com/mundo/trump-aviva-tension-con-cuba-y-deja-abierta-la-posibilidad-de-una-intervencion-militar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/trump-cuba-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-21T22:19:42.531Z"
+  "lastUpdate": "2026-05-22T00:02:17.467Z"
 };
