@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "764,57"
+      "usdt": "761,77"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump lleva su relación con los senadores republicanos al límite",
-      "link": "https://cnnespanol.cnn.com/2026/05/23/eeuu/senadores-trump-llevo-partido-republicano-limite-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26142748121163-20260523104851035.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Estos países de América Latina atraen miradas y podrían beneficiarse por el petróleo",
+      "link": "https://cnnespanol.cnn.com/2026/05/23/latinoamerica/conflicto-iran-paises-beneficiados-petroleo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232161086.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Embajada de EE.UU. en Caracas recibe aeronaves para el simulacro de evacuación",
       "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-recibe-aeronaves-para-el-simulacro-de-evacuacion",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/2f8bcf378ad01144acf660128b4451d61a939a6f-6f8ce7.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "CAPRILES EXIGIÓ JUECES «HONESTOS E INDEPENDIENTES» PARA EL NUEVO TSJ",
+      "link": "https://noticierodigital.com/2026/05/capriles-exigio-jueces-honestos-e-independientes-para-el-nuevo-tsj/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/caprilesinhabilitaciones-8jun2022-627x376.webp"
     },
     {
       "source": "La Verdad",
@@ -50,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-23-at-11.40.49-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-23T16:58:54.318Z"
+  "lastUpdate": "2026-05-23T18:04:53.395Z"
 }
