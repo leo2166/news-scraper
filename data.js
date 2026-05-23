@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "760,00"
+      "usdt": "761,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez anunció la excarcelación de más de 500 personas en las próximas horas",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncio-la-excarcelacion-de-mas-de-500-personas-en-las-proximas-horas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/08_jz_l4869_jz-8e5d6f.jpg"
+      "title": "Cancillería italiana confirma que familia de Alex Saab salió de Venezuela hacia Italia",
+      "link": "https://noticiasvenevision.com/noticias/politica/cancilleria-italiana-confirma-que-familia-de-alex-saab-salio-de-venezuela-hacia-italia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/17037019198087-1-f4260e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 150 VENEZOLANOS RETORNARON DESDE FLORIDA EN VUELO DE DEPORTACIÓN",
-      "link": "https://noticierodigital.com/2026/05/mas-de-150-venezolanos-retornaron-desde-florida-en-vuelo-de-deportacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/vuelo-de-deportacion-venezuela-venezolanos-627x376.jpg"
+      "title": "REPORTARON LA PRESENCIA DE MILITARES DENTRO DE LA EMBAJADA DE EE. UU. EN CARACAS",
+      "link": "https://noticierodigital.com/2026/05/reportaron-la-presencia-de-militares-dentro-de-la-embajada-de-ee-uu-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/embajada-de-eeuu-caracas-militares-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tribunal Supremo de España rechaza suspender la regularización masiva de migrantes",
-      "link": "https://diarioversionfinal.com/mundo/tribunal-supremo-de-espana-rechaza-suspender-la-regularizacion-masiva-de-migrantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/images-2026-05-22T175221.633.jpg"
+      "title": "Trump mueve tablero militar como si se preparara para extraer a Raúl Castro",
+      "link": "https://diarioversionfinal.com/mundo/trump-mueve-tablero-militar-como-si-se-preparara-para-extraer-a-raul-castro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-23-at-8.49.34-AM-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-23T11:12:17.583Z"
+  "lastUpdate": "2026-05-23T13:25:42.818Z"
 };
