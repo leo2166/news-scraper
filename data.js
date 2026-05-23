@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "757,57"
+      "usdt": "760,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/images-2026-05-22T175221.633.jpg"
     }
   ],
-  "lastUpdate": "2026-05-23T09:53:34.507Z"
+  "lastUpdate": "2026-05-23T11:12:17.583Z"
 };
