@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "756,00"
+      "usdt": "753,87"
     },
     "kontigo": {
       "usd": "N/A"
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jefes de Plus Ultra tantearon a Delcy para articular rescate con Zapatero y Gobierno de Sánchez",
-      "link": "https://diarioversionfinal.com/mundo/jefes-de-plus-ultra-tantearon-a-delcy-para-articular-rescate-con-zapatero-y-gobierno-de-sanchez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Zapatero-y-Delcy-23-05-2026-750x430.jpg"
+      "title": "Practican cierre de seguridad en la Casa Blanca tras escucharse disparos en los alrededores",
+      "link": "https://diarioversionfinal.com/mundo/practican-cierre-de-seguridad-en-la-casa-blanca-tras-escucharse-disparos-en-los-alrededores/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Casa-Blanca-EEUU-sobre-Iran-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-23T22:53:49.595Z"
+  "lastUpdate": "2026-05-23T23:57:47.337Z"
 };
