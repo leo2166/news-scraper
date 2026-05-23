@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "723,88"
+      "usdt": "753,96"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "John Barrett solicitó a autoridades de Venezuela \"previsibilidad y seguridad\" para inversionistas extranjeros",
-      "link": "https://www.bancaynegocios.com/john-barrett-solicito-a-autoridades-de-venezuela-previsibilidad-y-seguridad-para-inversionistas-extranjeros/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-22-at-8.22.54-PM.jpeg"
+      "title": "Fevearroz: cortes eléctricos comprometen el 60% del área de siembra nacional del rubro",
+      "link": "https://www.bancaynegocios.com/fevearroz-cortes-electricos-comprometen-el-60-porciento-del-area-de-siembra-nacional-del-rubro/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/arroz.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado afirmó que será candidata a la presidencia de Venezuela y adelantó que “pronto” regresará al país",
-      "link": "https://www.infobae.com/venezuela/2026/05/23/maria-corina-machado-la-libertad-de-venezuela-va-a-representar-la-libertad-de-las-americas-para-siempre/",
-      "image": "https://www.infobae.com/resizer/v2/RGKDYAFE3RGSBPKVZC5MJHB72A.jpeg?auth=0184a8d0ba951c6f96a061516d79a5d990759b30d1036deca639dc2924b27eb8&smart=true&width=350&height=197&quality=85"
+      "title": "El jefe del Comando Sur supervisó el simulacro militar en Caracas: “EEUU está comprometido con una Venezuela libre”",
+      "link": "https://www.infobae.com/venezuela/2026/05/23/el-jefe-del-comando-sur-supreviso-el-simulacro-en-caracas-estados-unidos-esta-comprometido-con-una-venezuela-libre/",
+      "image": "https://www.infobae.com/resizer/v2/ZJSALO6CZVBB7OCVGFIL22PNXU.jpeg?auth=ca60692df8d10e64c035710ea66ad3764ad3d03e157bbf4b94ab151ba4643f97&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Estos países de América Latina atraen miradas y podrían beneficiarse por el petróleo",
-      "link": "https://cnnespanol.cnn.com/2026/05/23/latinoamerica/conflicto-iran-paises-beneficiados-petroleo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232161086.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que el acuerdo con Irán está “en gran medida negociado”",
+      "link": "https://cnnespanol.cnn.com/2026/05/23/mundo/estados-unidos-iran-avances-negociaciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Zapatero-y-Delcy-23-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-23T20:05:49.805Z"
+  "lastUpdate": "2026-05-23T21:55:01.536Z"
 };
