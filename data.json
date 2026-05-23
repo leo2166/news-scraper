@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "760,90"
+      "usdt": "764,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. exigirá que quienes buscan la “green card” salgan del país para solicitarla",
-      "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/gobierno-exige-salir-pais-green-card-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-455371780-20260522220427642.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump lleva su relación con los senadores republicanos al límite",
+      "link": "https://cnnespanol.cnn.com/2026/05/23/eeuu/senadores-trump-llevo-partido-republicano-limite-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26142748121163-20260523104851035.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Cancillería italiana confirma que familia de Alex Saab salió de Venezuela hacia Italia",
-      "link": "https://noticiasvenevision.com/noticias/politica/cancilleria-italiana-confirma-que-familia-de-alex-saab-salio-de-venezuela-hacia-italia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/17037019198087-1-f4260e.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "CANCILLERÍA ITALIANA CONFIRMÓ SALIDA DE CAMILLA FABRI DE VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/cancilleria-italiana-confirmo-salida-de-camilla-fabri-de-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/Camilla-Fabri-de-Saab-627x376.jpg"
+      "title": "Embajada de EE.UU. en Caracas recibe aeronaves para el simulacro de evacuación",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-recibe-aeronaves-para-el-simulacro-de-evacuacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/2f8bcf378ad01144acf660128b4451d61a939a6f-6f8ce7.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +45,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán anuncia paso de 25 buques por el estrecho de Ormuz bajo su protección",
-      "link": "https://diarioversionfinal.com/mundo/iran-anuncia-paso-de-25-buques-por-el-estrecho-de-ormuz-bajo-su-proteccion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Estrecho-Ormuz-04-04-2026-660x430.png"
+      "title": "Miles de ciudadanos protestan en Madrid para exigir la dimisión del presidente Pedro Sánchez",
+      "link": "https://diarioversionfinal.com/mundo/miles-de-ciudadanos-protestan-en-madrid-para-exigir-la-dimision-del-presidente-pedro-sanchez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-23-at-11.40.49-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-23T15:00:47.745Z"
+  "lastUpdate": "2026-05-23T16:58:54.318Z"
 }
