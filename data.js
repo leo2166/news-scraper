@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció nuevas excarcelaciones ante los pedidos de las ONG por la liberación de todos los presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/05/23/delcy-rodriguez-anuncio-nuevas-excarcelaciones-ante-los-pedidos-de-las-ong-por-la-liberacion-de-todos-los-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/GX6EB7C5MBHLVDUXYXKPIJDEH4.jpg?auth=a54284c54919e0feb9e97e3a75cfc678625cde536b69771be3b850f4a4d93b51&smart=true&width=350&height=197&quality=85"
+      "title": "Una encuesta reveló un cambio drástico en la política de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/23/una-encuesta-revelo-un-cambio-drastico-en-la-politica-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4CO3MP5QWJBRPKPYHML6364UXE.JPG?auth=441de0cf345833484b19eb97d7629c0a743cec431db98fe50399c484a61ea488&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/images-2026-05-22T175221.633.jpg"
     }
   ],
-  "lastUpdate": "2026-05-23T07:31:51.798Z"
+  "lastUpdate": "2026-05-23T09:53:34.507Z"
 };
