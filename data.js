@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "761,77"
+      "usdt": "723,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "EEUU realiza un simulacro de evacuación en su embajada en Caracas con un despliegue autorizado por el régimen de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/23/eeuu-realiza-un-simulacro-de-evacuacion-en-su-embajada-en-caracas-con-un-despliegue-autorizado-por-el-regimen-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/HGCLGUORURF3LPAQ7IZVCIDJKA.JPG?auth=817914b94f063a2bbb501a87cce5fcfe9057d709d0a10053609cba51d2b098ab&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado afirmó que será candidata a la presidencia de Venezuela y adelantó que “pronto” regresará al país",
+      "link": "https://www.infobae.com/venezuela/2026/05/23/maria-corina-machado-la-libertad-de-venezuela-va-a-representar-la-libertad-de-las-americas-para-siempre/",
+      "image": "https://www.infobae.com/resizer/v2/RGKDYAFE3RGSBPKVZC5MJHB72A.jpeg?auth=0184a8d0ba951c6f96a061516d79a5d990759b30d1036deca639dc2924b27eb8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE.UU. en Caracas recibe aeronaves para el simulacro de evacuación",
+      "title": "Embajada de EE.UU. en Caracas recibió aeronaves para el simulacro de evacuación",
       "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-recibe-aeronaves-para-el-simulacro-de-evacuacion",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/2f8bcf378ad01144acf660128b4451d61a939a6f-6f8ce7.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES EXIGIÓ JUECES «HONESTOS E INDEPENDIENTES» PARA EL NUEVO TSJ",
-      "link": "https://noticierodigital.com/2026/05/capriles-exigio-jueces-honestos-e-independientes-para-el-nuevo-tsj/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/caprilesinhabilitaciones-8jun2022-627x376.webp"
+      "title": "FEDECÁMARAS PIDIÓ UNA NUEVA LEY DEL TRABAJO ADAPTADA A LA REALIDAD ECONÓMICA DEL PAÍS",
+      "link": "https://noticierodigital.com/2026/05/fedecamaras-pidio-una-nueva-ley-del-trabajo-adaptada-a-la-realidad-economica-del-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/felipe-capozzolo-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Miles de ciudadanos protestan en Madrid para exigir la dimisión del presidente Pedro Sánchez",
-      "link": "https://diarioversionfinal.com/mundo/miles-de-ciudadanos-protestan-en-madrid-para-exigir-la-dimision-del-presidente-pedro-sanchez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-23-at-11.40.49-AM-750x430.jpeg"
+      "title": "Jefes de Plus Ultra tantearon a Delcy para articular rescate con Zapatero y Gobierno de Sánchez",
+      "link": "https://diarioversionfinal.com/mundo/jefes-de-plus-ultra-tantearon-a-delcy-para-articular-rescate-con-zapatero-y-gobierno-de-sanchez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Zapatero-y-Delcy-23-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-23T18:04:53.395Z"
+  "lastUpdate": "2026-05-23T20:05:49.805Z"
 };
