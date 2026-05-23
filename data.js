@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "754,00"
+      "usdt": "755,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. exige que quienes buscan la “green card” salgan del país para solicitarla",
+      "title": "EE.UU. exigirá que quienes buscan la “green card” salgan del país para solicitarla",
       "link": "https://cnnespanol.cnn.com/2026/05/22/eeuu/gobierno-exige-salir-pais-green-card-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-455371780-20260522220427642.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Carlos Ocariz anuncia su regreso a Venezuela tras meses en el exilio",
-      "link": "https://noticiasvenevision.com/noticias/politica/carlos-ocariz-anuncia-su-regreso-a-venezuela-tras-meses-en-el-exilio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/carlos-ocariz-e62f66.jpg"
+      "title": "Delcy Rodríguez anunció la excarcelación de más de 500 personas en las próximas horas",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncio-la-excarcelacion-de-mas-de-500-personas-en-las-proximas-horas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/08_jz_l4869_jz-8e5d6f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ASEGURÓ QUE HUBO 395 LIBERACIONES POR VÍAS ALTERNATIVAS",
-      "link": "https://noticierodigital.com/2026/05/delcy-rodriguez-aseguro-que-hubo-395-liberaciones-por-vias-alternativas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/delcy-rodriguez-venezuela-4-627x376.jpg"
+      "title": "EE. UU. PIDIÓ GARANTÍAS PARA INVERSIONISTAS EN EL SECTOR MINERO VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/05/ee-uu-pidio-garantias-para-inversionistas-en-el-sector-minero-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/john-barret-venezuela-hector-silva-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Expresidente español Felipe González lamenta imputación de Zapatero y expresa su “tristeza infinita\"",
-      "link": "https://diarioversionfinal.com/mundo/expresidente-espanol-felipe-gonzalez-lamenta-imputacion-de-zapatero-y-expresa-su-tristeza-infinita/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Felipe-Gonzalez-750x430.jpg"
+      "title": "Trump promete que el conflicto con Irán “se resolverá pronto”",
+      "link": "https://diarioversionfinal.com/mundo/trump-promete-que-el-conflicto-con-iran-se-resolvera-pronto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/gettyimages-2275858730-612x612-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-22T22:59:11.094Z"
+  "lastUpdate": "2026-05-23T00:13:47.796Z"
 };
