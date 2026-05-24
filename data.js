@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "755,45"
+      "usdt": "758,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,13 +21,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Los familiares de presos políticos dudan de las cifras de liberaciones en Venezuela y pidieron un listado oficial",
-      "link": "https://www.infobae.com/venezuela/2026/05/24/los-familiares-de-presos-politicos-dudan-de-las-cifras-de-liberaciones-en-venezuela-y-pidieron-un-listado-oficial/",
-      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
+      "title": "Un experto militar afirmó que el simulacro en Caracas podría ser el preámbulo para futuras bases de EEUU en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/24/un-experto-militar-afirmo-que-el-simulacro-en-caracas-podria-ser-el-preambulo-para-futuras-bases-de-eeuu-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/5DJA26PVTVHU5HSI6VPMVXV5WU.jpg?auth=0be03120f8f9612d485f6b46f42467f0d1b696b2c4f2392d6d63de2dd2c7ece0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Rubio dice que se han logrado ‘avances significativos’ en conversaciones con Irán",
+      "title": "Trump dice que el acuerdo con Irán “ha sido en gran medida negociado”",
       "link": "https://cnnespanol.cnn.com/2026/05/23/mundo/estados-unidos-iran-avances-negociaciones-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CRISIS ELÉCTRICA SIGUE GOLPEANDO AL COMERCIO VENEZOLANO, ALERTÓ CONSECOMERCIO",
-      "link": "https://noticierodigital.com/2026/05/crisis-electrica-sigue-golpeando-al-comercio-venezolano-alerto-consecomercio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Jose-Gregorio-Rodriguez-Consecomercio-627x376.jpg"
+      "title": "CANCILLER COLOMBIANA COORDINÓ JORNADA ELECTORAL CON CÓNSULES EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/canciller-colombiana-coordino-jornada-electoral-con-consules-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Rosa-Villavicencio-colombia-venezuela-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La esposa de Zapatero pagó una hipoteca de medio millón de euros en solo un año",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/la-esposa-de-zapatero-pago-una-hipoteca-de-medio-millon-de-euros-en-solo-un-ano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/sonsoles_zapatero-750x430.jpg"
+      "title": "Zelenski pide más defensa aérea tras ataque ruso en Kiev que dejó dos muertos",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-pide-mas-defensa-aerea-tras-ataque-ruso-en-kiev-que-dejo-dos-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Ataques-contra-Ucrania-27-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-24T11:17:19.816Z"
+  "lastUpdate": "2026-05-24T13:26:49.025Z"
 };
