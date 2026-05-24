@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "753,87"
+      "usdt": "723,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que el acuerdo con Irán está “en gran medida negociado”",
-      "link": "https://cnnespanol.cnn.com/2026/05/23/mundo/estados-unidos-iran-avances-negociaciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Agentes del Servicio Secreto mataron a tiros a un hombre cerca de la Casa Blanca",
+      "link": "https://cnnespanol.cnn.com/2026/05/23/eeuu/escuchan-disparos-cerca-casa-blanca-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-iran.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE.UU. en Caracas recibió aeronaves para el simulacro de evacuación",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-recibe-aeronaves-para-el-simulacro-de-evacuacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/2f8bcf378ad01144acf660128b4451d61a939a6f-6f8ce7.jpg"
+      "title": "Embajada de EE.UU. y Comando Sur confirmaron presencia del General Francis L. Donovan en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-y-comando-sur-confirmaron-presencia-del-general-francis-l-donovan-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-23-at-10.32.30-pm-45aa36.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Practican cierre de seguridad en la Casa Blanca tras escucharse disparos en los alrededores",
-      "link": "https://diarioversionfinal.com/mundo/practican-cierre-de-seguridad-en-la-casa-blanca-tras-escucharse-disparos-en-los-alrededores/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Casa-Blanca-EEUU-sobre-Iran-750x430.jpg"
+      "title": "Servicio Secreto abatió a sujeto que protagonizó tiroteo en alrededores de la Casa Blanca",
+      "link": "https://diarioversionfinal.com/mundo/servicio-secreto-abatio-a-sujeto-que-protagonizo-tiroteo-en-alrededores-de-la-casa-blanca/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Tiroteo-Casa-Blanca-23-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-23T23:57:47.337Z"
+  "lastUpdate": "2026-05-24T04:14:03.218Z"
 };
