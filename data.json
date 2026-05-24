@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "723,79"
+      "usdt": "722,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "El jefe del Comando Sur supervisó el simulacro militar en Caracas: “EEUU está comprometido con una Venezuela libre”",
-      "link": "https://www.infobae.com/venezuela/2026/05/23/el-jefe-del-comando-sur-supreviso-el-simulacro-en-caracas-estados-unidos-esta-comprometido-con-una-venezuela-libre/",
-      "image": "https://www.infobae.com/resizer/v2/ZJSALO6CZVBB7OCVGFIL22PNXU.jpeg?auth=ca60692df8d10e64c035710ea66ad3764ad3d03e157bbf4b94ab151ba4643f97&smart=true&width=350&height=197&quality=85"
+      "title": "Los familiares de presos políticos dudan de las cifras de liberaciones en Venezuela y pidieron un listado oficial",
+      "link": "https://www.infobae.com/venezuela/2026/05/24/los-familiares-de-presos-politicos-dudan-de-las-cifras-de-liberaciones-en-venezuela-y-pidieron-un-listado-oficial/",
+      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
       "title": "Agentes del Servicio Secreto mataron a tiros a un hombre cerca de la Casa Blanca",
       "link": "https://cnnespanol.cnn.com/2026/05/23/eeuu/escuchan-disparos-cerca-casa-blanca-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-iran.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277368084-20260524005353849.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Tiroteo-Casa-Blanca-23-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-24T04:14:03.218Z"
+  "lastUpdate": "2026-05-24T07:48:59.324Z"
 }
