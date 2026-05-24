@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "757,00"
+      "usdt": "752,14"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Un experto militar afirmó que el simulacro en Caracas podría ser el preámbulo para futuras bases de EEUU en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/24/un-experto-militar-afirmo-que-el-simulacro-en-caracas-podria-ser-el-preambulo-para-futuras-bases-de-eeuu-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/5DJA26PVTVHU5HSI6VPMVXV5WU.jpg?auth=0be03120f8f9612d485f6b46f42467f0d1b696b2c4f2392d6d63de2dd2c7ece0&smart=true&width=350&height=197&quality=85"
+      "title": "Motín en Venezuela: presos del penal de Barinas tomaron la prisión en protesta por torturas y piden la destitución del nuevo director",
+      "link": "https://www.infobae.com/venezuela/2026/05/24/motin-en-venezuela-presos-del-penal-de-barinas-tomaron-la-prision-en-protesta-por-torturas-y-piden-la-destitucion-del-nuevo-director/",
+      "image": "https://www.infobae.com/resizer/v2/UY4YO6YNHRAIHBFDYECEN57GR4.jpg?auth=e74cad6149d00b0da9f3e6a8ee7ac9dedcd6e3a3090afed7286a005e976c3c83&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ilenia Medina: \"No creemos en las instituciones norteamericanas, no tenemos por qué creerles, siempre mienten\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/ilenia-medina-no-creemos-en-las-instituciones-norteamericanas-no-tenemos-por-que-creerles-siempre-mienten",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3762.jpg-26b4a5.jpeg"
+      "title": "Ramón Guillermo Aveledo: \"La política no es el arte de lo posible, es el arte de hacer posible aquello que es necesario\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/ramon-guillermo-aveledo-la-politica-no-es-el-arte-de-lo-posible-es-el-arte-de-hacer-posible-aquello-que-es-necesario",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3738.jpg-ed4535.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DARWIN GONZÁLEZ INFORMÓ CIERRE PARCIAL EN EL CAFETAL POR RUPTURA DE TUBERÍA MATRIZ",
-      "link": "https://noticierodigital.com/2026/05/darwin-gonzalez-informo-cierre-parcial-en-el-cafetal-por-ruptura-de-tuberia-matriz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/rotura-de-tuberia-matriz-el-cafetal-627x376.jpg"
+      "title": "ACADEMIA NACIONAL DE MEDICINA PIDIÓ REFORZAR CONTROLES POR ALERTA DE ÉBOLA",
+      "link": "https://noticierodigital.com/2026/05/academia-nacional-de-medicina-pidio-reforzar-controles-por-alerta-de-ebola/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/huniades_urbina_.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2015/08/Candidatos-Republicanos.jpg"
     }
   ],
-  "lastUpdate": "2026-05-24T19:17:24.711Z"
+  "lastUpdate": "2026-05-24T20:56:18.352Z"
 };
