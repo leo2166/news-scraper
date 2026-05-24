@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "757,89"
+      "usdt": "757,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fevearroz: cortes eléctricos comprometen el 60% del área de siembra nacional del rubro",
-      "link": "https://www.bancaynegocios.com/fevearroz-cortes-electricos-comprometen-el-60-porciento-del-area-de-siembra-nacional-del-rubro/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/arroz.jpeg"
+      "title": "Descentralizar trámites de importación agilizaría comercio en Nueva Esparta, afirma gremio",
+      "link": "https://www.bancaynegocios.com/descentralizar-tramites-de-importacion-agilizaria-comercio-en-nueva-esparta-afirma-gremio/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/04/puerto-El-Guamache.jpeg"
     },
     {
       "source": "Infobae",
@@ -33,15 +33,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE.UU. y Comando Sur confirmaron presencia del General Francis L. Donovan en Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-y-comando-sur-confirmaron-presencia-del-general-francis-l-donovan-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-23-at-10.32.30-pm-45aa36.jpeg"
+      "title": "Ilenia Medina: \"No creemos en las instituciones norteamericanas, no tenemos por qué creerles, siempre mienten\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/ilenia-medina-no-creemos-en-las-instituciones-norteamericanas-no-tenemos-por-que-creerles-siempre-mienten",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3762.jpg-26b4a5.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BANCAMIGA DINAMIZA LA ECONOMÍA NACIONAL CON UN SÓLIDO REPUNTE EN SOLUCIONES DE CONSUMO Y DIVISAS",
-      "link": "https://noticierodigital.com/2026/05/bancamiga-dinamiza-la-economia-nacional-con-un-solido-repunte-en-soluciones-de-consumo-y-divisas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/bancamiga-1-627x376.jpg"
+      "title": "DARWIN GONZÁLEZ INFORMÓ CIERRE PARCIAL EN EL CAFETAL POR RUPTURA DE TUBERÍA MATRIZ",
+      "link": "https://noticierodigital.com/2026/05/darwin-gonzalez-informo-cierre-parcial-en-el-cafetal-por-ruptura-de-tuberia-matriz/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/rotura-de-tuberia-matriz-el-cafetal-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rubio pone como límite que Irán no logre arma nuclear",
-      "link": "https://diarioversionfinal.com/mundo/rubio-pone-como-limite-que-iran-no-logre-arma-nuclear/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/Marco-Rubio-pg-1-750x430.webp"
+      "title": "EE. UU. e Irán avanzan hacia un acuerdo mientras crece la división republicana",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-e-iran-avanzan-hacia-un-acuerdo-mientras-crece-la-division-republicana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2015/08/Candidatos-Republicanos.jpg"
     }
   ],
-  "lastUpdate": "2026-05-24T17:01:35.974Z"
+  "lastUpdate": "2026-05-24T19:17:24.711Z"
 }
