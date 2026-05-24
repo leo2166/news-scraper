@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "759,99"
+      "usdt": "755,45"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/sonsoles_zapatero-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-24T09:54:34.168Z"
+  "lastUpdate": "2026-05-24T11:17:19.816Z"
 };
