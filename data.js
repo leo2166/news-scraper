@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "756,00"
+      "usdt": "757,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que el acuerdo con Irán “ha sido en gran medida negociado”",
-      "link": "https://cnnespanol.cnn.com/2026/05/23/mundo/estados-unidos-iran-avances-negociaciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Qué incluye el posible acuerdo entre EE.UU. e Irán?",
+      "link": "https://cnnespanol.cnn.com/2026/05/24/eeuu/trump-iran-acuerdo-fin-guerra-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-finalez-mayo.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "RAMÓN GUILLERMO AVELEDO CUESTIONÓ EXPLICACIÓN SOBRE CIUDADANÍA DE ALEX SAAB",
-      "link": "https://noticierodigital.com/2026/05/ramon-guillermo-aveledo-cuestiono-explicacion-sobre-ciudadania-de-alex-saab/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/ramon-guillermo-aveledo-627x376.jpg"
+      "title": "BANCAMIGA DINAMIZA LA ECONOMÍA NACIONAL CON UN SÓLIDO REPUNTE EN SOLUCIONES DE CONSUMO Y DIVISAS",
+      "link": "https://noticierodigital.com/2026/05/bancamiga-dinamiza-la-economia-nacional-con-un-solido-repunte-en-soluciones-de-consumo-y-divisas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/bancamiga-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide “paz eterna” por víctimas de accidente minero en China",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-paz-eterna-por-victimas-de-accidente-minero-en-china/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/02/5defd382e1c28288788a3a97e1e65be2d874ab76-scaled.jpg"
+      "title": "Abaten a hombre armado tras disparar en zona cercana a la Casa Blanca",
+      "link": "https://laverdad.com/abaten-a-hombre-armado-tras-disparar-en-zona-cercana-a-la-casa-blanca/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/AP26143828411585.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/Marco-Rubio-pg-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-24T15:04:16.025Z"
+  "lastUpdate": "2026-05-24T17:01:35.974Z"
 };
