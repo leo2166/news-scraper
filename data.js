@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "722,00"
+      "usdt": "759,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Agentes del Servicio Secreto mataron a tiros a un hombre cerca de la Casa Blanca",
-      "link": "https://cnnespanol.cnn.com/2026/05/23/eeuu/escuchan-disparos-cerca-casa-blanca-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277368084-20260524005353849.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Rubio dice que se han logrado ‘avances significativos’ en conversaciones con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/23/mundo/estados-unidos-iran-avances-negociaciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/acuerdo-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Servicio Secreto abatió a sujeto que protagonizó tiroteo en alrededores de la Casa Blanca",
-      "link": "https://diarioversionfinal.com/mundo/servicio-secreto-abatio-a-sujeto-que-protagonizo-tiroteo-en-alrededores-de-la-casa-blanca/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Tiroteo-Casa-Blanca-23-05-2026-750x430.jpg"
+      "title": "La esposa de Zapatero pagó una hipoteca de medio millón de euros en solo un año",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/la-esposa-de-zapatero-pago-una-hipoteca-de-medio-millon-de-euros-en-solo-un-ano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/sonsoles_zapatero-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-24T07:48:59.324Z"
+  "lastUpdate": "2026-05-24T09:54:34.168Z"
 };
