@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "754,72"
+      "usdt": "757,32"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Transportistas y autoridades trabajan en un subsidio para estudiantes y personas de la tercera edad",
-      "link": "https://www.bancaynegocios.com/transportistas-y-autoridades-trabajan-en-un-subsidio-para-estudiantes-y-personas-de-la-tercera-edad/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2018/01/camioneta-transporte-pasaje.jpg"
+      "title": "Economía venezolana crecerá 12% con una inflación de 192% al cierre de 2026, según economista",
+      "link": "https://www.bancaynegocios.com/economia-venezolana-crecera-12-porciento-con-una-inflacion-de-192-porciento-al-cierre-de-2026-segun-economista/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cae el petróleo en medio de las negociaciones del acuerdo de paz",
+      "title": "EE.UU. e Irán buscan resolver diferencias sobre sanciones y programa nuclear",
       "link": "https://cnnespanol.cnn.com/2026/05/25/mundo/live-news/iran-guerra-ee-uu-israel-acuerdo-paz-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-y-ee-uu.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado inicia gira internacional en Panamá y se reunirá con el presidente Mulino",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-inicia-gira-internacional-en-panama-y-se-reunira-con-el-presidente-mulino",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/maria-corina-machado-1-7360bd.jpg"
+      "title": "CIDH y cardenales venezolanos evalúan la situación de los derechos humanos y la transición democrática",
+      "link": "https://noticiasvenevision.com/noticias/politica/cidh-y-cardenales-venezolanos-evaluan-la-situacion-de-los-derechos-humanos-y-la-transicion-democratica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comision_cidh-b780f4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CICPC INVESTIGA MUERTE DE JOVEN EN SANTA RITA DE FALCÓN",
-      "link": "https://noticierodigital.com/2026/05/cicpc-investiga-muerte-de-joven-en-santa-rita-de-falcon/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260525-WA0078-627x376.jpg"
+      "title": "AUTORIDADES CONFIRMAN DESTITUCIÓN DEL DIRECTOR DE INJUBA POR DENUNCIAS DE RECLUSOS",
+      "link": "https://noticierodigital.com/2026/05/autoridades-confirman-destitucion-del-director-de-injuba-por-denuncias-de-reclusos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-25-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presunto \"testaferro\" de Zapatero abrió una 'off-shore' en Islas Vírgenes para negocios con Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/presunto-testaferro-de-zapatero-abrio-una-off-shore-en-islas-virgenes-para-negocios-con-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zapatero-19-12-2025-750x430.jpeg"
+      "title": "Lula inicia radioterapia tras extirpación de cáncer de piel",
+      "link": "https://diarioversionfinal.com/mundo/lula-inicia-radioterapia-tras-extirpacion-de-cancer-de-piel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/lula-da-silva-13-de-diciembre-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-25T15:50:55.021Z"
+  "lastUpdate": "2026-05-25T17:43:29.702Z"
 };
