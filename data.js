@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "747,89"
+      "usdt": "753,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué pasará cuando termine la guerra con Irán?",
-      "link": "https://cnnespanol.cnn.com/2026/05/24/eeuu/trump-iran-fin-guerra-gasolina-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276870808.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Por qué el posible acuerdo con Irán podría ser divisivo?",
+      "link": "https://cnnespanol.cnn.com/2026/05/25/eeuu/analisis-acuerdo-trump-iran-polemico-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-11-mayo-2026-casa-blanca.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-24-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-25T03:52:32.000Z"
+  "lastUpdate": "2026-05-25T08:20:58.988Z"
 };
