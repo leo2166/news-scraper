@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "530,50",
-      "eur": "615,50",
-      "fechaValor": "Lunes, 25 Mayo 2026"
+      "usd": "535,39",
+      "eur": "623,50",
+      "fechaValor": "Martes, 26 Mayo 2026"
     },
     "binance": {
-      "usdt": "768,99"
+      "usdt": "769,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán buscan resolver diferencias sobre sanciones y programa nuclear",
+      "title": "Irán continúa con “intensas conversaciones” en Qatar",
       "link": "https://cnnespanol.cnn.com/2026/05/25/mundo/live-news/iran-guerra-ee-uu-israel-acuerdo-paz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-y-ee-uu.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270115907-20260525215803592.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "CIDH y cardenales venezolanos evalúan la situación de los derechos humanos y la transición democrática",
-      "link": "https://noticiasvenevision.com/noticias/politica/cidh-y-cardenales-venezolanos-evaluan-la-situacion-de-los-derechos-humanos-y-la-transicion-democratica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comision_cidh-b780f4.jpg"
+      "title": "Venezuela y Jordania acuerdan estrechar alianzas comerciales y diplomáticas",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-jordania-acuerdan-estrechar-alianzas-comercial-y-diplomatica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/343dc1a0-c2ea-4db7-8dcd-db4079b4add6-836ebc.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIOSDADO CABELLO: «EL ZULIA ESTÁ ARRANCANDO Y ESTO NO LO PARA NADIE»",
-      "link": "https://noticierodigital.com/2026/05/diosdado-cabello-el-zulia-esta-arrancando-y-esto-no-lo-para-nadie/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-13-627x376.png"
+      "title": "JOSÉ RAÚL MULINO Y MCM COINCIDIERON EN IMPULSAR UNA SALIDA DEMOCRÁTICA PARA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/jose-raul-mulino-y-mcm-coincidieron-en-impulsar-una-salida-democratica-para-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/jose-raul-mulino-panama-maria-corina-machado-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-4.15.32-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-25T21:07:01.845Z"
+  "lastUpdate": "2026-05-25T23:02:51.964Z"
 };
