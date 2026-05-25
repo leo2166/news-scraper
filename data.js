@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "756,57"
+      "usdt": "747,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué incluye el posible acuerdo entre EE.UU. e Irán?",
-      "link": "https://cnnespanol.cnn.com/2026/05/24/eeuu/trump-iran-acuerdo-fin-guerra-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-finalez-mayo.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Qué pasará cuando termine la guerra con Irán?",
+      "link": "https://cnnespanol.cnn.com/2026/05/24/eeuu/trump-iran-fin-guerra-gasolina-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276870808.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ramón Guillermo Aveledo: \"La política no es el arte de lo posible, es el arte de hacer posible aquello que es necesario\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/ramon-guillermo-aveledo-la-politica-no-es-el-arte-de-lo-posible-es-el-arte-de-hacer-posible-aquello-que-es-necesario",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3738.jpg-ed4535.jpeg"
+      "title": "Venezuela y Jordania suscriben Memorándums de entendimiento y un acuerdo de cooperación",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-jordania-suscriben-memorandums-de-entendimiento-y-un-acuerdo-de-cooperacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-ae8051.JPG"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACADEMIA NACIONAL DE MEDICINA PIDIÓ REFORZAR CONTROLES POR ALERTA DE ÉBOLA",
-      "link": "https://noticierodigital.com/2026/05/academia-nacional-de-medicina-pidio-reforzar-controles-por-alerta-de-ebola/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/huniades_urbina_.jpg"
+      "title": "TAREK WILLIAM SAAB ANUNCIÓ TALLER CULTURAL DE LA GRAN MISIÓN VIVA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/tarek-william-saab-anuncio-taller-cultural-de-la-gran-mision-viva-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/tarek-william-saab-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rubio: Irán será el único culpable si fracasan las negociaciones con EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/rubio-iran-sera-el-unico-culpable-si-fracasan-las-negociaciones-con-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marco-Rubio-2-28-01-2026-750x430.jpg"
+      "title": "NYT: EE. UU. e Irán alcanzan un acuerdo de principio para abrir el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/nyt-ee-uu-e-iran-alcanzan-un-acuerdo-de-principio-para-abrir-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-24-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-24T23:03:11.582Z"
+  "lastUpdate": "2026-05-25T03:52:32.000Z"
 };
