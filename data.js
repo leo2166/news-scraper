@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 25 Mayo 2026"
     },
     "binance": {
-      "usdt": "757,32"
+      "usdt": "767,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez se enfrenta a las bases chavistas por permitir ejercicio militar de Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/05/25/delcy-rodriguez-se-enfrenta-a-las-bases-chavistas-por-permitir-ejercicio-militar-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/5DJA26PVTVHU5HSI6VPMVXV5WU.jpg?auth=0be03120f8f9612d485f6b46f42467f0d1b696b2c4f2392d6d63de2dd2c7ece0&smart=true&width=350&height=197&quality=85"
+      "title": "Otro motín en una cárcel venezolana motivó la apertura de una investigación penal",
+      "link": "https://www.infobae.com/venezuela/2026/05/25/otro-motin-en-una-carcel-venezolana-motivo-la-apertura-de-una-investigacion-penal/",
+      "image": "https://www.infobae.com/resizer/v2/B2KEOKLKYRE3JC55PBJW75JRYM.JPG?auth=d4e8fe74c6c7950c0236967fcad77101cabf14d72aa47881d419eace17366ad3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "AUTORIDADES CONFIRMAN DESTITUCIÓN DEL DIRECTOR DE INJUBA POR DENUNCIAS DE RECLUSOS",
-      "link": "https://noticierodigital.com/2026/05/autoridades-confirman-destitucion-del-director-de-injuba-por-denuncias-de-reclusos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-25-627x376.png"
+      "title": "DIOSDADO CABELLO: «EL ZULIA ESTÁ ARRANCANDO Y ESTO NO LO PARA NADIE»",
+      "link": "https://noticierodigital.com/2026/05/diosdado-cabello-el-zulia-esta-arrancando-y-esto-no-lo-para-nadie/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-1-13-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV: la IA debe ser “desarmada” del dominio, la exclusión y la muerte",
-      "link": "https://laverdad.com/leon-xiv-la-ia-debe-ser-desarmada-del-dominio-la-exclusion-y-la-muerte/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/cq5dam.web_.800.800-1-1.jpeg"
+      "title": "Exgobernador colombiano abandona carrera presidencial y se une a candidato de izquierda",
+      "link": "https://laverdad.com/exgobernador-colombiano-abandona-carrera-presidencial-y-se-une-a-candidato-de-izquierda/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/HJLEuGQXUAARGjv-1.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/lula-da-silva-13-de-diciembre-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-25T17:43:29.702Z"
+  "lastUpdate": "2026-05-25T19:40:05.020Z"
 };
