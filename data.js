@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 26 Mayo 2026"
     },
     "binance": {
-      "usdt": "766,10"
+      "usdt": "774,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Infancia apagada: crisis eléctrica lesiona los derechos de niñas, niños y adolescentes en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/26/infancia-apagada-crisis-electrica-lesiona-los-derechos-de-ninas-ninos-y-adolescentes-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/RYJFXRNCZA4A4SVYCOCC3WS5UE.jpg?auth=7d4b9e670eb8eba077eecbb6e2d5cb84b99a0586200af08cbc07ccccbb876fde&smart=true&width=350&height=197&quality=85"
+      "title": "Dirigentes opositores aprovechan la amnistía decretada por el chavismo para regresar a Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/26/dirigentes-opositores-aprovechan-la-amnistia-decretada-por-el-chavismo-para-regresar-a-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/EAXE4ZVUYZESVOZ5U5WJVIYBHY.jpg?auth=e9a092dae96cb147a511a461fa88e3d988fb2428773dc9d20659ab93ecf692ba&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«ESEQUIBO SEGUIRÁ SIENDO GUYANÉS Y NO VENEZOLANO», DIJO IRFAAN ALI",
-      "link": "https://noticierodigital.com/2026/05/esequibo-seguira-siendo-guyanes-y-no-venezolano-dijo-irfaan-ali/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/irfaan-ali-627x376.jpg"
+      "title": "EL “POLLO” CARVAJAL ESTARÍA NEGOCIANDO CON LA FISCALÍA DE EE. UU. Y OFRECE INFORMACIÓN SOBRE ZAPATERO",
+      "link": "https://noticierodigital.com/2026/05/el-pollo-carvajal-estaria-negociando-con-la-fiscalia-de-ee-uu-y-ofrece-informacion-sobre-zapatero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/niegansegundapeticionasilo-hugocarvajal-24mar2022-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trama que afecta a Zapatero pudo intervenir en la llegada de González Urrutia a España",
-      "link": "https://laverdad.com/trama-que-afecta-a-zapatero-pudo-intervenir-en-la-llegada-de-gonzalez-urrutia-a-espana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Edmundo-y-Zapatero.jpg"
+      "title": "Abren investigación a Petro por presunta participación en el proceso electoral colombiano",
+      "link": "https://laverdad.com/abren-investigacion-a-petro-por-presunta-participacion-en-el-proceso-electoral-colombiano/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Petro.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Francia apunta a exdirectivo de Plus Ultra en supuesto traslado de oro desde Caracas a Dubái",
-      "link": "https://diarioversionfinal.com/mundo/francia-apunta-a-exdirectivo-de-plus-ultra-en-supuesto-traslado-de-oro-desde-caracas-a-dubai/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/plus-ultra-750x430.jpg"
+      "title": "103 joyas bajo la lupa: peritaje busca valorar piezas halladas en caja fuerte de Zapatero",
+      "link": "https://diarioversionfinal.com/mundo/103-joyas-bajo-la-lupa-peritaje-busca-valorar-piezas-halladas-en-caja-fuerte-de-zapatero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-26-at-2.21.19-PM-580x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-05-26T15:29:18.164Z"
+  "lastUpdate": "2026-05-26T18:26:07.454Z"
 };
