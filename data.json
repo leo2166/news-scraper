@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 26 Mayo 2026"
     },
     "binance": {
-      "usdt": "731,50"
+      "usdt": "766,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fedeagro: Proyecto de Ley del Café excluye al sector privado y la realidad económica nacional",
-      "link": "https://www.bancaynegocios.com/fedeagro-proyecto-de-ley-del-cafe-excluye-al-sector-privado-y-la-realidad-economica-nacional/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/Cafe-Venezuela.jpg"
+      "title": "#Dato: UCV recuperará la administración y los alquileres de la Zona Rental a partir del #1Jun",
+      "link": "https://www.bancaynegocios.com/dato-ucv-recuperara-la-administracion-y-los-alquileres-de-la-zona-rental-a-partir-del-1jun/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2019/11/UCV.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Otro motín en una cárcel venezolana motivó la apertura de una investigación penal",
-      "link": "https://www.infobae.com/venezuela/2026/05/25/otro-motin-en-una-carcel-venezolana-motivo-la-apertura-de-una-investigacion-penal/",
-      "image": "https://www.infobae.com/resizer/v2/B2KEOKLKYRE3JC55PBJW75JRYM.JPG?auth=d4e8fe74c6c7950c0236967fcad77101cabf14d72aa47881d419eace17366ad3&smart=true&width=350&height=197&quality=85"
+      "title": "Infancia apagada: crisis eléctrica lesiona los derechos de niñas, niños y adolescentes en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/26/infancia-apagada-crisis-electrica-lesiona-los-derechos-de-ninas-ninos-y-adolescentes-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/RYJFXRNCZA4A4SVYCOCC3WS5UE.jpg?auth=7d4b9e670eb8eba077eecbb6e2d5cb84b99a0586200af08cbc07ccccbb876fde&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. atacó en el sur de Irán y alega defensa propia",
-      "link": "https://cnnespanol.cnn.com/2026/05/25/mundo/live-news/iran-guerra-ee-uu-israel-acuerdo-paz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270115907-20260525215803592.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán amenaza con tomar represalias tras los ataques estadounidenses",
+      "link": "https://cnnespanol.cnn.com/2026/05/26/mundo/live-news/iran-guerra-ee-uu-israel-acuerdo-ataques-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270115907-20260526112722453.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "LESTER TOLEDO ASEGURÓ QUE ENFRENTA DOS CAUSAS JUDICIALES Y PIDIÓ VOLVER A LA POLÍTICA",
-      "link": "https://noticierodigital.com/2026/05/lester-toledo-aseguro-que-enfrenta-dos-causas-judiciales-y-pidio-volver-a-la-politica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/lester-toledo-1-627x376.jpg"
+      "title": "«ESEQUIBO SEGUIRÁ SIENDO GUYANÉS Y NO VENEZOLANO», DIJO IRFAAN ALI",
+      "link": "https://noticierodigital.com/2026/05/esequibo-seguira-siendo-guyanes-y-no-venezolano-dijo-irfaan-ali/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/irfaan-ali-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lotes de 50.000 toneladas de petróleo, oro y níquel: negocios que ponen a Zapatero bajo la lupa",
-      "link": "https://diarioversionfinal.com/mundo/lotes-de-50-000-toneladas-de-petroleo-oro-y-niquel-negocios-que-ponen-a-zapatero-bajo-la-lupa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/09/EuropaPress_5917729_expresidente_gobierno_jose_luis_rodriguez_zapatero_desayuno_informativo-scaled-1-750x430.jpg"
+      "title": "Francia apunta a exdirectivo de Plus Ultra en supuesto traslado de oro desde Caracas a Dubái",
+      "link": "https://diarioversionfinal.com/mundo/francia-apunta-a-exdirectivo-de-plus-ultra-en-supuesto-traslado-de-oro-desde-caracas-a-dubai/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/plus-ultra-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-26T07:48:20.750Z"
+  "lastUpdate": "2026-05-26T15:29:18.164Z"
 }
