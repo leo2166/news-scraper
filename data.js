@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 27 Mayo 2026"
     },
     "binance": {
-      "usdt": "773,50"
+      "usdt": "733,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Atenas Grupo: venezolanos pagan casi 30% más por cada producto en comparación con 2025",
-      "link": "https://www.bancaynegocios.com/atenas-grupo-venezolanos-pagan-casi-30-porciento-mas-por-cada-producto-en-comparacion-con-2025/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/compras.jpg"
+      "title": "Fedeunep advierte exclusión de sindicatos en propuesta de reforma de la Ley del Trabajo",
+      "link": "https://www.bancaynegocios.com/fedeunep-advierte-exclusion-de-sindicatos-en-propuesta-de-reforma-de-la-ley-del-trabajo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/mintrabajo2-e1779840339628.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Familiares reclamaron a Delcy Rodríguez la liberación de presas políticas en la cárcel de Los Teques",
-      "link": "https://www.infobae.com/venezuela/2026/05/27/familiares-reclamaron-a-delcy-rodriguez-la-liberacion-de-presas-politicas-en-la-carcel-de-los-teques/",
-      "image": "https://www.infobae.com/resizer/v2/KMLPZEFLBBCJXNNIF7EPFOJAGQ.jpg?auth=367d351dbf20dddf8426ca3ecd749d9dd4bc30bb2bd5f3757cc346ebdc0c5ed3&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez encargó a dos altos funcionarios rediseñar el aparato del Estado venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/05/27/delcy-rodriguez-encargo-a-dos-altos-funcionarios-redisenar-el-aparato-del-estado-venezolano/",
+      "image": "https://www.infobae.com/resizer/v2/CGP2STD7NNEFHMBINB64UFRYPQ.jpg?auth=49cca2684eb622b502806080b634dfd38741610ad9d8497a63a399953894755e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez designa a Héctor Rodríguez como comisionado para la restructuración y reingeniería del Gobierno",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-designa-a-hector-rodriguez-como-comisionado-para-la-restructuracion-y-reingenieria-del-gobierno",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hector-rodriguez-1-507c1c.jpg"
+      "title": "TSJ coordinó acciones para la Consulta de Reforma Judicial",
+      "link": "https://noticiasvenevision.com/noticias/politica/tsj-coordino-acciones-para-la-consulta-de-reforma-judicial",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4949746901960035376_x-dd9a8a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FORO PENAL ASEGURÓ QUE AÚN NO SE CONCRETAN LIBERACIONES DEL «CASO PARACAIDISTAS»",
-      "link": "https://noticierodigital.com/2026/05/foro-penal-aseguro-que-aun-no-se-concretan-liberaciones-del-caso-paracaidistas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/AlfredoRomero_amnistia-627x376.jpg"
+      "title": "JORGE ARREAZA PIDIÓ RESPALDAR AL GOBIERNO DE DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/05/jorge-arreaza-pidio-respaldar-al-gobierno-de-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/jorge-arreaza-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. ataca de nuevo a Irán a pesar de las negociaciones para reabrir estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-de-nuevo-a-iran-a-pesar-de-las-negociaciones-para-reabrir-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ataque-EEUU-contra-Iran-26-05-2026-750x430.jpg"
+      "title": "Comparece ante la fiscalía de México gobernador de Sinaloa pedido en extradición por EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/comparece-ante-la-fiscalia-de-mexico-gobernador-de-sinaloa-pedido-en-extradicion-por-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ruben-Rocha-26-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-27T00:04:39.632Z"
+  "lastUpdate": "2026-05-27T05:15:33.970Z"
 };
