@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 27 Mayo 2026"
     },
     "binance": {
-      "usdt": "733,70"
+      "usdt": "769,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez encargó a dos altos funcionarios rediseñar el aparato del Estado venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/05/27/delcy-rodriguez-encargo-a-dos-altos-funcionarios-redisenar-el-aparato-del-estado-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/CGP2STD7NNEFHMBINB64UFRYPQ.jpg?auth=49cca2684eb622b502806080b634dfd38741610ad9d8497a63a399953894755e&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela liberó a ocho militares condenados por “instigación” contra el régimen de Nicolás Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/05/27/venezuela-libero-a-ocho-militares-condenados-por-instigacion-contra-el-regimen-de-nicolas-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/WLNTEMULWBFPFBZK4SK7CLF2T4.jpg?auth=d345ed967fc621376123b5e086898da691c697c93149fc1615209ca327cca966&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán acusa a EE.UU. de violar el alto al fuego y atacar barcos comerciales",
-      "link": "https://cnnespanol.cnn.com/2026/05/26/mundo/live-news/iran-guerra-ee-uu-israel-acuerdo-ataques-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276029086-20260526213958211.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Por qué poner fin a la guerra con Irán podría ser muy difícil para Trump",
+      "link": "https://cnnespanol.cnn.com/2026/05/27/mundo/analisis-trump-buena-salida-guerra-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276616960-20260526233617274-20260527042831580.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ruben-Rocha-26-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-27T05:15:33.970Z"
+  "lastUpdate": "2026-05-27T09:50:18.950Z"
 };
