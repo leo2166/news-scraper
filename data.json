@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 27 Mayo 2026"
     },
     "binance": {
-      "usdt": "775,50"
+      "usdt": "773,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Dirigentes opositores aprovechan la amnistía decretada por el chavismo para regresar a Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/26/dirigentes-opositores-aprovechan-la-amnistia-decretada-por-el-chavismo-para-regresar-a-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/EAXE4ZVUYZESVOZ5U5WJVIYBHY.jpg?auth=e9a092dae96cb147a511a461fa88e3d988fb2428773dc9d20659ab93ecf692ba&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares reclamaron a Delcy Rodríguez la liberación de presas políticas en la cárcel de Los Teques",
+      "link": "https://www.infobae.com/venezuela/2026/05/27/familiares-reclamaron-a-delcy-rodriguez-la-liberacion-de-presas-politicas-en-la-carcel-de-los-teques/",
+      "image": "https://www.infobae.com/resizer/v2/KMLPZEFLBBCJXNNIF7EPFOJAGQ.jpg?auth=367d351dbf20dddf8426ca3ecd749d9dd4bc30bb2bd5f3757cc346ebdc0c5ed3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,15 +33,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional aprobó la designación de Timoteo Zambrano como embajador de Venezuela en España",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-aprobo-la-designacion-de-timoteo-zambrano-como-embajador-de-venezuela-en-espana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/timoteo-zambrano-1200x675-e67dec.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez designa a Héctor Rodríguez como comisionado para la restructuración y reingeniería del Gobierno",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-designa-a-hector-rodriguez-como-comisionado-para-la-restructuracion-y-reingenieria-del-gobierno",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hector-rodriguez-1-507c1c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO INICIARÁ JORNADA PARA ENTREGAR TÍTULOS DE PROPIEDAD A FAMILIAS DE LA GMVV",
-      "link": "https://noticierodigital.com/2026/05/gobierno-iniciara-jornada-para-entregar-titulos-de-propiedad-a-familias-de-la-gmvv/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/jorge-marquez-ministerio-de-habitat-y-viviend-627x376.jpg"
+      "title": "FORO PENAL ASEGURÓ QUE AÚN NO SE CONCRETAN LIBERACIONES DEL «CASO PARACAIDISTAS»",
+      "link": "https://noticierodigital.com/2026/05/foro-penal-aseguro-que-aun-no-se-concretan-liberaciones-del-caso-paracaidistas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/AlfredoRomero_amnistia-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Ataque-EEUU-contra-Iran-26-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-26T22:19:45.616Z"
+  "lastUpdate": "2026-05-27T00:04:39.632Z"
 }
