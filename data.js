@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 28 Mayo 2026"
     },
     "binance": {
-      "usdt": "774,00"
+      "usdt": "774,57"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Análisis: ¿Cuánto se requiere invertir para estabilizar el sistema hídrico de Venezuela?",
-      "link": "https://www.bancaynegocios.com/analisis-cuanto-se-requiere-invertir-para-estabilizar-el-sistema-hidrico-de-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/06/grifo-agua-1-e1696026289992.jpg"
+      "title": "ZEE La Guaira solicita aprobar plan regional de incentivos para inversión extranjera",
+      "link": "https://www.bancaynegocios.com/zee-la-guaira-solicita-aprobar-plan-regional-de-incentivos-para-inversion-extranjera/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/zee_laguaira.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump sobre acuerdo con Irán: “No me importan las elecciones intermedias”",
-      "link": "https://cnnespanol.cnn.com/2026/05/27/mundo/live-news/guerra-iran-ee-uu-gabinete-represalias-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/4c58bbd2-319c-43c0-b184-9d94470ba5fe.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump ha amenazado con atacar a 1 de cada 13 países del mundo",
+      "link": "https://cnnespanol.cnn.com/2026/05/27/eeuu/trump-amenazado-atacar-1-de-13-paises-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276923055-20260527212451267.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Carlos Apitz: \"La reforma de la Ley del TSJ no garantiza independencia ni autonomía\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-la-reforma-de-la-ley-del-tsj-no-garantiza-independencia-ni-autonomia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/az9_25721-36e4c7.jpg"
+      "title": "Exdetenido por razones políticas recupera su vivienda luego de denunciar ocupación ilegal",
+      "link": "https://noticiasvenevision.com/noticias/politica/exdetenido-por-razones-politicas-recupera-su-vivienda-luego-de-denunciar-ocupacion-ilegal",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jose-breijo-1e8ae1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NUEVO VUELO CON DEPORTADOS DESDE EE. UU. ATERRIZÓ EN MAIQUETÍA CON 115 VENEZOLANOS",
-      "link": "https://noticierodigital.com/2026/05/nuevo-vuelo-con-deportados-desde-ee-uu-aterrizo-en-maiquetia-con-115-venezolanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/vuelo-de-deportacion-venezolanos-eeuu-maiquetia-627x376.jpg"
+      "title": "ACTIVARON PLAN DE CONTINGENCIA PARA REHABILITAR PUENTE ENTRE BARQUISIMETO Y CABUDARE",
+      "link": "https://noticierodigital.com/2026/05/activaron-plan-de-contingencia-para-rehabilitar-puente-entre-barquisimeto-y-cabudare/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/puente-santa-rosa-lara-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Zapatero-Martinez-27-05-2026.png"
     }
   ],
-  "lastUpdate": "2026-05-27T21:55:10.749Z"
+  "lastUpdate": "2026-05-27T23:17:46.820Z"
 };
