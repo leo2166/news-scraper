@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 28 Mayo 2026"
     },
     "binance": {
-      "usdt": "773,69"
+      "usdt": "739,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Denuncian que funcionarios chavistas montan granjas de minería en el corazón del sistema eléctrico de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/27/denuncian-que-funcionarios-chavistas-montan-granjas-de-mineria-en-el-corazon-del-sistema-electrico-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/PPWLC6XH35FK7KOIFMQ5PJV7RY.jpg?auth=381b4e664e94d632f517327400406f9fc6a98a067da1b5b6b47b6ea8c996e875&smart=true&width=350&height=197&quality=85"
+      "title": "Un preso político venezolano recuperó su casa tras ser tomada por el régimen, pero encontró la vivienda desvalijada y sin pertenencias",
+      "link": "https://www.infobae.com/venezuela/2026/05/28/un-preso-politico-venezolano-recupero-su-casa-tras-ser-tomada-por-el-regimen-pero-encontro-la-vivienda-desvalijada-y-sin-pertenencias/",
+      "image": "https://www.infobae.com/resizer/v2/WZBSECIWYRG55EC5AILKTYJACM.jpg?auth=b52f67807512fe7c91cf583996ae11fb5d87e78cf2c018781eff17242c142486&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Estados Unidos lanza nuevos ataques en Irán",
+      "title": "EE.UU. e Irán lanzan ataques que ponen a prueba cese al fuego",
       "link": "https://cnnespanol.cnn.com/2026/05/27/mundo/live-news/guerra-iran-ee-uu-gabinete-represalias-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26144495448848-20260528021053399.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260528052755338.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Zapatero-Martinez-27-05-2026.png"
     }
   ],
-  "lastUpdate": "2026-05-28T03:38:22.459Z"
+  "lastUpdate": "2026-05-28T07:58:58.023Z"
 };
