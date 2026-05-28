@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 28 Mayo 2026"
     },
     "binance": {
-      "usdt": "770,89"
+      "usdt": "778,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,40 +21,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Un preso político venezolano recuperó su casa tras ser tomada por el régimen, pero encontró la vivienda desvalijada y sin pertenencias",
-      "link": "https://www.infobae.com/venezuela/2026/05/28/un-preso-politico-venezolano-recupero-su-casa-tras-ser-tomada-por-el-regimen-pero-encontro-la-vivienda-desvalijada-y-sin-pertenencias/",
-      "image": "https://www.infobae.com/resizer/v2/WZBSECIWYRG55EC5AILKTYJACM.jpg?auth=b52f67807512fe7c91cf583996ae11fb5d87e78cf2c018781eff17242c142486&smart=true&width=350&height=197&quality=85"
+      "title": "Familias venezolanas pidieron la libertad de 78 presos en un caso de presunto contrabando en PDVSA",
+      "link": "https://www.infobae.com/venezuela/2026/05/28/familias-venezolanas-pidieron-la-libertad-de-78-presos-en-un-caso-de-presunto-contrabando-en-pdvsa/",
+      "image": "https://www.infobae.com/resizer/v2/GZURRE6NAZECTFP4TGMI5RCFGE.jpg?auth=b01ff198eee92cbb4f03bf57fd335a3aa6cb3c27e7586d275f964136e75a9887&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán lanzan ataques que ponen a prueba cese al fuego",
-      "link": "https://cnnespanol.cnn.com/2026/05/28/mundo/live-news/guerra-iran-ee-uu-israel-ataques-tregua-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276923055-20260527212451267.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Hispanos ante la inflación en EE.UU.: “Si desayuno no puedo almorzar”",
+      "link": "https://cnnespanol.cnn.com/2026/05/28/eeuu/hispanos-eeuu-inseguridad-alimentaria-inflacion-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/inflacion-abril.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Grupo de Amistad Parlamentaria Venezuela-EE.UU. se reunirá con el encargado de negocios John Barrett",
-      "link": "https://noticiasvenevision.com/noticias/politica/grupo-de-amistad-parlamentaria-venezuela-eeuu-se-reunira-con-el-encargado-de-negocios-john-barrett",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-27-at-6.28.04-pm-1-105e9d.jpeg"
+      "title": "Venezuela rechaza declaraciones de Guyana e insiste en negociación directa",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-rechaza-declaraciones-de-guyana-e-insiste-en-negociacion-directa",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4927395441180085517_y-97ca26.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIOSDADO CABELLO MINIMIZÓ LLEGADA DE LESTER TOLEDO A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/diosdado-cabello-minimizo-llegada-de-lester-toledo-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/diosdado-cabello-ven-p-627x376.jpg"
+      "title": "CONDUCTOR BORRACHO CHOCA DE FRENTE Y MATA A JOVEN DE MATURÍN EN MANAOS",
+      "link": "https://noticierodigital.com/2026/05/conductor-borracho-choca-de-frente-y-mata-a-joven-de-maturin-en-manaos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/borracho_brasil-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. aporta a Panamá $3 millones para limpiar el Darién por crisis migratoria",
-      "link": "https://laverdad.com/ee-uu-aporta-a-panama-3-millones-para-limpiar-el-darien-por-crisis-migratoria/",
-      "image": "https://laverdad.com/wp-content/uploads/2024/10/Darien.jpg"
+      "title": "EE. UU. ataca nueva “narcolancha” y mata a sus 2 tripulantes",
+      "link": "https://laverdad.com/ee-uu-ataca-nueva-narcolancha-y-mata-a-sus-2-tripulantes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/narcolancha.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zapatero pierde el control de su \"testaferro\" y teme que pueda colaborar con la Fiscalía",
-      "link": "https://diarioversionfinal.com/mundo/zapatero-pierde-el-control-de-su-testaferro-y-teme-que-pueda-colaborar-con-la-fiscalia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Zapatero-Martinez-27-05-2026.png"
+      "title": "Reportan 238 muertes sospechosas en Congo por nuevo brote de ébola",
+      "link": "https://diarioversionfinal.com/mundo/reporta-238-muertes-sospechosas-en-congo-por-nuevo-brote-de-ebola/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/HJVPS0aW8AAizhG-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-28T11:46:37.175Z"
+  "lastUpdate": "2026-05-28T15:56:02.648Z"
 };
