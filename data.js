@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 28 Mayo 2026"
     },
     "binance": {
-      "usdt": "775,00"
+      "usdt": "780,32"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan bono \"Cuadrantes de Paz\" de mayo de 2026: Aumentó más de 10% en bolívares (+monto)",
-      "link": "https://www.bancaynegocios.com/pagan-bono-cuadrantes-de-paz-de-mayo-de-2026-aumento-mas-de-10-porciento-en-bolivares-monto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
+      "title": "Incrementó más de 4% en bolívares: Pagan bono \"Cultores Populares\" de mayo de 2026",
+      "link": "https://www.bancaynegocios.com/incremento-mas-de-4-porciento-en-bolivares-pagan-bono-cultores-populares-de-mayo-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
@@ -29,32 +29,32 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "EE.UU. e Irán logran acuerdo preliminar sobre Ormuz y diálogo nuclear",
       "link": "https://cnnespanol.cnn.com/2026/05/28/mundo/live-news/guerra-iran-ee-uu-israel-ataques-tregua-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260528103655429.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-28t170031z-1033704711-rc2thlamqxa1-rtrmadp-3-iran-crisis-memorandum-20260528205642310.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela rechaza declaraciones de Guyana e insiste en negociación directa",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-rechaza-declaraciones-de-guyana-e-insiste-en-negociacion-directa",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4927395441180085517_y-97ca26.jpg"
+      "title": "Delegación bielorrusa encabezada por el viceministro de Exteriores visita Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-bielorrusa-encabezada-por-el-viceministro-de-exteriores-visita-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hjxbtqjxeai244r-1-de08c7.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ: «PEREGRINACIÓN NACIONAL NO ES PARTIDISTA»",
-      "link": "https://noticierodigital.com/2026/05/delcy-rodriguez-peregrinacion-nacional-no-es-partidista/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/DelcyRodriguez_28mayo-627x376.jpg"
+      "title": "OCARIZ Y GUANIPA PRESENTAN PLATAFORMA PARA «RECONSTRUCCIÓN» DE VENEZUELA CON APOYO DE EXPERTOS",
+      "link": "https://noticierodigital.com/2026/05/ocariz-y-guanipa-presentan-plataforma-para-reconstruccion-de-venezuela-con-apoyo-de-expertos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260528-WA0164-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Detienen en España a 6 presuntos miembros del “Tren de Aragua”",
-      "link": "https://laverdad.com/detienen-en-espana-a-6-presuntos-miembros-del-tren-de-aragua/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/image-2026-05-28T135216.728.jpg"
+      "title": "Gobierno de EE. UU. presiona para que se impriman billetes de $250 con la cara de Trump",
+      "link": "https://laverdad.com/gobierno-de-ee-uu-presiona-para-que-se-impriman-billetes-de-250-con-la-cara-de-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/g-kj-v-weaa2ill-20260528174726913-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. e Irán alcanzan principio de acuerdo pendiente de aprobación de Trump",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-e-iran-alcanzan-principio-de-acuerdo-pendiente-de-aprobacion-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/turkiye-dahil-4-ulkeden-abd-iran-savasi-icin-cagri-tek-secenek-var-1776756591-560_small.jpg"
+      "title": "OMS alerta que crisis energética en Cuba agrava el riesgo de dengue, chikungunya y malaria",
+      "link": "https://diarioversionfinal.com/mundo/oms-alerta-que-crisis-energetica-en-cuba-agrava-el-riesgo-de-dengue-chikungunya-y-malaria/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/04/Zancudo-Zika-Versión-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-05-28T18:37:42.261Z"
+  "lastUpdate": "2026-05-28T21:08:29.392Z"
 };
