@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "544,58",
-      "eur": "633,48",
-      "fechaValor": "Jueves, 28 Mayo 2026"
+      "usd": "549,37",
+      "eur": "640,14",
+      "fechaValor": "Viernes, 29 Mayo 2026"
     },
     "binance": {
-      "usdt": "780,32"
+      "usdt": "782,32"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El cartel del arroz: así funciona la trama de importaciones y privilegios que asfixia al agro venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/05/28/el-cartel-del-arroz-asi-funciona-la-trama-de-importaciones-y-privilegios-que-asfixia-al-agro-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/52KSDVEHUJBUFFAAIH37GPOML4.png?auth=984110bee4750515fa4cde260e5948460f927b2f9f244831d30152c258f31a92&smart=true&width=350&height=197&quality=85"
+      "title": "Chevron anunció que aumentará hasta un 50% su producción petrolera en Venezuela antes de 2028",
+      "link": "https://www.infobae.com/venezuela/2026/05/28/chevron-anuncio-que-aumentara-hasta-un-50-su-produccion-petrolera-en-venezuela-antes-de-2028/",
+      "image": "https://www.infobae.com/resizer/v2/WTHQJNALCNDVLDDI4WBZOGSQEA.jpg?auth=539f0d02bb2241de940c71d5580411bda2ed956315681413a38558ed0cb3ce48&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán logran acuerdo preliminar sobre Ormuz y diálogo nuclear",
+      "title": "Vance dice que está \"por definirse\" si Trump firmará el acuerdo tentantivo con Irán",
       "link": "https://cnnespanol.cnn.com/2026/05/28/mundo/live-news/guerra-iran-ee-uu-israel-ataques-tregua-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-28t170031z-1033704711-rc2thlamqxa1-rtrmadp-3-iran-crisis-memorandum-20260528205642310.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26147625405982-20260528222456266.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OCARIZ Y GUANIPA PRESENTAN PLATAFORMA PARA «RECONSTRUCCIÓN» DE VENEZUELA CON APOYO DE EXPERTOS",
-      "link": "https://noticierodigital.com/2026/05/ocariz-y-guanipa-presentan-plataforma-para-reconstruccion-de-venezuela-con-apoyo-de-expertos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260528-WA0164-627x376.jpg"
+      "title": "FORO PENAL DENUNCIÓ DETERIORO DE SALUD DE DETENIDA EN ARAGUA",
+      "link": "https://noticierodigital.com/2026/05/foro-penal-denuncio-deterioro-de-salud-de-detenida-en-aragua/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/daniela-arana-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "OMS alerta que crisis energética en Cuba agrava el riesgo de dengue, chikungunya y malaria",
-      "link": "https://diarioversionfinal.com/mundo/oms-alerta-que-crisis-energetica-en-cuba-agrava-el-riesgo-de-dengue-chikungunya-y-malaria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/04/Zancudo-Zika-Versión-Final.jpg"
+      "title": "Citgo niega irregularidades ante nueva demanda en tribunal de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/citgo-niega-irregularidades-ante-nueva-demanda-en-tribunal-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/Citgo-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-05-28T21:08:29.392Z"
+  "lastUpdate": "2026-05-28T23:16:57.783Z"
 };
