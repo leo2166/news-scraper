@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 28 Mayo 2026"
     },
     "binance": {
-      "usdt": "774,57"
+      "usdt": "773,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "ZEE La Guaira solicita aprobar plan regional de incentivos para inversión extranjera",
-      "link": "https://www.bancaynegocios.com/zee-la-guaira-solicita-aprobar-plan-regional-de-incentivos-para-inversion-extranjera/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/zee_laguaira.jpg"
+      "title": "Pagan Bono de Corresponsabilidad y Formación de mayo a trabajadores de nómina especial: equivale a US$120",
+      "link": "https://www.bancaynegocios.com/pagan-bono-de-corresponsabilidad-y-formacion-de-mayo-a-trabajadores-de-nomina-especial-equivale-a-us120/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump ha amenazado con atacar a 1 de cada 13 países del mundo",
-      "link": "https://cnnespanol.cnn.com/2026/05/27/eeuu/trump-amenazado-atacar-1-de-13-paises-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276923055-20260527212451267.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Estados Unidos lanza nuevos ataques en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/05/27/mundo/live-news/guerra-iran-ee-uu-gabinete-represalias-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26144495448848-20260528021053399.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Exdetenido por razones políticas recupera su vivienda luego de denunciar ocupación ilegal",
-      "link": "https://noticiasvenevision.com/noticias/politica/exdetenido-por-razones-politicas-recupera-su-vivienda-luego-de-denunciar-ocupacion-ilegal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jose-breijo-1e8ae1.jpg"
+      "title": "Grupo de Amistad Parlamentaria Venezuela-EE.UU. se reunirá con el encargado de negocios John Barrett",
+      "link": "https://noticiasvenevision.com/noticias/politica/grupo-de-amistad-parlamentaria-venezuela-eeuu-se-reunira-con-el-encargado-de-negocios-john-barrett",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-27-at-6.28.04-pm-1-105e9d.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACTIVARON PLAN DE CONTINGENCIA PARA REHABILITAR PUENTE ENTRE BARQUISIMETO Y CABUDARE",
-      "link": "https://noticierodigital.com/2026/05/activaron-plan-de-contingencia-para-rehabilitar-puente-entre-barquisimeto-y-cabudare/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/puente-santa-rosa-lara-627x376.jpg"
+      "title": "DIOSDADO CABELLO MINIMIZÓ LLEGADA DE LESTER TOLEDO A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/diosdado-cabello-minimizo-llegada-de-lester-toledo-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/diosdado-cabello-ven-p-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Zapatero-Martinez-27-05-2026.png"
     }
   ],
-  "lastUpdate": "2026-05-27T23:17:46.820Z"
+  "lastUpdate": "2026-05-28T03:38:22.459Z"
 }
