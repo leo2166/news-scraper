@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "549,37",
-      "eur": "640,14",
-      "fechaValor": "Viernes, 29 Mayo 2026"
+      "usd": "554,43",
+      "eur": "645,68",
+      "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "771,00"
+      "usdt": "768,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan el incremento del Ingreso Integral de los Trabajadores de mayo a personal activo y a jubilados (+montos)",
-      "link": "https://www.bancaynegocios.com/pagan-el-incremento-del-ingreso-integral-de-los-trabajadores-de-mayo-a-personal-activo-y-a-jubilados-montos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Jubilados y pensionados en Venezuela exigen salarios \"dignos\" y con poder adquisitivo",
+      "link": "https://www.bancaynegocios.com/jubilados-y-pensionados-en-venezuela-exigen-salarios-dignos-y-con-poder-adquisitivo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/Pensionados1.webp"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump está reunido en la Casa Blanca para tomar una decisión sobre Irán",
+      "title": "Trump concluye reunión en la Sala de Crisis sobre Irán sin anunciar una decisión",
       "link": "https://cnnespanol.cnn.com/2026/05/29/mundo/live-news/guerra-iran-ee-uu-israel-nuevos-ataques-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-12t085351z-804505313-rc2j7lawllbw-rtrmadp-3-iran-crisis-daily-life-20260529123225912.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-sala-situacion.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina, la PUD y Con Vzla firman el “Manifiesto de Panamá” por la transición",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-la-pud-y-con-vzla-firman-el-manifiesto-de-panama-por-la-transicion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5ebc5c0184afbd44729c7fe5df90cf85b8ace688-860x574-f8cc2e.jpg"
+      "title": "Aníbal Sánchez plantea una reforma estructural profunda del CNE frente a las exigencias del “Manifiesto de Panamá”",
+      "link": "https://noticiasvenevision.com/noticias/politica/anibal-sanchez-plantea-una-reforma-estructural-profunda-del-cne-frente-a-las-exigencias-del-manifiesto-de-panama",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img-20250425-wa02801-94e6b6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP SE PREPARA PARA TOMAR «SU DECISIÓN FINAL» SOBRE IRÁN",
-      "link": "https://noticierodigital.com/2026/05/trump-se-prepara-para-tomar-su-decision-final-sobre-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/donald-trump-venezuela-627x376.jpg"
+      "title": "«LO QUE TIENE QUE HABER SON ELECCIONES PRESIDENCIALES», DIJO CAPRILES",
+      "link": "https://noticierodigital.com/2026/05/lo-que-tiene-que-haber-son-elecciones-presidenciales-dijo-capriles/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/henrique-capriles-radonski-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula a EE. UU.: “No aceptamos ser tratados como niños ni como una republiquita”",
-      "link": "https://diarioversionfinal.com/mundo/lula-a-ee-uu-no-aceptamos-ser-tratados-como-ninos-ni-como-una-republiquita/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/lula-26-de-marzo-750x430.jpeg"
+      "title": "YouTube etiquetará de forma automática los videos que hagan uso de la Inteligencia Artificial",
+      "link": "https://diarioversionfinal.com/mundo/youtube-etiquetara-de-forma-automatica-los-videos-que-hagan-uso-de-la-inteligencia-artificial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Screenshot_20260529_092926_Chrome-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-29T18:33:05.032Z"
+  "lastUpdate": "2026-05-29T21:07:40.435Z"
 };
