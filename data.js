@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "764,44"
+      "usdt": "761,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Asamblea Nacional convocará a empresarios turcos por los altos precios del cemento",
-      "link": "https://www.bancaynegocios.com/asamblea-nacional-convocara-a-empresarios-turcos-por-los-altos-precios-del-cemento/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/AsambleaNacional.jpg"
+      "title": "Inflación, tasa de cambio y fallas eléctricas: Los 3 puntos importantes a resolver en Venezuela, según economista",
+      "link": "https://www.bancaynegocios.com/inflacion-tasa-de-cambio-y-fallas-electricas-los-3-puntos-importantes-a-resolver-en-venezuela-segun-economista/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "Jubilados y pensionados marcharon en Caracas para reclamar salarios que permitan cubrir alimentos y medicinas",
-      "link": "https://www.infobae.com/venezuela/2026/05/29/jubilados-y-pensionados-marcharon-en-caracas-para-reclamar-salarios-que-permitan-cubrir-alimentos-y-medicinas/",
-      "image": "https://www.infobae.com/resizer/v2/WUZ7JAYZMZBYDI3JFJZCYQDABU.jpg?auth=642d3515f9c77d603670c2e33cd312e59249a1696f707f2460309ad0f741255b&smart=true&width=350&height=197&quality=85"
+      "title": "Denuncian irregularidades en la condena contra siete personas por el supuesto plan para secuestrar a Diosdado Cabello",
+      "link": "https://www.infobae.com/venezuela/2026/05/30/denuncian-irregularidades-en-la-condena-contra-siete-personas-por-el-supuesto-plan-para-secuestrar-a-diosdado-cabello/",
+      "image": "https://www.infobae.com/resizer/v2/C5AZK7A5FFCWTFQP27VFI4LI4E.jpg?auth=9e8e8613e590f17ca38ef0bafd516fb0a50901ff3de66c5bed6a7616b342251e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SI GANA ELECCIONES EN COLOMBIA: DE LA ESPRIELLA USARÁ A RUBIO COMO INTERLOCUTOR CON VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/si-gana-elecciones-en-colombia-de-la-espriella-usara-a-rubio-como-interlocutor-con-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Espriella-627x376.jpg"
+      "title": "EXXON MOBIL ANALIZA LOS RIESGOS DE INVERSIÓN ANTE UN EVENTUAL REGRESO A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/05/exxon-mobil-analiza-los-riesgos-de-inversion-ante-un-eventual-regreso-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/exxonmobil-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Arrestan a un agente de ICE acusado de disparar a un migrante venezolano en Minnesota",
-      "link": "https://laverdad.com/arrestan-a-un-agente-de-ice-acusado-de-disparar-a-un-migrante-venezolano-en-minnesota/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/image-2026-05-29T141851.140-scaled.jpg"
+      "title": "La Habana confirma reunión militar de alto rango con EE. UU.",
+      "link": "https://laverdad.com/la-habana-confirma-reunion-militar-de-alto-rango-con-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/648ff99e0e616d14865c94a965e15cc7da4d2b5a.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Desmantelan célula del Tren de Aragua en Madrid: emboscaban víctimas en apartamentos vacacionales",
-      "link": "https://diarioversionfinal.com/mundo/desmantelan-celula-del-tren-de-aragua-en-madrid-emboscaban-victimas-en-apartamentos-vacacionales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/policia-nacional-desarticula-organizacion-criminal-dedicada-introduccion-heroina-cocaina-badajoz_96-750x430.webp"
+      "title": "Director general de la OMS llega a Ituri, epicentro de ébola en RDC",
+      "link": "https://diarioversionfinal.com/mundo/director-general-de-la-oms-llega-a-ituri-epicentro-de-ebola-en-rdc/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/descarga-91-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-30T13:39:01.755Z"
+  "lastUpdate": "2026-05-30T15:06:45.692Z"
 };
