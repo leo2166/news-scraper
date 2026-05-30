@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "761,00"
+      "usdt": "762,97"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,33 +15,27 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inflación, tasa de cambio y fallas eléctricas: Los 3 puntos importantes a resolver en Venezuela, según economista",
-      "link": "https://www.bancaynegocios.com/inflacion-tasa-de-cambio-y-fallas-electricas-los-3-puntos-importantes-a-resolver-en-venezuela-segun-economista/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Estiman que Venezuela podría tener un crecimiento económico entre 7% y 10% en el segundo semestre",
+      "link": "https://www.bancaynegocios.com/estiman-que-venezuela-podria-tener-un-crecimiento-economico-entre-7-y-10-porciento-en-el-segundo-semestre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresBilletesNominacionDivisas.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Denuncian irregularidades en la condena contra siete personas por el supuesto plan para secuestrar a Diosdado Cabello",
-      "link": "https://www.infobae.com/venezuela/2026/05/30/denuncian-irregularidades-en-la-condena-contra-siete-personas-por-el-supuesto-plan-para-secuestrar-a-diosdado-cabello/",
-      "image": "https://www.infobae.com/resizer/v2/C5AZK7A5FFCWTFQP27VFI4LI4E.jpg?auth=9e8e8613e590f17ca38ef0bafd516fb0a50901ff3de66c5bed6a7616b342251e&smart=true&width=350&height=197&quality=85"
+      "title": "Edmundo González dijo que es momento de generar las condiciones para unas elecciones “libres y democráticas” en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/05/30/edmundo-gonzalez-dijo-que-es-momento-de-generar-las-condiciones-para-unas-elecciones-libres-y-democraticas-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/UKSHN5DTCBFXBKFSBBLFXXDP5E.JPG?auth=b891c8fc8467324449e751c5ee34b85166f4674c103b7da22ab6f4ee6f4247e5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Rescatan a cuatro aldeanos más de una cueva inundada en Laos",
-      "link": "https://cnnespanol.cnn.com/2026/05/29/mundo/live-news/laos-cueva-mision-rescate-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-05-29-at-18-11-32.jpeg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Hegseth afirma que EE.UU. está listo para retomar los combates si es necesario",
+      "link": "https://cnnespanol.cnn.com/2026/05/29/mundo/live-news/guerra-iran-ee-uu-israel-nuevos-ataques-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-iran-20260530002853552.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "AN podría aprobar en junio nueva Ley de Protección de la Actividad Ganadera",
       "link": "https://noticiasvenevision.com/noticias/politica/an-podria-aprobar-en-junio-nueva-ley-de-proteccion-de-la-actividad-ganadera",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_asamblea-nacional-nueva-feee4f.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "EXXON MOBIL ANALIZA LOS RIESGOS DE INVERSIÓN ANTE UN EVENTUAL REGRESO A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/05/exxon-mobil-analiza-los-riesgos-de-inversion-ante-un-eventual-regreso-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/exxonmobil-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +45,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Director general de la OMS llega a Ituri, epicentro de ébola en RDC",
-      "link": "https://diarioversionfinal.com/mundo/director-general-de-la-oms-llega-a-ituri-epicentro-de-ebola-en-rdc/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/descarga-91-750x430.jpg"
+      "title": "EE.UU. ataca una nueva lancha en el Pacífico y mata a tres presuntos narcotraficantes",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-una-nueva-lancha-en-el-pacifico-y-mata-a-tres-presuntos-narcotraficantes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/botes-lanchas-caribe-ilustracion-ataques-1024x512.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-05-30T15:06:45.692Z"
+  "lastUpdate": "2026-05-30T17:05:12.367Z"
 }
