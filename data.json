@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "768,17"
+      "usdt": "768,47"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Estiman que Venezuela podría tener un crecimiento económico entre 7% y 10% en el segundo semestre",
-      "link": "https://www.bancaynegocios.com/estiman-que-venezuela-podria-tener-un-crecimiento-economico-entre-7-y-10-porciento-en-el-segundo-semestre/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresBilletesNominacionDivisas.jpg"
+      "title": "Equipo económico de Venezuela sostuvo una reunión con el FMI: Hablaron sobre la recuperación de fondos de la República",
+      "link": "https://www.bancaynegocios.com/equipo-economico-de-venezuela-sostuvo-una-reunion-con-el-fmi-hablaron-sobre-la-recuperacion-de-fondos-de-la-republica/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/ReunionAutoridadesVenezuelaFMI.jpg"
     },
     {
       "source": "Infobae",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PILIERI: «NO DESCANSAREMOS HASTA LIBERAR TODOS LOS PRESOS POLÍTICOS Y LOGRAR CRONOGRAMA PRESIDENCIAL”",
-      "link": "https://noticierodigital.com/2026/05/pilieri-no-descansaremos-hasta-liberar-todos-los-presos-politicos-y-lograr-cronograma-presidencial/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260530-WA0127-627x376.jpg"
+      "title": "ADÁN CHÁVEZ DIJO QUE SITUACIÓN EN CÁRCEL DE BARINAS ESTÁ BAJO CONTROL",
+      "link": "https://noticierodigital.com/2026/05/adan-chavez-dijo-que-situacion-en-carcel-de-barinas-esta-bajo-control/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/adan-chavez-barinas-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "La Habana confirma reunión militar de alto rango con EE. UU.",
-      "link": "https://laverdad.com/la-habana-confirma-reunion-militar-de-alto-rango-con-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/648ff99e0e616d14865c94a965e15cc7da4d2b5a.jpg"
+      "title": "EE. UU. ataca una nueva lancha en el Pacífico y deja tres muertos",
+      "link": "https://laverdad.com/ee-uu-ataca-una-nueva-lancha-en-el-pacifico-y-deja-tres-muertos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/Ataque_Lancha.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-30-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-30T19:16:14.246Z"
+  "lastUpdate": "2026-05-30T20:57:53.253Z"
 }
