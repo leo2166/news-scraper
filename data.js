@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "767,32"
+      "usdt": "766,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/EuropaPress_7148872_expresidente_gobierno_jose_luis_rodriguez_zapatero_acto_homenaje_jose-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-30T03:27:06.210Z"
+  "lastUpdate": "2026-05-30T06:45:32.694Z"
 };
