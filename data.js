@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "762,97"
+      "usdt": "768,17"
     },
     "kontigo": {
       "usd": "N/A"
@@ -38,6 +38,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_asamblea-nacional-nueva-feee4f.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PILIERI: «NO DESCANSAREMOS HASTA LIBERAR TODOS LOS PRESOS POLÍTICOS Y LOGRAR CRONOGRAMA PRESIDENCIAL”",
+      "link": "https://noticierodigital.com/2026/05/pilieri-no-descansaremos-hasta-liberar-todos-los-presos-politicos-y-lograr-cronograma-presidencial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/IMG-20260530-WA0127-627x376.jpg"
+    },
+    {
       "source": "La Verdad",
       "title": "La Habana confirma reunión militar de alto rango con EE. UU.",
       "link": "https://laverdad.com/la-habana-confirma-reunion-militar-de-alto-rango-con-ee-uu/",
@@ -45,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. ataca una nueva lancha en el Pacífico y mata a tres presuntos narcotraficantes",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-ataca-una-nueva-lancha-en-el-pacifico-y-mata-a-tres-presuntos-narcotraficantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/botes-lanchas-caribe-ilustracion-ataques-1024x512.jpg-750x430.webp"
+      "title": "Trump se vuelve a atascar con Ormuz: Irán dice tener control y amenaza con bombardeos",
+      "link": "https://diarioversionfinal.com/mundo/trump-se-vuelve-a-atascar-con-ormuz-iran-dice-tener-control-y-amenaza-con-bombardeos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-30-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-05-30T17:05:12.367Z"
+  "lastUpdate": "2026-05-30T19:16:14.246Z"
 };
