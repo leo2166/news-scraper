@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "766,69"
+      "usdt": "766,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -29,7 +29,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Rescatan a cuatro aldeanos más de una cueva inundada en Laos",
       "link": "https://cnnespanol.cnn.com/2026/05/29/mundo/live-news/laos-cueva-mision-rescate-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/laos02-ap26149507996887-20260530021450143.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-05-29-at-18-11-32.jpeg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/EuropaPress_7148872_expresidente_gobierno_jose_luis_rodriguez_zapatero_acto_homenaje_jose-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-30T09:17:55.105Z"
+  "lastUpdate": "2026-05-30T11:20:34.495Z"
 };
