@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "767,70"
+      "usdt": "767,32"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inician pago del Bono de Responsabilidad Profesional de mayo a trabajadores (+montos)",
-      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-de-responsabilidad-profesional-de-mayo-a-trabajadores-montos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
+      "title": "Asamblea Nacional convocará a empresarios turcos por los altos precios del cemento",
+      "link": "https://www.bancaynegocios.com/asamblea-nacional-convocara-a-empresarios-turcos-por-los-altos-precios-del-cemento/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/AsambleaNacional.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump concluye reunión en la Sala de Crisis sobre Irán sin anunciar una decisión",
-      "link": "https://cnnespanol.cnn.com/2026/05/29/mundo/live-news/guerra-iran-ee-uu-israel-nuevos-ataques-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-sala-situacion.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Comandante de EE.UU. se reunió con altos mandos militares de Cuba",
+      "link": "https://cnnespanol.cnn.com/2026/05/29/eeuu/jefe-comando-sur-reunion-mandos-militares-cuba-guantanamo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-05-29-at-18-11-32.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Resultados electorales de Colombia implicarían consecuencias económicas y políticas en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/resultados-electorales-de-colombia-implicarian-consecuencias-economicas-y-politicas-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-29-at-5.45.26-pm-821ad8.jpeg"
+      "title": "AN podría aprobar en junio nueva Ley de Protección de la Actividad Ganadera",
+      "link": "https://noticiasvenevision.com/noticias/politica/an-podria-aprobar-en-junio-nueva-ley-de-proteccion-de-la-actividad-ganadera",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_asamblea-nacional-nueva-feee4f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 130 VENEZOLANOS RETORNARON DESDE EE. UU. EN NUEVO VUELO DE DEPORTACIÓN",
-      "link": "https://noticierodigital.com/2026/05/mas-de-130-venezolanos-retornaron-desde-ee-uu-en-nuevo-vuelo-de-deportacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/vuelo-de-deportacion-venezolanos-eeuu-1-627x376.jpg"
+      "title": "OPERATIVO MILITAR DEJÓ SEIS ARRESTADOS POR PRESUNTO TRÁFICO DE DROGAS EN CARACAS",
+      "link": "https://noticierodigital.com/2026/05/operativo-militar-dejo-seis-arrestados-por-presunto-trafico-de-drogas-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/fanb-detencion-caracas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jefe del Comando Sur se reúne con alto mando del Ejército cubano en Guantánamo",
-      "link": "https://diarioversionfinal.com/mundo/jefe-del-comando-sur-se-reune-con-alto-mando-del-ejercito-cubano-en-guantanamo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Jefe-del-Comando-Sur-Cuba-586x375-1.jpg"
+      "title": "Policía española detectó al presunto testaferro de Zapatero viajando a Caracas con directivos de Plus Ultra",
+      "link": "https://diarioversionfinal.com/mundo/policia-espanola-detecto-al-presunto-testaferro-de-zapatero-viajando-a-caracas-con-directivos-de-plus-ultra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/EuropaPress_7148872_expresidente_gobierno_jose_luis_rodriguez_zapatero_acto_homenaje_jose-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-29T23:12:51.753Z"
+  "lastUpdate": "2026-05-30T03:27:06.210Z"
 };
