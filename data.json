@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "772,50"
+      "usdt": "770,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Análisis: Moneda venezolana pierde casi la mitad de su valor frente al dólar en lo que va de 2026",
-      "link": "https://www.bancaynegocios.com/analisis-moneda-venezolana-pierde-casi-la-mitad-de-su-valor-frente-al-dolar-en-lo-que-va-de-2026/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "#Dato: Alrededor del 60% de las transacciones en los supermercados pasan por el autopago",
+      "link": "https://www.bancaynegocios.com/dato-alrededor-del-60-porciento-de-las-transacciones-en-los-supermercados-pasan-por-el-autopago/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/01/supermercados-alimentos-e1652096937694.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Colombia elige presidente entre continuidad o cambio",
+      "title": "De la Espriella lidera el preconteo de votos y es seguido por Cepeda",
       "link": "https://cnnespanol.cnn.com/2026/05/31/colombia/live-news/elecciones-presidenciales-cepeda-abelardo-paloma-resultados-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-cepeda-paloma-abelardo-gettyimages-2275716328.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/photo-collage-png-20260531215713000.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Roberto Marero: \"Estamos en un país en el que hay que construir consensos que no los hay\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/roberto-marero-estamos-en-un-pais-en-el-que-hay-que-construir-consensos-que-no-los-hay",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-30-at-1.44.10-pm-79f314.jpeg"
+      "title": "Plataforma Unitaria Democrática se movilizó en Zulia para pedir condiciones electorales",
+      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-democratica-se-movilizo-en-zulia-para-pedir-condiciones-electorales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4963469386895264688_y-1068x601-1-e4540f.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel mata a 33 gazatíes en 96 horas de ataques durante festividad musulmana",
-      "link": "https://diarioversionfinal.com/mundo/israel-mata-a-33-gazaties-en-96-horas-de-ataques-durante-festividad-musulmana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Gaza-31-05-2026.jpg"
+      "title": "Fallece preso político Brooklyn Rivera, “desaparecido” hace dos años y medio por Daniel Ortega",
+      "link": "https://diarioversionfinal.com/mundo/fallece-preso-politico-brooklyn-rivera-desaparecido-hace-dos-anos-y-medio-por-daniel-ortega/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Brooklin-Rivera-31-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-31T20:08:05.563Z"
+  "lastUpdate": "2026-05-31T22:00:04.277Z"
 }
