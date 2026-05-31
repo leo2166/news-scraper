@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "772,69"
+      "usdt": "772,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump devuelve propuesta de acuerdo a Irán y endurece sus exigencias",
-      "link": "https://cnnespanol.cnn.com/2026/05/31/eeuu/trump-devuelve-propuesta-paz-iran-modificaciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277835548.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Colombia elige presidente entre continuidad o cambio",
+      "link": "https://cnnespanol.cnn.com/2026/05/31/colombia/live-news/elecciones-presidenciales-cepeda-abelardo-paloma-resultados-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-cepeda-paloma-abelardo-gettyimages-2275716328.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela denuncia “operación de manipulación\" de Guyana tras falsas acusaciones de incidentes armados",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-denuncia-operacion-de-manipulacion-de-guyana-tras-falsas-acusaciones-de-incidentes-armados",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comunicado-8b968f.png"
+      "title": "Roberto Marero: \"Estamos en un país en el que hay que construir consensos que no los hay\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/roberto-marero-estamos-en-un-pais-en-el-que-hay-que-construir-consensos-que-no-los-hay",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-05-30-at-1.44.10-pm-79f314.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ADÁN CHÁVEZ DIJO QUE SITUACIÓN EN CÁRCEL DE BARINAS ESTÁ BAJO CONTROL",
-      "link": "https://noticierodigital.com/2026/05/adan-chavez-dijo-que-situacion-en-carcel-de-barinas-esta-bajo-control/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/adan-chavez-barinas-627x376.jpg"
+      "title": "EL PAPA FRANCISCO EXIGE A LOS LÍDERES MUNDIALES PRIORIZAR LA DIPLOMACIA ANTE LA GUERRA",
+      "link": "https://noticierodigital.com/2026/05/el-papa-francisco-exige-a-los-lideres-mundiales-priorizar-la-diplomacia-ante-la-guerra/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/papa8may-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Colombia vota hoy en elecciones presidenciales para suceder a Gustavo Petro",
-      "link": "https://diarioversionfinal.com/mundo/colombia-vota-hoy-en-elecciones-presidenciales-para-suceder-a-gustavo-petro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/votacion-colombia-2025-900x600-1-750x430.jpg"
+      "title": "Israel mata a 33 gazatíes en 96 horas de ataques durante festividad musulmana",
+      "link": "https://diarioversionfinal.com/mundo/israel-mata-a-33-gazaties-en-96-horas-de-ataques-durante-festividad-musulmana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Gaza-31-05-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-05-31T18:02:26.139Z"
+  "lastUpdate": "2026-05-31T20:08:05.563Z"
 }
