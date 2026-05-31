@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "734,39"
+      "usdt": "736,38"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Presos-en-Francia-30-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-31T08:45:15.544Z"
+  "lastUpdate": "2026-05-31T10:57:54.416Z"
 };
