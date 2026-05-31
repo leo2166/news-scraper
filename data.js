@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "773,50"
+      "usdt": "770,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Equipo económico de Venezuela sostuvo una reunión con el FMI: Hablaron sobre la recuperación de fondos de la República",
-      "link": "https://www.bancaynegocios.com/equipo-economico-de-venezuela-sostuvo-una-reunion-con-el-fmi-hablaron-sobre-la-recuperacion-de-fondos-de-la-republica/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/ReunionAutoridadesVenezuelaFMI.jpg"
+      "title": "#Dato: Desde este #1Jun la tarifa del transporte urbano en el país será de Bs. 140",
+      "link": "https://www.bancaynegocios.com/dato-desde-este-1jun-la-tarifa-del-transporte-urbano-en-el-pais-sera-de-bs-140/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2018/01/camioneta-pasaje.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Mensajes del Gobierno de Trump sobre la \"green card\" generan confusión y ansiedad",
-      "link": "https://cnnespanol.cnn.com/2026/05/30/eeuu/gobierno-trump-mensajes-green-card-confusion-ansiedad-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-30-152946.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los túneles reabiertos por Irán exponen límites de los bombardeos de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/05/31/mundo/eeuu-iran-guerra-misiles-reapertura-bunkeres-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-30-144809.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. ataca una nueva lancha en el Pacífico y deja tres muertos",
-      "link": "https://laverdad.com/ee-uu-ataca-una-nueva-lancha-en-el-pacifico-y-deja-tres-muertos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/Ataque_Lancha.jpg"
+      "title": "Papa León XIV pide a los líderes del mundo buscar una “paz justa y duradera”",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-a-los-lideres-del-mundo-buscar-una-paz-justa-y-duradera/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/174e281ebbd89f26defb3aef71e7b9225e1f8511-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Celebración del PSG genera disturbios en Francia: más de 400 detenidos y siete policías heridos",
-      "link": "https://diarioversionfinal.com/mundo/celebracion-del-psg-genera-disturbios-en-francia-mas-de-400-detenidos-y-siete-policias-heridos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Presos-en-Francia-30-05-2026-750x430.jpg"
+      "title": "Gobierno de España subvencionó con 12,6 millones de euros a una empresa china ligada a Zapatero",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-espana-subvenciono-con-126-millones-de-euros-a-una-empresa-china-ligada-a-zapatero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/07/José-Luis-Rodríguez-Zapatero-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-31T12:14:42.233Z"
+  "lastUpdate": "2026-05-31T14:44:38.330Z"
 };
