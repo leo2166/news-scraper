@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "768,69"
+      "usdt": "765,32"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Hegseth afirma que EE.UU. está listo para retomar los combates si es necesario",
-      "link": "https://cnnespanol.cnn.com/2026/05/29/mundo/live-news/guerra-iran-ee-uu-israel-nuevos-ataques-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-iran-20260530002853552.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Puntos clave del acuerdo que negocian EE.UU. e Irán para poner fin a la guerra",
+      "link": "https://cnnespanol.cnn.com/2026/05/30/mundo/puntos-clave-memorando-eeuuu-iran-fin-guerra-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-30-144809.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Colombia elige al sucesor de Petro en medio de clima tenso por violencia armada",
-      "link": "https://diarioversionfinal.com/mundo/colombia-elige-al-sucesor-de-petro-en-medio-de-clima-tenso-por-violencia-armada/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Elecciones-Colombia-30-05-2026-696x430.png"
+      "title": "A Trump le ha costado recuperar tránsito por Ormuz y reitera amenazas de guerra contra Irán",
+      "link": "https://diarioversionfinal.com/mundo/a-trump-le-ha-costado-recuperar-transito-por-ormuz-y-reitera-amenazas-de-guerra-contra-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
     }
   ],
-  "lastUpdate": "2026-05-30T22:04:57.145Z"
+  "lastUpdate": "2026-05-31T00:00:56.166Z"
 }
