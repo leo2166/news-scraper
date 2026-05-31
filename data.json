@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "773,00"
+      "usdt": "734,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Guyana denunció que un soldado resultó herido tras un tiroteo en la frontera con Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/05/30/guyana-denuncio-que-un-soldado-resulto-herido-tras-un-tiroteo-en-la-frontera-con-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/5TOZP6APWJHVVPM7K7GBNYJQR4.jpg?auth=2b6b7748962b2f44799e152869955b50f6b22819b888059297775e08f10a66fe&smart=true&width=350&height=197&quality=85"
+      "title": "Miles de venezolanos se manifestaron en pedido de elecciones presidenciales y la libertad de todos los presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/05/31/miles-de-venezolanos-se-manifestaron-en-pedido-de-elecciones-presidenciales-y-la-libertad-de-todos-los-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/R6JGA6YR5FAZDBD3WSPAGPIRVQ.JPG?auth=2e0b425fd511cfe16ddac19e1ea629da8fe15d1fc4c1030c82aa57fe413a710e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Presos-en-Francia-30-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-31T05:17:52.009Z"
+  "lastUpdate": "2026-05-31T08:45:15.544Z"
 }
