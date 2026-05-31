@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 01 Junio 2026"
     },
     "binance": {
-      "usdt": "774,00"
+      "usdt": "772,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: Desde este #1Jun la tarifa del transporte urbano en el país será de Bs. 140",
-      "link": "https://www.bancaynegocios.com/dato-desde-este-1jun-la-tarifa-del-transporte-urbano-en-el-pais-sera-de-bs-140/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2018/01/camioneta-pasaje.jpg"
+      "title": "#Análisis: Moneda venezolana pierde casi la mitad de su valor frente al dólar en lo que va de 2026",
+      "link": "https://www.bancaynegocios.com/analisis-moneda-venezolana-pierde-casi-la-mitad-de-su-valor-frente-al-dolar-en-lo-que-va-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los túneles reabiertos por Irán exponen límites de los bombardeos de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/05/31/mundo/eeuu-iran-guerra-misiles-reapertura-bunkeres-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277835548.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Trump devuelve propuesta de acuerdo a Irán y endurece sus exigencias",
+      "link": "https://cnnespanol.cnn.com/2026/05/31/eeuu/trump-devuelve-propuesta-paz-iran-modificaciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277835548.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide a los líderes del mundo buscar una “paz justa y duradera”",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-a-los-lideres-del-mundo-buscar-una-paz-justa-y-duradera/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/05/174e281ebbd89f26defb3aef71e7b9225e1f8511-scaled.jpg"
+      "title": "Más de 41 millones de colombianos votan en primera vuelta presidencial",
+      "link": "https://laverdad.com/mas-de-41-millones-de-colombianos-votan-en-primera-vuelta-presidencial/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/05/78d34de315594ba4fdd57da04d3f0d3d9f4c21cd.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de España subvencionó con 12,6 millones de euros a una empresa china ligada a Zapatero",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-de-espana-subvenciono-con-126-millones-de-euros-a-una-empresa-china-ligada-a-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/07/José-Luis-Rodríguez-Zapatero-750x430.jpg"
+      "title": "Colombia vota hoy en elecciones presidenciales para suceder a Gustavo Petro",
+      "link": "https://diarioversionfinal.com/mundo/colombia-vota-hoy-en-elecciones-presidenciales-para-suceder-a-gustavo-petro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/votacion-colombia-2025-900x600-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-05-31T16:08:56.383Z"
+  "lastUpdate": "2026-05-31T18:02:26.139Z"
 };
