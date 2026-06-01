@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "554,43",
-      "eur": "645,68",
-      "fechaValor": "Lunes, 01 Junio 2026"
+      "usd": "557,97",
+      "eur": "648,24",
+      "fechaValor": "Martes, 02 Junio 2026"
     },
     "binance": {
-      "usdt": "770,35"
+      "usdt": "768,29"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Seniat anuncia recaudación por encima de los Bs.486 millardos en mayo",
-      "link": "https://www.bancaynegocios.com/seniat-anuncia-recaudacion-por-encima-de-los-bs-486-millardos-en-mayo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/Seniat-e1746126569928.jpg"
+      "title": "Transportistas anuncian ajuste mensual en el precio del pasaje urbano",
+      "link": "https://www.bancaynegocios.com/transportistas-anuncian-ajuste-mensual-en-el-precio-del-pasaje-urbano/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/02/TRANSPORTE-PUBLICO-e1710890188125.jpg"
     },
     {
       "source": "Infobae",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "RESCATARON A OCHO PESCADORES QUE HABÍAN QUEDADO A LA DERIVA EN PARAGUANÁ",
-      "link": "https://noticierodigital.com/2026/06/rescataron-a-ocho-pescadores-que-habian-quedado-a-la-deriva-en-paraguana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/Diseno-sin-titulo-5-627x376.png"
+      "title": "MAS PUSO A COLOMBIA COMO EJEMPLO ELECTORAL PARA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/mas-puso-a-colombia-como-ejemplo-electoral-para-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/maria-verdeal-mas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "José Goyo Morales revela los desafíos emocionales que enfrentan los inmigrantes",
-      "link": "https://diarioversionfinal.com/mundo/jose-goyo-morales-revela-los-desafios-emocionales-que-enfrentan-los-inmigrantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-12.19.57-PM-750x430.jpeg"
+      "title": "Tribunal de apelaciones declara ilegal veto de Trump a militares transgénero",
+      "link": "https://diarioversionfinal.com/mundo/tribunal-de-apelaciones-declara-ilegal-veto-de-trump-a-militares-transgenero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/4QKZVHWEO2KZ2QC664R64U4XBU-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-01T20:55:08.639Z"
+  "lastUpdate": "2026-06-01T23:02:11.066Z"
 }
