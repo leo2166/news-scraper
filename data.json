@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 02 Junio 2026"
     },
     "binance": {
-      "usdt": "761,89"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,7 +27,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que podría alcanzar un acuerdo con Irán “la próxima semana”",
+      "title": "Trump expresó su enfado en una llamada con Netanyahu",
       "link": "https://cnnespanol.cnn.com/2026/06/01/mundo/live-news/guerra-iran-eeuu-israel-en-vivo-libano-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/5af4a804-cb28-46bb-93a9-f641d7c1730d.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Rodrigo-Paz-01-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-02T04:00:18.610Z"
+  "lastUpdate": "2026-06-02T08:43:17.576Z"
 }
