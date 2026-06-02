@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 02 Junio 2026"
     },
     "binance": {
-      "usdt": "765,90"
+      "usdt": "772,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,40 +15,46 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "FMI puede tardar hasta 14 meses en compilar data macroeconómica de Venezuela para ver las opciones que ofrece",
-      "link": "https://www.bancaynegocios.com/fmi-puede-tardar-hasta-14-meses-en-compilar-data-macroeconomica-de-venezuela-para-ver-las-opciones-que-ofrece/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/08/FMI.jpg"
+      "title": "Delcy Rodríguez se reunió con el equipo económico: Analizaron la próxima suscripción de acuerdos estratégicos",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-se-reunio-con-el-equipo-economico-analizaron-la-proxima-suscripcion-de-acuerdos-estrategicos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/DelcyRidriguezEquipoEconomico.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez cumple cinco meses en la Presidencia sin votos y el chavismo elude convocar elecciones",
-      "link": "https://www.infobae.com/venezuela/2026/06/01/delcy-rodriguez-cumple-cinco-meses-en-la-presidencia-sin-votos-y-el-chavismo-elude-convocar-elecciones/",
-      "image": "https://www.infobae.com/resizer/v2/WPEYXAPELFBYTDS5KPJWTHAK2E.jpg?auth=dfa9711e5d3498f832881eb4bd86891ff4bdcf1d85ddbdfd49a1e91f1959ebd8&smart=true&width=350&height=197&quality=85"
+      "title": "Cinco policías venezolanos serán investigados tras detener a 33 hombres acusados de cometer el “delito de homosexualidad”",
+      "link": "https://www.infobae.com/venezuela/2026/06/02/cinco-policias-venezolanos-seran-investigados-tras-detener-a-33-hombres-acusados-de-cometer-el-delito-de-homosexualidad/",
+      "image": "https://www.infobae.com/resizer/v2/6LIUDG3IGFA3N2QH5NKKMQICHU.jpg?auth=806a905ebbef99dcf6d98b50d37f5117bf7188ca06a5bb6c5991209ab0595b5e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Continúan los ataques al sur del Líbano tras tensa llamada entre Trump y Netanyahu",
-      "link": "https://cnnespanol.cnn.com/2026/06/02/mundo/live-news/guerra-iran-eeuu-israel-en-vivo-libano-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277856381-20260602021415567.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Quiénes son los aliados, rivales y enemigos de Trump en América Latina",
+      "link": "https://cnnespanol.cnn.com/2026/06/02/latinoamerica/mapa-aliados-rivales-enemigos-trump-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260602-gobiernos-latam-relacion-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Henrique Capriles pide reducir IVA, eliminar IGTF y reactivar el crédito",
-      "link": "https://noticiasvenevision.com/noticias/politica/henrique-capriles-pide-reducir-iva-eliminar-igtf-y-reactivar-el-credito",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/capriles-3436-e9c541.jpg"
+      "title": "Defensores de DD. HH. Exigen investigar muerte de Leonardo José Figueroa en manos del Estado",
+      "link": "https://noticiasvenevision.com/noticias/politica/defensores-de-dd-hh-exigen-investigar-muerte-de-leonardo-jose-figueroa-en-manos-del-estado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/x2twitter.com_hjsdm5_xeamujkb-32e21f.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO NACIONAL ANUNCIÓ MEDIDAS PREVENTIVAS POR BROTE DE ÉBOLA BUNDIBUGYO",
-      "link": "https://noticierodigital.com/2026/06/gobierno-nacional-anuncio-medidas-preventivas-por-brote-de-ebola-bundibugyo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/carlos-alvarado-ministro-de-salud-627x376.jpg"
+      "title": "STALIN GONZÁLEZ RECONOCIÓ QUE ES DIFÍCIL UNA ELECCIÓN PRESIDENCIAL EN 2026",
+      "link": "https://noticierodigital.com/2026/06/stalin-gonzalez-reconocio-que-es-dificil-una-eleccion-presidencial-en-2026/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/stalin-gonzalez-627x376.jpg"
+    },
+    {
+      "source": "La Verdad",
+      "title": "Petro insiste en que tiene pruebas de posible fraude en las presidenciales",
+      "link": "https://laverdad.com/petro-insiste-en-que-tiene-pruebas-de-posible-fraude-en-las-presidenciales/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Colombia-elecciones.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. estudia reforzar su estrategia nuclear en Europa para fortalecer la disuasión de la OTAN",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-estudia-reforzar-su-estrategia-nuclear-en-europa-para-fortalecer-la-disuasion-de-la-otan/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/125692467_hi076261260.jpg.webp"
+      "title": "Rubio afirma que Cuba respalda grupos armados y “continúa albergando instalaciones de inteligencia”",
+      "link": "https://diarioversionfinal.com/mundo/rubio-afirma-que-cuba-respalda-grupos-armados-y-continua-albergando-instalaciones-de-inteligencia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/Marco-Rubio-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-02T12:41:56.803Z"
+  "lastUpdate": "2026-06-02T17:23:26.099Z"
 }
