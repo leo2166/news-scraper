@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 02 Junio 2026"
     },
     "binance": {
-      "usdt": "768,29"
+      "usdt": "761,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Incertidumbre sobre el estado de las conversaciones de paz con Irán",
+      "title": "Trump dice que podría alcanzar un acuerdo con Irán “la próxima semana”",
       "link": "https://cnnespanol.cnn.com/2026/06/01/mundo/live-news/guerra-iran-eeuu-israel-en-vivo-libano-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2278593444-20260601191133099.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/5af4a804-cb28-46bb-93a9-f641d7c1730d.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gran Consulta Nacional sobre Reforma de la Justicia Penal inicia este 1 de junio",
-      "link": "https://noticiasvenevision.com/noticias/politica/gran-consulta-nacional-sobre-reforma-de-la-justicia-penal-inicia-este-1-de-junio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-7d6b5c.jpg"
+      "title": "Henrique Capriles pide reducir IVA, eliminar IGTF y reactivar el crédito",
+      "link": "https://noticiasvenevision.com/noticias/politica/henrique-capriles-pide-reducir-iva-eliminar-igtf-y-reactivar-el-credito",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/capriles-3436-e9c541.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MAS PUSO A COLOMBIA COMO EJEMPLO ELECTORAL PARA VENEZUELA",
-      "link": "https://noticierodigital.com/2026/06/mas-puso-a-colombia-como-ejemplo-electoral-para-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/maria-verdeal-mas-627x376.jpg"
+      "title": "GOBIERNO NACIONAL ANUNCIÓ MEDIDAS PREVENTIVAS POR BROTE DE ÉBOLA BUNDIBUGYO",
+      "link": "https://noticierodigital.com/2026/06/gobierno-nacional-anuncio-medidas-preventivas-por-brote-de-ebola-bundibugyo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/carlos-alvarado-ministro-de-salud-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tribunal de apelaciones declara ilegal veto de Trump a militares transgénero",
-      "link": "https://diarioversionfinal.com/mundo/tribunal-de-apelaciones-declara-ilegal-veto-de-trump-a-militares-transgenero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/4QKZVHWEO2KZ2QC664R64U4XBU-750x430.jpg"
+      "title": "Presidente Paz afirma que “los violentos no pueden ganar” tras cinco semanas de conflictos en Bolivia",
+      "link": "https://diarioversionfinal.com/mundo/presidente-paz-afirma-que-los-violentos-no-pueden-ganar-tras-cinco-semanas-de-conflictos-en-bolivia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Rodrigo-Paz-01-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-01T23:02:11.066Z"
+  "lastUpdate": "2026-06-02T04:00:18.610Z"
 };
