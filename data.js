@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "557,97",
-      "eur": "648,24",
-      "fechaValor": "Martes, 02 Junio 2026"
+      "usd": "558,64",
+      "eur": "650,56",
+      "fechaValor": "Miércoles, 03 Junio 2026"
     },
     "binance": {
-      "usdt": "772,00"
+      "usdt": "772,36"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez se reunió con el equipo económico: Analizaron la próxima suscripción de acuerdos estratégicos",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-se-reunio-con-el-equipo-economico-analizaron-la-proxima-suscripcion-de-acuerdos-estrategicos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/DelcyRidriguezEquipoEconomico.jpg"
+      "title": "#Dato: Servicios de delivery generan al menos 7.000 operaciones de pago móvil por minuto",
+      "link": "https://www.bancaynegocios.com/dato-servicios-de-delivery-generan-al-menos-7000-operaciones-de-pago-movil-por-minuto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/PagoMovilCelularVenezuela.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Cinco policías venezolanos serán investigados tras detener a 33 hombres acusados de cometer el “delito de homosexualidad”",
-      "link": "https://www.infobae.com/venezuela/2026/06/02/cinco-policias-venezolanos-seran-investigados-tras-detener-a-33-hombres-acusados-de-cometer-el-delito-de-homosexualidad/",
-      "image": "https://www.infobae.com/resizer/v2/6LIUDG3IGFA3N2QH5NKKMQICHU.jpg?auth=806a905ebbef99dcf6d98b50d37f5117bf7188ca06a5bb6c5991209ab0595b5e&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela registró 181 muertes de presos bajo custodia estatal en 2025, según un informe de una ONG",
+      "link": "https://www.infobae.com/venezuela/2026/06/02/venezuela-registro-181-muertes-de-presos-bajo-custodia-estatal-en-2025-segun-un-informe-de-una-ong/",
+      "image": "https://www.infobae.com/resizer/v2/R6JGA6YR5FAZDBD3WSPAGPIRVQ.JPG?auth=2e0b425fd511cfe16ddac19e1ea629da8fe15d1fc4c1030c82aa57fe413a710e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,28 +33,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Defensores de DD. HH. Exigen investigar muerte de Leonardo José Figueroa en manos del Estado",
-      "link": "https://noticiasvenevision.com/noticias/politica/defensores-de-dd-hh-exigen-investigar-muerte-de-leonardo-jose-figueroa-en-manos-del-estado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/x2twitter.com_hjsdm5_xeamujkb-32e21f.png"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "STALIN GONZÁLEZ RECONOCIÓ QUE ES DIFÍCIL UNA ELECCIÓN PRESIDENCIAL EN 2026",
-      "link": "https://noticierodigital.com/2026/06/stalin-gonzalez-reconocio-que-es-dificil-una-eleccion-presidencial-en-2026/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/stalin-gonzalez-627x376.jpg"
+      "title": "Delcy Rodríguez planea reunirse con el primer ministro Narendra Modi durante su visita a la India",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-planea-reunirse-con-el-primer-ministro-narendra-modi-durante-su-visita-a-la-india",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-presidenta-de-venezuela-59541-72341c.jpeg"
     },
     {
       "source": "La Verdad",
-      "title": "Petro insiste en que tiene pruebas de posible fraude en las presidenciales",
-      "link": "https://laverdad.com/petro-insiste-en-que-tiene-pruebas-de-posible-fraude-en-las-presidenciales/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Colombia-elecciones.jpg"
+      "title": "El Papa nombra a la laica mexicana Montserrat Alvarado nueva “ministra” de Comunicación",
+      "link": "https://laverdad.com/el-papa-nombra-a-la-laica-mexicana-montserrat-alvarado-nueva-ministra-de-comunicacion/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/image-46-2.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rubio afirma que Cuba respalda grupos armados y “continúa albergando instalaciones de inteligencia”",
-      "link": "https://diarioversionfinal.com/mundo/rubio-afirma-que-cuba-respalda-grupos-armados-y-continua-albergando-instalaciones-de-inteligencia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/Marco-Rubio-2-750x430.jpg"
+      "title": "Flávio Bolsonaro visitó la Casa Blanca y Trump lo defiende tras critiche de Lula",
+      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-visito-la-casa-blanca-y-trump-lo-defiende-tras-critiche-de-lula/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/FA4PNHYCZRDW5BFMU7A4ZUXY6A-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-02T17:23:26.099Z"
+  "lastUpdate": "2026-06-02T20:49:41.294Z"
 };
