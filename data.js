@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 03 Junio 2026"
     },
     "binance": {
-      "usdt": "772,36"
+      "usdt": "770,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Quiénes son los aliados, rivales y enemigos de Trump en América Latina",
-      "link": "https://cnnespanol.cnn.com/2026/06/02/latinoamerica/mapa-aliados-rivales-enemigos-trump-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260602-gobiernos-latam-relacion-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Embajador de EE.UU. y Sheinbaum discrepan por combate a los carteles",
+      "link": "https://cnnespanol.cnn.com/2026/06/02/mexico/embajador-eeuu-responde-sheinbaum-seguridad-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/diseno-sin-titulo-16-20260602222753766.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Delcy Rodríguez planea reunirse con el primer ministro Narendra Modi durante su visita a la India",
       "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-planea-reunirse-con-el-primer-ministro-narendra-modi-durante-su-visita-a-la-india",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-presidenta-de-venezuela-59541-72341c.jpeg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "AN APROBÓ EN PRIMERA DISCUSIÓN REFORMA DE LA LEY DEL SISTEMA Y SERVICIO ELÉCTRICO",
+      "link": "https://noticierodigital.com/2026/06/an-aprobo-en-primera-discusion-reforma-de-la-ley-del-sistema-y-servicio-electrico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/asamblea-nacional-ven-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Flávio Bolsonaro visitó la Casa Blanca y Trump lo defiende tras critiche de Lula",
-      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-visito-la-casa-blanca-y-trump-lo-defiende-tras-critiche-de-lula/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/FA4PNHYCZRDW5BFMU7A4ZUXY6A-750x430.jpg"
+      "title": "Panamá expulsa a dos venezolanos señalados de pertenecer al Tren de Aragua",
+      "link": "https://diarioversionfinal.com/mundo/panama-expulsa-a-dos-venezolanos-senalados-de-pertenecer-al-tren-de-aragua/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/ufExgp2u-Fuera-de-Panama-02-06-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-06-02T20:49:41.294Z"
+  "lastUpdate": "2026-06-02T23:03:03.150Z"
 };
