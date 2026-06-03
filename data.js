@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 03 Junio 2026"
     },
     "binance": {
-      "usdt": "770,59"
+      "usdt": "769,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela registró 181 muertes de presos bajo custodia estatal en 2025, según un informe de una ONG",
-      "link": "https://www.infobae.com/venezuela/2026/06/02/venezuela-registro-181-muertes-de-presos-bajo-custodia-estatal-en-2025-segun-un-informe-de-una-ong/",
-      "image": "https://www.infobae.com/resizer/v2/R6JGA6YR5FAZDBD3WSPAGPIRVQ.JPG?auth=2e0b425fd511cfe16ddac19e1ea629da8fe15d1fc4c1030c82aa57fe413a710e&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez viajará a India para reunirse con Narendra Modi y empresas vinculadas al sector petrolero",
+      "link": "https://www.infobae.com/venezuela/2026/06/02/delcy-rodriguez-viajara-a-india-para-reunirse-con-narendra-modi-y-empresas-vinculadas-al-sector-petrolero/",
+      "image": "https://www.infobae.com/resizer/v2/3PYBAIBRJ5HXLH6SEQSFSBNC2Q.jpg?auth=209e480d075e9b2d90f79f25de8d8776c773a8ab68fb446293ced758696502d4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez planea reunirse con el primer ministro Narendra Modi durante su visita a la India",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-planea-reunirse-con-el-primer-ministro-narendra-modi-durante-su-visita-a-la-india",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-presidenta-de-venezuela-59541-72341c.jpeg"
+      "title": "Aprobada designación de Samuel Moncada como embajador de Venezuela en Francia",
+      "link": "https://noticiasvenevision.com/noticias/politica/aprobada-designacion-de-samuel-moncada-como-embajador-de-venezuela-en-francia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/111-621b61.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN APROBÓ EN PRIMERA DISCUSIÓN REFORMA DE LA LEY DEL SISTEMA Y SERVICIO ELÉCTRICO",
-      "link": "https://noticierodigital.com/2026/06/an-aprobo-en-primera-discusion-reforma-de-la-ley-del-sistema-y-servicio-electrico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/asamblea-nacional-ven-627x376.jpg"
+      "title": "CAPRILES LLAMÓ A PRESTAR ATENCIÓN AL PROCESO DE POSTULACIONES PARA EL TSJ",
+      "link": "https://noticierodigital.com/2026/06/capriles-llamo-a-prestar-atencion-al-proceso-de-postulaciones-para-el-tsj/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/henrique-capriles-radonski-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Panamá expulsa a dos venezolanos señalados de pertenecer al Tren de Aragua",
-      "link": "https://diarioversionfinal.com/mundo/panama-expulsa-a-dos-venezolanos-senalados-de-pertenecer-al-tren-de-aragua/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/ufExgp2u-Fuera-de-Panama-02-06-2026.jpg"
+      "title": "Petro rechaza intervención de Trump en las elecciones de Colombia",
+      "link": "https://diarioversionfinal.com/mundo/petro-rechaza-intervencion-de-trump-en-las-elecciones-de-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/Gustavo-Petro-8-de-enero-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-02T23:03:03.150Z"
+  "lastUpdate": "2026-06-03T04:09:13.902Z"
 };
