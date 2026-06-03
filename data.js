@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 03 Junio 2026"
     },
     "binance": {
-      "usdt": "773,89"
+      "usdt": "774,53"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,46 +15,46 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez llegó a la India: Fortalecerá las relaciones diplomáticas, comerciales y de cooperación",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-llego-a-la-india-fortalecera-las-relaciones-diplomaticas-comerciales-y-de-cooperacion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/DelcyRodriguezArriboIndia.jpg"
+      "title": "Fedeagro: sector requiere inversiones estratégicas en electricidad para reactivar emprendimientos agrícolas e industriales",
+      "link": "https://www.bancaynegocios.com/fedeagro-sector-requiere-inversiones-estrategicas-en-electricidad-para-reactivar-emprendimientos-agricolas-e-industriales/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/04/AGRICULTURA.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La Asamblea Nacional de Venezuela aprobó un proyecto para abrir inversiones en el sector eléctrico",
-      "link": "https://www.infobae.com/venezuela/2026/06/03/la-asamblea-nacional-de-venezuela-aprobo-un-proyecto-para-abrir-inversiones-en-el-sector-electrico/",
-      "image": "https://www.infobae.com/resizer/v2/UW4AYY2T2RGN3HJI6YKL5JIE64.JPG?auth=cbb167d29a451d39109dbd22dd945c53167388ba80c7599d95d3b88cd49e2054&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio pidió renovar el ente electoral de Venezuela y avanzar hacia una votación con garantías: “Lo antes posible”",
+      "link": "https://www.infobae.com/estados-unidos/2026/06/03/marco-rubio-pidio-renovar-el-ente-electoral-de-venezuela-y-avanzar-hacia-una-votacion-con-garantias-lo-antes-posible/",
+      "image": "https://www.infobae.com/resizer/v2/STPUUBUQRZCXDHNPW2NMGTZ4PI.JPG?auth=98b8eab7d9a410cae21276cfeee428268c25ddacbd6160e217ad499d77cf3068&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Ataques iraníes alcanzan aeropuerto de Kuwait y ponen a prueba el cese del fuego",
+      "title": "Las reservas de petróleo de EE.UU. caen a niveles que preocupan al mercado",
       "link": "https://cnnespanol.cnn.com/2026/06/03/mundo/live-news/guerra-iran-eeuu-israel-en-vivo-libano-2-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ocd-economia-pandemia.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez aterriza en Nueva Delhi para desarrollar agenda energética",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-aterriza-en-nueva-delhi-para-desarrollar-agenda-energetica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_4785.jpg-14c7b0.jpeg"
+      "title": "ONG Justicia, Encuentro y Perdón alerta que el cierre de El Helicoide no se ha ejecutado",
+      "link": "https://noticiasvenevision.com/noticias/politica/ong-justicia-encuentro-y-perdon-alerta-que-el-cierre-de-el-helicoide-no-se-ha-ejecutado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-5-ef35bc.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP LLAMÓ “LOCO” A NETANYAHU Y DICE QUE ISRAEL COMPLICA LAS NEGOCIACIONES CON IRÁN",
-      "link": "https://noticierodigital.com/2026/06/trump-llamo-loco-a-netanyahu-y-dice-que-israel-complica-las-negociaciones-con-iran/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/donald-trump-eeuu-1-627x376.jpg"
+      "title": "FAMILIARES DENUNCIAN TRASLADOS DE PRESOS POLÍTICOS EN EL HELICOIDE ESTE MIÉRCOLES",
+      "link": "https://noticierodigital.com/2026/06/familiares-denuncian-traslados-de-presos-politicos-en-el-helicoide-este-miercoles/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/helicoide-freddysuperlano.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Expulsan de Panamá a 2 venezolanos presuntos integrantes del “Tren de Aragua”",
-      "link": "https://laverdad.com/expulsan-de-panama-a-2-venezolanos-presuntos-integrantes-del-tren-de-aragua/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Expulsan-venezolanos-Panama-Tren-de-Aragua.jpg"
+      "title": "De la Espriella expresa a Trump su “plena identidad” en seguridad y contra el comunismo",
+      "link": "https://laverdad.com/de-la-espriella-expresa-a-trump-su-plena-identidad-en-seguridad-y-contra-el-comunismo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/IdxF8-_V-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que Irán aceptó no tener armas nucleares",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-iran-acepto-no-tener-armas-nucleares/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-2-29-04-2026-750x430.jpg"
+      "title": "Visa y Mastercard dejarán de operar en Cuba por sanciones de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/isa-y-mastercard-dejaran-de-operar-en-cuba-por-sanciones-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/cuba.webp"
     }
   ],
-  "lastUpdate": "2026-06-03T14:39:21.262Z"
+  "lastUpdate": "2026-06-03T18:43:40.236Z"
 };
