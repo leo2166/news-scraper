@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 04 Junio 2026"
     },
     "binance": {
-      "usdt": "778,69"
+      "usdt": "778,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Israel y Líbano acuerdan implementar un alto el fuego",
-      "link": "https://cnnespanol.cnn.com/2026/06/03/mundo/live-news/guerra-iran-eeuu-israel-en-vivo-libano-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260604055952592.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El voto de la Cámara muestra cómo Trump está cada vez más acorralado",
+      "link": "https://cnnespanol.cnn.com/2026/06/04/eeuu/trump-acorralado-iran-camara-analisis-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2275178850-20260604102812386.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Dead-Bolivia-03-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-04T08:48:10.564Z"
+  "lastUpdate": "2026-06-04T11:53:51.387Z"
 };
