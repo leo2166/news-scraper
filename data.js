@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 04 Junio 2026"
     },
     "binance": {
-      "usdt": "778,90"
+      "usdt": "783,12"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,40 +21,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos y ONG denunciaron el traslado de detenidos desde El Helicoide a otras cárceles de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/04/familiares-de-presos-politicos-y-ong-denunciaron-el-traslado-de-detenidos-desde-el-helicoide-a-otras-carceles-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/UYZF4B4JZ5HHRKN3NRXJ3SZB3E.jpg?auth=51f00034dc4d7402b7b107a34bcaca12ab2dce87cf34087d7f8ccb527c7a6965&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez se reunió con Narendra Modi en pleno repunte de las ventas petroleras a la India",
+      "link": "https://www.infobae.com/venezuela/2026/06/04/delcy-rodriguez-se-reunio-con-narendra-modi-en-pleno-repunte-de-las-ventas-petroleras-a-la-india/",
+      "image": "https://www.infobae.com/resizer/v2/KLNFSZSKVBBKVCLLOEB6P7KVDU.jpg?auth=5e7617904805b8e6da8eca4f74864170a8200e400d0928df5c7309fb47018287&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "El voto de la Cámara muestra cómo Trump está cada vez más acorralado",
+      "title": "El voto de la Cámara muestra a Trump cada vez más acorralado",
       "link": "https://cnnespanol.cnn.com/2026/06/04/eeuu/trump-acorralado-iran-camara-analisis-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2275178850-20260604102812386.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jefe del Estado Mayor Conjunto de EE.UU. visitó Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/jefe-del-estado-mayor-conjunto-de-eeuu-visito-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-5d57dd.jpg"
+      "title": "María Corina Machado sostuvo encuentro con el Primer Ministro de Noruega Jonas Gahr Støre",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-sostuvo-encuentro-con-el-primer-ministro-de-noruega-jonas-gahr-store",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_717582424_17977600508993884_8685703820165568804_n-97b468.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUBIO: «PARTIDOS VENEZOLANOS NECESITAN TIEMPO PARA ORGANIZARSE ANTES DE UNA ELECCIÓN»",
-      "link": "https://noticierodigital.com/2026/06/rubio-partidos-venezolanos-necesitan-tiempo-para-organizarse-antes-de-una-eleccion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-627x376.jpg"
+      "title": "«EL AGUA NO SABE DE COLORES POLÍTICOS», DIJO DE VIANA AL HABLAR DE RECUPERACIÓN DE ACUEDUCTOS",
+      "link": "https://noticierodigital.com/2026/06/el-agua-no-sabe-de-colores-politicos-dijo-de-viana-al-hablar-de-recuperacion-de-acueductos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/05/josemariadeviana_21may2020_.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Cuatro miembros del “Tren de Aragua” se declaran culpables de 2 asesinatos en Nueva York",
-      "link": "https://laverdad.com/cuatro-miembros-del-tren-de-aragua-se-declaran-culpables-de-2-asesinatos-en-nueva-york/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Proyecto-nuevo-44.jpg"
+      "title": "EE. UU. ataca otra “narcolancha” en el Pacífico y mata a 2 tripulantes",
+      "link": "https://laverdad.com/ee-uu-ataca-otra-narcolancha-en-el-pacifico-y-mata-a-2-tripulantes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Ataque-narcolancha-3-junio.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bolivia investiga muerte de una persona durante apertura de corredor humanitario",
-      "link": "https://diarioversionfinal.com/mundo/bolivia-investiga-muerte-de-una-persona-durante-apertura-de-corredor-humanitario/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Dead-Bolivia-03-06-2026-750x430.jpg"
+      "title": "Kim Jong Un promete un crecimiento “exponencial” del arsenal nuclear de Corea del Norte",
+      "link": "https://diarioversionfinal.com/mundo/kim-jong-un-promete-un-crecimiento-exponencial-del-arsenal-nuclear-de-corea-del-norte/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Kim-Jong-Un-700x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-04T11:53:51.387Z"
+  "lastUpdate": "2026-06-04T15:15:57.006Z"
 };
