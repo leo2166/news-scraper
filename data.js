@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "560,38",
-      "eur": "650,51",
-      "fechaValor": "Jueves, 04 Junio 2026"
+      "usd": "563,29",
+      "eur": "654,87",
+      "fechaValor": "Viernes, 05 Junio 2026"
     },
     "binance": {
-      "usdt": "781,69"
+      "usdt": "783,47"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Familiares y activistas denunciaron el deterioro de la salud de más de 60 detenidos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/04/familiares-y-activistas-denunciaron-el-deterioro-de-la-salud-de-mas-de-60-detenidos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/UYZF4B4JZ5HHRKN3NRXJ3SZB3E.jpg?auth=51f00034dc4d7402b7b107a34bcaca12ab2dce87cf34087d7f8ccb527c7a6965&smart=true&width=350&height=197&quality=85"
+      "title": "Nicolás Maduro incorporó a la abogada de Sean “Diddy” Combs a su defensa en el proceso por narcotráfico en Nueva York",
+      "link": "https://www.infobae.com/venezuela/2026/06/04/nicolas-maduro-incorporo-a-la-abogada-de-sean-diddy-combs-a-su-defensa-en-el-proceso-por-narcotrafico-en-nueva-york/",
+      "image": "https://www.infobae.com/resizer/v2/TZLYNNHWDNC5TEHI4EIXRW6RUE.JPG?auth=c968d601210d611c85121a632d494e3e220c806ffba9568a4567416374b98c40&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "COMISIÓN ELECTORAL UCV REPROGRAMÓ ELECCIONES ESTUDIANTILES Y DE PROFESORES",
-      "link": "https://noticierodigital.com/2026/06/comision-electoral-ucv-reprogramo-elecciones-estudiantiles-y-de-profesores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/Diseno-sin-titulo-25-627x376.jpg"
+      "title": "JPMORGAN Y JEFFERIES ORGANIZAN VIAJES A CARACAS POR INTERÉS DE INVERSIONISTAS",
+      "link": "https://noticierodigital.com/2026/06/jpmorgan-y-jefferies-organizan-viajes-a-caracas-por-interes-de-inversionistas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/04/banco-jp-morgan.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Washington amenaza con retirar visas a quienes intenten alterar las elecciones en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/washington-amenaza-con-retirar-visas-a-quienes-intenten-alterar-las-elecciones-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/EH6GPD2I4FHWHBCRLBOMBR7NZA.avif"
+      "title": "EE. UU. sanciona a Díaz-Canel, su esposa, un hijo y un nieto de Raúl Castro",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-sanciona-a-diaz-canel-su-esposa-un-hijo-y-un-nieto-de-raul-castro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Miguel-Diaz-Canel-07-08-2022-EFE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-04T20:55:56.762Z"
+  "lastUpdate": "2026-06-04T22:22:00.013Z"
 };
