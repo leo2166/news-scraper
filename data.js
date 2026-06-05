@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Todd Blanche supervisó la divulgación de los archivos de Epstein, dijo Bondi",
-      "link": "https://cnnespanol.cnn.com/2026/06/04/eeuu/bondi-blanche-epstein-legisladores-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bondi-20260604215602971.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Israel envió tropas a Azerbaiyán durante la guerra con Irán, según fuentes",
+      "link": "https://cnnespanol.cnn.com/2026/06/05/mundo/exclusivo-israel-tropas-azerbaiyan-guerra-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260604-israel-azerbaijan-20260605081309504.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EL HELICOIDE FUE UN SÍMBOLO DEL HORROR»: DELSA SOLÓRZANO LE RESPONDIÓ A JORGE ARREAZA",
-      "link": "https://noticierodigital.com/2026/06/el-helicoide-fue-un-simbolo-del-horror-delsa-solorzano-le-respondio-a-jorge-arreaza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/delsasolorzano-cabello.jpg"
+      "title": "«LA CAMPAÑA CONTRA EL HELICOIDE FUE FEROZ», DIJO JORGE ARREAZA",
+      "link": "https://noticierodigital.com/2026/06/la-campana-contra-el-helicoide-fue-feroz-dijo-jorge-arreaza/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/jorge-arreaza.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Putin-19-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-05T05:17:32.517Z"
+  "lastUpdate": "2026-06-05T09:50:46.115Z"
 };
