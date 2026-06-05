@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 05 Junio 2026"
     },
     "binance": {
-      "usdt": "783,50"
+      "usdt": "782,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. sanciona al presidente de Cuba y a familiares de Raúl Castro",
-      "link": "https://cnnespanol.cnn.com/2026/06/04/eeuu/sancion-presidente-cuba-circulo-familia-raul-castro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-05-22t125414z-168244439-rc2cela3sz5y-rtrmadp-3-cuba-crisis-protest-20260604224811842.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Todd Blanche supervisó la divulgación de los archivos de Epstein, dijo Bondi",
+      "link": "https://cnnespanol.cnn.com/2026/06/04/eeuu/bondi-blanche-epstein-legisladores-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bondi-20260604215602971.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Exigen el cierre definitivo del caso de la jueza María Lourdes Afiuni",
-      "link": "https://noticiasvenevision.com/noticias/politica/exigen-el-cierre-definitivo-del-caso-de-la-jueza-maria-lourdes-afiuni",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5837828443784023963_y-6b48fa.jpg"
+      "title": "Plataforma Unitaria Democrática reporta la liberación de 847 presos por razones políticas",
+      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-democratica-reporta-la-liberacion-de-847-presos-por-razones-politicas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plataforma-unitaria-democratica-_14a-4c7a59-c9a790.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA COORDINA VISITA DE LA FAA PARA AMPLIAR VUELOS CON EE. UU.",
-      "link": "https://noticierodigital.com/2026/06/venezuela-coordina-visita-de-la-faa-para-ampliar-vuelos-con-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/american-airlines-avion-16may2022.jpg"
+      "title": "«EL HELICOIDE FUE UN SÍMBOLO DEL HORROR»: DELSA SOLÓRZANO LE RESPONDIÓ A JORGE ARREAZA",
+      "link": "https://noticierodigital.com/2026/06/el-helicoide-fue-un-simbolo-del-horror-delsa-solorzano-le-respondio-a-jorge-arreaza/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/delsasolorzano-cabello.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba rechaza inclusión del presidente Díaz-Canel en lista \"ilegítima y unilateral\" de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/cuba-rechaza-inclusion-del-presidente-diaz-canel-en-lista-ilegitima-y-unilateral-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cUIBA23-e1768139839773-750x430.jpeg"
+      "title": "Putin rechaza posible alto al fuego en Ucrania: \"Se puede negociar la paz y seguir combatiendo\"",
+      "link": "https://diarioversionfinal.com/mundo/putin-rechaza-posible-alto-al-fuego-en-ucrania-se-puede-negociar-la-paz-y-seguir-combatiendo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Putin-19-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-05T00:08:28.654Z"
+  "lastUpdate": "2026-06-05T05:17:32.517Z"
 };
