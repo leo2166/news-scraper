@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "563,29",
-      "eur": "654,87",
-      "fechaValor": "Viernes, 05 Junio 2026"
+      "usd": "567,68",
+      "eur": "655,38",
+      "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "788,43"
+      "usdt": "793,53"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez se reunió con el embajador de Estados Unidos en India",
-      "link": "https://www.infobae.com/venezuela/2026/06/05/delcy-rodriguez-se-reunio-con-el-embajador-de-estados-unidos-en-india/",
-      "image": "https://www.infobae.com/resizer/v2/TYC2USTJIJA7ZLKSS6HU62GWR4.jpg?auth=6be57643c9ae58d38c0f450100cbada59ba4fe4197f551db3be5e0062e58a706&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela revisó los términos de los contratos petroleros para atraer a inversionistas cautelosos",
+      "link": "https://www.infobae.com/venezuela/2026/06/05/venezuela-reviso-los-terminos-de-los-contratos-petroleros-para-atraer-a-inversionistas-cautelosos/",
+      "image": "https://www.infobae.com/resizer/v2/3PYBAIBRJ5HXLH6SEQSFSBNC2Q.jpg?auth=209e480d075e9b2d90f79f25de8d8776c773a8ab68fb446293ced758696502d4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO REDUCIRÍA EL PODER DEL ESTADO EN CONTRATOS PETROLEROS, SEGÚN BLOOMBERG",
-      "link": "https://noticierodigital.com/2026/06/gobierno-reduciria-el-poder-del-estado-en-contratos-petroleros-segun-bloomberg/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/pdvsa-detencion-627x376.jpg"
+      "title": "USUARIOS CONTINÚAN EXPONIENDO LAS PERSISTENTES CAÍDAS EN ALGUNOS BANCOS",
+      "link": "https://noticierodigital.com/2026/06/usuarios-continuan-exponiendo-las-persistentes-caidas-en-algunos-bancos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/05/pago-movil-13may2021.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El ébola avanza del Congo a Uganda: OMS invertirá $518 millones en plan de contención",
-      "link": "https://diarioversionfinal.com/mundo/el-ebola-avanza-del-congo-a-uganda-oms-invertira-518-millones-en-plan-de-contencion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/06/OMS_W-750x430.jpg"
+      "title": "Venezolanos en España impulsan nuevas gestiones para recuperar canje de licencias de conducir",
+      "link": "https://diarioversionfinal.com/mundo/venezolanos-en-espana-impulsan-nuevas-gestiones-para-recuperar-canje-de-licencias-de-conducir/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-4.43.38-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-05T19:55:07.653Z"
+  "lastUpdate": "2026-06-05T21:26:14.359Z"
 };
