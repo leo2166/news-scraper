@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 05 Junio 2026"
     },
     "binance": {
-      "usdt": "786,12"
+      "usdt": "788,43"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La ONG Foro Penal exigió que las autoridades informen el destino de los presos trasladados desde El Helicoide en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/04/la-ong-foro-penal-exigio-que-las-autoridades-informen-el-destino-de-los-presos-trasladados-desde-el-helicoide-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/C7B7XNNYMNG5NGJHB6DJYRGSFA.JPG?auth=bd60dc53d79ce2e64355f5a0aed440a4f8fa60f0d72d79394876a549768964de&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez se reunió con el embajador de Estados Unidos en India",
+      "link": "https://www.infobae.com/venezuela/2026/06/05/delcy-rodriguez-se-reunio-con-el-embajador-de-estados-unidos-en-india/",
+      "image": "https://www.infobae.com/resizer/v2/TYC2USTJIJA7ZLKSS6HU62GWR4.jpg?auth=6be57643c9ae58d38c0f450100cbada59ba4fe4197f551db3be5e0062e58a706&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,28 +33,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Extienden plazo de postulación para magistrados hasta el próximo miércoles 10 de junio",
-      "link": "https://noticiasvenevision.com/noticias/politica/extienden-plazo-de-postulacion-para-magistrados-hasta-el-proximo-miercoles-10-de-junio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/guiseppe-alessandrello-50c585.png"
+      "title": "Caso Pdvsa-Cripto: Familiares exigen juicio público y alertan sobre huelga de hambre en Yare II",
+      "link": "https://noticiasvenevision.com/noticias/politica/caso-pdvsa-cripto-familiares-exigen-juicio-publico-y-alertan-sobre-huelga-de-hambre-en-yare-ii",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-06-05-at-12.53.32-pm-1-1024x768-e40d73.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP ASEGURA QUE ACCIONES EN VENEZUELA «TERMINARON ELEVANDO» SU POPULARIDAD",
-      "link": "https://noticierodigital.com/2026/06/trump-asegura-que-acciones-en-venezuela-terminaron-elevando-su-popularidad/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/donald-trump-eeuu-3-627x376.jpg"
+      "title": "GOBIERNO REDUCIRÍA EL PODER DEL ESTADO EN CONTRATOS PETROLEROS, SEGÚN BLOOMBERG",
+      "link": "https://noticierodigital.com/2026/06/gobierno-reduciria-el-poder-del-estado-en-contratos-petroleros-segun-bloomberg/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/pdvsa-detencion-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Hostelero explota en España a matrimonio venezolano en situación de vulnerabilidad",
-      "link": "https://laverdad.com/hostelero-explota-en-espana-a-matrimonio-venezolano-en-situacion-de-vulnerabilidad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/POlicia-Nacional-Espana.jpg"
+      "title": "Viuda de Miguel Uribe Turbay apunta a posible crimen de Estado",
+      "link": "https://laverdad.com/viuda-de-miguel-uribe-turbay-apunta-a-posible-crimen-de-estado/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Maria-Claudia-Tarazona.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que acciones en Venezuela \"terminaron elevando\" su popularidad",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-acciones-en-venezuela-terminaron-elevando-su-popularidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/trump-6-de-noviembre-750x430.jpg"
+      "title": "El ébola avanza del Congo a Uganda: OMS invertirá $518 millones en plan de contención",
+      "link": "https://diarioversionfinal.com/mundo/el-ebola-avanza-del-congo-a-uganda-oms-invertira-518-millones-en-plan-de-contencion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/06/OMS_W-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-05T17:55:05.943Z"
+  "lastUpdate": "2026-06-05T19:55:07.653Z"
 };
