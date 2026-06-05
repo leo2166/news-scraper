@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 05 Junio 2026"
     },
     "binance": {
-      "usdt": "785,69"
+      "usdt": "786,12"
     },
     "kontigo": {
       "usd": "N/A"
@@ -29,7 +29,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Senado aprueba proyecto de US$ 70.000 millones para ICE y la Patrulla Fronteriza",
       "link": "https://cnnespanol.cnn.com/2026/06/05/eeuu/senado-ley-usd-70-000-millones-ice-patrulla-fronteriza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276928835-20260605094932374.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277720858.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EL HELICOIDE FUE UN SÍMBOLO DEL HORROR»: DELSA SOLÓRZANO LE RESPONDIÓ A JORGE ARREAZA",
-      "link": "https://noticierodigital.com/2026/06/el-helicoide-fue-un-simbolo-del-horror-delsa-solorzano-le-respondio-a-jorge-arreaza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/delsasolorzano-cabello.jpg"
+      "title": "CADA JUGADOR RECIBIRÁ $5.000 POR DÍA DURANTE JUEGOS DEL MUNDIAL FIFA 2026",
+      "link": "https://noticierodigital.com/2026/06/cada-jugador-recibira-5-000-por-dia-durante-juegos-del-mundial-fifa-2026/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Diseno-sin-titulo-5-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Putin admite que habló con EE. UU. sobre posible operación a la venezolana en Cuba",
-      "link": "https://laverdad.com/putin-admite-que-hablo-con-ee-uu-sobre-posible-operacion-a-la-venezolana-en-cuba/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Putin-scaled.jpg"
+      "title": "León XIV viajará este sábado a España para impulsar los valores católicos",
+      "link": "https://laverdad.com/leon-xiv-viajara-este-sabado-a-espana-para-impulsar-los-valores-catolicos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Leon-XIV-Espana.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "León XIV recorrerá España para promover la paz, la dignidad humana y la solidaridad",
-      "link": "https://diarioversionfinal.com/mundo/leon-xiv-recorrera-espana-para-promover-la-paz-la-dignidad-humana-y-la-solidaridad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Papa-Leon-XIV-08-05-2026-750x430.png"
+      "title": "Trump asegura que acciones en Venezuela \"terminaron elevando\" su popularidad",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-acciones-en-venezuela-terminaron-elevando-su-popularidad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/trump-6-de-noviembre-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-05T12:37:34.801Z"
+  "lastUpdate": "2026-06-05T15:54:09.381Z"
 };
