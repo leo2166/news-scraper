@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 05 Junio 2026"
     },
     "binance": {
-      "usdt": "783,47"
+      "usdt": "783,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,33 +15,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Advierten que comerciantes en estados fronterizos requieren mayor preparación para competir con empresarios colombianos",
-      "link": "https://www.bancaynegocios.com/advierten-que-comerciantes-en-estados-fronterizos-requieren-mayor-preparacion-para-competir-con-empresarios-colombianos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/fronteravzla-colombia-e1758471099433.jpg"
+      "title": "AN aprueba la Ley de Fomento y Promoción del Café para situarlo como rubro de interés estratégico",
+      "link": "https://www.bancaynegocios.com/an-aprueba-la-ley-de-fomento-y-promocion-del-cafe-para-situarlo-como-rubro-de-interes-estrategico/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/AsambleaNacional.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Nicolás Maduro incorporó a la abogada de Sean “Diddy” Combs a su defensa en el proceso por narcotráfico en Nueva York",
-      "link": "https://www.infobae.com/venezuela/2026/06/04/nicolas-maduro-incorporo-a-la-abogada-de-sean-diddy-combs-a-su-defensa-en-el-proceso-por-narcotrafico-en-nueva-york/",
-      "image": "https://www.infobae.com/resizer/v2/TZLYNNHWDNC5TEHI4EIXRW6RUE.JPG?auth=c968d601210d611c85121a632d494e3e220c806ffba9568a4567416374b98c40&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Foro Penal exigió que las autoridades informen el destino de los presos trasladados desde El Helicoide en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/04/la-ong-foro-penal-exigio-que-las-autoridades-informen-el-destino-de-los-presos-trasladados-desde-el-helicoide-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/C7B7XNNYMNG5NGJHB6DJYRGSFA.JPG?auth=bd60dc53d79ce2e64355f5a0aed440a4f8fa60f0d72d79394876a549768964de&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán convierte el estrecho de Ormuz en una poderosa herramienta de presión",
-      "link": "https://cnnespanol.cnn.com/2026/06/04/eeuu/iran-ormuz-armas-nucleares-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-y-el-estrecho.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. sanciona al presidente de Cuba y a familiares de Raúl Castro",
+      "link": "https://cnnespanol.cnn.com/2026/06/04/eeuu/sancion-presidente-cuba-circulo-familia-raul-castro-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-05-22t125414z-168244439-rc2cela3sz5y-rtrmadp-3-cuba-crisis-protest-20260604224811842.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal confirma traslado de presos desde El Helicoide a otras cárceles del país",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-traslado-de-presos-desde-el-helicoide-a-otras-carceles-del-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/helicoide-b8df56.jpg"
+      "title": "Exigen el cierre definitivo del caso de la jueza María Lourdes Afiuni",
+      "link": "https://noticiasvenevision.com/noticias/politica/exigen-el-cierre-definitivo-del-caso-de-la-jueza-maria-lourdes-afiuni",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5837828443784023963_y-6b48fa.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JPMORGAN Y JEFFERIES ORGANIZAN VIAJES A CARACAS POR INTERÉS DE INVERSIONISTAS",
-      "link": "https://noticierodigital.com/2026/06/jpmorgan-y-jefferies-organizan-viajes-a-caracas-por-interes-de-inversionistas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/04/banco-jp-morgan.jpg"
+      "title": "VENEZUELA COORDINA VISITA DE LA FAA PARA AMPLIAR VUELOS CON EE. UU.",
+      "link": "https://noticierodigital.com/2026/06/venezuela-coordina-visita-de-la-faa-para-ampliar-vuelos-con-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/american-airlines-avion-16may2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. sanciona a Díaz-Canel, su esposa, un hijo y un nieto de Raúl Castro",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-sanciona-a-diaz-canel-su-esposa-un-hijo-y-un-nieto-de-raul-castro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Miguel-Diaz-Canel-07-08-2022-EFE-750x430.jpg"
+      "title": "Cuba rechaza inclusión del presidente Díaz-Canel en lista \"ilegítima y unilateral\" de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/cuba-rechaza-inclusion-del-presidente-diaz-canel-en-lista-ilegitima-y-unilateral-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/cUIBA23-e1768139839773-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-04T22:22:00.013Z"
+  "lastUpdate": "2026-06-05T00:08:28.654Z"
 };
