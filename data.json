@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "800,69"
+      "usdt": "797,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Venezuela es el segundo exportador de algas marinas en Latinoamérica: envió 270 toneladas a España y Chile",
-      "link": "https://www.bancaynegocios.com/venezuela-es-el-segundo-exportador-de-algas-marinas-en-latinoamerica-envio-270-toneladas-a-espana-y-chile/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/puertolibre2.jpg"
+      "title": "Inflación en Venezuela se ubica en 6,3% intermensual en mayo, la menor en 19 meses según el BCV",
+      "link": "https://www.bancaynegocios.com/inflacion-en-venezuela-se-ubica-en-6punto3-porciento-intermensual-en-mayo-la-menor-en-19-meses-segun-el-bcv/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/08/BCV.jpg"
     },
     {
       "source": "Infobae",
@@ -39,22 +39,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ EXPLORÓ ACUERDOS SOBRE TRANSPORTE Y ENERGÍAS LIMPIAS EN MUMBAI",
-      "link": "https://noticierodigital.com/2026/06/delcy-rodriguez-exploro-acuerdos-sobre-transporte-y-energias-limpias-en-mumbai/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/delcy-rodriguez-venezuela-india-627x376.jpg"
+      "title": "VENEZUELA BUSCA ACUERDOS PARA FABRICAR INSUMOS MÉDICOS CON INDIA",
+      "link": "https://noticierodigital.com/2026/06/venezuela-busca-acuerdos-para-fabricar-insumos-medicos-con-india/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gabriela-Jimenez-India-Polymed-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Viuda de Miguel Uribe Turbay apunta a posible crimen de Estado",
-      "link": "https://laverdad.com/viuda-de-miguel-uribe-turbay-apunta-a-posible-crimen-de-estado/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Maria-Claudia-Tarazona.jpg"
+      "title": "Miles de fieles salen a las calles de Madrid para recibir al papa León XIV",
+      "link": "https://laverdad.com/miles-de-fieles-salen-a-las-calles-de-madrid-para-recibir-al-papa-leon-xiv/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/5312b29b7e15b40da496a6fe942686296d6a6647-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Shakira solicita que no se utilice su imagen en la campaña presidencial de Colombia",
-      "link": "https://diarioversionfinal.com/mundo/shakira-solicita-que-no-se-utilice-su-imagen-en-la-campana-presidencial-de-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Shakira-750x430.jpg"
+      "title": "Ébola en RD del Congo: 452 casos confirmados y 82 fallecidos",
+      "link": "https://diarioversionfinal.com/mundo/ebola-en-rd-del-congo-452-casos-confirmados-y-82-fallecidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/02/EBOLA.jpg"
     }
   ],
-  "lastUpdate": "2026-06-06T13:43:51.667Z"
+  "lastUpdate": "2026-06-06T15:15:49.702Z"
 }
