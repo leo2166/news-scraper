@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "794,99"
+      "usdt": "795,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Surgen cada vez más fisuras dentro del Partido Republicano",
-      "link": "https://cnnespanol.cnn.com/2026/06/06/eeuu/republicanos-desafio-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/congreso-republicanos.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Perú tardó semanas; Colombia, horas: ¿qué revelan sus elecciones?",
+      "link": "https://cnnespanol.cnn.com/2026/06/06/latinoamerica/peru-colombia-resultados-elecciones-america-latina-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270533255-20260518235604155.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela e India evalúan alianzas para el suministro y fabricación de material médico-quirúrgico",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-e-india-evaluan-alianzas-para-el-suministro-y-fabricacion-de-material-medico-quirurgico",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-06-06-at-12.07.22-pm-7b8823.jpeg"
+      "title": "Defensoría del Pueblo realiza visita de seguimiento al ciudadano venezolano-uruguayo José Breijo",
+      "link": "https://noticiasvenevision.com/noticias/politica/defensoria-del-pueblo-realiza-visita-de-seguimiento-al-ciudadano-venezolano-uruguayo-jose-breijo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/3a01f377-2b7e-4b58-9f38-3eeddca604ad-c0244d.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski invita a Putin a negociar en un tercer país y ofrece tregua temporal",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-invita-a-putin-a-negociar-en-un-tercer-pais-y-ofrece-tregua-temporal/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Volodymyr-Zelensky-20-08-2022-EFE-750x430.jpg"
+      "title": "Elecciones en Perú: resultados definitivos se anunciarán a mediados de julio",
+      "link": "https://diarioversionfinal.com/mundo/elecciones-en-peru-resultados-definitivos-se-anunciaran-a-mediados-de-julio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/RMVAH6XML5GLNOPOXIXIR7HXG4-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-06T21:04:56.193Z"
+  "lastUpdate": "2026-06-06T23:04:19.050Z"
 };
