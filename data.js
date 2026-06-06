@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "764,60"
+      "usdt": "802,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolanos en España impulsan nuevas gestiones para recuperar canje de licencias de conducir",
-      "link": "https://diarioversionfinal.com/mundo/venezolanos-en-espana-impulsan-nuevas-gestiones-para-recuperar-canje-de-licencias-de-conducir/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-4.43.38-PM-1-750x430.jpeg"
+      "title": "El Papa León XIV ya está en España para su visita de seis días",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/el-papa-leon-xiv-ya-esta-en-espana-para-su-visita-de-seis-dias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Gyfv296E-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-06T06:52:56.439Z"
+  "lastUpdate": "2026-06-06T09:25:55.169Z"
 };
