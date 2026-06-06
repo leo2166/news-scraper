@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "792,89"
+      "usdt": "764,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,7 +27,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El fondo contra la \"instrumentalización\" de la Justicia está muerto, dice DOJ a jueces",
+      "title": "El fondo contra la \"instrumentalización\" de la justicia está muerto, dice DOJ a jueces",
       "link": "https://cnnespanol.cnn.com/2026/06/05/eeuu/gobierno-trump-dice-tribunales-cancela-fondo-instrumentalizacion-justicia-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-05-180018.png?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-4.43.38-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-06T03:32:08.292Z"
+  "lastUpdate": "2026-06-06T06:52:56.439Z"
 };
