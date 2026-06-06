@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "795,26"
+      "usdt": "792,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán amenaza con ampliar la guerra mientras se estancan conversaciones con EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/06/05/mundo/exclusivo-asesor-lider-iran-negociaciones-eeuu-millones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-05-141441.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El fondo contra la \"instrumentalización\" de la Justicia está muerto, dice DOJ a jueces",
+      "link": "https://cnnespanol.cnn.com/2026/06/05/eeuu/gobierno-trump-dice-tribunales-cancela-fondo-instrumentalizacion-justicia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-05-180018.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez visita la mayor refinería de petróleo del mundo en India",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-visita-la-mayor-refineria-de-petroleo-del-mundo-en-india",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/30_zc__2235_p-scaled-b003f9.jpg"
+      "title": "Venezuela coordina fechas para visita de la Administración Federal de Aviación de EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-coordina-fechas-para-visita-de-la-administracion-federal-de-aviacion-de-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/video-venezuela-coordina-fechas-para-visita-de-la-administracion-federal-de-aviacion-de-eeuu-62072-d9b084.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EMPRESAS INDIAS BUSCAN MÁS NEGOCIOS EN EL SECTOR ENERGÉTICO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/06/empresas-indias-buscan-mas-negocios-en-el-sector-energetico-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Hardeep-Singh-Puri-627x376.jpg"
+      "title": "MUNDIAL 2026: EL TORNEO MÁS AMBICIOSO DE LA HISTORIA ENTRA EN CUENTA REGRESIVA",
+      "link": "https://noticierodigital.com/2026/06/mundial-2026-el-torneo-mas-ambicioso-de-la-historia-entra-en-cuenta-regresiva/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/mundial-de-futbol-2026-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-4.43.38-PM-1-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-05T23:09:36.411Z"
+  "lastUpdate": "2026-06-06T03:32:08.292Z"
 };
