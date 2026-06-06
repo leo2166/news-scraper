@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "797,50"
+      "usdt": "795,53"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inflación en Venezuela se ubica en 6,3% intermensual en mayo, la menor en 19 meses según el BCV",
-      "link": "https://www.bancaynegocios.com/inflacion-en-venezuela-se-ubica-en-6punto3-porciento-intermensual-en-mayo-la-menor-en-19-meses-segun-el-bcv/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/08/BCV.jpg"
+      "title": "Todos los sectores reportaron inflación de un dígito en mayo, pero el INPC ha subido 101,97% en 2026",
+      "link": "https://www.bancaynegocios.com/todos-los-sectores-reportaron-inflacion-de-un-digito-en-mayo-pero-el-inpc-ha-subido-10197-en-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/INFLACION-NUEVA.jpg"
     },
     {
       "source": "Infobae",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela coordina fechas para visita de la Administración Federal de Aviación de EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-coordina-fechas-para-visita-de-la-administracion-federal-de-aviacion-de-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/video-venezuela-coordina-fechas-para-visita-de-la-administracion-federal-de-aviacion-de-eeuu-62072-d9b084.jpg"
+      "title": "Venezuela e India evalúan alianzas para el suministro y fabricación de material médico-quirúrgico",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-e-india-evaluan-alianzas-para-el-suministro-y-fabricacion-de-material-medico-quirurgico",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-06-06-at-12.07.22-pm-7b8823.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ébola en RD del Congo: 452 casos confirmados y 82 fallecidos",
-      "link": "https://diarioversionfinal.com/mundo/ebola-en-rd-del-congo-452-casos-confirmados-y-82-fallecidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/02/EBOLA.jpg"
+      "title": "Cuba distribuye armas a civiles ante el temor latente de una invasión militar de EEUU",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-principal/cuba-distribuye-armas-a-civiles-ante-el-temor-latente-de-una-invasion-militar-de-eeuu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Presidente_cuba_miguel_diaz_canel-foto-Europapress-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-06T15:15:49.702Z"
+  "lastUpdate": "2026-06-06T17:15:13.164Z"
 };
