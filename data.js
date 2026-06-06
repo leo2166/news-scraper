@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "795,53"
+      "usdt": "795,58"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA BUSCA ACUERDOS PARA FABRICAR INSUMOS MÉDICOS CON INDIA",
-      "link": "https://noticierodigital.com/2026/06/venezuela-busca-acuerdos-para-fabricar-insumos-medicos-con-india/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gabriela-Jimenez-India-Polymed-627x376.jpg"
+      "title": "PASO DE ONDA TROPICAL MANTIENE INESTABILIDAD ATMOSFÉRICA EN EL PAÍS",
+      "link": "https://noticierodigital.com/2026/06/paso-de-onda-tropical-mantiene-inestabilidad-atmosferica-en-el-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Diseno-sin-titulo-2-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba distribuye armas a civiles ante el temor latente de una invasión militar de EEUU",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-principal/cuba-distribuye-armas-a-civiles-ante-el-temor-latente-de-una-invasion-militar-de-eeuu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Presidente_cuba_miguel_diaz_canel-foto-Europapress-750x430.webp"
+      "title": "Zelenski invita a Putin a negociar en un tercer país y ofrece tregua temporal",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-invita-a-putin-a-negociar-en-un-tercer-pais-y-ofrece-tregua-temporal/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Volodymyr-Zelensky-20-08-2022-EFE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-06T17:15:13.164Z"
+  "lastUpdate": "2026-06-06T19:23:29.959Z"
 };
