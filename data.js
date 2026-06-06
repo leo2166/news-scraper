@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "802,69"
+      "usdt": "800,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan \"Bono de Corresponsabilidad y Formación\" de junio a docentes activos: aumentó 12,93% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-bono-de-corresponsabilidad-y-formacion-de-junio-a-docentes-activos-aumento-12punto93-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Venezuela es el segundo exportador de algas marinas en Latinoamérica: envió 270 toneladas a España y Chile",
+      "link": "https://www.bancaynegocios.com/venezuela-es-el-segundo-exportador-de-algas-marinas-en-latinoamerica-envio-270-toneladas-a-espana-y-chile/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/puertolibre2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela no podrá trabajar con BID y CAF hasta que pague una deuda que supera los 2.500 millones de dólares",
-      "link": "https://www.infobae.com/venezuela/2026/06/05/venezuela-no-podra-trabajar-con-bid-y-caf-hasta-que-pague-una-deuda-que-supera-los-2500-millones-de-dolares/",
-      "image": "https://www.infobae.com/resizer/v2/VSPVDUXOFRAMRMT3EHDU4UVKNA.JPG?auth=40c7927ffc75a182e8a7a985397681805615774c09ed0e34366d7a477105cfe4&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado y Keiko Fujimori conversaron sobre los caminos políticos “que hay que evitar” para no sufrir nuevos casos como el de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/06/maria-corina-machado-y-keiko-fujimori-conversaron-sobre-los-caminos-politicos-que-hay-que-evitar-para-no-sufrir-nuevos-casos-como-el-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/BFNJVGFV6ZGNZHXLM4ZXYYLH6A.jpg?auth=801b5c33288468603ed9fcb730ab444ecfdddf93feeaf77a71b09e21ce8f9964&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "El fondo contra la \"instrumentalización\" de la justicia está muerto, dice DOJ a jueces",
-      "link": "https://cnnespanol.cnn.com/2026/06/05/eeuu/gobierno-trump-dice-tribunales-cancela-fondo-instrumentalizacion-justicia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-05-180018.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Surgen cada vez más fisuras dentro del Partido Republicano",
+      "link": "https://cnnespanol.cnn.com/2026/06/06/eeuu/republicanos-desafio-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/congreso-republicanos.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MUNDIAL 2026: EL TORNEO MÁS AMBICIOSO DE LA HISTORIA ENTRA EN CUENTA REGRESIVA",
-      "link": "https://noticierodigital.com/2026/06/mundial-2026-el-torneo-mas-ambicioso-de-la-historia-entra-en-cuenta-regresiva/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/mundial-de-futbol-2026-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ EXPLORÓ ACUERDOS SOBRE TRANSPORTE Y ENERGÍAS LIMPIAS EN MUMBAI",
+      "link": "https://noticierodigital.com/2026/06/delcy-rodriguez-exploro-acuerdos-sobre-transporte-y-energias-limpias-en-mumbai/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/delcy-rodriguez-venezuela-india-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EEUU ataca objetivos militares de Irán tras la ofensiva con drones de la dictadura",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/eeuu-ataca-objetivos-militares-de-iran-tras-la-ofensiva-con-drones-de-la-dictadura/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/ataque_eeuu-750x430.webp"
+      "title": "Shakira solicita que no se utilice su imagen en la campaña presidencial de Colombia",
+      "link": "https://diarioversionfinal.com/mundo/shakira-solicita-que-no-se-utilice-su-imagen-en-la-campana-presidencial-de-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Shakira-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-06T11:26:29.026Z"
+  "lastUpdate": "2026-06-06T13:43:51.667Z"
 };
