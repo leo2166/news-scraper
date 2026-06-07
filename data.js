@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "798,50"
+      "usdt": "797,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,7 +27,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Desde prisión, Pedro Castillo llama a los peruanos a votar",
+      "title": "Detienen a dos personeros por presunta manipulación de votos",
       "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/live-news/peru-elecciones-presidenciales-keiko-fujimori-sanchez-segunda-vuelta-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2278788134.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TAREK WILLIAM SAAB INVITA A FORO DE LA GRAN MISIÓN VIVA VENEZUELA EN HOMENAJE A ROMÁN CHALBAUD",
-      "link": "https://noticierodigital.com/2026/06/tarek-william-saab-invita-a-foro-de-la-gran-mision-viva-venezuela-en-homenaje-a-roman-chalbaud/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/tarek-william-saab-627x376.jpg"
+      "title": "EXPORTACIONES NO PETROLERAS VENEZOLANAS HACIA EE. UU. CAYERON 8,42 %",
+      "link": "https://noticierodigital.com/2026/06/exportaciones-no-petroleras-venezolanas-hacia-ee-uu-cayeron-842/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/comercio-exportaciones.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski denuncia ataque ruso a Chernóbil con dron en depósito nuclear",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-denuncia-ataque-ruso-a-chernobil-con-dron-en-deposito-nuclear/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Zelenski-25-11-2025-750x430.jpg"
+      "title": "Iván Cepeda solicita debate a Abelardo de la Espriella antes de segunda vuelta en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/ivan-cepeda-solicita-debate-a-abelardo-de-la-espriella-antes-de-segunda-vuelta-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Ivan_Cepeda_Castro-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-07T18:04:59.089Z"
+  "lastUpdate": "2026-06-07T20:12:18.968Z"
 };
