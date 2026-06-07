@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "799,99"
+      "usdt": "798,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump descarta retirar fuerzas de EE.UU. en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/06/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hke2d5lxaaam7ga-20260607015003794.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Desde prisión, Pedro Castillo llama a los peruanos a votar",
+      "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/live-news/peru-elecciones-presidenciales-keiko-fujimori-sanchez-segunda-vuelta-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2278788134.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA RECHAZÓ DECLARACIONES DE GUYANA SOBRE EVENTUAL FALLO DE LA CIJ",
-      "link": "https://noticierodigital.com/2026/06/venezuela-rechazo-declaraciones-de-guyana-sobre-eventual-fallo-de-la-cij/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2019/11/casa-amarilla-cancilleria-28nov19.jpg"
+      "title": "TAREK WILLIAM SAAB INVITA A FORO DE LA GRAN MISIÓN VIVA VENEZUELA EN HOMENAJE A ROMÁN CHALBAUD",
+      "link": "https://noticierodigital.com/2026/06/tarek-william-saab-invita-a-foro-de-la-gran-mision-viva-venezuela-en-homenaje-a-roman-chalbaud/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/tarek-william-saab-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump dice que no retirará tropas de Irán hasta “completar” la misión",
-      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-no-retirara-tropas-de-iran-hasta-completar-la-mision/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Trump.jpg"
+      "title": "Zelenski denuncia ataque ruso a Chernóbil con dron en depósito nuclear",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-denuncia-ataque-ruso-a-chernobil-con-dron-en-deposito-nuclear/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Zelenski-25-11-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-07T16:17:06.299Z"
+  "lastUpdate": "2026-06-07T18:04:59.089Z"
 };
