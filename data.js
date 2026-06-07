@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "797,69"
+      "usdt": "763,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Iván Cepeda denuncia presunta compra de votos en campaña rival en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/ivan-cepeda-denuncia-presunta-compra-de-votos-en-campana-rival-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Ivan_Cepeda_Castro-750x430.webp"
+      "title": "Perú enfrenta elecciones en medio de crisis política",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/peru-enfrenta-elecciones-en-medio-de-crisis-politica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/vpUmPnJC-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-07T07:58:22.423Z"
+  "lastUpdate": "2026-06-07T10:33:45.087Z"
 };
