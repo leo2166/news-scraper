@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "792,15"
+      "usdt": "799,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,19 +27,19 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los mortales ataques de Ucrania llevan la guerra al hogar de los rusos",
-      "link": "https://cnnespanol.cnn.com/2026/06/07/mundo/ataques-ucrania-guerra-hogar-rusos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/elena-vladimirovna.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump descarta retirar fuerzas de EE.UU. en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/06/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hke2d5lxaaam7ga-20260607015003794.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela ratifica que no reconocerá decisión de la CIJ sobre el Esequibo y rechaza declaraciones de Guyana",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-ratifica-que-no-reconocera-decision-de-la-cij-sobre-el-esequibo-y-rechaza-declaraciones-de-guyana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/12comunicado.jpg-4a57d4.png"
+      "title": "Presidenta (e) Delcy Rodríguez culmina visita a la India",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-culmina-visita-a-la-india",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/30_zc__2235_p-1536x1024-1-f40bd2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "Venezuela rechazó declaraciones de Guyana sobre eventual fallo de la CIJ",
+      "title": "VENEZUELA RECHAZÓ DECLARACIONES DE GUYANA SOBRE EVENTUAL FALLO DE LA CIJ",
       "link": "https://noticierodigital.com/2026/06/venezuela-rechazo-declaraciones-de-guyana-sobre-eventual-fallo-de-la-cij/",
       "image": "https://noticierodigital.com/wp-content/uploads/2019/11/casa-amarilla-cancilleria-28nov19.jpg"
     },
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump denuncia sin pruebas \"fraude\" en primarias de California",
-      "link": "https://diarioversionfinal.com/mundo/trump-denuncia-sin-pruebas-fraude-en-primarias-de-california/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-06-at-2.21.51-PM-750x430.jpeg"
+      "title": "Trump dice que no retirará tropas de Irán hasta “completar” la misión",
+      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-no-retirara-tropas-de-iran-hasta-completar-la-mision/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Trump.jpg"
     }
   ],
-  "lastUpdate": "2026-06-07T14:52:38.115Z"
+  "lastUpdate": "2026-06-07T16:17:06.299Z"
 };
