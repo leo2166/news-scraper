@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "795,50"
+      "usdt": "798,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Perú tardó semanas; Colombia, horas: ¿qué revelan sus elecciones?",
-      "link": "https://cnnespanol.cnn.com/2026/06/06/latinoamerica/peru-colombia-resultados-elecciones-america-latina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270533255-20260518235604155.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. derriba drones que amenazaban el tráfico en el estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/06/06/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hke2d5lxaaam7ga-20260607015003794.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Defensoría del Pueblo realiza visita de seguimiento al ciudadano venezolano-uruguayo José Breijo",
-      "link": "https://noticiasvenevision.com/noticias/politica/defensoria-del-pueblo-realiza-visita-de-seguimiento-al-ciudadano-venezolano-uruguayo-jose-breijo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/3a01f377-2b7e-4b58-9f38-3eeddca604ad-c0244d.jpeg"
+      "title": "Delcy Rodríguez se reunió con directivos de Essar evaluar oportunidades de inversiones estratégicas",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-se-reunio-con-directivos-de-essar-evaluar-oportunidades-de-inversiones-estrategicas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_2026-06-06_12-41-42-c2ac9d.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Elecciones en Perú: resultados definitivos se anunciarán a mediados de julio",
-      "link": "https://diarioversionfinal.com/mundo/elecciones-en-peru-resultados-definitivos-se-anunciaran-a-mediados-de-julio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/RMVAH6XML5GLNOPOXIXIR7HXG4-750x430.jpg"
+      "title": "Iván Cepeda denuncia presunta compra de votos en campaña rival en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/ivan-cepeda-denuncia-presunta-compra-de-votos-en-campana-rival-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Ivan_Cepeda_Castro-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-06T23:04:19.050Z"
+  "lastUpdate": "2026-06-07T03:58:01.583Z"
 };
