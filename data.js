@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "799,50"
+      "usdt": "799,56"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Hay empate técnico entre Fujimori y Sánchez, según sondeo a boca de urna",
-      "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/live-news/peru-elecciones-presidenciales-keiko-fujimori-sanchez-segunda-vuelta-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276065676.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Perú en suspenso. Estas 3 claves te ayudan a entender lo que puede pasar",
+      "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/peru-conteo-segunda-vuelta-claves-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260607-keiko-sanchez-resultados-hp.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Político: Empresario petrolero impulsó campaña para frenar la línea dura de Marco Rubio hacia Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/politico-empresario-petrolero-impulso-campana-para-frenar-la-linea-dura-de-marco-rubio-hacia-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/22OD2LMKJZHHXFIEB3LF7NAOQA-750x430.jpg"
+      "title": "Terremoto de magnitud 7,8 sacude Filipinas y activa alerta de tsunami",
+      "link": "https://diarioversionfinal.com/mundo/terremoto-de-magnitud-78-sacude-filipinas-y-activa-alerta-de-tsunami/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Xtso8952-ZUL35GF7JZG6PNFY73UKDD4G5U-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-08T00:08:44.741Z"
+  "lastUpdate": "2026-06-08T05:50:50.633Z"
 };
