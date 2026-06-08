@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "799,99"
+      "usdt": "797,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Plantean excenciones arancelarias para importación de insumos destinados a la producción de camarones",
-      "link": "https://www.bancaynegocios.com/plantean-excenciones-arancelarias-para-importacion-de-insumos-destinados-a-la-produccion-de-camarones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/camarones.jpg"
+      "title": "#Expertos: Economistas moderan sus expectativas sobre el crecimiento y la inflación",
+      "link": "https://www.bancaynegocios.com/expertos-economistas-moderan-sus-expectativas-sobre-el-crecimiento-y-la-inflacion/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/MOTOR-CRECIMIENTO-INFORME.png"
     },
     {
       "source": "Infobae",
@@ -27,8 +27,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Perú en suspenso tras las elecciones: esto es lo que puede pasar",
-      "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/peru-conteo-segunda-vuelta-claves-orix",
+      "title": "Fujimori lidera por un estrecho margen el conteo de votos en Perú",
+      "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/live-news/peru-elecciones-presidenciales-keiko-fujimori-sanchez-segunda-vuelta-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260607-keiko-sanchez-resultados-hp.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPORTACIONES NO PETROLERAS VENEZOLANAS HACIA EE. UU. CAYERON 8,42 %",
-      "link": "https://noticierodigital.com/2026/06/exportaciones-no-petroleras-venezolanas-hacia-ee-uu-cayeron-842/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/comercio-exportaciones.jpg"
+      "title": "AVIÓN EJECUTIVO DE EE. UU. SE ESTRELLÓ EN REPÚBLICA DOMINICANA DEJANDO DOS MUERTOS",
+      "link": "https://noticierodigital.com/2026/06/avion-ejecutivo-de-ee-uu-se-estrello-en-republica-dominicana-dejando-dos-muertos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-1-2-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Matan a periodista colombiano amenazado por su labor en la frontera con Venezuela",
-      "link": "https://laverdad.com/matan-a-periodista-colombiano-amenazado-por-su-labor-en-la-frontera-con-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/rss-efe87bf0c6081aa7e1672e46b2da02240bd78b55a0fw.jpg"
+      "title": "Keiko Fujimori conserva 4,4 puntos de ventaja sobre Sánchez al 76 % del escrutinio en Perú",
+      "link": "https://laverdad.com/keiko-fujimori-conserva-44-puntos-de-ventaja-sobre-sanchez-al-76-del-escrutinio-en-peru/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Keiko-Fujimori-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Terremoto de magnitud 7,8 sacude Filipinas y activa alerta de tsunami",
-      "link": "https://diarioversionfinal.com/mundo/terremoto-de-magnitud-78-sacude-filipinas-y-activa-alerta-de-tsunami/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Xtso8952-ZUL35GF7JZG6PNFY73UKDD4G5U-750x430.jpg"
+      "title": "Air Canada, Avianca y Gol avanzan hacia una alianza para fortalecer la conectividad en América",
+      "link": "https://diarioversionfinal.com/mundo/air-canada-avianca-y-gol-avanzan-hacia-una-alianza-para-fortalecer-la-conectividad-en-america/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/09/avianca-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-08T10:56:18.326Z"
+  "lastUpdate": "2026-06-08T14:49:11.858Z"
 };
