@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "803,50"
+      "usdt": "765,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Expertos: Economistas moderan sus expectativas sobre el crecimiento y la inflación",
-      "link": "https://www.bancaynegocios.com/expertos-economistas-moderan-sus-expectativas-sobre-el-crecimiento-y-la-inflacion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/MOTOR-CRECIMIENTO-INFORME.png"
+      "title": "Evalúan uso de energía fotovoltaica para disminuir deficiencias de electricidad en Táchira",
+      "link": "https://www.bancaynegocios.com/evaluan-uso-de-energia-fotovoltaica-para-disminuir-deficiencias-de-electricidad-en-tachira/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/panelessolaresmerida-e1744652934752.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Señalan que buques “fantasmas” mantienen su participación en el comercio del petróleo venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/06/08/senalan-que-buques-fantasmas-mantienen-su-participacion-en-el-comercio-del-petroleo-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/KBYTFPET7NHVPJLQE5BIWPOZAE.JPG?auth=c62c2580f59812b0a535f1758a747d8e58e8fb05730b72bbe638f9df4e984dcc&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares de presos políticos en Venezuela pidieron a Estados Unidos que interceda por su liberación",
+      "link": "https://www.infobae.com/venezuela/2026/06/08/familiares-de-presos-politicos-en-venezuela-pidieron-a-estados-unidos-que-interceda-por-su-liberacion/",
+      "image": "https://www.infobae.com/resizer/v2/5LP4UX52J5BVPBTT6O5TAADUTA.jpg?auth=d24432b50da534fa0b9dc3a40e0419d3fa7365d80b4039e765798a395bc4fbf8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO SOBRE SUPUESTO DIÁLOGO CON LA OPOSICIÓN: «ESTÁN PLANTEANDO SUS MENTIRAS»",
-      "link": "https://noticierodigital.com/2026/06/cabello-sobre-supuesto-dialogo-con-la-oposicion-estan-planteando-sus-mentiras/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-6-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ SE REUNIÓ CON RECEP TAYYIP ERDOGAN PARA REVISAR ACUERDOS BILATERALES",
+      "link": "https://noticierodigital.com/2026/06/delcy-rodriguez-se-reunio-con-recep-tayyip-erdogan-para-revisar-acuerdos-bilaterales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Recep-Tayyip-Erdogan-Delcy-Rodriguez-Venezuela-turquia-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Francisco-Perez-Mackenna-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-08T20:16:46.856Z"
+  "lastUpdate": "2026-06-08T22:26:56.203Z"
 }
