@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "765,90"
+      "usdt": "799,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Sánchez toma la delantera en el conteo de votos en Perú",
+      "title": "Sánchez estira la pequeña ventaja sobre Fujimori",
       "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/live-news/peru-elecciones-presidenciales-keiko-fujimori-sanchez-segunda-vuelta-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2279764901.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez se reunió con el presidente turco Recep Tayyip Erdogan",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-se-reunio-con-el-presidente-turco-recep-tayyip-erdogan",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy--8bf4d1.png"
+      "title": "Delcy Rodríguez y Erdogan acuerdan celebrar en noviembre V Comisión Mixta para cooperación",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-y-erdogan-acuerdan-celebrar-en-noviembre-v-comision-mixta-para-cooperacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hktg4sdxcaac8cz-282772.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ SE REUNIÓ CON RECEP TAYYIP ERDOGAN PARA REVISAR ACUERDOS BILATERALES",
-      "link": "https://noticierodigital.com/2026/06/delcy-rodriguez-se-reunio-con-recep-tayyip-erdogan-para-revisar-acuerdos-bilaterales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Recep-Tayyip-Erdogan-Delcy-Rodriguez-Venezuela-turquia-627x376.jpg"
+      "title": "FREDDY BERNAL ADMITIÓ QUE LOS APAGONES EN TÁCHIRA SON «INSOSTENIBLES»",
+      "link": "https://noticierodigital.com/2026/06/freddy-bernal-admitio-que-los-apagones-en-tachira-son-insostenibles/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/freddy-bernal-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Chile afirma que reactivación de relaciones consulares \"requiere voluntad de ambas partes\"",
-      "link": "https://diarioversionfinal.com/mundo/chile-afirma-que-reactivacion-de-relaciones-consulares-requiere-voluntad-de-ambas-partes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Francisco-Perez-Mackenna-750x430.jpg"
+      "title": "Trump advierte a Netanyahu de tener cuidado porque “podría quedar solo contra Irán”",
+      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-netanyahu-de-tener-cuidado-porque-podria-quedar-solo-contra-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Netanyahu-y-Trump-08-06-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-06-08T22:26:56.203Z"
+  "lastUpdate": "2026-06-09T00:05:59.620Z"
 };
