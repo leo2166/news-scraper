@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 09 Junio 2026"
     },
     "binance": {
-      "usdt": "799,50"
+      "usdt": "784,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Evalúan uso de energía fotovoltaica para disminuir deficiencias de electricidad en Táchira",
-      "link": "https://www.bancaynegocios.com/evaluan-uso-de-energia-fotovoltaica-para-disminuir-deficiencias-de-electricidad-en-tachira/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/panelessolaresmerida-e1744652934752.jpg"
+      "title": "Venezuela y Turquía realizarán V Comisión Mixta de Cooperación en noviembre",
+      "link": "https://www.bancaynegocios.com/venezuela-y-turquia-realizaran-v-comision-mixta-de-cooperacion-en-noviembre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/DELCY-RODRIGUEZ-ERDOGAN-080626.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos en Venezuela pidieron a Estados Unidos que interceda por su liberación",
-      "link": "https://www.infobae.com/venezuela/2026/06/08/familiares-de-presos-politicos-en-venezuela-pidieron-a-estados-unidos-que-interceda-por-su-liberacion/",
-      "image": "https://www.infobae.com/resizer/v2/5LP4UX52J5BVPBTT6O5TAADUTA.jpg?auth=d24432b50da534fa0b9dc3a40e0419d3fa7365d80b4039e765798a395bc4fbf8&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez se reunió con Erdogan en Estambul y fijó meta de triplicar el comercio bilateral con Turquía",
+      "link": "https://www.infobae.com/venezuela/2026/06/09/delcy-rodriguez-se-reunio-con-erdogan-en-estambul-y-fijo-meta-de-triplicar-el-comercio-bilateral-con-turquia/",
+      "image": "https://www.infobae.com/resizer/v2/2APEKJOOAZCY7JJQO4MLRFDW24.jpg?auth=6c61bd539e2c0acfbbdd8ff29347cdb844eaad732fae6ed5f8a2ea71986290be&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Sánchez estira la pequeña ventaja sobre Fujimori",
-      "link": "https://cnnespanol.cnn.com/2026/06/07/latinoamerica/live-news/peru-elecciones-presidenciales-keiko-fujimori-sanchez-segunda-vuelta-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2279764901.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "De dónde provienen las actas que faltan por contar en Perú",
+      "link": "https://cnnespanol.cnn.com/2026/06/08/latinoamerica/peru-resultados-actas-pendientes-onpe-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2279764901.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez y Erdogan acuerdan celebrar en noviembre V Comisión Mixta para cooperación",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-y-erdogan-acuerdan-celebrar-en-noviembre-v-comision-mixta-para-cooperacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hktg4sdxcaac8cz-282772.jpeg"
+      "title": "República Dominicana designa cónsul general en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/republica-dominicana-designa-consul-general-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vas-quww--4663f4.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump advierte a Netanyahu de tener cuidado porque “podría quedar solo contra Irán”",
-      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-netanyahu-de-tener-cuidado-porque-podria-quedar-solo-contra-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Netanyahu-y-Trump-08-06-2026.jpg"
+      "title": "Sube a 37 número de muertos por fuerte terremoto en Filipinas",
+      "link": "https://diarioversionfinal.com/mundo/sube-a-37-numero-de-muertos-por-fuerte-terremoto-en-filipinas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Terremoto-Filipinas-08-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-09T00:05:59.620Z"
+  "lastUpdate": "2026-06-09T05:06:02.218Z"
 };
