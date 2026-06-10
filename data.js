@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 10 Junio 2026"
     },
     "binance": {
-      "usdt": "778,00"
+      "usdt": "816,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Operación en el sur de Venezuela: militares irrumpieron en un enclave minero dominado por grupos criminales",
-      "link": "https://www.infobae.com/venezuela/2026/06/10/operacion-en-el-sur-de-venezuela-militares-irrumpieron-en-un-enclave-minero-dominado-por-grupos-criminales/",
-      "image": "https://www.infobae.com/resizer/v2/2IGTQ7DHFFFTXAKYDLU5S4YGCI.png?auth=668bd9ac7796704540cf430450ac5586f1dcadb62f6334d017486b6734450434&smart=true&width=350&height=197&quality=85"
+      "title": "Tras su gira por India y Turquía, Delcy Rodríguez anunció que regresó al Venezuela con acuerdos energéticos y comerciales",
+      "link": "https://www.infobae.com/venezuela/2026/06/10/tras-su-gira-por-india-y-turquia-delcy-rodriguez-anuncio-que-regreso-al-venezuela-con-acuerdos-energeticos-y-comerciales/",
+      "image": "https://www.infobae.com/resizer/v2/JPV4JUH5XBGLXPDYOR6XEFHDME.JPG?auth=363998faf93c2dfa7a5624a3c854d1cf630e2e54b6994a89031d39af5a3f5d70&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. dice que terminó con sus ataques de represalia contra Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/09/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-06-09t063812z-1973947870-rc24qla81cqt-rtrmadp-3-usa-trump-20260609215452179.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump quería ser la estrella del Mundial, pero la política podría arruinar la fiesta",
+      "link": "https://cnnespanol.cnn.com/2026/06/10/mundo/trump-estrella-mundial-politica-arruinar-fiesta-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213794712-20260610053414302.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Roberto-Sanchez-Keiko-09-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-10T05:18:35.399Z"
+  "lastUpdate": "2026-06-10T10:00:33.399Z"
 };
