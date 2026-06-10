@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 10 Junio 2026"
     },
     "binance": {
-      "usdt": "816,50"
+      "usdt": "814,38"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Tras su gira por India y Turquía, Delcy Rodríguez anunció que regresó al Venezuela con acuerdos energéticos y comerciales",
-      "link": "https://www.infobae.com/venezuela/2026/06/10/tras-su-gira-por-india-y-turquia-delcy-rodriguez-anuncio-que-regreso-al-venezuela-con-acuerdos-energeticos-y-comerciales/",
-      "image": "https://www.infobae.com/resizer/v2/JPV4JUH5XBGLXPDYOR6XEFHDME.JPG?auth=363998faf93c2dfa7a5624a3c854d1cf630e2e54b6994a89031d39af5a3f5d70&smart=true&width=350&height=197&quality=85"
+      "title": "La ONU destacó como “avance clave” el pedido de extradición argentino de un ex coronel venezolano acusado de crímenes de lesa humanidad",
+      "link": "https://www.infobae.com/venezuela/2026/06/10/la-onu-destaco-como-avance-clave-el-pedido-de-extradicion-argentino-de-un-ex-coronel-venezolano-acusado-de-crimenes-de-lesa-humanidad/",
+      "image": "https://www.infobae.com/resizer/v2/BPDWTEXKRBCDJN23P2GWVJEPAQ.jpg?auth=46f27a94377c281e935a722784fcf51cd1886a8d6ce7bebc3e6c6a2bdc0ea5e9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump quería ser la estrella del Mundial, pero la política podría arruinar la fiesta",
-      "link": "https://cnnespanol.cnn.com/2026/06/10/mundo/trump-estrella-mundial-politica-arruinar-fiesta-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213794712-20260610053414302.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump vuelve a amenazar a Irán y presiona por un acuerdo",
+      "link": "https://cnnespanol.cnn.com/2026/06/10/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260610101523861.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CÉSAR PÉREZ VIVAS AFIRMÓ QUE REGRESARÁ A VENEZUELA POR EL AEROPUERTO DE MAIQUETÍA",
-      "link": "https://noticierodigital.com/2026/06/cesar-perez-vivas-afirmo-que-regresara-a-venezuela-por-el-aeropuerto-de-maiquetia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/cesar-perez-vivas-627x376.jpg"
+      "title": "GRASSO VECCHIO: BANCOS DE EE .UU. BUSCAN REACTIVAR RELACIONES DE CORRESPONSALÍA CON INSTITUCIONES FINANCIERAS VENEZOLANAS",
+      "link": "https://noticierodigital.com/2026/06/grasso-vecchio-bancos-de-ee-uu-buscan-reactivar-relaciones-de-corresponsalia-con-instituciones-financieras-venezolanas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_1nbvaa1nbvaa1nbv-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Roberto Sánchez aventaja a Keiko Fujimori por más de 41 mil votos",
-      "link": "https://diarioversionfinal.com/mundo/roberto-sanchez-aventaja-a-keiko-fujimori-por-mas-de-41-mil-votos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Roberto-Sanchez-Keiko-09-06-2026-750x430.jpg"
+      "title": "China pide calma y moderación tras enfrentamientos entre EE. UU. e Irán",
+      "link": "https://diarioversionfinal.com/mundo/china-pide-calma-y-moderacion-tras-enfrentamientos-entre-ee-uu-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/08c89cb1-7b57-41fd-b93f-f0dc4a07cfdc-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-10T10:00:33.399Z"
+  "lastUpdate": "2026-06-10T13:40:57.321Z"
 };
