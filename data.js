@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 10 Junio 2026"
     },
     "binance": {
-      "usdt": "811,00"
+      "usdt": "814,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cosecha nacional de arroz afectada por la importación de 300.000 toneladas del rubro",
-      "link": "https://www.bancaynegocios.com/cosecha-nacional-de-arroz-afectada-por-la-importacion-de-300000-toneladas-del-rubro/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/arroz.jpeg"
+      "title": "Fedecámaras y la OIM acuerdan planes de reinserción laboral para migrantes repatriados",
+      "link": "https://www.bancaynegocios.com/fedecamaras-y-la-oim-acuerdan-planes-de-reinsercion-laboral-para-migrantes-repatriados/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/FedecamarasNueva1.jpg"
     },
     {
       "source": "Infobae",
@@ -33,15 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dirigente opositor Roberto Marrero  recibió beneficio de la Ley de Amnistía",
-      "link": "https://noticiasvenevision.com/noticias/politica/dirigente-opositor-roberto-marrero-recibio-beneficio-de-la-ley-de-amnistia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_2809-1024x658-cb0774.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "ARREAZA DEFENDIÓ LA DETENCIÓN DE AFIUNI TRAS DENUNCIA DE PROVEA",
-      "link": "https://noticierodigital.com/2026/06/arreaza-defendio-la-detencion-de-afiuni-tras-denuncia-de-provea/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/jorge-arreaza.jpg"
+      "title": "Excarcelados otros cinco militares detenidos por motivos políticos en Venezuela, según ONG",
+      "link": "https://noticiasvenevision.com/noticias/politica/excarcelados-otros-cinco-militares-detenidos-por-motivos-politicos-en-venezuela-segun-ong",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hky86nswqaamkv9-e46905.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +45,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Papa clama contra los feminicidios y pide poner foco en la salud mental en Barcelona",
-      "link": "https://diarioversionfinal.com/mundo/el-papa-clama-contra-los-feminicidios-y-pide-poner-foco-en-la-salud-mental-en-barcelona/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Papa-Leon-XIV-09-06-2026-750x430.jpg"
+      "title": "Crisis energética obliga a Cuba a adelantar vacaciones escolares",
+      "link": "https://diarioversionfinal.com/mundo/crisis-energetica-obliga-a-cuba-a-adelantar-vacaciones-escolares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Clases-en-Cuba-09-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-09T22:27:11.790Z"
+  "lastUpdate": "2026-06-10T00:14:03.583Z"
 };
