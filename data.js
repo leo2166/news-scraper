@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 10 Junio 2026"
     },
     "binance": {
-      "usdt": "833,69"
+      "usdt": "845,03"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,46 +15,46 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Estiman que la inflación acumulada de Venezuela para todo el 2027 podría ubicarse en 39,1%",
-      "link": "https://www.bancaynegocios.com/estiman-que-la-inflacion-acumulada-de-venezuela-para-todo-el-2027-podria-ubicarse-en-39-con-1-porciento/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "OFAC autoriza operaciones de CVG Minerven que incluyen comercialización de oro y otros minerales",
+      "link": "https://www.bancaynegocios.com/ofac-autoriza-operaciones-de-cvg-minerven-que-incluyen-comercializacion-de-oro-y-otros-minerales/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/MINERVEN-GENERICA-100626.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Las industrias venezolanas limitaron la recepción de arroz nacional ante el ingreso de más de 300.000 toneladas importadas",
-      "link": "https://www.infobae.com/venezuela/2026/06/10/las-industrias-venezolanas-limitaron-la-recepcion-de-arroz-nacional-ante-el-ingreso-de-mas-de-300000-toneladas-importadas/",
-      "image": "https://www.infobae.com/resizer/v2/TPXWS6T5ANCDXMKAXNZJJVZZ3E.png?auth=5a0c7e37ac44a3226b61470f08d0e27597a0078dbe7597c971cbbefd428f62e6&smart=true&width=350&height=197&quality=85"
+      "title": "Fuerza Armada de Venezuela ataca a bandas criminales en zonas mineras tras la firma de acuerdos con Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/06/10/fuerza-armada-de-venezuela-ataca-a-bandas-criminales-en-zonas-mineras-tras-la-firma-de-acuerdos-con-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/MOXWIODU35BFPDKZOB62UUDWF4.jpg?auth=4ac2ed6ac8c823e433eb89ef3fc95af716dd6586792810cce11e6db5bb77324e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Petro descarta orden de suspensión: \"No es así, el día final de mi mandato saldré”",
-      "link": "https://cnnespanol.cnn.com/2026/06/10/colombia/petro-suspension-provisional-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280230267-20260610151716973.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump promete atacar Irán y sigue la retórica belicista",
+      "link": "https://cnnespanol.cnn.com/2026/06/10/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280241481.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Secretario de Guerra estadounidense Pete Hegseth anuncia que \"pronto\" habrá novedades sobre Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/secretario-de-guerra-estadounidense-pete-hegseth-anuncia-que-pronto-habra-novedades-sobre-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/0_us-iran-israel-war-a26084.jpg"
+      "title": "OVP reporta deceso de recluso en una cárcel del estado Sucre",
+      "link": "https://noticiasvenevision.com/noticias/politica/ovp-reporta-deceso-de-recluso-por-en-carcel-del-sucre",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ovp_preso_carupano-24a2e8.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "OVP REPORTÓ LA MUERTE DE UN NUEVO PRESO: YOSVET LOZADA EN EL RODEO III",
-      "link": "https://noticierodigital.com/2026/06/ovp-reporto-la-muerte-de-un-nuevo-preso-yosvet-lozada-en-el-rodeo-iii/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/ND-COLLAGES_20260610_134947_0000-627x376.png"
+      "title": "TRUMP REITERA «RESPALDO TOTAL» A CANDIDATO COLOMBIANO ABELARDO DE LA ESPRIELLA",
+      "link": "https://noticierodigital.com/2026/06/trump-reitera-respaldo-total-a-candidato-colombiano-abelardo-de-la-espriella/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/donald-trump-eeuu-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El Papa desde la cárcel Brians 1 en Barcelona: “El pasado no condena el futuro”",
-      "link": "https://laverdad.com/el-papa-desde-la-carcel-brians-1-en-barcelona-el-pasado-no-condena-el-futuro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Leon-XIV-Brians-1-Barcelona.jpg"
+      "title": "Petro denuncia violación de la ley y apunta a proceso en la Corte Suprema por la suspensión",
+      "link": "https://laverdad.com/petro-denuncia-violacion-de-la-ley-y-apunta-a-proceso-en-la-corte-suprema-por-la-suspension/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/ONU-ASAMBLEA_GENERAL-COLOMBIA_91101-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Excoronel venezolano rechaza ser extraditado de España a Argentina por caso de lesa humanidad",
-      "link": "https://diarioversionfinal.com/mundo/excoronel-venezolano-rechaza-ser-extraditado-de-espana-a-argentina-por-caso-de-lesa-humanidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/GNB-represion-860x484-1-750x430.jpg"
+      "title": "Netanyahu confirma que buscará un nuevo mandato en Israel",
+      "link": "https://diarioversionfinal.com/mundo/netanyahu-confirma-que-buscara-un-nuevo-mandato-en-israel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-10T17:20:29.607Z"
+  "lastUpdate": "2026-06-10T20:30:48.619Z"
 };
