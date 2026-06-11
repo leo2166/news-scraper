@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 11 Junio 2026"
     },
     "binance": {
-      "usdt": "850,86"
+      "usdt": "850,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,7 +27,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán promete que volverá a cerrar el estrecho de Ormuz tras ataques estadounidenses",
+      "title": "Irán lanza nueva ola de ataques de represalia",
       "link": "https://cnnespanol.cnn.com/2026/06/10/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-4-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz-20260610233216563.png?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Estrecho-Ormuz-10-06-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-06-11T05:47:55.594Z"
+  "lastUpdate": "2026-06-11T10:25:05.277Z"
 };
