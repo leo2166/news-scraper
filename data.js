@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 11 Junio 2026"
     },
     "binance": {
-      "usdt": "849,99"
+      "usdt": "850,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,27 +21,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La Corte Interamericana de Derechos Humanos ordenó el cierre de El Helicoide, el mayor centro de torturas del chavismo",
-      "link": "https://www.infobae.com/venezuela/2026/06/10/la-corte-interamericana-de-derechos-humanos-ordeno-el-cierre-de-el-helicoide-el-mayor-centro-de-torturas-del-chavismo/",
-      "image": "https://www.infobae.com/resizer/v2/7KSD2ASY6BBMPPQLYZYL52O7IU.jpg?auth=82759d0813d80d5a29e0fedfdc79c8e864614eedeb18f1f458fe02dbbb194fd0&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos flexibilizó sanciones a Venezuela para impulsar las inversiones en petróleo, gas y minería",
+      "link": "https://www.infobae.com/estados-unidos/2026/06/11/estados-unidos-flexibilizo-sanciones-a-venezuela-para-impulsar-las-inversiones-en-petroleo-gas-y-mineria/",
+      "image": "https://www.infobae.com/resizer/v2/WZRCLCY7ONFYDBQ5ZMUEPYZ5NA.JPG?auth=b9b71e849e4a947d33d73491c7283e43da71171c46b21a74a44dddf10386c55c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán anuncia que cierra el estrecho de Ormuz \"a todas las embarcaciones\"",
+      "title": "Irán promete que volverá a cerrar el estrecho de Ormuz tras ataques estadounidenses",
       "link": "https://cnnespanol.cnn.com/2026/06/10/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-4-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ormuz-20260610233216563.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "OVP reporta deceso de recluso en una cárcel del estado Sucre",
-      "link": "https://noticiasvenevision.com/noticias/politica/ovp-reporta-deceso-de-recluso-por-en-carcel-del-sucre",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ovp_preso_carupano-24a2e8.jpg"
+      "title": "CorteIDH ordena el cierre de El Helicoide, señalado como un centro de tortura en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/corteidh-ordena-el-cierre-de-el-helicoide-senalado-como-un-centro-de-tortura-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rp7kksl9-9342d1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. HABRÍA PRESIONADO A PETRO CON POSIBLE ARRESTO EN NUEVA YORK, SEGÚN TWP",
-      "link": "https://noticierodigital.com/2026/06/ee-uu-habria-presionado-a-petro-con-posible-arresto-en-nueva-york-segun-twp/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-colombia-2-627x376.jpg"
+      "title": "ALTO MANDO MILITAR REVISÓ DESPLIEGUE OPERATIVO JUNTO AL EJECUTIVO NACIONAL",
+      "link": "https://noticierodigital.com/2026/06/alto-mando-militar-reviso-despliegue-operativo-junto-al-ejecutivo-nacional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/delcy-rodriguez-alto-mando-militar-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Alto al fuego en vilo: EE. UU. lanza nueva ronda de ataques contra Irán",
-      "link": "https://diarioversionfinal.com/mundo/alto-al-fuego-en-vilo-ee-uu-lanza-nueva-ronda-de-ataques-contra-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/EE.-UU-ataque-contra-Iran-10-06-2026-750x430.jpg"
+      "title": "Comando Central de EE. UU. notifica fin de ataques contra blancos en Irán",
+      "link": "https://diarioversionfinal.com/mundo/comando-central-de-ee-uu-notifica-fin-de-ataques-contra-blancos-en-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Estrecho-Ormuz-10-06-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-06-11T00:15:38.671Z"
+  "lastUpdate": "2026-06-11T05:47:55.594Z"
 };
