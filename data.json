@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 12 Junio 2026"
     },
     "binance": {
-      "usdt": "844,90"
+      "usdt": "836,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cavecom-e: En Venezuela se realizan actualmente más de 7.000 transacciones vía pago móvil por minuto",
-      "link": "https://www.bancaynegocios.com/cavecom-e-en-venezuela-se-realizan-actualmente-mas-de-7000-transacciones-via-pago-movil-por-minuto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/PagoMovilCelularVenezuela.jpg"
+      "title": "#Análisis: ¿Es posible que el Estado venezolano pueda generar una nueva emisión de bonos?",
+      "link": "https://www.bancaynegocios.com/analisis-es-posible-que-el-estado-venezolano-pueda-generar-una-nueva-emision-de-bonos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/04/bonospdvsa.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Leopoldo López denunció la expropiación de su casa en Caracas para convertirla en una residencia de ancianos",
-      "link": "https://www.infobae.com/venezuela/2026/06/12/leopoldo-lopez-denuncio-la-expropiacion-de-su-casa-en-caracas-para-convertirla-en-una-residencia-de-ancianos/",
-      "image": "https://www.infobae.com/resizer/v2/4PCAK6S4PRHJ7HJ5BNFPGMQ7RQ.jpg?auth=69e8e926a2baa0dac9f27b9d280145ffa24ed6dabb8bab6df7f3d4cf3f90edce&smart=true&width=350&height=197&quality=85"
+      "title": "“No nos vamos”: familiares de presos políticos resisten presiones frente a la Embajada de EEUU en Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/06/12/no-nos-vamos-familiares-de-presos-politicos-resisten-presiones-frente-a-la-embajada-de-eeuu-en-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/CJBRU5GHEVAKXM4MTE5E5ULFX4.jpg?auth=19f227c16c2e27f53a1ecdccf9e160160a5b1c139c03f6d45cad2501c73efec6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Parece tomar forma un acuerdo provisional entre EE.UU. e Irán",
+      "title": "Trump arremete contra Irán tras filtración de detalles del acuerdo",
       "link": "https://cnnespanol.cnn.com/2026/06/12/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-6-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260612105823003-20260612105837052.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-06-09t063812z-1973947870-rc24qla81cqt-rtrmadp-3-usa-trump-20260612062847899.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,22 +39,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO COORDINÓ PLANES EDUCATIVOS PARA FORTALECER SECTOR MANUFACTURERO",
-      "link": "https://noticierodigital.com/2026/06/gobierno-coordino-planes-educativos-para-fortalecer-sector-manufacturero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/ministro-luis-villegas-627x376.jpg"
+      "title": "OEA SE DECLARA «LISTA» PARA APOYAR MEDIANTE OBSERVACIÓN ELECTORAL TRAS REUNIÓN CON MCM",
+      "link": "https://noticierodigital.com/2026/06/oea-se-declara-lista-para-apoyar-mediante-observacion-electoral-tras-reunion-con-mcm/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/20260612_115156-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump cancela los ataques previstos contra Irán por avances en diálogo de paz",
-      "link": "https://laverdad.com/trump-cancela-los-ataques-previstos-contra-iran-por-avances-en-dialogo-de-paz/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Trump-6.jpg"
+      "title": "León XIV desde Tenerife a los traficantes de migrantes: “¡Deténganse. Conviértanse!”",
+      "link": "https://laverdad.com/leon-xiv-desde-tenerife-a-los-traficantes-de-migrantes-detenganse-conviertanse/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Leon-XIV-Tenerife-plaza.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump vincula posible toma de isla de Jarg a acuerdo de paz con Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-vincula-posible-toma-de-isla-de-jarg-a-acuerdo-de-paz-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
+      "title": "Papa León XIV escucha en Tenerife emotivos testimonios de migrantes venezolanos",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-escucha-en-tenerife-emotivos-testimonios-de-migrantes-venezolanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/LEON-XIV-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-12T12:19:51.479Z"
+  "lastUpdate": "2026-06-12T16:18:02.851Z"
 }
