@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 12 Junio 2026"
     },
     "binance": {
-      "usdt": "811,00"
+      "usdt": "844,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Proyecto de Ley de la Actividad Ganadera prevé duro castigo contra el abigeato y el contrabando",
-      "link": "https://www.bancaynegocios.com/proyecto-de-ley-de-la-actividad-ganadera-preve-duro-castigo-contra-el-abigeato-y-el-contrabando/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/02/ASAMBLEA-NACIONAL-LEY-DE-AMNISTIA.jpg"
+      "title": "Cavecom-e: En Venezuela se realizan actualmente más de 7.000 transacciones vía pago móvil por minuto",
+      "link": "https://www.bancaynegocios.com/cavecom-e-en-venezuela-se-realizan-actualmente-mas-de-7000-transacciones-via-pago-movil-por-minuto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/PagoMovilCelularVenezuela.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela otorgó a Shell una licencia para la exploración y explotación de un campo de gas",
-      "link": "https://www.infobae.com/venezuela/2026/06/12/venezuela-otorgo-a-shell-una-licencia-para-la-exploracion-y-explotacion-de-un-campo-de-gas/",
-      "image": "https://www.infobae.com/resizer/v2/LK6LFJBI2NA65BHL4NZQM67YH4.jpg?auth=4be014f92b301d6bfe4ac996a29d0203f1f6aa2ceac15ea0bc34c414178280a4&smart=true&width=350&height=197&quality=85"
+      "title": "Leopoldo López denunció la expropiación de su casa en Caracas para convertirla en una residencia de ancianos",
+      "link": "https://www.infobae.com/venezuela/2026/06/12/leopoldo-lopez-denuncio-la-expropiacion-de-su-casa-en-caracas-para-convertirla-en-una-residencia-de-ancianos/",
+      "image": "https://www.infobae.com/resizer/v2/4PCAK6S4PRHJ7HJ5BNFPGMQ7RQ.jpg?auth=69e8e926a2baa0dac9f27b9d280145ffa24ed6dabb8bab6df7f3d4cf3f90edce&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que EE.UU. \"puso fin a la guerra\"; Irán no ha confirmado un acuerdo",
-      "link": "https://cnnespanol.cnn.com/2026/06/11/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-06-11t202448z-832787794-rc2wrlayuy7l-rtrmadp-3-usa-trump-20260612004732473.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Parece tomar forma un acuerdo provisional entre EE.UU. e Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/12/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-6-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260612105823003-20260612105837052.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
     }
   ],
-  "lastUpdate": "2026-06-12T08:38:59.609Z"
+  "lastUpdate": "2026-06-12T12:19:51.479Z"
 }
