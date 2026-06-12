@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 12 Junio 2026"
     },
     "binance": {
-      "usdt": "852,00"
+      "usdt": "711,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,27 +21,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Presidenciales, unidad total y diálogo: las claves del acuerdo entre María Corina Machado y Plataforma Unitaria",
-      "link": "https://www.infobae.com/venezuela/2026/06/11/presidenciales-unidad-total-y-dialogo-las-claves-del-acuerdo-entre-maria-corina-machado-y-plataforma-unitaria/",
-      "image": "https://www.infobae.com/resizer/v2/KYHHEAON6FHMLASV327UWX22ZA.jpeg?auth=cdfe9ddde75ba83572e1cd1e4eb253d0e9b0d9247e2cfe0d3f6160aa18ceb51a&smart=true&width=350&height=197&quality=85"
+      "title": "Rodrigo Paz agradeció el respaldo de María Corina Machado y prometió devolver la “normalidad” a Bolivia",
+      "link": "https://www.infobae.com/venezuela/2026/06/12/rodrigo-paz-agradecio-el-respaldo-de-maria-corina-machado-y-prometio-devolver-la-normalidad-a-bolivia/",
+      "image": "https://www.infobae.com/resizer/v2/2GTL3SBF5JCVHOC25LHWV23Z34.JPG?auth=b5780b2f912e4130e2b34e21436d57b38b29d8fed1fe001240cb98abb5f95714&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que un \"acuerdo\" de EE.UU. podría poner fin a la guerra con Irán",
+      "title": "Trump dice que EE.UU. \"puso fin a la guerra\"; Irán no ha confirmado un acuerdo",
       "link": "https://cnnespanol.cnn.com/2026/06/11/mundo/live-news/guerra-eeuu-israel-iran-vivo-conversaciones-paz-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-11t193149z-113917332-rc2vrlaxbhrs-rtrmadp-3-usa-trump-20260611223251142.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-06-11t202448z-832787794-rc2wrlayuy7l-rtrmadp-3-usa-trump-20260612004732473.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Sociedad Civil exige la renovación total del Poder Electoral",
+      "title": "Activistas y organizaciones ciudadanas exigen la renovación total del Poder Electoral",
       "link": "https://noticiasvenevision.com/noticias/politica/sociedad-civil-exige-la-renovacion-total-del-poder-electoral",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/carlos-rojas-b51492.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NACIERON DOS CRÍAS DE LEÓN BLANCO EN ARAGUA Y PERMANECEN BAJO CUIDADOS ESPECIALES",
-      "link": "https://noticierodigital.com/2026/06/nacieron-dos-crias-de-leon-blanco-en-aragua-y-permanecen-bajo-cuidados-especiales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/leones-blancos-maracay-627x376.jpg"
+      "title": "GOBIERNO COORDINÓ PLANES EDUCATIVOS PARA FORTALECER SECTOR MANUFACTURERO",
+      "link": "https://noticierodigital.com/2026/06/gobierno-coordino-planes-educativos-para-fortalecer-sector-manufacturero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/ministro-luis-villegas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
     }
   ],
-  "lastUpdate": "2026-06-11T23:21:50.143Z"
+  "lastUpdate": "2026-06-12T03:59:54.719Z"
 };
