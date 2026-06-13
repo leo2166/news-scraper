@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "839,86"
+      "usdt": "799,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Abbas-Araghchi-12-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-13T07:47:28.801Z"
+  "lastUpdate": "2026-06-13T10:29:00.709Z"
 };
