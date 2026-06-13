@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "835,82"
+      "usdt": "839,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -23,25 +23,25 @@ window.DASHBOARD_DATA = {
       "source": "Infobae",
       "title": "Quién era el “Niño Guerrero”, el líder del Tren de Aragua que cayó tras un operativo conjunto entre Venezuela y EEUU",
       "link": "https://www.infobae.com/venezuela/2026/06/13/quien-era-el-nino-guerrero-el-lider-del-tren-de-aragua-que-cayo-tras-un-operativo-conjunto-entre-venezuela-y-eeuu/",
-      "image": "https://www.infobae.com/resizer/v2/54H7QJRSJJGNNBPRGSJD4E77BQ.jpeg?auth=a5358ffc97bdebed2e662acca7f6cb830d4b7e824868e756b41613e44d1ae155&smart=true&width=350&height=197&quality=85"
+      "image": "https://www.infobae.com/resizer/v2/HEBPZWWY7NAE5KNM7ZUCKWFOCM.jpg?auth=a7bf0087f743ea3361660e68153f405e32c33e11215facc26f4928e7372cbefc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera otorga 1.000 becas JEL a la juventud zuliana",
-      "link": "https://noticialdia.com/zulia/gobernador-luis-caldera-otorga-1-000-becas-jel-a-la-juventud-zuliana/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/WhatsApp-Image-2026-06-12-at-12.05.36-PM-24x2mn6yiij2cc1xslzmx2ta8208u2zj0qae6zukmbn8.jpeg"
+      "title": "Donald Trump anuncia el deceso de alias «Niño Guerrero» en operación del Comando Sur",
+      "link": "https://noticialdia.com/internacionales/donald-trump-anuncia-el-deceso-de-alias-nino-guerrero-en-operacion-del-comando-sur/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/91d730e0-5932-11ee-86c3-87504a353e41.jpg-24x3kq031sxt2jidhgo96wid9ar0juanibrgzwwojpmc.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Muere el máximo líder del Tren de Aragua en ataque militar de EE.UU., anuncia Trump",
-      "link": "https://cnnespanol.cnn.com/2026/06/12/venezuela/muere-nino-guerrero-tren-de-aragua-ataque-militar-eeuu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1457850-copia-de-foto-para-wp-2023-09-26t113738-420.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Fuerzas de EE.UU. estaban planeando una misión terrestre en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/13/mundo/exclusivo-iran-uranio-minas-operacion-ee-uu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271975372-20260613051240913.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "ONG Foro Penal cifra en 389 el número de detenidos por razones políticas en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/ong-foro-penal-cifra-en-389-el-numero-de-detenidos-por-razones-politicas-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo-1-d252bd.jpg"
+      "title": "Gobierno de Venezuela confirma la neutralización de alias \"Niño Guerrero\" en operación conjunta con Estados Unidos",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-de-venezuela-confirma-la-neutralizacion-de-alias-nino-guerrero-en-operacion-conjunta-con-estados-unidos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5d06f99b-d5f8-437e-beab-f1cb2b5d07d1-6101b7.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Abbas-Araghchi-12-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-13T03:46:31.798Z"
+  "lastUpdate": "2026-06-13T07:47:28.801Z"
 };
