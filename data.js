@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "838,50"
+      "usdt": "836,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PENTÁGONO CONFIRMÓ COORDINACIÓN CON FUERZAS VENEZOLANAS PARA MATAR AL «NIÑO GUERRERO»",
-      "link": "https://noticierodigital.com/2026/06/pentagono-confirmo-coordinacion-con-fuerzas-venezolanas-para-matar-al-nino-guerrero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/pete-hegseth-eeuu-627x376.jpg"
+      "title": "JEFE DEL COMANDO SUR AGRADECE A VENEZUELA POR COOPERAR  EN OPERATIVO LETAL CONTRA “NIÑO GUERRERO”",
+      "link": "https://noticierodigital.com/2026/06/jefe-del-comando-sur-agradece-a-venezuela-por-cooperar-en-operativo-letal-contra-nino-guerrero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/jefe-del-comando-sur-eeuu-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán afirma que podría firmar un memorando con EE. UU. en los próximos días",
-      "link": "https://diarioversionfinal.com/mundo/iran-afirma-que-podria-firmar-un-memorando-con-ee-uu-en-los-proximos-dias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Abbas-Araghchi-12-06-2026-750x430.jpg"
+      "title": "Chile celebra la eliminación del líder del Tren de Aragua como \"golpe relevante\"",
+      "link": "https://diarioversionfinal.com/mundo/chile-celebra-la-eliminacion-del-lider-del-tren-de-aragua-como-golpe-relevante/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/chile-venezolanos.jpg"
     }
   ],
-  "lastUpdate": "2026-06-13T12:25:31.989Z"
+  "lastUpdate": "2026-06-13T15:00:23.844Z"
 };
