@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "799,40"
+      "usdt": "838,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,7 +21,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Quién era el “Niño Guerrero”, el líder del Tren de Aragua que cayó tras un operativo conjunto entre Venezuela y EEUU",
+      "title": "Quién era el “Niño Guerrero”, el líder del Tren de Aragua que fue abatido tras un operativo conjunto entre Venezuela y EEUU",
       "link": "https://www.infobae.com/venezuela/2026/06/13/quien-era-el-nino-guerrero-el-lider-del-tren-de-aragua-que-cayo-tras-un-operativo-conjunto-entre-venezuela-y-eeuu/",
       "image": "https://www.infobae.com/resizer/v2/HEBPZWWY7NAE5KNM7ZUCKWFOCM.jpg?auth=a7bf0087f743ea3361660e68153f405e32c33e11215facc26f4928e7372cbefc&smart=true&width=350&height=197&quality=85"
     },
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Fuerzas de EE.UU. estaban planeando una misión terrestre en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/13/mundo/exclusivo-iran-uranio-minas-operacion-ee-uu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271975372-20260613051240913.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump anuncia que murió el máximo líder del Tren de Aragua en ataque militar",
+      "link": "https://cnnespanol.cnn.com/2026/06/12/venezuela/muere-nino-guerrero-tren-de-aragua-ataque-militar-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/nino-guerrero.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Abbas-Araghchi-12-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-13T10:29:00.709Z"
+  "lastUpdate": "2026-06-13T12:25:31.989Z"
 };
