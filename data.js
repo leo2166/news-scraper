@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "837,49"
+      "usdt": "837,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Importación de 300.000 toneladas de arroz bajó en 35% precio del producto nacional: Fedeagro",
-      "link": "https://www.bancaynegocios.com/importacion-de-300-000-toneladas-de-arroz-bajo-en-35-precio-del-producto-nacional-fedeagro/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/ArrozImportacionConsumo.jpg"
+      "title": "Ministro Padrino López participó en asamblea de productores agrícolas de Portuguesa",
+      "link": "https://www.bancaynegocios.com/ministro-padrino-lopez-participo-en-asamblea-de-productores-agricolas-de-portuguesa/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/VLADIMIR-PADRINO-MIN-AGRICULTURA-1.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Quién era Niño Guerrero, el líder del Tren de Aragua?",
-      "link": "https://cnnespanol.cnn.com/2026/06/13/venezuela/quien-era-nino-guerrero-lider-tren-aragua-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hector-nino-guerrero.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump dice que espera que el acuerdo con Irán se firme el domingo",
+      "link": "https://cnnespanol.cnn.com/2026/06/13/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280575472-1-20260613192350885.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De la Espriella aventaja en casi ocho puntos a Cepeda en dos sondeos",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-aventaja-en-casi-ocho-puntos-a-cepeda-en-dos-sondeos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-13-at-3.20.49-PM-750x430.jpeg"
+      "title": "Tormentas severas ponen en alerta a más de 70 millones de personas en Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/tormentas-severas-ponen-en-alerta-a-mas-de-70-millones-de-personas-en-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/65fc5c80c362c.r_d.860-540-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-13T20:16:07.876Z"
+  "lastUpdate": "2026-06-13T22:04:09.548Z"
 };
