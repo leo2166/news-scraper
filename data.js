@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "833,50"
+      "usdt": "835,82"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,27 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El ex gobernador César Pérez Vivas, aliado de María Corina Machado, regresó a Venezuela tras casi dos años de exilio",
-      "link": "https://www.infobae.com/venezuela/2026/06/12/el-ex-gobernador-cesar-perez-vivas-aliado-de-maria-corina-machado-regreso-a-venezuela-tras-casi-dos-anos-de-exilio/",
-      "image": "https://www.infobae.com/resizer/v2/TD3S3HZKLOUVABSDTHNKPXGRUY.jpg?auth=d2dacc6240f1f2af9260e6efd947bf71e46863fae4b192bd0fe0a7cba5d94aa7&smart=true&width=350&height=197&quality=85"
+      "title": "Quién era el “Niño Guerrero”, el líder del Tren de Aragua que cayó tras un operativo conjunto entre Venezuela y EEUU",
+      "link": "https://www.infobae.com/venezuela/2026/06/13/quien-era-el-nino-guerrero-el-lider-del-tren-de-aragua-que-cayo-tras-un-operativo-conjunto-entre-venezuela-y-eeuu/",
+      "image": "https://www.infobae.com/resizer/v2/54H7QJRSJJGNNBPRGSJD4E77BQ.jpeg?auth=a5358ffc97bdebed2e662acca7f6cb830d4b7e824868e756b41613e44d1ae155&smart=true&width=350&height=197&quality=85"
+    },
+    {
+      "source": "Noticia al Día",
+      "title": "Gobernador Luis Caldera otorga 1.000 becas JEL a la juventud zuliana",
+      "link": "https://noticialdia.com/zulia/gobernador-luis-caldera-otorga-1-000-becas-jel-a-la-juventud-zuliana/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/WhatsApp-Image-2026-06-12-at-12.05.36-PM-24x2mn6yiij2cc1xslzmx2ta8208u2zj0qae6zukmbn8.jpeg"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Puede Trump lograr un buen acuerdo con Irán?",
-      "link": "https://cnnespanol.cnn.com/2026/06/12/eeuu/trump-buen-acuerdo-iran-principales-obstaculos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-12-134005.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Muere el máximo líder del Tren de Aragua en ataque militar de EE.UU., anuncia Trump",
+      "link": "https://cnnespanol.cnn.com/2026/06/12/venezuela/muere-nino-guerrero-tren-de-aragua-ataque-militar-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1457850-copia-de-foto-para-wp-2023-09-26t113738-420.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "César Pérez Vivas regresa a Venezuela tras dos años de exilio",
-      "link": "https://noticiasvenevision.com/noticias/politica/cesar-perez-vivas-regresa-a-venezuela-tras-dos-anos-de-exilio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/uydwlo86_400x400-63921e.jpg"
+      "title": "ONG Foro Penal cifra en 389 el número de detenidos por razones políticas en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/ong-foro-penal-cifra-en-389-el-numero-de-detenidos-por-razones-politicas-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo-1-d252bd.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO NACIONAL CREÓ COMISIÓN PARA CONTRATACIONES EN EL SECTOR ELÉCTRICO",
-      "link": "https://noticierodigital.com/2026/06/gobierno-nacional-creo-comision-para-contrataciones-en-el-sector-electrico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-627x376.png"
+      "title": "PENTÁGONO CONFIRMÓ COORDINACIÓN CON FUERZAS VENEZOLANAS PARA MATAR AL «NIÑO GUERRERO»",
+      "link": "https://noticierodigital.com/2026/06/pentagono-confirmo-coordinacion-con-fuerzas-venezolanas-para-matar-al-nino-guerrero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/pete-hegseth-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Abbas-Araghchi-12-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-12T23:16:54.721Z"
+  "lastUpdate": "2026-06-13T03:46:31.798Z"
 };
