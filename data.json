@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "799,00"
+      "usdt": "836,49"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,21 +33,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump anuncia que murió el máximo líder del Tren de Aragua en ataque militar",
-      "link": "https://cnnespanol.cnn.com/2026/06/12/venezuela/muere-nino-guerrero-tren-de-aragua-ataque-militar-eeuu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/nino-guerrero.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Quién era Niño Guerrero, el líder del Tren de Aragua?",
+      "link": "https://cnnespanol.cnn.com/2026/06/13/venezuela/quien-era-nino-guerrero-lider-tren-aragua-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hector-nino-guerrero.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno de Venezuela confirma la neutralización de alias \"Niño Guerrero\" en operación conjunta con Estados Unidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-de-venezuela-confirma-la-neutralizacion-de-alias-nino-guerrero-en-operacion-conjunta-con-estados-unidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5d06f99b-d5f8-437e-beab-f1cb2b5d07d1-6101b7.jpg"
+      "title": "Timoteo Zambrano arribó a Madrid para asumir como embajador de Venezuela ante España",
+      "link": "https://noticiasvenevision.com/noticias/politica/timoteo-zambrano-arribo-a-madrid-para-asumir-como-embajador-de-venezuela-ante-espana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/borrar-2dacb1.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PRESIDENCIALES EN PERÚ: KEIKO SUPERA POR 4.300 VOTOS A SÁNCHEZ A Y AÚN FALTA ESCRUTAR MÁS ACTAS",
-      "link": "https://noticierodigital.com/2026/06/presidenciales-en-peru-keiko-supera-por-4-300-votos-a-sanchez-a-y-aun-falta-escrutar-mas-actas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/keiko-fujimori-peru-627x376.jpg"
+      "title": "LA VENEZOLANA YORGELIS SALAZAR SE CORONA EN LA GRAND WINNER DE LA LIGA MUNDIAL DE KARATE",
+      "link": "https://noticierodigital.com/2026/06/la-venezolana-yorgelis-salazar-se-corona-en-la-grand-winner-de-la-liga-mundial-de-karate/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-3-3-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-13-at-12.08.21-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-13T16:24:33.166Z"
+  "lastUpdate": "2026-06-13T18:07:57.699Z"
 }
