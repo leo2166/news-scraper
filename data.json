@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "838,50"
+      "usdt": "840,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump pidió a Israel frenar ataques en el Líbano",
+      "title": "Trump confirma que EE.UU. logró un acuerdo con Irán",
       "link": "https://cnnespanol.cnn.com/2026/06/14/mundo/live-news/guerra-estados-unidos-israel-conversaciones-paz-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/manifestacion-pro-regimen-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26124419873647-20260614220723167.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Mueren en accidente de helicópteros en Brasil, Oliver Tree y Gaspi, cantante e influencer",
-      "link": "https://diarioversionfinal.com/mundo/dos-helicopteros-chocan-en-rio-de-janeiro-y-dejan-seis-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Proyecto-nuevo-3-3-696x392-1.jpg"
+      "title": "Trump anuncia acuerdo con Irán para reabrir el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-acuerdo-con-iran-para-reabrir-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/17015010-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-14T20:17:50.027Z"
+  "lastUpdate": "2026-06-14T22:09:48.095Z"
 }
