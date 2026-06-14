@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/alcalde-Joel-Angel-Bravo-Martinez-asesinado-en-oaxaca-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-14T05:49:34.644Z"
+  "lastUpdate": "2026-06-14T09:35:02.300Z"
 };
