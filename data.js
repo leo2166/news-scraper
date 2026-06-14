@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "835,86"
+      "usdt": "838,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los New York Knicks son campeones de la NBA",
-      "link": "https://cnnespanol.cnn.com/2026/06/13/deportes/new-york-knicks-campeones-nba-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/new-york-knicks-win-nba-2026-2.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La ventaja de Rusia frente a Ucrania está empezando a disminuir",
+      "link": "https://cnnespanol.cnn.com/2026/06/14/mundo/ventaja-rusia-tropas-ucrania-disminuye-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cartel-reclutamiento-servicio-militar-rusia.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/alcalde-Joel-Angel-Bravo-Martinez-asesinado-en-oaxaca-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-14T09:35:02.300Z"
+  "lastUpdate": "2026-06-14T11:57:57.261Z"
 };
