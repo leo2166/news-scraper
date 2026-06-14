@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "840,00"
+      "usdt": "839,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Ministro Padrino López participó en asamblea de productores agrícolas de Portuguesa",
-      "link": "https://www.bancaynegocios.com/ministro-padrino-lopez-participo-en-asamblea-de-productores-agricolas-de-portuguesa/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/VLADIMIR-PADRINO-MIN-AGRICULTURA-1.jpeg"
+      "title": "Qatar Airways iniciará en julio ruta que enlazará con Caracas y Bogotá",
+      "link": "https://www.bancaynegocios.com/qatar-airways-iniciara-en-julio-ruta-que-enlazara-con-caracas-y-bogota/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/12/qatar_airways.jpg"
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado le agradeció a Trump por su lucha contra el crimen organizado tras la muerte del líder del Tren de Aragua",
-      "link": "https://www.infobae.com/venezuela/2026/06/13/maria-corina-machado-le-agradecio-a-trump-por-su-lucha-contra-el-crimen-organizado-tras-la-muerte-del-lider-del-tren-de-aragua/",
-      "image": "https://www.infobae.com/resizer/v2/RBQNF57Q7FEVDEO5YNQJLSLW6U.jpg?auth=c18b722efb7ee16fdc6aa0e98bc56099d06941920155f505dd4b9a7e0c9838a3&smart=true&width=350&height=197&quality=85"
+      "title": "Seis condenados y una acusación bajo sospecha: las grietas del expediente por el supuesto plan contra la nieta de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/06/14/seis-condenados-y-una-acusacion-bajo-sospecha-las-grietas-del-expediente-por-el-supuesto-plan-contra-la-nieta-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/TTYMODSK2BEMFOO6HXLSEJJC5M.jpg?auth=60decc3dc69b376c28c149d02cfde7c2283c02b2b265967beaeec4e426dc9dc4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cuatro personas heridas tras choque en el Municipio San Francisco",
-      "link": "https://noticialdia.com/al-dia/cuatro-personas-heridas-tras-choque-vial-en-el-municipio-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/choque-24xatdy6b5rq1m7o1sxpngi520mqgsg9shzkqzr0d6yc.jpg?x40597"
+      "title": "Detienen a un hombre en Maracaibo por presunta extorsión a una mujer con 5.000 dólares",
+      "link": "https://noticialdia.com/al-dia/capturado-en-maracaibo-presuntamente-por-intentar-extorsionar-a-una-mujer-con-cinco-mil-dolares/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/WhatsApp-Image-2026-06-14-at-6.09.33-AM-1000x520-2-24xb5vbybw487c7cxa2n9ivqftnc97y2g7k57mztevlg.jpeg?x40597"
     },
     {
       "source": "CNN en Español",
-      "title": "La ventaja de Rusia frente a Ucrania está empezando a disminuir",
-      "link": "https://cnnespanol.cnn.com/2026/06/14/mundo/ventaja-rusia-tropas-ucrania-disminuye-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cartel-reclutamiento-servicio-militar-rusia.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump pidió a Israel frenar ataques en el Líbano",
+      "link": "https://cnnespanol.cnn.com/2026/06/14/mundo/live-news/guerra-estados-unidos-israel-conversaciones-paz-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/manifestacion-pro-regimen-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jefe del Comando Sur, Francis L. Donovan agradece a Venezuela por operativo contra el Tren de Aragua",
-      "link": "https://noticiasvenevision.com/noticias/politica/jefe-del-comando-sur-francis-l-donovan-agradece-a-venezuela-por-operativo-contra-el-tren-de-aragua",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/francis-l-donovan-nuevo-jefe-del-comando-sur-de-eeuu-53653-e526e1.jpg"
+      "title": "Andrés Caleca: \"Lo primero que se requiere para convocar unas elecciones en Venezuela es que haya voluntad política de todos para convocarla\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/andres-caleca-lo-primero-que-se-requiere-para-convocar-unas-elecciones-en-venezuela-es-que-haya-voluntad-politica-de-todos-para-convocarla",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hkxlmogwmaa9fnn-124d82.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CENTERVIEW PODRÍA LLEVARSE HASTA $200 MILLONES SI REESTRUCTURACIÓN DE DEUDA VENEZOLANA ES EXITOSA",
-      "link": "https://noticierodigital.com/2026/06/centerview-podria-llevarse-hasta-200-millones-si-reestructuracion-de-deuda-venezolana-es-exitosa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/06/dolares-banco-mundial-26jun2020.jpg"
+      "title": "EMBAJADA DE EE. UU. SE SUMA AL AGRADECIMIENTO POR OPERACIÓN CONJUNTA EN LA CAÍDA DEL ‘NIÑO GUERRERO’",
+      "link": "https://noticierodigital.com/2026/06/embajada-de-ee-uu-se-suma-al-agradecimiento-por-operacion-conjunta-en-la-caida-del-nino-guerrero/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Casa Blanca se convierte en escenario de la UFC para el 80.º cumpleaños de Trump",
-      "link": "https://diarioversionfinal.com/mundo/la-casa-blanca-se-convierte-en-escenario-de-la-ufc-para-el-80-o-cumpleanos-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/1735568350-donald-trump-remote-work-1224-g2190485630-750x430.webp"
+      "title": "Irán advierte que acuerdo con EE. UU. peligra si Washington no cumple compromisos en Líbano",
+      "link": "https://diarioversionfinal.com/mundo/iran-advierte-que-acuerdo-con-ee-uu-peligra-si-washington-no-cumple-compromisos-en-libano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/EuropaPress_7264306_january_2026_tehran_iran_esmaeil_baghaei_spokesperson_of_iranas_foreign-1024x683-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-14T14:19:32.458Z"
+  "lastUpdate": "2026-06-14T16:21:55.952Z"
 };
