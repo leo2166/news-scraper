@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "835,99"
+      "usdt": "835,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,16 +26,22 @@
       "image": "https://www.infobae.com/resizer/v2/RBQNF57Q7FEVDEO5YNQJLSLW6U.jpg?auth=c18b722efb7ee16fdc6aa0e98bc56099d06941920155f505dd4b9a7e0c9838a3&smart=true&width=350&height=197&quality=85"
     },
     {
+      "source": "Noticia al Día",
+      "title": "Diosdado Cabello: Más de 28.000 policías han sido destituidos y sometidos a juicio por corrupción y extorsión",
+      "link": "https://noticialdia.com/al-dia/diosdado-cabello-mas-de-28-000-policias-han-sido-destituidos-y-sometidos-a-juicio-por-corrupcion-y-extorsion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/pnb-5-800x600-1-24x867096cghxa5hqqmdvwa3yq5p3mpjrc75x0k66dmc.jpg?x40597"
+    },
+    {
       "source": "CNN en Español",
-      "title": "Trump dice que espera que el acuerdo con Irán se firme el domingo",
-      "link": "https://cnnespanol.cnn.com/2026/06/13/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280575472-1-20260613192350885.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los New York Knicks son campeones de la NBA",
+      "link": "https://cnnespanol.cnn.com/2026/06/13/deportes/new-york-knicks-campeones-nba-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/new-york-knicks-win-nba-2026-2.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Timoteo Zambrano arribó a Madrid para asumir como embajador de Venezuela ante España",
-      "link": "https://noticiasvenevision.com/noticias/politica/timoteo-zambrano-arribo-a-madrid-para-asumir-como-embajador-de-venezuela-ante-espana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/borrar-2dacb1.webp"
+      "title": "Jefe del Comando Sur, Francis L. Donovan agradece a Venezuela por operativo contra el Tren de Aragua",
+      "link": "https://noticiasvenevision.com/noticias/politica/jefe-del-comando-sur-francis-l-donovan-agradece-a-venezuela-por-operativo-contra-el-tren-de-aragua",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/francis-l-donovan-nuevo-jefe-del-comando-sur-de-eeuu-53653-e526e1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Crisis eléctrica en Cuba provoca cortes masivos de hasta el 59 % del territorio",
-      "link": "https://diarioversionfinal.com/mundo/crisis-electrica-en-cuba-provoca-cortes-masivos-de-hasta-el-59-del-territorio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/1781357294709.webp"
+      "title": "Asesinan a alcalde en Oaxaca semanas después de denunciar agresión armada",
+      "link": "https://diarioversionfinal.com/mundo/asesinan-a-alcalde-en-oaxaca-semanas-despues-de-denunciar-agresion-armada/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/alcalde-Joel-Angel-Bravo-Martinez-asesinado-en-oaxaca-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-14T00:07:49.019Z"
+  "lastUpdate": "2026-06-14T05:49:34.644Z"
 }
