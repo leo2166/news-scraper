@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "592,52",
-      "eur": "687,70",
-      "fechaValor": "Martes, 16 Junio 2026"
+      "usd": "587,41",
+      "eur": "680,08",
+      "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "838,50"
+      "usdt": "839,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,10 +26,16 @@ window.DASHBOARD_DATA = {
       "image": "https://www.infobae.com/resizer/v2/JPVESIDW2FH3RCYHLHHU3XQAFA.jpg?auth=e213e0744fb3970b16f2ad92fdc385fd8db64a199f86bf207c22e9e7a5e80046&smart=true&width=350&height=197&quality=85"
     },
     {
+      "source": "Noticia al Día",
+      "title": "Así bajaron de un bus a venezolana vinculada al Tren de Aragua: EE.UU. la estaba buscando",
+      "link": "https://noticialdia.com/al-dia/asi-bajaron-de-un-bus-a-venezolana-vinculada-al-tren-de-aragua-ee-uu-la-estaba-buscando/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/image-128-24xh2d4y4js8g9kx8ges6yt9ry938niljqkwtguph46s.png?x50598"
+    },
+    {
       "source": "CNN en Español",
-      "title": "¿Qué dejó un año de guerra con Irán? Se abre el debate",
-      "link": "https://cnnespanol.cnn.com/2026/06/15/mundo/trump-iran-acuerdo-rivales-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/guerra-iran-resultados.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Continúan los ataques entre Israel y Hezbollah pese al acuerdo de EE.UU. con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/15/mundo/live-news/guerra-ee-uu-israel-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2281076079-20260615230954078.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PJ CUESTIONÓ IMPACTO REAL DE LA DESACELERACIÓN INFLACIONARIA",
-      "link": "https://noticierodigital.com/2026/06/pj-cuestiono-impacto-real-de-la-desaceleracion-inflacionaria/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/primero-justicia-16dic-627x376.jpg"
+      "title": "EJECUTIVO ANUNCIÓ CAMBIOS EN EL MINISTERIO DE ECOSOCIALISMO E INPARQUES",
+      "link": "https://noticierodigital.com/2026/06/ejecutivo-anuncio-cambios-en-el-ministerio-de-ecosocialismo-e-inparques/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/nelson-rodriguez-rosines-chavez-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum celebra el acuerdo EE. UU.-Irán y lo califica de “buena noticia para el mundo”",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-celebra-el-acuerdo-ee-uu-iran-y-lo-califica-de-buena-noticia-para-el-mundo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/Claudia-Sheinbaum-750x430.webp"
+      "title": "Trump prevé que el estrecho de Ormuz estará abierto por completo el próximo #19Jun",
+      "link": "https://diarioversionfinal.com/mundo/trump-preve-que-el-estrecho-de-ormuz-estara-abierto-por-completo-el-proximo-19jun/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-24-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-15T21:42:43.878Z"
+  "lastUpdate": "2026-06-15T23:45:20.989Z"
 };
