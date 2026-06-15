@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "839,99"
+      "usdt": "837,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Provea pide \"transparencia absoluta\" sobre operativo contra el Tren de Aragua",
-      "link": "https://noticiasvenevision.com/noticias/politica/provea-pide-transparencia-absoluta-sobre-operativo-contra-el-tren-de-aragua",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ef11e11ed6b017c6a490f2e708f060d338aa3fec-4fa426.jpg"
+      "title": "Bloque Constitucional fija posición sobre operaciones militares extranjeras en el estado Bolívar",
+      "link": "https://noticiasvenevision.com/noticias/politica/bloque-constitucional-fija-posicion-sobre-operaciones-militares-extranjeras-en-el-estado-bolivar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fundacion-1-5243d8.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fallece a los 95 años Taty Almeida, presidenta de Madres de Plaza de Mayo",
-      "link": "https://diarioversionfinal.com/mundo/fallece-a-los-95-anos-taty-almeida-presidenta-de-madres-de-plaza-de-mayo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-2026-06-14T170533.741.jpg"
+      "title": "El precio del petróleo cae con fuerza tras acuerdo entre EE. UU. e Irán",
+      "link": "https://diarioversionfinal.com/mundo/el-precio-del-petroleo-cae-con-fuerza-tras-acuerdo-entre-ee-uu-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/a30454b79874c1d1048ab23c925712e7-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-15T00:09:02.158Z"
+  "lastUpdate": "2026-06-15T06:24:03.839Z"
 };
