@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "840,00"
+      "usdt": "839,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gobierno reorganiza en brigadas la actividad minera tras la operación militar contra el Tren de Aragua",
-      "link": "https://www.bancaynegocios.com/gobierno-reorganiza-en-brigadas-la-actividad-minera-tras-la-operacion-militar-contra-el-tren-de-aragua/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/ARCO-MINERO-140626.jpg"
+      "title": "Sector Pesca y Acuicultura reportó crecimiento de 15% en los primeros meses de 2026",
+      "link": "https://www.bancaynegocios.com/sector-pesca-y-acuicultura-reporto-crecimiento-de-15-en-los-primeros-meses-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/PESCADO-SEMANA-SANTA-2023-e1704552119969.jpg"
     },
     {
       "source": "Infobae",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia acuerdo con Irán para reabrir el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-acuerdo-con-iran-para-reabrir-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/17015010-750x430.jpg"
+      "title": "Fallece a los 95 años Taty Almeida, presidenta de Madres de Plaza de Mayo",
+      "link": "https://diarioversionfinal.com/mundo/fallece-a-los-95-anos-taty-almeida-presidenta-de-madres-de-plaza-de-mayo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-2026-06-14T170533.741.jpg"
     }
   ],
-  "lastUpdate": "2026-06-14T22:09:48.095Z"
+  "lastUpdate": "2026-06-15T00:09:02.158Z"
 };
