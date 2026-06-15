@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 15 Junio 2026"
     },
     "binance": {
-      "usdt": "837,86"
+      "usdt": "780,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Sector Pesca y Acuicultura reportó crecimiento de 15% en los primeros meses de 2026",
-      "link": "https://www.bancaynegocios.com/sector-pesca-y-acuicultura-reporto-crecimiento-de-15-en-los-primeros-meses-de-2026/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/PESCADO-SEMANA-SANTA-2023-e1704552119969.jpg"
+      "title": "Los 7 puntos claves para guiar el proceso de reestructuración de deuda de Venezuela, según la ANCE",
+      "link": "https://www.bancaynegocios.com/los-7-puntos-claves-para-guiar-el-proceso-reestructuracion-de-deuda-de-venezuela-segun-la-ance/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/DineroDolaresNorteamericanos.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump confirma que EE.UU. logró un acuerdo con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/14/mundo/live-news/guerra-estados-unidos-israel-conversaciones-paz-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26124419873647-20260614220723167.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El mayor reto del acuerdo con Irán sigue fuera del papel",
+      "link": "https://cnnespanol.cnn.com/2026/06/15/eeuu/analisis-acuerdo-trump-iran-combates-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-dana-whote-14-junio-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "CICLISTAS DE CUBA, ECUADOR, COLOMBIA Y VENEZUELA COMPITEN EN LA VUELTA INTERNACIONAL LA FRÍA 2026",
-      "link": "https://noticierodigital.com/2026/06/ciclistas-de-cuba-ecuador-colombia-y-venezuela-compiten-en-la-vuelta-internacional-la-fria-2026/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-6-627x376.png"
+      "title": "SOCÍAS LÓPEZ: «DELCY RODRÍGUEZ PEDIRÁ LA RENUNCIA COMPLETA DEL GABINETE»",
+      "link": "https://noticierodigital.com/2026/06/socias-lopez-delcy-rodriguez-pedira-la-renuncia-completa-del-gabinete/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/tomassociaslopez-dialogomexico-16may2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "El precio del petróleo cae con fuerza tras acuerdo entre EE. UU. e Irán",
-      "link": "https://diarioversionfinal.com/mundo/el-precio-del-petroleo-cae-con-fuerza-tras-acuerdo-entre-ee-uu-e-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/a30454b79874c1d1048ab23c925712e7-750x430.webp"
+      "title": "Irán exige \"cese total\" de los ataques en Líbano tras acuerdo preliminar con EE. UU",
+      "link": "https://diarioversionfinal.com/mundo/iran-exige-cese-total-de-los-ataques-en-libano-tras-acuerdo-preliminar-con-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/PWIGXWDGGVGWXMYIABQ4E5N3EY-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-15T06:24:03.839Z"
+  "lastUpdate": "2026-06-15T13:13:51.350Z"
 }
