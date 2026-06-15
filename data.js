@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "587,41",
-      "eur": "680,08",
-      "fechaValor": "Lunes, 15 Junio 2026"
+      "usd": "592,52",
+      "eur": "687,70",
+      "fechaValor": "Martes, 16 Junio 2026"
     },
     "binance": {
-      "usdt": "833,69"
+      "usdt": "838,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Seis condenados y una acusación bajo sospecha: las grietas del expediente por el supuesto plan contra la nieta de Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/06/14/seis-condenados-y-una-acusacion-bajo-sospecha-las-grietas-del-expediente-por-el-supuesto-plan-contra-la-nieta-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/TTYMODSK2BEMFOO6HXLSEJJC5M.jpg?auth=60decc3dc69b376c28c149d02cfde7c2283c02b2b265967beaeec4e426dc9dc4&smart=true&width=350&height=197&quality=85"
+      "title": "Productores señalan que Ley de Actividad Ganadera no combate la violencia del campo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/15/productores-senalan-que-ley-de-actividad-ganadera-no-combate-la-violencia-del-campo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/JPVESIDW2FH3RCYHLHHU3XQAFA.jpg?auth=e213e0744fb3970b16f2ad92fdc385fd8db64a199f86bf207c22e9e7a5e80046&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,28 +33,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "CNE inicia hoy proceso de capacitación para la Segunda Consulta Popular Nacional 2026",
-      "link": "https://noticiasvenevision.com/noticias/politica/cne-inicia-hoy-proceso-de-capacitacion-para-la-segunda-consulta-popular-nacional-2026",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cne-2-180556.jpg"
+      "title": "Diputado José Gregorio Correa: \"La reforma eléctrica no es una privatización, el Estado mantendrá el 50% de las inversiones\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/diputado-jose-gregorio-correa-la-reforma-electrica-no-es-una-privatizacion-el-estado-mantendra-el-50-de-las-inversiones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-06-15-at-1.29.12-pm-1cd5c8.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«NO ES PRIVATIZACIÓN»: DIP. CORREA ACLARÓ QUE EL ESTADO MANTENDRÁ 50 % DE INVERSIONES ELÉCTRICAS",
-      "link": "https://noticierodigital.com/2026/06/no-es-privatizacion-dip-correa-aclaro-que-el-estado-mantendra-50-de-inversiones-electricas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/jose-gregorio-correa-627x376.jpg"
+      "title": "PJ CUESTIONÓ IMPACTO REAL DE LA DESACELERACIÓN INFLACIONARIA",
+      "link": "https://noticierodigital.com/2026/06/pj-cuestiono-impacto-real-de-la-desaceleracion-inflacionaria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/primero-justicia-16dic-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Curazao evalúa eliminar visado a venezolanos ante caída del turismo",
-      "link": "https://laverdad.com/curazao-evalua-eliminar-visado-a-venezolanos-ante-caida-del-turismo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Curazao.jpg"
+      "title": "Dueños de la discoteca Jet Set serán juzgados por homicidio involuntario",
+      "link": "https://laverdad.com/duenos-de-la-discoteca-jet-set-seran-juzgados-por-homicidio-involuntario/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Tragedia-Jet-Set-hermanos.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Capitán del Bella 1 admite cargos en EE. UU. tras fuga desde Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/capitan-del-bella-1-admite-cargos-en-ee-uu-tras-fuga-desde-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/eeuu-venezuela-petrolero-750x430.webp"
+      "title": "Sheinbaum celebra el acuerdo EE. UU.-Irán y lo califica de “buena noticia para el mundo”",
+      "link": "https://diarioversionfinal.com/mundo/sheinbaum-celebra-el-acuerdo-ee-uu-iran-y-lo-califica-de-buena-noticia-para-el-mundo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/10/Claudia-Sheinbaum-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-15T18:26:22.208Z"
+  "lastUpdate": "2026-06-15T21:42:43.878Z"
 };
