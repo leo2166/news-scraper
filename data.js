@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 16 Junio 2026"
     },
     "binance": {
-      "usdt": "799,98"
+      "usdt": "832,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-24-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-16T02:57:10.874Z"
+  "lastUpdate": "2026-06-16T04:09:40.515Z"
 };
