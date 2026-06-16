@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+// Actualización manual de tasas y noticias (Vercel deploy-force)
 const fs = require('fs');
 const path = require('path');
 const Tesseract = require('tesseract.js');

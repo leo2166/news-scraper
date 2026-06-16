@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "587,41",
-      "eur": "680,08",
-      "fechaValor": "Lunes, 15 Junio 2026"
+      "usd": "592,52",
+      "eur": "687,70",
+      "fechaValor": "Martes, 16 Junio 2026"
     },
     "binance": {
-      "usdt": "839,40"
+      "usdt": "800,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Así bajaron de un bus a venezolana vinculada al Tren de Aragua: EE.UU. la estaba buscando",
-      "link": "https://noticialdia.com/al-dia/asi-bajaron-de-un-bus-a-venezolana-vinculada-al-tren-de-aragua-ee-uu-la-estaba-buscando/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/image-128-24xh2d4y4js8g9kx8ges6yt9ry938niljqkwtguph46s.png?x50598"
+      "title": "Alkosto y Familia inauguran su primer punto panadero 24 horas en Bella Vista",
+      "link": "https://noticialdia.com/al-dia/alkosto-y-familia-inauguran-su-primer-punto-panadero-24-horas-en-bella-vista/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/WhatsApp-Image-2026-06-15-at-10.21.38-PM-24xi50l1vkf0rkwfnppdciupbta5muq7q9lt2x49evlg.jpeg?x50598"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado José Gregorio Correa: \"La reforma eléctrica no es una privatización, el Estado mantendrá el 50% de las inversiones\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-jose-gregorio-correa-la-reforma-electrica-no-es-una-privatizacion-el-estado-mantendra-el-50-de-las-inversiones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-06-15-at-1.29.12-pm-1cd5c8.jpeg"
+      "title": "Presidenta (E) Delcy Rodríguez condecora al equipo defensor de la Guayana Esequiba ante la CIJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-condecora-al-equipo-defensor-de-la-guayana-esequiba-ante-la-cij",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/13condecoraciones.jpg-df57b6.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EJECUTIVO ANUNCIÓ CAMBIOS EN EL MINISTERIO DE ECOSOCIALISMO E INPARQUES",
-      "link": "https://noticierodigital.com/2026/06/ejecutivo-anuncio-cambios-en-el-ministerio-de-ecosocialismo-e-inparques/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/nelson-rodriguez-rosines-chavez-627x376.jpg"
+      "title": "FORO PENAL VOLVIÓ A CUESTIONAR ACTUACIÓN DEL SISTEMA JUDICIAL VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/06/foro-penal-volvio-a-cuestionar-actuacion-del-sistema-judicial-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-24-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-15T23:45:20.989Z"
+  "lastUpdate": "2026-06-16T02:54:18.429Z"
 };
