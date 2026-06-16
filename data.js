@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 17 Junio 2026"
     },
     "binance": {
-      "usdt": "798,75"
+      "usdt": "802,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "ONG venezolanas exigen elecciones y advierten que no hay mejora económica sin cambio político",
-      "link": "https://www.infobae.com/venezuela/2026/06/16/ong-venezolanas-exigen-elecciones-y-advierten-que-no-hay-mejora-economica-sin-cambio-politico/",
-      "image": "https://www.infobae.com/resizer/v2/EOQJHAOYENBN7JGKNMUAVQ3HKU.jpg?auth=dc211cf6789a69d1e874dc5607fed43ec7a1a3dadb51351f7fef1adfb1fbb584&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó con la petrolera española Repsol un acuerdo para explorar y desarrollar gas y petróleo",
+      "link": "https://www.infobae.com/venezuela/2026/06/16/venezuela-firmo-con-la-petrolera-espanola-repsol-un-acuerdo-para-explorar-y-desarrollar-gas-y-petroleo/",
+      "image": "https://www.infobae.com/resizer/v2/T4NHHXIZLNCDHFTINUHBIPOB5A.jpg?auth=8aeb031570b051ba686025873ade5e7800bae9363ed80f89ccbe7b0b62183545&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Se comienza a ver una «luz» en el túnel eléctrico de Venezuela",
-      "link": "https://noticialdia.com/nacionales/se-comienza-a-ver-una-luz-en-el-tunel-electrico-de-venezuela/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/a3-luz-1-2-24xlectqgrh0syyxlo1mhk5owg2yqisxqmzpdbm1qagk.jpg?x50598"
+      "title": "“Tres culturas, tres caminos”: El innovador desfile de moda que fusionó la tradición oriental y el talento local Marabino",
+      "link": "https://noticialdia.com/al-dia/tres-culturas-tres-caminos-el-innovador-desfile-de-moda-que-fusiono-la-tradicion-oriental-y-el-talento-local-marabino/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/moda-24xlrjyf4183ttro3cp7vfbdtte7x8pq5hc173lsfzas.jpg?x60570"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACUERDO ENTRE IRÁN Y EE. UU. SE FIRMARÁ EL VIERNES EN SUIZA",
-      "link": "https://noticierodigital.com/2026/06/acuerdo-entre-iran-y-ee-uu-se-firmara-el-viernes-en-suiza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/eeuu_iran-627x376.png"
+      "title": "STALIN GONZÁLEZ PIDIÓ INVESTIGAR RESPONSABLES DEL CAOS MINERO EN BOLÍVAR",
+      "link": "https://noticierodigital.com/2026/06/stalin-gonzalez-pidio-investigar-responsables-del-caos-minero-en-bolivar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/stalin-gonzalez-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "ICE arresta en Nueva York a presunto miembro del “Tren de Aragua”",
-      "link": "https://laverdad.com/ice-arresta-en-nueva-york-a-presunto-miembro-del-tren-de-aragua/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Jairo-Antonio-Molina-Moron.jpg"
+      "title": "Aclaran “malentendido” por supuesto abuso de menor en Bogotá y estadounidense queda libre",
+      "link": "https://laverdad.com/aclaran-malentendido-por-supuesto-abuso-de-menor-en-bogota-y-estadounidense-queda-libre/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/CZZF2HJUIFC7BCLXHNIMX6IQM4-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Conteo oficial al 99.082% deja a Keiko Fujimori arriba con 35.524 votos ante Pedro Sánchez",
-      "link": "https://diarioversionfinal.com/mundo/conteo-oficial-al-99-082-deja-a-keiko-fujimori-arriba-con-35-524-votos-ante-pedro-sanchez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/keiko-fujimori-pedro-sanchez.webp"
+      "title": "ELN libera a dos policías secuestrados en Arauca desde julio de 2025",
+      "link": "https://diarioversionfinal.com/mundo/eln-libera-a-dos-policias-secuestrados-en-arauca-desde-julio-de-2025/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/8022243660001w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-16T19:36:24.025Z"
+  "lastUpdate": "2026-06-16T22:11:45.297Z"
 };
