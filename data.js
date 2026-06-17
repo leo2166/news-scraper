@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 17 Junio 2026"
     },
     "binance": {
-      "usdt": "834,90"
+      "usdt": "839,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezolana fue asesinada por su novio tras fuerte discusión en Cartagena",
-      "link": "https://noticialdia.com/sucesos/venezolana-fue-asesinada-por-su-novio-tras-fuerte-discusion-en-cartagena/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/venezolana.webp?x84139"
+      "title": "Solo daños materiales: Choque entre carro y moto en Amparo no dejó heridos pero reaviva el debate sobre la seguridad vial",
+      "link": "https://noticialdia.com/sucesos/solo-danos-materiales-choque-entre-carro-y-moto-en-amparo-no-dejo-heridos-pero-reaviva-el-debate-sobre-la-seguridad-vial/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/choque-2.webp?x84139"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Defensora del Pueblo convoca a la sociedad civil a participar en la Consulta Nacional para la Reforma de la Justicia Penal",
-      "link": "https://noticiasvenevision.com/noticias/politica/eglee-gonzalez-lobato-convoca-a-la-sociedad-civil-a-participar-en-la-consulta-nacional-para-la-reforma-de-la-justicia-penal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/foto-cortesia-112489-fd40a1.jpg"
+      "title": "Delegación de EE. UU. y Delcy Rodríguez evalúan avances del plan energético de tres fases",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-de-ee-uu-y-delcy-rodriguez-evaluan-avances-del-plan-energetico-de-tres-fases",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hlcqbbja0aamgna-385861.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNIMET ABRE POSTULACIONES PARA SUS 14 NUEVOS PROGRAMAS DE POSTGRADO ADAPTADOS AL MERCADO ACTUAL",
-      "link": "https://noticierodigital.com/2026/06/unimet-abre-postulaciones-para-sus-14-nuevos-programas-de-postgrado-adaptados-al-mercado-actual/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Unimet-627x376.jpeg"
+      "title": "MÁS DE 87 MILLONES DE DÓLARES NEGOCIÓ LA BOLSA DE VALORES DE CARACAS EN MAYO",
+      "link": "https://noticierodigital.com/2026/06/mas-de-87-millones-de-dolares-negocio-la-bolsa-de-valores-de-caracas-en-mayo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/Diseno-sin-titulo-24-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Colombia cerrará el sábado su frontera con Venezuela por las presidenciales",
-      "link": "https://laverdad.com/colombia-cerrara-el-sabado-su-frontera-con-venezuela-por-las-presidenciales/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Frontera-1-1.jpg"
+      "title": "EE. UU. divulga el texto íntegro del acuerdo con Irán",
+      "link": "https://laverdad.com/ee-uu-divulga-el-texto-integro-del-acuerdo-con-iran/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Donald-Trump-1.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La FED inicia la era Warsh entre expectativas de tasas estables y presión inflacionaria, según Bloomberg",
-      "link": "https://diarioversionfinal.com/mundo/la-fed-inicia-la-era-warsh-entre-expectativas-de-tasas-estables-y-presion-inflacionaria-segun-bloomberg/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/thumbs_b_c_9ee3b5aec907efe135bca10e6a1e06bb-750x430.jpg"
+      "title": "Más de 45.000 venezolanos abandonan el mercado laboral chileno en un año",
+      "link": "https://diarioversionfinal.com/mundo/mas-de-45-000-venezolanos-abandonan-el-mercado-laboral-chileno-en-un-ano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-64-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-17T18:17:09.050Z"
+  "lastUpdate": "2026-06-17T21:06:20.629Z"
 };
