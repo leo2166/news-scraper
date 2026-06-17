@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 17 Junio 2026"
     },
     "binance": {
-      "usdt": "802,70"
+      "usdt": "840,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Asobanca: No hay pronunciamiento oficial sobre límites para la compra de divisas",
-      "link": "https://www.bancaynegocios.com/asobanca-no-hay-pronunciamiento-oficial-sobre-limites-para-la-compra-de-divisas/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DivisasDolaresEEUUBilletes.jpg"
+      "title": "El 35% de las empresas de construcción en Monagas están inoperativas, indica gremio",
+      "link": "https://www.bancaynegocios.com/el-35-porciento-de-las-empresas-de-construccion-en-monagas-estan-inoperativas-indica-gremio/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/09/CONSTRUCCION-CARACAS-AFP.jpg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "“Tres culturas, tres caminos”: El innovador desfile de moda que fusionó la tradición oriental y el talento local Marabino",
-      "link": "https://noticialdia.com/al-dia/tres-culturas-tres-caminos-el-innovador-desfile-de-moda-que-fusiono-la-tradicion-oriental-y-el-talento-local-marabino/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/moda-24xlrjyf4183ttro3cp7vfbdtte7x8pq5hc173lsfzas.jpg?x60570"
+      "title": "Maracaibo será sede del IV Expo Congreso Latinoamericano de Ganadería Tropical y la 2da Feria Ganadera FEGALAGO 2026",
+      "link": "https://noticialdia.com/economia/maracaibo-sera-sede-del-iv-expo-congreso-latinoamericano-de-ganaderia-tropical-y-la-2da-feria-ganadera-fegalago-2026/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/ganaderos-venezuela-800-24xm79qux59yop9lsrbl6s5h9d9qh9fzfz2g305byf78.jpg?x60570"
     },
     {
       "source": "CNN en Español",
-      "title": "Inteligencia de EE.UU. considera que ahora Irán tiene la capacidad de bloquear el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/06/16/mundo/iran-bloquear-estrecho-cuando-quiera-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/19-2026-05-01t103455z-921331245-rc210la8oi7h-rtrmadp-3-iran-crisis-oman-hormuz-20260616160510167.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Vance explica por qué aún no se ha divulgado el texto del acuerdo con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/16/mundo/live-news/guerra-ee-uu-israel-en-vivo-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-15t143922z-1334074803-rc2lila5b520-rtrmadp-3-iran-crisis-usa-vance-20260616185411306.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Departamento de Justicia de EE.UU. solicitó posponer audiencia de Nicolás Maduro y Cilia Flores",
-      "link": "https://noticiasvenevision.com/noticias/politica/departamento-de-justicia-de-eeuu-solicito-posponer-audiencia-de-nicolas-maduro-y-cilia-flores",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-29-21970f.jpg"
+      "title": "Timoteo Zambrano presentó copias de estilo como embajador de Venezuela en España",
+      "link": "https://noticiasvenevision.com/noticias/politica/timoteo-zambrano-presento-copias-de-estilo-como-embajador-de-venezuela-en-espana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sin-titulo-24-bde015.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "STALIN GONZÁLEZ PIDIÓ INVESTIGAR RESPONSABLES DEL CAOS MINERO EN BOLÍVAR",
-      "link": "https://noticierodigital.com/2026/06/stalin-gonzalez-pidio-investigar-responsables-del-caos-minero-en-bolivar/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/stalin-gonzalez-627x376.jpg"
+      "title": "FEDECÁMARAS Y COPARMEX AVANZARON EN AGENDA DE COOPERACIÓN EMPRESARIAL",
+      "link": "https://noticierodigital.com/2026/06/fedecamaras-y-coparmex-avanzaron-en-agenda-de-cooperacion-empresarial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/cooparmex-fedecamaras-mexico-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/8022243660001w-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-16T22:11:45.297Z"
+  "lastUpdate": "2026-06-17T00:16:25.890Z"
 }
