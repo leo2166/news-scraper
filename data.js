@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 17 Junio 2026"
     },
     "binance": {
-      "usdt": "836,00"
+      "usdt": "810,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,46 +21,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Choque de almirantes: la frase del embajador Maniglia que desató una réplica implacable de Comisso Urdaneta",
-      "link": "https://www.infobae.com/venezuela/2026/06/17/choque-de-almirantes-la-frase-del-embajador-maniglia-que-desato-una-replica-implacable-de-comisso-urdaneta/",
-      "image": "https://www.infobae.com/resizer/v2/GRETFCFWRBEMXGL3JIRJWWWL64.jpg?auth=712513fdda39944e259bd2f72b4d69f274e6373380aa458e087dcf2777ad84af&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez remueve de sus cargos en el Ejecutivo a un edecán de Maduro y a la hija menor de Hugo Chávez",
+      "link": "https://www.infobae.com/venezuela/2026/06/17/delcy-rodriguez-remueve-de-sus-cargos-en-el-ejecutivo-a-un-edecan-de-maduro-y-a-la-hija-menor-de-hugo-chavez/",
+      "image": "https://www.infobae.com/resizer/v2/I3QIQ7QMFZHQXDD23TTHB2IGEI.jpg?auth=683972c1ea7ceb815ba66314afbbb6797cb14ebe45123529013d618fc0586d40&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cada segundo cuenta: Ayudemos al periodista de Noticia Al Día Daniel García a ganar esta batalla por su salud",
-      "link": "https://noticialdia.com/al-dia/cada-segundo-cuenta-ayudemos-al-periodista-de-noticia-al-dia-daniel-garcia-a-ganar-esta-batalla-por-su-salud/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/Diseno-sin-titulo-2-24xmyx1nt5zscq7nk4lnehlp8tk90j5d8uogbeg19njo.jpg?x60570"
+      "title": "Alcalde Héctor Soto anuncia la colocación de otras 50 mil toneladas de asfalto en San Francisco",
+      "link": "https://noticialdia.com/al-dia/alcalde-hector-soto-anuncia-la-colocacion-de-otras-50-mil-toneladas-de-asfalto-en-san-francisco/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/77655-24xpatjimrmma4djr7w6pvq2y9z9yn7uzwqvdgyukc50.jpg?x60570"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué incluye el acuerdo de 14 puntos entre EE.UU. e Irán?",
+      "title": "¿Hará Irán nuevas concesiones de cara a un acuerdo con EE.UU.?",
       "link": "https://cnnespanol.cnn.com/2026/06/17/mundo/acuerdo-completo-estados-unidos-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281156251-20260617110852384.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2281269449-20260617053753884.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Autoridades del sistema de justicia visitan Tocuyito",
-      "link": "https://noticiasvenevision.com/noticias/politica/autoridades-del-sistema-de-justicia-visitan-tocuyito",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/en-el-marco-de-la-consulta-nacional-para-la-reforma-de-la-justicia-penal-la-defensora-del-puebl-73f4f7.jpg"
+      "title": "Embajada de EE.UU. anuncia acuerdo para la estabilización del sistema eléctrico en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-anuncia-acuerdo-para-la-estabilizacion-del-sistema-electrico-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_3iaeb93iaeb93iae-68899f.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "COMANDO SUR DE EE. UU. EJECUTÓ NUEVO OPERATIVO LETAL EN EL PACÍFICO ORIENTAL",
-      "link": "https://noticierodigital.com/2026/06/comando-sur-de-ee-uu-ejecuto-nuevo-operativo-letal-en-el-pacifico-oriental/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Comando-Sur-de-EEUU-ataque-embarcacion-627x376.jpg"
+      "title": "ALCALDÍA DE CARACAS CERRÓ COMERCIOS QUE INCUMPLÍAN TASA BCV EN MERCADO DEL CEMENTERIO",
+      "link": "https://noticierodigital.com/2026/06/alcaldia-de-caracas-cerro-comercios-que-incumplian-tasa-bcv-en-mercado-del-cementerio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/mercadocementerio_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Aclaran “malentendido” por supuesto abuso de menor en Bogotá y estadounidense queda libre",
-      "link": "https://laverdad.com/aclaran-malentendido-por-supuesto-abuso-de-menor-en-bogota-y-estadounidense-queda-libre/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/CZZF2HJUIFC7BCLXHNIMX6IQM4-1.jpg"
+      "title": "Andreína Baduel expone en el Congreso de Colombia situación de presos políticos",
+      "link": "https://laverdad.com/andreina-baduel-expone-en-el-congreso-de-colombia-situacion-de-presos-politicos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Andreina-Baduel.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "En Directo: Zapatero declara ante el juez",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/en-directo-zapatero-declara-ante-el-juez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/EuropaPress_7148872_expresidente_gobierno_jose_luis_rodriguez_zapatero_acto_homenaje_jose-1-750x430.jpg"
+      "title": "Irán y EE. UU. avanzan en acuerdo nuclear con fondo de reconstrucción de 300.000 millones de dólares",
+      "link": "https://diarioversionfinal.com/mundo/iran-y-ee-uu-avanzan-en-acuerdo-nuclear-con-fondo-de-reconstruccion-de-300-000-millones-de-dolares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Iran-20-04-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-17T11:48:04.057Z"
+  "lastUpdate": "2026-06-17T15:31:25.490Z"
 };
