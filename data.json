@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "596,78",
-      "eur": "692,05",
-      "fechaValor": "Miércoles, 17 Junio 2026"
+      "usd": "602,33",
+      "eur": "698,22",
+      "fechaValor": "Jueves, 18 Junio 2026"
     },
     "binance": {
-      "usdt": "839,99"
+      "usdt": "798,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Venezuela impone límites a la compra de divisas mientras sigue imparable la devaluación del bolívar",
-      "link": "https://www.infobae.com/venezuela/2026/06/17/venezuela-impone-limites-a-la-compra-de-divisas-mientras-sigue-imparable-la-devaluacion-del-bolivar/",
-      "image": "https://www.infobae.com/resizer/v2/LVYMQHFHRVBLXBXWJSZUFPGQRY.JPG?auth=f423bf43cb740e8ee2dd9323e5cd41f7a85289e3fe88f16b856fa4994b365889&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos refuerza su apoyo a empresas para la reactivación del sector petrolero en Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/06/17/estados-unidos-refuerza-su-apoyo-a-empresas-para-la-reactivacion-del-sector-petrolero-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/OA563KCEBRHK7LOZFI5DQ37D6M.jpg?auth=6a088d6260f52afeb48a4b9d956d8ca17da00f2e0ad6b927fdc7edac077860dd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. publica el acuerdo oficial con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/17/mundo/acuerdo-completo-estados-unidos-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260617104604231.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Trump firmó una copia impresa del acuerdo entre EE.UU. e Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/17/mundo/live-news/guerra-ee-uu-israel-en-vivo-2-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281869644.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 87 MILLONES DE DÓLARES NEGOCIÓ LA BOLSA DE VALORES DE CARACAS EN MAYO",
-      "link": "https://noticierodigital.com/2026/06/mas-de-87-millones-de-dolares-negocio-la-bolsa-de-valores-de-caracas-en-mayo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/Diseno-sin-titulo-24-627x376.jpg"
+      "title": "EGLÉE GONZÁLEZ LLAMÓ A LA SOCIEDAD CIVIL A SUMARSE A LA REFORMA DE LA JUSTICIA PENAL",
+      "link": "https://noticierodigital.com/2026/06/eglee-gonzalez-llamo-a-la-sociedad-civil-a-sumarse-a-la-reforma-de-la-justicia-penal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/eglee-gonzalez-lobato-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Más de 45.000 venezolanos abandonan el mercado laboral chileno en un año",
-      "link": "https://diarioversionfinal.com/mundo/mas-de-45-000-venezolanos-abandonan-el-mercado-laboral-chileno-en-un-ano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-64-678x430.jpg"
+      "title": "Lula le pide a Trump que no se meta en las elecciones de su país",
+      "link": "https://diarioversionfinal.com/mundo/lula-le-pide-a-trump-que-no-se-meta-en-las-elecciones-de-su-pais/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/lula-da-silva-y-donald-trump-20250826-2087304-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-17T21:06:20.629Z"
+  "lastUpdate": "2026-06-17T23:24:50.945Z"
 }
