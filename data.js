@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 18 Junio 2026"
     },
     "binance": {
-      "usdt": "841,50"
+      "usdt": "843,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "¿Lloverán dólares en Venezuela? Afirman que EE.UU. autorizaría el envío de remesas en efectivo al país",
-      "link": "https://www.infobae.com/venezuela/2026/06/18/lloveran-dolares-en-venezuela-afirman-que-eeuu-autorizaria-el-envio-de-remesas-en-efectivo-al-pais/",
-      "image": "https://www.infobae.com/resizer/v2/TQ7VTAH3FRETLJI3SG56KDCBKY.JPG?auth=11d9fd187223ffd99640a8bf471b2d36c4b88e13dc27e20f1bd7b6bbd3b77766&smart=true&width=350&height=197&quality=85"
+      "title": "Denuncian detención arbitraria de cinco “balseros” venezolanos que fueron deportados desde Aruba",
+      "link": "https://www.infobae.com/venezuela/2026/06/18/denuncian-detencion-arbitraria-de-cinco-balseros-venezolanos-que-fueron-deportados-desde-aruba/",
+      "image": "https://www.infobae.com/resizer/v2/EO6RYZ7V6NELVGKMJ3VIYYS3YE.jpg?auth=60e9b2d7bbdc7399665235a76473cf51d356fa4b1e17ca2dbd758263742b2b51&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Brutal asesinato de una adulta mayor venezolana conmociona Chile",
-      "link": "https://noticialdia.com/sin-categoria/brutal-asesinato-de-una-adulta-mayor-venezolana-conmociona-chile/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/6666hyh.webp?x84139"
+      "title": "Tres instructores detenidos en Brasil por la muerte de Maria Eduarda Rodrigues de Freitas tras ser lanzada al vacío sin cuerdas de seguridad",
+      "link": "https://noticialdia.com/al-dia/tres-instructores-detenidos-en-brasil-por-la-muerte-de-maria-eduarda-rodrigues-de-freitas-tras-ser-lanzada-al-vacio-sin-cuerdas-de-seguridad/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/caida-Sao-Paulo-1.webp?x84139"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump refuerza su intento de revocar la ciudadanía a estadounidenses naturalizados",
-      "link": "https://cnnespanol.cnn.com/2026/06/18/eeuu/exclusivo-trump-esfuerzos-revocar-ciudadania-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/captura-de-pantalla-2026-06-17-180148.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "El líder supremo de Irán autorizó el acuerdo con EE.UU., según medios estatales",
+      "link": "https://cnnespanol.cnn.com/2026/06/18/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26155680421126-20260618181614740.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZOLANA FUE ASESINADA POR SU EXPAREJA EN TRINIDAD: LA APUÑALÓ CUANDO IBA A TRABAJAR",
-      "link": "https://noticierodigital.com/2026/06/venezolana-fue-asesinada-por-su-expareja-en-trinidad-la-apunalo-cuando-iba-a-trabajar/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/08/femicidios-venezuela-26ago2021.jpg"
+      "title": "PDVSA CONTRATÓ LA FIRMA GREENBERG TRAURIG PARA AVANZAR EN ACUERDOS DE PRODUCCIÓN PETROLERA: BLOOMBERG",
+      "link": "https://noticierodigital.com/2026/06/pdvsa-contrato-la-firma-greenberg-traurig-para-avanzar-en-acuerdos-de-produccion-petrolera-bloomberg/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El juez del caso Plus Ultra investigará a las hijas y a la secretaria de Zapatero",
-      "link": "https://laverdad.com/el-juez-del-caso-plus-ultra-investigara-a-las-hijas-y-a-la-secretaria-de-zapatero/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Hijas-de-Zapatero.jpg"
+      "title": "León XIV confirma que viajará a Perú la primera quincena de noviembre",
+      "link": "https://laverdad.com/leon-xiv-confirma-que-viajara-a-peru-la-primera-quincena-de-noviembre/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Papa-viajara-a-Peru-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tribunal de EE. UU. aplaza primera audiencia oral que busca revertir la venta de Citgo",
-      "link": "https://diarioversionfinal.com/mundo/tribunal-de-ee-uu-aplaza-primera-audiencia-oral-que-busca-revertir-la-venta-de-citgo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/citgo-afp.webp"
+      "title": "Estados Unidos pone fin al bloqueo marítimo contra Irán tras acuerdo",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-pone-fin-al-bloqueo-maritimo-contra-iran-tras-acuerdo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-24-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-18T16:34:01.584Z"
+  "lastUpdate": "2026-06-18T19:28:51.082Z"
 };
