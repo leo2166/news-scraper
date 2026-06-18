@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "602,33",
-      "eur": "698,22",
-      "fechaValor": "Jueves, 18 Junio 2026"
+      "usd": "607,39",
+      "eur": "697,36",
+      "fechaValor": "Viernes, 19 Junio 2026"
     },
     "binance": {
-      "usdt": "843,90"
+      "usdt": "836,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Estiman que EEUU podría autorizar el envío de remesas en efectivo hacia Venezuela",
-      "link": "https://www.bancaynegocios.com/estiman-que-eeuu-podria-autorizar-el-envio-de-remesas-en-efectivo-hacia-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/06/DolaresMonedaEEUUDivisa.jpg"
+      "title": "Se reduce la oferta de inmuebles en Caracas aunque hay demanda por parte de empresas trasnacionales",
+      "link": "https://www.bancaynegocios.com/se-reduce-la-oferta-de-inmuebles-en-caracas-aunque-hay-demanda-por-parte-de-empresas-trasnacionales/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/09/INMUEBLES-CARACAS-EDIFICIOS-AFP.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Tres instructores detenidos en Brasil por la muerte de Maria Eduarda Rodrigues de Freitas tras ser lanzada al vacío sin cuerdas de seguridad",
-      "link": "https://noticialdia.com/al-dia/tres-instructores-detenidos-en-brasil-por-la-muerte-de-maria-eduarda-rodrigues-de-freitas-tras-ser-lanzada-al-vacio-sin-cuerdas-de-seguridad/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/caida-Sao-Paulo-1.webp?x84139"
+      "title": "Consternación en Sabaneta de Palmas por la trágica muerte de Jean Carlos Paz Montero «Canito»",
+      "link": "https://noticialdia.com/sucesos/consternacion-en-sabaneta-de-palmas-por-la-tragica-muerte-de-jean-carlos-paz-montero-canito/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/ea719a6a-bbbc-42b2-a765-b3c656bf3dc3-1.webp?x84139"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dirigente político Andrés Velásquez ve necesario establecer un cronograma electoral para presidenciales",
-      "link": "https://noticiasvenevision.com/noticias/politica/dirigente-politico-andres-velasquez-ve-necesario-establecer-un-cronograma-electoral-para-presidenciales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/andresvela-b00066.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "PDVSA CONTRATÓ LA FIRMA GREENBERG TRAURIG PARA AVANZAR EN ACUERDOS DE PRODUCCIÓN PETROLERA: BLOOMBERG",
-      "link": "https://noticierodigital.com/2026/06/pdvsa-contrato-la-firma-greenberg-traurig-para-avanzar-en-acuerdos-de-produccion-petrolera-bloomberg/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
+      "title": "Alianza Bravo Pueblo en Monagas exige revisión de la “Causa 2020” y reestructuración del CNE",
+      "link": "https://noticiasvenevision.com/noticias/politica/alianza-bravo-pueblo-en-monagas-exige-revision-de-la-causa-2020-y-reestructuracion-del-cne",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1767451706-venezuela-primer-paso-hacia-libertad-55f7dd.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV confirma que viajará a Perú la primera quincena de noviembre",
-      "link": "https://laverdad.com/leon-xiv-confirma-que-viajara-a-peru-la-primera-quincena-de-noviembre/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Papa-viajara-a-Peru-2.jpg"
+      "title": "EE. UU. levanta bloqueo a todo el tránsito marítimo de Irán en el estrecho de Ormuz",
+      "link": "https://laverdad.com/ee-uu-levanta-bloqueo-a-todo-el-transito-maritimo-de-iran-en-el-estrecho-de-ormuz/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/02f0d2af-26d1-48fe-9785-a9cb6cc8d7b8-1.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos pone fin al bloqueo marítimo contra Irán tras acuerdo",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-pone-fin-al-bloqueo-maritimo-contra-iran-tras-acuerdo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-24-05-2026-750x430.jpg"
+      "title": "Irán advierte que la permanencia de Israel en el sur del Líbano invalidaría el acuerdo con EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/iran-advierte-que-la-permanencia-de-israel-en-el-sur-del-libano-invalidaria-el-acuerdo-con-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/image-2-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-18T19:28:51.082Z"
+  "lastUpdate": "2026-06-18T22:11:23.452Z"
 };
