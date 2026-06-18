@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 18 Junio 2026"
     },
     "binance": {
-      "usdt": "798,80"
+      "usdt": "825,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "El 35% de las empresas de construcción en Monagas están inoperativas, indica gremio",
-      "link": "https://www.bancaynegocios.com/el-35-porciento-de-las-empresas-de-construccion-en-monagas-estan-inoperativas-indica-gremio/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/09/CONSTRUCCION-CARACAS-AFP.jpg"
+      "title": "Delcy Rodríguez se reúne con el Gabinete Económico: evalúan políticas públicas para la recuperación económica",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-se-reune-con-el-gabinete-economico-evaluan-politicas-publicas-para-la-recuperacion-economica/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-17-at-8.16.29-PM.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos refuerza su apoyo a empresas para la reactivación del sector petrolero en Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/06/17/estados-unidos-refuerza-su-apoyo-a-empresas-para-la-reactivacion-del-sector-petrolero-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/OA563KCEBRHK7LOZFI5DQ37D6M.jpg?auth=6a088d6260f52afeb48a4b9d956d8ca17da00f2e0ad6b927fdc7edac077860dd&smart=true&width=350&height=197&quality=85"
+      "title": "La canasta alimentaria en Venezuela superó los 772 dólares en mayo y sigue fuera del alcance salarial",
+      "link": "https://www.infobae.com/venezuela/2026/06/18/la-canasta-alimentaria-en-venezuela-supero-los-772-dolares-en-mayo-y-sigue-fuera-del-alcance-salarial/",
+      "image": "https://www.infobae.com/resizer/v2/GMVPTJ7UGLNFFX5BCNL75DLSP4.jpg?auth=8928b0f10bf90fea0de76c1095e8790c87e373f6cef40db82c0b33a0e804f144&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Solo daños materiales: Choque entre carro y moto en Amparo no dejó heridos pero reaviva el debate sobre la seguridad vial",
-      "link": "https://noticialdia.com/sucesos/solo-danos-materiales-choque-entre-carro-y-moto-en-amparo-no-dejo-heridos-pero-reaviva-el-debate-sobre-la-seguridad-vial/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/choque-2.webp?x84139"
+      "title": "Venezolana fue asesinada a puñaladas por su expareja en plena vía pública",
+      "link": "https://noticialdia.com/al-dia/venezolana-fue-asesinada-a-punaladas-por-su-expareja-en-plena-via-publica/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/muerte11.webp?x84139"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump firmó una copia impresa del acuerdo entre EE.UU. e Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/17/mundo/live-news/guerra-ee-uu-israel-en-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281869644.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Colombia marca el segundo gol a Uzbekistán en el Estadio Ciudad de México",
+      "link": "https://cnnespanol.cnn.com/2026/06/17/deportes/live-news/resultado-colombia-uzbekistan-mundial-2026-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-18t011441z-899871242-up1em6i03gfvl-rtrmadp-3-soccer-worldcup-gha-pan.JPG?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delegación de EE. UU. y Delcy Rodríguez evalúan avances del plan energético de tres fases",
-      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-de-ee-uu-y-delcy-rodriguez-evaluan-avances-del-plan-energetico-de-tres-fases",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hlcqbbja0aamgna-385861.jpg"
+      "title": "Dirigente político Andrés Velásquez ve necesario establecer un cronograma electoral para presidenciales",
+      "link": "https://noticiasvenevision.com/noticias/politica/dirigente-politico-andres-velasquez-ve-necesario-establecer-un-cronograma-electoral-para-presidenciales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/andresvela-b00066.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EGLÉE GONZÁLEZ LLAMÓ A LA SOCIEDAD CIVIL A SUMARSE A LA REFORMA DE LA JUSTICIA PENAL",
-      "link": "https://noticierodigital.com/2026/06/eglee-gonzalez-llamo-a-la-sociedad-civil-a-sumarse-a-la-reforma-de-la-justicia-penal/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/eglee-gonzalez-lobato-2-627x376.jpg"
+      "title": "SISMO DE MAGNITUD 4,5 SE REGISTRÓ CERCA DE BISCUCUY LA NOCHE DE ESTE MARTES",
+      "link": "https://noticierodigital.com/2026/06/sismo-de-magnitud-45-se-registro-cerca-de-biscucuy-la-noche-de-este-martes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/funvisis-sede-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula le pide a Trump que no se meta en las elecciones de su país",
-      "link": "https://diarioversionfinal.com/mundo/lula-le-pide-a-trump-que-no-se-meta-en-las-elecciones-de-su-pais/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/lula-da-silva-y-donald-trump-20250826-2087304-750x430.jpg"
+      "title": "Trump anuncia que firmó el memorando de entendimiento entre EE. UU. e Irán",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-que-firmo-el-memorando-de-entendimiento-entre-ee-uu-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/Donald_Trump_EEUU-8-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-17T23:24:50.945Z"
+  "lastUpdate": "2026-06-18T04:00:21.770Z"
 };
