@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 18 Junio 2026"
     },
     "binance": {
-      "usdt": "775,00"
+      "usdt": "785,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Puede que el acuerdo de Trump con Irán sea un fracaso, pero está consiguiendo lo que quiere",
-      "link": "https://cnnespanol.cnn.com/2026/06/18/mundo/acuerdo-trump-iran-fracaso-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-17t192739z-1278525053-rc2vvlay6gf8-rtrmadp-3-g7-summit-trump-20260618004436175-20260618043616278.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump intensifica sus esfuerzos para revocar ciudadanía a estadounidenses naturalizados",
+      "link": "https://cnnespanol.cnn.com/2026/06/18/eeuu/exclusivo-trump-esfuerzos-revocar-ciudadania-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2221384659-20260617195948824-20260618084821310.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,8 +45,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SISMO DE MAGNITUD 4,5 SE REGISTRÓ CERCA DE BISCUCUY LA NOCHE DE ESTE MARTES",
-      "link": "https://noticierodigital.com/2026/06/sismo-de-magnitud-45-se-registro-cerca-de-biscucuy-la-noche-de-este-martes/",
+      "title": "SISMO DE MAGNITUD 4,5 SE REGISTRÓ CERCA DE BISCUCUY LA NOCHE DE ESTE MIÉRCOLES",
+      "link": "https://noticierodigital.com/2026/06/sismo-de-magnitud-45-se-registro-cerca-de-biscucuy-la-noche-de-este-miercoles/",
       "image": "https://noticierodigital.com/wp-content/uploads/2025/09/funvisis-sede-627x376.jpg"
     },
     {
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Activistas venezolanos piden en EEUU intervenir también por los presos políticos",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/activistas-venezolanos-piden-en-eeuu-intervenir-tambien-por-los-presos-politicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Cfj1cud9-image-750x430.jpg"
+      "title": "Nueva bajada del petróleo tras el acuerdo de paz que se firma mañana entre EEUU e Irán",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/nueva-bajada-del-petroleo-tras-el-acuerdo-de-paz-que-se-firma-manana-entre-eeuu-e-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/exportadores-de-petroleo-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-18T08:52:18.215Z"
+  "lastUpdate": "2026-06-18T12:27:12.018Z"
 };
