@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "607,39",
-      "eur": "697,36",
-      "fechaValor": "Viernes, 19 Junio 2026"
+      "usd": "612,43",
+      "eur": "702,42",
+      "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "842,99"
+      "usdt": "843,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Israel y Hezbollah acordaron renovar el alto el fuego, según fuentes",
-      "link": "https://cnnespanol.cnn.com/2026/06/19/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281598308-20260619043723456-20260619043809222.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Los obstáculos del Gobierno de Cuba para aplicar sus casi 200 reformas",
+      "link": "https://cnnespanol.cnn.com/2026/06/19/latinoamerica/cuba-reformas-economia-tension-eeuu-alcances-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/05a468f5615ba9f033001e12cbfe9a3eb6269c7bw.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA PROMESA DE PORTUGAL AFONSO MOREIRA FIRMÓ CON EL LEVERKUSEN",
-      "link": "https://noticierodigital.com/2026/06/la-promesa-de-portugal-afonso-moreira-firmo-con-el-leverkusen/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-2-11-627x376.png"
+      "title": "EXCARCELARON AL CAPITÁN DE FRAGATA CARLOS PIÑA TRAS MÁS DE CUATRO AÑOS DETENIDO",
+      "link": "https://noticierodigital.com/2026/06/excarcelaron-al-capitan-de-fragata-carlos-pina-tras-mas-de-cuatro-anos-detenido/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/capitan-de-fragata-carlos-pina-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump advierte a Irán: “tienen que llegar a un acuerdo o habrá consecuencias”",
-      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-iran-tienen-que-llegar-a-un-acuerdo-o-habra-consecuencias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/1735568350-donald-trump-remote-work-1224-g2190485630-750x430.webp"
+      "title": "Trump asegura que la relación con Venezuela es “fantástica” y destaca inversión petrolera",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-la-relacion-con-venezuela-es-fantastica-y-destaca-inversion-petrolera/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Trump-Vance-Rubio-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-19T21:13:30.947Z"
+  "lastUpdate": "2026-06-19T22:57:53.193Z"
 }
