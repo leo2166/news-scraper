@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 19 Junio 2026"
     },
     "binance": {
-      "usdt": "842,12"
+      "usdt": "842,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -35,7 +35,7 @@
       "source": "CNN en Español",
       "title": "Israel y Hezbollah acordaron renovar el alto el fuego, según fuentes",
       "link": "https://cnnespanol.cnn.com/2026/06/19/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281598308-20260619043723456-20260619043809222.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281598308-20260619043723456-20260619043809222.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Colisión entre dos trenes en Inglaterra deja varios heridos",
-      "link": "https://diarioversionfinal.com/mundo/colision-entre-dos-trenes-en-inglaterra-deja-varios-heridos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/6a35860ca94ee-750x430.jpeg"
+      "title": "Trump advierte a Irán: “tienen que llegar a un acuerdo o habrá consecuencias”",
+      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-iran-tienen-que-llegar-a-un-acuerdo-o-habra-consecuencias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/1735568350-donald-trump-remote-work-1224-g2190485630-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-19T19:57:33.333Z"
+  "lastUpdate": "2026-06-19T21:13:30.947Z"
 }
