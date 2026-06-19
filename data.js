@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 19 Junio 2026"
     },
     "binance": {
-      "usdt": "797,00"
+      "usdt": "836,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Consternación en Sabaneta de Palmas por la trágica muerte de Jean Carlos Paz Montero «Canito»",
-      "link": "https://noticialdia.com/sucesos/consternacion-en-sabaneta-de-palmas-por-la-tragica-muerte-de-jean-carlos-paz-montero-canito/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/ea719a6a-bbbc-42b2-a765-b3c656bf3dc3-1.webp?x84139"
+      "title": "Reaparece alias “Naín” en redes sociales realizando control ilegal en La Guajira",
+      "link": "https://noticialdia.com/sucesos/reaparece-alias-nain-en-redes-sociales-realizando-control-ilegal-en-la-guajira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Alias-Naim-1-1.webp?x84139"
     },
     {
       "source": "CNN en Español",
-      "title": "Se avecinan negociaciones difíciles entre EE.UU. e Irán",
+      "title": "Enfrentamientos entre Israel y Hezbollah complican las negociaciones entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/06/18/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260619061521484.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260619105020553.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Diaz-Canel-18-03-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-19T06:20:21.381Z"
+  "lastUpdate": "2026-06-19T11:23:00.525Z"
 };
