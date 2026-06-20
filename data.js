@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "803,00"
+      "usdt": "843,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Asesinan a un primo hermano del periodista merideño Walter Jaimes en Táchira",
-      "link": "https://noticialdia.com/sin-categoria/asesinan-a-un-primo-hermano-del-periodista-merideno-walter-jaimes-en-tachira/",
-      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
+      "title": "Detienen a un hombre por agredir salvajemente a su sobrina en Machiques: Y todo por un plato de arroz",
+      "link": "https://noticialdia.com/al-dia/detienen-a-un-hombre-por-agredir-salvajemente-a-su-sobrina-en-machiques-y-todo-por-un-plato-de-arroz/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/c8bd03bc-1d2e-43ba-9172-1f59dbc47a72.webp?x11142"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán anuncia el cierre del estrecho de Ormuz por los ataques israelíes en el Líbano",
+      "title": "Irán cerrará el estrecho de Ormuz y acusa a EE.UU. e Israel de violar la tregua",
       "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-3-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/cierre-estrecho-ormuz.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "UCAB LANZÓ BECA QUE EXONERA 30 % DE LA MATRÍCULA A MIGRANTES VENEZOLANOS RETORNADOS",
-      "link": "https://noticierodigital.com/2026/06/ucab-lanzo-beca-que-exonera-30-de-la-matricula-a-migrantes-venezolanos-retornados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/06/cientificosucab-22jun2022.jpg"
+      "title": "EDMUNDO GONZÁLEZ PIDE QUE JUECES SEAN DESIGNADOS POR MÉRITO PROFESIONAL",
+      "link": "https://noticierodigital.com/2026/06/edmundo-gonzalez-pide-que-jueces-sean-designados-por-merito-profesional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/edmundo-gonzalez-1-1200x640-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a 5 venezolanos por red de explotación sexual en Chile",
-      "link": "https://laverdad.com/condenan-a-5-venezolanos-por-red-de-explotacion-sexual-en-chile/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Tribunales-Chile.jpg"
+      "title": "Irán cierra el estrecho de Ormuz tras ataques de Israel en el sur del Líbano",
+      "link": "https://laverdad.com/iran-cierra-el-estrecho-de-ormuz-tras-ataques-de-israel-en-el-sur-del-libano/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/iran-cierra-estrecho-ormuz-ataques-israel-libano.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Enviados de EE. UU. ya llegaron a Suiza para iniciar negociaciones con Irán",
-      "link": "https://diarioversionfinal.com/mundo/enviados-de-ee-uu-ya-llegaron-a-suiza-para-iniciar-negociaciones-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/EuropaPress_7264306_january_2026_tehran_iran_esmaeil_baghaei_spokesperson_of_iranas_foreign-1024x683-1-750x430.webp"
+      "title": "CNE de Colombia espera dar resultados de las presidenciales en menos de una hora",
+      "link": "https://diarioversionfinal.com/mundo/cne-de-colombia-espera-dar-resultados-de-las-presidenciales-en-menos-de-una-hora/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/whatsapp-image-2026-06-13-at-7-25-06-pm_50875757_20260613193232-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-20T16:18:10.055Z"
+  "lastUpdate": "2026-06-20T18:12:21.660Z"
 };
