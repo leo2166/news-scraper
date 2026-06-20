@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "848,86"
+      "usdt": "847,49"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Muere una profesora universitaria tras explotar su celular dentro de un auto en marcha: Argentina",
-      "link": "https://noticialdia.com/sucesos/muere-una-profesora-universitaria-tras-explotar-su-celular-dentro-de-un-auto-en-marcha-argentina/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-de-pantalla-2026-06-19-154624.webp?x60724"
+      "title": "Una mujer muerta y mil 700 turistas desalojados tras voraz incendio en un hotel de lujo en República Dominicana",
+      "link": "https://noticialdia.com/?p=628930",
+      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "China hace el balance de sus logros en la guerra de EE.UU. con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/analisis-china-balance-logros-guerra-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26124419873647barcos.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "\"No fue fácil\": los detalles de la carrera de Trump para cerrar el acuerdo con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/bastidores-acuerdo-iran-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2281551942-20260620120156340.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Parlamento venezolano informa sobre 561 postulaciones para magistrados al Supremo",
       "link": "https://noticiasvenevision.com/noticias/politica/parlamento-venezolano-informa-sobre-561-postulaciones-para-magistrados-al-supremo",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comite-de-postulaciones-judiciales-publica-lista-de-aspirantes-a-cargos-del-tsj-20260619145527-57736d.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ RECORRIÓ INSTALACIONES DEL HOTEL LONDRES",
-      "link": "https://noticierodigital.com/2026/06/delcy-rodriguez-recorrio-instalaciones-del-hotel-londres/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/delcy-rodriguez-venezuela-4-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nieto de Raúl Castro asegura que Cuba \"no representa ninguna amenaza\" para EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/nieto-de-raul-castro-asegura-que-cuba-no-representa-ninguna-amenaza-para-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-3-588x430.jpeg"
+      "title": "Choque de trenes en Bedford deja un muerto y 28 hospitalizados",
+      "link": "https://diarioversionfinal.com/mundo/choque-de-trenes-en-bedford-deja-un-muerto-y-28-hospitalizados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/trenes.webp"
     }
   ],
-  "lastUpdate": "2026-06-20T11:20:20.600Z"
+  "lastUpdate": "2026-06-20T14:04:38.572Z"
 };
