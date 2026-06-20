@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "810,00"
+      "usdt": "848,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El presidente de Bolivia declara el estado de emergencia",
-      "link": "https://cnnespanol.cnn.com/2026/06/20/latinoamerica/bolivia-estado-de-emergencia-crisis-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260620065313146.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "China hace el balance de sus logros en la guerra de EE.UU. con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/analisis-china-balance-logros-guerra-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26124419873647barcos.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-3-588x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-20T08:56:24.080Z"
+  "lastUpdate": "2026-06-20T11:20:20.600Z"
 };
