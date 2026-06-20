@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "847,49"
+      "usdt": "803,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Análisis: Sincerar las tarifas de los servicios públicos es necesario para que sean financieramente viables",
-      "link": "https://www.bancaynegocios.com/analisis-sincerar-las-tarifas-de-los-servicios-publicos-es-necesario-para-que-sean-financieramente-viables/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/MasDolaresDivisasMoneda.jpg"
+      "title": "#Dato: Anuncian programa de financiamiento a transportistas para adquirir insumos y repuestos",
+      "link": "https://www.bancaynegocios.com/dato-anuncian-programa-de-financiamiento-a-transportistas-para-adquirir-insumos-y-repuestos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2020/12/TransportePublicoVenezuela.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Una mujer muerta y mil 700 turistas desalojados tras voraz incendio en un hotel de lujo en República Dominicana",
-      "link": "https://noticialdia.com/?p=628930",
+      "title": "Asesinan a un primo hermano del periodista merideño Walter Jaimes en Táchira",
+      "link": "https://noticialdia.com/sin-categoria/asesinan-a-un-primo-hermano-del-periodista-merideno-walter-jaimes-en-tachira/",
       "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "\"No fue fácil\": los detalles de la carrera de Trump para cerrar el acuerdo con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/bastidores-acuerdo-iran-eeuu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2281551942-20260620120156340.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán anuncia el cierre del estrecho de Ormuz por los ataques israelíes en el Líbano",
+      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-3-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cierre-estrecho-ormuz.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Parlamento venezolano informa sobre 561 postulaciones para magistrados al Supremo",
       "link": "https://noticiasvenevision.com/noticias/politica/parlamento-venezolano-informa-sobre-561-postulaciones-para-magistrados-al-supremo",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comite-de-postulaciones-judiciales-publica-lista-de-aspirantes-a-cargos-del-tsj-20260619145527-57736d.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "UCAB LANZÓ BECA QUE EXONERA 30 % DE LA MATRÍCULA A MIGRANTES VENEZOLANOS RETORNADOS",
+      "link": "https://noticierodigital.com/2026/06/ucab-lanzo-beca-que-exonera-30-de-la-matricula-a-migrantes-venezolanos-retornados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/06/cientificosucab-22jun2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Choque de trenes en Bedford deja un muerto y 28 hospitalizados",
-      "link": "https://diarioversionfinal.com/mundo/choque-de-trenes-en-bedford-deja-un-muerto-y-28-hospitalizados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/trenes.webp"
+      "title": "Enviados de EE. UU. ya llegaron a Suiza para iniciar negociaciones con Irán",
+      "link": "https://diarioversionfinal.com/mundo/enviados-de-ee-uu-ya-llegaron-a-suiza-para-iniciar-negociaciones-con-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/EuropaPress_7264306_january_2026_tehran_iran_esmaeil_baghaei_spokesperson_of_iranas_foreign-1024x683-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-20T14:04:38.572Z"
+  "lastUpdate": "2026-06-20T16:18:10.055Z"
 };
