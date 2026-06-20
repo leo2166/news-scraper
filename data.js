@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "808,40"
+      "usdt": "810,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Tras reunirse con Jorge Rodríguez, la ex diputada Dinorah Figuera habló de la transición a la democracia y viajó a Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/06/20/tras-reunirse-con-jorge-rodriguez-la-ex-diputada-dinorah-figuera-hablo-de-la-transicion-a-la-democracia-y-viajo-a-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/4TPVQMR3PZF4LLJ2BLDBBIR44M.JPG?auth=f34e12e3b7bfd79c824194596e6ab0a6a32c7992d72a86d7dd4dde4c10da6f5d&smart=true&width=350&height=197&quality=85"
+      "title": "Opositores respaldaron la negociación entre la vieja y actual Asamblea Nacional venezolana para la transición política en el país",
+      "link": "https://www.infobae.com/venezuela/2026/06/20/opositores-respaldaron-la-negociacion-entre-la-vieja-y-actual-asamblea-nacional-venezolana-para-la-transicion-politica-en-el-pais/",
+      "image": "https://www.infobae.com/resizer/v2/GI6NLM4KKNG35DQI4WCGD34BOA.jpg?auth=47afa1167171a7140118307856195d526f9e6afadb914b9d3572086e2090e40a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los obstáculos del Gobierno de Cuba para aplicar sus casi 200 reformas",
-      "link": "https://cnnespanol.cnn.com/2026/06/19/latinoamerica/cuba-reformas-economia-tension-eeuu-alcances-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/05a468f5615ba9f033001e12cbfe9a3eb6269c7bw.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El presidente de Bolivia declara el estado de emergencia",
+      "link": "https://cnnespanol.cnn.com/2026/06/20/latinoamerica/bolivia-estado-de-emergencia-crisis-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260620065313146.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-3-588x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-20T05:14:20.354Z"
+  "lastUpdate": "2026-06-20T08:56:24.080Z"
 };
