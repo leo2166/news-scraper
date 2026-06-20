@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "843,00"
+      "usdt": "841,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EDMUNDO GONZÁLEZ PIDE QUE JUECES SEAN DESIGNADOS POR MÉRITO PROFESIONAL",
-      "link": "https://noticierodigital.com/2026/06/edmundo-gonzalez-pide-que-jueces-sean-designados-por-merito-profesional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/01/edmundo-gonzalez-1-1200x640-1-627x376.jpg"
+      "title": "REINO UNIDO SALUDÓ CONVERSACIONES ENTRE JORGE RODRÍGUEZ Y AN 2015",
+      "link": "https://noticierodigital.com/2026/06/reino-unido-saludo-conversaciones-entre-jorge-rodriguez-y-an-2015/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/jorge-rodriguez-dinorah-figuera-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/whatsapp-image-2026-06-13-at-7-25-06-pm_50875757_20260613193232-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-20T18:12:21.660Z"
+  "lastUpdate": "2026-06-20T20:14:41.460Z"
 };
