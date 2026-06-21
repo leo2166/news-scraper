@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "839,90"
+      "usdt": "837,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán y EE.UU. hacen afirmaciones opuestas sobre el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cierre-estrecho-ormuz.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Ecuador enfrenta a Curazao en el Estadio Kansas City",
+      "link": "https://cnnespanol.cnn.com/2026/06/20/deportes/live-news/resultado-ecuador-curazao-mundial-2026-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-20t235634z-1930509960-up1em6k1ui870-rtrmadp-3-soccer-worldcup-ecu-cuw.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera agradeció el respaldo del Reino Unido a la hoja de ruta democrática",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-agradecio-el-respaldo-del-reino-unido-a-la-hoja-de-ruta-democratica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/97340e7e4e71295584e3b6ca49ebcafa9667edc6-a32cb9.jpg"
+      "title": "Reino Unido expresa apoyo a negociaciones para la democratización de Venezuela: “estamos dispuestos a apoyar este proceso”",
+      "link": "https://noticiasvenevision.com/noticias/politica/reino-unido-expresa-apoyo-a-negociaciones-para-la-democratizacion-de-venezuela-estamos-dispuestos-a-apoyar-este-proceso",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/portrait-c5185f.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "CNE de Colombia espera dar resultados de las presidenciales en menos de una hora",
-      "link": "https://diarioversionfinal.com/mundo/cne-de-colombia-espera-dar-resultados-de-las-presidenciales-en-menos-de-una-hora/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/whatsapp-image-2026-06-13-at-7-25-06-pm_50875757_20260613193232-750x430.webp"
+      "title": "Trump amenaza con peaje en Ormuz si no hay acuerdo final con Irán en 60 días",
+      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-con-peaje-en-ormuz-si-no-hay-acuerdo-final-con-iran-en-60-dias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-20T22:07:02.520Z"
+  "lastUpdate": "2026-06-21T00:06:24.303Z"
 };
