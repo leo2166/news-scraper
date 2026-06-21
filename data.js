@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Vance aterriza en Suiza para negociar con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vance-suiza.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. e Irán mantendrán conversaciones de alto nivel en Suiza",
+      "link": "https://cnnespanol.cnn.com/2026/06/21/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26124419873647barcos.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Militares abaten en Colombia a alias “Marlon”, uno de los cabecillas de “Iván Mordisco”",
-      "link": "https://diarioversionfinal.com/mundo/militares-abaten-en-colombia-a-alias-marlon-uno-de-los-cabecillas-de-ivan-mordisco/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Marlon-20-06-2026-750x430.jpg"
+      "title": "Brote de ébola en RD Congo alcanza 247 muertes y 956 casos",
+      "link": "https://diarioversionfinal.com/mundo/brote-de-ebola-en-rd-congo-alcanza-247-muertes-y-956-casos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Control-ebola-24-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-06-21T10:29:09.413Z"
+  "lastUpdate": "2026-06-21T13:06:01.982Z"
 };
