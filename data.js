@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "829,00"
+      "usdt": "814,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pedro Palma reitera que no está de acuerdo con la dolarización y dice que se debe reducir la dependencia de la renta petrolera",
-      "link": "https://www.bancaynegocios.com/pedro-palma-reitera-que-no-esta-de-acuerdo-con-la-dolarizacion-y-dice-que-se-debe-reducir-la-dependencia-de-la-renta-petrolera/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/DolaresBilletesEEUUMonedaExtranjera.jpg"
+      "title": "#Atentos: IVSS pagará este #22Jun la pensión correspondiente a julio de 2026",
+      "link": "https://www.bancaynegocios.com/atentos-ivss-pagara-este-22jun-la-pension-correspondiente-a-julio-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/Pensionados1.webp"
     },
     {
       "source": "Infobae",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Cierran las urnas en Colombia y empieza el preconteo",
+      "title": "Final de suspenso: De la Espriella aventaja a Cepeda por una diferencia muy pequeña",
       "link": "https://cnnespanol.cnn.com/2026/06/21/colombia/live-news/segunda-vuelta-elecciones-presidenciales-resultado-cepeda-espriella-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b7bf7b888c256e9d12b474f130dd971e1e3c05d5.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-mapa-segunda-vuelta.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Ministro-de-Exteriores-de-Iran-21-06-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-06-21T21:14:04.501Z"
+  "lastUpdate": "2026-06-21T23:13:18.609Z"
 };
