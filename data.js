@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "835,99"
+      "usdt": "834,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: Anuncian programa de financiamiento a transportistas para adquirir insumos y repuestos",
-      "link": "https://www.bancaynegocios.com/dato-anuncian-programa-de-financiamiento-a-transportistas-para-adquirir-insumos-y-repuestos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2020/12/TransportePublicoVenezuela.jpg"
+      "title": "ExxonMobil \"ha decido no regresar a Venezuela\" porque no siente que hay seguridad jurídica",
+      "link": "https://www.bancaynegocios.com/exxonmobil-ha-decido-no-regresar-a-venezuela-porque-no-siente-que-hay-seguridad-juridica/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/02/jose-manuel-puente-30173.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Edmundo González Urrutia instó a refundar el sistema judicial de Venezuela: “Debe limitar al poder y nunca servirle”",
-      "link": "https://www.infobae.com/venezuela/2026/06/21/edmundo-gonzalez-urrutia-insto-a-refundar-el-sistema-judicial-de-venezuela-debe-limitar-al-poder-y-nunca-servirle/",
-      "image": "https://www.infobae.com/resizer/v2/ETUW4J63UNEJJM3VM2O3XIVW6M.jpg?auth=ddffcd1455b80f912ea8f37360f90815e229b82aec757ebfbf4c82469ff195b1&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado instó a los colombianos a votar con “plena consciencia” por el futuro de la democracia y la libertad del país",
+      "link": "https://www.infobae.com/colombia/2026/06/21/maria-corina-machado-insto-a-los-colombianos-a-votar-con-plena-consciencia-por-el-futuro-de-la-democracia-y-la-libertad-del-pais/",
+      "image": "https://www.infobae.com/resizer/v2/B34JZTMRVNA25MHWGYRWSYJD3U.JPG?auth=7b769c511ec7c59e537c48925d2e00a47950e0ca56fa2be8e1b253082c38d0f9&smart=true&width=350&height=197&quality=85"
+    },
+    {
+      "source": "Noticia al Día",
+      "title": "Detienen a un hombre por agredir salvajemente a su sobrina en Machiques: Y todo por un plato de arroz",
+      "link": "https://noticialdia.com/al-dia/detienen-a-un-hombre-por-agredir-salvajemente-a-su-sobrina-en-machiques-y-todo-por-un-plato-de-arroz/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/c8bd03bc-1d2e-43ba-9172-1f59dbc47a72.webp?x51818"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ATAQUE DE CELOS EN ZULIA DEJA UNA MUJER ASESINADA Y TRES NIÑOS HUÉRFANOS",
-      "link": "https://noticierodigital.com/2026/06/ataque-de-celos-en-zulia-deja-una-mujer-asesinada-y-tres-ninos-huerfanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/09/femicidios_agosto_8sep2020_.jpg"
+      "title": "MIGUEL PÉREZ SERÁ EL MANAGER DE TIGRES DE ARAGUA PARA LA TEMPORADA 2026-2027",
+      "link": "https://noticierodigital.com/2026/06/miguel-perez-sera-el-manager-de-tigres-de-aragua-para-la-temporada-2026-2027/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/manager_-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/04/Elecciones-Perú-Versión-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-06-21T15:51:17.848Z"
+  "lastUpdate": "2026-06-21T17:28:07.257Z"
 };
