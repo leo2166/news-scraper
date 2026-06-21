@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "837,20"
+      "usdt": "840,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Ecuador enfrenta a Curazao en el Estadio Kansas City",
-      "link": "https://cnnespanol.cnn.com/2026/06/20/deportes/live-news/resultado-ecuador-curazao-mundial-2026-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-20t235634z-1930509960-up1em6k1ui870-rtrmadp-3-soccer-worldcup-ecu-cuw.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Vance aterriza en Suiza para negociar con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/20/mundo/live-news/guerra-ee-uu-israel-iran-conversaciones-paz-3-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vance-suiza.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Reino Unido expresa apoyo a negociaciones para la democratización de Venezuela: “estamos dispuestos a apoyar este proceso”",
-      "link": "https://noticiasvenevision.com/noticias/politica/reino-unido-expresa-apoyo-a-negociaciones-para-la-democratizacion-de-venezuela-estamos-dispuestos-a-apoyar-este-proceso",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/portrait-c5185f.jpg"
+      "title": "Freddy Superlano consigna ante la Embajada de EE.UU. investigaciones sobre el caso Alex Saab",
+      "link": "https://noticiasvenevision.com/noticias/politica/freddy-superlano-consigna-ante-la-embajada-de-ee-uu-investigaciones-sobre-el-caso-alex-saab",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_727178282_18544766332078779_1399511794685255003_n-fb94b4.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump amenaza con peaje en Ormuz si no hay acuerdo final con Irán en 60 días",
-      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-con-peaje-en-ormuz-si-no-hay-acuerdo-final-con-iran-en-60-dias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
+      "title": "Militares abaten en Colombia a alias “Marlon”, uno de los cabecillas de “Iván Mordisco”",
+      "link": "https://diarioversionfinal.com/mundo/militares-abaten-en-colombia-a-alias-marlon-uno-de-los-cabecillas-de-ivan-mordisco/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Marlon-20-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-21T00:06:24.303Z"
+  "lastUpdate": "2026-06-21T06:01:46.152Z"
 };
