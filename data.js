@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "828,50"
+      "usdt": "829,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Conductor arrastró a una mujer con su vehículo y se dio a la fuga en Traki Cabimas",
-      "link": "https://noticialdia.com/?p=629269",
+      "title": "Detenidos cuatro hombres por presunto abuso sexual contra menores en Maracaibo y Lagunillas",
+      "link": "https://noticialdia.com/?p=629296",
       "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Colombia elige entre Cepeda y De la Espriella en una jornada clave",
+      "title": "Cierran las urnas en Colombia y empieza el preconteo",
       "link": "https://cnnespanol.cnn.com/2026/06/21/colombia/live-news/segunda-vuelta-elecciones-presidenciales-resultado-cepeda-espriella-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/b7bf7b888c256e9d12b474f130dd971e1e3c05d5.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Freddy Superlano consigna ante la Embajada de EE.UU. investigaciones sobre el caso Alex Saab",
-      "link": "https://noticiasvenevision.com/noticias/politica/freddy-superlano-consigna-ante-la-embajada-de-ee-uu-investigaciones-sobre-el-caso-alex-saab",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_727178282_18544766332078779_1399511794685255003_n-fb94b4.jpg"
+      "title": "José Manuel Puente: \"Venezuela tiene que devolverle la absoluta autonomía y control de la política monetaria y cambiarla al Banco Central\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/jose-manuel-puente-venezuela-tiene-que-devolverle-la-absoluta-autonomia-y-control-de-la-politica-monetaria-y-cambiarla-al-banco-central",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copia-de-plantilla-video-horizontal-1-b58d0b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FALLECE RAMIRO VALDÉS, UNO DE LOS HISTÓRICOS COMANDANTES DE LA REVOLUCIÓN CUBANA",
-      "link": "https://noticierodigital.com/2026/06/fallece-ramiro-valdes-uno-de-los-historicos-comandantes-de-la-revolucion-cubana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_jimvoljimvoljimv-627x376.png"
+      "title": "ANÍBAL SÁNCHEZ: «OPOSICIÓN DEBE TENER CABEZA FRÍA Y UNIDAD ESTRATÉGICA»",
+      "link": "https://noticierodigital.com/2026/06/anibal-sanchez-oposicion-debe-tener-cabeza-fria-y-unidad-estrategica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/05/anibal-sanchez-7may2021.png"
     },
     {
       "source": "La Verdad",
-      "title": "Colombianos en el Zulia votan con la mirada puesta en la relación con Venezuela",
-      "link": "https://laverdad.com/colombianos-en-el-zulia-votan-con-la-mirada-puesta-en-la-relacion-con-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/HLXCuEyWYAAMsWT.jpg"
+      "title": "Irán abandona la mesa de diálogo en Suiza tras amenazas de Trump",
+      "link": "https://laverdad.com/iran-abandona-la-mesa-de-dialogo-en-suiza-tras-amenazas-de-trump/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/orbe-5-1024x683-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Papa León XIV exhorta a gobernantes a acoger víctimas de persecución",
-      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-exhorta-a-gobernantes-a-acoger-victimas-de-persecucion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Papa-Leon-XIV-09-06-2026-750x430.jpg"
+      "title": "Irán se levanta de la mesa de negociación de Suiza tras nueva amenaza de Trump",
+      "link": "https://diarioversionfinal.com/mundo/iran-se-levanta-de-la-mesa-de-negociacion-de-suiza-tras-nueva-amenaza-de-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Ministro-de-Exteriores-de-Iran-21-06-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-06-21T19:41:32.199Z"
+  "lastUpdate": "2026-06-21T21:14:04.501Z"
 };
