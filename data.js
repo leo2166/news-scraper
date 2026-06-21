@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "834,86"
+      "usdt": "828,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "ExxonMobil \"ha decido no regresar a Venezuela\" porque no siente que hay seguridad jurídica",
-      "link": "https://www.bancaynegocios.com/exxonmobil-ha-decido-no-regresar-a-venezuela-porque-no-siente-que-hay-seguridad-juridica/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/02/jose-manuel-puente-30173.jpg"
+      "title": "Pedro Palma reitera que no está de acuerdo con la dolarización y dice que se debe reducir la dependencia de la renta petrolera",
+      "link": "https://www.bancaynegocios.com/pedro-palma-reitera-que-no-esta-de-acuerdo-con-la-dolarizacion-y-dice-que-se-debe-reducir-la-dependencia-de-la-renta-petrolera/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/DolaresBilletesEEUUMonedaExtranjera.jpg"
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado instó a los colombianos a votar con “plena consciencia” por el futuro de la democracia y la libertad del país",
-      "link": "https://www.infobae.com/colombia/2026/06/21/maria-corina-machado-insto-a-los-colombianos-a-votar-con-plena-consciencia-por-el-futuro-de-la-democracia-y-la-libertad-del-pais/",
-      "image": "https://www.infobae.com/resizer/v2/B34JZTMRVNA25MHWGYRWSYJD3U.JPG?auth=7b769c511ec7c59e537c48925d2e00a47950e0ca56fa2be8e1b253082c38d0f9&smart=true&width=350&height=197&quality=85"
+      "title": "Los audios que destaparon la trama de los “narcos diputados”, la red que salpicó al chavismo",
+      "link": "https://www.infobae.com/venezuela/2026/06/21/los-audios-que-destaparon-la-trama-de-los-narcos-diputados-la-red-que-salpico-al-chavismo/",
+      "image": "https://www.infobae.com/resizer/v2/LIFYNGZZB5DQJD5473NIIQGEPY.png?auth=6a49ea8ed5122906f91b3d08d09b722d160cd7041d3b8484c6a6970aaca84f82&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Detienen a un hombre por agredir salvajemente a su sobrina en Machiques: Y todo por un plato de arroz",
-      "link": "https://noticialdia.com/al-dia/detienen-a-un-hombre-por-agredir-salvajemente-a-su-sobrina-en-machiques-y-todo-por-un-plato-de-arroz/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/c8bd03bc-1d2e-43ba-9172-1f59dbc47a72.webp?x51818"
+      "title": "Conductor arrastró a una mujer con su vehículo y se dio a la fuga en Traki Cabimas",
+      "link": "https://noticialdia.com/?p=629269",
+      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Cuánto le costó a EE.UU. la guerra con Irán?",
-      "link": "https://cnnespanol.cnn.com/2026/06/21/eeuu/costo-guerra-iran-economia-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281465423trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Colombia elige entre Cepeda y De la Espriella en una jornada clave",
+      "link": "https://cnnespanol.cnn.com/2026/06/21/colombia/live-news/segunda-vuelta-elecciones-presidenciales-resultado-cepeda-espriella-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b7bf7b888c256e9d12b474f130dd971e1e3c05d5.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MIGUEL PÉREZ SERÁ EL MANAGER DE TIGRES DE ARAGUA PARA LA TEMPORADA 2026-2027",
-      "link": "https://noticierodigital.com/2026/06/miguel-perez-sera-el-manager-de-tigres-de-aragua-para-la-temporada-2026-2027/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/manager_-627x376.jpg"
+      "title": "FALLECE RAMIRO VALDÉS, UNO DE LOS HISTÓRICOS COMANDANTES DE LA REVOLUCIÓN CUBANA",
+      "link": "https://noticierodigital.com/2026/06/fallece-ramiro-valdes-uno-de-los-historicos-comandantes-de-la-revolucion-cubana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_jimvoljimvoljimv-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV llama a proteger a las víctimas de persecución",
-      "link": "https://laverdad.com/papa-leon-xiv-llama-a-proteger-a-las-victimas-de-persecucion/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/02a0e50df5cb90922b61eadb443cc6e07d9732e0-scaled.jpg"
+      "title": "Colombianos en el Zulia votan con la mirada puesta en la relación con Venezuela",
+      "link": "https://laverdad.com/colombianos-en-el-zulia-votan-con-la-mirada-puesta-en-la-relacion-con-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/HLXCuEyWYAAMsWT.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fujimori lidera presidenciales en Perú y Sánchez busca anular voto en el exterior",
-      "link": "https://diarioversionfinal.com/mundo/fujimori-lidera-presidenciales-en-peru-y-sanchez-busca-anular-voto-en-el-exterior/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/04/Elecciones-Perú-Versión-Final.jpg"
+      "title": "Papa León XIV exhorta a gobernantes a acoger víctimas de persecución",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-exhorta-a-gobernantes-a-acoger-victimas-de-persecucion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Papa-Leon-XIV-09-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-21T17:28:07.257Z"
+  "lastUpdate": "2026-06-21T19:41:32.199Z"
 };
