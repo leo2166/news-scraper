@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "840,00"
+      "usdt": "839,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Opositores respaldaron la negociación entre la vieja y actual Asamblea Nacional venezolana para la transición política en el país",
-      "link": "https://www.infobae.com/venezuela/2026/06/20/opositores-respaldaron-la-negociacion-entre-la-vieja-y-actual-asamblea-nacional-venezolana-para-la-transicion-politica-en-el-pais/",
-      "image": "https://www.infobae.com/resizer/v2/GI6NLM4KKNG35DQI4WCGD34BOA.jpg?auth=47afa1167171a7140118307856195d526f9e6afadb914b9d3572086e2090e40a&smart=true&width=350&height=197&quality=85"
+      "title": "Edmundo González Urrutia instó a refundar el sistema judicial de Venezuela: “Debe limitar al poder y nunca servirle”",
+      "link": "https://www.infobae.com/venezuela/2026/06/21/edmundo-gonzalez-urrutia-insto-a-refundar-el-sistema-judicial-de-venezuela-debe-limitar-al-poder-y-nunca-servirle/",
+      "image": "https://www.infobae.com/resizer/v2/ETUW4J63UNEJJM3VM2O3XIVW6M.jpg?auth=ddffcd1455b80f912ea8f37360f90815e229b82aec757ebfbf4c82469ff195b1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Marlon-20-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-21T06:01:46.152Z"
+  "lastUpdate": "2026-06-21T10:29:09.413Z"
 };
