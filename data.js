@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "833,15"
+      "usdt": "835,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Los audios que destaparon la trama de los “narcos diputados”, la red que salpicó al chavismo",
-      "link": "https://www.infobae.com/venezuela/2026/06/21/los-audios-que-destaparon-la-trama-de-los-narcos-diputados-la-red-que-salpico-al-chavismo/",
-      "image": "https://www.infobae.com/resizer/v2/LIFYNGZZB5DQJD5473NIIQGEPY.png?auth=6a49ea8ed5122906f91b3d08d09b722d160cd7041d3b8484c6a6970aaca84f82&smart=true&width=350&height=197&quality=85"
+      "title": "No basta con más dólares: reclaman reformas estructurales para lograr estabilidad cambiaria en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/22/no-basta-con-mas-dolares-reclaman-reformas-estructurales-para-lograr-estabilidad-cambiaria-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/T27LMCNWWZCLVB6G3XJGTLP2AU.JPG?auth=b429e7f23115f0459b2fdc1197d0909de38654f68e8ce879fd1da3c3588156ca&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Polisur detiene a un ciudadano por violencia de género en San Francisco",
-      "link": "https://noticialdia.com/sucesos/polisur-detiene-a-un-ciudadano-por-violencia-de-genero-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-14.webp?x51818"
+      "title": "Entre la angustia y la esperanza: Una tercera victima de la lancha que zozobró en el Lago esta grave",
+      "link": "https://noticialdia.com/al-dia/entre-la-angustia-y-la-esperanza-una-tercera-victima-de-la-lancha-que-zozobro-en-el-lago-esta-grave/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-22-at-2.50.34-PM.webp?x51818"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez afirma que el encadenamiento productivo comunal es la ruta hacia la independencia económica",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-afirma-que-el-encadenamiento-productivo-comunal-es-la-ruta-hacia-la-independencia-economica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-11.jpg-1-729c68.jpg"
+      "title": "Canciller de Panamá propone diálogo continental para impulsar elecciones libres en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/canciller-de-panama-propone-dialogo-continental-para-impulsar-elecciones-libres-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hlxe_zywaaattlk.jpg-7ee42f.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EL AUGE DEL DISEÑO WEB ADAPTABLE EN EL OCIO DIGITAL: EL CASO JUGABET",
-      "link": "https://noticierodigital.com/2026/06/el-auge-del-diseno-web-adaptable-en-el-ocio-digital-el-caso-jugabet/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/disenoweb-627x376.jpg"
+      "title": "MESSI SE CONVIERTE EN EL MÁXIMO GOLEADOR EN LA HISTORIA DE LOS MUNDIALES",
+      "link": "https://noticierodigital.com/2026/06/messi-se-convierte-en-el-maximo-goleador-en-la-historia-de-los-mundiales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Messi_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Nuevo ataque de EE. UU. contra “narcolancha” en el Caribe deja 2 muertos y 6 sobrevivientes",
-      "link": "https://laverdad.com/nuevo-ataque-de-ee-uu-contra-narcolancha-en-el-caribe-deja-2-muertos-y-6-sobrevivientes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/narcolancha-2.jpg"
+      "title": "León XIV advierte a los jóvenes de la adicción al teléfono móvil y pide que pongan límites",
+      "link": "https://laverdad.com/leon-xiv-advierte-a-los-jovenes-de-la-adiccion-al-telefono-movil-y-pide-que-pongan-limites/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Papa-campamento-de-verano-Vaticano.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fujimori mantiene ventaja de 40 mil votos en Perú al avanzar conteo casi total",
-      "link": "https://diarioversionfinal.com/mundo/fujimori-mantiene-ventaja-de-40-mil-votos-en-peru-al-avanzar-conteo-casi-total/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/PER218-ELECCIONES_27355.webp"
+      "title": "Trump asegura que Irán aceptará “inspecciones exhaustivas de sus armas para garantizar ‘honestidad nuclear’”",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-iran-aceptara-inspecciones-exhaustivas-bajo-acuerdo-de-honestidad-nuclear/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/2146.avif"
     }
   ],
-  "lastUpdate": "2026-06-22T15:51:34.528Z"
+  "lastUpdate": "2026-06-22T19:27:51.448Z"
 };
