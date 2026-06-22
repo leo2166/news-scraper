@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "806,86"
+      "usdt": "833,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Atentos: IVSS pagará este #22Jun la pensión correspondiente a julio de 2026",
-      "link": "https://www.bancaynegocios.com/atentos-ivss-pagara-este-22jun-la-pension-correspondiente-a-julio-de-2026/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/Pensionados1.webp"
+      "title": "Pagan el \"Ingreso Integral de los Pensionados \" de junio: Incrementó más de 15% en bolívares",
+      "link": "https://www.bancaynegocios.com/pagan-el-ingreso-integral-de-los-pensionados-de-junio-incremento-mas-de-15-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Detenidos cuatro hombres por presunto abuso sexual contra menores en Maracaibo y Lagunillas",
-      "link": "https://noticialdia.com/al-dia/detenidos-cuatro-hombres-por-presunto-abuso-sexual-contra-menores-en-maracaibo-y-lagunillas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/0c4b2f79-a759-4fac-911d-c9ac00b84710-e1782075198431.webp?x51818"
+      "title": "Polisur detiene a un ciudadano por violencia de género en San Francisco",
+      "link": "https://noticialdia.com/sucesos/polisur-detiene-a-un-ciudadano-por-violencia-de-genero-en-san-francisco/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-14.webp?x51818"
     },
     {
       "source": "CNN en Español",
-      "title": "Conclusiones de la victoria de De la Espriella, según preconteo",
-      "link": "https://cnnespanol.cnn.com/2026/06/21/colombia/polarizacion-abelardo-espriella-elecciones-analisis-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/abelardo-de-la-espriella-gettyimages-2282100916.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Casi todos los presidentes cerca de Trump: así queda el mapa de América Latina",
+      "link": "https://cnnespanol.cnn.com/2026/06/22/latinoamerica/presidentes-cerca-trump-mapa-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260622-gobiernos-latam-relacion-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ANÍBAL SÁNCHEZ: «OPOSICIÓN DEBE TENER CABEZA FRÍA Y UNIDAD ESTRATÉGICA»",
-      "link": "https://noticierodigital.com/2026/06/anibal-sanchez-oposicion-debe-tener-cabeza-fria-y-unidad-estrategica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/05/anibal-sanchez-7may2021.png"
+      "title": "EL AUGE DEL DISEÑO WEB ADAPTABLE EN EL OCIO DIGITAL: EL CASO JUGABET",
+      "link": "https://noticierodigital.com/2026/06/el-auge-del-diseno-web-adaptable-en-el-ocio-digital-el-caso-jugabet/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/disenoweb-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Irán abandona la mesa de diálogo en Suiza tras amenazas de Trump",
-      "link": "https://laverdad.com/iran-abandona-la-mesa-de-dialogo-en-suiza-tras-amenazas-de-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/orbe-5-1024x683-1.jpg"
+      "title": "Nuevo ataque de EE. UU. contra “narcolancha” en el Caribe deja 2 muertos y 6 sobrevivientes",
+      "link": "https://laverdad.com/nuevo-ataque-de-ee-uu-contra-narcolancha-en-el-caribe-deja-2-muertos-y-6-sobrevivientes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/narcolancha-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que primer ministro británico Starmer \"renunciará\" en medio de rumores sobre su salida",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-primer-ministro-britanico-starmer-renunciara-en-medio-de-rumores-sobre-su-salida/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Trump-Starmer-21-06-2026-750x430.jpg"
+      "title": "Fujimori mantiene ventaja de 40 mil votos en Perú al avanzar conteo casi total",
+      "link": "https://diarioversionfinal.com/mundo/fujimori-mantiene-ventaja-de-40-mil-votos-en-peru-al-avanzar-conteo-casi-total/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/PER218-ELECCIONES_27355.webp"
     }
   ],
-  "lastUpdate": "2026-06-22T10:37:42.347Z"
+  "lastUpdate": "2026-06-22T15:51:34.528Z"
 };
