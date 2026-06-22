@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "612,43",
-      "eur": "702,42",
-      "fechaValor": "Lunes, 22 Junio 2026"
+      "usd": "617,64",
+      "eur": "706,92",
+      "fechaValor": "Martes, 23 Junio 2026"
     },
     "binance": {
-      "usdt": "835,50"
+      "usdt": "832,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan el \"Ingreso Integral de los Pensionados \" de junio: Incrementó más de 15% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-el-ingreso-integral-de-los-pensionados-de-junio-incremento-mas-de-15-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Alertan expertos: Inversiones a mediano y largo plazo no llegarán sin \"instituciones sólidas\"",
+      "link": "https://www.bancaynegocios.com/alertan-expertos-inversiones-a-mediano-y-largo-plazo-no-llegaran-sin-instituciones-solidas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/LUIS-ZAMBRANO-SEQUIN-UCAB.jpg"
     },
     {
       "source": "Infobae",
@@ -33,34 +33,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Casi todos los presidentes cerca de Trump: así queda el mapa de América Latina",
-      "link": "https://cnnespanol.cnn.com/2026/06/22/latinoamerica/presidentes-cerca-trump-mapa-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260622-gobiernos-latam-relacion-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Por qué gobernar Colombia será el verdadero desafío tras las elecciones",
+      "link": "https://cnnespanol.cnn.com/2026/06/22/colombia/desafio-gobernar-espriella-cepeda-presidente-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264365071.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Canciller de Panamá propone diálogo continental para impulsar elecciones libres en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/canciller-de-panama-propone-dialogo-continental-para-impulsar-elecciones-libres-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hlxe_zywaaattlk.jpg-7ee42f.jpeg"
+      "title": "PUD felicita a De la Espriella por su victoria en las presidenciales de Colombia",
+      "link": "https://noticiasvenevision.com/noticias/politica/pud-felicita-a-de-la-espriella-por-su-victoria-en-las-presidenciales-de-colombia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plataforma-unitaria-democratica-_14a-f5c5d5-314d38.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MESSI SE CONVIERTE EN EL MÁXIMO GOLEADOR EN LA HISTORIA DE LOS MUNDIALES",
-      "link": "https://noticierodigital.com/2026/06/messi-se-convierte-en-el-maximo-goleador-en-la-historia-de-los-mundiales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Messi_-627x376.jpg"
+      "title": "STALIN GONZÁLEZ ASEGURÓ QUE EL ENTENDIMIENTO ES CLAVE PARA EL FUTURO DEL PAÍS",
+      "link": "https://noticierodigital.com/2026/06/stalin-gonzalez-aseguro-que-el-entendimiento-es-clave-para-el-futuro-del-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/stalin-gonzalez-efe-venezuela.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV advierte a los jóvenes de la adicción al teléfono móvil y pide que pongan límites",
-      "link": "https://laverdad.com/leon-xiv-advierte-a-los-jovenes-de-la-adiccion-al-telefono-movil-y-pide-que-pongan-limites/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Papa-campamento-de-verano-Vaticano.jpg"
+      "title": "Justicia española condena a exministro Ábalos a 24 años de cárcel",
+      "link": "https://laverdad.com/justicia-espanola-condena-a-exministro-abalos-a-24-anos-de-carcel/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Jose-Luis-Abalos-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que Irán aceptará “inspecciones exhaustivas de sus armas para garantizar ‘honestidad nuclear’”",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-iran-aceptara-inspecciones-exhaustivas-bajo-acuerdo-de-honestidad-nuclear/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/2146.avif"
+      "title": "Tiroteo en Montreal deja al menos tres muertos, entre ellos un policía",
+      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-montreal-deja-al-menos-tres-muertos-entre-ellos-un-policia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Tiroteo-Canada-22-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-22T19:27:51.448Z"
+  "lastUpdate": "2026-06-22T22:02:03.116Z"
 };
