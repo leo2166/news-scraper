@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 22 Junio 2026"
     },
     "binance": {
-      "usdt": "814,00"
+      "usdt": "798,55"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,20 +28,20 @@ window.DASHBOARD_DATA = {
     {
       "source": "Noticia al Día",
       "title": "Detenidos cuatro hombres por presunto abuso sexual contra menores en Maracaibo y Lagunillas",
-      "link": "https://noticialdia.com/?p=629296",
-      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
+      "link": "https://noticialdia.com/al-dia/detenidos-cuatro-hombres-por-presunto-abuso-sexual-contra-menores-en-maracaibo-y-lagunillas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/0c4b2f79-a759-4fac-911d-c9ac00b84710-e1782075198431.webp?x51818"
     },
     {
       "source": "CNN en Español",
-      "title": "Final de suspenso: De la Espriella aventaja a Cepeda por una diferencia muy pequeña",
-      "link": "https://cnnespanol.cnn.com/2026/06/21/colombia/live-news/segunda-vuelta-elecciones-presidenciales-resultado-cepeda-espriella-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-mapa-segunda-vuelta.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Cuatro conclusiones de la victoria de Abelardo de la Espriella, según el preconteo",
+      "link": "https://cnnespanol.cnn.com/2026/06/21/colombia/polarizacion-abelardo-espriella-elecciones-analisis-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/abelardo-de-la-espriella-gettyimages-2282100916.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "José Manuel Puente: \"Venezuela tiene que devolverle la absoluta autonomía y control de la política monetaria y cambiarla al Banco Central\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/jose-manuel-puente-venezuela-tiene-que-devolverle-la-absoluta-autonomia-y-control-de-la-politica-monetaria-y-cambiarla-al-banco-central",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copia-de-plantilla-video-horizontal-1-b58d0b.jpg"
+      "title": "Delcy Rodríguez afirma que el encadenamiento productivo comunal es la ruta hacia la independencia económica",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-afirma-que-el-encadenamiento-productivo-comunal-es-la-ruta-hacia-la-independencia-economica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-11.jpg-1-729c68.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán se levanta de la mesa de negociación de Suiza tras nueva amenaza de Trump",
-      "link": "https://diarioversionfinal.com/mundo/iran-se-levanta-de-la-mesa-de-negociacion-de-suiza-tras-nueva-amenaza-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Ministro-de-Exteriores-de-Iran-21-06-2026-750x430.png"
+      "title": "Trump afirma que primer ministro británico Starmer \"renunciará\" en medio de rumores sobre su salida",
+      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-primer-ministro-britanico-starmer-renunciara-en-medio-de-rumores-sobre-su-salida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Trump-Starmer-21-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-21T23:13:18.609Z"
+  "lastUpdate": "2026-06-22T04:16:10.999Z"
 };
