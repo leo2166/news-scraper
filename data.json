@@ -1,12 +1,8 @@
 {
   "rates": {
-    "bcv": {
-      "usd": "617,64",
-      "eur": "706,92",
-      "fechaValor": "Martes, 23 Junio 2026"
-    },
+    "bcv": {},
     "binance": {
-      "usdt": "832,99"
+      "usdt": "823,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +11,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Alertan expertos: Inversiones a mediano y largo plazo no llegarán sin \"instituciones sólidas\"",
-      "link": "https://www.bancaynegocios.com/alertan-expertos-inversiones-a-mediano-y-largo-plazo-no-llegaran-sin-instituciones-solidas/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/LUIS-ZAMBRANO-SEQUIN-UCAB.jpg"
+      "title": "BCV: Exportaciones totales subieron 22,77% hasta US$7.759 millones en el primer trimestre",
+      "link": "https://www.bancaynegocios.com/bcv-exportaciones-totales-subieron-2277-hasta-us7-759-millones-en-el-primer-trimestre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/01/BANCO-CENTRAL-DE-VENEZUELA-BCV-NUEVA.jpg"
     },
     {
       "source": "Infobae",
-      "title": "No basta con más dólares: reclaman reformas estructurales para lograr estabilidad cambiaria en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/22/no-basta-con-mas-dolares-reclaman-reformas-estructurales-para-lograr-estabilidad-cambiaria-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/T27LMCNWWZCLVB6G3XJGTLP2AU.JPG?auth=b429e7f23115f0459b2fdc1197d0909de38654f68e8ce879fd1da3c3588156ca&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos ratificó su reconocimiento a la Asamblea Nacional de 2015 como la “última instancia democrática” en Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/06/22/estados-unidos-ratifico-su-reconocimiento-a-la-asamblea-nacional-de-2015-como-la-ultima-instancia-democratica-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6B3DFVDIHVGIJFT7FLG7EX4QJY.PNG?auth=dc19f2971b282f9f725593d261e2848ae09553d72a9cedb51bda899ef47d6bbe&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Entre la angustia y la esperanza: Una tercera victima de la lancha que zozobró en el Lago esta grave",
-      "link": "https://noticialdia.com/al-dia/entre-la-angustia-y-la-esperanza-una-tercera-victima-de-la-lancha-que-zozobro-en-el-lago-esta-grave/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-22-at-2.50.34-PM.webp?x51818"
+      "title": "Dos heridos dejó aparatoso accidente vial en la calle 82 con Bella Vista",
+      "link": "https://noticialdia.com/sin-categoria/dos-heridos-dejo-aparatoso-accidente-vial-en-la-calle-82-con-bella-vista/",
+      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +41,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "STALIN GONZÁLEZ ASEGURÓ QUE EL ENTENDIMIENTO ES CLAVE PARA EL FUTURO DEL PAÍS",
-      "link": "https://noticierodigital.com/2026/06/stalin-gonzalez-aseguro-que-el-entendimiento-es-clave-para-el-futuro-del-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/stalin-gonzalez-efe-venezuela.jpg"
+      "title": "MÁS DE 120 MIGRANTES VENEZOLANOS RETORNARON AL PAÍS EN UN VUELO PROCEDENTE DE EE. UU.",
+      "link": "https://noticierodigital.com/2026/06/mas-de-120-migrantes-venezolanos-retornaron-al-pais-en-un-vuelo-procedente-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/vuelo-de-deportacion-venezolanos-eeuu-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +58,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Tiroteo-Canada-22-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-22T22:02:03.116Z"
+  "lastUpdate": "2026-06-23T00:06:11.335Z"
 }
