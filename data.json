@@ -1,8 +1,12 @@
 {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "617,64",
+      "eur": "706,92",
+      "fechaValor": "Martes, 23 Junio 2026"
+    },
     "binance": {
-      "usdt": "823,86"
+      "usdt": "778,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -24,8 +28,8 @@
     {
       "source": "Noticia al Día",
       "title": "Dos heridos dejó aparatoso accidente vial en la calle 82 con Bella Vista",
-      "link": "https://noticialdia.com/sin-categoria/dos-heridos-dejo-aparatoso-accidente-vial-en-la-calle-82-con-bella-vista/",
-      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/venezolana.webp"
+      "link": "https://noticialdia.com/al-dia/dos-heridos-dejo-aparatoso-accidente-vial-en-la-calle-82-con-bella-vista/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-22-at-6.38.23-PM.webp?x51818"
     },
     {
       "source": "CNN en Español",
@@ -35,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "PUD felicita a De la Espriella por su victoria en las presidenciales de Colombia",
-      "link": "https://noticiasvenevision.com/noticias/politica/pud-felicita-a-de-la-espriella-por-su-victoria-en-las-presidenciales-de-colombia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plataforma-unitaria-democratica-_14a-f5c5d5-314d38.jpg"
+      "title": "Delcy Rodríguez llama a la unión regional y al encuentro nacional desde la diversidad",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-llama-a-la-union-regional-y-al-encuentro-nacional-desde-la-diversidad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5030957303233973407_w-ba088b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 120 MIGRANTES VENEZOLANOS RETORNARON AL PAÍS EN UN VUELO PROCEDENTE DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/06/mas-de-120-migrantes-venezolanos-retornaron-al-pais-en-un-vuelo-procedente-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/vuelo-de-deportacion-venezolanos-eeuu-venezuela-627x376.jpg"
+      "title": "FELIPE CAPOZZOLO PROMOVIÓ A VENEZUELA ANTE EMPRESARIOS ALEMANES",
+      "link": "https://noticierodigital.com/2026/06/felipe-capozzolo-promovio-a-venezuela-ante-empresarios-alemanes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/felipe-cappozolo-fedecamaras-alemania-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -53,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo en Montreal deja al menos tres muertos, entre ellos un policía",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-montreal-deja-al-menos-tres-muertos-entre-ellos-un-policia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Tiroteo-Canada-22-06-2026-750x430.jpg"
+      "title": "ICE detiene a la hija del general cubano Ulises Rosales del Toro en Florida",
+      "link": "https://diarioversionfinal.com/mundo/ice-detiene-a-la-hija-del-general-cubano-ulises-rosales-del-toro-en-florida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Alina-Rosales-22-06-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-23T00:06:11.335Z"
+  "lastUpdate": "2026-06-23T05:00:58.232Z"
 }
