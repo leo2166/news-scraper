@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "A martillazos mató a su padrastro en Barcelona",
-      "link": "https://noticialdia.com/sucesos/a-martillazos-mato-a-su-padrastro-en-barcelona/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Hombre-fue-asesinado-a-martillazos-por-su-hijastro-tras-una-discusion-en-Barcelona-1.webp?x51818"
+      "title": "Madre y sus dos hijas venezolanas que murieron en el incendio de su apartamento en Perú vendían sus pertenencias para mudarse a España",
+      "link": "https://noticialdia.com/sucesos/madre-y-sus-dos-hijas-venezolanas-que-murieron-en-el-incendio-de-su-apartamento-en-peru-vendian-sus-pertenencias-para-mudarse-a-espana/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/3dec7c9d-6579-443e-a13b-8df9260c613c.webp?x30419"
     },
     {
       "source": "CNN en Español",
@@ -39,22 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez llama a la unión regional y al encuentro nacional desde la diversidad",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-llama-a-la-union-regional-y-al-encuentro-nacional-desde-la-diversidad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5030957303233973407_w-ba088b.jpg"
+      "title": "Alcalde Darwin González respalda plan de tres fases de EE.UU. y propone mejoras para el sistema electoral",
+      "link": "https://noticiasvenevision.com/noticias/politica/alcalde-darwin-gonzalez-respalda-plan-de-tres-fases-de-eeuu-y-propone-mejoras-para-el-sistema-electoral",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/darwin.jpg-66360e.jpeg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "EL 98% DE LAS TRANSACCIONES EN SUPERMERCADOS SE HACEN EN BOLÍVARES, SEGÚN ANSA",
+      "link": "https://noticierodigital.com/2026/06/el-98-de-las-transacciones-en-supermercados-se-hacen-en-bolivares-segun-ansa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-2-13-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Zapatero plantea la nulidad de su caso si no se acredita aval judicial de algunas pruebas",
-      "link": "https://laverdad.com/zapatero-plantea-la-nulidad-de-su-caso-si-no-se-acredita-aval-judicial-de-algunas-pruebas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Zapatero.png"
+      "title": "Flujos migratorios en la frontera entre Colombia y Venezuela caen 28,6 % en 2026",
+      "link": "https://laverdad.com/flujos-migratorios-en-la-frontera-entre-colombia-y-venezuela-caen-286-en-2026/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Frontera-1-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Defensa de Zapatero solicita anular grabaciones clave del caso Plus Ultra",
-      "link": "https://diarioversionfinal.com/mundo/defensa-de-zapatero-solicita-anular-grabaciones-clave-del-caso-plus-ultra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/17118203-750x430.jpg"
+      "title": "Meloni busca \"volver a la normalidad\" con Estados Unidos y descarta impacto comercial",
+      "link": "https://diarioversionfinal.com/mundo/meloni-busca-volver-a-la-normalidad-con-estados-unidos-y-descarta-impacto-comercial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/im-84153444-700x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-23T17:55:40.921Z"
+  "lastUpdate": "2026-06-23T20:06:06.913Z"
 };
