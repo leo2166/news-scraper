@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 23 Junio 2026"
     },
     "binance": {
-      "usdt": "831,45"
+      "usdt": "834,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Se necesitan \"créditos no solamente en bolívares, sino principalmente en moneda extranjera\"",
-      "link": "https://www.bancaynegocios.com/se-necesitan-creditos-no-solamente-en-bolivares-sino-principalmente-en-moneda-extranjera/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/DolaresDineroBillestesInversion.jpg"
+      "title": "Delcy Rodríguez: registro de nuevos comercios en el país incrementó 147%",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-registro-de-nuevos-comercios-en-el-pais-incremento-147-porciento/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-5.16.05-PM-e1782250649268.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Madre y sus dos hijas venezolanas que murieron en el incendio de su apartamento en Perú vendían sus pertenencias para mudarse a España",
-      "link": "https://noticialdia.com/sucesos/madre-y-sus-dos-hijas-venezolanas-que-murieron-en-el-incendio-de-su-apartamento-en-peru-vendian-sus-pertenencias-para-mudarse-a-espana/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/3dec7c9d-6579-443e-a13b-8df9260c613c.webp?x30419"
+      "title": "Una mujer resultó herida durante fuerte choque en La Limpia",
+      "link": "https://noticialdia.com/al-dia/una-mujer-resulto-herida-durante-fuerte-choque-en-la-limpia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-23-at-4.54.38-PM.webp?x30419"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EL 98% DE LAS TRANSACCIONES EN SUPERMERCADOS SE HACEN EN BOLÍVARES, SEGÚN ANSA",
-      "link": "https://noticierodigital.com/2026/06/el-98-de-las-transacciones-en-supermercados-se-hacen-en-bolivares-segun-ansa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-2-13-627x376.png"
+      "title": "VENEZUELA COMPLETARÁ 21 TRIMESTRES CONSECUTIVOS DE CRECIMIENTO, SEGÚN CALIXTO ORTEGA",
+      "link": "https://noticierodigital.com/2026/06/venezuela-completara-21-trimestres-consecutivos-de-crecimiento-segun-calixto-ortega/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/calixto-ortega-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/im-84153444-700x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-23T20:06:06.913Z"
+  "lastUpdate": "2026-06-23T22:13:06.023Z"
 }
