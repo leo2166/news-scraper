@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 23 Junio 2026"
     },
     "binance": {
-      "usdt": "829,89"
+      "usdt": "828,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "BCV: Exportaciones totales subieron 22,77% hasta US$7.759 millones en el primer trimestre",
-      "link": "https://www.bancaynegocios.com/bcv-exportaciones-totales-subieron-2277-hasta-us7-759-millones-en-el-primer-trimestre/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/01/BANCO-CENTRAL-DE-VENEZUELA-BCV-NUEVA.jpg"
+      "title": "Se necesitan \"créditos no solamente en bolívares, sino principalmente en moneda extranjera\"",
+      "link": "https://www.bancaynegocios.com/se-necesitan-creditos-no-solamente-en-bolivares-sino-principalmente-en-moneda-extranjera/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/DolaresDineroBillestesInversion.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Estudiantes universitarios protestaron en Venezuela contra una conferencia sobre Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/06/23/estudiantes-universitarios-protestaron-en-venezuela-contra-una-conferencia-sobre-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/FZKKVSQJNRCDFC2QN5VJ6BNBOM.jpg?auth=cea29575e2e269ea3fc35ba084ca18e3200f4f3b1dd8129844d38007c9bcd15c&smart=true&width=350&height=197&quality=85"
+      "title": "Advierten que política cambiaria de Delcy Rodríguez incentiva el mercado paralelo de dólares",
+      "link": "https://www.infobae.com/venezuela/2026/06/23/advierten-que-politica-cambiaria-de-delcy-rodriguez-incentiva-el-mercado-paralelo-de-dolares/",
+      "image": "https://www.infobae.com/resizer/v2/NL35LTCSEBFQRM3EJFZHXXWYB4.JPG?auth=7243fead62c001db4613263eedfc43558c54cc969c5795a7e1b7500d3d1f84a9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Dos heridos dejó aparatoso accidente vial en la calle 82 con Bella Vista",
-      "link": "https://noticialdia.com/al-dia/dos-heridos-dejo-aparatoso-accidente-vial-en-la-calle-82-con-bella-vista/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-22-at-6.38.23-PM.webp?x51818"
+      "title": "Muere en extrañas circunstancias cadete venezolano en su primer viaje internacional en buque a Sicilia: Su familia exige investigar la causas y repatriar el cuerpo",
+      "link": "https://noticialdia.com/al-dia/muere-en-extranas-circunstancias-cadete-venezolano-en-su-primer-viaje-internacional-en-buque-a-sicilia-su-familia-exige-investigar-la-causas-y-repatriar-el-cuerpo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/marino.webp?x51818"
     },
     {
       "source": "CNN en Español",
@@ -44,23 +44,17 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5030957303233973407_w-ba088b.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "FELIPE CAPOZZOLO PROMOVIÓ A VENEZUELA ANTE EMPRESARIOS ALEMANES",
-      "link": "https://noticierodigital.com/2026/06/felipe-capozzolo-promovio-a-venezuela-ante-empresarios-alemanes/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/felipe-cappozolo-fedecamaras-alemania-627x376.jpg"
-    },
-    {
       "source": "La Verdad",
-      "title": "Justicia española condena a exministro Ábalos a 24 años de cárcel",
-      "link": "https://laverdad.com/justicia-espanola-condena-a-exministro-abalos-a-24-anos-de-carcel/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Jose-Luis-Abalos-1.jpg"
+      "title": "Condenan a 2 años y medio de cárcel a 13 personas por organizar pelea de perros en Colombia",
+      "link": "https://laverdad.com/condenan-a-2-anos-y-medio-de-carcel-a-13-personas-por-organizar-pelea-de-perros-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Condenados-por-pelea-de-perros-Colombia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio inicia gira por el Golfo para impulsar acuerdo entre EE. UU. e Irán",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-inicia-gira-por-el-golfo-para-impulsar-acuerdo-entre-ee-uu-e-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Rubio-750x428.webp"
+      "title": "Operativo policial en favela de Río deja cuatro muertos y decenas de turistas atrapados",
+      "link": "https://diarioversionfinal.com/mundo/operativo-policial-en-favela-de-rio-deja-cuatro-muertos-y-decenas-de-turistas-atrapados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/sLw6M9L3-escena-de-guerra-en-la-favela-penha-en-rio-de-VF3WIVEMFVD6TLQL24I2TKKLRE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-23T12:32:28.381Z"
+  "lastUpdate": "2026-06-23T15:51:12.906Z"
 };
