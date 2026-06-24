@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 25 Junio 2026"
     },
     "binance": {
-      "usdt": "832,20"
+      "usdt": "808,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Una mujer resultó herida durante fuerte choque en La Limpia",
-      "link": "https://noticialdia.com/al-dia/una-mujer-resulto-herida-durante-fuerte-choque-en-la-limpia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-23-at-4.54.38-PM.webp?x30419"
+      "title": "Un motorizado muerto tras colisionar contra una camioneta en la avenida Bella Vista",
+      "link": "https://noticialdia.com/al-dia/un-motorizado-muerto-tras-colisionar-contra-una-camioneta-en-la-avenida-bella-vista/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/a351f80c-bed5-46cf-b560-ca4a552983de.webp?x30419"
     },
     {
       "source": "CNN en Español",
-      "title": "El Senado aprueba limitar los poderes de guerra de Trump en Irán",
-      "link": "https://cnnespanol.cnn.com/2026/06/23/eeuu/senado-limitar-poderes-guerra-trump-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-18t132850z-1218256325-rc2dwlavuhdy-rtrmadp-3-usa-congress-20260623202310125.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Juez bloquea los arrestos en tribunales de inmigración en todo EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/06/23/eeuu/juez-bloquea-trump-arrestos-tribunales-inmigracion-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25354632104932-20260624002032699.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ SOSTUVO REUNIÓN CON EL CANCILLER DE VIETNAM EN MIRAFLORES",
-      "link": "https://noticierodigital.com/2026/06/delcy-rodriguez-sostuvo-reunion-con-el-canciller-de-vietnam-en-miraflores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/delcy-rodriguez-venezuela-vietnam-Le-Hoai-Trung-627x376.jpg"
+      "title": "SUPERLANO VE UNA OPORTUNIDAD DE DIÁLOGO TRAS EL REGRESO DE DINORAH FIGUERA",
+      "link": "https://noticierodigital.com/2026/06/superlano-ve-una-oportunidad-de-dialogo-tras-el-regreso-de-dinorah-figuera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/freddy-superlano-vp-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cidh: Cuba desapareció, encarceló y condenó arbitrariamente a coautor de “Patria y Vida”",
-      "link": "https://diarioversionfinal.com/mundo/cidh-cuba-desaparecio-encarcelo-y-condeno-arbitrariamente-a-coautor-de-patria-y-vida/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Maykel-Osorbo-23-06-2026-750x430.jpg"
+      "title": "Disputa por inspecciones nucleares amenaza con reactivar la guerra en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/disputa-por-inspecciones-nucleares-amenaza-con-reactivar-la-guerra-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Buques-Ormuz-08-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-23T23:57:24.208Z"
+  "lastUpdate": "2026-06-24T04:03:37.577Z"
 };
