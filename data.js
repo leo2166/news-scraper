@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 25 Junio 2026"
     },
     "binance": {
-      "usdt": "833,86"
+      "usdt": "832,45"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez: registro de nuevos comercios en el país incrementó 147%",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-registro-de-nuevos-comercios-en-el-pais-incremento-147-porciento/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-5.16.05-PM-e1782250649268.jpeg"
+      "title": "Scott Bessent: dólar estadounidense será \"pieza central\" del comercio de Venezuela",
+      "link": "https://www.bancaynegocios.com/scott-bessent-dolar-estadounidense-sera-pieza-central-del-comercio-de-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/11/SCOTT-BESSENT-TESORO-TRUMP.webp"
     },
     {
       "source": "Infobae",
-      "title": "La Plataforma Unitaria Democrática expresó su disposición a “contribuir a esfuerzos” para la transición en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/24/la-plataforma-unitaria-democratica-expreso-su-disposicion-a-contribuir-a-esfuerzos-para-la-transicion-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/UL36PNVCENCI3OK4MNMZHTN27A.jpg?auth=837dde3d35dc8ec6aad581de32ef5f9498e1b09975066a54c2304f4b36695cd1&smart=true&width=350&height=197&quality=85"
+      "title": "Casi un 90% de los venezolanos demanda un cambio de gobierno y el apoyo al chavismo cayó más del 16%",
+      "link": "https://www.infobae.com/venezuela/2026/06/24/casi-un-90-de-los-venezolanos-demanda-un-cambio-de-gobierno-y-el-apoyo-al-chavismo-cayo-mas-del-16/",
+      "image": "https://www.infobae.com/resizer/v2/NR3I6SCOGNHZ5A5WC6KBBO6KMI.jpg?auth=0aba58651784c2023e79d40dfb3934767e766f74f7f132cc0499290159a7d1ea&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cuatro detenidos y ocho motocicletas retenidas dejó operativo policial en varios municipios del Zulia",
-      "link": "https://noticialdia.com/al-dia/cuatro-detenidos-y-ocho-motocicletas-retenidas-dejo-operativo-policial-en-varios-municipios-del-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/618fb032-fc85-4ff8-b42e-d3524373dbcc.webp?x30419"
+      "title": "Por una deuda matan a golpes y pedradas a un hombre en Maracaibo",
+      "link": "https://noticialdia.com/sucesos/por-una-deuda-matan-a-golpes-y-pedradas-a-un-hombre-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/cicpc-3-700x352-1.webp?x30419"
     },
     {
       "source": "CNN en Español",
-      "title": "Tensión en Perú: la ventaja de Fujimori ya es irreversible",
-      "link": "https://cnnespanol.cnn.com/2026/06/24/latinoamerica/peru-resultados-fujimori-sanchez-irreversible-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281803552.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Por qué gobernar será un reto para Abelardo de la Espriella?",
+      "link": "https://cnnespanol.cnn.com/2026/06/24/colombia/abelardo-espriella-desafio-gobernabilidad-oposicion-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260542256.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez asegura que el consumo real aumentó 28% en los primeros cinco meses del año",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-asegura-que-el-consumo-real-aumento-28-en-los-primeros-cinco-meses-del-ano",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l4996-2048x1366-a33603.jpg"
+      "title": "Venezuela conmemora 205 años de la Batalla de Carabobo",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-conmemora-205-anos-de-la-batalla-de-carabobo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_6a3bc5a44706c2.67429645-619472.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRAGEDIA EN PERÚ: MADRE VENEZOLANA Y SUS DOS HIJAS MURIERON EN UN INCENDIO ",
-      "link": "https://noticierodigital.com/2026/06/tragedia-en-peru-madre-venezolana-y-sus-dos-hijas-murieron-en-un-incendio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-1-15-627x376.png"
+      "title": "SCOTT BESSENT: “LA NUEVA VENEZUELA VA A FACTURAR EN DÓLARES”",
+      "link": "https://noticierodigital.com/2026/06/258601/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/scott-bessent-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Flujos migratorios en la frontera entre Colombia y Venezuela caen 28,6 % en 2026",
-      "link": "https://laverdad.com/flujos-migratorios-en-la-frontera-entre-colombia-y-venezuela-caen-286-en-2026/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Frontera-1-1.jpg"
+      "title": "Iván Cepeda reconoce el triunfo de Abelardo de la Espriella",
+      "link": "https://laverdad.com/ivan-cepeda-reconoce-el-triunfo-de-abelardo-de-la-espriella/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/Ivan-Cepeda.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Policia española revela que Zapatero cobró 200.000 euros para influir en el Gobierno de Bolivia",
-      "link": "https://diarioversionfinal.com/mundo/policia-espanola-revela-que-zapatero-cobro-200-000-euros-para-influir-en-el-gobierno-de-bolivia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/09/ZAPATERO.jpg"
+      "title": "Secretario del Tesoro afirma que el dólar será el eje comercial de una \"nueva Venezuela\"",
+      "link": "https://diarioversionfinal.com/mundo/secretario-del-tesoro-afirma-que-el-dolar-sera-el-eje-comercial-de-una-nueva-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-8-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-24T14:30:35.990Z"
+  "lastUpdate": "2026-06-24T17:04:09.878Z"
 };
