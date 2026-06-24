@@ -1,12 +1,8 @@
 {
   "rates": {
-    "bcv": {
-      "usd": "621,53",
-      "eur": "707,44",
-      "fechaValor": "Jueves, 25 Junio 2026"
-    },
+    "bcv": {},
     "binance": {
-      "usdt": "834,20"
+      "usdt": "827,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +17,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Colegio de enfermeros denuncia existencia de “salas VIP” privadas en hospitales de Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/06/24/colegio-de-enfermeros-denuncia-existencia-de-salas-vip-privadas-en-hospitales-de-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/YNYLFP5YZNF6DFWSFGA34F2DZA.jpg?auth=b8b1555284907d6dffdc41262cfc4910113acc0f32dc1a2cba3937194afb206b&smart=true&width=350&height=197&quality=85"
+      "title": "Un terremoto de magnitud 7,1 sacudió varias regiones de Venezuela: hay alerta de tsunami para Aruba, Curazao y Bonaire",
+      "link": "https://www.infobae.com/venezuela/2026/06/24/un-terremoto-de-magnitud-71-sacudio-varias-regiones-de-venezuela-hay-alerta-de-tsunami-para-aruba-curazao-y-bonaire/",
+      "image": "https://www.infobae.com/resizer/v2/Z4M77XOOXFGHFGCC5OHWNH7XFY.PNG?auth=382f92f79effd7c7977fc3d0984846777baeb736140515187d8adf8d530d61ed&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,15 +29,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "¿Por qué gobernar será un reto para Abelardo de la Espriella?",
-      "link": "https://cnnespanol.cnn.com/2026/06/24/colombia/abelardo-espriella-desafio-gobernabilidad-oposicion-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260542256.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Declaran a Abelardo de la Espriella ganador de las elecciones en Colombia",
+      "link": "https://cnnespanol.cnn.com/2026/06/24/colombia/abelardo-espriella-declarado-ganador-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282184290.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E), Delcy Rodríguez, lideró actos conmemorativos por el 205° aniversario de la Batalla de Carabobo y el Día del Ejército Bolivariano",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-lidero-actos-conmemorativos-por-el-2050-aniversario-de-la-batalla-de-carabobo-y-el-dia-del-ejercito-bolivariano",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_6734.jpg-b58f7f.jpeg"
+      "title": "Licencia emitida por la OFAC permite que empresas globales de telecomunicaciones se conecten con Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/licencia-emitida-por-la-ofac-permite-que-empresas-globales-de-telecomunicaciones-se-conecten-con-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ofac-licencia-41-venezuela-c86d52.png"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +53,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ataque aéreo de EE.UU. elimina a líder del Estado Islámico en Siria",
-      "link": "https://diarioversionfinal.com/mundo/ataque-aereo-de-ee-uu-elimina-a-lider-del-estado-islamico-en-siria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/estado-islamico-kKkH-U603191855433PdC-1200x840@diario_abc-750x430.webp"
+      "title": "Activan alerta de tsunami en zonas del Caribe tras sismo en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/activan-alerta-de-tsunami-en-zonas-del-caribe-tras-sismo-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/foto-4RHRUFS5NRA5BMMPMG7OELTLGM-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-24T21:22:19.452Z"
+  "lastUpdate": "2026-06-24T23:03:27.327Z"
 }
