@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Una mujer resultó herida durante fuerte choque en La Limpia",
-      "link": "https://noticialdia.com/al-dia/una-mujer-resulto-herida-durante-fuerte-choque-en-la-limpia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-23-at-4.54.38-PM.webp?x30419"
+      "title": "Un motorizado muerto tras colisionar contra una camioneta en la avenida Bella Vista",
+      "link": "https://noticialdia.com/al-dia/un-motorizado-muerto-tras-colisionar-contra-una-camioneta-en-la-avenida-bella-vista/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/a351f80c-bed5-46cf-b560-ca4a552983de.webp?x30419"
     },
     {
       "source": "CNN en Español",
-      "title": "Momento de cambio para los demócratas",
-      "link": "https://cnnespanol.cnn.com/2026/06/24/eeuu/mamdani-nueva-york-trump-carolina-sur-primarias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260623-chevalier-lander-valdez-20260624024242801-20260624043949600.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cómo Mamdani se impuso a los círculos de poder demócratas de Nueva York",
+      "link": "https://cnnespanol.cnn.com/2026/06/24/eeuu/magnate-poder-mamdani-democratas-nueva-york-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260623-chevalier-lander-valdez-20260624024242801-20260624043949600.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Buques-Ormuz-08-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-24T08:21:13.676Z"
+  "lastUpdate": "2026-06-24T11:44:39.108Z"
 };
