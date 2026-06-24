@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "617,64",
-      "eur": "706,92",
-      "fechaValor": "Martes, 23 Junio 2026"
+      "usd": "621,53",
+      "eur": "707,44",
+      "fechaValor": "Jueves, 25 Junio 2026"
     },
     "binance": {
-      "usdt": "834,20"
+      "usdt": "832,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,21 +33,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué se sabe de las supuestas anomalías que denuncia Cepeda en Colombia?",
-      "link": "https://cnnespanol.cnn.com/2026/06/23/colombia/conteo-escrutinio-denuncias-cepeda-espriella-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282144956.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El Senado aprueba limitar los poderes de guerra de Trump en Irán",
+      "link": "https://cnnespanol.cnn.com/2026/06/23/eeuu/senado-limitar-poderes-guerra-trump-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-18t132850z-1218256325-rc2dwlavuhdy-rtrmadp-3-usa-congress-20260623202310125.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alcalde Darwin González respalda plan de tres fases de EE.UU. y propone mejoras para el sistema electoral",
-      "link": "https://noticiasvenevision.com/noticias/politica/alcalde-darwin-gonzalez-respalda-plan-de-tres-fases-de-eeuu-y-propone-mejoras-para-el-sistema-electoral",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/darwin.jpg-66360e.jpeg"
+      "title": "Delcy Rodríguez asegura que el consumo real aumentó 28% en los primeros cinco meses del año",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-asegura-que-el-consumo-real-aumento-28-en-los-primeros-cinco-meses-del-ano",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l4996-2048x1366-a33603.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA COMPLETARÁ 21 TRIMESTRES CONSECUTIVOS DE CRECIMIENTO, SEGÚN CALIXTO ORTEGA",
-      "link": "https://noticierodigital.com/2026/06/venezuela-completara-21-trimestres-consecutivos-de-crecimiento-segun-calixto-ortega/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/calixto-ortega-venezuela-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ SOSTUVO REUNIÓN CON EL CANCILLER DE VIETNAM EN MIRAFLORES",
+      "link": "https://noticierodigital.com/2026/06/delcy-rodriguez-sostuvo-reunion-con-el-canciller-de-vietnam-en-miraflores/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/delcy-rodriguez-venezuela-vietnam-Le-Hoai-Trung-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Meloni busca \"volver a la normalidad\" con Estados Unidos y descarta impacto comercial",
-      "link": "https://diarioversionfinal.com/mundo/meloni-busca-volver-a-la-normalidad-con-estados-unidos-y-descarta-impacto-comercial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/im-84153444-700x430.jpg"
+      "title": "Cidh: Cuba desapareció, encarceló y condenó arbitrariamente a coautor de “Patria y Vida”",
+      "link": "https://diarioversionfinal.com/mundo/cidh-cuba-desaparecio-encarcelo-y-condeno-arbitrariamente-a-coautor-de-patria-y-vida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Maykel-Osorbo-23-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-23T22:13:06.023Z"
+  "lastUpdate": "2026-06-23T23:57:24.208Z"
 };
