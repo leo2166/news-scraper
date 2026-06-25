@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "621,53",
-      "eur": "707,44",
-      "fechaValor": "Jueves, 25 Junio 2026"
+      "usd": "622,21",
+      "eur": "708,39",
+      "fechaValor": "Viernes, 26 Junio 2026"
     },
     "binance": {
-      "usdt": "829,99"
+      "usdt": "826,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@
     },
     {
       "source": "Infobae",
-      "title": "Los gritos de auxilio se multiplican en La Guaira tras el terremoto mientras los sobrevivientes esperan una ayuda que no llega",
-      "link": "https://www.infobae.com/venezuela/2026/06/25/los-gritos-de-auxilio-se-multiplican-en-la-guaira-tras-el-terremoto-mientras-los-sobrevivientes-esperan-una-ayuda-que-no-llega/",
-      "image": "https://www.infobae.com/resizer/v2/NAWEISOQKBEFRFYYKN3RX23ZUE.JPG?auth=1b555d4e836a536a2b3b89e0227a0eb44ab4f1f7f7479e63ea9d2c9568130891&smart=true&width=350&height=197&quality=85"
+      "title": "Artistas e influencers impulsan campañas de ayuda humanitaria tras los devastadores terremotos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/25/artistas-e-influencers-impulsan-campanas-de-ayuda-humanitaria-tras-los-devastadores-terremotos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/GZXK46NIJJFLJNHNTHRRRBB6FE.PNG?auth=8361512ad75cf3f97ebe17cc810e2353751d89bf832eb1641fe4cae81309c20f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Tras ser rescatado en La Guaira, buscan a los familiares del pequeño Santiago",
-      "link": "https://noticialdia.com/nacionales/tras-ser-rescatado-en-la-guaira-buscan-a-los-familiares-del-pequeno-santiago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/5037444254334127279.webp?x30419"
+      "title": "Colapsado el Hospital José María Vargas: Atienden pacientes en el estacionamiento",
+      "link": "https://noticialdia.com/nacionales/colapsado-el-hospital-jose-maria-vargas-atienden-pacientes-en-el-estacionamiento/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/hospita.webp?x30419"
     },
     {
       "source": "CNN en Español",
-      "title": "Incertidumbre en Venezuela tras el terremoto más fuerte en un siglo",
+      "title": "Búsquedas contrarreloj por sobrevivientes tras los terremotos en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/06/24/venezuela/live-news/terremoto-sismo-en-vivo-noticias-caracas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282736119.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282754086.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNT HABILITA SUS SEDES A NIVEL NACIONAL PARA COLECTAR INSUMOS EN APOYO A LOS DAMNIFICADOS POR LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/06/unt-habilita-sus-sedes-a-nivel-nacional-para-colectar-insumos-en-apoyo-a-los-damnificados-por-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/un-nuevo-tiempo.jpg"
+      "title": "EE. UU. ASIGNA $150 MILLONES PARA LABORES DE ASISTENCIA HUMANITARIA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/ee-uu-asigna-150-millones-para-labores-de-asistencia-humanitaria-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/casa-blanca-1395x930-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "España busca a 68 ciudadanos tras terremotos en Venezuela",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/espana-busca-a-68-ciudadanos-tras-terremotos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/X8hetE4E-image-750x430.jpg"
+      "title": "“Cuando las vidas de nuestros amigos están en juego, Estados Unidos actúa”: Hegseth anuncia apoyo a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/cuando-las-vidas-de-nuestros-amigos-estan-en-juego-estados-unidos-actua-hegseth-anuncia-apoyo-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/descarga-8-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-25T19:04:42.472Z"
+  "lastUpdate": "2026-06-25T21:42:39.459Z"
 }
