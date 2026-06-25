@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 25 Junio 2026"
     },
     "binance": {
-      "usdt": "785,00"
+      "usdt": "829,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "FMI \"está listo\" para ayudar con la reestructuración de la deuda de Venezuela según sea necesario",
-      "link": "https://www.bancaynegocios.com/fmi-esta-listo-para-ayudar-con-la-reestructuracion-de-la-deuda-de-venezuela-segun-sea-necesario/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/08/FMI.jpg"
+      "title": "CAF expresa su solidaridad con Venezuela y anuncia donación de US$ 300.000 tras el terremoto",
+      "link": "https://www.bancaynegocios.com/caf-expresa-su-solidaridad-con-venezuela-y-anuncia-donacion-de-us-300000-tras-el-terremoto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/CAFVenezuela.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela utilizará USD 200 millones que tiene en el FMI mientras el organismo evalúa el envío de ayuda por los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/06/25/venezuela-utilizara-usd-200-millones-que-tiene-en-el-fmi-mientras-el-organismo-evalua-el-envio-de-ayuda-por-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/IVBLK7UCURB3HNSXRUJ7MKDOBA.JPG?auth=906ddee7fbb35161d62663618d70c821a3605fc32a967379eb2453c00bd8f1c8&smart=true&width=350&height=197&quality=85"
+      "title": "Los gritos de auxilio se multiplican en La Guaira tras el terremoto mientras los sobrevivientes esperan una ayuda que no llega",
+      "link": "https://www.infobae.com/venezuela/2026/06/25/los-gritos-de-auxilio-se-multiplican-en-la-guaira-tras-el-terremoto-mientras-los-sobrevivientes-esperan-una-ayuda-que-no-llega/",
+      "image": "https://www.infobae.com/resizer/v2/NAWEISOQKBEFRFYYKN3RX23ZUE.JPG?auth=1b555d4e836a536a2b3b89e0227a0eb44ab4f1f7f7479e63ea9d2c9568130891&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Aislamiento y desesperación en el litoral central: Colapso vial impide la llegada de ayuda a las zonas críticas de La Guaira",
-      "link": "https://noticialdia.com/al-dia/aislamiento-y-desesperacion-en-el-litoral-central-colapso-vial-impide-la-llegada-de-ayuda-a-las-zonas-criticas-de-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/terremoto-La-Guaira.webp?x30419"
+      "title": "Tras ser rescatado en La Guaira, buscan a los familiares del pequeño Santiago",
+      "link": "https://noticialdia.com/nacionales/tras-ser-rescatado-en-la-guaira-buscan-a-los-familiares-del-pequeno-santiago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/5037444254334127279.webp?x30419"
     },
     {
       "source": "CNN en Español",
-      "title": "Asciende a 164 la cifra de muertos por los terremotos en Venezuela",
+      "title": "Incertidumbre en Venezuela tras el terremoto más fuerte en un siglo",
       "link": "https://cnnespanol.cnn.com/2026/06/24/venezuela/live-news/terremoto-sismo-en-vivo-noticias-caracas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282638652-1.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282736119.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUBIO CONFIRMÓ ENVÍO DE EQUIPOS DE RESCATE DESDE LOS ÁNGELES HACIA VENEZUELA",
-      "link": "https://noticierodigital.com/2026/06/rubio-confirmo-envio-de-equipos-de-rescate-desde-los-angeles-hacia-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-1-627x376.jpg"
+      "title": "UNT HABILITA SUS SEDES A NIVEL NACIONAL PARA COLECTAR INSUMOS EN APOYO A LOS DAMNIFICADOS POR LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/06/unt-habilita-sus-sedes-a-nivel-nacional-para-colectar-insumos-en-apoyo-a-los-damnificados-por-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/un-nuevo-tiempo.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Detienen a hijo de Diomedes Díaz por presunto secuestro",
-      "link": "https://laverdad.com/detienen-a-hijo-de-diomedes-diaz-por-presunto-secuestro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Luis-Mariano-Diaz-Gonzalez.jpg"
+      "title": "El mundo se solidariza con Venezuela",
+      "link": "https://laverdad.com/el-mundo-se-solidariza-con-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/06/solidaridad-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Chef José Andrés dona un millón de dólares para ayudar a víctimas de los terremotos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/chef-jose-andres-dona-un-millon-de-dolares-para-ayudar-a-victimas-de-los-terremotos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Chef-Jose-Andres-World-Central-Kitchen-Jaleo-Dubai-UAE-750x430.webp"
+      "title": "España busca a 68 ciudadanos tras terremotos en Venezuela",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/espana-busca-a-68-ciudadanos-tras-terremotos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/X8hetE4E-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-25T16:24:10.357Z"
+  "lastUpdate": "2026-06-25T19:04:42.472Z"
 }
