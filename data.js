@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 26 Junio 2026"
     },
     "binance": {
-      "usdt": "826,86"
+      "usdt": "829,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Artistas e influencers impulsan campañas de ayuda humanitaria tras los devastadores terremotos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/25/artistas-e-influencers-impulsan-campanas-de-ayuda-humanitaria-tras-los-devastadores-terremotos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/GZXK46NIJJFLJNHNTHRRRBB6FE.PNG?auth=8361512ad75cf3f97ebe17cc810e2353751d89bf832eb1641fe4cae81309c20f&smart=true&width=350&height=197&quality=85"
+      "title": "Menores heridos y sin sus padres son trasladados a hospitales de Caracas tras los terremotos que sacudieron Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/25/menores-heridos-y-sin-sus-padres-son-trasladados-a-hospitales-de-caracas-tras-los-terremotos-que-sacudieron-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/243IG4XIWFGWDHA472FGNAA2KQ.jpg?auth=ed34b3e3af2e88181d0e34d41689e36a7e33774387c05b768e9378d6615db04e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -35,19 +35,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Búsquedas contrarreloj por sobrevivientes tras los terremotos en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/06/24/venezuela/live-news/terremoto-sismo-en-vivo-noticias-caracas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282754086.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-25t184413z-1464910525-rc241may0wal-rtrmadp-3-venezuela-quake.JPG?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez reporta 32 fallecidos y más de 700 heridos en Venezuela tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-reporta-32-fallecidos-y-mas-de-700-heridos-en-venezuela-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mwjjz77b345uiyuge5tx4vznoq-73e185.avif"
+      "title": "Lula conversa con Delcy Rodríguez y ya coordina envío de ayuda a Venezuela tras los sismos",
+      "link": "https://noticiasvenevision.com/noticias/politica/lula-conversa-con-delcy-rodriguez-y-ya-coordina-envio-de-ayuda-a-venezuela-tras-los-sismos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mjaynje2ew5qa2wuanbnmtq1mtq3-4d71b3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. ASIGNA $150 MILLONES PARA LABORES DE ASISTENCIA HUMANITARIA EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/06/ee-uu-asigna-150-millones-para-labores-de-asistencia-humanitaria-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/casa-blanca-1395x930-1.jpg"
+      "title": "ESPAÑA CONFIRMÓ LA MUERTE DE DOS CONNACIONALES Y 80 DESAPARECIDOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/espana-confirmo-la-muerte-de-dos-connacionales-y-80-desaparecidos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/consulado-de-espana-696x464-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "“Cuando las vidas de nuestros amigos están en juego, Estados Unidos actúa”: Hegseth anuncia apoyo a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/cuando-las-vidas-de-nuestros-amigos-estan-en-juego-estados-unidos-actua-hegseth-anuncia-apoyo-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/descarga-8-750x430.jpg"
+      "title": "El Salvador envía misión humanitaria con 50 toneladas de ayuda a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/el-salvador-envia-mision-humanitaria-con-50-toneladas-de-ayuda-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/HLsHS9dXoAASrOr-680x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-25T21:42:39.459Z"
+  "lastUpdate": "2026-06-25T23:18:07.180Z"
 };
