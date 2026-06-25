@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 25 Junio 2026"
     },
     "binance": {
-      "usdt": "830,89"
+      "usdt": "785,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Crean fondo de reconstrucción de hospitales y viviendas con aporte inicial de US$200 millones",
-      "link": "https://www.bancaynegocios.com/crean-fondo-de-reconstruccion-de-hospitales-y-viviendas-con-aporte-inicial-de-us200-millones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/12/dolares.webp"
+      "title": "FMI \"está listo\" para ayudar con la reestructuración de la deuda de Venezuela según sea necesario",
+      "link": "https://www.bancaynegocios.com/fmi-esta-listo-para-ayudar-con-la-reestructuracion-de-la-deuda-de-venezuela-segun-sea-necesario/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/08/FMI.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Dramáticos testimonios de los sobrevivientes tras el doble terremoto en Venezuela: “Todo se desplomó”",
-      "link": "https://www.infobae.com/venezuela/2026/06/25/dramaticos-testimonios-de-los-sobrevivientes-tras-el-doble-terremoto-en-venezuela-todo-se-desplomo/",
-      "image": "https://www.infobae.com/resizer/v2/GYPQ4PJC5VBM7M24U5VW7TSIMI.JPG?auth=89fc563eca84589e2207a1e39a84b0029de8da3b202be6690a96a7f2491a4442&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela utilizará USD 200 millones que tiene en el FMI mientras el organismo evalúa el envío de ayuda por los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/06/25/venezuela-utilizara-usd-200-millones-que-tiene-en-el-fmi-mientras-el-organismo-evalua-el-envio-de-ayuda-por-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/IVBLK7UCURB3HNSXRUJ7MKDOBA.JPG?auth=906ddee7fbb35161d62663618d70c821a3605fc32a967379eb2453c00bd8f1c8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Joven es salvado tras horas bajo los escombros en Caracas",
-      "link": "https://noticialdia.com/nacionales/joven-es-salvado-tras-horas-bajo-los-escombros-en-caracas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-16.webp?x30419"
+      "title": "Aislamiento y desesperación en el litoral central: Colapso vial impide la llegada de ayuda a las zonas críticas de La Guaira",
+      "link": "https://noticialdia.com/al-dia/aislamiento-y-desesperacion-en-el-litoral-central-colapso-vial-impide-la-llegada-de-ayuda-a-las-zonas-criticas-de-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/terremoto-La-Guaira.webp?x30419"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "CENTROS COMERCIALES NO ABRIRÁN TRAS TERREMOTOS, INFORMÓ CAVECECO",
-      "link": "https://noticierodigital.com/2026/06/centros-comerciales-no-abriran-tras-terremotos-informo-cavececo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/centros-comerciales-venezuela-627x376.jpg"
+      "title": "RUBIO CONFIRMÓ ENVÍO DE EQUIPOS DE RESCATE DESDE LOS ÁNGELES HACIA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/rubio-confirmo-envio-de-equipos-de-rescate-desde-los-angeles-hacia-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Unión Europea se declara lista para ampliar la ayuda a Venezuela tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/la-union-europea-se-declara-lista-para-ampliar-la-ayuda-a-venezuela-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/union-europea-aumenta-sanciones-1200x720-1-678x381-1.jpg"
+      "title": "Chef José Andrés dona un millón de dólares para ayudar a víctimas de los terremotos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/chef-jose-andres-dona-un-millon-de-dolares-para-ayudar-a-victimas-de-los-terremotos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Chef-Jose-Andres-World-Central-Kitchen-Jaleo-Dubai-UAE-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-25T13:18:01.517Z"
+  "lastUpdate": "2026-06-25T16:24:10.357Z"
 }
