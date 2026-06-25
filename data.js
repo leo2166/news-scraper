@@ -1,8 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "621,53",
+      "eur": "707,44",
+      "fechaValor": "Jueves, 25 Junio 2026"
+    },
     "binance": {
-      "usdt": "820,00"
+      "usdt": "829,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -17,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Edificios destruidos y pánico en el aeropuerto de Maiquetía: los impactantes videos del los terremotos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/25/edificios-destruidos-y-panico-en-el-aeropuerto-de-maiquetia-los-impactantes-videos-del-los-terremotos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/PVPQ7T4YWFCRTPLXP23UJP37WY.PNG?auth=656042913019e3c9a5669fe0b9187aa5076d08c579683b6cde1d71b6e93dded7&smart=true&width=350&height=197&quality=85"
+      "title": "Plazas, parques y calles se llenan de familias que buscan refugio tras los terremotos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/25/plazas-parques-y-calles-se-llenan-de-familias-que-buscan-refugio-tras-los-terremotos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/PNIBTEONTJHZBHHK72LN7IVVOQ.JPG?auth=f346be54fb0a9165d401de1ffa86ca9c312054b64a94a5e91df632927a0dea5f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -29,21 +33,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Dos fuertes sismos de 7,5 y 7,2 sacuden Venezuela",
+      "title": "Venezuela sacudida por el terremoto más fuerte en un siglo",
       "link": "https://cnnespanol.cnn.com/2026/06/24/venezuela/live-news/terremoto-sismo-en-vivo-noticias-caracas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282642834.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Licencia emitida por la OFAC permite que empresas globales de telecomunicaciones se conecten con Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/licencia-emitida-por-la-ofac-permite-que-empresas-globales-de-telecomunicaciones-se-conecten-con-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ofac-licencia-41-venezuela-c86d52.png"
+      "title": "Presidenta (E) Delcy Rodríguez reporta 32 fallecidos y más de 700 heridos en Venezuela tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-reporta-32-fallecidos-y-mas-de-700-heridos-en-venezuela-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mwjjz77b345uiyuge5tx4vznoq-73e185.avif"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ROBERTO MARRERO: «A DINORAH FIGUERA LA SUBESTIMAN, PERO ESTÁ LIDERANDO LA INSTITUCIONALIDAD»",
-      "link": "https://noticierodigital.com/2026/06/roberto-marrero-a-dinorah-figuera-la-subestiman-pero-esta-liderando-la-institucionalidad/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/11/robertomarrero-visitafiscalcpi-3nov2021.jpg"
+      "title": "PRIMER BALANCE OFICIAL REPORTA 32 FALLECIDOS Y MÁS DE 700 HERIDOS POR TERREMOTOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/primer-balance-oficial-reporta-32-fallecidos-y-mas-de-700-heridos-por-terremotos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-6-1-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -53,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "México expresa solidaridad con Venezuela tras terremoto de 7,5 y descarta mexicanos afectados",
-      "link": "https://diarioversionfinal.com/mundo/mexico-expresa-solidaridad-con-venezuela-tras-terremoto-de-75-y-descarta-mexicanos-afectados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_1-5-2026_10373_www.history.com_-750x430.jpeg"
+      "title": "Trump sobre los terremotos en Venezuela: “Dejaron un número devastador de muertos”",
+      "link": "https://diarioversionfinal.com/mundo/trump-sobre-los-terremotos-en-venezuela-dejaron-un-numero-devastador-de-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/rss-efe448bb044b592e2190a7f59a1059a1d2b004573f1w-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-25T03:35:07.685Z"
+  "lastUpdate": "2026-06-25T07:42:05.521Z"
 };
