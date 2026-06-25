@@ -2,7 +2,7 @@ window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {},
     "binance": {
-      "usdt": "827,40"
+      "usdt": "820,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -17,21 +17,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Un terremoto de magnitud 7,1 sacudió varias regiones de Venezuela: hay alerta de tsunami para Aruba, Curazao y Bonaire",
-      "link": "https://www.infobae.com/venezuela/2026/06/24/un-terremoto-de-magnitud-71-sacudio-varias-regiones-de-venezuela-hay-alerta-de-tsunami-para-aruba-curazao-y-bonaire/",
-      "image": "https://www.infobae.com/resizer/v2/Z4M77XOOXFGHFGCC5OHWNH7XFY.PNG?auth=382f92f79effd7c7977fc3d0984846777baeb736140515187d8adf8d530d61ed&smart=true&width=350&height=197&quality=85"
+      "title": "Edificios destruidos y pánico en el aeropuerto de Maiquetía: los impactantes videos del los terremotos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/25/edificios-destruidos-y-panico-en-el-aeropuerto-de-maiquetia-los-impactantes-videos-del-los-terremotos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/PVPQ7T4YWFCRTPLXP23UJP37WY.PNG?auth=656042913019e3c9a5669fe0b9187aa5076d08c579683b6cde1d71b6e93dded7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Mataron y descuartizaron a modelo colombiana: El cadáver apareció dentro de una maleta en un apartamento en Bogotá",
-      "link": "https://noticialdia.com/al-dia/mataron-y-descuartizaron-a-modelo-colombiana-el-cadaver-aparecio-dentro-de-una-maleta-en-un-apartamento-en-bogota/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/fotofoto.webp?x30419"
+      "title": "Junio sísmico: El mes que ha marcado la historia geológica de Venezuela",
+      "link": "https://noticialdia.com/al-dia/junio-sismico-el-mes-que-ha-marcado-la-historia-geologica-de-venezuela/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/c-2026-06-25t002951z-1735805946-rc2o0mapi6re-rtrmadp-3-venezuela-quake-20260625010659520.webp?x30419"
     },
     {
       "source": "CNN en Español",
-      "title": "Declaran a Abelardo de la Espriella ganador de las elecciones en Colombia",
-      "link": "https://cnnespanol.cnn.com/2026/06/24/colombia/abelardo-espriella-declarado-ganador-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282184290.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Dos fuertes sismos de 7,5 y 7,2 sacuden Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/06/24/venezuela/live-news/terremoto-sismo-en-vivo-noticias-caracas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282642834.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -53,10 +53,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Activan alerta de tsunami en zonas del Caribe tras sismo en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/activan-alerta-de-tsunami-en-zonas-del-caribe-tras-sismo-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/foto-4RHRUFS5NRA5BMMPMG7OELTLGM-750x430.jpg"
+      "title": "México expresa solidaridad con Venezuela tras terremoto de 7,5 y descarta mexicanos afectados",
+      "link": "https://diarioversionfinal.com/mundo/mexico-expresa-solidaridad-con-venezuela-tras-terremoto-de-75-y-descarta-mexicanos-afectados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Captura-de-pantalla_1-5-2026_10373_www.history.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-24T23:03:27.327Z"
+  "lastUpdate": "2026-06-25T03:35:07.685Z"
 };
