@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "622,21",
-      "eur": "708,39",
-      "fechaValor": "Viernes, 26 Junio 2026"
+      "usd": "623,02",
+      "eur": "710,10",
+      "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "812,86"
+      "usdt": "815,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Adolescente es aprehendido en el municipio Mara tras agredir física y psicológicamente a su madre",
-      "link": "https://noticialdia.com/sucesos/adolescente-es-aprehendido-en-el-municipio-mara-tras-agredir-fisica-y-psicologicamente-a-su-madre/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/loco.webp?x74468"
+      "title": "Apareció una zuliana identificada como Neridé Montoya tras los terremotos: Está recluida en el Ivss de La Guaira",
+      "link": "https://noticialdia.com/sin-categoria/aparecio-una-zuliana-identificada-como-neride-montoya-tras-los-terremotos-esta-recluida-en-el-ivss-de-la-guaira/",
+      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/Hombre-fue-asesinado-a-martillazos-por-su-hijastro-tras-una-discusion-en-Barcelona-1.webp"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MADRE DEL DIRIGENTE JOSÉ MANUEL OLIVARES MURIÓ EN LA GUAIRA DURANTE TERREMOTO",
-      "link": "https://noticierodigital.com/2026/06/madre-del-dirigente-jose-manuel-olivares-murio-en-la-guaira-durante-terremoto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/IMG-20260626-WA0204-627x376.jpg"
+      "title": "TRUMP DESTACÓ LA AYUDA DE EE. UU. A VENEZUELA TRAS LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/06/trump-destaco-la-ayuda-de-ee-uu-a-venezuela-tras-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/donald-trump-eeuu-3-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Apple anuncia donaciones para apoyar a Venezuela tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/apple-anuncia-donaciones-para-apoyar-a-venezuela-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/04/apple-1310097-750x430.jpg"
+      "title": "EE. UU. bombardea objetivos militares iraníes tras ataque con drones en Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-bombardea-objetivos-militares-iranies-tras-ataque-con-drones-en-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WcTWugCR-images-4.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-26T20:46:18.758Z"
+  "lastUpdate": "2026-06-26T22:12:59.957Z"
 };
