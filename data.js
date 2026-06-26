@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 26 Junio 2026"
     },
     "binance": {
-      "usdt": "803,00"
+      "usdt": "791,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "EEUU flexibilizó sanciones a Venezuela para permitir transacciones destinadas a la ayuda humanitaria por los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/06/26/eeuu-flexibilizo-sanciones-a-venezuela-para-permitir-transacciones-destinadas-a-la-ayuda-humanitaria-por-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/Z2HNLP7W2ZA2FBVU3SRM5ZAB2U.JPG?auth=47d8ed5f24e00f4c2568c1c03b453d615a17a420d00024dc15ec0c24b00bf5e0&smart=true&width=350&height=197&quality=85"
+      "title": "El mayor general del Cuerpo de Marines de EEUU llegó a Venezuela para coordinar la asistencia estadounidense tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/06/26/el-mayor-general-del-cuerpo-de-marines-de-eeuu-llego-a-venezuela-para-coordinar-la-asistencia-estadounidense-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/OD2GZ6GLV5HTBBTXBCN4I2VONI.JPG?auth=fa31ce3a3caeb932dded0c96ab905bb82586b4bb36a7b9554877069e7917bc20&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno venezolano desmintió alerta de tsunami en La Guaira tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-venezolano-desmintio-alerta-de-tsunami-en-la-guaira-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/3wca5gvgyfj7xg4d7hvjaa7dpi-320ecf.avif"
+      "title": "Comando Sur de EE.UU. despliega fuerzas militares para apoyar labores de socorro tras terremotos en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-de-eeuu-despliega-fuerzas-militares-para-apoyar-labores-de-socorro-tras-terremotos-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/67b7402ee9ff7101d83b1df1-bcca19.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/images-2026-06-25T175548.973-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-26T03:42:12.032Z"
+  "lastUpdate": "2026-06-26T07:53:09.804Z"
 };
