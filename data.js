@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 26 Junio 2026"
     },
     "binance": {
-      "usdt": "791,30"
+      "usdt": "828,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Qué se sabe de las víctimas extranjeras de los terremotos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/26/que-se-sabe-de-las-victimas-extranjeras-de-los-terremotos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/Z2YRL52VKJHDTJZC773VM3SQNE.JPG?auth=fef4a19b28892da6e3f83d3861fb6b6b5c0a4e2cb8fc971019b414c126f54785&smart=true&width=350&height=197&quality=85"
+      "title": "\"Salí a comprar helado\": el impactante video que muestra los primeros momentos después del terremoto en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/26/sali-a-comprar-helado-el-impactante-video-que-muestra-los-primeros-momentos-despues-del-terremoto-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/VYIPLFLL7JGKVG4JHPT2HPBX2U.jpg?auth=548f57b8a900c10db826d2826adf46c8c6b1511c33519949630a766e28bcc357&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Colapsado el Hospital José María Vargas: Atienden pacientes en el estacionamiento",
-      "link": "https://noticialdia.com/nacionales/colapsado-el-hospital-jose-maria-vargas-atienden-pacientes-en-el-estacionamiento/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/hospita.webp?x30419"
+      "title": "\"Cifra de fallecidos tras fuertes sismos se eleva a 589 y a dos mil 980 los heridos\": Presidenta Delcy Rodríguez",
+      "link": "https://noticialdia.com/sucesos/cifra-de-fallecidos-tras-fuertes-sismos-se-eleva-a-589-y-a-dos-mil-980-los-heridos-presidenta-delcy-rodriguez/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/delcyyy.webp?x63800"
     },
     {
       "source": "CNN en Español",
-      "title": "Rescatistas se apresuran a encontrar a las víctimas tras los terremotos en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/06/24/venezuela/live-news/terremoto-sismo-en-vivo-noticias-caracas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-25t184413z-1464910525-rc241may0wal-rtrmadp-3-venezuela-quake.JPG?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Las víctimas mortales por los terremotos en Venezuela ascienden a 589",
+      "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EL SALVADOR ENVIÓ EL PRIMERO DE TRES AVIONES CON AYUDA A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/06/el-salvador-envio-el-primero-de-tres-aviones-con-ayuda-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/09/bukele-prision-tuitero-7sep2022.jpg"
+      "title": "LLEGAN A VENEZUELA RESCATISTAS DESDE DISTINTOS PAÍSES PARA APOYAR TRAS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/06/llegan-a-venezuela-rescatistas-desde-distintos-paises-para-apoyar-tras-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-12-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "España moviliza 1 millón de euros para Venezuela tras terremotos",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/espana-moviliza-1-millon-de-euros-para-venezuela-tras-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/hCZqoUj4-image-750x430.jpg"
+      "title": "Portugal enviará 60 especialistas a Venezuela para apoyar labores de rescate",
+      "link": "https://diarioversionfinal.com/mundo/portugal-enviara-60-especialistas-a-venezuela-para-apoyar-labores-de-rescate/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/venezuela-terremoto-24062026-2268369-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-26T10:51:28.015Z"
+  "lastUpdate": "2026-06-26T13:11:17.580Z"
 };
