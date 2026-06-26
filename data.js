@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 26 Junio 2026"
     },
     "binance": {
-      "usdt": "812,86"
+      "usdt": "811,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,25 +15,25 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "CAF expresa su solidaridad con Venezuela y anuncia donación de US$ 300.000 tras el terremoto",
-      "link": "https://www.bancaynegocios.com/caf-expresa-su-solidaridad-con-venezuela-y-anuncia-donacion-de-us-300000-tras-el-terremoto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/CAFVenezuela.jpg"
+      "title": "Pagan \"Bono de Contingencia 2026\" a las familias afectadas por el terremoto (+montos)",
+      "link": "https://www.bancaynegocios.com/pagan-bono-de-contingencia-2026-a-las-familias-afectadas-por-el-terremoto-montos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
-      "title": "“Vente, mi hermano”: el emotivo rescate de dos hombres tras más de 30 horas bajo los escombros en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/26/vente-mi-hermano-el-emotivo-rescate-de-dos-hombres-tras-mas-de-30-horas-bajo-los-escombros-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/BNLQBNKT3JAF7G42AWWSQNGLIU.jpg?auth=bfe1ede969712215a6b1e408012cdc26a36717fb0200eeff64cedb003de63781&smart=true&width=350&height=197&quality=85"
+      "title": "Al menos 17 países enviaron equipos de rescate y ayuda médica al norte de Venezuela tras los dos potentes terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/06/26/al-menos-17-paises-enviaron-equipos-de-rescate-y-ayuda-medica-al-norte-de-venezuela-tras-los-dos-potentes-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/DKKU25R2HBAOXMQF2GTQT3NHSI.jpg?auth=db16b9e3bb050e1c49c87619cb42c177b6fc2ff8b947b09307df4c8d4e3de810&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "\"Cifra de fallecidos tras fuertes sismos se eleva a 589 y a dos mil 980 los heridos\": Presidenta Delcy Rodríguez",
-      "link": "https://noticialdia.com/sucesos/cifra-de-fallecidos-tras-fuertes-sismos-se-eleva-a-589-y-a-dos-mil-980-los-heridos-presidenta-delcy-rodriguez/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/delcyyy.webp?x63800"
+      "title": "Voraz incendio deja en llamas un supermercado en Cabimas",
+      "link": "https://noticialdia.com/al-dia/voraz-incendio-deja-en-llamas-un-supermercado-en-cabimas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/image-2026-06-26T121817.156.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Las víctimas mortales por los terremotos en Venezuela ascienden a 589",
+      "title": "Las víctimas mortales por los terremotos en Venezuela ascienden a 920",
       "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -44,6 +44,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/67b7402ee9ff7101d83b1df1-bcca19.jpg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "CIFRA DE FALLECIDOS ASCENDIÓ A 920 TRAS TERREMOTOS, INFORMÓ JORGE RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/06/cifra-de-fallecidos-ascendio-a-920-tras-terremotos-informo-jorge-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/terremotosvenezuela.jpg"
+    },
+    {
       "source": "La Verdad",
       "title": "OMS recuerda que primeras 72 horas tras terremotos son críticas para salvar vidas",
       "link": "https://laverdad.com/oms-recuerda-que-primeras-72-horas-tras-terremotos-son-criticas-para-salvar-vidas/",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Israel abate a siete supuestos miembros de Hezbolá",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/israel-abate-a-siete-supuestos-miembros-de-hezbola/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/bffyc0Kq-image-750x430.jpg"
+      "title": "EE.UU. refuerza operación humanitaria en Venezuela con aviones, buques y apoyo satelital",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-refuerza-operacion-humanitaria-en-venezuela-con-aviones-buques-y-apoyo-satelital/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/24dc-ford-02-mbtv-facebookJumbo-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-26T16:16:22.501Z"
+  "lastUpdate": "2026-06-26T18:51:14.898Z"
 };
