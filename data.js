@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "809,50"
+      "usdt": "779,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Terremotos en Venezuela dejan más de 900 muertos: arrecia búsqueda de cientos de personas atrapadas",
-      "link": "https://www.infobae.com/venezuela/2026/06/26/terremotos-en-venezuela-dejan-mas-de-900-muertos-arrecia-busqueda-de-cientos-de-personas-atrapadas/",
-      "image": "https://www.infobae.com/resizer/v2/DUBVPU5MERAY3JDEV7AKRB6FQY.JPG?auth=d3c8507e7a68ddaf5e438f7ae54250b839b34b3ec3302d3b4899ae8e4132a030&smart=true&width=350&height=197&quality=85"
+      "title": "El Gobierno venezolano restringió el acceso a La Guaira en medio de los operativos de rescate y exigirá un registro previo",
+      "link": "https://www.infobae.com/venezuela/2026/06/27/el-gobierno-venezolano-restringio-el-acceso-a-la-guaira-en-medio-de-los-operativos-de-rescate-y-exigira-un-registro-previo/",
+      "image": "https://www.infobae.com/resizer/v2/A3KXKRVIDJBAPILBUPFQWOIGQU.jpg?auth=8b5a1c913f2cd614396a535f7b5d158cf42cc91ffe241edeb9dfff4d19208e56&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Un nuevo sismo de magnitud 4.9 sacude el norte de Venezuela en medio de la emergencia nacional",
-      "link": "https://noticialdia.com/sucesos/un-nuevo-sismo-de-magnitud-4-9-sacude-el-norte-de-venezuela-en-medio-de-la-emergencia-nacional/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2025/11/temblor-en-mexico-los-sismos-reportados-el-martes-MRZEXO4JBZEFJPJMLMXAUVVVVM.avif?x74468"
+      "title": "Colapsó el puente de Caraballeda tras estremecedora réplica de magnitud 4.9",
+      "link": "https://noticialdia.com/sin-categoria/colapso-el-puente-de-caraballeda-tras-estremecedora-replica-de-magnitud-4-9/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-26-at-10.23.38-PM.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Más de 900 muertos en Venezuela mientras se intensifican labores de rescate",
+      "title": "Rescatistas trabajan contrarreloj para localizar personas bajo los escombros",
       "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comando Sur de EE.UU. despliega fuerzas militares para apoyar labores de socorro tras terremotos en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-de-eeuu-despliega-fuerzas-militares-para-apoyar-labores-de-socorro-tras-terremotos-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/67b7402ee9ff7101d83b1df1-bcca19.jpg"
+      "title": "Ministerio de Energía Eléctrica informa activación de la subestación Guaira 30 para reactivar el servicio en Macuto",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-energia-electrica-informa-activacion-de-la-subestacion-guaira-30-para-reactivar-el-servicio-en-macuto",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-06-27-001549-052954.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MAYOR GENERAL DE EE. UU Y JOHN BARRETT SE REUNIERON CON DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/06/mayor-general-de-ee-uu-y-john-barrett-se-reunieron-con-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Kevin-Jarrad-Delcy-Rodriguez-John-Barrett-627x376.jpg"
+      "title": "PUD PIDIÓ CONCENTRAR RECURSOS EN LAS ZONAS MÁS AFECTADAS POR LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/06/pud-pidio-concentrar-recursos-en-las-zonas-mas-afectadas-por-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/plataforma-unitaria-p-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Brasil moviliza 12 toneladas de insumos para apoyar rescates en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/brasil-moviliza-12-toneladas-de-insumos-para-apoyar-rescates-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/whatsapp-image-2026-01-09-at-10-40-19-am-768x433.jpeg-750x430.webp"
+      "title": "Médicos venezolanos en Chile viajarán al país para reforzar atención tras los terremotos",
+      "link": "https://diarioversionfinal.com/mundo/medicos-venezolanos-en-chile-viajaran-al-pais-para-reforzar-atencion-tras-los-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/IMG-20260626-WA0146-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-27T00:07:20.753Z"
+  "lastUpdate": "2026-06-27T04:53:17.740Z"
 };
