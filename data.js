@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "816,86"
+      "usdt": "808,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,19 +21,19 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Un voluntario revela dramáticos detalles de las tareas de rescate en Venezuela: “Todo se hace con las uñas, faltan manos y herramientas”",
-      "link": "https://www.infobae.com/venezuela/2026/06/27/un-voluntario-revela-dramaticos-detalles-de-las-tareas-de-rescate-en-venezuela-todo-se-hace-con-las-unas-faltan-manos-y-herramientas/",
-      "image": "https://www.infobae.com/resizer/v2/QHJDLBWXJ5HVFEAKPMAQS6PXPI.jpg?auth=8240c12cbfae20897da3eb375df0c90c8e7f2b816c8a807cce678b031a8c0722&smart=true&width=350&height=197&quality=85"
+      "title": "Más de 1.600 rescatistas de 12 países ya trabajan en Venezuela y se espera la llegada de equipos de otras naciones",
+      "link": "https://www.infobae.com/venezuela/2026/06/27/mas-de-1600-rescatistas-de-12-paises-ya-trabajan-en-venezuela-y-se-espera-la-llegada-de-equipos-de-otras-naciones/",
+      "image": "https://www.infobae.com/resizer/v2/UJY7YPJZNRFXBHUX3JRI3LCREY.JPG?auth=ace36eed5570897ce2e7a6d74f7a4ea83f9274c477ceb7f7c6f73f4586734916&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Colapsó el puente de Caraballeda tras estremecedora réplica de magnitud 4.9",
-      "link": "https://noticialdia.com/sin-categoria/colapso-el-puente-de-caraballeda-tras-estremecedora-replica-de-magnitud-4-9/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-26-at-10.23.38-PM.webp?x74468"
+      "title": "Topos mexicanos se despliegan en el edificio Petunia en Chacao para localizar posibles sobrevivientes",
+      "link": "https://noticialdia.com/al-dia/topos-mexicanos-se-despliegan-en-el-edificio-petunia-en-chacao-para-localizar-posibles-sobrevivientes/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/ESATRTT.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Rescatistas trabajan contra reloj para localizar personas bajo los escombros",
+      "title": "Las réplicas complican las labores de rescate tras el terremoto en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -44,12 +44,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-06-27-001549-052954.png"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "ESPAÑA ELEVÓ A 133 DESAPARECIDOS EN VENEZUELA TRAS TERREMOTOS: 14 ATRAPADOS BAJO ESCOMBROS",
-      "link": "https://noticierodigital.com/2026/06/espana-elevo-a-133-desaparecidos-en-venezuela-tras-terremotos-14-atrapados-bajo-escombros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/jose-manuel-albares-ministro-de.jpg"
-    },
-    {
       "source": "La Verdad",
       "title": "OMS recuerda que primeras 72 horas tras terremotos son críticas para salvar vidas",
       "link": "https://laverdad.com/oms-recuerda-que-primeras-72-horas-tras-terremotos-son-criticas-para-salvar-vidas/",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Médicos venezolanos en Chile viajarán al país para reforzar atención tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/medicos-venezolanos-en-chile-viajaran-al-pais-para-reforzar-atencion-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/IMG-20260626-WA0146-750x430.jpg"
+      "title": "República Checa envía equipo de rescate a Venezuela tras los terremotos",
+      "link": "https://diarioversionfinal.com/mundo/republica-checa-envia-equipo-de-rescate-a-venezuela-tras-los-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-27-at-10.17.41-AM.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-27T12:08:36.712Z"
+  "lastUpdate": "2026-06-27T14:41:33.985Z"
 };
