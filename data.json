@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "808,86"
+      "usdt": "773,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "Más de 1.600 rescatistas de 12 países ya trabajan en Venezuela y se espera la llegada de equipos de otras naciones",
-      "link": "https://www.infobae.com/venezuela/2026/06/27/mas-de-1600-rescatistas-de-12-paises-ya-trabajan-en-venezuela-y-se-espera-la-llegada-de-equipos-de-otras-naciones/",
-      "image": "https://www.infobae.com/resizer/v2/UJY7YPJZNRFXBHUX3JRI3LCREY.JPG?auth=ace36eed5570897ce2e7a6d74f7a4ea83f9274c477ceb7f7c6f73f4586734916&smart=true&width=350&height=197&quality=85"
+      "title": "Milagro bajo los escombros: rescataron a un bebé recién nacido tras estar atrapado 32 horas en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/27/milagro-bajo-los-escombros-rescataron-a-un-bebe-recien-nacido-tras-estar-atrapado-32-horas-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/QAGRYTO6CZE7TJDRZOLEKHMHCM.jpg?auth=8d97b1866c6515a97e92b2baa9013dc95ca68f64a76ccf8bbd70749db9a0485c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Topos mexicanos se despliegan en el edificio Petunia en Chacao para localizar posibles sobrevivientes",
-      "link": "https://noticialdia.com/al-dia/topos-mexicanos-se-despliegan-en-el-edificio-petunia-en-chacao-para-localizar-posibles-sobrevivientes/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/ESATRTT.webp?x74468"
+      "title": "Rescatistas logran salvar a un joven atrapado tras colapso en La Guaira",
+      "link": "https://noticialdia.com/al-dia/rescatistas-logran-salvar-a-un-joven-atrapado-tras-colapso-en-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/6a3f96e9e9ff71685541b608.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -44,6 +44,12 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-06-27-001549-052954.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "ASDRÚBAL OLIVEROS TRAS TERREMOTOS: «VENEZUELA ENFRENTARÁ RECONSTRUCCIÓN LARGA Y COSTOSA»",
+      "link": "https://noticierodigital.com/2026/06/asdrubal-oliveros-tras-terremotos-venezuela-enfrentara-reconstruccion-larga-y-costosa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/asdrubaloliveros-24enero.jpg"
+    },
+    {
       "source": "La Verdad",
       "title": "OMS recuerda que primeras 72 horas tras terremotos son críticas para salvar vidas",
       "link": "https://laverdad.com/oms-recuerda-que-primeras-72-horas-tras-terremotos-son-criticas-para-salvar-vidas/",
@@ -51,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "República Checa envía equipo de rescate a Venezuela tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/republica-checa-envia-equipo-de-rescate-a-venezuela-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-27-at-10.17.41-AM.jpeg"
+      "title": "Brasil envía más ayuda a Venezuela con dos aeronaves cargadas de insumos médicos",
+      "link": "https://diarioversionfinal.com/mundo/brasil-envia-mas-ayuda-a-venezuela-con-dos-aeronaves-cargadas-de-insumos-medicos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2019/01/Brasil-bandera.jpg"
     }
   ],
-  "lastUpdate": "2026-06-27T14:41:33.985Z"
+  "lastUpdate": "2026-06-27T16:04:38.582Z"
 }
