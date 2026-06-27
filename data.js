@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "807,89"
+      "usdt": "808,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Infobae en Caracas: los venezolanos buscan desesperadamente a los desaparecidos mientras desbordan los centros de acogida",
-      "link": "https://www.infobae.com/venezuela/2026/06/27/infobae-en-caracas-los-venezolanos-buscan-desesperadamente-a-los-desaparecidos-mientras-desbordan-los-centros-de-acogida/",
-      "image": "https://www.infobae.com/resizer/v2/WJ5SVWKY7JBNBDUIQNKZ6IXVXE.jpeg?auth=6e05f24e0e81c16987147155f3e13799b0b2f90a7f43f01fb7a8c9f5cd923141&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos refuerza el operativo militar de apoyo en Venezuela para colaborar en la asistencia tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/06/27/estados-unidos-refuerza-el-operativo-militar-de-apoyo-en-venezuela-para-colaborar-en-la-asistencia-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/S3GD2S73NNEWDKVCCY4YK6BTDA.jpg?auth=ae4a2c62129a7021ab530113b43ad7e651e905e2fce3ce06f9972bd3058b30b7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Estaban abrazados: Encontraron a una familia bajo los escombros del edificio Belo Horizonte",
-      "link": "https://noticialdia.com/nacionales/estaban-abrazados-encontraron-a-una-familia-bajo-los-escombros-del-edificio-belo-horizonte/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-28.webp?x74468"
+      "title": "Rescatistas colombianos logran contacto con un menor atrapado bajo los escombros en La Guaira",
+      "link": "https://noticialdia.com/nacionales/rescatistas-colombianos-logran-contacto-con-un-menor-atrapado-bajo-los-escombros-en-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/61684f0b-55b1-41a6-a79e-54ed4d11d7ea.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Qatar envía ayuda humanitaria y rescatistas a Venezuela tras terremotos",
-      "link": "https://diarioversionfinal.com/mundo/qatar-envia-ayuda-humanitaria-y-rescatistas-a-venezuela-tras-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/photo_2026-06-27_13-44-58-750x430.jpg"
+      "title": "Réplica de magnitud 5.5 se registra en la costa central de Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/replica-de-magnitud-5-5-se-registra-en-la-costa-central-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/sismo-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-27T18:03:33.344Z"
+  "lastUpdate": "2026-06-27T20:07:56.284Z"
 };
