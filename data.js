@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "810,30"
+      "usdt": "807,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La esposa del exjugador de la MLB, Gorkys Hernández, murió tras los terremotos de Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/06/28/la-esposa-del-exjugador-de-la-mlb-gorkys-hernandez-murio-tras-los-terremotos-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/W63FTF2JGVGMBH6LTPIWOK3WUU.png?auth=f4cdec886565cb3cb6be2a87127c0e0c8798e07899a17461b45c2954f65acc8e&smart=true&width=350&height=197&quality=85"
+      "title": "Terremoto en Venezuela: EEUU inició una evaluación del Puerto de La Guaira para facilitar el ingreso de ayuda humanitaria",
+      "link": "https://www.infobae.com/venezuela/2026/06/28/terremoto-en-venezuela-eeuu-inicio-una-evaluacion-del-puerto-de-la-guaira-para-facilitar-el-ingreso-de-ayuda-humanitaria/",
+      "image": "https://www.infobae.com/resizer/v2/ZZ7R32IFUVCWFIZQIMJMW7EYIE.jfif?auth=de8abaa577b1218057ed9dfa70b519e57771470b7593a894255245589c4df8ad&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Dos venezolanos a la cárcel por el asesinato de un chofer en Perú",
-      "link": "https://noticialdia.com/sucesos/dos-venezolanos-a-la-carcel-por-el-asesinato-de-un-chofer-en-peru/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-37.webp?x74468"
+      "title": "Funvisis confirmó la suma de 15 sismos este Domingo 28-jun",
+      "link": "https://noticialdia.com/nacionales/funvisis-confirmo-la-suma-de-15-sismos-este-domingo-28-jun/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-34-1.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Los terremotos ponen a prueba el futuro de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/06/28/venezuela/terremotos-crisis-rescate-sobrevivientes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/venez-terremoto.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Asciende a 1.450 la cifra de muertos por los terremotos en Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OTRA ADULTA MAYOR FUE RESCATADA POR EL SALVADOR EN CARABALLEDA: TENÍA 86 HORAS BAJO LOS ESCOMBROS",
-      "link": "https://noticierodigital.com/2026/06/otra-adulta-mayor-fue-rescatada-por-el-salvador-en-caraballeda-tenia-86-horas-bajo-los-escombros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/rescateElSalvador-627x376.jpg"
+      "title": "MIN. TRANSPORTE DESMONTÓ PUENTE DE LAS MERCEDES PARA LLEVARLO A CARABALLEDA",
+      "link": "https://noticierodigital.com/2026/06/min-transporte-desmonto-puente-de-las-mercedes-para-llevarlo-a-caraballeda/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_bpiv2lbpiv2lbpiv-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "República Dominicana envía cargamento de medicamentos a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/republica-dominicana-envia-cargamento-de-medicamentos-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Screenshot_9-7-750x375-1.jpg"
+      "title": "Unión Europa destina US$ 5,6 millones en fondos de ayuda para Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/union-europa-destina-us-56-millones-en-fondos-de-ayuda-para-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-28-at-1.36.16-PM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-28T17:11:55.622Z"
+  "lastUpdate": "2026-06-28T19:19:53.452Z"
 };
