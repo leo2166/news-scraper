@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "809,89"
+      "usdt": "809,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,19 +21,19 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El papa León XIV expresó su “cercanía” con las víctimas de los terremotos en Venezuela y “gratitud” con los rescatistas",
-      "link": "https://www.infobae.com/venezuela/2026/06/28/el-papa-leon-xiv-expreso-su-cercania-con-las-victimas-de-los-terremotos-en-venezuela-y-gratitud-con-los-rescatistas/",
-      "image": "https://www.infobae.com/resizer/v2/VV753C7NBFHIPFXVSBZNRTYQYQ.JPG?auth=14bd97d79dea75f13b9319200b4cf83a927084ee86117c894f6c859ccdd2b9c9&smart=true&width=350&height=197&quality=85"
+      "title": "República Dominicana realizará una radioteletón para enviar ayuda a las familias afectadas en Venezuela",
+      "link": "https://www.infobae.com/republica-dominicana/2026/06/28/republica-dominicana-realizara-una-radioteleton-para-enviar-ayuda-a-las-familias-afectadas-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/OZ2YAI67X5HQ7MAFS6F6E3MUDI.jpg?auth=6e2e12c1581a90499c2e7c854012e32ec1111ec0407437a6f4be04393d810e47&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Presos dos hombres por agresiones y presunta violencia de género dentro de un autobús en Maracaibo",
-      "link": "https://noticialdia.com/al-dia/presos-dos-hombres-por-agresiones-y-presunta-violencia-de-genero-dentro-de-un-autobus-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-35.webp?x74468"
+      "title": "Dos venezolanos a la cárcel por el asesinato de un chofer en Perú",
+      "link": "https://noticialdia.com/sucesos/dos-venezolanos-a-la-carcel-por-el-asesinato-de-un-chofer-en-peru/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-37.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Terremotos en Venezuela representan pérdidas económicas por US$ 6.700 millones",
+      "title": "680.000 niños necesitan ayuda tras los terremotos en Venezuela, dice Unicef",
       "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "RESCATARON A NIÑO DE 11 AÑOS ENTRE LOS ESCOMBROS EN LA GUAIRA",
-      "link": "https://noticierodigital.com/2026/06/rescataron-a-nino-de-11-anos-entre-los-escombros-en-la-guaira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/IMG-20260627-WA0198-627x376.jpg"
+      "title": "PAPA LEÓN XIV RUEGA POR «DESCANSO ETERNO» DE FALLECIDOS EN TERREMOTOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/papaa-leon-xiv-ruega-por-descanso-eterno-de-fallecidos-en-terremotos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/papa-Leon-XIV-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-28-at-6.02.29-AM-3-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-28T13:46:17.157Z"
+  "lastUpdate": "2026-06-28T15:17:45.378Z"
 };
