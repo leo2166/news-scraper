@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "770,69"
+      "usdt": "808,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La ONU instaló tres hospitales de campaña en La Guaira tras los terremotos que dejaron más de 1.400 muertos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/28/la-onu-instalo-tres-hospitales-de-campana-en-la-guaira-tras-los-terremotos-que-dejaron-mas-de-1400-muertos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/PNIBTEONTJHZBHHK72LN7IVVOQ.JPG?auth=f346be54fb0a9165d401de1ffa86ca9c312054b64a94a5e91df632927a0dea5f&smart=true&width=350&height=197&quality=85"
+      "title": "EN VIVO | Estados Unidos desplegó un buque de combate y helicópteros para aumentar su ayuda a Venezuela en medio de las operaciones de rescate",
+      "link": "https://www.infobae.com/venezuela/2026/06/28/terremotos-en-venezuela-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/JIT4BDAZ2FCAXNX473ES667HBY.jpg?auth=661ef357b4918e6dbd6f0f1475e83ccc5a63c056cd609d1a0742b2f07b010285&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/COsw4O8v-Guerra-EEUU-Iran-27-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-28T05:16:40.589Z"
+  "lastUpdate": "2026-06-28T08:51:44.196Z"
 };
