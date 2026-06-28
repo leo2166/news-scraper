@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "807,00"
+      "usdt": "770,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Terremoto en Venezuela: EEUU inició una evaluación del Puerto de La Guaira para facilitar el ingreso de ayuda humanitaria",
-      "link": "https://www.infobae.com/venezuela/2026/06/28/terremoto-en-venezuela-eeuu-inicio-una-evaluacion-del-puerto-de-la-guaira-para-facilitar-el-ingreso-de-ayuda-humanitaria/",
-      "image": "https://www.infobae.com/resizer/v2/ZZ7R32IFUVCWFIZQIMJMW7EYIE.jfif?auth=de8abaa577b1218057ed9dfa70b519e57771470b7593a894255245589c4df8ad&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado dijo que pronto regresará a Venezuela tras los terremotos: “Es mi deber acompañar a mi pueblo”",
+      "link": "https://www.infobae.com/venezuela/2026/06/28/maria-corina-machado-dijo-que-pronto-regresara-a-venezuela-tras-los-terremotos-es-mi-debe-acompanar-a-mi-pueblo/",
+      "image": "https://www.infobae.com/resizer/v2/6RYYE7MWEBA67FSAFBPHHQEBHM.JPG?auth=a497157d0f7dab14d395bee04062ecc7f2454e004cd6c03c885fb34251f972e5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MIN. TRANSPORTE DESMONTÓ PUENTE DE LAS MERCEDES PARA LLEVARLO A CARABALLEDA",
-      "link": "https://noticierodigital.com/2026/06/min-transporte-desmonto-puente-de-las-mercedes-para-llevarlo-a-caraballeda/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_bpiv2lbpiv2lbpiv-627x376.png"
+      "title": "HABILITAN WEB PARA LOCALIZAR A PACIENTES HOSPITALIZADOS TRAS TERREMOTOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/habilitan-web-para-localizar-a-pacientes-hospitalizados-tras-terremotos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/web_buscapersonas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Unión Europa destina US$ 5,6 millones en fondos de ayuda para Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/union-europa-destina-us-56-millones-en-fondos-de-ayuda-para-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-28-at-1.36.16-PM-750x430.jpeg"
+      "title": "Ataques ucranianos le hacen doblar las piernas a Putin",
+      "link": "https://diarioversionfinal.com/mundo/ataques-ucranianos-le-hacen-doblar-las-piernas-a-putin/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/MVa1bnN8-Ataques-a-Rusia-28-06-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-28T19:19:53.452Z"
+  "lastUpdate": "2026-06-28T21:01:23.745Z"
 };
