@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "808,89"
+      "usdt": "809,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La frustración crece en Venezuela a medida que el número de muertos por el terremoto alcanza los 1.430",
-      "link": "https://www.infobae.com/venezuela/2026/06/28/la-frustracion-crece-en-venezuela-a-medida-que-el-numero-de-muertos-por-el-terremoto-alcanza-los-1430/",
-      "image": "https://www.infobae.com/resizer/v2/PRN5Q57ZP5DQ3P5RMKAS76NQI4.jpg?auth=89f4b2cff4be268afc315a641809806175f7221d955bfdb92235f9a3242f2f12&smart=true&width=350&height=197&quality=85"
+      "title": "El papa León XIV expresó su “cercanía” con las víctimas de los terremotos en Venezuela y “gratitud” con los rescatistas",
+      "link": "https://www.infobae.com/venezuela/2026/06/28/el-papa-leon-xiv-expreso-su-cercania-con-las-victimas-de-los-terremotos-en-venezuela-y-gratitud-con-los-rescatistas/",
+      "image": "https://www.infobae.com/resizer/v2/VV753C7NBFHIPFXVSBZNRTYQYQ.JPG?auth=14bd97d79dea75f13b9319200b4cf83a927084ee86117c894f6c859ccdd2b9c9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Bióloga zuliana murió junto a su novio tras colapso de edificio en San Bernardino",
-      "link": "https://noticialdia.com/al-dia/biologa-zuliana-murio-junto-a-su-novio-tras-colapso-de-edificio-en-san-bernardino/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/muerta.webp?x74468"
+      "title": "Presos dos hombres por agresiones y presunta violencia de género dentro de un autobús en Maracaibo",
+      "link": "https://noticialdia.com/al-dia/presos-dos-hombres-por-agresiones-y-presunta-violencia-de-genero-dentro-de-un-autobus-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-35.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIÓCESIS DE CARÚPANO INICIÓ CAMPAÑA PRO FONDO PARA LA GUAIRA",
-      "link": "https://noticierodigital.com/2026/06/diocesis-de-carupano-inicio-campana-pro-fondo-para-la-guaira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/profondos-627x376.png"
+      "title": "RESCATARON A NIÑO DE 11 AÑOS ENTRE LOS ESCOMBROS EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/06/rescataron-a-nino-de-11-anos-entre-los-escombros-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/IMG-20260627-WA0198-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. bombardea 10 objetivos militares en Irán y aumenta la tensión en el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-bombardea-10-objetivos-militares-en-iran-y-aumenta-la-tension-en-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/COsw4O8v-Guerra-EEUU-Iran-27-06-2026-750x430.jpg"
+      "title": "Se eleva a 7 fallecidos portugueses y 44 los lusodescendientes por los sismos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/portugal-eleva-a-7-los-muertos-portugueses-y-a-44-los-lusodescendientes-por-los-sismos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-28-at-6.02.29-AM-3-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-28T11:07:25.289Z"
+  "lastUpdate": "2026-06-28T13:46:17.157Z"
 };
