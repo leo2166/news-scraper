@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "808,00"
+      "usdt": "808,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "EN VIVO | Estados Unidos desplegó un buque de combate y helicópteros para aumentar su ayuda a Venezuela en medio de las operaciones de rescate",
-      "link": "https://www.infobae.com/venezuela/2026/06/28/terremotos-en-venezuela-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/JIT4BDAZ2FCAXNX473ES667HBY.jpg?auth=661ef357b4918e6dbd6f0f1475e83ccc5a63c056cd609d1a0742b2f07b010285&smart=true&width=350&height=197&quality=85"
+      "title": "La frustración crece en Venezuela a medida que el número de muertos por el terremoto alcanza los 1.430",
+      "link": "https://www.infobae.com/venezuela/2026/06/28/la-frustracion-crece-en-venezuela-a-medida-que-el-numero-de-muertos-por-el-terremoto-alcanza-los-1430/",
+      "image": "https://www.infobae.com/resizer/v2/PRN5Q57ZP5DQ3P5RMKAS76NQI4.jpg?auth=89f4b2cff4be268afc315a641809806175f7221d955bfdb92235f9a3242f2f12&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/COsw4O8v-Guerra-EEUU-Iran-27-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-28T08:51:44.196Z"
+  "lastUpdate": "2026-06-28T11:07:25.289Z"
 };
