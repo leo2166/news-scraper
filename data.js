@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "770,50"
+      "usdt": "807,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado dijo que pronto regresará a Venezuela tras los terremotos: “Es mi deber acompañar a mi pueblo”",
-      "link": "https://www.infobae.com/venezuela/2026/06/28/maria-corina-machado-dijo-que-pronto-regresara-a-venezuela-tras-los-terremotos-es-mi-debe-acompanar-a-mi-pueblo/",
-      "image": "https://www.infobae.com/resizer/v2/6RYYE7MWEBA67FSAFBPHHQEBHM.JPG?auth=a497157d0f7dab14d395bee04062ecc7f2454e004cd6c03c885fb34251f972e5&smart=true&width=350&height=197&quality=85"
+      "title": "El gobierno de Venezuela elevó a 1450 la cifra de muertos por los devastadores terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/06/28/el-gobierno-de-venezuela-elevo-a-1450-la-cifra-de-muertos-por-los-devastadores-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/WMWH3UCHRRAS7KNGKRAFXRBCIM.JPG?auth=50d9354e09da0e97d3e9a42b75603f6e1a14d8ae7305c059077e6eed035e6592&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Asciende a 1.450 la cifra de muertos por los terremotos en Venezuela",
+      "title": "Rescatan en Venezuela a una mujer tras 86 horas bajo los escombros",
       "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "TSJ despliega jueces para la atención de niños y adolescentes afectados por los terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/tsj-despliega-jueces-para-la-atencion-de-ninos-y-adolescentes-afectados-por-los-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsj-3c0046.jpg"
+      "title": "República Dominicana envía un nuevo contingente de rescate a Venezuela tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/republica-dominicana-envia-un-nuevo-contingente-de-rescate-a-venezuela-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/republica-dominicana-todas-las-experiencias-al-alcance-de-la-mano-c15b04.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/MVa1bnN8-Ataques-a-Rusia-28-06-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-28T21:01:23.745Z"
+  "lastUpdate": "2026-06-28T23:01:56.165Z"
 };
