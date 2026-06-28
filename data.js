@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "806,50"
+      "usdt": "770,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El Gobierno de Venezuela elevó a 1.430 la cifra de muertos por los dos terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/06/27/el-gobierno-de-venezuela-elevo-a-1430-la-cifra-de-muertos-por-los-dos-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/FIFXBWCWSNFZDKE42PYHIZEBOM.jpg?auth=ed7eb74ded133f1d62e200f04f6b30ba5e917d69928677c0b82376b8acbbefae&smart=true&width=350&height=197&quality=85"
+      "title": "La ONU instaló tres hospitales de campaña en La Guaira tras los terremotos que dejaron más de 1.400 muertos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/28/la-onu-instalo-tres-hospitales-de-campana-en-la-guaira-tras-los-terremotos-que-dejaron-mas-de-1400-muertos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/PNIBTEONTJHZBHHK72LN7IVVOQ.JPG?auth=f346be54fb0a9165d401de1ffa86ca9c312054b64a94a5e91df632927a0dea5f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "Bióloga zuliana murió junto a su novio tras colapso de edificio en San Bernardino",
-      "link": "https://noticialdia.com/sin-categoria/biologa-zuliana-murio-junto-a-su-novio-tras-colapso-de-edificio-en-san-bernardino/",
-      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/Hombre-fue-asesinado-a-martillazos-por-su-hijastro-tras-una-discusion-en-Barcelona-1.webp"
+      "link": "https://noticialdia.com/al-dia/biologa-zuliana-murio-junto-a-su-novio-tras-colapso-de-edificio-en-san-bernardino/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/muerta.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Representantes de EE.UU. recorren las zonas más afectadas por los terremotos en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/representantes-de-eeuu-recorren-las-zonas-mas-afectadas-por-los-terremotos-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hl1u_vpwgaaakaq-9bf447.jpg"
+      "title": "República Dominicana envió medicamentos a Venezuela y prepara buque con ayuda humanitaria",
+      "link": "https://noticiasvenevision.com/noticias/politica/republica-dominicana-envio-medicamentos-a-venezuela-y-prepara-buque-con-ayuda-humanitaria",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/729349123_2814234345612251_4816654140055137547_n-201509.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Empresa chilena de envíos habilita avión para que diáspora venezolana envíe insumos y medicinas",
-      "link": "https://diarioversionfinal.com/mundo/empresa-chilena-de-envios-habilita-avion-para-que-diaspora-venezolana-envie-insumos-y-medicinas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Envio-internacional-27-06-2026-750x340.jpg"
+      "title": "EE. UU. bombardea 10 objetivos militares en Irán y aumenta la tensión en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-bombardea-10-objetivos-militares-en-iran-y-aumenta-la-tension-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/COsw4O8v-Guerra-EEUU-Iran-27-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-28T00:02:22.682Z"
+  "lastUpdate": "2026-06-28T05:16:40.589Z"
 };
