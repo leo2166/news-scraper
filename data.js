@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "768,00"
+      "usdt": "806,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Van 430 réplicas: Impactante número de temblores que ha registrado Venezuela desde el devastador doble terremoto",
-      "link": "https://noticialdia.com/sucesos/van-430-replicas-impactante-numero-de-temblores-que-ha-registrado-venezuela-desde-el-devastador-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/foto-rt.webp?x74468"
+      "title": "Bióloga zuliana murió junto a su novio tras colapso de edificio en San Bernardino",
+      "link": "https://noticialdia.com/sin-categoria/biologa-zuliana-murio-junto-a-su-novio-tras-colapso-de-edificio-en-san-bernardino/",
+      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/Hombre-fue-asesinado-a-martillazos-por-su-hijastro-tras-una-discusion-en-Barcelona-1.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Los muertos por los terremotos en Venezuela ascienden a 1.430",
+      "title": "Terremotos en Venezuela representan pérdidas económicas por US$ 6.700 millones",
       "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio de Energía Eléctrica informa activación de la subestación Guaira 30 para reactivar el servicio en Macuto",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-energia-electrica-informa-activacion-de-la-subestacion-guaira-30-para-reactivar-el-servicio-en-macuto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-06-27-001549-052954.png"
+      "title": "Representantes de EE.UU. recorren las zonas más afectadas por los terremotos en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/representantes-de-eeuu-recorren-las-zonas-mas-afectadas-por-los-terremotos-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hl1u_vpwgaaakaq-9bf447.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Envio-internacional-27-06-2026-750x340.jpg"
     }
   ],
-  "lastUpdate": "2026-06-27T22:02:12.850Z"
+  "lastUpdate": "2026-06-28T00:02:22.682Z"
 };
