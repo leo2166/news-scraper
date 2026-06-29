@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "807,89"
+      "usdt": "772,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El gobierno de Venezuela elevó a 1450 la cifra de muertos por los devastadores terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/06/28/el-gobierno-de-venezuela-elevo-a-1450-la-cifra-de-muertos-por-los-devastadores-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/WMWH3UCHRRAS7KNGKRAFXRBCIM.JPG?auth=50d9354e09da0e97d3e9a42b75603f6e1a14d8ae7305c059077e6eed035e6592&smart=true&width=350&height=197&quality=85"
+      "title": "El encargado de negocios de Estados Unidos en Venezuela declaró que el “escenario es devastador” tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/06/29/el-encargado-de-negocios-de-estados-unidos-en-venezuela-declaro-que-el-escenario-es-devastador-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/O2QHDCOWWZEWTKHAA2UF3NTGAY.jpg?auth=040b4242662eeb782dcf8fe9c7617d84d1993786b69f723f7ffba277b58c9f20&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "República Dominicana envía un nuevo contingente de rescate a Venezuela tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/republica-dominicana-envia-un-nuevo-contingente-de-rescate-a-venezuela-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/republica-dominicana-todas-las-experiencias-al-alcance-de-la-mano-c15b04.jpg"
+      "title": "Presidenta encargada Delcy Rodríguez extiende suspensión de clases  por una semana",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-extiende-suspension-de-clases-por-una-semana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6618dcb8-9dfc-49b5-8d19-025317fec052-078eb5.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/MVa1bnN8-Ataques-a-Rusia-28-06-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-06-28T23:01:56.165Z"
+  "lastUpdate": "2026-06-29T03:57:06.502Z"
 };
