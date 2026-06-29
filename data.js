@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "792,12"
+      "usdt": "783,43"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Dos terremotos, 39 segundos y más de 1.700 muertos: un geólogo argentino explica qué pasó en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/29/dos-terremotos-39-segundos-y-mas-de-1700-muertos-un-geologo-argentino-explica-que-paso-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/GUDBEELZM5FMJNQYIWNIAGSMEQ.jpg?auth=47e628551036ebef75448926d800af037dec95fb7613d10f26df6cf01e0ab09e&smart=true&width=350&height=197&quality=85"
+      "title": "Terremoto en Venezuela: plataformas en Colombia permiten transferencias de dinero sin cobro de comisión, así funciona",
+      "link": "https://www.infobae.com/venezuela/2026/06/29/terremoto-en-venezuela-plataformas-en-colombia-permiten-transferencias-de-dinero-sin-cobro-de-comision-asi-funciona/",
+      "image": "https://www.infobae.com/resizer/v2/ZRYJZHNPGFFTVLFFACPXIM6JOY.jpg?auth=9011ee5884299bcf82dc56f6a47b9394222ffbbe0116fe0dba0136523f9dcdff&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "IATA PROPUSO REABRIR MAIQUETÍA CON INFRAESTRUCTURA TEMPORAL TRAS LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/06/iata-propuso-reabrir-maiquetia-con-infraestructura-temporal-tras-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/aeropuerto-internacional-de-Maiquetia-Venezuela-terremotos-627x376.jpg"
+      "title": "INAC LIMITÓ LOS VUELOS INTERNACIONALES EN MAIQUETÍA Y EXIGIRÁ AUTORIZACIÓN PREVIA",
+      "link": "https://noticierodigital.com/2026/06/inac-limito-los-vuelos-internacionales-en-maiquetia-y-exigira-autorizacion-previa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/aeropuerto-de-maiquetia-ayuda-humanitaria-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/d8fda0d2a8262feff6a6c6ce8dc9b2b66eb470bdw-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-06-29T21:39:07.771Z"
+  "lastUpdate": "2026-06-29T22:57:49.821Z"
 };
