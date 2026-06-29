@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "768,00"
+      "usdt": "799,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,19 +21,19 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Terremoto ahonda la fractura entre civiles y militares en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/29/terremoto-ahonda-la-fractura-entre-civiles-y-militares-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/O2QHDCOWWZEWTKHAA2UF3NTGAY.jpg?auth=040b4242662eeb782dcf8fe9c7617d84d1993786b69f723f7ffba277b58c9f20&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos intensifica el despliegue de ayuda militar y humanitaria en Venezuela tras los terremotos",
+      "link": "https://www.infobae.com/estados-unidos/2026/06/29/estados-unidos-intensifica-el-despliegue-de-ayuda-militar-y-humanitaria-en-venezuela-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/LEDVO45VZNGHFPCM45TIS732JI.JPG?auth=b085809c5b4be3be5deb92ec89a029cda51091cfb78a7cdbbf004685335e52e8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Presos 5 delincuentes por saquear casas en zonas de alto riesgo en La Guaira",
-      "link": "https://noticialdia.com/al-dia/presos-5-delincuentes-por-saquear-casas-en-zonas-de-alto-riesgo-en-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/guaira-saqueadores.webp?x74468"
+      "title": "Cpbez activa 21 centros de acopio en el Zulia para asistir a víctimas del sismo",
+      "link": "https://noticialdia.com/sucesos/cpbez-activa-21-centros-de-acopio-en-el-zulia-para-asistir-a-victimas-del-sismo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-39.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Rescatan en Venezuela a una mujer tras 86 horas bajo los escombros",
+      "title": "Un sismo de magnitud 4,6 reaviva el temor en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/06/29/venezuela/live-news/terremotos-caracas-guaira-victimas-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/lucas-trejo-familia-terremoto-venezuela.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "¿QUÉ DICEN EXPERTOS SOBRE CUÁNTAS HORAS PUEDE SOBREVIVIR UNA PERSONA BAJO LOS ESCOMBROS?",
-      "link": "https://noticierodigital.com/2026/06/que-dicen-expertos-sobre-cuantas-horas-puede-sobrevivir-una-persona-bajo-los-escombros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_nl3l4rnl3l4rnl3l-627x376.png"
+      "title": "SUPERMERCADOS INICIARON REABASTECIMIENTO DE AGUA POTABLE: ANSA NEGÓ DESABASTECIMIENTO",
+      "link": "https://noticierodigital.com/2026/06/supermercados-iniciaron-reabastecimiento-de-agua-potable-ansa-nego-desabastecimiento/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/1775565348724-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Países Bajos envía buque con ayuda humanitaria a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/paises-bajos-envia-buque-con-ayuda-humanitaria-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/HNLMS-Groningen-750x400.jpg"
+      "title": "México enviará más ayuda a Venezuela tras la solicitud de Caracas",
+      "link": "https://diarioversionfinal.com/mundo/mexico-enviara-mas-ayuda-a-venezuela-tras-la-solicitud-de-caracas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/9A4WJmrA-88de7e5f2f06c5445dba0c91a11ae9c4bdf1a60ew-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-06-29T14:03:21.612Z"
+  "lastUpdate": "2026-06-29T17:36:43.429Z"
 };
