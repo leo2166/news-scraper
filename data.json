@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "810,86"
+      "usdt": "768,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,20 +21,20 @@
     },
     {
       "source": "Infobae",
-      "title": "EN VIVO | A cinco días de los devastadores terremotos, los rescatistas trabajan a contrarreloj para hallar sobrevivientes entre los escombros en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/06/29/en-vivo-terremototos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/WNIAW3O2INBTPHHFKEYLF6BVDU.JPG?auth=436ae2872918610bc5945a533e3a46b88f373b6068b5bc23f175b2b28c43f02c&smart=true&width=350&height=197&quality=85"
+      "title": "Terremoto ahonda la fractura entre civiles y militares en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/06/29/terremoto-ahonda-la-fractura-entre-civiles-y-militares-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/O2QHDCOWWZEWTKHAA2UF3NTGAY.jpg?auth=040b4242662eeb782dcf8fe9c7617d84d1993786b69f723f7ffba277b58c9f20&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Funvisis confirmó la suma de 15 sismos este Domingo 28-jun",
-      "link": "https://noticialdia.com/nacionales/funvisis-confirmo-la-suma-de-15-sismos-este-domingo-28-jun/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/Captura-34-1.webp?x74468"
+      "title": "Presos 5 delincuentes por saquear casas en zonas de alto riesgo en La Guaira",
+      "link": "https://noticialdia.com/al-dia/presos-5-delincuentes-por-saquear-casas-en-zonas-de-alto-riesgo-en-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/guaira-saqueadores.webp?x74468"
     },
     {
       "source": "CNN en Español",
       "title": "Rescatan en Venezuela a una mujer tras 86 horas bajo los escombros",
-      "link": "https://cnnespanol.cnn.com/2026/06/26/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-guaira-caracas-victimas-orix",
+      "link": "https://cnnespanol.cnn.com/2026/06/29/venezuela/live-news/terremotos-caracas-guaira-victimas-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/lucas-trejo-familia-terremoto-venezuela.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "HABILITAN WEB PARA LOCALIZAR A PACIENTES HOSPITALIZADOS TRAS TERREMOTOS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/06/habilitan-web-para-localizar-a-pacientes-hospitalizados-tras-terremotos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/web_buscapersonas-627x376.jpg"
+      "title": "¿QUÉ DICEN EXPERTOS SOBRE CUÁNTAS HORAS PUEDE SOBREVIVIR UNA PERSONA BAJO LOS ESCOMBROS?",
+      "link": "https://noticierodigital.com/2026/06/que-dicen-expertos-sobre-cuantas-horas-puede-sobrevivir-una-persona-bajo-los-escombros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_nl3l4rnl3l4rnl3l-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ataques ucranianos le hacen doblar las piernas a Putin",
-      "link": "https://diarioversionfinal.com/mundo/ataques-ucranianos-le-hacen-doblar-las-piernas-a-putin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/MVa1bnN8-Ataques-a-Rusia-28-06-2026-750x430.jpeg"
+      "title": "Países Bajos envía buque con ayuda humanitaria a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/paises-bajos-envia-buque-con-ayuda-humanitaria-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/HNLMS-Groningen-750x400.jpg"
     }
   ],
-  "lastUpdate": "2026-06-29T09:01:40.066Z"
+  "lastUpdate": "2026-06-29T14:03:21.612Z"
 }
