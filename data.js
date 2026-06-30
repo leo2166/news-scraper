@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "737,90"
+      "usdt": "772,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Terremoto en Venezuela: plataformas en Colombia permiten transferencias de dinero sin cobro de comisión, así funciona",
-      "link": "https://www.infobae.com/venezuela/2026/06/29/terremoto-en-venezuela-plataformas-en-colombia-permiten-transferencias-de-dinero-sin-cobro-de-comision-asi-funciona/",
-      "image": "https://www.infobae.com/resizer/v2/ZRYJZHNPGFFTVLFFACPXIM6JOY.jpg?auth=9011ee5884299bcf82dc56f6a47b9394222ffbbe0116fe0dba0136523f9dcdff&smart=true&width=350&height=197&quality=85"
+      "title": "Más de 100 venezolanos que fueron deportados de Estados Unidos horas antes de los terremotos continúan desaparecidos",
+      "link": "https://www.infobae.com/venezuela/2026/06/30/mas-de-100-venezolanos-que-fueron-deportados-de-estados-unidos-horas-antes-de-los-terremotos-continuan-desaparecidos/",
+      "image": "https://www.infobae.com/resizer/v2/O3PTGL6ATVBAHN2RCWQV4OXNBE.JPG?auth=83b01fe3c67bcbdb0fca0c9d35652e31cf222b8bf3bd744cb968bce3585a68dc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Rescatan a una niña en La Guaira tras permanecer casi 120 horas bajo los escombros por el doble terremoto",
-      "link": "https://noticialdia.com/al-dia/rescatan-a-una-nina-en-la-guaira-tras-permanecer-casi-120-horas-bajo-los-escombros-por-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-29-at-7.21.14-PM-1-300x253.webp?x74468"
+      "title": "Rescatistas de El Salvador no se rinden \"seguiremos buscando mientras exista la más mínima posibilidad\": Presidente Nayib Bukele",
+      "link": "https://noticialdia.com/sin-categoria/rescatistas-de-el-salvador-no-se-rinden-seguiremos-buscando-mientras-exista-la-mas-minima-posibilidad-presidente-nayib-bukele/",
+      "image": "https://camnd-ma.com/wp-content/firewall/uploads/2026/06/Hombre-fue-asesinado-a-martillazos-por-su-hijastro-tras-una-discusion-en-Barcelona-1.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Asciende a 1.719 el número de muertos por los terremotos en Venezuela",
+      "title": "Casi 60.000 edificaciones podrían estar averiadas en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/06/29/venezuela/live-news/terremotos-caracas-guaira-victimas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lucas-trejo-familia-terremoto-venezuela.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282638517-20260625220615611.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez extiende suspensión de clases  por una semana",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-extiende-suspension-de-clases-por-una-semana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6618dcb8-9dfc-49b5-8d19-025317fec052-078eb5.jpg"
+      "title": "Academias Nacionales ofrecieron apoyo científico para la reconstrucción de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/academias-nacionales-ofrecieron-apoyo-cientifico-para-la-reconstruccion-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/palacio-de-las-academias-caracas-3c533c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ANABEL PEREIRA ASUMIRÁ LA VICEPRESIDENCIA SECTORIAL DE ADMINISTRACIÓN Y GOBIERNO DIGITAL",
-      "link": "https://noticierodigital.com/2026/06/anabel-pereira-asumira-la-vicepresidencia-sectorial-de-administracion-y-gobierno-digital/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/anabel-pereira-627x376.jpg"
+      "title": "LEOCENIS GARCÍA PROPUSO INDEMNIZACIONES PARA LOS DAMNIFICADOS POR LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/06/leocenis-garcia-propuso-indemnizaciones-para-los-damnificados-por-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/leocenis-garcia-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sube a 60 el número de portugueses muertos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/sube-a-60-el-numero-de-portugueses-muertos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/d8fda0d2a8262feff6a6c6ce8dc9b2b66eb470bdw-750x375-1.jpg"
+      "title": "Keiko Fujimori es la virtual presidenta de Perú tras conteo del 100 % de actas",
+      "link": "https://diarioversionfinal.com/mundo/keiko-fujimori-es-la-virtual-presidenta-de-peru-tras-conteo-del-100-de-actas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Keiko-Fujimori-29-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-06-30T00:12:09.883Z"
+  "lastUpdate": "2026-06-30T05:03:22.105Z"
 };
