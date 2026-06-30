@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "623,02",
-      "eur": "710,10",
-      "fechaValor": "Martes, 30 Junio 2026"
+      "usd": "633,36",
+      "eur": "723,27",
+      "fechaValor": "Miércoles, 01 Julio 2026"
     },
     "binance": {
-      "usdt": "772,25"
+      "usdt": "768,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan Bono de Responsabilidad Profesional de junio a trabajadores (+Monto)",
-      "link": "https://www.bancaynegocios.com/pagan-bono-de-responsabilidad-profesional-de-junio-a-trabajadores-monto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1781729320546.jpeg"
+      "title": "ANSA y Cavidea activan plan de contingencia para garantizar abastecimiento de productos tras terremotos",
+      "link": "https://www.bancaynegocios.com/ansa-y-cavidea-activan-plan-de-contingencia-para-garantizar-abastecimiento-de-productos-tras-terremotos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/compras.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Denuncian que decreto de emergencia de Delcy Rodríguez vulnera garantías ciudadanas",
-      "link": "https://www.infobae.com/venezuela/2026/06/30/denuncian-que-decreto-de-emergencia-de-delcy-rodriguez-vulnera-garantias-ciudadanas/",
-      "image": "https://www.infobae.com/resizer/v2/BIWUG4TREFDHVOIFLDAX6EEIUU.JPG?auth=21595758fbb67e318d585f462f3dac78011b4a7de639ac031215fb37f1007f8f&smart=true&width=350&height=197&quality=85"
+      "title": "Terremotos en Venezuela: el Gobierno advirtió a militares que el robo de ayuda humanitaria será castigado con cárcel",
+      "link": "https://www.infobae.com/venezuela/2026/06/30/terremotos-en-venezuela-el-gobierno-advirtio-a-militares-que-el-robo-de-ayuda-humanitaria-sera-castigado-con-carcel/",
+      "image": "https://www.infobae.com/resizer/v2/QMBOJVXP2JAIZDR7GAYIGBTNEA.jpg?auth=57777f6ad11c39ec436fe856cbd3876df0119926c9eec6c5d02818720fb76d1c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cifra actualizada tras el doble terremoto en Venezuela: Asciende a mil 943 fallecidos y 10 mil 571 heridos",
-      "link": "https://noticialdia.com/sucesos/cifra-actualizada-tras-el-doble-terremoto-en-venezuela-asciende-a-mil-943-fallecidos-y-10-mil-571-heridos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/58006a52a603b340396ad5f6c39d0101bb773fb7-860x574.jpg.webp?x74468"
+      "title": "Zoe Antonella y Kloe Isabella, 2 milagros: Ahora reconstruyen su vida en San Francisco",
+      "link": "https://noticialdia.com/?p=633935",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-30-at-5.29.55-PM-convertido-a-1024x780-1.webp?x74468"
     },
     {
       "source": "CNN en Español",
       "title": "La Corte Suprema rechaza el intento de Trump de revocar la ciudadanía por nacimiento",
       "link": "https://cnnespanol.cnn.com/2026/06/30/eeuu/live-news/ciudadania-nacimiento-decision-corte-suprema-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-30-114747.png?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283395572.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CÁMARA DE FARMACIA GARANTIZA ABASTECIMIENTO DE MEDICAMENTOS TRAS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/06/camara-de-farmacia-garantiza-abastecimiento-de-medicamentos-tras-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/08/farmacia-titolopez-22ago2022.jpg"
+      "title": "ECUADOR ANUNCIÓ EL ENVÍO DE 14 TONELADAS DE AYUDA HUMANITARIA A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/06/ecuador-anuncio-el-envio-de-14-toneladas-de-ayuda-humanitaria-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-6-2-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Argentina envía nuevo avión Hércules con ayuda humanitaria a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/argentina-envia-nuevo-avion-hercules-con-ayuda-humanitaria-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/avion-c-130-hercules-la-fuerza-aerea-argentina-750x430.webp"
+      "title": "Ecuador envía 14 toneladas de ayuda humanitaria a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/ecuador-envia-14-toneladas-de-ayuda-humanitaria-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/rPqwj09F-Captura.png"
     }
   ],
-  "lastUpdate": "2026-06-30T19:58:11.522Z"
+  "lastUpdate": "2026-06-30T21:43:08.594Z"
 };
