@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 30 Junio 2026"
     },
     "binance": {
-      "usdt": "778,89"
+      "usdt": "777,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan Bono de Corresponsabilidad y Formación de junio a trabajadores de nómina especial: equivale a US$139,54",
-      "link": "https://www.bancaynegocios.com/pagan-bono-de-corresponsabilidad-y-formacion-de-junio-a-trabajadores-de-nomina-especial-equivale-a-us139punto54/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Pagan la segunda parte del \"Ingreso Integral de los Trabajadores\" de junio: Incrementó más de 14% en bolívares",
+      "link": "https://www.bancaynegocios.com/pagan-la-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-junio-incremento-mas-de-14-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Colapsó un refugio que albergaba a 140 personas en Venezuela y la ONU alertó sobre el crecimiento de la crisis humanitaria",
-      "link": "https://www.infobae.com/venezuela/2026/06/30/colapso-un-refugio-que-albergaba-a-140-personas-en-venezuela-y-la-onu-alerto-sobre-el-crecimiento-de-la-crisis-humanitaria/",
-      "image": "https://www.infobae.com/resizer/v2/VH72VA76AJFI3M7POJMSAJKDCA.webp?auth=e2622f87cbc32e581deed6de272990e81cc57a577ac9fc0456f4b3519999832d&smart=true&width=350&height=197&quality=85"
+      "title": "“Topo” chileno denuncia que militares venezolanos obstruyen labor de rescatistas por temor a espionaje",
+      "link": "https://www.infobae.com/venezuela/2026/06/30/topo-chileno-denuncia-que-militares-venezolanos-obstruyen-labor-de-rescatistas-por-temor-a-espionaje/",
+      "image": "https://www.infobae.com/resizer/v2/BQYDOB2RIFEKHJBEVDMVVNQX4M.jfif?auth=7ed33aa6f699cd4771e1c1a82af2940fc43b2f64e5a9749de17e7fe46e456d15&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "URGENTE: Claman por maquinaria pesada para rescatar a una madre y sus dos niños atrapados en Playa Grande tras el doble terremoto",
-      "link": "https://noticialdia.com/al-dia/urgente-claman-por-maquinaria-pesada-para-rescatar-a-una-madre-y-sus-dos-ninos-atrapados-en-playa-grande-tras-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/WhatsApp-Image-2026-06-30-at-10.39.27-AM.webp?x74468"
+      "title": "Se confirma el fallecimiento de Thaina Luna Fernández, ex-presidenta de la Federación Venezolana de Surf",
+      "link": "https://noticialdia.com/al-dia/se-confirma-el-fallecimiento-de-thaina-luna-fernandez-ex-presidenta-de-la-federacion-venezolana-de-surf/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/06/d45e39d5-6188-4554-818f-13e25d567777.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FELICIANO DE SANTIS EXPLICA QUÉ DEBE HACERSE EN CASO DE UN TERREMOTO",
-      "link": "https://noticierodigital.com/2026/06/feliciano-de-santis-explica-que-debe-hacerse-en-caso-de-un-terremoto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Gemini_Generated_Image_vg2fdzvg2fdzvg2f-627x376.png"
+      "title": "RESCATAN A UN NIÑO DE 3 AÑOS DE LOS ESCOMBROS EN LOS CORALES",
+      "link": "https://noticierodigital.com/2026/06/rescatan-a-un-nino-de-3-anos-de-los-escombros-en-los-corales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-7-1-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Brasil envía un quinto vuelo con ayuda humanitaria, médicos y tecnología de rescate a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/brasil-envia-un-quinto-vuelo-con-ayuda-humanitaria-medicos-y-tecnologia-de-rescate-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/01187eab82dae3fa00151efde3dad5a9920e74caw-750x375-1.jpg"
+      "title": "Mercosur coordina envío de ayuda humanitaria a Venezuela tras los devastadores terremotos",
+      "link": "https://diarioversionfinal.com/mundo/mercosur-coordina-envio-de-ayuda-humanitaria-a-venezuela-tras-los-devastadores-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/04/MERCOSUR.jpg"
     }
   ],
-  "lastUpdate": "2026-06-30T15:27:30.024Z"
+  "lastUpdate": "2026-06-30T17:53:58.039Z"
 };
