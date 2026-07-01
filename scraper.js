@@ -7,86 +7,99 @@ const Tesseract = require('tesseract.js');
 const OUTPUT_FILE = path.join(__dirname, 'data.json');
 
 // --- Helper: Scrape BCV Direct (Dólar y Euro) ---
-async function scrapeBCV(browser) {
-    console.log('💵 Scrapeando BCV directamente...');
+async function scrapeBCV(browser, maxAttempts = 3) {
     const result = { usd: null, eur: null, fechaValor: null };
-    let page = null;
 
-    try {
-        page = await browser.newPage();
-        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+    for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+        console.log(`💵 Scrapeando BCV directamente (Intento ${attempt}/${maxAttempts})...`);
+        let page = null;
+        try {
+            page = await browser.newPage();
 
-        await page.goto('https://www.bcv.org.ve/', { waitUntil: 'networkidle2', timeout: 60000 });
+            // Optimización de velocidad: bloquear recursos innecesarios
+            await page.setRequestInterception(true);
+            page.on('request', (req) => {
+                const resourceType = req.resourceType();
+                if (['image', 'stylesheet', 'font', 'media'].includes(resourceType)) {
+                    req.abort();
+                } else {
+                    req.continue();
+                }
+            });
 
-        // Esperar a que carguen los elementos de tasas
-        await page.waitForSelector('#dolar, #euro, .recuadroActual', { timeout: 15000 }).catch(() => null);
+            await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-        const rates = await page.evaluate(() => {
-            // Estrategia 1: Buscar por IDs específicos
-            const dolarEl = document.querySelector('#dolar strong, #dolar .centrado');
-            const euroEl = document.querySelector('#euro strong, #euro .centrado');
+            // Navegar usando domcontentloaded ya que los datos están en el HTML inicial
+            await page.goto('https://www.bcv.org.ve/', { waitUntil: 'domcontentloaded', timeout: 30000 });
 
-            // Capturar la Fecha Valor oficial del BCV
-            // El BCV publica tasas del día hábil siguiente después de las ~5 PM
-            const fechaValorEl = document.querySelector('.pull-right.dinpro.center span.date-display-single');
-            // Selector alternativo por si cambia la clase
-            const fechaValorAlt = !fechaValorEl
-                ? document.querySelector('span.date-display-single')
-                : null;
-            const fechaValor = (fechaValorEl || fechaValorAlt)
-                ? (fechaValorEl || fechaValorAlt).innerText.trim()
-                : null;
+            // Esperar a que carguen los elementos de tasas
+            await page.waitForSelector('#dolar, #euro', { timeout: 15000 }).catch(() => null);
 
-            let dolar = null, euro = null;
+            const rates = await page.evaluate(() => {
+                // Estrategia 1: Buscar por IDs específicos
+                const dolarEl = document.querySelector('#dolar strong, #dolar .centrado');
+                const euroEl = document.querySelector('#euro strong, #euro .centrado');
 
-            if (dolarEl) {
-                dolar = dolarEl.innerText.trim();
+                // Capturar la Fecha Valor oficial del BCV
+                const fechaValorEl = document.querySelector('.pull-right.dinpro.center span.date-display-single');
+                const fechaValorAlt = !fechaValorEl
+                    ? document.querySelector('span.date-display-single')
+                    : null;
+                const fechaValor = (fechaValorEl || fechaValorAlt)
+                    ? (fechaValorEl || fechaValorAlt).innerText.trim()
+                    : null;
+
+                let dolar = null, euro = null;
+
+                if (dolarEl) {
+                    dolar = dolarEl.innerText.trim();
+                }
+                if (euroEl) {
+                    euro = euroEl.innerText.trim();
+                }
+
+                // Estrategia 2: Buscar en toda la página por patrones si falló la anterior
+                if (!dolar || !euro) {
+                    const allText = document.body.innerText;
+                    const dolarMatch = allText.match(/D[oó]lar[^0-9]*([0-9]+[,\.][0-9]+)/i);
+                    const euroMatch = allText.match(/Euro[^0-9]*([0-9]+[,\.][0-9]+)/i);
+
+                    if (dolarMatch && !dolar) dolar = dolarMatch[1];
+                    if (euroMatch && !euro) euro = euroMatch[1];
+                }
+
+                return { dolar, euro, fechaValor };
+            });
+
+            await page.close();
+
+            if (!rates.dolar || !rates.euro) {
+                throw new Error("Tasas de cambio no encontradas en el contenido de la página.");
             }
-            if (euroEl) {
-                euro = euroEl.innerText.trim();
-            }
 
-            // Estrategia 2: Buscar en toda la página por patrones
-            if (!dolar || !euro) {
-                const allText = document.body.innerText;
-
-                // Buscar patrón "Dólar ... XX,XXXX" o similar
-                const dolarMatch = allText.match(/D[oó]lar[^0-9]*([0-9]+[,\.][0-9]+)/i);
-                const euroMatch = allText.match(/Euro[^0-9]*([0-9]+[,\.][0-9]+)/i);
-
-                if (dolarMatch && !dolar) dolar = dolarMatch[1];
-                if (euroMatch && !euro) euro = euroMatch[1];
-            }
-
-            return { dolar, euro, fechaValor };
-        });
-
-        await page.close();
-
-        if (rates.dolar) {
             result.usd = rates.dolar.replace('.', ','); // Normalizar formato
-            console.log(`✅ BCV Dólar: ${result.usd}`);
-        } else {
-            console.log('⚠️ BCV Dólar no encontrado');
-        }
-
-        if (rates.euro) {
             result.eur = rates.euro.replace('.', ',');
-            console.log(`✅ BCV Euro: ${result.eur}`);
-        } else {
-            console.log('⚠️ BCV Euro no encontrado');
-        }
-
-        if (rates.fechaValor) {
             result.fechaValor = rates.fechaValor;
-            console.log(`📅 BCV Fecha Valor: ${result.fechaValor}`);
-        } else {
-            console.log('⚠️ BCV Fecha Valor no encontrada');
-        }
 
-    } catch (error) {
-        console.error('❌ BCV Error:', error.message);
-        if (page) await page.close().catch(() => { });
+            console.log(`✅ BCV Dólar: ${result.usd}`);
+            console.log(`✅ BCV Euro: ${result.eur}`);
+            if (result.fechaValor) {
+                console.log(`📅 BCV Fecha Valor: ${result.fechaValor}`);
+            }
+
+            return result;
+
+        } catch (error) {
+            console.error(`⚠️ BCV Error (Intento ${attempt}):`, error.message);
+            if (page) await page.close().catch(() => { });
+
+            if (attempt === maxAttempts) {
+                console.log(`❌ BCV: Omitido tras ${maxAttempts} intentos fallidos.`);
+            } else {
+                // Espera de 3 segundos antes del reintento
+                await new Promise(r => setTimeout(r, 3000));
+            }
+        }
     }
 
     return result;
