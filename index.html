@@ -51,20 +51,31 @@
         </div>
     </template>
 
-    <script src="data.js"></script>
     <script>
         function loadData() {
-            // Priority: Local Variable (from data.js) > Fetch (for server)
-            if (window.DASHBOARD_DATA) {
-                render(window.DASHBOARD_DATA);
+            if (window.location.protocol === 'file:') {
+                // Carga dinámica local para file:// evitando caché
+                const script = document.createElement('script');
+                script.src = 'data.js?t=' + Date.now();
+                script.onload = () => {
+                    if (window.DASHBOARD_DATA) {
+                        render(window.DASHBOARD_DATA);
+                    }
+                };
+                script.onerror = () => {
+                    document.getElementById('dashboard-container').innerHTML =
+                        '<div class="loading" style="color: #ef4444;">Error al cargar datos locales (data.js no encontrado).</div>';
+                };
+                document.body.appendChild(script);
             } else {
-                fetch('data.json')
+                // Petición web con cache-busting para servidores (GitHub Pages, Vercel, etc.)
+                fetch('data.json?t=' + Date.now())
                     .then(res => res.json())
                     .then(data => render(data))
                     .catch(e => {
                         console.error(e);
                         document.getElementById('dashboard-container').innerHTML =
-                            '<div class="loading" style="color: #ef4444;">Error de carga.<br>Ejecuta "node scraper.js"</div>';
+                            '<div class="loading" style="color: #ef4444;">Error de carga.<br>No se pudieron obtener los datos.</div>';
                     });
             }
         }
