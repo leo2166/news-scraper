@@ -1,12 +1,8 @@
 window.DASHBOARD_DATA = {
   "rates": {
-    "bcv": {
-      "usd": "633,36",
-      "eur": "723,27",
-      "fechaValor": "Miércoles, 01 Julio 2026"
-    },
+    "bcv": {},
     "binance": {
-      "usdt": "766,25"
+      "usdt": "753,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +17,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El balance oficial del doble terremoto en Venezuela se acerca a 2.000 muertos: buscan a 16.000 personas en La Guaira",
-      "link": "https://www.infobae.com/venezuela/2026/06/30/el-balance-oficial-del-doble-terremoto-en-venezuela-se-acerca-a-2000-muertos-buscan-a-16000-personas-en-la-guaira/",
-      "image": "https://www.infobae.com/resizer/v2/DR33EURVGZHBHH33TWFGXWWJ2Y.JPG?auth=455e28a8682689c97904c1d405a82b6043043535a1dda8aa50cec5453025c633&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela espera recibir más ayuda humanitaria tras la llegada de 1.200 toneladas",
+      "link": "https://www.infobae.com/venezuela/2026/07/01/venezuela-espera-recibir-mas-ayuda-humanitaria-tras-la-llegada-de-1200-toneladas/",
+      "image": "https://www.infobae.com/resizer/v2/BLROIOARCFAITNGTOFRXGANF2Y.jpg?auth=ea070f19b654a3b148ecc8523f5d06b3433c72882bf313e64cc27b6d815a23a5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,21 +29,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La cifra de muertos por los terremotos en Venezuela asciende a 1.943",
-      "link": "https://cnnespanol.cnn.com/2026/06/29/venezuela/live-news/terremotos-caracas-guaira-victimas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283395572.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "México va ganando 2-0 a Ecuador y se acerca a octavos de final",
+      "link": "https://cnnespanol.cnn.com/2026/06/30/deportes/live-news/resultado-goles-mexico-ecuador-mundial-2026-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-06-30-at-3-22-36-pm.jpeg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministro de Defensa de Brasil visita Venezuela para ampliar la ayuda tras los terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministro-de-defensa-de-brasil-visita-venezuela-para-ampliar-la-ayuda-tras-los-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ministro-gonzalezlopez-articula-esfuerzos-humanitarios-josemucio.jpg-bc6a63.png"
+      "title": "Gobierno venezolano agradece asistencia de Qatar ante emergencia sísmica",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-venezolano-agradece-asistencia-de-qatar-ante-emergencia-sismica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gobiernovenezolano-agradece-asistencia-qatar-contingencia-sismica.jpg-bc84d5.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIGITEL Y MOVILNET TAMBIÉN ACTIVARON MENSAJERÍA SATELITAL DE STARLINK EN LA GUAIRA",
-      "link": "https://noticierodigital.com/2026/06/digitel-y-movilnet-tambien-activaron-mensajeria-satelital-de-starlink-en-la-guaira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/terremotos-venezuela-la-guaira-tragedia-03-627x376.jpg"
+      "title": "CARLOS JULIO ROJAS PIDIÓ ACELERAR LA INSPECCIÓN DE EDIFICIOS AFECTADOS EN CARACAS",
+      "link": "https://noticierodigital.com/2026/06/carlos-julio-rojas-pidio-acelerar-la-inspeccion-de-edificios-afectados-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/carlos-julio-rojas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +53,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ecuador envía 14 toneladas de ayuda humanitaria a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ecuador-envia-14-toneladas-de-ayuda-humanitaria-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/rPqwj09F-Captura.png"
+      "title": "Warren Buffett pone en pausa su donación a la Fundación Gates por caso Epstein",
+      "link": "https://diarioversionfinal.com/mundo/warren-buffett-pone-en-pausa-su-donacion-a-la-fundacion-gates-por-caso-epstein/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Warren-Buffett-30-06-2026-660x430.webp"
     }
   ],
-  "lastUpdate": "2026-06-30T23:13:04.909Z"
+  "lastUpdate": "2026-07-01T03:55:29.915Z"
 };
