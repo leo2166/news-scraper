@@ -1,6 +1,10 @@
 window.DASHBOARD_DATA = {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "633,36",
+      "eur": "723,27",
+      "fechaValor": "Miércoles, 1 de julio de 2026"
+    },
     "binance": {
       "usdt": "773,25"
     },
@@ -58,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/agencia-tributaria-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-01T18:42:13.025Z"
+  "lastUpdate": "2026-07-01T18:51:28.171Z"
 };
