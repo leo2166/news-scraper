@@ -2,7 +2,7 @@ window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {},
     "binance": {
-      "usdt": "772,25"
+      "usdt": "773,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -17,9 +17,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela decretó siete días de duelo nacional por las víctimas de los devastadores terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/01/venezuela-decreto-siete-dias-de-duelo-nacional-por-las-victimas-de-los-devastadores-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/UDNFOMSBRNBRPIJXW7ELC3DA5I.JPG?auth=d0c3954291a8c780d195108d392cf41f702872ee8e5f856a235b520aa9ed7c0d&smart=true&width=350&height=197&quality=85"
+      "title": "Crece el saldo de la tragedia en Venezuela: hay al menos 2.295 muertos y más de 11.000 heridos",
+      "link": "https://www.infobae.com/venezuela/2026/07/01/crece-el-saldo-de-la-tragedia-en-venezuela-hay-al-menos-2295-muertos-y-mas-de-11000-heridos/",
+      "image": "https://www.infobae.com/resizer/v2/33UI5FQH7RHV3EVNLNF7ZDK6EY.JPG?auth=af47bf325a251aa3ce9723842692cd261fa854ac0a46c633386016f93a03ead9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -58,5 +58,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/agencia-tributaria-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-01T18:31:47.092Z"
+  "lastUpdate": "2026-07-01T18:42:13.025Z"
 };
