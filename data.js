@@ -1,8 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
-    "bcv": {},
+    "bcv": {
+      "usd": "633,36",
+      "eur": "723,27",
+      "fechaValor": "Miércoles, 01 Julio 2026"
+    },
     "binance": {
-      "usdt": "770,25"
+      "usdt": "772,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -17,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Diosdado Cabello: “Cero tolerancia” contra funcionarios que roben en zonas afectadas por el terremoto",
-      "link": "https://www.infobae.com/venezuela/2026/07/01/diosdado-cabello-cero-tolerancia-contra-funcionarios-que-roben-en-zonas-afectadas-por-el-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/ZQZMWJDFPJABDHJFYEAJWVUI3Q.JPG?auth=d22205de9183974c7b7fc5596cc97c04466c9f7c9ee85d70370d0130b49f16f7&smart=true&width=350&height=197&quality=85"
+      "title": "100 rescatistas y una misión sin pausa: salvar a un sobreviviente que lleva siete días atrapado en un sótano venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/07/01/el-rescate-que-desafia-el-tiempo-la-desesperada-mision-que-supera-las-48-horas-para-salvar-a-un-sobreviviente-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/ANKCL6NLVVEEBLDYUIWWRSFXYM.JPG?auth=7c7f6237ed71f78d529d4813d3bf6013731aace5abfc133455f83ebf3859952c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "HAY ESPERANZA: Hallan con vida a dos personas tras siete días bajo los escombros del edificio Seyemar en La Guaira",
-      "link": "https://noticialdia.com/al-dia/hay-esperanza-hallan-con-vida-a-dos-personas-tras-siete-dias-bajo-los-escombros-del-edificio-seyemar-en-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-01-at-11.00.30-AM-1.webp?x74468"
+      "title": "\"Dame la plata, lambucio\": Momento cuando afectadas por los terremotos encaran a funcionario del Cicpc y rompen los dólares",
+      "link": "https://noticialdia.com/sin-categoria/dame-la-plata-lambucio-momento-cuando-afectadas-por-los-terremotos-encaran-a-funcionario-del-cicpc-y-rompen-los-dolares/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/ed740a02-82e2-43e1-bdaf-2201d5b526ff.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Una semana después de los terremotos, Venezuela enfrenta una crisis humanitaria",
-      "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/semana-terremotos-venezuela-refugios-rescates-crisis-humanitaria-orix",
+      "title": "Las dudas que rodean las cifras de los terremotos en Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/dudas-cifras-terremoto-muertos-desaparecidos-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283591433.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidente de la AN Jorge Rodríguez anunció que servicios en La Guaira se restablecen progresivamente",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidente-de-la-an-jorge-rodriguez-anuncio-que-servicios-en-la-guaira-se-restablecen-progresivamente",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5050809711522942276_y-477c87.jpg"
+      "title": "Municipio Baruta implementa plan de contingencia y evaluaciones estructurales tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/municipio-baruta-implementa-plan-de-contingencia-y-evaluaciones-estructurales-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_huvuochuvuochuvu-4f55fb.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. ENVIÓ A VENEZUELA VEHÍCULOS TODOTERRENO Y CAPACIDADES DE AMBULANCIAS MILITARES",
-      "link": "https://noticierodigital.com/2026/07/ee-uu-envio-a-venezuela-vehiculos-todoterreno-y-capacidades-de-ambulancias-militares/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-1-627x376.png"
+      "title": "COLOMBIA REPORTA 23 DE SUS CIUDADANOS FALLECIDOS TRAS TERREMOTOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/colombia-reporta-23-de-sus-ciudadanos-fallecidos-tras-terremotos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/MiltonRengifo-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -53,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ecuador repatria a seis ciudadanos afectados por los terremotos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ecuador-repatria-a-seis-ciudadanos-afectados-por-los-terremotos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/depositphotos_60335561-stock-photo-ecuadorian-flag.webp"
+      "title": "Renuncia la directora de la Agencia Tributaria en medio de la polémica por las joyas de Zapatero",
+      "link": "https://diarioversionfinal.com/mundo/renuncia-la-directora-de-la-agencia-tributaria-en-medio-de-la-polemica-por-las-joyas-de-zapatero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/agencia-tributaria-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-01T15:41:49.424Z"
+  "lastUpdate": "2026-07-01T17:56:04.539Z"
 };
