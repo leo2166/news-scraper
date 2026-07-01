@@ -2,7 +2,7 @@ window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {},
     "binance": {
-      "usdt": "770,69"
+      "usdt": "772,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -11,15 +11,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "ANSA y Cavidea activan plan de contingencia para garantizar abastecimiento de productos tras terremotos",
-      "link": "https://www.bancaynegocios.com/ansa-y-cavidea-activan-plan-de-contingencia-para-garantizar-abastecimiento-de-productos-tras-terremotos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/compras.jpg"
+      "title": "Aumentó más de 14% en bolívares: Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de junio a jubilados",
+      "link": "https://www.bancaynegocios.com/aumento-mas-de-14-porciento-en-bolivares-pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-junio-a-jubilados/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
     },
     {
       "source": "Infobae",
-      "title": "EEUU desplegó más de 900 efectivos y cinco drones en Venezuela para reforzar las tareas de respuesta tras los devastadores terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/01/eeuu-desplego-mas-de-900-efectivos-y-cinco-drones-en-venezuela-para-reforzar-las-tareas-de-respuesta-tras-los-devastadores-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/S3GD2S73NNEWDKVCCY4YK6BTDA.jpg?auth=ae4a2c62129a7021ab530113b43ad7e651e905e2fce3ce06f9972bd3058b30b7&smart=true&width=350&height=197&quality=85"
+      "title": "Venezolanos obligaron a un policía a entregar dólares hallados entre los escombros que dejó el terremoto",
+      "link": "https://www.infobae.com/venezuela/2026/07/01/venezolanos-obligaron-a-un-policia-a-entregar-dolares-hallados-entre-los-escombros-que-dejo-el-terremoto/",
+      "image": "https://www.infobae.com/resizer/v2/KKO7V7A73ZGMBN5RCRUFNEPASY.jpg?auth=5c2dcf2c13d760fe7c415814d7a049dbe973aa2a949838fca1efe072df40c26f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -29,9 +29,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Venezolanos, limpian a mano los escombros en una búsqueda desesperada",
+      "title": "Venezolanos limpian a mano escombros en una búsqueda desesperada",
       "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/venezolanos-escombros-edificios-maquinaria-inactiva-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283395572.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-06-29-at-5-26-01-pm.jpeg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -58,5 +58,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Warren-Buffett-30-06-2026-660x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-01T08:13:57.285Z"
+  "lastUpdate": "2026-07-01T12:07:47.165Z"
 };
