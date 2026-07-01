@@ -30,12 +30,12 @@ async function scrapeBCV(browser, maxAttempts = 3) {
 
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-            // Navegar usando domcontentloaded ya que los datos están en el HTML inicial.
-            // Timeout reducido a 20s para acelerar fallback si la IP del servidor está bloqueada.
-            await page.goto('https://www.bcv.org.ve/', { waitUntil: 'domcontentloaded', timeout: 20000 });
+            // Usar networkidle2: los precios del BCV se inyectan via JS tras el DOM inicial.
+            // El bloqueo de recursos ya acelera la carga significativamente.
+            await page.goto('https://www.bcv.org.ve/', { waitUntil: 'networkidle2', timeout: 60000 });
 
             // Esperar a que carguen los elementos de tasas
-            await page.waitForSelector('#dolar, #euro', { timeout: 10000 }).catch(() => null);
+            await page.waitForSelector('#dolar, #euro', { timeout: 15000 }).catch(() => null);
 
             const rates = await page.evaluate(() => {
                 // Estrategia 1: Buscar por IDs específicos
