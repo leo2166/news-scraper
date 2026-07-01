@@ -10,6 +10,7 @@ const OUTPUT_FILE = path.join(__dirname, 'data.json');
 async function scrapeBCV(browser, maxAttempts = 3) {
     const result = { usd: null, eur: null, fechaValor: null };
 
+    // 1. Intentar scraping directo (ideal si no hay bloqueos de IP regional)
     for (let attempt = 1; attempt <= maxAttempts; attempt++) {
         console.log(`💵 Scrapeando BCV directamente (Intento ${attempt}/${maxAttempts})...`);
         let page = null;
@@ -29,11 +30,12 @@ async function scrapeBCV(browser, maxAttempts = 3) {
 
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-            // Navegar usando domcontentloaded ya que los datos están en el HTML inicial
-            await page.goto('https://www.bcv.org.ve/', { waitUntil: 'domcontentloaded', timeout: 30000 });
+            // Navegar usando domcontentloaded ya que los datos están en el HTML inicial.
+            // Timeout reducido a 20s para acelerar fallback si la IP del servidor está bloqueada.
+            await page.goto('https://www.bcv.org.ve/', { waitUntil: 'domcontentloaded', timeout: 20000 });
 
             // Esperar a que carguen los elementos de tasas
-            await page.waitForSelector('#dolar, #euro', { timeout: 15000 }).catch(() => null);
+            await page.waitForSelector('#dolar, #euro', { timeout: 10000 }).catch(() => null);
 
             const rates = await page.evaluate(() => {
                 // Estrategia 1: Buscar por IDs específicos
@@ -94,11 +96,45 @@ async function scrapeBCV(browser, maxAttempts = 3) {
             if (page) await page.close().catch(() => { });
 
             if (attempt === maxAttempts) {
-                console.log(`❌ BCV: Omitido tras ${maxAttempts} intentos fallidos.`);
+                console.log(`❌ BCV: Scraping directo falló tras ${maxAttempts} intentos.`);
             } else {
-                // Espera de 3 segundos antes del reintento
-                await new Promise(r => setTimeout(r, 3000));
+                // Espera de 2 segundos antes del reintento
+                await new Promise(r => setTimeout(r, 2000));
             }
+        }
+    }
+
+    // 2. Fallback de emergencia si el scraping directo falló en todos los intentos (ej. bloqueo de IP de GitHub Actions)
+    if (!result.usd || !result.eur) {
+        console.log('⚠️ Iniciando fallback de rescate mediante DolarApi...');
+        try {
+            // Nota: fetch es una API global nativa en Node 18+ (usado en el entorno de GitHub Actions)
+            const resUsd = await fetch('https://ve.dolarapi.com/v1/dolares/oficial').then(r => r.json());
+            const resEur = await fetch('https://ve.dolarapi.com/v1/euros/oficial').then(r => r.json());
+
+            if (resUsd && resUsd.venta) {
+                // Convertir y formatear con coma a 2 decimales para mantener consistencia visual
+                const valUsd = parseFloat(resUsd.venta);
+                result.usd = valUsd.toFixed(4).replace('.', ',');
+                console.log(`✅ [Fallback] BCV Dólar: ${result.usd}`);
+            }
+
+            if (resEur && resEur.venta) {
+                const valEur = parseFloat(resEur.venta);
+                result.eur = valEur.toFixed(4).replace('.', ',');
+                console.log(`✅ [Fallback] BCV Euro: ${result.eur}`);
+            }
+
+            if (resUsd && resUsd.fecha) {
+                const dateObj = new Date(resUsd.fecha);
+                const opciones = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
+                let fv = dateObj.toLocaleDateString('es-VE', opciones);
+                fv = fv.charAt(0).toUpperCase() + fv.slice(1); // Capitalizar
+                result.fechaValor = fv;
+                console.log(`📅 [Fallback] BCV Fecha Valor: ${result.fechaValor}`);
+            }
+        } catch (apiError) {
+            console.error('❌ Error fatal en el fallback de DolarApi:', apiError.message);
         }
     }
 
