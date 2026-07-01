@@ -329,39 +329,7 @@ async function scrape() {
                 return { title, link: card.href, image: img };
             }
         },
-        {
-            name: 'El Nacional',
-            url: 'https://www.elnacional.com/',
-            fn: () => {
-                const featured = document.querySelector('a.featured, .article-card a, article a');
-                if (!featured) return null;
-                const title = featured.innerText || featured.getAttribute('title');
 
-                let img = null;
-                // Estrategia 1: Imagen directa
-                const imgEl = featured.querySelector('img');
-                if (imgEl) img = imgEl.src || imgEl.dataset.src || imgEl.srcset?.split(' ')[0];
-
-                // Estrategia 2: Background image
-                if (!img) {
-                    const bgDiv = featured.querySelector('.background-image, .img-bg');
-                    if (bgDiv) {
-                        const style = window.getComputedStyle(bgDiv);
-                        img = style.backgroundImage.slice(4, -1).replace(/["']/g, "");
-                    }
-                }
-
-                // Estrategia 3: og:imageFallback (simulado)
-                if (!img) {
-                    // Si no hay imagen, intentamos buscar el primer meta og:image del documento
-                    // Esto funciona en puppeteer evaluate porque estamos en la página
-                    const metaImg = document.querySelector('meta[property="og:image"]');
-                    if (metaImg) img = metaImg.content;
-                }
-
-                return { title, link: featured.href, image: img };
-            }
-        },
         {
             name: 'Noticia al Día',
             url: 'https://noticialdia.com/',
@@ -487,15 +455,7 @@ async function scrape() {
                 return { title: link?.innerText, link: link?.href, image: imgEl?.src };
             }
         },
-        {
-            name: 'Caracol Noticias',
-            url: 'https://noticias.caracoltv.com/',
-            fn: () => {
-                const titleEl = document.querySelector('.promo-title .Link, .Card-title .Link');
-                const imgEl = document.querySelector('.promo-media img, .Card-media img');
-                return { title: titleEl?.innerText, link: titleEl?.href, image: imgEl?.dataset.src || imgEl?.src };
-            }
-        },
+
         {
             name: 'La Verdad',
             url: 'https://laverdad.com/category/mundo/',
@@ -580,32 +540,7 @@ async function scrape() {
                 return null;
             }
         },
-        {
-            name: 'Punto de Corte',
-            url: 'https://puntodecorte.net/',
-            fn: () => {
-                // Estrategia: Buscar bloques de noticias con estructura específica detectada (Plugin ULTP)
-                const items = document.querySelectorAll('.ultp-block-item');
 
-                for (const item of items) {
-                    const titleEl = item.querySelector('.ultp-block-title a, .ultp-block-content a');
-                    const imgEl = item.querySelector('.ultp-block-image img, img');
-
-                    if (titleEl && titleEl.innerText.trim().length > 15) {
-                        return {
-                            title: titleEl.innerText.trim(),
-                            link: titleEl.href,
-                            image: imgEl ? (imgEl.dataset.src || imgEl.src || imgEl.srcset?.split(' ')[0]) : null
-                        };
-                    }
-                }
-                // Fallback genérico si cambian el plugin
-                const generic = document.querySelector('h2 a, h3 a');
-                if (generic) return { title: generic.innerText, link: generic.href, image: null };
-
-                return null;
-            }
-        }
     ];
 
     for (const source of newsSources) {
