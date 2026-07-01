@@ -41,9 +41,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "COLOMBIA REPORTA 23 DE SUS CIUDADANOS FALLECIDOS TRAS TERREMOTOS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/colombia-reporta-23-de-sus-ciudadanos-fallecidos-tras-terremotos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/MiltonRengifo-627x376.jpg"
+      "title": "PRESIDENTE DE HONDURAS NO ENVIARÁ AYUDA A VENEZUELA: «QUE DIOS ME PERDONE»",
+      "link": "https://noticierodigital.com/2026/07/presidente-de-honduras-no-enviara-ayuda-a-venezuela-que-dios-me-perdone/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/nasry-asfura-honduras-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -58,5 +58,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/agencia-tributaria-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-01T18:20:59.655Z"
+  "lastUpdate": "2026-07-01T18:31:47.092Z"
 };
