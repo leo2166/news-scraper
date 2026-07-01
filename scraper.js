@@ -112,21 +112,25 @@ async function scrapeBCV(browser, maxAttempts = 3) {
             const resUsd = await fetch('https://ve.dolarapi.com/v1/dolares/oficial').then(r => r.json());
             const resEur = await fetch('https://ve.dolarapi.com/v1/euros/oficial').then(r => r.json());
 
-            if (resUsd && resUsd.venta) {
-                // Convertir y formatear con coma a 2 decimales para mantener consistencia visual
-                const valUsd = parseFloat(resUsd.venta);
-                result.usd = valUsd.toFixed(4).replace('.', ',');
+            const valUsd = resUsd ? (resUsd.promedio || resUsd.venta || resUsd.compra) : null;
+            const valEur = resEur ? (resEur.promedio || resEur.venta || resEur.compra) : null;
+            const rawFecha = resUsd ? (resUsd.fechaActualizacion || resUsd.fecha) : null;
+
+            if (valUsd) {
+                // Convertir y formatear con coma a 4 decimales para mantener consistencia
+                const parsedUsd = parseFloat(valUsd);
+                result.usd = parsedUsd.toFixed(4).replace('.', ',');
                 console.log(`✅ [Fallback] BCV Dólar: ${result.usd}`);
             }
 
-            if (resEur && resEur.venta) {
-                const valEur = parseFloat(resEur.venta);
-                result.eur = valEur.toFixed(4).replace('.', ',');
+            if (valEur) {
+                const parsedEur = parseFloat(valEur);
+                result.eur = parsedEur.toFixed(4).replace('.', ',');
                 console.log(`✅ [Fallback] BCV Euro: ${result.eur}`);
             }
 
-            if (resUsd && resUsd.fecha) {
-                const dateObj = new Date(resUsd.fecha);
+            if (rawFecha) {
+                const dateObj = new Date(rawFecha);
                 const opciones = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
                 let fv = dateObj.toLocaleDateString('es-VE', opciones);
                 fv = fv.charAt(0).toUpperCase() + fv.slice(1); // Capitalizar
