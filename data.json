@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 1 de julio de 2026"
     },
     "binance": {
-      "usdt": "774,75"
+      "usdt": "772,75"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Estiman que más de 800 comercios se ven comprometidos por los terremotos en Venezuela",
-      "link": "https://www.bancaynegocios.com/estiman-que-mas-de-800-comercios-se-ven-comprometidos-por-los-terremotos-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/ComerciosLaGuairaTerremotoCerrados.jpg"
+      "title": "Conindustria propone \"Ley Puente\" de emergencia para acelerar reactivación económica",
+      "link": "https://www.bancaynegocios.com/conindustria-propone-ley-puente-de-emergencia-para-acelerar-reactivacion-economica/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/CONINDUSTRIA-PRESENTACION-III-TRIMESTRE-TITO-LOPEZ.jpeg"
     },
     {
       "source": "Infobae",
@@ -33,34 +33,34 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Asciende a 2.295 la cifra de muertos por los sismos en Venezuela",
+      "title": "Al menos 2.000 militares estadounidenses están en Venezuela tras los terremotos",
       "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/live-news/terremotos-guaira-rescates-victimas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283591433.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283594664.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Municipio Baruta implementa plan de contingencia y evaluaciones estructurales tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/municipio-baruta-implementa-plan-de-contingencia-y-evaluaciones-estructurales-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_huvuochuvuochuvu-4f55fb.png"
+      "title": "Presidenta encargada Delcy Rodríguez decreta duelo nacional por 7 días",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-decreta-duelo-nacional-por-7-dias",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-3f67f7.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DUELO NACIONAL ES «SIMBÓLICO Y PROTOCOLARIO», EXPLICÓ ANÍBAL SÁNCHEZ",
-      "link": "https://noticierodigital.com/2026/07/duelo-nacional-es-simbolico-y-protocolario-explico-anibal-sanchez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Gemini_Generated_Image_xw18s8xw18s8xw18-627x376.png"
+      "title": "BALTAZAR PORRAS Y DIEGO PADRÓN SOSTUVIERON UNA AUDIENCIA PRIVADA CON LEÓN XIV",
+      "link": "https://noticierodigital.com/2026/07/baltazar-porras-y-diego-padron-sostuvieron-una-audiencia-privada-con-leon-xiv/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/papa-Leon-XIV-Baltasar-Porras-Diego-Padron-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "OMS recuerda que primeras 72 horas tras terremotos son críticas para salvar vidas",
-      "link": "https://laverdad.com/oms-recuerda-que-primeras-72-horas-tras-terremotos-son-criticas-para-salvar-vidas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Terremotos-Caracas-1.jpg"
+      "title": "Exilio venezolano pide a Trump revisar relación con Delcy Rodríguez tras terremotos",
+      "link": "https://laverdad.com/exilio-venezolano-pide-a-trump-revisar-relacion-con-delcy-rodriguez-tras-terremotos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/exilio-venezolano-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Renuncia la directora de la Agencia Tributaria en medio de la polémica por las joyas de Zapatero",
-      "link": "https://diarioversionfinal.com/mundo/renuncia-la-directora-de-la-agencia-tributaria-en-medio-de-la-polemica-por-las-joyas-de-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/agencia-tributaria-750x430.webp"
+      "title": "Comando Sur: EE.UU. mantendrá apoyo “por tierra, mar y aire” en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-ee-uu-mantendra-apoyo-por-tierra-mar-y-aire-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-79-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-01T19:57:48.139Z"
+  "lastUpdate": "2026-07-01T21:40:37.058Z"
 }
