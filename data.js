@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BALTAZAR PORRAS Y DIEGO PADRÓN SOSTUVIERON UNA AUDIENCIA PRIVADA CON LEÓN XIV",
-      "link": "https://noticierodigital.com/2026/07/baltazar-porras-y-diego-padron-sostuvieron-una-audiencia-privada-con-leon-xiv/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/papa-Leon-XIV-Baltasar-Porras-Diego-Padron-627x376.jpg"
+      "title": "JOHN BARRETT ADVIRTIÓ QUE MILES DE DAMNIFICADOS POR LOS TERREMOTOS NECESITARÁN REFUGIO",
+      "link": "https://noticierodigital.com/2026/07/john-barrett-advirtio-que-miles-de-damnificados-por-los-terremotos-necesitaran-refugio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/john-barrett-venezuela-eeuu-terremotos-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur: EE.UU. mantendrá apoyo “por tierra, mar y aire” en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-ee-uu-mantendra-apoyo-por-tierra-mar-y-aire-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-79-678x430.jpg"
+      "title": "Pareja escala a la antena del Empire State antes de arriesgada propuesta matrimonial",
+      "link": "https://diarioversionfinal.com/mundo/pareja-escala-a-la-antena-del-empire-state-antes-de-arriesgada-propuesta-matrimonial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Pareja-antena-01-07-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-07-01T21:40:37.058Z"
+  "lastUpdate": "2026-07-01T23:15:39.324Z"
 };
