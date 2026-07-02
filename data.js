@@ -21,19 +21,19 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El Salvador distribuyó más de 24 toneladas de medicamentos en hospitales venezolanos tras la emergencia por terremotos",
-      "link": "https://www.infobae.com/el-salvador/2026/07/02/el-salvador-distribuyo-mas-de-24-toneladas-de-medicamentos-en-hospitales-venezolanos-tras-la-emergencia-por-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/4C6OELX3XVH53M3D2L36E24TAI.jpg?auth=814c5b0680606f556ed65a3d83dd6a80fac11c9cbb0c856342d624da7eaf743d&smart=true&width=350&height=197&quality=85"
+      "title": "Ex ministro de Finanzas de Chávez advierte que Venezuela se acerca al “colapso cambiario”",
+      "link": "https://www.infobae.com/venezuela/2026/07/02/ex-ministro-de-finanzas-de-chavez-advierte-que-venezuela-se-acerca-al-colapso-cambiario/",
+      "image": "https://www.infobae.com/resizer/v2/CAMMBNGOIFFS3OCN3K7IIWNXAE.JPG?auth=ca6c4a8bd31b588216d00ab38605bc7b56fd1a22e0099137bba0d84a4017e671&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El SILENCIO: La clave para rescatar vidas bajo los escombros",
-      "link": "https://noticialdia.com/principal/el-silencio-la-clave-para-rescatar-vidas-bajo-los-escombros/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/TERRE.webp?x74468"
+      "title": "Sigue la búsqueda de la periodista Melissa De Sousa tras los terremotos en La Guaira",
+      "link": "https://noticialdia.com/nacionales/sigue-la-busqueda-de-la-periodista-melissa-de-sousa-tras-los-terremotos-en-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/periodista.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Un hombre que estuvo ocho días bajo los escombros fue sacado con vida en Venezuela",
+      "title": "Rescatan a hombre que pasó ocho días bajo los escombros en Venezuela",
       "link": "https://cnnespanol.cnn.com/2026/07/02/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-la-guaira-caracas-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283772311.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "RAFALLI: «LA AYUDA DESORGANIZADA PUEDE COLAPSAR A QUIENES TRABAJAN AL FILO DE LA VIDA»",
-      "link": "https://noticierodigital.com/2026/07/rafalli-la-ayuda-desorganizada-puede-colapsar-a-quienes-trabajan-al-filo-de-la-vida/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/20260702_122436-627x376.jpg"
+      "title": "DOTA 2 DREAMLEAGUE SEASON 29: ANÁLISIS DE LOS PARTIDOS LIQUID VS XG Y SU INFLUENCIA EN LOS TOTALES",
+      "link": "https://noticierodigital.com/2026/07/dota-2-dreamleague-season-29-analisis-de-los-partidos-liquid-vs-xg-y-su-influencia-en-los-totales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/dota2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El BID aprueba donación de un millón de dólares para la asistencia humanitaria inmediata en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/el-bid-aprueba-donacion-de-un-millon-de-dolares-para-la-asistencia-humanitaria-inmediata-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/05/banco-interamericano-de-desarrollo.jpg"
+      "title": "Congresista Carlos Giménez pide a Donald Trump un nuevo TPS para venezolanos tras los terremotos",
+      "link": "https://diarioversionfinal.com/mundo/congresista-carlos-gimenez-pide-a-donald-trump-un-nuevo-tps-para-venezolanos-tras-los-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/carlos-gimenez-750x376.webp"
     }
   ],
-  "lastUpdate": "2026-07-02T17:47:57.179Z"
+  "lastUpdate": "2026-07-02T19:24:28.956Z"
 };
