@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "639,70",
-      "eur": "728,48",
-      "fechaValor": "Jueves, 02 Julio 2026"
+      "usd": "652,97",
+      "eur": "747,33",
+      "fechaValor": "Viernes, 03 Julio 2026"
     },
     "binance": {
-      "usdt": "772,25"
+      "usdt": "773,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Sigue la búsqueda de la periodista Melissa De Sousa tras los terremotos en La Guaira",
-      "link": "https://noticialdia.com/nacionales/sigue-la-busqueda-de-la-periodista-melissa-de-sousa-tras-los-terremotos-en-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/periodista.webp?x74468"
+      "title": "Gobernador de La Guaira confirmó la muerte de 16 niños por colapso de un hospital",
+      "link": "https://noticialdia.com/al-dia/gobernador-de-la-guaira-confirmo-la-muerte-de-16-ninos-por-colapso-de-un-hospital/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/terre22.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DOTA 2 DREAMLEAGUE SEASON 29: ANÁLISIS DE LOS PARTIDOS LIQUID VS XG Y SU INFLUENCIA EN LOS TOTALES",
-      "link": "https://noticierodigital.com/2026/07/dota-2-dreamleague-season-29-analisis-de-los-partidos-liquid-vs-xg-y-su-influencia-en-los-totales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/dota2-627x376.jpg"
+      "title": "FEDECÁMARAS HABILITÓ CENTROS DE ACOPIO PARA AFECTADOS POR TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/fedecamaras-habilito-centros-de-acopio-para-afectados-por-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-3.05.28-PM-627x376.jpeg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Congresista Carlos Giménez pide a Donald Trump un nuevo TPS para venezolanos tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/congresista-carlos-gimenez-pide-a-donald-trump-un-nuevo-tps-para-venezolanos-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/carlos-gimenez-750x376.webp"
+      "title": "Ecuador eleva a 37 toneladas su ayuda a Venezuela tras despachar nuevo cargamento humanitario",
+      "link": "https://diarioversionfinal.com/mundo/ecuador-eleva-a-37-toneladas-su-ayuda-a-venezuela-tras-despachar-nuevo-cargamento-humanitario/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/7a15645f-db6c-4cba-890a-8883e03e2fc5-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-02T19:24:28.956Z"
+  "lastUpdate": "2026-07-02T21:07:30.057Z"
 }
