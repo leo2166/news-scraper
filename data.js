@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 02 Julio 2026"
     },
     "binance": {
-      "usdt": "738,80"
+      "usdt": "770,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Luis Vicente León: 2026 no será el año esperado, pero el país aunque golpeado no está destruido",
-      "link": "https://www.bancaynegocios.com/luis-vicente-leon-2026-no-sera-el-ano-esperado-pero-el-pais-aunque-golpeado-no-esta-destruido/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/LUIS-VICENTE-LEON-DATANALISIS-NUEVA.jpg"
+      "title": "Pagan bono \"Cultores Populares\" de junio de 2026: Aumentó más de 11% en bolívares",
+      "link": "https://www.bancaynegocios.com/pagan-bono-cultores-populares-de-junio-de-2026-aumento-mas-de-11-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela habilitó una vía para recibir donaciones internacionales monetarias y de insumos tras los sismos",
-      "link": "https://www.infobae.com/venezuela/2026/07/02/venezuela-habilito-una-via-para-recibir-donaciones-internacionales-monetarias-y-de-insumos-tras-los-sismos/",
-      "image": "https://www.infobae.com/resizer/v2/DQBGF5ISLBGOLMPNSBL4CG4G5A.JPG?auth=8132896682207ec997e23f81fb37e352f4aaee3997bd1a89832d5ad296ac39eb&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump registró su marca de productos de hogar en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/02/donald-trump-registro-su-marca-de-productos-de-hogar-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/FGIL5FJ7JJEX5FXCF5ICL7AEKY.JPG?auth=9ca0a70e16373b9f671feae589d59f7fa9fe166f464eea52807710ad0313266e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -35,7 +35,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "La fortuna de Trump se disparó como la de ningún otro presidente",
       "link": "https://cnnespanol.cnn.com/2026/07/02/economia/trump-ingresos-intereses-comerciales-politicos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260702081903928.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-20260702031720535.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Polémica: presidente de Honduras dice que no enviará ayuda humanitaria a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/polemica-presidente-de-honduras-dice-que-no-enviara-ayuda-humanitaria-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/nasry-asfura-750x430.jpeg"
+      "title": "Rumanía envía avión con ayuda humanitaria y suministros médicos esenciales para Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/rumania-envia-avion-con-ayuda-humanitaria-y-suministros-medicos-esenciales-para-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Rumania-envia-avion-con-ayuda-humanitaria-para-Venezuela-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-02T10:40:27.951Z"
+  "lastUpdate": "2026-07-02T12:58:23.726Z"
 };
