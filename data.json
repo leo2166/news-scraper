@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "633,36",
-      "eur": "723,27",
-      "fechaValor": "Miércoles, 1 de julio de 2026"
+      "usd": "639,70",
+      "eur": "728,48",
+      "fechaValor": "Jueves, 02 Julio 2026"
     },
     "binance": {
-      "usdt": "772,75"
+      "usdt": "774,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Conindustria propone \"Ley Puente\" de emergencia para acelerar reactivación económica",
-      "link": "https://www.bancaynegocios.com/conindustria-propone-ley-puente-de-emergencia-para-acelerar-reactivacion-economica/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/CONINDUSTRIA-PRESENTACION-III-TRIMESTRE-TITO-LOPEZ.jpeg"
+      "title": "Luis Vicente León: 2026 no será el año esperado, pero el país aunque golpeado no está destruido",
+      "link": "https://www.bancaynegocios.com/luis-vicente-leon-2026-no-sera-el-ano-esperado-pero-el-pais-aunque-golpeado-no-esta-destruido/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/LUIS-VICENTE-LEON-DATANALISIS-NUEVA.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Las familias de cinco jóvenes ejecutados por las fuerzas venezolanas demandaron a Maduro ante la justicia de EEUU",
-      "link": "https://www.infobae.com/venezuela/2026/07/01/las-familias-de-cinco-jovenes-ejecutados-por-las-fuerzas-venezolanas-demandaron-a-maduro-ante-la-justicia-de-eeuu/",
-      "image": "https://www.infobae.com/resizer/v2/L2MMYMIWQVCOVCBYPMOTRKSCLM.jpg?auth=7797ab065c0bdc4ada71416bf82129be2d09ddf55e6324678e75279b04604153&smart=true&width=350&height=197&quality=85"
+      "title": "Tras los sismos en Venezuela, advierten que el problema más urgente son las infecciones por heridas",
+      "link": "https://www.infobae.com/venezuela/2026/07/02/tras-los-sismos-en-venezuela-advierten-que-el-problema-mas-urgente-son-las-infecciones-por-heridas/",
+      "image": "https://www.infobae.com/resizer/v2/SQZ6XHBLANH63BH7RXAVGEU4UA.JPG?auth=46de7f8a9e67b8a1287b836ec5b759b199a5668fdae70d9fcf4990c947d443e4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,21 +33,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Al menos 2.000 militares estadounidenses están en Venezuela tras los terremotos",
-      "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/live-news/terremotos-guaira-rescates-victimas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283594664.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cinco factores que explicarían la tragedia en Venezuela tras los terremotos",
+      "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/normas-sismos-edificios-afectados-fallas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283604339.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez decreta duelo nacional por 7 días",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-decreta-duelo-nacional-por-7-dias",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-3f67f7.jpg"
+      "title": "Comando sur informa apoyo espacial y unidades en tierra en  zonas afectadas tras los terremotos en venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-informa-apoyo-espacial-y-unidades-en-tierra-en-zonas-afectadas-tras-los-terremotos-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_736420947_1506558124843229_8851563067069075432_n-e287be.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOHN BARRETT ADVIRTIÓ QUE MILES DE DAMNIFICADOS POR LOS TERREMOTOS NECESITARÁN REFUGIO",
-      "link": "https://noticierodigital.com/2026/07/john-barrett-advirtio-que-miles-de-damnificados-por-los-terremotos-necesitaran-refugio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/john-barrett-venezuela-eeuu-terremotos-1-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ VISITÓ HOSPITAL DE CAMPAÑA DE ORGANIZACIÓN DE EE. UU. EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-visito-hospital-de-campana-de-organizacion-de-ee-uu-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/delcy-rodriguez-venezuela-terremotos-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Pareja-antena-01-07-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-07-01T23:15:39.324Z"
+  "lastUpdate": "2026-07-02T03:36:32.133Z"
 }
