@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 03 Julio 2026"
     },
     "binance": {
-      "usdt": "775,69"
+      "usdt": "775,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Cifra de personas fallecidas en Venezuela alcanza al menos 2.595, dice Rodríguez",
-      "link": "https://cnnespanol.cnn.com/2026/07/02/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-la-guaira-caracas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283561075-20260701220723765.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Irán envía un mensaje desafiante a Trump con el funeral para Jamenei",
+      "link": "https://cnnespanol.cnn.com/2026/07/03/mundo/iran-trump-funeral-lider-ali-jamenei-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283561075-20260701220723765.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cristo Redentor se ilumina en Río en homenaje a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/cristo-redentor-se-ilumina-en-rio-en-homenaje-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/cristo-redentor-e1783041696342-750x375-1.jpg"
+      "title": "Se retrasa el juicio a Maduro en EEUU",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/se-retrasa-el-juicio-a-maduro-en-eeuu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-03T07:20:10.941Z"
+  "lastUpdate": "2026-07-03T10:35:19.496Z"
 }
