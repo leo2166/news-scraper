@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "652,97",
-      "eur": "747,33",
-      "fechaValor": "Viernes, 03 Julio 2026"
+      "usd": "667,05",
+      "eur": "763,19",
+      "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "775,25"
+      "usdt": "777,98"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "El Gobierno de Venezuela elevó a 2.645 la cifra de muertos por el doble terremoto",
-      "link": "https://www.infobae.com/venezuela/2026/07/03/venezuela-elevo-a-2645-la-cifra-de-muertos-por-el-doble-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/LJ6H3DQUARAD3OCWPQ2TWVM7EA.JPG?auth=5adfa19edeaa5508016b1ea5a7729684d14f344ef1f5950fe435ceb5d6d2ef00&smart=true&width=350&height=197&quality=85"
+      "title": "Terremotos en Venezuela: los rescatistas no hallan señales de vida del niño Fabio en Caraballeda",
+      "link": "https://www.infobae.com/venezuela/2026/07/03/terremotos-en-venezuela-los-rescatistas-no-hallan-senales-de-vida-del-nino-fabio-en-caraballeda/",
+      "image": "https://www.infobae.com/resizer/v2/736GHUQJRJBQJAXT5TW6ICT7BQ.JPG?auth=530da620fc6e608eac732806011b33197f00317558b1af1538d5dcda1486a802&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "NÚMERO DE ESPAÑOLES FALLECIDOS EN VENEZUELA POR TERREMOTO SE ELEVA A 32",
-      "link": "https://noticierodigital.com/2026/07/numero-de-espanoles-fallecidos-en-venezuela-por-terremoto-se-eleva-a-32/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-01-627x376.jpg"
+      "title": "JORGE RODRÍGUEZ ABORDÓ CON LA ONU LOS PLANES DE ATENCIÓN INTEGRAL A LAS VÍCTIMAS",
+      "link": "https://noticierodigital.com/2026/07/jorge-rodriguez-abordo-con-la-onu-los-planes-de-atencion-integral-a-las-victimas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/jorge-rodriguez-giancluca-rampolla-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ecuador envía cuarto cargamento de ayuda humanitaria a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ecuador-envia-cuarto-cargamento-de-ayuda-humanitaria-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HMUYCVzXAAA7HvP-750x430.jpg"
+      "title": "Keiko Fujimori es proclamada presidenta electa del Perú",
+      "link": "https://diarioversionfinal.com/mundo/keiko-fujimori-es-proclamada-presidenta-electa-del-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Keiko-Fujimori-11-06-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-07-03T21:06:29.588Z"
+  "lastUpdate": "2026-07-03T23:04:03.452Z"
 }
