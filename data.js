@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 03 Julio 2026"
     },
     "binance": {
-      "usdt": "777,25"
+      "usdt": "775,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Padrino López: \"Alimentos en Venezuela están garantizados\" porque la producción no se ha detenido",
-      "link": "https://www.bancaynegocios.com/padrino-lopez-alimentos-en-venezuela-estan-garantizados-porque-la-produccion-no-se-ha-detenido/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/PADRINO-LOPEZ-AGROINDUSTRIA.jpeg"
+      "title": "Oficina de la ONU calcula en US$37.000 millones daños en infraestructura por doble terremoto en Venezuela",
+      "link": "https://www.bancaynegocios.com/oficina-de-la-onu-calcula-en-us37000-millones-danos-en-infraestructura-por-doble-terremoto-en-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/terremoto.webp"
     },
     {
       "source": "Infobae",
-      "title": "Exigieron a Delcy Rodríguez derogar la “Ley Anti-ONG” para facilitar el apoyo humanitario a las víctimas del terremoto",
-      "link": "https://www.infobae.com/venezuela/2026/07/02/exigieron-a-delcy-rodriguez-derogar-la-ley-anti-ong-para-facilitar-el-apoyo-humanitario-a-las-victimas-del-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/Y47V3CXN7NF63OCI4NMBF6KYLI.JPG?auth=62ff1de1d2bdaaf7942b5d0daabd8f7aeca465a7c483e7bc1af1d05a539dc34d&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela informó que mantiene conversaciones con EEUU y el FMI para la reconstrucción de la infraestructura afectada por los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/03/venezuela-informo-que-mantiene-conversaciones-con-eeuu-y-el-fmi-para-la-reconstruccion-de-la-infraestructura-afectada-por-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/3XIEI6ZO5VGD7OHEVOFTSWT5DY.JPG?auth=04513f6fd95ba2c03ef8a55a41716257de3540d3a5338bc15acc0f32c1e9e02f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Se eleva a 62 la cifra de fallecidos por doblete sísmico en Chacao",
-      "link": "https://noticialdia.com/al-dia/se-eleva-a-62-la-cifra-de-fallecidos-por-doblete-sismico-en-chacao/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/1782737325847-e1783029756265.webp?x74468"
+      "title": "Murió un hombre tras desplomarse parte de la estructura en el antiguo Hospital Central de Maracaibo",
+      "link": "https://noticialdia.com/al-dia/murio-un-hombre-tras-desplomarse-parte-de-la-estructura-en-el-antiguo-hospital-central-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Hospital_Central_Dr._Urquinaona_I.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Crecen los llamados para que regrese el TPS tras los terremotos en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/07/02/eeuu/peor-momento-venezuela-regrese-tps-terremotos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283772311.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cifra de personas fallecidas en Venezuela alcanza al menos 2.595, dice Rodríguez",
+      "link": "https://cnnespanol.cnn.com/2026/07/02/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-la-guaira-caracas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283561075-20260701220723765.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez celebra el rescate de un hombre que permaneció 8 días bajo los escombros",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-celebra-el-rescate-de-un-hombre-que-permanecio-8-dias-bajo-los-escombros",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-01-at-8.36.38-pm-3192e9.jpeg"
+      "title": "Alcaldía de Baruta reporta 50 estructuras en riesgo",
+      "link": "https://noticiasvenevision.com/noticias/politica/alcaldia-de-baruta-reporta-50-estructuras-en-riesgo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-07-02-203141-11cdc6.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SUSPENDIERON LA VENTA DE BEBIDAS ALCOHÓLICAS DURANTE EL DUELO NACIONAL EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/suspendieron-la-venta-de-bebidas-alcoholicas-durante-el-duelo-nacional-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/leyseca_eleccionesmunicipales-627x376.jpg"
+      "title": "EL REY HA VUELTO: CONOR MCGREGOR ES NUEVO EMBAJADOR GLOBAL DE 1XBET",
+      "link": "https://noticierodigital.com/2026/07/el-rey-ha-vuelto-conor-mcgregor-es-nuevo-embajador-global-de-1xbet/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/conor-mcgregor-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Unicef: cerca de 680.000 niños requieren ayuda en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/unicef-cerca-de-680-000-ninos-requieren-ayuda-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/1-Foto-UNICEF-750x430.jpeg"
+      "title": "Cristo Redentor se ilumina en Río en homenaje a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/cristo-redentor-se-ilumina-en-rio-en-homenaje-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/cristo-redentor-e1783041696342-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-02T23:07:09.486Z"
+  "lastUpdate": "2026-07-03T03:16:42.390Z"
 };
