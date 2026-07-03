@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 03 Julio 2026"
     },
     "binance": {
-      "usdt": "773,69"
+      "usdt": "775,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez cumple el plazo máximo de la Presidencia encargada y expertos advierten por la legalidad de su Gobierno",
-      "link": "https://www.infobae.com/venezuela/2026/07/03/delcy-rodriguez-cumple-el-plazo-maximo-de-la-presidencia-encargada-y-expertos-advierten-por-la-legalidad-de-su-gobierno/",
-      "image": "https://www.infobae.com/resizer/v2/6AZLX76RVJEEXFQQLDZ6ORSFJA.JPG?auth=4874c72a65b249487192a10cdbc80265d6b9da8037ed711ee6c02e78c8e7d98f&smart=true&width=350&height=197&quality=85"
+      "title": "El Gobierno de Venezuela elevó a 2.645 la cifra de muertos por el doble terremoto",
+      "link": "https://www.infobae.com/venezuela/2026/07/03/venezuela-elevo-a-2645-la-cifra-de-muertos-por-el-doble-terremoto/",
+      "image": "https://www.infobae.com/resizer/v2/LJ6H3DQUARAD3OCWPQ2TWVM7EA.JPG?auth=5adfa19edeaa5508016b1ea5a7729684d14f344ef1f5950fe435ceb5d6d2ef00&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Delcy Rodríguez visitó a Hernán Gil, rescatado entre los escombros en un centro comercial de La Guaira, siete días después del doblete sísmico: \"Hoy abracé un milagro\"",
-      "link": "https://noticialdia.com/al-dia/delcy-rodriguez-visito-a-hernan-gil-rescatado-entre-los-escombros-en-un-centro-comercial-de-la-guaira-siete-dias-despues-del-doblete-sismico-hoy-abrace-un-milagro/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-03-at-3.05.49-PM.webp?x74468"
+      "title": "Colapsó parte del Colegio San Judas Tadeo en Caracas este viernes 3-Jul",
+      "link": "https://noticialdia.com/al-dia/colapso-parte-del-colegio-san-judas-tadeo-en-caracas-este-viernes-3-jul/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-03-at-4.23.28-PM.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Hospitales saturados y un sistema débil: Venezuela se acerca a una crisis sanitaria",
-      "link": "https://cnnespanol.cnn.com/2026/07/03/venezuela/terremotos-crisis-sanitaria-hospitales-saturados-sistema-debilitado-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/venezuela-gettyimages-2283800859.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Venezuela llega a 2.645 muertos y 12.666 heridos tras los terremotos",
+      "link": "https://cnnespanol.cnn.com/2026/07/03/venezuela/live-news/terremotos-noticias-guaira-caracas-rescates-muertos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/venezuela-gettyimages-2283800859.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DESDE ARGENTINA PARTEN MÁS DE 100 RESCATISTAS ARGENTINOS Y MÉDICOS VENEZOLANOS RUMBO A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/desde-argentina-parten-mas-de-100-rescatistas-argentinos-y-medicos-venezolanos-rumbo-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-2-1-627x376.png"
+      "title": "NÚMERO DE ESPAÑOLES FALLECIDOS EN VENEZUELA POR TERREMOTO SE ELEVA A 32",
+      "link": "https://noticierodigital.com/2026/07/numero-de-espanoles-fallecidos-en-venezuela-por-terremoto-se-eleva-a-32/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-01-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La OMS declara el fin del brote de hantavirus vinculado a crucero de Argentina",
-      "link": "https://diarioversionfinal.com/mundo/la-oms-declara-el-fin-del-brote-de-hantavirus-vinculado-a-crucero-de-argentina/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/17781834048652-750x430.jpg"
+      "title": "Ecuador envía cuarto cargamento de ayuda humanitaria a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/ecuador-envia-cuarto-cargamento-de-ayuda-humanitaria-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HMUYCVzXAAA7HvP-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-03T19:22:31.615Z"
+  "lastUpdate": "2026-07-03T21:06:29.588Z"
 };
