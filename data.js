@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 03 Julio 2026"
     },
     "binance": {
-      "usdt": "771,25"
+      "usdt": "775,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Las impactantes imágenes grabadas con drones que muestran los edificios de La Guaira arrasados ​​por los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/03/las-impactantes-imagenes-grabadas-con-drones-que-muestran-los-edificios-de-la-guaira-arrasados-por-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/5QB5I3MTEJH25P5XTANCS73I3E.jpg?auth=d0eae3521b71131b5199b5731500b8c103cf2cab08aed5482ad30776143d7805&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado dijo que su regreso estabilizaría a Venezuela tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/03/maria-corina-machado-dijo-que-su-regreso-estabilizaria-a-venezuela-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/6FHBSCOUIBEWPHECHNBWKKJGEA.JPG?auth=859332dc7c43f8aa5360d14c353f7a0a6e6a63f92787054e88f05531a69960e6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Nuevo milagro en La Guaira: Rescatan con vida a septuagenaria tras pasar ocho días bajo los escombros",
-      "link": "https://noticialdia.com/sucesos/nuevo-milagro-en-la-guaira-rescatan-con-vida-a-septuagenaria-tras-pasar-ocho-dias-bajo-los-escombros/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/ppal22.webp?x74468"
+      "title": "Policarirubana detuvo a un hombre por hurto de cableado eléctrico en comercio de Punto Fijo",
+      "link": "https://noticialdia.com/sucesos/policarirubana-detuvo-a-un-hombre-por-hurto-de-cableado-electrico-en-comercio-de-punto-fijo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Policarirubana-detuvo-a-maleante-por-hurto-de-tendido-electrico-de-establecimiento-comercial-Fu-convertido-a-1024x780-1.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta Encargada Delcy Rodríguez confirma 2.595 muertos y 12.400 heridos tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-confirma-2595-muertos-y-12400-heridos-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rss-efe094b3761fcafdf4f32557c5f5872a37df94d459dw-ef240b.jpg"
+      "title": "Venezuela condecora a 150 rescatistas españoles",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-condecora-a-150-rescatistas-espanoles",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_5278-38b16f.PNG"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SOCIEDAD ESPAÑOLA DE EPIDEMIOLOGÍA PIDE ATENDER CONSECUENCIAS PSICOLÓGICAS POR SISMOS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/sociedad-espanola-de-epidemiologia-pide-atender-consecuencias-psicologicas-por-sismos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-2-14-627x376.png"
+      "title": "DESPLIEGAN DRONES PARA INTENTAR RESCATAR A NIÑO DE 9 AÑOS EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/07/despliegan-drones-para-intentar-rescatar-a-nino-de-9-anos-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-1-1-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur mantiene puente aéreo con aviones C-17 para enviar ayuda humanitaria a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-mantiene-puente-aereo-con-aviones-c-17-para-enviar-ayuda-humanitaria-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/ee-uu-intensifica-el-apoyo-logistico-y-medico-en-venezuela-tras-los-recientes-terremotos-63614-750x430.jpg"
+      "title": "Rosalía y oenegés españolas envían ayuda humanitaria para la infancia afectada en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/rosalia-y-oeneges-espanolas-envian-ayuda-humanitaria-para-la-infancia-afectada-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/rosalia-alfombra-roja-the-ivors-2026_103-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-03T15:12:06.338Z"
+  "lastUpdate": "2026-07-03T17:25:50.249Z"
 };
