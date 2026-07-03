@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 03 Julio 2026"
     },
     "binance": {
-      "usdt": "775,89"
+      "usdt": "775,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alcaldía de Baruta reporta 50 estructuras en riesgo",
-      "link": "https://noticiasvenevision.com/noticias/politica/alcaldia-de-baruta-reporta-50-estructuras-en-riesgo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-07-02-203141-11cdc6.png"
+      "title": "Presidenta Encargada Delcy Rodríguez confirma 2.595 muertos y 12.400 heridos tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-confirma-2595-muertos-y-12400-heridos-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rss-efe094b3761fcafdf4f32557c5f5872a37df94d459dw-ef240b.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/cristo-redentor-e1783041696342-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-03T03:16:42.390Z"
+  "lastUpdate": "2026-07-03T07:20:10.941Z"
 };
