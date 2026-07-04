@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "777,98"
+      "usdt": "816,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Oficina de la ONU calcula en US$37.000 millones daños en infraestructura por doble terremoto en Venezuela",
-      "link": "https://www.bancaynegocios.com/oficina-de-la-onu-calcula-en-us37000-millones-danos-en-infraestructura-por-doble-terremoto-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/terremoto.webp"
+      "title": "Luis Vicente León: PIB de Venezuela no va a caer como consecuencia del doble terremoto",
+      "link": "https://www.bancaynegocios.com/luis-vicente-leon-pib-de-venezuela-no-va-a-caer-como-consecuencia-del-doble-terremoto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/PIB-VENEZUELA-e1783121744545.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Terremotos en Venezuela: los rescatistas no hallan señales de vida del niño Fabio en Caraballeda",
-      "link": "https://www.infobae.com/venezuela/2026/07/03/terremotos-en-venezuela-los-rescatistas-no-hallan-senales-de-vida-del-nino-fabio-en-caraballeda/",
-      "image": "https://www.infobae.com/resizer/v2/736GHUQJRJBQJAXT5TW6ICT7BQ.JPG?auth=530da620fc6e608eac732806011b33197f00317558b1af1538d5dcda1486a802&smart=true&width=350&height=197&quality=85"
+      "title": "Las familias exigen ayuda del Estado para la recuperación de los cuerpos de las víctimas del doble terremoto en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/04/las-familias-exigen-ayuda-del-estado-para-la-recuperacion-de-los-cuerpos-de-las-victimas-del-doble-terremoto-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4YMZSW5TQNCVDMLXZULSURBCZI.JPG?auth=bcdae5e309c0dbdbf91f803bf6be64ac1f144634b9c63ec46d5d260c04fe11d1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Colapsó parte del Colegio San Judas Tadeo en Caracas este viernes 3-Jul",
-      "link": "https://noticialdia.com/al-dia/colapso-parte-del-colegio-san-judas-tadeo-en-caracas-este-viernes-3-jul/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-03-at-4.23.28-PM.webp?x74468"
+      "title": "Detectan señales de vida bajo los escombros del edificio Oasis Beach en La Guaira la noche de este viernes 3-Jul",
+      "link": "https://noticialdia.com/al-dia/detectan-senales-de-vida-bajo-los-escombros-del-edificio-oasis-beach-en-la-guaira-la-noche-de-este-viernes-3-jul/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-03-at-8.02.49-PM.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Venezuela llega a 2.645 muertos y 12.666 heridos tras los terremotos",
-      "link": "https://cnnespanol.cnn.com/2026/07/03/venezuela/live-news/terremotos-noticias-guaira-caracas-rescates-muertos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/venezuela-gettyimages-2283800859.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Quedó sepultada bajo escombros con heridas graves, pero sus rescatistas no se rindieron",
+      "link": "https://cnnespanol.cnn.com/2026/07/03/venezuela/herida-grave-escombros-sismo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22770264-406519-693-thumb.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gustavo Duque anuncia alianza con bancos y aseguradoras para financiar reconstrucción de edificios de Chacao tras sismos",
-      "link": "https://noticiasvenevision.com/noticias/politica/gustavo-duque-anuncia-alianza-con-bancos-y-aseguradoras-para-financiar-reconstruccion-de-edificios-de-chacao-tras-sismos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/terremotos-petunia-chacao-7ec8b6.jpg"
+      "title": "Ministerio de Educación informa cambios del calendario escolar tras sismos",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-educacion-informa-cambios-del-calendario-escolar-tras-sismos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-70f05d.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE RODRÍGUEZ ABORDÓ CON LA ONU LOS PLANES DE ATENCIÓN INTEGRAL A LAS VÍCTIMAS",
-      "link": "https://noticierodigital.com/2026/07/jorge-rodriguez-abordo-con-la-onu-los-planes-de-atencion-integral-a-las-victimas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/jorge-rodriguez-giancluca-rampolla-627x376.jpg"
+      "title": "LA UCAB RETOMARÁ LAS CLASES DE MANERA VIRTUAL EL 8 DE JULIO",
+      "link": "https://noticierodigital.com/2026/07/la-ucab-retomara-las-clases-de-manera-virtual-el-8-de-julio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/11/ucab-colmena-18nov2020-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Keiko Fujimori es proclamada presidenta electa del Perú",
-      "link": "https://diarioversionfinal.com/mundo/keiko-fujimori-es-proclamada-presidenta-electa-del-peru/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Keiko-Fujimori-11-06-2026.jpg"
+      "title": "Italia eleva a 16 el número de ciudadanos fallecidos por los terremotos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/italia-eleva-a-16-el-numero-de-ciudadanos-fallecidos-por-los-terremotos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-03T174043.344.jpg"
     }
   ],
-  "lastUpdate": "2026-07-03T23:04:03.452Z"
+  "lastUpdate": "2026-07-04T02:55:40.870Z"
 };
