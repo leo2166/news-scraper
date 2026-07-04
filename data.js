@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "814,69"
+      "usdt": "802,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Quedó sepultada bajo escombros con heridas graves, pero sus rescatistas no se rindieron",
-      "link": "https://cnnespanol.cnn.com/2026/07/03/venezuela/herida-grave-escombros-sismo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22770264-406519-693-thumb.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El inesperado regalo del Mundial a EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/07/04/eeuu/estados-unidos-cumpleanos-espectaculo-futbolistico-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284265916-20260704044637420.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "España eleva a 34 de sus ciudadanos fallecidos en el terremoto de Venezuela",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/espana-eleva-a-34-de-sus-ciudadanos-fallecidos-en-el-terremoto-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/vVW5PGPY-image-750x430.jpg"
+      "title": "Uruguay envía 15 toneladas de ayuda humanitaria a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/uruguay-envia-15-toneladas-de-ayuda-humanitaria-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Proyecto-nuevo-1024x576-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-04T11:27:05.305Z"
+  "lastUpdate": "2026-07-04T13:25:57.035Z"
 };
