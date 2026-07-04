@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "812,69"
+      "usdt": "814,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Empieza el funeral de 6 días del ayatolá Jamenei y la incógnita del sucesor",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/empieza-el-funeral-de-6-dias-del-ayatola-jamenei-y-la-incognita-del-sucesor/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/dPZCKLXq-image-750x430.jpg"
+      "title": "España eleva a 34 de sus ciudadanos fallecidos en el terremoto de Venezuela",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/espana-eleva-a-34-de-sus-ciudadanos-fallecidos-en-el-terremoto-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/vVW5PGPY-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-04T09:23:15.140Z"
+  "lastUpdate": "2026-07-04T11:27:05.305Z"
 };
