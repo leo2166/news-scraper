@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "793,10"
+      "usdt": "793,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,7 +33,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. celebra 250 años de independencia en medio de una peligrosa ola de calor",
+      "title": "EE.UU. celebra 250 años de independencia",
       "link": "https://cnnespanol.cnn.com/2026/07/04/eeuu/live-news/estados-unidos-250-aniversario-4-julio-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2229628233.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/79d0edd7-cd98-4537-8347-5170456b3848-GettyImages2284196926-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-04T20:57:47.012Z"
+  "lastUpdate": "2026-07-04T22:03:09.975Z"
 };
