@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció que varios países brindarán ayuda humanitaria a Venezuela para recuperar el aeropuerto de Maiquetía tras los sismos",
-      "link": "https://www.infobae.com/venezuela/2026/07/05/delcy-rodriguez-anuncio-que-varios-paises-brindaran-ayuda-humanitaria-a-venezuela-para-recuperar-el-aeropuerto-de-maiquetia-tras-los-sismos/",
-      "image": "https://www.infobae.com/resizer/v2/6AZLX76RVJEEXFQQLDZ6ORSFJA.JPG?auth=4874c72a65b249487192a10cdbc80265d6b9da8037ed711ee6c02e78c8e7d98f&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela anunció medidas económicas tras los terremotos mientras aumentan las quejas por la falta de ayuda en La Guaira",
+      "link": "https://www.infobae.com/venezuela/2026/07/05/venezuela-anuncio-medidas-economicas-tras-los-terremotos-mientras-aumentan-las-quejas-por-la-falta-de-ayuda-en-la-guaira/",
+      "image": "https://www.infobae.com/resizer/v2/FUJJFEOASVC2NN3DBEGV23JZNM.JPG?auth=c05e66b84397b8aee92acf142b82e9ee9b80aca875cc6bf1b69c60b8509ffea5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. culmina la celebración de su 250.º aniversario con festejos a pesar de las tormentas",
+      "title": "EE.UU. culmina la celebración de su 250.º aniversario a pesar de las tormentas",
       "link": "https://cnnespanol.cnn.com/2026/07/04/eeuu/live-news/estados-unidos-250-aniversario-4-julio-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/fourth-july-fireworks-2026.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-04-140751.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Repatriados-a-Ecuador-04-07-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-07-05T04:56:30.522Z"
+  "lastUpdate": "2026-07-05T08:03:10.104Z"
 };
