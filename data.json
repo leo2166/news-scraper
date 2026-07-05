@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "780,00"
+      "usdt": "784,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "La familia Montaner impulsa una campaña de asistencia humanitaria a Venezuela a través de su fundación The House Project",
-      "link": "https://www.infobae.com/venezuela/2026/07/05/la-familia-montaner-impulsa-una-campana-de-asistencia-humanitaria-a-venezuela-a-traves-de-su-fundacion-the-house-project/",
-      "image": "https://www.infobae.com/resizer/v2/Y5ZSPKYMMRGVPHWHL4EA4OLEN4.PNG?auth=20863ffab0fe317c25716738896a0faa5a680c9b3b8eba0d987a7dd2431f64d3&smart=true&width=350&height=197&quality=85"
+      "title": "EEUU ratificó su respaldo a Venezuela por su Independencia y garantizó la asistencia ante la emergencia por los terremotos",
+      "link": "https://www.infobae.com/estados-unidos/2026/07/05/eeuu-ratifico-su-respaldo-a-venezuela-por-su-independencia-y-garantizo-la-asistencia-ante-la-emergencia-por-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/PDKPO3G33FAQPKLDFUR3SRHQ2I.JPG?auth=83cfc106615c1e3f3f868cd9ad1f3cf2e714bf242a0d6cb980c42a1e9d89e745&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,21 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El nuevo líder supremo de Irán aún no aparece en el funeral de Jamenei",
-      "link": "https://cnnespanol.cnn.com/2026/07/05/mundo/live-news/guerra-ee-uu-israel-iran-funeral-jamenei-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284208682.jpg?c=16x9&q=h_438,w_780,c_fill"
-    },
-    {
-      "source": "Noticias Venevisión",
-      "title": "Francisco Garcés: \"Nuestra sociedad siempre tiene que ir trabajando en reducción de la vulnerabilidad que implica una disminución del riesgo\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/francisco-garces-nuestra-sociedad-siempre-tiene-que-ir-trabajando-en-reduccion-de-la-vulnerabilidad-que-implica-una-disminucion-del-riesgo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7720.jpg-2-9685c9.jpeg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "ARZOBISPO DE PANAMÁ: «QUERIDOS VENEZOLANOS NO PERMITAN QUE NADIE LES ROBE ESA ESPERANZA»",
-      "link": "https://noticierodigital.com/2026/07/arzobispo-de-panama-queridos-venezolanos-no-permitan-que-nadie-les-robe-esa-esperanza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/Diseno-sin-titulo-2-14-627x376.png"
+      "title": "Noruega elimina a Brasil del Mundial 2026",
+      "link": "https://cnnespanol.cnn.com/2026/07/05/deportes/live-news/resultado-brasil-noruega-mundial-2026-goles-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284221068.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "La Verdad",
@@ -62,5 +50,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-3.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-05T21:00:00.841Z"
+  "lastUpdate": "2026-07-05T22:09:24.657Z"
 }
