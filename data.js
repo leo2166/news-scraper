@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "782,50"
+      "usdt": "781,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Altos funcionarios de Estados Unidos llegaron a Venezuela para supervisar el despliegue de ayuda tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/05/altos-funcionarios-de-estados-unidos-llegaron-a-venezuela-para-supervisar-el-despliegue-de-ayuda-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/NLZSX4XPZFDRFFSEC4OWQXT7L4.PNG?auth=fcd0fe0d02ac31be81208b876695d613bf7ef1a21694eb3a24bb0de61d20cc20&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela creó una unidad militar especial para atender emergencias por desastres naturales tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/06/venezuela-creo-una-unidad-militar-especial-para-atender-emergencias-por-desastres-naturales-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/M3RRJL3ML5GJHCNOBABC5USVYY.JPG?auth=6619cee382e057ccac912ec7cc13d1d991393ac1912f3905bc2a8efe417a5149&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Un gran Haaland trunca el sueño mundialista de Brasil",
-      "link": "https://cnnespanol.cnn.com/2026/07/05/deportes/live-news/resultado-brasil-noruega-mundial-2026-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/apimages-8c3b15d2ba3c4f0c90ad452616e095a9.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Inglaterra derrotó 3-2 a México y está en cuartos de final",
+      "link": "https://cnnespanol.cnn.com/2026/07/05/deportes/live-news/resultado-mexico-inglaterra-mundial-2026-goles-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284820035.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Francisco Garcés: \"Nuestra sociedad siempre tiene que ir trabajando en reducción de la vulnerabilidad que implica una disminución del riesgo\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/francisco-garces-nuestra-sociedad-siempre-tiene-que-ir-trabajando-en-reduccion-de-la-vulnerabilidad-que-implica-una-disminucion-del-riesgo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7720.jpg-2-9685c9.jpeg"
+      "title": "Ministerio de Comunicación e Información pública balance informativo de este domingo 5 de julio tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-comunicacion-e-informacion-publica-balance-informativo-de-este-domingo-5-de-julio-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-05-at-4.53.23-pm-b0f7b7.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Argentina envió un segundo grupo de rescatistas para relevar a brigadistas desplegados en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/argentina-envio-un-segundo-grupo-de-rescatistas-para-relevar-a-brigadistas-desplegados-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Rescatistas-argentinos-05-07-2026-750x430.png"
+      "title": "Ataque ruso con misiles y drones en Kiev deja al menos siete muertos",
+      "link": "https://diarioversionfinal.com/mundo/ataque-ruso-con-misiles-y-drones-en-kiev-deja-al-menos-siete-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Ataque-a-Ucrania-05-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-06T00:05:32.589Z"
+  "lastUpdate": "2026-07-06T05:11:34.601Z"
 };
