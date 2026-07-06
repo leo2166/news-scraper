@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "784,50"
+      "usdt": "782,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "EEUU ratificó su respaldo a Venezuela por su Independencia y garantizó la asistencia ante la emergencia por los terremotos",
-      "link": "https://www.infobae.com/estados-unidos/2026/07/05/eeuu-ratifico-su-respaldo-a-venezuela-por-su-independencia-y-garantizo-la-asistencia-ante-la-emergencia-por-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/PDKPO3G33FAQPKLDFUR3SRHQ2I.JPG?auth=83cfc106615c1e3f3f868cd9ad1f3cf2e714bf242a0d6cb980c42a1e9d89e745&smart=true&width=350&height=197&quality=85"
+      "title": "Altos funcionarios de Estados Unidos llegaron a Venezuela para supervisar el despliegue de ayuda tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/05/altos-funcionarios-de-estados-unidos-llegaron-a-venezuela-para-supervisar-el-despliegue-de-ayuda-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/NLZSX4XPZFDRFFSEC4OWQXT7L4.PNG?auth=fcd0fe0d02ac31be81208b876695d613bf7ef1a21694eb3a24bb0de61d20cc20&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Noruega elimina a Brasil del Mundial 2026",
+      "title": "Un gran Haaland trunca el sueño mundialista de Brasil",
       "link": "https://cnnespanol.cnn.com/2026/07/05/deportes/live-news/resultado-brasil-noruega-mundial-2026-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284221068.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/apimages-8c3b15d2ba3c4f0c90ad452616e095a9.jpg?c=16x9&q=h_720,w_1280,c_fill"
+    },
+    {
+      "source": "Noticias Venevisión",
+      "title": "Francisco Garcés: \"Nuestra sociedad siempre tiene que ir trabajando en reducción de la vulnerabilidad que implica una disminución del riesgo\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/francisco-garces-nuestra-sociedad-siempre-tiene-que-ir-trabajando-en-reduccion-de-la-vulnerabilidad-que-implica-una-disminucion-del-riesgo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7720.jpg-2-9685c9.jpeg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "DESIGNAN A FRANCISCO GARCÉS MINISTRO DE TRANSPORTE Y A JACQUELINE FARÍA EN MISIÓN VENEZUELA RENACE",
+      "link": "https://noticierodigital.com/2026/07/designan-a-francisco-garces-ministro-de-transporte-y-a-jacqueline-faria-en-mision-venezuela-renace/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-5.47.38-PM-627x376.jpeg"
     },
     {
       "source": "La Verdad",
@@ -45,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Portugal confirma 95 fallecidos en Venezuela por los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/portugal-confirma-95-fallecidos-en-venezuela-por-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-3.jpeg"
+      "title": "Argentina envió un segundo grupo de rescatistas para relevar a brigadistas desplegados en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/argentina-envio-un-segundo-grupo-de-rescatistas-para-relevar-a-brigadistas-desplegados-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Rescatistas-argentinos-05-07-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-07-05T22:09:24.657Z"
+  "lastUpdate": "2026-07-06T00:05:32.589Z"
 };
