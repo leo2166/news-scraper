@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "749,90"
+      "usdt": "791,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Presidenta (e) insiste en demandar liberación urgente de fondos en el exterior para atender la emergencia",
-      "link": "https://www.bancaynegocios.com/presidenta-e-insiste-en-demandar-liberacion-urgente-de-fondos-en-el-exterior-para-atender-la-emergencia/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-050726-NUEVA.jpg"
+      "title": "Pisella: Hay que acelerar las devoluciones de activos expropiados para atraer mayor inversión",
+      "link": "https://www.bancaynegocios.com/pisella-hay-que-acelerar-las-devoluciones-de-activos-expropiados-para-atraer-mayor-inversion/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/LUIGI-PISELLA-FEDECAMARAS.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Tres heridos dejó estrepitoso choque en la C-2 cerca de la iglesia San Tarcisio: Entre las víctimas hay un niño",
-      "link": "https://noticialdia.com/sucesos/tres-heridos-dejo-estrepitoso-choque-en-la-c-2-cerca-de-la-iglesia-san-tarcisio-entre-las-victimas-hay-un-nino/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/choque3.webp?x74468"
+      "title": "Funvisis reporta robo de un sensor clave para monitorear la falla de Boconó",
+      "link": "https://noticialdia.com/sucesos/funvisis-reporta-robo-de-un-sensor-clave-para-monitorear-la-falla-de-bocono/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/1793-1.webp?x74468"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump interviene por la tarjeta roja a Balogun y desata una tormenta política",
-      "link": "https://cnnespanol.cnn.com/2026/07/06/eeuu/analisis-mundial-2026-trump-fifa-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/arbitro-raphael-claus-tarjeta-roja.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "\"No me pareció falta\": Trump confirma que pidió a la FIFA revisar la roja a Balogun",
+      "link": "https://cnnespanol.cnn.com/2026/07/06/deportes/trump-pidio-fifa-tarjeta-roja-balogun-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284257138-20260706150212770.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Ministerio de Comunicación e Información pública balance informativo de este domingo 5 de julio tras terremotos",
       "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-comunicacion-e-informacion-publica-balance-informativo-de-este-domingo-5-de-julio-tras-terremotos",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-05-at-4.53.23-pm-b0f7b7.jpeg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "EXPERTOS COLOMBIANOS AYUDARÁN EN LA IDENTIFICACIÓN DE FALLECIDOS POR TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/expertos-colombianos-ayudaran-en-la-identificacion-de-fallecidos-por-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-01-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juez ordena a Petro suspender bombardeos en Arauca hasta reforzar protección de menores",
-      "link": "https://diarioversionfinal.com/mundo/juez-ordena-a-petro-suspender-bombardeos-en-arauca-hasta-reforzar-proteccion-de-menores/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
+      "title": "Parlamento Europeo rinde homenaje a las víctimas de los terremotos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/parlamento-europeo-rinde-homenaje-a-las-victimas-de-los-terremotos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
     }
   ],
-  "lastUpdate": "2026-07-06T14:25:10.224Z"
+  "lastUpdate": "2026-07-06T17:43:24.647Z"
 };
