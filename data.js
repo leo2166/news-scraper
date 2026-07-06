@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 07 Julio 2026"
     },
     "binance": {
-      "usdt": "799,50"
+      "usdt": "797,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela solicitó asistencia a Naciones Unidas para reconstruir las viviendas destruidas por el doble terremoto",
-      "link": "https://www.infobae.com/venezuela/2026/07/06/venezuela-solicito-asistencia-a-naciones-unidas-para-reconstruir-las-viviendas-destruidas-por-el-doble-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/CID3MNLKLJC4DBKMOGEJRXZFRU.JPG?auth=a6a6898cad4c5b16cf8750ddb1b61cb706f70b0d1289f843f4cfadb931b2faf4&smart=true&width=350&height=197&quality=85"
+      "title": "El drama de los venezolanos que vuelven a sus casas destruidas para salvar lo poco que les queda",
+      "link": "https://www.infobae.com/venezuela/2026/07/06/el-drama-de-los-venezolanos-que-vuelven-a-sus-casas-destruidas-para-salvar-lo-poco-que-les-queda/",
+      "image": "https://www.infobae.com/assets/images/logos/logo_infobae_naranja_default.svg"
     },
     {
       "source": "Noticia al Día",
       "title": "Colisión entre un vehículo y moto deja un herido en Cabimas",
       "link": "https://noticialdia.com/sucesos/colision-entre-un-vehiculo-y-moto-deja-un-herido-en-cabimas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.49.50-PM.webp?x16981"
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.49.50-PM.webp?x58391"
     },
     {
       "source": "CNN en Español",
-      "title": "\"No me pareció falta\": Trump confirma que pidió a la FIFA revisar la roja a Balogun",
-      "link": "https://cnnespanol.cnn.com/2026/07/06/deportes/trump-pidio-fifa-tarjeta-roja-balogun-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284257138-20260706150212770.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La red eléctrica de Cuba sufre un nuevo colapso",
+      "link": "https://cnnespanol.cnn.com/2026/07/06/latinoamerica/cuba-apagon-colpaso-red-electrica-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265647794-20260706120550751.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio de Comunicación e Información pública balance informativo de este domingo 5 de julio tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-comunicacion-e-informacion-publica-balance-informativo-de-este-domingo-5-de-julio-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-05-at-4.53.23-pm-b0f7b7.jpeg"
+      "title": "Gobernador de La Guaira confirma entierros individuales para cuerpos que no han sido reclamados",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobernador-de-la-guaira-confirma-entierros-individuales-para-cuerpos-que-no-han-sido-reclamados",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cementerio-de-la-esperanza-696x392-1-abfdbf.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 150 CUERPOS SON ENTERRADOS AÚN SIN IDENTIFICAR TRAS TERREMOTOS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/mas-de-150-cuerpos-son-enterrados-aun-sin-identificar-tras-terremotos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-2-4-627x376.png"
+      "title": "UNICEF REPORTÓ DAÑOS EN 38 HOSPITALES Y 432 COLEGIOS DE CARACAS TRAS LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/unicef-reporto-danos-en-38-hospitales-y-432-colegios-de-caracas-tras-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/colegio-san-judas-tadeo-caracas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-82-679x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-06T21:39:36.471Z"
+  "lastUpdate": "2026-07-06T23:08:13.906Z"
 };
