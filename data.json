@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "667,05",
-      "eur": "763,19",
-      "fechaValor": "Lunes, 06 Julio 2026"
+      "usd": "674,93",
+      "eur": "770,68",
+      "fechaValor": "Martes, 07 Julio 2026"
     },
     "binance": {
-      "usdt": "791,25"
+      "usdt": "792,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "Venezuela creó una unidad militar especial para atender emergencias por desastres naturales tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/06/venezuela-creo-una-unidad-militar-especial-para-atender-emergencias-por-desastres-naturales-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/M3RRJL3ML5GJHCNOBABC5USVYY.JPG?auth=6619cee382e057ccac912ec7cc13d1d991393ac1912f3905bc2a8efe417a5149&smart=true&width=350&height=197&quality=85"
+      "title": "Terremotos en Venezuela: subió a 3.535 la cifra de muertos y a 16.740 la de heridos",
+      "link": "https://www.infobae.com/venezuela/2026/07/06/terremotos-en-venezuela-subio-a-3535-la-cifra-de-muertos-y-a-16740-la-de-heridos/",
+      "image": "https://www.infobae.com/resizer/v2/YUZ7IBSKHVH4XHAMT2V2P6UPRU.JPG?auth=6ec2b97c1a8383e0fb92fc77d665a2310647c00b7cb93bbbb801a83b410ab9eb&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Funvisis reporta robo de un sensor clave para monitorear la falla de Boconó",
-      "link": "https://noticialdia.com/sucesos/funvisis-reporta-robo-de-un-sensor-clave-para-monitorear-la-falla-de-bocono/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/1793-1.webp?x74468"
+      "title": "Nueve detenidos en Machiques por armar un escándalo y desacatar el duelo nacional",
+      "link": "https://noticialdia.com/al-dia/nueve-detenidos-en-machiques-por-armar-un-escandalo-y-desacatar-el-duelo-nacional/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/93075d27-a639-4430-8ab7-4c129acaabb7.webp?x74468"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPERTOS COLOMBIANOS AYUDARÁN EN LA IDENTIFICACIÓN DE FALLECIDOS POR TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/expertos-colombianos-ayudaran-en-la-identificacion-de-fallecidos-por-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-01-627x376.jpg"
+      "title": "DGCIM: «AYUDA ENVIADA POR PANAMÁ FUE ENTREGADA A DAMNIFICADA DE LA GUAIRA EN MATURÍN»",
+      "link": "https://noticierodigital.com/2026/07/dgcim-ayuda-enviada-por-panama-fue-entregada-a-damnificada-de-la-guaira-en-maturin/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Gemini_Generated_Image_xej30ixej30ixej3-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Parlamento Europeo rinde homenaje a las víctimas de los terremotos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/parlamento-europeo-rinde-homenaje-a-las-victimas-de-los-terremotos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
+      "title": "Argentina envía 16 toneladas de ayuda y brigadas especializadas para reforzar la atención en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/argentina-envia-16-toneladas-de-ayuda-y-brigadas-especializadas-para-reforzar-la-atencion-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HMjhINOWMAE8t9G-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-06T17:43:24.647Z"
+  "lastUpdate": "2026-07-06T19:57:05.349Z"
 }
