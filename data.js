@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 06 Julio 2026"
     },
     "binance": {
-      "usdt": "781,68"
+      "usdt": "749,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,21 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "México despierta del sueño que fue el Mundial 2026",
-      "link": "https://cnnespanol.cnn.com/2026/07/06/deportes/mexico-despierta-mundial-2026-estadio-azteca-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284807278.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump interviene por la tarjeta roja a Balogun y desata una tormenta política",
+      "link": "https://cnnespanol.cnn.com/2026/07/06/eeuu/analisis-mundial-2026-trump-fifa-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/arbitro-raphael-claus-tarjeta-roja.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Ministerio de Comunicación e Información pública balance informativo de este domingo 5 de julio tras terremotos",
       "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-comunicacion-e-informacion-publica-balance-informativo-de-este-domingo-5-de-julio-tras-terremotos",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-05-at-4.53.23-pm-b0f7b7.jpeg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "DESIGNAN A FRANCISCO GARCÉS MINISTRO DE TRANSPORTE Y A JACQUELINE FARÍA EN MISIÓN VENEZUELA RENACE",
-      "link": "https://noticierodigital.com/2026/07/designan-a-francisco-garces-ministro-de-transporte-y-a-jacqueline-faria-en-mision-venezuela-renace/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-5.47.38-PM-627x376.jpeg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ataque ruso con misiles y drones en Kiev deja al menos siete muertos",
-      "link": "https://diarioversionfinal.com/mundo/ataque-ruso-con-misiles-y-drones-en-kiev-deja-al-menos-siete-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Ataque-a-Ucrania-05-07-2026-750x430.webp"
+      "title": "Juez ordena a Petro suspender bombardeos en Arauca hasta reforzar protección de menores",
+      "link": "https://diarioversionfinal.com/mundo/juez-ordena-a-petro-suspender-bombardeos-en-arauca-hasta-reforzar-proteccion-de-menores/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-06T10:21:51.634Z"
+  "lastUpdate": "2026-07-06T14:25:10.224Z"
 };
