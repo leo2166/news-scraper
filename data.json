@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "674,93",
-      "eur": "770,68",
-      "fechaValor": "Martes, 07 Julio 2026"
+      "usd": "685,94",
+      "eur": "783,78",
+      "fechaValor": "Miércoles, 08 Julio 2026"
     },
     "binance": {
-      "usdt": "822,29"
+      "usdt": "821,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez removió del Seniat al hermano de Diosdado Cabello tras 18 años en el cargo",
-      "link": "https://www.infobae.com/venezuela/2026/07/07/delcy-rodriguez-removio-del-seniat-al-hermano-de-diosdado-cabello-tras-18-anos-en-el-cargo/",
-      "image": "https://www.infobae.com/resizer/v2/M4V5CBGT6FCCVMNJI3YIKKDCJ4.jpg?auth=3f9439ae91f642e47cb9d01f50de7e6ade66dc0243f2145ffbbb44edc2a151a6&smart=true&width=350&height=197&quality=85"
+      "title": "Costa Rica envía segundo cargamento de insumos para niños y adultos mayores afectados por terremotos en Venezuela",
+      "link": "https://www.infobae.com/costa-rica/2026/07/07/costa-rica-envia-segundo-cargamento-de-insumos-para-ninos-y-adultos-mayores-afectados-por-terremotos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/JIF2EHBW45BT7C4YETOSLOWVAU.png?auth=0f15b95f8b113def465c1375dbf272c83dfb21ff7362dc86a46cc253b8d6a4c0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,21 +33,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Segundo tiempo: Suiza y Colombia empatan 0-0",
+      "title": "Suiza elimina a Colombia en penales y está en cuartos de final",
       "link": "https://cnnespanol.cnn.com/2026/07/07/deportes/live-news/suiza-colombia-mundial-2026-resultado-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285107814.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285122619.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez pide ayuda a Japón, Perú y Chile para que envíen especialistas tras doble terremoto del 24 de junio",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-pide-ayuda-a-japon-peru-y-chile-para-que-envien-especialistas-tras-sismos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l9266-ae3241.jpg"
+      "title": "Venezuela agradece a la India por atender a más de 8.000 afectados",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-agradece-a-la-india-por-atender-a-mas-de-8000-afectados",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-07-at-1.14.19-pm-696x392-8228cc.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "COMUNIDAD DE MADRID DESTINARÁ UN MILLÓN DE EUROS PARA AYUDA HUMANITARIA EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/comunidad-de-madrid-destinara-un-millon-de-euros-para-ayuda-humanitaria-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-3-1-627x376.png"
+      "title": "FALLECIÓ FERNANDO CHUMACEIRO, PRIMER ALCALDE ELECTO EN MARACAIBO",
+      "link": "https://noticierodigital.com/2026/07/fallecio-fernando-chumaceiro-primer-alcalde-electo-en-maracaibo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/fernando-chumaceiro-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Portugal eleva a 100 los ciudadanos fallecidos por los terremotos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/portugal-eleva-a-100-los-ciudadanos-fallecidos-por-los-terremotos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-98-638x430.jpg"
+      "title": "Petróleo sube 3 % por sanciones a Irán y tensión en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/petroleo-sube-3-por-sanciones-a-iran-y-tension-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/05/tsize_600x400_pETROLEO-701x469-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-07T21:24:10.806Z"
+  "lastUpdate": "2026-07-07T23:01:31.528Z"
 }
