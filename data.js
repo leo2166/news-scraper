@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 07 Julio 2026"
     },
     "binance": {
-      "usdt": "801,68"
+      "usdt": "805,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pisella: Hay que acelerar las devoluciones de activos expropiados para atraer mayor inversión",
-      "link": "https://www.bancaynegocios.com/pisella-hay-que-acelerar-las-devoluciones-de-activos-expropiados-para-atraer-mayor-inversion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/LUIGI-PISELLA-FEDECAMARAS.jpg"
+      "title": "Estiman que reemplazar solo la infraestructura de vivienda dañada en la costa de La Guaira costará US$ 2.370,6 millones",
+      "link": "https://www.bancaynegocios.com/estiman-que-reemplazar-solo-la-infraestructura-de-vivienda-danada-en-la-costa-de-la-guaira-costara-us-2370-con-6-millones/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/InflacionEEUUDolaresDivisas.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela reinició las clases en gran parte del país tras los terremotos, con suspensión en las zonas más afectadas",
-      "link": "https://www.infobae.com/venezuela/2026/07/07/venezuela-reinicio-las-clases-en-gran-parte-del-pais-tras-los-terremotos-con-suspension-en-las-zonas-mas-afectadas/",
-      "image": "https://www.infobae.com/resizer/v2/T2EMA3V4KVFCFJ6BXB5A2RM5AM.JPG?auth=b6f636af437317c8bb0dba9f1ca75bb2acd4f955c17d8c58abe369ba8716c5a9&smart=true&width=350&height=197&quality=85"
+      "title": "Un coronel calificó de degradación militar que funcionarios ajenos a la Fuerza Armada entreguen sables a nuevos oficiales",
+      "link": "https://www.infobae.com/venezuela/2026/07/07/un-coronel-califico-de-degradacion-militar-que-funcionarios-ajenos-a-la-fuerza-armada-entreguen-sables-a-nuevos-oficiales/",
+      "image": "https://www.infobae.com/resizer/v2/MOADNYOJ5BCRTKIIUHHEVQNQJI.jpg?auth=d0b9d5c84af945265741ad11a057bb1c4464b5aa33d10fb74da820834e17f96c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump se dirige a la cumbre de la OTAN de mal humor",
-      "link": "https://cnnespanol.cnn.com/2026/07/07/mundo/live-news/cumbre-otan-trump-presion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trumpnato-20260707085932486.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump tiene ahora una ventaja sorprendente sobre Irán",
+      "link": "https://cnnespanol.cnn.com/2026/07/07/economia/iran-trump-precio-petroleo-oferta-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260707101957606.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHINA ENVIÓ 85 TONELADAS DE AYUDA HUMANITARIA A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/china-envio-85-toneladas-de-ayuda-humanitaria-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/china-venezuela-ayuda-humanitaria-627x376.jpg"
+      "title": "PLAN HUMANITARIO DE ONU PARA VENEZUELA HA RECIBIDO 274 MILLONES DE DÓLARES",
+      "link": "https://noticierodigital.com/2026/07/plan-humanitario-de-onu-para-venezuela-ha-recibido-274-millones-de-dolares/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-01-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petro se niega a reconocer legitimidad del próximo Gobierno",
-      "link": "https://diarioversionfinal.com/mundo/petro-se-niega-a-reconocer-legitimidad-del-proximo-gobierno/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/02/petro-24-de-febrero-2025-750x430.webp"
+      "title": "Sismo de magnitud 5,5 sacude la zona central de Chile",
+      "link": "https://diarioversionfinal.com/mundo/sismo-de-magnitud-55-sacude-la-zona-central-de-chile/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/01/sismo-30-de-enero-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-07T10:56:13.924Z"
+  "lastUpdate": "2026-07-07T13:21:47.289Z"
 };
