@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 07 Julio 2026"
     },
     "binance": {
-      "usdt": "805,25"
+      "usdt": "804,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,33 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Estiman que reemplazar solo la infraestructura de vivienda dañada en la costa de La Guaira costará US$ 2.370,6 millones",
-      "link": "https://www.bancaynegocios.com/estiman-que-reemplazar-solo-la-infraestructura-de-vivienda-danada-en-la-costa-de-la-guaira-costara-us-2370-con-6-millones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/InflacionEEUUDolaresDivisas.jpg"
+      "title": "Dolarización progresiva y crédito priorizado como claves para la reactivación",
+      "link": "https://www.bancaynegocios.com/dolarizacion-progresiva-y-credito-priorizado-como-claves-para-la-reactivacion/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresBilletesNominacionDivisas.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Un coronel calificó de degradación militar que funcionarios ajenos a la Fuerza Armada entreguen sables a nuevos oficiales",
-      "link": "https://www.infobae.com/venezuela/2026/07/07/un-coronel-califico-de-degradacion-militar-que-funcionarios-ajenos-a-la-fuerza-armada-entreguen-sables-a-nuevos-oficiales/",
-      "image": "https://www.infobae.com/resizer/v2/MOADNYOJ5BCRTKIIUHHEVQNQJI.jpg?auth=d0b9d5c84af945265741ad11a057bb1c4464b5aa33d10fb74da820834e17f96c&smart=true&width=350&height=197&quality=85"
-    },
-    {
-      "source": "Noticia al Día",
-      "title": "Colisión entre un vehículo y moto deja un herido en Cabimas",
-      "link": "https://noticialdia.com/sucesos/colision-entre-un-vehiculo-y-moto-deja-un-herido-en-cabimas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.49.50-PM.webp?x42307"
+      "title": "Terremoto en Venezuela: advierten que convertir el mar de La Guaira en un “basurero” de escombros generará un problema de salud pública",
+      "link": "https://www.infobae.com/venezuela/2026/07/07/terremoto-en-venezuela-advierten-que-convertir-el-mar-de-la-guaira-en-un-basurero-de-escombros-generara-un-problema-de-salud-publica/",
+      "image": "https://www.infobae.com/resizer/v2/YAFWXRF65BH5NFN3SHMLM6GT7I.JPG?auth=ed2f8dc795eaaf2115dd24eafbf3edbe224ab1e1a2902d222244e1119bb974bd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump tiene ahora una ventaja sorprendente sobre Irán",
-      "link": "https://cnnespanol.cnn.com/2026/07/07/economia/iran-trump-precio-petroleo-oferta-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260707101957606.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Egipto sorprende: 1-0 Argentina en el primer tiempo",
+      "link": "https://cnnespanol.cnn.com/2026/07/07/deportes/live-news/resultado-argentina-egipto-mundial-2026-goles-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/purple-white-cute-animated-illustration-game-review-versus-youtube-thumbnail-28.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez se reunió con delegación de EE.UU. Para coordinar operaciones de asistencia humanitaria tras los terremotos del 24 de junio",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-se-reunio-con-delegacion-de-eeuu-para-coordinar-operaciones-de-asistencia-humanitaria-tras-los-terremotos-del-24-de-junio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5071264411665763495_y-a56835.jpg"
+      "title": "Gobierno Nacional activa plan de contingencia para reactivar vuelos comerciales en el Aeropuerto de Maiquetía tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-activa-plan-de-contingencia-para-reactivar-vuelos-comerciales-en-el-aeropuerto-de-maiquetia-tras-sismos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-aeropuerto-369c1e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PLAN HUMANITARIO DE ONU PARA VENEZUELA HA RECIBIDO 274 MILLONES DE DÓLARES",
-      "link": "https://noticierodigital.com/2026/07/plan-humanitario-de-onu-para-venezuela-ha-recibido-274-millones-de-dolares/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-01-627x376.jpg"
+      "title": "UNAS 36.700 MUJERES AFECTADAS POR TERREMOTOS ESTÁN EMBARAZADAS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/unas-36-700-mujeres-afectadas-por-terremotos-estan-embarazadas-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/damnificados-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sismo de magnitud 5,5 sacude la zona central de Chile",
-      "link": "https://diarioversionfinal.com/mundo/sismo-de-magnitud-55-sacude-la-zona-central-de-chile/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/01/sismo-30-de-enero-750x430.jpg"
+      "title": "Deslizamiento de tierra en el noroeste de China deja cinco muertos y 12 desaparecidos",
+      "link": "https://diarioversionfinal.com/mundo/deslizamiento-de-tierra-en-el-noroeste-de-china-deja-cinco-muertos-y-12-desaparecidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/3BQGTJK5JJAMOISM6LYSB4TN3E-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-07T13:21:47.289Z"
+  "lastUpdate": "2026-07-07T16:31:05.934Z"
 };
