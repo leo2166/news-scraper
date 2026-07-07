@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 07 Julio 2026"
     },
     "binance": {
-      "usdt": "804,00"
+      "usdt": "815,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Dolarización progresiva y crédito priorizado como claves para la reactivación",
-      "link": "https://www.bancaynegocios.com/dolarizacion-progresiva-y-credito-priorizado-como-claves-para-la-reactivacion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresBilletesNominacionDivisas.jpg"
+      "title": "Delcy Rodríguez ratifica que el Aeropuerto de Maiquetía reiniciará vuelos comerciales \"a la brevedad\"",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-ratifica-que-el-aeropuerto-de-maiquetia-reiniciara-vuelos-comerciales-a-la-brevedad/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-AEROPUERTO-DE-MAIQUETIA-070726.jpg"
     },
     {
       "source": "Infobae",
@@ -26,10 +26,16 @@ window.DASHBOARD_DATA = {
       "image": "https://www.infobae.com/resizer/v2/YAFWXRF65BH5NFN3SHMLM6GT7I.JPG?auth=ed2f8dc795eaaf2115dd24eafbf3edbe224ab1e1a2902d222244e1119bb974bd&smart=true&width=350&height=197&quality=85"
     },
     {
+      "source": "Noticia al Día",
+      "title": "Detenida por agredir a un hombre con un pico de botella en Maracaibo",
+      "link": "https://noticialdia.com/?p=636757",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/ACCINDENTE-VIA-EN-TAMARE-1.webp"
+    },
+    {
       "source": "CNN en Español",
-      "title": "Egipto sorprende: 1-0 Argentina en el primer tiempo",
+      "title": "¡Increíble remontada! Argentina gana 3 - 2 contra Egipto",
       "link": "https://cnnespanol.cnn.com/2026/07/07/deportes/live-news/resultado-argentina-egipto-mundial-2026-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/purple-white-cute-animated-illustration-game-review-versus-youtube-thumbnail-28.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/messi-gettyimages-2285091430.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNAS 36.700 MUJERES AFECTADAS POR TERREMOTOS ESTÁN EMBARAZADAS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/unas-36-700-mujeres-afectadas-por-terremotos-estan-embarazadas-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/damnificados-627x376.jpg"
+      "title": "OVP REGISTRÓ 5 PRESUNTAS MUERTES DE PRIVADOS DE LIBERTAD ENTRE EL 15 Y 25 DE JUNIO",
+      "link": "https://noticierodigital.com/2026/07/ovp-registro-5-presuntas-muertes-de-privados-de-libertad-entre-el-15-y-25-de-junio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/huelgadehambre-carcelesvenezolanas-1.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Deslizamiento de tierra en el noroeste de China deja cinco muertos y 12 desaparecidos",
-      "link": "https://diarioversionfinal.com/mundo/deslizamiento-de-tierra-en-el-noroeste-de-china-deja-cinco-muertos-y-12-desaparecidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/3BQGTJK5JJAMOISM6LYSB4TN3E-750x430.jpg"
+      "title": "La Policía española detecta un aumento de víctimas de redes de prostitución venezolanas",
+      "link": "https://diarioversionfinal.com/mundo/la-policia-espanola-detecta-un-aumento-de-victimas-de-redes-de-prostitucion-venezolanas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/01/policia-española-version-final.jpg"
     }
   ],
-  "lastUpdate": "2026-07-07T16:31:05.934Z"
+  "lastUpdate": "2026-07-07T19:02:20.758Z"
 };
