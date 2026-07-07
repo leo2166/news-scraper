@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 07 Julio 2026"
     },
     "binance": {
-      "usdt": "802,89"
+      "usdt": "801,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Familias en La Guaira exigen detener las demoliciones mientras buscan a sus muertos bajo los escombros",
-      "link": "https://www.infobae.com/venezuela/2026/07/07/familias-en-la-guaira-exigen-detener-las-demoliciones-mientras-buscan-a-sus-muertos-bajo-los-escombros/",
-      "image": "https://www.infobae.com/resizer/v2/QLP2BGIZD5GF5GYDANOA4FBTRM.JPG?auth=63e23a98c70e8ad50487802d9cf862ecc67329838c1eab9a3967ca71c83f49ab&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela reinició las clases en gran parte del país tras los terremotos, con suspensión en las zonas más afectadas",
+      "link": "https://www.infobae.com/venezuela/2026/07/07/venezuela-reinicio-las-clases-en-gran-parte-del-pais-tras-los-terremotos-con-suspension-en-las-zonas-mas-afectadas/",
+      "image": "https://www.infobae.com/resizer/v2/T2EMA3V4KVFCFJ6BXB5A2RM5AM.JPG?auth=b6f636af437317c8bb0dba9f1ca75bb2acd4f955c17d8c58abe369ba8716c5a9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Bélgica elimina a EE.UU. con un contundente 4-1 en Seattle",
-      "link": "https://cnnespanol.cnn.com/2026/07/06/deportes/live-news/resultado-estados-unidos-belgica-mundial-2026-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284975418-20260707021422431.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump especula con reducir tropas en Europa y enviar mensaje a la OTAN",
+      "link": "https://cnnespanol.cnn.com/2026/07/07/mundo/trump-tropas-europa-mensaje-otan-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283262894-20260707044619576.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-82-679x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-07T03:24:01.273Z"
+  "lastUpdate": "2026-07-07T07:38:06.042Z"
 };
