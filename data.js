@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 08 Julio 2026"
     },
     "binance": {
-      "usdt": "851,68"
+      "usdt": "830,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Aumentó más de 11% en bolívares: Canasta Alimentaria de Maracaibo se situó en Bs. 378.553 en junio",
-      "link": "https://www.bancaynegocios.com/aumento-mas-de-11-porciento-en-bolivares-canasta-alimentaria-de-maracaibo-se-situo-en-bs-378553-en-junio/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/03/Canasta-Basica-Familia-Alimentos-e1656593467391.jpg"
+      "title": "Comerciantes en La Guaira reabren entre la tragedia del terremoto para salvar sus negocios",
+      "link": "https://www.bancaynegocios.com/comerciantes-en-la-guaira-reabren-entre-la-tragedia-del-terremoto-para-salvar-sus-negocios/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/LaGuairaComerciantesEFE.jpg"
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado felicitó a Keiko Fujimori por su victoria en Perú: “El bien se impone al mal”",
-      "link": "https://www.infobae.com/venezuela/2026/07/08/maria-corina-machado-felicito-a-keiko-fujimori-por-su-victoria-en-peru-el-bien-se-impone-al-mal/",
-      "image": "https://www.infobae.com/resizer/v2/AQ2IENDFSRA5NN6UK53QC4OJHI.jpg?auth=dc8311ffa7f41cd8c8fd10ac99ee074e4e2bbd581fd544facb5f7c4581008620&smart=true&width=350&height=197&quality=85"
+      "title": "La Guaira después del terremoto: un experto israelí explicó por qué la región puede reconstruirse y tener futuro",
+      "link": "https://www.infobae.com/venezuela/2026/07/08/la-guaira-despues-del-terremoto-un-experto-israeli-explico-por-que-la-region-puede-reconstruirse-y-tener-futuro/",
+      "image": "https://www.infobae.com/resizer/v2/EB4QB7HDRBC4NC4WQMTMBJKDS4.jpg?auth=e4264443aa9d36baaa71828324224d2975a68863af05b48e7e634e1115cc756e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Reprograman Consulta Popular para atender emergencia",
-      "link": "https://noticiasvenevision.com/noticias/politica/reprograman-consulta-popular-para-atender-emergencia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hectorrodriguez.jpg-1-f987aa.jpg"
+      "title": "Delcy Rodríguez recibe al jefe humanitario de la ONU para coordinar respuesta a los sismos",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-recibe-al-jefe-humanitario-de-la-onu-para-coordinar-respuesta-a-los-sismos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-onu-2-1536x784-1-1024x576-7e8bb4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONINDUSTRIA: SE NECESITAN UNOS $37.000 MILLONES PARA RECONSTRUIR TRAS TERREMOTOS DEL 24J",
-      "link": "https://noticierodigital.com/2026/07/conindustria-se-necesitan-unos-37-000-millones-para-reconstruir-tras-terremotos-del-24j/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/tito-lopez-coindustria-627x376.jpg"
+      "title": "FEDECÁMARAS DECIDIÓ REPROGRAMAR SU ASAMBLEA ANUAL ANTE LA EMERGENCIA NACIONAL ",
+      "link": "https://noticierodigital.com/2026/07/fedecamaras-decidio-reprogramar-su-asamblea-anual-ante-la-emergencia-nacional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/felipe-capozzolo-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ucrania critica al COI por levantar restricciones a deportistas rusos",
-      "link": "https://diarioversionfinal.com/mundo/ucrania-critica-al-coi-por-levantar-restricciones-a-deportistas-rusos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/juegos-olimpicos-750x430.webp"
+      "title": "Merz afirma que Trump respaldó las explicaciones de Sánchez sobre el gasto en defensa",
+      "link": "https://diarioversionfinal.com/mundo/merz-afirma-que-trump-respaldo-las-explicaciones-de-sanchez-sobre-el-gasto-en-defensa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/licensed-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-08T14:06:56.735Z"
+  "lastUpdate": "2026-07-08T16:38:43.767Z"
 };
