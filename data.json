@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 08 Julio 2026"
     },
     "binance": {
-      "usdt": "830,25"
+      "usdt": "851,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,19 +15,19 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fenahoven: Instalaciones hoteleras en La Guaira no están en condiciones para ser refugios temporales",
-      "link": "https://www.bancaynegocios.com/fenahoven-instalaciones-hoteleras-en-la-guaira-no-estan-en-condiciones-para-ser-refugios-temporales/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/refugios.jpg"
+      "title": "Aumentó más de 11% en bolívares: Canasta Alimentaria de Maracaibo se situó en Bs. 378.553 en junio",
+      "link": "https://www.bancaynegocios.com/aumento-mas-de-11-porciento-en-bolivares-canasta-alimentaria-de-maracaibo-se-situo-en-bs-378553-en-junio/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/03/Canasta-Basica-Familia-Alimentos-e1656593467391.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez se reunió con el jefe humanitario de la ONU para coordinar la respuesta a los sismos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/08/delcy-rodriguez-se-reunio-con-el-jefe-humanitario-de-la-onu-para-coordinar-la-respuesta-a-los-sismos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/FKPH6BCNGFEODDBG5SZXHTM5G4.JPG?auth=9501c31071833c6d22458f8cdf4b910d34afa37df7bdaf0dd2fd054f006d113e&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado felicitó a Keiko Fujimori por su victoria en Perú: “El bien se impone al mal”",
+      "link": "https://www.infobae.com/venezuela/2026/07/08/maria-corina-machado-felicito-a-keiko-fujimori-por-su-victoria-en-peru-el-bien-se-impone-al-mal/",
+      "image": "https://www.infobae.com/resizer/v2/AQ2IENDFSRA5NN6UK53QC4OJHI.jpg?auth=dc8311ffa7f41cd8c8fd10ac99ee074e4e2bbd581fd544facb5f7c4581008620&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump afirma que el cese del fuego con Irán \"terminó\"",
+      "title": "Trump amenaza con atacar a Irán nuevamente este miércoles",
       "link": "https://cnnespanol.cnn.com/2026/07/07/mundo/live-news/cumbre-otan-trump-presion-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260708093507900.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA GUAIRA ENFRENTA REMOCIÓN DE MÁS DE UN MILLÓN DE TONELADAS DE ESCOMBROS",
-      "link": "https://noticierodigital.com/2026/07/la-guaira-enfrenta-remocion-de-mas-de-un-millon-de-toneladas-de-escombros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/delcy-rodriguez-venezuela-israel-627x376.jpg"
+      "title": "CONINDUSTRIA: SE NECESITAN UNOS $37.000 MILLONES PARA RECONSTRUIR TRAS TERREMOTOS DEL 24J",
+      "link": "https://noticierodigital.com/2026/07/conindustria-se-necesitan-unos-37-000-millones-para-reconstruir-tras-terremotos-del-24j/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/tito-lopez-coindustria-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Defensoría de Bolivia contabiliza 22 muertos por conflictos sociales y bloqueos",
-      "link": "https://diarioversionfinal.com/mundo/defensoria-de-bolivia-contabiliza-22-muertos-por-conflictos-sociales-y-bloqueos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Protestas-Bolivia-07-07-2026-750x430.webp"
+      "title": "Ucrania critica al COI por levantar restricciones a deportistas rusos",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-critica-al-coi-por-levantar-restricciones-a-deportistas-rusos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/07/juegos-olimpicos-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-08T11:04:22.570Z"
+  "lastUpdate": "2026-07-08T14:06:56.735Z"
 }
