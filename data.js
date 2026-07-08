@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 08 Julio 2026"
     },
     "binance": {
-      "usdt": "827,39"
+      "usdt": "790,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,16 +26,10 @@ window.DASHBOARD_DATA = {
       "image": "https://www.infobae.com/resizer/v2/QKI53WM26FABPHSPBK5S7FUMME.JPG?auth=a130cc8ea70f44ac7025dd096091724da673bcd2a4e8e6a932e5383ca10502d0&smart=true&width=350&height=197&quality=85"
     },
     {
-      "source": "Noticia al Día",
-      "title": "Balance oficial tras doble terremoto: Se elevan a 3 mil 685 fallecidos y 16 mil 740 heridos",
-      "link": "https://noticialdia.com/al-dia/balance-oficial-tras-doble-terremoto-se-elevan-a-3-mil-685-fallecidos-y-16-mil-740-heridos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/bfi_thumb/6e783e70-757a-11f1-9db8-97a620cd9604.jpg-7p89pudcnb4mt47wsldj7fvqe0q8ov44dv90c57rd83.webp?x97534"
-    },
-    {
       "source": "CNN en Español",
       "title": "EE.UU. ataca a Irán y reimpone sanciones petroleras",
       "link": "https://cnnespanol.cnn.com/2026/07/07/mundo/live-news/cumbre-otan-trump-presion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-07-134345.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-07-134345.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Agente del ICE mata a tiros a ciudadano mexicano en Houston durante operativo",
-      "link": "https://diarioversionfinal.com/mundo/agente-del-ice-mata-a-tiros-a-ciudadano-mexicano-en-houston-durante-operativo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Operativo-Houston-07-07-2026-750x430.webp"
+      "title": "Defensoría de Bolivia contabiliza 22 muertos por conflictos sociales y bloqueos",
+      "link": "https://diarioversionfinal.com/mundo/defensoria-de-bolivia-contabiliza-22-muertos-por-conflictos-sociales-y-bloqueos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Protestas-Bolivia-07-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-08T02:41:38.683Z"
+  "lastUpdate": "2026-07-08T05:51:27.046Z"
 };
