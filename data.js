@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 08 Julio 2026"
     },
     "binance": {
-      "usdt": "829,68"
+      "usdt": "830,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. ataca a Irán y reimpone sanciones petroleras",
+      "title": "Trump afirma que el cese del fuego con Irán \"terminó\"",
       "link": "https://cnnespanol.cnn.com/2026/07/07/mundo/live-news/cumbre-otan-trump-presion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-07-134345.png?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260708093507900.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Protestas-Bolivia-07-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-08T08:28:23.415Z"
+  "lastUpdate": "2026-07-08T11:04:22.570Z"
 };
