@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 08 Julio 2026"
     },
     "binance": {
-      "usdt": "830,80"
+      "usdt": "830,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Comerciantes en La Guaira reabren entre la tragedia del terremoto para salvar sus negocios",
-      "link": "https://www.bancaynegocios.com/comerciantes-en-la-guaira-reabren-entre-la-tragedia-del-terremoto-para-salvar-sus-negocios/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/LaGuairaComerciantesEFE.jpg"
+      "title": "Jefe humanitario de ONU pide flexibilizar las sanciones en Venezuela para no afectar la ayuda",
+      "link": "https://www.bancaynegocios.com/jefe-humanitario-de-onu-pide-flexibilizar-las-sanciones-en-venezuela-para-no-afectar-la-ayuda/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/Tom-Fletcher-ONU-Venezuela.jpg"
     },
     {
       "source": "Infobae",
       "title": "La Guaira después del terremoto: un experto israelí explicó por qué la región puede reconstruirse y tener futuro",
       "link": "https://www.infobae.com/venezuela/2026/07/08/la-guaira-despues-del-terremoto-un-experto-israeli-explico-por-que-la-region-puede-reconstruirse-y-tener-futuro/",
       "image": "https://www.infobae.com/resizer/v2/EB4QB7HDRBC4NC4WQMTMBJKDS4.jpg?auth=e4264443aa9d36baaa71828324224d2975a68863af05b48e7e634e1115cc756e&smart=true&width=350&height=197&quality=85"
+    },
+    {
+      "source": "Noticia al Día",
+      "title": "Aprehendido por contrabando agravado en Sinamaica",
+      "link": "https://noticialdia.com/sucesos/aprehendido-por-contrabando-agravado-en-sinamaica/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-43.webp?x83290"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FEDECÁMARAS DECIDIÓ REPROGRAMAR SU ASAMBLEA ANUAL ANTE LA EMERGENCIA NACIONAL ",
-      "link": "https://noticierodigital.com/2026/07/fedecamaras-decidio-reprogramar-su-asamblea-anual-ante-la-emergencia-nacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/felipe-capozzolo-627x376.jpg"
+      "title": "AMAZON ANUNCIA QUE ESTABLECERÁ UN PUENTE AÉREO CON ASISTENCIA HUMANITARIA PARA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/amazon-anuncia-que-establecera-un-puente-aereo-con-asistencia-humanitaria-para-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-4-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Merz afirma que Trump respaldó las explicaciones de Sánchez sobre el gasto en defensa",
-      "link": "https://diarioversionfinal.com/mundo/merz-afirma-que-trump-respaldo-las-explicaciones-de-sanchez-sobre-el-gasto-en-defensa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/licensed-image-750x430.jpg"
+      "title": "ONU pide flexibilizar sanciones en Venezuela para facilitar ayuda tras sismos",
+      "link": "https://diarioversionfinal.com/mundo/onu-pide-flexibilizar-sanciones-en-venezuela-para-facilitar-ayuda-tras-sismos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/d8fda0d2a8262feff6a6c6ce8dc9b2b66eb470bdw-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-08T16:38:43.767Z"
+  "lastUpdate": "2026-07-08T18:17:01.953Z"
 };
