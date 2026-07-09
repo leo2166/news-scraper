@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 09 Julio 2026"
     },
     "binance": {
-      "usdt": "824,00"
+      "usdt": "822,18"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Asocav: Establecen protocolo de emergencia para mitigar impacto económico en agentes aduanales de La Guaira",
-      "link": "https://www.bancaynegocios.com/asocav-establecen-protocolo-de-emergencia-para-mitigar-impacto-economico-en-agentes-aduanales-de-la-guaira/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/PuertoLaGuairaNuevaImagenVenezuela.jpg"
+      "title": "#Escenarios: La tragedia restará puntos al crecimiento económico, pero no habrá recesión",
+      "link": "https://www.bancaynegocios.com/escenarios-la-tragedia-restara-puntos-al-crecimiento-economico-pero-no-habra-recesion/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/LaGuairaComerciantesEFE.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos destinó más de USD 380 millones en ayuda humanitaria a Venezuela de forma “confiable y rápida”",
-      "link": "https://www.infobae.com/venezuela/2026/07/09/estados-unidos-destino-mas-de-usd-380-millones-en-ayuda-humanitaria-a-venezuela-de-forma-confiable-y-rapida/",
-      "image": "https://www.infobae.com/resizer/v2/UICLZ4RZQRF6XHTXD3VFMWUYVM.JPG?auth=89cc42f6287a7bd07c595c7ac9a8bb2943fbc72d2f2b170ef8246d756146e371&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal confirmó la excarcelación del último adolescente que permanecía detenido por motivos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/09/el-foro-penal-confirmo-la-excarcelacion-del-ultimo-adolescente-que-permanecia-detenido-por-motivos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/KKJWYOMX3ZHQDI23ATFZ723CZA.jpg?auth=4bb1f342905ee05e6676be5a612805812985962dd3787d64b3fdfbef7b921af9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El desgarrador mensaje de fe del papá de Lucas: \"Amen a sus hijos y crean en Dios\"",
-      "link": "https://noticialdia.com/al-dia/el-desgarrador-mensaje-de-fe-del-papa-de-lucas-amen-a-sus-hijos-y-crean-en-dios/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-08-at-7.46.53-PM.webp?x33727"
+      "title": "Intentó huir con una escopeta en el barrio 19 de Abril: Cpbez lo puso tras las rejas",
+      "link": "https://noticialdia.com/sucesos/intento-huir-con-una-escopeta-en-el-barrio-19-de-abril-cpbez-lo-puso-tras-las-rejas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-convertido-a-577x403-1.webp?x33727"
     },
     {
       "source": "CNN en Español",
       "title": "El alto el fuego entre EE.UU. e Irán está al borde del colapso",
       "link": "https://cnnespanol.cnn.com/2026/07/09/mundo/live-news/nuevos-ataques-iran-eeuu-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26189635494168-20260709043516235.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26189635494168-20260709043516235.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez convoca a empresas extranjeras para construcción \"agresiva\" de casas tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-convoca-a-empresas-extranjeras-para-construccion-agresiva-de-casas-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l2376-2048x1366-fc78be.jpg"
+      "title": "Luke Lindberg y el equipo DART evalúan daños por sismos en La Guaira para optimizar ayuda humanitaria",
+      "link": "https://noticiasvenevision.com/noticias/politica/luke-lindberg-y-el-equipo-dart-evaluan-danos-por-sismos-en-la-guaira-para-optimizar-ayuda-humanitaria",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_744251252_18400417906095971_1398117552797524122_n-baee84.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE MIL ESTRUCTURAS FUERON EVALUADAS EN LA GUAIRA TRAS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/mas-de-mil-estructuras-fueron-evaluadas-en-la-guaira-tras-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/jacqueline-faria-venezuela-renace-627x376.jpg"
+      "title": "FORO PENAL REGISTRA 372 PRESOS POLÍTICOS EN VENEZUELA HASTA EL 6 DE JULIO",
+      "link": "https://noticierodigital.com/2026/07/foro-penal-registra-372-presos-politicos-en-venezuela-hasta-el-6-de-julio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/presos-politicos-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "¿Qué es Strategy y por qué afecta tanto al Bitcoin?",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/que-es-strategy-y-por-que-afecta-tanto-al-bitcoin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/rL6cE0KO-image-750x430.jpg"
+      "title": "Guardia Revolucionaria de Irán asegura que ataques de EE.UU. dificultan la reapertura del estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/guardia-revolucionaria-de-iran-asegura-que-ataques-de-ee-uu-dificultan-la-reapertura-del-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Estrecho-Ormuz-03-05-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-09T12:07:51.491Z"
+  "lastUpdate": "2026-07-09T15:25:16.958Z"
 };
