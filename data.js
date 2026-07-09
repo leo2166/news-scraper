@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "700,22",
-      "eur": "798,29",
-      "fechaValor": "Jueves, 09 Julio 2026"
+      "usd": "709,69",
+      "eur": "811,45",
+      "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "869,90"
+      "usdt": "871,15"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela y el FMI comenzaron a negociar el acceso rápido a fondos tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/09/venezuela-y-el-fmi-comenzaron-a-negociar-el-acceso-rapido-a-fondos-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/ZRGREEZARVGRPN5Y4QO5JYZE4I.jpg?auth=0c093f67e7c53e9d609cfc64e34aade9f91c51545fcd602932d3d879db1e247f&smart=true&width=350&height=197&quality=85"
+      "title": "“El testimonio de un rescatista nos dio esperanza”, la travesía por hospitales para hallar a la nicaragüense desaparecida en Venezuela",
+      "link": "https://www.infobae.com/nicaragua/2026/07/09/el-testimonio-de-un-rescatista-nos-dio-esperanza-la-travesia-por-hospitales-para-hallar-a-la-nicaraguense-desaparecida-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/T4PSPY3A6JGH5ATZU7UDISSUHY.jpg?auth=1ff6b7c8dd0af98ebebb584a0631ea4b048517cfca231a2de38dc82b9497bc28&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OPS DESCARTÓ RIESGO DE BROTE DE CÓLERA TRAS TERREMOTOS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/ops-descarto-riesgo-de-brote-de-colera-tras-terremotos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/ninos-terremotos-venezuela-627x376.jpg"
+      "title": "CHACAO MANTIENE INSPECCIONES EN EDIFICIOS AFECTADOS TRAS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/chacao-mantiene-inspecciones-en-edificios-afectados-tras-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/edificio-petunia-chacao-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. prevé ampliar el apoyo a proyectos de desarrollo económico en Latinoamérica",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-preve-ampliar-el-apoyo-a-proyectos-de-desarrollo-economico-en-latinoamerica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-92-750x430.jpg"
+      "title": "Petro asegura a Lula que garantizará una transición pacífica en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/petro-asegura-a-lula-que-garantizara-una-transicion-pacifica-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-09T21:23:06.422Z"
+  "lastUpdate": "2026-07-09T23:11:44.841Z"
 };
