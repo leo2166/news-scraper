@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 09 Julio 2026"
     },
     "binance": {
-      "usdt": "826,79"
+      "usdt": "866,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Amnistía exige conocer el paradero de Luis Manuel Otero Alcántara, desaparecido tras ser sacado de la cárcel cubana",
-      "link": "https://www.infobae.com/venezuela/2026/07/09/amnistia-exige-conocer-el-paradero-de-luis-manuel-otero-alcantara-desaparecido-tras-ser-sacado-de-la-carcel-cubana/",
-      "image": "https://www.infobae.com/resizer/v2/Z7VYGMJB2NBTVO53CKXLBPEB5Y.jpg?auth=ab8ae4d13d5fd6a773b60e44724fdbb8abf9481ed1bc0e24239254db60b80780&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos destinó más de USD 380 millones en ayuda humanitaria a Venezuela de forma “confiable y rápida”",
+      "link": "https://www.infobae.com/venezuela/2026/07/09/estados-unidos-destino-mas-de-usd-380-millones-en-ayuda-humanitaria-a-venezuela-de-forma-confiable-y-rapida/",
+      "image": "https://www.infobae.com/resizer/v2/UICLZ4RZQRF6XHTXD3VFMWUYVM.JPG?auth=89cc42f6287a7bd07c595c7ac9a8bb2943fbc72d2f2b170ef8246d756146e371&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -35,7 +35,7 @@
       "source": "CNN en Español",
       "title": "EE.UU. vuelve a lanzar ataques aéreos contra Irán",
       "link": "https://cnnespanol.cnn.com/2026/07/07/mundo/live-news/cumbre-otan-trump-presion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-07-08t175151z-96181374-rc2m9ma4zyo9-rtrmadp-3-iran-crisis-usa-strikes-20260709000536467.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26189635494168-20260709043516235.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Abelardo-Mata-Obispo-08-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-09T04:52:46.448Z"
+  "lastUpdate": "2026-07-09T08:27:16.681Z"
 }
