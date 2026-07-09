@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 09 Julio 2026"
     },
     "binance": {
-      "usdt": "858,50"
+      "usdt": "826,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "“Solamente contamos con el pueblo”: refugiados por el terremoto exigen más apoyo del gobierno de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/08/solamente-contamos-con-el-pueblo-refugiados-por-el-terremoto-exigen-mas-apoyo-del-gobierno-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/QFAIOSUJA5BNFMGL73KBLCOYS4.JPG?auth=3b430c2f9801d3f840d4a4402cfdd59c8017b565941f3716ec9174ecf4422ebe&smart=true&width=350&height=197&quality=85"
+      "title": "Amnistía exige conocer el paradero de Luis Manuel Otero Alcántara, desaparecido tras ser sacado de la cárcel cubana",
+      "link": "https://www.infobae.com/venezuela/2026/07/09/amnistia-exige-conocer-el-paradero-de-luis-manuel-otero-alcantara-desaparecido-tras-ser-sacado-de-la-carcel-cubana/",
+      "image": "https://www.infobae.com/resizer/v2/Z7VYGMJB2NBTVO53CKXLBPEB5Y.jpg?auth=ab8ae4d13d5fd6a773b60e44724fdbb8abf9481ed1bc0e24239254db60b80780&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El desgarrador mensaje de fe del papá de Lucas: \"Amen a sus hijos y que crean en Dios\"",
-      "link": "https://noticialdia.com/?p=637382",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/lucas-gamez-el-nino-desaparecido-en-TJ2TJJFPYRHR5G4HRBSNQ64TIY.avif"
+      "title": "El desgarrador mensaje de fe del papá de Lucas: \"Amen a sus hijos y crean en Dios\"",
+      "link": "https://noticialdia.com/al-dia/el-desgarrador-mensaje-de-fe-del-papa-de-lucas-amen-a-sus-hijos-y-crean-en-dios/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-08-at-7.46.53-PM.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Buque de la Armada estadounidense USS Billings coordina apoyo humanitario frente a costas venezolanas",
-      "link": "https://noticiasvenevision.com/noticias/politica/buque-de-la-armada-estadounidense-uss-billings-coordina-apoyo-humanitario-frente-a-costas-venezolanas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hmt_culxiaacojk-b42ce5.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez convoca a empresas extranjeras para construcción \"agresiva\" de casas tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-convoca-a-empresas-extranjeras-para-construccion-agresiva-de-casas-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l2376-2048x1366-fc78be.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DOS CENTROS COMERCIALES EN CARACAS ESPERAN INFORMES TÉCNICOS PARA RETOMAR OPERACIONES",
-      "link": "https://noticierodigital.com/2026/07/dos-centros-comerciales-en-caracas-esperan-informes-tecnicos-para-retomar-operaciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/centros-comerciales-627x376.jpg"
+      "title": "MÁS DE MIL ESTRUCTURAS FUERON EVALUADAS EN LA GUAIRA TRAS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/mas-de-mil-estructuras-fueron-evaluadas-en-la-guaira-tras-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/jacqueline-faria-venezuela-renace-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. reanuda ataques contra Irán tras ruptura del alto al fuego anunciada por Trump",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-reanuda-ataques-contra-iran-tras-ruptura-del-alto-al-fuego-anunciada-por-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Bombardeos-EEUU-en-Iran-08-07-2026-750x430.jpg"
+      "title": "Desaparecido en Nicaragua un obispo crítico de Ortega tras un interrogatorio policial",
+      "link": "https://diarioversionfinal.com/mundo/desaparecido-en-nicaragua-un-obispo-critico-de-ortega-tras-un-interrogatorio-policial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Abelardo-Mata-Obispo-08-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-09T00:09:51.602Z"
+  "lastUpdate": "2026-07-09T04:52:46.448Z"
 };
