@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "856,39"
+      "usdt": "865,16"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Análisis: El reto económico para Venezuela está en \"convertir la adversidad en dinamismo\"",
-      "link": "https://www.bancaynegocios.com/analisis-el-reto-economico-para-venezuela-esta-en-convertir-la-adversidad-en-dinamismo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
+      "title": "Inician pago del Bono de Corresponsabilidad y Formación de julio a trabajadores de empresas estratégicas (+Monto)",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-de-corresponsabilidad-y-formacion-de-julio-a-trabajadores-de-empresas-estrategicas-monto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez ejecuta una “devaluación agresiva” para cerrar la brecha cambiaria en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/10/delcy-rodriguez-ejecuta-una-devaluacion-agresiva-para-cerrar-la-brecha-cambiaria-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/XG7R5V3S7VC2DPFY7YEWIAPHD4.JPG?auth=2faf75e5b2e32089d7f2673e0948cede09fc37cf6057333b01ebaa8e16959cdd&smart=true&width=350&height=197&quality=85"
+      "title": "“Una aguja en un pajar”: un padre busca a su hijo en medio de la desinformación tras los terremotos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/10/una-aguja-en-un-pajar-un-padre-busca-a-su-hijo-en-medio-de-la-desinformacion-tras-los-terremotos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6P2DYY5QUZH4FIPMKVCPUWSQUY.JPG?auth=f4be192ecbb15f17ff34b0506232fe655c9c457b6fe524982d3f14801668dc35&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Preso tres sujetos por hurto a restaurante en 5 de Julio",
-      "link": "https://noticialdia.com/sucesos/presos-tres-sujetos-por-hurto-a-restaurante-en-5-de-julio/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-56.webp?x33727"
+      "title": "Capturado con presunta marihuana en el barrio Alfredo Sadel",
+      "link": "https://noticialdia.com/sucesos/capturado-con-presunta-marihuana-en-el-barrio-alfredo-sadel/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-57.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -45,16 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUNVISIS REGISTRA AL MENOS 20 SISMOS ESTE 10 DE JULIO EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/funvisis-registra-al-menos-20-sismos-este-10-de-julio-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/funvisis-sismo.jpg"
+      "title": "GUSTAVO DUQUE DESMINTIÓ COLAPSO DE EDIFICIO POR SISMO DE 3,9 DE ESTE 10J",
+      "link": "https://noticierodigital.com/2026/07/gustavo-duque-desmintio-colapso-de-edificio-por-sismo-de-39-de-este-10j/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/gustavoDuque-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "La OPS advierte de una nueva fase crítica en la respuesta tras los terremotos en Venezuela",
       "link": "https://laverdad.com/la-ops-advierte-de-una-nueva-fase-critica-en-la-respuesta-tras-los-terremotos-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/07/OPS.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "ONU prepara plan de seis meses para atender a 1,3 millones de damnificados en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/onu-prepara-plan-de-seis-meses-para-atender-a-13-millones-de-damnificados-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/OCHA-1-696x392-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-10T18:22:48.686Z"
+  "lastUpdate": "2026-07-10T20:22:45.064Z"
 };
