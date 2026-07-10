@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "871,15"
+      "usdt": "870,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "“El testimonio de un rescatista nos dio esperanza”, la travesía por hospitales para hallar a la nicaragüense desaparecida en Venezuela",
-      "link": "https://www.infobae.com/nicaragua/2026/07/09/el-testimonio-de-un-rescatista-nos-dio-esperanza-la-travesia-por-hospitales-para-hallar-a-la-nicaraguense-desaparecida-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/T4PSPY3A6JGH5ATZU7UDISSUHY.jpg?auth=1ff6b7c8dd0af98ebebb584a0631ea4b048517cfca231a2de38dc82b9497bc28&smart=true&width=350&height=197&quality=85"
+      "title": "Aumentaron las rutas aéreas en Venezuela tras los terremotos, con la ciudad de Valencia como nuevo centro de operaciones",
+      "link": "https://www.infobae.com/venezuela/2026/07/10/aumentaron-las-rutas-aereas-en-venezuela-tras-los-terremotos-con-la-ciudad-de-valencia-como-nuevo-centro-de-operaciones/",
+      "image": "https://www.infobae.com/resizer/v2/JQQ3ADYYAVCWBHWVK4I6RNKVCE.JPG?auth=bb5d1c0ef1f550259ec45dea33b13cb1614b312aa24012db453163ca60a2a6b4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Aparatoso accidente en la C2 dejó a un joven gravemente herido",
-      "link": "https://noticialdia.com/sucesos/aparatoso-accidente-en-la-c2-dejo-a-un-joven-gravemente-herido/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-49.webp?x33727"
+      "title": "El doloroso testimonio de Víctor Sardinha quien perdió a su esposa e hija en el doble terremoto: “El tiempo que me dieron fue el justo y tengo que ser agradecido con eso”",
+      "link": "https://noticialdia.com/al-dia/el-doloroso-testimonio-de-victor-sardinha-quien-perdio-a-su-esposa-e-hija-en-el-doble-terremoto-el-tiempo-que-me-dieron-fue-el-justo-y-tengo-que-ser-agradecido-con-eso/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-09-at-10.01.02-PM.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Si Irán fue “desnuclearizado”, según Trump, ¿cuál fue el propósito de la guerra?",
-      "link": "https://cnnespanol.cnn.com/2026/07/09/eeuu/iran-arma-nuclear-guerra-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-09-131832.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Israel informó a EE.UU. sobre un complot iraní para asesinar a Trump, según fuentes",
+      "link": "https://cnnespanol.cnn.com/2026/07/09/eeuu/israel-informacion-inteligencia-complot-irani-asesinar-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2284693620-20260709231015596-20260709235416189.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE. UU. en Caracas  destacó que Starlink ha desplegado  más de 1.600 kits de conectividad satelital en zonas afectadas  en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-en-caracas-destaco-que-starlink-ha-desplegado-mas-de-1600-kits-de-conectividad-satelital-en-zonas-afectadas-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-09-at-12.46.01-pm-b87344.jpeg"
+      "title": "EE.UU. transporta ayuda humanitaria desde el Puerto de La Guaira hacia zonas afectadas tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-transporta-ayuda-humanitaria-desde-el-puerto-de-la-guaira-hacia-zonas-afectadas-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-07-09-222409-217797.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHACAO MANTIENE INSPECCIONES EN EDIFICIOS AFECTADOS TRAS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/chacao-mantiene-inspecciones-en-edificios-afectados-tras-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/edificio-petunia-chacao-627x376.jpg"
+      "title": "PDVSA DESTINÓ SUMINISTRO DE DIÉSEL PARA MAQUINARIA DESPLEGADA TRAS LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/pdvsa-destino-suministro-de-diesel-para-maquinaria-desplegada-tras-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/plata-de-distribucion-Catia-La-Mar-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-09T23:11:44.841Z"
+  "lastUpdate": "2026-07-10T03:20:09.333Z"
 };
