@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "831,10"
+      "usdt": "868,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán afirma que fue blanco de nuevos ataques",
-      "link": "https://cnnespanol.cnn.com/2026/07/09/mundo/live-news/nuevos-ataques-iran-eeuu-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260709103652615.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. suspende los ataques contra Irán",
+      "link": "https://cnnespanol.cnn.com/2026/07/10/mundo/live-news/nuevos-ataques-iran-eeuu-vivo-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260710103215646.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-10T07:35:36.933Z"
+  "lastUpdate": "2026-07-10T10:53:26.760Z"
 }
