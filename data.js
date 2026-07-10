@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "868,50"
+      "usdt": "869,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Autoridades del FMI y Venezuela hablaron sobre el DEG, la situación económica y las necesidades humanitarias",
-      "link": "https://www.bancaynegocios.com/autoridades-del-fmi-y-venezuela-hablaron-sobre-el-deg-la-situacion-economica-y-las-necesidades-humanitarias-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/DolaresDivisasRemesas.jpg"
+      "title": "Esperan que a finales de año, el 80% del transporte en todo el país cuente con mecanismos de pago digital",
+      "link": "https://www.bancaynegocios.com/esperan-que-a-finales-de-ano-el-80-porciento-del-transporte-en-todo-el-pais-cuente-con-mecanismos-de-pago-digital/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/Transporte-publico.jpg"
     },
     {
       "source": "Infobae",
-      "title": "“La vida se paralizó”: venezolanos cavan con sus propias manos entre los escombros en busca de familiares a dos semanas de los sismos",
-      "link": "https://www.infobae.com/venezuela/2026/07/10/la-vida-se-paralizo-venezolanos-cavan-con-sus-propias-manos-entre-los-escombros-en-busca-de-familiares-a-dos-semanas-de-los-sismos/",
-      "image": "https://www.infobae.com/resizer/v2/TZ2PVOGYLZG7TNLYIMSZW4UGZY.JPG?auth=6fbfca159c750543804b5f4a1b0d4b85c7c54847f149f4e5598e1dd412f52d9d&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez aseguró que se recuperó un 96% de la energía eléctrica en La Guaira tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/10/delcy-rodriguez-aseguro-que-se-recupero-un-96-de-la-energia-electrica-en-la-guaira-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/AGZLLAC3ABEY3KGWMCOXEKGGB4.JPG?auth=4fd0f686f62163dc94e794796b73a194a27b1f85c478b33cbd76565b50ce4db3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,7 +33,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. suspende los ataques contra Irán",
+      "title": "Mediadores intentan retomar las negociaciones entre EE.UU. e Irán",
       "link": "https://cnnespanol.cnn.com/2026/07/10/mundo/live-news/nuevos-ataques-iran-eeuu-vivo-1-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260710103215646.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PDVSA DESTINÓ SUMINISTRO DE DIÉSEL PARA MAQUINARIA DESPLEGADA TRAS LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/pdvsa-destino-suministro-de-diesel-para-maquinaria-desplegada-tras-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/plata-de-distribucion-Catia-La-Mar-627x376.jpg"
+      "title": "ESPERAN QUE 80 % DEL TRANSPORTE CUENTE CON MECANISMOS DE PAGO DIGITAL ANTES DE QUE TERMINE 2026",
+      "link": "https://noticierodigital.com/2026/07/esperan-que-80-del-transporte-cuente-con-mecanismos-de-pago-digital-antes-de-que-termine-2026/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/transportistas-pasaje-gasolina-8mar2023.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petro asegura a Lula que garantizará una transición pacífica en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/petro-asegura-a-lula-que-garantizara-una-transicion-pacifica-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
+      "title": "Mexicana vivió por videollamada el terremoto que cambió la vida de su prometido en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/mexicana-vivio-por-videollamada-el-terremoto-que-cambio-la-vida-de-su-prometido-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Nora-y-George-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-10T10:53:26.760Z"
+  "lastUpdate": "2026-07-10T13:11:31.081Z"
 };
