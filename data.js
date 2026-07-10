@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "865,16"
+      "usdt": "863,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inician pago del Bono de Corresponsabilidad y Formación de julio a trabajadores de empresas estratégicas (+Monto)",
-      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-de-corresponsabilidad-y-formacion-de-julio-a-trabajadores-de-empresas-estrategicas-monto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
+      "title": "Este #10Jul inician proceso para acreditar el Bono Especial de Vacaciones a docentes (+Detalles)",
+      "link": "https://www.bancaynegocios.com/este-10jul-inician-proceso-para-acreditar-el-bono-especial-de-vacaciones-a-docentes-personal-administrativo-y-obrero-detalles/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1783718809801.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Capturado con presunta marihuana en el barrio Alfredo Sadel",
-      "link": "https://noticialdia.com/sucesos/capturado-con-presunta-marihuana-en-el-barrio-alfredo-sadel/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-57.webp?x33727"
+      "title": "Detenido por presunta estafa mediante rifas ilícitas en Maracaibo",
+      "link": "https://noticialdia.com/sucesos/detenido-por-presunta-estafa-mediante-rifas-ilicitas-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-59.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "EE.UU. transporta ayuda humanitaria desde el Puerto de La Guaira hacia zonas afectadas tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-transporta-ayuda-humanitaria-desde-el-puerto-de-la-guaira-hacia-zonas-afectadas-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-07-09-222409-217797.png"
+      "title": "Viceministro Oliver blanco agradece apoyo de la embajada de Italia en zonas vulnerables tras terremotos del 24 de junio",
+      "link": "https://noticiasvenevision.com/noticias/politica/viceministro-oliver-blanco-agradece-apoyo-de-la-embajada-de-italia-en-zonas-vulnerables-tras-terremotos-del-24-de-junio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_743157163_18607887697054795_1589657269246551869_n-393727.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GUSTAVO DUQUE DESMINTIÓ COLAPSO DE EDIFICIO POR SISMO DE 3,9 DE ESTE 10J",
-      "link": "https://noticierodigital.com/2026/07/gustavo-duque-desmintio-colapso-de-edificio-por-sismo-de-39-de-este-10j/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/gustavoDuque-627x376.jpg"
+      "title": "AEROPUERTOS ALTERNATIVOS MANTIENEN LA CONEXIÓN AÉREA DE VENEZUELA CON EL EXTERIOR",
+      "link": "https://noticierodigital.com/2026/07/aeropuertos-alternativos-mantienen-la-conexion-aerea-de-venezuela-con-el-exterior/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/aeropuerto-internacional-arturo-michelena-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONU prepara plan de seis meses para atender a 1,3 millones de damnificados en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/onu-prepara-plan-de-seis-meses-para-atender-a-13-millones-de-damnificados-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/OCHA-1-696x392-1.jpg"
+      "title": "Tragedia en Almería: incendio forestal deja al menos 11 muertos y decenas de evacuados",
+      "link": "https://diarioversionfinal.com/mundo/tragedia-en-almeria-incendio-forestal-deja-al-menos-11-muertos-y-decenas-de-evacuados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/7273877bb7dd-fuego-almeria1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-10T20:22:45.064Z"
+  "lastUpdate": "2026-07-10T22:02:32.977Z"
 };
