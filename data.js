@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "870,00"
+      "usdt": "831,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Aumentaron las rutas aéreas en Venezuela tras los terremotos, con la ciudad de Valencia como nuevo centro de operaciones",
-      "link": "https://www.infobae.com/venezuela/2026/07/10/aumentaron-las-rutas-aereas-en-venezuela-tras-los-terremotos-con-la-ciudad-de-valencia-como-nuevo-centro-de-operaciones/",
-      "image": "https://www.infobae.com/resizer/v2/JQQ3ADYYAVCWBHWVK4I6RNKVCE.JPG?auth=bb5d1c0ef1f550259ec45dea33b13cb1614b312aa24012db453163ca60a2a6b4&smart=true&width=350&height=197&quality=85"
+      "title": "“La vida se paralizó”: venezolanos cavan con sus propias manos entre los escombros en busca de familiares a dos semanas de los sismos",
+      "link": "https://www.infobae.com/venezuela/2026/07/10/la-vida-se-paralizo-venezolanos-cavan-con-sus-propias-manos-entre-los-escombros-en-busca-de-familiares-a-dos-semanas-de-los-sismos/",
+      "image": "https://www.infobae.com/resizer/v2/TZ2PVOGYLZG7TNLYIMSZW4UGZY.JPG?auth=6fbfca159c750543804b5f4a1b0d4b85c7c54847f149f4e5598e1dd412f52d9d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Israel informó a EE.UU. sobre un complot iraní para asesinar a Trump, según fuentes",
-      "link": "https://cnnespanol.cnn.com/2026/07/09/eeuu/israel-informacion-inteligencia-complot-irani-asesinar-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2284693620-20260709231015596-20260709235416189.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán afirma que fue blanco de nuevos ataques",
+      "link": "https://cnnespanol.cnn.com/2026/07/09/mundo/live-news/nuevos-ataques-iran-eeuu-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260709103652615.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-10T03:20:09.333Z"
+  "lastUpdate": "2026-07-10T07:35:36.933Z"
 };
