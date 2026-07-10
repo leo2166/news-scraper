@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 10 Julio 2026"
     },
     "binance": {
-      "usdt": "862,39"
+      "usdt": "856,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Esperan que a finales de año, el 80% del transporte en todo el país cuente con mecanismos de pago digital",
-      "link": "https://www.bancaynegocios.com/esperan-que-a-finales-de-ano-el-80-porciento-del-transporte-en-todo-el-pais-cuente-con-mecanismos-de-pago-digital/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/Transporte-publico.jpg"
+      "title": "#Análisis: El reto económico para Venezuela está en \"convertir la adversidad en dinamismo\"",
+      "link": "https://www.bancaynegocios.com/analisis-el-reto-economico-para-venezuela-esta-en-convertir-la-adversidad-en-dinamismo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La devaluación del bolívar venezolano se aceleró en el mercado oficial tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/10/la-devaluacion-del-bolivar-venezolano-se-acelero-en-el-mercado-oficial-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/FMNEGT4PE5CO5P3HAN35IRY6WY.jpg?auth=c168d109179ed87a3adcae208a805fc2748c6cb6eae00a3d9b257aeb430e1f34&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez ejecuta una “devaluación agresiva” para cerrar la brecha cambiaria en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/10/delcy-rodriguez-ejecuta-una-devaluacion-agresiva-para-cerrar-la-brecha-cambiaria-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/XG7R5V3S7VC2DPFY7YEWIAPHD4.JPG?auth=2faf75e5b2e32089d7f2673e0948cede09fc37cf6057333b01ebaa8e16959cdd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Sismo de 3,9 grados sacude la costa de La Guaira",
-      "link": "https://noticialdia.com/al-dia/sismo-de-39-grados-sacude-la-costa-de-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-55.webp?x33727"
+      "title": "Preso tres sujetos por hurto a restaurante en 5 de Julio",
+      "link": "https://noticialdia.com/sucesos/presos-tres-sujetos-por-hurto-a-restaurante-en-5-de-julio/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-56.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Se detienen los combates, pero no hay señales de acuerdo entre EE.UU. e Irán",
+      "title": "Trump da por terminado el alto el fuego, pero acuerda conversar con Irán",
       "link": "https://cnnespanol.cnn.com/2026/07/10/mundo/live-news/nuevos-ataques-iran-eeuu-vivo-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260710103215646.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-declaraciones-20260710150524233.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -44,17 +44,17 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-07-09-222409-217797.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "FUNVISIS REGISTRA AL MENOS 20 SISMOS ESTE 10 DE JULIO EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/funvisis-registra-al-menos-20-sismos-este-10-de-julio-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/funvisis-sismo.jpg"
+    },
+    {
       "source": "La Verdad",
       "title": "La OPS advierte de una nueva fase crítica en la respuesta tras los terremotos en Venezuela",
       "link": "https://laverdad.com/la-ops-advierte-de-una-nueva-fase-critica-en-la-respuesta-tras-los-terremotos-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/07/OPS.jpg"
-    },
-    {
-      "source": "Diario Versión Final",
-      "title": "Netanyahu destaca misión israelí en Venezuela: “Reconstruyen ruinas y también relaciones”",
-      "link": "https://diarioversionfinal.com/mundo/netanyahu-destaca-mision-israeli-en-venezuela-reconstruyen-ruinas-y-tambien-relaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/israeli-prime-minister-benjamin-netanyahu-speaks-the-media-during-press-conference-tel-aviv-israel-monday-april-10-2023_98-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-10T16:24:43.290Z"
+  "lastUpdate": "2026-07-10T18:22:48.686Z"
 };
