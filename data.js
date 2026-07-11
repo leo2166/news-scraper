@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "863,68"
+      "usdt": "864,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Inglaterra empata a Noruega 1-1 en el Estadio Miami",
+      "title": "Noruega e Inglaterra buscan la ventaja en el Estadio Miami",
       "link": "https://cnnespanol.cnn.com/2026/07/11/deportes/live-news/noruega-inglaterra-mundial-2026-resultado-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-11t213925z-346595952-up1em7b1o5ouv-rtrmadp-3-soccer-worldcup-nor-eng.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-11t222529z-1307583258-up1em7b1qaf2d-rtrmadp-3-soccer-worldcup-nor-eng.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De la Espriella aclara que no busca desconocer soberanía de Venezuela tras polémica por reconstrucción",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-aclara-que-no-busca-desconocer-soberania-de-venezuela-tras-polemica-por-reconstruccion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/DE-LA-ESPRIELLA-RsDxWxrAZ1ITIjYIgONGBSM-1200x840@diario_abc-750x430.webp"
+      "title": "Gobierno de Trump compra dos grandes centros de detención migratoria en California por $ 1.500 millones",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-trump-compra-dos-grandes-centros-de-detencion-migratoria-en-california-por-1-500-millones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Centro-Otay-Mesa-11-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-11T21:49:59.876Z"
+  "lastUpdate": "2026-07-11T22:48:11.535Z"
 };
