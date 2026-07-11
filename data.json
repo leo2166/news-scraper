@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "870,00"
+      "usdt": "830,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "¿Qué sigue ahora que Trump dio por terminado el alto el fuego con Irán?",
-      "link": "https://cnnespanol.cnn.com/2026/07/10/eeuu/trump-alto-el-fuego-iran-termina-que-sigue-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-10-150754.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Imágenes satelitales revelan intentos de Irán de reconstruir instalaciones nucleares",
+      "link": "https://cnnespanol.cnn.com/2026/07/10/mundo/video/cnn-iran-reconstruccion-instalaciones-nucleares-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-declaraciones-20260710150524233.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HM5FvaUXQAAS7Kg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-11T03:17:20.826Z"
+  "lastUpdate": "2026-07-11T06:12:35.832Z"
 }
