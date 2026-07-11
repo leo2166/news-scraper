@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "868,20"
+      "usdt": "865,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Este #10Jul inician proceso para acreditar el Bono Especial de Vacaciones a docentes (+Detalles)",
-      "link": "https://www.bancaynegocios.com/este-10jul-inician-proceso-para-acreditar-el-bono-especial-de-vacaciones-a-docentes-personal-administrativo-y-obrero-detalles/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1783718809801.jpeg"
+      "title": "Venezuela necesita captar al menos US$ 10.000 millones iniciales de fondos internacionales para empezar la reconstrucción",
+      "link": "https://www.bancaynegocios.com/venezuela-necesita-captar-al-menos-us-10000-millones-iniciales-de-fondos-internacionales-para-empezar-la-reconstruccion/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/CotizacionDolaresMonedaDivisas.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Los familiares de venezolanos que aún están bajo los escombros denunciaron que militares impiden sus labores de búsqueda",
-      "link": "https://www.infobae.com/venezuela/2026/07/11/los-familiares-de-venezolanos-que-aun-estan-bajo-los-escombros-denunciaron-que-militares-impiden-sus-labores-de-busqueda/",
-      "image": "https://www.infobae.com/resizer/v2/J52KA3PVAVGMRNOODHDEPZJOEE.JPG?auth=815f114e86bd59dda79faab2769ced02428a7c3677b0e79783d42c2357d47cef&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela hará un censo biométrico de las personas que perdieron sus viviendas por los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/11/venezuela-hara-un-censo-biometrico-de-las-personas-que-perdieron-sus-viviendas-por-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/6P2DYY5QUZH4FIPMKVCPUWSQUY.JPG?auth=f4be192ecbb15f17ff34b0506232fe655c9c457b6fe524982d3f14801668dc35&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Asciende a 4 mil 118 la cifra de fallecidos por el doble terremoto: La cantidad de heridos se mantiene en 16 mil 740",
-      "link": "https://noticialdia.com/al-dia/asciende-a-4-mil-118-la-cifra-de-fallecidos-por-el-doble-terremoto-la-cantidad-de-heridos-se-mantiene-en-16-mil-740/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/fdfc129a5ee90c30ae89ac10f0446808a51424c4w.webp?x33727"
+      "title": "Mató a su nieta por un noviazgo y la enterró en el patio de su casa en Acarigua",
+      "link": "https://noticialdia.com/sucesos/mato-a-su-nieta-por-un-noviazgo-y-la-enterro-en-el-patio-de-su-casa-en-acarigua/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-64.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Rodríguez presenta balance oficial y reporta 4.118 fallecidos y 16.740 heridos en el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-presenta-balance-oficial-y-reporta-4118-fallecidos-y-16740-heridos-en-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-rodriguez-90-696x460-cb1b8e.jpg"
+      "title": "Venezuela descarta articulación con Colombia para reconstrucción tras sismos",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-descarta-articulacion-con-colombia-para-reconstruccion-tras-sismos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comunicado-8b968f.png"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "CRUZ ROJA VENEZOLANA INCORPORÓ A EY PARA FORTALECER SU GESTIÓN INSTITUCIONAL",
+      "link": "https://noticierodigital.com/2026/07/cruz-roja-venezolana-incorporo-a-ey-para-fortalecer-su-gestion-institucional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Imagen-destacada_20260711_103830_0000-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -51,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que EE. UU. responderá con miles de misiles si Irán lo ataca",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-ee-uu-respondera-con-miles-de-misiles-si-iran-lo-ataca/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-OTAN.jpg"
+      "title": "León XIV reúne a pobres y migrantes en Castel Gandolfo para promover la solidaridad",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-reune-a-pobres-y-migrantes-en-castel-gandolfo-para-promover-la-solidaridad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-3-750x392.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-11T13:18:54.382Z"
+  "lastUpdate": "2026-07-11T14:53:26.009Z"
 }
