@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "866,00"
+      "usdt": "870,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El total de muertos por el doble terremoto en Venezuela superó los 4.000",
-      "link": "https://www.infobae.com/venezuela/2026/07/10/el-total-de-muertos-por-el-doble-terremoto-en-venezuela-supero-los-4000/",
-      "image": "https://www.infobae.com/resizer/v2/GJF4W63LG5F6TEPYWIVHBLSVSM.jpg?auth=80e113a7b5f5819864c9300615f5b167efd630b61ee8fa25bf13b1a942737ec0&smart=true&width=350&height=197&quality=85"
+      "title": "Los crematorios y morgues de Venezuela operan sin pausa tras los terremotos y aceleran entierros ante la magnitud de la tragedia",
+      "link": "https://www.infobae.com/venezuela/2026/07/11/los-crematorios-y-morgues-de-venezuela-operan-sin-pausa-tras-los-terremotos-y-aceleran-entierros-ante-la-magnitud-de-la-tragedia/",
+      "image": "https://www.infobae.com/resizer/v2/SOPZY7KVVBGTRFLUSGIC5S757Q.JPG?auth=e4ce130f5cee913398e44dcd3a0da7eb33b7e6720f1fab5826381ce7a232255f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Viceministro Oliver Blanco agradece apoyo de la embajada de Italia en zonas vulnerables tras terremotos del 24 de junio",
-      "link": "https://noticiasvenevision.com/noticias/politica/viceministro-oliver-blanco-agradece-apoyo-de-la-embajada-de-italia-en-zonas-vulnerables-tras-terremotos-del-24-de-junio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_743157163_18607887697054795_1589657269246551869_n-393727.jpg"
+      "title": "Jorge Rodríguez presenta balance oficial y reporta 4.118 fallecidos y 16.740 heridos en el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-presenta-balance-oficial-y-reporta-4118-fallecidos-y-16740-heridos-en-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-rodriguez-90-696x460-cb1b8e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXCARCELARON A JACKSON VERA Y JECSON RICARDO CARIEL TRAS CASI CUATRO AÑOS DE PRISIÓN",
-      "link": "https://noticierodigital.com/2026/07/excarcelaron-a-jackson-vera-y-jecson-ricardo-cariel-tras-casi-cuatro-anos-de-prision/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/jackson-vera-jecson-ricardo-excarcelacion-627x376.jpg"
+      "title": "SECTOR INMOBILIARIO PROPUSO REVISAR LEYES PARA ATENDER A FAMILIAS AFECTADAS",
+      "link": "https://noticierodigital.com/2026/07/sector-inmobiliario-propuso-revisar-leyes-para-atender-a-familias-afectadas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/terremotos-venezuela-la-guaira-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HM5FvaUXQAAS7Kg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-10T23:57:26.175Z"
+  "lastUpdate": "2026-07-11T03:17:20.826Z"
 };
