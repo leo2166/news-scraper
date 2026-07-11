@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "870,68"
+      "usdt": "869,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Imágenes satelitales revelan intentos de Irán de reconstruir instalaciones nucleares",
-      "link": "https://cnnespanol.cnn.com/2026/07/10/mundo/video/cnn-iran-reconstruccion-instalaciones-nucleares-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-declaraciones-20260710150524233.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "A pesar de Trump, un amplio proyecto de asequibilidad de la vivienda se convirtió en ley",
+      "link": "https://cnnespanol.cnn.com/2026/07/11/economia/proyecto-asequibilidad-vivienda-ley-ee-uu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277390306-20260711055351249.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HM5FvaUXQAAS7Kg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-11T10:14:26.868Z"
+  "lastUpdate": "2026-07-11T11:51:43.311Z"
 }
