@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "865,50"
+      "usdt": "863,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El gobierno de Venezuela aumentó a más de 4.300 la cifra de muertos por los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/11/el-gobierno-de-venezuela-aumento-a-mas-de-4300-la-cifra-de-muertos-por-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/F4NXVW3DXNCCFLV5O3DLHIT5BY.JPG?auth=a58e30924c49143f3e8afac90af6ab85cd96a4a30c582cba6415a5284cb1cb6b&smart=true&width=350&height=197&quality=85"
+      "title": "Mauricio Macri anunció que la Fundación FIFA donará USD 1 millón para ayudar a Venezuela tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/11/mauricio-macri-anuncio-que-la-fundacion-fifa-donara-usd-1-millon-para-ayudar-a-venezuela-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/7R3J55V7ONEMFJ5PGH4CWZAHMM.jpg?auth=4a3d6a39ab5ed03f2bea15deef18c4a089159c687d2380f981cde5a7477f1155&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Privados de libertad en San Francisco reciben atención médica integral",
-      "link": "https://noticialdia.com/al-dia/privados-de-libertad-en-san-francisco-reciben-atencion-medica-integral/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/6f83798f-dac6-4574-a030-d080ccc7d689.webp?x33727"
+      "title": "\"Bueno mi amor, si llegó el final, estamos juntos\": La historia detrás del conmovedor abrazo de los abuelitos Judith y Félix durante el doble terremoto",
+      "link": "https://noticialdia.com/al-dia/bueno-mi-amor-si-llego-el-final-estamos-juntos-la-historia-detras-del-conmovedor-abrazo-de-los-abuelitos-judith-y-felix-durante-el-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-11-at-4.41.34-PM.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "El líder supremo de Irán promete \"venganza\" por la muerte de su padre",
-      "link": "https://cnnespanol.cnn.com/2026/07/11/mundo/live-news/mensaje-jamenei-amenazas-trump-iran-eeuu-vivo-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lider-supremo-iran-20260711172638383.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Inglaterra empata a Noruega 1-1 en el Estadio Miami",
+      "link": "https://cnnespanol.cnn.com/2026/07/11/deportes/live-news/noruega-inglaterra-mundial-2026-resultado-goles-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-11t213925z-346595952-up1em7b1o5ouv-rtrmadp-3-soccer-worldcup-nor-eng.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Escudo de las Américas exige que se respeten resultados electorales en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/el-escudo-de-las-americas-exige-que-se-respeten-resultados-electorales-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Abelardo-de-La-Espriella-11-07-2026-750x430.webp"
+      "title": "De la Espriella aclara que no busca desconocer soberanía de Venezuela tras polémica por reconstrucción",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-aclara-que-no-busca-desconocer-soberania-de-venezuela-tras-polemica-por-reconstruccion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/DE-LA-ESPRIELLA-RsDxWxrAZ1ITIjYIgONGBSM-1200x840@diario_abc-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-11T20:47:18.421Z"
+  "lastUpdate": "2026-07-11T21:49:59.876Z"
 };
