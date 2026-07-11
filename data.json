@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "864,00"
+      "usdt": "862,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Noruega e Inglaterra buscan la ventaja en el Estadio Miami",
+      "title": "Inglaterra derrota a Noruega y clasifica a semifinales",
       "link": "https://cnnespanol.cnn.com/2026/07/11/deportes/live-news/noruega-inglaterra-mundial-2026-resultado-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-11t222529z-1307583258-up1em7b1qaf2d-rtrmadp-3-soccer-worldcup-nor-eng.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-11t231129z-1067199089-up1em7b1sf368-rtrmadp-3-soccer-worldcup-nor-eng.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Centro-Otay-Mesa-11-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-11T22:48:11.535Z"
+  "lastUpdate": "2026-07-11T23:54:45.432Z"
 }
