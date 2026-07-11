@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "867,25"
+      "usdt": "865,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cifra de fallecidos por el doble terremoto en Venezuela asciende a 4 mil 333",
-      "link": "https://noticialdia.com/principal/cifra-de-fallecidos-por-el-doble-terremoto-en-venezuela-asciende-a-4-mil-333/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-11-at-2.25.41-PM.webp?x33727"
+      "title": "Privados de libertad en San Francisco reciben atención médica integral",
+      "link": "https://noticialdia.com/al-dia/privados-de-libertad-en-san-francisco-reciben-atencion-medica-integral/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/6f83798f-dac6-4574-a030-d080ccc7d689.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Alerta en EE. UU por brote de extraña enfermedad al menos en 18 estados",
-      "link": "https://diarioversionfinal.com/mundo/alerta-en-ee-uu-por-brote-de-extrana-enfermedad-al-menos-en-18-estados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-11T110655.977.jpg"
+      "title": "El Escudo de las Américas exige que se respeten resultados electorales en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/el-escudo-de-las-americas-exige-que-se-respeten-resultados-electorales-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Abelardo-de-La-Espriella-11-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-11T19:18:50.320Z"
+  "lastUpdate": "2026-07-11T20:47:18.421Z"
 };
