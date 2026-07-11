@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "830,00"
+      "usdt": "870,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Los crematorios y morgues de Venezuela operan sin pausa tras los terremotos y aceleran entierros ante la magnitud de la tragedia",
-      "link": "https://www.infobae.com/venezuela/2026/07/11/los-crematorios-y-morgues-de-venezuela-operan-sin-pausa-tras-los-terremotos-y-aceleran-entierros-ante-la-magnitud-de-la-tragedia/",
-      "image": "https://www.infobae.com/resizer/v2/SOPZY7KVVBGTRFLUSGIC5S757Q.JPG?auth=e4ce130f5cee913398e44dcd3a0da7eb33b7e6720f1fab5826381ce7a232255f&smart=true&width=350&height=197&quality=85"
+      "title": "Los familiares de venezolanos que aún están bajo los escombros denunciaron que militares impiden sus labores de búsqueda",
+      "link": "https://www.infobae.com/venezuela/2026/07/11/los-familiares-de-venezolanos-que-aun-estan-bajo-los-escombros-denunciaron-que-militares-impiden-sus-labores-de-busqueda/",
+      "image": "https://www.infobae.com/resizer/v2/J52KA3PVAVGMRNOODHDEPZJOEE.JPG?auth=815f114e86bd59dda79faab2769ced02428a7c3677b0e79783d42c2357d47cef&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HM5FvaUXQAAS7Kg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-11T06:12:35.832Z"
+  "lastUpdate": "2026-07-11T08:46:27.515Z"
 };
