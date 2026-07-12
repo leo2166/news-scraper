@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "863,68"
+      "usdt": "863,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -35,13 +35,19 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "El impacto político tras la muerte de Lindsey Graham",
       "link": "https://cnnespanol.cnn.com/2026/07/12/eeuu/lindsey-graham-muerte-senado-elecciones-noviembre-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lindsey-graham.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1228803133-20260712101729664.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
       "title": "Presidenta (E) Delcy Rodríguez lamenta el fallecimiento del líder qatarí Hamad bin Khalifa Al Thani",
       "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-lamenta-el-fallecimiento-del-lider-qatari-hamad-bin-khalifa-al-thani",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5087358607606615206-6d8277.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "ALERTAN RIESGO DE COLAPSO EN EL HOSPITAL FRANCISCO RÍSQUEZ DE CARACAS",
+      "link": "https://noticierodigital.com/2026/07/alertan-riesgo-de-colapso-en-el-hospital-francisco-risquez-de-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/colpaso-hospital-francisco-risquez-caracas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump niega bloqueo iraní del estrecho de Ormuz y asegura que sigue abierto",
-      "link": "https://diarioversionfinal.com/mundo/trump-niega-bloqueo-irani-del-estrecho-de-ormuz-y-asegura-que-sigue-abierto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/tagreuters.com2026newsml_KBN3PR2OT-750x430.jpg"
+      "title": "Trump: EE. UU. “golpeó muy duro a Irán” en los últimos ataques",
+      "link": "https://diarioversionfinal.com/mundo/trump-ee-uu-golpeo-muy-duro-a-iran-en-los-ultimos-ataques/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-12T17:57:47.352Z"
+  "lastUpdate": "2026-07-12T19:13:32.423Z"
 };
