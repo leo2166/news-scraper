@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "867,50"
+      "usdt": "864,29"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Mauricio Macri anunció que la Fundación FIFA donará USD 1 millón para ayudar a Venezuela tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/11/mauricio-macri-anuncio-que-la-fundacion-fifa-donara-usd-1-millon-para-ayudar-a-venezuela-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/7R3J55V7ONEMFJ5PGH4CWZAHMM.jpg?auth=4a3d6a39ab5ed03f2bea15deef18c4a089159c687d2380f981cde5a7477f1155&smart=true&width=350&height=197&quality=85"
+      "title": "Un coronel retirado afirma que la crisis venezolana solo puede resolverse con elecciones libres: “Toda autoridad usurpada es ineficaz”",
+      "link": "https://www.infobae.com/venezuela/2026/07/12/un-coronel-retirado-afirma-que-la-crisis-venezolana-solo-puede-resolverse-con-elecciones-libres-toda-autoridad-usurpada-es-ineficaz/",
+      "image": "https://www.infobae.com/resizer/v2/F7JY2UBKFREQ3DUJTB53XIUDQI.jpg?auth=92aab396810d2c18daa45513da6d6f33f860a9f7609be89d93c0e963978a3b6c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "\"Bueno mi amor, si llegó el final, estamos juntos\": La historia detrás del conmovedor abrazo de los abuelitos Judith y Félix durante el doble terremoto",
-      "link": "https://noticialdia.com/al-dia/bueno-mi-amor-si-llego-el-final-estamos-juntos-la-historia-detras-del-conmovedor-abrazo-de-los-abuelitos-judith-y-felix-durante-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-11-at-4.41.34-PM.webp?x33727"
+      "title": "Arrestado por robar equipos de aire acondicionado en un hotel de Maracaibo",
+      "link": "https://noticialdia.com/sucesos/arrestado-por-robar-equipos-de-aire-acondicionado-en-un-hotel-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-71.webp?x33727"
     },
     {
       "source": "CNN en Español",
       "title": "Argentina e Inglaterra reeditarán una rivalidad histórica en semifinales",
       "link": "https://cnnespanol.cnn.com/2026/07/12/deportes/argentina-inglaterra-rivalidad-historia-mundial-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285709689.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285705840.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,16 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "NASA CONFIRMÓ UN DESPLAZAMIENTO MASIVO DEL TERRENO EN VENEZUELA TRAS LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/nasa-confirmo-un-desplazamiento-masivo-del-terreno-en-venezuela-tras-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
+      "title": "CAYÓ EN ZULIA HOMBRE QUE OFRECÍA RIFAS FALSAS PARA AYUDAR A AFECTADOS POR LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/cayo-en-zulia-hombre-que-ofrecia-rifas-falsas-para-ayudar-a-afectados-por-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/detencion-zulia-pnb-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "La OPS advierte de una nueva fase crítica en la respuesta tras los terremotos en Venezuela",
       "link": "https://laverdad.com/la-ops-advierte-de-una-nueva-fase-critica-en-la-respuesta-tras-los-terremotos-en-venezuela/",
       "image": "https://laverdad.com/wp-content/uploads/2026/07/OPS.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "Capturan a 29 venezolanos en operativo contra red de drogas por delivery en Chile",
+      "link": "https://diarioversionfinal.com/mundo/capturan-a-29-venezolanos-en-operativo-contra-red-de-drogas-por-delivery-en-chile/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/UI6OKTYQF5F4XDU2HWPO3UGEHA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-12T11:59:57.873Z"
+  "lastUpdate": "2026-07-12T13:47:36.218Z"
 };
