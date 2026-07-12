@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "865,99"
+      "usdt": "825,94"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Suiza iguala el marcador ante Argentina",
-      "link": "https://cnnespanol.cnn.com/2026/07/11/deportes/live-news/argentina-suiza-mundial-2026-resultado-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285705560.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Argentina sufrió y ganó, otra vez: enfrentará a Inglaterra en semifinales",
+      "link": "https://cnnespanol.cnn.com/2026/07/12/deportes/argentina-suiza-julian-alvarez-mundial-2026-efe",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285709689.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Rodríguez anuncia entrega de las primeras 200 viviendas tras los terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-anuncia-entrega-de-las-primeras-200-viviendas-tras-los-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/e9a1e570-7579-11f1-9db8-97a620cd9604.jpg-fce8fb.jpg"
+      "title": "Altos funcionarios de Estados Unidos y Global Empowerment Mission coordinan entrega de ayuda a damnificados tras terremotos en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/altos-funcionarios-de-estados-unidos-y-global-empowerment-mission-coordinan-entrega-de-ayuda-a-damnificados-tras-terremotos-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/entrega-de-ayuda-humanitaria-630x348-a8881c.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Díaz-Canel afirma que restablecimiento de la red eléctrica en Cuba será complejo",
-      "link": "https://diarioversionfinal.com/mundo/diaz-canel-afirma-que-restablecimiento-de-la-red-electrica-en-cuba-sera-complejo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/cuba-apagones-protestas-750x430.jpeg"
+      "title": "Barrett distribuye kits especializados para familias que perdieron sus hogares en los terremotos",
+      "link": "https://diarioversionfinal.com/mundo/barrett-distribuye-kits-especializados-para-familias-que-perdieron-sus-hogares-en-los-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Kits-Embajada-11-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-12T02:46:35.814Z"
+  "lastUpdate": "2026-07-12T06:00:24.150Z"
 };
