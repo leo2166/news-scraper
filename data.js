@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "825,94"
+      "usdt": "867,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Kits-Embajada-11-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-12T08:29:25.180Z"
+  "lastUpdate": "2026-07-12T10:28:01.077Z"
 };
