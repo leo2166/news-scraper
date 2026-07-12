@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "865,22"
+      "usdt": "865,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Actualizan balance oficial por el doble terremoto: Contabilizan 4 mil 490 fallecidos",
-      "link": "https://noticialdia.com/al-dia/actualizan-balance-oficial-por-el-doble-terremoto-contabilizan-4-mil-490-fallecidos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Terremoto-en-venezuela.webp?x33727"
+      "title": "Gobierno nacional desmiente alerta de tsunami en La Guaira tras el doble terremoto",
+      "link": "https://noticialdia.com/al-dia/gobierno-nacional-desmiente-alerta-de-tsunami-en-la-guaira-tras-el-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/ed220613559d3bbafe2f1c7a4c1a3207a1bbf1df.avif?x33727"
     },
     {
       "source": "CNN en Español",
       "title": "La guerra con Irán pone en riesgo la capacidad militar de EE.UU. en el futuro",
       "link": "https://cnnespanol.cnn.com/2026/07/12/eeuu/trump-iran-guerra-pocas-armas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1228803133-20260712101729664.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lindsay-graham-senador-ee-uu.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Catar condena ataques de Irán y advierte que se reserva el derecho a responder",
-      "link": "https://diarioversionfinal.com/mundo/catar-condena-ataques-de-iran-y-advierte-que-se-reserva-el-derecho-a-responder/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-12T123656.222.jpg"
+      "title": "Funcionario de la Armada chilena arrolla y mata a seis personas en Viña del Mar",
+      "link": "https://diarioversionfinal.com/mundo/funcionario-de-la-armada-chilena-arrolla-y-mata-a-seis-personas-en-vina-del-mar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Accidente-Chile-12-07-2026-595x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-12T20:48:30.124Z"
+  "lastUpdate": "2026-07-12T21:50:27.931Z"
 };
