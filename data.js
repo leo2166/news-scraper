@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "721,35",
-      "eur": "823,94",
-      "fechaValor": "Lunes, 13 Julio 2026"
+      "usd": "724,00",
+      "eur": "825,50",
+      "fechaValor": "Martes, 14 Julio 2026"
     },
     "binance": {
-      "usdt": "881,59"
+      "usdt": "880,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Nuevo balance del doble terremoto en Venezuela: la cifra de muertos aumentó a 4.561",
-      "link": "https://www.infobae.com/venezuela/2026/07/13/nuevo-balance-del-doble-terremoto-en-venezuela-la-cifra-de-muertos-aumento-a-4561/",
-      "image": "https://www.infobae.com/resizer/v2/B2HV2ZODPFE3TGQ6FTPXBXXKG4.JPG?auth=40970faa887a220f408b0dd72fa88f0c1d82de3a622fd0a79b305e39ecbf8429&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez nombró como nuevo canciller de Venezuela a Félix Plasencia, el diplomático que representaba a Caracas ante Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/07/13/delcy-rodriguez-nombro-como-nuevo-canciller-de-venezuela-a-felix-plasencia-el-diplomatico-que-representaba-a-caracas-ante-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/45AL5RUF3VCD3F3B5NPSWFA3Y4.jpg?auth=965ec5d996f2ee6608681e28f31b793c4ade046f5eb36f008653f86f6624734d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Muere colombiano en tiroteo con participación de ICE en Maine",
-      "link": "https://cnnespanol.cnn.com/2026/07/13/eeuu/live-news/ice-tiroteo-maine-muerto-noticias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maine-tiroteo-gettyimages-2285311069.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. reanuda los ataques contra Irán; Trump afirma que la guerra avanza “muy rápido”",
+      "link": "https://cnnespanol.cnn.com/2026/07/13/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-estrecho-de-ormuz-noticias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-12t080454z-1466450328-rc25cma5lea0-rtrmadp-3-iran-crisis-oman-hormuz-20260713121825749.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ NOMBRÓ A FÉLIX PLASENCIA COMO NUEVO CANCILLER DE LA REPÚBLICA",
-      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-nombro-a-felix-plasencia-como-nuevo-canciller-de-la-republica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/feliz-plasencia-yvan-gil-627x376.jpg"
+      "title": "REFINERÍA EL PALITO REACTIVÓ UNIDAD CLAVE PARA PRODUCIR GASOLINA TRAS LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/refineria-el-palito-reactivo-unidad-clave-para-producir-gasolina-tras-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/refineria-el-palito-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump amenaza con nuevos ataques contra Irán: “Esta noche los vamos a atacar con mucha fuerza”",
-      "link": "https://diarioversionfinal.com/mundo/trump-amenaza-con-nuevos-ataques-contra-iran-esta-noche-los-vamos-a-atacar-con-mucha-fuerza/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/donald_trump_eeuu_serio_de_frente_mayo2020_reuters_770x420-750x420.jpg"
+      "title": "Autoridades afirman que controlaron el voraz incendio en Almería con saldo de 13 muertos",
+      "link": "https://diarioversionfinal.com/mundo/autoridades-afirman-que-controlaron-el-voraz-incendio-en-almeria-con-saldo-de-13-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/GettyImages-2285298961-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-13T21:56:31.675Z"
+  "lastUpdate": "2026-07-13T22:57:12.160Z"
 };
