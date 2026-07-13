@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "825,90"
+      "usdt": "863,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. lanza ataques contra Irán por segunda noche consecutiva",
-      "link": "https://cnnespanol.cnn.com/2026/07/12/mundo/live-news/reanudan-ataques-guerra-ee-uu-iran-vivo-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/746430248-1379795540993093-8353343275714591263-n.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Después de otro tiroteo mortal, ICE enfrenta prueba de credibilidad",
+      "link": "https://cnnespanol.cnn.com/2026/07/13/eeuu/analisis-tiroteo-mortal-ice-credibilidad-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-10-120504.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Accidente-Mexico-12-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-13T06:19:19.996Z"
+  "lastUpdate": "2026-07-13T10:26:09.860Z"
 };
