@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 13 Julio 2026"
     },
     "binance": {
-      "usdt": "825,00"
+      "usdt": "825,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Venezuela necesita captar al menos US$ 10.000 millones iniciales de fondos internacionales para empezar la reconstrucción",
-      "link": "https://www.bancaynegocios.com/venezuela-necesita-captar-al-menos-us-10000-millones-iniciales-de-fondos-internacionales-para-empezar-la-reconstruccion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/11/CotizacionDolaresMonedaDivisas.jpg"
+      "title": "\"Rebote\" inflacionario en junio con un alza de 13,8% y un aumento semestral de 129,82%",
+      "link": "https://www.bancaynegocios.com/rebote-inflacionario-en-junio-con-un-alza-de-13coma8-porciento-y-un-aumento-semestral-de-129coma82-porciento/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/INFLACION-VENEZUELA-EDITADO.jpg"
     },
     {
       "source": "Infobae",
@@ -33,7 +33,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "La guerra con Irán pone en riesgo la capacidad militar de EE.UU. en el futuro",
+      "title": "EE.UU. lanza ataques contra Irán por segunda noche consecutiva",
       "link": "https://cnnespanol.cnn.com/2026/07/12/mundo/live-news/reanudan-ataques-guerra-ee-uu-iran-vivo-2-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/746430248-1379795540993093-8353343275714591263-n.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Arauca evalúa corredor humanitario con Venezuela ante bloqueo vial por lluvias",
-      "link": "https://diarioversionfinal.com/mundo/arauca-evalua-corredor-humanitario-con-venezuela-ante-bloqueo-vial-por-lluvias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Lluvias-Arauca-12-07-2026.jpg"
+      "title": "Al menos nueve muertos y 13 heridos en un accidente de tránsito en México",
+      "link": "https://diarioversionfinal.com/mundo/al-menos-nueve-muertos-y-13-heridos-en-un-accidente-de-transito-en-mexico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Accidente-Mexico-12-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-13T02:47:34.962Z"
+  "lastUpdate": "2026-07-13T06:19:19.996Z"
 }
