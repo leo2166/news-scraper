@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 14 Julio 2026"
     },
     "binance": {
-      "usdt": "886,68"
+      "usdt": "894,05"
     },
     "kontigo": {
       "usd": "N/A"
@@ -44,12 +44,6 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_727519025_18379237474207936_194350669218778176_n-ae0d5a.jpg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "ONG REGISTRA 518 PRESOS POLÍTICOS EN VENEZUELA HASTA EL 13J",
-      "link": "https://noticierodigital.com/2026/07/ong-registra-518-presos-politicos-en-venezuela-hasta-el-13j/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/presospoliticos-venezuela.jpg"
-    },
-    {
       "source": "La Verdad",
       "title": "Edad para jubilarse en México: requisitos según tu régimen de pensión",
       "link": "https://laverdad.com/edad-para-jubilarse-en-mexico-requisitos-segun-tu-regimen-de-pension/",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula acusa a EE. UU. de actuar como “pirata” por cobrar una tasa a buques en Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/lula-acusa-a-ee-uu-de-actuar-como-pirata-por-cobrar-una-tasa-a-buques-en-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/lula-da-silva-13-de-diciembre-750x430.jpg"
+      "title": "EE.UU. solicita a Costa Rica la extradición de cuatro presuntos miembros del Cartel de Sinaloa",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-solicita-a-costa-rica-la-extradicion-de-cuatro-presuntos-miembros-del-cartel-de-sinaloa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/hombre-esposado_0.jpg"
     }
   ],
-  "lastUpdate": "2026-07-14T16:14:50.930Z"
+  "lastUpdate": "2026-07-14T18:03:03.889Z"
 };
