@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 14 Julio 2026"
     },
     "binance": {
-      "usdt": "894,05"
+      "usdt": "900,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,46 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Alcaldía de Chacao aplicará semáforo en apartamentos: Reparaciones podrían costar hasta US$ 10.000",
-      "link": "https://www.bancaynegocios.com/alcaldia-de-chacao-aplicara-el-semaforo-en-apartamentos-reparaciones-podrian-costar-hasta-us-10000/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresNominacionDivisasEEUU.jpg"
+      "title": "Fenahoven advierte que terremotos afectaron 7.650 puestos de empleo en el área de servicios turísticos de La Guaira",
+      "link": "https://www.bancaynegocios.com/fenahoven-advierte-que-terremotos-afectaron-7-650-puestos-de-empleo-en-el-area-de-servicios-turisticos-de-la-guaira/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/laguaira.webp"
     },
     {
       "source": "Infobae",
-      "title": "El hospital de campaña dominicano atiende a más de 1,200 personas tras el doble sismo en Venezuela",
-      "link": "https://www.infobae.com/republica-dominicana/2026/07/14/el-hospital-de-campana-dominicano-atiende-a-mas-de-1200-personas-tras-el-doble-sismo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/S5IAI6ILOVFH5H5EZMGZ2SFXZM.png?auth=03a4e1280d6ca0bb0ac4a7df32ed48d917b23de74fab885a4a588360c35d8380&smart=true&width=350&height=197&quality=85"
+      "title": "Como “sabueso”, un rescatista recupera los restos de su primo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/14/como-sabueso-un-rescatista-recupera-los-restos-de-su-primo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/OCBWSC7EZBDTLLGRTD4ZQZHRPI.jpg?auth=bb1c007f83f798ba1e16c6e48959ca8a48d720986132a5fff60fcfd35fa9274a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Tras un video difundido, capturado por atacar a una mujer de 60 años en Cabimas",
-      "link": "https://noticialdia.com/sucesos/tras-un-video-difundido-capturado-por-brutal-ataque-hacia-una-mujer-de-60-anos-en-cabimas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-94.webp?x33727"
+      "title": "La cifra de fallecidos por los terremotos crece a cuatro mil 734: 20 mil 936 personas son atendidas en campamentos transitorios",
+      "link": "https://noticialdia.com/al-dia/la-cifra-de-fallecidos-por-los-terremotos-crece-a-cuatro-mil-734-20-mil-936-personas-son-atendidas-en-campamentos-transitorios/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/caracas22.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "ICE suspende las paradas de tráfico tras tiroteos mortales en Maine y Texas",
-      "link": "https://cnnespanol.cnn.com/2026/07/14/eeuu/live-news/tiroteo-ice-maine-en-vivo-noticias-reacciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/paradas-de-trafico.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Segundo tiempo: España 1-0 supera a Francia",
+      "link": "https://cnnespanol.cnn.com/2026/07/14/deportes/live-news/espana-francia-semifinal-mundial-2026-en-vivo-resultado-goles-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/haaland-gettyimages-2285693609.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera asegura que nueva hoja de ruta recuperará la democracia en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-asegura-que-nueva-hoja-de-ruta-recuperara-la-democracia-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_727519025_18379237474207936_194350669218778176_n-ae0d5a.jpg"
+      "title": "Marco Rubio compartió en sus redes sociales la hoja de ruta de la Asamblea Nacional de 2015-2020",
+      "link": "https://noticiasvenevision.com/noticias/politica/marco-rubio-compartio-en-sus-redes-sociales-la-hoja-de-ruta-de-la-asamblea-nacional-de-2015-2020",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5llfgudgnvglvaf5q5dxy4y4yu-681d35.avif"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "NÚMERO DE FALLECIDOS POR EL DOBLE SISMO SE ELEVÓ A 4.734, SEGÚN BALANCE OFICIAL ",
+      "link": "https://noticierodigital.com/2026/07/numero-de-fallecidos-por-el-doble-sismo-se-elevo-a-4-734-segun-balance-oficial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Edad para jubilarse en México: requisitos según tu régimen de pensión",
-      "link": "https://laverdad.com/edad-para-jubilarse-en-mexico-requisitos-segun-tu-regimen-de-pension/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Edad-para-jubilarse-en-Mexico-requisitos-segun-tu-regimen-de-pension.jpg"
+      "title": "Bukele defiende la reelección indefinida en El Salvador en la búsqueda de su tercer mandato",
+      "link": "https://laverdad.com/bukele-defiende-la-reeleccion-indefinida-en-el-salvador-en-la-busqueda-de-su-tercer-mandato/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. solicita a Costa Rica la extradición de cuatro presuntos miembros del Cartel de Sinaloa",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-solicita-a-costa-rica-la-extradicion-de-cuatro-presuntos-miembros-del-cartel-de-sinaloa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/hombre-esposado_0.jpg"
+      "title": "Juez de EE. UU. ordena a Maduro y Alex Saab pagar $314 millones a tres estadounidenses",
+      "link": "https://diarioversionfinal.com/mundo/juez-de-ee-uu-ordena-a-maduro-y-alex-saab-pagar-314-millones-a-tres-estadounidenses/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-14T154913.313.jpg"
     }
   ],
-  "lastUpdate": "2026-07-14T18:03:03.889Z"
+  "lastUpdate": "2026-07-14T20:11:33.272Z"
 };
