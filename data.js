@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 14 Julio 2026"
     },
     "binance": {
-      "usdt": "880,69"
+      "usdt": "882,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez: \"Las fuentes de ingresos del país se mantienen en su curso de crecimiento\"",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-las-fuentes-de-ingresos-del-pais-se-mantienen-en-su-curso-de-crecimiento/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-13-at-7.19.00-PM-e1783984919759.jpeg"
+      "title": "Alcaldía de Chacao aplicará semáforo en apartamentos: Reparaciones podrían costar hasta US$ 10.000",
+      "link": "https://www.bancaynegocios.com/alcaldia-de-chacao-aplicara-el-semaforo-en-apartamentos-reparaciones-podrian-costar-hasta-us-10000/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresNominacionDivisasEEUU.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez aseguró que la producción petrolera de Venezuela no sufrió impacto tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/14/delcy-rodriguez-aseguro-que-la-produccion-petrolera-de-venezuela-no-sufrio-impacto-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/IHUBKX6RVVFARO6RAHCK5VHOJU.png?auth=55fb86953d89ec7998629d289336a93d029c0c6cb2ea675d56e37983e19408db&smart=true&width=350&height=197&quality=85"
+      "title": "Terremotos reavivaron la discusión sobre la calidad del programa de viviendas del chavismo",
+      "link": "https://www.infobae.com/venezuela/2026/07/14/terremotos-reavivaron-la-discusion-sobre-la-calidad-del-programa-de-viviendas-del-chavismo/",
+      "image": "https://www.infobae.com/resizer/v2/MKGE46BQZNAIHNB6IVUXO5UMDY.JPG?auth=6fd44cfbcdce9d1b7cdfb79f922d86965bbe964362bf42238d4fd99b4ad97f9e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Román Camacho frente a la tragedia en La Guaira: “Yo pensé que tenía una coraza por ser reportero de sucesos… pero esto es otra cosa”",
-      "link": "https://noticialdia.com/al-dia/roman-camacho-frente-a-la-tragedia-en-la-guaira-yo-pense-que-tenia-una-coraza-por-ser-reportero-de-sucesos-pero-esto-es-otra-cosa/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/DSC04919.JPG-scaled.webp?x33727"
+      "title": "Esclarecido el hurto a la iglesia El Nazareno: Cuatro detenidos tras despliegue policial en San Francisco",
+      "link": "https://noticialdia.com/al-dia/esclarecido-el-hurto-a-la-iglesia-el-nazareno-cuatro-detenidos-tras-despliegue-policial-en-san-francisco/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Captura-90.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Tiroteos fatales de ICE vuelven a poner bajo la lupa la ofensiva migratoria",
+      "title": "Colombia pide \"aclaraciones\" al Gobierno de Trump tras el mortal tiroteo de ICE en Maine",
       "link": "https://cnnespanol.cnn.com/2026/07/14/eeuu/live-news/tiroteo-ice-maine-en-vivo-noticias-reacciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285367996.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tiroteo-maine.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez anuncia nuevas designaciones en su gabinete",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-nuevas-designaciones-en-su-gabinete",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5091652806103469385_y-874ccb.jpg"
+      "title": "Asamblea Nacional sesionará este martes para debatir reformas al mercado inmobiliario",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-sesionara-este-martes-para-debatir-reformas-al-mercado-inmobiliario",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-2560x1703-1-1068x601-2e2ce9.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ONG ASEGURÓ QUE LOS TERREMOTOS AGRAVARON LA SITUACIÓN DE LOS PRESOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/07/ong-aseguro-que-los-terremotos-agravaron-la-situacion-de-los-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/presospoliticos-venezuela.jpg"
+      "title": "COREA DEL SUR ENVÍA NUEVO LOTE DE AYUDA HUMANITARIA A VENEZUELA POR $3,5 MILLONES",
+      "link": "https://noticierodigital.com/2026/07/corea-del-sur-envia-nuevo-lote-de-ayuda-humanitaria-a-venezuela-por-35-millones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-01-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán advierte que no cederá el control del estrecho de Ormuz tras anuncio de Trump",
-      "link": "https://diarioversionfinal.com/mundo/iran-advierte-que-no-cedera-el-control-del-estrecho-de-ormuz-tras-anuncio-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/657954-750x430.jpg"
+      "title": "Rechazo en Chile a propuesta de Kast que permitiría jornadas laborales de hasta 52 horas semanales",
+      "link": "https://diarioversionfinal.com/mundo/rechazo-en-chile-a-propuesta-de-kast-que-permitiria-jornadas-laborales-de-hasta-52-horas-semanales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
     }
   ],
-  "lastUpdate": "2026-07-14T12:12:26.192Z"
+  "lastUpdate": "2026-07-14T14:51:13.994Z"
 };
