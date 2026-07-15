@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "725,75",
-      "eur": "830,63",
-      "fechaValor": "Miércoles, 15 Julio 2026"
+      "usd": "727,45",
+      "eur": "832,25",
+      "fechaValor": "Jueves, 16 Julio 2026"
     },
     "binance": {
-      "usdt": "920,12"
+      "usdt": "908,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,25 +15,25 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez anuncia \"Plan Maestro\" para recuperación turística y comercial de La Guaira y El Junquito",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-anuncia-plan-maestro-para-recuperacion-turistica-y-comercial-de-la-guaira-y-el-junquito/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-3.19.41-PM.jpeg"
+      "title": "Pagan \"Bono Único de Vacaciones\" para trabajadores del sector salud (+Detalles)",
+      "link": "https://www.bancaynegocios.com/pagan-bono-unico-de-vacaciones-para-trabajadores-del-sector-salud-detalles/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "Excarcelaron al ex diputado José “Mazuco” Sánchez y al ex gerente de PDVSA Adolfo Torres tras años detenidos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/15/excarcelaron-al-ex-diputado-jose-mazuco-sanchez-y-al-ex-gerente-de-pdvsa-adolfo-torres-tras-anos-detenidos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/4R5DIOHKFVAYFGNOB6TPALARUE.jpg?auth=ce34052a0e46aa2732f9c818a64aa5ca4bcf1be8af89e7820338f182aeaea7ed&smart=true&width=350&height=197&quality=85"
+      "title": "Falta de información oficial dificulta cuantificar el número de desaparecidos por los terremotos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/15/falta-de-informacion-oficial-dificulta-cuantificar-el-numero-de-desaparecidos-por-los-terremotos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/UBC54QL6MBBULFKC5LL47657UE.JPG?auth=e596fee796b076d3eb9073b19531827ebda3733b40fb266e47f259163e17b459&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Preso por el presunto abuso sexual y suministro de alcohol a una adolescente de 13 años en la urb. La Pastora",
-      "link": "https://noticialdia.com/sucesos/preso-por-el-presunto-abuso-sexual-y-suministro-de-alcohol-a-una-adolescente-de-13-anos-en-la-urb-la-pastora/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-16.webp?x33727"
+      "title": "Asciende a 4 mil 829 la cifra de fallecidos por el doble terremoto",
+      "link": "https://noticialdia.com/al-dia/asciende-a-4-mil-829-la-cifra-de-fallecidos-por-el-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/1514504297-RYbEv38LPq2ePA8DtjDlMcI-1200x840@diario_abc-e1784150190589.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Segundo tiempo: Inglaterra y Argentina empatan 0-0 en Atlanta",
+      "title": "Argentina, con alma de campeón, va a la final",
       "link": "https://cnnespanol.cnn.com/2026/07/15/deportes/live-news/argentina-inglaterra-semifinales-mundial-2026-en-vivo-resultado-goles-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/mundial-2030-sedes.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -44,17 +44,23 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_misu58misu58misu-54751e.png"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "FEDECÁMARAS APUNTÓ QUE ACTIVIDAD PORTUARIA EN LA GUAIRA SE REACTIVARÁ PRONTO",
+      "link": "https://noticierodigital.com/2026/07/fedecamaras-apunto-que-actividad-portuaria-en-la-guaira-se-reactivara-pronto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/la-guaira-venezuela-terremotos-1-627x376.jpg"
+    },
+    {
       "source": "La Verdad",
-      "title": "Accidente de tránsito en Santiago de Chile deja 7 venezolanos muertos",
-      "link": "https://laverdad.com/accidente-de-transito-en-santiago-de-chile-deja-7-venezolanos-muertos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Chile-accidente-7-venezolanos-muertos.jpg"
+      "title": "Muere venezolano bajo custodia del ICE en Georgia",
+      "link": "https://laverdad.com/muere-venezolano-bajo-custodia-del-ice-en-georgia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Muere-venezolano-ICE.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Puerto Rico envía nuevo cargamento de ayuda humanitaria a Venezuela tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/puerto-rico-envia-nuevo-cargamento-de-ayuda-humanitaria-a-venezuela-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNR9N75W4AAyPcO-750x375-1.jpg"
+      "title": "Ucrania ataca 19 petroleros rusos y aumenta la presión sobre Moscú",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-ataca-19-petroleros-rusos-y-aumenta-la-presion-sobre-moscu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-15T164156.716-638x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-15T20:08:18.112Z"
+  "lastUpdate": "2026-07-15T22:00:21.654Z"
 };
