@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 15 Julio 2026"
     },
     "binance": {
-      "usdt": "908,68"
+      "usdt": "906,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Machado y González Urrutia evaluarán junto a la oposición la vía de diálogo con el chavismo de cara a las reformas al sistema electoral",
-      "link": "https://www.infobae.com/venezuela/2026/07/15/machado-y-gonzalez-urrutia-evaluaran-junto-a-la-oposicion-la-via-de-dialogo-con-el-chavismo-de-cara-a-las-reformas-al-sistema-electoral/",
-      "image": "https://www.infobae.com/resizer/v2/UL36PNVCENCI3OK4MNMZHTN27A.jpg?auth=837dde3d35dc8ec6aad581de32ef5f9498e1b09975066a54c2304f4b36695cd1&smart=true&width=350&height=197&quality=85"
+      "title": "La Asamblea Nacional de Venezuela aprobó un proyecto para acelerar la construcción de viviendas tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/15/la-asamblea-nacional-de-venezuela-aprobo-un-proyecto-para-acelerar-la-construccion-de-viviendas-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/MKGE46BQZNAIHNB6IVUXO5UMDY.JPG?auth=6fd44cfbcdce9d1b7cdfb79f922d86965bbe964362bf42238d4fd99b4ad97f9e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/o9Wl3iNO-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-15T10:49:25.416Z"
+  "lastUpdate": "2026-07-15T12:14:32.485Z"
 };
