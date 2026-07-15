@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 15 Julio 2026"
     },
     "binance": {
-      "usdt": "900,00"
+      "usdt": "920,12"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Nivel de ingresos de Venezuela no caerá este año: Hay que resolver el problema social que dejaron los sismos",
-      "link": "https://www.bancaynegocios.com/nivel-de-ingresos-de-venezuela-no-caera-este-ano-hay-que-resolver-el-problema-social-que-dejaron-los-sismos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/02/DolaresIngresosSalarios.jpg"
+      "title": "Delcy Rodríguez anuncia \"Plan Maestro\" para recuperación turística y comercial de La Guaira y El Junquito",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-anuncia-plan-maestro-para-recuperacion-turistica-y-comercial-de-la-guaira-y-el-junquito/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-3.19.41-PM.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Expertos llaman a evaluar edificios afectados por el terremoto para determinar causas de los colapsos",
-      "link": "https://www.infobae.com/venezuela/2026/07/15/expertos-llaman-a-evaluar-edificios-afectados-por-el-terremoto-para-determinar-causas-de-los-colapsos/",
-      "image": "https://www.infobae.com/resizer/v2/EE36DXEEJVD35ENGHN67AIJZPA.JPG?auth=d4adafc97e8e43b488aa4c52f96cd9c130086948c0588e2eee2a91886fc34a27&smart=true&width=350&height=197&quality=85"
+      "title": "Excarcelaron al ex diputado José “Mazuco” Sánchez y al ex gerente de PDVSA Adolfo Torres tras años detenidos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/15/excarcelaron-al-ex-diputado-jose-mazuco-sanchez-y-al-ex-gerente-de-pdvsa-adolfo-torres-tras-anos-detenidos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4R5DIOHKFVAYFGNOB6TPALARUE.jpg?auth=ce34052a0e46aa2732f9c818a64aa5ca4bcf1be8af89e7820338f182aeaea7ed&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Detienen a docente en el municipio Miranda por presunto abuso de cuatro estudiantes",
-      "link": "https://noticialdia.com/sucesos/detienen-a-docente-en-el-municipio-miranda-por-presunto-abuso-de-cuatro-estudiantes/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-8-1.webp?x33727"
+      "title": "Preso por el presunto abuso sexual y suministro de alcohol a una adolescente de 13 años en la urb. La Pastora",
+      "link": "https://noticialdia.com/sucesos/preso-por-el-presunto-abuso-sexual-y-suministro-de-alcohol-a-una-adolescente-de-13-anos-en-la-urb-la-pastora/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-16.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump revoca la suspensión de los controles de tráfico del ICE",
-      "link": "https://cnnespanol.cnn.com/2026/07/15/eeuu/resumen-ice-tiroteos-maine-texas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/memorial-joan-sebastian-duran-guerrero.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Segundo tiempo: Inglaterra y Argentina empatan 0-0 en Atlanta",
+      "link": "https://cnnespanol.cnn.com/2026/07/15/deportes/live-news/argentina-inglaterra-semifinales-mundial-2026-en-vivo-resultado-goles-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mundial-2030-sedes.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Francia aprueba de forma definitiva la ley que legaliza la eutanasia y el suicidio asistido",
-      "link": "https://diarioversionfinal.com/mundo/francia-aprueba-de-forma-definitiva-la-ley-que-legaliza-la-eutanasia-y-el-suicidio-asistido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/10/eutanasia-1.jpg"
+      "title": "Puerto Rico envía nuevo cargamento de ayuda humanitaria a Venezuela tras los terremotos",
+      "link": "https://diarioversionfinal.com/mundo/puerto-rico-envia-nuevo-cargamento-de-ayuda-humanitaria-a-venezuela-tras-los-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNR9N75W4AAyPcO-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-15T18:07:13.831Z"
+  "lastUpdate": "2026-07-15T20:08:18.112Z"
 };
