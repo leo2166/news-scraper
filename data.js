@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 16 Julio 2026"
     },
     "binance": {
-      "usdt": "908,00"
+      "usdt": "857,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FEDECÁMARAS APUNTÓ QUE ACTIVIDAD PORTUARIA EN LA GUAIRA SE REACTIVARÁ PRONTO",
-      "link": "https://noticierodigital.com/2026/07/fedecamaras-apunto-que-actividad-portuaria-en-la-guaira-se-reactivara-pronto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/la-guaira-venezuela-terremotos-1-627x376.jpg"
+      "title": "MESSI VOLVIÓ A HACER MAGIA Y ARGENTINA JUGARÁ UNA FINAL SOÑADA CONTRA ESPAÑA",
+      "link": "https://noticierodigital.com/2026/07/messi-volvio-a-hacer-magia-y-argentina-jugara-una-final-sonada-contra-espana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/lionel-messi-argentina-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ucrania ataca 19 petroleros rusos y aumenta la presión sobre Moscú",
-      "link": "https://diarioversionfinal.com/mundo/ucrania-ataca-19-petroleros-rusos-y-aumenta-la-presion-sobre-moscu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-15T164156.716-638x430.jpg"
+      "title": "Nueva moneda de Trump genera controversia en EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/nueva-moneda-de-trump-genera-controversia-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/me77mm6s-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-15T22:00:21.654Z"
+  "lastUpdate": "2026-07-15T23:07:10.126Z"
 };
