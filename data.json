@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 15 Julio 2026"
     },
     "binance": {
-      "usdt": "905,68"
+      "usdt": "900,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "VenAmCham y PNUD suscriben acuerdo de cooperación: Buscan promover la recuperación económica de Venezuela",
-      "link": "https://www.bancaynegocios.com/venamcham-y-pnud-suscriben-acuerdo-de-cooperacion-buscan-promover-la-recuperacion-economica-de-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/VenamchamPNUD.jpeg"
+      "title": "Nivel de ingresos de Venezuela no caerá este año: Hay que resolver el problema social que dejaron los sismos",
+      "link": "https://www.bancaynegocios.com/nivel-de-ingresos-de-venezuela-no-caera-este-ano-hay-que-resolver-el-problema-social-que-dejaron-los-sismos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/02/DolaresIngresosSalarios.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Heridos de la búsqueda entre los escombros, las víctimas colaterales de los terremotos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/15/heridos-de-la-busqueda-entre-los-escombros-las-victimas-colaterales-de-los-terremotos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/VM2RSSMGLRAORMWURFNZMCNJW4.jpg?auth=ea310b0b5f846fdaf89dbfd7fa249c2fc5ece90c7abaeb092165e28545cda620&smart=true&width=350&height=197&quality=85"
+      "title": "Expertos llaman a evaluar edificios afectados por el terremoto para determinar causas de los colapsos",
+      "link": "https://www.infobae.com/venezuela/2026/07/15/expertos-llaman-a-evaluar-edificios-afectados-por-el-terremoto-para-determinar-causas-de-los-colapsos/",
+      "image": "https://www.infobae.com/resizer/v2/EE36DXEEJVD35ENGHN67AIJZPA.JPG?auth=d4adafc97e8e43b488aa4c52f96cd9c130086948c0588e2eee2a91886fc34a27&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Lo arrestaron por embriagar y presuntamente abusar de una adolescente de 13 años",
-      "link": "https://noticialdia.com/sucesos/lo-arrestaron-por-embriagar-y-presuntamente-abusar-de-una-adolescente-de-13-anos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-5-4.webp?x33727"
+      "title": "Detienen a docente en el municipio Miranda por presunto abuso de cuatro estudiantes",
+      "link": "https://noticialdia.com/sucesos/detienen-a-docente-en-el-municipio-miranda-por-presunto-abuso-de-cuatro-estudiantes/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-8-1.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria junto a las organizaciones firmantes del Manifiesto de Panamá Evaluarán agenda parlamentaria",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-junto-a-las-organizaciones-firmantes-del-manifiesto-de-panama-evaluaran-agenda-parlamentaria",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5961691714302971394_y-c5cdad.jpg"
-    },
-    {
-      "source": "Noticiero Digital",
-      "title": "LIBERADO ESTE MIÉRCOLES EL EXDIPUTADO JOSÉ SÁNCHEZ «MAZUCO»",
-      "link": "https://noticierodigital.com/2026/07/liberado-este-miercoles-el-exdiputado-jose-sanchez-mazuco/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-1-6-627x376.png"
+      "title": "Foro Penal confirma la liberación del exdiputado José Sánchez “Mazuco”",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-la-liberacion-del-exdiputado-jose-sanchez-mazuco",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_misu58misu58misu-54751e.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +51,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "UDEF investiga empresa creada en Dubái por socios de Zapatero por presunto negocio de oro con el chavismo",
-      "link": "https://diarioversionfinal.com/mundo/udef-investiga-empresa-creada-en-dubai-por-socios-de-zapatero-por-presunto-negocio-de-oro-con-el-chavismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Zapatero.jpg"
+      "title": "Francia aprueba de forma definitiva la ley que legaliza la eutanasia y el suicidio asistido",
+      "link": "https://diarioversionfinal.com/mundo/francia-aprueba-de-forma-definitiva-la-ley-que-legaliza-la-eutanasia-y-el-suicidio-asistido/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/10/eutanasia-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-15T16:21:38.616Z"
+  "lastUpdate": "2026-07-15T18:07:13.831Z"
 }
