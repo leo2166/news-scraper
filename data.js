@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 15 Julio 2026"
     },
     "binance": {
-      "usdt": "864,69"
+      "usdt": "897,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cámara de la Construcción planteó plan urgente de medidas para acelerar producción de viviendas",
-      "link": "https://www.bancaynegocios.com/camara-de-la-construccion-planteo-plan-urgente-de-medidas-para-acelerar-produccion-de-viviendas/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/CAMARA-DE-LA-CONSTRUCCION-PLAN-URGENTE.jpeg"
+      "title": "AN aprueba en primera discusión un proyecto de ley para estimular el mercado de alquileres",
+      "link": "https://www.bancaynegocios.com/an-aprueba-en-primera-discusion-un-proyecto-de-ley-para-estimular-el-mercado-de-alquileres/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/09/INMUEBLES-CARACAS-EDIFICIOS-AFP.jpg"
     },
     {
       "source": "Infobae",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Parlamento venezolano sesionará en La Carlota por daños estructurales tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-venezolano-sesionara-en-la-carlota-por-danos-estructurales-tras-sismos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-1-b8b744.jpg"
+      "title": "Jorge Rodríguez anuncia entrega de 200 apartamentos en Fuerte Tiuna para damnificados por terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-anuncia-entrega-de-200-apartamentos-en-fuerte-tiuna-para-damnificados-por-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jorge-rodriguez-sobre-la-atencion-tras-los-sismos-a-nadie-se-le-nego-la-entrada-para-ayudar-64813-53bef9.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MCM Y EGU CONVOCARON A PARTIDOS PARA ABORDAR LA AGENDA ANUNCIADA POR LA AN DE 2015",
-      "link": "https://noticierodigital.com/2026/07/mcm-y-egu-convocaron-a-partidos-para-abordar-la-agenda-anunciada-por-la-an-de-2015/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/maria-corina-machado-edmundo-gonzalez-627x376.jpg"
+      "title": "JOHN BARRETT DESTACÓ LA CONTINUIDAD DE LA AYUDA HUMANITARIA DE EE. UU. EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/john-barrett-destaco-la-continuidad-de-la-ayuda-humanitaria-de-ee-uu-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/john-barrett-eeuu-venezuela-ayuda-humanitaria-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Petroleo-Texas-14-06-2026-696x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-14T23:01:22.397Z"
+  "lastUpdate": "2026-07-15T02:27:43.051Z"
 };
