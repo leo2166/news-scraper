@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 15 Julio 2026"
     },
     "binance": {
-      "usdt": "904,89"
+      "usdt": "905,68"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "AN aprueba en primera discusión un proyecto de ley para estimular el mercado de alquileres",
-      "link": "https://www.bancaynegocios.com/an-aprueba-en-primera-discusion-un-proyecto-de-ley-para-estimular-el-mercado-de-alquileres/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/09/INMUEBLES-CARACAS-EDIFICIOS-AFP.jpg"
+      "title": "VenAmCham y PNUD suscriben acuerdo de cooperación: Buscan promover la recuperación económica de Venezuela",
+      "link": "https://www.bancaynegocios.com/venamcham-y-pnud-suscriben-acuerdo-de-cooperacion-buscan-promover-la-recuperacion-economica-de-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/VenamchamPNUD.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Muere sexagenario arrollado en la Circunvalación 2: El conductor se dio a la fuga",
-      "link": "https://noticialdia.com/al-dia/muere-sexagenario-arrollado-en-la-circunvalacion-2-el-conductor-se-dio-a-la-fuga/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-1-4.webp?x33727"
+      "title": "Lo arrestaron por embriagar y presuntamente abusar de una adolescente de 13 años",
+      "link": "https://noticialdia.com/sucesos/lo-arrestaron-por-embriagar-y-presuntamente-abusar-de-una-adolescente-de-13-anos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-5-4.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "La carrera de 24 horas para frenar el peaje de Trump en el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/07/15/mundo/gestiones-trump-peaje-estrecho-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-14-173329.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump revoca la suspensión de los controles de tráfico del ICE",
+      "link": "https://cnnespanol.cnn.com/2026/07/15/eeuu/resumen-ice-tiroteos-maine-texas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/memorial-joan-sebastian-duran-guerrero.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ENTRE EL #16JUL Y EL #15AGO USUARIOS DE TODOS LOS NIVELES DE CASHEA PODRÁN ACCEDER A 6 CUOTAS ",
-      "link": "https://noticierodigital.com/2026/07/entre-el-16jul-y-el-15ago-usuarios-de-todos-los-niveles-de-cashea-podran-acceder-a-6-cuotas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-9-627x376.png"
+      "title": "LIBERADO ESTE MIÉRCOLES EL EXDIPUTADO JOSÉ SÁNCHEZ «MAZUCO»",
+      "link": "https://noticierodigital.com/2026/07/liberado-este-miercoles-el-exdiputado-jose-sanchez-mazuco/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-1-6-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Bukele defiende la reelección indefinida en El Salvador en la búsqueda de su tercer mandato",
-      "link": "https://laverdad.com/bukele-defiende-la-reeleccion-indefinida-en-el-salvador-en-la-busqueda-de-su-tercer-mandato/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/08/Bukele-reeleccion.jpg"
+      "title": "Accidente de tránsito en Santiago de Chile deja 7 venezolanos muertos",
+      "link": "https://laverdad.com/accidente-de-transito-en-santiago-de-chile-deja-7-venezolanos-muertos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Chile-accidente-7-venezolanos-muertos.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Congreso de EE. UU. debatirá este #15Jul situación de derechos humanos en Venezuela tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/congreso-de-ee-uu-debatira-este-15jul-situacion-de-derechos-humanos-en-venezuela-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Congreso-EEUU-750x430.jpg"
+      "title": "UDEF investiga empresa creada en Dubái por socios de Zapatero por presunto negocio de oro con el chavismo",
+      "link": "https://diarioversionfinal.com/mundo/udef-investiga-empresa-creada-en-dubai-por-socios-de-zapatero-por-presunto-negocio-de-oro-con-el-chavismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Zapatero.jpg"
     }
   ],
-  "lastUpdate": "2026-07-15T14:50:02.483Z"
+  "lastUpdate": "2026-07-15T16:21:38.616Z"
 };
