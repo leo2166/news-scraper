@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 16 Julio 2026"
     },
     "binance": {
-      "usdt": "874,39"
+      "usdt": "840,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Un muerto y dos heridos tras caída de guaya de alta tensión en Francisco Javier Pulgar",
-      "link": "https://noticialdia.com/al-dia/un-muerto-y-dos-heridos-tras-caida-de-guaya-de-alta-tension-en-francisco-javier-pulgar/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-15-1.webp?x33727"
+      "title": "Joven venezolana de 22 años es asesinada a puñaladas por su pareja en Trinidad y Tobago",
+      "link": "https://noticialdia.com/sucesos/joven-venezolana-de-22-anos-es-asesinada-a-punaladas-por-su-pareja-en-trinidad-y-tobago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-18-1.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Amnistía Internacional denuncia irregularidades en el Centro Penitenciario El Rodeo I",
-      "link": "https://noticiasvenevision.com/noticias/politica/amnistia-internacional-senalo-irregularidades-en-el-centro-penitenciario-el-rodeo-i",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_gg1bhfgg1bhfgg1b-11cb08.png"
+      "title": "Asamblea Nacional avanza en reforma legal para incorporar 200 mil viviendas al mercado tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-avanza-en-reforma-legal-para-incorporar-200-mil-viviendas-al-mercado-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hnncohqxeaaq3id-2b705f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EMBAJADA DE EE .UU. EN VENEZUELA ACOGE CON «BENEPLÁCITO» DIÁLOGO ENTRE LAS AN",
-      "link": "https://noticierodigital.com/2026/07/embajada-de-ee-uu-en-venezuela-acoge-con-beneplacito-dialogo-entre-las-an/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/embajada_eeuu_venezuela_10mar2020.jpg"
+      "title": "NIEGAN LIBERTAD CONDICIONAL A PERKINS ROCHA",
+      "link": "https://noticierodigital.com/2026/07/niegan-libertad-condicional-a-perkins-rocha/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-21-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Casa Blanca confirma reunión entre Trump y Bukele tras aval para un tercer mandato salvadoreño",
-      "link": "https://laverdad.com/casa-blanca-confirma-reunion-entre-trump-y-bukele-tras-aval-para-un-tercer-mandato-salvadoreno/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Trump-recibira-a-Bukele.jpg"
+      "title": "Trump asegura que petróleo venezolano ya recuperó 50 veces la operación del 3E",
+      "link": "https://laverdad.com/trump-asegura-que-petroleo-venezolano-ya-recupero-50-veces-la-operacion-del-3e/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Trump.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. respalda agenda conjunta entre la Asamblea Nacional de 2015 y el oficialismo",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-respalda-agenda-conjunta-entre-la-asamblea-nacional-de-2015-y-el-oficialismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/o8kmzzxH-photo_2026-06-18_18-14-32-1536x1021-1-750x430.jpg"
+      "title": "Keiko Fujimori se reúne con el presidente interino de Perú para avanzar en la transición",
+      "link": "https://diarioversionfinal.com/mundo/keiko-fujimori-se-reune-con-el-presidente-interino-de-peru-para-avanzar-en-la-transicion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNWzysCXcAALFJ7_formatjpgnamelarge-1024x576-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-16T17:15:35.604Z"
+  "lastUpdate": "2026-07-16T19:10:16.832Z"
 };
