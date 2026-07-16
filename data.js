@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 16 Julio 2026"
     },
     "binance": {
-      "usdt": "840,00"
+      "usdt": "881,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos respaldó el nuevo proceso de transición democrática anunciado en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/16/estados-unidos-respaldo-el-nuevo-proceso-de-transicion-democratica-anunciado-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/4G3TWCDCIVBAPGIXGWDRV7NK34.JPG?auth=41722b2a6c2411bac8a379850c5e20c2f40d9636e2269c02018ff204c4380058&smart=true&width=350&height=197&quality=85"
+      "title": "Entre el dolor y la solidaridad, los venezolanos se unen para la reconstrucción tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/16/entre-el-dolor-y-la-solidaridad-los-venezolanos-se-unen-para-la-reconstruccion-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/QGK72L3TXNGGBPUINQJTANYLPM.png?auth=7ff72f5775c4779172a60d569b48cd686f63c8871ae962bbd1881fb9b2911989&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,34 +33,34 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump probablemente genere nuevas dudas sobre las elecciones intermedias",
-      "link": "https://cnnespanol.cnn.com/2026/07/16/eeuu/trump-dudas-elecciones-mitad-mandato-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2284728237-20260716044627297.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Llegó deportado de EE.UU. a Venezuela y minutos después murió en los terremotos",
+      "link": "https://cnnespanol.cnn.com/2026/07/16/venezuela/venezolano-deportado-eeuu-victima-terremotos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/copia-de-thumbnail-youtube-1-13.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional avanza en reforma legal para incorporar 200 mil viviendas al mercado tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-avanza-en-reforma-legal-para-incorporar-200-mil-viviendas-al-mercado-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hnncohqxeaaq3id-2b705f.jpg"
+      "title": "Designan a Marjorie Moreno como nueva presidenta de la Fundación Venezuela Bella",
+      "link": "https://noticiasvenevision.com/noticias/politica/designan-a-marjorie-moreno-como-nueva-presidenta-de-la-fundacion-venezuela-bella",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/con-todo-el-amor-y-la-fuerza-por-nuestra-patria-porque-juntos-y-juantas-paso-a-paso-venezuel-35e498.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NIEGAN LIBERTAD CONDICIONAL A PERKINS ROCHA",
-      "link": "https://noticierodigital.com/2026/07/niegan-libertad-condicional-a-perkins-rocha/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-21-627x376.jpg"
+      "title": "DE LA ESPRIELLA ABRIRÁ UNA EMBAJADA DE COLOMBIA EN JERUSALÉN",
+      "link": "https://noticierodigital.com/2026/07/de-la-espriella-abrira-una-embajada-de-colombia-en-jerusalen/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/delaespriella_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump asegura que petróleo venezolano ya recuperó 50 veces la operación del 3E",
-      "link": "https://laverdad.com/trump-asegura-que-petroleo-venezolano-ya-recupero-50-veces-la-operacion-del-3e/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Trump.jpg"
+      "title": "Nueve venezolanos se declaran culpables de operar red de tráfico sexual en Tennessee",
+      "link": "https://laverdad.com/nueve-venezolanos-se-declaran-culpables-de-operar-red-de-trafico-sexual-en-tennessee/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Nueve-venezolanos-se-declaran-culpables-de-red-de-trata-en-EEUU1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Keiko Fujimori se reúne con el presidente interino de Perú para avanzar en la transición",
-      "link": "https://diarioversionfinal.com/mundo/keiko-fujimori-se-reune-con-el-presidente-interino-de-peru-para-avanzar-en-la-transicion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNWzysCXcAALFJ7_formatjpgnamelarge-1024x576-1-750x430.jpg"
+      "title": "Asciende a 120 la cifra de portugueses fallecidos por los terremotos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/asciende-a-120-la-cifra-de-portugueses-fallecidos-por-los-terremotos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-16T135230.743-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-16T19:10:16.832Z"
+  "lastUpdate": "2026-07-16T20:57:51.125Z"
 };
