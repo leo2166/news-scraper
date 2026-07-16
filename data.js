@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 16 Julio 2026"
     },
     "binance": {
-      "usdt": "890,64"
+      "usdt": "887,64"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,7 +33,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "No se hizo la revisión de inteligencia del ataque a la escuela en Irán, según fuentes",
+      "title": "El Pentágono no investigó a fondo el ataque a una escuela iraní, según fuentes",
       "link": "https://cnnespanol.cnn.com/2026/07/16/mundo/ee-uu-revision-inteligencia-escuela-iran-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-22t121327z-513439800-rc2odlazqqwq-rtrmadp-3-iran-crisis-20260716061352439.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -44,6 +44,12 @@ window.DASHBOARD_DATA = {
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-15-at-10.48.45-pm-530339.jpeg"
     },
     {
+      "source": "Noticiero Digital",
+      "title": "PUERTO RICO ENVIÓ OTRO AVIÓN CON AYUDA HUMANITARIA PARA LOS DAMNIFICADOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/puerto-rico-envio-otro-avion-con-ayuda-humanitaria-para-los-damnificados-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/puerto-rico-ayuda-humanitaria-venezuela-627x376.jpg"
+    },
+    {
       "source": "La Verdad",
       "title": "Muere venezolano bajo custodia del ICE en Georgia",
       "link": "https://laverdad.com/muere-venezolano-bajo-custodia-del-ice-en-georgia/",
@@ -51,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EEUU: Demócratas torpedean el apoyo a Israel en la Cámara de Representantes",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/eeuu-democratas-torpedean-el-apoyo-a-israel-en-la-camara-de-representantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/yaTC8vyc-image-750x430.jpg"
+      "title": "Delcy Rodríguez irá a tribunales por injurias contra el empresario español que la señaló por financiar al PSOE",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/delcy-rodriguez-ira-a-tribunales-por-injurias-contra-el-empresario-que-la-senalo-por-financiar-al-psoe/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Delcy-Rodriguez-Consejo-Economia-scaled-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-16T08:13:00.219Z"
+  "lastUpdate": "2026-07-16T10:59:50.887Z"
 };
