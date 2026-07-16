@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 16 Julio 2026"
     },
     "binance": {
-      "usdt": "869,00"
+      "usdt": "874,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan \"Bono Único de Vacaciones\" para trabajadores del sector salud (+Detalles)",
-      "link": "https://www.bancaynegocios.com/pagan-bono-unico-de-vacaciones-para-trabajadores-del-sector-salud-detalles/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "#Atentos: Los montos que cobrarán los jubilados y pensionados en julio por el \"Ingreso Integral de los Trabajadores\"",
+      "link": "https://www.bancaynegocios.com/atentos-los-montos-que-cobraran-los-jubilados-y-pensionados-en-julio-por-el-ingreso-integral-de-los-trabajadores/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Informe revela que gobierno de Venezuela no atendió con rapidez la emergencia de los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/16/informe-revela-que-gobierno-de-venezuela-no-atendio-con-rapidez-la-emergencia-de-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/DOPDDFWQ3JFR3BS5I2VOW3XS3I.jpg?auth=c6c9af04146f36492155b9b44d99f7c1de00126c7aa2b4bf59e62e3216d66489&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos respaldó el nuevo proceso de transición democrática anunciado en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/16/estados-unidos-respaldo-el-nuevo-proceso-de-transicion-democratica-anunciado-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4G3TWCDCIVBAPGIXGWDRV7NK34.JPG?auth=41722b2a6c2411bac8a379850c5e20c2f40d9636e2269c02018ff204c4380058&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Polisur detiene a empleado por hurtar 160.000 bolívares para apuestas online en La Coromoto",
-      "link": "https://noticialdia.com/al-dia/polisur-detiene-a-empleado-por-hurtar-160-000-bolivares-para-apuestas-online-en-la-coromoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-81.webp?x33727"
+      "title": "Un muerto y dos heridos tras caída de guaya de alta tensión en Francisco Javier Pulgar",
+      "link": "https://noticialdia.com/al-dia/un-muerto-y-dos-heridos-tras-caida-de-guaya-de-alta-tension-en-francisco-javier-pulgar/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-15-1.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "El Pentágono no investigó a fondo el ataque a la escuela iraní, según fuentes",
-      "link": "https://cnnespanol.cnn.com/2026/07/16/mundo/ee-uu-revision-inteligencia-escuela-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-22t121327z-513439800-rc2odlazqqwq-rtrmadp-3-iran-crisis-20260716061352439.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump probablemente genere nuevas dudas sobre las elecciones intermedias",
+      "link": "https://cnnespanol.cnn.com/2026/07/16/eeuu/trump-dudas-elecciones-mitad-mandato-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2284728237-20260716044627297.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Trabajadores de Guayana exigen amnistía laboral para más de 500 trabajadores judicializados en la región",
-      "link": "https://noticiasvenevision.com/noticias/politica/trabajadores-de-guayana-exigen-amnistia-laboral-para-mas-de-500-trabajadores-judicializados-en-la-region",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fut_trabajadores_judicializadosweb.jpg-744030.jpg"
+      "title": "Amnistía Internacional denuncia irregularidades en el Centro Penitenciario El Rodeo I",
+      "link": "https://noticiasvenevision.com/noticias/politica/amnistia-internacional-senalo-irregularidades-en-el-centro-penitenciario-el-rodeo-i",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_gg1bhfgg1bhfgg1b-11cb08.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZOLANO DE 45 AÑOS MURIÓ BAJO CUSTODIA DEL ICE EN EE .UU.",
-      "link": "https://noticierodigital.com/2026/07/venezolano-de-45-anos-murio-bajo-custodia-del-ice-en-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/ICE_-627x376.jpg"
+      "title": "EMBAJADA DE EE .UU. EN VENEZUELA ACOGE CON «BENEPLÁCITO» DIÁLOGO ENTRE LAS AN",
+      "link": "https://noticierodigital.com/2026/07/embajada-de-ee-uu-en-venezuela-acoge-con-beneplacito-dialogo-entre-las-an/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/embajada_eeuu_venezuela_10mar2020.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Muere venezolano bajo custodia del ICE en Georgia",
-      "link": "https://laverdad.com/muere-venezolano-bajo-custodia-del-ice-en-georgia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Muere-venezolano-ICE.jpg"
+      "title": "Casa Blanca confirma reunión entre Trump y Bukele tras aval para un tercer mandato salvadoreño",
+      "link": "https://laverdad.com/casa-blanca-confirma-reunion-entre-trump-y-bukele-tras-aval-para-un-tercer-mandato-salvadoreno/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Trump-recibira-a-Bukele.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Felipe Calderón afirma que México tiene un \"problema parecido al de Venezuela\"",
-      "link": "https://diarioversionfinal.com/mundo/felipe-calderon-afirma-que-mexico-tiene-un-problema-parecido-al-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Felipe-Calderon-750x430.jpg"
+      "title": "EE. UU. respalda agenda conjunta entre la Asamblea Nacional de 2015 y el oficialismo",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-respalda-agenda-conjunta-entre-la-asamblea-nacional-de-2015-y-el-oficialismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/o8kmzzxH-photo_2026-06-18_18-14-32-1536x1021-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-16T15:02:09.646Z"
+  "lastUpdate": "2026-07-16T17:15:35.604Z"
 };
