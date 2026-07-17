@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
-      "usdt": "857,00"
+      "usdt": "836,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Entre el dolor y la solidaridad, los venezolanos se unen para la reconstrucción tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/16/entre-el-dolor-y-la-solidaridad-los-venezolanos-se-unen-para-la-reconstruccion-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/QGK72L3TXNGGBPUINQJTANYLPM.png?auth=7ff72f5775c4779172a60d569b48cd686f63c8871ae962bbd1881fb9b2911989&smart=true&width=350&height=197&quality=85"
+      "title": "La cifra de muertos por el doble terremoto en Venezuela ascendió a 4.930",
+      "link": "https://www.infobae.com/venezuela/2026/07/17/la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela-ascendio-a-4930/",
+      "image": "https://www.infobae.com/resizer/v2/UAIYG3K2QZEJRGPPJBMUTJ3CLQ.JPG?auth=3ffaee0f5f55bc0f1e9b0ba9c0f24fc73d4dfb0c922e232fc3fb2f5cba0e2789&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump afirma que nuevos documentos muestran vulnerabilidades electorales",
-      "link": "https://cnnespanol.cnn.com/2026/07/16/eeuu/live-news/discurso-trump-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hugo-pollo-carvajal-boceo-juicio.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Por qué el discurso electoral de Trump anticipa sus planes para 2026",
+      "link": "https://cnnespanol.cnn.com/2026/07/17/eeuu/conclusiones-discurso-trump-elecciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260717052533449.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNWYpsJWUAA3_mJ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-17T03:29:37.124Z"
+  "lastUpdate": "2026-07-17T06:15:18.089Z"
 };
