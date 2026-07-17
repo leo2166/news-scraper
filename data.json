@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "732,48",
-      "eur": "838,07",
-      "fechaValor": "Viernes, 17 Julio 2026"
+      "usd": "736,93",
+      "eur": "843,20",
+      "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "889,39"
+      "usdt": "891,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "Entre protestas e intimidación policial, organizaciones entregaron a la Asamblea un documento por elecciones libres y restitución del orden constitucional",
-      "link": "https://www.infobae.com/venezuela/2026/07/17/entre-protestas-e-intimidacion-policial-organizaciones-entregaron-a-la-asamblea-un-documento-por-elecciones-libres-y-restitucion-del-orden-constitucional/",
-      "image": "https://www.infobae.com/resizer/v2/4MZTTC7Y6FENJPGFFUSNPVIHYA.jpg?auth=49c64419221f9f1ff473495ec9ac8aa1561ef1d7d8b94d27d2e79bc14d86e274&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela superó los 5.000 fallecidos tras el doble terremoto: hay 16.000 heridos",
+      "link": "https://www.infobae.com/venezuela/2026/07/17/venezuela-supero-los-5000-fallecidos-tras-el-doble-terremoto-hay-16000-heridos/",
+      "image": "https://www.infobae.com/resizer/v2/QGK72L3TXNGGBPUINQJTANYLPM.png?auth=7ff72f5775c4779172a60d569b48cd686f63c8871ae962bbd1881fb9b2911989&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "[VIDEO] Un altar de juguetes rinde tributo a los niños fallecidos en los terremotos",
       "link": "https://noticialdia.com/al-dia/video-un-altar-de-juguetes-rinde-tributo-a-los-ninos-fallecidos-en-los-terremotos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-9-2.webp?x33727"
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-11-3.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "FANB MANTIENE PUENTE AÉREO PARA LLEVAR AYUDA A LAS ZONAS AFECTADAS POR LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/fanb-mantiene-puente-aereo-para-llevar-ayuda-a-las-zonas-afectadas-por-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/fanb-venezuela-terremotos-ayuda-humanitaria-627x376.jpg"
+      "title": "INICIARON LABORES PREVENTIVAS DE ALIVIO EN LAS HIDROELÉCTRICAS DEL GURI, CARUACHI Y MACAGUA",
+      "link": "https://noticierodigital.com/2026/07/iniciaron-labores-preventivas-de-alivio-en-las-hidroelectricas-del-guri-caruachi-y-macagua/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/represa-de-guri-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "OFAC autoriza transferencia directa de fondos de ayuda por terremotos al Gobierno de Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ofac-autoriza-transferencia-directa-de-fondos-de-ayuda-por-terremotos-al-gobierno-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/OFAC-Department-of-Treasury-837-x-399-750x399.jpg"
+      "title": "Irán reporta la explosión de dos petroleros por minas en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/iran-reporta-la-explosion-de-dos-petroleros-por-minas-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/guardia-revolucionaria-iran-reclutamiento-menores-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-17T21:53:49.694Z"
+  "lastUpdate": "2026-07-17T22:50:41.219Z"
 }
