@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
-      "usdt": "881,39"
+      "usdt": "857,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fevearroz plantea mesas de trabajo y consultas técnicas para fijar nuevos precios a nivel de productor",
-      "link": "https://www.bancaynegocios.com/fevearroz-plantea-mesas-de-trabajo-y-consultas-tecnicas-para-fijar-nuevos-precios-a-nivel-de-productor/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/arroz.jpeg"
+      "title": "Plantean habilitar Puerto El Guamache en Margarita para recibir carga mientras reparan el Puerto La Guaira",
+      "link": "https://www.bancaynegocios.com/plantean-habilitar-puerto-el-guamache-en-margarita-para-recibir-carga-mientras-reparan-el-puerto-la-guaira/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/04/puerto-El-Guamache.jpeg"
     },
     {
       "source": "Infobae",
@@ -33,21 +33,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Llegó deportado de EE.UU. a Venezuela y minutos después murió en los terremotos",
-      "link": "https://cnnespanol.cnn.com/2026/07/16/venezuela/venezolano-deportado-eeuu-victima-terremotos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/copia-de-thumbnail-youtube-1-13.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump afirma que nuevos documentos muestran vulnerabilidades electorales",
+      "link": "https://cnnespanol.cnn.com/2026/07/16/eeuu/live-news/discurso-trump-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hugo-pollo-carvajal-boceo-juicio.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez apoya diálogo político y asegura que El Helicoide fue cerrado",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-apoya-dialogo-politico-y-asegura-que-el-helicoide-fue-cerrado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/in-half-hour-you-will-be-able-to-watch-the-most-prejudged-interview-in-recent-history--the-inte-170074.jpg"
+      "title": "Donald Trump se pronuncia sobre el sistema electoral y la producción petrolera de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/donald-trump-se-pronuncia-sobre-el-sistema-electoral-y-la-produccion-petrolera-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/donald_trump_official_portrait-36e48a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HENRY SÁNCHEZ FUE EXCARCELADO TRAS PERMANECER OCHO AÑOS PRESO, INFORMÓ FORO PENAL",
-      "link": "https://noticierodigital.com/2026/07/henry-sanchez-fue-excarcelado-tras-permanecer-ocho-anos-preso-informo-foro-penal/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/henry-sanchez-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ Y LA UNESCO COORDINARON UN PLAN DE AYUDA TRAS LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-y-la-unesco-coordinaron-un-plan-de-ayuda-tras-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/unesco-venezuela-delcy-rodriguez-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur afirma que sus helicópteros fueron clave para salvar vidas tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-afirma-que-sus-helicopteros-fueron-clave-para-salvar-vidas-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/251030-F-YT028-1020-750x430.jpg"
+      "title": "Comisaria de la UE viaja a Venezuela para reforzar la ayuda tras los terremotos",
+      "link": "https://diarioversionfinal.com/mundo/comisaria-de-la-ue-viaja-a-venezuela-para-reforzar-la-ayuda-tras-los-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNWYpsJWUAA3_mJ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-16T23:59:12.736Z"
+  "lastUpdate": "2026-07-17T03:29:37.124Z"
 }
