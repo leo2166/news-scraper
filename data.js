@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
-      "usdt": "843,00"
+      "usdt": "885,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos denunció que Chávez y Maduro diseñaron un presunto plan para alterar elecciones en Venezuela entre 2004 y 2020",
-      "link": "https://www.infobae.com/venezuela/2026/07/17/estados-unidos-denuncio-que-chavez-y-maduro-disenaron-un-presunto-plan-para-alterar-elecciones-en-venezuela-entre-2004-y-2020/",
-      "image": "https://www.infobae.com/resizer/v2/NSBJYFO6EO5PSO7N2HJHZHZZE4.jpg?auth=1e214bcd4927e1e1e21109c69e94ee48d5311202ac84cc4301a1104c82fe18c0&smart=true&width=350&height=197&quality=85"
+      "title": "Terremotos en Venezuela: advierten que la reforma legal no es suficiente para atender crisis habitacional",
+      "link": "https://www.infobae.com/venezuela/2026/07/17/terremotos-en-venezuela-advierten-que-la-reforma-legal-no-es-suficiente-para-atender-crisis-habitacional/",
+      "image": "https://www.infobae.com/resizer/v2/CEGILAC2PBGRPJGXE556M7HUXY.jpg?auth=25665c02fdf41221f69d43eaf6d99c90fc6a2d47e38d2735a4047b0892fa6f94&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Joven venezolana de 22 años es asesinada a puñaladas por su pareja en Trinidad y Tobago",
-      "link": "https://noticialdia.com/sucesos/joven-venezolana-de-22-anos-es-asesinada-a-punaladas-por-su-pareja-en-trinidad-y-tobago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-18-1.webp?x33727"
+      "title": "Fallece sexagenaria arrollada en el sector Los Plataneros",
+      "link": "https://noticialdia.com/al-dia/fallece-sexagenaria-arrollada-en-el-sector-los-plataneros/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-22.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP DESPIDE A SU OPERADOR DE TELEPROMPTER POR USAR INFORMACIÓN PRIVILEGIADA EN APUESTAS",
-      "link": "https://noticierodigital.com/2026/07/trump-despide-a-su-operador-de-teleprompter-por-usar-informacion-privilegiada-en-apuestas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-10-627x376.png"
+      "title": "SHOW DE MEDIO TIEMPO DEL MUNDIAL 2026 RENDIRÁ HOMENAJE A VÍCTIMAS DEL TERREMOTO ",
+      "link": "https://noticierodigital.com/2026/07/show-de-medio-tiempo-del-mundial-2026-rendira-homenaje-a-victimas-del-terremoto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/mundial-de-futbol-2026-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán amenaza con respuesta \"más intensa, amplia y destructiva\" si EE. UU. no detiene sus ataques",
-      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-con-respuesta-mas-intensa-amplia-y-destructiva-si-ee-uu-no-detiene-sus-ataques/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/coronel-Ebrahim-Zolfagari.jpg"
+      "title": "Trump asegura que “muchas cosas pasarán en Cuba” y destaca las riquezas de Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-muchas-cosas-pasaran-en-cuba-y-destaca-las-riquezas-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-17T13:28:07.751Z"
+  "lastUpdate": "2026-07-17T15:13:03.285Z"
 };
