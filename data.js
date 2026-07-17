@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "727,45",
-      "eur": "832,25",
-      "fechaValor": "Jueves, 16 Julio 2026"
+      "usd": "732,48",
+      "eur": "838,07",
+      "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
       "usdt": "881,39"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Atentos: Los montos que cobrarán los jubilados y pensionados en julio por el \"Ingreso Integral de los Trabajadores\"",
-      "link": "https://www.bancaynegocios.com/atentos-los-montos-que-cobraran-los-jubilados-y-pensionados-en-julio-por-el-ingreso-integral-de-los-trabajadores/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Fevearroz plantea mesas de trabajo y consultas técnicas para fijar nuevos precios a nivel de productor",
+      "link": "https://www.bancaynegocios.com/fevearroz-plantea-mesas-de-trabajo-y-consultas-tecnicas-para-fijar-nuevos-precios-a-nivel-de-productor/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/05/arroz.jpeg"
     },
     {
       "source": "Infobae",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Designan a Marjorie Moreno como nueva presidenta de la Fundación Venezuela Bella",
-      "link": "https://noticiasvenevision.com/noticias/politica/designan-a-marjorie-moreno-como-nueva-presidenta-de-la-fundacion-venezuela-bella",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/con-todo-el-amor-y-la-fuerza-por-nuestra-patria-porque-juntos-y-juantas-paso-a-paso-venezuel-35e498.jpg"
+      "title": "Delcy Rodríguez apoya diálogo político y asegura que El Helicoide fue cerrado",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-apoya-dialogo-politico-y-asegura-que-el-helicoide-fue-cerrado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/in-half-hour-you-will-be-able-to-watch-the-most-prejudged-interview-in-recent-history--the-inte-170074.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GUSTAVO DUQUE ASEGURÓ QUE LA MAYORÍA DE LOS EDIFICIOS DE CHACAO RESISTIÓ LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/gustavo-duque-aseguro-que-la-mayoria-de-los-edificios-de-chacao-resistio-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/gustavo-duque-chacao-627x376.jpg"
+      "title": "HENRY SÁNCHEZ FUE EXCARCELADO TRAS PERMANECER OCHO AÑOS PRESO, INFORMÓ FORO PENAL",
+      "link": "https://noticierodigital.com/2026/07/henry-sanchez-fue-excarcelado-tras-permanecer-ocho-anos-preso-informo-foro-penal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/henry-sanchez-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Misiles estadounidenses impactan aeropuerto iraní en medio de la crisis por Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/misiles-estadounidenses-impactan-aeropuerto-irani-en-medio-de-la-crisis-por-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-16T150531.119-678x430.jpg"
+      "title": "Comando Sur afirma que sus helicópteros fueron clave para salvar vidas tras los terremotos",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-afirma-que-sus-helicopteros-fueron-clave-para-salvar-vidas-tras-los-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/251030-F-YT028-1020-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-16T22:08:15.113Z"
+  "lastUpdate": "2026-07-16T23:59:12.736Z"
 };
