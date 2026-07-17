@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
-      "usdt": "836,80"
+      "usdt": "876,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La cifra de muertos por el doble terremoto en Venezuela ascendió a 4.930",
-      "link": "https://www.infobae.com/venezuela/2026/07/17/la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela-ascendio-a-4930/",
-      "image": "https://www.infobae.com/resizer/v2/UAIYG3K2QZEJRGPPJBMUTJ3CLQ.JPG?auth=3ffaee0f5f55bc0f1e9b0ba9c0f24fc73d4dfb0c922e232fc3fb2f5cba0e2789&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos denunció que Chávez y Maduro diseñaron un presunto plan para alterar elecciones en Venezuela entre 2004 y 2020",
+      "link": "https://www.infobae.com/venezuela/2026/07/17/estados-unidos-denuncio-que-chavez-y-maduro-disenaron-un-presunto-plan-para-alterar-elecciones-en-venezuela-entre-2004-y-2020/",
+      "image": "https://www.infobae.com/resizer/v2/NSBJYFO6EO5PSO7N2HJHZHZZE4.jpg?auth=1e214bcd4927e1e1e21109c69e94ee48d5311202ac84cc4301a1104c82fe18c0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNWYpsJWUAA3_mJ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-17T06:15:18.089Z"
+  "lastUpdate": "2026-07-17T09:09:27.138Z"
 };
