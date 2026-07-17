@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
-      "usdt": "885,39"
+      "usdt": "889,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Niño muere tras atragantarse con una semilla de mamón",
-      "link": "https://noticialdia.com/al-dia/nino-muere-tras-atragantarse-con-una-semilla-de-mamon/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-7-3.webp?x33727"
+      "title": "[VIDEO] Un altar de juguetes rinde tributo a los niños fallecidos en los terremotos",
+      "link": "https://noticialdia.com/al-dia/video-un-altar-de-juguetes-rinde-tributo-a-los-ninos-fallecidos-en-los-terremotos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-9-2.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "​OFAC ACLARA QUE FONDOS DE AYUDA POR TERREMOTOS EN VENEZUELA PODRÁN TRANSFERIRSE DIRECTAMENTE AL GOBIERNO",
-      "link": "https://noticierodigital.com/2026/07/ofac-aclara-que-fondos-de-ayuda-por-terremotos-en-venezuela-podran-transferirse-directamente-al-gobierno/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/01/ofac-an2015-10ene2023.jpg"
+      "title": "FANB MANTIENE PUENTE AÉREO PARA LLEVAR AYUDA A LAS ZONAS AFECTADAS POR LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/fanb-mantiene-puente-aereo-para-llevar-ayuda-a-las-zonas-afectadas-por-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/fanb-venezuela-terremotos-ayuda-humanitaria-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/OFAC-Department-of-Treasury-837-x-399-750x399.jpg"
     }
   ],
-  "lastUpdate": "2026-07-17T20:55:15.278Z"
+  "lastUpdate": "2026-07-17T21:53:49.694Z"
 };
