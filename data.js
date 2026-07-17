@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
-      "usdt": "876,86"
+      "usdt": "871,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comisaria de la UE viaja a Venezuela para reforzar la ayuda tras los terremotos",
-      "link": "https://diarioversionfinal.com/mundo/comisaria-de-la-ue-viaja-a-venezuela-para-reforzar-la-ayuda-tras-los-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNWYpsJWUAA3_mJ-750x430.jpg"
+      "title": "Trump despide a su operador de teleprompter por apuestas ilícitas sobre sus discursos",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/trump-despide-a-su-operador-de-teleprompter-por-apuestas-ilicitas-sobre-sus-discursos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/kchrQ8qe-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-17T09:09:27.138Z"
+  "lastUpdate": "2026-07-17T11:21:12.213Z"
 };
