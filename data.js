@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 17 Julio 2026"
     },
     "binance": {
-      "usdt": "887,35"
+      "usdt": "887,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Plantean habilitar Puerto El Guamache en Margarita para recibir carga mientras reparan el Puerto La Guaira",
-      "link": "https://www.bancaynegocios.com/plantean-habilitar-puerto-el-guamache-en-margarita-para-recibir-carga-mientras-reparan-el-puerto-la-guaira/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/04/puerto-El-Guamache.jpeg"
+      "title": "Incrementó más de 23% en bolívares: Pagan \"Ingreso Integral de los Trabajadores\" de julio a jubilados",
+      "link": "https://www.bancaynegocios.com/incremento-mas-de-23-porciento-en-bolivares-pagan-ingreso-integral-de-los-trabajadores-de-julio-a-jubilados/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Terremotos en Venezuela: advierten que la reforma legal no es suficiente para atender crisis habitacional",
-      "link": "https://www.infobae.com/venezuela/2026/07/17/terremotos-en-venezuela-advierten-que-la-reforma-legal-no-es-suficiente-para-atender-crisis-habitacional/",
-      "image": "https://www.infobae.com/resizer/v2/CEGILAC2PBGRPJGXE556M7HUXY.jpg?auth=25665c02fdf41221f69d43eaf6d99c90fc6a2d47e38d2735a4047b0892fa6f94&smart=true&width=350&height=197&quality=85"
+      "title": "Bonos de la corrupción contaminan proceso de reestructuración de la deuda externa de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/07/17/bonos-de-la-corrupcion-contaminan-proceso-de-reestructuracion-de-la-deuda-externa-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/NAJL7XVDGVD6HDMC66XWX2UYKI.jpg?auth=df87c70901fa2c9c11860bc336201f43c513f7e6bea125393b553a870841bac1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Tres muertos y más de medio millón de hogares sin electricidad deja temporal en Chile",
-      "link": "https://noticialdia.com/al-dia/tres-muertos-y-mas-de-medio-millon-de-hogares-sin-electricidad-deja-temporal-en-chile/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-16-2.webp?x33727"
+      "title": "Niño muere tras atragantarse con una semilla de mamón",
+      "link": "https://noticialdia.com/al-dia/nino-muere-tras-atragantarse-con-una-semilla-de-mamon/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/mamones1-mamon-pp.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Sismo de magnitud 7,3 sacude Guatemala y El Salvador",
-      "link": "https://cnnespanol.cnn.com/2026/07/17/latinoamerica/sismo-magnitud-7-3-origen-mexico-guatemala-el-salvador-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake-20260717161521115.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump consiguió otra victoria en América Latina, pero le queda el reto más difícil",
+      "link": "https://cnnespanol.cnn.com/2026/07/17/latinoamerica/trump-injerencia-elecciones-america-latina-brasil-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2248998626.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "REPORTAN SISMO DE 7.4 FRENTE A LAS COSTAS DE MÉXICO Y GUATEMALA",
-      "link": "https://noticierodigital.com/2026/07/reportan-sismo-de-7-4-frente-a-las-costas-de-mexico-y-guatemala/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/1784306007527-627x376.png"
+      "title": "TRAS EL TERREMOTO, LOS VENEZOLANOS TIENEN COSAS MÁS IMPORTANTES QUE LA PARTICIPACIÓN CIUDADANA, DIJO SOCIÓLOGO",
+      "link": "https://noticierodigital.com/2026/07/tras-el-terremoto-los-venezolanos-tienen-cosas-mas-importantes-que-la-participacion-ciudadana-dijo-sociologo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/venezuela-terremotos-la-guaira-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Terremoto de magnitud 7,4 sacude el sur de México en la frontera con Guatemala",
-      "link": "https://laverdad.com/terremoto-de-magnitud-74-sacude-el-sur-de-mexico-en-la-frontera-con-guatemala/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Terremoto-Mexico.jpg"
+      "title": "Sheinbaum descarta daños graves tras terremoto de magnitud 7,4 en el sur de México",
+      "link": "https://laverdad.com/sheinbaum-descarta-danos-graves-tras-terremoto-de-magnitud-74-en-el-sur-de-mexico/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Sheinbaum-informa-que-no-hay-danos-tras-terremoto-de-74-grados-en-sur-de-Mexico-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cayetana Álvarez defiende regreso de María Corina Machado y cuestiona postura de EE. UU. sobre Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/cayetana-alvarez-defiende-regreso-de-maria-corina-machado-y-cuestiona-postura-de-ee-uu-sobre-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Cayetana-Alvarez-de-Toledo-11-12-2024-750x430.jpg"
+      "title": "EE. UU. destruye torre de vigilancia iraní usada para atacar en el estrecho",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-destruye-torre-de-vigilancia-irani-usada-para-atacar-en-el-estrecho/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Chabahar-torre-il-scaled-e1784311033435-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-17T17:11:30.764Z"
+  "lastUpdate": "2026-07-17T19:08:26.710Z"
 };
