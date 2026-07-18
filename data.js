@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Bloomberg: Los escenarios ante la reducción de la brecha cambiaria en Venezuela",
-      "link": "https://www.bancaynegocios.com/bloomberg-los-escenarios-ante-la-reduccion-de-la-brecha-cambiaria-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/CAPTACIONES-BOLIVARES-Y-DOLARES.jpg"
+      "title": "En Falcón plantean rehabilitar puentes que conectan hacia el Parque Nacional Morrocoy",
+      "link": "https://www.bancaynegocios.com/en-falcon-plantean-rehabilitar-puentes-que-conectan-hacia-el-parque-nacional-morrocoy/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/morrocoy.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "[VIDEO] Un altar de juguetes rinde tributo a los niños fallecidos en los terremotos",
-      "link": "https://noticialdia.com/al-dia/video-un-altar-de-juguetes-rinde-tributo-a-los-ninos-fallecidos-en-los-terremotos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-11-3.webp?x33727"
+      "title": "Expertos colombianos llegan a Venezuela para apoyar en la identificación de cuerpos tras doblete sismico",
+      "link": "https://noticialdia.com/al-dia/expertos-colombianos-llegan-a-venezuela-para-apoyar-en-la-identificacion-de-cuerpos-tras-doblete-sismico/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-40.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Expertos forenses colombianos llegan para apoyar en la identificación de cuerpos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/expertos-forenses-colombianos-llegan-para-apoyar-en-la-identificacion-de-cuerpos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/lTN0Au6Z-image-750x430.jpg"
+      "title": "Ataque iraní en Jordania deja dos soldados de EE.UU. muertos",
+      "link": "https://diarioversionfinal.com/mundo/ataque-irani-en-jordania-deja-dos-soldados-de-ee-uu-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/NfgJOZZH-image-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-18T19:03:49.429Z"
+  "lastUpdate": "2026-07-18T20:47:31.806Z"
 };
