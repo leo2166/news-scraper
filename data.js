@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "898,86"
+      "usdt": "898,56"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El FMI liberó USD 346 millones a Venezuela para el proceso de reconstrucción tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/18/el-fmi-libero-usd-346-millones-a-venezuela-para-el-proceso-de-reconstruccion-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/AGZLLAC3ABEY3KGWMCOXEKGGB4.JPG?auth=4fd0f686f62163dc94e794796b73a194a27b1f85c478b33cbd76565b50ce4db3&smart=true&width=350&height=197&quality=85"
+      "title": "Uruguay envió a Venezuela el segundo vuelo con ayuda humanitaria tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/18/uruguay-envio-a-venezuela-el-segundo-vuelo-con-ayuda-humanitaria-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/H7O45FAD2VAU7P3EXCKMXYTNXU.jpg?auth=7fd2fdac6a6c8b5d806020705e875a960a5a0f6e48ee487624808e4e083e2b64&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Sectores de línea dura de Irán denuncian un \"golpe de Estado\"",
-      "link": "https://cnnespanol.cnn.com/2026/07/18/mundo/iran-radicales-advierten-golpe-de-estado-guerra-eeuu-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. informa sus primeras bajas en la guerra con Irán desde marzo",
+      "link": "https://cnnespanol.cnn.com/2026/07/18/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-1-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/centcom-20260718180742899.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CENTURY 21 GLOBAL SE SUMA A LA CRUZ ROJA VENEZOLANA PARA FORTALECER LA RESPUESTA HUMANITARIA ANTE LA EMERGENCIA",
-      "link": "https://noticierodigital.com/2026/07/century-21-global-se-suma-a-la-cruz-roja-venezolana-para-fortalecer-la-respuesta-humanitaria-ante-la-emergencia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Cruz-roja-venezolana-voluntariado-131-aniversario-campamento-formacion.2.jpg-627x376.jpeg"
+      "title": "«TRABAS INSTITUCIONALES IMPIDEN REACTIVAR ASCENSORES TRAS TERREMOTOS»’, CONDENÓ OCARIZ",
+      "link": "https://noticierodigital.com/2026/07/trabas-institucionales-impiden-reactivar-ascensores-tras-terremotos-condeno-ocariz/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/carlos_ocariz_miranda_4dic2019.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Uruguay envía segundo vuelo con 15 toneladas de ayuda humanitaria a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/uruguay-envia-segundo-vuelo-con-15-toneladas-de-ayuda-humanitaria-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/HMDhMWvWYAAbAX-680x375-1.jpeg"
+      "title": "Expertos forenses colombianos llegan para apoyar en la identificación de cuerpos en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/expertos-forenses-colombianos-llegan-para-apoyar-en-la-identificacion-de-cuerpos-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/lTN0Au6Z-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-18T17:02:12.652Z"
+  "lastUpdate": "2026-07-18T19:03:49.429Z"
 };
