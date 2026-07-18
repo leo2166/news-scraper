@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán advierte que más ataques de EE.UU. podrían desatar represalias a gran escala",
-      "link": "https://cnnespanol.cnn.com/2026/07/18/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260718103113671.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Sectores de línea dura de Irán denuncian un \"golpe de Estado\"",
+      "link": "https://cnnespanol.cnn.com/2026/07/18/mundo/iran-radicales-advierten-golpe-de-estado-guerra-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ataque con drones ucranianos contra almacenes empresariales deja ocho muertos y 60 heridos en Rusia: ¿Qué dice Zelensky?",
-      "link": "https://diarioversionfinal.com/mundo/ataque-con-drones-ucranianos-contra-almacenes-empresariales-deja-ocho-muertos-y-60-heridos-en-rusia-que-dice-zelensky/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/loNdXF0K-image-1-750x430.jpg"
+      "title": "Corte Suprema de Brasil mantiene prisión domiciliaria de Bolsonaro y endurece restricciones",
+      "link": "https://diarioversionfinal.com/mundo/corte-suprema-de-brasil-mantiene-prision-domiciliaria-de-bolsonaro-y-endurece-restricciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/bolsonaro-gettyimages-2232913931-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-18T11:03:31.845Z"
+  "lastUpdate": "2026-07-18T13:14:52.713Z"
 };
