@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "855,90"
+      "usdt": "897,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Venezuela superó los 5.000 fallecidos tras el doble terremoto: hay 16.000 heridos",
-      "link": "https://www.infobae.com/venezuela/2026/07/17/venezuela-supero-los-5000-fallecidos-tras-el-doble-terremoto-hay-16000-heridos/",
-      "image": "https://www.infobae.com/resizer/v2/QGK72L3TXNGGBPUINQJTANYLPM.png?auth=7ff72f5775c4779172a60d569b48cd686f63c8871ae962bbd1881fb9b2911989&smart=true&width=350&height=197&quality=85"
+      "title": "El FMI liberó USD 346 millones a Venezuela para el proceso de reconstrucción tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/18/el-fmi-libero-usd-346-millones-a-venezuela-para-el-proceso-de-reconstruccion-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/AGZLLAC3ABEY3KGWMCOXEKGGB4.JPG?auth=4fd0f686f62163dc94e794796b73a194a27b1f85c478b33cbd76565b50ce4db3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. lanza una nueva oleada de ataques contra Irán",
+      "title": "Irán advierte que más ataques de EE.UU. podrían desatar represalias a gran escala",
       "link": "https://cnnespanol.cnn.com/2026/07/17/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eed98d5d-d4fb-4d82-92e3-bb8e10ab7c0a.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260718062601591.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/PEmTNNIW-images-4.jpg"
     }
   ],
-  "lastUpdate": "2026-07-18T05:26:20.055Z"
+  "lastUpdate": "2026-07-18T07:49:28.566Z"
 }
