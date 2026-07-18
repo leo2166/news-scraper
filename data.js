@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Empresarios inmobiliarios norteamericanos y venezolanos evaluarán planes de vivienda para afrontar emergencia sísmica",
-      "link": "https://www.bancaynegocios.com/empresarios-inmobiliarios-norteamericanos-y-venezolanos-evaluaran-planes-de-vivienda-para-afrontar-emergencia-sismica/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/LosPalosGrandesEdificioReparacionesTerremotoChacao.jpg"
+      "title": "Bloomberg: Los escenarios ante la reducción de la brecha cambiaria en Venezuela",
+      "link": "https://www.bancaynegocios.com/bloomberg-los-escenarios-ante-la-reduccion-de-la-brecha-cambiaria-en-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/CAPTACIONES-BOLIVARES-Y-DOLARES.jpg"
     },
     {
       "source": "Infobae",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DUELO DE GENERACIONES: ¿QUIÉN SE QUEDARÁ CON EL GRAN TROFEO?",
-      "link": "https://noticierodigital.com/2026/07/duelo-de-generaciones-quien-se-quedara-con-el-gran-trofeo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/1200x800-627x376.jpg"
+      "title": "DÍA DEL NIÑO EN CARACAS SE TRANSFORMA EN UNA JORNADA DE APOYO PARA AFECTADOS POR TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/dia-del-nino-en-caracas-se-transforma-en-una-jornada-de-apoyo-para-afectados-por-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/jugueteria_-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "China impulsa Waico, una organización internacional de gobernanza de IA con 29 países",
-      "link": "https://diarioversionfinal.com/mundo/china-impulsa-waico-una-organizacion-internacional-de-gobernanza-de-ia-con-29-paises/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNgLuzHXYAAiTYN-1068x601-1-750x430.jpg"
+      "title": "Uruguay envía segundo vuelo con 15 toneladas de ayuda humanitaria a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/uruguay-envia-segundo-vuelo-con-15-toneladas-de-ayuda-humanitaria-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/HMDhMWvWYAAbAX-680x375-1.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-18T14:52:28.606Z"
+  "lastUpdate": "2026-07-18T15:57:10.679Z"
 };
