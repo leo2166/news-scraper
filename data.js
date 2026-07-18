@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "898,86"
+      "usdt": "898,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inician pago del \"Bono de Corresponsabilidad y Formación\" de julio a docentes activos (+Detalles)",
-      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-de-corresponsabilidad-y-formacion-de-julio-a-docentes-activos-detalles/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Empresarios inmobiliarios norteamericanos y venezolanos evaluarán planes de vivienda para afrontar emergencia sísmica",
+      "link": "https://www.bancaynegocios.com/empresarios-inmobiliarios-norteamericanos-y-venezolanos-evaluaran-planes-de-vivienda-para-afrontar-emergencia-sismica/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/LosPalosGrandesEdificioReparacionesTerremotoChacao.jpg"
     },
     {
       "source": "Infobae",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 600 MASCOTAS FUERON RESCATADAS TRAS LOS TERREMOTOS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/mas-de-600-mascotas-fueron-rescatadas-tras-los-terremotos-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/mascotas-rescate-la-guaira-venezuela-627x376.jpg"
+      "title": "DUELO DE GENERACIONES: ¿QUIÉN SE QUEDARÁ CON EL GRAN TROFEO?",
+      "link": "https://noticierodigital.com/2026/07/duelo-de-generaciones-quien-se-quedara-con-el-gran-trofeo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/1200x800-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Corte Suprema de Brasil mantiene prisión domiciliaria de Bolsonaro y endurece restricciones",
-      "link": "https://diarioversionfinal.com/mundo/corte-suprema-de-brasil-mantiene-prision-domiciliaria-de-bolsonaro-y-endurece-restricciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/bolsonaro-gettyimages-2232913931-750x430.jpg"
+      "title": "China impulsa Waico, una organización internacional de gobernanza de IA con 29 países",
+      "link": "https://diarioversionfinal.com/mundo/china-impulsa-waico-una-organizacion-internacional-de-gobernanza-de-ia-con-29-paises/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HNgLuzHXYAAiTYN-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-18T13:14:52.713Z"
+  "lastUpdate": "2026-07-18T14:52:28.606Z"
 };
