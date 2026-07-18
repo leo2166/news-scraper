@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "891,70"
+      "usdt": "895,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,21 +33,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump consiguió otra victoria en América Latina, pero le queda el reto más difícil",
-      "link": "https://cnnespanol.cnn.com/2026/07/17/latinoamerica/trump-injerencia-elecciones-america-latina-brasil-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2248998626.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "EE.UU. lanza una nueva oleada de ataques contra Irán",
+      "link": "https://cnnespanol.cnn.com/2026/07/17/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eed98d5d-d4fb-4d82-92e3-bb8e10ab7c0a.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobernador José Alejandro Terán presenta balance de daños estructurales en La Guaira tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobernador-jose-alejandro-teran-presenta-balance-de-danos-estructurales-en-la-guaira-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-17-at-4.21.47-pm-bc1ed6.jpeg"
+      "title": "OFAC autoriza al gobierno venezolano a recibir fondos internacionales de forma directa para emergencia por terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/ofac-autoriza-al-gobierno-venezolano-a-recibir-fondos-internacionales-de-forma-directa-para-emergencia-por-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ofac-9366b2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA RECIBIÓ MÁS DE 2.100 TONELADAS DE EQUIPOS PARA PERFORACIÓN DE CRUDO",
-      "link": "https://noticierodigital.com/2026/07/venezuela-recibio-mas-de-2-100-toneladas-de-equipos-para-perforacion-de-crudo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/buque-brasileno-venezuela-627x376.jpg"
+      "title": "MÁS DE 600 MASCOTAS FUERON RESCATADAS TRAS LOS TERREMOTOS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/mas-de-600-mascotas-fueron-rescatadas-tras-los-terremotos-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/mascotas-rescate-la-guaira-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump saca pecho por los récords del Mundial y lanza un dardo a sus vecinos",
-      "link": "https://diarioversionfinal.com/mundo/trump-saca-pecho-por-los-records-del-mundial-y-lanza-un-dardo-a-sus-vecinos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-678x430.jpg"
+      "title": "Ataques de EE. UU. dejan tres muertos y ocho heridos en el sur de Irán",
+      "link": "https://diarioversionfinal.com/mundo/ataques-de-ee-uu-dejan-tres-muertos-y-ocho-heridos-en-el-sur-de-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/PEmTNNIW-images-4.jpg"
     }
   ],
-  "lastUpdate": "2026-07-17T23:52:37.991Z"
+  "lastUpdate": "2026-07-18T02:28:54.628Z"
 }
