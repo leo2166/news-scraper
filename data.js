@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "898,39"
+      "usdt": "892,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Aumentaron a 5.119 los muertos tras el doble terremoto en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/18/aumentaron-a-5119-los-muertos-tras-el-doble-terremoto-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/526QMB3K3NGKHI6FZNZD6TPEYA.jpg?auth=a614664bce31b1466035bc875ba47f5f64314ab9148bc0b9cc91f8d346b8d967&smart=true&width=350&height=197&quality=85"
+      "title": "Una experta analiza la estrategia de EEUU hacia Venezuela tras la captura de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/07/19/una-experta-analiza-la-estrategia-de-eeuu-hacia-venezuela-tras-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/ILA56CEEBZCX3O2SFEA46OF5YA.jpg?auth=be18aa2017651450ddfc793b142afd617076de91a23ad3b40e228534b1de1d1b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Senamecf detalla el protocolo de entrega y sepelio para las víctimas en La Guaira",
-      "link": "https://noticialdia.com/al-dia/senamecf-detalla-el-protocolo-de-entrega-y-sepelio-para-las-victimas-en-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-48-1.webp?x33727"
+      "title": "Funcionarios policiales de La Guaira arrestaron a jóvenes por conducta irrespetuosa y amenazas en Catia la Mar",
+      "link": "https://noticialdia.com/sucesos/funcionarios-policiales-de-la-guaira-arrestaron-a-jovenes-por-conducta-irrespetuosa-y-amenazas-en-catia-la-mar/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-11-5.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«TRABAS INSTITUCIONALES IMPIDEN REACTIVAR ASCENSORES TRAS TERREMOTOS»’, CONDENÓ OCARIZ",
-      "link": "https://noticierodigital.com/2026/07/trabas-institucionales-impiden-reactivar-ascensores-tras-terremotos-condeno-ocariz/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/carlos_ocariz_miranda_4dic2019.jpg"
+      "title": "LA TORTA MÁS GRANDE DE VENEZUELA LLEGA A LOS MÁS PEQUEÑOS DE LA GUAIRA Y CARACAS TRAS TERREMOTOS DEL 24J",
+      "link": "https://noticierodigital.com/2026/07/la-torta-mas-grande-de-venezuela-llega-a-los-mas-pequenos-de-la-guaira-y-caracas-tras-terremotos-del-24j/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/IMG-20260718-WA0168-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Sheinbaum descarta daños graves tras terremoto de magnitud 7,4 en el sur de México",
-      "link": "https://laverdad.com/sheinbaum-descarta-danos-graves-tras-terremoto-de-magnitud-74-en-el-sur-de-mexico/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Sheinbaum-informa-que-no-hay-danos-tras-terremoto-de-74-grados-en-sur-de-Mexico-scaled.jpg"
+      "title": "Papa León XIV pide no olvidar a las víctimas de las guerras y rezar por la paz",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-no-olvidar-a-las-victimas-de-las-guerras-y-rezar-por-la-paz/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/8041f48303339ba29b2e207be1e7b5ef72d4902f-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Naufraga un ferry en Guyana: 53 rescatados de 116 personas abordo",
-      "link": "https://diarioversionfinal.com/mundo/naufraga-un-ferry-en-guyana-53-rescatados-de-116-personas-abordo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/HyT99U4K-image-1-750x430.jpg"
+      "title": "Corte Constitucional de Colombia frena acuerdo con Venezuela sobre zona económica binacional",
+      "link": "https://diarioversionfinal.com/mundo/corte-constitucional-de-colombia-frena-acuerdo-con-venezuela-sobre-zona-economica-binacional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/IPbfTwAx-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T13:39:44.196Z"
+  "lastUpdate": "2026-07-19T14:55:12.661Z"
 };
