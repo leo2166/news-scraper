@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "859,98"
+      "usdt": "901,86"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,7 +33,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. lanza nuevos ataques contra Irán tras la muerte de militares",
+      "title": "EE.UU. toma represalias contra Irán tras la muerte de militares",
       "link": "https://cnnespanol.cnn.com/2026/07/18/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-1-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/centcom-20260718180742899.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Caso-venezolano-ICE-18-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T08:18:04.119Z"
+  "lastUpdate": "2026-07-19T10:28:06.639Z"
 }
