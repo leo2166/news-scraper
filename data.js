@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "901,86"
+      "usdt": "898,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Caso-venezolano-ICE-18-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T10:28:06.639Z"
+  "lastUpdate": "2026-07-19T11:58:07.448Z"
 };
