@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "891,39"
+      "usdt": "893,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,21 +33,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Argentina vs. España por la final del Mundial 2026",
+      "title": "Segundo tiempo: España y Argentina empatan 0-0",
       "link": "https://cnnespanol.cnn.com/2026/07/19/deportes/live-news/espana-argentina-final-mundial-2026-en-vivo-resultado-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284075836.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/centcom-20260718180742899.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Margarita López Maya: \"Cuando el ciudadano es libre y tiene derechos, él necesita de varios derechos civiles\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/margarita-lopez-maya-cuando-el-ciudadano-es-libre-y-tiene-derechos-el-necesita-de-varios-derechos-civiles",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/pxl_20260717_203600977.jpg-de8709.jpeg"
+      "title": "Juan Carlos Apitz: \"Lo legal es convocar ya mismo a unas elecciones presidenciales\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-lo-legal-es-convocar-ya-mismo-a-unas-elecciones-presidenciales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hnl8wowweaa_nwn-26e585.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SISMO EN PERÚ DEJA AL MENOS CINCO MUERTOS Y 21 HERIDOS",
-      "link": "https://noticierodigital.com/2026/07/sismo-en-peru-deja-al-menos-cinco-muertos-y-21-heridos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/sismoPeru-627x376.jpg"
+      "title": "DENUNCIAN PRESUNTAS «AGRESIONES» A PRESOS POLÍTICOS EN RODEO I",
+      "link": "https://noticierodigital.com/2026/07/denuncian-presuntas-agresiones-a-presos-politicos-en-rodeo-i/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/el-rodeo-carcel-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/UQNFtE0u-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T19:05:40.150Z"
+  "lastUpdate": "2026-07-19T20:48:33.516Z"
 };
