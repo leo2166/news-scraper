@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "893,69"
+      "usdt": "891,39"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Tras intensa búsqueda, Polimaracaibo ubica a adolescente que huyó de su casa en la urbanización La Victoria",
-      "link": "https://noticialdia.com/sucesos/tras-intensa-busqueda-polimaracaibo-ubica-a-adolescente-que-huyo-de-su-casa-en-la-urbanizacion-la-victoria/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-13-4.webp?x33727"
+      "title": "Cpbez detiene a dos hombres por violencia de género en Maracaibo",
+      "link": "https://noticialdia.com/sucesos/cpbez-detiene-a-dos-hombres-por-violencia-de-genero-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/El-Cuerpo-de-Policia-Bolivariana-del-estado-Zulia-Cpbez-arresto-a-dos-individuos-por-casos-de-1-1.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. toma represalias contra Irán tras la muerte de militares",
-      "link": "https://cnnespanol.cnn.com/2026/07/18/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/centcom-20260718180742899.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Argentina vs. España por la final del Mundial 2026",
+      "link": "https://cnnespanol.cnn.com/2026/07/19/deportes/live-news/espana-argentina-final-mundial-2026-en-vivo-resultado-goles-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284075836.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA TORTA MÁS GRANDE DE VENEZUELA LLEGA A LOS MÁS PEQUEÑOS DE LA GUAIRA Y CARACAS TRAS TERREMOTOS DEL 24J",
-      "link": "https://noticierodigital.com/2026/07/la-torta-mas-grande-de-venezuela-llega-a-los-mas-pequenos-de-la-guaira-y-caracas-tras-terremotos-del-24j/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/IMG-20260718-WA0168-627x376.jpg"
+      "title": "SISMO EN PERÚ DEJA AL MENOS CINCO MUERTOS Y 21 HERIDOS",
+      "link": "https://noticierodigital.com/2026/07/sismo-en-peru-deja-al-menos-cinco-muertos-y-21-heridos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/sismoPeru-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/UQNFtE0u-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T17:06:15.719Z"
+  "lastUpdate": "2026-07-19T19:05:40.150Z"
 };
