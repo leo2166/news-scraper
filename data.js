@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Segundo tiempo: España y Argentina empatan 0-0",
+      "title": "¡Gol de España! Ferran Torres abre el marcador en tiempo extra",
       "link": "https://cnnespanol.cnn.com/2026/07/19/deportes/live-news/espana-argentina-final-mundial-2026-en-vivo-resultado-goles-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/centcom-20260718180742899.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Carlos Apitz: \"Lo legal es convocar ya mismo a unas elecciones presidenciales\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-lo-legal-es-convocar-ya-mismo-a-unas-elecciones-presidenciales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hnl8wowweaa_nwn-26e585.jpg"
+      "title": "Fundación Color Esperanza prepara la torta más grande de Venezuela para niños afectados por terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/fundacion-color-esperanza-prepara-la-torta-mas-grande-de-venezuela-para-ninos-afectados-por-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/lo-logramosla-torta-mas-grande-de-venezuela-para-los-chamos-de-la-guaira-y-todas-las-zonas-af-520x380-22cdaf.webp"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/UQNFtE0u-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T20:48:33.516Z"
+  "lastUpdate": "2026-07-19T21:52:40.691Z"
 };
