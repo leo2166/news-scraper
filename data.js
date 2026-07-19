@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "891,39"
+      "usdt": "893,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Fatal accidente en la vía Machiques-Colón: menor de 17 años muere al estrellarse contra un árbol",
-      "link": "https://noticialdia.com/sucesos/fatal-accidente-en-la-via-machiques-colon-menor-de-17-anos-muere-al-estrellarse-contra-un-arbol/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-12-3.webp?x33727"
+      "title": "Tras intensa búsqueda, Polimaracaibo ubica a adolescente que huyó de su casa en la urbanización La Victoria",
+      "link": "https://noticialdia.com/sucesos/tras-intensa-busqueda-polimaracaibo-ubica-a-adolescente-que-huyo-de-su-casa-en-la-urbanizacion-la-victoria/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-13-4.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Argentinos rezan ante la tumba del papa Francisco antes de la final del Mundial",
-      "link": "https://diarioversionfinal.com/mundo/argentinos-rezan-ante-la-tumba-del-papa-francisco-antes-de-la-final-del-mundial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/KC5GJPSAJNBITIGDMMU3FOXKKE.avif"
+      "title": "Trump pide incluir a Irán en sanciones contra Rusia",
+      "link": "https://diarioversionfinal.com/mundo/trump-pide-incluir-a-iran-en-sanciones-contra-rusia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/UQNFtE0u-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T15:58:11.269Z"
+  "lastUpdate": "2026-07-19T17:06:15.719Z"
 };
