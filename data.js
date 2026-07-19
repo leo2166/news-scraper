@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "¡Gol de España! Ferran Torres abre el marcador en tiempo extra",
+      "title": "¡España, campeón del Mundial 2026!",
       "link": "https://cnnespanol.cnn.com/2026/07/19/deportes/live-news/espana-argentina-final-mundial-2026-en-vivo-resultado-goles-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/centcom-20260718180742899.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219680013-pa.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Fundación Color Esperanza prepara la torta más grande de Venezuela para niños afectados por terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/fundacion-color-esperanza-prepara-la-torta-mas-grande-de-venezuela-para-ninos-afectados-por-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/lo-logramosla-torta-mas-grande-de-venezuela-para-los-chamos-de-la-guaira-y-todas-las-zonas-af-520x380-22cdaf.webp"
+      "title": "Clippve exige evaluación de la infraestructura de El Rodeo I tras los terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/clippve-exige-evaluacion-de-la-infraestructura-de-el-rodeo-i-tras-los-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-074d44.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/UQNFtE0u-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-19T21:52:40.691Z"
+  "lastUpdate": "2026-07-19T22:52:22.195Z"
 };
