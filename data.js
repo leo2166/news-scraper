@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "854,36"
+      "usdt": "893,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tragedia familiar en España en plena fiesta mundialista: Muere un niño en Salamanca tras el colapso de una fuente donde celebraban",
-      "link": "https://diarioversionfinal.com/mundo/tragedia-familiar-en-espana-en-plena-fiesta-mundialista-muere-un-nino-en-salamanca-tras-el-colapso-de-una-fuente-donde-celebraban/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/tragedia_salamaca_mundial-680x430.webp"
+      "title": "Seis marineros mueren en ataque ruso a un buque mercante de Turquía",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/seis-marineros-mueren-en-ataque-ruso-a-un-buque-mercante-de-turquia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/56t8yYiO-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-20T06:45:21.525Z"
+  "lastUpdate": "2026-07-20T10:10:28.565Z"
 };
