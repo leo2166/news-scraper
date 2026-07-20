@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 21 Julio 2026"
     },
     "binance": {
-      "usdt": "911,00"
+      "usdt": "865,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Leopoldo López apoya negociación impulsada por Estados Unidos y aumenta la presión sobre la unidad de la oposición venezolana",
-      "link": "https://www.infobae.com/venezuela/2026/07/20/leopoldo-lopez-apoya-negociacion-impulsada-por-estados-unidos-y-aumenta-la-presion-sobre-la-unidad-de-la-oposicion-venezolana/",
-      "image": "https://www.infobae.com/resizer/v2/OC5AVPDR2ZF7DEI7RILWWXEENU.JPG?auth=5ff295f0f3a8584aad9125b7a97b879688b93cc6735d6a88acd82a61ed499082&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición venezolana propone aplicar el modelo japonés de gestión sísmica para reconstruir La Guaira",
+      "link": "https://www.infobae.com/venezuela/2026/07/20/la-oposicion-venezolana-propone-aplicar-el-modelo-japones-de-gestion-sismica-para-reconstruir-la-guaira/",
+      "image": "https://www.infobae.com/resizer/v2/I4C6LBTDSVFTDLCZXCGAZPTKCA.JPG?auth=f873cb32b6e3dd386d20412259940d4f2b99b08a42dee080cec132ceff22086b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Condenan a cadena perpetua en EE.UU. a Ismael \"el Mayo\" Zambada",
-      "link": "https://cnnespanol.cnn.com/2026/07/20/eeuu/mayo-zambada-sentencia-perpetua-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/mayo1.JPG?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump afirma que Irán “pagará... con creces” por la muerte de militares",
+      "link": "https://cnnespanol.cnn.com/2026/07/20/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-2-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-28t192359z-752629247-rc2qhda729a5-rtrmadp-3-usa-trump-military-20260720121251384.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DE LA ESPRIELLA NOMBRÓ AL PRÓXIMO EMBAJADOR DE COLOMBIA EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/de-la-espriella-nombro-a-jorge-jaller-como-proximo-embajador-de-colombia-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Jorge-Jaller-Jaramillo-627x376.jpg"
+      "title": "EXCARCELARON A EBRO LEONARDO DELGADO BRICEÑO TRAS PERMANECER DETENIDO DESDE 2022",
+      "link": "https://noticierodigital.com/2026/07/excarcelaron-a-ebro-leonardo-delgado-briceno-tras-permanecer-detenido-desde-2022/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/ebro-delgado-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-20T21:59:30.445Z"
+  "lastUpdate": "2026-07-20T23:08:30.468Z"
 };
