@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "911,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cendas-FVM: Canasta alimentaria familiar bajó 2,1% en dólares con un costo de US$756,45 en junio",
-      "link": "https://www.bancaynegocios.com/cendas-fvm-canasta-alimentaria-familiar-bajo-2coma1-porciento-en-dolares-con-un-costo-de-usd756con45-en-junio/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/compras.jpg"
+      "title": "Gobierno venezolano y el IICA exploran nuevas vías de cooperación para el desarrollo agroproductivo",
+      "link": "https://www.bancaynegocios.com/gobierno-venezolano-y-el-iica-exploran-nuevas-vias-de-cooperacion-para-el-desarrollo-agroproductivo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/VLADIMIR-PADRINO-MIN-AGRICULTURA.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "“Las listas de los hospitales no están completas”: familiares enfrentan obstáculos para buscar a desaparecidos por los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/20/las-listas-de-los-hospitales-no-estan-completas-familiares-enfrentan-obstaculos-para-buscar-a-desaparecidos-por-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/ECO5IELWYFAZFJAHXYO7L5VXCQ.JPG?auth=66552fbea7fddd086824debccc05636663bfd6a8155c73bb271d9239816a5c52&smart=true&width=350&height=197&quality=85"
+      "title": "Leopoldo López apoya negociación impulsada por Estados Unidos y aumenta la presión sobre la unidad de la oposición venezolana",
+      "link": "https://www.infobae.com/venezuela/2026/07/20/leopoldo-lopez-apoya-negociacion-impulsada-por-estados-unidos-y-aumenta-la-presion-sobre-la-unidad-de-la-oposicion-venezolana/",
+      "image": "https://www.infobae.com/resizer/v2/OC5AVPDR2ZF7DEI7RILWWXEENU.JPG?auth=5ff295f0f3a8584aad9125b7a97b879688b93cc6735d6a88acd82a61ed499082&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Capturado sujeto tras atacar a su padrastro con un arma blanca en San Francisco",
-      "link": "https://noticialdia.com/sucesos/capturado-sujeto-tras-atacar-a-su-padrastro-con-un-arma-blanca-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-5.webp?x33727"
+      "title": "Vecinos rescatan a dos niños durante fuerte incendio en el sector 26 de julio de Cabimas",
+      "link": "https://noticialdia.com/sucesos/vecinos-rescatan-a-dos-ninos-durante-voraz-incendio-en-el-sector-26-de-julio-de-cabimas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-1-1.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Clippve exige evaluación de la infraestructura de El Rodeo I tras los terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/clippve-exige-evaluacion-de-la-infraestructura-de-el-rodeo-i-tras-los-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-074d44.jpg"
+      "title": "Alcaldía de Chacao publica trámites legales por presunción de muerte  y derecho a la propiedad tras los terremotos del 24 de junio",
+      "link": "https://noticiasvenevision.com/noticias/politica/alcaldia-de-chacao-publica-tramites-legales-por-presuncion-de-muerte-y-derecho-a-la-propiedad-tras-los-terremotos-del-24-de-junio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-16-at-094618jpeg-2879-2f894e.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUBIO REITERA APOYO DE EE. UU. A VENEZUELA Y DESTACA DIÁLOGO PARA «COMENZAR PROCESO DE TRANSICIÓN»",
-      "link": "https://noticierodigital.com/2026/07/rubio-reitera-apoyo-de-ee-uu-a-venezuela-y-destaca-dialogo-para-comenzar-proceso-de-transicion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/marco-rubio-donald-trump-gabinete-eeuu-627x376.jpg"
+      "title": "PETRO INVITA A IR A UNA «HUELGA GENERAL E INDEFINIDA» SI DE LA ESPRIELLA DEROGA SUS REFORMAS",
+      "link": "https://noticierodigital.com/2026/07/petro-invita-a-ir-a-una-huelga-general-e-indefinida-si-de-la-espriella-deroga-sus-reformas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/gustavo-petro-colombia-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a 2 venezolanos vinculados al “Tren de Aragua” en EE. UU.",
-      "link": "https://laverdad.com/condenan-a-2-venezolanos-vinculados-al-tren-de-aragua-en-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Condenan-a-2-venezolanos-vinculados-al-Tren-de-Aragua-en-EE.-UU.-por-robo-a-cajeros-automaticos.jpg"
+      "title": "EE. UU. estará “muy involucrado” en diálogo entre la AN 2015 y Delcy Rodríguez",
+      "link": "https://laverdad.com/ee-uu-estara-muy-involucrado-en-dialogo-entre-la-an-2015-y-delcy-rodriguez/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Marco-Rubio-confirma-que-EE.-UU.-se-sumara-al-dialogo-venezolano-el-1-de-agosto.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Felipe VI felicita a España por un \"triunfo épico\" tras conquistar el Mundial",
-      "link": "https://diarioversionfinal.com/mundo/felipe-vi-felicita-a-espana-por-un-triunfo-epico-tras-conquistar-el-mundial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/07/rey-felipe-vi-pronuncia-su-mensaje-con-motivo-de-la-navidad-desde-el-palacio-de-la-zarzuela-241218-efe-ballesteros-750x430.jpg"
+      "title": "Petro amenaza con una huelga general si De la Espriella revierte sus reformas",
+      "link": "https://diarioversionfinal.com/mundo/petro-amenaza-con-una-huelga-general-si-de-la-espriella-revierte-sus-reformas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Petro-04-10-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-20T18:02:42.010Z"
+  "lastUpdate": "2026-07-20T20:20:46.662Z"
 }
