@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "902,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "En Falcón plantean rehabilitar puentes que conectan hacia el Parque Nacional Morrocoy",
-      "link": "https://www.bancaynegocios.com/en-falcon-plantean-rehabilitar-puentes-que-conectan-hacia-el-parque-nacional-morrocoy/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/morrocoy.jpg"
+      "title": "Cendas-FVM: Canasta alimentaria familiar bajó 2,1% en dólares con un costo de US$756,45 en junio",
+      "link": "https://www.bancaynegocios.com/cendas-fvm-canasta-alimentaria-familiar-bajo-2coma1-porciento-en-dolares-con-un-costo-de-usd756con45-en-junio/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/compras.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cpbez detiene a dos hombres por violencia de género en Maracaibo",
-      "link": "https://noticialdia.com/sucesos/cpbez-detiene-a-dos-hombres-por-violencia-de-genero-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/El-Cuerpo-de-Policia-Bolivariana-del-estado-Zulia-Cpbez-arresto-a-dos-individuos-por-casos-de-1-1.webp?x33727"
+      "title": "Tras el caos en la final del Mundial: Presos los responsables de lanzar sillas en C.C. Las Virtudes",
+      "link": "https://noticialdia.com/sucesos/tras-el-caos-en-la-final-del-mundial-ya-estan-tras-las-rejas-los-responsables-de-lanzar-sillas-en-c-c-las-virtudes/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-3.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA Y PAKISTÁN PREPARAN ACUERDOS PARA AMPLIAR INTERCAMBIO COMERCIAL",
-      "link": "https://noticierodigital.com/2026/07/venezuela-y-pakistan-preparan-acuerdos-para-ampliar-intercambio-comercial/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/08/felixplasencia-embajador-maduro-11ago2022.jpg"
+      "title": "ASOBANCA PRESENTA PLAN DE «AUXILIO FINANCIERO» TRAS TERREMOTOS DEL 24J",
+      "link": "https://noticierodigital.com/2026/07/asobanca-presenta-plan-de-auxilio-financiero-tras-terremotos-del-24j/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/pedropacheco-unionradio.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide no olvidar a las víctimas de las guerras y rezar por la paz",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-no-olvidar-a-las-victimas-de-las-guerras-y-rezar-por-la-paz/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/8041f48303339ba29b2e207be1e7b5ef72d4902f-scaled.jpg"
+      "title": "Condenan a 2 venezolanos vinculados al “Tren de Aragua” en EE. UU.",
+      "link": "https://laverdad.com/condenan-a-2-venezolanos-vinculados-al-tren-de-aragua-en-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Condenan-a-2-venezolanos-vinculados-al-Tren-de-Aragua-en-EE.-UU.-por-robo-a-cajeros-automaticos.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán confirma contactos diplomáticos para evitar una nueva escalada con Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/iran-confirma-contactos-diplomaticos-para-evitar-una-nueva-escalada-con-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/imagen-archivo-portavoz-ministerio-exteriores-iran-esmaeil-baqaei_163.webp"
+      "title": "Brote de ébola en el Congo deja 930 muertos y más de 2.300 contagios",
+      "link": "https://diarioversionfinal.com/mundo/brote-de-ebola-en-el-congo-deja-930-muertos-y-mas-de-2-300-contagios/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-20T114921.120.jpg"
     }
   ],
-  "lastUpdate": "2026-07-20T13:05:46.145Z"
+  "lastUpdate": "2026-07-20T15:49:43.422Z"
 };
