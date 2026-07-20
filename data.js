@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 20 Julio 2026"
     },
     "binance": {
-      "usdt": "893,50"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "España ganó el Mundial fiel a su estilo",
-      "link": "https://cnnespanol.cnn.com/2026/07/19/deportes/espana-campeon-mundial-2026-fifa-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286813887.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Valió la pena el Mundial?",
+      "link": "https://cnnespanol.cnn.com/2026/07/20/economia/valio-la-pena-mundial-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286813887.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DENUNCIAN PRESUNTAS «AGRESIONES» A PRESOS POLÍTICOS EN RODEO I",
-      "link": "https://noticierodigital.com/2026/07/denuncian-presuntas-agresiones-a-presos-politicos-en-rodeo-i/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/el-rodeo-carcel-627x376.jpg"
+      "title": "VENEZUELA Y PAKISTÁN PREPARAN ACUERDOS PARA AMPLIAR INTERCAMBIO COMERCIAL",
+      "link": "https://noticierodigital.com/2026/07/venezuela-y-pakistan-preparan-acuerdos-para-ampliar-intercambio-comercial/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/08/felixplasencia-embajador-maduro-11ago2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Seis marineros mueren en ataque ruso a un buque mercante de Turquía",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/seis-marineros-mueren-en-ataque-ruso-a-un-buque-mercante-de-turquia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/56t8yYiO-image-750x430.jpg"
+      "title": "Irán confirma contactos diplomáticos para evitar una nueva escalada con Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/iran-confirma-contactos-diplomaticos-para-evitar-una-nueva-escalada-con-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/imagen-archivo-portavoz-ministerio-exteriores-iran-esmaeil-baqaei_163.webp"
     }
   ],
-  "lastUpdate": "2026-07-20T10:10:28.565Z"
+  "lastUpdate": "2026-07-20T13:05:46.145Z"
 };
