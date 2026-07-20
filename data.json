@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "736,93",
-      "eur": "843,20",
-      "fechaValor": "Lunes, 20 Julio 2026"
+      "usd": "737,23",
+      "eur": "840,71",
+      "fechaValor": "Martes, 21 Julio 2026"
     },
     "binance": {
-      "usdt": "911,50"
+      "usdt": "911,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PETRO INVITA A IR A UNA «HUELGA GENERAL E INDEFINIDA» SI DE LA ESPRIELLA DEROGA SUS REFORMAS",
-      "link": "https://noticierodigital.com/2026/07/petro-invita-a-ir-a-una-huelga-general-e-indefinida-si-de-la-espriella-deroga-sus-reformas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/gustavo-petro-colombia-1-627x376.jpg"
+      "title": "DE LA ESPRIELLA NOMBRÓ AL PRÓXIMO EMBAJADOR DE COLOMBIA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/de-la-espriella-nombro-a-jorge-jaller-como-proximo-embajador-de-colombia-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Jorge-Jaller-Jaramillo-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. estará “muy involucrado” en diálogo entre la AN 2015 y Delcy Rodríguez",
-      "link": "https://laverdad.com/ee-uu-estara-muy-involucrado-en-dialogo-entre-la-an-2015-y-delcy-rodriguez/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Marco-Rubio-confirma-que-EE.-UU.-se-sumara-al-dialogo-venezolano-el-1-de-agosto.jpg"
+      "title": "Ortega descarta la alternancia democrática en Nicaragua: “Aquí no volverá a haber elecciones”",
+      "link": "https://laverdad.com/ortega-descarta-la-alternancia-democratica-en-nicaragua-aqui-no-volvera-a-haber-elecciones/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Ortega-descarta-la-alternancia-democratica-en-Nicaragua_-Aqui-no-volvera-a-haber-elecciones.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petro amenaza con una huelga general si De la Espriella revierte sus reformas",
-      "link": "https://diarioversionfinal.com/mundo/petro-amenaza-con-una-huelga-general-si-de-la-espriella-revierte-sus-reformas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Petro-04-10-2025-750x430.jpg"
+      "title": "Petro denuncia presunto fraude electoral y anuncia demanda con pruebas de “70.000 testigos digitales”",
+      "link": "https://diarioversionfinal.com/mundo/petro-denuncia-presunto-fraude-electoral-y-anuncia-demanda-con-pruebas-de-70-000-testigos-digitales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-20T20:20:46.662Z"
+  "lastUpdate": "2026-07-20T21:59:30.445Z"
 }
