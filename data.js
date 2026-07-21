@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "890,00"
+      "usdt": "911,36"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,14 +21,14 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Cámara de la Construcción propone a Delcy Rodríguez que entregue urbanismos inconclusos del gobierno al sector privado para su culminación",
-      "link": "https://www.infobae.com/venezuela/2026/07/21/camara-de-la-construccion-propone-a-delcy-rodriguez-que-entregue-urbanismos-inconclusos-del-gobierno-al-sector-privado-para-su-culminacion/",
-      "image": "https://www.infobae.com/resizer/v2/DV5Y6SG63FC5HED7MWHJJLI42M.JPG?auth=3ee073c1192ec7f2e13b0e21cd543bf35ca26a086447c4a7f45b4ca68c35b806&smart=true&width=350&height=197&quality=85"
+      "title": "Henrique Capriles pidió una negociación política en Venezuela con la inclusión de María Corina Machado",
+      "link": "https://www.infobae.com/venezuela/2026/07/21/henrique-capriles-pidio-una-negociacion-politica-en-venezuela-con-la-inclusion-de-maria-corina-machado/",
+      "image": "https://www.infobae.com/resizer/v2/S7COU6QEKVHBHNUDY7QLWYBJEA.JPG?auth=72f0aaea46b338390a66b7c52f12dcb86f596edca30b81790af83912651bef24&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "Un motorizado herido dejó accidente en 5 de Julio la tarde de este Mar-21",
-      "link": "https://noticialdia.com/principal/un-motorizado-herido-dejo-accidente-en-5-de-julio-la-tarde-de-este-mar-21/",
+      "link": "https://noticialdia.com/al-dia/un-motorizado-herido-dejo-accidente-en-5-de-julio-la-tarde-de-este-mar-21/",
       "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/50e447e2-3cfa-4503-b6a2-fa9f092a3953-convertido-a-1024x720-1.webp?x33727"
     },
     {
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Restablecen más del 90 % del servicio de agua en La Guaira tras reparaciones en el sistema",
-      "link": "https://noticiasvenevision.com/noticias/politica/restablecen-mas-del-90-del-servicio-de-agua-en-la-guaira-tras-reparaciones-en-el-sistema",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_comercioslaguairaterremotocerrados-7e74c7.jpg"
+      "title": "Gobierno nacional lamenta el trágico naufragio de un ferry en Guyana",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-lamenta-el-tragico-naufragio-de-un-ferry-en-guyana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_753556965_18581049820070571_7129156794778481152_n-74a5a0.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PROPIETARIOS DE EDIFICIOS COLAPSADOS CONSERVAN SUS DERECHOS SOBRE EL TERRENO, ACLARÓ CHACAO",
-      "link": "https://noticierodigital.com/2026/07/propietarios-de-edificios-colapsados-conservan-sus-derechos-sobre-el-terreno-aclaro-chacao/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/chacao_edificiosterremotos-627x376.jpg"
+      "title": "AIR EUROPA SEGUIRÁ VOLANDO A VALENCIA POR EL CIERRE DE MAIQUETÍA",
+      "link": "https://noticierodigital.com/2026/07/air-europa-seguira-volando-a-valencia-por-el-cierre-de-maiquetia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/aireuropa.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-21T21:09:10.234Z"
+  "lastUpdate": "2026-07-21T22:56:50.562Z"
 };
