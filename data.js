@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 21 Julio 2026"
     },
     "binance": {
-      "usdt": "908,00"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La oposición venezolana propone aplicar el modelo japonés de gestión sísmica para reconstruir La Guaira",
-      "link": "https://www.infobae.com/venezuela/2026/07/20/la-oposicion-venezolana-propone-aplicar-el-modelo-japones-de-gestion-sismica-para-reconstruir-la-guaira/",
-      "image": "https://www.infobae.com/resizer/v2/I4C6LBTDSVFTDLCZXCGAZPTKCA.JPG?auth=f873cb32b6e3dd386d20412259940d4f2b99b08a42dee080cec132ceff22086b&smart=true&width=350&height=197&quality=85"
+      "title": "El gobierno de Venezuela ascendió a 5.278 muertos el balance de víctimas por el doble terremoto",
+      "link": "https://www.infobae.com/venezuela/2026/07/21/el-gobierno-de-venezuela-ascendio-a-5278-muertos-el-balance-de-victimas-por-el-doble-terremoto/",
+      "image": "https://www.infobae.com/resizer/v2/NPML2UGF7FD3BMU6HGYLWOLYW4.JPG?auth=4cab92fbde7aba85d3dbac3ec0a35bbf9dca36e0f2e3f4f0ac2f42b1d3fb725a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "Nuevo balance oficial: Asciende a 5 mil 278 la cifra de fallecidos por el doble terremoto",
       "link": "https://noticialdia.com/principal/nuevo-balance-oficial-asciende-a-5-mil-278-la-cifra-de-fallecidos-por-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/6b3dee51db5d146b186216497ef6178cad2a0dd0miniw.webp?x33727"
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/6b3dee51db5d146b186216497ef6178cad2a0dd0miniw-e1784601786464.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera dice que se convocará a todos los sectores democráticos al diálogo",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-dice-que-se-convocara-a-todos-los-sectores-democraticos-al-dialogo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/dinorah-figuera-dialogo-con-el-gobierno-ta-b2e2ed.png"
+      "title": "Presidente de Colombia anuncia al empresario Jorge Jaller como embajador en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidente-de-colombia-anuncia-al-empresario-jorge-jaller-como-embajador-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/dowlkdcq4ve5zelxthbe6hnnlm-57ce41.avif"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petro denuncia presunto fraude electoral y anuncia demanda con pruebas de “70.000 testigos digitales”",
-      "link": "https://diarioversionfinal.com/mundo/petro-denuncia-presunto-fraude-electoral-y-anuncia-demanda-con-pruebas-de-70-000-testigos-digitales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/descarga-2-750x430.jpeg"
+      "title": "Suman 27 los muertos por el naufragio de un ferry en Guyana",
+      "link": "https://diarioversionfinal.com/mundo/suman-27-los-muertos-por-el-naufragio-de-un-ferry-en-guyana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Ferry-Guyana-20-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-21T02:40:50.452Z"
+  "lastUpdate": "2026-07-21T05:50:44.509Z"
 };
