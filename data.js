@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 21 Julio 2026"
     },
     "binance": {
-      "usdt": "896,59"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gobierno venezolano y el IICA exploran nuevas vías de cooperación para el desarrollo agroproductivo",
-      "link": "https://www.bancaynegocios.com/gobierno-venezolano-y-el-iica-exploran-nuevas-vias-de-cooperacion-para-el-desarrollo-agroproductivo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/VLADIMIR-PADRINO-MIN-AGRICULTURA.jpeg"
+      "title": "Aumentó más de 23% en bolívares: Pagan el \"Ingreso Integral de los Pensionados \" de julio",
+      "link": "https://www.bancaynegocios.com/aumento-mas-de-23-porciento-en-bolivares-pagan-el-ingreso-integral-de-los-pensionados-de-julio/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cpbez la detuvo en la frontera de Paraguachón: Requerida por hurto calificado",
-      "link": "https://noticialdia.com/sucesos/cpbez-la-detuvo-en-la-frontera-de-paraguachon-requerida-por-hurto-calificado/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-8-1.webp?x33727"
+      "title": "Cinco miembros de una familia fueron hallados abrazados bajo los escombros en La Guaira",
+      "link": "https://noticialdia.com/al-dia/cinco-miembros-de-una-familia-fueron-hallados-abrazados-bajo-los-escombros-en-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-2026-07-21T120116.396.webp?x33727"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidente de Colombia anuncia al empresario Jorge Jaller como embajador en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidente-de-colombia-anuncia-al-empresario-jorge-jaller-como-embajador-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/dowlkdcq4ve5zelxthbe6hnnlm-57ce41.avif"
+      "title": "Restablecen más del 90 % del servicio de agua en La Guaira tras reparaciones en el sistema",
+      "link": "https://noticiasvenevision.com/noticias/politica/restablecen-mas-del-90-del-servicio-de-agua-en-la-guaira-tras-reparaciones-en-el-sistema",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_comercioslaguairaterremotocerrados-7e74c7.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DE LA ESPRIELLA ACUSA A DISIDENCIAS DE LAS FARC DE QUERER ATENTAR CONTRA SU VIDA",
-      "link": "https://noticierodigital.com/2026/07/de-la-espriella-acusa-a-disidencias-de-las-farc-de-querer-atentar-contra-su-vida/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/Espriella-627x376.jpg"
+      "title": "TRUMP DIJO QUE RELACIÓN CON VENEZUELA «VIVE SU MEJOR MOMENTO»",
+      "link": "https://noticierodigital.com/2026/07/trump-dijo-que-relacion-con-venezuela-vive-su-mejor-momento/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/donald-trump-eeuu-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "De la Espriella denuncia supuesto plan criminal para atentar contra su vida",
-      "link": "https://laverdad.com/de-la-espriella-denuncia-supuesto-plan-criminal-para-atentar-contra-su-vida/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Alberto-De-La-Espriella.jpg"
+      "title": "Panamá descarta restablecer relaciones con el gobierno interino de Delcy Rodríguez",
+      "link": "https://laverdad.com/panama-descarta-restablecer-relaciones-con-el-gobierno-interino-de-delcy-rodriguez/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Canciller-Panama-Javier-Marrtinez-Acha.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Maurel & Prom prepara segundo envío de crudo venezolano tras reactivar sus operaciones",
-      "link": "https://diarioversionfinal.com/mundo/maurel-prom-prepara-segundo-envio-de-crudo-venezolano-tras-reactivar-sus-operaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-21T112847.822.jpg"
+      "title": "EE. UU. respalda a Delcy Rodríguez en demanda por indemnización de 314 millones de dólares",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-respalda-a-delcy-rodriguez-en-demanda-por-indemnizacion-de-314-millones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/delcy-rodriguez-afp-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-21T15:43:11.770Z"
+  "lastUpdate": "2026-07-21T17:19:33.477Z"
 };
