@@ -34,8 +34,8 @@ window.DASHBOARD_DATA = {
     {
       "source": "CNN en Español",
       "title": "Casi 100 militares de EE.UU. han resultado heridos en las últimas dos semanas",
-      "link": "https://cnnespanol.cnn.com/2026/07/20/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9818375-20260721003953123.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/07/21/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-3-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/buques-guerra-ee-uu-estrecho-ormuz.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Ferry-Guyana-20-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-21T08:28:24.588Z"
+  "lastUpdate": "2026-07-21T11:08:13.755Z"
 };
