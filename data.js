@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 21 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "907,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Ferry-Guyana-20-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-21T05:50:44.509Z"
+  "lastUpdate": "2026-07-21T08:28:24.588Z"
 };
