@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "911,36"
+      "usdt": "913,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Henrique Capriles pidió una negociación política en Venezuela con la inclusión de María Corina Machado",
-      "link": "https://www.infobae.com/venezuela/2026/07/21/henrique-capriles-pidio-una-negociacion-politica-en-venezuela-con-la-inclusion-de-maria-corina-machado/",
-      "image": "https://www.infobae.com/resizer/v2/S7COU6QEKVHBHNUDY7QLWYBJEA.JPG?auth=72f0aaea46b338390a66b7c52f12dcb86f596edca30b81790af83912651bef24&smart=true&width=350&height=197&quality=85"
+      "title": "Refinadores retan a firmas comercializadoras por mayor cuota de petróleo venezolano",
+      "link": "https://www.infobae.com/venezuela/2026/07/21/refinadores-retan-a-firmas-comercializadoras-por-mayor-cuota-de-petroleo-venezolano/",
+      "image": "https://www.infobae.com/resizer/v2/HWA2HUD7N5A4VOCQODS434RHIA.JPG?auth=8c45853e8ffc06dd8cc678e4fa6eb4702a5aafb8ed440e2bc6b6ed0d976f8242&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno nacional lamenta el trágico naufragio de un ferry en Guyana",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-lamenta-el-tragico-naufragio-de-un-ferry-en-guyana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_753556965_18581049820070571_7129156794778481152_n-74a5a0.jpg"
+      "title": "Donald Trump destaca que la ayuda de EE.UU. ha sido primordial para Venezuela tras el doble terremoto",
+      "link": "https://noticiasvenevision.com/noticias/politica/donald-trump-destaca-que-la-ayuda-de-eeuu-ha-sido-primordial-para-venezuela-tras-el-doble-terremoto",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5860824037989224040_w-25b714.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-21T22:56:50.562Z"
+  "lastUpdate": "2026-07-21T23:57:18.992Z"
 };
