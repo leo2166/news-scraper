@@ -2,11 +2,11 @@ window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
       "usd": "737,23",
-      "eur": "840,71",
-      "fechaValor": "Martes, 21 Julio 2026"
+      "eur": "840,86",
+      "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "890,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Conductor armado amenaza a vigilante del CC Gran Bazar tras llamado de atención",
-      "link": "https://noticialdia.com/al-dia/conductor-armado-amenaza-a-vigilante-del-cc-gran-bazar-tras-llamado-de-atencion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-10.webp?x33727"
+      "title": "Un motorizado herido dejó accidente en 5 de Julio la tarde de este Mar-21",
+      "link": "https://noticialdia.com/principal/un-motorizado-herido-dejo-accidente-en-5-de-julio-la-tarde-de-este-mar-21/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/50e447e2-3cfa-4503-b6a2-fa9f092a3953-convertido-a-1024x720-1.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Amenazas de los hutíes ya impactan el tráfico del mar Rojo",
-      "link": "https://cnnespanol.cnn.com/2026/07/21/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-129380269-20260721132434581.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Ortega dice que no habrá más elecciones en Nicaragua, pero enfrenta desafíos",
+      "link": "https://cnnespanol.cnn.com/2026/07/21/latinoamerica/nicaragua-ortega-murillo-presion-eeuu-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2193332678.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FRANCESA MAUREL & PROM HA ENVIADO 500.000 BARRILES DE CRUDO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/07/francesa-maurel-prom-ha-enviado-500-000-barriles-de-crudo-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/petroleo-11ago2021.jpg"
+      "title": "PROPIETARIOS DE EDIFICIOS COLAPSADOS CONSERVAN SUS DERECHOS SOBRE EL TERRENO, ACLARÓ CHACAO",
+      "link": "https://noticierodigital.com/2026/07/propietarios-de-edificios-colapsados-conservan-sus-derechos-sobre-el-terreno-aclaro-chacao/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/chacao_edificiosterremotos-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "FMI aprueba otros 690 millones de dólares para Ucrania",
-      "link": "https://diarioversionfinal.com/mundo/fmi-aprueba-otros-690-millones-de-dolares-para-ucrania/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/06/FMI-750x430.jpg"
+      "title": "Trump advierte que actuará contra los hutíes si bloquean puertos de Arabia Saudita",
+      "link": "https://diarioversionfinal.com/mundo/trump-advierte-que-actuara-contra-los-huties-si-bloquean-puertos-de-arabia-saudita/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-21T19:21:57.244Z"
+  "lastUpdate": "2026-07-21T21:09:10.234Z"
 };
