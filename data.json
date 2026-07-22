@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "913,30"
+      "usdt": "913,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Un motorizado herido dejó accidente en 5 de Julio la tarde de este Mar-21",
-      "link": "https://noticialdia.com/al-dia/un-motorizado-herido-dejo-accidente-en-5-de-julio-la-tarde-de-este-mar-21/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/50e447e2-3cfa-4503-b6a2-fa9f092a3953-convertido-a-1024x720-1.webp?x33727"
+      "title": "Aumenta a 5 mil 346 la cifra de fallecidos tras el doble terremoto y disminuye la cantidad de refugiados en campamentos",
+      "link": "https://noticialdia.com/al-dia/aumenta-a-5-mil-346-la-cifra-de-fallecidos-tras-el-doble-terremoto-y-disminuye-la-cantidad-de-refugiados-en-campamentos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Campamentos-transitorios-Principal-e1784687702380.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Ortega dice que no habrá más elecciones en Nicaragua, pero enfrenta desafíos",
-      "link": "https://cnnespanol.cnn.com/2026/07/21/latinoamerica/nicaragua-ortega-murillo-presion-eeuu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2193332678.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Plantean que el juicio en EE.UU. contra Maduro se inicie en junio de 2027",
+      "link": "https://cnnespanol.cnn.com/2026/07/21/venezuela/eeuu-propone-fecha-inicio-juicio-maduro-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york-20260423224613291.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Donald Trump destaca que la ayuda de EE.UU. ha sido primordial para Venezuela tras el doble terremoto",
-      "link": "https://noticiasvenevision.com/noticias/politica/donald-trump-destaca-que-la-ayuda-de-eeuu-ha-sido-primordial-para-venezuela-tras-el-doble-terremoto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5860824037989224040_w-25b714.jpg"
+      "title": "Autoridades descartan alerta epidemiológica en Barinas tras deceso de dos médicos",
+      "link": "https://noticiasvenevision.com/noticias/politica/autoridades-descartan-alerta-epidemiologica-en-barinas-tras-deceso-de-dos-medicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5979749315888483888_y-0ccf45.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AIR EUROPA SEGUIRÁ VOLANDO A VALENCIA POR EL CIERRE DE MAIQUETÍA",
-      "link": "https://noticierodigital.com/2026/07/air-europa-seguira-volando-a-valencia-por-el-cierre-de-maiquetia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/aireuropa.jpg"
+      "title": "FISCALÍA DE EE. UU. PROPUSO QUE EL JUICIO CONTRA MADURO COMIENCE EN JUNIO DE 2027",
+      "link": "https://noticierodigital.com/2026/07/fiscalia-de-ee-uu-propuso-que-el-juicio-contra-maduro-comience-en-junio-de-2027/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/nicolas-maduro-corte-nueva-york-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-21T23:57:18.992Z"
+  "lastUpdate": "2026-07-22T03:15:29.676Z"
 }
