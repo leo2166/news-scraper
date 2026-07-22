@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "912,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Refinadores retan a firmas comercializadoras por mayor cuota de petróleo venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/07/21/refinadores-retan-a-firmas-comercializadoras-por-mayor-cuota-de-petroleo-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/HWA2HUD7N5A4VOCQODS434RHIA.JPG?auth=8c45853e8ffc06dd8cc678e4fa6eb4702a5aafb8ed440e2bc6b6ed0d976f8242&smart=true&width=350&height=197&quality=85"
+      "title": "El ex dictador Nicolás Maduro vuelve a comparecer ante la Justicia de Nueva York en una audiencia por cargos de narcoterrorismo",
+      "link": "https://www.infobae.com/estados-unidos/2026/07/22/el-ex-dictador-nicolas-maduro-vuelve-a-comparecer-ante-la-justicia-de-nueva-york-en-una-audiencia-por-cargos-de-narcoterrorismo/",
+      "image": "https://www.infobae.com/resizer/v2/ESVAFYAHYJDEVEN734HJVLTQRU.JPG?auth=71b15d5e90f563074404ddbda2650f1aa1cd96773aedebb0d20dbb1741491e36&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump advierte que actuará contra los hutíes si bloquean puertos de Arabia Saudita",
-      "link": "https://diarioversionfinal.com/mundo/trump-advierte-que-actuara-contra-los-huties-si-bloquean-puertos-de-arabia-saudita/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
+      "title": "Incendios en España duplican hectáreas quemadas: Ya van más de 120 mil",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/incendios-en-espana-duplican-hectareas-quemadas-ya-van-mas-de-120-mil/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/incendio-brieva-segovia-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-22T06:27:19.276Z"
+  "lastUpdate": "2026-07-22T09:25:29.837Z"
 };
