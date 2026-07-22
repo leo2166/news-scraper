@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "913,00"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-22T03:15:29.676Z"
+  "lastUpdate": "2026-07-22T06:27:19.276Z"
 };
