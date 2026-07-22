@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 23 Julio 2026"
     },
     "binance": {
-      "usdt": "909,00"
+      "usdt": "897,35"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Narcoterrorismo, tráfico de cocaína y armas de guerra: los cargos que podrían condenar a Nicolás Maduro a cadena perpetua",
-      "link": "https://www.infobae.com/venezuela/2026/07/22/narcoterrorismo-trafico-de-cocaina-y-armas-de-guerra-los-cargos-que-podrian-condenar-a-nicolas-maduro-a-cadena-perpetua/",
-      "image": "https://www.infobae.com/resizer/v2/VD4FZEVZJBEP3JSJ76WCGMDW7A.jpeg?auth=a598da41874606dfe974131a5bdd6a7642bece5a5c9c12758ec4c78bfd6cb61d&smart=true&width=350&height=197&quality=85"
+      "title": "La OPS pidió que la reconstrucción sanitaria en Venezuela corrija fallas previas a los sismos",
+      "link": "https://www.infobae.com/venezuela/2026/07/22/la-ops-pidio-que-la-reconstruccion-sanitaria-en-venezuela-corrija-fallas-previas-a-los-sismos/",
+      "image": "https://www.infobae.com/resizer/v2/NUT7FC2POFCILOGDVYFJP5PDUQ.JPG?auth=b09d049e8a1dfc7d586979b931301905b566de63d03e2a0256451f88cc180047&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "Falso abogado ejercía impunemente en Barquisimeto desde 2013: Fue capturado en flagrancia a las puertas del Palacio de Justicia",
       "link": "https://noticialdia.com/al-dia/falso-abogado-ejercia-impunemente-en-barquisimeto-desde-2013-fue-capturado-en-flagrancia-a-las-puertas-del-palacio-de-justicia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/image-689-e1784753393239.webp?x95844"
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/image-689-e1784753439285.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«EE .UU. NO BUSCA ADELANTAR ELECCIONES EN VENEZUELA», DIJO ANDRÉS CALECA",
-      "link": "https://noticierodigital.com/2026/07/ee-uu-no-busca-adelantar-elecciones-en-venezuela-dijo-andres-caleca/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/12/andrescaleca-acuerdosbarbados.jpg"
+      "title": "MISIÓN DEL BID LLEGÓ A CARACAS PARA EXPLORAR FINANCIAMIENTO CON EL GOBIERNO",
+      "link": "https://noticierodigital.com/2026/07/mision-del-bid-llego-a-caracas-para-explorar-financiamiento-con-el-gobierno/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/bid_banco_interamericano_desarrollo_26mar2020.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolano Abel Avellán entra al ranking de los inmigrantes más ricos de EE. UU. de Forbes",
-      "link": "https://diarioversionfinal.com/mundo/venezolano-abel-avellan-entra-al-ranking-de-los-inmigrantes-mas-ricos-de-ee-uu-de-forbes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Abel-Avellan-figura-en-el-puesto-41-de-Forbes-Archivo-750x430.jpg"
+      "title": "Médicos venezolanos refuerzan desde EE. UU. el envío de ayuda humanitaria a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/medicos-venezolanos-refuerzan-desde-ee-uu-el-envio-de-ayuda-humanitaria-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Ayuda-Vama-22-07-2026-750x422.png"
     }
   ],
-  "lastUpdate": "2026-07-22T21:07:13.731Z"
+  "lastUpdate": "2026-07-22T23:03:28.108Z"
 };
