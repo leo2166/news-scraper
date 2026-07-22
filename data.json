@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "899,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@
     },
     {
       "source": "Infobae",
-      "title": "El ex dictador Nicolás Maduro vuelve a comparecer ante la Justicia de Nueva York en una audiencia por cargos de narcoterrorismo",
-      "link": "https://www.infobae.com/estados-unidos/2026/07/22/el-ex-dictador-nicolas-maduro-vuelve-a-comparecer-ante-la-justicia-de-nueva-york-en-una-audiencia-por-cargos-de-narcoterrorismo/",
-      "image": "https://www.infobae.com/resizer/v2/ESVAFYAHYJDEVEN734HJVLTQRU.JPG?auth=71b15d5e90f563074404ddbda2650f1aa1cd96773aedebb0d20dbb1741491e36&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela convocó a la realización de pruebas de ADN para identificar a las víctimas del terremoto en La Guaira",
+      "link": "https://www.infobae.com/venezuela/2026/07/22/venezuela-convoco-a-la-realizacion-de-pruebas-de-adn-para-identificar-a-las-victimas-del-terremoto-en-la-guaira/",
+      "image": "https://www.infobae.com/resizer/v2/ZYWDEEINNBGIFFIOV5HTNGKCFM.JPG?auth=3dc4531075a1aa635304ab47d711f2b922dc91c2a353d541c81fb3bfc02cfd83&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Aumenta a 5 mil 346 la cifra de fallecidos tras el doble terremoto y disminuye la cantidad de refugiados en campamentos",
-      "link": "https://noticialdia.com/al-dia/aumenta-a-5-mil-346-la-cifra-de-fallecidos-tras-el-doble-terremoto-y-disminuye-la-cantidad-de-refugiados-en-campamentos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Campamentos-transitorios-Principal-e1784687702380.webp?x33727"
+      "title": "¡Alerta en Trinidad y Tobago! ocho venezolanos se fugan tras provocar un incendio en centro de detención",
+      "link": "https://noticialdia.com/sucesos/alerta-en-trinidad-y-tobago-ocho-venezolanos-se-fugan-tras-provocar-un-incendio-en-centro-de-detencion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-11.webp?x33727"
     },
     {
       "source": "CNN en Español",
-      "title": "Rubio acusa a Irán de no tomarse en serio las conversaciones",
-      "link": "https://cnnespanol.cnn.com/2026/07/22/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-20260722105422009.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump aprueba acuerdo con Arabia Saudita sobre energía nuclear",
+      "link": "https://cnnespanol.cnn.com/2026/07/22/eeuu/trump-arabia-saudita-acuerdo-combustible-nuclear-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247321300-20260722120814812.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "FISCALÍA DE EE. UU. PROPUSO QUE EL JUICIO CONTRA MADURO COMIENCE EN JUNIO DE 2027",
-      "link": "https://noticierodigital.com/2026/07/fiscalia-de-ee-uu-propuso-que-el-juicio-contra-maduro-comience-en-junio-de-2027/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/nicolas-maduro-corte-nueva-york-627x376.jpg"
+      "title": "TRUMP HABRÍA LLEGADO A UN ACUERDO NUCLEAR CON ARABIA SAUDITA",
+      "link": "https://noticierodigital.com/2026/07/trump-habria-llegado-a-un-acuerdo-nuclear-con-arabia-saudita/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Trump_Iran_-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delatado: Zapatero avisó a los dueños de Plus Ultra que les aprobarían el rescate días antes de su confirmación en Consejo de Ministros",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/delatado-zapatero-aviso-a-los-duenos-de-plus-ultra-que-les-aprobarian-el-rescate-dias-antes-de-su-aprobacion-en-consejo-de-ministros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/pyB2OCAz-image-750x430.jpg"
+      "title": "La ONU exige a Ortega garantizar elecciones libres y el derecho de todos a participar",
+      "link": "https://diarioversionfinal.com/mundo/la-onu-exige-a-ortega-garantizar-elecciones-libres-y-el-derecho-de-todos-a-participar/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
     }
   ],
-  "lastUpdate": "2026-07-22T11:46:46.021Z"
+  "lastUpdate": "2026-07-22T13:53:15.236Z"
 }
