@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 22 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "911,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,27 +21,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La Justicia de EEUU fijó para el 1 de junio de 2027 el juicio contra Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/07/22/la-justicia-de-eeuu-fijo-para-el-1-de-junio-de-2027-el-juicio-contra-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/X3NE7BVZFFBXDPQ5VFEKS3DWUM.JPG?auth=9b9004afcf19706a89d741a38652c5ca966036bf38f1c7e690ca0cc03e7975b6&smart=true&width=350&height=197&quality=85"
+      "title": "Narcoterrorismo, tráfico de cocaína y armas de guerra: los cargos que podrían condenar a Nicolás Maduro a cadena perpetua",
+      "link": "https://www.infobae.com/venezuela/2026/07/22/narcoterrorismo-trafico-de-cocaina-y-armas-de-guerra-los-cargos-que-podrian-condenar-a-nicolas-maduro-a-cadena-perpetua/",
+      "image": "https://www.infobae.com/resizer/v2/VD4FZEVZJBEP3JSJ76WCGMDW7A.jpeg?auth=a598da41874606dfe974131a5bdd6a7642bece5a5c9c12758ec4c78bfd6cb61d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Mujer hirió con un chopo a su madre de 75 años por accidente",
-      "link": "https://noticialdia.com/viral/mujer-hirio-con-un-chopo-a-su-madre-de-75-anos-por-accidente/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-2026-07-22T130729.190.webp?x95844"
+      "title": "Sujeto es detenido tras presunto robo en el barrio Integración Comunal",
+      "link": "https://noticialdia.com/sucesos/sujeto-es-detenido-tras-presunto-robo-en-el-barrio-integracion-comunal/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-16.webp?x95844"
     },
     {
       "source": "CNN en Español",
       "title": "Dentro de la ofensiva mortal del Gobierno de Trump en Minnesota",
       "link": "https://cnnespanol.cnn.com/2026/07/22/eeuu/exclusivo-minnesota-tiroteos-inmigracion-investigacion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26197025693661-20260722022835267.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-26t174741z-1778268997-rc2hcka9wh8c-rtrmadp-3-usa-venezuela-maduro-new-york.JPG?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez agradeció a la delegación de Israel por la asistencia humanitaria tras el doble sismo",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-agradecio-a-la-delegacion-de-israel-por-la-asistencia-humanitaria-tras-el-doble-sismo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/07wo_l3001_p-scaled-51f0a9.jpg"
+      "title": "Juez Alvin Hellerstein ordenó que juicio contra Nicolás Maduro y Cilia Flores inicie el  1° de junio de 2027",
+      "link": "https://noticiasvenevision.com/noticias/politica/juez-alvin-hellerstein-ordeno-que-juicio-contra-nicolas-maduro-y-cilia-flores-inicie-el-10-de-junio-de-2027",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_i1civgi1civgi1ci-5d953d.png"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zarpa desde Puerto Rico envío marítimo con ayuda para afectados por terremotos en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/zarpa-desde-puerto-rico-envio-maritimo-con-ayuda-para-afectados-por-terremotos-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "title": "Francia aprueba ley que prohibirá el acceso a redes sociales a menores de 15 años",
+      "link": "https://diarioversionfinal.com/mundo/francia-aprueba-ley-que-prohibira-el-acceso-a-redes-sociales-a-menores-de-15-anos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Francia-aprueba-ley-que-prohibira-el-acceso-a-redes-sociales-a-menores-de-15-anos-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-22T17:18:59.520Z"
+  "lastUpdate": "2026-07-22T19:19:04.924Z"
 };
