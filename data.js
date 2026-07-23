@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 23 Julio 2026"
     },
     "binance": {
-      "usdt": "895,69"
+      "usdt": "895,59"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Un mes después del doble terremoto en Venezuela, solo el 39% de la respuesta humanitaria cuenta con financiación",
-      "link": "https://www.infobae.com/venezuela/2026/07/23/un-mes-despues-del-doble-terremoto-en-venezuela-solo-el-39-de-la-respuesta-humanitaria-cuenta-con-financiacion/",
-      "image": "https://www.infobae.com/resizer/v2/4DHJGCVGRBFTVCGSLIDWQ3ZG5Y.JPG?auth=53dd4213e5726000397f3f17eff2815e2ff6a0aecd0af0aded741e5e883ccdcb&smart=true&width=350&height=197&quality=85"
+      "title": "Vecinos de La Guaira denuncian falta de apoyo oficial en rescates tras los sismos",
+      "link": "https://www.infobae.com/venezuela/2026/07/23/vecinos-de-la-guaira-denuncian-falta-de-apoyo-oficial-en-rescates-tras-los-sismos/",
+      "image": "https://www.infobae.com/resizer/v2/HTZG53GCERHKDBFCTL5762D4FA.jpg?auth=565cc23cc994c702b95dc2598c7f4a9c726db556bcd0f79bc43a84bb0fff5a79&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Polimaracaibo atendió denuncia por instalación no autorizada de un portón en Monte Claro",
-      "link": "https://noticialdia.com/al-dia/polimaracaibo-atendio-denuncia-por-instalacion-no-autorizada-de-un-porton-en-monte-claro/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-24-4.webp?x95844"
+      "title": "Convocan a familiares \"que aún no han encontrado a sus niños, niñas y adolescentes\": Hay 38 cuerpos que no han sido reclamados en La Guaira",
+      "link": "https://noticialdia.com/al-dia/convocan-a-familiares-que-aun-no-han-encontrado-a-sus-ninos-ninas-y-adolescentes-hay-38-cuerpos-que-no-han-sido-reclamados-en-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Foto-pagina-5-6-768x432-1-e1784832061777.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Fallecidos por temporal en Chile aumentan a 13 y hay casi 3.500 damnificados",
-      "link": "https://laverdad.com/fallecidos-por-temporal-en-chile-aumentan-a-13-y-hay-casi-3-500-damnificados/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Chile-temporal.jpg"
+      "title": "Condenan a venezolano en EE. UU. por falsificar 2.500 trámites migratorios",
+      "link": "https://laverdad.com/condenan-a-venezolano-en-ee-uu-por-falsificar-2-500-tramites-migratorios/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Condenan-a-venezolano-en-EE.-UU.-por-falsificar-2.500-tramites-migratorios.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Familia de venezolano fallecido bajo custodia del ICE solicita apoyo para repatriar su cuerpo",
-      "link": "https://diarioversionfinal.com/mundo/familia-de-venezolano-fallecido-bajo-custodia-del-ice-solicita-apoyo-para-repatriar-su-cuerpo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
+      "title": "Subida del petróleo podría encarecer hasta 44 % los medicamentos contra el VIH, alerta Unitaid",
+      "link": "https://diarioversionfinal.com/mundo/subida-del-petroleo-podria-encarecer-hasta-44-los-medicamentos-contra-el-vih-alerta-unitaid/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/07/VIH-700x463-1-700x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-23T17:40:24.316Z"
+  "lastUpdate": "2026-07-23T19:17:22.038Z"
 };
