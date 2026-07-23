@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 23 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "895,69"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Polimaracaibo detiene a una mujer por agredir a su madre de 80 años en Manuel Dagnino",
-      "link": "https://noticialdia.com/al-dia/polimaracaibo-detiene-a-una-mujer-por-agredir-a-su-madre-de-80-anos-en-manuel-dagnino/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-19-6.webp?x95844"
+      "title": "Polimaracaibo atendió denuncia por instalación no autorizada de un portón en Monte Claro",
+      "link": "https://noticialdia.com/al-dia/polimaracaibo-atendio-denuncia-por-instalacion-no-autorizada-de-un-porton-en-monte-claro/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-24-4.webp?x95844"
     },
     {
       "source": "CNN en Español",
       "title": "Trump revive tribunal secreto para deportar a presuntos \"terroristas extranjeros\"",
       "link": "https://cnnespanol.cnn.com/2026/07/23/eeuu/trump-deportacion-terroristas-extranjeros-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285361563.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2284662624-20260723053811864.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "REPSOL SE PREPARA PARA RECIBIR CUATRO BARCOS CON CRUDO DE VENEZUELA HASTA FINAL DE AÑO",
-      "link": "https://noticierodigital.com/2026/07/repsol-se-prepara-para-recibir-cuatro-barcos-con-crudo-de-venezuela-hasta-final-de-ano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/05/repsol.jpg"
+      "title": "UNT PLANTEA «RELANZAR FUERZAS QUE DERROTARON AL OFICIALISMO» EN 2024",
+      "link": "https://noticierodigital.com/2026/07/unt-plantea-relanzar-fuerzas-que-derrotaron-al-oficialismo-en-2024/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/1784823251359-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Banco Mundial estima daños por terremotos en Venezuela en unos 19 mil 600 millones de dólares",
-      "link": "https://diarioversionfinal.com/mundo/banco-mundial-estima-danos-por-terremotos-en-venezuela-en-unos-19-mil-600-millones-de-dolares/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/fdfb7dbaabb198f948fc59ec2845464634a2763ew-750x430.webp"
+      "title": "Familia de venezolano fallecido bajo custodia del ICE solicita apoyo para repatriar su cuerpo",
+      "link": "https://diarioversionfinal.com/mundo/familia-de-venezolano-fallecido-bajo-custodia-del-ice-solicita-apoyo-para-repatriar-su-cuerpo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
     }
   ],
-  "lastUpdate": "2026-07-23T15:59:04.423Z"
+  "lastUpdate": "2026-07-23T17:40:24.316Z"
 };
