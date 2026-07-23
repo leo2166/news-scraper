@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 23 Julio 2026"
     },
     "binance": {
-      "usdt": "899,66"
+      "usdt": "896,66"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Así fueron los 13 minutos de Maduro en la corte de Nueva York",
-      "link": "https://cnnespanol.cnn.com/2026/07/22/venezuela/audiencia-nicolas-maduro-juicio-2027-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283828891.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Conflicto en expansión: hutíes afirman que atacaron buques en el mar Rojo",
+      "link": "https://cnnespanol.cnn.com/2026/07/23/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-5-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260723102242818.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Yemen teme un embargo marítimo que reavive la guerra",
-      "link": "https://diarioversionfinal.com/mundo/yemen-teme-un-embargo-maritimo-que-reavive-la-guerra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/xpoAzzRw-image-750x430.jpg"
+      "title": "La UE aprueba nuevas sanciones contra la Rusia de Putin: Se prohíbe el transporte marítimo de gas ruso",
+      "link": "https://diarioversionfinal.com/mundo/la-ue-aprueba-nuevas-sanciones-contra-la-rusia-de-putin-se-prohibe-el-transporte-maritimo-de-gas-ruso/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-23T08:29:48.253Z"
+  "lastUpdate": "2026-07-23T11:09:26.705Z"
 };
