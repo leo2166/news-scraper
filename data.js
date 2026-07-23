@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 23 Julio 2026"
     },
     "binance": {
-      "usdt": "899,69"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Alex Saab no asistirá a su próxima audiencia en Miami y se declarará no culpable por lavado de dinero",
-      "link": "https://www.infobae.com/estados-unidos/2026/07/23/alex-saab-no-asistira-a-su-proxima-audiencia-en-miami-y-se-declarara-no-culpable-por-lavado-de-dinero/",
-      "image": "https://www.infobae.com/resizer/v2/MCRO7F3Y4VCSZKNRESUEBDYD2A.png?auth=9e77aed923f58a3a139e640f0fb3c2ae196a1200bf0ef6caecfcd5b1e6dbe183&smart=true&width=350&height=197&quality=85"
+      "title": "A casi un mes del doble terremoto en Venezuela, el balance oficial ascendió a 5.398 muertos",
+      "link": "https://www.infobae.com/venezuela/2026/07/23/a-casi-un-mes-del-doble-terremoto-en-venezuela-el-balance-oficial-ascendio-a-5398-muertos/",
+      "image": "https://www.infobae.com/resizer/v2/SWGYA2JQG5CFRLMF3EYWCVCF3U.JPG?auth=c8a3f9b62f93fb5647e55724f87f6a324ee1438f1187c0792fe441e819dd5258&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Francia, Italia y España son arrasados por incendios forestales",
-      "link": "https://diarioversionfinal.com/mundo/francia-italia-y-espana-son-arrasados-por-incendios-forestales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Incendios-en-Europa-22-07-2026-750x430.jpg"
+      "title": "Parlamento de Nicaragua avanza para eliminar elecciones por orden de Ortega",
+      "link": "https://diarioversionfinal.com/mundo/parlamento-de-nicaragua-avanza-para-eliminar-elecciones-por-orden-de-ortega/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-15-at-21.12.05.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-23T02:43:58.663Z"
+  "lastUpdate": "2026-07-23T05:53:48.200Z"
 };
