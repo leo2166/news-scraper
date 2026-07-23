@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 23 Julio 2026"
     },
     "binance": {
-      "usdt": "895,59"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Banco Mundial: Daños de infraestructura por terremotos en Venezuela podrían costar casi US$ 20.000 millones",
-      "link": "https://www.bancaynegocios.com/banco-mundial-danos-de-infraestructura-por-terremotos-en-venezuela-podrian-costar-casi-us-20000-millones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/NuevaDivisasDolares.jpg"
+      "title": "Ligero crecimiento: zafra azucarera cerrará con producción de 4.600.000 toneladas",
+      "link": "https://www.bancaynegocios.com/ligero-crecimiento-zafra-azucarera-cerrara-con-produccion-de-4-600-000-toneladas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/cana-de-azucar.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Convocan a familiares \"que aún no han encontrado a sus niños, niñas y adolescentes\": Hay 38 cuerpos que no han sido reclamados en La Guaira",
-      "link": "https://noticialdia.com/al-dia/convocan-a-familiares-que-aun-no-han-encontrado-a-sus-ninos-ninas-y-adolescentes-hay-38-cuerpos-que-no-han-sido-reclamados-en-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Foto-pagina-5-6-768x432-1-e1784832061777.webp?x95844"
+      "title": "Detenidos los homicidas de la adolescente Yorgelys Silva en Carabobo: Fue violada y después estrangulada con cordones",
+      "link": "https://noticialdia.com/sucesos/detenidos-los-homicidas-de-la-adolescente-yorgelys-silva-en-carabobo-fue-violada-y-despues-estrangulada-con-cordones/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/yogelis-convertido-a-1024x720-1.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Marco Rubio: \"La reconciliación en Venezuela debe incluir a todos los sectores de la sociedad\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/marco-rubio-la-reconciliacion-en-venezuela-debe-incluir-a-todos-los-sectores-de-la-sociedad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-8519c6.jpg"
+      "title": "Dinorah Figuera respalda postura de Marco Rubio sobre la transición en Venezuela: \"Reconciliación exige amplitud y participación\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-respalda-postura-de-marco-rubio-sobre-la-transicion-en-venezuela-reconciliacion-exige-amplitud-y-participacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/749258427_1478889117600315_4593152881449679682_n-e38e5d.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNT PLANTEA «RELANZAR FUERZAS QUE DERROTARON AL OFICIALISMO» EN 2024",
-      "link": "https://noticierodigital.com/2026/07/unt-plantea-relanzar-fuerzas-que-derrotaron-al-oficialismo-en-2024/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/1784823251359-627x376.png"
+      "title": "INGRESOS DE PDVSA EN $11.200 MILLONES AUMENTARON 52% EN LOS PRIMEROS SEIS MESES DEL AÑO",
+      "link": "https://noticierodigital.com/2026/07/ingresos-de-pdvsa-en-11-200-millones-aumentaron-52-en-los-primeros-seis-meses-del-ano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/petroleo-caracas-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a venezolano en EE. UU. por falsificar 2.500 trámites migratorios",
-      "link": "https://laverdad.com/condenan-a-venezolano-en-ee-uu-por-falsificar-2-500-tramites-migratorios/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Condenan-a-venezolano-en-EE.-UU.-por-falsificar-2.500-tramites-migratorios.jpg"
+      "title": "Venezolana exige justicia tras la muerte de su hermano bajo custodia de ICE",
+      "link": "https://laverdad.com/venezolana-exige-justicia-tras-la-muerte-de-su-hermano-bajo-custodia-de-ice/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/La-hermana-del-venezolano-que-murio-bajo-custodia-de-ICE-pide-una-investigacion-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Subida del petróleo podría encarecer hasta 44 % los medicamentos contra el VIH, alerta Unitaid",
-      "link": "https://diarioversionfinal.com/mundo/subida-del-petroleo-podria-encarecer-hasta-44-los-medicamentos-contra-el-vih-alerta-unitaid/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/07/VIH-700x463-1-700x430.jpg"
+      "title": "Justicia chilena rebaja medida cautelar a exsubsecretario Monsalve en caso por presunta violación",
+      "link": "https://diarioversionfinal.com/mundo/justicia-chilena-rebaja-medida-cautelar-a-exsubsecretario-monsalve-en-caso-por-presunta-violacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-7-640x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-23T19:17:22.038Z"
+  "lastUpdate": "2026-07-23T21:04:01.032Z"
 };
