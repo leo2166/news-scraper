@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Una ONG venezolana alertó sobre la muerte de dos presos en una cárcel y elevó a 36 los fallecidos bajo custodia del Estado en lo que va del año",
-      "link": "https://www.infobae.com/venezuela/2026/07/24/una-ong-venezolana-alerto-sobre-la-muerte-de-dos-presos-en-una-carcel-y-elevo-a-36-los-fallecidos-bajo-custodia-del-estado-en-lo-que-va-del-ano/",
-      "image": "https://www.infobae.com/resizer/v2/CCWL5VP6B5AVNAZ3IRXES24JFU.jpg?auth=495267ec7df628a8c4a888fec769ecef410d415876abc14bc47a24b3c61810f7&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez replicó la fórmula de Maduro y dispara la cúpula militar, aunque privilegia a la Guardia Nacional",
+      "link": "https://www.infobae.com/venezuela/2026/07/24/delcy-rodriguez-replico-la-formula-de-maduro-y-dispara-la-cupula-militar-aunque-privilegia-a-la-guardia-nacional/",
+      "image": "https://www.infobae.com/resizer/v2/IFTALZ5DMZAZRIDDOECCHKIZ2Y.jpg?auth=9e61bc7e9cc6b89f2838c564f724efa40227399f11653d9520a0a3f65b7d78ba&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Las alternativas del mercado petrolero se están agotando",
-      "link": "https://cnnespanol.cnn.com/2026/07/24/economia/peligrosa-fase-guerra-mercado-petrolero-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286551721-20260724055432944.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cómo modificó Trump el acuerdo nuclear con Arabia Saudita en menos de 24 horas",
+      "link": "https://cnnespanol.cnn.com/2026/07/24/eeuu/trump-acuerdo-arabia-saudita-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-arabia.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "España pide ayuda europea para apagar los incendios que ya suman 11 mil 500 evacuaciones",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/espana-pide-ayuda-europea-para-apagar-los-incendios-que-ya-suman-11-mil-500-evacuaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/F1n2zgyS-image-750x430.jpg"
+      "title": "Una ministra del Gobierno de Pedro Sánchez dice que la filtración del rescate por 53 millones de euros a Plus Ultra debió evitarse",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/una-ministra-del-gobierno-de-pedro-sanchez-dice-que-la-filtracion-del-rescate-por-53-millones-de-euros-a-plus-ultra-debio-evitarse/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/bam6FDux-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-24T10:16:39.057Z"
+  "lastUpdate": "2026-07-24T12:18:13.202Z"
 };
