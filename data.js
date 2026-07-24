@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "896,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,38 +15,38 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Entre 12% y 15% de la población venezolana utiliza criptomonedas como medios de pagos",
-      "link": "https://www.bancaynegocios.com/entre-12-y-15-de-la-poblacion-venezolana-utiliza-criptomonedas-como-medios-de-pagos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/CRIPTOACTIVOS-IA.JPG.png"
+      "title": "#Datos: Nuevas estimaciones sobre el costo de los terremotos apuntan a más de US$12.000 millones",
+      "link": "https://www.bancaynegocios.com/datos-nuevas-estimaciones-sobre-el-costo-de-los-terremotos-apuntan-a-mas-de-us12-000-millones/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/TerremotosEdificiosLaGuairaEscombrosVenezuela1.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez replicó la fórmula de Maduro y dispara la cúpula militar, aunque privilegia a la Guardia Nacional",
-      "link": "https://www.infobae.com/venezuela/2026/07/24/delcy-rodriguez-replico-la-formula-de-maduro-y-dispara-la-cupula-militar-aunque-privilegia-a-la-guardia-nacional/",
-      "image": "https://www.infobae.com/resizer/v2/IFTALZ5DMZAZRIDDOECCHKIZ2Y.jpg?auth=9e61bc7e9cc6b89f2838c564f724efa40227399f11653d9520a0a3f65b7d78ba&smart=true&width=350&height=197&quality=85"
+      "title": "Capriles Radonski y Rosales tienden sus manos a María Corina buscando la reunificación de la oposición venezolana",
+      "link": "https://www.infobae.com/venezuela/2026/07/24/capriles-radonski-y-rosales-tienden-sus-manos-a-maria-corina-buscando-la-reunificacion-de-la-oposicion-venezolana/",
+      "image": "https://www.infobae.com/resizer/v2/CUUJ54TZARBIHHTXFR3TYSCWA4.jpeg?auth=060cc28c57e46a4e9d9aa093c846f3861fcca280a4aa23636cc109fdca9d9cc2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El crimen de María Camila Potosí conmociona a Colombia: Le extrajeron a su bebé antes de morir",
-      "link": "https://noticialdia.com/al-dia/el-crimen-de-maria-camila-potosi-conmociona-a-colombia-le-extrajeron-a-su-bebe-antes-de-morir/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-1-7.webp?x95844"
+      "title": "Capturaron al ladrón de cables de Cecilio Acosta",
+      "link": "https://noticialdia.com/al-dia/capturaron-al-ladron-de-cables-de-cecilio-acosta/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/ladron-1.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo modificó Trump el acuerdo nuclear con Arabia Saudita en menos de 24 horas",
-      "link": "https://cnnespanol.cnn.com/2026/07/24/eeuu/trump-acuerdo-arabia-saudita-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-arabia.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Irán desmintió haber rechazado un alto el fuego propuesto por EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/07/24/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-estrecho-de-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iranls24julio.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Voluntad Popular agradece a EE. UU. su respaldo a la transición democrática en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/voluntad-popular-agradece-a-ee-uu-su-respaldo-a-la-transicion-democratica-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/voluntad-popular-54562-5b4f01.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez recibe a directivos del BID para acordar una \"hoja de ruta multilateral\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-recibe-a-directivos-del-bid-para-acordar-una-hoja-de-ruta-multilateral",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/portada-delcybid.jpg-0da9b0.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HÉCTOR URGELLES PROPUSO UN ACUERDO NACIONAL PARA LA RECUPERACIÓN DE LA GUAIRA",
-      "link": "https://noticierodigital.com/2026/07/hector-urgelles-propuso-un-acuerdo-nacional-para-la-recuperacion-de-la-guaira/",
+      "title": "EE. UU. ESTUDIA DESBLOQUEAR ACTIVOS CONGELADOS PARA RECONSTRUIR VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/ee-uu-estudia-desbloquear-activos-congelados-para-reconstruir-venezuela/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/07/hector-urgelles-627x376.jpg"
     },
     {
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Netanyahu viajará a Washington para reunirse con Trump en la Casa Blanca",
-      "link": "https://diarioversionfinal.com/mundo/netanyahu-viajara-a-washington-para-reunirse-con-trump-en-la-casa-blanca/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-12-678x430.jpeg"
+      "title": "Trump confirma que Xi Jinping visitará Washington en septiembre para hablar de IA",
+      "link": "https://diarioversionfinal.com/mundo/trump-confirma-que-xi-jinping-visitara-washington-en-septiembre-para-hablar-de-ia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/ALL437KFTZACJP3WUDQ7KR4ONA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-24T16:41:54.336Z"
+  "lastUpdate": "2026-07-24T18:17:22.470Z"
 };
