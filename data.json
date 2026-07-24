@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "896,00"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "Capriles Radonski y Rosales tienden sus manos a María Corina buscando la reunificación de la oposición venezolana",
-      "link": "https://www.infobae.com/venezuela/2026/07/24/capriles-radonski-y-rosales-tienden-sus-manos-a-maria-corina-buscando-la-reunificacion-de-la-oposicion-venezolana/",
-      "image": "https://www.infobae.com/resizer/v2/CUUJ54TZARBIHHTXFR3TYSCWA4.jpeg?auth=060cc28c57e46a4e9d9aa093c846f3861fcca280a4aa23636cc109fdca9d9cc2&smart=true&width=350&height=197&quality=85"
+      "title": "Alex Saab se declaró no culpable en un tribunal federal de Miami",
+      "link": "https://www.infobae.com/estados-unidos/2026/07/24/alex-saab-se-declaro-no-culpable-en-un-tribunal-federal-de-miami/",
+      "image": "https://www.infobae.com/resizer/v2/MCRO7F3Y4VCSZKNRESUEBDYD2A.png?auth=9e77aed923f58a3a139e640f0fb3c2ae196a1200bf0ef6caecfcd5b1e6dbe183&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Capturaron al ladrón de cables de Cecilio Acosta",
-      "link": "https://noticialdia.com/al-dia/capturaron-al-ladron-de-cables-de-cecilio-acosta/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/ladron-1.webp?x95844"
+      "title": "Polimaracaibo sancionó y ordenó cierre temporal de licorería por incumplir ordenanza municipal",
+      "link": "https://noticialdia.com/zulia/polimaracaibo-sanciono-y-ordeno-cierre-temporal-de-licoreria-por-incumplir-ordenanza-municipal/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/plantilla-erne-48.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. ESTUDIA DESBLOQUEAR ACTIVOS CONGELADOS PARA RECONSTRUIR VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/ee-uu-estudia-desbloquear-activos-congelados-para-reconstruir-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/hector-urgelles-627x376.jpg"
+      "title": "BCV Y BANCA NACIONAL ANALIZARON FINANCIAMIENTO PARA FAMILIAS DAMNIFICADAS",
+      "link": "https://noticierodigital.com/2026/07/bcv-y-banca-nacional-analizaron-financiamiento-para-familias-damnificadas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/bcv-banca-nacional-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump confirma que Xi Jinping visitará Washington en septiembre para hablar de IA",
-      "link": "https://diarioversionfinal.com/mundo/trump-confirma-que-xi-jinping-visitara-washington-en-septiembre-para-hablar-de-ia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/ALL437KFTZACJP3WUDQ7KR4ONA-750x430.jpg"
+      "title": "Trump afirma que Venezuela aún no está lista para elecciones, pero reconoce avances políticos",
+      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-venezuela-aun-no-esta-lista-para-elecciones-pero-reconoce-avances-politicos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-24T18:17:22.470Z"
+  "lastUpdate": "2026-07-24T20:19:12.127Z"
 }
