@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump impone nuevos aranceles a decenas de países",
-      "link": "https://cnnespanol.cnn.com/2026/07/23/eeuu/trump-aranceles-aluminio-vehiculos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/aranceles-20260723215306151.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Las alternativas del mercado petrolero se están agotando",
+      "link": "https://cnnespanol.cnn.com/2026/07/24/economia/peligrosa-fase-guerra-mercado-petrolero-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286551721-20260724055432944.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Brasil califica de \"arbitrario e injustificado\" nuevo arancel de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/brasil-califica-de-arbitrario-e-injustificado-nuevo-arancel-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/2024-11-06T122151Z_1_LYNXMPEKA50KB_RTROPTP_3_EEUU-ELECCIONES-BRASIL-750x430.jpg"
+      "title": "España pide ayuda europea para apagar los incendios que ya suman 11 mil 500 evacuaciones",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/espana-pide-ayuda-europea-para-apagar-los-incendios-que-ya-suman-11-mil-500-evacuaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/F1n2zgyS-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-24T07:30:26.863Z"
+  "lastUpdate": "2026-07-24T10:16:39.057Z"
 };
