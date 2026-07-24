@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "900,00"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gobierno y gremios ganaderos se activan para lograr certificación como país libre de fiebre aftosa",
-      "link": "https://www.bancaynegocios.com/gobierno-y-gremios-ganaderos-se-activan-para-lograr-certificacion-como-pais-libre-de-fiebre-aftosa/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/MIN-AGRICULTURA-GREMIOS-FIEBRE-AFTOSA.jpeg"
+      "title": "Entre 12% y 15% de la población venezolana utiliza criptomonedas como medios de pagos",
+      "link": "https://www.bancaynegocios.com/entre-12-y-15-de-la-poblacion-venezolana-utiliza-criptomonedas-como-medios-de-pagos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/CRIPTOACTIVOS-IA.JPG.png"
     },
     {
       "source": "Infobae",
@@ -33,21 +33,21 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El petróleo supera los US$ 100 tras un ataque en el mar Rojo",
-      "link": "https://cnnespanol.cnn.com/2026/07/23/mundo/live-news/guerra-ee-uu-israel-iran-en-vivo-ataques-noticias-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260723102242818.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump impone nuevos aranceles a decenas de países",
+      "link": "https://cnnespanol.cnn.com/2026/07/23/eeuu/trump-aranceles-aluminio-vehiculos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/aranceles-20260723215306151.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera respalda postura de Marco Rubio sobre la transición en Venezuela: \"Reconciliación exige amplitud y participación\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-respalda-postura-de-marco-rubio-sobre-la-transicion-en-venezuela-reconciliacion-exige-amplitud-y-participacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/749258427_1478889117600315_4593152881449679682_n-e38e5d.jpg"
+      "title": "Trump destaca trabajo del Secretario de Energía norteamericano, Chris Wright, en la relación energética entre Washington y Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/trump-destaca-trabajo-del-secretario-de-energia-norteamericano-chris-wright-en-la-relacion-energetica-entre-washington-y-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5989111257967037730_x-cceaa4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOHN BARRETT RECORRIÓ LA IGLESIA LAS MERCEDES PARA EVALUAR DAÑOS TRAS LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/john-barrett-recorrio-la-iglesia-las-mercedes-para-evaluar-danos-tras-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/john-barrett-eeuu-iglesia-las-mercedes-627x376.jpg"
+      "title": "MENOS DEL 1 % DE LAS EDIFICACIONES DE CHACAO QUEDARON INHABITABLES, DIJO DUQUE",
+      "link": "https://noticierodigital.com/2026/07/menos-del-1-de-las-edificaciones-de-chacao-quedaron-inhabitables-dijo-duque/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/gustavo-duque-chacao-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que el secretario de Energía de EE. UU. \"está dirigiendo Venezuela\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-el-secretario-de-energia-de-ee-uu-esta-dirigiendo-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
+      "title": "EE. UU. ejecuta una nueva oleada de ataques contra Irán",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-ejecuta-una-nueva-oleada-de-ataques-contra-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/eeuu-ataques-iran-estrecho-ormuz-trump.jpg-768x432-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-23T22:56:31.694Z"
+  "lastUpdate": "2026-07-24T00:02:38.178Z"
 }
