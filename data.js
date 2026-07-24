@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Miguel saltó de un cuarto piso para salvarse: La tragedia y la fe de una familia sobreviviente del doble terremoto en La Guaira",
-      "link": "https://noticialdia.com/al-dia/miguel-salto-de-un-cuarto-piso-para-salvarse-la-tragedia-y-la-fe-de-una-familia-sobreviviente-del-doble-terremoto-en-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-23-at-9.42.48-PM-e1784857830479.webp?x95844"
+      "title": "El crimen de María Camila Potosí conmociona a Colombia: Le extrajeron a su bebé antes de morir",
+      "link": "https://noticialdia.com/al-dia/el-crimen-de-maria-camila-potosi-conmociona-a-colombia-le-extrajeron-a-su-bebe-antes-de-morir/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-1-7.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez destaca acompañamiento de la FANB a los venezolanos tras los terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-destaca-acompanamiento-de-la-fanb-a-los-venezolanos-tras-los-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l6506-cf1cea.jpg"
+      "title": "Voluntad Popular agradece a EE. UU. su respaldo a la transición democrática en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/voluntad-popular-agradece-a-ee-uu-su-respaldo-a-la-transicion-democratica-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/voluntad-popular-54562-5b4f01.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CRUZ ROJA VENEZOLANA MANTENDRÁ DURANTE DOS AÑOS SU OPERACIÓN HUMANITARIA TRAS LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/cruz-roja-venezolana-mantendra-durante-dos-anos-su-operacion-humanitaria-tras-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Imagen-destacada_20260724_093525_0000-627x376.png"
+      "title": "HÉCTOR URGELLES PROPUSO UN ACUERDO NACIONAL PARA LA RECUPERACIÓN DE LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/07/hector-urgelles-propuso-un-acuerdo-nacional-para-la-recuperacion-de-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/hector-urgelles-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. sanciona al presunto nuevo líder del Cártel Jalisco Nueva Generación",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-sanciona-al-presunto-nuevo-lider-del-cartel-jalisco-nueva-generacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Cartel-Jalisco-Nueva-Generacion-678x430.jpeg"
+      "title": "Netanyahu viajará a Washington para reunirse con Trump en la Casa Blanca",
+      "link": "https://diarioversionfinal.com/mundo/netanyahu-viajara-a-washington-para-reunirse-con-trump-en-la-casa-blanca/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-12-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-24T14:54:44.920Z"
+  "lastUpdate": "2026-07-24T16:41:54.336Z"
 };
