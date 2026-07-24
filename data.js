@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FCU-UCV NEGÓ PARTICIPACIÓN DE PARTIDOS POLÍTICOS EN SU CENTRO DE ACOPIO",
-      "link": "https://noticierodigital.com/2026/07/fcu-ucv-nego-participacion-de-partidos-politicos-en-su-centro-de-acopio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/centro-de-acopio-fcu-ucv-627x376.jpg"
+      "title": "CRUZ ROJA VENEZOLANA MANTENDRÁ DURANTE DOS AÑOS SU OPERACIÓN HUMANITARIA TRAS LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/cruz-roja-venezolana-mantendra-durante-dos-anos-su-operacion-humanitaria-tras-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Imagen-destacada_20260724_093525_0000-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Una ministra del Gobierno de Pedro Sánchez dice que la filtración del rescate por 53 millones de euros a Plus Ultra debió evitarse",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/una-ministra-del-gobierno-de-pedro-sanchez-dice-que-la-filtracion-del-rescate-por-53-millones-de-euros-a-plus-ultra-debio-evitarse/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/bam6FDux-image-750x430.jpg"
+      "title": "EE. UU. sanciona al presunto nuevo líder del Cártel Jalisco Nueva Generación",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-sanciona-al-presunto-nuevo-lider-del-cartel-jalisco-nueva-generacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Cartel-Jalisco-Nueva-Generacion-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-07-24T12:18:13.202Z"
+  "lastUpdate": "2026-07-24T14:54:44.920Z"
 };
