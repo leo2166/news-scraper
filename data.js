@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Alex Saab se declaró no culpable en un tribunal federal de Miami",
-      "link": "https://www.infobae.com/estados-unidos/2026/07/24/alex-saab-se-declaro-no-culpable-en-un-tribunal-federal-de-miami/",
-      "image": "https://www.infobae.com/resizer/v2/MCRO7F3Y4VCSZKNRESUEBDYD2A.png?auth=9e77aed923f58a3a139e640f0fb3c2ae196a1200bf0ef6caecfcd5b1e6dbe183&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela formalizó su salida de la Corte Penal Internacional",
+      "link": "https://www.infobae.com/venezuela/2026/07/24/venezuela-formalizo-su-salida-de-la-corte-penal-internacional/",
+      "image": "https://www.infobae.com/resizer/v2/MV7SBV2FHVGSJNGMK4MECSHGKM.JPG?auth=5a3e580f8166b976d967300a0ca202cdaa6b1c08d8c2a281ba322488328e00c8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Polimaracaibo sancionó y ordenó cierre temporal de licorería por incumplir ordenanza municipal",
-      "link": "https://noticialdia.com/zulia/polimaracaibo-sanciono-y-ordeno-cierre-temporal-de-licoreria-por-incumplir-ordenanza-municipal/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/plantilla-erne-48.webp?x95844"
+      "title": "A las 6:04 pm un rugido subterráneo en La Guaira marcó el dolor y pesar de un siniestro que le quitó la vida a miles de venezolanos",
+      "link": "https://noticialdia.com/sucesos/a-las-604-pm-un-rugido-subterraneo-en-la-guaira-marco-el-dolor-y-pesar-de-un-siniestro-que-le-quito-la-vida-a-miles-de-venezolanos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/plantilla-erne-51.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez recibe a directivos del BID para acordar una \"hoja de ruta multilateral\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-recibe-a-directivos-del-bid-para-acordar-una-hoja-de-ruta-multilateral",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/portada-delcybid.jpg-0da9b0.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez recibe a congresistas de EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-recibe-a-congresistas-de-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5123204984479616218_w-a4334b.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que Venezuela aún no está lista para elecciones, pero reconoce avances políticos",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-venezuela-aun-no-esta-lista-para-elecciones-pero-reconoce-avances-politicos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-678x430.jpg"
+      "title": "Volker Türk seguirá al frente de Derechos Humanos de la ONU hasta 2030",
+      "link": "https://diarioversionfinal.com/mundo/volker-turk-seguira-al-frente-de-derechos-humanos-de-la-onu-hasta-2030/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Volker-Turk-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-24T20:19:12.127Z"
+  "lastUpdate": "2026-07-24T22:04:40.190Z"
 };
