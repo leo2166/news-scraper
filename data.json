@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "873,90"
+      "usdt": "N/A"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Familiares de niños desaparecidos fueron convocados para identificar 38 cuerpos sin reclamar tras el terremoto en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/23/familiares-de-ninos-desaparecidos-fueron-convocados-para-identificar-38-cuerpos-sin-reclamar-tras-el-terremoto-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/D7SJAYRK5JCYFN2WVJQM2GZUUI.JPG?auth=3d24da28c87bdd688ad187cd329363168ba5d7b7fdf1ad53a5044704b4bb45e4&smart=true&width=350&height=197&quality=85"
+      "title": "Una ONG venezolana alertó sobre la muerte de dos presos en una cárcel y elevó a 36 los fallecidos bajo custodia del Estado en lo que va del año",
+      "link": "https://www.infobae.com/venezuela/2026/07/24/una-ong-venezolana-alerto-sobre-la-muerte-de-dos-presos-en-una-carcel-y-elevo-a-36-los-fallecidos-bajo-custodia-del-estado-en-lo-que-va-del-ano/",
+      "image": "https://www.infobae.com/resizer/v2/CCWL5VP6B5AVNAZ3IRXES24JFU.jpg?auth=495267ec7df628a8c4a888fec769ecef410d415876abc14bc47a24b3c61810f7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/2024-11-06T122151Z_1_LYNXMPEKA50KB_RTROPTP_3_EEUU-ELECCIONES-BRASIL-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-24T04:13:52.947Z"
+  "lastUpdate": "2026-07-24T07:30:26.863Z"
 }
