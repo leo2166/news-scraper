@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "N/A"
+      "usdt": "911,36"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Comercio e Industria plantearon al Seniat nuevo modelo tributario \"menos punitivo\"",
-      "link": "https://www.bancaynegocios.com/comercio-e-industria-plantearon-al-seniat-nuevo-modelo-tributario-menos-punitivo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/Jose-Gregorio-Rodriguez-Pdte-Consecomercio-NVA.jpg"
+      "title": "Delcy Rodríguez: Gobierno trabaja en \"plan maestro\" de reconstrucción de zonas afectadas",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-gobierno-trabaja-en-plan-maestro-de-reconstruccion-de-zonas-afectadas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-PLAN-MAESTRO.jpg"
     },
     {
       "source": "Infobae",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Portugal envía 200 bomberos a España para combatir incendios en Ávila",
-      "link": "https://diarioversionfinal.com/mundo/portugal-envia-200-bomberos-a-espana-para-combatir-incendios-en-avila/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/732d483e707c74b52eda51ab7618a375926863f6w-750x375-1.jpg"
+      "title": "Flávio Bolsonaro será el candidato presidencial del partido de Jair Bolsonaro en Brasil",
+      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-sera-el-candidato-presidencial-del-partido-de-jair-bolsonaro-en-brasil/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/EzIUCrAj-images-10.jpg"
     }
   ],
-  "lastUpdate": "2026-07-25T16:57:06.682Z"
+  "lastUpdate": "2026-07-25T18:00:01.581Z"
 }
