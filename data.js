@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "895,50"
+      "usdt": "898,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Detenidos dos jovencitos por machetear a un menor de edad en la urbanización La Popular de San Francisco",
-      "link": "https://noticialdia.com/sucesos/detenidos-dos-jovencitos-por-machetear-a-un-menor-de-edad-en-la-urbanizacion-la-popular-de-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/05/0000191006.jpg?x95844"
+      "title": "Chofer de transporte público escapó tras chocar contra un vehículo en La Limpia",
+      "link": "https://noticialdia.com/al-dia/chofer-de-transporte-publico-escapo-tras-chocar-contra-un-vehiculo-en-la-limpia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-39.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "A Trump no le fue bien en la cena de corresponsales, pero dejó claro su punto",
-      "link": "https://cnnespanol.cnn.com/2026/07/25/eeuu/trump-fracaso-cena-corresponsales-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287539432-20260725031213194-20260725054444519.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. ahora tiene en la mira a los políticos de México",
+      "link": "https://cnnespanol.cnn.com/2026/07/25/mexico/eeuu-pone-mira-politicos-mexicanos-narcotrafico-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/rochamoya.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ DESIGNÓ NUEVOS RESPONSABLES DEL CEOFANB, CODAI Y JEFES DE REDI",
-      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-designo-nuevos-responsables-del-ceofanb-codai-y-jefes-de-redi/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/delcy-rodriguez-ven-p-627x376.jpg"
+      "title": "MÁS DE 8.000 EDIFICACIONES INSPECCIONADAS POR EL CIV A UN MES DEL 24J",
+      "link": "https://noticierodigital.com/2026/07/mas-de-8-000-edificaciones-inspeccionadas-por-el-civ-a-un-mes-del-24j/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Incendios en Francia dejan casi 200.000 evacuados y una cifra récord de hectáreas quemadas",
-      "link": "https://diarioversionfinal.com/mundo/incendios-en-francia-dejan-casi-200-000-evacuados-y-una-cifra-record-de-hectareas-quemadas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/dEnN6TMm-1068x601-1-750x430.jpg"
+      "title": "Venezuela solo es superada por Somalia y Sudán como países más corruptos del mundo",
+      "link": "https://diarioversionfinal.com/mundo/venezuela-solo-es-superada-por-somalia-y-sudan-como-paises-mas-corruptos-del-mundo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
     }
   ],
-  "lastUpdate": "2026-07-25T19:21:28.888Z"
+  "lastUpdate": "2026-07-25T20:56:04.477Z"
 };
