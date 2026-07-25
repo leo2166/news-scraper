@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Donald Trump aseguró que Venezuela aún no está lista para celebrar elecciones: \"Delcy está haciendo un trabajo fantástico\"",
-      "link": "https://www.infobae.com/venezuela/2026/07/25/donald-trump-aseguro-que-venezuela-aun-no-esta-lista-para-celebrar-elecciones-delcy-esta-haciendo-un-trabajo-fantastico/",
-      "image": "https://www.infobae.com/resizer/v2/NCL7ZGZR7BDMPHNFPJWG43NKZY.JPG?auth=639fdfc0e199577ef5e4335bad2efcce1c4a38837e17d92a6f1df5a33a5f2641&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela conmemoró un mes del doble terremoto con vistas a la reconstrucción de las zonas más afectadas",
+      "link": "https://www.infobae.com/venezuela/2026/07/25/venezuela-conmemoro-un-mes-del-doble-terremoto-con-vistas-a-la-reconstruccion-de-las-zonas-mas-afectadas/",
+      "image": "https://www.infobae.com/resizer/v2/Q5J77OZTUZDINBRR5L5D4QJESU.JPG?auth=4c49a91c3b0bd7399e8581214aaee0816403039ed250f4c063322219848108f0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/PORTADA-32-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-25T04:09:57.008Z"
+  "lastUpdate": "2026-07-25T07:16:51.484Z"
 };
