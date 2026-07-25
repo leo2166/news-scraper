@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Datos: Nuevas estimaciones sobre el costo de los terremotos apuntan a más de US$12.000 millones",
-      "link": "https://www.bancaynegocios.com/datos-nuevas-estimaciones-sobre-el-costo-de-los-terremotos-apuntan-a-mas-de-us12-000-millones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/TerremotosEdificiosLaGuairaEscombrosVenezuela1.jpg"
+      "title": "César Aristimuño: Venezuela puede cerrar 2026 con crecimiento de 3%, a pesar de la hora difícil que padece",
+      "link": "https://www.bancaynegocios.com/cesar-aristimuno-venezuela-puede-cerrar-2026-con-crecimiento-de-3-porciento-a-pesar-de-la-hora-dificil-que-padece/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/11/CesarAristimunoFoto.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "A las 6:04 pm un rugido subterráneo en La Guaira marcó el dolor y pesar de un siniestro que le quitó la vida a miles de venezolanos",
-      "link": "https://noticialdia.com/sucesos/a-las-604-pm-un-rugido-subterraneo-en-la-guaira-marco-el-dolor-y-pesar-de-un-siniestro-que-le-quito-la-vida-a-miles-de-venezolanos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/plantilla-erne-51.webp?x95844"
+      "title": "Delcy Rodríguez ratificó al Ministro de la Defensa y anunció nuevas designaciones en el alto mando militar de la Fanb",
+      "link": "https://noticialdia.com/?p=644607",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-5-1.webp"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Incendios forestales obligan a evacuar a más de 40.000 personas en Madrid",
-      "link": "https://diarioversionfinal.com/mundo/incendios-forestales-obligan-a-evacuar-a-mas-de-40-000-personas-en-madrid/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/PORTADA-32-750x430.webp"
+      "title": "Evacúan siete municipios cerca de Burdeos por el avance de un gran incendio forestal",
+      "link": "https://diarioversionfinal.com/mundo/evacuan-siete-municipios-cerca-de-burdeos-por-el-avance-de-un-gran-incendio-forestal/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/af8a9f5bce24c84688f6e8d67b12115507bcdc60m-1-1024x576-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-25T11:10:03.008Z"
+  "lastUpdate": "2026-07-25T13:25:55.238Z"
 };
