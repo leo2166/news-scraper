@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "César Aristimuño: Venezuela puede cerrar 2026 con crecimiento de 3%, a pesar de la hora difícil que padece",
-      "link": "https://www.bancaynegocios.com/cesar-aristimuno-venezuela-puede-cerrar-2026-con-crecimiento-de-3-porciento-a-pesar-de-la-hora-dificil-que-padece/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/11/CesarAristimunoFoto.jpg"
+      "title": "Comercio e Industria plantearon al Seniat nuevo modelo tributario \"menos punitivo\"",
+      "link": "https://www.bancaynegocios.com/comercio-e-industria-plantearon-al-seniat-nuevo-modelo-tributario-menos-punitivo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/Jose-Gregorio-Rodriguez-Pdte-Consecomercio-NVA.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Arrestan a un hombre por agredir y estafar a una mujer durante una venta de Marketplace en San Francisco",
-      "link": "https://noticialdia.com/sucesos/capturado-tras-estafar-y-agredir-a-una-mujer-por-una-venta-en-marketplace-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-30-1.webp?x95844"
+      "title": "Tragedia en Yaracuy: Agricultor pierde la vida tras ser herido accidentalmente por su nieto con una desmalezadora",
+      "link": "https://noticialdia.com/sucesos/tragedia-en-yaracuy-agricultor-pierde-la-vida-tras-ser-herido-accidentalmente-por-su-nieto-con-una-desmalezadora/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-34.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PEDRO SÁNCHEZ TILDÓ DE «DRAMÁTICA» SITUACIÓN POR INCENDIOS EN ESPAÑA",
-      "link": "https://noticierodigital.com/2026/07/pedro-sanchez-tildo-de-dramatica-situacion-por-incendios-en-espana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/incendiosEspana-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ DESIGNÓ NUEVOS RESPONSABLES DEL CEOFANB, CODAI Y JEFES DE REDI",
+      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-designo-nuevos-responsables-del-ceofanb-codai-y-jefes-de-redi/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/delcy-rodriguez-ven-p-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "CPI advierte a Venezuela que debe cooperar con investigaciones iniciadas en últimos años",
-      "link": "https://diarioversionfinal.com/mundo/cpi-advierte-a-venezuela-que-debe-cooperar-con-investigaciones-iniciadas-en-ultimos-anos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/02/cpi-21-de-febrero-750x430.jpg"
+      "title": "Portugal envía 200 bomberos a España para combatir incendios en Ávila",
+      "link": "https://diarioversionfinal.com/mundo/portugal-envia-200-bomberos-a-espana-para-combatir-incendios-en-avila/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/732d483e707c74b52eda51ab7618a375926863f6w-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-25T15:02:41.621Z"
+  "lastUpdate": "2026-07-25T16:57:06.682Z"
 };
