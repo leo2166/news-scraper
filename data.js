@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela conmemoró un mes del doble terremoto con vistas a la reconstrucción de las zonas más afectadas",
-      "link": "https://www.infobae.com/venezuela/2026/07/25/venezuela-conmemoro-un-mes-del-doble-terremoto-con-vistas-a-la-reconstruccion-de-las-zonas-mas-afectadas/",
-      "image": "https://www.infobae.com/resizer/v2/Q5J77OZTUZDINBRR5L5D4QJESU.JPG?auth=4c49a91c3b0bd7399e8581214aaee0816403039ed250f4c063322219848108f0&smart=true&width=350&height=197&quality=85"
+      "title": "Terremotos en Venezuela: aumentaron a 5.546 la cifra de muertos a un mes de la tragedia",
+      "link": "https://www.infobae.com/venezuela/2026/07/25/terremotos-en-venezuela-aumentaron-a-5546-la-cifra-de-muertos-a-un-mes-de-la-tragedia/",
+      "image": "https://www.infobae.com/resizer/v2/HTZG53GCERHKDBFCTL5762D4FA.jpg?auth=565cc23cc994c702b95dc2598c7f4a9c726db556bcd0f79bc43a84bb0fff5a79&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Nuevo canciller de Venezuela inicia retiro de la CPI",
-      "link": "https://cnnespanol.cnn.com/2026/07/24/venezuela/canciller-plasencia-giro-corte-penal-relaciones-peru-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b234d4ef6ae11af729bbdd313df40797b5805281.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump fracasó en la cena de corresponsales, pero dejó claras sus intenciones",
+      "link": "https://cnnespanol.cnn.com/2026/07/25/eeuu/trump-fracaso-cena-corresponsales-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287539432-20260725031213194-20260725054444519.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/PORTADA-32-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-25T07:16:51.484Z"
+  "lastUpdate": "2026-07-25T09:47:12.236Z"
 };
