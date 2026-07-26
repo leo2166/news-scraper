@@ -188,7 +188,42 @@ async function scrapeSource(browser, name, url, extractFn, maxAttempts = 2) {
 }
 // --- Helper: Scrape Binance P2P Direct ---
 async function scrapeBinance(browser) {
-    console.log('🪙 Scrapeando Binance P2P (USDT/VES)...');
+    console.log('🪙 Obteniendo Binance P2P (USDT/VES) vía API...');
+    try {
+        const response = await fetch('https://p2p.binance.com/bapi/c2c/v2/friendly/c2c/adv/search', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            },
+            body: JSON.stringify({
+                fiat: 'VES',
+                page: 1,
+                rows: 5,
+                tradeType: 'BUY',
+                asset: 'USDT',
+                countries: [],
+                proMerchantAds: false,
+                shieldMerchantAds: false,
+                publisherType: null,
+                payTypes: []
+            })
+        });
+
+        if (response.ok) {
+            const data = await response.json();
+            if (data && data.success && data.data && data.data.length > 0) {
+                const price = data.data[0].adv.price;
+                console.log(`✅ Binance P2P (API): ${price}`);
+                return price;
+            }
+        }
+        console.warn('⚠️ Binance P2P API falló o devolvió vacío. Intentando fallback con web scraping...');
+    } catch (apiError) {
+        console.warn('⚠️ Binance P2P API error:', apiError.message, '- Intentando fallback con web scraping...');
+    }
+
+    console.log('🪙 Scrapeando Binance P2P (USDT/VES) con Puppeteer (Fallback)...');
     try {
         const page = await browser.newPage();
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
@@ -223,13 +258,13 @@ async function scrapeBinance(browser) {
         await page.close();
 
         if (price) {
-            console.log(`✅ Binance P2P: ${price}`);
+            console.log(`✅ Binance P2P (Puppeteer): ${price}`);
             return price; // Formato esperado: "598.50" (con punto) o "598,50"
         } else {
             throw new Error("Elemento de precio no encontrado");
         }
     } catch (error) {
-        console.error('❌ Binance Error:', error.message);
+        console.error('❌ Binance Error (Fallback):', error.message);
         return null;
     }
 }

@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "633,36",
-      "eur": "723,27",
-      "fechaValor": "Miércoles, 1 de julio de 2026"
+      "usd": "742,23",
+      "eur": "844,22",
+      "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "774,25"
+      "usdt": "860,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Estiman que más de 800 comercios se ven comprometidos por los terremotos en Venezuela",
-      "link": "https://www.bancaynegocios.com/estiman-que-mas-de-800-comercios-se-ven-comprometidos-por-los-terremotos-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/ComerciosLaGuairaTerremotoCerrados.jpg"
+      "title": "Delcy Rodríguez: Gobierno trabaja en \"plan maestro\" de reconstrucción de zonas afectadas",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-gobierno-trabaja-en-plan-maestro-de-reconstruccion-de-zonas-afectadas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-PLAN-MAESTRO.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Crece el saldo de la tragedia en Venezuela: hay al menos 2.295 muertos y más de 11.000 heridos",
-      "link": "https://www.infobae.com/venezuela/2026/07/01/crece-el-saldo-de-la-tragedia-en-venezuela-hay-al-menos-2295-muertos-y-mas-de-11000-heridos/",
-      "image": "https://www.infobae.com/resizer/v2/33UI5FQH7RHV3EVNLNF7ZDK6EY.JPG?auth=af47bf325a251aa3ce9723842692cd261fa854ac0a46c633386016f93a03ead9&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado dijo que no participará en los diálogos con el chavismo pero aclaró que no será un obstáculo",
+      "link": "https://www.infobae.com/venezuela/2026/07/26/maria-corina-machado-dijo-que-no-participara-en-los-dialogos-con-el-chavismo-pero-aclaro-que-no-sera-un-obstaculo/",
+      "image": "https://www.infobae.com/resizer/v2/TANHDDLS6BGFFBLITCHU3PJL7U.jpg?auth=626645c6940aa30cd6d3ea22d3f77856db5b30b0ddcbab6f2bba2fd58dd86519&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "\"Dame la plata, lambucio\": Momento cuando afectadas por los terremotos encaran a funcionario del Cicpc y rompen los dólares",
-      "link": "https://noticialdia.com/sin-categoria/dame-la-plata-lambucio-momento-cuando-afectadas-por-los-terremotos-encaran-a-funcionario-del-cicpc-y-rompen-los-dolares/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/ed740a02-82e2-43e1-bdaf-2201d5b526ff.webp?x74468"
+      "title": "Desmantelan centro de expendio ilegal de bebidas alcohólicas en el sector El Silencio de Maracaibo",
+      "link": "https://noticialdia.com/al-dia/desmantelan-centro-de-expendio-ilegal-de-bebidas-alcoholicas-en-el-sector-el-silencio-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-50.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "Asciende a 2.295 la cifra de muertos por los sismos en Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/07/01/venezuela/live-news/terremotos-guaira-rescates-victimas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283591433.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El Pentágono modifica discretamente la cifra de bajas en la guerra con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/07/26/eeuu/victimas-guerra-iran-supera-600-pentagono-conteo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287213640ataud.JPG?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Municipio Baruta implementa plan de contingencia y evaluaciones estructurales tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/municipio-baruta-implementa-plan-de-contingencia-y-evaluaciones-estructurales-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_huvuochuvuochuvu-4f55fb.png"
+      "title": "Comando Sur de EE. UU. concluye labores de socorro por el terremoto y retira a sus últimos miembros de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-de-ee-uu-concluye-labores-de-socorro-por-el-terremoto-y-retira-a-sus-ultimos-miembros-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copia-de-ltimahora---noticiasvenevision-carrusel-11-797c41.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PRESIDENTE DE HONDURAS NO ENVIARÁ AYUDA A VENEZUELA: «QUE DIOS ME PERDONE»",
-      "link": "https://noticierodigital.com/2026/07/presidente-de-honduras-no-enviara-ayuda-a-venezuela-que-dios-me-perdone/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/nasry-asfura-honduras-627x376.jpg"
+      "title": "VENAMCHAM SOSTUVO REUNIÓN CON DELEGACIÓN DEL CONGRESO DE EE .UU.",
+      "link": "https://noticierodigital.com/2026/07/venamcham-sostuvo-reunion-con-delegacion-del-congreso-de-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/tsize_600x400_REUNION-VENAMCHAM-CONGRESISTAS-DE-EEUU-600x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "OMS recuerda que primeras 72 horas tras terremotos son críticas para salvar vidas",
-      "link": "https://laverdad.com/oms-recuerda-que-primeras-72-horas-tras-terremotos-son-criticas-para-salvar-vidas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/Terremotos-Caracas-1.jpg"
+      "title": "Papa León XIV pide rezar por afectados por incendios en España y Francia",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-rezar-por-afectados-por-incendios-en-espana-y-francia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/7cb566de545d9eb2688a31c55df5ed532c5f0ccd-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Renuncia la directora de la Agencia Tributaria en medio de la polémica por las joyas de Zapatero",
-      "link": "https://diarioversionfinal.com/mundo/renuncia-la-directora-de-la-agencia-tributaria-en-medio-de-la-polemica-por-las-joyas-de-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/agencia-tributaria-750x430.webp"
+      "title": "Papa León XIV llama a priorizar lo esencial frente al consumismo y la guerra",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-llama-a-priorizar-lo-esencial-frente-al-consumismo-y-la-guerra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Leon-XIV-26-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-01T19:02:50.871Z"
+  "lastUpdate": "2026-07-26T22:31:57.998Z"
 }
