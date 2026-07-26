@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Más de 250.000 evacuados por incendios forestales en Francia y España",
-      "link": "https://cnnespanol.cnn.com/2026/07/25/clima-y-tiempo/incendios-francia-espana-evacuados-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-25-132036.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Vance y Caine expresaron preocupación por las reservas de municiones",
+      "link": "https://cnnespanol.cnn.com/2026/07/26/eeuu/vance-caine-preocupacion-reservas-municiones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hegseth-vance-and-trump.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Arrollamiento-Berlin-25-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-26T07:35:19.910Z"
+  "lastUpdate": "2026-07-26T09:59:20.107Z"
 };
