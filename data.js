@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "898,69"
+      "usdt": "909,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Tras el llamado del Alcalde: Detienen a chofer que huyó tras causar grave accidente en La Limpia",
-      "link": "https://noticialdia.com/al-dia/tras-el-llamado-del-alcalde-detienen-a-chofer-que-huyo-tras-causar-grave-accidente-en-la-limpia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-41.webp?x95844"
+      "title": "Polimaracaibo detiene a sujeto que hurtó mercancía de un comercio familiar en San Jacinto",
+      "link": "https://noticialdia.com/al-dia/polimaracaibo-detiene-a-sujeto-que-hurto-mercancia-de-un-comercio-familiar-en-san-jacinto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-44.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE 8.000 EDIFICACIONES INSPECCIONADAS POR EL CIV A UN MES DEL 24J",
-      "link": "https://noticierodigital.com/2026/07/mas-de-8-000-edificaciones-inspeccionadas-por-el-civ-a-un-mes-del-24j/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
+      "title": "NUEVE LESIONADOS FUERA DE PELIGRO TRAS IMPACTO DE RAYO EN EL AEROPUERTO ARTURO MICHELENA DE VALENCIA",
+      "link": "https://noticierodigital.com/2026/07/nueve-lesionados-fuera-de-peligro-tras-impacto-de-rayo-en-el-aeropuerto-arturo-michelena-de-valencia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/aeropuertovalencia-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Venezolana exige justicia tras la muerte de su hermano bajo custodia de ICE",
-      "link": "https://laverdad.com/venezolana-exige-justicia-tras-la-muerte-de-su-hermano-bajo-custodia-de-ice/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/La-hermana-del-venezolano-que-murio-bajo-custodia-de-ICE-pide-una-investigacion-1.jpg"
+      "title": "Papa León XIV pide rezar por afectados por incendios en España y Francia",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-rezar-por-afectados-por-incendios-en-espana-y-francia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/7cb566de545d9eb2688a31c55df5ed532c5f0ccd-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Incendios forestales arrasan más de 152.500 hectáreas en España durante 2026",
-      "link": "https://diarioversionfinal.com/mundo/incendios-forestales-arrasan-mas-de-152-500-hectareas-en-espana-durante-2026/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/732d483e707c74b52eda51ab7618a375926863f6w-750x375-1.jpg"
+      "title": "Suben a 29 los heridos por atentado islamista durante el Orgullo en Berlín",
+      "link": "https://diarioversionfinal.com/mundo/suben-a-29-los-heridos-por-atentado-islamista-durante-el-orgullo-en-berlin/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/c19611dd8a900e12e42d77a3d0741d94ed26e75aw-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-07-26T13:21:53.338Z"
+  "lastUpdate": "2026-07-26T15:05:00.963Z"
 };
