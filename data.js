@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Niña muere ahogada tras crecida súbita del río La Miel: En Lara",
-      "link": "https://noticialdia.com/sucesos/nina-muere-ahogada-tras-crecida-subita-del-rio-la-miel-en-lara/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-48.webp?x95844"
+      "title": "Desmantelan centro de expendio ilegal de bebidas alcohólicas en el sector El Silencio de Maracaibo",
+      "link": "https://noticialdia.com/al-dia/desmantelan-centro-de-expendio-ilegal-de-bebidas-alcoholicas-en-el-sector-el-silencio-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-50.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump libra una guerra con respaldo de un solo partido en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/07/26/eeuu/guerra-iran-democratas-rechazan-fondos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-guerra-20260726130556841.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El Pentágono modifica discretamente la cifra de bajas en la guerra con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/07/26/eeuu/victimas-guerra-iran-supera-600-pentagono-conteo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287213640ataud.JPG?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "EE.UU. celebra la salida de Venezuela de la CPI",
-      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-celebra-la-salida-de-venezuela-de-la-cpi",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/5ut2o5bxlngwxbc2t3pdyunfym-b9578f.avif"
+      "title": "Comando Sur de EE. UU. concluye labores de socorro por el terremoto y retira a sus últimos miembros de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/comando-sur-de-ee-uu-concluye-labores-de-socorro-por-el-terremoto-y-retira-a-sus-ultimos-miembros-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copia-de-ltimahora---noticiasvenevision-carrusel-11-797c41.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump mantiene en pausa los ataques contra Irán mientras abre espacio para retomar negociaciones",
-      "link": "https://diarioversionfinal.com/mundo/trump-mantiene-en-pausa-los-ataques-contra-iran-mientras-abre-espacio-para-retomar-negociaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Trump-EEUU-750x430.jpg"
+      "title": "Papa León XIV llama a priorizar lo esencial frente al consumismo y la guerra",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-llama-a-priorizar-lo-esencial-frente-al-consumismo-y-la-guerra/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Leon-XIV-26-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-26T19:09:39.885Z"
+  "lastUpdate": "2026-07-26T20:57:33.976Z"
 };
