@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "860,90"
+      "usdt": "860,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Leon-XIV-26-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-26T22:31:57.998Z"
+  "lastUpdate": "2026-07-26T22:41:28.676Z"
 };
