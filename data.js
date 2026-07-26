@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez ejecutó una profunda recomposición del alto mando militar: ya no quedan jefes de REDI nombrados por Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/07/26/delcy-rodriguez-ejecuto-una-profunda-recomposicion-del-alto-mando-militar-ya-no-quedan-jefes-de-redi-nombrados-por-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/SF57NFDYAFDUTMYFYUWHPXNRBQ.jpg?auth=8f420e8ce87b272fe5b4157922c7192d3f47772b6f41f79531f163b7181afdc9&smart=true&width=350&height=197&quality=85"
+      "title": "El Ejército de Estados Unidos dio por concluida su misión en Venezuela tras un mes de asistencia por el doble terremoto",
+      "link": "https://www.infobae.com/venezuela/2026/07/26/el-ejercito-de-estados-unidos-dio-por-concluida-su-mision-en-venezuela-tras-un-mes-de-asistencia-por-el-doble-terremoto/",
+      "image": "https://www.infobae.com/resizer/v2/C4NXDDV2UBEJXI55FOBUERCFHM.PNG?auth=a50216ca581c3c46dc70022e94d5243f7361e931a2c1b8b2521e2e2b1943206d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Leon-XIV-26-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-26T20:57:33.976Z"
+  "lastUpdate": "2026-07-26T22:03:06.753Z"
 };
