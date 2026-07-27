@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "860,10"
+      "usdt": "858,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "En cada encrucijada sobre Irán, las opciones de Trump empeoran",
-      "link": "https://cnnespanol.cnn.com/2026/07/27/eeuu/analisis-encrucijada-iran-trump-opciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-georgia-22-julio-2026.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La lucha por mantener el TPS tras el fallo de la Corte Suprema a favor de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/07/27/eeuu/luchas-mantener-tps-corte-suprema-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/protect-tps-justice.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Incendios-en-Europa-26-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-27T07:30:55.092Z"
+  "lastUpdate": "2026-07-27T11:20:36.658Z"
 };
