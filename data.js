@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "860,00"
+      "usdt": "862,98"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Dos de cada tres venezolanos creen que se puede mejorar la economía y reconstruir La Guaira tras los terremotos",
-      "link": "https://www.bancaynegocios.com/dos-de-cada-tres-venezolanos-creen-que-se-puede-mejorar-la-economia-y-reconstruir-la-guaira-tras-los-terremotos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/EscombrosEdificiosLaGuairaTerremotosVenezuela.jpg"
+      "title": "Bloomberg: Grupo de acreedores se expande antes de la reestructuración de la deuda de Venezuela",
+      "link": "https://www.bancaynegocios.com/bloomberg-grupo-de-acreedores-se-expande-antes-de-la-reestructuracion-de-la-deuda-de-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresNominacionDivisasEEUU.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Tenia 5 años abusando de su sobrina de 14: Preso en Mara",
-      "link": "https://noticialdia.com/al-dia/tenia-cinco-anos-abusando-de-su-sobrina-de-14-anos-preso-en-mara/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-54.webp?x95844"
+      "title": "Joven resulta gravemente herido tras aparatoso accidente en moto en Machiques",
+      "link": "https://noticialdia.com/al-dia/joven-resulta-gravemente-herido-tras-aparatoso-accidente-en-moto-en-machiques/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-55.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Un Nuevo Tiempo propone relanzar la alianza democrática para avanzar hacia la reconstrucción institucional",
-      "link": "https://noticiasvenevision.com/noticias/politica/un-nuevo-tiempo-propone-relanzar-la-alianza-democratica-para-avanzar-hacia-la-reconstruccion-institucional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/avatars-000323531413-5wkxaa-t1080x1080-625f79-efbbd9.jpg"
+      "title": "Analistas discuten el rol de EE.UU. y los puntos clave del diálogo entre las AN de 2015 y 2025",
+      "link": "https://noticiasvenevision.com/noticias/politica/analistas-discuten-el-rol-de-eeuu-y-los-puntos-clave-del-dialogo-entre-las-an-de-2015-y-2025",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-esther-quiaro-jess-chuo-torrealba-mercedes-malav-26jul2026-38f91b.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIÁLOGO DEL 1 DE AGOSTO ES UNA CONSECUENCIA DIRECTA DEL 3 DE ENERO, DIJO DIPUTADO ALGARRA",
-      "link": "https://noticierodigital.com/2026/07/dialogo-del-1-de-agosto-es-una-consecuencia-directa-del-3-de-enero-dijo-diputado-algarra/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/diputadoAlgarra-627x376.jpg"
+      "title": "«VAMOS A RECUPERAR A VENEZUELA», DIJO DELCY RODRÍGUEZ AL DESPLEGAR BRIGADAS POPULARES EN CARACAS",
+      "link": "https://noticierodigital.com/2026/07/vamos-a-recuperar-a-venezuela-dijo-delcy-rodriguez-al-desplegar-brigadas-populares-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/IMG_6514-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo en festival de Seattle deja \"múltiples víctimas\"",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-festival-de-seattle-deja-multiples-victimas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/e2a2f4e16e80b41c11f63c12c0ac7da69e418fc4m-1-1068x601-1-750x430.jpg"
+      "title": "Oposición salvadoreña define candidatos para enfrentar a Bukele en elecciones",
+      "link": "https://diarioversionfinal.com/mundo/oposicion-salvadorena-define-candidatos-para-enfrentar-a-bukele-en-elecciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/230e4149154d00746eadc8fdcb0fa718-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-27T16:56:58.774Z"
+  "lastUpdate": "2026-07-27T18:25:26.060Z"
 };
