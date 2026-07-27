@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "858,00"
+      "usdt": "859,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cayeron cuatro hampones ante las armas del CICPC: \"El Feo\", \"El Joina\", \"El Chuto\" y Osmairo",
-      "link": "https://noticialdia.com/al-dia/cayeron-cuatro-hampones-ante-las-armas-del-cicpc-el-feo-el-joina-el-chuto-y-osmairo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-13-8.webp?x95844"
+      "title": "Fallece mujer de 75 años que fue herida por su hija con un chopo",
+      "link": "https://noticialdia.com/sucesos/fallece-mujer-de-75-anos-que-fue-herida-por-su-hija-con-un-chopo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-52.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENAMCHAM SOSTUVO REUNIÓN CON DELEGACIÓN DEL CONGRESO DE EE .UU.",
-      "link": "https://noticierodigital.com/2026/07/venamcham-sostuvo-reunion-con-delegacion-del-congreso-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/tsize_600x400_REUNION-VENAMCHAM-CONGRESISTAS-DE-EEUU-600x376.jpg"
+      "title": "PDVSA DEMANDA A PETROJAM POR EXPROPIARLE EL 49% DE SU PARTICIPACIÓN EN UNA REFINERÍA",
+      "link": "https://noticierodigital.com/2026/07/pdvsa-demanda-a-petrojam-por-expropiarle-el-49-de-su-participacion-en-una-refineria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Más de 250.000 personas huyen de sus hogares en Francia y España por los incendios forestales",
-      "link": "https://diarioversionfinal.com/mundo/mas-de-250-000-personas-huyen-de-sus-hogares-en-francia-y-espana-por-los-incendios-forestales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Incendios-en-Europa-26-07-2026-750x430.webp"
+      "title": "La esposa de Pedro Sánchez irá a juicio con una petición de 13 años de cárcel",
+      "link": "https://diarioversionfinal.com/mundo/la-esposa-de-pedro-sanchez-ira-a-juicio-con-una-peticion-de-13-anos-de-carcel/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/b8ec9750-02d4-11ef-a99b-6969aee8f40b.jpg.webp"
     }
   ],
-  "lastUpdate": "2026-07-27T11:20:36.658Z"
+  "lastUpdate": "2026-07-27T14:33:36.990Z"
 };
