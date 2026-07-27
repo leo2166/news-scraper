@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "742,23",
-      "eur": "844,22",
-      "fechaValor": "Lunes, 27 Julio 2026"
+      "usd": "742,81",
+      "eur": "844,75",
+      "fechaValor": "Martes, 28 Julio 2026"
     },
     "binance": {
-      "usdt": "777,00"
+      "usdt": "850,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Muere niño de 5 años tras colapso de vivienda por fuertes lluvias en la Guajira",
-      "link": "https://noticialdia.com/sucesos/muere-nino-de-5-anos-tras-colapso-de-vivienda-por-fuertes-lluvias-en-la-guajira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-58.webp?x95844"
+      "title": "Voraz incendio consumió por completo un local comercial en el Hotel Tibisay del Lago",
+      "link": "https://noticialdia.com/?p=645824",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-5-1.webp"
     },
     {
       "source": "CNN en Español",
@@ -44,12 +44,6 @@
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-esther-quiaro-jess-chuo-torrealba-mercedes-malav-26jul2026-38f91b.jpeg"
     },
     {
-      "source": "Noticiero Digital",
-      "title": "MATÓ A SUS 3 HIJOS TRAS SER DADA DE ALTA DE UN HOSPITAL PSIQUIÁTRICO POR DEPRESIÓN POSTPARTO",
-      "link": "https://noticierodigital.com/2026/07/mato-a-sus-3-hijos-tras-ser-dada-de-alta-de-un-hospital-psiquiatrico-por-depresion-postparto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/donald-trump-eeuu-627x376.jpg"
-    },
-    {
       "source": "La Verdad",
       "title": "Papa León XIV pide rezar por afectados por incendios en España y Francia",
       "link": "https://laverdad.com/papa-leon-xiv-pide-rezar-por-afectados-por-incendios-en-espana-y-francia/",
@@ -62,5 +56,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-27T161044.179.jpg"
     }
   ],
-  "lastUpdate": "2026-07-27T20:22:13.833Z"
+  "lastUpdate": "2026-07-27T22:07:08.696Z"
 }
