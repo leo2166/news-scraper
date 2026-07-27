@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 27 Julio 2026"
     },
     "binance": {
-      "usdt": "862,98"
+      "usdt": "777,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Bloomberg: Grupo de acreedores se expande antes de la reestructuración de la deuda de Venezuela",
-      "link": "https://www.bancaynegocios.com/bloomberg-grupo-de-acreedores-se-expande-antes-de-la-reestructuracion-de-la-deuda-de-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/DolaresNominacionDivisasEEUU.jpg"
+      "title": "Román Maniglia se reúne con la banca privada: buscan avanzar en la modernización y digitalización del sistema tributario",
+      "link": "https://www.bancaynegocios.com/roman-maniglia-se-reune-con-la-banca-privada-buscan-avanzar-en-la-modernizacion-y-digitalizacion-del-sistema-tributario/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-27-at-3.55.24-PM.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Jefe del PSUV a radicales chavistas: “No hay otro camino” que aceptar la propuesta de Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/07/27/jefe-del-psuv-a-radicales-chavistas-no-hay-otro-camino-que-aceptar-la-propuesta-de-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/XJHSN344WZCCPOPVM62JB4GBTI.JPG?auth=f8fcfcf8c6686b29810446ddd393e82c431b899cede45aebaa518d08f108bf9f&smart=true&width=350&height=197&quality=85"
+      "title": "El Observatorio de Prisiones atribuye al “abandono institucional” la muerte de otro recluso en cárceles venezolanas",
+      "link": "https://www.infobae.com/venezuela/2026/07/27/el-observatorio-de-prisiones-atribuye-al-abandono-institucional-la-muerte-de-otro-recluso-en-carceles-venezolanas/",
+      "image": "https://www.infobae.com/resizer/v2/4GOC3DIPAZFCXFKKTXKV5BXWJI.jpg?auth=5a9d95ea040b1307991d0d97b38627be9a51fa74b156dc8f60b3b736ca17c77e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Joven resulta gravemente herido tras aparatoso accidente en moto en Machiques",
-      "link": "https://noticialdia.com/al-dia/joven-resulta-gravemente-herido-tras-aparatoso-accidente-en-moto-en-machiques/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-55.webp?x95844"
+      "title": "Muere niño de 5 años tras colapso de vivienda por fuertes lluvias en la Guajira",
+      "link": "https://noticialdia.com/sucesos/muere-nino-de-5-anos-tras-colapso-de-vivienda-por-fuertes-lluvias-en-la-guajira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-58.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "«VAMOS A RECUPERAR A VENEZUELA», DIJO DELCY RODRÍGUEZ AL DESPLEGAR BRIGADAS POPULARES EN CARACAS",
-      "link": "https://noticierodigital.com/2026/07/vamos-a-recuperar-a-venezuela-dijo-delcy-rodriguez-al-desplegar-brigadas-populares-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/IMG_6514-627x376.jpg"
+      "title": "MATÓ A SUS 3 HIJOS TRAS SER DADA DE ALTA DE UN HOSPITAL PSIQUIÁTRICO POR DEPRESIÓN POSTPARTO",
+      "link": "https://noticierodigital.com/2026/07/mato-a-sus-3-hijos-tras-ser-dada-de-alta-de-un-hospital-psiquiatrico-por-depresion-postparto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/donald-trump-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Oposición salvadoreña define candidatos para enfrentar a Bukele en elecciones",
-      "link": "https://diarioversionfinal.com/mundo/oposicion-salvadorena-define-candidatos-para-enfrentar-a-bukele-en-elecciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/230e4149154d00746eadc8fdcb0fa718-750x430.webp"
+      "title": "Nueva política migratoria en EE. UU. permite enviar solicitudes de asilo a tribunales sin entrevista",
+      "link": "https://diarioversionfinal.com/mundo/nueva-politica-migratoria-en-ee-uu-permite-enviar-solicitudes-de-asilo-a-tribunales-sin-entrevista/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-27T161044.179.jpg"
     }
   ],
-  "lastUpdate": "2026-07-27T18:25:26.060Z"
+  "lastUpdate": "2026-07-27T20:22:13.833Z"
 }
