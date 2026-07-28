@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 28 Julio 2026"
     },
     "binance": {
-      "usdt": "850,00"
+      "usdt": "843,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,20 +28,26 @@ window.DASHBOARD_DATA = {
     {
       "source": "Noticia al Día",
       "title": "Voraz incendio consumió por completo un local comercial en el Hotel Tibisay del Lago",
-      "link": "https://noticialdia.com/?p=645824",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-5-1.webp"
+      "link": "https://noticialdia.com/al-dia/voraz-incendio-consumio-por-completo-un-local-comercial-en-el-hotel-tibisay-del-lago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-27-at-5.39.32-PM.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo las diásporas se volvieron clave en elecciones latinoamericanas",
-      "link": "https://cnnespanol.cnn.com/2026/07/27/latinoamerica/elecciones-votantes-extranjero-diaspora-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282083496.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Las guerras de Irán y Ucrania chocan en el lago más grande del mundo",
+      "link": "https://cnnespanol.cnn.com/2026/07/27/mundo/guerras-iran-ucrania-mar-caspio-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-129380269-20260727152324986-20260727201441473.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Analistas discuten el rol de EE.UU. y los puntos clave del diálogo entre las AN de 2015 y 2025",
-      "link": "https://noticiasvenevision.com/noticias/politica/analistas-discuten-el-rol-de-eeuu-y-los-puntos-clave-del-dialogo-entre-las-an-de-2015-y-2025",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-esther-quiaro-jess-chuo-torrealba-mercedes-malav-26jul2026-38f91b.jpeg"
+      "title": "Venezuela rechaza ataque contra Día del Orgullo LGTB en Berlín y se solidariza con víctimas",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-rechaza-ataque-contra-dia-del-orgullo-lgtb-en-berlin-y-se-solidariza-con-victimas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plasencia-e1770074618373-1000x600-bc4273.jpg"
+    },
+    {
+      "source": "Noticiero Digital",
+      "title": "TOMÁS GUANIPA AFIRMÓ QUE ABANDONAR LOS ESPACIOS POLÍTICOS «NUNCA HA SIDO UNA OPCIÓN»",
+      "link": "https://noticierodigital.com/2026/07/tomas-guanipa-afirmo-que-abandonar-los-espacios-politicos-nunca-ha-sido-una-opcion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/tomas-guanipa.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-27T161044.179.jpg"
     }
   ],
-  "lastUpdate": "2026-07-27T22:07:08.696Z"
+  "lastUpdate": "2026-07-28T00:01:56.626Z"
 };
