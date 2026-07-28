@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Un Nuevo Tiempo y Primero Justicia valoraron la designación de Dinorah Figuera para impulsar el diálogo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/28/un-nuevo-tiempo-y-primero-justicia-valoraron-la-designacion-de-dinorah-figuera-para-impulsar-el-dialogo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/L3YURHUEMNQ7BXGT6QWJHHXPIQ.jpg?auth=d54c35540f47cca3811a66ca15d29c6c1c726be707dc9373d94324a0397f5930&smart=true&width=350&height=197&quality=85"
+      "title": "La misión de la ONU pidió a Venezuela que reconsidere su retirada de la Corte Penal Internacional",
+      "link": "https://www.infobae.com/venezuela/2026/07/28/la-mision-de-la-onu-pidio-a-venezuela-que-reconsidere-su-retirada-de-la-corte-penal-internacional/",
+      "image": "https://www.infobae.com/resizer/v2/GAR5VFECLVAMHOY6DCRMSWEO3E.jpg?auth=0ec33705e721a61546e7c9235c924043e55974514c66a449db03f3e15e616983&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Hombre atacó con un hacha el vehículo de su expareja en Falcón",
-      "link": "https://noticialdia.com/sucesos/hombre-ataco-con-un-hacha-el-vehiculo-de-su-expareja-en-falcon/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/PLANTILLA-LEILA-27.webp?x95844"
+      "title": "Asesinada modelo de Only Fans en Perú: Detienen a un sospechoso en la escena",
+      "link": "https://noticialdia.com/sucesos/asesinada-modelo-de-only-fans-en-peru-detienen-a-un-sospechoso-en-la-escena/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/images-1-14.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "Netanyahu está en Washington para reunirse con un Trump irritado",
+      "title": "Trump y Netanyahu se reunieron en la Casa Blanca",
       "link": "https://cnnespanol.cnn.com/2026/07/28/mundo/live-news/guerra-israel-iran-estados-unidos-estrecho-de-ormuz-1-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287367062.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Misión de la ONU pide al Gobierno de Venezuela que reconsidere su retirada del CPI",
-      "link": "https://noticiasvenevision.com/noticias/politica/mision-de-la-onu-pide-al-gobierno-de-venezuela-que-reconsidere-su-retirada-del-cpi",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image1170x530cropped-034897.jpg"
+      "title": "Diosdado Cabello respaldó el diálogo convocado para este 1 de agosto",
+      "link": "https://noticiasvenevision.com/noticias/politica/diosdado-cabello-respaldo-el-dialogo-convocado-para-este-1-de-agosto",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cortesia-secretario-general-del-partido-socialista-unido-de-venezuela-psuv-diosdado-cabello-45832-86754c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NUEVOS FONDOS DE INVERSIÓN SE UNEN A LA NEGOCIACIÓN POR LA DEUDA EXTERNA VENEZOLANA: BLOOMBERG",
-      "link": "https://noticierodigital.com/2026/07/nuevos-fondos-de-inversion-se-unen-a-la-negociacion-por-la-deuda-externa-venezolana-bloomberg/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/deudavenezolana-627x376.jpg"
+      "title": "MÁS DE 1.400 NIÑOS AFECTADOS POR TERREMOTOS DEL 24J, REGISTRA CECODAP",
+      "link": "https://noticierodigital.com/2026/07/mas-de-1-400-ninos-afectados-por-terremotos-del-24j-registra-cecodap/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/cecodap_ninosterremotos-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Refinerías de Texas aumentan compras de petróleo venezolano tras caída de envíos de Medio Oriente",
-      "link": "https://diarioversionfinal.com/mundo/refinerias-de-texas-aumentan-compras-de-petroleo-venezolano-tras-caida-de-envios-de-medio-oriente/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/2025-07-25T100400Z_1_LYNXMPEL6O0EF_RTROPTP_4_USA-OIL-IMPORTS-GULFCOAST-750x430.webp"
+      "title": "Irán amenaza con cerrar el estrecho de Ormuz a países que usen sus activos congelados",
+      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-con-cerrar-el-estrecho-de-ormuz-a-paises-que-usen-sus-activos-congelados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/qtBZcG8V-ormuz-U32033278171MRQ-1200x630@diario_abc-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-28T15:21:06.710Z"
+  "lastUpdate": "2026-07-28T17:27:19.846Z"
 };
