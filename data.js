@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 28 Julio 2026"
     },
     "binance": {
-      "usdt": "843,00"
+      "usdt": "840,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El Observatorio de Prisiones atribuye al “abandono institucional” la muerte de otro recluso en cárceles venezolanas",
-      "link": "https://www.infobae.com/venezuela/2026/07/27/el-observatorio-de-prisiones-atribuye-al-abandono-institucional-la-muerte-de-otro-recluso-en-carceles-venezolanas/",
-      "image": "https://www.infobae.com/resizer/v2/4GOC3DIPAZFCXFKKTXKV5BXWJI.jpg?auth=5a9d95ea040b1307991d0d97b38627be9a51fa74b156dc8f60b3b736ca17c77e&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos flexibilizó temporalmente algunas sanciones a Venezuela para facilitar la reconstrucción tras el doble sismo",
+      "link": "https://www.infobae.com/estados-unidos/2026/07/28/estados-unidos-flexibilizo-temporalmente-algunas-sanciones-a-venezuela-para-facilitar-la-reconstruccion-tras-el-doble-sismo/",
+      "image": "https://www.infobae.com/resizer/v2/V6OR6GT42VAIBDI7FOEB3DPDAQ.PNG?auth=39ae1d3c2dddaebba46a21d14f76a4fc9306db34c7b21423db0b79fc831df51f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Voraz incendio consumió por completo un local comercial en el Hotel Tibisay del Lago",
-      "link": "https://noticialdia.com/al-dia/voraz-incendio-consumio-por-completo-un-local-comercial-en-el-hotel-tibisay-del-lago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/WhatsApp-Image-2026-07-27-at-5.39.32-PM.webp?x95844"
+      "title": "Murió motorizado y su acompañante resultó herida de gravedad tras choque con una camioneta en Las Playitas",
+      "link": "https://noticialdia.com/sucesos/murio-motorizado-y-su-acompanante-resulto-herida-de-gravedad-tras-choque-con-una-camioneta-en-las-playitas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-59.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "Las guerras de Irán y Ucrania chocan en el lago más grande del mundo",
-      "link": "https://cnnespanol.cnn.com/2026/07/27/mundo/guerras-iran-ucrania-mar-caspio-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-129380269-20260727152324986-20260727201441473.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Machado y González se distancian del diálogo con el gobierno de Venezuela",
+      "link": "https://cnnespanol.cnn.com/2026/07/27/venezuela/machado-gonzalez-distancia-dialogo-oposicion-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273985408-20260510231207970.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela rechaza ataque contra Día del Orgullo LGTB en Berlín y se solidariza con víctimas",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-rechaza-ataque-contra-dia-del-orgullo-lgtb-en-berlin-y-se-solidariza-con-victimas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plasencia-e1770074618373-1000x600-bc4273.jpg"
+      "title": "Misión de la ONU pide al Gobierno de Venezuela que reconsidere su retirada del CPI",
+      "link": "https://noticiasvenevision.com/noticias/politica/mision-de-la-onu-pide-al-gobierno-de-venezuela-que-reconsidere-su-retirada-del-cpi",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image1170x530cropped-034897.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TOMÁS GUANIPA AFIRMÓ QUE ABANDONAR LOS ESPACIOS POLÍTICOS «NUNCA HA SIDO UNA OPCIÓN»",
-      "link": "https://noticierodigital.com/2026/07/tomas-guanipa-afirmo-que-abandonar-los-espacios-politicos-nunca-ha-sido-una-opcion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/tomas-guanipa.jpg"
+      "title": "STARLINK INICIARÁ PROCESO DE HOMOLOGACIÓN DE EQUIPOS ANTE CONATEL",
+      "link": "https://noticierodigital.com/2026/07/starlink-iniciara-proceso-de-homologacion-de-equipos-ante-conatel/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/starlink-conatel-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nueva política migratoria en EE. UU. permite enviar solicitudes de asilo a tribunales sin entrevista",
-      "link": "https://diarioversionfinal.com/mundo/nueva-politica-migratoria-en-ee-uu-permite-enviar-solicitudes-de-asilo-a-tribunales-sin-entrevista/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-27T161044.179.jpg"
+      "title": "Más de 130 afectados por inhalación de humo tras un incendio en el metro de Barcelona",
+      "link": "https://diarioversionfinal.com/mundo/mas-de-130-afectados-por-inhalacion-de-humo-tras-un-incendio-en-el-metro-de-barcelona/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Humo-parada-Metro-Barcelona-27-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-28T00:01:56.626Z"
+  "lastUpdate": "2026-07-28T04:09:11.723Z"
 };
