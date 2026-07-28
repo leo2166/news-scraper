@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "742,81",
-      "eur": "844,75",
-      "fechaValor": "Martes, 28 Julio 2026"
+      "usd": "744,23",
+      "eur": "846,07",
+      "fechaValor": "Miércoles, 29 Julio 2026"
     },
     "binance": {
-      "usdt": "846,00"
+      "usdt": "845,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Rescataron a tres mujeres de una presunta red de trata de personas en el estado Sucre",
-      "link": "https://noticialdia.com/sucesos/rescataron-a-tres-mujeres-de-una-presunta-red-de-trata-de-personas-en-el-estado-sucre/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/PLANTILLA-LEILA-35.webp?x95844"
+      "title": "Más de 80 golpes y fractura de nariz: Así fue la brutal agresión a una empresaria en Bogotá",
+      "link": "https://noticialdia.com/sucesos/mas-de-80-golpes-y-fractura-de-nariz-asi-fue-la-brutal-agresion-a-una-empresaria-en-bogota/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/v-efe-3.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HÉCTOR URGELLES A DOS AÑOS DEL 28J: «ANTES DE CUALQUIER DISCUSIÓN, HAY QUE LIBERAR A TODOS LOS PRESOS POLÍTICOS»",
-      "link": "https://noticierodigital.com/2026/07/hector-urgelles-a-dos-anos-del-28j-antes-de-cualquier-discusion-hay-que-liberar-a-todos-los-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/hectorUrgelles__-627x376.jpg"
+      "title": "SIMPATIZANTES DEL PSUV RECORRIERON CARACAS EN HOMENAJE A HUGO CHÁVEZ",
+      "link": "https://noticierodigital.com/2026/07/simpatizantes-del-psuv-recorrieron-caracas-en-homenaje-a-hugo-chavez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/marcha-del-oficialismo-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-28T170618.049-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-28T21:07:39.663Z"
+  "lastUpdate": "2026-07-28T22:58:27.743Z"
 };
