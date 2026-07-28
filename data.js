@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 28 Julio 2026"
     },
     "binance": {
-      "usdt": "840,20"
+      "usdt": "843,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Machado y González se distancian del diálogo con el gobierno de Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/07/27/venezuela/machado-gonzalez-distancia-dialogo-oposicion-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273985408-20260510231207970.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Netanyahu viaja a EE.UU. en medio de tensiones con Trump",
+      "link": "https://cnnespanol.cnn.com/2026/07/28/mundo/reunion-netanyahu-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2223423623-20260727215100580-20260728044029251.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Humo-parada-Metro-Barcelona-27-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-28T04:09:11.723Z"
+  "lastUpdate": "2026-07-28T07:38:04.403Z"
 };
