@@ -119,7 +119,12 @@
                     clone.querySelector('.news-image').src = imageUrl;
                     
                     clone.querySelector('.news-title').textContent = item.title || 'Sin título';
-                    clone.querySelector('.read-more').href = item.link;
+                    // Portales bloqueados en Venezuela sin VPN → proxy via Google Translate (sirve la página en vivo)
+                    const BLOCKED_DOMAINS = ['noticialdia.com'];
+                    const isBlocked = item.link && BLOCKED_DOMAINS.some(d => item.link.includes(d));
+                    clone.querySelector('.read-more').href = isBlocked
+                        ? `https://translate.google.com/translate?sl=es&tl=es&u=${encodeURIComponent(item.link)}`
+                        : item.link;
 
                     container.appendChild(clone);
                 });
