@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 28 Julio 2026"
     },
     "binance": {
-      "usdt": "840,90"
+      "usdt": "839,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Román Maniglia se reúne con la banca privada: buscan avanzar en la modernización y digitalización del sistema tributario",
-      "link": "https://www.bancaynegocios.com/roman-maniglia-se-reune-con-la-banca-privada-buscan-avanzar-en-la-modernizacion-y-digitalizacion-del-sistema-tributario/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-27-at-3.55.24-PM.jpeg"
+      "title": "#Análisis: Hay que reactivar la economía y sin el sector privado no hay forma de levantarla",
+      "link": "https://www.bancaynegocios.com/analisis-hay-reactivar-la-economia-y-sin-el-sector-privado-no-hay-forma-de-levantarla/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La purga silenciosa en la Fuerza Armada de Venezuela: Delcy Rodríguez retira a 110 generales y almirantes",
-      "link": "https://www.infobae.com/venezuela/2026/07/28/la-purga-silenciosa-en-la-fuerza-armada-de-venezuela-delcy-rodriguez-retira-a-110-generales-y-almirantes/",
-      "image": "https://www.infobae.com/resizer/v2/RQ7UH3J2TNEJTCKQYDW5NXNWYE.jpg?auth=9af38116f390e47915baf5f4d555369f5d13394a6a28403090c259a93044afd0&smart=true&width=350&height=197&quality=85"
+      "title": "“Poco se habla del duelo que sufre quien pierde todo”: la otra tragedia de las víctimas de los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/28/poco-se-habla-del-duelo-que-sufre-quien-pierde-todo-la-otra-tragedia-de-las-victimas-de-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/Q5J77OZTUZDINBRR5L5D4QJESU.JPG?auth=4c49a91c3b0bd7399e8581214aaee0816403039ed250f4c063322219848108f0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Murió motorizado y su acompañante resultó herida de gravedad tras choque con una camioneta en Las Playitas",
-      "link": "https://noticialdia.com/sucesos/murio-motorizado-y-su-acompanante-resulto-herida-de-gravedad-tras-choque-con-una-camioneta-en-las-playitas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-59.webp?x95844"
+      "title": "Falleció mujer tras ser arrollada en la C-2 a la altura del sector Amparo",
+      "link": "https://noticialdia.com/sucesos/fallecio-mujer-tras-ser-arrollada-en-la-c-2-a-la-altura-del-sector-amparo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/PLANTILLA-LEILA-22.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "Starlink iniciará proceso de homologación de equipos ante Conatel",
-      "link": "https://noticierodigital.com/2026/07/starlink-iniciara-proceso-de-homologacion-de-equipos-ante-conatel/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/starlink-conatel-627x376.jpg"
+      "title": "CHAVISMO Y OPOSICIÓN MARCHAN ESTE MARTES EN CARACAS EN DISTINTOS PUNTOS",
+      "link": "https://noticierodigital.com/2026/07/chavismo-y-oposicion-marchan-este-martes-en-caracas-en-distintos-puntos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/marcha-chavismo-oposicion.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. confirma nueva ronda de conversaciones entre Israel y Líbano en Roma",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-confirma-nueva-ronda-de-conversaciones-entre-israel-y-libano-en-roma/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/lebanon-israel-1778905494425-8uzkr2-750x430.webp"
+      "title": "Keiko Fujimori asume este martes la Presidencia de Perú",
+      "link": "https://diarioversionfinal.com/mundo/keiko-fujimori-asume-este-martes-la-presidencia-de-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/keiko-fujimori-105-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-28T12:53:33.165Z"
+  "lastUpdate": "2026-07-28T13:26:40.626Z"
 };
