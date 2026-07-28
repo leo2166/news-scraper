@@ -113,7 +113,7 @@
                     clone.querySelector('.source-tag').textContent = item.source;
                     
                     let imageUrl = item.image || 'https://via.placeholder.com/300x160?text=No+Image';
-                    if (item.image && item.image.includes('bancaynegocios.com')) {
+                    if (item.image && (item.image.includes('bancaynegocios.com') || item.image.includes('noticialdia.com'))) {
                         imageUrl = `https://images.weserv.nl/?url=${encodeURIComponent(item.image)}`;
                     }
                     clone.querySelector('.news-image').src = imageUrl;
