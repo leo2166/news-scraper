@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 29 Julio 2026"
     },
     "binance": {
-      "usdt": "843,10"
+      "usdt": "845,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Análisis: Hay que reactivar la economía y sin el sector privado no hay forma de levantarla",
-      "link": "https://www.bancaynegocios.com/analisis-hay-reactivar-la-economia-y-sin-el-sector-privado-no-hay-forma-de-levantarla/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
+      "title": "Gobierno subsidiará entre 50% y 80% del valor de viviendas de hasta US$100.000 para damnificados",
+      "link": "https://www.bancaynegocios.com/gobierno-subsidiara-entre-50-porciento-y-80-porciento-del-valor-de-viviendas-de-hasta-us100-000-para-damnificados/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-02072026.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezolanos marcharon en Caracas para exigir elecciones libres y que se permita el regreso de María Corina Machado",
-      "link": "https://www.infobae.com/venezuela/2026/07/28/venezolanos-marcharon-en-caracas-para-exigir-elecciones-libres-y-que-se-permita-el-regreso-de-maria-corina-machado/",
-      "image": "https://www.infobae.com/resizer/v2/UR6BE7I4QFC37H53MAENTXGJFI.jpg?auth=375284f3c6835ce8acd2e4285fdbe0b04cab47b80dd86de60b5ae5299bf17dcc&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez anunció que los bancos darán créditos subsidiados para la compra casas a los afectados por el doble terremoto",
+      "link": "https://www.infobae.com/venezuela/2026/07/29/delcy-rodriguez-anuncio-que-los-bancos-daran-creditos-subsidiados-para-la-compra-casas-a-los-afectados-por-el-doble-terremoto/",
+      "image": "https://www.infobae.com/resizer/v2/NR3I6SCOGNHZ5A5WC6KBBO6KMI.jpg?auth=0aba58651784c2023e79d40dfb3934767e766f74f7f132cc0499290159a7d1ea&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Guerra-EEUU-Iran-28-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-29T04:11:48.016Z"
+  "lastUpdate": "2026-07-29T07:42:56.143Z"
 }
