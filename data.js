@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "744,23",
-      "eur": "846,07",
-      "fechaValor": "Miércoles, 29 Julio 2026"
+      "usd": "745,64",
+      "eur": "848,83",
+      "fechaValor": "Jueves, 30 Julio 2026"
     },
     "binance": {
       "usdt": "846,00"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cuatro heridos dejó choque frontal entre dos motocicletas en Táchira",
-      "link": "https://noticialdia.com/sucesos/choque-frontal-entre-dos-motocicletas-deja-cuatro-heridos-en-cardenas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/PLANTILLA-LEILA-50.webp?x95844"
+      "title": "Agresor de la empresaria en Bogotá dio su versión de los hechos: Alega \"estrés extremo\" por abusos laborales",
+      "link": "https://noticialdia.com/viral/agresor-de-la-empresaria-en-bogota-dio-su-version-de-los-hechos-alega-estres-extremo-por-abusos-laborales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/v-efe-3.webp?x95844"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado Aníbal Sánchez define el diálogo del 1° de agosto como una \"mesa de resolución de conflictos\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-anibal-sanchez-define-el-dialogo-del-10-de-agosto-como-una-mesa-de-resolucion-de-conflictos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9855.jpg-1-e0b72f.jpeg"
+      "title": "Foro Penal confirma  la liberación del coronel del Ejército José Jesús Lozano Mogollón",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-la-liberacion-del-coronel-del-ejercito-jose-jesus-lozano-mogollon",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copia-de-no-borrar-plantilas-5-3dfe50.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONDOMINIOS PODRÁN CONTRATAR A PRIVADOS PARA EVALUAR ASCENSORES: MINCOMERCIO PREPARA DISPOSICIÓN",
-      "link": "https://noticierodigital.com/2026/07/condominios-podran-contratar-a-privados-para-evaluar-ascensores-mincomercio-prepara-disposicion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-14-627x376.png"
+      "title": "LASER AIRLINES HABILITA VUELOS DESDE PALO NEGRO PARA CONECTAR CON RUTAS INTERNACIONALES",
+      "link": "https://noticierodigital.com/2026/07/laser-airlines-habilita-vuelos-desde-palo-negro-para-conectar-con-rutas-internacionales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/laser-airlines-venezuela-maiquetia-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Nuevo terremoto de magnitud 5,8 sacude el sudoeste de Japón tras sismo con 18 muertos",
-      "link": "https://laverdad.com/nuevo-terremoto-de-magnitud-58-sacude-el-sudoeste-de-japon-tras-sismo-con-18-muertos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Terremoto-Japon.jpg"
+      "title": "Ordenan captura de Evo Morales por las protestas de mayo y junio en Bolivia",
+      "link": "https://laverdad.com/ordenan-captura-de-evo-morales-por-las-protestas-de-mayo-y-junio-en-bolivia/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/01/merlin_164864307_b2a9b7af-2fea-4b71-8060-2d5bea5031d6-superJumbo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Audiencia Nacional ordena rastrear movimientos bancarios de Zapatero en investigación por Plus Ultra",
-      "link": "https://diarioversionfinal.com/mundo/la-audiencia-nacional-ordena-rastrear-movimientos-bancarios-de-zapatero-en-investigacion-por-plus-ultra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/pp-zapatero-koldo-senado-750x430.webp"
+      "title": "Trump advierte a Teherán tras ofensiva contra una base de EE.UU.: “Los vamos a golpear duro”",
+      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-teheran-tras-ofensiva-contra-una-base-de-ee-uu-los-vamos-a-golpear-duro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-29T19:15:41.416Z"
+  "lastUpdate": "2026-07-29T20:55:26.944Z"
 };
