@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Análisis: Relajación de FinCEN como ventana de oportunidad para Venezuela",
-      "link": "https://www.bancaynegocios.com/analisis-relajacion-de-fincen-como-ventana-de-oportunidad-para-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/ofac.webp"
+      "title": "Pagan \"Bono de Corresponsabilidad y Formación\" de julio a trabajadores de nómina especial: equivale a US$119,99",
+      "link": "https://www.bancaynegocios.com/pagan-bono-de-corresponsabilidad-y-formacion-de-julio-a-trabajadores-de-nomina-especial-equivale-a-us119punto99/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LASER AIRLINES HABILITA VUELOS DESDE PALO NEGRO PARA CONECTAR CON RUTAS INTERNACIONALES",
-      "link": "https://noticierodigital.com/2026/07/laser-airlines-habilita-vuelos-desde-palo-negro-para-conectar-con-rutas-internacionales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/laser-airlines-venezuela-maiquetia-627x376.jpg"
+      "title": "FORO PENAL CONFIRMÓ LA EXCARCELACIÓN DEL CORONEL JOSÉ JESÚS LOZANO MOGOLLÓN",
+      "link": "https://noticierodigital.com/2026/07/foro-penal-confirmo-la-excarcelacion-del-coronel-jose-jesus-lozano-mogollon/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Jose-Jesus-Lozano-Mogollon-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump advierte a Teherán tras ofensiva contra una base de EE.UU.: “Los vamos a golpear duro”",
-      "link": "https://diarioversionfinal.com/mundo/trump-advierte-a-teheran-tras-ofensiva-contra-una-base-de-ee-uu-los-vamos-a-golpear-duro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
+      "title": "Trump pide al Congreso de EE. UU. incluir aranceles a Irán además de las sanciones",
+      "link": "https://diarioversionfinal.com/mundo/trump-pide-al-congreso-de-ee-uu-incluir-aranceles-a-iran-ademas-de-las-sanciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-13-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-29T20:55:26.944Z"
+  "lastUpdate": "2026-07-29T22:01:07.432Z"
 };
