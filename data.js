@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 29 Julio 2026"
     },
     "binance": {
-      "usdt": "844,90"
+      "usdt": "846,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gobierno subsidiará entre 50% y 80% del valor de viviendas de hasta US$100.000 para damnificados",
-      "link": "https://www.bancaynegocios.com/gobierno-subsidiara-entre-50-porciento-y-80-porciento-del-valor-de-viviendas-de-hasta-us100-000-para-damnificados/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-02072026.jpg"
+      "title": "#Análisis: Relajación de FinCEN como ventana de oportunidad para Venezuela",
+      "link": "https://www.bancaynegocios.com/analisis-relajacion-de-fincen-como-ventana-de-oportunidad-para-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/ofac.webp"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció créditos subsidiados para que los afectados por los terremotos en Venezuela puedan comprar viviendas",
-      "link": "https://www.infobae.com/venezuela/2026/07/29/delcy-rodriguez-anuncio-que-los-bancos-daran-creditos-subsidiados-para-la-compra-casas-a-los-afectados-por-el-doble-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/NR3I6SCOGNHZ5A5WC6KBBO6KMI.jpg?auth=0aba58651784c2023e79d40dfb3934767e766f74f7f132cc0499290159a7d1ea&smart=true&width=350&height=197&quality=85"
+      "title": "EEUU suavizó los controles a los bancos para facilitar las transacciones con Venezuela tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/29/eeuu-suavizo-los-controles-a-los-bancos-para-facilitar-las-transacciones-con-venezuela-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/HQ5UT4P5VFHRFHISDFRZOA2DOY.jpg?auth=d1056d8dd2ef63cb4a2c35d99dea07a0560077d0c97a08c9afdcda8a2089679e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,21 +33,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Fuerzas estadounidenses y saudíes atacan a aliados de Irán en Iraq",
-      "link": "https://cnnespanol.cnn.com/2026/07/28/mundo/live-news/guerra-israel-iran-estados-unidos-estrecho-de-ormuz-1-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2286821261-20260729011427485.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Arabia Saudita entra en la guerra entre EE.UU. e Irán",
+      "link": "https://cnnespanol.cnn.com/2026/07/29/mundo/live-news/guerra-israel-iran-estados-unidos-estrecho-de-ormuz-2-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260729104752792.Jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno Nacional felicita a la República del Perú a 205 años de la declaración de independencia",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-felicita-al-peru-a-205-anos-de-la-declaracion-de-independencia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/comunicado-a0c641.png"
+      "title": "Presidenta encargada Delcy Rodríguez anuncia subsidios para afectados por los terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-anuncia-subsidios-para-afectados-por-los-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/productodestacado260727063224-69d7b6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES ASEGURÓ QUE EL VOTO DE LOS VENEZOLANOS «NADIE LO PUEDE BORRAR»",
-      "link": "https://noticierodigital.com/2026/07/capriles-aseguro-que-el-voto-de-los-venezolanos-nadie-lo-puede-borrar/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/henrique-capriles-radonski-627x376.jpg"
+      "title": "",
+      "link": "https://noticierodigital.com/2026/07/260764/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/platanos-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. frustró un ataque de Irán que puso fin a breve pausa en los combates",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-frustro-un-ataque-de-iran-que-puso-fin-a-breve-pausa-en-los-combates/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Guerra-EEUU-Iran-28-07-2026-750x430.webp"
+      "title": "Rusia acusa a Pável Dúrov de cooperación con el terrorismo y ordena su búsqueda internacional",
+      "link": "https://diarioversionfinal.com/mundo/rusia-acusa-a-pavel-durov-de-cooperacion-con-el-terrorismo-y-ordena-su-busqueda-internacional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-29T084631.135.jpg"
     }
   ],
-  "lastUpdate": "2026-07-29T10:38:46.389Z"
+  "lastUpdate": "2026-07-29T13:00:18.334Z"
 };
