@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 29 Julio 2026"
     },
     "binance": {
-      "usdt": "846,00"
+      "usdt": "845,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "EEUU suavizó los controles a los bancos para facilitar las transacciones con Venezuela tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/29/eeuu-suavizo-los-controles-a-los-bancos-para-facilitar-las-transacciones-con-venezuela-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/HQ5UT4P5VFHRFHISDFRZOA2DOY.jpg?auth=d1056d8dd2ef63cb4a2c35d99dea07a0560077d0c97a08c9afdcda8a2089679e&smart=true&width=350&height=197&quality=85"
+      "title": "Los aliados Irán y China se muestran poco solidarios con las desgracias de la revolución chavista",
+      "link": "https://www.infobae.com/venezuela/2026/07/29/los-aliados-iran-y-china-se-muestran-poco-solidarios-con-las-desgracias-de-la-revolucion-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/ARUP2MPH5BHMVBGL3L5GWUBY3Q.JPG?auth=e8c462a1af4bee30481911ab261233b97372696714825f1729731b50c39617cd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Destrozó a hachazos el carro de su expareja alegando que él lo había comprado y terminó preso en Falcón",
-      "link": "https://noticialdia.com/al-dia/destrozo-a-hachazos-el-carro-de-su-expareja-alegando-que-el-lo-habia-comprado-y-termino-preso-en-falcon/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/v-efe-8.webp?x95844"
+      "title": "Jornada accidentada en el Kilómetro 2: Dos choques viales movilizaron a los cuerpos de seguridad",
+      "link": "https://noticialdia.com/sucesos/jornada-accidentada-en-el-kilometro-2-dos-choques-viales-movilizaron-a-los-cuerpos-de-seguridad/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/PLANTILLA-LEILA-39.webp?x95844"
     },
     {
       "source": "CNN en Español",
-      "title": "Arabia Saudita entra en la guerra entre EE.UU. e Irán",
-      "link": "https://cnnespanol.cnn.com/2026/07/29/mundo/live-news/guerra-israel-iran-estados-unidos-estrecho-de-ormuz-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260729104752792.Jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Crece el escepticismo entre los estadounidenses sobre la gestión de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/07/29/eeuu/encuesta-trump-eeuu-problemas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260729104752792.Jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez anuncia subsidios para afectados por los terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-anuncia-subsidios-para-afectados-por-los-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/productodestacado260727063224-69d7b6.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez se reúne con delegación de EE.UU. para evaluar cooperación energética",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-se-reune-con-delegacion-de-eeuu-para-evaluar-cooperacion-energetica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-07-29-at-10.50.43-am-fb05b0.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "",
-      "link": "https://noticierodigital.com/2026/07/260764/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/platanos-venezuela-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ SOSTUVO REUNIÓN CON DELEGACIÓN EE. UU. PARA EVALUAR RESPUESTA A LOS SISMOS",
+      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-sostuvo-reunion-con-delegacion-ee-uu-para-evaluar-respuesta-a-los-sismos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-17-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rusia acusa a Pável Dúrov de cooperación con el terrorismo y ordena su búsqueda internacional",
-      "link": "https://diarioversionfinal.com/mundo/rusia-acusa-a-pavel-durov-de-cooperacion-con-el-terrorismo-y-ordena-su-busqueda-internacional/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-29T084631.135.jpg"
+      "title": "Atentan contra comandante de Policía de Puerto Santander en zona rural de Cúcuta",
+      "link": "https://diarioversionfinal.com/mundo/atentan-contra-comandante-de-policia-de-puerto-santander-en-zona-rural-de-cucuta/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2-447x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-29T13:00:18.334Z"
+  "lastUpdate": "2026-07-29T15:15:23.744Z"
 };
