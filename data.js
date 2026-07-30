@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "745,64",
-      "eur": "848,83",
-      "fechaValor": "Jueves, 30 Julio 2026"
+      "usd": "746,63",
+      "eur": "858,98",
+      "fechaValor": "Viernes, 31 Julio 2026"
     },
     "binance": {
-      "usdt": "849,00"
+      "usdt": "850,48"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Incrementó más de 21% en bolívares: Pagan bono \"Cultores Populares\" de julio de 2026 (+monto)",
-      "link": "https://www.bancaynegocios.com/incremento-mas-de-21-porciento-en-bolivares-pagan-bono-cultores-populares-de-julio-de-2026-monto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Aumentó 18,09% en bolívares: Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de julio",
+      "link": "https://www.bancaynegocios.com/aumento-18punto09-porciento-en-bolivares-pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-julio/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Denuncian que nuevos “pranes” toman el lugar del “Niño Guerrero” en el control de la minería ilegal en el sur de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/07/30/denuncian-que-nuevos-pranes-toman-el-lugar-del-nino-guerrero-en-el-control-de-la-mineria-ilegal-en-el-sur-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/XTM3XMXQ2VEJ3KVHYCZSA5I2N4.jpg?auth=288ebe4df5f70e71395dd23537d619ec2850af110eb386d2e4421b06cfa12ab8&smart=true&width=350&height=197&quality=85"
+      "title": "Más de un mes después del doble terremoto, Venezuela inició la demolición de edificios inestables en La Guaira",
+      "link": "https://www.infobae.com/venezuela/2026/07/30/mas-de-un-mes-despues-del-doble-terremoto-venezuela-inicio-la-demolicion-de-edificios-inestables-en-la-guaira/",
+      "image": "https://www.infobae.com/resizer/v2/EGEDICIWH5FKPIYI5TDMKCKO7A.jpg?auth=3215563e605170bf1c5d6977af1b241f95d2cc093c29a245b56f2f1205323c91&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LAWRENCE CASTRO: «MESAS DE TRABAJO DEL 1 AGOSTO SON UNA OPORTUNIDAD PARA RESTITUIR LA DEMOCRACIA DE LA MANO DE EE. UU.»",
-      "link": "https://noticierodigital.com/2026/07/lawrence-castro-mesas-de-trabajo-del-1-agosto-son-una-oportunidad-para-restituir-la-democracia-de-la-mano-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/IMG-20260730-WA0113-627x376.jpg"
+      "title": "DEMOLIERON EDIFICIO AFECTADO POR EL DOBLE TERREMOTO EN PLAYA GRANDE",
+      "link": "https://noticierodigital.com/2026/07/demolieron-edificio-afectado-por-el-doble-terremoto-en-playa-grande/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/demolicion-playa-grande-la-guaira-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de Trump propone multas de hasta 3.500 dólares en tribunales de inmigración",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-de-trump-propone-multas-de-hasta-3-500-dolares-en-tribunales-de-inmigracion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/2146.avif"
+      "title": "Avalancha de migrantes africanos en Ceuta deja al menos 10 muertos",
+      "link": "https://diarioversionfinal.com/mundo/avalancha-de-migrantes-africanos-en-ceuta-deja-al-menos-10-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Migrantes-en-Ceuta-30-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-30T20:13:41.127Z"
+  "lastUpdate": "2026-07-30T22:05:14.437Z"
 };
