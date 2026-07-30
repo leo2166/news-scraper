@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. dice que lanzó más ataques de represalia contra Irán",
+      "title": "EE.UU. reanuda ataques contra Irán mientras la guerra involucra a más países",
       "link": "https://cnnespanol.cnn.com/2026/07/29/mundo/live-news/guerra-israel-iran-estados-unidos-estrecho-de-ormuz-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2287542891-20260730012732577.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260730054450262.Jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Varias explosiones se registran en el sur de Irán tras ataques de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/varias-explosiones-se-registran-en-el-sur-de-iran-tras-ataques-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Explosiones-Iran-29-07-2026-750x430.jpg"
+      "title": "Fiscalía de Bolivia confirma nueva orden de captura contra Evo Morales por bloqueos",
+      "link": "https://diarioversionfinal.com/mundo/fiscalia-de-bolivia-confirma-nueva-orden-de-captura-contra-evo-morales-por-bloqueos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/09/Evo-Morales-18-09-2021-Archivo-EFE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-30T03:15:41.137Z"
+  "lastUpdate": "2026-07-30T06:27:45.201Z"
 };
