@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "“Sin razones para vivir”: psicólogos advierten sobre el drama que viven los sobrevivientes a los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/07/31/sin-razones-para-vivir-psicologos-advierten-sobre-el-drama-que-viven-los-sobrevivientes-a-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/526QMB3K3NGKHI6FZNZD6TPEYA.jpg?auth=a614664bce31b1466035bc875ba47f5f64314ab9148bc0b9cc91f8d346b8d967&smart=true&width=350&height=197&quality=85"
+      "title": "ONG desmienten a Delcy Rodríguez y afirman que la realidad de los presos políticos continúa siendo crítica",
+      "link": "https://www.infobae.com/venezuela/2026/07/31/ong-desmienten-a-delcy-rodriguez-y-afirman-que-la-realidad-de-los-presos-politicos-continua-siendo-critica/",
+      "image": "https://www.infobae.com/resizer/v2/7PAL4NZYEBDURDCVPQDNLJI7TQ.jpg?auth=5d55513db61f85a2e1066d2df414567e6caddb8efeb0cbe052ddcab7729b7015&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Rodríguez informó que se construirán 1.875 viviendas en Catia La Mar",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-informo-que-se-construiran-1875-viviendas-en-catia-la-mar",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/inspeccion-terrenos-delcy-rodriguez-4545c5.jpg"
+      "title": "Alberto Galíndez espera que el diálogo del 1° de agosto priorice al país y no a intereses partidistas",
+      "link": "https://noticiasvenevision.com/noticias/politica/alberto-galindez-espera-que-el-dialogo-del-10-de-agosto-priorice-al-pais-y-no-a-intereses-partidistas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_sygw7xsygw7xsygw-a02219.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUBIO ELOGIA ACTUACIÓN DE EE. UU. POR TERREMOTOS EN VENEZUELA: «FUE UNA DE LAS MÁS RÁPIDAS»",
-      "link": "https://noticierodigital.com/2026/07/rubio-elogia-actuacion-de-ee-uu-por-terremotos-en-venezuela-fue-una-de-las-mas-rapidas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-1-627x376.jpg"
+      "title": "PASAJE URBANO SUBE A BS 190 A PARTIR DE ESTE 1 DE AGOSTO",
+      "link": "https://noticierodigital.com/2026/07/pasaje-urbano-sube-a-bs-190-a-partir-de-este-1-de-agosto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/08/aumento-pasaje.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juez del caso Plus Ultra rectifica y estudiará ocho nulidades planteadas por Zapatero",
-      "link": "https://diarioversionfinal.com/mundo/juez-del-caso-plus-ultra-rectifica-y-estudiara-ocho-nulidades-planteadas-por-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/17118203-750x430.jpg"
+      "title": "Mauricio Claver-Carone deja su rol como asesor clave de Trump sobre Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/mauricio-claver-carone-deja-su-rol-como-asesor-clave-de-trump-sobre-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/23trump-news-Latin-America-articleLarge.webp"
     }
   ],
-  "lastUpdate": "2026-07-31T17:36:17.503Z"
+  "lastUpdate": "2026-07-31T19:24:03.760Z"
 };
