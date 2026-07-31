@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 31 Julio 2026"
     },
     "binance": {
-      "usdt": "847,91"
+      "usdt": "844,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,20 +21,20 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela iniciará este sábado una negociación para una transición política entre el chavismo y un sector de la oposición respaldado por EEUU",
-      "link": "https://www.infobae.com/venezuela/2026/07/31/venezuela-iniciara-este-sabado-una-negociacion-para-una-transicion-politica-entre-el-chavismo-y-un-sector-de-la-oposicion-respaldado-por-eeuu/",
-      "image": "https://www.infobae.com/resizer/v2/Z6T7P476Y5G5NBZKR6CBGPKLKE.jpg?auth=afe78880f0ba5b393d66f1421d369becd1011f75e094fa6ed5680c18df6f9298&smart=true&width=350&height=197&quality=85"
+      "title": "“Sin razones para vivir”: psicólogos advierten sobre el drama que viven los sobrevivientes a los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/07/31/sin-razones-para-vivir-psicologos-advierten-sobre-el-drama-que-viven-los-sobrevivientes-a-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/526QMB3K3NGKHI6FZNZD6TPEYA.jpg?auth=a614664bce31b1466035bc875ba47f5f64314ab9148bc0b9cc91f8d346b8d967&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Adolescente de 16 años muere ahogado en Puerto Cabello al ser arrastrado por el oleaje",
-      "link": "https://noticialdia.com/al-dia/adolescente-de-16-anos-muere-ahogado-en-puerto-cabello-al-ser-arrastrado-por-el-oleaje/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-72.webp?x35181"
+      "title": "Tragedia escolar en Chile: Adolescente venezolano muere apuñalado tras riña en San Bernardo",
+      "link": "https://noticialdia.com/al-dia/tragedia-escolar-en-adolescente-venezolano-muere-apunalado-tras-rina-en-san-bernardo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-74.webp?x35181"
     },
     {
       "source": "CNN en Español",
-      "title": "Sánchez intenta calmar la crisis tras el cruce masivo de migrantes a Ceuta",
-      "link": "https://cnnespanol.cnn.com/2026/07/31/mundo/espana-ceuta-marruecos-decena-miles-migrantes-cruce-reux",
+      "title": "“Absolutamente insostenible”: qué hay detrás del aluvión de migrantes en Ceuta",
+      "link": "https://cnnespanol.cnn.com/2026/07/31/espana/absolutamente-insostenible-ola-migrantes-ceuta-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/hamas-desarme-76.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNT PLANTEA REESTRUCTURAR A LA OPOSICIÓN Y «UNA NUEVA UNIDAD»",
-      "link": "https://noticierodigital.com/2026/07/unt-plantea-reestructurar-a-la-oposicion-y-una-nueva-unidad/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-5-1-627x376.jpg"
+      "title": "RUBIO ELOGIA ACTUACIÓN DE EE. UU. POR TERREMOTOS EN VENEZUELA: «FUE UNA DE LAS MÁS RÁPIDAS»",
+      "link": "https://noticierodigital.com/2026/07/rubio-elogia-actuacion-de-ee-uu-por-terremotos-en-venezuela-fue-una-de-las-mas-rapidas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/marco-rubio-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Elevan a 35 los muertos tras terremoto en Japón y sigue la búsqueda de atrapados",
-      "link": "https://laverdad.com/elevan-a-35-los-muertos-tras-terremoto-en-japon-y-sigue-la-busqueda-de-atrapados/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Elevan-a-35-los-muertos-tras-terremoto-en-Japon-y-sigue-la-busqueda-de-atrapados-scaled.jpg"
+      "title": "EE. UU. acusa a España de “facilitar la inmigración ilegal masiva a Europa”",
+      "link": "https://laverdad.com/ee-uu-acusa-a-espana-de-facilitar-la-inmigracion-ilegal-masiva-a-europa/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Ceuta-migrantes-marroquies.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sánchez evalúa reformar la ley de extranjería para agilizar repatriaciones tras llegada masiva a Ceuta",
-      "link": "https://diarioversionfinal.com/mundo/sanchez-evalua-reformar-la-ley-de-extranjeria-para-agilizar-repatriaciones-tras-llegada-masiva-a-ceuta/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/04/pedro-sanchez-28-de-abril-2025-720x430.jpg"
+      "title": "Juez del caso Plus Ultra rectifica y estudiará ocho nulidades planteadas por Zapatero",
+      "link": "https://diarioversionfinal.com/mundo/juez-del-caso-plus-ultra-rectifica-y-estudiara-ocho-nulidades-planteadas-por-zapatero/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/17118203-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-31T15:19:17.478Z"
+  "lastUpdate": "2026-07-31T17:36:17.503Z"
 };
