@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 31 Julio 2026"
     },
     "binance": {
-      "usdt": "855,20"
+      "usdt": "853,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump anuncia acuerdo para el desarme de Hamas pero persiste la incertidumbre",
-      "link": "https://cnnespanol.cnn.com/2026/07/30/mundo/acuerdo-desarme-hamas-gaza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260731093203307.Jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "España y Marruecos intentan frenar el mortal cruce masivo de migrantes a Ceuta",
+      "link": "https://cnnespanol.cnn.com/2026/07/31/mundo/espana-ceuta-marruecos-decena-miles-migrantes-cruce-reux",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hamas-desarme-76.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ EVALUÓ AVANCES DEL PLAN DE VIVIENDAS PARA AFECTADOS POR LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-evaluo-avances-del-plan-de-viviendas-para-afectados-por-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Delcy-Rodriguez-ven-627x376.jpg"
+      "title": "CHEVRON PREVÉ AUMENTAR EN 15% SU PRODUCCIÓN EN VENEZUELA EN UNOS 24 MESES",
+      "link": "https://noticierodigital.com/2026/07/chevron-preve-aumentar-en-15-su-produccion-en-venezuela-en-unos-24-meses/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/chevron-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Avalancha de migrantes africanos en Ceuta deja al menos 10 muertos",
-      "link": "https://diarioversionfinal.com/mundo/avalancha-de-migrantes-africanos-en-ceuta-deja-al-menos-10-muertos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Migrantes-en-Ceuta-30-07-2026-750x430.jpg"
+      "title": "China cuestiona la creación de la Agencia Nacional de Inteligencia de Japón",
+      "link": "https://diarioversionfinal.com/mundo/china-cuestiona-la-creacion-de-la-agencia-nacional-de-inteligencia-de-japon/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Mao-Ning-China-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-31T10:38:27.147Z"
+  "lastUpdate": "2026-07-31T12:55:06.289Z"
 }
