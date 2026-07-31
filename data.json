@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 31 Julio 2026"
     },
     "binance": {
-      "usdt": "850,48"
+      "usdt": "852,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Aumentó 18,09% en bolívares: Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de julio",
-      "link": "https://www.bancaynegocios.com/aumento-18punto09-porciento-en-bolivares-pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-julio/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
+      "title": "Pagan Bono de Responsabilidad Profesional de julio a trabajadores de sectores estratégicos (+Detalles)",
+      "link": "https://www.bancaynegocios.com/pagan-bono-de-responsabilidad-profesional-de-julio-a-trabajadores-de-sectores-estrategicos-detalles/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1783718809801.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Registro único contabilizó mil 338 desaparecidos por doble terremoto en la Guaira",
-      "link": "https://noticialdia.com/al-dia/registro-unico-contabilizo-mil-338-desaparecidos-por-doble-terremoto-en-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/plantilla-erne-94.webp?x35181"
+      "title": "Ejecutan la primera explosión controlada en un edificio de la OPP Luisa Caceres de Arismendi en La Guaira",
+      "link": "https://noticialdia.com/al-dia/ejecutan-la-primera-explosion-controlada-en-un-edificio-de-la-opp-luisa-caceres-de-arismendi-en-la-guaira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-14-7.webp?x35181"
     },
     {
       "source": "CNN en Español",
-      "title": "El “Súper Niño” ya está aquí: este es el impacto que espera América Latina",
-      "link": "https://cnnespanol.cnn.com/2026/07/30/latinoamerica/super-nino-paises-medidas-clima-extremo-calor-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c62987a2eff97a9f6052c9daa849666805a5623ew.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump dice que se logró un acuerdo para el \"desarme completo\" de Hamas",
+      "link": "https://cnnespanol.cnn.com/2026/07/30/mundo/acuerdo-desarme-hamas-gaza-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-20t075144z-1007242930-rc248kahwvvu-rtrmadp-3-religion-eid-gaza-20260730234813959.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jesús Yánez considera \"valiosa\" la propuesta de Estados Unidos para la reinstitucionalización del país",
-      "link": "https://noticiasvenevision.com/noticias/politica/jesus-yanez-considera-valiosa-la-propuesta-de-estados-unidos-para-la-reinstitucionalizacion-del-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_vcd2wlvcd2wlvcd2-ea6ec6.png"
+      "title": "Presidenta encargada Delcy Rodríguez en la portada de la revista Time",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-en-la-portada-de-la-revista-time",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_761531395_18613650367031795_2123895834072736882_n-f509ce.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEMOLIERON EDIFICIO AFECTADO POR EL DOBLE TERREMOTO EN PLAYA GRANDE",
-      "link": "https://noticierodigital.com/2026/07/demolieron-edificio-afectado-por-el-doble-terremoto-en-playa-grande/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/demolicion-playa-grande-la-guaira-627x376.jpg"
+      "title": "TERÁN ESTIMÓ EN 1.338 LOS DESAPARECIDOS POR LOS TERREMOTOS EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/07/teran-estimo-en-1-338-los-desaparecidos-por-los-terremotos-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Migrantes-en-Ceuta-30-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-30T22:05:14.437Z"
+  "lastUpdate": "2026-07-31T00:01:22.444Z"
 }
