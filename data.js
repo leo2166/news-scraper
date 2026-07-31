@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 31 Julio 2026"
     },
     "binance": {
-      "usdt": "850,00"
+      "usdt": "856,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Chile y Venezuela reactivaron relaciones consulares tras un año y medio de ruptura diplomática",
-      "link": "https://www.infobae.com/venezuela/2026/07/31/chile-y-venezuela-reactivaron-relaciones-consulares-tras-un-ano-y-medio-de-ruptura-diplomatica/",
-      "image": "https://www.infobae.com/resizer/v2/G22HH73EHZAGPDFHHJ7AYPUS4E.jpg?auth=f85e356edbe11e90f36b4b2e969eb2881a18828600d502a7a2cea528a3fe5d36&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela iniciará este sábado una negociación para una transición política entre el chavismo y un sector de la oposición respaldado por EEUU",
+      "link": "https://www.infobae.com/venezuela/2026/07/31/venezuela-iniciara-este-sabado-una-negociacion-para-una-transicion-politica-entre-el-chavismo-y-un-sector-de-la-oposicion-respaldado-por-eeuu/",
+      "image": "https://www.infobae.com/resizer/v2/Z6T7P476Y5G5NBZKR6CBGPKLKE.jpg?auth=afe78880f0ba5b393d66f1421d369becd1011f75e094fa6ed5680c18df6f9298&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ EVALUÓ AVANCES DEL PLAN DE VIVIENDAS PARA AFECTADOS POR LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-evaluo-avances-del-plan-de-viviendas-para-afectados-por-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Delcy-Rodriguez-ven-627x376.jpg"
+      "title": "RETRASOS FRENAN LA ADAPTACIÓN DE PROYECTOS A LA REFORMA PETROLERA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/07/retrasos-frenan-la-adaptacion-de-proyectos-a-la-reforma-petrolera-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Delcy-Rodriguez-venezuela-chris-wright-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Migrantes-en-Ceuta-30-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-31T04:21:22.878Z"
+  "lastUpdate": "2026-07-31T07:49:40.611Z"
 };
