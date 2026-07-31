@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 31 Julio 2026"
     },
     "binance": {
-      "usdt": "856,00"
+      "usdt": "855,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que se logró un acuerdo para el \"desarme completo\" de Hamas",
+      "title": "Trump anuncia acuerdo para el desarme de Hamas pero persiste la incertidumbre",
       "link": "https://cnnespanol.cnn.com/2026/07/30/mundo/acuerdo-desarme-hamas-gaza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-20t075144z-1007242930-rc248kahwvvu-rtrmadp-3-religion-eid-gaza-20260730234813959.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260731093203307.Jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "RETRASOS FRENAN LA ADAPTACIÓN DE PROYECTOS A LA REFORMA PETROLERA EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/07/retrasos-frenan-la-adaptacion-de-proyectos-a-la-reforma-petrolera-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Delcy-Rodriguez-venezuela-chris-wright-eeuu-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ EVALUÓ AVANCES DEL PLAN DE VIVIENDAS PARA AFECTADOS POR LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/07/delcy-rodriguez-evaluo-avances-del-plan-de-viviendas-para-afectados-por-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Delcy-Rodriguez-ven-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Migrantes-en-Ceuta-30-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-31T07:49:40.611Z"
+  "lastUpdate": "2026-07-31T10:38:27.147Z"
 }
