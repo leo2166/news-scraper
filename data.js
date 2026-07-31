@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "845,00"
+      "usdt": "846,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "San Francisco promueve la seguridad vial de los motorizados con jornada de concienciación \"Rueda por la Vida\"",
-      "link": "https://noticialdia.com/al-dia/san-francisco-promueve-la-seguridad-vial-de-los-motorizados-con-jornada-de-concienciacion-rueda-por-la-vida/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-7-10.webp?x35181"
+      "title": "Incautan más de 3.300 kilos de cocaína en Monagas",
+      "link": "https://noticialdia.com/al-dia/incautan-mas-de-3-300-kilos-de-cocaina-en-monagas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-78.webp?x35181"
     },
     {
       "source": "CNN en Español",
-      "title": "“Absolutamente insostenible”: qué hay detrás del aluvión de migrantes en Ceuta",
-      "link": "https://cnnespanol.cnn.com/2026/07/31/espana/absolutamente-insostenible-ola-migrantes-ceuta-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hamas-desarme-76.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump enfrenta presiones opuestas para escalar o contener la guerra con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/07/31/eeuu/trump-mensajes-salida-guerra-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-gettyimages-2286592681.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Reino Unido celebra inicio de conversaciones políticas este 1 de agosto",
-      "link": "https://noticiasvenevision.com/noticias/politica/reino-unido-celebra-inicio-de-conversaciones-politicas-este-1-de-agosto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/s465_ar109629-3aead9.jpg"
+      "title": "AN autoriza nombramiento de Manuel Castillo Rengifo como embajador ante Belarús",
+      "link": "https://noticiasvenevision.com/noticias/politica/an-autoriza-nombramiento-de-manuel-castillo-rengifo-como-embajador-ante-belarus",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional.jpg-57c3bc.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PASAJE URBANO SUBE A BS 190 A PARTIR DE ESTE 1 DE AGOSTO",
-      "link": "https://noticierodigital.com/2026/07/pasaje-urbano-sube-a-bs-190-a-partir-de-este-1-de-agosto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/08/aumento-pasaje.jpg"
+      "title": "MAIQUETÍA REANUDARÁ LOS VUELOS DE CARGA A PARTIR DEL 5 DE AGOSTO",
+      "link": "https://noticierodigital.com/2026/07/maiquetia-reanudara-los-vuelos-de-carga-a-partir-del-5-de-agosto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/vuelos-aeropuerto-de-maiquetia.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ahora son 57 los migrantes fallecidos tras avalancha africana en Ceuta",
-      "link": "https://diarioversionfinal.com/mundo/ahora-son-57-los-migrantes-fallecidos-tras-avalancha-africana-en-ceuta/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Migrantes-en-Ceuta-31-07-2026-750x430.webp"
+      "title": "Irán intercepta dos petroleros bajo escolta aérea de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/iran-intercepta-dos-petroleros-bajo-escolta-aerea-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Estrecho-Ormuz-31-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-31T21:03:39.548Z"
+  "lastUpdate": "2026-07-31T22:59:44.432Z"
 };
