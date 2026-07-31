@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "746,63",
-      "eur": "858,98",
-      "fechaValor": "Viernes, 31 Julio 2026"
+      "usd": "748,79",
+      "eur": "861,19",
+      "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "844,00"
+      "usdt": "845,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "ONG desmienten a Delcy Rodríguez y afirman que la realidad de los presos políticos continúa siendo crítica",
-      "link": "https://www.infobae.com/venezuela/2026/07/31/ong-desmienten-a-delcy-rodriguez-y-afirman-que-la-realidad-de-los-presos-politicos-continua-siendo-critica/",
-      "image": "https://www.infobae.com/resizer/v2/7PAL4NZYEBDURDCVPQDNLJI7TQ.jpg?auth=5d55513db61f85a2e1066d2df414567e6caddb8efeb0cbe052ddcab7729b7015&smart=true&width=350&height=197&quality=85"
+      "title": "Fundador del chavismo aumenta presión sobre Delcy Rodríguez y exige transparencia en la negociación con la oposición",
+      "link": "https://www.infobae.com/venezuela/2026/07/31/fundador-del-chavismo-aumenta-presion-sobre-delcy-rodriguez-y-exige-transparencia-en-la-negociacion-con-la-oposicion/",
+      "image": "https://www.infobae.com/resizer/v2/BVXTOD5KENCOZHRG6GLUFJ5QU4.jpg?auth=9ea38797e03391b60bcda7df77d7b6998301f8c7aa127ca8e8125d1fd13326bc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Tragedia escolar en Chile: Adolescente venezolano muere apuñalado tras riña en San Bernardo",
-      "link": "https://noticialdia.com/al-dia/tragedia-escolar-en-adolescente-venezolano-muere-apunalado-tras-rina-en-san-bernardo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-74.webp?x35181"
+      "title": "San Francisco promueve la seguridad vial de los motorizados con jornada de concienciación \"Rueda por la Vida\"",
+      "link": "https://noticialdia.com/al-dia/san-francisco-promueve-la-seguridad-vial-de-los-motorizados-con-jornada-de-concienciacion-rueda-por-la-vida/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Diseno-sin-titulo-7-10.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alberto Galíndez espera que el diálogo del 1° de agosto priorice al país y no a intereses partidistas",
-      "link": "https://noticiasvenevision.com/noticias/politica/alberto-galindez-espera-que-el-dialogo-del-10-de-agosto-priorice-al-pais-y-no-a-intereses-partidistas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_sygw7xsygw7xsygw-a02219.png"
+      "title": "Reino Unido celebra inicio de conversaciones políticas este 1 de agosto",
+      "link": "https://noticiasvenevision.com/noticias/politica/reino-unido-celebra-inicio-de-conversaciones-politicas-este-1-de-agosto",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/s465_ar109629-3aead9.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Mauricio Claver-Carone deja su rol como asesor clave de Trump sobre Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/mauricio-claver-carone-deja-su-rol-como-asesor-clave-de-trump-sobre-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/23trump-news-Latin-America-articleLarge.webp"
+      "title": "Ahora son 57 los migrantes fallecidos tras avalancha africana en Ceuta",
+      "link": "https://diarioversionfinal.com/mundo/ahora-son-57-los-migrantes-fallecidos-tras-avalancha-africana-en-ceuta/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Migrantes-en-Ceuta-31-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-07-31T19:24:03.760Z"
+  "lastUpdate": "2026-07-31T21:03:39.548Z"
 };
