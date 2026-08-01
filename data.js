@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,00"
+      "usdt": "845,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Cómo se distribuye la ayuda humanitaria de EEUU a Venezuela tras los terremotos: “La solidaridad no tiene fronteras”",
-      "link": "https://www.infobae.com/venezuela/2026/08/01/como-se-distribuye-la-ayuda-humanitaria-de-eeuu-a-venezuela-tras-los-terremotos-la-solidaridad-no-tiene-fronteras/",
-      "image": "https://www.infobae.com/resizer/v2/DZHD7SM6AVHMBP72FFGLTZTPRU.jpg?auth=640b38f8aabd25247eb3519a3a83e749c64a7210fbcd7a8955b63aaa0456d681&smart=true&width=350&height=197&quality=85"
+      "title": "Jorge Rodríguez anunció que el diálogo con la oposición venezolana comenzará la próxima semana con una reunión presencial en Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/08/01/jorge-rodriguez-anuncio-que-el-dialogo-con-la-oposicion-venezolana-comenzara-la-proxima-semana-con-una-reunion-presencial-en-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/GLXDZOTBTFEGFBH2TH7XBBEB6Q.JPG?auth=652f05c9c8b412e764748fd7af5fa508f61ac2cd87d0a1802724436039c9faa6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador inspeccionó los trabajos de rehabilitación del gimnasio cubierto Antonio Borjas Romero",
-      "link": "https://noticialdia.com/al-dia/gobernador-inspecciono-los-trabajos-de-rehabilitacion-del-gimnasio-cubierto-antonio-borjas-romero/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-01T173208.307.webp?x35181"
+      "title": "Jorge Rodríguez confirma arranque del diálogo con la oposición la próxima semana",
+      "link": "https://noticialdia.com/principal/jorge-rodriguez-confirma-arranque-del-dialogo-con-la-oposicion-la-proxima-semana/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-29.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolano se declara culpable tras embestir vehículo de la Patrulla Fronteriza en EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/venezolano-se-declara-culpable-tras-embestir-vehiculo-de-la-patrulla-fronteriza-en-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/pic_1-1024x512.jpg-750x430.webp"
+      "title": "Trump vuelve a generar polémica tras publicar mapa de Venezuela como “Estado 51” de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/trump-vuelve-a-generar-polemica-tras-publicar-mapa-de-venezuela-como-estado-51-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-01T21:56:21.489Z"
+  "lastUpdate": "2026-08-01T22:56:17.295Z"
 };
