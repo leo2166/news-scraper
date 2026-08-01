@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,00"
+      "usdt": "845,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "AN autoriza nombramiento de Manuel Castillo Rengifo como embajador ante Belarús",
-      "link": "https://noticiasvenevision.com/noticias/politica/an-autoriza-nombramiento-de-manuel-castillo-rengifo-como-embajador-ante-belarus",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional.jpg-57c3bc.png"
+      "title": "Asamblea Nacional aprueba por unanimidad Ley de Arrendamiento de Viviendas",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-aprueba-por-unanimidad-ley-de-arrendamiento-de-viviendas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5145632912857304637_w-c0dcf6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MAIQUETÍA REANUDARÁ LOS VUELOS DE CARGA A PARTIR DEL 5 DE AGOSTO",
-      "link": "https://noticierodigital.com/2026/07/maiquetia-reanudara-los-vuelos-de-carga-a-partir-del-5-de-agosto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/vuelos-aeropuerto-de-maiquetia.jpg"
+      "title": "AN APROBÓ LA LEY DEL RÉGIMEN ESPECIAL DE ARRENDAMIENTO DE VIVIENDAS",
+      "link": "https://noticierodigital.com/2026/07/an-aprobo-la-ley-del-regimen-especial-de-arrendamiento-de-viviendas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Imagen-destacada_20260731_195704_0000-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Estrecho-Ormuz-31-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-07-31T22:59:44.432Z"
+  "lastUpdate": "2026-08-01T00:07:56.373Z"
 };
