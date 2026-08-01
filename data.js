@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "848,79"
+      "usdt": "848,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Incautan más de 3.300 kilos de cocaína en Monagas",
-      "link": "https://noticialdia.com/al-dia/incautan-mas-de-3-300-kilos-de-cocaina-en-monagas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/07/Plantilla-kelly-78.webp?x35181"
+      "title": "Al menos 10 heridos dejó explosión de carro bomba frente a una comisaría en región fronteriza con Venezuela",
+      "link": "https://noticialdia.com/sucesos/al-menos-10-heridos-dejo-explosion-de-carro-bomba-frente-a-una-comisaria-en-region-fronteriza-con-venezuela/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-96.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -45,8 +45,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÁS DE UN CENTENAR DE SEDES UNIVERSITARIAS SUFRIERON DAÑOS POR LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/07/mas-de-un-centenar-de-sedes-universitarias-sufrieron-danos-por-los-terremotos/",
+      "title": "UN MUERTO Y CINCO HERIDOS DEJÓ CHOQUE MÚLTIPLE EN LA AUTOPISTA VALLE-COCHE",
+      "link": "https://noticierodigital.com/2026/08/un-muerto-y-cinco-heridos-dejo-choque-multiple-en-la-autopista-valle-coche/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/07/ana-maria-sanjuan-627x376.jpg"
     },
     {
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nicaragua: El dictador Ortega, como era de esperarse, excluye a sus opositores de las futuras elecciones",
-      "link": "https://diarioversionfinal.com/mundo/nicaragua-el-dictador-ortega-como-era-de-esperarse-excluye-a-sus-opositores-de-las-futuras-elecciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/75LctNAm-image-750x430.jpg"
+      "title": "Venezuela y Aruba reanudan vuelos a partir de hoy",
+      "link": "https://diarioversionfinal.com/mundo/venezuela-y-aruba-reanudan-vuelos-a-partir-de-hoy/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/eX084YFT-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-01T11:23:56.061Z"
+  "lastUpdate": "2026-08-01T13:19:55.161Z"
 };
