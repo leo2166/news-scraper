@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "845,00"
+      "usdt": "846,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Mujer asesina a su hijo de 8 años e hiere a otro de 6",
-      "link": "https://noticialdia.com/nacionales/mujer-asesina-a-su-hijo-de-8-anos-e-hiere-a-otro-de-6/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/SaveClip.App_762768990_18332347870287610_5680573543805570869_n-1.webp?x35181"
+      "title": "Alcaldía de Maracaibo rescata Parque de los Sueños de Capitán Chico",
+      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-rescata-parque-de-los-suenos-de-capitan-chico/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-01T163233.318.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HUNT OIL CONFIRMÓ QUE EVALÚA DESARROLLAR PROYECTOS PETROLEROS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/08/hunt-oil-confirmo-que-evalua-desarrollar-proyectos-petroleros-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/hunt-oil-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ LANZÓ EL PLAN NACIONAL DE RECREACIÓN VACACIONAL EN TODO EL PAÍS",
+      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-lanzo-el-plan-nacional-de-recreacion-vacacional-en-todo-el-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcy-rodriguez-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Hunt Oil firma acuerdo para explorar oportunidades petroleras en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/hunt-oil-firma-acuerdo-para-explorar-oportunidades-petroleras-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/y5ZLaF31-images-2026-07-14T093741.229.jpg"
+      "title": "Venezolano se declara culpable tras embestir vehículo de la Patrulla Fronteriza en EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/venezolano-se-declara-culpable-tras-embestir-vehiculo-de-la-patrulla-fronteriza-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/pic_1-1024x512.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-01T19:22:21.282Z"
+  "lastUpdate": "2026-08-01T20:52:39.950Z"
 };
