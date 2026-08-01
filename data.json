@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,50"
+      "usdt": "846,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: El bolívar se depreció un 15% frente al dólar en julio",
-      "link": "https://www.bancaynegocios.com/dato-el-bolivar-se-deprecio-un-15-porciento-frente-al-dolar-en-julio/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
+      "title": "#Dato: Pasaje mínimo costará Bs. 190 a partir de este #1Ago",
+      "link": "https://www.bancaynegocios.com/dato-pasaje-minimo-costara-bs-190-a-partir-de-este-1ago/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/Transporte-publico.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Por cuatro millones de pesos asesinaron a María Camila Potosí: Salen a la luz los macabros detalles del caso",
-      "link": "https://noticialdia.com/al-dia/por-cuatro-millones-de-pesos-asesinaron-a-maria-camila-potosi-salen-a-la-luz-los-macabros-detalles-del-caso/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Maria-Camila-Potosi-1.webp?x35181"
+      "title": "Oposición y oficialismo preparados para el diálogo: El país expectante ante esta nueva etapa",
+      "link": "https://noticialdia.com/politica/oposicion-y-oficialismo-preparados-para-el-dialogo-el-pais-expectante-ante-esta-nueva-etapa-2/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-01T135930.675.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ASDRÚBAL OLIVEROS DEFENDIÓ EL ISLR, PERO PIDIÓ UNA REFORMA PROFUNDA DEL SISTEMA TRIBUTARIO",
-      "link": "https://noticierodigital.com/2026/08/asdrubal-oliveros-defendio-el-islr-pero-pidio-una-reforma-profunda-del-sistema-tributario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/asdrubaloliveros-24enero.jpg"
+      "title": "DEFENSORÍA DESPLEGÓ A 200 FUNCIONARIOS PARA PREVENIR LA TRATA DE PERSONAS",
+      "link": "https://noticierodigital.com/2026/08/defensoria-desplego-a-200-funcionarios-para-prevenir-la-trata-de-personas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/defensoria-del-pueblo-trata-de-personas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detienen a dos colombianos con 44 kilos de cocaína en operativo militar en Quito",
-      "link": "https://diarioversionfinal.com/mundo/detienen-a-dos-colombianos-con-44-kilos-de-cocaina-en-operativo-militar-en-quito/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/hombre-esposado_0.jpg"
+      "title": "El Rey expresa su “indignación” por la crisis de Ceuta",
+      "link": "https://diarioversionfinal.com/mundo/el-rey-expresa-su-indignacion-por-la-crisis-de-ceuta/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2017/10/Felipe-VI-Rey-España-Versión-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-01T16:08:56.937Z"
+  "lastUpdate": "2026-08-01T18:00:08.039Z"
 }
