@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "849,00"
+      "usdt": "846,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,19 +21,19 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La oposición venezolana y el chavismo se preparan para un nuevo diálogo en busca de la transición política en Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/08/01/la-oposicion-venezolana-y-el-gobierno-chavista-se-preparan-para-un-nuevo-dialogo-en-busca-de-la-transicion-politica-en-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/26S57MC365B47KFK2ZAT6HINR4.jpg?auth=e69d16bbfa2c1efc851694a1fa53f40708535b47994acecc5c24a6832116c86e&smart=true&width=350&height=197&quality=85"
+      "title": "Cómo se distribuye la ayuda humanitaria de EEUU a Venezuela tras los terremotos: “La solidaridad no tiene fronteras”",
+      "link": "https://www.infobae.com/venezuela/2026/08/01/como-se-distribuye-la-ayuda-humanitaria-de-eeuu-a-venezuela-tras-los-terremotos-la-solidaridad-no-tiene-fronteras/",
+      "image": "https://www.infobae.com/resizer/v2/DZHD7SM6AVHMBP72FFGLTZTPRU.jpg?auth=640b38f8aabd25247eb3519a3a83e749c64a7210fbcd7a8955b63aaa0456d681&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Rayo provoca incendio en la estación de servicio Bello Monte de Cabimas",
-      "link": "https://noticialdia.com/sucesos/rayo-provoca-incendio-en-la-estacion-de-servicio-bello-monte-de-cabimas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-21.webp?x35181"
+      "title": "Por cuatro millones de pesos asesinaron a María Camila Potosí: Salen a la luz los macabros detalles del caso",
+      "link": "https://noticialdia.com/al-dia/por-cuatro-millones-de-pesos-asesinaron-a-maria-camila-potosi-salen-a-la-luz-los-macabros-detalles-del-caso/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Maria-Camila-Potosi-1.webp?x35181"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump amenaza con nuevos ataques contra Irán",
+      "title": "Medio Oriente en vilo tras la amenaza de Trump de nuevos ataques contra Irán",
       "link": "https://cnnespanol.cnn.com/2026/08/01/mundo/live-news/guerra-ee-uu-iran-medio-oriente-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-guerra-amenaza.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CERRARÁN UN TRAMO DE LA AVENIDA FRANCISCO DE MIRANDA POR LA DEMOLICIÓN DE LA FACHADA DE LA TORRE PARQUE ÁVILA",
-      "link": "https://noticierodigital.com/2026/08/cerraran-un-tramo-de-la-avenida-francisco-de-miranda-por-la-demolicion-de-la-fachada-de-la-torre-parque-avila/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Destacada-simple_20260801_102630_0000-627x376.jpg"
+      "title": "ASDRÚBAL OLIVEROS DEFENDIÓ EL ISLR, PERO PIDIÓ UNA REFORMA PROFUNDA DEL SISTEMA TRIBUTARIO",
+      "link": "https://noticierodigital.com/2026/08/asdrubal-oliveros-defendio-el-islr-pero-pidio-una-reforma-profunda-del-sistema-tributario/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/asdrubaloliveros-24enero.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. acusa a España de “facilitar la inmigración ilegal masiva a Europa”",
-      "link": "https://laverdad.com/ee-uu-acusa-a-espana-de-facilitar-la-inmigracion-ilegal-masiva-a-europa/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/Ceuta-migrantes-marroquies.jpg"
+      "title": "EE. UU. exigirá fianza de hasta 20.000 dólares a venezolanos y ciudadanos de 49 países",
+      "link": "https://laverdad.com/ee-uu-exigira-fianza-de-hasta-20-000-dolares-a-venezolanos-y-ciudadanos-de-49-paises/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/EEUU_visas_fianza.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump califica de \"invasión\" la crisis migratoria en Ceuta y critica la respuesta de España",
-      "link": "https://diarioversionfinal.com/mundo/trump-califica-de-invasion-la-crisis-migratoria-en-ceuta-y-critica-la-respuesta-de-espana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AP26198039288934_president_donald_trump_071626-750x430.jpg"
+      "title": "Detienen a dos colombianos con 44 kilos de cocaína en operativo militar en Quito",
+      "link": "https://diarioversionfinal.com/mundo/detienen-a-dos-colombianos-con-44-kilos-de-cocaina-en-operativo-militar-en-quito/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/hombre-esposado_0.jpg"
     }
   ],
-  "lastUpdate": "2026-08-01T15:00:13.897Z"
+  "lastUpdate": "2026-08-01T16:08:56.937Z"
 };
