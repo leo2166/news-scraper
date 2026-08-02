@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,00"
+      "usdt": "848,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,27 +21,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Jorge Rodríguez anunció que el diálogo con la oposición venezolana comenzará la próxima semana con una reunión presencial en Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/08/01/jorge-rodriguez-anuncio-que-el-dialogo-con-la-oposicion-venezolana-comenzara-la-proxima-semana-con-una-reunion-presencial-en-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/GLXDZOTBTFEGFBH2TH7XBBEB6Q.JPG?auth=652f05c9c8b412e764748fd7af5fa508f61ac2cd87d0a1802724436039c9faa6&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado afirmó que las libertades del pueblo venezolano deben ser el centro del diálogo entre la oposición y el chavismo",
+      "link": "https://www.infobae.com/venezuela/2026/08/02/maria-corina-machado-afirmo-que-las-libertades-del-pueblo-venezolano-deben-ser-el-centro-del-dialogo-entre-la-oposicion-y-el-chavismo/",
+      "image": "https://www.infobae.com/resizer/v2/OJML36G345HTDHPXBVKIMEVCZY.JPG?auth=adc91ddd65be830fc3612fd4b6e8254e49989ef02f9b8f714fc765e40785a6e3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Oposición confirma inicio del diálogo y presenta su delegación encabezada por Dinorah Figuera",
-      "link": "https://noticialdia.com/al-dia/oposicion-confirma-inicio-del-dialogo-y-presenta-su-delegacion-encabezada-por-dinorah-figuera/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-30.webp?x35181"
+      "title": "Protestan en Milagro Norte por corte eléctrico de 12 horas",
+      "link": "https://noticialdia.com/sin-categoria/protestan-en-milagro-norte-por-corte-electrico-de-12-horas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-39.webp?x35181"
     },
     {
       "source": "CNN en Español",
-      "title": "Rusia ataca Ucrania tras el giro de Trump sobre defensa antimisiles",
-      "link": "https://cnnespanol.cnn.com/2026/08/01/mundo/zelensky-defensas-aereas-rusia-bombardea-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ultima-hora-20260511111452569.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Trump predijo una catástrofe petrolera si la guerra no termina y el tiempo se agota",
+      "link": "https://cnnespanol.cnn.com/2026/08/01/eeuu/trump-catastrofe-petrolera-guerra-tiempo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-01-131932.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado José Gregorio Correa ratifica respaldo a la mesa de diálogo de este 1° de agosto",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-jose-gregorio-correa-ratifica-respaldo-a-la-mesa-de-dialogo-de-este-10-de-agosto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-08-01-144036-6f6615.png"
+      "title": "Delcy Rodríguez otorga la medalla “Héroe de Venezuela” a servidores públicos tras los terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-otorga-la-medalla-heroe-de-venezuela-a-servidores-publicos-tras-los-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_7242-scaled-cb39a4.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petro concluye visita a Cuba con críticas al bloqueo estadounidense",
-      "link": "https://diarioversionfinal.com/mundo/petro-concluye-visita-a-cuba-con-criticas-al-bloqueo-estadounidense/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-2026-08-01T164820.960-678x430.jpg"
+      "title": "EE. UU. reafirma su respaldo al proceso de diálogo entre gobierno y la oposición venezolana",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-reafirma-su-respaldo-al-proceso-de-dialogo-entre-gobierno-y-la-oposicion-venezolana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Respaldi-de-EE-UU-703x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-01T23:58:18.484Z"
+  "lastUpdate": "2026-08-02T03:37:56.568Z"
 };
