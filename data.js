@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "849,00"
+      "usdt": "848,19"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Respaldi-de-EE-UU-703x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-02T09:08:38.122Z"
+  "lastUpdate": "2026-08-02T11:16:09.337Z"
 };
