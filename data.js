@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "847,65"
+      "usdt": "846,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Familiares de presos políticos en Venezuela pidieron incluir las excarcelaciones en la negociación para una transición política",
-      "link": "https://www.infobae.com/venezuela/2026/08/02/familiares-de-presos-politicos-en-venezuela-pidieron-incluir-las-excarcelaciones-en-la-negociacion-para-una-transicion-politica/",
-      "image": "https://www.infobae.com/resizer/v2/4EXRZGGCPBH73ESSZQDSKVQELY.png?auth=e4cf4a61ce206e2c879c1d101fcc2107585d5368d7a853c92a262389ddc96775&smart=true&width=350&height=197&quality=85"
+      "title": "El régimen venezolano adelantó el ascenso de 195 comandantes para blindar la lealtad en los cuarteles",
+      "link": "https://www.infobae.com/venezuela/2026/08/02/el-regimen-venezolano-adelanto-el-ascenso-de-195-comandantes-para-blindar-la-lealtad-en-los-cuarteles/",
+      "image": "https://www.infobae.com/resizer/v2/RA6WKDQJCFGODCG3AO6BB6TUO4.jpg?auth=313257335c0c4e1fe2102d7eeefc9382816486ef3e7453f172b8820233e609ad&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Salvaje golpiza a un inocente empaña el encuentro entre Portuguesa FC y Carabobo FC en Barquisimeto",
-      "link": "https://noticialdia.com/al-dia/salvaje-golpiza-a-un-inocente-empana-el-encuentro-entre-portuguesa-fc-y-carabobo-fc-en-barquisimeto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/silvia-cortada-1-1.webp?x35181"
+      "title": "María Corina Machado en entrevista con Jorge Olavarrieta: \"Volveré a Venezuela cuando se alineen las condiciones\"",
+      "link": "https://noticialdia.com/al-dia/maria-corina-machado-en-entrevista-con-jorge-olavarrieta-volvere-a-venezuela-cuando-se-alineen-las-condiciones/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-02T125449.663.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado ofreció entrevista exclusiva a Luis Olavarrieta",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-en-entrevista-exclusiva-para-noticias-venevision-con-luis-olavarrieta",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-08-02-000943-bee9d0.png"
+      "title": "EE.UU. apoya esfuerzo de los venezolanos para fortalecer instituciones democráticas y ampliar las libertades",
+      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-apoya-esfuerzo-de-los-venezolanos-para-fortalecer-instituciones-democraticas-y-ampliar-las-libertades",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-4-ad30f5.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FAMILIARES PIDIERON QUE LA LIBERACIÓN DE LOS PRESOS POLÍTICOS SEA PRIORIDAD EN EL DIÁLOGO",
-      "link": "https://noticierodigital.com/2026/08/familiares-pidieron-que-la-liberacion-de-los-presos-politicos-sea-prioridad-en-el-dialogo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/presos-politicos-venezuela-627x376.jpg"
+      "title": "EMBAJADA DE EE. UU. RESPALDÓ EL INICIO DEL DIÁLOGO POLÍTICO EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/08/embajada-de-ee-uu-respaldo-el-inicio-del-dialogo-politico-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Familias de presos políticos exigen que se incluyan como tema principal en la agenda de las negociaciones avalada por Washington",
-      "link": "https://diarioversionfinal.com/mundo/familias-de-presos-politicos-exigen-que-se-incluyan-como-tema-principal-en-la-agenda-de-las-negociaciones-avalada-por-washington/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Fpwf2vnA-image-750x430.jpg"
+      "title": "Dos muertos y dos heridos tras choque de helicópteros que combatían incendio en Grecia",
+      "link": "https://diarioversionfinal.com/mundo/dos-muertos-y-dos-heridos-tras-choque-de-helicopteros-que-combatian-incendio-en-grecia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/EPA6697-GREECE-WILDFIRE-750x375-1.webp"
     }
   ],
-  "lastUpdate": "2026-08-02T15:01:49.238Z"
+  "lastUpdate": "2026-08-02T16:58:36.978Z"
 };
