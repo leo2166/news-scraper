@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "848,19"
+      "usdt": "848,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. reafirma su respaldo al proceso de diálogo entre gobierno y la oposición venezolana",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-reafirma-su-respaldo-al-proceso-de-dialogo-entre-gobierno-y-la-oposicion-venezolana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Respaldi-de-EE-UU-703x430.jpg"
+      "title": "Temporal en Chile deja dos fallecidos y más de 2.000 personas aisladas",
+      "link": "https://diarioversionfinal.com/mundo/temporal-en-chile-deja-dos-fallecidos-y-mas-de-2-000-personas-aisladas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Chile-Temporal-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-02T11:16:09.337Z"
+  "lastUpdate": "2026-08-02T13:20:15.199Z"
 };
