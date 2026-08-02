@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,90"
+      "usdt": "845,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "EE.UU. apoya esfuerzo de los venezolanos para fortalecer instituciones democráticas y ampliar las libertades",
-      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-apoya-esfuerzo-de-los-venezolanos-para-fortalecer-instituciones-democraticas-y-ampliar-las-libertades",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-4-ad30f5.png"
+      "title": "Venezuela y República Dominicana inician proceso para normalizar relaciones consulares y diplomáticas",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-republica-dominicana-inician-proceso-para-normalizar-relaciones-consulares-y-diplomaticas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sede-de-la-cancilleria-casa-amarilla-27786-5e0ff3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EMBAJADA DE EE. UU. RESPALDÓ EL INICIO DEL DIÁLOGO POLÍTICO EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/08/embajada-de-ee-uu-respaldo-el-inicio-del-dialogo-politico-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/embajada-de-eeuu-en-caracas-venezuela-627x376.jpg"
+      "title": "ARMADA DE MÉXICO DESPACHÓ UN SEGUNDO CARGAMENTO DE AYUDA HACIA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/08/armada-de-mexico-despacho-un-segundo-cargamento-de-ayuda-hacia-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/mexico-ayuda-humanitaria-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Dos muertos y dos heridos tras choque de helicópteros que combatían incendio en Grecia",
-      "link": "https://diarioversionfinal.com/mundo/dos-muertos-y-dos-heridos-tras-choque-de-helicopteros-que-combatian-incendio-en-grecia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/EPA6697-GREECE-WILDFIRE-750x375-1.webp"
+      "title": "Petro responsabiliza a Netanyahu por la crisis migratoria en Ceuta",
+      "link": "https://diarioversionfinal.com/mundo/petro-responsabiliza-a-netanyahu-por-la-crisis-migratoria-en-ceuta/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Petro-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-02T16:58:36.978Z"
+  "lastUpdate": "2026-08-02T18:05:09.273Z"
 };
