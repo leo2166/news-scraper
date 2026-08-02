@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,00"
+      "usdt": "844,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Mayor hidratación en la ciclovía con alianza entre el Indeprec y Ferretería Bicolor",
-      "link": "https://noticialdia.com/al-dia/mayor-hidratacion-en-la-ciclovia-con-alianza-entre-el-indeprec-y-ferreteria-bicolor/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-02T154941.345.webp?x35181"
+      "title": "Con bateo oportuno, Periodistas del Zulia deja en el terreno 8-5 al conjunto del Imau",
+      "link": "https://noticialdia.com/?p=648588",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-02T154941.345.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Enfrentamiento entre Trump y Thune fractura la unidad del Partido Republicano",
-      "link": "https://cnnespanol.cnn.com/2026/08/02/eeuu/enfrentamiento-trump-thune-fractura-partido-republicano-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282587411trumpthune.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Tiroteos escolares, una amenaza que crece en América Latina",
+      "link": "https://cnnespanol.cnn.com/2026/08/02/latinoamerica/tiroteos-escuelas-violencia-encienden-alarmas-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-370645-colegio-americano-noreste.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-2026-08-02T144101.194-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-02T21:56:10.305Z"
+  "lastUpdate": "2026-08-02T22:57:23.774Z"
 };
