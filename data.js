@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "847,50"
+      "usdt": "850,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Facultad de Economía de la UCAB exige al gobierno que publique datos oficiales para avanzar en la reconstrucción",
-      "link": "https://www.infobae.com/venezuela/2026/08/03/facultad-de-economia-de-la-ucab-exige-al-gobierno-que-publique-datos-oficiales-para-avanzar-en-la-reconstruccion/",
-      "image": "https://www.infobae.com/resizer/v2/AEI7M3ID45EA7PU5ETR6OWWXJI.JPG?auth=bfedbaa80e0b3ab351ff6f394272d3e7f10fc828dba053fddfcdc3913870af91&smart=true&width=350&height=197&quality=85"
+      "title": "El chavismo dejó de identificar a Delcy Rodríguez como “encargada” en medio del debate sobre la legitimidad del ejercicio de la Presidencia en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/03/el-chavismo-dejo-de-identificar-a-delcy-rodriguez-como-encargada-en-medio-del-debate-sobre-la-legitimidad-del-ejercicio-de-la-presidencia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6ACYKPI3UJBNDOGXC3NGSRGU74.jpg?auth=10b8d4203628fc2cf162bb7fcb9e43761304d6dd9938448490d15a4ff17eb8ee&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Perú expulsa a tres venezolanos vinculados al Tren de Aragua tras cumplir condena",
-      "link": "https://noticialdia.com/al-dia/peru-expulsa-a-tres-venezolanos-vinculados-al-tren-de-aragua-tras-cumplir-condena/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-2026-08-03T133516.363.webp?x35181"
+      "title": "Desestiman la demanda contra Lionel Messi por presunto incumplimiento de contrato en amistosos",
+      "link": "https://noticialdia.com/deportes/desestiman-la-demanda-contra-lionel-messi-por-presunto-incumplimiento-de-contrato-en-amistosos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260803_151937_0000.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Academia de Ciencias Políticas y Sociales condena la renuncia al Estatuto de Roma y ratifica que la investigación de la CPI continuará",
-      "link": "https://noticiasvenevision.com/noticias/politica/academia-de-ciencias-politicas-y-sociales-condena-la-renuncia-al-estatuto-de-roma-y-ratifica-que-la-investigacion-de-la-cpi-continuara",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_9y5sdh9y5sdh9y5s-e25ae9.png"
+      "title": "EE.UU continuará apoyando la transición democrática institucional de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/eeuu-continuara-apoyando-la-transicion-democratica-institucional-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_qnmsubqnmsubqnms-clean-e02410.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FERMÍN SALUDÓ NUEVO DIÁLOGO, PERO «PIDE METERLE LA LUPA» AL NOMBRAMIENTO DEL CNE Y TSJ",
-      "link": "https://noticierodigital.com/2026/08/fermin-saludo-nuevo-dialogo-pero-pide-meterle-la-lupa-al-nombramiento-del-cne-y-tsj/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/claudio-fermin-627x376.jpg"
+      "title": "FIJAN COMIENZO DEL JUICIO DE ALEX SAAB EN EE. UU. PARA EL PRÓXIMO 8 DE SEPTIEMBRE",
+      "link": "https://noticierodigital.com/2026/08/fijan-comienzo-del-juicio-de-alex-saab-en-ee-uu-para-el-proximo-8-de-septiembre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-2-1-627x376.png"
     },
     {
       "source": "La Verdad",
       "title": "De la Espriella rompe la tradición y traslada la investidura presidencial de Bogotá a Cali",
       "link": "https://laverdad.com/de-la-espriella-rompe-la-tradicion-y-traslada-la-investidura-presidencial-de-bogota-a-cali/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Abelardo-De-La-Espriella.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. ratifica respaldo al diálogo en Venezuela y espera \"resultados tangibles\"",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-ratifica-respaldo-al-dialogo-en-venezuela-y-espera-resultados-tangibles/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/TOMMY-PIGOTT-640x430.png"
+      "title": "Trump dice que Irán tiene una \"última oportunidad\" para alcanzar un acuerdo",
+      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-iran-tiene-una-ultima-oportunidad-para-alcanzar-un-acuerdo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Trump-EEUU-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-03T17:50:30.678Z"
+  "lastUpdate": "2026-08-03T19:36:24.776Z"
 };
