@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "850,00"
+      "usdt": "849,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Desestiman la demanda contra Lionel Messi por presunto incumplimiento de contrato en amistosos",
-      "link": "https://noticialdia.com/deportes/desestiman-la-demanda-contra-lionel-messi-por-presunto-incumplimiento-de-contrato-en-amistosos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260803_151937_0000.webp?x35181"
+      "title": "Barcelona busca aprovechar las dudas del Real Madrid y pregunta al Manchester City por Rodri",
+      "link": "https://noticialdia.com/deportes/barcelona-busca-aprovechar-las-dudas-del-real-madrid-y-pregunta-al-manchester-city-por-rodri/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260803_163323_0000.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "De la Espriella rompe la tradición y traslada la investidura presidencial de Bogotá a Cali",
-      "link": "https://laverdad.com/de-la-espriella-rompe-la-tradicion-y-traslada-la-investidura-presidencial-de-bogota-a-cali/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Petro alerta de “toneladas de explosivos” en Cali, donde tomará posesión De la Espriella",
+      "link": "https://laverdad.com/petro-alerta-de-toneladas-de-explosivos-en-cali-donde-tomara-posesion-de-la-espriella/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump dice que Irán tiene una \"última oportunidad\" para alcanzar un acuerdo",
-      "link": "https://diarioversionfinal.com/mundo/trump-dice-que-iran-tiene-una-ultima-oportunidad-para-alcanzar-un-acuerdo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Trump-EEUU-750x430.jpg"
+      "title": "Florida registra sus primeros tres casos locales de dengue en Estados Unidos durante 2026",
+      "link": "https://diarioversionfinal.com/mundo/florida-registra-sus-primeros-tres-casos-locales-de-dengue-en-estados-unidos-durante-2026/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/11/dengue--750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-03T19:36:24.776Z"
+  "lastUpdate": "2026-08-03T21:02:19.659Z"
 };
