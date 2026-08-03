@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 03 Agosto 2026"
     },
     "binance": {
-      "usdt": "843,00"
+      "usdt": "845,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,7 +27,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Con la instalación de 150 transformadores, el Plan Cayapa Eléctrico llega a las 18 parroquias de Maracaibo.",
+      "title": "Con la instalación de 150 transformadores, el Plan Cayapa Eléctrico llega a las 18 parroquias de Maracaibo",
       "link": "https://noticialdia.com/al-dia/con-la-instalacion-de-150-transformadores-el-plan-cayapa-electrico-llega-a-las-18-parroquias-de-maracaibo/",
       "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/silvia-cortada-2.webp?x35181"
     },
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y República Dominicana inician proceso para normalizar relaciones consulares y diplomáticas",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-republica-dominicana-inician-proceso-para-normalizar-relaciones-consulares-y-diplomaticas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sede-de-la-cancilleria-casa-amarilla-27786-5e0ff3.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez impulsa Plan de Ahorro de Energía Eléctrica y Agua enfocado en la conciencia ciudadana",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-impulsa-plan-de-ahorro-de-energia-electrica-y-agua-enfocado-en-la-conciencia-ciudadana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_2026-08-02_23-00-17-b2ccc6.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump anuncia que este lunes comenzarán las conversaciones con Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-que-este-lunes-comenzaran-las-conversaciones-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-15-07-2026-750x430.webp"
+      "title": "Irán afirma que está cerca de un acuerdo con Omán sobre el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/iran-afirma-que-esta-cerca-de-un-acuerdo-con-oman-sobre-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-2026-08-02T171527.244-672x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-03T00:02:12.134Z"
+  "lastUpdate": "2026-08-03T04:29:33.794Z"
 };
