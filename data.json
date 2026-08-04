@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 05 Agosto 2026"
     },
     "binance": {
-      "usdt": "847,50"
+      "usdt": "844,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Ventas del sector gastronómico registran caída del 35% en al menos seis ciudades del país",
-      "link": "https://www.bancaynegocios.com/ventas-del-sector-gastronomico-registran-caida-del-35-porciento-en-al-menos-seis-ciudades-del-pais/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/10/restaurantes.jpg"
+      "title": "Pagan Bono Único Familiar de agosto: Incrementó 11,69% en bolívares",
+      "link": "https://www.bancaynegocios.com/pagan-bono-unico-familiar-de-agosto-incremento-11punto69-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Marco Rubio: La transición en Venezuela es un proceso que tardará meses",
-      "link": "https://noticialdia.com/al-dia/marco-rubio-la-transicion-en-venezuela-es-un-proceso-que-tardara-meses/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-2026-08-04T155226.446.webp?x35181"
+      "title": "Autoridades de Maracaibo atienden colapso de vivienda en el sector Belloso por demolición ilegal",
+      "link": "https://noticialdia.com/zulia/autoridades-de-maracaibo-atienden-colapso-de-vivienda-en-el-sector-belloso-por-demolicion-ilegal/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-1.webp?x35181"
     },
     {
       "source": "CNN en Español",
-      "title": "Qatar dice que ya hay borradores de un potencial acuerdo entre EE.UU. e Irán",
-      "link": "https://cnnespanol.cnn.com/2026/08/04/mundo/live-news/guerra-ee-uu-iran-medio-oriente-4-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235105352-20260804141938942.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Qué pasó con el inmigrante salvadoreño que murió bajo custodia de ICE",
+      "link": "https://cnnespanol.cnn.com/2026/08/04/eeuu/muerte-edwin-lopez-cornejo-salvadoreno-ice-delaney-hall-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/7a4b731ea16d3d90282c4978f9b3d3e57aeea907w.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "MINSALUD ANUNCIA QUE OPS CONCLUYE MISIÓN TÉCNICA DE EMERGENCIA EN EL PAÍS",
-      "link": "https://noticierodigital.com/2026/08/minsalud-anuncia-que-ops-concluye-mision-tecnica-de-emergencia-en-el-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-3-627x376.png"
+      "title": "PADRINO LÓPEZ PREPARÓ MEDIDAS PARA MITIGAR LOS EFECTOS DEL «SUPER NIÑO»",
+      "link": "https://noticierodigital.com/2026/08/padrino-lopez-preparo-medidas-para-mitigar-los-efectos-del-super-nino/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/vladimir-padrino-lopez-ministerio-de-agricultura-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-04T130656.247.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-04T20:23:44.704Z"
+  "lastUpdate": "2026-08-04T22:11:44.366Z"
 }
