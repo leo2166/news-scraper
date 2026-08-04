@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 04 Agosto 2026"
     },
     "binance": {
-      "usdt": "848,00"
+      "usdt": "847,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Tras diez días sin datos oficiales, Venezuela elevó a 6.125 la cifra de muertos por el doble terremoto",
-      "link": "https://www.infobae.com/venezuela/2026/08/03/tras-diez-dias-sin-datos-oficiales-venezuela-elevo-a-6125-la-cifra-de-muertos-por-el-doble-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/QHSDEVU3ARAABIGHUWVJIGPY3M.JPG?auth=35918e7294c3f6d93ef8c88f8440fb5b51c1f8f80a89a1fe909d331889b9464c&smart=true&width=350&height=197&quality=85"
+      "title": "La justicia de Estados Unidos fijó para el 8 de septiembre el juicio contra Alex Saab por lavado de dinero",
+      "link": "https://www.infobae.com/estados-unidos/2026/08/03/la-justicia-de-estados-unidos-fijo-para-el-8-de-septiembre-el-juicio-contra-alex-saab-por-lavado-de-dinero/",
+      "image": "https://www.infobae.com/resizer/v2/4JEAG5F4LZDRRMMKSJXTYXDRZI.JPG?auth=e21082350f625162cbdd28645fc1152e93cf70dab5f0b6864934d3fd0acee3d7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera mostró avances en trabajos de la Unidad de Braquiterapia del Oncológico Humberto Fernández Morán",
-      "link": "https://noticialdia.com/zulia/gobernador-luis-caldera-mostro-avances-en-trabajos-de-la-unidad-de-braquiterapia-del-oncologico-humberto-fernandez-moran/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/6a1176bb-8982-448a-9933-3734661cbc4d.webp?x35181"
+      "title": "A 6 mil 125 aumenta la cifra de muertos por el doble terremoto",
+      "link": "https://noticialdia.com/al-dia/a-6-mil-125-aumenta-la-cifra-de-muertos-por-el-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4.webp?x35181"
     },
     {
       "source": "Noticias Venevisión",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ INFORMÓ SOBRE AVANCES EN LA DIVERSIFICACIÓN DE LA ECONOMÍA",
-      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-informo-sobre-avances-en-la-diversificacion-de-la-economia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcy-rodriguez-venezuela-gabinete-economico-627x376.jpg"
+      "title": "MAS PROPUSO QUE EL DIÁLOGO ABORDE LA RENOVACIÓN DE LOS PODERES PÚBLICOS",
+      "link": "https://noticierodigital.com/2026/08/mas-propuso-que-el-dialogo-aborde-la-renovacion-de-los-poderes-publicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/felipe-mujica-mas-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Petro alerta de “toneladas de explosivos” en Cali, donde tomará posesión De la Espriella",
       "link": "https://laverdad.com/petro-alerta-de-toneladas-de-explosivos-en-cali-donde-tomara-posesion-de-la-espriella/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "CIDH pide activar la Carta Democrática ante el giro autoritario en Nicaragua",
-      "link": "https://diarioversionfinal.com/mundo/cidh-pide-activar-la-carta-democratica-ante-el-giro-autoritario-en-nicaragua/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/Cidh-960x640-1-750x430.jpg"
+      "title": "Justicia por Yexer: protestas en Chile tras asesinato de estudiante venezolano y liberación domiciliaria de implicado",
+      "link": "https://diarioversionfinal.com/mundo/justicia-por-yexer-protestas-en-chile-tras-asesinato-de-estudiante-venezolano-y-liberacion-domiciliaria-de-implicado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Caso-Yexer-03-08-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-08-03T23:00:06.490Z"
+  "lastUpdate": "2026-08-04T00:14:07.114Z"
 };
