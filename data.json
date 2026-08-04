@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 04 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,20"
+      "usdt": "846,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gobierno se prepara para una sequía severa y diseña plan para proteger al sector agrícola",
-      "link": "https://www.bancaynegocios.com/gobierno-se-prepara-para-una-sequia-severa-y-disena-plan-para-proteger-al-sector-agricola/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/PADRINO-LOPEZ-AGRO-SEQIA.jpeg"
+      "title": "Ventas del sector gastronómico registran caída del 35% en al menos seis ciudades del país",
+      "link": "https://www.bancaynegocios.com/ventas-del-sector-gastronomico-registran-caida-del-35-porciento-en-al-menos-seis-ciudades-del-pais/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/10/restaurantes.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Los rusos no pudieron salvar a Maduro ni al chavismo pero siguen prometiendo protección a Cuba",
-      "link": "https://www.infobae.com/venezuela/2026/08/04/los-rusos-no-pudieron-salvar-a-maduro-ni-al-chavismo-pero-siguen-prometiendo-proteccion-a-cuba/",
-      "image": "https://www.infobae.com/resizer/v2/TRTBNH3Y2JFW7L66XH725BJJ34.JPG?auth=c38fe160eaf17c20ea469dbc4ddc1bdffac2b2993e9e818b21a081b2a2ad2f31&smart=true&width=350&height=197&quality=85"
+      "title": "Qué sucede en El Rodeo I, la cárcel que se convirtió en el nuevo símbolo de la represión a los presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/04/que-sucede-en-el-rodeo-i-la-carcel-que-se-convirtio-en-el-nuevo-simbolo-de-la-represion-a-los-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/HJNJBWZYVFEPDEJOC35MGSPMCE.jpg?auth=b248524c754ea7c6d9ea7ce0a17f11b8817d91d411012ce8f1df36f3c6714a30&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Julio Lemma se cuelga el oro en rifle de tres posiciones en Santo Domingo 2026",
-      "link": "https://noticialdia.com/deportes/julio-lemma-se-cuelga-el-oro-en-rifle-de-tres-posiciones-en-santo-domingo-2026/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260804_115109_0000.webp?x35181"
+      "title": "Presidenta del Concejo Municipal: La reforma del IMA y pasos peatonales Maracaibo será una ciudad más humanista",
+      "link": "https://noticialdia.com/sin-categoria/presidenta-del-concejo-municipal-la-reforma-del-ima-y-pasos-peatonales-maracaibo-sera-una-ciudad-mas-humanista/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-04T141645.050.webp?x35181"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump estalla a medida que se acumulan reveses políticos",
-      "link": "https://cnnespanol.cnn.com/2026/08/04/eeuu/analisis-trump-derrotas-politicas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-despacho-oval.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Qatar dice que ya hay borradores de un potencial acuerdo entre EE.UU. e Irán",
+      "link": "https://cnnespanol.cnn.com/2026/08/04/mundo/live-news/guerra-ee-uu-iran-medio-oriente-4-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235105352-20260804141938942.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Conozca los integrantes del diálogo entre la Asamblea Nacional 2015 y el gobierno encargado",
-      "link": "https://noticiasvenevision.com/noticias/politica/conozca-los-integrantes-del-dialogo-entre-la-asamblea-nacional-2015-y-el-gobierno-encargado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gettyimages-2281645865-90711b.jpg"
+      "title": "Secretario de Estado de EE.UU. Marco Rubio dice que no es viable convocar elecciones inmediatas en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/secretario-de-estado-de-eeuu-marco-rubio-dice-que-no-es-viable-convocar-elecciones-inmediatas-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-04-at-12.38.26-pm-782797.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONFERENCIA EPISCOPAL VENEZOLANA REGISTRA 94 TEMPLOS AFECTADOS POR DOBLETE SÍSMICO",
-      "link": "https://noticierodigital.com/2026/08/conferencia-episcopal-venezolana-registra-94-templos-afectados-por-doblete-sismico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-2-2-627x376.png"
+      "title": "COPA OFRECERÁ VUELOS DIRECTOS ENTRE PANAMÁ Y MARGARITA A PARTIR DE NOVIEMBRE",
+      "link": "https://noticierodigital.com/2026/08/copa-ofrecera-vuelos-directos-entre-panama-y-margarita-a-partir-de-noviembre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/copa-airlines-venezuela-panama-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-13-07-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-04T16:11:36.181Z"
+  "lastUpdate": "2026-08-04T18:26:50.219Z"
 }
