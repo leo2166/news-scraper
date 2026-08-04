@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 04 Agosto 2026"
     },
     "binance": {
-      "usdt": "847,50"
+      "usdt": "848,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Expertos de Estados Unidos inspeccionaron la principal hidroeléctrica de Venezuela para definir su modernización",
-      "link": "https://www.infobae.com/venezuela/2026/08/04/expertos-de-estados-unidos-inspeccionaron-la-principal-hidroelectrica-de-venezuela-para-definir-su-modernizacion/",
-      "image": "https://www.infobae.com/resizer/v2/OA53MDZ44JAGBF5QCVVBRRZWMY.png?auth=c8bc1c79157845fa01b98e3c9d01562061d0f042c316dcec5a82b56954e82ee7&smart=true&width=350&height=197&quality=85"
+      "title": "El gobierno de Venezuela entregó 87 viviendas a familias afectadas por el terremoto y prometió 4.000 más antes de fin de año",
+      "link": "https://www.infobae.com/venezuela/2026/08/04/el-gobierno-de-venezuela-entrego-87-viviendas-a-familias-afectadas-por-el-terremoto-y-prometio-4000-mas-antes-de-fin-de-ano/",
+      "image": "https://www.infobae.com/resizer/v2/GB36X3BIPRGOROLLDRFBQEWW6Y.JPG?auth=14e502bc868872d51b9356ab797f985a8c6a9a92a3250cb6d224c697aded57b1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/BID-03-04-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-04T04:13:35.988Z"
+  "lastUpdate": "2026-08-04T07:39:27.857Z"
 };
