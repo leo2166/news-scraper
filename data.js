@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 04 Agosto 2026"
     },
     "binance": {
-      "usdt": "848,95"
+      "usdt": "848,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -30,6 +30,12 @@ window.DASHBOARD_DATA = {
       "title": "‎Paso peatonal de Galerías beneficia a 60 mil personas",
       "link": "https://noticialdia.com/al-dia/paso-peatonal-de-galerias-beneficia-a-60-mil-personas/",
       "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9.webp?x35181"
+    },
+    {
+      "source": "CNN en Español",
+      "title": "Un error que Trump no ha cometido con respecto a Irán",
+      "link": "https://cnnespanol.cnn.com/2026/08/04/mundo/trump-iran-guerra-negociaciones-analisis-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-3-20260804062954986.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -56,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/BID-03-04-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-04T07:39:27.857Z"
+  "lastUpdate": "2026-08-04T10:38:48.764Z"
 };
