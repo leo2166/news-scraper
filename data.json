@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "752,09",
-      "eur": "865,18",
-      "fechaValor": "Martes, 04 Agosto 2026"
+      "usd": "755,16",
+      "eur": "870,04",
+      "fechaValor": "Miércoles, 05 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,00"
+      "usdt": "847,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Presidenta del Concejo Municipal: La reforma del IMA y pasos peatonales Maracaibo será una ciudad más humanista",
-      "link": "https://noticialdia.com/sin-categoria/presidenta-del-concejo-municipal-la-reforma-del-ima-y-pasos-peatonales-maracaibo-sera-una-ciudad-mas-humanista/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-04T141645.050.webp?x35181"
+      "title": "Marco Rubio: La transición en Venezuela es un proceso que tardará meses",
+      "link": "https://noticialdia.com/al-dia/marco-rubio-la-transicion-en-venezuela-es-un-proceso-que-tardara-meses/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-2026-08-04T155226.446.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Secretario de Estado de EE.UU. Marco Rubio dice que no es viable convocar elecciones inmediatas en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/secretario-de-estado-de-eeuu-marco-rubio-dice-que-no-es-viable-convocar-elecciones-inmediatas-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-04-at-12.38.26-pm-782797.jpeg"
+      "title": "Presidenta (E)  Delcy Rodríguez designa a Alejandro López como ministro para la Cultura",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-designa-a-alejandro-lopez-en-el-ministerio-para-la-cultura",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_wuy014wuy014wuy0-clean-a90b08.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "COPA OFRECERÁ VUELOS DIRECTOS ENTRE PANAMÁ Y MARGARITA A PARTIR DE NOVIEMBRE",
-      "link": "https://noticierodigital.com/2026/08/copa-ofrecera-vuelos-directos-entre-panama-y-margarita-a-partir-de-noviembre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/copa-airlines-venezuela-panama-627x376.jpg"
+      "title": "MINSALUD ANUNCIA QUE OPS CONCLUYE MISIÓN TÉCNICA DE EMERGENCIA EN EL PAÍS",
+      "link": "https://noticierodigital.com/2026/08/minsalud-anuncia-que-ops-concluye-mision-tecnica-de-emergencia-en-el-pais/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-3-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Tribunal admite demanda que busca frenar investidura de De la Espriella en Cali",
-      "link": "https://laverdad.com/tribunal-admite-demanda-que-busca-frenar-investidura-de-de-la-espriella-en-cali/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Abelardo-de-la-Espriella-1.jpg"
+      "title": "EE. UU. libera bajo fianza a futbolista venezolana pese a ser solicitante de asilo",
+      "link": "https://laverdad.com/ee-uu-libera-bajo-fianza-a-futbolista-venezolana-pese-a-ser-solicitante-de-asilo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/EE.-UU.-libera-bajo-fianza-a-futbolista-venezolana-pese-a-ser-solicitante-de-asilo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "¡Ya circula borrador del acuerdo! Qatar confirma avances en negociaciones entre EE.UU. e Irán",
-      "link": "https://diarioversionfinal.com/mundo/ya-circula-borrador-del-acuerdo-qatar-confirma-avances-en-negociaciones-entre-ee-uu-e-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-13-07-2026-750x430.webp"
+      "title": "Capturan en Colombia a venezolano requerido por Argentina por presunta defraudación informática",
+      "link": "https://diarioversionfinal.com/mundo/capturan-en-colombia-a-venezolano-requerido-por-argentina-por-presunta-defraudacion-informatica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-04T130656.247.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-04T18:26:50.219Z"
+  "lastUpdate": "2026-08-04T20:23:44.704Z"
 }
