@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "755,16",
-      "eur": "870,04",
-      "fechaValor": "Miércoles, 05 Agosto 2026"
+      "usd": "755,90",
+      "eur": "872,84",
+      "fechaValor": "Jueves, 06 Agosto 2026"
     },
     "binance": {
-      "usdt": "838,00"
+      "usdt": "840,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Emprendimientos impulsan un 50% de reactivación económica en la zona comercial de Porlamar",
-      "link": "https://www.bancaynegocios.com/emprendimientos-impulsan-un-50-porciento-de-reactivacion-economica-en-la-zona-comercial-de-porlamar/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/Porlamar.jpg"
+      "title": "Pagan \"Bono de Contingencia 2026\" de agosto a familias afectadas por los terremotos (+Monto)",
+      "link": "https://www.bancaynegocios.com/pagan-bono-de-contingencia-2026-de-agosto-a-familias-afectadas-por-los-terremotos-monto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Llegó a Venezuela la Comisión de la AN de 2015 encabezada por Dinorah Figuera",
-      "link": "https://noticialdia.com/politica/llego-a-venezuela-la-comision-de-la-an-de-2015-encabezada-por-dinorah-figuera/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-5-2.webp?x35181"
+      "title": "Exboxeador venezolano mató a un mototaxista peruano de un solo golpe: Todo quedó grabado",
+      "link": "https://noticialdia.com/al-dia/exboxeador-venezolano-mato-a-un-mototaxista-peruano-de-un-solo-golpe-todo-quedo-grabado/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-8-2.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Abdul El-Sayed gana las primarias demócratas de Michigan",
-      "link": "https://cnnespanol.cnn.com/2026/08/05/eeuu/abdul-el-sayed-democrata-senado-michigan-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/el-sayed.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Irán niega que haya diálogo en curso con EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/08/05/mundo/live-news/guerra-ee-uu-iran-medio-oriente-5-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260805101203895.Jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alcaldía de Baruta y Comisión Presidencial acuerdan mesas de trabajo para viviendas, escuelas y vialidad",
-      "link": "https://noticiasvenevision.com/noticias/politica/alcaldia-de-baruta-y-comision-presidencial-acuerdan-mesas-de-trabajo-para-viviendas-escuelas-y-vialidad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_764497839_18622483663045051_2510348725164548222_n-1fdd4b.jpg"
+      "title": "ONG Foro Penal contabiliza 382 presos por razones políticas en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/ong-foro-penal-contabiliza-382-presos-por-razones-politicas-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/wbl8ielr_400x400-9ca945.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ DICE QUE TRABAJAN EN REPARAR 13.000 VIVIENDAS AFECTADAS POR TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-dice-que-trabajan-en-reparar-13-000-viviendas-afectadas-por-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-3-627x376.png"
+      "title": "ECARRI ANUNCIÓ UNA MESA TÉCNICA PARA IMPULSAR EL AEROPUERTO DE PALO NEGRO",
+      "link": "https://noticierodigital.com/2026/08/ecarri-anuncio-una-mesa-tecnica-para-impulsar-el-aeropuerto-de-palo-negro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/antonio-ecarri-venezuela-alianza-lapiz-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Prision-Santiago-05-08-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-08-05T21:07:44.941Z"
+  "lastUpdate": "2026-08-05T22:58:34.643Z"
 }
