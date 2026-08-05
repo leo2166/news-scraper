@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 05 Agosto 2026"
     },
     "binance": {
-      "usdt": "844,50"
+      "usdt": "846,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos aseguró que la transición en Venezuela requerirá meses de trabajo y no un proceso que se extienda por años",
-      "link": "https://www.infobae.com/estados-unidos/2026/08/05/estados-unidos-aseguro-que-la-transicion-en-venezuela-requerira-meses-de-trabajo-y-no-un-proceso-que-se-extienda-por-anos/",
-      "image": "https://www.infobae.com/resizer/v2/WVFIKSMAABDZHIU5Q4UEFCST7I.JPG?auth=fc2e37b856c4ee795128664584060dbca2efa3a08a60fefca6dddcf1cdba6272&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela avanza en la reparación de más de 3.900 viviendas dañadas en La Guaira por los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/08/05/venezuela-avanza-en-la-reparacion-de-mas-de-3900-viviendas-danadas-en-la-guaira-por-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/VVIQ2VLTQNEO7K6APB6M3YHSQQ.jpg?auth=04a907d0fc130f18f5c1476284225f78770f8b9eacf232f327c7b3fc599d4e95&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-05T04:08:53.413Z"
+  "lastUpdate": "2026-08-05T07:38:18.907Z"
 };
