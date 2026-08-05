@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan Bono Único Familiar de agosto: Incrementó 11,69% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-bono-unico-familiar-de-agosto-incremento-11punto69-porciento-en-bolivares/",
+      "title": "Economía venezolana podría crecer hasta 9% este año a pesar del impacto de los terremotos",
+      "link": "https://www.bancaynegocios.com/economia-venezolana-podria-crecer-hasta-9-porciento-este-ano-a-pesar-del-impacto-de-los-terremotos/",
       "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "Al menos 49 presos murieron entre abril y julio en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/05/al-menos-49-presos-murieron-entre-abril-y-julio-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/2QRFYVDC3BBSVEESDRUBJMXO3A.jpg?auth=06cf4fff46d450613b79ee062da63a9c49a1857a7b0ebfdc1f01a68d610abe8d&smart=true&width=350&height=197&quality=85"
+      "title": "Los trabajadores petroleros de Venezuela denuncian violación de derechos laborales y reclaman por sueldos y bonos",
+      "link": "https://www.infobae.com/venezuela/2026/08/05/los-trabajadores-petroleros-de-venezuela-denuncian-violacion-de-derechos-laborales-y-reclaman-por-sueldos-y-bonos/",
+      "image": "https://www.infobae.com/resizer/v2/VSGENDC5QBBQVDSHG7TY2CYZGM.JPG?auth=dacbc10c37d2aa9781002c8e81cc6bba800db310d2ceeb43be94b5b4ff728768&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela debuta con victoria ante Chile en el Clasificatorio Suramericano al Fiba AmeriCup Femenino 2027",
-      "link": "https://noticialdia.com/deportes/venezuela-debuta-con-victoria-ante-chile-en-el-clasificatorio-suramericano-al-fiba-americup-femenino-2027/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260805_105746_0000.webp?x35181"
+      "title": "Alejandro Marqués se estrena con el Granada tras su llegada desde Portugal",
+      "link": "https://noticialdia.com/?p=649924",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-02T154941.345.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Abdul El-Sayed lidera las primarias demócratas de Michigan",
-      "link": "https://cnnespanol.cnn.com/2026/08/05/eeuu/conclusiones-primarias-michigan-missouri-kansas-virginia-washington-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260805045012309.Jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Abdul El-Sayed gana las primarias demócratas de Michigan",
+      "link": "https://cnnespanol.cnn.com/2026/08/05/eeuu/abdul-el-sayed-democrata-senado-michigan-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/el-sayed.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Voluntad Popular agradeció al Senado de EE. UU. por resolución bipartidista en apoyo a Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/voluntad-popular-agradecio-al-senado-de-ee-uu-por-resolucion-bipartidista-en-apoyo-a-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_4ck1t54ck1t54ck1-ebac1f.png"
+      "title": "Juan Pablo Guanipa reconoce resolución de senadores de EE.UU. en apoyo a demandas del pueblo venezolano",
+      "link": "https://noticiasvenevision.com/noticias/politica/juan-pablo-guanipa-reconoce-resolucion-de-senadores-de-eeuu-en-apoyo-a-demandas-del-pueblo-venezolano",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-36-82c90e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FORO PENAL REGISTRA 382 PRESOS POLÍTICOS: 40 EXTRANJEROS",
-      "link": "https://noticierodigital.com/2026/08/foro-penal-registra-382-presos-politicos-40-extranjeros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/02/presospoliticos-onu-1feb2023.jpg"
+      "title": "CREDI POS Y CREDI EXPRESS BANCAMIGA: CRÉDITOS PARA IMPULSAR TU NEGOCIO",
+      "link": "https://noticierodigital.com/2026/08/credi-pos-y-credi-express-bancamiga-creditos-para-impulsar-tu-negocio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/IMAGEN-2.jpg-627x376.jpeg"
     },
     {
       "source": "La Verdad",
-      "title": "Petro asegura que el gobierno de De la Espriella será “breve” e insiste en un supuesto fraude",
-      "link": "https://laverdad.com/petro-asegura-que-el-gobierno-de-de-la-espriella-sera-breve-e-insiste-en-un-supuesto-fraude/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro-1.jpg"
+      "title": "Argentina rehúsa disculparse con Brasil e insiste en las “diferencias ideológicas”",
+      "link": "https://laverdad.com/argentina-rehusa-disculparse-con-brasil-e-insiste-en-las-diferencias-ideologicas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Javier-Milei-Lula-Da-Silva.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rayos dejan 12 muertos y ocho heridos durante tormentas del monzón en India",
-      "link": "https://diarioversionfinal.com/mundo/rayos-dejan-12-muertos-y-ocho-heridos-durante-tormentas-del-monzon-en-india/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2016/09/Rayo-Referencial-Version-Final.jpg"
+      "title": "Zelenski acusa que menor ayuda militar occidental busca presionar a Ucrania",
+      "link": "https://diarioversionfinal.com/mundo/zelenski-acusa-que-menor-ayuda-militar-occidental-busca-presionar-a-ucrania/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/zelesnki-11-de-marzo-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-05T15:13:14.526Z"
+  "lastUpdate": "2026-08-05T17:36:20.490Z"
 };
