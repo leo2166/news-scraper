@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 05 Agosto 2026"
     },
     "binance": {
-      "usdt": "840,00"
+      "usdt": "838,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Economía venezolana podría crecer hasta 9% este año a pesar del impacto de los terremotos",
-      "link": "https://www.bancaynegocios.com/economia-venezolana-podria-crecer-hasta-9-porciento-este-ano-a-pesar-del-impacto-de-los-terremotos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Emprendimientos impulsan un 50% de reactivación económica en la zona comercial de Porlamar",
+      "link": "https://www.bancaynegocios.com/emprendimientos-impulsan-un-50-porciento-de-reactivacion-economica-en-la-zona-comercial-de-porlamar/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/Porlamar.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Los trabajadores petroleros de Venezuela denuncian violación de derechos laborales y reclaman por sueldos y bonos",
-      "link": "https://www.infobae.com/venezuela/2026/08/05/los-trabajadores-petroleros-de-venezuela-denuncian-violacion-de-derechos-laborales-y-reclaman-por-sueldos-y-bonos/",
-      "image": "https://www.infobae.com/resizer/v2/VSGENDC5QBBQVDSHG7TY2CYZGM.JPG?auth=dacbc10c37d2aa9781002c8e81cc6bba800db310d2ceeb43be94b5b4ff728768&smart=true&width=350&height=197&quality=85"
+      "title": "Observatorio de Prisiones: cada tres días muere un recluso en Venezuela por el abandono sanitario del Estado",
+      "link": "https://www.infobae.com/venezuela/2026/08/05/observatorio-de-prisiones-cada-tres-dias-muere-un-recluso-en-venezuela-por-el-abandono-sanitario-del-estado/",
+      "image": "https://www.infobae.com/resizer/v2/7ZUDGXBL5FEWVLEJJB5UNGKTQM.JPG?auth=16bff215e6adb5a64d1c48fd49e810bd36ce2e314848ddbd0067b036d4321053&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alejandro Marqués se estrena con el Granada tras su llegada desde Portugal",
-      "link": "https://noticialdia.com/?p=649924",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-02T154941.345.webp"
+      "title": "La Fifa desmiente que la final del Mundial 2030 haya sido prometida a Marruecos",
+      "link": "https://noticialdia.com/deportes/la-fifa-desmiente-que-la-final-del-mundial-2030-haya-sido-prometida-a-marruecos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260805_152026_0000.webp?x35181"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Pablo Guanipa reconoce resolución de senadores de EE.UU. en apoyo a demandas del pueblo venezolano",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-pablo-guanipa-reconoce-resolucion-de-senadores-de-eeuu-en-apoyo-a-demandas-del-pueblo-venezolano",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-36-82c90e.jpg"
+      "title": "Alcaldía de Baruta y Comisión Presidencial acuerdan mesas de trabajo para viviendas, escuelas y vialidad",
+      "link": "https://noticiasvenevision.com/noticias/politica/alcaldia-de-baruta-y-comision-presidencial-acuerdan-mesas-de-trabajo-para-viviendas-escuelas-y-vialidad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_764497839_18622483663045051_2510348725164548222_n-1fdd4b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CREDI POS Y CREDI EXPRESS BANCAMIGA: CRÉDITOS PARA IMPULSAR TU NEGOCIO",
-      "link": "https://noticierodigital.com/2026/08/credi-pos-y-credi-express-bancamiga-creditos-para-impulsar-tu-negocio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/IMAGEN-2.jpg-627x376.jpeg"
+      "title": "COMISIÓN DE HABITABILIDAD Y BARUTA EVALUARÁN ESTRUCTURALMENTE ALGUNAS VIVIENDAS Y ESCUELAS",
+      "link": "https://noticierodigital.com/2026/08/comision-de-habitabilidad-y-baruta-evaluaran-estructuralmente-algunas-viviendas-y-escuelas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-5-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski acusa que menor ayuda militar occidental busca presionar a Ucrania",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-acusa-que-menor-ayuda-militar-occidental-busca-presionar-a-ucrania/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/zelesnki-11-de-marzo-750x430.webp"
+      "title": "NASA minimiza impacto de cohete de SpaceX en la Luna y aún no confirma colisión",
+      "link": "https://diarioversionfinal.com/mundo/nasa-minimiza-impacto-de-cohete-de-spacex-en-la-luna-y-aun-no-confirma-colision/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Cohete-Falcon-9-de-SpaceX-impactara-la-Luna.jpg"
     }
   ],
-  "lastUpdate": "2026-08-05T17:36:20.490Z"
+  "lastUpdate": "2026-08-05T19:30:43.686Z"
 };
