@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 06 Agosto 2026"
     },
     "binance": {
-      "usdt": "844,50"
+      "usdt": "846,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Con apoyo de EEUU, la ex diputada opositora Dinorah Figuera regresó a Venezuela para negociar con el chavismo una transición política",
-      "link": "https://www.infobae.com/venezuela/2026/08/06/con-apoyo-de-eeuu-la-ex-diputada-opositora-dinorah-figuera-regreso-a-venezuela-para-negociar-con-el-chavismo-una-transicion-politica/",
-      "image": "https://www.infobae.com/resizer/v2/XJHSN344WZCCPOPVM62JB4GBTI.JPG?auth=f8fcfcf8c6686b29810446ddd393e82c431b899cede45aebaa518d08f108bf9f&smart=true&width=350&height=197&quality=85"
+      "title": "Pese a la Ley de Amnistía, Foro Penal registró 382 presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/06/pese-a-la-ley-de-amnistia-foro-penal-registro-382-presos-politicos-en-venezuela-que-aguardan-por-su-libertad/",
+      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-OTAN.jpg"
     }
   ],
-  "lastUpdate": "2026-08-06T04:12:04.020Z"
+  "lastUpdate": "2026-08-06T07:38:50.049Z"
 };
