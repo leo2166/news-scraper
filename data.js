@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 06 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,90"
+      "usdt": "846,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Un Partido Demócrata fracturado intenta unirse en torno a Abdul El-Sayed",
-      "link": "https://cnnespanol.cnn.com/2026/08/05/eeuu/partido-democrata-senado-abdul-el-sayed-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289211246-20260805234359321.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Irán y Omán están cerca de cerrar un acuerdo sobre el estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/08/05/mundo/live-news/guerra-ee-uu-iran-medio-oriente-5-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260805101203895.Jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que EE. UU. suma 60 % del petróleo mundial al contar recursos de Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-ee-uu-suma-60-del-petroleo-mundial-al-contar-recursos-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-OTAN.jpg"
+      "title": "La Nasa se pronuncia sobre el impacto del cohete de SpaceX en la Luna",
+      "link": "https://diarioversionfinal.com/mundo/la-nasa-se-pronuncia-sobre-el-impacto-del-cohete-de-spacex-en-la-luna/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/09qC2Nhr-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-06T07:38:50.049Z"
+  "lastUpdate": "2026-08-06T10:38:32.359Z"
 };
