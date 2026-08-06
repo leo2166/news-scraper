@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 06 Agosto 2026"
     },
     "binance": {
-      "usdt": "846,50"
+      "usdt": "842,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Pese a la Ley de Amnistía, Foro Penal registró 382 presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/06/pese-a-la-ley-de-amnistia-foro-penal-registro-382-presos-politicos-en-venezuela-que-aguardan-por-su-libertad/",
-      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
+      "title": "Los daños por los terremotos ponen en riesgo la educación de 18.000 estudiantes en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/06/los-danos-por-los-terremotos-ponen-en-riesgo-la-educacion-de-18000-estudiantes-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4MEPAIUB3JA7LMFXLFTF6O4MCY.jpg?auth=af809eb40aa679e979242b7c6be6c329c53d64338adfd166f2a5a7e0ba758e07&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Diosdado Cabello a la Comisión de la AN de 2015: \"Bienvenidos, siempre que vengan a sumar en el marco de la Constitución\"",
-      "link": "https://noticialdia.com/al-dia/diosdado-cabello-a-la-comision-de-la-an-de-2015-bienvenidos-siempre-que-vengan-a-sumar-en-el-marco-de-la-constitucion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-14.webp?x12820"
+      "title": "La Fifa admite errores en el fallido plan para privatizar el Mundial",
+      "link": "https://noticialdia.com/deportes/la-fifa-admite-errores-en-el-fallido-plan-para-privatizar-el-mundial/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260806_082507_0000.webp?x12820"
     },
     {
       "source": "CNN en Español",
       "title": "Irán y Omán están cerca de cerrar un acuerdo sobre el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/08/05/mundo/live-news/guerra-ee-uu-iran-medio-oriente-5-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260805101203895.Jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "link": "https://cnnespanol.cnn.com/2026/08/06/mundo/live-news/guerra-iran-israel-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/embarcaciones-estrecho-de-ormuz.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO ANUNCIÓ LA LLEGADA DE OTRO VUELO DE CARGA A MAIQUETÍA",
-      "link": "https://noticierodigital.com/2026/08/gobierno-anuncio-la-llegada-de-otro-vuelo-de-carga-a-maiquetia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/vuelo-de-carga-venezuela-maiquetia-colombia-627x376.jpg"
+      "title": "PRECIO DEL HUEVO SE DESPLOMÓ MÁS DEL 50 % POR SOBREOFERTA",
+      "link": "https://noticierodigital.com/2026/08/precio-del-huevo-se-desplomo-mas-del-50-por-sobreoferta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/huevos-21mar2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Nasa se pronuncia sobre el impacto del cohete de SpaceX en la Luna",
-      "link": "https://diarioversionfinal.com/mundo/la-nasa-se-pronuncia-sobre-el-impacto-del-cohete-de-spacex-en-la-luna/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/09qC2Nhr-image-750x430.jpg"
+      "title": "Colombia cierra el gobierno de Petro entre avances sociales, reformas incompletas y fuertes controversias",
+      "link": "https://diarioversionfinal.com/mundo/colombia-cierra-el-gobierno-de-petro-entre-avances-sociales-reformas-incompletas-y-fuertes-controversias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Gustavo-Petro-scaled-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-06T10:38:32.359Z"
+  "lastUpdate": "2026-08-06T12:55:55.885Z"
 };
