@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Exboxeador venezolano mató a un mototaxista peruano de un solo golpe: Todo quedó grabado",
-      "link": "https://noticialdia.com/al-dia/exboxeador-venezolano-mato-a-un-mototaxista-peruano-de-un-solo-golpe-todo-quedo-grabado/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-8-2.webp?x12820"
+      "title": "Hallan muerto a un coronel retirado de la GNB en su vivienda al oeste de Maracaibo",
+      "link": "https://noticialdia.com/al-dia/hallan-muerto-a-un-coronel-retirado-de-la-gnb-en-su-vivienda-al-oeste-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "ONG Foro Penal contabiliza 382 presos por razones políticas en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/ong-foro-penal-contabiliza-382-presos-por-razones-politicas-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/wbl8ielr_400x400-9ca945.jpg"
+      "title": "Voluntad Popular da la bienvenida a la representación de la Asamblea Nacional de 2015 y respalda instalación de mesa de negociación institucional",
+      "link": "https://noticiasvenevision.com/noticias/politica/voluntad-popular-da-la-bienvenida-a-la-representacion-de-la-asamblea-nacional-de-2015-y-respalda-instalacion-de-mesa-de-negociacion-institucional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-05-at-6.18.03-pm-845d38.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ECARRI ANUNCIÓ UNA MESA TÉCNICA PARA IMPULSAR EL AEROPUERTO DE PALO NEGRO",
-      "link": "https://noticierodigital.com/2026/08/ecarri-anuncio-una-mesa-tecnica-para-impulsar-el-aeropuerto-de-palo-negro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/antonio-ecarri-venezuela-alianza-lapiz-627x376.jpg"
+      "title": "PJ ALERTÓ SOBRE EL DETERIORO DEL SERVICIO ELÉCTRICO EN LA GUAJIRA: «NO TIENE PRECEDENTES»",
+      "link": "https://noticierodigital.com/2026/08/pj-alerto-sobre-el-deterioro-del-servicio-electrico-en-la-guajira-no-tiene-precedentes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/primero_justicia_16dic-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Prision-Santiago-05-08-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-08-05T22:58:34.643Z"
+  "lastUpdate": "2026-08-06T00:05:07.968Z"
 };
