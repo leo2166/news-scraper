@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 07 Agosto 2026"
     },
     "binance": {
-      "usdt": "854,90"
+      "usdt": "858,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Segundo día de conversaciones entre el gobierno y la oposición vinculada a la AN-2015 se celebra en el Meliá Caracas",
-      "link": "https://noticialdia.com/politica/segundo-dia-de-conversaciones-entre-el-gobierno-y-la-oposicion-vinculada-a-la-an-2015-se-celebra-en-el-melia-caracas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
+      "title": "Realizan encuentro interinstitucional para fortalecer las comunas en Maracaibo",
+      "link": "https://noticialdia.com/zulia/realizan-encuentro-interinstitucional-para-fortalecer-las-comunas-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/5017e078-a524-403a-964a-3ede12ea08d6-convertido-a-1024x720-1.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Un \"circo\" de personajes extravagantes trastoca las primarias republicanas en Florida",
-      "link": "https://cnnespanol.cnn.com/2026/08/07/eeuu/florida-primarias-republicanas-candidatos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260806-florida-carpetbaggers-20260807101016755.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Abelardo de la Espriella asume como presidente de Colombia",
+      "link": "https://cnnespanol.cnn.com/2026/08/07/colombia/live-news/abelardo-espriella-posesion-investidura-presidencial-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/abelardo-de-la-espriella-gettyimages-2288280337.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,15 +45,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES RESPALDÓ DIÁLOGO NACIONAL PESE A ANTERIORES INTENTOS FALLIDOS: ESPERA «RESULTADOS TANGIBLES»",
-      "link": "https://noticierodigital.com/2026/08/capriles-respaldo-dialogo-nacional-pese-a-anteriores-intentos-fallidos-espera-resultados-tangibles/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/CaprilesElPais-627x376.jpg"
+      "title": "AGENTES ICE PORTARÁN CÁMARAS CORPORALES, PERO SOLO PUBLICARÁN VIDEOS «A DISCRECIÓN»",
+      "link": "https://noticierodigital.com/2026/08/agentes-ice-portaran-camaras-corporales-pero-solo-publicaran-videos-a-discrecion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/ICE_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Rubio advierte que no habrá “válvula de escape” para Cuba sin el apoyo de Venezuela",
-      "link": "https://laverdad.com/rubio-advierte-que-no-habra-valvula-de-escape-para-cuba-sin-el-apoyo-de-venezuela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/06/8227585ec6670e1ee3af765e59af1a45aeb64d7a-1.jpg"
+      "title": "Petro se despide de la Casa de Nariño en su último acto como presidente",
+      "link": "https://laverdad.com/petro-se-despide-de-la-casa-de-narino-en-su-ultimo-acto-como-presidente/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro-despedida-Casa-de-Narino.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/CPI-25-07-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-07T18:56:26.798Z"
+  "lastUpdate": "2026-08-07T19:52:48.327Z"
 };
