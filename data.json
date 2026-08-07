@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 07 Agosto 2026"
     },
     "binance": {
-      "usdt": "856,00"
+      "usdt": "855,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump intenta frenar nuevamente la ciudadanía por nacimiento",
-      "link": "https://cnnespanol.cnn.com/2026/08/06/eeuu/trump-frenar-ciudadania-nacimiento-decretos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/migrante-20260806194627285.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Un \"circo\" de personajes extravagantes trastoca las primarias republicanas en Florida",
+      "link": "https://cnnespanol.cnn.com/2026/08/07/eeuu/florida-primarias-republicanas-candidatos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260806-florida-carpetbaggers-20260807101016755.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,16 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "HIMIOB PIDIÓ QUE LA LIBERTAD DE LOS PRESOS POLÍTICOS SEA EL PUNTO DE PARTIDA DEL DIÁLOGO",
-      "link": "https://noticierodigital.com/2026/08/himiob-pidio-que-la-libertad-de-los-presos-politicos-sea-el-punto-de-partida-del-dialogo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
+      "title": "CHEVRON BUSCA AUMENTAR PRODUCCIÓN Y EXTRAER 420.000 BARRILES DIARIOS EN VENEZUELA EN 2028",
+      "link": "https://noticierodigital.com/2026/08/chevron-busca-aumentar-produccion-y-extraer-420-000-barriles-diarios-en-venezuela-en-2028/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/chevron-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Petro se despide tras el primer gobierno de izquierda en Colombia",
       "link": "https://laverdad.com/petro-se-despide-tras-el-primer-gobierno-de-izquierda-en-colombia/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro-despedida.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "España exige a Italia normalizar controles fronterizos tras la crisis en Ceuta y Melilla",
+      "link": "https://diarioversionfinal.com/mundo/espana-exige-a-italia-normalizar-controles-fronterizos-tras-la-crisis-en-ceuta-y-melilla/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/sWDxvmEl-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-07T11:44:30.698Z"
+  "lastUpdate": "2026-08-07T13:02:25.780Z"
 }
