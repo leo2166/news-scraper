@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "756,71",
-      "eur": "871,89",
-      "fechaValor": "Viernes, 07 Agosto 2026"
+      "usd": "757,54",
+      "eur": "875,22",
+      "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "859,88"
+      "usdt": "850,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Di Martino: “Alcaldía de Maracaibo se integra al plan de mitigación del cambio climático del Gobierno nacional\"",
-      "link": "https://noticialdia.com/al-dia/di-martino-alcaldia-de-maracaibo-se-integra-al-plan-de-mitigacion-del-cambio-climatico-del-gobierno-nacional/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-5-4.webp?x12820"
+      "title": "Comienza el acto de toma de posesión de Abelardo De la Espriella como presidente de Colombia",
+      "link": "https://noticialdia.com/al-dia/comienza-el-acto-de-toma-de-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-6-4.webp?x12820"
     },
     {
       "source": "CNN en Español",
       "title": "Abelardo de la Espriella asume como presidente de Colombia",
       "link": "https://cnnespanol.cnn.com/2026/08/07/colombia/live-news/abelardo-espriella-posesion-investidura-presidencial-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/abelardo-de-la-espriella-gettyimages-2288280337.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/captura-de-pantalla-2026-08-06-a-la-s-9-46-25-a-m.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,9 +51,9 @@
     },
     {
       "source": "La Verdad",
-      "title": "Petro se despide de la Casa de Nariño en su último acto como presidente",
-      "link": "https://laverdad.com/petro-se-despide-de-la-casa-de-narino-en-su-ultimo-acto-como-presidente/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro-despedida-Casa-de-Narino.jpg"
+      "title": "Inicia el acto de investidura de Abelardo de la Espriella como presidente de Colombia",
+      "link": "https://laverdad.com/inicia-el-acto-de-investidura-de-abelardo-de-la-espriella-como-presidente-de-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Abelardo.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/CPI-25-07-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-07T20:40:26.052Z"
+  "lastUpdate": "2026-08-07T21:38:34.989Z"
 }
