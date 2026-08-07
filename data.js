@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 07 Agosto 2026"
     },
     "binance": {
-      "usdt": "855,00"
+      "usdt": "856,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Seguridad armada, revisión de teléfonos y apremios a la prensa en el reinicio del diálogo venezolano",
-      "link": "https://www.infobae.com/venezuela/2026/08/07/seguridad-armada-revision-de-telefonos-y-apremios-a-la-prensa-en-el-reinicio-del-dialogo-venezolano/",
-      "image": "https://www.infobae.com/resizer/v2/SV3YHCW2I5D23DPHX6JFXIANFE.jpg?auth=390b51e456d64dcb5a6943bcfefeb9d03d7887279c51360ac625eb4e43ea8711&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado lamentó la muerte de José Breijo, el preso político venezolano-uruguayo: “Otra víctima del régimen”",
+      "link": "https://www.infobae.com/venezuela/2026/08/07/maria-corina-machado-lamento-la-muerte-de-jose-breijo-el-preso-politico-venezolano-uruguayo-otra-victima-del-regimen/",
+      "image": "https://www.infobae.com/resizer/v2/WZBSECIWYRG55EC5AILKTYJACM.jpg?auth=b52f67807512fe7c91cf583996ae11fb5d87e78cf2c018781eff17242c142486&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Un hito sin precedentes: Fundanica Zulia logra una alianza histórica al reunir a 15 reconocidos chefs y maestros de la repostería en el almuerzo benéfico \"Entre Sabores y Sonrisas\"",
-      "link": "https://noticialdia.com/al-dia/un-hito-sin-precedentes-fundanica-zulia-logra-una-alianza-historica-al-reunir-a-15-reconocidos-chefs-y-maestros-de-la-reposteria-en-el-almuerzo-benefico-entre-sabores-y-sonrisas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-14-1.webp?x12820"
+      "title": "Consejo Municipal de Protección capacita a servidores públicos del Terminal de Pasajeros",
+      "link": "https://noticialdia.com/al-dia/consejo-municipal-de-proteccion-capacita-a-servidores-publicos-del-terminal-de-pasajeros/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-07T102714.271.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHEVRON BUSCA AUMENTAR PRODUCCIÓN Y EXTRAER 420.000 BARRILES DIARIOS EN VENEZUELA EN 2028",
-      "link": "https://noticierodigital.com/2026/08/chevron-busca-aumentar-produccion-y-extraer-420-000-barriles-diarios-en-venezuela-en-2028/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/chevron-627x376.jpg"
+      "title": "JULIO MAYORA LOGRA EL TRICAMPEONATO CENTROAMERICANO EN SANTO DOMINGO",
+      "link": "https://noticierodigital.com/2026/08/julio-mayora-logra-el-tricampeonato-centroamericano-en-santo-domingo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/mayorca-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Petro se despide tras el primer gobierno de izquierda en Colombia",
-      "link": "https://laverdad.com/petro-se-despide-tras-el-primer-gobierno-de-izquierda-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro-despedida.jpg"
+      "title": "Muere Luka, la perrita de rescate española que ayudó a buscar sobrevivientes en La Guaira",
+      "link": "https://laverdad.com/muere-luka-la-perrita-de-rescate-espanola-que-ayudo-a-buscar-sobrevivientes-en-la-guaira/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Luka.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España exige a Italia normalizar controles fronterizos tras la crisis en Ceuta y Melilla",
-      "link": "https://diarioversionfinal.com/mundo/espana-exige-a-italia-normalizar-controles-fronterizos-tras-la-crisis-en-ceuta-y-melilla/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/sWDxvmEl-image-750x430.jpg"
+      "title": "Daniel Noboa se reunirá con De la Espriella antes de su investidura en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/daniel-noboa-se-reunira-con-de-la-espriella-antes-de-su-investidura-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/daniel-noboa-policia-ejercito-1024x683-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-07T13:02:25.780Z"
+  "lastUpdate": "2026-08-07T14:52:19.039Z"
 };
