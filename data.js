@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "856,90"
+      "usdt": "857,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Abelardo de la Espriella juró como presidente de Colombia para el periodo 2026-2030",
-      "link": "https://noticialdia.com/sin-categoria/abelardo-de-la-espriella-juro-como-presidente-de-colombia-para-el-periodo-2026-2030/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-4.webp?x12820"
+      "title": "Diputada Gladis Socorro: “El Presidente De La Espriella debe ser un ejemplo a seguir”",
+      "link": "https://noticialdia.com/al-dia/diputada-gladis-socorro-el-presidente-de-la-espriella-debe-ser-un-ejemplo-a-seguir/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-11-3.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ARRESTARON EN LOS TEQUES A UN HOMBRE CON ALERTA ROJA DE INTERPOL",
-      "link": "https://noticierodigital.com/2026/08/arrestaron-en-los-teques-a-un-hombre-con-alerta-roja-de-interpol/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/interpol-detencion-chile-venezuela-627x376.jpg"
+      "title": "TRES ONDAS TROPICALES SE APROXIMAN A VENEZUELA, SEGÚN INAMEH",
+      "link": "https://noticierodigital.com/2026/08/tres-ondas-tropicales-se-aproximan-a-venezuela-segun-inameh/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/10/lluvias-muerto-valencia-6oct2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/De-La-Espriella-jura-07-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-07T22:35:03.927Z"
+  "lastUpdate": "2026-08-07T23:33:15.276Z"
 };
