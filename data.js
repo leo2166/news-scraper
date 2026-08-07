@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 07 Agosto 2026"
     },
     "binance": {
-      "usdt": "856,00"
+      "usdt": "858,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,8 +27,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Ronald Acuña Jr. sacude dos jonrones ante Marlins y acecha registro histórico de Bravos",
-      "link": "https://noticialdia.com/?p=651005",
+      "title": "Alegría vinotinto en el vestuario: Venezuela celebra clasificación al Fiba Americup Femenino 2027",
+      "link": "https://noticialdia.com/sin-categoria/alegria-vinotinto-en-el-vestuario-venezuela-celebra-clasificacion-al-fiba-americup-femenino-2027/",
       "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
@@ -45,15 +45,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JULIO MAYORA LOGRA EL TRICAMPEONATO CENTROAMERICANO EN SANTO DOMINGO",
-      "link": "https://noticierodigital.com/2026/08/julio-mayora-logra-el-tricampeonato-centroamericano-en-santo-domingo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/mayorca-627x376.png"
+      "title": "CONINDUSTRIA, CVC Y PNUD ACUERDAN UNA HOJA DE RUTA PARA LA RECONSTRUCCIÓN NACIONAL ",
+      "link": "https://noticierodigital.com/2026/08/conindustria-cvc-y-pnud-acuerdan-una-hoja-de-ruta-para-la-reconstruccion-nacional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/Diseno-sin-titulo-20-627x376.png"
     },
     {
       "source": "La Verdad",
       "title": "Muere Luka, la perrita de rescate española que ayudó a buscar sobrevivientes en La Guaira",
       "link": "https://laverdad.com/muere-luka-la-perrita-de-rescate-espanola-que-ayudo-a-buscar-sobrevivientes-en-la-guaira/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Luka.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/daniel-noboa-policia-ejercito-1024x683-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-07T15:55:23.227Z"
+  "lastUpdate": "2026-08-07T16:54:06.831Z"
 };
