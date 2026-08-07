@@ -53,7 +53,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Petro se despide tras el primer gobierno de izquierda en Colombia",
       "link": "https://laverdad.com/petro-se-despide-tras-el-primer-gobierno-de-izquierda-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Gustavo-Petro-despedida.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Houston_Bush_Airport-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-07T08:58:16.333Z"
+  "lastUpdate": "2026-08-07T10:05:57.734Z"
 };
