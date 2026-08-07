@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "850,00"
+      "usdt": "856,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Comienza el acto de toma de posesión de Abelardo De la Espriella como presidente de Colombia",
-      "link": "https://noticialdia.com/al-dia/comienza-el-acto-de-toma-de-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-6-4.webp?x12820"
+      "title": "Abelardo de la Espriella juró como presidente de Colombia para el periodo 2026-2030",
+      "link": "https://noticialdia.com/sin-categoria/abelardo-de-la-espriella-juro-como-presidente-de-colombia-para-el-periodo-2026-2030/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-4.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Abelardo de la Espriella asume como presidente de Colombia",
+      "title": "Abelardo de la Espriella asume formalmente como presidente de Colombia",
       "link": "https://cnnespanol.cnn.com/2026/08/07/colombia/live-news/abelardo-espriella-posesion-investidura-presidencial-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/captura-de-pantalla-2026-08-06-a-la-s-9-46-25-a-m.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Familiares de reclusos en Lara solicitan de manera urgente mesa de trabajo ante retardo procesal",
-      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-reclusos-en-lara-solicitan-de-manera-urgente-mesa-de-trabajo-ante-retardo-procesal",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/halterofilia-e0d36a.jpg"
+      "title": "Observatorio Venezolano de Prisiones contabiliza 51 presos fallecidos en Venezuela entre abril y julio de este año",
+      "link": "https://noticiasvenevision.com/noticias/politica/observatorio-venezolano-de-prisiones-contabiliza-51-presos-fallecidos-en-venezuela-entre-abril-y-julio-de-este-ano",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/observatorio-venezolano-de-prisiones-e2a6d1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN 2015 RECHAZÓ AGRESIÓN CONTRA PERIODISTA DE EFECTO COCUYO TRAS DENUNCIA DEL SNTP",
-      "link": "https://noticierodigital.com/2026/08/an-2015-rechazo-agresion-contra-periodista-de-efecto-cocuyo-tras-denuncia-del-sntp/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/HPJK5wKWIAEqcbH-627x376.jpg"
+      "title": "ARRESTARON EN LOS TEQUES A UN HOMBRE CON ALERTA ROJA DE INTERPOL",
+      "link": "https://noticierodigital.com/2026/08/arrestaron-en-los-teques-a-un-hombre-con-alerta-roja-de-interpol/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/interpol-detencion-chile-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Asamblea del Estatuto de Roma pide a Venezuela y Chad frenar su retiro de la CPI",
-      "link": "https://diarioversionfinal.com/mundo/asamblea-del-estatuto-de-roma-pide-a-venezuela-y-chad-frenar-su-retiro-de-la-cpi/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/CPI-25-07-2026-750x430.jpeg"
+      "title": "Abelardo De La Espriella juró como presidente de Colombia en Cali",
+      "link": "https://diarioversionfinal.com/mundo/abelardo-de-la-espriella-juro-como-presidente-de-colombia-en-cali/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/De-La-Espriella-jura-07-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-07T21:38:34.989Z"
+  "lastUpdate": "2026-08-07T22:35:03.927Z"
 };
