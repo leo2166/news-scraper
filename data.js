@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "861,90"
+      "usdt": "861,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -53,14 +53,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Senado de EE. UU. confirma a Todd Blanche como fiscal general",
       "link": "https://laverdad.com/senado-de-ee-uu-confirma-a-todd-blanche-como-fiscal-general/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/1x-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba aprueba nuevas normas para impulsar las energías renovables en medio de la crisis eléctrica",
-      "link": "https://diarioversionfinal.com/mundo/cuba-aprueba-nuevas-normas-para-impulsar-las-energias-renovables-en-medio-de-la-crisis-electrica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/CUBA-ENERGIA-RENO-702x430.jpeg"
+      "title": "OPS alerta por aumento de casos de sarampión y pide reforzar la vacunación en América",
+      "link": "https://diarioversionfinal.com/mundo/ops-alerta-por-aumento-de-casos-de-sarampion-y-pide-reforzar-la-vacunacion-en-america-2/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2015/11/OMS-Vacuna-sarampión-Version-final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-08T21:29:39.595Z"
+  "lastUpdate": "2026-08-08T22:28:33.577Z"
 };
