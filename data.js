@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "859,00"
+      "usdt": "860,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "El boxeo femenino de Venezuela toca el cielo centroamericano con tres medallas de oro",
-      "link": "https://noticialdia.com/?p=651536",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
+      "title": "Alcalde Giancarlo Di Martino entregó rehabilitado el Centro de Participación Popular Francisco Eugenio Bustamante tras 18 años de abandono",
+      "link": "https://noticialdia.com/principal/alcalde-giancarlo-di-martino-entrego-rehabilitado-el-centro-de-participacion-popular-francisco-eugenio-bustamante-tras-18-anos-de-abandono/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-5.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -53,14 +53,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "De la Espriella toma posesión y promete mano dura contra el crimen en Colombia",
       "link": "https://laverdad.com/de-la-espriella-toma-posesion-y-promete-mano-dura-contra-el-crimen-en-colombia/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/27fcb8d17a5dc653be622153a45af949785cc52b-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump aumenta la presión sobre el magnate petrolero Harry Sargeant para que salga de Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/trump-aumenta-la-presion-sobre-el-magnate-petrolero-harry-sargeant-para-que-salga-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-11-640x430.jpg"
+      "title": "Tiroteo en escuela de Tailandia deja nueve muertos tras fallecimiento de una estudiante",
+      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-escuela-de-tailandia-deja-nueve-muertos-tras-fallecimiento-de-una-estudiante/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/XCGQG6NWHJCL5E5VIDJ3PCLN2A-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-08T17:29:45.709Z"
+  "lastUpdate": "2026-08-08T18:36:22.140Z"
 };
