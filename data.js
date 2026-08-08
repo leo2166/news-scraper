@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Abelardo-e-Ivan-31-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-08T07:49:50.707Z"
+  "lastUpdate": "2026-08-08T08:40:41.849Z"
 };
