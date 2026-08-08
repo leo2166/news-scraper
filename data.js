@@ -15,8 +15,8 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Ministro Padrino López ordenó auditorías en ministerios de Agricultura e Hidrocarburos en distribución de combustible para sector agrícola",
-      "link": "https://www.bancaynegocios.com/ministro-padrino-lopez-ordeno-auditorias-en-ministerios-de-agricultura-e-hidrocarburos-en-distribucion-de-combustible-para-sector-agricola/",
+      "title": "Ministro Padrino López solicitó auditorías en la distribución de combustible para sector agrícola",
+      "link": "https://www.bancaynegocios.com/ministro-padrino-lopez-solicito-auditorias-en-la-distribucion-de-combustible-para-sector-agricola/",
       "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-08-at-10.25.24-AM.jpeg"
     },
     {
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Kit Miyamoto: \"No hay absolutamente nada malo con el código de construcción venezolano. Lo que hace falta es cumplir exactamente lo que establece\"",
-      "link": "https://noticialdia.com/nacionales/kit-miyamoto-no-hay-absolutamente-nada-malo-con-el-codigo-de-construccion-venezolano-lo-que-hace-falta-es-cumplir-exactamente-lo-que-establece/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-6-5.webp?x12820"
+      "title": "El boxeo femenino de Venezuela toca el cielo centroamericano con tres medallas de oro",
+      "link": "https://noticialdia.com/?p=651536",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
       "source": "CNN en Español",
@@ -53,14 +53,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "De la Espriella toma posesión y promete mano dura contra el crimen en Colombia",
       "link": "https://laverdad.com/de-la-espriella-toma-posesion-y-promete-mano-dura-contra-el-crimen-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/27fcb8d17a5dc653be622153a45af949785cc52b-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Colombia asegura que recuperó la confianza de EE.UU. con el nuevo Gobierno",
-      "link": "https://diarioversionfinal.com/mundo/colombia-asegura-que-recupero-la-confianza-de-ee-uu-con-el-nuevo-gobierno/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/6a3d631d3fe89.image_-750x430.jpg"
+      "title": "Trump aumenta la presión sobre el magnate petrolero Harry Sargeant para que salga de Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/trump-aumenta-la-presion-sobre-el-magnate-petrolero-harry-sargeant-para-que-salga-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-11-640x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-08T16:32:59.165Z"
+  "lastUpdate": "2026-08-08T17:29:45.709Z"
 };
