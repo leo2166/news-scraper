@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "862,00"
+      "usdt": "861,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "ICE solo publicará videos de cámaras corporales cuando sea de \"su interés\"",
-      "link": "https://cnnespanol.cnn.com/2026/08/07/eeuu/ice-camaras-corporales-videos-ap",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-camaras-corporales.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Un alto general de EE.UU. busca una salida a la guerra con Irán",
+      "link": "https://cnnespanol.cnn.com/2026/08/07/eeuu/general-trump-salida-guerra-iran-militares-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-07-163054.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Abelardo-e-Ivan-31-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-08T09:37:08.601Z"
+  "lastUpdate": "2026-08-08T10:32:44.637Z"
 };
