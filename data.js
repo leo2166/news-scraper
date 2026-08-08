@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "858,00"
+      "usdt": "860,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Feminicidio en Caraballeda: Comisario de la policía regional asesinó a balazos a su expareja",
-      "link": "https://noticialdia.com/sucesos/feminicidio-en-caraballeda-comisario-de-la-policia-regional-asesino-a-balazos-a-su-expareja/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-08T093310.753.webp?x12820"
+      "title": "Onda tropical N° 34 se desplaza por el oriente venezolano: Anuncian lluvias en varias regiones este sábado 8-Ago",
+      "link": "https://noticialdia.com/principal/onda-tropical-n-34-se-desplaza-por-el-oriente-venezolano-anuncian-lluvias-en-varias-regiones-este-sabado-8-ago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-5.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "La política antiinmigratoria de Trump genera preocupación entre los sectores industriales",
-      "link": "https://cnnespanol.cnn.com/2026/08/08/eeuu/politica-antiinmigratoria-trump-industria-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/politica-antiinmigratoria.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Muere Jorge Messi, padre y representante de Lionel Messi",
+      "link": "https://cnnespanol.cnn.com/2026/08/08/argentina/muere-jorge-messi-padre-representante-lionel-messi-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2245761843.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -53,7 +53,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Inicia el acto de investidura de Abelardo de la Espriella como presidente de Colombia",
       "link": "https://laverdad.com/inicia-el-acto-de-investidura-de-abelardo-de-la-espriella-como-presidente-de-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Abelardo.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/COLOMBIA-DE_LA_ESPRIELLA-JURA_PRESIDENCIAL__7478.webp"
     }
   ],
-  "lastUpdate": "2026-08-08T13:45:02.944Z"
+  "lastUpdate": "2026-08-08T14:31:50.466Z"
 };
