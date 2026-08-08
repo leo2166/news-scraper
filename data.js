@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Ministro Padrino López solicitó auditorías en la distribución de combustible para sector agrícola",
-      "link": "https://www.bancaynegocios.com/ministro-padrino-lopez-solicito-auditorias-en-la-distribucion-de-combustible-para-sector-agricola/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-08-at-10.25.24-AM.jpeg"
+      "title": "Industria farmacéutica venezolana reporta crecimiento de 10,77% en el primer semestre de 2026",
+      "link": "https://www.bancaynegocios.com/industria-farmaceutica-venezolana-reporta-crecimiento-de-10punto77-porciento-en-el-primer-semestre-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/08/FarmaciaMedicinas.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcalde Giancarlo Di Martino entregó rehabilitado el Centro de Participación Popular Francisco Eugenio Bustamante tras 18 años de abandono",
-      "link": "https://noticialdia.com/principal/alcalde-giancarlo-di-martino-entrego-rehabilitado-el-centro-de-participacion-popular-francisco-eugenio-bustamante-tras-18-anos-de-abandono/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-5.webp?x12820"
+      "title": "Avanza la construcción de terminal temporal para reactivar el Aeropuerto de Maiquetía tras el doblete sísmico",
+      "link": "https://noticialdia.com/principal/avanza-la-construccion-de-terminal-temporal-para-reactivar-el-aeropuerto-de-maiquetia-tras-el-doblete-sismico/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-8-5.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ASDRÚBAL OLIVEROS SOBRE SECTOR AUTOMOTRIZ: «LA COMPETITIVIDAD NO CONSISTE EN PRODUCIR TODO»",
-      "link": "https://noticierodigital.com/2026/08/asdrubal-oliveros-sobre-sector-automotriz-la-competitividad-no-consiste-en-producir-todo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-8-627x376.png"
+      "title": "TRUMP PRESIONA PARA QUE MAGNATE PETROLERO HARRY SARGEANT III ABANDONE INTERÉS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/08/trump-presiona-para-que-magnate-petrolero-harry-sargeant-iii-abandone-interes-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-2-5-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "De la Espriella toma posesión y promete mano dura contra el crimen en Colombia",
-      "link": "https://laverdad.com/de-la-espriella-toma-posesion-y-promete-mano-dura-contra-el-crimen-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/27fcb8d17a5dc653be622153a45af949785cc52b-scaled.jpg"
+      "title": "Senado de EE. UU. confirma a Todd Blanche como fiscal general",
+      "link": "https://laverdad.com/senado-de-ee-uu-confirma-a-todd-blanche-como-fiscal-general/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/1x-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo en escuela de Tailandia deja nueve muertos tras fallecimiento de una estudiante",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-escuela-de-tailandia-deja-nueve-muertos-tras-fallecimiento-de-una-estudiante/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/XCGQG6NWHJCL5E5VIDJ3PCLN2A-750x430.jpg"
+      "title": "Senado de EE. UU. confirma a Todd Blanche como fiscal general tras ajustada votación",
+      "link": "https://diarioversionfinal.com/mundo/senado-de-ee-uu-confirma-a-todd-blanche-como-fiscal-general-tras-ajustada-votacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/trump-93637-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-08T18:36:22.140Z"
+  "lastUpdate": "2026-08-08T19:29:32.422Z"
 };
