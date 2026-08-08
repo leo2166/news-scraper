@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "859,50"
+      "usdt": "859,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Preso hombre por maltratar a su burro de carga en Cuatricentenario",
-      "link": "https://noticialdia.com/sucesos/preso-hombre-por-maltratar-a-su-burro-de-carga-en-cuatricentenario/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-08T110425.071.webp?x12820"
+      "title": "Kit Miyamoto: \"No hay absolutamente nada malo con el código de construcción venezolano. Lo que hace falta es cumplir exactamente lo que establece\"",
+      "link": "https://noticialdia.com/nacionales/kit-miyamoto-no-hay-absolutamente-nada-malo-con-el-codigo-de-construccion-venezolano-lo-que-hace-falta-es-cumplir-exactamente-lo-que-establece/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-6-5.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DE LA ESPRIELLA ORDENA TRASLADAR A 117 PERSONAS DE ALTO PERFIL A CÁRCELES DE MÁXIMA SEGURIDAD",
-      "link": "https://noticierodigital.com/2026/08/de-la-espriella-ordena-trasladar-a-117-personas-de-alto-perfil-a-carceles-de-maxima-seguridad/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-2-4-627x376.png"
+      "title": "ASDRÚBAL OLIVEROS SOBRE SECTOR AUTOMOTRIZ: «LA COMPETITIVIDAD NO CONSISTE EN PRODUCIR TODO»",
+      "link": "https://noticierodigital.com/2026/08/asdrubal-oliveros-sobre-sector-automotriz-la-competitividad-no-consiste-en-producir-todo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-8-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "OPS alerta por aumento de casos de sarampión y pide reforzar la vacunación en América",
-      "link": "https://diarioversionfinal.com/mundo/ops-alerta-por-aumento-de-casos-de-sarampion-y-pide-reforzar-la-vacunacion-en-america/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Vacuna-covid-750x430.jpg"
+      "title": "Colombia asegura que recuperó la confianza de EE.UU. con el nuevo Gobierno",
+      "link": "https://diarioversionfinal.com/mundo/colombia-asegura-que-recupero-la-confianza-de-ee-uu-con-el-nuevo-gobierno/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/6a3d631d3fe89.image_-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-08T15:28:56.724Z"
+  "lastUpdate": "2026-08-08T16:32:59.165Z"
 };
