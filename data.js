@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "863,00"
+      "usdt": "862,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -53,7 +53,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Inicia el acto de investidura de Abelardo de la Espriella como presidente de Colombia",
       "link": "https://laverdad.com/inicia-el-acto-de-investidura-de-abelardo-de-la-espriella-como-presidente-de-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Abelardo.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Abelardo-e-Ivan-31-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-08T05:43:10.418Z"
+  "lastUpdate": "2026-08-08T06:52:36.835Z"
 };
