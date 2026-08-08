@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "860,00"
+      "usdt": "859,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gremio advierte que fenómeno “Súper Niño” podría afectar el 60% de las cosechas nacionales",
-      "link": "https://www.bancaynegocios.com/gremio-advierte-que-fenomeno-super-nino-podria-afectar-el-60-porciento-de-las-cosechas-nacionales/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/07/papas-12-1132x670-1.jpg"
+      "title": "Ministro Padrino López ordenó auditorías en ministerios de Agricultura e Hidrocarburos en distribución de combustible para sector agrícola",
+      "link": "https://www.bancaynegocios.com/ministro-padrino-lopez-ordeno-auditorias-en-ministerios-de-agricultura-e-hidrocarburos-en-distribucion-de-combustible-para-sector-agricola/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-08-at-10.25.24-AM.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Onda tropical N° 34 se desplaza por el oriente venezolano: Anuncian lluvias en varias regiones este sábado 8-Ago",
-      "link": "https://noticialdia.com/principal/onda-tropical-n-34-se-desplaza-por-el-oriente-venezolano-anuncian-lluvias-en-varias-regiones-este-sabado-8-ago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-5.webp?x12820"
+      "title": "Preso hombre por maltratar a su burro de carga en Cuatricentenario",
+      "link": "https://noticialdia.com/sucesos/preso-hombre-por-maltratar-a-su-burro-de-carga-en-cuatricentenario/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-08T110425.071.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Inicia el acto de investidura de Abelardo de la Espriella como presidente de Colombia",
-      "link": "https://laverdad.com/inicia-el-acto-de-investidura-de-abelardo-de-la-espriella-como-presidente-de-colombia/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "De la Espriella toma posesión y promete mano dura contra el crimen en Colombia",
+      "link": "https://laverdad.com/de-la-espriella-toma-posesion-y-promete-mano-dura-contra-el-crimen-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/27fcb8d17a5dc653be622153a45af949785cc52b-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de Colombia traslada a 117 presos de alto perfil a cárceles de máxima seguridad",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-de-colombia-traslada-a-117-presos-de-alto-perfil-a-carceles-de-maxima-seguridad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/COLOMBIA-DE_LA_ESPRIELLA-JURA_PRESIDENCIAL__7478.webp"
+      "title": "OPS alerta por aumento de casos de sarampión y pide reforzar la vacunación en América",
+      "link": "https://diarioversionfinal.com/mundo/ops-alerta-por-aumento-de-casos-de-sarampion-y-pide-reforzar-la-vacunacion-en-america/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Vacuna-covid-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-08T14:31:50.466Z"
+  "lastUpdate": "2026-08-08T15:28:56.724Z"
 };
