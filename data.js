@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "857,00"
+      "usdt": "859,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Empresarios venezolanos solicitan priorizar producción nacional para avanzar en la recuperación tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/08/07/empresarios-venezolanos-solicitan-priorizar-produccion-nacional-para-avanzar-en-la-recuperacion-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/OS4WXTJPLVFF7GGSUKCS5L4HWU.JPG?auth=b474c3f74e16e32fb97ac7ead9cf4019744e8bdb2d1bfb50217e28179de57a55&smart=true&width=350&height=197&quality=85"
+      "title": "La justicia de Venezuela otorgó la libertad plena a la jueza María Lourdes Afiuni tras más de 15 años de proceso",
+      "link": "https://www.infobae.com/venezuela/2026/08/08/la-justicia-de-venezuela-otorgo-la-libertad-plena-a-la-jueza-maria-lourdes-afiuni-tras-mas-de-15-anos-de-proceso/",
+      "image": "https://www.infobae.com/resizer/v2/FDLLYDRLUVEBJDZTHS4JRPNPVQ.jpg?auth=dd6b01c75ccf24dc5881a629785e73f7ea9c40fcf21f5811edf4186434b30e87&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Diputada Gladis Socorro: “El Presidente De La Espriella debe ser un ejemplo a seguir”",
-      "link": "https://noticialdia.com/al-dia/diputada-gladis-socorro-el-presidente-de-la-espriella-debe-ser-un-ejemplo-a-seguir/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-11-3.webp?x12820"
+      "title": "Murió arrollado un sexagenario en la C-1: El responsable se dio a la fuga",
+      "link": "https://noticialdia.com/principal/murio-arrollado-un-sexagenario-en-la-c-1-el-responsable-se-dio-a-la-fuga/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-16-1.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Abelardo de la Espriella asume formalmente como presidente de Colombia",
-      "link": "https://cnnespanol.cnn.com/2026/08/07/colombia/live-news/abelardo-espriella-posesion-investidura-presidencial-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/captura-de-pantalla-2026-08-06-a-la-s-9-46-25-a-m.png?c=2x3&q=h_384,w_256,c_fill"
+      "title": "ICE solo publicará videos de cámaras corporales cuando sea de \"su interés\"",
+      "link": "https://cnnespanol.cnn.com/2026/08/07/eeuu/ice-camaras-corporales-videos-ap",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ice-camaras-corporales.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRES ONDAS TROPICALES SE APROXIMAN A VENEZUELA, SEGÚN INAMEH",
-      "link": "https://noticierodigital.com/2026/08/tres-ondas-tropicales-se-aproximan-a-venezuela-segun-inameh/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/10/lluvias-muerto-valencia-6oct2022.jpg"
+      "title": "ÓSCAR MURILLO CALIFICÓ DE «JUSTICIA TARDÍA» LA LIBERTAD PLENA DE MARÍA LOURDES AFIUNI",
+      "link": "https://noticierodigital.com/2026/08/oscar-murillo-califico-de-justicia-tardia-la-libertad-plena-de-maria-lourdes-afiuni/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/oscar-murillo-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Abelardo De La Espriella juró como presidente de Colombia en Cali",
-      "link": "https://diarioversionfinal.com/mundo/abelardo-de-la-espriella-juro-como-presidente-de-colombia-en-cali/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/De-La-Espriella-jura-07-08-2026-750x430.jpg"
+      "title": "De La Espriella: Comenzó el tiempo de la recuperación del orden, la autoridad y la libertad",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-comenzo-el-tiempo-de-la-recuperacion-del-orden-la-autoridad-y-la-libertad/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Abelardo-De-La-Espriella-2-07-08-2026-750x429.jpg"
     }
   ],
-  "lastUpdate": "2026-08-07T23:33:15.276Z"
+  "lastUpdate": "2026-08-08T01:38:21.777Z"
 };
