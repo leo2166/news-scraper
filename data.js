@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "860,00"
+      "usdt": "861,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: Cómo acceder a los nuevos subsidios y créditos para reposición de vivienda",
-      "link": "https://www.bancaynegocios.com/dato-como-acceder-a-los-nuevos-subsidios-y-creditos-para-reposicion-de-vivienda/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/compra-vivienda.jpg"
+      "title": "Habilitación de vuelos internacionales impulsó la ocupación hotelera en Anzoátegui",
+      "link": "https://www.bancaynegocios.com/habilitacion-de-vuelos-internacionales-impulso-la-ocupacion-hotelera-en-anzoategui/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/Aeropuerto_Anzoategui.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela firma una destacada actuación y se cuelga la medalla de plata en el softbol centroamericano",
-      "link": "https://noticialdia.com/deportes/venezuela-firma-una-destacada-actuacion-y-se-cuelga-la-medalla-de-plata-en-el-softbol-centroamericano/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260808_153629_0000.webp?x12820"
+      "title": "Leyendas de los Medias Blancas de Chicago se reúnen para honrar el legado de \"Ozzie\" Guillén",
+      "link": "https://noticialdia.com/deportes/leyendas-de-los-medias-blancas-de-chicago-se-reunen-para-honrar-el-legado-de-ozzie-guillen/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260808_124616_0000-1.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán exige concesiones a EE.UU. ante posible acuerdo sobre el estrecho de Ormuz",
+      "title": "Irán exige concesiones a EE.UU. ante posible acuerdo sobre Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/08/08/mundo/live-news/guerra-iran-israel-estrecho-ormuz-2-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276029086-20260808141705879-20260808202150060.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -53,14 +53,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Senado de EE. UU. confirma a Todd Blanche como fiscal general",
       "link": "https://laverdad.com/senado-de-ee-uu-confirma-a-todd-blanche-como-fiscal-general/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/1x-1.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Paraguay y legisladores colombianos unen esfuerzos para respaldar la \"democracia\" en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/paraguay-y-legisladores-colombianos-unen-esfuerzos-para-respaldar-la-democracia-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Diseno-sin-titulo-2026-08-08T145316.696.jpg-750x430.webp"
+      "title": "Cuba aprueba nuevas normas para impulsar las energías renovables en medio de la crisis eléctrica",
+      "link": "https://diarioversionfinal.com/mundo/cuba-aprueba-nuevas-normas-para-impulsar-las-energias-renovables-en-medio-de-la-crisis-electrica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/CUBA-ENERGIA-RENO-702x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-08T20:29:49.660Z"
+  "lastUpdate": "2026-08-08T21:29:39.595Z"
 };
