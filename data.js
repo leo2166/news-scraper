@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "861,20"
+      "usdt": "860,51"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Leyendas de los Medias Blancas de Chicago se reúnen para honrar el legado de \"Ozzie\" Guillén",
-      "link": "https://noticialdia.com/deportes/leyendas-de-los-medias-blancas-de-chicago-se-reunen-para-honrar-el-legado-de-ozzie-guillen/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260808_124616_0000-1.webp?x12820"
+      "title": "Esgrima dorada y cuarto lugar en el medallero: Venezuela culmina su participación en Santo Domingo 2026",
+      "link": "https://noticialdia.com/al-dia/esgrima-dorada-y-cuarto-lugar-en-el-medallero-venezuela-culmina-su-participacion-en-santo-domingo-2026/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/20260808_190055_0000.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "OPS alerta por aumento de casos de sarampión y pide reforzar la vacunación en América",
-      "link": "https://diarioversionfinal.com/mundo/ops-alerta-por-aumento-de-casos-de-sarampion-y-pide-reforzar-la-vacunacion-en-america-2/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2015/11/OMS-Vacuna-sarampión-Version-final.jpg"
+      "title": "Detectan dos drones sobre una base militar alemana tras hallar otro con explosivos en un aeropuerto",
+      "link": "https://diarioversionfinal.com/mundo/detectan-dos-drones-sobre-una-base-militar-alemana-tras-hallar-otro-con-explosivos-en-un-aeropuerto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Captura-de-pantalla_8-8-2026_165136_noticiaalminuto.com_-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-08T22:28:33.577Z"
+  "lastUpdate": "2026-08-08T23:28:19.876Z"
 };
