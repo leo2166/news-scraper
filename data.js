@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "863,00"
+      "usdt": "863,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Arda Güler brilla y Bernardo Silva debuta en la victoria del Real Madrid en pretemporada",
-      "link": "https://noticialdia.com/deportes/arda-guler-brilla-y-bernardo-silva-debuta-en-la-victoria-del-real-madrid-en-pretemporada/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260809_121933_0000.webp?x12820"
+      "title": "Abogado Joaquin Chaparro Oliveros: \"Racionamiento eléctrico en Maracaibo es un drama humano e insostenible\"",
+      "link": "https://noticialdia.com/nacionales/regionales/abogado-joaquin-chaparro-oliveros-racionamiento-electrico-en-maracaibo-es-un-drama-humano-e-insostenible/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-11-5.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DE LA ESPRIELLA RESPONDE A MARÍA CORINA MACHADO: «COLOMBIA Y VENEZUELA SON PUEBLOS HERMANOS»",
-      "link": "https://noticierodigital.com/2026/08/de-la-espriella-responde-a-maria-corina-machado-colombia-y-venezuela-son-pueblos-hermanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delaespriella1-627x376.jpg"
+      "title": "DEFENSORÍA SE REUNIÓ CON GOBERNADOR DE LA GUAIRA: BUSCAN ARTICULAR ESTRATEGIAS POSTSISMOS ",
+      "link": "https://noticierodigital.com/2026/08/defensoria-se-reunio-con-gobernador-de-la-guaira-buscan-articular-estrategias-postsismos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-11-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-09-at-11.19.56-AM-600x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-09T16:34:30.457Z"
+  "lastUpdate": "2026-08-09T17:31:03.509Z"
 };
