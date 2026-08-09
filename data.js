@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "862,00"
+      "usdt": "862,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El Pentágono pide producir más armas ante preocupación por sus reservas",
-      "link": "https://cnnespanol.cnn.com/2026/08/09/mundo/live-news/guerra-iran-israel-estrecho-ormuz-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-04t181855z-1119949581-rc2ywja77voj-rtrmadp-3-iran-crisis-20260809193011169.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Arrestos y pérdida de empleos: la nueva realidad para miles de haitianos en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/08/09/eeuu/tps-haitianos-eeuu-arrestos-trabajo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tps-1-haiti.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ébola deja 1.916 muertos y más de 4.200 casos en la RD del Congo",
-      "link": "https://diarioversionfinal.com/mundo/ebola-deja-1-916-muertos-y-mas-de-4-200-casos-en-la-rd-del-congo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/OMS-confirma-mas-de-100-muertes-por-brote-de-ebola-en-Republica-Democratica-del-Congo-750x430.jpg"
+      "title": "Incendio en el sur de España extiende su perímetro a 8.000 hectáreas",
+      "link": "https://diarioversionfinal.com/mundo/incendio-en-el-sur-de-espana-extiende-su-perimetro-a-8-000-hectareas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Espana-5-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-09T21:31:28.678Z"
+  "lastUpdate": "2026-08-09T22:30:58.121Z"
 };
