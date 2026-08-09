@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La política inmigratoria de Trump preocupa a varios sectores",
-      "link": "https://cnnespanol.cnn.com/2026/08/08/eeuu/politica-antiinmigratoria-trump-industria-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/politica-antiinmigratoria.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump desperdició ventajas de los republicanos en 2 áreas clave",
+      "link": "https://cnnespanol.cnn.com/2026/08/09/eeuu/analisis-trump-desperdiciado-ventajas-republicanos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-newark-7-agosto-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FUJIMORI-KEIKO-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-09T07:54:10.105Z"
+  "lastUpdate": "2026-08-09T08:42:09.459Z"
 };
