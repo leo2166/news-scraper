@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "862,00"
+      "usdt": "861,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Habilitación de vuelos internacionales impulsó la ocupación hotelera en Anzoátegui",
-      "link": "https://www.bancaynegocios.com/habilitacion-de-vuelos-internacionales-impulso-la-ocupacion-hotelera-en-anzoategui/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/Aeropuerto_Anzoategui.jpeg"
+      "title": "Trabajadores de La Guaira son reubicados en Nueva Esparta a través del plan de contingencia laboral",
+      "link": "https://www.bancaynegocios.com/trabajadores-de-la-guaira-son-reubicados-en-nueva-esparta-a-traves-del-plan-de-contingencia-laboral/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/MARGARITA-TURISMO-1.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Jannik Sinner se baja del Masters 1000 de Cincinnati por molestias en la rodilla",
-      "link": "https://noticialdia.com/deportes/jannik-sinner-se-baja-del-masters-1000-de-cincinnati-por-molestias-en-la-rodilla/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260809_141610_0000.webp?x12820"
+      "title": "¡Insólito! Futbolista brasileño se cae al túnel de vestuarios en su festejo y el VAR le anula el gol",
+      "link": "https://noticialdia.com/deportes/insolito-futbolista-brasileno-se-cae-al-tunel-de-vestuarios-en-su-festejo-y-el-var-le-anula-el-gol/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260809_152506_0000.webp?x12820"
     },
     {
       "source": "CNN en Español",
       "title": "El Pentágono pide producir más armas ante preocupación por sus reservas",
       "link": "https://cnnespanol.cnn.com/2026/08/09/mundo/live-news/guerra-iran-israel-estrecho-ormuz-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276029086-20260808141705879-20260808202150060.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-04t181855z-1119949581-rc2ywja77voj-rtrmadp-3-iran-crisis-20260809193011169.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -53,7 +53,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "León XIV pide a Rusia y Ucrania detener la violencia y evitar ataques contra civiles",
       "link": "https://laverdad.com/leon-xiv-pide-a-rusia-y-ucrania-detener-la-violencia-y-evitar-ataques-contra-civiles/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/785e72adde118bb894ed5d728c4328ea86d43073-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/17676389533400-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-09T18:39:42.368Z"
+  "lastUpdate": "2026-08-09T19:32:58.386Z"
 };
