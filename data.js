@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "862,90"
+      "usdt": "862,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Soy Mujer Ong capacitó a 206 mujeres zulianas en el marco del proyecto \"Juntas\"",
-      "link": "https://noticialdia.com/al-dia/soy-mujer-ong-capacito-a-206-mujeres-zulianas-en-el-marco-del-proyecto-juntas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/2d960efb-062e-4882-ab6c-2a14de0b38f1-convertido-a-1024x720-1.webp?x12820"
+      "title": "Más de 51 mil edificaciones han sido inspeccionadas por el Gobierno nacional luego del doble terremoto",
+      "link": "https://noticialdia.com/nacionales/mas-de-51-mil-edificaciones-han-sido-inspeccionadas-por-el-gobierno-nacional-luego-del-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-6.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DE LA ESPRIELLA CONDENA ATAQUE CON EXPLOSIVOS EN PEAJE DE MONDOMO: «NO HABRÁ REFUGIO, NI IMPUNIDAD»",
-      "link": "https://noticierodigital.com/2026/08/de-la-espriella-condena-ataque-con-explosivos-en-peaje-de-mondomo-no-habra-refugio-ni-impunidad/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-9-627x376.png"
+      "title": "PERKINS ROCHA DICE QUE «NINGÚN MURO ES ETERNO» AL CUMPLIR SEIS MESES EN PRISIÓN DOMICILIARIA",
+      "link": "https://noticierodigital.com/2026/08/perkins-rocha-dice-que-ningun-muro-es-eterno-al-cumplir-seis-meses-en-prision-domiciliaria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-21-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fujimori promete \"mucha fuerza\" contra la delincuencia y busca acelerar la justicia en Perú",
-      "link": "https://diarioversionfinal.com/mundo/fujimori-promete-mucha-fuerza-contra-la-delincuencia-y-busca-acelerar-la-justicia-en-peru/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FUJIMORI-KEIKO-750x430.jpg"
+      "title": "Empresario texano se siente \"traicionado\" por Trump porque ICE detuvo a su esposa venezolana",
+      "link": "https://diarioversionfinal.com/mundo/empresario-texano-se-siente-traicionado-por-trump-porque-ice-detuvo-a-su-esposa-venezolana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-09-at-9.59.31-AM-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-09T13:49:30.285Z"
+  "lastUpdate": "2026-08-09T14:33:50.548Z"
 };
