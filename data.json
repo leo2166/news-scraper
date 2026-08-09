@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "860,51"
+      "usdt": "862,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Irán exige concesiones a EE.UU. ante posible acuerdo sobre Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/08/08/mundo/live-news/guerra-iran-israel-estrecho-ormuz-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276029086-20260808141705879-20260808202150060.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La política inmigratoria de Trump preocupa a varios sectores",
+      "link": "https://cnnespanol.cnn.com/2026/08/08/eeuu/politica-antiinmigratoria-trump-industria-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/politica-antiinmigratoria.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (e) Delcy Rodríguez anuncia nuevas designaciones en el Ministerio de Energía Eléctrica y Corpoelec",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-nuevas-designaciones-en-el-ministerio-de-energia-electrica-y-corpoelec",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1687288637317282142xg-c19506.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez evalúa fondos de emergencia y avance de obras tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-evalua-fondos-de-emergencia-y-avance-de-obras-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8526-2048x1365-a2c04c.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detectan dos drones sobre una base militar alemana tras hallar otro con explosivos en un aeropuerto",
-      "link": "https://diarioversionfinal.com/mundo/detectan-dos-drones-sobre-una-base-militar-alemana-tras-hallar-otro-con-explosivos-en-un-aeropuerto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Captura-de-pantalla_8-8-2026_165136_noticiaalminuto.com_-750x430.jpeg"
+      "title": "Fujimori promete \"mucha fuerza\" contra la delincuencia y busca acelerar la justicia en Perú",
+      "link": "https://diarioversionfinal.com/mundo/fujimori-promete-mucha-fuerza-contra-la-delincuencia-y-busca-acelerar-la-justicia-en-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FUJIMORI-KEIKO-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-08T23:28:19.876Z"
+  "lastUpdate": "2026-08-09T01:43:44.263Z"
 }
