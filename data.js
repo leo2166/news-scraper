@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "862,99"
+      "usdt": "859,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Luis de la Fuente recibe emotivo homenaje en su pueblo natal tras ganar el Mundial",
-      "link": "https://noticialdia.com/deportes/luis-de-la-fuente-recibe-emotivo-homenaje-en-su-pueblo-natal-tras-ganar-el-mundial/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260809_164319_0000.webp?x12820"
+      "title": "IMAU incorpora dos unidades más para la recolección de desechos y de contenedores de Maracaibo",
+      "link": "https://noticialdia.com/zulia/imau-incorpora-dos-unidades-mas-para-la-recoleccion-de-desechos-y-de-contenedores-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-17-1.webp?x12820"
     },
     {
       "source": "CNN en Español",
       "title": "Arrestos y pérdida de empleos: la nueva realidad para miles de haitianos en EE.UU.",
       "link": "https://cnnespanol.cnn.com/2026/08/09/eeuu/tps-haitianos-eeuu-arrestos-trabajo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tps-1-haiti.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2266692324-20260809204543505.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela agradeció a España la solidaridad y asistencia enviada tras los terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-agradecio-a-espana-la-solidaridad-y-asistencia-enviada-tras-los-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/no-borrar-plantilas-15-1f42f6.jpg"
+      "title": "Departamento  de Estado de Estados Unidos considera importante la participación en el diálogo de todos los actores políticos",
+      "link": "https://noticiasvenevision.com/noticias/politica/departamento-de-estado-de-estados-unidos-considera-importante-la-participacion-en-el-dialogo-de-todos-los-actores-politicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/eeuu-bbdbea.JPG"
     },
     {
       "source": "Noticiero Digital",
@@ -53,14 +53,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Panamá intercepta a tres venezolanos con 76 barras de oro sin declarar",
       "link": "https://laverdad.com/panama-intercepta-a-tres-venezolanos-con-76-barras-de-oro-sin-declarar/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Panama-1.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Incendio en el sur de España extiende su perímetro a 8.000 hectáreas",
-      "link": "https://diarioversionfinal.com/mundo/incendio-en-el-sur-de-espana-extiende-su-perimetro-a-8-000-hectareas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Espana-5-1068x601-1-750x430.jpg"
+      "title": "Keiko Fujimori inicia su Gobierno con 60 % de aprobación en Perú",
+      "link": "https://diarioversionfinal.com/mundo/keiko-fujimori-inicia-su-gobierno-con-60-de-aprobacion-en-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/1x-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-09T22:30:58.121Z"
+  "lastUpdate": "2026-08-09T23:30:41.449Z"
 };
