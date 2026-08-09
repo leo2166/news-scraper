@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "864,40"
+      "usdt": "864,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FUJIMORI-KEIKO-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-09T05:04:42.731Z"
+  "lastUpdate": "2026-08-09T06:56:02.447Z"
 };
