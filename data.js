@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FUJIMORI-KEIKO-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-09T10:34:07.191Z"
+  "lastUpdate": "2026-08-09T11:28:24.181Z"
 };
