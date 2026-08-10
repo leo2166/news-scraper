@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "861,00"
+      "usdt": "862,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Bandera-Peru-24-12-2024-696x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-10T03:54:43.468Z"
+  "lastUpdate": "2026-08-10T05:26:11.844Z"
 };
