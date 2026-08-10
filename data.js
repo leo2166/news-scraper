@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "864,50"
+      "usdt": "868,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gremio advierte desplome del 70% en la producción de camarones del Zulia",
-      "link": "https://www.bancaynegocios.com/gremio-advierte-desplome-del-70-porciento-en-la-produccion-de-camarones-del-zulia/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/Camarones.jpg"
+      "title": "Inician pago del \"Bono Beca Universitaria\" de agosto: Incrementó 11,07% en bolívares",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-beca-universitaria-de-agosto-incremento-11punto07-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
@@ -45,15 +45,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SAIME ADVIERTE SOBRE CUENTAS FALSAS DE CORREO USADAS PARA ESTAFAR A USUARIOS",
-      "link": "https://noticierodigital.com/2026/08/saime-advierte-sobre-cuentas-falsas-de-correo-usadas-para-estafar-a-usuarios/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/saime-migracion-extranjeria-627x376.jpg"
+      "title": "CATEDRAL DE CARACAS INICIA TRABAJOS DE APUNTALAMIENTO TRAS LOS TERREMOTOS DEL 24J",
+      "link": "https://noticierodigital.com/2026/08/catedral-de-caracas-inicia-trabajos-de-apuntalamiento-tras-los-terremotos-del-24j/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/catedral-de-caracas-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Registran 21 réplicas en Colombia tras el terremoto",
       "link": "https://laverdad.com/registran-21-replicas-en-colombia-tras-el-terremoto/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-5.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Trump-y-Kennedy-Jr.-10-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-10T22:36:40.932Z"
+  "lastUpdate": "2026-08-10T23:34:35.146Z"
 };
