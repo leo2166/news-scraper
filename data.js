@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "866,50"
+      "usdt": "868,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Barcelona SC oficializa la salida de César Farías en medio de una crisis institucional",
-      "link": "https://noticialdia.com/deportes/barcelona-sc-oficializa-la-salida-de-cesar-farias-en-medio-de-una-crisis-institucional/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260810_163603_0000.webp?x12820"
+      "title": "Wilyer Abreu es distinguido como el Jugador de la Semana en la Liga Americana",
+      "link": "https://noticialdia.com/deportes/wilyer-abreu-es-distinguido-como-el-jugador-de-la-semana-en-la-liga-americana/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260810_171913_0000.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Temblor de 7,4 deja decenas de muertos y graves daños en Colombia",
+      "title": "Mueren más de 100 personas tras temblor de 7,4 en Colombia",
       "link": "https://cnnespanol.cnn.com/2026/08/10/colombia/live-news/sismo-magnitud-7-4-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/temblor-colombia.png?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -51,9 +51,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Todd Blanche jura como fiscal general de EE. UU. en ceremonia privada en la Casa Blanca",
-      "link": "https://laverdad.com/todd-blanche-jura-como-fiscal-general-de-ee-uu-en-ceremonia-privada-en-la-casa-blanca/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Todd-Blanche.jpg"
+      "title": "Registran 21 réplicas en Colombia tras el terremoto",
+      "link": "https://laverdad.com/registran-21-replicas-en-colombia-tras-el-terremoto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-5.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/9f16d8e5529f04c88c5cea338683b4040e2f9080w-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-10T20:41:35.768Z"
+  "lastUpdate": "2026-08-10T21:40:38.377Z"
 };
