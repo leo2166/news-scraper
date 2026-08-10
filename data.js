@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "859,00"
+      "usdt": "861,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Trabajadores de La Guaira son reubicados en Nueva Esparta a través del plan de contingencia laboral",
-      "link": "https://www.bancaynegocios.com/trabajadores-de-la-guaira-son-reubicados-en-nueva-esparta-a-traves-del-plan-de-contingencia-laboral/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/MARGARITA-TURISMO-1.jpg"
+      "title": "Terremotos restarían entre 2 y 3 puntos porcentuales de crecimiento económico en 2026",
+      "link": "https://www.bancaynegocios.com/terremotos-restarian-entre-2-y-3-puntos-porcentuales-de-crecimiento-economico-en-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/07/VenezuelaPoliticalCrisis-22.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Los ascensos militares en el Ejército venezolano refuerzan el control político y operativo de la Fuerza Armada",
-      "link": "https://www.infobae.com/venezuela/2026/08/09/los-ascensos-militares-en-el-ejercito-venezolano-refuerzan-el-control-politico-y-operativo-de-la-fuerza-armada/",
-      "image": "https://www.infobae.com/resizer/v2/BB3CXNLXZRF3HLDV4HT5P7TBBI.jpg?auth=325d661e002f09b51d2165c5b3e83ba645590ae13a2a0de5e29cbaf56f6e41d4&smart=true&width=350&height=197&quality=85"
+      "title": "Colegio de Periodistas registró 134 ataques entre enero y julio contra reporteros y medios en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/10/colegio-de-periodistas-registro-134-ataques-entre-enero-y-julio-contra-reporteros-y-medios-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/XI2QBGZX7FEGBP7ONMMOMCFKMM.jpg?auth=8600487d537b6ccef19d2eb16e72c083f26a6844014a65b55fb50e0389587e45&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Golpe a la Fifa: Europa, Asia y Concacaf acusan a Infantino de \"engaño\"",
-      "link": "https://noticialdia.com/deportes/golpe-a-la-fifa-europa-asia-y-concacaf-acusan-a-infantino-de-engano/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260810_083454_0000.webp?x12820"
+      "title": "La ciudad de Pereira reporta al menos 18 muertos tras el terremoto",
+      "link": "https://noticialdia.com/sin-categoria/la-ciudad-de-pereira-reporta-al-menos-18-muertos-tras-el-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Gemini_Generated_Image_8hh0sl8hh0sl8hh0.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump enfrenta dos graves riesgos antes de las elecciones intermedias",
-      "link": "https://cnnespanol.cnn.com/2026/08/10/eeuu/analisis-trump-problema-iran-elecciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-maryland-7-agosto-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Sismo de magnitud 7,4 sacude el oeste de Colombia",
+      "link": "https://cnnespanol.cnn.com/2026/08/10/colombia/live-news/sismo-magnitud-7-4-en-vivo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sismo-colombia-20260810135946166.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FORO PENAL REGISTRA 382 PRESOS POLÍTICOS Y LAS VIGILIAS POR SUS LIBERACIONES CONTINÚAN",
-      "link": "https://noticierodigital.com/2026/08/foro-penal-registra-382-presos-politicos-y-las-vigilias-por-sus-liberaciones-continuan/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/presos-politicos-venezuela-627x376.jpg"
+      "title": "«RESPETO MUTUO Y NO INJERENCIA»: VENEZUELA RESPONDIÓ A VICEPRESIDENTE DE COLOMBIA",
+      "link": "https://noticierodigital.com/2026/08/respeto-mutuo-y-no-injerencia-venezuela-respondio-a-vicepresidente-de-colombia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/exportaciones-colombia-venezuela-frontera-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Panamá intercepta a tres venezolanos con 76 barras de oro sin declarar",
-      "link": "https://laverdad.com/panama-intercepta-a-tres-venezolanos-con-76-barras-de-oro-sin-declarar/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Panama-1.jpg"
+      "title": "Reportan heridos y edificios derrumbados en Quibdó y Pereira por el terremoto",
+      "link": "https://laverdad.com/reportan-heridos-y-edificios-derrumbados-en-quibdo-y-pereira-por-el-terremoto/",
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Mohsen Rezaei asume la Secretaría del Consejo Supremo de Seguridad de Irán",
-      "link": "https://diarioversionfinal.com/mundo/mohsen-rezaei-asume-la-secretaria-del-consejo-supremo-de-seguridad-de-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/TAYESAOI7FMBZHHKJ5UVCEIS7Y-750x430.jpg"
+      "title": "Sismo de 7,4 en Colombia deja al menos dos muertos y edificios colapsados en Manizales",
+      "link": "https://diarioversionfinal.com/mundo/sismo-de-74-en-colombia-deja-al-menos-dos-muertos-y-edificios-colapsados-en-manizales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/9f16d8e5529f04c88c5cea338683b4040e2f9080w-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-10T13:06:51.728Z"
+  "lastUpdate": "2026-08-10T14:58:02.956Z"
 };
