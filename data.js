@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 10 Agosto 2026"
     },
     "binance": {
-      "usdt": "863,04"
+      "usdt": "865,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Barcelona rechaza 40 millones del PSG por Ferran Torres y exige una mejor oferta",
-      "link": "https://noticialdia.com/deportes/barcelona-rechaza-40-millones-del-psg-por-ferran-torres-y-exige-una-mejor-oferta/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260810_134901_0000.webp?x12820"
+      "title": "Volcán Puracé en Cauca amenaza con erupcionar emitiendo cenizas y gases tras el terremoto de magnitud 7.4 en Colombia",
+      "link": "https://noticialdia.com/sucesos/volcan-purace-en-cauca-amenaza-con-erupcionar-emitiendo-cenizas-y-gases-tras-el-terremoto-de-magnitud-7-4-en-colombia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/volcan-Purace-Colombia-ago-2026-convertido-a-1024x720-1.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "COPEI ODCA APUESTA AL ÉXITO DE NUEVO DIÁLOGO, PERO «ESPERA QUE NO SEA OTRA FRUSTRACIÓN»",
-      "link": "https://noticierodigital.com/2026/08/ccopei-odca-apuesta-al-exito-de-nuevo-dialogo-pero-espera-que-no-sea-otra-frustracion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-1.55.50-PM-627x376.jpeg"
+      "title": "CABELLO: «NUESTROS VOCEROS EN EL DIÁLOGO NO TIENEN RABO DE PAJA»",
+      "link": "https://noticierodigital.com/2026/08/cabello-nuestros-voceros-en-el-dialogo-no-tienen-rabo-de-paja/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/cabello__-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Colombia declara “desastre nacional” por terremoto que deja al menos 71 muertos",
-      "link": "https://laverdad.com/colombia-declara-desastre-nacional-por-terremoto-que-deja-al-menos-71-muertos/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Colombia declara “desastre nacional” por terremoto que deja al menos 111 muertos",
+      "link": "https://laverdad.com/colombia-declara-desastre-nacional-por-terremoto-que-deja-al-menos-111-muertos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Calombia-4.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Panamá devuelve a tres venezolanos tras detectar 76 barras de oro sin declarar",
-      "link": "https://diarioversionfinal.com/mundo/panama-devuelve-a-tres-venezolanos-tras-detectar-76-barras-de-oro-sin-declarar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/imagen_2026-08-10_104919612-696x464-1-696x430.webp"
+      "title": "De la Espriella asegura que liderará respuesta nacional tras terremoto en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-asegura-que-liderara-respuesta-nacional-tras-terremoto-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-19-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-10T18:57:42.967Z"
+  "lastUpdate": "2026-08-10T19:55:34.532Z"
 };
