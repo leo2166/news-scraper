@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "868,00"
+      "usdt": "866,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Maracaibo a las 6:00 PM: 41°C de sensación térmica",
-      "link": "https://noticialdia.com/principal/maracaibo-a-las-600-pm-41c-de-sensacion-termica/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-7.webp?x12820"
+      "title": "Delcy Rodríguez sostuvo encuentro con delegación de alto nivel de EEUU: Revisaron agenda de desarrollo económico compartido",
+      "link": "https://noticialdia.com/principal/delcy-rodriguez-sostuvo-encuentro-con-delegacion-de-alto-nivel-de-eeuu-revisaron-agenda-de-desarrollo-economico-compartido/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-13-4.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Mueren más de 100 personas tras temblor de 7,4 en Colombia",
+      "title": "Al menos 132 muertos tras el terremoto en Colombia, según autoridades",
       "link": "https://cnnespanol.cnn.com/2026/08/10/colombia/live-news/sismo-magnitud-7-4-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/temblor-colombia.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela expresa su solidaridad con Colombia tras sismo de magnitud 7,4 y ofrece apoyo humanitario",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-expresa-su-solidaridad-con-colombia-tras-sismo-de-magnitud-74-y-ofrece-apoyo-humanitario",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/12comunicado.jpg-4a57d4.png"
+      "title": "Venezuela y Estados Unidos abordan agenda energética y financiera en reunión bilateral",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-estados-unidos-abordan-agenda-energetica-y-financiera-en-reunion-bilateral",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jz_l2688-11_-836def.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CATEDRAL DE CARACAS INICIA TRABAJOS DE APUNTALAMIENTO TRAS LOS TERREMOTOS DEL 24J",
-      "link": "https://noticierodigital.com/2026/08/catedral-de-caracas-inicia-trabajos-de-apuntalamiento-tras-los-terremotos-del-24j/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/catedral-de-caracas-627x376.jpg"
+      "title": "JUBILADOS PIDIERON A DINORAH FIGUERA INCORPORAR SUS DEMANDAS AL DIÁLOGO NACIONAL",
+      "link": "https://noticierodigital.com/2026/08/jubilados-pidieron-a-dinorah-figuera-incorporar-sus-demandas-al-dialogo-nacional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/dinorah-figuera-jubilados-pensionados-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump ordena separar las vacunas infantiles y senador Cassidy cuestiona la medida",
-      "link": "https://diarioversionfinal.com/mundo/trump-ordena-separar-las-vacunas-infantiles-y-senador-cassidy-cuestiona-la-medida/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Trump-y-Kennedy-Jr.-10-08-2026-750x430.webp"
+      "title": "Suben a 132 los fallecidos por el terremoto en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/suben-a-132-los-fallecidos-por-el-terremoto-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-10-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-10T23:34:35.146Z"
+  "lastUpdate": "2026-08-11T01:43:14.708Z"
 };
