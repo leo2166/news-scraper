@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "866,00"
+      "usdt": "865,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Delcy Rodríguez sostuvo encuentro con delegación de alto nivel de EEUU: Revisaron agenda de desarrollo económico compartido",
-      "link": "https://noticialdia.com/principal/delcy-rodriguez-sostuvo-encuentro-con-delegacion-de-alto-nivel-de-eeuu-revisaron-agenda-de-desarrollo-economico-compartido/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-13-4.webp?x12820"
+      "title": "Alcaldía de Maracaibo promueve la solidaridad y prevención contra la violencia sexual infantil",
+      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-promueve-la-solidaridad-y-prevencion-contra-la-violencia-sexual-infantil/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-15-1.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y Estados Unidos abordan agenda energética y financiera en reunión bilateral",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-estados-unidos-abordan-agenda-energetica-y-financiera-en-reunion-bilateral",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jz_l2688-11_-836def.jpg"
+      "title": "Obispos eméritos respaldan inicio de la mesa de diálogo en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/obispos-emeritos-respaldan-inicio-de-la-mesa-de-dialogo-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/declaracin-con-motivo-del-inicio-de-las-conversaciones-entre-el-gobierno-interino-y-los-represe-2e5bea.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUBILADOS PIDIERON A DINORAH FIGUERA INCORPORAR SUS DEMANDAS AL DIÁLOGO NACIONAL",
-      "link": "https://noticierodigital.com/2026/08/jubilados-pidieron-a-dinorah-figuera-incorporar-sus-demandas-al-dialogo-nacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/dinorah-figuera-jubilados-pensionados-627x376.jpg"
+      "title": "ESPACIO PÚBLICO REGISTRÓ 26 VIOLACIONES A LA LIBERTAD DE EXPRESIÓN EN JULIO",
+      "link": "https://noticierodigital.com/2026/08/espacio-publico-registro-26-violaciones-a-la-libertad-de-expresion-en-julio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/censura-prensa-libertad-expresion-3may2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Suben a 132 los fallecidos por el terremoto en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/suben-a-132-los-fallecidos-por-el-terremoto-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-10-08-2026-750x430.webp"
+      "title": "Canadá pone al ejército en alerta debido a incendios forestales; un muerto y miles de desplazados",
+      "link": "https://diarioversionfinal.com/mundo/canada-pone-al-ejercito-en-alerta-debido-a-incendios-forestales-un-muerto-y-miles-de-desplazados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendio-en-Canada-10-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-11T01:43:14.708Z"
+  "lastUpdate": "2026-08-11T03:43:51.361Z"
 };
