@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "866,00"
+      "usdt": "866,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela elevó a 6.301 la cifra de muertos por el doble terremoto mientras avanza la remoción de escombros",
-      "link": "https://www.infobae.com/venezuela/2026/08/10/venezuela-elevo-a-6301-la-cifra-de-muertos-por-el-doble-terremoto-mientras-avanza-la-remocion-de-escombros/",
-      "image": "https://www.infobae.com/resizer/v2/77ZNK3T6FNEQFBXXRY5Z4SML44.JPG?auth=535054b534033abc37e936e92467c076510f4579b586c137a51d151c9ac70a41&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez se reunió con una delegación de EEUU para evaluar acuerdos de desarrollo económico y la recuperación de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/11/delcy-rodriguez-se-reunio-con-una-delegacion-de-eeuu-para-evaluar-acuerdos-de-desarrollo-economico-y-la-recuperacion-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/V4AE2CL7XFBYXOIAWRW73SBWF4.jpg?auth=928f6fc5f2240e4ea61677d6157c447655b183352a6209563a0cc2ae438f4138&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendio-en-Canada-10-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-11T05:07:57.135Z"
+  "lastUpdate": "2026-08-11T07:06:38.027Z"
 };
