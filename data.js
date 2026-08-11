@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "863,31"
+      "usdt": "866,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inician pago del \"Bono Beca Universitaria\" de agosto: Incrementó 11,07% en bolívares",
-      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-beca-universitaria-de-agosto-incremento-11punto07-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "\"Brinda sostenibilidad y empleo\": El reto de Venezuela es impulsar la economía del sector no petrolero",
+      "link": "https://www.bancaynegocios.com/brinda-sostenibilidad-y-empleo-el-reto-de-venezuela-es-impulsar-la-economia-del-sector-no-petrolero/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/DolaresDineroBillestesInversion.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Diosdado Cabello busca justificar los cortes eléctricos en Venezuela con los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/08/11/diosdado-cabello-busca-justificar-los-cortes-electricos-en-venezuela-con-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/QWFDDRKB25FXLNVCXEH6IDPLAU.jpg?auth=f405417ac0df3650784c00fa1a643e4e3b91d97938110e71546e6fef3f406e11&smart=true&width=350&height=197&quality=85"
+      "title": "Expertos venezolanos cuestionan al Ministerio de Educación y señalan ausencia de mejoras salariales",
+      "link": "https://www.infobae.com/venezuela/2026/08/11/expertos-venezolanos-cuestionan-al-ministerio-de-educacion-y-senalan-ausencia-de-mejoras-salariales/",
+      "image": "https://www.infobae.com/resizer/v2/RXNP3MSJEN4YZ56ND6H3LKGTEQ.jpg?auth=c291d5a00fc77095999eed43b4110cdcbf73722cb35e4c938ec6c38ab5c3e50e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Múltiple colisión por falla mecánica dejó a dos heridos en la av. El Milagro",
-      "link": "https://noticialdia.com/sucesos/multiple-colision-por-falla-mecanica-dejo-a-dos-heridos-en-la-av-el-milagro/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-11T102317.632.webp?x12820"
+      "title": "GNB detuvo a comisario de la DIE-PNB con contrabando de cigarrillos dentro de su unidad policial en Nueva Lucha",
+      "link": "https://noticialdia.com/sucesos/gnb-detuvo-a-comisario-de-la-die-pnb-con-contrabando-de-cigarrillos-dentro-de-su-unidad-policial-en-nueva-lucha/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-11T115658.896.webp?x12820"
     },
     {
       "source": "CNN en Español",
-      "title": "Equipos de rescate buscan supervivientes entre los escombros en Colombia",
+      "title": "Continúa la búsqueda de sobrevivientes tras el terremoto en Colombia",
       "link": "https://cnnespanol.cnn.com/2026/08/10/colombia/live-news/sismo-magnitud-7-4-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/temblor-colombia.png?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/colombia-terremoto-gettyimages-2289511002.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CALI DECRETA TOQUE DE QUEDA EN LA CIUDAD ANTE RIESGO DE SAQUEO POR TERREMOTO DE 7,4",
-      "link": "https://noticierodigital.com/2026/08/cali-decreta-toque-de-queda-en-la-ciudad-ante-riesgo-de-saqueo-por-terremoto-de-74/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-15-627x376.png"
+      "title": "TALCUAL: DIPUTADOS DE LA AN NO SABEN CUÁNDO VOLVERÁN AL PALACIO LEGISLATIVO",
+      "link": "https://noticierodigital.com/2026/08/talcual-diputados-de-la-an-no-saben-cuando-volveran-al-palacio-legislativo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/AN_diputados_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a muerte al exdictador sirio Bachar al Asad por crímenes de lesa humanidad",
-      "link": "https://laverdad.com/condenan-a-muerte-al-exdictador-sirio-bachar-al-asad-por-crimenes-de-lesa-humanidad/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Bachar-al-Asad.jpg"
+      "title": "Rescatan con vida a madre y a su bebé en Cali tras el terremoto",
+      "link": "https://laverdad.com/rescatan-con-vida-a-madre-y-a-su-bebe-en-cali-tras-el-terremoto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-rescate-madre-y-bebe-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Dos venezolanos sobreviven al terremoto de Colombia tras huir de los sismos que destruyeron su hogar",
-      "link": "https://diarioversionfinal.com/mundo/dos-venezolanos-sobreviven-al-terremoto-de-colombia-tras-huir-de-los-sismos-que-destruyeron-su-hogar/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/VENEZOLANOS-SOBREVIVEN-TERREMOTO-COLOMBIA-750x430.webp"
+      "title": "Ébola supera los 2.000 muertos en RD Congo y se acerca al brote más letal de su historia",
+      "link": "https://diarioversionfinal.com/mundo/ebola-supera-los-2-000-muertos-en-rd-congo-y-se-acerca-al-brote-mas-letal-de-su-historia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2019/06/000_1HI4R3.jpg"
     }
   ],
-  "lastUpdate": "2026-08-11T14:56:35.658Z"
+  "lastUpdate": "2026-08-11T16:01:30.451Z"
 };
