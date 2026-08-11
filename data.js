@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "843,00"
+      "usdt": "865,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -54,13 +54,7 @@ window.DASHBOARD_DATA = {
       "title": "Registran 21 réplicas en Colombia tras el terremoto",
       "link": "https://laverdad.com/registran-21-replicas-en-colombia-tras-el-terremoto/",
       "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
-    },
-    {
-      "source": "Diario Versión Final",
-      "title": "Canadá pone al ejército en alerta debido a incendios forestales; un muerto y miles de desplazados",
-      "link": "https://diarioversionfinal.com/mundo/canada-pone-al-ejercito-en-alerta-debido-a-incendios-forestales-un-muerto-y-miles-de-desplazados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendio-en-Canada-10-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-11T10:00:06.308Z"
+  "lastUpdate": "2026-08-11T10:58:48.209Z"
 };
