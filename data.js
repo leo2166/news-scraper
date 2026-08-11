@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "866,99"
+      "usdt": "866,75"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendio-en-Canada-10-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-11T07:06:38.027Z"
+  "lastUpdate": "2026-08-11T08:55:08.226Z"
 };
