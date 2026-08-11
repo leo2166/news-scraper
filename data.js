@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "865,90"
+      "usdt": "865,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,7 +33,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Al menos 132 muertos tras el terremoto en Colombia, según autoridades",
+      "title": "Equipos de rescate buscan supervivientes entre los escombros en Colombia",
       "link": "https://cnnespanol.cnn.com/2026/08/10/colombia/live-news/sismo-magnitud-7-4-en-vivo-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/temblor-colombia.png?c=2x3&q=h_384,w_256,c_fill"
     },
@@ -53,8 +53,14 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Registran 21 réplicas en Colombia tras el terremoto",
       "link": "https://laverdad.com/registran-21-replicas-en-colombia-tras-el-terremoto/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-5.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "Canadá pone al ejército en alerta debido a incendios forestales; un muerto y miles de desplazados",
+      "link": "https://diarioversionfinal.com/mundo/canada-pone-al-ejercito-en-alerta-debido-a-incendios-forestales-un-muerto-y-miles-de-desplazados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendio-en-Canada-10-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-11T10:58:48.209Z"
+  "lastUpdate": "2026-08-11T11:50:11.773Z"
 };
