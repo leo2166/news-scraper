@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "865,00"
+      "usdt": "863,29"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez se reunió con una delegación de EEUU para evaluar acuerdos de desarrollo económico y la recuperación de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/11/delcy-rodriguez-se-reunio-con-una-delegacion-de-eeuu-para-evaluar-acuerdos-de-desarrollo-economico-y-la-recuperacion-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/V4AE2CL7XFBYXOIAWRW73SBWF4.jpg?auth=928f6fc5f2240e4ea61677d6157c447655b183352a6209563a0cc2ae438f4138&smart=true&width=350&height=197&quality=85"
+      "title": "El terremoto en Colombia no tiene relación con el de Venezuela pese a la magnitud similar",
+      "link": "https://www.infobae.com/america/america-latina/2026/08/11/el-terremoto-en-colombia-no-tiene-relacion-con-el-de-venezuela-pese-a-la-magnitud-similar/",
+      "image": "https://www.infobae.com/resizer/v2/ONMHN6CGAFDAZPHCSUCPDCQKCI.JPG?auth=a0bb63ccc0cccb11d8b843b9df94f60b2b467b170592045cd0fae8550e173db4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Maracaibo promueve la solidaridad y prevención contra la violencia sexual infantil",
-      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-promueve-la-solidaridad-y-prevencion-contra-la-violencia-sexual-infantil/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-15-1.webp?x12820"
+      "title": "¡Llegó la primera! La Vinotinto Sub-17 de futsal se impuso a Chile en el Sudamericano",
+      "link": "https://noticialdia.com/deportes/llego-la-primera-la-vinotinto-sub-17-de-futsal-se-impuso-a-chile-en-el-sudamericano/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/20260811_083820_0000.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESPACIO PÚBLICO REGISTRÓ 26 VIOLACIONES A LA LIBERTAD DE EXPRESIÓN EN JULIO",
-      "link": "https://noticierodigital.com/2026/08/espacio-publico-registro-26-violaciones-a-la-libertad-de-expresion-en-julio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/censura-prensa-libertad-expresion-3may2022.jpg"
+      "title": "CARDENALES PORRAS Y PADRÓN PIDEN INCLUIR A MÁS SECTORES EN EL DIÁLOGO ENTRE LAS AN",
+      "link": "https://noticierodigital.com/2026/08/cardenales-porras-y-padron-piden-incluir-a-mas-sectores-en-el-dialogo-entre-las-an/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/baltazar-porras-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Registran 21 réplicas en Colombia tras el terremoto",
-      "link": "https://laverdad.com/registran-21-replicas-en-colombia-tras-el-terremoto/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-5.jpg"
+      "title": "Suben a 169 los muertos y a 668 los heridos por el terremoto en Colombia",
+      "link": "https://laverdad.com/suben-a-169-los-muertos-y-a-668-los-heridos-por-el-terremoto-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Canadá pone al ejército en alerta debido a incendios forestales; un muerto y miles de desplazados",
-      "link": "https://diarioversionfinal.com/mundo/canada-pone-al-ejercito-en-alerta-debido-a-incendios-forestales-un-muerto-y-miles-de-desplazados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendio-en-Canada-10-08-2026-750x430.webp"
+      "title": "Papa León XIV lamenta víctimas del terremoto en Colombia y agradece labor de los socorristas",
+      "link": "https://diarioversionfinal.com/mundo/papa-leon-xiv-lamenta-victimas-del-terremoto-en-colombia-y-agradece-labor-de-los-socorristas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Papa-Leon-XIV-08-04-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-11T11:50:11.773Z"
+  "lastUpdate": "2026-08-11T13:04:13.531Z"
 };
