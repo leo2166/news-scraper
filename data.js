@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "869,50"
+      "usdt": "870,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pequiven realiza censo en regiones agrícolas para evaluar necesidades de fertilizantes",
-      "link": "https://www.bancaynegocios.com/pequiven-realiza-censo-en-regiones-agricolas-para-evaluar-necesidades-de-fertilizantes/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/pequiven-e1786286023823.jpg"
+      "title": "Oxford Economics proyecta para Venezuela crecimiento económico de 6,3% en 2026 y 15,5% en 2027",
+      "link": "https://www.bancaynegocios.com/oxford-economics-proyecta-para-venezuela-crecimiento-economico-de-6coma3-porciento-en-2026-y-15coma5-porciento-en-2027/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/08/CrecimientoEconomico.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "PSG y Aston Villa se miden para definir al campeón de la Supercopa de Europa",
-      "link": "https://noticialdia.com/deportes/psg-y-aston-villa-se-miden-para-definir-al-campeon-de-la-supercopa-de-europa/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260811_144200_0000.webp?x12820"
+      "title": "Gobernador Luis Caldera dota de equipos médicos de alta tecnología a siete centros de salud en el Zulia",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-dota-de-equipos-medicos-de-alta-tecnologia-a-siete-centros-de-salud-en-el-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-8.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MINISTERIO REGISTRÓ NUEVO RÉCORD DE DEMANDA ELÉCTRICA ESTE LUNES 10 DE AGOSTO",
-      "link": "https://noticierodigital.com/2026/08/ministerio-registro-nuevo-record-de-demanda-electrica-este-lunes-10-de-agosto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/represa-de-guri-627x376.jpg"
+      "title": "ARUBA ESTARÍA CONSIDERANDO PERMITIR INGRESO DE EMBARCACIONES VENEZOLANAS",
+      "link": "https://noticierodigital.com/2026/08/aruba-estaria-considerando-permitir-ingreso-de-embarcaciones-venezolanas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/Diseno-sin-titulo-1-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Sobreviven al terremoto en Cali tras huir del doblete sísmico en La Guaira",
-      "link": "https://laverdad.com/sobreviven-al-terremoto-en-cali-tras-huir-del-doblete-sismico-en-la-guaira/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/sobrevivientes-en-La-Guaira.jpg"
+      "title": "Rescatan a la biomédica Diana Troncoso tras un día atrapada bajo los escombros en Cali",
+      "link": "https://laverdad.com/rescatan-a-la-biomedica-diana-troncoso-tras-un-dia-atrapada-bajo-los-escombros-en-cali/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Diana-Troncoso-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Colombia recuerda a Miguel Uribe Turbay a un año de su asesinato",
-      "link": "https://diarioversionfinal.com/mundo/colombia-recuerda-a-miguel-uribe-turbay-a-un-ano-de-su-asesinato/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Miguel-Uribe-Turbay.jpg"
+      "title": "Israel califica como \"otra buena noticia\" el restablecimiento de relaciones consulares con Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/israel-califica-como-otra-buena-noticia-el-restablecimiento-de-relaciones-consulares-con-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Gideon-Saar.jpg"
     }
   ],
-  "lastUpdate": "2026-08-11T19:03:42.928Z"
+  "lastUpdate": "2026-08-11T20:42:23.210Z"
 };
