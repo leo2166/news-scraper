@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 11 Agosto 2026"
     },
     "binance": {
-      "usdt": "868,00"
+      "usdt": "869,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "\"Brinda sostenibilidad y empleo\": El reto de Venezuela es impulsar la economía del sector no petrolero",
-      "link": "https://www.bancaynegocios.com/brinda-sostenibilidad-y-empleo-el-reto-de-venezuela-es-impulsar-la-economia-del-sector-no-petrolero/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/DolaresDineroBillestesInversion.jpg"
+      "title": "Pequiven realiza censo en regiones agrícolas para evaluar necesidades de fertilizantes",
+      "link": "https://www.bancaynegocios.com/pequiven-realiza-censo-en-regiones-agricolas-para-evaluar-necesidades-de-fertilizantes/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/pequiven-e1786286023823.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Líderes de la Iglesia católica apoyan la negociación y exigen una “pronta elección presidencial” en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/11/lideres-de-la-iglesia-catolica-apoyan-la-negociacion-y-exigen-una-pronta-eleccion-presidencial-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/CTYOGZQYQBGSZPRZSXYFGEFTQQ.jpg?auth=fdabbe1c7be7e0875387fbeeadfde2a1bd668a4388604d6bb348d2f2c044dff4&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela e Israel acordaron reactivar la coordinación consular tras 17 años de ruptura diplomática",
+      "link": "https://www.infobae.com/venezuela/2026/08/11/venezuela-e-israel-acordaron-reactivar-la-coordinacion-consular-tras-17-anos-de-ruptura-diplomatica/",
+      "image": "https://www.infobae.com/resizer/v2/SQG6OSAQDRBK3IBV5VET4CD6NQ.PNG?auth=b169e793193925456cc82ac397e065dc444b6142e17d393c589e9f51d733430b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "\"Me parte el corazón\": Gianni Infantino envía emotivo mensaje a Colombia tras el terremoto",
-      "link": "https://noticialdia.com/deportes/me-parte-el-corazon-gianni-infantino-envia-emotivo-mensaje-a-colombia-tras-el-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260811_134840_0000.webp?x12820"
+      "title": "PSG y Aston Villa se miden para definir al campeón de la Supercopa de Europa",
+      "link": "https://noticialdia.com/deportes/psg-y-aston-villa-se-miden-para-definir-al-campeon-de-la-supercopa-de-europa/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260811_144200_0000.webp?x12820"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Grupo Parlamentario Libertad, el CNP y defensores de DD. HH. coordinan acciones por la libertad de expresión en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/grupo-parlamentario-libertad-el-cnp-y-defensores-de-dd-hh-coordinan-acciones-por-la-libertad-de-expresion-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/grupo_parlamentario_libertad_venezuela_2026-1-129f17.png"
+      "title": "Ministerio de Relaciones Exteriores del Estado de Israel anuncia relaciones consulares con Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-relaciones-exteriores-del-estado-de-israel-anuncia-relaciones-consulares-con-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-39-46b124.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Contabilizan 240 muertos en 4 regiones por el terremoto en Colombia",
-      "link": "https://laverdad.com/contabilizan-240-muertos-en-4-regiones-por-el-terremoto-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Sismo-scaled.jpg"
+      "title": "Sobreviven al terremoto en Cali tras huir del doblete sísmico en La Guaira",
+      "link": "https://laverdad.com/sobreviven-al-terremoto-en-cali-tras-huir-del-doblete-sismico-en-la-guaira/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/sobrevivientes-en-La-Guaira.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Hacienda premia con sueldos de hasta 25.000 euros al mes a los altos cargos que no investigaron a Zapatero",
-      "link": "https://diarioversionfinal.com/mundo/hacienda-premia-con-sueldos-de-hasta-25-000-euros-al-mes-a-los-altos-cargos-que-no-investigaron-a-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/17683367150227-750x430.jpg"
+      "title": "Colombia recuerda a Miguel Uribe Turbay a un año de su asesinato",
+      "link": "https://diarioversionfinal.com/mundo/colombia-recuerda-a-miguel-uribe-turbay-a-un-ano-de-su-asesinato/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Miguel-Uribe-Turbay.jpg"
     }
   ],
-  "lastUpdate": "2026-08-11T17:56:22.906Z"
+  "lastUpdate": "2026-08-11T19:03:42.928Z"
 };
