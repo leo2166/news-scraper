@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "873,10"
+      "usdt": "873,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "La Defensoría del Pueblo de Venezuela establecerá una mesa técnica profundizar la revisión de los casos de presos políticos",
-      "link": "https://www.infobae.com/venezuela/2026/08/12/la-defensoria-del-pueblo-de-venezuela-establecera-una-mesa-tecnica-profundizar-la-revision-de-los-casos-de-presos-politicos/",
-      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
+      "title": "La ONG Provea reportó el asesinato de un jefe indígena secuestrado por presuntas disidencias de las FARC en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/12/la-ong-provea-reporto-el-asesinato-de-un-jefe-indigena-secuestrado-por-presuntas-disidencias-de-las-farc-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/6TUM4AFZZZBCBCGNMOW5ATGI5U.png?auth=6496e9398bea23d55d932597a7829b3966cc5e5181910e917b3e5f206d912197&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Aeropuerto-de-Cali-11-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T06:13:53.654Z"
+  "lastUpdate": "2026-08-12T08:17:03.487Z"
 }
