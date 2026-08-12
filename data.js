@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "874,00"
+      "usdt": "873,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela endureció el racionamiento eléctrico y comenzó a controlar a empresas privadas para garantizar su cumplimiento",
-      "link": "https://www.infobae.com/venezuela/2026/08/11/venezuela-endurecio-el-racionamiento-electrico-y-comenzo-a-controlar-a-empresas-privadas-para-garantizar-su-cumplimiento/",
-      "image": "https://www.infobae.com/resizer/v2/TUFCS3GKIXQFS6GIG6GBQULXTM.jpg?auth=83f49a99e2a401e400625810feb99635018f5be815a9bea43574819091f97691&smart=true&width=350&height=197&quality=85"
+      "title": "La Defensoría del Pueblo de Venezuela establecerá una mesa técnica profundizar la revisión de los casos de presos políticos",
+      "link": "https://www.infobae.com/venezuela/2026/08/12/la-defensoria-del-pueblo-de-venezuela-establecera-una-mesa-tecnica-profundizar-la-revision-de-los-casos-de-presos-politicos/",
+      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "Habilitan Banco del Tesoro, BDV y BDT para otorgar créditos hipotecarios subsidiados a damnificados por el doble terremoto",
       "link": "https://noticialdia.com/nacionales/habilitan-banco-del-tesoro-bdv-y-bdt-para-otorgar-creditos-hipotecarios-subsidiados-a-damnificados-por-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-12-5.webp?x12820"
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-12-5.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Aeropuerto-de-Cali-11-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T04:08:24.818Z"
+  "lastUpdate": "2026-08-12T06:13:53.654Z"
 };
