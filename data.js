@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "874,00"
+      "usdt": "878,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Caracas y Magallanes mueven piezas en el bullpen tras acordar intercambio de cuatro lanzadores",
-      "link": "https://noticialdia.com/deportes/caracas-y-magallanes-mueven-piezas-en-el-bullpen-tras-acordar-intercambio-de-cuatro-lanzadores/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260812_085030_0000.webp?x74346"
+      "title": "Inspeccionan Complejo Ana María Campos en Zulia para fortalecer la cadena de producción petroquímica nacional",
+      "link": "https://noticialdia.com/al-dia/inspeccionan-complejo-ana-maria-campos-en-zulia-para-fortalecer-la-cadena-de-produccion-petroquimica-nacional/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-12T104211.532.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "LA UE DESTINARÁ 2 MILLONES DE EUROS A APOYAR A COLOMBIA",
-      "link": "https://noticierodigital.com/2026/08/la-ue-destinara-2-millones-de-euros-a-apoyar-a-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/colombia_terremoto-627x376.jpg"
+      "title": "BANCAMIGA REABRE AGENCIAS AFECTADAS Y FORTALECE EL APOYO A SUS CLIENTES",
+      "link": "https://noticierodigital.com/2026/08/bancamiga-reabre-agencias-afectadas-y-fortalece-el-apoyo-a-sus-clientes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Foto-Maiquetia.jpg-627x376.jpeg"
     },
     {
       "source": "La Verdad",
-      "title": "Rescatan viva a joven atrapada 36 horas bajo escombros en Pereira",
-      "link": "https://laverdad.com/rescatan-viva-a-joven-atrapada-36-horas-bajo-escombros-en-pereira/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Teremoto-Colombia-rescate-Pereira.jpg"
+      "title": "Colombia decreta 3 días de duelo nacional por fallecidos en el terremoto",
+      "link": "https://laverdad.com/colombia-decreta-3-dias-de-duelo-nacional-por-fallecidos-en-el-terremoto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-4.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reanudan operaciones en aeropuertos de Cali, Quibdó y Armenia tras fallas eléctricas",
-      "link": "https://diarioversionfinal.com/mundo/reanudan-operaciones-en-aeropuertos-de-cali-quibdo-y-armenia-tras-fallas-electricas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Aeropuerto-de-Cali-11-08-2026-750x430.jpg"
+      "title": "Robles advierte que cualquier agresión contra Ceuta y Melilla será un ataque a España",
+      "link": "https://diarioversionfinal.com/mundo/robles-advierte-que-cualquier-agresion-contra-ceuta-y-melilla-sera-un-ataque-a-espana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/CEUTA-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T13:08:44.950Z"
+  "lastUpdate": "2026-08-12T14:56:18.848Z"
 };
