@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "764,35",
-      "eur": "882,30",
-      "fechaValor": "Miércoles, 12 Agosto 2026"
+      "usd": "766,86",
+      "eur": "885,08",
+      "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "876,00"
+      "usdt": "877,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Bomberos de Maracaibo controlan incendio en la C-1 y evitan daños en la vía",
-      "link": "https://noticialdia.com/al-dia/bomberos-de-maracaibo-controlan-incendio-en-la-c-1-y-evitan-danos-en-la-via/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-12T143227.868.webp?x74346"
+      "title": "Falleció Ángel Francisco Parra, legendario jinete del hipismo venezolano",
+      "link": "https://noticialdia.com/deportes/fallecio-angel-francisco-parra-legendario-jinete-del-hipismo-venezolano/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260812_162426_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Así se vive el eclipse solar total en Europa",
-      "link": "https://cnnespanol.cnn.com/2026/08/12/espana/live-news/eclipse-solar-total-en-vivo-imagenes-videos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eclipse-thumbnail-streaming-yt.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La incertidumbre pesa sobre los colombianos fueron afectados por el terremoto",
+      "link": "https://cnnespanol.cnn.com/2026/08/12/colombia/live-news/terremoto-en-vivo-muertos-videos-rescates-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26222741864459.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "TERMINALES TEMPORALES DE MAIQUETÍA GESTIONARÁN LA SALIDA DE 1.200 PASAJEROS DIARIOS",
-      "link": "https://noticierodigital.com/2026/08/terminales-temporales-de-maiquetia-gestionaran-la-salida-de-1-200-pasajeros-diarios/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/maiquetia-627x376.jpg"
+      "title": "CRUZ ROJA VENEZOLANA HABILITÓ CANAL PARA CONTACTAR FAMILIARES TRAS TERREMOTO EN COLOMBIA",
+      "link": "https://noticierodigital.com/2026/08/cruz-roja-venezolana-habilito-canal-para-contactar-familiares-tras-terremoto-en-colombia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/cruz-roja-venezolana-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Asesinan en España a Franyel, mujer trans venezolana",
-      "link": "https://laverdad.com/asesinan-en-espana-a-franyel-mujer-trans-venezolana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Asesinan-a-trans-venezolana-Marbella.jpg"
+      "title": "Preso venezolano por crimen en Chile: actuó por “un llamado de Jesucristo”",
+      "link": "https://laverdad.com/preso-venezolano-por-crimen-en-chile-actuo-por-un-llamado-de-jesucristo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Venezolano-acusado-crimen-en-Chile.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que EE.UU. mantiene el control de Ormuz y critica a Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-ee-uu-mantiene-el-control-de-ormuz-y-critica-a-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Estrecho-Ormuz-31-07-2026-750x430.jpg"
+      "title": "Gobierno de Trump planea dotar al ICE de guantes eléctricos para operaciones migratorias",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-trump-planea-dotar-al-ice-de-guantes-electricos-para-operaciones-migratorias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-6.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-12T19:01:25.941Z"
+  "lastUpdate": "2026-08-12T20:43:24.034Z"
 }
