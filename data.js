@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "873,00"
+      "usdt": "874,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Habilitan Banco del Tesoro, BDV y BDT para otorgar créditos hipotecarios subsidiados a damnificados por el doble terremoto",
-      "link": "https://noticialdia.com/nacionales/habilitan-banco-del-tesoro-bdv-y-bdt-para-otorgar-creditos-hipotecarios-subsidiados-a-damnificados-por-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-12-5.webp?x74346"
+      "title": "Caracas y Magallanes mueven piezas en el bullpen tras acordar intercambio de cuatro lanzadores",
+      "link": "https://noticialdia.com/deportes/caracas-y-magallanes-mueven-piezas-en-el-bullpen-tras-acordar-intercambio-de-cuatro-lanzadores/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260812_085030_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Rescates avivan la esperanza tras el terremoto en Colombia",
-      "link": "https://cnnespanol.cnn.com/2026/08/10/colombia/live-news/sismo-magnitud-7-4-en-vivo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289570191.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Continúan los rescates tras el devastador terremoto en Colombia",
+      "link": "https://cnnespanol.cnn.com/2026/08/12/colombia/live-news/terremoto-en-vivo-muertos-videos-rescates-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bebe-col-hor-00-00-41-22-still001.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,15 +45,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EL TSJ EVALUÓ LOS DAÑOS EN TRIBUNALES DE LA GUAIRA TRAS LOS TERREMOTOS DEL 24 DE JUNIO",
-      "link": "https://noticierodigital.com/2026/08/el-tsj-evaluo-los-danos-en-tribunales-de-la-guaira-tras-los-terremotos-del-24-de-junio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/tsj-la-guaira-Caryslia-Rodriguez-627x376.jpg"
+      "title": "LA UE DESTINARÁ 2 MILLONES DE EUROS A APOYAR A COLOMBIA",
+      "link": "https://noticierodigital.com/2026/08/la-ue-destinara-2-millones-de-euros-a-apoyar-a-colombia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/colombia_terremoto-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Rescatan a la biomédica Diana Troncoso tras un día atrapada bajo los escombros en Cali",
-      "link": "https://laverdad.com/rescatan-a-la-biomedica-diana-troncoso-tras-un-dia-atrapada-bajo-los-escombros-en-cali/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Rescatan viva a joven atrapada 36 horas bajo escombros en Pereira",
+      "link": "https://laverdad.com/rescatan-viva-a-joven-atrapada-36-horas-bajo-escombros-en-pereira/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Teremoto-Colombia-rescate-Pereira.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Aeropuerto-de-Cali-11-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T11:45:30.758Z"
+  "lastUpdate": "2026-08-12T13:08:44.950Z"
 };
