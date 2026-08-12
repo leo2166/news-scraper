@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "879,00"
+      "usdt": "877,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pnud estima en US$6.700 millones daños directos del doble terremoto de junio",
-      "link": "https://www.bancaynegocios.com/pnud-estima-en-us6-700-millones-danos-directos-del-doble-terremoto-de-junio/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/PNUD-LOGO.jpg"
+      "title": "BCV: Inflación subió 19,9% en julio por el impacto del doblete sísmico",
+      "link": "https://www.bancaynegocios.com/bcv-inflacion-subio-199-en-julio-por-el-impacto-del-doblete-sismico/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/01/BANCO-CENTRAL-DE-VENEZUELA-BCV-NUEVA.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Xavi Hernández es nombrado nuevo seleccionador de Países Bajos con miras al Mundial 2030",
-      "link": "https://noticialdia.com/deportes/xavi-hernandez-es-nombrado-nuevo-seleccionador-de-paises-bajos-con-miras-al-mundial-2030/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260812_170949_0000.webp?x74346"
+      "title": "Alcaldía de Maracaibo solicita a la Cámara Municipal la reforma de la Ordenanza sobre la Tenencia, Control, Defensa y Protección de los Animales",
+      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-solicita-a-la-camara-municipal-la-reforma-de-la-ordenanza-sobre-la-tenencia-control-defensa-y-proteccion-de-los-animales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-25.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela ratifica su disposición para ser sede de los Juegos Centroamericanos 2030",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-ratifica-su-disposicion-para-ser-sede-de-los-juegos-centroamericanos-2030",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mn__85022-scaled-526744.jpg"
+      "title": "Corpoelec e IMPSA firman acuerdo para reactivar trabajos en hidroeléctricas del país",
+      "link": "https://noticiasvenevision.com/noticias/politica/corpoelec-e-impsa-firman-acuerdo-para-reactivar-trabajos-en-hidroelectricas-del-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5181679276292508948_w-dd2720.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CRUZ ROJA VENEZOLANA HABILITÓ CANAL PARA CONTACTAR FAMILIARES TRAS TERREMOTO EN COLOMBIA",
-      "link": "https://noticierodigital.com/2026/08/cruz-roja-venezolana-habilito-canal-para-contactar-familiares-tras-terremoto-en-colombia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/cruz-roja-venezolana-627x376.jpg"
+      "title": "LEOCENIS GARCÍA SE REUNIÓ EN WASHINGTON CON EL SECRETARIO GENERAL DE LA OEA",
+      "link": "https://noticierodigital.com/2026/08/leocenis-garcia-se-reunio-en-washington-con-el-secretario-general-de-la-oea/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Albert-Ramdin-Leocenis-Garcia-OEA-Venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-5-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-12T21:44:05.722Z"
+  "lastUpdate": "2026-08-12T22:39:56.633Z"
 }
