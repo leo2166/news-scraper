@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "878,00"
+      "usdt": "879,98"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Militares retirados critican la mesa de diálogo, exigen liberación de presos políticos y piden elecciones reales en 2026",
-      "link": "https://www.infobae.com/venezuela/2026/08/12/militares-retirados-critican-la-mesa-de-dialogo-exigen-liberacion-de-presos-politicos-y-piden-elecciones-reales-en-2026/",
-      "image": "https://www.infobae.com/resizer/v2/XC7ALK55QVHDRKK2E3FTH74TTI.jpg?auth=16a40869487582921f783207eaa431ad0235494b607960e1d261a063a7968238&smart=true&width=350&height=197&quality=85"
+      "title": "Ex presos políticos pidieron a la delegación opositora que gestione más liberaciones de detenidos a través del diálogo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/12/ex-presos-politicos-pidieron-mas-liberaciones-a-la-delegacion-opositora-en-el-dialogo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/SIXNHDSUZNDXBPNOHC4NTMBEXQ.jpg?auth=c902b792a60a1ca41db2f69d166662438787c4d6bb12da8a5e498c60a0a6f361&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Inspeccionan Complejo Ana María Campos en Zulia para fortalecer la cadena de producción petroquímica nacional",
-      "link": "https://noticialdia.com/al-dia/inspeccionan-complejo-ana-maria-campos-en-zulia-para-fortalecer-la-cadena-de-produccion-petroquimica-nacional/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-12T104211.532.webp?x74346"
+      "title": "Acuerdo histórico en la NBA: Lakers de Los Ángeles cambian de dueños por 12.500 millones de dólares",
+      "link": "https://noticialdia.com/?p=653492",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
       "source": "CNN en Español",
       "title": "Continúan los rescates tras el devastador terremoto en Colombia",
       "link": "https://cnnespanol.cnn.com/2026/08/12/colombia/live-news/terremoto-en-vivo-muertos-videos-rescates-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bebe-col-hor-00-00-41-22-still001.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bebe-cali-quake.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BANCAMIGA REABRE AGENCIAS AFECTADAS Y FORTALECE EL APOYO A SUS CLIENTES",
-      "link": "https://noticierodigital.com/2026/08/bancamiga-reabre-agencias-afectadas-y-fortalece-el-apoyo-a-sus-clientes/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Foto-Maiquetia.jpg-627x376.jpeg"
+      "title": "MURIÓ EL OBISPO MONSEÑOR TULIO RAMÍREZ",
+      "link": "https://noticierodigital.com/2026/08/murio-el-obispo-monsenor-tulio-ramirez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/tulioramirez-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Colombia decreta 3 días de duelo nacional por fallecidos en el terremoto",
-      "link": "https://laverdad.com/colombia-decreta-3-dias-de-duelo-nacional-por-fallecidos-en-el-terremoto/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-4.jpg"
+      "title": "León XIV reza por afectados del terremoto en Colombia y envía primera ayuda de 100.000 euros",
+      "link": "https://laverdad.com/leon-xiv-reza-por-afectados-del-terremoto-en-colombia-y-envia-primera-ayuda-de-100-000-euros/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Leon-XIV.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Robles advierte que cualquier agresión contra Ceuta y Melilla será un ataque a España",
-      "link": "https://diarioversionfinal.com/mundo/robles-advierte-que-cualquier-agresion-contra-ceuta-y-melilla-sera-un-ataque-a-espana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/CEUTA-678x430.jpg"
+      "title": "Ucrania ataca base naval rusa en Novorossiysk con cientos de drones",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-ataca-base-naval-rusa-en-novorossiysk-con-cientos-de-drones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/78220411_906-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T14:56:18.848Z"
+  "lastUpdate": "2026-08-12T15:59:25.044Z"
 };
