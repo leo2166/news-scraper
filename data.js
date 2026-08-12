@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "873,79"
+      "usdt": "874,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Aeropuerto-de-Cali-11-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T08:17:03.487Z"
+  "lastUpdate": "2026-08-12T10:04:00.796Z"
 };
