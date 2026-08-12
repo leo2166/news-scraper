@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "874,00"
+      "usdt": "873,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Empresarios en Sucre solicitan a autoridades inversiones en proyectos estructurales que impulsen el desarrollo",
-      "link": "https://www.bancaynegocios.com/empresarios-en-sucre-solicitan-a-autoridades-inversiones-en-proyectos-estructurales-que-impulsen-el-desarrollo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-6.56.46-PM-e1786490136589.jpeg"
+      "title": "#Dato: PNUD prevé para Venezuela un crecimiento económico de 6,5% en 2026",
+      "link": "https://www.bancaynegocios.com/dato-pnud-preve-para-venezuela-un-crecimiento-economico-de-6-con-5-porciento-en-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "La ONG Provea reportó el asesinato de un jefe indígena secuestrado por presuntas disidencias de las FARC en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/12/la-ong-provea-reporto-el-asesinato-de-un-jefe-indigena-secuestrado-por-presuntas-disidencias-de-las-farc-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/6TUM4AFZZZBCBCGNMOW5ATGI5U.png?auth=6496e9398bea23d55d932597a7829b3966cc5e5181910e917b3e5f206d912197&smart=true&width=350&height=197&quality=85"
+      "title": "Militares retirados critican la mesa de diálogo, exigen liberación de presos políticos y piden elecciones reales en 2026",
+      "link": "https://www.infobae.com/venezuela/2026/08/12/militares-retirados-critican-la-mesa-de-dialogo-exigen-liberacion-de-presos-politicos-y-piden-elecciones-reales-en-2026/",
+      "image": "https://www.infobae.com/resizer/v2/XC7ALK55QVHDRKK2E3FTH74TTI.jpg?auth=16a40869487582921f783207eaa431ad0235494b607960e1d261a063a7968238&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -53,7 +53,7 @@ window.DASHBOARD_DATA = {
       "source": "La Verdad",
       "title": "Rescatan a la biomédica Diana Troncoso tras un día atrapada bajo los escombros en Cali",
       "link": "https://laverdad.com/rescatan-a-la-biomedica-diana-troncoso-tras-un-dia-atrapada-bajo-los-escombros-en-cali/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Diana-Troncoso-scaled.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Aeropuerto-de-Cali-11-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T10:04:00.796Z"
+  "lastUpdate": "2026-08-12T11:45:30.758Z"
 };
