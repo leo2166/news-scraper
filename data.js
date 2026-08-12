@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "877,00"
+      "usdt": "879,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
     {
       "source": "Banca y Negocios",
       "title": "BCV: Inflación subió 19,9% en julio por el impacto del doblete sísmico",
-      "link": "https://www.bancaynegocios.com/bcv-inflacion-subio-199-en-julio-por-el-impacto-del-doblete-sismico/",
+      "link": "https://www.bancaynegocios.com/bcv-inflacion-subio-19coma9-porciento-en-julio-por-el-impacto-del-doblete-sismico/",
       "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/01/BANCO-CENTRAL-DE-VENEZUELA-BCV-NUEVA.jpg"
     },
     {
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Maracaibo solicita a la Cámara Municipal la reforma de la Ordenanza sobre la Tenencia, Control, Defensa y Protección de los Animales",
-      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-solicita-a-la-camara-municipal-la-reforma-de-la-ordenanza-sobre-la-tenencia-control-defensa-y-proteccion-de-los-animales/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-25.webp?x74346"
+      "title": "Alcaldía promueve: El tumbarrancho \"maracucho\" tiene diferente sazón",
+      "link": "https://noticialdia.com/principal/alcaldia-promueve-el-tumbarrancho-maracucho-tiene-diferente-sazon/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-26.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "El número de muertos por el terremoto en Colombia asciende a 241",
+      "title": "Al menos 265 personas han muerto tras el temblor, informa De la Espriella",
       "link": "https://cnnespanol.cnn.com/2026/08/12/colombia/live-news/terremoto-en-vivo-muertos-videos-rescates-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26222741864459.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Corpoelec e IMPSA firman acuerdo para reactivar trabajos en hidroeléctricas del país",
-      "link": "https://noticiasvenevision.com/noticias/politica/corpoelec-e-impsa-firman-acuerdo-para-reactivar-trabajos-en-hidroelectricas-del-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5181679276292508948_w-dd2720.jpg"
+      "title": "TSJ avala constitucionalidad del Decreto de Emergencia Económica",
+      "link": "https://noticiasvenevision.com/noticias/politica/tsj-avala-constitucionalidad-del-decreto-de-emergencia-economica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_6047646048689262681_y-43f281.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LEOCENIS GARCÍA SE REUNIÓ EN WASHINGTON CON EL SECRETARIO GENERAL DE LA OEA",
-      "link": "https://noticierodigital.com/2026/08/leocenis-garcia-se-reunio-en-washington-con-el-secretario-general-de-la-oea/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Albert-Ramdin-Leocenis-Garcia-OEA-Venezuela-627x376.jpg"
+      "title": "VENEZUELA AUMENTÓ 81 % SUS ENVÍOS DE PETRÓLEO A EE. UU. EN UNA SEMANA",
+      "link": "https://noticierodigital.com/2026/08/venezuela-aumento-81-sus-envios-de-petroleo-a-ee-uu-en-una-semana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/pdvsa-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sube a 239 la cifra de muertos por el terremoto en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/sube-a-239-la-cifra-de-muertos-por-el-terremoto-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-5-678x430.jpeg"
+      "title": "Inflación en EE. UU. se desacelera a 3,4 % en julio y da un respiro al bolsillo",
+      "link": "https://diarioversionfinal.com/mundo/inflacion-en-ee-uu-se-desacelera-a-34-en-julio-y-da-un-respiro-al-bolsillo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T22:39:56.633Z"
+  "lastUpdate": "2026-08-12T23:40:39.454Z"
 };
