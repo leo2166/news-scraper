@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 12 Agosto 2026"
     },
     "binance": {
-      "usdt": "879,00"
+      "usdt": "876,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: PNUD prevé para Venezuela un crecimiento económico de 6,5% en 2026",
-      "link": "https://www.bancaynegocios.com/dato-pnud-preve-para-venezuela-un-crecimiento-economico-de-6-con-5-porciento-en-2026/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Cavececo: Medidas de ahorro energético en centros comerciales se extenderán hasta octubre",
+      "link": "https://www.bancaynegocios.com/cavececo-medidas-de-ahorro-energetico-en-centros-comerciales-se-extenderan-hasta-octubre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/05/Centros-Comerciales.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Ex presos políticos pidieron a la delegación opositora que gestione más liberaciones de detenidos a través del diálogo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/12/ex-presos-politicos-pidieron-mas-liberaciones-a-la-delegacion-opositora-en-el-dialogo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/SIXNHDSUZNDXBPNOHC4NTMBEXQ.jpg?auth=c902b792a60a1ca41db2f69d166662438787c4d6bb12da8a5e498c60a0a6f361&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela: comerciantes advierten que cortes de luz afectan a negocios que atienden al 70% de la población",
+      "link": "https://www.infobae.com/venezuela/2026/08/12/venezuela-comerciantes-advierten-que-cortes-de-luz-afectan-a-negocios-que-atienden-al-70-de-la-poblacion/",
+      "image": "https://www.infobae.com/resizer/v2/F7XCMJAB6VJE523RQTCHBRU6JY.jpg?auth=d8aaf19dfe10ff0e85f5d2a8c8da7f08aec65e6c413a8e36913a5277361345ab&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "\"No sé qué voy a hacer sin vos\": Lionel Messi despide a su padre con una conmovedora carta",
-      "link": "https://noticialdia.com/deportes/no-se-que-voy-a-hacer-sin-vos-lionel-messi-despide-a-su-padre-con-una-conmovedora-carta/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260812_124038_0000.webp?x74346"
+      "title": "Bomberos de Maracaibo controlan incendio en la C-1 y evitan daños en la vía",
+      "link": "https://noticialdia.com/al-dia/bomberos-de-maracaibo-controlan-incendio-en-la-c-1-y-evitan-danos-en-la-via/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-12T143227.868.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "\"Ríos de personas\" ayudan tras el terremoto en Colombia",
-      "link": "https://cnnespanol.cnn.com/2026/08/12/colombia/live-news/terremoto-en-vivo-muertos-videos-rescates-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bebe-cali-quake.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Así se vive el eclipse solar total en Europa",
+      "link": "https://cnnespanol.cnn.com/2026/08/12/espana/live-news/eclipse-solar-total-en-vivo-imagenes-videos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/eclipse-thumbnail-streaming-yt.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,15 +45,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "“ES TAN URGENTE ATENDER LA CRISIS ELÉCTRICA COMO LA EMERGENCIA POR EL DOBLETE SÍSMICO”, DIJO MARÍA GABRIELA HERNÁNDEZ",
-      "link": "https://noticierodigital.com/2026/08/es-tan-urgente-atender-la-crisis-electrica-como-la-emergencia-por-el-doblete-sismico-dijo-maria-gabriela-hernandez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/mariagabrielahernandez-627x376.jpg"
+      "title": "TERMINALES TEMPORALES DE MAIQUETÍA GESTIONARÁN LA SALIDA DE 1.200 PASAJEROS DIARIOS",
+      "link": "https://noticierodigital.com/2026/08/terminales-temporales-de-maiquetia-gestionaran-la-salida-de-1-200-pasajeros-diarios/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/maiquetia-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV reza por afectados del terremoto en Colombia y envía primera ayuda de 100.000 euros",
-      "link": "https://laverdad.com/leon-xiv-reza-por-afectados-del-terremoto-en-colombia-y-envia-primera-ayuda-de-100-000-euros/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Leon-XIV.jpg"
+      "title": "Asesinan en España a Franyel, mujer trans venezolana",
+      "link": "https://laverdad.com/asesinan-en-espana-a-franyel-mujer-trans-venezolana/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Asesinan-a-trans-venezolana-Marbella.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Estrecho-Ormuz-31-07-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T17:04:42.137Z"
+  "lastUpdate": "2026-08-12T19:01:25.941Z"
 };
