@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "882,00"
+      "usdt": "876,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: El 60% de los restaurantes especializados en pescados y mariscos en La Guaira están abiertos",
-      "link": "https://www.bancaynegocios.com/dato-el-60-porciento-de-los-restaurantes-especializados-en-pescados-y-mariscos-en-la-guaira-estan-abiertos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/PescadoVenezuelaComida.jpg"
+      "title": "Ventas en comercios de Monagas han caído entre un 20% y 25% por los cortes eléctricos",
+      "link": "https://www.bancaynegocios.com/ventas-en-comercios-de-monagas-han-caido-entre-un-20-y-25-porciento-por-los-cortes-electricos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/04/PuntoDeVentaPagoTransacciones.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Más de 80 ex presos políticos venezolanos pidieron que se garantice un nuevo Tribunal Supremo y un ente electoral independiente",
-      "link": "https://www.infobae.com/venezuela/2026/08/13/mas-de-80-ex-presos-politicos-venezolanos-pidieron-que-se-garantice-un-nuevo-tribunal-supremo-y-un-ente-electoral-independiente/",
-      "image": "https://www.infobae.com/resizer/v2/PKYBZ4CRGVH4NFS6G2XEAK3XIE.jpg?auth=02c89d29b8f5c8aec69eb2c2f766681915e018fbf21a32d74f03a0f51dc82dca&smart=true&width=350&height=197&quality=85"
+      "title": "Economista calcula que durante el control de cambio se fugaron 161 mil millones de dólares de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/13/economista-calcula-que-durante-el-control-de-cambio-se-fugaron-161-mil-millones-de-dolares-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/O7XXKEVHA5BUFFBP55TE6MX6GA.jpg?auth=268b22f883fdcb526bded8335514101ac787531d462a66a0f555005040145807&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "“¡Síganle poniendo peso, que el burrito puede”: El video que enciende la polémica sobre el maltrato animal en Maracaibo",
-      "link": "https://noticialdia.com/al-dia/siganle-poniendo-peso-que-el-burrito-puede-el-video-que-enciende-la-polemica-sobre-el-maltrato-animal-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-12-1.webp?x74346"
+      "title": "Zulianos amanecieron este jueves con cara de haber pasado una mala noche",
+      "link": "https://noticialdia.com/sin-categoria/zulianos-amanecieron-este-jueves-con-cara-de-haber-pasado-una-mala-noche/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-52.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno español respaldó el acuerdo alcanzado entre el Gobierno encargado y la Asamblea de 2015",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-espanol-respaldo-el-acuerdo-alcanzado-entre-el-gobierno-encargado-y-la-asamblea-de-2015",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo---2026-08-13t111524.704-39c486.jpg"
+      "title": "Dinorah Figuera ratifica compromiso para lograr la liberación de los políticos privados de libertad",
+      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-ratifica-compromiso-para-lograr-la-liberacion-de-los-politicos-privados-de-libertad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/dinorah-figuera-335362.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CITGO GANÓ $937 MILLONES EN 2DO TRIMESTRE Y PROYECTÓ SALDO DE EFECTIVO DE $5.700 MILLONES A FINAL DE AÑO",
-      "link": "https://noticierodigital.com/2026/08/citgo-gano-937-millones-en-2do-trimestre-y-proyecto-saldo-de-efectivo-de-5-700-millones-a-final-de-ano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/citgo-estados-unidos.jpg"
+      "title": "«MESAS DE TRABAJO MARCAN EL INICIO DE LA TRANSICIÓN ORDENADA EN VENEZUELA», AFIRMÓ DIPUTADO LAWRENCE CASTRO",
+      "link": "https://noticierodigital.com/2026/08/mesas-de-trabajo-marcan-el-inicio-de-la-transicion-ordenada-en-venezuela-afirmo-diputado-lawrence-castro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/lawrencecastro_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Liberan a 15 venezolanas y colombianas explotadas en prostíbulos de España",
-      "link": "https://laverdad.com/liberan-a-15-venezolanas-y-colombianas-explotadas-en-prostibulos-de-espana/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Liberan-a-15-mujeres-colombianas-y-venezolanas-explotadas-sexualmente-en-la-provincia-de-Sevilla.jpg"
+      "title": "Suben a 273 los muertos por el terremoto en Colombia",
+      "link": "https://laverdad.com/suben-a-273-los-muertos-por-el-terremoto-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T16:01:24.298Z"
+  "lastUpdate": "2026-08-13T17:56:18.452Z"
 };
