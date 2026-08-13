@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "879,99"
+      "usdt": "884,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Denuncian que el chavismo aplica “castigo extendido” a familiares de presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/12/denuncian-que-el-chavismo-aplica-castigo-extendido-a-familiares-de-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/KKJWYOMX3ZHQDI23ATFZ723CZA.jpg?auth=4bb1f342905ee05e6676be5a612805812985962dd3787d64b3fdfbef7b921af9&smart=true&width=350&height=197&quality=85"
+      "title": "El chavismo y la oposición acordaron renovar a todos los magistrados del TSJ y recuperar activos venezolanos en Inglaterra",
+      "link": "https://www.infobae.com/venezuela/2026/08/13/el-chavismo-y-la-oposicion-acordaron-renovar-a-todos-los-magistrados-del-tsj-y-recuperar-activos-venezolanos-en-inglaterra/",
+      "image": "https://www.infobae.com/resizer/v2/CLGQEJMWFBDMTKHSX4MTJWPJ5A.JPG?auth=9a71b0217d0cce3f35f7051eb4da9d26df7cea6c5ff99969315803f06790a4e8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía promueve: El tumbarrancho \"maracucho\" tiene diferente sazón",
-      "link": "https://noticialdia.com/principal/alcaldia-promueve-el-tumbarrancho-maracucho-tiene-diferente-sazon/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-26.webp?x74346"
+      "title": "Corpoelec firmó addendum con Impsa para fortalecer el Sistema Eléctrico Nacional",
+      "link": "https://noticialdia.com/principal/corpoelec-firmo-addendum-con-impsa-para-fortalecer-el-sistema-electrico-nacional/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-31-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "TSJ avala constitucionalidad del Decreto de Emergencia Económica",
-      "link": "https://noticiasvenevision.com/noticias/politica/tsj-avala-constitucionalidad-del-decreto-de-emergencia-economica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_6047646048689262681_y-43f281.jpg"
+      "title": "Juan Pablo Guanipa indicó que la designación de un nuevo TSJ es necesaria para avanzar en la reinstitucionalización del país",
+      "link": "https://noticiasvenevision.com/noticias/politica/juan-pablo-guanipa-indico-que-la-designacion-de-un-nuevo-tsj-es-necesaria-para-avanzar-en-la-reinstitucionalizacion-del-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/495c875bfa08c276be9fee93c198e4aff1ff7325w-cdb90b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA AUMENTÓ 81 % SUS ENVÍOS DE PETRÓLEO A EE. UU. EN UNA SEMANA",
-      "link": "https://noticierodigital.com/2026/08/venezuela-aumento-81-sus-envios-de-petroleo-a-ee-uu-en-una-semana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/11/pdvsa-627x376.jpg"
+      "title": "SNTP PIDIÓ QUE REFORMA JUDICIAL PONGA FIN A PROCESOS CONTRA PERIODISTAS",
+      "link": "https://noticierodigital.com/2026/08/sntp-pidio-que-reforma-judicial-ponga-fin-a-procesos-contra-periodistas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/medios-sntp-campanapresidencial.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-12T23:40:39.454Z"
+  "lastUpdate": "2026-08-13T01:57:28.189Z"
 };
