@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "888,00"
+      "usdt": "889,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernación construye nuevo alcantarillado de 24 metros lineales en el sector El Venado de la carretera Lara-Zulia",
-      "link": "https://noticialdia.com/al-dia/gobernacion-construye-nuevo-alcantarillado-de-24-metros-lineales-en-el-sector-el-venado-de-la-carretera-lara-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-77.webp?x74346"
+      "title": "Alcalde Di Martino: \"Vamos a apoyar al Colegio de Abogados del Zulia\"",
+      "link": "https://noticialdia.com/al-dia/alcalde-di-martino-vamos-a-apoyar-al-colegio-de-abogados-del-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-81.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EL NIÑO ELEVARÁ HASTA DOS GRADOS LAS TEMPERATURAS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/08/el-nino-elevara-hasta-dos-grados-las-temperaturas-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/calor-venezuela-627x376.jpg"
+      "title": "VENEZUELA Y CHINA ESTRECHARON COOPERACIÓN PARA MEJORAR EL MONITOREO DE TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/08/venezuela-y-china-estrecharon-cooperacion-para-mejorar-el-monitoreo-de-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/yvan-gil-venezuela-china-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T21:44:07.371Z"
+  "lastUpdate": "2026-08-13T22:40:58.181Z"
 };
