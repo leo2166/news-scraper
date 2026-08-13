@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "766,86",
-      "eur": "885,08",
-      "fechaValor": "Jueves, 13 Agosto 2026"
+      "usd": "771,07",
+      "eur": "889,45",
+      "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "887,00"
+      "usdt": "888,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Se busca a Kalle, gatita extraviada en el sector Veritas",
-      "link": "https://noticialdia.com/al-dia/se-busca-a-kalle-gatita-extraviada-en-el-sector-veritas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-72.webp?x74346"
+      "title": "Gobernación construye nuevo alcantarillado de 24 metros lineales en el sector El Venado de la carretera Lara-Zulia",
+      "link": "https://noticialdia.com/al-dia/gobernacion-construye-nuevo-alcantarillado-de-24-metros-lineales-en-el-sector-el-venado-de-la-carretera-lara-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-77.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Exigen respuestas sobre las condiciones y la salud mental a bordo del USS Abraham Lincoln",
-      "link": "https://cnnespanol.cnn.com/2026/08/13/eeuu/uss-abraham-lincoln-reportes-malas-condiciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9441822-20260126145551931-20260813115233837.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El terremoto no es la única tragedia que enfrentan estas ciudades colombianas",
+      "link": "https://cnnespanol.cnn.com/2026/08/13/colombia/buenaventura-quibdo-choco-terremoto-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-11t181750z-115686977-rc2iwmag2tsa-rtrmadp-3-colombia-quake.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EX PRESO POLÍTICO MARCO BOZO FUE DESIGNADO COMO NUEVO SUBSECRETARIO DE LA AN2015",
-      "link": "https://noticierodigital.com/2026/08/ex-preso-politico-marco-bozo-fue-designado-como-nuevo-subsecretario-de-la-an2015/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/marcobozo-627x376.jpg"
+      "title": "EL NIÑO ELEVARÁ HASTA DOS GRADOS LAS TEMPERATURAS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/08/el-nino-elevara-hasta-dos-grados-las-temperaturas-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/calor-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -56,5 +56,5 @@
       "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T20:41:54.931Z"
+  "lastUpdate": "2026-08-13T21:44:07.371Z"
 }
