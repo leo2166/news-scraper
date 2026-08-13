@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "884,00"
+      "usdt": "882,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El chavismo y la oposición acordaron renovar a todos los magistrados del TSJ y recuperar activos venezolanos en Inglaterra",
-      "link": "https://www.infobae.com/venezuela/2026/08/13/el-chavismo-y-la-oposicion-acordaron-renovar-a-todos-los-magistrados-del-tsj-y-recuperar-activos-venezolanos-en-inglaterra/",
-      "image": "https://www.infobae.com/resizer/v2/CLGQEJMWFBDMTKHSX4MTJWPJ5A.JPG?auth=9a71b0217d0cce3f35f7051eb4da9d26df7cea6c5ff99969315803f06790a4e8&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez celebró el avance en el diálogo entre el chavismo y la oposición que llevará a renovar el TSJ de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/13/delcy-rodriguez-celebro-el-avance-en-el-dialogo-entre-el-chavismo-y-la-oposicion-que-llevara-a-renovar-el-tsj/",
+      "image": "https://www.infobae.com/resizer/v2/MKL73OM4Q5GVHJRR6UZFDAT5LQ.jpg?auth=e2fa6aeec45722a97bed5c8e55dd4b753a065de4e42768e625b049da6061475e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Corpoelec firmó addendum con Impsa para fortalecer el Sistema Eléctrico Nacional",
-      "link": "https://noticialdia.com/principal/corpoelec-firmo-addendum-con-impsa-para-fortalecer-el-sistema-electrico-nacional/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-31-2.webp?x74346"
+      "title": "Fundáguilas y el SAHUM impulsan jornada médica visual «Con la vista puesta» para peloteros zulianos",
+      "link": "https://noticialdia.com/?p=653863",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Pablo Guanipa indicó que la designación de un nuevo TSJ es necesaria para avanzar en la reinstitucionalización del país",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-pablo-guanipa-indico-que-la-designacion-de-un-nuevo-tsj-es-necesaria-para-avanzar-en-la-reinstitucionalizacion-del-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/495c875bfa08c276be9fee93c198e4aff1ff7325w-cdb90b.jpg"
+      "title": "Presidenta encargada Delcy Rodríguez celebra el \"primer paso\" de la mesa de diálogo",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-celebra-el-primer-paso-de-la-mesa-de-dialogo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/03int-rodriguez-topart-mcqf-mediumsquareat3x-d4eb9b.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T01:57:28.189Z"
+  "lastUpdate": "2026-08-13T04:15:57.472Z"
 };
