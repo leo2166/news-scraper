@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "885,00"
+      "usdt": "885,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T08:20:29.539Z"
+  "lastUpdate": "2026-08-13T10:05:26.455Z"
 };
