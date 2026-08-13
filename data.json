@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "884,00"
+      "usdt": "885,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Venezuela busca recuperar las reservas de oro en manos del Banco de Inglaterra para reconstruir el país",
-      "link": "https://www.bancaynegocios.com/venezuela-busca-recuperar-las-reservas-de-oro-en-manos-del-banco-de-inglaterra-para-reconstruir-el-pais/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/oro.jpg"
+      "title": "#Dato: El 60% de los restaurantes especializados en pescados y mariscos en La Guaira están abiertos",
+      "link": "https://www.bancaynegocios.com/dato-el-60-porciento-de-los-restaurantes-especializados-en-pescados-y-mariscos-en-la-guaira-estan-abiertos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/PescadoVenezuelaComida.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La inflación en Venezuela subió 6,1 puntos en julio y llegó al 19,9%",
-      "link": "https://www.infobae.com/venezuela/2026/08/13/la-inflacion-en-venezuela-subio-61-puntos-en-julio-y-llego-al-199/",
-      "image": "https://www.infobae.com/resizer/v2/NOOIGSCVCJG4PBS3CRKYTPV52U.JPG?auth=2c5963acfa666ef8ba654cbc633e2ce6dcdf92bc3c3ebe687f0d094af78bae27&smart=true&width=350&height=197&quality=85"
+      "title": "Más de 80 ex presos políticos venezolanos pidieron que se garantice un nuevo Tribunal Supremo y un ente electoral independiente",
+      "link": "https://www.infobae.com/venezuela/2026/08/13/mas-de-80-ex-presos-politicos-venezolanos-pidieron-que-se-garantice-un-nuevo-tribunal-supremo-y-un-ente-electoral-independiente/",
+      "image": "https://www.infobae.com/resizer/v2/PKYBZ4CRGVH4NFS6G2XEAK3XIE.jpg?auth=02c89d29b8f5c8aec69eb2c2f766681915e018fbf21a32d74f03a0f51dc82dca&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Polimaracaibo aprehende a sujeto por presunto abuso sexual en el barrio Los Robles",
-      "link": "https://noticialdia.com/al-dia/polimaracaibo-aprehende-a-sujeto-por-presunto-abuso-sexual-en-el-barrio-los-robles/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-47.webp?x74346"
+      "title": "Tres sismos de baja y moderada magnitud se registran en sectores de Lara, Trujillo y Barinas este jueves 13-Ag",
+      "link": "https://noticialdia.com/al-dia/tres-sismos-de-baja-y-moderada-magnitud-se-registran-en-sectores-de-lara-trujillo-y-barinas-este-jueves-13-ag/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/sismo.-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,16 +45,16 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNT VALORÓ AVANCES DEL DIÁLOGO ENTRE LAS AN, PERO EXIGE «CELERIDAD» EN RESULTADOS",
-      "link": "https://noticierodigital.com/2026/08/unt-valoro-avances-del-dialogo-entre-las-an-pero-exige-celeridad-en-resultados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/manuel-rosales-unt-627x376.jpg"
+      "title": "SAYEGH TRAS REUNIÓN CON FIGUERA: «NUEVO DIÁLOGO ES LA MAYOR OPORTUNIDAD PARA LIBERAR A PRESOS POLÍTICOS»",
+      "link": "https://noticierodigital.com/2026/08/sayegh-tras-reunion-con-figuera-nuevo-dialogo-es-la-mayor-oportunidad-para-liberar-a-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/IMG-20260813-WA0045-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Preso venezolano por crimen en Chile: actuó por “un llamado de Jesucristo”",
-      "link": "https://laverdad.com/preso-venezolano-por-crimen-en-chile-actuo-por-un-llamado-de-jesucristo/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "title": "Mujer bajo escombros a policía rescatista en Cali: “Córteme la pierna, que no soporto más el dolor”",
+      "link": "https://laverdad.com/mujer-bajo-escombros-a-policia-rescatista-en-cali-corteme-la-pierna-que-no-soporto-mas-el-dolor/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-Cali-rescate-mujer.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T13:09:27.204Z"
+  "lastUpdate": "2026-08-13T14:57:03.786Z"
 }
