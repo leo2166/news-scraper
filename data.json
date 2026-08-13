@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "885,30"
+      "usdt": "884,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "BCV: Inflación subió 19,9% en julio por el impacto del doblete sísmico",
-      "link": "https://www.bancaynegocios.com/bcv-inflacion-subio-19coma9-porciento-en-julio-por-el-impacto-del-doblete-sismico/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/01/BANCO-CENTRAL-DE-VENEZUELA-BCV-NUEVA.jpg"
+      "title": "Venezuela busca recuperar las reservas de oro en manos del Banco de Inglaterra para reconstruir el país",
+      "link": "https://www.bancaynegocios.com/venezuela-busca-recuperar-las-reservas-de-oro-en-manos-del-banco-de-inglaterra-para-reconstruir-el-pais/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/oro.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez celebró el avance en el diálogo entre el chavismo y la oposición que llevará a renovar el TSJ de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/13/delcy-rodriguez-celebro-el-avance-en-el-dialogo-entre-el-chavismo-y-la-oposicion-que-llevara-a-renovar-el-tsj/",
-      "image": "https://www.infobae.com/resizer/v2/MKL73OM4Q5GVHJRR6UZFDAT5LQ.jpg?auth=e2fa6aeec45722a97bed5c8e55dd4b753a065de4e42768e625b049da6061475e&smart=true&width=350&height=197&quality=85"
+      "title": "La inflación en Venezuela subió 6,1 puntos en julio y llegó al 19,9%",
+      "link": "https://www.infobae.com/venezuela/2026/08/13/la-inflacion-en-venezuela-subio-61-puntos-en-julio-y-llego-al-199/",
+      "image": "https://www.infobae.com/resizer/v2/NOOIGSCVCJG4PBS3CRKYTPV52U.JPG?auth=2c5963acfa666ef8ba654cbc633e2ce6dcdf92bc3c3ebe687f0d094af78bae27&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Fundáguilas y el SAHUM impulsan jornada médica visual «Con la vista puesta» para peloteros zulianos",
-      "link": "https://noticialdia.com/al-dia/fundaguilas-y-el-sahum-impulsan-jornada-medica-visual-con-la-vista-puesta-para-peloteros-zulianos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260812_235808_0000.webp?x74346"
+      "title": "Polimaracaibo aprehende a sujeto por presunto abuso sexual en el barrio Los Robles",
+      "link": "https://noticialdia.com/al-dia/polimaracaibo-aprehende-a-sujeto-por-presunto-abuso-sexual-en-el-barrio-los-robles/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-47.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Al menos 265 personas han muerto tras el temblor, informa De la Espriella",
-      "link": "https://cnnespanol.cnn.com/2026/08/12/colombia/live-news/terremoto-en-vivo-muertos-videos-rescates-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ecad0a13-433e-41c1-a4dc-49ca2acc02fa.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Denuncian que marineros trataron de saltar por la borda del USS Abraham Lincoln",
+      "link": "https://cnnespanol.cnn.com/2026/08/13/eeuu/uss-abraham-lincoln-reportes-malas-condiciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9441822-20260126145551931-20260813115233837.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,16 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "SNTP PIDIÓ QUE REFORMA JUDICIAL PONGA FIN A PROCESOS CONTRA PERIODISTAS",
-      "link": "https://noticierodigital.com/2026/08/sntp-pidio-que-reforma-judicial-ponga-fin-a-procesos-contra-periodistas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/medios-sntp-campanapresidencial.jpg"
+      "title": "UNT VALORÓ AVANCES DEL DIÁLOGO ENTRE LAS AN, PERO EXIGE «CELERIDAD» EN RESULTADOS",
+      "link": "https://noticierodigital.com/2026/08/unt-valoro-avances-del-dialogo-entre-las-an-pero-exige-celeridad-en-resultados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/manuel-rosales-unt-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Preso venezolano por crimen en Chile: actuó por “un llamado de Jesucristo”",
       "link": "https://laverdad.com/preso-venezolano-por-crimen-en-chile-actuo-por-un-llamado-de-jesucristo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Venezolano-acusado-crimen-en-Chile.jpg"
-    },
-    {
-      "source": "Diario Versión Final",
-      "title": "Inflación en EE. UU. se desacelera a 3,4 % en julio y da un respiro al bolsillo",
-      "link": "https://diarioversionfinal.com/mundo/inflacion-en-ee-uu-se-desacelera-a-34-en-julio-y-da-un-respiro-al-bolsillo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
+      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
     }
   ],
-  "lastUpdate": "2026-08-13T11:45:59.969Z"
+  "lastUpdate": "2026-08-13T13:09:27.204Z"
 }
