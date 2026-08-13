@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "889,00"
+      "usdt": "888,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcalde Di Martino: \"Vamos a apoyar al Colegio de Abogados del Zulia\"",
-      "link": "https://noticialdia.com/al-dia/alcalde-di-martino-vamos-a-apoyar-al-colegio-de-abogados-del-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-81.webp?x74346"
+      "title": "Venezuela pacta con empresas de Reino Unido, Catar y Emiratos Árabes para explotación de gas en Campo Lorán",
+      "link": "https://noticialdia.com/al-dia/venezuela-pacta-con-empresas-de-reino-unido-catar-y-emiratos-arabes-para-explotacion-de-gas-en-campo-loran/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-83.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera ratifica compromiso para lograr la liberación de los políticos privados de libertad",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-ratifica-compromiso-para-lograr-la-liberacion-de-los-politicos-privados-de-libertad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/dinorah-figuera-335362.jpg"
+      "title": "Embajada de EE. UU. respalda acuerdo entre IMPSA y Corpoelec",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-respalda-acuerdo-entre-impsa-y-corpoelec",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_rpaf2xrpaf2xrpaf-53d808.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T22:40:58.181Z"
+  "lastUpdate": "2026-08-13T23:40:28.057Z"
 };
