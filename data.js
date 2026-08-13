@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 13 Agosto 2026"
     },
     "binance": {
-      "usdt": "885,90"
+      "usdt": "885,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -35,7 +35,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "Al menos 265 personas han muerto tras el temblor, informa De la Espriella",
       "link": "https://cnnespanol.cnn.com/2026/08/12/colombia/live-news/terremoto-en-vivo-muertos-videos-rescates-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26222741864459.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ecad0a13-433e-41c1-a4dc-49ca2acc02fa.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-13T10:05:26.455Z"
+  "lastUpdate": "2026-08-13T11:45:59.969Z"
 };
