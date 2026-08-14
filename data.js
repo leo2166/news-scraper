@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "884,00"
+      "usdt": "883,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Los dolores de cabeza de Trump con Irán van en aumento",
-      "link": "https://cnnespanol.cnn.com/2026/08/13/eeuu/dolores-cabeza-trump-iran-aumentan-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26222690315550-20260813212646972.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Grupo de portaaviones va a Medio Oriente para reemplazar al USS Abraham Lincoln",
+      "link": "https://cnnespanol.cnn.com/2026/08/14/mundo/live-news/guerra-estados-unidos-iran-ormuz-2-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260814095614574.Jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PDVSA APUESTA POR AUMENTAR LA PRODUCCIÓN DE GAS METANO PARA EL MERCADO INTERNO",
-      "link": "https://noticierodigital.com/2026/08/pdvsa-apuesta-por-aumentar-la-produccion-de-gas-metano-para-el-mercado-interno/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/pdvsa-venezuela-627x376.jpg"
+      "title": "OLIVEROS ADVIERTE DE MAYORES COSTOS DE FLETES PARA VENEZUELA ANTE AUMENTOS EN CANAL DE PANAMÁ",
+      "link": "https://noticierodigital.com/2026/08/oliveros-advierte-de-mayores-costos-de-fletes-para-venezuela-ante-aumentos-en-canal-de-panama/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/canaldepanama-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Suben a 273 los muertos por el terremoto en Colombia",
-      "link": "https://laverdad.com/suben-a-273-los-muertos-por-el-terremoto-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-1.jpg"
+      "title": "Asciende a 281 el número de muertos tras el terremoto en Colombia",
+      "link": "https://laverdad.com/asciende-a-281-el-numero-de-muertos-tras-el-terremoto-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Colombia-suma-281-muertos-tras-el-terremoto-mientras-la-emergencia-humanitaria-persiste-scaled.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T11:42:44.314Z"
+  "lastUpdate": "2026-08-14T13:05:13.462Z"
 };
