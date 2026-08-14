@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "875,95"
+      "usdt": "879,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Un muerto y dos heridos deja trágico accidente en el Km 40 de la Vía a Perijá",
-      "link": "https://noticialdia.com/sucesos/un-muerto-y-dos-heridos-deja-tragico-accidente-en-el-km-40-de-la-via-a-perija/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/silvia-cortada-7.webp?x74346"
+      "title": "Más de 100 pacientes renales del Zulia avanzan hacia una diálisis más segura",
+      "link": "https://noticialdia.com/?p=654614",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Requisitos constitucionales y legales que deben cumplir los aspirantes a magistrados del TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/requisitos-constitucionales-y-legales-que-deben-cumplir-los-aspirantes-a-magistrados-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cnne-748097-tribunal-supremo-de-justicia-de-venezuela-f150ab.jpg"
+      "title": "Anuncian liberaciones de presos por razones políticas",
+      "link": "https://noticiasvenevision.com/noticias/politica/anuncian-liberaciones-de-presos-por-razones-politicas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/quien-puede-tener-arresto-domiciliario-texas-6b6c2b.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T20:30:16.518Z"
+  "lastUpdate": "2026-08-14T21:24:13.975Z"
 }
