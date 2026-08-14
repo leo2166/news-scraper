@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "885,40"
+      "usdt": "885,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "EEUU impulsa la recuperación del sistema eléctrico de Venezuela: reactivará una hidroeléctrica paralizada desde 2014",
-      "link": "https://www.infobae.com/venezuela/2026/08/14/eeuu-impulsa-la-recuperacion-del-sistema-electrico-de-venezuela-reactivara-una-hidroelectrica-paralizada-desde-2014/",
-      "image": "https://www.infobae.com/resizer/v2/ERVBGYTJR5EELGM655U2IFVSLM.jpg?auth=d1bff0319cdfe7fe50408a3e414b1a8c1b45ec077be29e265abbde323f082685&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó acuerdos con tres empresas extranjeras para la búsqueda y producción de gas natural",
+      "link": "https://www.infobae.com/venezuela/2026/08/14/venezuela-firmo-acuerdos-con-tres-empresas-extranjeras-para-la-busqueda-y-produccion-de-gas-natural/",
+      "image": "https://www.infobae.com/resizer/v2/BDYAZWPDJOEJUYHEMBPULZI2SE.jpg?auth=628dc659477bc1513bde1ade45a458984190ad8ed157e986a3eb0c504453dde1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T06:14:03.969Z"
+  "lastUpdate": "2026-08-14T08:15:11.877Z"
 };
