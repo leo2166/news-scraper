@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "771,07",
-      "eur": "889,45",
-      "fechaValor": "Viernes, 14 Agosto 2026"
+      "usd": "772,54",
+      "eur": "894,49",
+      "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "878,99"
+      "usdt": "875,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Actividad sísmica en Venezuela: Lo que reporta Funvisis hoy, viernes 14 de agosto",
-      "link": "https://noticialdia.com/al-dia/actividad-sismica-en-venezuela-lo-que-reporta-funvisis-hoy-viernes-14-de-agosto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-62-3.webp?x74346"
+      "title": "Un muerto y dos heridos deja trágico accidente en el Km 40 de la Vía a Perijá",
+      "link": "https://noticialdia.com/sucesos/un-muerto-y-dos-heridos-deja-tragico-accidente-en-el-km-40-de-la-via-a-perija/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/silvia-cortada-7.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Luigi Mangione: \"Le disparé al Sr. Thompson y murió\"",
-      "link": "https://cnnespanol.cnn.com/2026/08/14/eeuu/luigi-mangione-culpable-caso-federal-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/luigi-guilty.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Perdió a sus padres y hermanas trillizas en el sismo de Colombia",
+      "link": "https://cnnespanol.cnn.com/2026/08/14/colombia/familia-cali-murio-terremoto-trillizas-sobrevivio-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-20260814-100753-instagram.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T19:48:13.156Z"
+  "lastUpdate": "2026-08-14T20:30:16.518Z"
 };
