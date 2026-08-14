@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "883,90"
+      "usdt": "881,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela firmó acuerdos con tres empresas extranjeras para la búsqueda y producción de gas natural",
-      "link": "https://www.infobae.com/venezuela/2026/08/14/venezuela-firmo-acuerdos-con-tres-empresas-extranjeras-para-la-busqueda-y-produccion-de-gas-natural/",
-      "image": "https://www.infobae.com/resizer/v2/BDYAZWPDJOEJUYHEMBPULZI2SE.jpg?auth=628dc659477bc1513bde1ade45a458984190ad8ed157e986a3eb0c504453dde1&smart=true&width=350&height=197&quality=85"
+      "title": "PDVSA prevé incorporar gas metano al sistema termoeléctrico de Venezuela para fin de año",
+      "link": "https://www.infobae.com/venezuela/2026/08/14/pdvsa-preve-incorporar-gas-metano-al-sistema-termoelectrico-de-venezuela-para-fin-de-ano/",
+      "image": "https://www.infobae.com/resizer/v2/QUNNL27FMJFIRN4XPPVKRXJJWA.JPG?auth=8d66dcba3b527f8434d1b946f0380de72b1817424f5c00a3f30f9f2df4a0b359&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernación del Zulia atiende a pacientes renales de la unidad privada de diálisis de La Villa del Rosario",
-      "link": "https://noticialdia.com/al-dia/gobernacion-del-zulia-atiende-a-pacientes-renales-de-la-unidad-privada-de-dialisis-de-la-villa-del-rosario/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-90.webp?x74346"
+      "title": "Gobernador Luis Caldera fortalece la educación en la frontera zuliana con tres escuelas para el pueblo wayuu",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-fortalece-la-educacion-en-la-frontera-zuliana-con-tres-escuelas-para-el-pueblo-wayuu/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-22-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OLIVEROS ADVIERTE DE MAYORES COSTOS DE FLETES PARA VENEZUELA ANTE AUMENTOS EN CANAL DE PANAMÁ",
-      "link": "https://noticierodigital.com/2026/08/oliveros-advierte-de-mayores-costos-de-fletes-para-venezuela-ante-aumentos-en-canal-de-panama/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/canaldepanama-627x376.jpg"
+      "title": "JORGE MILLÁN DICE QUE BUSCARÁN «A LOS MEJORES Y MÁS PREPARADOS» PARA EL TSJ",
+      "link": "https://noticierodigital.com/2026/08/jorge-millan-dice-que-buscaran-a-los-mejores-y-mas-preparados-para-el-tsj/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/04/jorge_millant_7abr2020.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Asciende a 281 el número de muertos tras el terremoto en Colombia",
-      "link": "https://laverdad.com/asciende-a-281-el-numero-de-muertos-tras-el-terremoto-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Colombia-suma-281-muertos-tras-el-terremoto-mientras-la-emergencia-humanitaria-persiste-scaled.jpg"
+      "title": "Muere hombre de 70 años rescatado tras 30 horas bajo escombros por terremoto en Colombia",
+      "link": "https://laverdad.com/muere-hombre-de-70-anos-rescatado-tras-30-horas-bajo-escombros-por-terremoto-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Muere-hombre-rescatado-en-Colombia.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T13:05:13.462Z"
+  "lastUpdate": "2026-08-14T14:51:09.558Z"
 };
