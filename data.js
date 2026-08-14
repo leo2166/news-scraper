@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "880,00"
+      "usdt": "879,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anunció la excarcelación de 131 presos políticos tras la primera ronda de negociaciones con la oposición",
+      "title": "Delcy Rodríguez anunció la excarcelación de 131 presos políticos tras la primera ronda de negociaciones en Venezuela",
       "link": "https://www.infobae.com/venezuela/2026/08/14/delcy-rodriguez-anuncio-la-excarcelacion-de-131-presos-politicos-tras-la-primera-ronda-de-negociaciones-con-la-oposicion/",
       "image": "https://www.infobae.com/resizer/v2/YRGEYPTNJVCADBHVFI6JUDN76M.jpg?auth=2bf18784f6f7604a462c3ad0989dfb1ffb2c4e00a36da3a0db049b2cb893b232&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Más de 100 pacientes renales del Zulia avanzan hacia una diálisis más segura",
-      "link": "https://noticialdia.com/al-dia/mas-de-100-pacientes-renales-del-zulia-avanzan-hacia-una-dialisis-mas-segura/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-67.webp?x74346"
+      "title": "Foro Penal confirma la excarcelación de cinco mujeres privadas de libertad en el INOF",
+      "link": "https://noticialdia.com/al-dia/__trashed-107/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FIGUERA CELEBRÓ EXCARCELACIONES Y EXIGIÓ LIBERTAD PLENA PARA TODOS LOS PRESOS POLÍTICOS",
-      "link": "https://noticierodigital.com/2026/08/figuera-celebro-excarcelaciones-y-exigio-libertad-plena-para-todos-los-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Dinorah-Figuera-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ DESTACÓ ACUERDOS ALCANZADOS EN PRIMERA ETAPA DEL DIÁLOGO",
+      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-destaco-acuerdos-alcanzados-en-primera-etapa-del-dialogo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcy-rodriguez-venezuela-pppp-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "A 100 años de Fidel Castro, el poder económico de Gaesa permanece en manos de la élite cubana",
-      "link": "https://diarioversionfinal.com/mundo/a-100-anos-de-fidel-castro-el-poder-economico-de-gaesa-permanece-en-manos-de-la-elite-cubana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/cuba-fidel.avif"
+      "title": "León XIV pide reforzar la protección de los menores migrantes",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-pide-reforzar-la-proteccion-de-los-menores-migrantes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/HX4PDTLXLJDW5DPFMPVNI6WQ3M-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T22:21:55.800Z"
+  "lastUpdate": "2026-08-14T23:20:35.491Z"
 };
