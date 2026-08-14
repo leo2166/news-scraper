@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "876,50"
+      "usdt": "875,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Solo el 8,3% de los agentes aduaneros están activos en el Puerto La Guaira",
-      "link": "https://www.bancaynegocios.com/solo-el-8punto3-porciento-de-los-agentes-aduaneros-estan-activos-en-el-puerto-la-guaira/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/PuertoDeLaGuairaMaquinasContenedores.jpg"
+      "title": "Pagan el \"Ingreso Integral de los Trabajadores\" de agosto a personal activo: Aumentó más de 6% en bolívares",
+      "link": "https://www.bancaynegocios.com/pagan-el-ingreso-integral-de-los-trabajadores-de-agosto-a-personal-activo-aumento-mas-de-6-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Asesinan a tiros a venezolano en Ecuador tras presunto intento de secuestro",
-      "link": "https://noticialdia.com/sucesos/asesinan-a-tiros-a-venezolano-en-ecuador-tras-presunto-intento-de-secuestro/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-29.webp?x74346"
+      "title": "Juramentan a los primeros 24 Guardianes Ambientales para la recuperación del Parque de los Sueños en Maracaibo",
+      "link": "https://noticialdia.com/al-dia/juramentan-a-los-primeros-24-guardianes-ambientales-para-la-recuperacion-del-parque-de-los-suenos-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/silvia-cortada-6.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "Luigi Mangione: \"Le disparé al Sr. Thompson y murió\"",
       "link": "https://cnnespanol.cnn.com/2026/08/14/eeuu/luigi-mangione-culpable-caso-federal-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/luigi-mangione-3.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/luigi-guilty.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE. UU. respalda acuerdo entre IMPSA y Corpoelec",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-respalda-acuerdo-entre-impsa-y-corpoelec",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_rpaf2xrpaf2xrpaf-53d808.jpg"
+      "title": "Abogado Joel García aboga por el mérito y la despartidización en la renovación del TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/abogado-joel-garcia-aboga-por-el-merito-y-la-despartidizacion-en-la-renovacion-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/joel-garcia-960x640-1-dfab59.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Se recupera Ana María, la única de las trillizas que sobrevivió en Cali",
-      "link": "https://laverdad.com/se-recupera-ana-maria-la-unica-de-las-trillizas-que-sobrevivio-en-cali/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-trillizas-Saavedra.jpg"
+      "title": "Luigi Mangione se declara culpable por el asesinato del director de UnitedHealthcare",
+      "link": "https://laverdad.com/luigi-mangione-se-declara-culpable-por-el-asesinato-del-director-de-unitedhealthcare/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Luigi-Mangione-juicio.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T17:52:22.806Z"
+  "lastUpdate": "2026-08-14T18:53:25.497Z"
 };
