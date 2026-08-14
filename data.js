@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "876,99"
+      "usdt": "769,91"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Capturan a dos hombres en Sur del Lago: Cooperaban con la organización criminal de \"El Adriancito\"",
-      "link": "https://noticialdia.com/sucesos/capturan-a-dos-hombres-en-sur-del-lago-cooperaban-con-la-organizacion-criminal-de-el-adriancito/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-25.webp?x74346"
+      "title": "Protestan en Lagunillas contra los prolongados apagones que afectan al Zulia",
+      "link": "https://noticialdia.com/al-dia/protestan-en-lagunillas-contra-los-prolongados-apagones-que-afectan-al-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-58.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE MILLÁN DICE QUE BUSCARÁN «A LOS MEJORES Y MÁS PREPARADOS» PARA EL TSJ",
-      "link": "https://noticierodigital.com/2026/08/jorge-millan-dice-que-buscaran-a-los-mejores-y-mas-preparados-para-el-tsj/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/04/jorge_millant_7abr2020.jpg"
+      "title": "EN EL PUERTO DE LA GUAIRA SOLO EL 8,3% DE LOS AGENTES ADUANEROS ESTÁN ACTIVOS",
+      "link": "https://noticierodigital.com/2026/08/en-el-puerto-de-la-guaira-solo-el-83-de-los-agentes-aduaneros-estan-activos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Puerto-de-La-Guaira-Venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Muere Michiel Vandeweert, el influencer que dio visibilidad a la progeria",
-      "link": "https://laverdad.com/muere-michiel-vandeweert-el-influencer-que-dio-visibilidad-a-la-progeria/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Michiel-Vandeweert.jpg"
+      "title": "Elevan a 285 los muertos y siguen en 379 los desaparecidos por el terremoto en Colombia",
+      "link": "https://laverdad.com/elevan-a-285-los-muertos-y-siguen-en-379-los-desaparecidos-por-el-terremoto-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-2.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T15:51:25.237Z"
+  "lastUpdate": "2026-08-14T16:52:09.598Z"
 };
