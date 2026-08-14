@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "769,91"
+      "usdt": "876,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Protestan en Lagunillas contra los prolongados apagones que afectan al Zulia",
-      "link": "https://noticialdia.com/al-dia/protestan-en-lagunillas-contra-los-prolongados-apagones-que-afectan-al-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-58.webp?x74346"
+      "title": "Asesinan a tiros a venezolano en Ecuador tras presunto intento de secuestro",
+      "link": "https://noticialdia.com/sucesos/asesinan-a-tiros-a-venezolano-en-ecuador-tras-presunto-intento-de-secuestro/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-29.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,16 +45,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EN EL PUERTO DE LA GUAIRA SOLO EL 8,3% DE LOS AGENTES ADUANEROS ESTÁN ACTIVOS",
-      "link": "https://noticierodigital.com/2026/08/en-el-puerto-de-la-guaira-solo-el-83-de-los-agentes-aduaneros-estan-activos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Puerto-de-La-Guaira-Venezuela-627x376.jpg"
+      "title": "PDVSA GARANTIZA SEGURIDAD JURÍDICA A INVERSIONISTAS TRAS REFORMA A LA LEY DE HIDROCARBUROS",
+      "link": "https://noticierodigital.com/2026/08/pdvsa-garantiza-seguridad-juridica-a-inversionistas-tras-reforma-a-la-ley-de-hidrocarburos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/hectorobregon-pdvsa-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Elevan a 285 los muertos y siguen en 379 los desaparecidos por el terremoto en Colombia",
-      "link": "https://laverdad.com/elevan-a-285-los-muertos-y-siguen-en-379-los-desaparecidos-por-el-terremoto-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-2.jpg"
+      "title": "Se recupera Ana María, la única de las trillizas que sobrevivió en Cali",
+      "link": "https://laverdad.com/se-recupera-ana-maria-la-unica-de-las-trillizas-que-sobrevivio-en-cali/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-trillizas-Saavedra.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T16:52:09.598Z"
+  "lastUpdate": "2026-08-14T17:52:22.806Z"
 };
