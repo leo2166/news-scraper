@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "885,00"
+      "usdt": "885,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -56,5 +56,5 @@ window.DASHBOARD_DATA = {
       "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T04:08:49.114Z"
+  "lastUpdate": "2026-08-14T06:14:03.969Z"
 };
