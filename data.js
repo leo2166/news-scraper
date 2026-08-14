@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "879,00"
+      "usdt": "880,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "SOS Orinoco denuncia una nueva mina ilegal de 5,8 hectáreas en el Parque Nacional Canaima de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/14/sos-orinoco-denuncia-una-nueva-mina-ilegal-de-58-hectareas-en-el-parque-nacional-canaima-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/WIEUC3UQ4FC25NWPAGAWX45UCY.jpeg?auth=051cf3f05a35b29a3274346e97359fe1d69f5ab42a515795b99a1d4e4ab62ffa&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez anunció la excarcelación de 131 presos políticos tras la primera ronda de negociaciones con la oposición",
+      "link": "https://www.infobae.com/venezuela/2026/08/14/delcy-rodriguez-anuncio-la-excarcelacion-de-131-presos-politicos-tras-la-primera-ronda-de-negociaciones-con-la-oposicion/",
+      "image": "https://www.infobae.com/resizer/v2/YRGEYPTNJVCADBHVFI6JUDN76M.jpg?auth=2bf18784f6f7604a462c3ad0989dfb1ffb2c4e00a36da3a0db049b2cb893b232&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "Más de 100 pacientes renales del Zulia avanzan hacia una diálisis más segura",
-      "link": "https://noticialdia.com/?p=654614",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
+      "link": "https://noticialdia.com/al-dia/mas-de-100-pacientes-renales-del-zulia-avanzan-hacia-una-dialisis-mas-segura/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-67.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Anuncian liberaciones de presos por razones políticas",
-      "link": "https://noticiasvenevision.com/noticias/politica/anuncian-liberaciones-de-presos-por-razones-politicas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/quien-puede-tener-arresto-domiciliario-texas-6b6c2b.jpg"
+      "title": "Delcy Rodríguez celebra avances en el diálogo y llama a la reconstrucción nacional",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-celebra-avances-en-el-dialogo-y-llama-a-la-reconstruccion-nacional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/02_zc_l5804_p-48fd86.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESTIMAN QUE OPERACIÓN RESOLUCIÓN ABSOLUTA Y LANZA DEL SUR COSTÓ UNOS $4.700 MILLONES",
-      "link": "https://noticierodigital.com/2026/08/estiman-que-operacion-resolucion-absoluta-y-lanza-del-sur-costo-unos-4-700-millones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/comando-sur-eeuu-627x376.jpg"
+      "title": "FIGUERA CELEBRÓ EXCARCELACIONES Y EXIGIÓ LIBERTAD PLENA PARA TODOS LOS PRESOS POLÍTICOS",
+      "link": "https://noticierodigital.com/2026/08/figuera-celebro-excarcelaciones-y-exigio-libertad-plena-para-todos-los-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Dinorah-Figuera-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Inflación en EE. UU. se desacelera a 3,4 % en julio y da un respiro al bolsillo",
-      "link": "https://diarioversionfinal.com/mundo/inflacion-en-ee-uu-se-desacelera-a-34-en-julio-y-da-un-respiro-al-bolsillo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
+      "title": "A 100 años de Fidel Castro, el poder económico de Gaesa permanece en manos de la élite cubana",
+      "link": "https://diarioversionfinal.com/mundo/a-100-anos-de-fidel-castro-el-poder-economico-de-gaesa-permanece-en-manos-de-la-elite-cubana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/cuba-fidel.avif"
     }
   ],
-  "lastUpdate": "2026-08-14T21:24:13.975Z"
+  "lastUpdate": "2026-08-14T22:21:55.800Z"
 };
