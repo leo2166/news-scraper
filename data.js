@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 14 Agosto 2026"
     },
     "binance": {
-      "usdt": "875,95"
+      "usdt": "878,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Juramentan a los primeros 24 Guardianes Ambientales para la recuperación del Parque de los Sueños en Maracaibo",
-      "link": "https://noticialdia.com/al-dia/juramentan-a-los-primeros-24-guardianes-ambientales-para-la-recuperacion-del-parque-de-los-suenos-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/silvia-cortada-6.webp?x74346"
+      "title": "Actividad sísmica en Venezuela: Lo que reporta Funvisis hoy, viernes 14 de agosto",
+      "link": "https://noticialdia.com/al-dia/actividad-sismica-en-venezuela-lo-que-reporta-funvisis-hoy-viernes-14-de-agosto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-62-3.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,22 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Abogado Joel García aboga por el mérito y la despartidización en la renovación del TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/abogado-joel-garcia-aboga-por-el-merito-y-la-despartidizacion-en-la-renovacion-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/joel-garcia-960x640-1-dfab59.jpg"
+      "title": "Requisitos constitucionales y legales que deben cumplir los aspirantes a magistrados del TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/requisitos-constitucionales-y-legales-que-deben-cumplir-los-aspirantes-a-magistrados-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cnne-748097-tribunal-supremo-de-justicia-de-venezuela-f150ab.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PDVSA GARANTIZA SEGURIDAD JURÍDICA A INVERSIONISTAS TRAS REFORMA A LA LEY DE HIDROCARBUROS",
-      "link": "https://noticierodigital.com/2026/08/pdvsa-garantiza-seguridad-juridica-a-inversionistas-tras-reforma-a-la-ley-de-hidrocarburos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/hectorobregon-pdvsa-627x376.jpg"
+      "title": "ESTIMAN QUE OPERACIÓN RESOLUCIÓN ABSOLUTA Y LANZA DEL SUR COSTÓ UNOS $4.700 MILLONES",
+      "link": "https://noticierodigital.com/2026/08/estiman-que-operacion-resolucion-absoluta-y-lanza-del-sur-costo-unos-4-700-millones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/comando-sur-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Luigi Mangione se declara culpable por el asesinato del director de UnitedHealthcare",
       "link": "https://laverdad.com/luigi-mangione-se-declara-culpable-por-el-asesinato-del-director-de-unitedhealthcare/",
       "image": "https://laverdad.com/wp-content/uploads/2026/08/Luigi-Mangione-juicio.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "Inflación en EE. UU. se desacelera a 3,4 % en julio y da un respiro al bolsillo",
+      "link": "https://diarioversionfinal.com/mundo/inflacion-en-ee-uu-se-desacelera-a-34-en-julio-y-da-un-respiro-al-bolsillo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/01/tsize_600x400_inflacion.jpg"
     }
   ],
-  "lastUpdate": "2026-08-14T18:53:25.497Z"
+  "lastUpdate": "2026-08-14T19:48:13.156Z"
 };
