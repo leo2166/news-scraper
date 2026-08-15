@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "874,00"
+      "usdt": "872,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela y Perú acuerdan reactivar relaciones consulares",
-      "link": "https://noticialdia.com/?p=654890",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
+      "title": "\"Luis Aparicio está súper contento y agradecido por su estatua en Maracaibo\": Nelson Aparicio (hijo)",
+      "link": "https://noticialdia.com/sin-categoria/luis-aparicio-esta-super-contento-y-agradecido-por-su-estatua-en-maracaibo-nelson-aparicio-hijo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-15T162202.325.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez afirma que 1.046 venezolanos que estaban detenidos han regresado a sus hogares",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-afirma-que-1046-venezolanos-que-estaban-detenidos-han-regresado-a-sus-hogares",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-08072026-1-32ac97.jpg"
+      "title": "Dinorah Figuera y Delegación de la AN de 2015  recorrió zonas afectadas por los terremotos en La Guaira",
+      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-y-delegacion-de-la-an-de-2015-recorrio-zonas-afectadas-por-los-terremotos-en-la-guaira",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-15-at-3.13.41-pm-3-e9a1ca.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,9 +51,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Terremoto de 7,7 golpea Indonesia y otro de 5 sacude Granada",
-      "link": "https://laverdad.com/terremoto-de-77-golpea-indonesia-y-otro-de-5-sacude-granada/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/f3be83042babce48fecd1ee1113bb29d83d5aa35.jpg"
+      "title": "Muere joven rescatada tras permanecer 36 horas bajo los escombros en Pereira",
+      "link": "https://laverdad.com/muere-joven-rescatada-tras-permanecer-36-horas-bajo-los-escombros-en-pereira/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/55af102fc0bc96ae7607da13caf83275.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/QZCq7fZc-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T19:21:01.984Z"
+  "lastUpdate": "2026-08-15T20:21:26.694Z"
 };
