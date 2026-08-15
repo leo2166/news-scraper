@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "880,00"
+      "usdt": "881,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "De la UCV a España: El venezolano Román Davis es el nuevo refuerzo del Valencia CF",
-      "link": "https://noticialdia.com/deportes/de-la-ucv-a-espana-el-venezolano-roman-davis-es-el-nuevo-refuerzo-del-valencia-cf/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-75-1.webp?x74346"
+      "title": "Venezuela bajo calor extremo: Intensifican seguimiento a embalses y servicios ante el impacto de El Niño",
+      "link": "https://noticialdia.com/cultura/ciencia/venezuela-bajo-calor-extremo-intensifican-seguimiento-a-embalses-y-servicios-ante-el-impacto-de-el-nino/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-86-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Observatorio Venezolano de Prisiones denuncia fallecimiento de presos en los últimos 15 años",
-      "link": "https://noticiasvenevision.com/noticias/politica/observatorio-venezolano-de-prisiones-denuncia-fallecimiento-de-presos-en-los-ultimos-15-anos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/shutterstock_2433233435-2-460414.png"
+      "title": "Diputado AN 2015 Marco Aurelio Quiñones celebra liberación de presos por razones políticas",
+      "link": "https://noticiasvenevision.com/noticias/politica/diputado-an-2015-marco-aurelio-quinones-celebra-liberacion-de-presos-por-razones-politicas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-12-960x640-6b6f87.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«NUESTRO TRABAJO TIENE QUE ESTAR ENFOCADO A QUE SALGAN TODOS»: RAMÓN LÓPEZ",
-      "link": "https://noticierodigital.com/2026/08/nuestro-trabajo-tiene-que-estar-enfocado-a-que-salgan-todos-ramon-lopez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/ramon-lopez-venezuela-an-2015-627x376.jpg"
+      "title": "EJECUTIVO EVALUÓ REDISEÑO INSTITUCIONAL Y DIGITALIZACIÓN DE PROCESOS ADMINISTRATIVOS",
+      "link": "https://noticierodigital.com/2026/08/ejecutivo-evaluo-rediseno-institucional-y-digitalizacion-de-procesos-administrativos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcy-rodriguez-ven-ppp1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-2-10-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T01:12:50.222Z"
+  "lastUpdate": "2026-08-15T02:51:04.033Z"
 };
