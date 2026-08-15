@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "880,20"
+      "usdt": "876,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Seniat elimina el vencimiento del RIF (+Gaceta Oficial)",
-      "link": "https://noticialdia.com/nacionales/seniat-elimina-el-vencimiento-del-rif-gaceta-oficial/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-15T090016.135.webp?x74346"
+      "title": "Autoridades atienden múltiples afectaciones por precipitaciones en el estado Trujillo",
+      "link": "https://noticialdia.com/?p=654759",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
       "source": "CNN en Español",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Luigi Mangione se declara culpable por el asesinato del director de UnitedHealthcare",
-      "link": "https://laverdad.com/luigi-mangione-se-declara-culpable-por-el-asesinato-del-director-de-unitedhealthcare/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Luigi-Mangione-juicio.jpg"
+      "title": "Terremoto de 7,7 golpea Indonesia y otro de 5 sacude Granada",
+      "link": "https://laverdad.com/terremoto-de-77-golpea-indonesia-y-otro-de-5-sacude-granada/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/f3be83042babce48fecd1ee1113bb29d83d5aa35.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Olas de casi un metro inundan viviendas en Flores tras terremoto de 7,7",
-      "link": "https://diarioversionfinal.com/mundo/olas-de-casi-un-metro-inundan-viviendas-en-flores-tras-terremoto-de-77/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/06/INDONESIA-BALI-750x430.jpg"
+      "title": "Incendio forestal arrasa unas 850 hectáreas en el este de Bélgica",
+      "link": "https://diarioversionfinal.com/mundo/incendio-forestal-arrasa-unas-850-hectareas-en-el-este-de-belgica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/HPt3uVXWAAAM3Qg-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T13:29:38.244Z"
+  "lastUpdate": "2026-08-15T14:21:39.947Z"
 };
