@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2016/11/Universidad-de-Harvard-Referencial-Version-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T07:30:26.264Z"
+  "lastUpdate": "2026-08-15T08:27:44.191Z"
 };
