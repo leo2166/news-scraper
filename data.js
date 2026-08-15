@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "881,00"
+      "usdt": "882,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. eleva a $26,5 millones su ayuda a Colombia tras terremoto de 7,4",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-eleva-a-265-millones-su-ayuda-a-colombia-tras-terremoto-de-74/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-2-10-08-2026-750x430.jpg"
+      "title": "RD del Congo eleva a 2.184 los fallecidos y a 4.665 los casos confirmados de ébola",
+      "link": "https://diarioversionfinal.com/mundo/rd-del-congo-eleva-a-2-184-los-fallecidos-y-a-4-665-los-casos-confirmados-de-ebola/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/08/ebola_9.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T02:51:04.033Z"
+  "lastUpdate": "2026-08-15T03:38:28.810Z"
 };
