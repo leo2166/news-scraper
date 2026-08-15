@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "882,50"
+      "usdt": "882,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2016/11/Universidad-de-Harvard-Referencial-Version-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T09:25:23.894Z"
+  "lastUpdate": "2026-08-15T10:22:06.875Z"
 };
