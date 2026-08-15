@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "876,00"
+      "usdt": "871,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado AN 2015 Marco Aurelio Quiñones celebra liberación de presos por razones políticas",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-an-2015-marco-aurelio-quinones-celebra-liberacion-de-presos-por-razones-politicas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/1-12-960x640-6b6f87.jpg"
+      "title": "ONG Foro Penal confirma 72 excarcelaciones de presos políticos el viernes 14 de agosto",
+      "link": "https://noticiasvenevision.com/noticias/politica/ong-foro-penal-confirma-72-excarcelaciones-de-presos-politicos-el-viernes-14-de-agosto",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/himiob_11a.jpg-28a787.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "INFLACIÓN DE JULIO FUE DE 13,50 % EN BOLÍVARES, REPORTÓ CEDICE",
-      "link": "https://noticierodigital.com/2026/08/inflacion-de-julio-fue-de-1350-en-bolivares-reporto-cedice/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/cedice-inflacioncanastaseptiembre-627x376.jpg"
+      "title": "LUIGI MANGIONE SE DECLARÓ CULPABLE DE LOS CARGOS FEDERALES EN SU CONTRA",
+      "link": "https://noticierodigital.com/2026/08/luigi-mangione-se-declaro-culpable-de-los-cargos-federales-en-su-contra/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/LuigiMangione_11diciembre-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula y Flávio Bolsonaro arrancan la carrera presidencial de Brasil en empate técnico",
-      "link": "https://diarioversionfinal.com/mundo/lula-y-flavio-bolsonaro-arrancan-la-carrera-presidencial-de-brasil-en-empate-tecnico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/lula-da-silva-13-de-diciembre-750x430.jpg"
+      "title": "Fujimori encabeza simulacro nacional para preparar a Perú ante terremotos",
+      "link": "https://diarioversionfinal.com/mundo/fujimori-encabeza-simulacro-nacional-para-preparar-a-peru-ante-terremotos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/video-fujimori-lidera-simulacro-nacional-562x315-a856fe-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-15T15:19:34.761Z"
+  "lastUpdate": "2026-08-15T16:23:19.577Z"
 };
