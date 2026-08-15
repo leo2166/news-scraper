@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "879,95"
+      "usdt": "882,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Quién es Emirlendris Benítez, la ex presa política venezolana que pasó ocho años encarcelada, perdió su embarazo y denunció torturas",
-      "link": "https://www.infobae.com/venezuela/2026/08/15/quien-es-emirlendris-benitez-la-ex-presa-politica-venezolana-que-paso-ocho-anos-encarcelada-perdio-su-embarazo-y-denuncio-torturas/",
-      "image": "https://www.infobae.com/resizer/v2/L55QAIK6TZC4JKFDNQVSI4HDAM.jpg?auth=872fbfc833f753e6ecfd328d9430689df7e76af94807d6a8d36368342bdf8deb&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición y ONG exigieron al Gobierno chavista la liberación de todos los presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/15/la-oposicion-y-ong-exigieron-al-gobierno-chavista-la-liberacion-de-todos-los-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/Y4JBYJJHGVDS7I7NPJMDKVDD6E.JPG?auth=ccbfdc6c3eab1d04f928d17562567d46a1b1912fb94682ccfc6d0964a1619a8c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,7 +33,7 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Perdió a sus padres y hermanas trillizas en el sismo de Colombia",
+      "title": "Perdió a sus padres y hermanas trillizas en el terremoto de Colombia",
       "link": "https://cnnespanol.cnn.com/2026/08/14/colombia/familia-cali-murio-terremoto-trillizas-sobrevivio-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-20260814-100753-instagram.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2016/11/Universidad-de-Harvard-Referencial-Version-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T06:37:11.857Z"
+  "lastUpdate": "2026-08-15T07:30:26.264Z"
 }
