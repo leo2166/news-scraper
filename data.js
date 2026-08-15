@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/08/ebola_9.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T04:30:14.533Z"
+  "lastUpdate": "2026-08-15T05:23:39.334Z"
 };
