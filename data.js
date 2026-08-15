@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "871,00"
+      "usdt": "872,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez reconfiguró casi todo el mando militar territorial en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/15/delcy-rodriguez-reconfiguro-casi-todo-el-mando-militar-territorial-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/LAUXVMF2FFB2XLD5CEOS2UW4QY.jpg?auth=2ed34f09ca806eee5c0d8e54947bedcaae9ea7002c58db57c53ac416700fc74e&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal confirmó la liberación de 72 presos políticos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/08/15/el-foro-penal-confirmo-la-liberacion-de-72-presos-politicos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/KBX6FRA6IZFYJOERLKWSYEBZMY.jpg?auth=e5b0267074e00b40435bd64c2d6f9dd6d5227d127ad088e8b3c63a17ab2a4518&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "ONG Foro Penal confirma 72 excarcelaciones de presos políticos el viernes 14 de agosto",
-      "link": "https://noticiasvenevision.com/noticias/politica/ong-foro-penal-confirma-72-excarcelaciones-de-presos-politicos-el-viernes-14-de-agosto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/himiob_11a.jpg-28a787.webp"
+      "title": "Canciller Félix Plasencia recibe al embajador español Álvaro Albacete para impulsar el intercambio comercial y la cooperación",
+      "link": "https://noticiasvenevision.com/noticias/politica/canciller-felix-plasencia-recibe-al-embajador-espanol-alvaro-albacete-para-impulsar-el-intercambio-comercial-y-la-cooperacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/felix-plasencia-y-el-embajador-del-reino-de-espana-acreditado-en-caracas-alvaro-albacete-66636-ef4f30.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LUIGI MANGIONE SE DECLARÓ CULPABLE DE LOS CARGOS FEDERALES EN SU CONTRA",
-      "link": "https://noticierodigital.com/2026/08/luigi-mangione-se-declaro-culpable-de-los-cargos-federales-en-su-contra/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/LuigiMangione_11diciembre-627x376.jpg"
+      "title": "NO PUEDEN QUEDAR EN SEGUNDO PLANO: PABLO ZAMBRANO EXIGIÓ REACTIVAR DIÁLOGO LABORAL",
+      "link": "https://noticierodigital.com/2026/08/no-pueden-quedar-en-segundo-plano-pablo-zambrano-exigio-reactivar-dialogo-laboral/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/pablozambrano-bonos-salarios.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fujimori encabeza simulacro nacional para preparar a Perú ante terremotos",
-      "link": "https://diarioversionfinal.com/mundo/fujimori-encabeza-simulacro-nacional-para-preparar-a-peru-ante-terremotos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/video-fujimori-lidera-simulacro-nacional-562x315-a856fe-750x430.png"
+      "title": "Nuevo terremoto de 6,9 golpea el norte de Indonesia",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/nuevo-terremoto-de-69-golpea-el-norte-de-indonesia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/indonesia_ter-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-15T16:23:19.577Z"
+  "lastUpdate": "2026-08-15T17:19:35.018Z"
 };
