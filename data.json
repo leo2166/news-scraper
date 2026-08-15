@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "873,50"
+      "usdt": "874,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Sector privado y autoridades garantizan 1,2 millones de kilos de alimentos semanales en el Zulia",
-      "link": "https://noticialdia.com/principal/sector-privado-y-autoridades-garantizan-12-millones-de-kilos-de-alimentos-semanales-en-el-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-15T141022.024.webp?x74346"
+      "title": "Venezuela y Perú acuerdan reactivar relaciones consulares",
+      "link": "https://noticialdia.com/?p=654890",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-2.webp"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Canciller Félix Plasencia recibe al embajador español Álvaro Albacete para impulsar el intercambio comercial y la cooperación",
-      "link": "https://noticiasvenevision.com/noticias/politica/canciller-felix-plasencia-recibe-al-embajador-espanol-alvaro-albacete-para-impulsar-el-intercambio-comercial-y-la-cooperacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/felix-plasencia-y-el-embajador-del-reino-de-espana-acreditado-en-caracas-alvaro-albacete-66636-ef4f30.png"
+      "title": "Delcy Rodríguez afirma que 1.046 venezolanos que estaban detenidos han regresado a sus hogares",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-afirma-que-1046-venezolanos-que-estaban-detenidos-han-regresado-a-sus-hogares",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-08072026-1-32ac97.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Colombia: Tirotearon al exalcalde Wilson Vicente González en su propia finca cerca de Cúcuta",
-      "link": "https://diarioversionfinal.com/mundo/colombia-tirotearon-al-exalcalde-wilson-vicente-gonzalez-en-su-propia-finca-cerca-de-cucuta/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/alcalde_wilson-750x430.jpg"
+      "title": "Marruecos frustra intento masivo de invasión a Ceuta",
+      "link": "https://diarioversionfinal.com/mundo/marruecos-frustra-intento-masivo-de-invasion-a-ceuta/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/QZCq7fZc-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T18:28:39.216Z"
+  "lastUpdate": "2026-08-15T19:21:01.984Z"
 }
