@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "872,60"
+      "usdt": "872,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Presidenta de Madrid llama \"traidor\" a Pedro Sánchez por la crisis migratoria en Ceuta",
-      "link": "https://diarioversionfinal.com/mundo/presidenta-de-madrid-llama-traidor-a-pedro-sanchez-por-la-crisis-migratoria-en-ceuta/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Pedro-Sanchez-y-Diaz-Ayuso-15-08-2026-750x430.jpg"
+      "title": "Un sismo de magnitud 5,4 ocurre cerca de las islas de los Volcanes, Japón",
+      "link": "https://diarioversionfinal.com/mundo/un-sismo-de-magnitud-54-ocurre-cerca-de-las-islas-de-los-volcanes-japon/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/03/temblor-rusia_4260080_20200325062012-716x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T22:20:31.404Z"
+  "lastUpdate": "2026-08-15T23:19:36.406Z"
 };
