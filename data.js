@@ -27,33 +27,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "\"Luis Aparicio está súper contento y agradecido por su estatua en Maracaibo\": Nelson Aparicio (hijo)",
-      "link": "https://noticialdia.com/sin-categoria/luis-aparicio-esta-super-contento-y-agradecido-por-su-estatua-en-maracaibo-nelson-aparicio-hijo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-15T162202.325.webp?x74346"
+      "title": "¡LaLiga está de vuelta! Todo listo para el inicio de una temporada estelar",
+      "link": "https://noticialdia.com/al-dia/laliga-esta-de-vuelta-todo-listo-para-el-inicio-de-una-temporada-estelar/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-15T171939.110.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Así es la extenuante misión prolongada del USS Lincoln",
-      "link": "https://cnnespanol.cnn.com/2026/08/15/mundo/marineros-portaaviones-despliegues-uss-abraham-lincoln-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260815074253603.Jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Un \"barco fantasma\" habría atacado barcos ecuatorianos con drones y bombas",
+      "link": "https://cnnespanol.cnn.com/2026/08/15/latinoamerica/barco-fantasma-ataca-barcos-ecuador-drones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-08-15-at-12-51-38.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera y Delegación de la AN de 2015  recorrió zonas afectadas por los terremotos en La Guaira",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-y-delegacion-de-la-an-de-2015-recorrio-zonas-afectadas-por-los-terremotos-en-la-guaira",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-15-at-3.13.41-pm-3-e9a1ca.jpeg"
+      "title": "Plataforma Unitaria exige liberaciones masivas y confirma 75 excarcelaciones de presos políticos",
+      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-exige-liberaciones-masivas-y-confirma-75-excarcelaciones-de-presos-politicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plataforma-unitaria-ea41ed.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "NO PUEDEN QUEDAR EN SEGUNDO PLANO: PABLO ZAMBRANO EXIGIÓ REACTIVAR DIÁLOGO LABORAL",
-      "link": "https://noticierodigital.com/2026/08/no-pueden-quedar-en-segundo-plano-pablo-zambrano-exigio-reactivar-dialogo-laboral/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/pablozambrano-bonos-salarios.jpg"
+      "title": "«SALGAN AHORA O SERÁN DEPORTADOS»: EE .UU . CONFIRMÓ FIN DEL TPS PARA VENEZOLANOS",
+      "link": "https://noticierodigital.com/2026/08/salgan-ahora-o-seran-deportados-ee-uu-confirmo-fin-del-tps-para-venezolanos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/tps-venezolanos-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Muere joven rescatada tras permanecer 36 horas bajo los escombros en Pereira",
-      "link": "https://laverdad.com/muere-joven-rescatada-tras-permanecer-36-horas-bajo-los-escombros-en-pereira/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/55af102fc0bc96ae7607da13caf83275.jpg"
+      "title": "EE. UU. mantiene “en efecto” la terminación del TPS para venezolanos",
+      "link": "https://laverdad.com/ee-uu-mantiene-en-efecto-la-terminacion-del-tps-para-venezolanos/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/10/bff146fa73397f15e6159188c2e1e474.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/QZCq7fZc-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-15T20:21:26.694Z"
+  "lastUpdate": "2026-08-15T21:20:34.237Z"
 };
