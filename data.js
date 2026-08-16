@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/INDONESIA-TERREMOTO.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-16T06:38:30.573Z"
+  "lastUpdate": "2026-08-16T07:30:15.816Z"
 };
