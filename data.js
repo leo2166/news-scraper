@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "872,00"
+      "usdt": "873,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Al menos un muerto y cinco heridos durante un tiroteo en un parque de Kentucky",
-      "link": "https://diarioversionfinal.com/mundo/al-menos-un-muerto-y-cinco-heridos-durante-un-tiroteo-en-un-parque-de-kentucky/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Tiroteo-Universidad-Kentucky-09-12-2025-750x430.png"
+      "title": "Más de 80 migrantes interceptados al intentar cruzar el canal de la Mancha",
+      "link": "https://diarioversionfinal.com/mundo/mas-de-80-migrantes-interceptados-al-intentar-cruzar-el-canal-de-la-mancha/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Canal-Mancha-migrantes-15-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-16T02:59:34.083Z"
+  "lastUpdate": "2026-08-16T03:54:39.446Z"
 };
