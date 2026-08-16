@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "872,30"
+      "usdt": "872,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Onda Tropical 37 generará lluvias y tormentas en gran parte del país",
-      "link": "https://noticialdia.com/al-dia/onda-tropical-37-generara-lluvias-y-tormentas-en-gran-parte-del-pais/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-16T122937.046.webp?x74346"
+      "title": "Conato de incendio en Amparo: Oficiales de la PNB evitaron que un carro se quemara por completo",
+      "link": "https://noticialdia.com/sucesos/conato-de-incendio-en-amparo-oficiales-de-la-pnb-evitaron-que-un-carro-se-quemara-por-completo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-46.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal confirma excarcelación de 78 presos políticos en las últimas horas",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-excarcelacion-de-78-presos-politicos-en-las-ultimas-horas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logofpv-63ed6a-39eeaa.jpg"
+      "title": "Dinorah Figuera sobre presos políticos: Urge claridad en las cifras oficiales de liberaciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-sobre-presos-politicos-urge-claridad-en-las-cifras-oficiales-de-liberaciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-2-da6b35.png"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba enfrentará apagones que podrían afectar hasta el 67% de la isla en horario pico",
-      "link": "https://diarioversionfinal.com/mundo/cuba-enfrentara-apagones-que-podrian-afectar-hasta-el-67-de-la-isla-en-horario-pico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/cuba-apagones-protestas-750x430.jpeg"
+      "title": "Irán ofrece hasta 30.000 dólares por matar o entregar a soldados estadounidenses",
+      "link": "https://diarioversionfinal.com/mundo/iran-ofrece-hasta-30-000-dolares-por-matar-o-entregar-a-soldados-estadounidenses/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/petroleo-iranie-638x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-16T17:18:34.361Z"
+  "lastUpdate": "2026-08-16T18:28:04.681Z"
 };
