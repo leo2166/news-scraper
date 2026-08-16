@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "871,10"
+      "usdt": "873,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Dos víctimas fatales y vías colapsadas dejó fuerte temporal de lluvias en la Gran Caracas",
-      "link": "https://noticialdia.com/sucesos/dos-victimas-fatales-y-vias-colapsadas-dejo-fuerte-temporal-de-lluvias-en-la-gran-caracas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-35.webp?x74346"
+      "title": "Se registraron fuertes precipitaciones y tormentas eléctricas sobre Caracas",
+      "link": "https://noticialdia.com/al-dia/se-registraron-fuertes-precipitaciones-y-tormentas-electricas-sobre-caracas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-16T091033.811.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -54,7 +54,13 @@ window.DASHBOARD_DATA = {
       "title": "EE. UU. mantiene “en efecto” la terminación del TPS para venezolanos",
       "link": "https://laverdad.com/ee-uu-mantiene-en-efecto-la-terminacion-del-tps-para-venezolanos/",
       "image": "https://laverdad.com/wp-content/uploads/2025/10/bff146fa73397f15e6159188c2e1e474.jpg"
+    },
+    {
+      "source": "Diario Versión Final",
+      "title": "De la Espriella pide a Trump suspender temporalmente aranceles a Colombia tras el terremoto",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-pide-a-trump-suspender-temporalmente-aranceles-a-colombia-tras-el-terremoto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-19-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-16T12:37:36.116Z"
+  "lastUpdate": "2026-08-16T13:30:52.978Z"
 };
