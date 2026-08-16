@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "870,00"
+      "usdt": "869,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Disparan contra camión que transportaba ayuda humanitaria a damnificados por terremoto en Colombia",
-      "link": "https://noticialdia.com/internacionales/disparan-contra-camion-que-transportaba-ayuda-humanitaria-a-damnificados-por-terremoto-en-colombia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-48.webp?x74346"
+      "title": "Alcaldía de Maracaibo acompaña en la renovación de vocerías en Consejos Comunales",
+      "link": "https://noticialdia.com/sin-categoria/alcaldia-de-maracaibo-acompana-en-la-renovacion-de-vocerias-en-consejos-comunales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-16T170807.884.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -51,9 +51,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide frenar la violencia en Cisjordania",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-frenar-la-violencia-en-cisjordania/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/468cc3c9b678d3fe5e803a073eb31d54730800bb-scaled.jpg"
+      "title": "Hallan muerta a la madre del bebé rescatado con vida tras terremoto en Colombia",
+      "link": "https://laverdad.com/hallan-muerta-a-la-madre-del-bebe-rescatado-con-vida-tras-terremoto-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/3_15313520_20260815172123.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/HPznWAKW8AAv1yf-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-16T20:21:09.685Z"
+  "lastUpdate": "2026-08-16T21:19:27.340Z"
 };
