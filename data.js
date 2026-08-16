@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "871,00"
+      "usdt": "870,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cedice estima inflación de 13,50% en julio con una variación interanual de 738,79%",
-      "link": "https://www.bancaynegocios.com/cedice-estima-inflacion-de-13coma50-porciento-en-julio-con-una-variacion-interanual-de-738coma79-porciento/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/ALIMENTOS-INFLACION-CEDICE-150826.jpg"
+      "title": "Delcy Rodríguez: Venezuela acumula 21 trimestres de crecimiento económico con alza del consumo",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-venezuela-acumula-21-trimestres-de-crecimiento-economico-con-alza-del-consumo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/DELCY-RODRIGUEZ-CRECIMIENTO-ALIMENTOS.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "¿Es posible enfriar Maracaibo?: La Mega reforestación urbana como solución climática integral",
-      "link": "https://noticialdia.com/principal/es-posible-enfriar-maracaibo-la-mega-reforestacion-urbana-como-solucion-climatica-integral/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-92.webp?x74346"
+      "title": "Disparan contra camión que transportaba ayuda humanitaria a damnificados por terremoto en Colombia",
+      "link": "https://noticialdia.com/internacionales/disparan-contra-camion-que-transportaba-ayuda-humanitaria-a-damnificados-por-terremoto-en-colombia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-48.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán ofrece hasta 30.000 dólares por matar o entregar a soldados estadounidenses",
-      "link": "https://diarioversionfinal.com/mundo/iran-ofrece-hasta-30-000-dolares-por-matar-o-entregar-a-soldados-estadounidenses/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/petroleo-iranie-638x430.jpg"
+      "title": "Panamá retiene cargamento de aletas de tiburón oculto como \"buche de pescado\"",
+      "link": "https://diarioversionfinal.com/mundo/panama-retiene-cargamento-de-aletas-de-tiburon-oculto-como-buche-de-pescado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/HPznWAKW8AAv1yf-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-16T19:20:27.379Z"
+  "lastUpdate": "2026-08-16T20:21:09.685Z"
 };
