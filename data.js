@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "873,88"
+      "usdt": "873,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El Foro Penal confirmó la liberación de 72 presos políticos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/15/el-foro-penal-confirmo-la-liberacion-de-72-presos-politicos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/KBX6FRA6IZFYJOERLKWSYEBZMY.jpg?auth=e5b0267074e00b40435bd64c2d6f9dd6d5227d127ad088e8b3c63a17ab2a4518&smart=true&width=350&height=197&quality=85"
+      "title": "El general que acompañó a Hugo Chávez en sus últimos días fue removido de un cargo clave del poder militar",
+      "link": "https://www.infobae.com/venezuela/2026/08/16/el-general-que-acompano-a-hugo-chavez-en-sus-ultimos-dias-fue-removido-de-un-cargo-clave-del-poder-militar/",
+      "image": "https://www.infobae.com/resizer/v2/JF5PKPMC35E7HMP2MHZ2KOUJMM.jpg?auth=d252ef30a746b9dd4d51eb35df426ae04b9a581c96144bc73c9b70bc5fe24860&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«SALGAN AHORA O SERÁN DEPORTADOS»: EE .UU . CONFIRMÓ FIN DEL TPS PARA VENEZOLANOS",
-      "link": "https://noticierodigital.com/2026/08/salgan-ahora-o-seran-deportados-ee-uu-confirmo-fin-del-tps-para-venezolanos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/tps-venezolanos-627x376.jpg"
+      "title": "DOS ADOLESCENTES FALLECIERON EN LA VEGA TRAS FUERTES LLUVIAS ESTE SÁBADO 15A",
+      "link": "https://noticierodigital.com/2026/08/dos-adolescentes-fallecieron-en-la-vega-tras-fuertes-lluvias-este-sabado-15a/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/bomberosLaVega_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. mantiene “en efecto” la terminación del TPS para venezolanos",
-      "link": "https://laverdad.com/ee-uu-mantiene-en-efecto-la-terminacion-del-tps-para-venezolanos/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/10/bff146fa73397f15e6159188c2e1e474.jpg"
+      "title": "Papa León XIV pide frenar la violencia en Cisjordania",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-frenar-la-violencia-en-cisjordania/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/468cc3c9b678d3fe5e803a073eb31d54730800bb-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "De la Espriella pide a Trump suspender temporalmente aranceles a Colombia tras el terremoto",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-pide-a-trump-suspender-temporalmente-aranceles-a-colombia-tras-el-terremoto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-19-678x430.jpg"
+      "title": "China despliega 13 equipos de emergencia para aliviar inundaciones en Henan",
+      "link": "https://diarioversionfinal.com/mundo/china-despliega-13-equipos-de-emergencia-para-aliviar-inundaciones-en-henan/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/HPoQpriWwAIgx05-1-747x420-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-16T13:30:52.978Z"
+  "lastUpdate": "2026-08-16T14:21:53.168Z"
 };
