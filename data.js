@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "872,00"
+      "usdt": "872,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Funcionarios policiales resguardan en Milagro Norte a adolescente reportado como desaparecido",
-      "link": "https://noticialdia.com/sucesos/funcionarios-policiales-resguardan-en-milagro-norte-a-adolescente-reportado-como-desaparecido/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-41.webp?x74346"
+      "title": "Onda Tropical 37 generará lluvias y tormentas en gran parte del país",
+      "link": "https://noticialdia.com/al-dia/onda-tropical-37-generara-lluvias-y-tormentas-en-gran-parte-del-pais/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-16T122937.046.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera sobre presos políticos: Urge claridad en las cifras oficiales de liberaciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-sobre-presos-politicos-urge-claridad-en-las-cifras-oficiales-de-liberaciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-2-da6b35.png"
+      "title": "Foro Penal confirma excarcelación de 78 presos políticos en las últimas horas",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-excarcelacion-de-78-presos-politicos-en-las-ultimas-horas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logofpv-63ed6a-39eeaa.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DOS ADOLESCENTES FALLECIERON EN LA VEGA TRAS FUERTES LLUVIAS ESTE SÁBADO 15A",
-      "link": "https://noticierodigital.com/2026/08/dos-adolescentes-fallecieron-en-la-vega-tras-fuertes-lluvias-este-sabado-15a/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/bomberosLaVega_-627x376.jpg"
+      "title": "PLATAFORMA UNITARIA CUESTIONÓ RITMO DE LAS EXCARCELACIONES TRAS VERIFICAR SOLO 75",
+      "link": "https://noticierodigital.com/2026/08/plataforma-unitaria-cuestiono-ritmo-de-las-excarcelaciones-tras-verificar-solo-75/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/plataforma-unitaria-p-1-1200x640-1-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/11/cuba-apagones-protestas-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-16T16:23:47.114Z"
+  "lastUpdate": "2026-08-16T17:18:34.361Z"
 };
