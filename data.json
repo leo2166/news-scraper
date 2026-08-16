@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "873,50"
+      "usdt": "873,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Se registraron fuertes precipitaciones y tormentas eléctricas sobre Caracas",
-      "link": "https://noticialdia.com/al-dia/se-registraron-fuertes-precipitaciones-y-tormentas-electricas-sobre-caracas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-16T091033.811.webp?x74346"
+      "title": "La Vereda del Lago se llenó de velocidad y alegría con la séptima edición de la carrera infantil",
+      "link": "https://noticialdia.com/al-dia/la-vereda-del-lago-se-lleno-de-velocidad-y-alegria-con-la-septima-edicion-de-la-carrera-infantil/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-16T111559.122.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Ucrania ataca a Rusia con cientos de drones",
-      "link": "https://cnnespanol.cnn.com/2026/08/16/mundo/ucrania-rusia-drones-kyiv-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/koledino.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "A bordo del USS Abraham Lincoln tras meses de guerra e incertidumbre",
+      "link": "https://cnnespanol.cnn.com/2026/08/16/eeuu/uss-abraham-lincoln-despliegue-marineros-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/uss-abraham-lincoln-20260816122148543.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "China despliega 13 equipos de emergencia para aliviar inundaciones en Henan",
-      "link": "https://diarioversionfinal.com/mundo/china-despliega-13-equipos-de-emergencia-para-aliviar-inundaciones-en-henan/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/HPoQpriWwAIgx05-1-747x420-1.jpg"
+      "title": "Lluvias torrenciales en Japón dejan diez muertos y obligan a nuevas evacuaciones",
+      "link": "https://diarioversionfinal.com/mundo/lluvias-torrenciales-en-japon-dejan-diez-muertos-y-obligan-a-nuevas-evacuaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/s623ffu-747x420-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-16T14:21:53.168Z"
+  "lastUpdate": "2026-08-16T15:20:34.818Z"
 }
