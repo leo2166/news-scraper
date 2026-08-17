@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera sobre presos políticos: Urge claridad en las cifras oficiales de liberaciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-sobre-presos-politicos-urge-claridad-en-las-cifras-oficiales-de-liberaciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-2-da6b35.png"
+      "title": "Cecilia Sosa Gómez aboga por el respeto a la Constitución para la reestructuración institucional",
+      "link": "https://noticiasvenevision.com/noticias/politica/cecilia-sosa-gomez-aboga-por-el-respeto-a-la-constitucion-para-la-reestructuracion-institucional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_1283.jpg-15fdf5.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Asciende a 53 el número de fallecidos por el terremoto en Indonesia",
-      "link": "https://diarioversionfinal.com/mundo/asciende-a-53-el-numero-de-fallecidos-por-el-terremoto-en-indonesia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Indonesia-16-08-2026-750x430.jpeg"
+      "title": "Seúl mantiene ejercicios militares con EE. UU. pese a orden de Trump de reducirlos",
+      "link": "https://diarioversionfinal.com/mundo/seul-mantiene-ejercicios-militares-con-ee-uu-pese-a-orden-de-trump-de-reducirlos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Militares-ejercicios-USA-Seul-16-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T01:14:12.339Z"
+  "lastUpdate": "2026-08-17T02:58:54.579Z"
 };
