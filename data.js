@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "879,00"
+      "usdt": "882,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Armand Duplantis logra su cuarto título consecutivo en el Campeonato Europeo de Atletismo",
-      "link": "https://noticialdia.com/deportes/armand-duplantis-logra-su-cuarto-titulo-consecutivo-en-el-campeonato-europeo-de-atletismo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp?x74346"
+      "title": "Foro Penal reveló los nombres de 78 personas liberadas desde el 14-Ago",
+      "link": "https://noticialdia.com/al-dia/foro-penal-revelo-los-nombres-de-78-personas-liberadas-desde-el-14-ago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-1-9.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,21 +39,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal verifica 78 excarcelaciones de las 131 anunciadas por el Ejecutivo nacional",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-verifica-78-excarcelaciones-de-las-131-anunciadas-por-el-ejecutivo-nacional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_mwdke7mwdke7mwdk-d71063.jpg"
+      "title": "Dinorah Figuera agradece al diplomático estadounidense Michael Kozak su respaldo a la transición democrática en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-agradece-al-diplomatico-estadounidense-michael-kozak-su-respaldo-a-la-transicion-democratica-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/la-dinorah-1a3b21.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CANASTA ALIMENTARIA FAMILIAR AUMENTÓ 15,8% EN JULIO, SEGÚN CENDAS-FVM",
-      "link": "https://noticierodigital.com/2026/08/canasta-alimentaria-familiar-aumento-158-en-julio-segun-cendas-fvm/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2019/11/supermercado-alimentos-25nov19.jpg"
+      "title": "RAFAEL RAMÍREZ EXIGIÓ RESPUESTAS A LA DEFENSORÍA DEL PUEBLO SOBRE CRISIS ELÉCTRICA DEL ZULIA",
+      "link": "https://noticierodigital.com/2026/08/rafael-ramirez-exigio-respuestas-a-la-defensoria-del-pueblo-sobre-crisis-electrica-del-zulia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/rafaelramirez_zulia-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Madre e hijo sobrevivientes del terremoto en Colombia: “Gracias a Dios estamos con vida”",
-      "link": "https://laverdad.com/madre-e-hijo-sobrevivientes-del-terremoto-en-colombia-gracias-a-dios-estamos-con-vida/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-Dosquebradas.jpg"
+      "title": "Pareja se lanza de un cuarto piso en Cali durante el terremoto: Ella “no resistió”",
+      "link": "https://laverdad.com/pareja-se-lanza-de-un-cuarto-piso-en-cali-durante-el-terremoto-ella-no-resistio/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-Sobreviviente-Cali.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/02/Calor-Versión-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T18:38:27.348Z"
+  "lastUpdate": "2026-08-17T19:27:26.078Z"
 };
