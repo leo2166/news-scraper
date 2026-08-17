@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "874,90"
+      "usdt": "875,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "¿Espejismo o estabilización? El impacto de la brecha inflacionaria en su estrategia",
-      "link": "https://www.bancaynegocios.com/espejismo-o-estabilizacion-el-impacto-de-la-brecha-inflacionaria-en-su-estrategia/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/10/INFLACION-GLOBAL.jpg"
+      "title": "Canasta Alimentaria Familiar en julio subió más de 15% en bolívares, pero bajo 3,77% en dólares",
+      "link": "https://www.bancaynegocios.com/canasta-alimentaria-familiar-en-julio-subio-mas-de-15-porciento-en-bolivares-pero-bajo-3-con-77-porciento-en-dolares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/SupermercadoAlimentosComida.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Marabinos se arropan para no quemarse: el paradójico escudo textil contra el sol",
-      "link": "https://noticialdia.com/zulia/marabinos-se-arropan-para-no-quemarse-el-paradojico-escudo-textil-contra-el-sol/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/e630f388-4a5d-4fde-bfcd-ad962549c6a8-convertido-a-1024x720-1.webp?x74346"
+      "title": "Aroldis Chapman asegura su permanencia con los Medias Rojas de Boston para la temporada 2027",
+      "link": "https://noticialdia.com/deportes/aroldis-chapman-asegura-su-permanencia-con-los-medias-rojas-de-boston-para-la-temporada-2027/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_131455_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ARTURO PERAZA: «SI LAS REGLAS DEL JUEGO NO SE RESPETAN SOLO TENDREMOS CAPITAL GOLONDRINA»",
-      "link": "https://noticierodigital.com/2026/08/arturo-peraza-si-las-reglas-del-juego-no-se-respetan-solo-tendremos-capital-golondrina/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/padre-arturo-peraza-loyola-ucab-6may2022.jpg"
+      "title": "ARUBA RECIBE PRIMER VUELO CHÁRTER DESDE CARACAS TRAS REAPERTURA DE FRONTERA AÉREA",
+      "link": "https://noticierodigital.com/2026/08/aruba-recibe-primer-vuelo-charter-desde-caracas-tras-reapertura-de-frontera-aerea/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Gemini_Generated_Image_85dwi685dwi685dw-627x376.webp"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ELN llama a “derrocar” al gobierno de Abelardo De La Espriella y lo acusa de traición a la patria",
-      "link": "https://diarioversionfinal.com/mundo/eln-llama-a-derrocar-al-gobierno-de-abelardo-de-la-espriella-y-lo-acusa-de-traicion-a-la-patria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/eln_catatumbo_0-750x430.jpeg"
+      "title": "Ola de calor golpea a Estados Unidos con temperaturas de hasta 46 grados",
+      "link": "https://diarioversionfinal.com/mundo/ola-de-calor-golpea-a-estados-unidos-con-temperaturas-de-hasta-46-grados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/02/Calor-Versión-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T16:26:26.022Z"
+  "lastUpdate": "2026-08-17T17:26:04.217Z"
 };
