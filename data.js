@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "772,54",
-      "eur": "894,49",
-      "fechaValor": "Lunes, 17 Agosto 2026"
+      "usd": "773,31",
+      "eur": "896,03",
+      "fechaValor": "Martes, 18 Agosto 2026"
     },
     "binance": {
-      "usdt": "884,00"
+      "usdt": "887,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Onda tropical N° 38 se ubica al noroeste venezolano: Anuncian lluvias en gran parte del territorio",
-      "link": "https://noticialdia.com/al-dia/onda-tropical-n-38-se-ubica-al-noroeste-venezolano-anuncian-lluvias-en-gran-parte-del-territorio/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-5.webp?x74346"
+      "title": "Zulia activa Censo Industrial 2026 para reimpulsar el aparato productivo de la región",
+      "link": "https://noticialdia.com/al-dia/zulia-activa-censo-industrial-2026-para-reimpulsar-el-aparato-productivo-de-la-region/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-7.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Las amenazas de Trump ponen a prueba su política exterior",
-      "link": "https://cnnespanol.cnn.com/2026/08/17/eeuu/trump-politica-exterior-iran-oman-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/politica-trump-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Colombia, una semana después del terremoto",
+      "link": "https://cnnespanol.cnn.com/2026/08/17/colombia/semana-terremoto-cifras-claves-rescates-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-16t232112z-517348416-rc2yzmaa7baw-rtrmadp-3-colombia-quake.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO ELOGIÓ 1RA JORNADA DE DIÁLOGO Y DENUNCIÓ QUE OPOSICIÓN BUSCA «IMPLOSIONARLA»",
-      "link": "https://noticierodigital.com/2026/08/cabello-elogio-1ra-jornada-de-dialogo-y-denuncio-que-oposicion-busca-implosionarla/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/Diseno-sin-titulo-6-627x376.jpg"
+      "title": "GONZALO HIMIOB REPORTÓ 81 EXCARCELACIONES CONFIRMADAS POR EL FORO PENAL",
+      "link": "https://noticierodigital.com/2026/08/gonzalo-himiob-reporto-81-excarcelaciones-confirmadas-por-el-foro-penal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que Kim Jong-un respondió a sus mensajes de diálogo",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-kim-jong-un-respondio-a-sus-mensajes-de-dialogo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FWAQNpkF-images-6.jpg"
+      "title": "León XIV y Andrea Bocelli, unidos en un histórico \"Cántico de paz\"",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-y-andrea-bocelli-unidos-en-un-historico-cantico-de-paz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Bocelli-y-papa-17-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T21:25:43.758Z"
+  "lastUpdate": "2026-08-17T22:23:39.412Z"
 };
