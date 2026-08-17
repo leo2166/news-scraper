@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Foro Penal reveló los nombres de 78 personas liberadas desde el 14-Ago",
-      "link": "https://noticialdia.com/al-dia/foro-penal-revelo-los-nombres-de-78-personas-liberadas-desde-el-14-ago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-1-9.webp?x74346"
+      "title": "Rodri aterriza en Cataluña para cerrar su fichaje con el FC Barcelona: \"Jugar en el Barça es un sueño\"",
+      "link": "https://noticialdia.com/deportes/rodri-aterriza-en-cataluna-para-cerrar-su-fichaje-con-el-fc-barcelona-jugar-en-el-barca-es-un-sueno/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_153014_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "RAFAEL RAMÍREZ EXIGIÓ RESPUESTAS A LA DEFENSORÍA DEL PUEBLO SOBRE CRISIS ELÉCTRICA DEL ZULIA",
-      "link": "https://noticierodigital.com/2026/08/rafael-ramirez-exigio-respuestas-a-la-defensoria-del-pueblo-sobre-crisis-electrica-del-zulia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/rafaelramirez_zulia-627x376.jpg"
+      "title": "CEPAZ EXIGE ELEGIR NUEVOS MAGISTRADOS CON «GARANTÍAS TÉCNICAS Y CONSTITUCIONALES»",
+      "link": "https://noticierodigital.com/2026/08/cepaz-exige-elegir-nuevos-magistrados-con-garantias-tecnicas-y-constitucionales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/tsj-627x376.webp"
     },
     {
       "source": "La Verdad",
-      "title": "Pareja se lanza de un cuarto piso en Cali durante el terremoto: Ella “no resistió”",
-      "link": "https://laverdad.com/pareja-se-lanza-de-un-cuarto-piso-en-cali-durante-el-terremoto-ella-no-resistio/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-Sobreviviente-Cali.jpg"
+      "title": "Michael Kozak sale de la Oficina de Asuntos del Hemisferio Occidental",
+      "link": "https://laverdad.com/michael-kozak-sale-de-la-oficina-de-asuntos-del-hemisferio-occidental/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/04/image-2026-04-17T095909.528.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ola de calor golpea a Estados Unidos con temperaturas de hasta 46 grados",
-      "link": "https://diarioversionfinal.com/mundo/ola-de-calor-golpea-a-estados-unidos-con-temperaturas-de-hasta-46-grados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/02/Calor-Versión-Final.jpg"
+      "title": "Trump asegura que Kim Jong-un respondió a sus mensajes de diálogo",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-kim-jong-un-respondio-a-sus-mensajes-de-dialogo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FWAQNpkF-images-6.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T19:27:26.078Z"
+  "lastUpdate": "2026-08-17T20:26:33.521Z"
 };
