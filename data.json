@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 18 Agosto 2026"
     },
     "binance": {
-      "usdt": "887,00"
+      "usdt": "887,05"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "De la \"inflación en dólares\" a la \"inflación en euros\": La nueva cara del rezago cambiario",
-      "link": "https://www.bancaynegocios.com/de-la-inflacion-en-dolares-a-la-inflacion-en-euros-la-nueva-cara-del-rezago-cambiario/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/EUROS-Y-DOLARES.jpg"
+      "title": "Cañicultores piden suspender importación de azúcar ante caída de los precios internos",
+      "link": "https://www.bancaynegocios.com/canicultores-piden-suspender-importacion-de-azucar-ante-caida-de-los-precios-internos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/07/Azucar-2-1024x578-1.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Las comisiones impuestas por el Banco Central de Venezuela golpean a los consumidores más pobres",
-      "link": "https://www.infobae.com/venezuela/2026/08/17/las-comisiones-impuestas-por-el-banco-central-de-venezuela-golpean-a-los-consumidores-mas-pobres/",
-      "image": "https://www.infobae.com/resizer/v2/RHQ5WWCJLVHT7MLVFRBS7BSULY.jpg?auth=a70ae5df02d3fd5f52a7d7b8318be01ec93dbeb22d96117ffbfcf868befb1146&smart=true&width=350&height=197&quality=85"
+      "title": "Tras una semana sin datos oficiales, Venezuela elevó a 6.438 la cifra de muertos por el doble terremoto",
+      "link": "https://www.infobae.com/venezuela/2026/08/17/tras-una-semana-sin-datos-oficiales-venezuela-elevo-a-6438-la-cifra-de-muertos-por-el-doble-terremoto/",
+      "image": "https://www.infobae.com/resizer/v2/UFRBALXDEBD4VA2LC76PWDCNLU.JPG?auth=1eed3d825ebab46faf3b202cadb5437e4e1934acd36e1cc46577f1cf2d7ba2d7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Zulia activa Censo Industrial 2026 para reimpulsar el aparato productivo de la región",
-      "link": "https://noticialdia.com/al-dia/zulia-activa-censo-industrial-2026-para-reimpulsar-el-aparato-productivo-de-la-region/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-7.webp?x74346"
+      "title": "Asciende a 6 mil 438 el número de fallecidos por el doble terremoto",
+      "link": "https://noticialdia.com/principal/asciende-a-6-mil-438-el-numero-de-fallecidos-por-el-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-12-5.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera agradece al diplomático estadounidense Michael Kozak su respaldo a la transición democrática en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-agradece-al-diplomatico-estadounidense-michael-kozak-su-respaldo-a-la-transicion-democratica-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/la-dinorah-1a3b21.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez encabeza entrega de nuevas viviendas a familias afectadas por los terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-encabeza-entrega-de-nuevas-viviendas-a-familias-afectadas-por-los-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9464-2048x1638-5a5bfe.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GONZALO HIMIOB REPORTÓ 81 EXCARCELACIONES CONFIRMADAS POR EL FORO PENAL",
-      "link": "https://noticierodigital.com/2026/08/gonzalo-himiob-reporto-81-excarcelaciones-confirmadas-por-el-foro-penal/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/gonzalo-himiob-foto-archivo-28oct2021.jpg"
+      "title": "CENTROS COMERCIALES EXTENDERÁN POR OCHO SEMANAS EL PLAN DE AHORRO ELÉCTRICO",
+      "link": "https://noticierodigital.com/2026/08/centros-comerciales-extenderan-por-ocho-semanas-el-plan-de-ahorro-electrico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/centro-comercial-sambil-caracas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Bocelli-y-papa-17-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T22:23:39.412Z"
+  "lastUpdate": "2026-08-17T23:21:33.434Z"
 }
