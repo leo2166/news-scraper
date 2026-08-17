@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "875,00"
+      "usdt": "879,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Canasta Alimentaria Familiar en julio subió más de 15% en bolívares, pero bajo 3,77% en dólares",
-      "link": "https://www.bancaynegocios.com/canasta-alimentaria-familiar-en-julio-subio-mas-de-15-porciento-en-bolivares-pero-bajo-3-con-77-porciento-en-dolares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/SupermercadoAlimentosComida.jpg"
+      "title": "De la \"inflación en dólares\" a la \"inflación en euros\": La nueva cara del rezago cambiario",
+      "link": "https://www.bancaynegocios.com/de-la-inflacion-en-dolares-a-la-inflacion-en-euros-la-nueva-cara-del-rezago-cambiario/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/EUROS-Y-DOLARES.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Aroldis Chapman asegura su permanencia con los Medias Rojas de Boston para la temporada 2027",
-      "link": "https://noticialdia.com/deportes/aroldis-chapman-asegura-su-permanencia-con-los-medias-rojas-de-boston-para-la-temporada-2027/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_131455_0000.webp?x74346"
+      "title": "Armand Duplantis logra su cuarto título consecutivo en el Campeonato Europeo de Atletismo",
+      "link": "https://noticialdia.com/deportes/armand-duplantis-logra-su-cuarto-titulo-consecutivo-en-el-campeonato-europeo-de-atletismo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Vence el plazo entre EE.UU. e Irán sin acuerdo y crece la tensión por Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/08/17/mundo/live-news/guerra-eeuu-iran-en-vivo-gaza-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2288526935-20260817121618493.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Las amenazas de Trump ponen a prueba su política exterior",
+      "link": "https://cnnespanol.cnn.com/2026/08/17/eeuu/trump-politica-exterior-iran-oman-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/politica-trump-iran.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ARUBA RECIBE PRIMER VUELO CHÁRTER DESDE CARACAS TRAS REAPERTURA DE FRONTERA AÉREA",
-      "link": "https://noticierodigital.com/2026/08/aruba-recibe-primer-vuelo-charter-desde-caracas-tras-reapertura-de-frontera-aerea/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Gemini_Generated_Image_85dwi685dwi685dw-627x376.webp"
+      "title": "CANASTA ALIMENTARIA FAMILIAR AUMENTÓ 15,8% EN JULIO, SEGÚN CENDAS-FVM",
+      "link": "https://noticierodigital.com/2026/08/canasta-alimentaria-familiar-aumento-158-en-julio-segun-cendas-fvm/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/11/supermercado-alimentos-25nov19.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2018/02/Calor-Versión-Final.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T17:26:04.217Z"
+  "lastUpdate": "2026-08-17T18:38:27.348Z"
 }
