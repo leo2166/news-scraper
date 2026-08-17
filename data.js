@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-16-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-17T07:52:31.833Z"
+  "lastUpdate": "2026-08-17T08:42:20.681Z"
 };
