@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "870,00"
+      "usdt": "870,81"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-16-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-17T08:42:20.681Z"
+  "lastUpdate": "2026-08-17T09:40:31.033Z"
 };
