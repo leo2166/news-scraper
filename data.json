@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "871,00"
+      "usdt": "870,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Murió la madre del bebé que fue rescatado de los escombros en Cali",
-      "link": "https://cnnespanol.cnn.com/2026/08/11/colombia/susurro-escombros-rescate-bebe-terremoto-cali-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-editado.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Dos visiones de EE.UU. emergen mientras se acercan las elecciones intermedias",
+      "link": "https://cnnespanol.cnn.com/2026/08/17/eeuu/analisis-dos-visiones-elecciones-intermedias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-nueva-jersey-16-agosto-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-16-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-17T05:34:10.066Z"
+  "lastUpdate": "2026-08-17T06:54:05.930Z"
 }
