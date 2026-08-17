@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "869,90"
+      "usdt": "870,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Maracaibo reporta balance positivo tras leves lluvias registradas este domingo 16-Ag",
-      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-reporta-balance-positivo-tras-leves-lluvias-registradas-este-domingo-16-ag/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-57.webp?x74346"
+      "title": "Presuntos celos habrían motivado asesinato de joven zuliano en San Martín de Loba",
+      "link": "https://noticialdia.com/al-dia/presuntos-celos-habrian-motivado-asesinato-de-joven-zuliano-en-san-martin-de-loba/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-28-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ocho países acusan a Israel de obstaculizar el plan de paz para Gaza",
-      "link": "https://diarioversionfinal.com/mundo/ocho-paises-acusan-a-israel-de-obstaculizar-el-plan-de-paz-para-gaza/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/03/Franja-de-Gaza-25-03-2024-750x430.jpg"
+      "title": "Asciende a 53 el número de fallecidos por el terremoto en Indonesia",
+      "link": "https://diarioversionfinal.com/mundo/asciende-a-53-el-numero-de-fallecidos-por-el-terremoto-en-indonesia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Indonesia-16-08-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-16T23:19:14.032Z"
+  "lastUpdate": "2026-08-17T01:14:12.339Z"
 };
