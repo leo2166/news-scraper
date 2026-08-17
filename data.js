@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "870,00"
+      "usdt": "868,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que EE.UU. reducirá los ejercicios militares con Corea del Sur",
-      "link": "https://cnnespanol.cnn.com/2026/08/16/mundo/trump-eeuu-reducira-ejercicios-militares-corea-sur-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/15df6185-f500-44e9-8ee6-ced9c0ac972b.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump le hace un repentino regalo a Kim Jong Un",
+      "link": "https://cnnespanol.cnn.com/2026/08/17/mundo/analisis-trump-regalo-kim-jong-un-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-y-kim.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Terremoto-Colombia-16-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-17T10:31:39.620Z"
+  "lastUpdate": "2026-08-17T11:24:48.701Z"
 };
