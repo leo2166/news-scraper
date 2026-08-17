@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 17 Agosto 2026"
     },
     "binance": {
-      "usdt": "868,00"
+      "usdt": "872,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez: Venezuela acumula 21 trimestres de crecimiento económico con alza del consumo",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-venezuela-acumula-21-trimestres-de-crecimiento-economico-con-alza-del-consumo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/DELCY-RODRIGUEZ-CRECIMIENTO-ALIMENTOS.jpg"
+      "title": "¿Espejismo o estabilización? El impacto de la brecha inflacionaria en su estrategia",
+      "link": "https://www.bancaynegocios.com/espejismo-o-estabilizacion-el-impacto-de-la-brecha-inflacionaria-en-su-estrategia/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/10/INFLACION-GLOBAL.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Exigen acuerdo político que garantice la independencia del sistema de justicia en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/17/exigen-acuerdo-politico-que-garantice-la-independencia-del-sistema-de-justicia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/HZCWO3A62FDUBFKQBYEGHXUJX4.jpg?auth=442b27cbec8a9dd0cd2886977928023d6d18f90302c9a9e468f6af98b0ca0bb0&smart=true&width=350&height=197&quality=85"
+      "title": "Las comisiones impuestas por el Banco Central de Venezuela golpean a los consumidores más pobres",
+      "link": "https://www.infobae.com/venezuela/2026/08/17/las-comisiones-impuestas-por-el-banco-central-de-venezuela-golpean-a-los-consumidores-mas-pobres/",
+      "image": "https://www.infobae.com/resizer/v2/RHQ5WWCJLVHT7MLVFRBS7BSULY.jpg?auth=a70ae5df02d3fd5f52a7d7b8318be01ec93dbeb22d96117ffbfcf868befb1146&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "João Cancelo aterriza en Cataluña para concretar su tercera etapa con Barcelona",
-      "link": "https://noticialdia.com/deportes/joao-cancelo-aterriza-en-cataluna-para-concretar-su-tercera-etapa-con-barcelona/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_101856_0000.webp?x74346"
+      "title": "Aterriza en Aruba el primer vuelo chárter procedente de Venezuela para reactivar la conexión aérea",
+      "link": "https://noticialdia.com/al-dia/aterriza-en-aruba-el-primer-vuelo-charter-procedente-de-venezuela-para-reactivar-la-conexion-aerea/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Gemini_Generated_Image_85dwi685dwi685dw.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HABITANTES DE OCUMARE DE LA COSTA EXIGEN PLAN DE EMERGENCIA ANTE COLAPSO DE SERVICIOS PÚBLICOS",
-      "link": "https://noticierodigital.com/2026/08/habitantes-de-ocumare-de-la-costa-exigen-plan-de-emergencia-ante-colapso-de-servicios-publicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/ocumaredelacosta-627x376.jpg"
+      "title": "ASDRÚBAL OLIVEROS: EL NIÑO PUEDE AFECTAR UNA PRODUCCIÓN AGRÍCOLA QUE SIGUE SIENDO PRECARIA",
+      "link": "https://noticierodigital.com/2026/08/asdrubal-oliveros-el-nino-puede-afectar-una-produccion-agricola-que-sigue-siendo-precaria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/maquinaria-agricola-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Hallan muerta a la madre del bebé rescatado con vida tras terremoto en Colombia",
-      "link": "https://laverdad.com/hallan-muerta-a-la-madre-del-bebe-rescatado-con-vida-tras-terremoto-en-colombia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/3_15313520_20260815172123.jpg"
+      "title": "Madre e hijo sobrevivientes del terremoto en Colombia : “Gracias a Dios estamos con vida”",
+      "link": "https://laverdad.com/madre-e-hijo-sobrevivientes-del-terremoto-en-colombia-gracias-a-dios-estamos-con-vida/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-Dosquebradas.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump afirma que existe un canal secreto de diálogo con Irán",
-      "link": "https://diarioversionfinal.com/mundo/trump-afirma-que-existe-un-canal-secreto-de-dialogo-con-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/trump-says-hes-considering-nato-exit-amid-rift-over-iran-war-v0-k0ligkZSMS6p-ovAC8OYlZJa0lsCD6fshXq_gaYOWMw-750x430.webp"
+      "title": "El “Bolichico” Alejandro Betancourt tienta su suerte con Trump en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/el-bolichico-alejandro-betancourt-tienta-su-suerte-con-trump-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/Alejandro-Betancourt-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-17T14:27:09.845Z"
+  "lastUpdate": "2026-08-17T15:24:13.187Z"
 };
