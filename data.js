@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2019/01/venezolanos-en-miami.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T07:37:08.833Z"
+  "lastUpdate": "2026-08-18T08:35:51.329Z"
 };
