@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "814,00"
+      "usdt": "820,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Con apagones y altos impuestos, producción industrial creció 8,1% interanual en el primer semestre",
-      "link": "https://www.bancaynegocios.com/con-apagones-y-altos-impuestos-produccion-industrial-crecio-8coma1-porciento-interanual-en-el-primer-semestre/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/CONINDUSTRIA-RESULTADOS-II-TRIMESTRE-2026-180826.jpeg"
+      "title": "BCV: PIB de Venezuela aumentó 7,14% interanual en el segundo trimestre",
+      "link": "https://www.bancaynegocios.com/bcv-pib-de-venezuela-aumento-714-interanual-en-el-segundo-trimestre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/12/BANCO-CENTRAL-DE-VENEZUELA-BCV-NVA.png"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Explosión de 2 transformadores dejó sin energía eléctrica a 432 familias en el conjunto residencial Torres del Saladillo: Llevan 3 días esperando respuesta",
-      "link": "https://noticialdia.com/zulia/servicio-publico/explosion-de-2-transformadores-dejo-sin-energia-electrica-a-432-familias-en-el-conjunto-residencial-torres-del-saladillo-llevan-3-dias-esperando-respuesta/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/d8287cfa-fe9b-498f-987f-7d7d1a5c488b-convertido-a-1024x720-1.webp?x74346"
+      "title": "Gobernador Luis Caldera inicia trabajos de rehabilitación integral en el Hospital Senén Castillo Reverol de Santa Rita",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-inicia-trabajos-de-rehabilitacion-integral-en-el-hospital-senen-castillo-reverol-de-santa-rita/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-10.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "\"Una persona controla nuestro destino\": los republicanos y el dilema de la guerra con Irán",
-      "link": "https://cnnespanol.cnn.com/2026/08/18/eeuu/republicanos-elecciones-intermedias-miedos-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26229039423387-20260818115418624.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Irán está perdiendo el control del estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/08/18/mundo/iran-perdiendo-control-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-20260818201713538.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ABELARDO-DE-LA-ESPRIELLA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T20:23:05.331Z"
+  "lastUpdate": "2026-08-18T21:23:24.024Z"
 };
