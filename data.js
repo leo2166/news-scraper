@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 18 Agosto 2026"
     },
     "binance": {
-      "usdt": "890,00"
+      "usdt": "899,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cayeron tres sujetos con marihuana en operativos del Cpbez en Maracaibo, San Francisco y Catatumbo",
-      "link": "https://noticialdia.com/sucesos/cayeron-tres-sujetos-con-marihuana-en-operativos-del-cpbez-en-maracaibo-san-francisco-y-catatumbo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-18T142645.079.webp?x74346"
+      "title": "Zulia fortalece la atención quirúrgica con 214 pacientes operados durante una semana",
+      "link": "https://noticialdia.com/?p=656185",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Abogado Alí Daniels: Designación de Comité de Postulaciones Judiciales debe cumplir con la Constitución",
-      "link": "https://noticiasvenevision.com/noticias/politica/abogado-ali-daniels-designacion-de-comite-de-postulaciones-judiciales-debe-cumplir-con-la-constitucion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_mjbxxzmjbxxzmjbx-af899c.jpg"
+      "title": "Provea pide al Estado publicar un registro digital de excarcelaciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/provea-pide-al-estado-publicar-un-registro-digital-de-excarcelaciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_bvony0bvony0bvon-6fde81.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. SANCIONA A LA PRESIDENTA DE LA CPI TAMOKO AKANE",
-      "link": "https://noticierodigital.com/2026/08/ee-uu-sanciona-a-la-presidenta-de-la-cpi-tamoko-akane/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Tomoko-Akane-1-627x376.png"
+      "title": "BACHILLERES CON MEJORES PROMEDIOS TENDRÁN CUPOS GARANTIZADOS EN UNIVERSIDADES, SEGÚN GOBIERNO",
+      "link": "https://noticierodigital.com/2026/08/bachilleres-con-mejores-promedios-tendran-cupos-garantizados-en-universidades-segun-gobierno/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcybachilleres-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Hombre que sobrevivió 35 horas en Cali: “Dios mío, salgo de aquí vivo y cambio mi vida”",
-      "link": "https://laverdad.com/hombre-que-sobrevivio-35-horas-en-cali-dios-mio-salgo-de-aqui-vivo-y-cambio-mi-vida/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-rescate-Cali.jpg"
+      "title": "Condenan a venezolano que robó joyería en Denver por orden del “Tren de Aragua”",
+      "link": "https://laverdad.com/condenan-a-venezolano-que-robo-joyeria-en-denver-por-orden-del-tren-de-aragua/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Condenan-a-venezolano-que-robo-joyeria-en-Denver-por-orden-del-Tren-de-Aragua.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum niega investigación contra hijo de López Obrador por presunto contrabando de combustibles",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-niega-investigacion-contra-hijo-de-lopez-obrador-por-presunto-contrabando-de-combustibles/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/sheinbaum-defiende-declaraciones-sobre-expropiaciones-en-campeche-y-senala-derecho-de-defensa-de-moreno_307ddb8e-8728-4108-96a9-c85412a420b1_medialjnimgndimagefullsize-750x430.webp"
+      "title": "De la Espriella afirma que EE. UU. está dispuesto a suspender aranceles a Colombia tras terremoto",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-afirma-que-ee-uu-esta-dispuesto-a-suspender-aranceles-a-colombia-tras-terremoto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ABELARDO-DE-LA-ESPRIELLA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T18:37:20.991Z"
+  "lastUpdate": "2026-08-18T19:28:39.889Z"
 };
