@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "773,31",
-      "eur": "896,03",
-      "fechaValor": "Martes, 18 Agosto 2026"
+      "usd": "775,34",
+      "eur": "897,82",
+      "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "899,00"
+      "usdt": "814,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Zulia fortalece la atención quirúrgica con 214 pacientes operados durante una semana",
-      "link": "https://noticialdia.com/?p=656185",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
+      "title": "Explosión de 2 transformadores dejó sin energía eléctrica a 432 familias en el conjunto residencial Torres del Saladillo: Llevan 3 días esperando respuesta",
+      "link": "https://noticialdia.com/zulia/servicio-publico/explosion-de-2-transformadores-dejo-sin-energia-electrica-a-432-familias-en-el-conjunto-residencial-torres-del-saladillo-llevan-3-dias-esperando-respuesta/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/d8287cfa-fe9b-498f-987f-7d7d1a5c488b-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Provea pide al Estado publicar un registro digital de excarcelaciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/provea-pide-al-estado-publicar-un-registro-digital-de-excarcelaciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_bvony0bvony0bvon-6fde81.jpg"
+      "title": "Gobierno encargado y Comité Internacional de la Cruz Roja coordinan acciones para evaluar y optimizar el sistema penitenciario",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-encargado-y-comite-internacional-de-la-cruz-roja-coordinan-acciones-para-evaluar-y-optimizar-el-sistema-penitenciario",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_774970380_18589434013070571_236011639037952714_n-478169.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BACHILLERES CON MEJORES PROMEDIOS TENDRÁN CUPOS GARANTIZADOS EN UNIVERSIDADES, SEGÚN GOBIERNO",
-      "link": "https://noticierodigital.com/2026/08/bachilleres-con-mejores-promedios-tendran-cupos-garantizados-en-universidades-segun-gobierno/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcybachilleres-627x376.jpg"
+      "title": "CICR TRABAJARÁ EN COORDINACIÓN CON VENEZUELA PARA CONSTATAR AVANCES EN LA ATENCIÓN A RECLUSOS EN LAS CÁRCELES",
+      "link": "https://noticierodigital.com/2026/08/cicr-trabajara-en-coordinacion-con-venezuela-para-constatar-avances-en-la-atencion-a-reclusos-en-las-carceles/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/HQBFPuVWMAAjse2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ABELARDO-DE-LA-ESPRIELLA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T19:28:39.889Z"
+  "lastUpdate": "2026-08-18T20:23:05.331Z"
 };
