@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 18 Agosto 2026"
     },
     "binance": {
-      "usdt": "888,99"
+      "usdt": "888,40"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2019/01/venezolanos-en-miami.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T09:32:42.757Z"
+  "lastUpdate": "2026-08-18T10:27:39.787Z"
 };
