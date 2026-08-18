@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "820,00"
+      "usdt": "904,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "BCV: PIB de Venezuela aumentó 7,14% interanual en el segundo trimestre",
-      "link": "https://www.bancaynegocios.com/bcv-pib-de-venezuela-aumento-714-interanual-en-el-segundo-trimestre/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/12/BANCO-CENTRAL-DE-VENEZUELA-BCV-NVA.png"
+      "title": "Inician pago del \"Ingreso Integral de los Trabajadores\" de agosto a jubilados (+Detalles)",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-ingreso-integral-de-los-trabajadores-de-agosto-a-jubilados-detalles/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera inicia trabajos de rehabilitación integral en el Hospital Senén Castillo Reverol de Santa Rita",
-      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-inicia-trabajos-de-rehabilitacion-integral-en-el-hospital-senen-castillo-reverol-de-santa-rita/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-10.webp?x74346"
+      "title": "¿Vendrá la lluvia o no? Densos nubarrones tiñen de gris el cielo marabino este martes 18-Ago",
+      "link": "https://noticialdia.com/al-dia/vendra-la-lluvia-o-no-densos-nubarrones-tinen-de-gris-el-cielo-marabino-este-martes-18-ago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-8-10.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "CICR TRABAJARÁ EN COORDINACIÓN CON VENEZUELA PARA CONSTATAR AVANCES EN LA ATENCIÓN A RECLUSOS EN LAS CÁRCELES",
-      "link": "https://noticierodigital.com/2026/08/cicr-trabajara-en-coordinacion-con-venezuela-para-constatar-avances-en-la-atencion-a-reclusos-en-las-carceles/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/HQBFPuVWMAAjse2-627x376.jpg"
+      "title": "MURIÓ OTRO PRESO BAJO CUSTODIA EN CÁRCEL DE ANZOÁTEGUI, DENUNCIÓ OVP",
+      "link": "https://noticierodigital.com/2026/08/murio-otro-preso-bajo-custodia-en-carcel-de-anzoategui-denuncio-ovp/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Centro-Penitenciario-Agroproductivo-Barcelona-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ABELARDO-DE-LA-ESPRIELLA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T21:23:24.024Z"
+  "lastUpdate": "2026-08-18T22:22:39.438Z"
 }
