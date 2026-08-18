@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 18 Agosto 2026"
     },
     "binance": {
-      "usdt": "888,00"
+      "usdt": "890,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Alcalde venezolano busca apoyo del Banco Mundial para la recuperación tras los sismos",
-      "link": "https://www.bancaynegocios.com/alcalde-venezolano-busca-apoyo-del-banco-mundial-para-recuperacion-tras-los-sismos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/GustavoDuqueBancoMundial.jpg"
+      "title": "Con apagones y altos impuestos, producción industrial creció 8,1% interanual en el primer semestre",
+      "link": "https://www.bancaynegocios.com/con-apagones-y-altos-impuestos-produccion-industrial-crecio-8coma1-porciento-interanual-en-el-primer-semestre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/CONINDUSTRIA-RESULTADOS-II-TRIMESTRE-2026-180826.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Así quedó registrado el nuevo sismo de magnitud 4.0 en Caracas y La Guaira",
-      "link": "https://noticialdia.com/principal/asi-quedo-registrado-el-nuevo-sismo-de-magnitud-4-0-en-caracas-y-la-guaira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-18T125703.268.webp?x74346"
+      "title": "Cayeron tres sujetos con marihuana en operativos del Cpbez en Maracaibo, San Francisco y Catatumbo",
+      "link": "https://noticialdia.com/sucesos/cayeron-tres-sujetos-con-marihuana-en-operativos-del-cpbez-en-maracaibo-san-francisco-y-catatumbo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-18T142645.079.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "David Uzcátegui exige eliminar el Sistema Patria y transferir pagos a la banca nacional",
-      "link": "https://noticiasvenevision.com/noticias/politica/david-uzcategui-exige-eliminar-el-sistema-patria-y-transferir-pagos-a-la-banca-nacional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_g856psg856psg856-42a7e3.jpg"
+      "title": "Abogado Alí Daniels: Designación de Comité de Postulaciones Judiciales debe cumplir con la Constitución",
+      "link": "https://noticiasvenevision.com/noticias/politica/abogado-ali-daniels-designacion-de-comite-de-postulaciones-judiciales-debe-cumplir-con-la-constitucion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_mjbxxzmjbxxzmjbx-af899c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRAS DOS AÑOS DE SUSPENSIÓN: AEROLÍNEAS ARGENTINAS VOLVIÓ A SOBREVOLAR VENEZUELA",
-      "link": "https://noticierodigital.com/2026/08/tras-dos-anos-de-suspension-aerolineas-argentinas-volvio-a-sobrevolar-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/aerolineasargentinas_-627x376.jpg"
+      "title": "EE. UU. SANCIONA A LA PRESIDENTA DE LA CPI TAMOKO AKANE",
+      "link": "https://noticierodigital.com/2026/08/ee-uu-sanciona-a-la-presidenta-de-la-cpi-tamoko-akane/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Tomoko-Akane-1-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Busca a su hermano bajo los escombros en Pereira tras perder a su familia en La Guaira",
-      "link": "https://laverdad.com/busca-a-su-hermano-bajo-los-escombros-en-pereira-tras-perder-a-su-familia-en-la-guaira/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-venezolano.jpg"
+      "title": "Hombre que sobrevivió 35 horas en Cali: “Dios mío, salgo de aquí vivo y cambio mi vida”",
+      "link": "https://laverdad.com/hombre-que-sobrevivio-35-horas-en-cali-dios-mio-salgo-de-aqui-vivo-y-cambio-mi-vida/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-rescate-Cali.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump alimenta agenda del caos en política exterior: Ahora apunta contra Omán y Corea del Sur",
-      "link": "https://diarioversionfinal.com/mundo/trump-alimenta-agenda-del-caos-en-politica-exterior-ahora-apunta-contra-oman-y-corea-del-sur/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Trump-13-07-2026-750x430.webp"
+      "title": "Sheinbaum niega investigación contra hijo de López Obrador por presunto contrabando de combustibles",
+      "link": "https://diarioversionfinal.com/mundo/sheinbaum-niega-investigacion-contra-hijo-de-lopez-obrador-por-presunto-contrabando-de-combustibles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/11/sheinbaum-defiende-declaraciones-sobre-expropiaciones-en-campeche-y-senala-derecho-de-defensa-de-moreno_307ddb8e-8728-4108-96a9-c85412a420b1_medialjnimgndimagefullsize-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-18T17:27:09.153Z"
+  "lastUpdate": "2026-08-18T18:37:20.991Z"
 };
