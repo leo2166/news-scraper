@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 18 Agosto 2026"
     },
     "binance": {
-      "usdt": "887,30"
+      "usdt": "886,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Comisión Presidencial ha realizado 59 mil inspecciones para evaluar habitabilidad de infraestructuras tras el doble terremoto: Más de 10 mil están en rojo",
-      "link": "https://noticialdia.com/principal/comision-presidencial-ha-realizado-59-mil-inspecciones-para-evaluar-habitabilidad-de-infraestructuras-tras-el-doble-terremoto-mas-de-10-mil-estan-en-rojo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-13-6.webp?x74346"
+      "title": "Simeone se pronuncia sobre el futuro de Julián Álvarez: \"El dueño del club fue tajante, no hay más\"",
+      "link": "https://noticialdia.com/deportes/simeone-se-pronuncia-sobre-el-futuro-de-julian-alvarez-el-dueno-del-club-fue-tajante-no-hay-mas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260818_082925_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DETUVIERON EN TEXAS A OSWALDO PIRELA, EXGRANDELIGA VENEZOLANO VINCULADO A LOS PADRES",
-      "link": "https://noticierodigital.com/2026/08/detuvieron-en-texas-a-oswaldo-pirela-exgrandeliga-venezolano-vinculado-a-los-padres/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/oswaldo-pirela-padres-de-san-diego-627x376.jpg"
+      "title": "ANSA REPORTÓ APERTURA DE NUEVOS SUPERMERCADOS: VAN 56 EN 2026",
+      "link": "https://noticierodigital.com/2026/08/ansa-reporto-apertura-de-nuevos-supermercados-van-56-en-2026/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/supermercadoss-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Michael Kozak sale de la Oficina de Asuntos del Hemisferio Occidental",
-      "link": "https://laverdad.com/michael-kozak-sale-de-la-oficina-de-asuntos-del-hemisferio-occidental/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/04/image-2026-04-17T095909.528.jpg"
+      "title": "De la Espriella rebaja a 289 los muertos por el terremoto en Colombia",
+      "link": "https://laverdad.com/de-la-espriella-rebaja-a-289-los-muertos-por-el-terremoto-en-colombia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-3.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Venezolanos en Miami impulsan campaña para pedir a Trump una salida forzosa diferida por 18 meses",
-      "link": "https://diarioversionfinal.com/mundo/venezolanos-en-miami-impulsan-campana-para-pedir-a-trump-una-salida-forzosa-diferida-por-18-meses/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2019/01/venezolanos-en-miami.jpg"
+      "title": "Sismo de magnitud 4,7 sacude Granada y deja tres heridos leves",
+      "link": "https://diarioversionfinal.com/mundo/sismo-de-magnitud-47-sacude-granada-y-deja-tres-heridos-leves/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/05/sismo-30-de-enero-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T11:24:45.728Z"
+  "lastUpdate": "2026-08-18T12:43:54.352Z"
 };
