@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "908,00"
+      "usdt": "905,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Ministra de hidrocarburos Paula Henao asistirá a un evento en Houston con empresas estadounidenses: Podría concretar firma de nuevos acuerdos",
-      "link": "https://noticialdia.com/principal/ministra-de-hidrocarburos-paula-henao-asistira-a-un-evento-en-houston-con-empresas-estadounidenses-podria-concretar-firma-de-nuevos-acuerdo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-19-2.webp?x74346"
+      "title": "La Copa Aguafiel arrancó en Pádel Maracaibo con espíritu deportivo y solidario",
+      "link": "https://noticialdia.com/al-dia/la-copa-aguafiel-arranco-en-padel-maracaibo-con-espiritu-deportivo-y-solidario/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/20260819_011510_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Maniobras-USA-Corea-del-Sur-18-08-2026-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T03:48:38.315Z"
+  "lastUpdate": "2026-08-19T05:29:33.900Z"
 };
