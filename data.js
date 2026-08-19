@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Maniobras-USA-Corea-del-Sur-18-08-2026-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T10:28:31.601Z"
+  "lastUpdate": "2026-08-19T11:24:27.276Z"
 };
