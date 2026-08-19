@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "910,00"
+      "usdt": "910,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "La Copa Aguafiel arrancó en Pádel Maracaibo con espíritu deportivo y solidario",
-      "link": "https://noticialdia.com/al-dia/la-copa-aguafiel-arranco-en-padel-maracaibo-con-espiritu-deportivo-y-solidario/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/20260819_011510_0000.webp?x74346"
+      "title": "Nick Kyrgios fue suspendido provisionalmente tras dar positivo por un metabolito de cocaína",
+      "link": "https://noticialdia.com/?p=656400",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. Y VENEZUELA PROFUNDIZARON SU INTERCAMBIO DE CRUDO PESADO Y NAFTA",
-      "link": "https://noticierodigital.com/2026/08/ee-uu-y-venezuela-profundizaron-su-intercambio-de-crudo-pesado-y-nafta/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/petrolero-maracaibo-venezuela-627x376.jpg"
+      "title": "DATANALISIS: 59,3% DE LOS VENEZOLANOS REPORTÓ ANSIEDAD O ESTRÉS POSTERIOR A LOS SISMOS",
+      "link": "https://noticierodigital.com/2026/08/datanalisis-593-de-los-venezolanos-reporto-ansiedad-o-estres-posterior-a-los-sismos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-terremotos-la-guaira-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Maniobras-USA-Corea-del-Sur-18-08-2026-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T11:24:27.276Z"
+  "lastUpdate": "2026-08-19T12:45:18.292Z"
 };
