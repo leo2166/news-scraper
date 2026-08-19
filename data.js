@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "910,90"
+      "usdt": "911,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inician pago del \"Ingreso Integral de los Trabajadores\" de agosto a jubilados (+Detalles)",
-      "link": "https://www.bancaynegocios.com/inician-pago-del-ingreso-integral-de-los-trabajadores-de-agosto-a-jubilados-detalles/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Sector Financiero y Seguros junto con Construcción lideraron crecimiento económico del segundo trimestre",
+      "link": "https://www.bancaynegocios.com/sector-financiero-y-seguros-junto-con-construccion-lideraron-crecimiento-economico-del-segundo-trimestre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/PIB-TENDENCIA-BCV.jpg"
     },
     {
       "source": "Infobae",
-      "title": "ONG denuncian ante Naciones Unidas el aumento de las restricciones a la libertad de expresión en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/18/ong-denuncian-ante-naciones-unidas-el-aumento-de-las-restricciones-a-la-libertad-de-expresion-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/BUOGM74QB5DEBCELKUBVMWYY7E.jpg?auth=d448d8f8e5727fd601f02171d0531a2d6b6ff296326d7e44c89843e1f4e42336&smart=true&width=350&height=197&quality=85"
+      "title": "La economía de Venezuela creció 7,14 % en el segundo trimestre de 2026 impulsada por el repunte petrolero",
+      "link": "https://www.infobae.com/venezuela/2026/08/19/la-economia-de-venezuela-crecio-714-en-el-segundo-trimestre-de-2026-impulsada-por-el-repunte-petrolero/",
+      "image": "https://www.infobae.com/resizer/v2/N3ZT33KW65MP76LNGNU7YEOATA.jpg?auth=8b62d2276da03c2c6869d4cb13318d35db6ca1173f132704f47eff166fbd616c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "¿Vendrá la lluvia o no? Densos nubarrones tiñen de gris el cielo marabino este martes 18-Ago",
-      "link": "https://noticialdia.com/al-dia/vendra-la-lluvia-o-no-densos-nubarrones-tinen-de-gris-el-cielo-marabino-este-martes-18-ago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-8-10.webp?x74346"
+      "title": "EEUU entregó 20 maquinarias pesadas para acelerar la recolección de escombros y reconectar comunidades aisladas tras el doble terremoto",
+      "link": "https://noticialdia.com/principal/eeuu-entrego-20-maquinarias-pesadas-para-acelerar-la-recoleccion-de-escombros-y-reconectar-comunidades-aisladas-tras-el-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-14-6.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán está perdiendo el control del estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/08/18/mundo/iran-perdiendo-control-estrecho-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estrecho-20260818201713538.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Se define la contienda por la gobernación de Florida",
+      "link": "https://cnnespanol.cnn.com/2026/08/18/eeuu/byron-donalds-david-jolly-primarias-florida-gobernacion-proyecta-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260818-jolly-donalds-20260819005705238.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ASEGURÓ QUE LA EDUCACIÓN DEBE IMPULSAR «LA VENEZUELA QUE RENACE»",
-      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-aseguro-que-la-educacion-debe-impulsar-la-venezuela-que-renace/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcy-rodriguez-venezuela-pp-627x376.jpg"
+      "title": "BP SE SUMÓ A TRAFIGURA Y VITOL EN LA COMERCIALIZACIÓN DIRECTA DE PETRÓLEO VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/08/bp-se-sumo-a-trafigura-y-vitol-en-la-comercializacion-directa-de-petroleo-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/BP-logo-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De la Espriella afirma que EE. UU. está dispuesto a suspender aranceles a Colombia tras terremoto",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-afirma-que-ee-uu-esta-dispuesto-a-suspender-aranceles-a-colombia-tras-terremoto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ABELARDO-DE-LA-ESPRIELLA-750x430.jpg"
+      "title": "De La Espriella entrega informe sobre presunta corrupción del gobierno de Petro",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-entrega-informe-sobre-presunta-corrupcion-del-gobierno-de-petro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/De-La-Espriella-Petro-18-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-18T23:22:05.824Z"
+  "lastUpdate": "2026-08-19T01:12:57.929Z"
 };
