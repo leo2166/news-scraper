@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "905,00"
+      "usdt": "910,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Se define la contienda por la gobernación de Florida",
-      "link": "https://cnnespanol.cnn.com/2026/08/18/eeuu/byron-donalds-david-jolly-primarias-florida-gobernacion-proyecta-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260818-jolly-donalds-20260819005705238.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Otra gran victoria para la izquierda radical demócrata",
+      "link": "https://cnnespanol.cnn.com/2026/08/19/eeuu/conclusiones-primarias-florida-alaska-wyoming-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260819055356630.Jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Maniobras-USA-Corea-del-Sur-18-08-2026-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T05:29:33.900Z"
+  "lastUpdate": "2026-08-19T06:42:15.060Z"
 };
