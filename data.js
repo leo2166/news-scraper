@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Luis Lara conecta su primer jonrón en MLB en la paliza histórica de Cerveceros sobre Marineros",
-      "link": "https://noticialdia.com/deportes/luis-lara-conecta-su-primer-jonron-en-mlb-en-la-paliza-historica-de-cerveceros-sobre-marineros/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260819_110128_0000.webp?x74346"
+      "title": "Maracaibo se alista para el \"Play Ball\": Águilas recibiría a Leones en el inicio de la LVBP 2026-2027",
+      "link": "https://noticialdia.com/deportes/maracaibo-se-alista-para-el-play-ball-aguilas-recibiria-a-leones-en-el-inicio-de-la-lvbp-2026-2027/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260819_120806_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Gran victoria para los socialistas democráticos en Florida",
-      "link": "https://cnnespanol.cnn.com/2026/08/19/eeuu/conclusiones-primarias-florida-alaska-wyoming-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260819055356630.Jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Detenciones de ICE en aeropuertos ponen en alerta a inmigrantes en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/08/19/eeuu/aeropuertos-temor-migrantes-abogados-ice-detenciones-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267773645.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE.UU. en Caracas recibe maquinaria para labores de reconstrucción tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-recibe-maquinaria-para-labores-de-reconstruccion-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hoy-ee.uu.-entreg-veinte-maquinarias-pesadas-teleoperadas-en-coordinacin-con-la-empresa-estado-b690ad.jpg"
+      "title": "Dinorah Figuera destaca ayuda humanitaria de EE.UU. para la remoción de escombros en La Guaira",
+      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-destaca-ayuda-humanitaria-de-eeuu-para-la-remocion-de-escombros-en-la-guaira",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/732043a3a801f9db56a3541003d5ecb1c403755bw-860x573-1-f74039.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNITED AIRLINES RETRASÓ REANUDACIÓN DE SU RUTA HOUSTON-CARACAS HASTA ENERO DE 2027",
-      "link": "https://noticierodigital.com/2026/08/united-airlines-retraso-reanudacion-de-su-ruta-houston-caracas-hasta-enero-de-2027/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Unitedairlines-627x376.jpg"
+      "title": "EE .UU. CONFIRMÓ QUE DEPORTARÁ AL EXPELOTERO VENEZOLANO OSWALDO PIRELA",
+      "link": "https://noticierodigital.com/2026/08/ee-uu-confirmo-que-deportara-al-expelotero-venezolano-oswaldo-pirela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/peloterovenezolanoICE-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio toma fuerza de cara a una posible campaña presidencial",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-toma-fuerza-de-cara-a-una-posible-campana-presidencial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/02/Marco-Rubio-secretario-de-Estado-de-EE.-UU.--750x430.webp"
+      "title": "Gobierno de EE. UU. deportará a Venezuela al exbeisbolista Oswaldo Pirela",
+      "link": "https://diarioversionfinal.com/mundo/gobierno-de-ee-uu-deportara-a-venezuela-al-exbeisbolista-oswaldo-pirela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Sin-titulo-4.jpg-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-19T15:31:22.827Z"
+  "lastUpdate": "2026-08-19T16:31:04.045Z"
 };
