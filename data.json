@@ -6,7 +6,7 @@
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "924,00"
+      "usdt": "924,98"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Sexagenaria fue asesinada por su vecino tras acalorada discusión en Táchira",
-      "link": "https://noticialdia.com/sucesos/sexagenaria-fue-asesinada-por-su-vecino-tras-acalorada-discusion-en-tachira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-19T142114.251.webp?x74346"
+      "title": "La AFA denuncia una \"campaña miserable\" contra la selección Argentina tras la final del Mundial",
+      "link": "https://noticialdia.com/deportes/la-afa-denuncia-una-campana-miserable-contra-la-seleccion-argentina-tras-la-final-del-mundial/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260819_150920_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,15 +45,15 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRANSPARENCIA VENEZUELA ALERTÓ SOBRE EL USO DE SOBRESEIMIENTOS PARA BLANQUEAR PATRIMONIOS",
-      "link": "https://noticierodigital.com/2026/08/transparencia-venezuela-alerto-sobre-el-uso-de-sobreseimientos-para-blanquear-patrimonios/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/clanconvit-627x376.jpg"
+      "title": "FALLECEN EL DIRECTOR DE INTELIGENCIA DE ECUADOR Y SU ESPOSA EN UN ACCIDENTE EN KENIA",
+      "link": "https://noticierodigital.com/2026/08/fallecen-el-director-de-inteligencia-de-ecuador-y-su-esposa-en-un-accidente-en-kenia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Michele-Sensi-Contugi_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Hijo y madre antes de sobrevivir al sismo en Cali: “Gracias por esta vida, fui muy feliz”",
-      "link": "https://laverdad.com/hijo-y-madre-antes-de-sobrevivir-al-sismo-en-cali-gracias-por-esta-vida-fui-muy-feliz/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-madre-e-hijo-sobrevivientes.jpg"
+      "title": "Deportarán de EE. UU. al expelotero venezolano Oswaldo Pirela",
+      "link": "https://laverdad.com/deportaran-de-ee-uu-al-expelotero-venezolano-oswaldo-pirela/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/beisbolista.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Linea-Iberia-02-12-2025.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T18:35:21.642Z"
+  "lastUpdate": "2026-08-19T19:24:40.574Z"
 }
