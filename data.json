@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "773,31",
-      "eur": "896,03",
-      "fechaValor": "Martes, 18 Agosto 2026"
+      "usd": "775,34",
+      "eur": "897,82",
+      "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "909,00"
+      "usdt": "908,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "CPI alerta que sanciones de EE. UU. contra su presidenta \"socavan\" el Estado de derecho",
-      "link": "https://diarioversionfinal.com/mundo/cpi-alerta-que-sanciones-de-ee-uu-contra-su-presidenta-socavan-el-estado-de-derecho/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/05/CPI.jpg"
+      "title": "Pyongyang condena las maniobras militares conjuntas de EE. UU. y Corea del Sur",
+      "link": "https://diarioversionfinal.com/mundo/pyongyang-condena-las-maniobras-militares-conjuntas-de-ee-uu-y-corea-del-sur/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Maniobras-USA-Corea-del-Sur-18-08-2026-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T02:58:11.579Z"
+  "lastUpdate": "2026-08-19T03:48:38.315Z"
 }
