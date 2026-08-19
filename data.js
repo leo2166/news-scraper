@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "775,34",
-      "eur": "897,82",
-      "fechaValor": "Miércoles, 19 Agosto 2026"
+      "usd": "773,31",
+      "eur": "896,03",
+      "fechaValor": "Martes, 18 Agosto 2026"
     },
     "binance": {
-      "usdt": "911,00"
+      "usdt": "909,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "EEUU entregó 20 maquinarias pesadas para acelerar la recolección de escombros y reconectar comunidades aisladas tras el doble terremoto",
-      "link": "https://noticialdia.com/principal/eeuu-entrego-20-maquinarias-pesadas-para-acelerar-la-recoleccion-de-escombros-y-reconectar-comunidades-aisladas-tras-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-14-6.webp?x74346"
+      "title": "Ministra de hidrocarburos Paula Henao asistirá a un evento en Houston con empresas estadounidenses: Podría concretar firma de nuevos acuerdos",
+      "link": "https://noticialdia.com/principal/ministra-de-hidrocarburos-paula-henao-asistira-a-un-evento-en-houston-con-empresas-estadounidenses-podria-concretar-firma-de-nuevos-acuerdo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-19-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno encargado y Comité Internacional de la Cruz Roja coordinan acciones para evaluar y optimizar el sistema penitenciario",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-encargado-y-comite-internacional-de-la-cruz-roja-coordinan-acciones-para-evaluar-y-optimizar-el-sistema-penitenciario",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_774970380_18589434013070571_236011639037952714_n-478169.jpg"
+      "title": "Embajada de EE.UU. en Caracas recibe maquinaria para labores de reconstrucción tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-caracas-recibe-maquinaria-para-labores-de-reconstruccion-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hoy-ee.uu.-entreg-veinte-maquinarias-pesadas-teleoperadas-en-coordinacin-con-la-empresa-estado-b690ad.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BP SE SUMÓ A TRAFIGURA Y VITOL EN LA COMERCIALIZACIÓN DIRECTA DE PETRÓLEO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/08/bp-se-sumo-a-trafigura-y-vitol-en-la-comercializacion-directa-de-petroleo-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/BP-logo-627x376.jpg"
+      "title": "EE. UU. Y VENEZUELA PROFUNDIZARON SU INTERCAMBIO DE CRUDO PESADO Y NAFTA",
+      "link": "https://noticierodigital.com/2026/08/ee-uu-y-venezuela-profundizaron-su-intercambio-de-crudo-pesado-y-nafta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/petrolero-maracaibo-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De La Espriella entrega informe sobre presunta corrupción del gobierno de Petro",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-entrega-informe-sobre-presunta-corrupcion-del-gobierno-de-petro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/De-La-Espriella-Petro-18-08-2026-750x430.jpg"
+      "title": "CPI alerta que sanciones de EE. UU. contra su presidenta \"socavan\" el Estado de derecho",
+      "link": "https://diarioversionfinal.com/mundo/cpi-alerta-que-sanciones-de-ee-uu-contra-su-presidenta-socavan-el-estado-de-derecho/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/05/CPI.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T01:12:57.929Z"
+  "lastUpdate": "2026-08-19T02:58:11.579Z"
 };
