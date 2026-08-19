@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "910,99"
+      "usdt": "911,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos entregó a Venezuela 20 máquinas pesadas para remover escombros tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/08/19/estados-unidos-entrego-a-venezuela-20-maquinas-pesadas-para-remover-escombros-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/I3AC3AOBJZGA5OMWX3ZOLZHPMA.JPG?auth=d64ba8996f24f511331add139ac61160c46627ff43711b6307cf0191bf6519a6&smart=true&width=350&height=197&quality=85"
+      "title": "La producción manufacturera privada de Venezuela creció un 8,1% en el primer semestre del año",
+      "link": "https://www.infobae.com/venezuela/2026/08/19/la-produccion-manufacturera-privada-de-venezuela-crecio-un-81-en-el-primer-semestre-del-ano/",
+      "image": "https://www.infobae.com/resizer/v2/KGBMKHISBVVHC3AIJHLV4SGM6E.jpg?auth=6f53bace32ef600565319aada9d437da142dea7a6d7a7c44609b0cdb8d6bd0e8&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Despliegan operativo para garantizar libre tránsito y orden comercial en las aceras",
-      "link": "https://noticialdia.com/al-dia/despliegan-operativo-para-garantizar-libre-transito-y-orden-comercial-en-las-aceras/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-19T092358.457.webp?x74346"
+      "title": "Hidroven rehabilita pozos en Colón y Catatumbo del Zulia",
+      "link": "https://noticialdia.com/zulia/hidroven-rehabilita-pozos-en-colon-y-catatumbo-del-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-76.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irak pide a Irán un “estatus especial” para exportar crudo a través del estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/irak-pide-a-iran-un-estatus-especial-para-exportar-crudo-a-traves-del-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/iran-cierra-estrecho-ormuz-1024x594-1-750x430.jpg"
+      "title": "De la Espriella presenta el “Libro de la verdad”, con 82 casos de corrupción de Petro",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-presenta-el-libro-de-la-verdad-con-82-casos-de-corrupcion-de-petro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ABELARDO-DE-LA-ESPRIELLA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T13:42:59.481Z"
+  "lastUpdate": "2026-08-19T14:33:06.589Z"
 };
