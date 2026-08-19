@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "924,98"
+      "usdt": "927,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "La AFA denuncia una \"campaña miserable\" contra la selección Argentina tras la final del Mundial",
-      "link": "https://noticialdia.com/deportes/la-afa-denuncia-una-campana-miserable-contra-la-seleccion-argentina-tras-la-final-del-mundial/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260819_150920_0000.webp?x74346"
+      "title": "EE. UU. procesa la deportación del expelotero venezolano Oswaldo Pirela tras ser detenido por el ICE",
+      "link": "https://noticialdia.com/sin-categoria/ee-uu-procesa-la-deportacion-del-expelotero-venezolano-oswaldo-pirela-tras-ser-detenido-por-el-ice/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260819_160539_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FALLECEN EL DIRECTOR DE INTELIGENCIA DE ECUADOR Y SU ESPOSA EN UN ACCIDENTE EN KENIA",
-      "link": "https://noticierodigital.com/2026/08/fallecen-el-director-de-inteligencia-de-ecuador-y-su-esposa-en-un-accidente-en-kenia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Michele-Sensi-Contugi_-627x376.jpg"
+      "title": "«LOS IMPUESTOS SIGUEN AUMENTANDO»: JUSTIFICAN INCREMENTO DE MATRÍCULAS ESCOLARES",
+      "link": "https://noticierodigital.com/2026/08/los-impuestos-siguen-aumentando-justifican-incremento-de-matriculas-escolares/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/escuelas-pupitres-referencial.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Iberia extiende suspensión de vuelos a Cuba hasta junio de 2027 por problemas de abastecimiento",
-      "link": "https://diarioversionfinal.com/mundo/iberia-extiende-suspension-de-vuelos-a-cuba-hasta-junio-de-2027-por-problemas-de-abastecimiento/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Linea-Iberia-02-12-2025.jpg"
+      "title": "Miami iguala récord histórico de 38 °C en medio de una intensa ola de calor",
+      "link": "https://diarioversionfinal.com/mundo/miami-iguala-record-historico-de-38-c-en-medio-de-una-intensa-ola-de-calor/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/OLA-CALOR-MIAMI-EEUU.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-19T19:24:40.574Z"
+  "lastUpdate": "2026-08-19T20:26:38.545Z"
 };
