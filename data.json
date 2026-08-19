@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "775,34",
-      "eur": "897,82",
-      "fechaValor": "Miércoles, 19 Agosto 2026"
+      "usd": "777,42",
+      "eur": "906,83",
+      "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "927,00"
+      "usdt": "914,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Capacidad utilizada de la industria subió a 51,7% en el segundo trimestre de 2026",
-      "link": "https://www.bancaynegocios.com/capacidad-utilizada-de-la-industria-subio-a-517-en-el-segundo-trimestre-de-2026/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/08/INDUSTRIA-INFORME.png"
+      "title": "Importaciones venezolanas de repuestos automotrices incrementaron 18,3% en segundo trimestre de 2026",
+      "link": "https://www.bancaynegocios.com/importaciones-venezolanas-de-repuestos-automotrices-incrementaron-18punto3-porciento-en-segundo-trimestre-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/02/AutopartesVenezuela.jpg"
     },
     {
       "source": "Infobae",
-      "title": "El sector manufacturero de Venezuela se desacelera y pierde casi la mitad de sus horas laborales por falta de electricidad",
-      "link": "https://www.infobae.com/venezuela/2026/08/19/el-sector-manufacturero-de-venezuela-se-desacelera-y-pierde-casi-la-mitad-de-sus-horas-laborales-por-falta-de-electricidad/",
-      "image": "https://www.infobae.com/resizer/v2/6TOSVKZ6OXLOYVD4ZRLL6PGMKQ.jpg?auth=0d5d62920c67602b46fa08839718cf514f69929cb35b0231837d29c411612794&smart=true&width=350&height=197&quality=85"
+      "title": "Purga de comandantes en Venezuela: solo un jefe de zona de la Guardia Nacional sobrevive a la ola de relevos desde enero",
+      "link": "https://www.infobae.com/venezuela/2026/08/19/purga-de-comandantes-en-venezuela-solo-un-jefe-de-zona-de-la-guardia-nacional-sobrevive-a-la-ola-de-relevos-desde-enero/",
+      "image": "https://www.infobae.com/resizer/v2/BUVC3HUV4ZGM7PCX7GL37EFANQ.jpg?auth=44e2a7cccd6b69f2a215e64f22062e70b06fb484a5005aa344b28656d3e04a01&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "EE. UU. procesa la deportación del expelotero venezolano Oswaldo Pirela tras ser detenido por el ICE",
-      "link": "https://noticialdia.com/sin-categoria/ee-uu-procesa-la-deportacion-del-expelotero-venezolano-oswaldo-pirela-tras-ser-detenido-por-el-ice/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260819_160539_0000.webp?x74346"
+      "title": "Enrique Márquez presenta mañana su «Pacto por Venezuela»: una ruta de acuerdos y estabilidad",
+      "link": "https://noticialdia.com/al-dia/enrique-marquez-presenta-manana-su-pacto-por-venezuela-una-ruta-de-acuerdos-y-estabilidad/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "ICE detuvo a una inmigrante ecuatoriana en un aeropuerto. No es la única",
-      "link": "https://cnnespanol.cnn.com/2026/08/19/eeuu/aeropuertos-temor-migrantes-abogados-ice-detenciones-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267773645.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Se acumulan las derrotas para los candidatos respaldados por Trump",
+      "link": "https://cnnespanol.cnn.com/2026/08/19/eeuu/derrotas-candidatos-respaldados-trump-primarias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-19-144337.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "«LOS IMPUESTOS SIGUEN AUMENTANDO»: JUSTIFICAN INCREMENTO DE MATRÍCULAS ESCOLARES",
-      "link": "https://noticierodigital.com/2026/08/los-impuestos-siguen-aumentando-justifican-incremento-de-matriculas-escolares/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/06/escuelas-pupitres-referencial.jpg"
+      "title": "SAIME ELIMINÓ EL REQUISITO DE PRESENTAR LA PLANILLA IMPRESA PARA SUS TRÁMITES",
+      "link": "https://noticierodigital.com/2026/08/saime-elimino-el-requisito-de-presentar-la-planilla-impresa-para-sus-tramites/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Saime-citas-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Deportarán de EE. UU. al expelotero venezolano Oswaldo Pirela",
-      "link": "https://laverdad.com/deportaran-de-ee-uu-al-expelotero-venezolano-oswaldo-pirela/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/beisbolista.jpg"
+      "title": "Colombia registra 314 fallecidos 10 días después del terremoto",
+      "link": "https://laverdad.com/colombia-registra-314-fallecidos-10-dias-despues-del-terremoto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-4.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Miami iguala récord histórico de 38 °C en medio de una intensa ola de calor",
-      "link": "https://diarioversionfinal.com/mundo/miami-iguala-record-historico-de-38-c-en-medio-de-una-intensa-ola-de-calor/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/OLA-CALOR-MIAMI-EEUU.jpeg"
+      "title": "Colombia registra 314 fallecidos diez días después del terremoto de magnitud 7,4",
+      "link": "https://diarioversionfinal.com/mundo/colombia-registra-314-fallecidos-diez-dias-despues-del-terremoto-de-magnitud-74/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/eao7vwZF-images-7.jpg"
     }
   ],
-  "lastUpdate": "2026-08-19T20:26:38.545Z"
+  "lastUpdate": "2026-08-19T22:23:40.141Z"
 }
