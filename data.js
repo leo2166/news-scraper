@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 19 Agosto 2026"
     },
     "binance": {
-      "usdt": "915,00"
+      "usdt": "832,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Maracaibo se alista para el \"Play Ball\": Águilas recibiría a Leones en el inicio de la LVBP 2026-2027",
-      "link": "https://noticialdia.com/deportes/maracaibo-se-alista-para-el-play-ball-aguilas-recibiria-a-leones-en-el-inicio-de-la-lvbp-2026-2027/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260819_120806_0000.webp?x74346"
+      "title": "El teleférico de Mérida vuelve a encender sus motores",
+      "link": "https://noticialdia.com/al-dia/el-teleferico-de-merida-vuelve-a-encender-sus-motores/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-2026-08-19T130927.642.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Detenciones de ICE en aeropuertos ponen en alerta a inmigrantes en EE.UU.",
+      "title": "ICE detuvo a una inmigrante ecuatoriana en un aeropuerto. No es la única",
       "link": "https://cnnespanol.cnn.com/2026/08/19/eeuu/aeropuertos-temor-migrantes-abogados-ice-detenciones-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267773645.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de EE. UU. deportará a Venezuela al exbeisbolista Oswaldo Pirela",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-de-ee-uu-deportara-a-venezuela-al-exbeisbolista-oswaldo-pirela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Sin-titulo-4.jpg-750x430.webp"
+      "title": "Trump anuncia reunión con Kim Jong-un antes de fin de año y cifra en 57 sus armas nucleares",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-reunion-con-kim-jong-un-antes-de-fin-de-ano-y-cifra-en-57-sus-armas-nucleares/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/2146.avif"
     }
   ],
-  "lastUpdate": "2026-08-19T16:31:04.045Z"
+  "lastUpdate": "2026-08-19T17:26:15.540Z"
 };
