@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "912,00"
+      "usdt": "908,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,27 +21,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela: Informe del Parlamento determinó desfalco por 25 mil millones de dólares en el sistema eléctrico",
-      "link": "https://www.infobae.com/venezuela/2026/08/20/venezuela-informe-del-parlamento-determino-desfalco-por-25-mil-millones-de-dolares-en-el-sistema-electrico/",
-      "image": "https://www.infobae.com/resizer/v2/T6YPXCBD7JCFXEHUB37T3JOCOE.jpg?auth=4450d146cfc150a6ab9fd4d3ef00917a77574b555aaa2f805f7cd0ec4f84460a&smart=true&width=350&height=197&quality=85"
+      "title": "ONG exigen a la mesa de negociación acelerar la renovación del Consejo Nacional Electoral",
+      "link": "https://www.infobae.com/venezuela/2026/08/20/ong-exigen-a-la-mesa-de-negociacion-acelerar-la-renovacion-del-consejo-nacional-electoral/",
+      "image": "https://www.infobae.com/resizer/v2/ALK3OWPVWZAI3BBFCILC7L2ZDE.JPG?auth=11cb193dfe55d3e328f37f382336688900a57357c785ba6abe88df11ec30c997&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cpbez retiene cuatro motos en el Zulia por infracciones de tránsito y contaminación sónica",
-      "link": "https://noticialdia.com/sucesos/cpbez-retiene-cuatro-motos-en-el-zulia-por-infracciones-de-transito-y-contaminacion-sonica/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-20T112302.602.webp?x74346"
+      "title": "Con la meta inicial de sembrar 650 mil árboles en Maracaibo: Instalan Comité Municipal de Reforestación \"Chuquisaca\"",
+      "link": "https://noticialdia.com/zulia/con-la-meta-inicial-de-sembrar-650-mil-arboles-en-maracaibo-instalan-comite-municipal-de-reforestacion-chuquisaca/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/c467e95b-1207-4683-924d-8516de6bb2fb-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Intentó asesinar a un millonario en Mónaco. Días después, estaba muerta",
-      "link": "https://cnnespanol.cnn.com/2026/08/20/mundo/atentado-explosivo-fallido-millonario-monaco-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/download-11-20260820080739895.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La ingeniosa maniobra de los demócratas para intentar ganar la mayoría en el Senado",
+      "link": "https://cnnespanol.cnn.com/2026/08/20/eeuu/democratas-senado-maniobra-independientes-intermedias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260818-bengsachillesosborn-20260820130527798.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal confirma 87 excarcelaciones y advierte que más del 75 % de las liberaciones recientes son condicionales",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-87-excarcelaciones-y-advierte-que-mas-del-75-de-las-liberaciones-recientes-son-condicionales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/00f95bae36a461a6e1a8690113317aa2cdc009e3w-0fa5f4.jpg"
+      "title": "Excarcelan a tres efectivos militares recluidos en Ramo Verde",
+      "link": "https://noticiasvenevision.com/noticias/politica/excarcelan-a-tres-efectivos-militares-recluidos-en-ramo-verde",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/excarcelaciones-militares-a8e89e.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a más de 11 años a otro implicado en el atentado contra Uribe Turbay",
-      "link": "https://laverdad.com/condenan-a-mas-de-11-anos-a-otro-implicado-en-el-atentado-contra-uribe-turbay/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Cristian-Camilo-Gonzalez.jpg"
+      "title": "Al menos 100 muertos deja deslizamiento de tierra en mina de oro en África",
+      "link": "https://laverdad.com/al-menos-100-muertos-deja-deslizamiento-de-tierra-en-mina-de-oro-en-africa/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Derrumbe-mina-Africa.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Derrumbe en mina de oro deja 13 muertos y siete heridos en el suroeste de Colombia",
-      "link": "https://diarioversionfinal.com/mundo/derrumbe-en-mina-de-oro-deja-13-muertos-y-siete-heridos-en-el-suroeste-de-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/10/oro-mineria.jpg"
+      "title": "El brote de ébola en el Congo podría ser tres veces mayor de lo que dicen las cifras oficiales",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/el-brote-de-ebola-en-el-congo-podria-ser-tres-veces-mayor-de-lo-que-dicen-las-cifras-oficiales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/n9VDeC1d-image-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T15:32:54.667Z"
+  "lastUpdate": "2026-08-20T16:34:28.231Z"
 };
