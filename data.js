@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "911,50"
+      "usdt": "911,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/07/interpol-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T05:30:16.410Z"
+  "lastUpdate": "2026-08-20T06:43:48.737Z"
 };
