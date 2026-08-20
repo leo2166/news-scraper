@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "909,00"
+      "usdt": "912,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La ministra venezolana de Hidrocarburos ofreció en EEUU un “abanico” de inversiones en crudo y gas",
-      "link": "https://www.infobae.com/venezuela/2026/08/20/la-ministra-venezolana-de-hidrocarburos-ofrecio-en-eeuu-un-abanico-de-inversiones-en-crudo-y-gas/",
-      "image": "https://www.infobae.com/resizer/v2/TT4H4BN6XBDO3IQZWW3MPVC7C4.jpg?auth=02e68d6f7ac5f9a932a8f68c6d122b485c03bbec3efdaafeb9dd84797b1f8905&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela: Informe del Parlamento determinó desfalco por 25 mil millones de dólares en el sistema eléctrico",
+      "link": "https://www.infobae.com/venezuela/2026/08/20/venezuela-informe-del-parlamento-determino-desfalco-por-25-mil-millones-de-dolares-en-el-sistema-electrico/",
+      "image": "https://www.infobae.com/resizer/v2/T6YPXCBD7JCFXEHUB37T3JOCOE.jpg?auth=4450d146cfc150a6ab9fd4d3ef00917a77574b555aaa2f805f7cd0ec4f84460a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Fallece a los 10 años Romina Rivera, la virtuosa niña violinista que conmovió al Vaticano en la canonización de José Gregorio Hernández y Carmen Rendiles",
-      "link": "https://noticialdia.com/al-dia/fallece-a-los-10-anos-romina-rivera-la-virtuosa-nina-violinista-que-conmovio-al-vaticano-en-la-canonizacion-de-jose-gregorio-hernandez-y-carmen-rendiles/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-20T102148.647.webp?x74346"
+      "title": "Cpbez retiene cuatro motos en el Zulia por infracciones de tránsito y contaminación sónica",
+      "link": "https://noticialdia.com/sucesos/cpbez-retiene-cuatro-motos-en-el-zulia-por-infracciones-de-transito-y-contaminacion-sonica/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-20T112302.602.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,15 +45,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "NATIONAL AIRLINES RECIBE AVAL DE EE. UU. PARA VOLAR A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/08/national-airlines-recibe-aval-de-ee-uu-para-volar-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/06/maiquetia-viruela-del-mono-12jun2022.jpg"
+      "title": "FUNDACIÓN VENEXOS ENTREGÓ MEDICAMENTOS Y CANASTILLAS A MÁS DE 120 PERSONAS EN NAIGUATÁ",
+      "link": "https://noticierodigital.com/2026/08/fundacion-venexos-entrego-medicamentos-y-canastillas-a-mas-de-120-personas-en-naiguata/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-20-at-9.29.41-AM-627x376.jpeg"
     },
     {
       "source": "La Verdad",
-      "title": "De la Espriella decreta estado de emergencia económica, social y ecológica por el terremoto",
-      "link": "https://laverdad.com/de-la-espriella-decreta-estado-de-emergencia-economica-social-y-ecologica-por-el-terremoto/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-emergencia.jpg"
+      "title": "Condenan a más de 11 años a otro implicado en el atentado contra Uribe Turbay",
+      "link": "https://laverdad.com/condenan-a-mas-de-11-anos-a-otro-implicado-en-el-atentado-contra-uribe-turbay/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Cristian-Camilo-Gonzalez.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/10/oro-mineria.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T14:35:20.697Z"
+  "lastUpdate": "2026-08-20T15:32:54.667Z"
 };
