@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "911,99"
+      "usdt": "912,61"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Irán advierte a EE.UU. y muestra el avance de sectores más intransigentes",
-      "link": "https://cnnespanol.cnn.com/2026/08/19/mundo/iran-estados-unidos-sectores-intransigentes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270538685-20260819073628200.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La mujer que intentó asesinar a un millonario en Mónaco",
+      "link": "https://cnnespanol.cnn.com/2026/08/20/mundo/atentado-explosivo-fallido-millonario-monaco-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/download-11-20260820080739895.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/07/interpol-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T09:33:48.816Z"
+  "lastUpdate": "2026-08-20T10:29:30.976Z"
 };
