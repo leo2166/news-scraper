@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "821,00"
+      "usdt": "909,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Luto en la gaita: Fallece la reconocida intérprete y docente zuliana Nancy Leal de Fernández",
-      "link": "https://noticialdia.com/al-dia/luto-en-la-gaita-fallece-la-reconocida-interprete-y-docente-zuliana-nancy-leal-de-fernandez/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-20T093802.829.webp?x74346"
+      "title": "Fallece a los 10 años Romina Rivera, la virtuosa niña violinista que conmovió al Vaticano en la canonización de José Gregorio Hernández y Carmen Rendiles",
+      "link": "https://noticialdia.com/al-dia/fallece-a-los-10-anos-romina-rivera-la-virtuosa-nina-violinista-que-conmovio-al-vaticano-en-la-canonizacion-de-jose-gregorio-hernandez-y-carmen-rendiles/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-20T102148.647.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DERRUMBE EN UNA MINA DE ORO DE COLOMBIA DEJA 13 PERSONAS MUERTAS Y SIETE HERIDAS",
-      "link": "https://noticierodigital.com/2026/08/derrumbe-en-una-mina-de-oro-de-colombia-deja-13-personas-muertas-y-siete-heridas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-22-627x376.png"
+      "title": "NATIONAL AIRLINES RECIBE AVAL DE EE. UU. PARA VOLAR A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/08/national-airlines-recibe-aval-de-ee-uu-para-volar-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/06/maiquetia-viruela-del-mono-12jun2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zaporiyia pierde su última línea eléctrica externa y activa generadores de emergencia, según OIEA",
-      "link": "https://diarioversionfinal.com/mundo/zaporiyia-pierde-su-ultima-linea-electrica-externa-y-activa-generadores-de-emergencia-segun-oiea/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/123509516_nuclearpowerplantzaporizhzhia-750x430.jpg"
+      "title": "Derrumbe en mina de oro deja 13 muertos y siete heridos en el suroeste de Colombia",
+      "link": "https://diarioversionfinal.com/mundo/derrumbe-en-mina-de-oro-deja-13-muertos-y-siete-heridos-en-el-suroeste-de-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/10/oro-mineria.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T13:45:31.163Z"
+  "lastUpdate": "2026-08-20T14:35:20.697Z"
 };
