@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "777,42",
-      "eur": "906,83",
-      "fechaValor": "Jueves, 20 Agosto 2026"
+      "usd": "779,95",
+      "eur": "911,22",
+      "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,90"
+      "usdt": "916,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "El Colegio de Ingenieros de Venezuela recomendó no cambiar la estructura de los edificios en reparaciones tras el doble terremoto",
-      "link": "https://noticialdia.com/principal/el-colegio-de-ingenieros-de-venezuela-recomendo-no-cambiar-la-estructura-de-los-edificios-en-reparaciones-tras-el-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-3-11.webp?x74346"
+      "title": "EEUU destinará 57 millones de dólares a ‘El Sistema’ para impulsar la educación musical y culminar un Centro de Formación Docente en Venezuela",
+      "link": "https://noticialdia.com/nacionales/eeuu-destinara-57-millones-de-dolares-a-el-sistema-para-impulsar-la-educacion-musical-y-culminar-un-centro-de-formacion-docente-en-venezuela/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-12.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA DA LA BIENVENIDA AL NUEVO COORDINADOR DE LA ONU EN EL PAÍS",
-      "link": "https://noticierodigital.com/2026/08/venezuela-da-la-bienvenida-al-nuevo-coordinador-de-la-onu-en-el-pais/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/1787255763541-627x376.png"
+      "title": "ANTONIO ECARRI PROPONE CONVERTIR LA DOLARIZACIÓN DE VENEZUELA EN LEY",
+      "link": "https://noticierodigital.com/2026/08/antonio-ecarri-propone-convertir-la-dolarizacion-de-venezuela-en-ley/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/09/antonio-ecarri.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petróleo sube tras nueva presión de Trump contra Irán",
-      "link": "https://diarioversionfinal.com/mundo/petroleo-sube-tras-nueva-presion-de-trump-contra-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Petroleo-EEUU-08-05-2026-750x430.png"
+      "title": "De la Espriella presenta nueva cúpula militar para combatir el crimen en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-presenta-nueva-cupula-militar-para-combatir-el-crimen-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ABELARDO-DE-LA-ESPRIELLA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T21:27:29.057Z"
+  "lastUpdate": "2026-08-20T22:27:14.073Z"
 };
