@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "915,00"
+      "usdt": "821,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "De luto la gaita: Falleció la educadora y gaitera Nancy Leal de Fernández",
-      "link": "https://noticialdia.com/al-dia/de-luto-la-gaita-fallecio-la-educadora-y-gaitera-nancy-leal-de-fernandez/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-65-2.webp?x74346"
+      "title": "Luto en la gaita: Fallece la reconocida intérprete y docente zuliana Nancy Leal de Fernández",
+      "link": "https://noticialdia.com/al-dia/luto-en-la-gaita-fallece-la-reconocida-interprete-y-docente-zuliana-nancy-leal-de-fernandez/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-20T093802.829.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PADRINO LÓPEZ ANUNCIA ACUERDO CON PRODUCTORES DE ARROZ TRAS QUEJAS POR IMPORTACIONES",
-      "link": "https://noticierodigital.com/2026/08/padrino-lopez-anuncia-acuerdo-con-productores-de-arroz-tras-quejas-por-importaciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/productores-de-arroz-627x376.jpg"
+      "title": "DERRUMBE EN UNA MINA DE ORO DE COLOMBIA DEJA 13 PERSONAS MUERTAS Y SIETE HERIDAS",
+      "link": "https://noticierodigital.com/2026/08/derrumbe-en-una-mina-de-oro-de-colombia-deja-13-personas-muertas-y-siete-heridas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-22-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Colombia registra 314 fallecidos 10 días después del terremoto",
-      "link": "https://laverdad.com/colombia-registra-314-fallecidos-10-dias-despues-del-terremoto/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-4.jpg"
+      "title": "De la Espriella decreta estado de emergencia económica, social y ecológica por el terremoto",
+      "link": "https://laverdad.com/de-la-espriella-decreta-estado-de-emergencia-economica-social-y-ecologica-por-el-terremoto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-emergencia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detienen en Colombia a ocho criminales buscados por cinco países a través de Interpol",
-      "link": "https://diarioversionfinal.com/mundo/detienen-en-colombia-a-ocho-criminales-buscados-por-cinco-paises-a-traves-de-interpol/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/07/interpol-1-750x430.jpg"
+      "title": "Zaporiyia pierde su última línea eléctrica externa y activa generadores de emergencia, según OIEA",
+      "link": "https://diarioversionfinal.com/mundo/zaporiyia-pierde-su-ultima-linea-electrica-externa-y-activa-generadores-de-emergencia-segun-oiea/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/123509516_nuclearpowerplantzaporizhzhia-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T12:48:37.079Z"
+  "lastUpdate": "2026-08-20T13:45:31.163Z"
 };
