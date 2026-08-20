@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "911,99"
+      "usdt": "911,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Purga de comandantes en Venezuela: solo un jefe de zona de la Guardia Nacional sobrevive a la ola de relevos desde enero",
-      "link": "https://www.infobae.com/venezuela/2026/08/19/purga-de-comandantes-en-venezuela-solo-un-jefe-de-zona-de-la-guardia-nacional-sobrevive-a-la-ola-de-relevos-desde-enero/",
-      "image": "https://www.infobae.com/resizer/v2/BUVC3HUV4ZGM7PCX7GL37EFANQ.jpg?auth=44e2a7cccd6b69f2a215e64f22062e70b06fb484a5005aa344b28656d3e04a01&smart=true&width=350&height=197&quality=85"
+      "title": "Organizaciones sociales de Venezuela instaron a la mesa de diálogo entre el chavismo y la oposición a acelerar la renovación del CNE y el TSJ",
+      "link": "https://www.infobae.com/venezuela/2026/08/20/organizaciones-sociales-de-venezuela-instaron-a-la-mesa-de-dialogo-entre-el-chavismo-y-la-oposicion-a-acelerar-la-renovacion-del-cne-y-el-tsj/",
+      "image": "https://www.infobae.com/resizer/v2/YT4QEU6ZGJG6HKZ4XTLLER6ULM.jpg?auth=fa3400ce4906b547bc9b0661b41779ed60e65c2c7a188988a36b2f5fdf030416&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/07/interpol-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T06:43:48.737Z"
+  "lastUpdate": "2026-08-20T07:39:52.051Z"
 };
