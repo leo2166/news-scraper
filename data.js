@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "910,00"
+      "usdt": "912,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Petróleo sube por cuarto día consecutivo ante tensión por el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/petroleo-sube-por-cuarto-dia-consecutivo-ante-tension-por-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Estrecho-Ormuz-19-08-2026-750x430.jpg"
+      "title": "Detienen en Colombia a ocho criminales buscados por cinco países a través de Interpol",
+      "link": "https://diarioversionfinal.com/mundo/detienen-en-colombia-a-ocho-criminales-buscados-por-cinco-paises-a-traves-de-interpol/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/07/interpol-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-20T02:56:03.567Z"
+  "lastUpdate": "2026-08-20T03:47:17.666Z"
 };
