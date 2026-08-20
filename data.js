@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 20 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,04"
+      "usdt": "919,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "ONG exigen a la mesa de negociación acelerar la renovación del Consejo Nacional Electoral",
-      "link": "https://www.infobae.com/venezuela/2026/08/20/ong-exigen-a-la-mesa-de-negociacion-acelerar-la-renovacion-del-consejo-nacional-electoral/",
-      "image": "https://www.infobae.com/resizer/v2/ALK3OWPVWZAI3BBFCILC7L2ZDE.JPG?auth=11cb193dfe55d3e328f37f382336688900a57357c785ba6abe88df11ec30c997&smart=true&width=350&height=197&quality=85"
+      "title": "A casi dos meses del doble terremoto, La Guaira intenta reconstruirse entre ruinas, carpas y el azote de las lluvias",
+      "link": "https://www.infobae.com/venezuela/2026/08/20/a-casi-dos-meses-del-doble-terremoto-la-guaira-intenta-reconstruirse-entre-ruinas-carpas-y-el-azote-de-las-lluvias/",
+      "image": "https://www.infobae.com/resizer/v2/HTZG53GCERHKDBFCTL5762D4FA.jpg?auth=565cc23cc994c702b95dc2598c7f4a9c726db556bcd0f79bc43a84bb0fff5a79&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Más de 650 abuelos atendidos en jornada especial de la Gobernación del Zulia en la Cañada de Urdaneta",
-      "link": "https://noticialdia.com/?p=657316",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
+      "title": "El Colegio de Ingenieros de Venezuela recomendó no cambiar la estructura de los edificios en reparaciones tras el doble terremoto",
+      "link": "https://noticialdia.com/principal/el-colegio-de-ingenieros-de-venezuela-recomendo-no-cambiar-la-estructura-de-los-edificios-en-reparaciones-tras-el-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-3-11.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La ingeniosa maniobra de los demócratas para intentar ganar la mayoría en el Senado",
-      "link": "https://cnnespanol.cnn.com/2026/08/20/eeuu/democratas-senado-maniobra-independientes-intermedias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260818-bengsachillesosborn-20260820130527798.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El USS Abraham Lincoln comienza su regreso a casa, según una fuente",
+      "link": "https://cnnespanol.cnn.com/2026/08/20/mundo/live-news/guerra-eeuu-iran-en-vivo-gaza-3-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/uss-carrier.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -51,9 +51,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Terremoto de magnitud 7,2 sacude la región andina de Ayacucho en Perú",
-      "link": "https://laverdad.com/terremoto-de-magnitud-72-sacude-la-region-andina-de-ayacucho-en-peru/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-de-magnitud-72-sacude-la-region-andina-de-Ayacucho-en-Peru.jpg"
+      "title": "Reportan deslizamientos de tierra tras el terremoto de magnitud 7,2 en Perú",
+      "link": "https://laverdad.com/reportan-deslizamientos-de-tierra-tras-el-terremoto-de-magnitud-72-en-peru/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Sismo-en-Peru.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Petroleo-EEUU-08-05-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-20T20:27:36.686Z"
+  "lastUpdate": "2026-08-20T21:27:29.057Z"
 };
