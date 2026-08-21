@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,00"
+      "usdt": "915,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Caen en 80% ingresos del sector productivo en La Guaira, estado más afectado por sismos",
-      "link": "https://www.bancaynegocios.com/caen-en-80-porciento-ingresos-del-sector-productivo-en-la-guaira-estado-mas-afectado-por-sismos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/TerremotosVenezuelaLaGuairaEdificios1.jpg"
+      "title": "Economista Steve Hanke redacta proyecto de dolarización en Venezuela",
+      "link": "https://www.bancaynegocios.com/economista-steve-hanke-redacta-proyecto-de-dolarizacion-en-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/05/Hanke.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Los tanqueros se acumulan en Venezuela mientras el país vende petróleo más rápido de lo que sus puertos pueden manejar",
-      "link": "https://www.infobae.com/venezuela/2026/08/21/los-tanqueros-se-acumulan-en-venezuela-mientras-el-pais-vende-petroleo-mas-rapido-de-lo-que-sus-puertos-pueden-manejar/",
-      "image": "https://www.infobae.com/resizer/v2/MAVK4FJDGXGB55USFDORX7KFDY.jpg?auth=e7c30276473fd1472a7fb17aad23b47b9485b1fdbf9047a563712a444cb46be1&smart=true&width=350&height=197&quality=85"
+      "title": "Amnistía Internacional y familias de presos políticos exigieron atención médica y oportuna en cárceles venezolanas",
+      "link": "https://www.infobae.com/america/2026/08/21/amnistia-internacional-y-familias-de-presos-politicos-exigieron-atencion-medica-y-oportuna-en-carceles-venezolanas/",
+      "image": "https://www.infobae.com/resizer/v2/ZLJ6NOUUHFGZXCNAGROGVJSSIA.jpg?auth=da1ddb6ede8432d528acfcdb9054e6dfd928861c8989822141042a792f76e8f5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "La mañana de hoy el cielo de Maracaibo se vistió de oro y arcoíris",
-      "link": "https://noticialdia.com/principal/la-manana-de-hoy-el-cielo-de-maracaibo-se-vistio-de-oro-y-arcoiris/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-83.webp?x74346"
+      "title": "Se volcó camión cargado con materiales de construcción en la Av. Guajira la mañana de este 21-Ago",
+      "link": "https://noticialdia.com/sucesos/se-volco-camion-cargado-con-materiales-de-construccion-en-la-av-guajira-la-manana-de-este-21-ago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/329db4df-83b1-4ee7-bc92-93303e965f15-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. deporta a migrantes venezolanos a Liberia",
-      "link": "https://laverdad.com/ee-uu-deporta-a-migrantes-venezolanos-a-liberia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/EE-UU-deporta-venezolanos-a-Liberia.jpg"
+      "title": "Colombia eleva a 319 el número de fallecidos por el terremoto",
+      "link": "https://laverdad.com/colombia-eleva-a-319-el-numero-de-fallecidos-por-el-terremoto/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Terremoto-Colombia-muertos-5.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Kremlin condena prohibición de \"Masha y el Oso\" en Ucrania",
-      "link": "https://diarioversionfinal.com/mundo/kremlin-condena-prohibicion-de-masha-y-el-oso-en-ucrania/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/yPuUQOjF-images-22.jpg"
+      "title": "Irán propone terminar la guerra con EEUU y asegura estar \"en posición de fuerza\"",
+      "link": "https://diarioversionfinal.com/mundo/iran-propone-terminar-la-guerra-con-eeuu-y-asegura-estar-en-posicion-de-fuerza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/petroleo-iranie-638x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-21T12:45:53.734Z"
+  "lastUpdate": "2026-08-21T13:44:12.607Z"
 };
