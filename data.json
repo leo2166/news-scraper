@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "779,95",
-      "eur": "911,22",
-      "fechaValor": "Viernes, 21 Agosto 2026"
+      "usd": "784,66",
+      "eur": "916,01",
+      "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,00"
+      "usdt": "919,49"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Con una inversión de 500 mil dólares, la Alcaldía de Maracaibo incorpora nuevos contenedores de desechos sólidos para la ciudad",
-      "link": "https://noticialdia.com/al-dia/con-una-inversion-de-500-mil-dolares-la-alcaldia-de-maracaibo-incorpora-nuevos-contenedores-de-desechos-solidos-para-la-ciudad/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-5-11.webp?x74346"
+      "title": "Gobernador Luis Caldera inspecciona obras del Plan Rector de Aguas Servidas en la parroquia Francisco Eugenio Bustamante",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-inspecciona-obras-del-plan-rector-de-aguas-servidas-en-la-parroquia-francisco-eugenio-bustamante/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-13.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "ECARRI CONFIRMÓ QUE TRABAJA CON STEVE HANKE EN UNA PROPUESTA LEGISLATIVA DE DOLARIZACIÓN",
-      "link": "https://noticierodigital.com/2026/08/ecarri-confirmo-que-trabaja-con-steve-hanke-en-una-propuesta-legislativa-de-dolarizacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/12/ecarri-comunicadomud-5dic2022.jpg"
+      "title": "UNOS OCHO VUELOS DIARIOS MARCARÍAN EL REGRESO PROGRESIVO DE MAIQUETÍA",
+      "link": "https://noticierodigital.com/2026/08/unos-ocho-vuelos-diarios-marcarian-el-regreso-progresivo-de-maiquetia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/aeropuerto-de-Maiquetia-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Las pruebas que contradicen a Zapatero y complican su situación por el caso Plus Ultra",
-      "link": "https://diarioversionfinal.com/mundo/las-pruebas-que-contradicen-a-zapatero-y-complican-su-situacion-por-el-caso-plus-ultra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/17683367150227-750x430.jpg"
+      "title": "Netanyahu responde a Turquía tras petición de arresto y acusa a Erdogan de “dictador antisemita”",
+      "link": "https://diarioversionfinal.com/mundo/netanyahu-responde-a-turquia-tras-peticion-de-arresto-y-acusa-a-erdogan-de-dictador-antisemita/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/06/netanyahu-17-de-junio-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-21T22:24:16.464Z"
+  "lastUpdate": "2026-08-21T23:23:12.447Z"
 }
