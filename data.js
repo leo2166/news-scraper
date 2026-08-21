@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,60"
+      "usdt": "918,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump asfixia la economía y las ventas de petróleo de Irán",
-      "link": "https://cnnespanol.cnn.com/2026/08/20/mundo/economia-iran-influencia-ormuz-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26218279447356-1-20260820171012608.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "\"La verdadera guerra está aquí\": periodista iraní alza la voz tras condena a prisión",
+      "link": "https://cnnespanol.cnn.com/2026/08/21/mundo/fotoperiodista-condenada-prision-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26218279447356-1-20260820171012608.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,7 +45,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "¿Cuál será el siguiente paso de Cristiano Ronaldo? ¿Terminará jugando en la MLS?",
+      "title": "¿CUÁL SERÁ EL SIGUIENTE PASO DE CRISTIANO RONALDO? ¿TERMINARÁ JUGANDO EN LA MLS?",
       "link": "https://noticierodigital.com/2026/08/cual-sera-el-siguiente-paso-de-cristiano-ronaldo-terminara-jugando-en-la-mls/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/08/cristiano-ronaldo-futbol-627x376.jpg"
     },
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/descarga-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-21T05:31:32.580Z"
+  "lastUpdate": "2026-08-21T06:45:25.416Z"
 };
