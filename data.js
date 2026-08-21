@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Venezuela destaca como la segunda mejor economía en América Latina para 2026-2027, según la Cepal",
-      "link": "https://www.bancaynegocios.com/venezuela-destaca-como-la-segunda-mejor-economia-en-america-latina-para-2026-2027-segun-la-cepal/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/PIB-VENEZUELA-e1783121744545.jpg"
+      "title": "Caen en 80% ingresos del sector productivo en La Guaira, estado más afectado por sismos",
+      "link": "https://www.bancaynegocios.com/caen-en-80-porciento-ingresos-del-sector-productivo-en-la-guaira-estado-mas-afectado-por-sismos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/TerremotosVenezuelaLaGuairaEdificios1.jpg"
     },
     {
       "source": "Infobae",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "El USS Abraham Lincoln comienza su regreso a casa, según una fuente",
-      "link": "https://cnnespanol.cnn.com/2026/08/20/mundo/live-news/guerra-eeuu-iran-en-vivo-gaza-3-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/uss-carrier.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump asfixia la economía y las ventas de petróleo de Irán",
+      "link": "https://cnnespanol.cnn.com/2026/08/20/mundo/economia-iran-influencia-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26218279447356-1-20260820171012608.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZOLANOS FIGURAN ENTRE LOS DEPORTADOS QUE EE. UU. COMENZÓ A ENVIAR A LIBERIA",
-      "link": "https://noticierodigital.com/2026/08/venezolanos-figuran-entre-los-deportados-que-ee-uu-comenzo-a-enviar-a-liberia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/vuelo-de-deportacion-venezolanos-liberia-627x376.jpg"
+      "title": "EMPRESAS DE REPARTO DEBERÁN CUMPLIR NUEVAS EXIGENCIAS DEL INTT PARA OPERAR",
+      "link": "https://noticierodigital.com/2026/08/empresas-de-reparto-deberan-cumplir-nuevas-exigencias-del-intt-para-operar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/intt-venezuela-empresas-de-reparto-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Réplicas de 4,2 sacuden Ayacucho tras sismo de 7,2 en el sur de Perú",
-      "link": "https://diarioversionfinal.com/mundo/replicas-de-42-sacuden-ayacucho-tras-sismo-de-72-en-el-sur-de-peru/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/un-nuevo-recordatorio-de-la-fuerza-de-la-tierra-el-sismo-de-magnitud-7-4-en-el-extremo-sur-de-chile-1746319821463_512.jpg"
+      "title": "Rubio y ministra canadiense discuten ayuda humanitaria para Venezuela tras sismos",
+      "link": "https://diarioversionfinal.com/mundo/rubio-y-ministra-canadiense-discuten-ayuda-humanitaria-para-venezuela-tras-sismos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/descarga-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-20T23:24:52.657Z"
+  "lastUpdate": "2026-08-21T01:16:12.904Z"
 };
