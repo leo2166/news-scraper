@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,00"
+      "usdt": "910,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Amnistía Internacional y familias de presos políticos exigieron atención médica y oportuna en cárceles venezolanas",
-      "link": "https://www.infobae.com/america/2026/08/21/amnistia-internacional-y-familias-de-presos-politicos-exigieron-atencion-medica-y-oportuna-en-carceles-venezolanas/",
-      "image": "https://www.infobae.com/resizer/v2/ZLJ6NOUUHFGZXCNAGROGVJSSIA.jpg?auth=da1ddb6ede8432d528acfcdb9054e6dfd928861c8989822141042a792f76e8f5&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición venezolana pedirá eliminar las inhabilitaciones, clave para la participación electoral de María Corina Machado",
+      "link": "https://www.infobae.com/venezuela/2026/08/21/la-oposicion-venezolana-pedira-eliminar-las-inhabilitaciones-clave-para-la-participacion-electoral-de-maria-corina-machado/",
+      "image": "https://www.infobae.com/resizer/v2/3ZSCZTOZNJFIRJ7USAYYSAMS3A.JPG?auth=9bf5732fec60abbdea0671be32535dd17bf87733da7863820c3768d19b791716&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "La Fifa aplica duras sanciones tras los altercados en la final del Mundial 2026",
-      "link": "https://noticialdia.com/?p=657596",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
+      "title": "Russell brilla en Países Bajos y se queda con la pole del Sprint",
+      "link": "https://noticialdia.com/deportes/russell-brilla-en-paises-bajos-y-se-queda-con-la-pole-del-sprint/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260821_113912_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno de Chile designa a Felipe Orellana como cónsul general en Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-de-chile-designa-a-felipe-orellana-como-consul-general-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hqnvofsxqaanb4c-e5e347.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez anuncia digitalización del sistema de salud público en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-digitalizacion-del-sistema-de-salud-publico-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_jpm1b0jpm1b0jpm1-ef32fb.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUBIO Y MINISTRA CANADIENSE DISCUTEN AYUDA HUMANITARIA PARA VENEZUELA TRAS SISMOS",
-      "link": "https://noticierodigital.com/2026/08/rubio-y-ministra-canadiense-discuten-ayuda-humanitaria-para-venezuela-tras-sismos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/marco-rubio-2524-627x376.jpg"
+      "title": "HENRI FALCÓN RECORDÓ A SUS CRITICOS QUE HACE 16 AÑOS RENUNCIÓ AL PSUV",
+      "link": "https://noticierodigital.com/2026/08/henri-falcon-recordo-a-sus-criticos-que-hace-16-anos-renuncio-al-psuv/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/henri-falcon-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Epidemia de ébola en RD Congo \"avanza de forma exponencial\", alerta la ONU",
-      "link": "https://diarioversionfinal.com/mundo/epidemia-de-ebola-en-rd-congo-avanza-de-forma-exponencial-alerta-la-onu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/OMS-confirma-mas-de-100-muertes-por-brote-de-ebola-en-Republica-Democratica-del-Congo-750x430.jpg"
+      "title": "Investigan en España una red de estafas deportivas que afectó a migrantes venezolanos",
+      "link": "https://diarioversionfinal.com/mundo/investigan-en-espana-una-red-de-estafas-deportivas-que-afecto-a-migrantes-venezolanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Alicante-1-696x392-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-21T15:32:25.094Z"
+  "lastUpdate": "2026-08-21T16:33:39.111Z"
 };
