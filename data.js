@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "917,90"
+      "usdt": "917,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Colisión entre carro y moto dejó un hombre herido en la C-3",
-      "link": "https://noticialdia.com/sucesos/colision-entre-carro-y-moto-dejo-un-hombre-herido-en-la-c-3/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/4180de70-6a8f-4cee-9264-ad13b92c3bbf-convertido-a-1024x720-1.webp?x74346"
+      "title": "Marc Stad adquiere la mayoría de los Timberwolves y las Lynx por 4.500 millones de dólares",
+      "link": "https://noticialdia.com/deportes/marc-stad-adquiere-la-mayoria-de-los-timberwolves-y-las-lynx-por-4-500-millones-de-dolares/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260821_140755_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "ALCALDÍA DE LECHERÍA Y EL COLEGIO DE INGENIEROS CREAN OFICINA TÉCNICA PARA REVISIÓN SISMORRESISTENTE",
-      "link": "https://noticierodigital.com/2026/08/alcaldia-de-lecheria-y-el-colegio-de-ingenieros-crean-oficina-tecnica-para-revision-sismorresistente/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Gemini_Generated_Image_n2i65xn2i65xn2i6-627x376.jpg"
+      "title": "JORGE ROIG: EL PROBLEMA ES QUE LA LEY DEL TRABAJO SE HIZO EN TIEMPO DE BONANZA",
+      "link": "https://noticierodigital.com/2026/08/jorge-roig-el-problema-es-que-la-ley-del-trabajo-se-hizo-en-tiempo-de-bonanza/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/04/jorge-roig-oit-28abr2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bitcoin aumenta 23% y alcanza los 77 mil dólares en una semana positiva",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/bitcoin-aumenta-23-en-una-semana-positiva/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/qJIzhG2O-image-1-750x430.jpg"
+      "title": "Lula tiene una \"amistosa\" llamada con Trump para defender el diálogo ante los aranceles de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/lula-tiene-una-amistosa-llamada-con-trump-para-defender-el-dialogo-ante-los-aranceles-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/TRUMP-Y-LULA.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-21T17:28:09.188Z"
+  "lastUpdate": "2026-08-21T18:35:37.221Z"
 };
