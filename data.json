@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,00"
+      "usdt": "917,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Analistas políticos afirman que el éxito de la negociación en Venezuela depende del rol de EE. UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/analistas-politicos-afirman-que-el-exito-de-la-negociacion-en-venezuela-depende-del-rol-de-ee-uu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/miniatura-b877a3.png"
+      "title": "AN debatirá designación de Enrique Hilarión Ochoa Antich como Embajador de Venezuela ante Suiza",
+      "link": "https://noticiasvenevision.com/noticias/politica/an-designa-a-enrique-hilarion-ochoa-antich-como-embajador-de-venezuela-ante-suiza",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-votacion-fiscal-defensor-bba531.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/descarga-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-21T03:02:13.617Z"
+  "lastUpdate": "2026-08-21T04:37:11.269Z"
 }
