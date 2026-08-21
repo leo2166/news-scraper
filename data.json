@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,99"
+      "usdt": "918,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernación del Zulia y Corpozulia reabren el Centro Internacional del Plátano en el Sur del Lago",
-      "link": "https://noticialdia.com/al-dia/gobernacion-del-zulia-y-corpozulia-reabren-el-centro-internacional-del-platano-en-el-sur-del-lago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-74.webp?x74346"
+      "title": "La Fifa aplica duras sanciones tras los altercados en la final del Mundial 2026",
+      "link": "https://noticialdia.com/?p=657596",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Consejo de Seguridad de la ONU vuelve a votar por sucesor de Guterres",
-      "link": "https://diarioversionfinal.com/mundo/consejo-de-seguridad-de-la-onu-vuelve-a-votar-por-sucesor-de-guterres/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
+      "title": "Epidemia de ébola en RD Congo \"avanza de forma exponencial\", alerta la ONU",
+      "link": "https://diarioversionfinal.com/mundo/epidemia-de-ebola-en-rd-congo-avanza-de-forma-exponencial-alerta-la-onu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/OMS-confirma-mas-de-100-muertes-por-brote-de-ebola-en-Republica-Democratica-del-Congo-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-21T14:34:44.896Z"
+  "lastUpdate": "2026-08-21T15:32:25.094Z"
 }
