@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 21 Agosto 2026"
     },
     "binance": {
-      "usdt": "917,89"
+      "usdt": "917,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Marc Stad adquiere la mayoría de los Timberwolves y las Lynx por 4.500 millones de dólares",
-      "link": "https://noticialdia.com/deportes/marc-stad-adquiere-la-mayoria-de-los-timberwolves-y-las-lynx-por-4-500-millones-de-dolares/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260821_140755_0000.webp?x74346"
+      "title": "Gobernador Luis Caldera y alcalde Héctor Soto despliegan plan de reasfaltado e infraestructura integral en el municipio San Francisco",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-y-alcalde-hector-soto-despliegan-plan-de-reasfaltado-e-infraestructura-integral-en-el-municipio-san-francisco/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-98.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE ROIG: EL PROBLEMA ES QUE LA LEY DEL TRABAJO SE HIZO EN TIEMPO DE BONANZA",
-      "link": "https://noticierodigital.com/2026/08/jorge-roig-el-problema-es-que-la-ley-del-trabajo-se-hizo-en-tiempo-de-bonanza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/04/jorge-roig-oit-28abr2022.jpg"
+      "title": "VARIAS ZONAS SE QUEDAN SIN AGUA TRAS ROTURA DE TUBERÍA MATRIZ EN EL HATILLO",
+      "link": "https://noticierodigital.com/2026/08/varias-zonas-se-quedan-sin-agua-tras-rotura-de-tuberia-matriz-en-el-hatillo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/IMG-20260821-WA0183-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula tiene una \"amistosa\" llamada con Trump para defender el diálogo ante los aranceles de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/lula-tiene-una-amistosa-llamada-con-trump-para-defender-el-dialogo-ante-los-aranceles-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/TRUMP-Y-LULA.jpeg"
+      "title": "HRW pide a España proteger y ofrecer asilo a migrantes varados en Ceuta",
+      "link": "https://diarioversionfinal.com/mundo/hrw-pide-a-espana-proteger-y-ofrecer-asilo-a-migrantes-varados-en-ceuta/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/jeTfQB4D-CEUTA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-21T18:35:37.221Z"
+  "lastUpdate": "2026-08-21T19:25:23.786Z"
 };
