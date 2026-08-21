@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera y alcalde Héctor Soto despliegan plan de reasfaltado e infraestructura integral en el municipio San Francisco",
-      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-y-alcalde-hector-soto-despliegan-plan-de-reasfaltado-e-infraestructura-integral-en-el-municipio-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-98.webp?x74346"
+      "title": "Asamblea Nacional desmiente contratación del economista Steve Hanke para proyecto de dolarización",
+      "link": "https://noticialdia.com/principal/asamblea-nacional-desmiente-contratacion-del-economista-steve-hanke-para-proyecto-de-dolarizacion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-86.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez anuncia digitalización del sistema de salud público en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-digitalizacion-del-sistema-de-salud-publico-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_jpm1b0jpm1b0jpm1-ef32fb.jpg"
+      "title": "Abogado Giulio Cellini sostiene que la renovación del TSJ y el CNE es clave para la reinstitucionalización del país",
+      "link": "https://noticiasvenevision.com/noticias/politica/abogado-giulio-cellini-sostiene-que-la-renovacion-del-tsj-y-el-cne-es-clave-para-la-reinstitucionalizacion-del-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_654vfe654vfe654v-5b87d8.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VARIAS ZONAS SE QUEDAN SIN AGUA TRAS ROTURA DE TUBERÍA MATRIZ EN EL HATILLO",
-      "link": "https://noticierodigital.com/2026/08/varias-zonas-se-quedan-sin-agua-tras-rotura-de-tuberia-matriz-en-el-hatillo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/IMG-20260821-WA0183-627x376.jpg"
+      "title": "EMBAJADA DE BRASIL REANUDA ATENCIÓN PARA TRÁMITES CONSULARES EN CARACAS",
+      "link": "https://noticierodigital.com/2026/08/embajada-de-brasil-reanuda-atencion-para-tramites-consulares-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/01/embajadabrasil-venezuela-16ene2022.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "HRW pide a España proteger y ofrecer asilo a migrantes varados en Ceuta",
-      "link": "https://diarioversionfinal.com/mundo/hrw-pide-a-espana-proteger-y-ofrecer-asilo-a-migrantes-varados-en-ceuta/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/jeTfQB4D-CEUTA-750x430.jpg"
+      "title": "Colombia designa a empresario para dirigir fondo de reconstrucción tras terremoto",
+      "link": "https://diarioversionfinal.com/mundo/colombia-designa-a-empresario-para-dirigir-fondo-de-reconstruccion-tras-terremoto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/5786202266871205936-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-21T19:25:23.786Z"
+  "lastUpdate": "2026-08-21T20:24:54.323Z"
 };
