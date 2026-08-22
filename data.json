@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "920,00"
+      "usdt": "919,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@
     },
     {
       "source": "Infobae",
-      "title": "El Parlamento de Venezuela aprobó una reforma para acelerar el acceso a viviendas tras los terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/08/22/el-parlamento-de-venezuela-aprobo-una-reforma-para-acelerar-el-acceso-a-viviendas-tras-los-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/LRIBEVIM5VBVLINLDYSANOGNVY.jpg?auth=e22931fbf55db61e57732619b01aca377cfaa61783967a7dd0100a171cb81417&smart=true&width=350&height=197&quality=85"
+      "title": "Murió Romina Rivera Cruz, la violinista venezolana de nueve años que tocó frente al papa León XIV en el Vaticano",
+      "link": "https://www.infobae.com/venezuela/2026/08/22/murio-romina-rivera-cruz-la-violinista-venezolana-de-nueve-anos-que-toco-frente-al-papa-leon-xiv-en-el-vaticano/",
+      "image": "https://www.infobae.com/resizer/v2/KFHR7ND53ZGM3JSRWIQLOYIIYI.jpg?auth=9ad1ad173df8f3afe094e0c1a41a458a5efcb64b3d43ebc80ae38e69e1b60a5f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela transformará escombros del doble terremoto en insumos para la reconstrucción: Anunció el ministro de Ecosocialismo",
-      "link": "https://noticialdia.com/al-dia/venezuela-transformara-escombros-del-doble-terremoto-en-insumos-para-la-reconstruccion-anuncio-el-ministro-de-ecosocialismo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-13-9.webp?x74346"
+      "title": "Jorge Rodríguez destituyó al diputado Antonio Ecarri del Grupo de Amistad Parlamentaria con EEUU e inició investigación",
+      "link": "https://noticialdia.com/politica/jorge-rodriguez-destituyo-al-diputado-antonio-ecarri-del-grupo-de-amistad-parlamentaria-con-eeuu-e-inicio-investigacion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-101.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La guerra comercial entre EE.UU. y Canadá se reaviva tras el fracaso de las negociaciones",
-      "link": "https://cnnespanol.cnn.com/2026/08/21/economia/plazo-trump-acuerod-comercio-canada-que-sabemos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260822071415013.Jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La operación petrolera secreta que evita que los precios se disparen",
+      "link": "https://cnnespanol.cnn.com/2026/08/22/mundo/petroleo-estrecho-de-ormuz-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-guerra-medio-oriente.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T11:20:10.616Z"
+  "lastUpdate": "2026-08-22T12:37:57.245Z"
 }
