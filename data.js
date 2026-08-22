@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,00"
+      "usdt": "918,88"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Jorge Rodríguez destituyó al diputado Antonio Ecarri del Grupo de Amistad Parlamentaria con EEUU e inició investigación",
-      "link": "https://noticialdia.com/politica/jorge-rodriguez-destituyo-al-diputado-antonio-ecarri-del-grupo-de-amistad-parlamentaria-con-eeuu-e-inicio-investigacion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-101.webp?x74346"
+      "title": "Ejecutan demolición controlada del edificio Residencias Newport en Caraballeda",
+      "link": "https://noticialdia.com/al-dia/ejecutan-demolicion-controlada-del-edificio-residencias-newport-en-caraballeda/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-1-14.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "HALLARON CINCO CUERPOS DURANTE LABORES DE RESCATE EN EDIFICIO COLAPSADO DE LA GUAIRA",
-      "link": "https://noticierodigital.com/2026/08/hallaron-cinco-cuerpos-durante-labores-de-rescate-en-edificio-colapsado-de-la-guaira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/playa-grande-la-guaira-cadaveres-terremotos-627x376.jpg"
+      "title": "FRACASA ACUERDO CANADÁ-EE.UU. PARA EVITAR NUEVOS ARANCELES",
+      "link": "https://noticierodigital.com/2026/08/fracasa-acuerdo-canada-ee-uu-para-evitar-nuevos-aranceles/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/aranceles_Trump-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump ordena a la NASA explorar vías comerciales para llevar humanos a Marte",
-      "link": "https://diarioversionfinal.com/mundo/trump-ordena-a-la-nasa-explorar-vias-comerciales-para-llevar-humanos-a-marte/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-29-04-2026-750x430.jpg"
+      "title": "Irán desafía el \"DÍA D económico\" de EE.UU. pese al deterioro de su economía",
+      "link": "https://diarioversionfinal.com/mundo/iran-desafia-el-dia-d-economico-de-ee-uu-pese-al-deterioro-de-su-economia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/AFP-20260127-94646JH-v1-MidRes-IranUsProtests-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T12:37:57.245Z"
+  "lastUpdate": "2026-08-22T13:31:17.850Z"
 };
