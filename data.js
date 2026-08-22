@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,43"
+      "usdt": "917,74"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Más de 100 sismos en Venezuela registró Funvisis entre el 14 y el 20 de agosto",
-      "link": "https://noticialdia.com/principal/mas-de-100-sismos-en-venezuela-registro-funvisis-entre-el-14-y-el-20-de-agosto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-14.webp?x74346"
+      "title": "Más de 320 mil bachilleres tienen cupo asegurado en universidades del país",
+      "link": "https://noticialdia.com/al-dia/mas-de-320-mil-bachilleres-tienen-cupo-asegurado-en-universidades-del-pais/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-8-14.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Miles de migrantes siguen en las calles de Ceuta tres semanas después de entrada masiva",
-      "link": "https://diarioversionfinal.com/mundo/miles-de-migrantes-siguen-en-las-calles-de-ceuta-tres-semanas-despues-de-entrada-masiva/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/jeTfQB4D-CEUTA-750x430.jpg"
+      "title": "Lula lidera intención de voto en Brasil con 39% tras el inicio de la campaña electoral",
+      "link": "https://diarioversionfinal.com/mundo/lula-lidera-intencion-de-voto-en-brasil-con-39-tras-el-inicio-de-la-campana-electoral/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/LULA.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-22T16:22:58.095Z"
+  "lastUpdate": "2026-08-22T17:19:58.267Z"
 };
