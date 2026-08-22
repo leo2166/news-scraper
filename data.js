@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "920,50"
+      "usdt": "922,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela designó a Enrique Ochoa Antich como embajador en Suiza",
-      "link": "https://www.infobae.com/venezuela/2026/08/21/venezuela-designo-a-enrique-ochoa-antich-como-embajador-en-suiza/",
-      "image": "https://www.infobae.com/resizer/v2/SXOTPXYWPZBBROAMXNCZKQBEL4.jpg?auth=7136322c54823888e9a46b72cc6ae3d2580839dc956629615f2403a94fa6158b&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición de Venezuela agradeció el respaldo de la Unión Europea en las negociaciones con el Gobierno chavista",
+      "link": "https://www.infobae.com/venezuela/2026/08/22/la-oposicion-de-venezuela-agradecio-el-respaldo-de-la-union-europea-en-las-negociaciones-con-el-gobierno-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/HWOJ2L7QRFCKDFF4IASRWUUMRY.JPG?auth=cd2a46ca238ffdba3a2e1d7a07ec47c72df532875f500f4496181041e0a7af8a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Corea del Norte aumenta su apoyo a Rusia, según Ucrania",
-      "link": "https://cnnespanol.cnn.com/2026/08/21/mundo/corea-norte-apoyo-rusia-drones-ucrania-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-03t215432z-2042834002-rc2lkga60f54-rtrmadp-3-ww2-anniversary-china-northkorea-20260821075925262.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Canadá suspende las negociaciones comerciales con EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/08/21/economia/plazo-trump-acuerod-comercio-canada-que-sabemos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-21-160130.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T04:31:40.765Z"
+  "lastUpdate": "2026-08-22T05:26:18.713Z"
 };
