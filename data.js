@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "La Chinita visita la Parroquia Santísimo Cristo de San Francisco en una jornada de inmensa fe y devoción",
-      "link": "https://noticialdia.com/al-dia/la-chinita-visita-la-parroquia-santisimo-cristo-de-san-francisco-en-una-jornada-de-inmensa-fe-y-devocion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-11-12.webp?x74346"
+      "title": "El tenis juvenil se apodera del Parque San Simón con las semifinales y finales del torneo G3",
+      "link": "https://noticialdia.com/al-dia/el-tenis-juvenil-se-apodera-del-parque-san-simon-con-las-semifinales-y-finales-del-torneo-g3/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/20260822_161142_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La operación petrolera secreta que evita que los precios se disparen",
-      "link": "https://cnnespanol.cnn.com/2026/08/22/mundo/petroleo-estrecho-de-ormuz-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-guerra-medio-oriente.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El gobernador mexicano acusado de narcotráfico por EE.UU. volvió al cargo",
+      "link": "https://cnnespanol.cnn.com/2026/08/22/mexico/gobernador-ruben-rocha-sheinbaum-morena-dan-espalda-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-21t181619z-1972418984-rc2dafakqt1e-rtrmadp-3-usa-mexico-politics.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MÉRIDA: LE QUITÓ LA VIDA CON UN DESTORNILLADOR MIENTRAS DORMÍA PORQUE LE DEBÍA $2",
-      "link": "https://noticierodigital.com/2026/08/merida-le-quito-la-vida-con-un-destornillador-mientras-dormia-porque-le-debia-2/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/08/cicpc-foto-de-douglas-rico-23ago2021.jpg"
+      "title": "EXCARCELADO BAJO PRESENTACIÓN EL SARGENTO CARLOS SMITH TRAS AÑOS DE «LIMBO JURÍDICO»",
+      "link": "https://noticierodigital.com/2026/08/excarcelado-bajo-presentacion-el-sargento-carlos-smith-tras-anos-de-limbo-juridico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/IMG-20260822-WA0144-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula lidera intención de voto en Brasil con 39% tras el inicio de la campaña electoral",
-      "link": "https://diarioversionfinal.com/mundo/lula-lidera-intencion-de-voto-en-brasil-con-39-tras-el-inicio-de-la-campana-electoral/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/LULA.jpeg"
+      "title": "Putin afirma que la economía de Ucrania está en una situación crítica",
+      "link": "https://diarioversionfinal.com/mundo/putin-afirma-que-la-economia-de-ucrania-esta-en-una-situacion-critica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Putin-19-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T20:21:37.870Z"
+  "lastUpdate": "2026-08-22T21:21:06.816Z"
 };
