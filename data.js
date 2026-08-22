@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "922,90"
+      "usdt": "922,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La oposición de Venezuela agradeció el respaldo de la Unión Europea en las negociaciones con el Gobierno chavista",
-      "link": "https://www.infobae.com/venezuela/2026/08/22/la-oposicion-de-venezuela-agradecio-el-respaldo-de-la-union-europea-en-las-negociaciones-con-el-gobierno-chavista/",
-      "image": "https://www.infobae.com/resizer/v2/HWOJ2L7QRFCKDFF4IASRWUUMRY.JPG?auth=cd2a46ca238ffdba3a2e1d7a07ec47c72df532875f500f4496181041e0a7af8a&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento de Venezuela aprobó una reforma para acelerar el acceso a viviendas tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/08/22/el-parlamento-de-venezuela-aprobo-una-reforma-para-acelerar-el-acceso-a-viviendas-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/LRIBEVIM5VBVLINLDYSANOGNVY.jpg?auth=e22931fbf55db61e57732619b01aca377cfaa61783967a7dd0100a171cb81417&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -35,7 +35,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "La guerra comercial entre EE.UU. y Canadá se reaviva tras el fracaso de las negociaciones",
       "link": "https://cnnespanol.cnn.com/2026/08/21/economia/plazo-trump-acuerod-comercio-canada-que-sabemos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-21-160130.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260822071415013.Jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T06:38:58.879Z"
+  "lastUpdate": "2026-08-22T07:30:47.698Z"
 };
