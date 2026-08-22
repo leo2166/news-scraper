@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "922,50"
+      "usdt": "922,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,7 +33,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Canadá suspende las negociaciones comerciales con EE.UU.",
+      "title": "La guerra comercial entre EE.UU. y Canadá se reaviva tras el fracaso de las negociaciones",
       "link": "https://cnnespanol.cnn.com/2026/08/21/economia/plazo-trump-acuerod-comercio-canada-que-sabemos-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-21-160130.png?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Trump-29-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T05:26:18.713Z"
+  "lastUpdate": "2026-08-22T06:38:58.879Z"
 };
