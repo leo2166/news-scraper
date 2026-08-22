@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,30"
+      "usdt": "917,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Putin-19-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T22:21:07.804Z"
+  "lastUpdate": "2026-08-22T23:19:49.461Z"
 };
