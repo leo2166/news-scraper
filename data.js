@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cpbez captura a cuatro hombres por violencia contra la mujer en Maracaibo y Lagunillas",
-      "link": "https://noticialdia.com/sucesos/cpbez-captura-a-cuatro-hombres-por-violencia-contra-la-mujer-en-maracaibo-y-lagunillas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-7-1.webp?x74346"
+      "title": "La Chinita visita la Parroquia Santísimo Cristo de San Francisco en una jornada de inmensa fe y devoción",
+      "link": "https://noticialdia.com/al-dia/la-chinita-visita-la-parroquia-santisimo-cristo-de-san-francisco-en-una-jornada-de-inmensa-fe-y-devocion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-11-12.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPACITACIÓN DE EE .UU. A LA BANCA VENEZOLANA ES UN PASO IMPORTANTE, DESTACÓ ASDRÚBAL OLIVEROS",
-      "link": "https://noticierodigital.com/2026/08/capacitacion-de-ee-uu-a-la-banca-venezolana-es-un-paso-importante-destaco-asdrubal-oliveros/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/asdrubaloliveros-zonaseconomicasespeciales-26jul2022-627x376.jpg"
+      "title": "MÉRIDA: LE QUITÓ LA VIDA CON UN DESTORNILLADOR MIENTRAS DORMÍA PORQUE LE DEBÍA $2",
+      "link": "https://noticierodigital.com/2026/08/merida-le-quito-la-vida-con-un-destornillador-mientras-dormia-porque-le-debia-2/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/08/cicpc-foto-de-douglas-rico-23ago2021.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/LULA.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-22T19:21:37.488Z"
+  "lastUpdate": "2026-08-22T20:21:37.870Z"
 };
