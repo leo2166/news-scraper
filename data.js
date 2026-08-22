@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Abuela denuncia a su propia hija luego de propinarle una golpiza a su nieto de 8 años en Mara",
-      "link": "https://noticialdia.com/al-dia/abuela-denuncia-a-su-propia-hija-luego-de-propinarle-una-golpiza-a-su-nieto-de-8-anos-en-mara/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-5-1.webp?x74346"
+      "title": "Cpbez captura a cuatro hombres por violencia contra la mujer en Maracaibo y Lagunillas",
+      "link": "https://noticialdia.com/sucesos/cpbez-captura-a-cuatro-hombres-por-violencia-contra-la-mujer-en-maracaibo-y-lagunillas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-7-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CEPAL: RECONSTRUCCIÓN EN COLOMBIA Y VENEZUELA TRAS TERREMOTOS PODRÍA IMPULSAR LA ACTIVIDAD ECONÓMICA",
-      "link": "https://noticierodigital.com/2026/08/cepal-reconstruccion-en-colombia-y-venezuela-tras-terremotos-podria-impulsar-la-actividad-economica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/cepal-reunion.jpg"
+      "title": "CAPACITACIÓN DE EE .UU. A LA BANCA VENEZOLANA ES UN PASO IMPORTANTE, DESTACÓ ASDRÚBAL OLIVEROS",
+      "link": "https://noticierodigital.com/2026/08/capacitacion-de-ee-uu-a-la-banca-venezolana-es-un-paso-importante-destaco-asdrubal-oliveros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/asdrubaloliveros-zonaseconomicasespeciales-26jul2022-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/LULA.jpeg"
     }
   ],
-  "lastUpdate": "2026-08-22T18:29:28.820Z"
+  "lastUpdate": "2026-08-22T19:21:37.488Z"
 };
