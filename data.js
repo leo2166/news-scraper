@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,50"
+      "usdt": "919,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Una ONG venezolana pidió al Gobierno chavista que amplíe la cooperación de la Cruz Roja en cárceles donde hubo denuncias de tortura",
-      "link": "https://www.infobae.com/venezuela/2026/08/23/una-ong-venezolana-pidio-al-gobierno-chavista-que-amplie-la-cooperacion-de-la-cruz-roja-en-carceles-donde-hubo-denuncias-de-tortura/",
-      "image": "https://www.infobae.com/resizer/v2/UHE54FB3UNBPBBBAEKBCKSNFKA?auth=da8d87dafaef9419f80bdff864543d170a4944cd8c8d8abe4e383a5436a0445d&smart=true&width=350&height=197&quality=85"
+      "title": "La Fuerza Armada venezolana ante una encrucijada: despolitizarse o seguir perdiendo capacidad institucional",
+      "link": "https://www.infobae.com/venezuela/2026/08/23/la-fuerza-armada-venezolana-ante-una-encrucijada-despolitizarse-o-seguir-perdiendo-capacidad-institucional/",
+      "image": "https://www.infobae.com/resizer/v2/CEL7FRNAS5BGXDJEBIRZ5YPFKI.jpg?auth=eb83b0ebc99884963442a434f5256bb846b36ce14cf6c61b186ddea3dec9951a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Funvisis reporta seguidilla de siete temblores entre el 22 y 23 de agosto",
-      "link": "https://noticialdia.com/principal/funvisis-reporta-seguidilla-de-siete-temblores-entre-el-22-y-23-de-agosto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-13-3.webp?x74346"
+      "title": "Onda tropical N° 40 avanza por el país mientras la N° 41 amenaza con más lluvias este lunes 24-Ago",
+      "link": "https://noticialdia.com/sin-categoria/onda-tropical-n-40-avanza-por-el-pais-mientras-la-n-41-amenaza-con-mas-lluvias-este-lunes-24-ago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-5.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXCARCELADO BAJO PRESENTACIÓN EL SARGENTO CARLOS SMITH TRAS AÑOS DE «LIMBO JURÍDICO»",
-      "link": "https://noticierodigital.com/2026/08/excarcelado-bajo-presentacion-el-sargento-carlos-smith-tras-anos-de-limbo-juridico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/IMG-20260822-WA0144-627x376.jpg"
+      "title": "FUNVISIS REGISTRÓ TRES MOVIMIENTOS TELÚRICOS LA MADRUGADA DE ESTE 23A",
+      "link": "https://noticierodigital.com/2026/08/funvisis-registro-tres-movimientos-teluricos-la-madrugada-de-este-23a/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/actividad-sismica-funvisis-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Francia-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-23T13:31:31.592Z"
+  "lastUpdate": "2026-08-23T14:22:38.993Z"
 };
