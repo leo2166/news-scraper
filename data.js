@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,60"
+      "usdt": "910,74"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Hasta 65 mil Bs. puede costar la lista de útiles escolares más barata para el período 2026-2027",
-      "link": "https://noticialdia.com/zulia/hasta-65-mil-bs-puede-costar-la-lista-de-utiles-escolares-mas-barata-para-el-periodo-2026-2027/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/7df60adb-8192-4b3e-9860-09cc7439f7f2-convertido-a-1024x720-1.webp?x74346"
+      "title": "La Copa Aguafiel cerró con éxito tras una jornada de alto nivel en Pádel Maracaibo",
+      "link": "https://noticialdia.com/principal/la-copa-aguafiel-cerro-con-exito-tras-una-jornada-de-alto-nivel-en-padel-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/IMG_20260823_123540.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Canciller Félix Plasencia se reunió con la Embajadora de los Países Bajos Carmen Gonsalves",
-      "link": "https://noticiasvenevision.com/noticias/politica/canciller-felix-plasencia-se-reunio-con-la-embajadora-de-los-paises-bajos-carmen-gonsalves",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sin-titulo-856-x-647-px-2026-08-22t175237.431-447573.jpg"
+      "title": "Enrique Márquez: \"El acompañamiento norteamericano en esta ruta no es desechable. No es desechable, es esencial, es  indispensable para que esto pueda salir bien\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/enrique-marquez-el-acompanamiento-norteamericano-en-esta-ruta-no-es-desechable-no-es-desechable-es-esencial-es-indispensable-para-que-esto-pueda-salir-bien",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_1846.jpg-fe80c6.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Masoud-Pezeshkian-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-23T16:25:16.429Z"
+  "lastUpdate": "2026-08-23T17:19:37.993Z"
 };
