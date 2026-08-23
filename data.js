@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "918,00"
+      "usdt": "918,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Impunidad al volante: Graban a vehículo en sentido contrario por la C-1",
-      "link": "https://noticialdia.com/al-dia/impunidad-al-volante-graban-a-vehiculo-en-sentido-contrario-por-la-c-1/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-23T111523.256.webp?x74346"
+      "title": "Hasta 65 mil Bs. puede costar la lista de útiles escolares más barata para el período 2026-2027",
+      "link": "https://noticialdia.com/zulia/hasta-65-mil-bs-puede-costar-la-lista-de-utiles-escolares-mas-barata-para-el-periodo-2026-2027/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/7df60adb-8192-4b3e-9860-09cc7439f7f2-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Esta inmigrante dejó EE.UU. por Canadá y encontró una realidad muy distinta",
-      "link": "https://cnnespanol.cnn.com/2026/08/23/eeuu/inmigrante-haitiana-canada-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/haitiana-frontera.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Presidente de Irán dice que el país “no puede seguir en guerra para siempre”",
+      "link": "https://cnnespanol.cnn.com/2026/08/23/mundo/live-news/guerra-medio-oriente-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2288806525-20260823145412396.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUNVISIS REGISTRÓ TRES MOVIMIENTOS TELÚRICOS LA MADRUGADA DE ESTE 23A",
-      "link": "https://noticierodigital.com/2026/08/funvisis-registro-tres-movimientos-teluricos-la-madrugada-de-este-23a/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/actividad-sismica-funvisis-627x376.jpg"
+      "title": "ZELENSKI RECHAZA ELECCIONES PORQUE «DIVIDIRÁ A UCRANIA»",
+      "link": "https://noticierodigital.com/2026/08/zelenski-rechaza-elecciones-porque-dividira-a-ucrania/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Volodymyr-Zelenskyy-Ucrania-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Catorce distritos de Portugal están en alerta amarilla por lluvias y tormentas eléctricas",
-      "link": "https://diarioversionfinal.com/mundo/catorce-distritos-de-portugal-estan-en-alerta-amarilla-por-lluvias-y-tormentas-electricas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/11/lisboa-portugal-efe-e1337ef3013b3ed465bc5893c9f16f31cf9b87eaw-750x430.jpg"
+      "title": "Pezeshkian afirmó que EE. UU. fracasó en su intento de \"hacer en Irán lo que hizo con Venezuela\"",
+      "link": "https://diarioversionfinal.com/mundo/pezeshkian-afirmo-que-ee-uu-fracaso-en-su-intento-de-hacer-en-iran-lo-que-hizo-con-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Masoud-Pezeshkian-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-23T15:22:00.243Z"
+  "lastUpdate": "2026-08-23T16:25:16.429Z"
 };
