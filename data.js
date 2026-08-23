@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,00"
+      "usdt": "918,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Onda tropical N° 40 avanza por el país mientras la N° 41 amenaza con más lluvias este lunes 24-Ago",
-      "link": "https://noticialdia.com/sin-categoria/onda-tropical-n-40-avanza-por-el-pais-mientras-la-n-41-amenaza-con-mas-lluvias-este-lunes-24-ago/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-4-5.webp?x74346"
+      "title": "Impunidad al volante: Graban a vehículo en sentido contrario por la C-1",
+      "link": "https://noticialdia.com/al-dia/impunidad-al-volante-graban-a-vehiculo-en-sentido-contrario-por-la-c-1/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-23T111523.256.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "301 personas murieron ahogadas durante las olas de calor en Francia",
-      "link": "https://diarioversionfinal.com/mundo/301-personas-murieron-ahogadas-durante-las-olas-de-calor-en-francia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Francia-1-750x430.jpg"
+      "title": "Catorce distritos de Portugal están en alerta amarilla por lluvias y tormentas eléctricas",
+      "link": "https://diarioversionfinal.com/mundo/catorce-distritos-de-portugal-estan-en-alerta-amarilla-por-lluvias-y-tormentas-electricas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/11/lisboa-portugal-efe-e1337ef3013b3ed465bc5893c9f16f31cf9b87eaw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-23T14:22:38.993Z"
+  "lastUpdate": "2026-08-23T15:22:00.243Z"
 };
