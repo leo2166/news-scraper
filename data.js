@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "910,00"
+      "usdt": "919,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Murió Romina Rivera Cruz, la violinista venezolana de nueve años que tocó frente al papa León XIV en el Vaticano",
-      "link": "https://www.infobae.com/venezuela/2026/08/22/murio-romina-rivera-cruz-la-violinista-venezolana-de-nueve-anos-que-toco-frente-al-papa-leon-xiv-en-el-vaticano/",
-      "image": "https://www.infobae.com/resizer/v2/KFHR7ND53ZGM3JSRWIQLOYIIYI.jpg?auth=9ad1ad173df8f3afe094e0c1a41a458a5efcb64b3d43ebc80ae38e69e1b60a5f&smart=true&width=350&height=197&quality=85"
+      "title": "Una ONG venezolana pidió al Gobierno chavista que amplíe la cooperación de la Cruz Roja en cárceles donde hubo denuncias de tortura",
+      "link": "https://www.infobae.com/venezuela/2026/08/23/una-ong-venezolana-pidio-al-gobierno-chavista-que-amplie-la-cooperacion-de-la-cruz-roja-en-carceles-donde-hubo-denuncias-de-tortura/",
+      "image": "https://www.infobae.com/resizer/v2/UHE54FB3UNBPBBBAEKBCKSNFKA?auth=da8d87dafaef9419f80bdff864543d170a4944cd8c8d8abe4e383a5436a0445d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El tenis juvenil se apodera del Parque San Simón con las semifinales y finales del torneo G3",
-      "link": "https://noticialdia.com/al-dia/el-tenis-juvenil-se-apodera-del-parque-san-simon-con-las-semifinales-y-finales-del-torneo-g3/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/20260822_161142_0000.webp?x74346"
+      "title": "Delcy Rodríguez ordenó activar el Sistema de Protección Civil para atender afectacciones ante fuertes lluvias en Caracas",
+      "link": "https://noticialdia.com/al-dia/delcy-rodriguez-ordeno-activar-el-sistema-de-proteccion-civil-para-atender-afectacciones-ante-fuertes-lluvias-en-caracas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-35-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Putin afirma que la economía de Ucrania está en una situación crítica",
-      "link": "https://diarioversionfinal.com/mundo/putin-afirma-que-la-economia-de-ucrania-esta-en-una-situacion-critica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Putin-19-08-2025-750x430.jpg"
+      "title": "Gobernador del estado mexicano de Sinaloa, Rocha Moya, solicita segunda licencia al cargo",
+      "link": "https://diarioversionfinal.com/mundo/gobernador-del-estado-mexicano-de-sinaloa-rocha-moya-solicita-segunda-licencia-al-cargo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Ruben-Rocha-Moya-22-08-2026-736x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-23T01:18:28.424Z"
+  "lastUpdate": "2026-08-23T03:02:09.362Z"
 };
