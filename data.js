@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,60"
+      "usdt": "919,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "San Francisco se desborda en devoción durante la histórica visita de la Virgen de Chiquinquirá",
-      "link": "https://noticialdia.com/al-dia/san-francisco-se-desborda-en-devocion-durante-la-historica-visita-de-la-virgen-de-chiquinquira/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-36-1.webp?x74346"
+      "title": "Real Madrid arranca LaLiga sumando tres puntos ante Espanyol tras un gol agónico de Espí",
+      "link": "https://noticialdia.com/deportes/real-madrid-arranca-laliga-sumando-tres-puntos-ante-espanyol-tras-un-gol-agonico-de-espi/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/IMG_20260823_083135.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Esta inmigrante dejó EE.UU. para ir a Canadá. Pudo ver algo muy distinto en la frontera",
+      "title": "Esta inmigrante dejó EE.UU. por Canadá y encontró una realidad muy distinta",
       "link": "https://cnnespanol.cnn.com/2026/08/23/eeuu/inmigrante-haitiana-canada-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/haitiana-frontera.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De La Espriella reporta cuatro operativos contra el crimen organizado con capturas, rescates e incautaciones",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-reporta-cuatro-operativos-contra-el-crimen-organizado-con-capturas-rescates-e-incautaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/de-la-espriella-750x430.webp"
+      "title": "Irán ejecuta a un hombre acusado de colaborar con EE. UU. e Israel durante protestas",
+      "link": "https://diarioversionfinal.com/mundo/iran-ejecuta-a-un-hombre-acusado-de-colaborar-con-ee-uu-e-israel-durante-protestas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/2026-07-12T083107Z-212065747-RC25CMA1A4YX-RTRMADP-3-IRAN-CRISIS-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-23T11:20:00.786Z"
+  "lastUpdate": "2026-08-23T12:38:53.337Z"
 };
