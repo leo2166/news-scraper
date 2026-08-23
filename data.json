@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,70"
+      "usdt": "919,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Natalie Harp alentó a Trump durante el asalto al Capitolio del 6 de enero",
-      "link": "https://cnnespanol.cnn.com/2026/08/22/eeuu/natalie-harp-apoyo-trump-6-enero-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-22-120225.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Esta inmigrante dejó EE.UU. para ir a Canadá. Pudo ver algo muy distinto en la frontera",
+      "link": "https://cnnespanol.cnn.com/2026/08/23/eeuu/inmigrante-haitiana-canada-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/haitiana-frontera.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/de-la-espriella-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-23T09:26:42.929Z"
+  "lastUpdate": "2026-08-23T10:23:03.477Z"
 }
