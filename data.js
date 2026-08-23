@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/de-la-espriella-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-23T05:28:29.267Z"
+  "lastUpdate": "2026-08-23T06:39:35.738Z"
 };
