@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "917,00"
+      "usdt": "910,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "El gobernador mexicano acusado de narcotráfico por EE.UU. volvió al cargo",
-      "link": "https://cnnespanol.cnn.com/2026/08/22/mexico/gobernador-ruben-rocha-sheinbaum-morena-dan-espalda-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-21t181619z-1972418984-rc2dafakqt1e-rtrmadp-3-usa-mexico-politics.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Natalie Harp alentó a Trump durante el asalto al Capitolio del 6 de enero",
+      "link": "https://cnnespanol.cnn.com/2026/08/22/eeuu/natalie-harp-apoyo-trump-6-enero-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-08-22-120225.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/08/Putin-19-08-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-22T23:19:49.461Z"
+  "lastUpdate": "2026-08-23T01:18:28.424Z"
 }
