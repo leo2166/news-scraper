@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "923,00"
+      "usdt": "928,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Eduardo Rodríguez y Jesús Luzardo lideran brillante año para los abridores venezolanos en la MLB",
-      "link": "https://noticialdia.com/deportes/eduardo-rodriguez-y-jesus-luzardo-lideran-brillante-ano-para-los-abridores-venezolanos-en-la-mlb/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260824_103329_0000.webp?x74346"
+      "title": "¡Bombazo! Klay Thompson firma por dos temporadas con el Miami Heat",
+      "link": "https://noticialdia.com/deportes/bombazo-klay-thompson-firma-por-dos-temporadas-con-el-miami-heat/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260824_112720_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE .UU. ATACÓ OTRA «NARCOLANCHA» Y REPORTÓ DOS MUERTOS EN PACÍFICO ORIENTAL",
-      "link": "https://noticierodigital.com/2026/08/ee-uu-ataco-otra-narcolancha-y-reporto-dos-muertos-en-pacifico-oriental/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/comando-sur-de-eeuu-ataque-narcolancha-627x376.jpg"
+      "title": "NAHUEL GALLO SOBRE PRESOS POLÍTICOS EN VENEZUELA: «AYER PUDE CORRER LIBRE, ELLOS TODAVÍA ESPERAN»",
+      "link": "https://noticierodigital.com/2026/08/nahuel-gallo-sobre-presos-politicos-en-venezuela-ayer-pude-correr-libre-ellos-todavia-esperan/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-25-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Pescadores rescatan a un perro perdido en altamar: “Pensamos que era un lobo marino”",
-      "link": "https://laverdad.com/pescadores-rescatan-a-un-perro-perdido-en-altamar-pensamos-que-era-un-lobo-marino/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/PerritoAltamar.jpg"
+      "title": "Detienen en Bucaramanga a alias “Cecilio”, presunto integrante del “Tren de Aragua”",
+      "link": "https://laverdad.com/detienen-en-bucaramanga-a-alias-cecilio-presunto-integrante-del-tren-de-aragua/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Alias-Cecilio-Tren-de-Aragua.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Director de la DEA reafirma ofensiva conjunta de México y EEUU contra el CJNG",
-      "link": "https://diarioversionfinal.com/mundo/director-de-la-dea-reafirma-ofensiva-conjunta-de-mexico-y-eeuu-contra-el-cjng/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-34-701x430.jpg"
+      "title": "Lula se ausenta del primer debate presidencial y cuestiona el deterioro de la política",
+      "link": "https://diarioversionfinal.com/mundo/lula-se-ausenta-del-primer-debate-presidencial-y-cuestiona-el-deterioro-de-la-politica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Lula_debate_presidencial_Brasil-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-24T14:41:00.913Z"
+  "lastUpdate": "2026-08-24T15:38:24.869Z"
 };
