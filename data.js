@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Al menos seis desaparecidos tras las torrenciales lluvias que azotaron Caracas y otras regiones de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/23/al-menos-seis-desaparecidos-tras-las-torrenciales-lluvias-que-azotaron-caracas-y-otras-regiones-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/ZJQ7MLY4KJCWPOT6X2LJZELFVE.png?auth=52c43d259841ee8d209054a8e3550f3c097bd65c3755e59000694fbe6953d90d&smart=true&width=350&height=197&quality=85"
+      "title": "Reconstruir Venezuela",
+      "link": "https://www.infobae.com/america/opinion/2026/08/24/reconstruir-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/77ZNK3T6FNEQFBXXRY5Z4SML44.JPG?auth=535054b534033abc37e936e92467c076510f4579b586c137a51d151c9ac70a41&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Petroleros_estrecho_Ormuz-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-24T06:57:11.829Z"
+  "lastUpdate": "2026-08-24T07:59:25.168Z"
 };
