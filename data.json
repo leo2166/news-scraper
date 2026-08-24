@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 25 Agosto 2026"
     },
     "binance": {
-      "usdt": "928,00"
+      "usdt": "925,25"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Experto: Venezuela necesita al FMI para dar credibilidad a la renegociación de la deuda externa",
-      "link": "https://www.bancaynegocios.com/experto-venezuela-necesita-al-fmi-para-dar-credibilidad-a-la-renegociacion-de-la-deuda-externa/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/jorge-piedrahita-2026-1.jpeg"
+      "title": "Daños viales en Lara ponen en riesgo de pérdida hasta 15.000 quintales de café",
+      "link": "https://www.bancaynegocios.com/danos-viales-en-lara-ponen-en-riesgo-de-perdida-hasta-15000-quintales-de-cafe/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/Cafe-Venezuela.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera entrega 75 toneladas de aire acondicionado para áreas esenciales del Hospital de Rosario de Perijá",
-      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-entrega-75-toneladas-de-aire-acondicionado-para-areas-esenciales-del-hospital-de-rosario-de-perija/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-24T163055.688.webp?x74346"
+      "title": "Se eleva a 6 mil 509 la cifra de fallecidos por el doble terremoto en Venezuela",
+      "link": "https://noticialdia.com/nacionales/se-eleva-a-6-mil-509-la-cifra-de-fallecidos-por-el-doble-terremoto-en-venezuela/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-13-9.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno nacional supervisa labores de mantenimiento en las principales arterias viales de Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-supervisa-labores-de-mantenimiento-en-las-principales-arterias-de-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodrguez-32f491.png"
+      "title": "Sistema de justicia procesa más de 15.000 solicitudes de amnistía con más de 8.000 respuestas positivas",
+      "link": "https://noticiasvenevision.com/noticias/politica/sistema-de-justicia-procesa-mas-de-15000-solicitudes-de-amnistia-con-mas-de-8000-respuestas-positivas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-22-at-12.26.51-pm-f2ff49.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TAP MANTENDRÁ CONEXIÓN CON VENEZUELA DESDE VALENCIA HASTA FINALES DE OCTUBRE",
-      "link": "https://noticierodigital.com/2026/08/tap-mantendra-conexion-con-venezuela-desde-valencia-hasta-finales-de-octubre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/TAP-Air-Portugal-627x376.jpg"
+      "title": "EE. UU. EVALÚA REVOCAR HASTA 200.000 VISAS A EXTRANJEROS QUE SOLICITARON ASILO",
+      "link": "https://noticierodigital.com/2026/08/ee-uu-evalua-revocar-hasta-200-000-visas-a-extranjeros-que-solicitaron-asilo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/departamento-de-estado-de-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Migrantes-Ceuta-24-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-24T22:26:06.352Z"
+  "lastUpdate": "2026-08-24T23:21:25.980Z"
 }
