@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Comerciantes en Las Pulgas solicitan reparación del techo del bloque 3 por el vendaval: \"Hay láminas guindando que pueden decapitar\"",
-      "link": "https://noticialdia.com/sucesos/comerciantes-en-las-pulgas-solicitan-reparacion-del-techo-del-bloque-3-por-el-vendaval-hay-laminas-guindando-que-pueden-decapitar/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/072827e3-af15-4511-97a0-24ce0f82f382-convertido-a-1024x720-1.webp?x74346"
+      "title": "Gobernador Luis Caldera entrega 75 toneladas de aire acondicionado para áreas esenciales del Hospital de Rosario de Perijá",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-entrega-75-toneladas-de-aire-acondicionado-para-areas-esenciales-del-hospital-de-rosario-de-perija/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-24T163055.688.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "A 2 MESES DEL DOBLETE SÍSMICO: CABELLO DIJO QUE EL GOBIERNO SEGUIRÁ EN LA GUAIRA",
-      "link": "https://noticierodigital.com/2026/08/a-2-meses-del-doblete-sismico-cabello-dijo-que-el-gobierno-seguira-en-la-guaira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/cabello-627x376.jpg"
+      "title": "TAP MANTENDRÁ CONEXIÓN CON VENEZUELA DESDE VALENCIA HASTA FINALES DE OCTUBRE",
+      "link": "https://noticierodigital.com/2026/08/tap-mantendra-conexion-con-venezuela-desde-valencia-hasta-finales-de-octubre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/TAP-Air-Portugal-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "HRW: Grupos armados reclutan menores por redes sociales en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/hrw-grupos-armados-reclutan-menores-por-redes-sociales-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/RRSS-menores-24-08-2026-750x430.jpg"
+      "title": "España anuncia un mando único en Ceuta mientras intenta prevenir \"potenciales enfermedades”",
+      "link": "https://diarioversionfinal.com/mundo/espana-anuncia-un-mando-unico-en-ceuta-mientras-intenta-prevenir-potenciales-enfermedades/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Migrantes-Ceuta-24-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-24T21:28:24.218Z"
+  "lastUpdate": "2026-08-24T22:26:06.352Z"
 };
