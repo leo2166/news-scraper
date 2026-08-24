@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "926,00"
+      "usdt": "923,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Emprender en La Guaira: Una vía para superar la tragedia de los terremotos en Venezuela",
-      "link": "https://www.bancaynegocios.com/emprender-en-la-guaira-una-via-para-superar-la-tragedia-de-los-terremotos-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/EFEEmprender.jpg"
+      "title": "El sector externo marca el ritmo de la economía: Exportaciones crecieron 32,8%, según el BCV",
+      "link": "https://www.bancaynegocios.com/el-sector-externo-marca-el-ritmo-de-la-economia-exportaciones-crecieron-32-con-8-porciento-segun-el-bcv/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/06/Exportaciones-de-Venezuela-a-EEUU.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "‎Sin novedad cañadas de Maracaibo tras el paso de la Onda Tropical N° 40",
-      "link": "https://noticialdia.com/zulia/sin-novedad-canadas-de-maracaibo-tras-el-paso-de-la-onda-tropical-n-40/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/d3e48bfd-f882-473c-ae59-317d7951e003-convertido-a-1024x720-1.webp?x74346"
+      "title": "Eduardo Rodríguez y Jesús Luzardo lideran brillante año para los abridores venezolanos en la MLB",
+      "link": "https://noticialdia.com/deportes/eduardo-rodriguez-y-jesus-luzardo-lideran-brillante-ano-para-los-abridores-venezolanos-en-la-mlb/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260824_103329_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. vuelve a atacar un supuesto narcobote en el Pacífico",
-      "link": "https://cnnespanol.cnn.com/2026/08/24/eeuu/ataque-supuesto-narcobote-pacifico-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataquepacifico.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La moneda de Irán cae a un mínimo histórico frente al dólar",
+      "link": "https://cnnespanol.cnn.com/2026/08/24/mundo/live-news/guerra-estados-unidos-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estados-unidos-20260824095346724.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Mélenchon gana terreno y podría llegar al balotaje presidencial en Francia",
-      "link": "https://diarioversionfinal.com/mundo/melenchon-gana-terreno-y-podria-llegar-al-balotaje-presidencial-en-francia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-32.jpg"
+      "title": "Director de la DEA reafirma ofensiva conjunta de México y EEUU contra el CJNG",
+      "link": "https://diarioversionfinal.com/mundo/director-de-la-dea-reafirma-ofensiva-conjunta-de-mexico-y-eeuu-contra-el-cjng/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-34-701x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-24T13:51:19.276Z"
+  "lastUpdate": "2026-08-24T14:41:00.913Z"
 };
