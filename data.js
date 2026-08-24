@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "921,00"
+      "usdt": "920,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,7 +33,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. vuelve a atacar embarcación presuntamente dedicada al narcotráfico en el Pacífico",
+      "title": "EE.UU. vuelve a atacar un supuesto narcobote en el Pacífico",
       "link": "https://cnnespanol.cnn.com/2026/08/24/eeuu/ataque-supuesto-narcobote-pacifico-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ataquepacifico.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Petroleros_estrecho_Ormuz-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-24T09:54:27.067Z"
+  "lastUpdate": "2026-08-24T10:36:47.715Z"
 };
