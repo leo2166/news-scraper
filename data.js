@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "920,00"
+      "usdt": "919,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Petroleros_estrecho_Ormuz-750x430.png"
     }
   ],
-  "lastUpdate": "2026-08-24T10:36:47.715Z"
+  "lastUpdate": "2026-08-24T11:27:44.577Z"
 };
