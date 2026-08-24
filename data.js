@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "931,99"
+      "usdt": "934,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Porto y Luis Díaz se unen en solidaridad con las víctimas del terremoto en Colombia",
-      "link": "https://noticialdia.com/deportes/porto-y-luis-diaz-se-unen-en-solidaridad-con-las-victimas-del-terremoto-en-colombia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260824_123134_0000.webp?x74346"
+      "title": "Condenada a 30 años por lanzar a su bebé recién nacido por el bajante de basura en el 23 de Enero",
+      "link": "https://noticialdia.com/al-dia/condenada-a-30-anos-por-lanzar-a-su-bebe-recien-nacido-por-el-bajante-de-basura-en-el-23-de-enero/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Gemini_Generated_Image_fbgt1kfbgt1kfbgt.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La moneda de Irán cae a un mínimo histórico frente al dólar",
+      "title": "EE.UU. amenaza con nuevas sanciones para aumentar la presión sobre Irán",
       "link": "https://cnnespanol.cnn.com/2026/08/24/mundo/live-news/guerra-estados-unidos-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/estados-unidos-20260824095346724.jpeg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/bessent-iran-amenazas.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez destacó el rol de las Comunas Productivas para transformar la economía local y generar ingresos",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-destaco-el-rol-de-las-comunas-productivas-para-transformar-la-economia-local-y-generar-ingresos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-23-at-9.06.52-pm-e6a7df.jpeg"
+      "title": "Gobierno nacional supervisa labores de mantenimiento en las principales arterias viales de Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-supervisa-labores-de-mantenimiento-en-las-principales-arterias-de-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodrguez-32f491.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ENRIQUE OCHOA ANTICH APUESTA A LA «DIPLOMACIA ÚTIL»",
-      "link": "https://noticierodigital.com/2026/08/enrique-ochoa-antich-apuesta-a-la-diplomacia-util/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/ochoaantich-627x376.jpg"
+      "title": "EN ALTOS MIRANDINOS PRECIPITACIONES ALCANZARON LOS 60 Y 120 MM, SEGÚN VALDEMAR ANDRADE ",
+      "link": "https://noticierodigital.com/2026/08/en-altos-mirandinos-precipitaciones-alcanzaron-los-60-y-120-mm-segun-valdemar-andrade/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-3-4-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Shakira reconstruirá universidad y diez colegios afectados por terremoto en Chocó",
-      "link": "https://diarioversionfinal.com/mundo/shakira-reconstruira-universidad-y-diez-colegios-afectados-por-terremoto-en-choco/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/shakira-visita-choco-buffet-750x430.webp"
+      "title": "Macron pide \"calma\" ante provocaciones rusas contra países de la OTAN y reclama más sanciones",
+      "link": "https://diarioversionfinal.com/mundo/macron-pide-calma-ante-provocaciones-rusas-contra-paises-de-la-otan-y-reclama-mas-sanciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/08/macron-26-de-agosto-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-24T16:36:40.403Z"
+  "lastUpdate": "2026-08-24T17:30:25.518Z"
 };
