@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "784,66",
-      "eur": "916,01",
-      "fechaValor": "Lunes, 24 Agosto 2026"
+      "usd": "785,07",
+      "eur": "916,03",
+      "fechaValor": "Martes, 25 Agosto 2026"
     },
     "binance": {
-      "usdt": "930,50"
+      "usdt": "928,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Fundamercado moderniza procesos de atención en Bodegas Móviles",
-      "link": "https://noticialdia.com/al-dia/fundamercado-moderniza-procesos-de-atencion-en-bodegas-moviles/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-2-17.webp?x74346"
+      "title": "Comerciantes en Las Pulgas solicitan reparación del techo del bloque 3 por el vendaval: \"Hay láminas guindando que pueden decapitar\"",
+      "link": "https://noticialdia.com/sucesos/comerciantes-en-las-pulgas-solicitan-reparacion-del-techo-del-bloque-3-por-el-vendaval-hay-laminas-guindando-que-pueden-decapitar/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/072827e3-af15-4511-97a0-24ce0f82f382-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. amenaza con nuevas sanciones para aumentar la presión sobre Irán",
-      "link": "https://cnnespanol.cnn.com/2026/08/24/mundo/live-news/guerra-estados-unidos-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-y-ee-uu-sanciones.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La Corte Suprema respalda el decreto de Trump para restringir el voto por correo",
+      "link": "https://cnnespanol.cnn.com/2026/08/24/eeuu/corte-suprema-respalda-decreto-voto-por-correo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2278806479-20260824212704784.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. RETIRA A SIRIA DE LA LISTA DE PAÍSES PATROCINADORES DEL TERRORISMO ",
-      "link": "https://noticierodigital.com/2026/08/ee-uu-retira-a-siria-de-la-lista-de-paises-patrocinadores-del-terrorismo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/siria-gobierno-627x376.jpg"
+      "title": "A 2 MESES DEL DOBLETE SÍSMICO: CABELLO DIJO QUE EL GOBIERNO SEGUIRÁ EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/08/a-2-meses-del-doblete-sismico-cabello-dijo-que-el-gobierno-seguira-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/cabello-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Autoridades alertan sobre incendios provocados en Colombia agravados por El Niño",
-      "link": "https://diarioversionfinal.com/mundo/autoridades-alertan-sobre-incendios-provocados-en-colombia-agravados-por-el-nino/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendios-Colombia-1-1068x601-1-750x430.jpg"
+      "title": "HRW: Grupos armados reclutan menores por redes sociales en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/hrw-grupos-armados-reclutan-menores-por-redes-sociales-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/RRSS-menores-24-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-24T20:29:37.009Z"
+  "lastUpdate": "2026-08-24T21:28:24.218Z"
 };
