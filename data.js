@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "928,60"
+      "usdt": "930,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Dos meses después: La Guaira todavía busca a los suyos",
-      "link": "https://noticialdia.com/nacionales/dos-meses-despues-la-guaira-todavia-busca-a-los-suyos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/g.webp?x74346"
+      "title": "Fundamercado moderniza procesos de atención en Bodegas Móviles",
+      "link": "https://noticialdia.com/al-dia/fundamercado-moderniza-procesos-de-atencion-en-bodegas-moviles/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-2-17.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Taxista mata en Chile a venezolana, lleva su cráneo a un cementerio y se suicida",
-      "link": "https://laverdad.com/taxista-mata-en-chile-a-venezolana-lleva-su-craneo-a-un-cementerio-y-se-suicida/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Jennifer-Alejandra-Urbina-Rodriguez.jpg"
+      "title": "Condenan a venezolano a 8 años de cárcel por operación que robó más de $3,5 millones en EE. UU.",
+      "link": "https://laverdad.com/condenan-a-venezolano-a-8-anos-de-carcel-por-operacion-que-robo-mas-de-35-millones-en-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Venezolano-ATMs.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Violencia de pandillas sacude otra vez a la comunidad agrícola en Haití",
-      "link": "https://diarioversionfinal.com/mundo/violencia-de-pandillas-sacude-otra-vez-a-la-comunidad-agricola-en-haiti/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/JKDERUbP-image-1-750x430.jpg"
+      "title": "Autoridades alertan sobre incendios provocados en Colombia agravados por El Niño",
+      "link": "https://diarioversionfinal.com/mundo/autoridades-alertan-sobre-incendios-provocados-en-colombia-agravados-por-el-nino/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Incendios-Colombia-1-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-24T19:28:54.985Z"
+  "lastUpdate": "2026-08-24T20:29:37.009Z"
 };
