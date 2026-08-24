@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "920,00"
+      "usdt": "926,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alonso Ojeda descubrió el Lago para Europa, pero aquí la vida ya navegaba sus aguas",
-      "link": "https://noticialdia.com/al-dia/alonso-ojeda-descubrio-el-lago-para-europa-pero-aqui-la-vida-ya-navegaba-sus-aguas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/500.webp?x74346"
+      "title": "‎Sin novedad cañadas de Maracaibo tras el paso de la Onda Tropical N° 40",
+      "link": "https://noticialdia.com/zulia/sin-novedad-canadas-de-maracaibo-tras-el-paso-de-la-onda-tropical-n-40/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/d3e48bfd-f882-473c-ae59-317d7951e003-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MISIONES SALESIANAS: “LA SITUACIÓN EN LA ZONA CERO SIGUE SIENDO MUY FRÁGIL”",
-      "link": "https://noticierodigital.com/2026/08/misiones-salesianas-la-situacion-en-la-zona-cero-sigue-siendo-muy-fragil/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
+      "title": "EE .UU. ATACÓ OTRA «NARCOLANCHA» Y REPORTÓ DOS MUERTOS EN PACÍFICO ORIENTAL",
+      "link": "https://noticierodigital.com/2026/08/ee-uu-ataco-otra-narcolancha-y-reporto-dos-muertos-en-pacifico-oriental/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/comando-sur-de-eeuu-ataque-narcolancha-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ecuador y Singapur estrechan vínculos con nuevo acuerdo de cooperación",
-      "link": "https://diarioversionfinal.com/mundo/ecuador-y-singapur-estrechan-vinculos-con-nuevo-acuerdo-de-cooperacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
+      "title": "Mélenchon gana terreno y podría llegar al balotaje presidencial en Francia",
+      "link": "https://diarioversionfinal.com/mundo/melenchon-gana-terreno-y-podria-llegar-al-balotaje-presidencial-en-francia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-32.jpg"
     }
   ],
-  "lastUpdate": "2026-08-24T12:49:19.186Z"
+  "lastUpdate": "2026-08-24T13:51:19.276Z"
 };
