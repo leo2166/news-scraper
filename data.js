@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 24 Agosto 2026"
     },
     "binance": {
-      "usdt": "919,00"
+      "usdt": "920,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alianza de la Gobernación del Zulia reactiva la Casa del Abuelo en La Cañada de Urdaneta para atender a adultos mayores",
-      "link": "https://noticialdia.com/zulia/alianza-de-la-gobernacion-del-zulia-reactiva-la-casa-del-abuelo-en-la-canada-de-urdaneta-para-atender-a-adultos-mayores/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-38-1.webp?x74346"
+      "title": "Alonso Ojeda descubrió el Lago para Europa, pero aquí la vida ya navegaba sus aguas",
+      "link": "https://noticialdia.com/al-dia/alonso-ojeda-descubrio-el-lago-para-europa-pero-aqui-la-vida-ya-navegaba-sus-aguas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/500.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BUSCAN A SEIS PERSONAS ARRASTRADAS POR LAS LLUVIAS",
-      "link": "https://noticierodigital.com/2026/08/buscan-a-seis-personas-arrastradas-por-las-lluvias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/c4712e3461d125a186941a6d0f77a958a1c7f560w-750x375-1-627x375.jpg"
+      "title": "MISIONES SALESIANAS: “LA SITUACIÓN EN LA ZONA CERO SIGUE SIENDO MUY FRÁGIL”",
+      "link": "https://noticierodigital.com/2026/08/misiones-salesianas-la-situacion-en-la-zona-cero-sigue-siendo-muy-fragil/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán amenaza con bloquear el transporte de petróleo si continúa la guerra económica",
-      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-con-bloquear-el-transporte-de-petroleo-si-continua-la-guerra-economica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/Petroleros_estrecho_Ormuz-750x430.png"
+      "title": "Ecuador y Singapur estrechan vínculos con nuevo acuerdo de cooperación",
+      "link": "https://diarioversionfinal.com/mundo/ecuador-y-singapur-estrechan-vinculos-con-nuevo-acuerdo-de-cooperacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/themes/publisher/images/default-thumb/publisher-lg.png"
     }
   ],
-  "lastUpdate": "2026-08-24T11:27:44.577Z"
+  "lastUpdate": "2026-08-24T12:49:19.186Z"
 };
