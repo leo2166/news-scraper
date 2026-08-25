@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/f22cc44d35d58dc8571197ed513aad21ac27fb6fw-3f7ce1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-25T06:46:10.218Z"
+  "lastUpdate": "2026-08-25T07:42:35.394Z"
 };
