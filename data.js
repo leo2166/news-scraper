@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 25 Agosto 2026"
     },
     "binance": {
-      "usdt": "930,00"
+      "usdt": "932,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez: Venezuela suscribió 50 acuerdos estratégicos en petróleo y gas con inversión privada e internacional",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-venezuela-suscribio-50-acuerdos-estrategicos-en-petroleo-y-gas-con-inversion-privada-e-internacional/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-8.11.47-PM.jpeg"
+      "title": "Proyectan hasta un 90% de crecimiento del servicio \"compre ahora, pague después\" para finales de 2026",
+      "link": "https://www.bancaynegocios.com/proyecta-hasta-un-90-porciento-de-crecimiento-del-servicio-compre-ahora-pague-despues-para-finales-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/compra-e1787679731684.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Despliegan a comisión para inspeccionar hitos en frontera del Zulia",
-      "link": "https://noticialdia.com/al-dia/despliegan-a-comision-para-inspeccionar-hitos-en-frontera-del-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-25T142958.986.webp?x74346"
+      "title": "Terminal de pasajeros sigue modernización al rehabilitar más andenes",
+      "link": "https://noticialdia.com/al-dia/terminal-de-pasajeros-sigue-modernizacion-al-rehabilitar-mas-andenes/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/020077bb-bad5-455c-8214-8a7004c4e94c-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Canadá impondrá aranceles de hasta 50 % a 700 productos de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/08/25/eeuu/canada-represalias-economia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/canada-aranceles.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Muere Dolly Parton a los 80 años",
+      "link": "https://cnnespanol.cnn.com/",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25168617127269-20260825180955892.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Amigo de Sánchez que ayudó a Begoña Gómez cuadruplica ingresos de su correduría desde 2017",
-      "link": "https://diarioversionfinal.com/mundo/amigo-de-sanchez-que-ayudo-a-begona-gomez-cuadruplica-ingresos-de-su-correduria-desde-2017/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-29T095218.218.jpg"
+      "title": "Nueva York prohíbe cooperación de policías locales con ICE en casos migratorios civiles",
+      "link": "https://diarioversionfinal.com/mundo/nueva-york-prohibe-cooperacion-de-policias-locales-con-ice-en-casos-migratorios-civiles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/photo_5797290540989616229_y-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-25T18:38:25.347Z"
+  "lastUpdate": "2026-08-25T19:31:11.639Z"
 };
