@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 25 Agosto 2026"
     },
     "binance": {
-      "usdt": "928,00"
+      "usdt": "931,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Juicio contra Alex Saab en Estados Unidos se pospone para noviembre",
-      "link": "https://noticialdia.com/al-dia/juicio-contra-alex-saab-en-estados-unidos-se-pospone-para-noviembre/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-13-2.webp?x74346"
+      "title": "Federer regresa al US Open y elogia a Alcaraz: \"Si jugara un último partido, tal vez sería contra él\"",
+      "link": "https://noticialdia.com/deportes/federer-regresa-al-us-open-y-elogia-a-alcaraz-si-jugara-un-ultimo-partido-tal-vez-seria-contra-el/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260825_094321_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -51,16 +51,16 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "La Verdad",
-      "title": "Colombia ordena operativos contra migrantes en situación irregular",
-      "link": "https://laverdad.com/colombia-ordena-operativos-contra-migrantes-en-situacion-irregular/",
+      "title": "De la Espriella ordena operativos contra migrantes irregulares: “Se van y los deportamos”",
+      "link": "https://laverdad.com/de-la-espriella-ordena-operativos-contra-migrantes-irregulares-se-van-y-los-deportamos/",
       "image": "https://laverdad.com/wp-content/uploads/2026/08/De-la-Espriella-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ucrania recibirá sistemas antiaéreos Crotale y más misiles interceptores, según Zelenski",
-      "link": "https://diarioversionfinal.com/mundo/ucrania-recibira-sistemas-antiaereos-crotale-y-mas-misiles-interceptores-segun-zelenski/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Volodymyr-Zelensky-20-08-2022-EFE-750x430.jpg"
+      "title": "Colombia traslada a 20 presos de Barranquilla a otras cárceles para frenar delitos desde prisión",
+      "link": "https://diarioversionfinal.com/mundo/colombia-traslada-a-20-presos-de-barranquilla-a-otras-carceles-para-frenar-delitos-desde-prision/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-19-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-25T12:45:56.548Z"
+  "lastUpdate": "2026-08-25T13:49:44.156Z"
 };
