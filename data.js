@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Buscan a sujeto que golpeó a su hijastro de cuatro años por pedir comida en Carabobo",
-      "link": "https://noticialdia.com/sucesos/buscan-a-sujeto-que-golpeo-a-su-hijastro-de-cuatro-anos-por-pedir-comida-en-carabobo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-25T121054.827.webp?x74346"
+      "title": "Continúa la búsqueda de pareja que fue arrastrada por el río Aragua",
+      "link": "https://noticialdia.com/al-dia/continua-la-busqueda-de-pareja-que-fue-arrastrada-por-el-rio-aragua/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-25T132614.514.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DAVID UZCÁTEGUI A DELCY RODRÍGUEZ: «HAY QUE ELIMINAR LAS ALCABALAS DE TODA VENEZUELA”",
-      "link": "https://noticierodigital.com/2026/08/david-uzcategui-a-delcy-rodriguez-hay-que-eliminar-las-alcabalas-de-toda-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/daviduzcategui_alcabalas-627x376.jpg"
+      "title": "ESPAÑA REFORMARÁ LAS LEYES DE ASILO TRAS CRISIS DE CEUTA",
+      "link": "https://noticierodigital.com/2026/08/espana-reformara-las-leyes-de-asilo-tras-crisis-de-ceuta/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/crisi_Espana-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo familiar en Montana deja muertos, incluidos niños, y termina con una vivienda incendiada",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-familiar-en-montana-deja-muertos-incluidos-ninos-y-termina-con-una-vivienda-incendiada/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/photo_5797290540989616229_y-750x430.jpg"
+      "title": "Canadá defiende el nombre del lago Ontario ante propuesta de Trump de llamarlo \"lago América\"",
+      "link": "https://diarioversionfinal.com/mundo/canada-defiende-el-nombre-del-lago-ontario-ante-propuesta-de-trump-de-llamarlo-lago-america/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-459x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-25T16:36:34.786Z"
+  "lastUpdate": "2026-08-25T17:31:12.530Z"
 };
