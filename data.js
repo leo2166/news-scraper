@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 26 Agosto 2026"
     },
     "binance": {
-      "usdt": "934,00"
+      "usdt": "935,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez anuncia el fin de los controles policiales, fuente de extorsión y agresiones contra venezolanos",
-      "link": "https://www.infobae.com/venezuela/2026/08/25/delcy-rodriguez-anuncia-el-fin-de-los-controles-policiales-fuente-de-extorsion-y-agresiones-contra-venezolanos/",
-      "image": "https://www.infobae.com/resizer/v2/KE744FLBOFCCJEHZBGS42O4WJA.jpg?auth=8dd4418e21d49519639112ff5f5e9b2af59e54dc60a3d372e9c22a82aa0fee25&smart=true&width=350&height=197&quality=85"
+      "title": "Un activista venezolano propuso una nueva amnistía para los presos políticos y un fondo de reparación",
+      "link": "https://www.infobae.com/venezuela/2026/08/25/un-activista-venezolano-propuso-una-nueva-amnistia-para-los-presos-politicos-y-un-fondo-de-reparacion/",
+      "image": "https://www.infobae.com/resizer/v2/KOYUV7F7FRFQDD6K7EKGKALT6I.jpg?auth=235f8fe33f3ad907260393362a476e4babd35c566dc2cbd50eda7f231bb2f9d5&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Más de 29 mil viviendas inspeccionadas en Caracas tras sismos de junio",
-      "link": "https://noticialdia.com/al-dia/mas-de-29-mil-viviendas-inspeccionadas-en-caracas-tras-sismos-de-junio/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/PlantillaMIK-4-4.webp?x74346"
+      "title": "Recuperan el 100% de las líneas de transmisión eléctrica tras los terremotos de junio",
+      "link": "https://noticialdia.com/al-dia/recuperan-el-100-de-las-lineas-de-transmision-electrica-tras-los-terremotos-de-junio/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/PlantillaMIK-6-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Muere Dolly Parton a los 80 años",
-      "link": "https://cnnespanol.cnn.com/2026/08/25/entretenimiento/muere-dolly-parton-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/dolly-parton-gettyimages-1185780223.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "El \"quitavisas\" que lleva meses revocando visados en América Latina",
+      "link": "https://cnnespanol.cnn.com/2026/08/25/eeuu/christopher-landau-quitavisas-solicitudes-asilo-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2249700799.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marco-Rubio-Senado-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-25T22:26:32.049Z"
+  "lastUpdate": "2026-08-25T23:24:29.101Z"
 };
