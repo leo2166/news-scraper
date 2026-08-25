@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 25 Agosto 2026"
     },
     "binance": {
-      "usdt": "925,25"
+      "usdt": "925,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Daños viales en Lara ponen en riesgo de pérdida hasta 15.000 quintales de café",
-      "link": "https://www.bancaynegocios.com/danos-viales-en-lara-ponen-en-riesgo-de-perdida-hasta-15000-quintales-de-cafe/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/Cafe-Venezuela.jpg"
+      "title": "Delcy Rodríguez: Venezuela suscribió 50 acuerdos estratégicos en petróleo y gas con inversión privada e internacional",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-venezuela-suscribio-50-acuerdos-estrategicos-en-petroleo-y-gas-con-inversion-privada-e-internacional/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-8.11.47-PM.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Régimen chavista ignoró informe que advertía peligro de inundación en la autopista Valle-Coche",
-      "link": "https://www.infobae.com/venezuela/2026/08/24/regimen-chavista-ignoro-informe-que-advertia-peligro-de-inundacion-en-la-autopista-valle-coche/",
-      "image": "https://www.infobae.com/resizer/v2/ZJQ7MLY4KJCWPOT6X2LJZELFVE.png?auth=52c43d259841ee8d209054a8e3550f3c097bd65c3755e59000694fbe6953d90d&smart=true&width=350&height=197&quality=85"
+      "title": "A dos meses del doble terremoto, Venezuela superó los 6.500 muertos mientras continúa la remoción de escombros",
+      "link": "https://www.infobae.com/venezuela/2026/08/25/a-dos-meses-del-doble-terremoto-venezuela-supero-los-6500-muertos-mientras-continua-la-remocion-de-escombros/",
+      "image": "https://www.infobae.com/resizer/v2/2QDLA6WNHZCGPFETKQHWFHMRXI.JPG?auth=508b8201f3fda54dd8aafbd77fcebd43edb621d489591002e08df9f0b3016529&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Se eleva a 6 mil 509 la cifra de fallecidos por el doble terremoto en Venezuela",
-      "link": "https://noticialdia.com/nacionales/se-eleva-a-6-mil-509-la-cifra-de-fallecidos-por-el-doble-terremoto-en-venezuela/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-13-9.webp?x74346"
+      "title": "\"En los próximos días vamos a eliminar las alcabalas policiales\": Aseguró Delcy Rodríguez",
+      "link": "https://noticialdia.com/sin-categoria/en-los-proximos-dias-vamos-a-eliminar-las-alcabalas-policiales-aseguro-delcy-rodriguez/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-15.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Sistema de justicia procesa más de 15.000 solicitudes de amnistía con más de 8.000 respuestas positivas",
-      "link": "https://noticiasvenevision.com/noticias/politica/sistema-de-justicia-procesa-mas-de-15000-solicitudes-de-amnistia-con-mas-de-8000-respuestas-positivas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-08-22-at-12.26.51-pm-f2ff49.jpeg"
+      "title": "Antonio Ecarri reitera su propuesta para dolarizar la economía venezolana",
+      "link": "https://noticiasvenevision.com/noticias/politica/antonio-ecarri-reitera-su-propuesta-para-dolarizar-la-economia-venezolana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/antonio-ecarri-9f0493.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. EVALÚA REVOCAR HASTA 200.000 VISAS A EXTRANJEROS QUE SOLICITARON ASILO",
-      "link": "https://noticierodigital.com/2026/08/ee-uu-evalua-revocar-hasta-200-000-visas-a-extranjeros-que-solicitaron-asilo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/departamento-de-estado-de-eeuu-627x376.jpg"
+      "title": "MAS PROPONE UNA «GRAN ENCERRONA» OPOSITORA PARA CONSTRUIR UNA RUTA COMÚN",
+      "link": "https://noticierodigital.com/2026/08/mas-propone-una-gran-encerrona-opositora-para-construir-una-ruta-comun/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/mas-venezuela-maria-verdeal-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Migrantes-Ceuta-24-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-24T23:21:25.980Z"
+  "lastUpdate": "2026-08-25T01:14:05.596Z"
 }
