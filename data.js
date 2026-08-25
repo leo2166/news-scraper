@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "785,07",
-      "eur": "916,03",
-      "fechaValor": "Martes, 25 Agosto 2026"
+      "usd": "787,52",
+      "eur": "919,15",
+      "fechaValor": "Miércoles, 26 Agosto 2026"
     },
     "binance": {
-      "usdt": "935,00"
+      "usdt": "934,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Proyectan hasta un 90% de crecimiento del servicio \"compre ahora, pague después\" para finales de 2026",
-      "link": "https://www.bancaynegocios.com/proyecta-hasta-un-90-porciento-de-crecimiento-del-servicio-compre-ahora-pague-despues-para-finales-de-2026/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/compra-e1787679731684.jpg"
+      "title": "En Puerto de Guanta movilizan 7 mil toneladas de mercancía: reciben piezas para el sector petrolero",
+      "link": "https://www.bancaynegocios.com/en-puerto-de-guanta-movilizan-7-mil-toneladas-de-mercancia-reciben-piezas-para-el-sector-petrolero/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/PuertoDeGuantaVenezuela.jpeg"
     },
     {
       "source": "Infobae",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ PIDIÓ MAYOR INVERSIÓN PRIVADA PARA AUMENTAR LA OFERTA DE VIVIENDAS",
-      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-pidio-mayor-inversion-privada-para-aumentar-la-oferta-de-viviendas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcy-rodriguez-venezuela-poliedro-de-caracas-refugio-627x376.jpg"
+      "title": "AIR EUROPA EXTIENDE SUS OPERACIONES EN VALENCIA ANTE EL CIERRE DE MAIQUETÍA",
+      "link": "https://noticierodigital.com/2026/08/air-europa-extiende-sus-operaciones-en-valencia-ante-el-cierre-de-maiquetia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/air-europa-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nueva York prohíbe cooperación de policías locales con ICE en casos migratorios civiles",
-      "link": "https://diarioversionfinal.com/mundo/nueva-york-prohibe-cooperacion-de-policias-locales-con-ice-en-casos-migratorios-civiles/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/photo_5797290540989616229_y-750x430.jpg"
+      "title": "Rubio informa a aliados que EE. UU. no planea nuevos ataques a Irán",
+      "link": "https://diarioversionfinal.com/mundo/rubio-informa-a-aliados-que-ee-uu-no-planea-nuevos-ataques-a-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marco-Rubio-Senado-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-25T21:27:26.455Z"
+  "lastUpdate": "2026-08-25T22:26:32.049Z"
 };
