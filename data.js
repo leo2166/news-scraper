@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Encaje vs. comisiones: BCV redefine la rentabilidad bancaria y el costo transaccional",
-      "link": "https://www.bancaynegocios.com/encaje-vs-comisiones-bcv-redefine-la-rentabilidad-bancaria-y-el-costo-transaccional/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Delcy Rodríguez: Venezuela suscribió 50 acuerdos estratégicos en petróleo y gas con inversión privada e internacional",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-venezuela-suscribio-50-acuerdos-estrategicos-en-petroleo-y-gas-con-inversion-privada-e-internacional/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-8.11.47-PM.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Diosdado Cabello negó que se discuta la liberación de presos políticos en la mesa de diálogo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/08/25/diosdado-cabello-nego-que-se-discuta-la-liberacion-de-presos-politicos-en-la-mesa-de-dialogo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/SQCSD4INL5GGBNI7VQRU62LPPY.jpg?auth=15dea7f96b7d8abfd5a5e132c2e6834f84deb7d624151e8e0b3987289624bec5&smart=true&width=350&height=197&quality=85"
+      "title": "Terremoto en Venezuela: plan hipotecario establece que vendedores recibirán pago en dólares a cambio de sus inmuebles",
+      "link": "https://www.infobae.com/venezuela/2026/08/25/terremoto-en-venezuela-plan-hipotecario-establece-que-vendedores-recibiran-pago-en-dolares-a-cambio-de-sus-inmuebles/",
+      "image": "https://www.infobae.com/resizer/v2/CXYNZKDJJFEBHFDG6BWVR6TOQE.JPG?auth=6826b467b840eece0ce06a4e1b61197a5b28acdc7efa30f93db98ba4e0e45026&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Mujer fallece sedada durante una sesión de tatuaje a domicilio en Colombia",
-      "link": "https://noticialdia.com/sucesos/mujer-fallece-sedada-durante-una-sesion-de-tatuaje-a-domicilio-en-colombia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-kelly-2026-08-25T102538.591.webp?x74346"
+      "title": "João Fonseca se baja del US Open 2026 por una lesión abdominal",
+      "link": "https://noticialdia.com/deportes/joao-fonseca-se-baja-del-us-open-2026-por-una-lesion-abdominal/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260825_105519_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "El futuro del voto por correo tras la decisión de la Corte Suprema",
-      "link": "https://cnnespanol.cnn.com/2026/08/24/eeuu/trump-decreto-corte-suprema-votos-correo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26180582075301-20260825024344800.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Quién está comprando el petróleo iraní?",
+      "link": "https://cnnespanol.cnn.com/2026/08/25/economia/ee-uu-medidas-paises-negocios-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-26t065259z-657570146-rc23ckay5sb4-rtrmadp-3-iran-crisis-fuel-china-20260825065534292.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MINISTRO COLOMBIANO DICE QUE DEPORTACIONES «NO AFECTARÁN A VENEZOLANOS REGULARIZADOS»",
-      "link": "https://noticierodigital.com/2026/08/ministro-colombiano-dice-que-deportaciones-no-afectaran-a-venezolanos-regularizados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/colombia-frontera-venezuela-627x376.jpg"
+      "title": "DAVID UZCÁTEGUI A DELCY RODRÍGUEZ: «HAY QUE ELIMINAR LAS ALCABALAS DE TODA VENEZUELA”",
+      "link": "https://noticierodigital.com/2026/08/david-uzcategui-a-delcy-rodriguez-hay-que-eliminar-las-alcabalas-de-toda-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/daviduzcategui_alcabalas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán amenaza a Barron Trump y asegura que el hijo del presidente está “totalmente monitoreado\"",
-      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-a-barron-trump-y-asegura-que-el-hijo-del-presidente-esta-totalmente-monitoreado/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/TRUMP-Y-SU-HIJO-BARRON-750x430.webp"
+      "title": "Policías de Nueva York habrían usado datos de matrículas para ayudar a ICE",
+      "link": "https://diarioversionfinal.com/mundo/policias-de-nueva-york-habrian-usado-datos-de-matriculas-para-ayudar-a-ice/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/acusan-a-un-agente-de-ice-de-apuntar-con-su-arma-a-dos-pasajeros-en-autopista-de-20260416-204217-7zAF-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-25T14:43:49.224Z"
+  "lastUpdate": "2026-08-25T15:41:07.231Z"
 };
