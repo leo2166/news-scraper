@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 25 Agosto 2026"
     },
     "binance": {
-      "usdt": "927,00"
+      "usdt": "928,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Faltan seis meses de lluvias con un ambiente muy cálido",
-      "link": "https://noticialdia.com/nacionales/regionales/faltan-seis-meses-de-lluvias-con-un-ambiente-muy-calido/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-74-2.webp?x74346"
+      "title": "Juicio contra Alex Saab en Estados Unidos se pospone para noviembre",
+      "link": "https://noticialdia.com/al-dia/juicio-contra-alex-saab-en-estados-unidos-se-pospone-para-noviembre/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Plantilla-Haroldo-13-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Voto por correo: ¿qué pasará tras la decisión de la Corte Suprema?",
+      "title": "El futuro del voto por correo tras la decisión de la Corte Suprema",
       "link": "https://cnnespanol.cnn.com/2026/08/24/eeuu/trump-decreto-corte-suprema-votos-correo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26180582075301-20260825024344800.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "STALIN GONZÁLEZ PIDIÓ ACELERAR LA RECONSTRUCCIÓN DE LA GUAIRA TRAS LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/08/stalin-gonzalez-pidio-acelerar-la-reconstruccion-de-la-guaira-tras-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/stalin-gonzalez-627x376.jpg"
+      "title": "BANCAMIGA CONSOLIDA SU CRECIMIENTO IMPULSADA POR LA CAPTACIÓN EN DIVISAS",
+      "link": "https://noticierodigital.com/2026/08/bancamiga-consolida-su-crecimiento-impulsada-por-la-captacion-en-divisas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/bancamiga_divisas-627x376.jpeg"
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a venezolano a 8 años de cárcel por operación que robó más de $3,5 millones en EE. UU.",
-      "link": "https://laverdad.com/condenan-a-venezolano-a-8-anos-de-carcel-por-operacion-que-robo-mas-de-35-millones-en-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Venezolano-ATMs.jpg"
+      "title": "Colombia ordena operativos contra migrantes en situación irregular",
+      "link": "https://laverdad.com/colombia-ordena-operativos-contra-migrantes-en-situacion-irregular/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/De-la-Espriella-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juicio contra Alex Saab en EE. UU. es aplazado hasta noviembre",
-      "link": "https://diarioversionfinal.com/mundo/juicio-contra-alex-saab-en-ee-uu-es-aplazado-hasta-noviembre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/f22cc44d35d58dc8571197ed513aad21ac27fb6fw-3f7ce1-750x430.webp"
+      "title": "Ucrania recibirá sistemas antiaéreos Crotale y más misiles interceptores, según Zelenski",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-recibira-sistemas-antiaereos-crotale-y-mas-misiles-interceptores-segun-zelenski/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/08/Volodymyr-Zelensky-20-08-2022-EFE-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-25T11:26:55.738Z"
+  "lastUpdate": "2026-08-25T12:45:56.548Z"
 };
