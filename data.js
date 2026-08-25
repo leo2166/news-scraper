@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 25 Agosto 2026"
     },
     "binance": {
-      "usdt": "925,70"
+      "usdt": "929,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Qué significa la victoria de Trump para los votos por correo",
-      "link": "https://cnnespanol.cnn.com/2026/08/24/eeuu/trump-decreto-corte-suprema-votos-correo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26180582075301-20260825024344800.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La estrategia de poder global de Trump enfrenta un desafío en Irán y Canadá",
+      "link": "https://cnnespanol.cnn.com/2026/08/25/mundo/trump-poder-global-iran-canada-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2291180863-20260825043413868.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/f22cc44d35d58dc8571197ed513aad21ac27fb6fw-3f7ce1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-25T05:31:02.258Z"
+  "lastUpdate": "2026-08-25T06:46:10.218Z"
 };
