@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 26 Agosto 2026"
     },
     "binance": {
-      "usdt": "944,99"
+      "usdt": "940,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El aeropuerto de Maiquetía anunció el retorno de los vuelos comerciales para el 1 de septiembre tras el doble terremoto",
-      "link": "https://www.infobae.com/venezuela/2026/08/25/el-aeropuerto-de-maiquetia-anuncio-el-retorno-de-los-vuelos-comerciales-para-el-1-de-septiembre-tras-el-doble-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/6PGFMJAULVERRAHAY7Y5ZQXQVI.JPG?auth=2a42b68671cf0c4aeb5837d56132e6514bc5b2b28defefd6ffb834380bba8cec&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela reubicará a estudiantes de más de 91 colegios afectados por los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/08/26/venezuela-reubicara-a-estudiantes-de-mas-de-91-colegios-afectados-por-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/4MEPAIUB3JA7LMFXLFTF6O4MCY.jpg?auth=af809eb40aa679e979242b7c6be6c329c53d64338adfd166f2a5a7e0ba758e07&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Estrecho-Ormuz-25-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-26T04:38:33.146Z"
+  "lastUpdate": "2026-08-26T05:33:43.323Z"
 };
