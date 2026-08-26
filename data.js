@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 26 Agosto 2026"
     },
     "binance": {
-      "usdt": "938,00"
+      "usdt": "946,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ángel Medina califica como positiva la eliminación de alcabalas",
-      "link": "https://noticiasvenevision.com/noticias/politica/angel-medina-califica-como-positiva-la-eliminacion-de-alcabalas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/eu---2026-08-09t110706787jpg-204282-0649f3.jpg"
+      "title": "Nelson Afiuni denuncia restricción del Saime para emitir el pasaporte a la jueza María Lourdes Afiuni",
+      "link": "https://noticiasvenevision.com/noticias/politica/nelson-afiuni-denuncia-restriccion-del-saime-para-emitir-el-pasaporte-a-la-jueza-maria-lourdes-afiuni",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/768372651_1036024382753826_4719638096610238770_n-4e76fa.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DINORAH FIGUERA RESPALDÓ A VIUDA DE FERNANDO ALBÁN TRAS PRONUNCIAMIENTO DE LA CIDH",
-      "link": "https://noticierodigital.com/2026/08/dinorah-figuera-respaldo-a-viuda-de-fernando-alban-tras-pronunciamiento-de-la-cidh/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Diseno-sin-titulo-627x376.png"
+      "title": "EMBAJADA DE PAÍSES BAJOS EN VENEZUELA REABRIÓ SUS PUERTAS AL PÚBLICO",
+      "link": "https://noticierodigital.com/2026/08/embajada-de-paises-bajos-en-venezuela-reabrio-sus-puertas-al-publico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/embajada-de-paises-bajos-en-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marco-Rubio-Senado-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-26T01:16:43.756Z"
+  "lastUpdate": "2026-08-26T03:04:16.961Z"
 };
