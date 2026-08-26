@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 26 Agosto 2026"
     },
     "binance": {
-      "usdt": "946,00"
+      "usdt": "944,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rubio informa a aliados que EE. UU. no planea nuevos ataques a Irán",
-      "link": "https://diarioversionfinal.com/mundo/rubio-informa-a-aliados-que-ee-uu-no-planea-nuevos-ataques-a-iran/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Marco-Rubio-Senado-2-750x430.jpg"
+      "title": "Irán y Omán negocian corredor temporal de navegación en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/iran-y-oman-negocian-corredor-temporal-de-navegacion-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Estrecho-Ormuz-25-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-26T03:04:16.961Z"
+  "lastUpdate": "2026-08-26T04:38:33.146Z"
 };
