@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Barcelona suspende el homenaje a los campeones del mundo ante el Athletic",
-      "link": "https://noticialdia.com/deportes/barcelona-suspende-el-homenaje-a-los-campeones-del-mundo-ante-el-athletic/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260826_114156_0000.webp?x74346"
+      "title": "Reportan al menos 15 casas sin electricidad en La Pícola: Familias y pacientes crónicos solicitan atención urgente",
+      "link": "https://noticialdia.com/al-dia/reportan-al-menos-15-casas-sin-electricidad-en-la-picola-familias-y-pacientes-cronicos-solicitan-atencion-urgente/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-27.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Inundaciones catastróficas que azotaron China y Nepal dejan al menos 95 muertos",
+      "title": "Inundaciones catastróficas en China y Nepal dejan al menos 157 muertos",
       "link": "https://cnnespanol.cnn.com/2026/08/26/mundo/live-news/inundaciones-nepal-china-vivo-victimas-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-00-00-10-11-still001.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada del Reino de los Países Bajos en Venezuela reabre sus puertas al público",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-del-reino-de-los-paises-bajos-en-venezuela-reabre-sus-puertas-al-publico",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_p9c9x3p9c9x3p9c9-dd56b1.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez evalúa nuevo esquema de seguridad sin alcabalas en las ciudades",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-evalua-nuevo-esquema-de-seguridad-sin-alcabalas-en-las-ciudades",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_l54bafl54bafl54b-3afc1c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "Ramón López: «Para el 31 de diciembre podremos celebrar que la reinstitucionalización comenzó»",
-      "link": "https://noticierodigital.com/2026/08/ramon-lopez-para-el-31-de-diciembre-podremos-celebrar-que-la-reinstitucionalizacion-comenzo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/ramon-lopez-venezuela-an-2015-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ RECIBIÓ AL NUEVO COORDINADOR RESIDENTE DE LA ONU EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-recibio-al-nuevo-coordinador-residente-de-la-onu-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-3-5-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. detiene en julio a cerca de 50.000 inmigrantes, la cifra más alta en la era Trump",
-      "link": "https://laverdad.com/ee-uu-detiene-en-julio-a-cerca-de-50-000-inmigrantes-la-cifra-mas-alta-en-la-era-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/ICE.jpg"
+      "title": "Un sismo de magnitud 5,1 sacude Colombia a 2 semanas del terremoto de 7,4",
+      "link": "https://laverdad.com/un-sismo-de-magnitud-51-sacude-colombia-a-2-semanas-del-terremoto-de-74/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Sismo-Colombia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. suspende citas para solicitar visados en embajadas y consulados",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-suspende-citas-para-solicitar-visados-en-embajadas-y-consulados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/visa.png_759710130-750x430.webp"
+      "title": "Riada en Nepal deja 160 muertos y más de 700 personas desaparecidas",
+      "link": "https://diarioversionfinal.com/mundo/riada-en-nepal-deja-160-muertos-y-mas-de-700-personas-desaparecidas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/097680920b74e85f8e4be7cf07b00b86b0f4f2a4w-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-26T16:17:36.811Z"
+  "lastUpdate": "2026-08-26T19:01:03.969Z"
 };
