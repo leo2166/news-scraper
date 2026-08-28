@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "791,67",
-      "eur": "921,88",
-      "fechaValor": "Viernes, 28 Agosto 2026"
+      "usd": "794,99",
+      "eur": "922,69",
+      "fechaValor": "Lunes, 31 Agosto 2026"
     },
     "binance": {
-      "usdt": "936,98"
+      "usdt": "937,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: En Venezuela se realizan actualmente 8.500 transacciones de pago móvil por minuto",
-      "link": "https://www.bancaynegocios.com/dato-en-venezuela-se-realizan-actualmente-8500-transacciones-de-pago-movil-por-minuto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/PagoMovilCelularVenezuela.jpg"
+      "title": "Incrementó 6,18% en bolívares: Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de agosto",
+      "link": "https://www.bancaynegocios.com/incremento-6punto18-porciento-en-bolivares-pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-agosto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "La Asamblea Nacional de Venezuela aprobó dar mayoría a la sociedad civil en el comité que iniciará la renovación judicial",
-      "link": "https://www.infobae.com/venezuela/2026/08/27/la-asamblea-nacional-de-venezuela-aprobo-dar-mayoria-a-la-sociedad-civil-en-el-comite-que-iniciara-la-renovacion-judicial/",
-      "image": "https://www.infobae.com/resizer/v2/UW4AYY2T2RGN3HJI6YKL5JIE64.JPG?auth=cbb167d29a451d39109dbd22dd945c53167388ba80c7599d95d3b88cd49e2054&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump anunció “el mayor acuerdo petrolero de la historia” con Venezuela",
+      "link": "https://www.infobae.com/estados-unidos/2026/08/28/donald-trump-anuncio-el-mayor-acuerdo-petrolero-de-la-historia-con-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/KNLJGU3OPNBOVCEH2X5KV4ZIBE.jpg?auth=6616f98c619aca8aec6c4ecedc9ca3f041da20092c338afeb2d4bd2380df6109&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Rescatistas se arrastran por el lodo para salvar a cientos de personas atrapadas en Nepal",
-      "link": "https://noticialdia.com/al-dia/rescatistas-se-arrastran-por-el-lodo-para-salvar-a-cientos-de-personas-atrapadas-en-nepal/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-84-4.webp?x74346"
+      "title": "Aeropuerto de Maiquetía reanudará sus operaciones el próximo martes 1°-Sep con una capacidad inicial del 25 %",
+      "link": "https://noticialdia.com/?p=661063",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-18.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Reanudan búsqueda de los más de 1.300 desaparecidos en China y Nepal",
+      "title": "Se intensifican las labores de búsqueda en China y Nepal",
       "link": "https://cnnespanol.cnn.com/2026/08/28/mundo/live-news/inundaciones-nepal-y-china-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/nepal-gettyimages-2291598715.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/nepal-gettyimages-2291598715.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Rodríguez ratifica que decisiones del Poder Legislativo corresponden a la Asamblea Nacional electa en 2025",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-ratifica-que-decisiones-del-poder-legislativo-corresponden-a-la-asamblea-nacional-electa-en-2025",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4938724035898575856_w-fe31c1.jpg"
+      "title": "Juan Carlos Apitz: AN no debería admitir o rechazar a miembros del Comité de Postulaciones Judiciales",
+      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-an-no-deberia-admitir-o-rechazar-a-miembros-del-comite-de-postulaciones-judiciales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_2d9lnz2d9lnz2d9l-998ecf.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BOLSA DE VALORES DE CARACAS REGISTRA IMPORTANTE CRECIMIENTO SUPERIOR A LOS 18 MIL INVERSORES",
-      "link": "https://noticierodigital.com/2026/08/bolsa-de-valores-de-caracas-registra-importante-crecimiento-superior-a-los-18-mil-inversores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-23-627x376.jpg"
+      "title": "DECLARAN NULA ABSOLUCIÓN DE LUIS CARRERA ALMOINA POR VIOLACIÓN Y ORDENAN NUEVO JUICIO",
+      "link": "https://noticierodigital.com/2026/08/declaran-nula-absolucion-de-luis-carrera-almoina-por-violacion-y-ordenan-nuevo-juicio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/linda-loaiza-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Nepal rescata de un túnel hidroeléctrico a varios supervivientes de la riada",
-      "link": "https://laverdad.com/nepal-rescata-de-un-tunel-hidroelectrico-a-varios-supervivientes-de-la-riada/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Nepal-Tunel.jpg"
+      "title": "Llegan a Chile desde EE. UU. y Colombia “El Turko” y el “Gocho”, inculpados por el crimen de Ronald Ojeda",
+      "link": "https://laverdad.com/llegan-a-chile-desde-ee-uu-y-colombia-el-turko-y-el-gocho-inculpados-por-el-crimen-de-ronald-ojeda/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/El-Turko-y-el-Gocho.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Más de 200 trabajadores siguen incomunicados tras las inundaciones en hidroeléctricas de Nepal",
-      "link": "https://diarioversionfinal.com/mundo/mas-de-200-trabajadores-siguen-incomunicados-tras-las-inundaciones-en-hidroelectricas-de-nepal/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/p4W99S0A-cfca9bc6d3329669e13f3e2d48cb29e0d066c4c2w-750x375-1.jpg"
+      "title": "Bombardeos en Ormuz mantienen a 6.000 marineros atrapados",
+      "link": "https://diarioversionfinal.com/mundo/bombardeos-en-ormuz-mantienen-a-6-000-marineros-atrapados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Buques-Ormuz-08-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-28T13:50:49.749Z"
+  "lastUpdate": "2026-08-28T23:25:13.321Z"
 }
