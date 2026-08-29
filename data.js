@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 31 Agosto 2026"
     },
     "binance": {
-      "usdt": "939,00"
+      "usdt": "941,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez agradeció a Trump por el acuerdo petrolero entre Venezuela y EEUU: “El renacimiento de nuestra nación”",
-      "link": "https://www.infobae.com/venezuela/2026/08/29/delcy-rodriguez-agradecio-a-trump-por-el-acuerdo-petrolero-entre-venezuela-y-eeuu-el-renacimiento-de-nuestra-nacion/",
-      "image": "https://www.infobae.com/resizer/v2/S42V6KJI7RDOZE7T7A3WAB6DWI.JPG?auth=16f34d5dc834810722aaf8bcafdf1a62fc6bb362efbf505d2b74312207dc8410&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición y el chavismo prevén retomar el diálogo para la transición democrática en Venezuela a mitad de septiembre",
+      "link": "https://www.infobae.com/venezuela/2026/08/29/la-oposicion-y-el-chavismo-preven-retomar-el-dialogo-para-la-transicion-democratica-en-venezuela-a-mitad-de-septiembre/",
+      "image": "https://www.infobae.com/resizer/v2/3W4Z2VUZYZGODDSAG2GPDVXMMU.JPG?auth=31fea7f52eadc9f44aa9f5e8ef7e8cd8a709a410d7f455416e251b089809c03e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump anuncia acuerdo para controlar millones de barriles de petróleo venezolano",
-      "link": "https://cnnespanol.cnn.com/2026/08/28/latinoamerica/trump-acuerdo-venezuela-barriles-petroleo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9d748d4c-e01a-48d6-be9e-1725a4038fc1.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El número de desaparecidos tras las inundaciones en Nepal y China supera los 3.000",
+      "link": "https://cnnespanol.cnn.com/2026/08/28/mundo/live-news/inundaciones-nepal-y-china-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/himalaya.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA BUSCA AMPLIAR SU PRESENCIA EN COMPETENCIAS DE CONMEBOL",
-      "link": "https://noticierodigital.com/2026/08/venezuela-busca-ampliar-su-presencia-en-competencias-de-conmebol/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Alejandro-Dominguez-Delcy-Rodriguez-Jorge-Gimenez-627x376.jpg"
+      "title": "NEPAL Y CHINA BUSCAN A MÁS DE 2.400 DESAPARECIDOS TRAS RIADA",
+      "link": "https://noticierodigital.com/2026/08/nepal-y-china-buscan-a-mas-de-2-400-desaparecidos-tras-riada/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Nepal_-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/marco-rubio-19-de-marzo-2025-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-29T05:53:27.498Z"
+  "lastUpdate": "2026-08-29T12:24:07.506Z"
 };
