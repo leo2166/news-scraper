@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 31 Agosto 2026"
     },
     "binance": {
-      "usdt": "936,00"
+      "usdt": "936,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan el \"Ingreso Integral de los Trabajadores\" de agosto a jubilados (+Monto)",
-      "link": "https://www.bancaynegocios.com/pagan-el-ingreso-integral-de-los-trabajadores-de-agosto-a-jubilados-monto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Plantean elevar hasta US$0,64 el precio por kilogramo de arroz a nivel de productores",
+      "link": "https://www.bancaynegocios.com/plantean-elevar-hasta-us0punto64-el-precio-del-kilogramo-de-arroz-a-nivel-de-productores/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/ArrozImportacionConsumo.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Unas 200 familias en Valera temen nuevo desbordamiento del río Motatán tras llegada de las lluvias",
-      "link": "https://noticialdia.com/nacionales/unas-200-familias-en-valera-temen-nuevo-desbordamiento-del-rio-motatan-tras-llegada-de-las-lluvias/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-42-1.webp?x74346"
+      "title": "Se cayó un bohío en la Vereda del Lago: Siete heridos fueron trasladados hasta un hospital",
+      "link": "https://noticialdia.com/principal/se-cayo-un-bohio-en-la-vereda-del-lago-siete-heridos-fueron-trasladados-hasta-un-hospital/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-29T151234.532.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "UCEVISTAS DENUNCIAN QUE NO HAN RECIBIDO BONO DE RESPONSABILIDAD PROFESIONAL DESDE ABRIL",
-      "link": "https://noticierodigital.com/2026/08/ucevistas-denuncian-que-no-han-recibido-bono-de-responsabilidad-profesional-desde-abril/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/ucv-caracas-venezuela-627x376.jpg"
+      "title": "DE LA ESPRIELLA PUSO FIN A LA PAZ TOTAL DE PETRO",
+      "link": "https://noticierodigital.com/2026/08/de-la-espriella-puso-fin-a-la-paz-total-de-petro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delaespriella-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Apagones dejarán sin electricidad al 65 % de Cuba durante el horario pico",
-      "link": "https://diarioversionfinal.com/mundo/apagones-dejaran-sin-electricidad-al-65-de-cuba-durante-el-horario-pico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/cuba-750x375-1.jpg"
+      "title": "Perú alerta sobre posible intensidad extraordinaria de El Niño desde septiembre",
+      "link": "https://diarioversionfinal.com/mundo/peru-alerta-sobre-posible-intensidad-extraordinaria-de-el-nino-desde-septiembre/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/12/Bandera-Peru-24-12-2024-696x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-29T16:59:29.346Z"
+  "lastUpdate": "2026-08-29T19:39:58.102Z"
 };
