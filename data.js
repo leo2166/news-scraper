@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 31 Agosto 2026"
     },
     "binance": {
-      "usdt": "937,00"
+      "usdt": "939,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Donald Trump anunció “el mayor acuerdo petrolero de la historia” con Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/08/28/donald-trump-anuncio-el-mayor-acuerdo-petrolero-de-la-historia-con-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/KNLJGU3OPNBOVCEH2X5KV4ZIBE.jpg?auth=6616f98c619aca8aec6c4ecedc9ca3f041da20092c338afeb2d4bd2380df6109&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez agradeció a Trump por el acuerdo petrolero entre Venezuela y EEUU: “El renacimiento de nuestra nación”",
+      "link": "https://www.infobae.com/venezuela/2026/08/29/delcy-rodriguez-agradecio-a-trump-por-el-acuerdo-petrolero-entre-venezuela-y-eeuu-el-renacimiento-de-nuestra-nacion/",
+      "image": "https://www.infobae.com/resizer/v2/S42V6KJI7RDOZE7T7A3WAB6DWI.JPG?auth=16f34d5dc834810722aaf8bcafdf1a62fc6bb362efbf505d2b74312207dc8410&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Aeropuerto de Maiquetía reanudará sus operaciones el próximo martes 1°-Sep con una capacidad inicial del 25 %",
-      "link": "https://noticialdia.com/?p=661063",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-18.webp?x74346"
+      "title": "Delcy Rodríguez confirma histórico acuerdo petrolero con EEUU: Con una inversión de 100 mil millones de dólares para 17 campos estratégicos",
+      "link": "https://noticialdia.com/principal/delcy-rodriguez-confirma-historico-acuerdo-petrolero-con-eeuu-con-una-inversion-de-100-mil-millones-de-dolares-para-17-campos-estrategicos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-9-15.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Se intensifican las labores de búsqueda en China y Nepal",
-      "link": "https://cnnespanol.cnn.com/2026/08/28/mundo/live-news/inundaciones-nepal-y-china-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/nepal-gettyimages-2291598715.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Trump anuncia acuerdo para controlar millones de barriles de petróleo venezolano",
+      "link": "https://cnnespanol.cnn.com/2026/08/28/latinoamerica/trump-acuerdo-venezuela-barriles-petroleo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9d748d4c-e01a-48d6-be9e-1725a4038fc1.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Carlos Apitz: AN no debería admitir o rechazar a miembros del Comité de Postulaciones Judiciales",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-an-no-deberia-admitir-o-rechazar-a-miembros-del-comite-de-postulaciones-judiciales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_2d9lnz2d9lnz2d9l-998ecf.jpg"
+      "title": "Delcy Rodríguez confirma \"histórico acuerdo\" petrolero con EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-confirma-historico-acuerdo-petrolero-con-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/03int-rodriguez-topart-mcqf-mediumsquareat3x-9da113.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DECLARAN NULA ABSOLUCIÓN DE LUIS CARRERA ALMOINA POR VIOLACIÓN Y ORDENAN NUEVO JUICIO",
-      "link": "https://noticierodigital.com/2026/08/declaran-nula-absolucion-de-luis-carrera-almoina-por-violacion-y-ordenan-nuevo-juicio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/linda-loaiza-1-627x376.jpg"
+      "title": "VENEZUELA BUSCA AMPLIAR SU PRESENCIA EN COMPETENCIAS DE CONMEBOL",
+      "link": "https://noticierodigital.com/2026/08/venezuela-busca-ampliar-su-presencia-en-competencias-de-conmebol/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Alejandro-Dominguez-Delcy-Rodriguez-Jorge-Gimenez-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bombardeos en Ormuz mantienen a 6.000 marineros atrapados",
-      "link": "https://diarioversionfinal.com/mundo/bombardeos-en-ormuz-mantienen-a-6-000-marineros-atrapados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Buques-Ormuz-08-04-2026-750x430.jpg"
+      "title": "Marco Rubio sobre acuerdo petrolero: Traerá casi 100 mil millones de dólares en inversión privada para Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-sobre-acuerdo-petrolero-traera-casi-100-mil-millones-de-dolares-en-inversion-privada-para-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/marco-rubio-19-de-marzo-2025-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-28T23:25:13.321Z"
+  "lastUpdate": "2026-08-29T05:53:27.498Z"
 };
