@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 31 Agosto 2026"
     },
     "binance": {
-      "usdt": "937,89"
+      "usdt": "935,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Plantean elevar hasta US$0,64 el precio por kilogramo de arroz a nivel de productores",
-      "link": "https://www.bancaynegocios.com/plantean-elevar-hasta-us0punto64-el-precio-del-kilogramo-de-arroz-a-nivel-de-productores/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/ArrozImportacionConsumo.jpg"
+      "title": "Gobierno y ANSA planifican abastecimiento de carne de cerdo para la temporada decembrina",
+      "link": "https://www.bancaynegocios.com/gobierno-y-ansa-planifican-abastecimiento-de-carne-de-cerdo-para-la-temporada-decembrina/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/carne-cerdo-1.jpg"
     },
     {
       "source": "Infobae",
@@ -27,14 +27,14 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador y Ministerio de las Comunas inauguran Mercal para beneficiar a más de 44 mil familias en San Francisco",
-      "link": "https://noticialdia.com/al-dia/gobernador-y-ministerio-de-las-comunas-inauguran-mercal-para-beneficiar-a-mas-de-44-mil-familias-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-29T172858.615.webp?x74346"
+      "title": "Nubosidad y precipitaciones se registrarán en el territorio nacional: Inameh",
+      "link": "https://noticialdia.com/nacionales/nubosidad-y-precipitaciones-se-registraran-en-el-territorio-nacional-inameh/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-30T092708.969.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Se intensifican esfuerzos para buscar a trabajadores desaparecidos en frontera entre Nepal y China",
-      "link": "https://cnnespanol.cnn.com/2026/08/28/mundo/live-news/inundaciones-nepal-y-china-en-vivo-trax",
+      "title": "Más de 1.300 desaparecidos por las inundaciones en Nepal y China",
+      "link": "https://cnnespanol.cnn.com/2026/08/30/mundo/live-news/inundaciones-nepal-china-vivo-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/himalaya.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy Rodríguez anuncia que el acuerdo petrolero con EE. UU. tendrá una vigencia de 25 años y Venezuela recibirá 19 dólares por barril",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/delcy-rodriguez-anuncia-que-el-acuerdo-petrolero-con-eeuu-tendra-una-vigencia-de-25-anos-y-venezuela-recibira-19-dolares-por-barril/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/delcy_30-ago-750x430.jpg"
+      "title": "Ucrania ataca refinería en Leningrado con enjambre de drones, hubo edificios residenciales impactados",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-ataca-refineria-en-leningrado-con-enjambre-de-drones-hubo-edificios-residenciales-impactados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/QLHbk33e-image-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-30T07:56:51.821Z"
+  "lastUpdate": "2026-08-30T13:40:35.172Z"
 };
