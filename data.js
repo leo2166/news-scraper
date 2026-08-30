@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 31 Agosto 2026"
     },
     "binance": {
-      "usdt": "935,00"
+      "usdt": "937,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela anunció que el acuerdo petrolero con EEUU tendrá una vigencia de 25 años",
-      "link": "https://www.infobae.com/venezuela/2026/08/30/venezuela-anuncio-que-el-acuerdo-petrolero-con-eeuu-tendra-una-vigencia-de-25-anos/",
-      "image": "https://www.infobae.com/resizer/v2/LQ4BVXX3AVBV5MFXXBP4O2AA5E.jpg?auth=4ebce6ea871905e52103c93fd3873fc35a0c395d6ad5701484c9902c5aeb4ce0&smart=true&width=350&height=197&quality=85"
+      "title": "Trump anunció que usará el petróleo venezolano para “llenar” las reservas estratégicas de EEUU",
+      "link": "https://www.infobae.com/estados-unidos/2026/08/30/trump-anuncio-que-usara-el-petroleo-venezolano-para-llenar-las-reservas-estrategicas-de-eeuu/",
+      "image": "https://www.infobae.com/resizer/v2/MBTE7UTWXVEV3E7FUJJT6S46D4.jpg?auth=7031b739da5701bbf175ef5ef1427675bc44481a15b7f6985375232cbc83f668&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Nubosidad y precipitaciones se registrarán en el territorio nacional: Inameh",
-      "link": "https://noticialdia.com/nacionales/nubosidad-y-precipitaciones-se-registraran-en-el-territorio-nacional-inameh/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/plantilla-erne-2026-08-30T092708.969.webp?x74346"
+      "title": "Camión 350 tumbó un semáforo, botó la transmisión y chocó contra un carro en La Limpia",
+      "link": "https://noticialdia.com/sucesos/camion-350-tumbo-un-semaforo-boto-la-transmision-y-choco-contra-un-carro-en-la-limpia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-54-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Más de 1.300 desaparecidos por las inundaciones en Nepal y China",
-      "link": "https://cnnespanol.cnn.com/2026/08/30/mundo/live-news/inundaciones-nepal-china-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/himalaya.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Maduro publica nuevas fotos desde la cárcel en Nueva York",
+      "link": "https://cnnespanol.cnn.com/2026/08/30/venezuela/maduro-fotos-carcel-nueva-york-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maduro-30ag.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«TIENE EL POTENCIAL PARA REACTIVAR LA INDUSTRIA»: JUAN PABLO GUANIPA SOBRE ACUERDOS CON EE .UU.",
-      "link": "https://noticierodigital.com/2026/08/tiene-el-potencial-para-reactivar-la-industria-juan-pablo-guanipa-sobre-acuerdos-con-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/juan-pablo-guanipa-627x376.jpg"
+      "title": "SERGIO VERGARA: “RENOVACIÓN DEL TSJ ES PRIORITARIA PARA DESTRABAR LA VOLUNTAD POPULAR”",
+      "link": "https://noticierodigital.com/2026/08/sergio-vergara-renovacion-del-tsj-es-prioritaria-para-destrabar-la-voluntad-popular/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Gemini_Generated_Image_omq6zjomq6zjomq6-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ucrania ataca refinería en Leningrado con enjambre de drones, hubo edificios residenciales impactados",
-      "link": "https://diarioversionfinal.com/mundo/ucrania-ataca-refineria-en-leningrado-con-enjambre-de-drones-hubo-edificios-residenciales-impactados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/QLHbk33e-image-1-750x430.jpg"
+      "title": "Polémica: Google renombra Lago Ontario como Lago América tal cual lo exigió Trump pese al conflicto con Canadá",
+      "link": "https://diarioversionfinal.com/mundo/polemica-google-renombra-lago-ontario-como-lago-america-tal-cual-lo-exigio-trump-pese-al-conflicto-con-canada/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/TiYJx6Lo-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-08-30T13:40:35.172Z"
+  "lastUpdate": "2026-08-30T17:56:52.699Z"
 };
