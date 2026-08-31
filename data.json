@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 31 Agosto 2026"
     },
     "binance": {
-      "usdt": "934,60"
+      "usdt": "934,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gobierno y ANSA planifican abastecimiento de carne de cerdo para la temporada decembrina",
-      "link": "https://www.bancaynegocios.com/gobierno-y-ansa-planifican-abastecimiento-de-carne-de-cerdo-para-la-temporada-decembrina/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/carne-cerdo-1.jpg"
+      "title": "Datanálisis proyecta crecimiento del PIB de entre 9% y 10% en 2026 y elecciones para julio de 2028",
+      "link": "https://www.bancaynegocios.com/datanalisis-proyecta-crecimiento-del-pib-de-entre-9-y-10-en-2026-y-elecciones-para-julio-de-2028/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/02/CrecimientoEconomicoSectoresAumento.jpg"
     },
     {
       "source": "Infobae",
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. e Irán intercambian ataques; la primera escalada en un mes",
+      "title": "EE.UU. e Irán intercambian ataques: la primera gran escalada en un mes",
       "link": "https://cnnespanol.cnn.com/2026/08/30/mundo/eeuu-ataca-isla-larak-iran-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-28t082810z-1833236429-rc2k7na1knhy-rtrmadp-3-iran-crisis-oman-hormuz-20260830203048328.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-88399860-20260830215029771.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/ataque-iran-750x375-1.jpg"
     }
   ],
-  "lastUpdate": "2026-08-31T04:00:24.653Z"
+  "lastUpdate": "2026-08-31T10:46:25.986Z"
 }
