@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "794,99",
-      "eur": "922,69",
-      "fechaValor": "Lunes, 31 Agosto 2026"
+      "usd": "798,33",
+      "eur": "926,55",
+      "fechaValor": "Martes, 01 Septiembre 2026"
     },
     "binance": {
-      "usdt": "922,50"
+      "usdt": "930,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Datanálisis proyecta crecimiento del PIB de entre 9% y 10% en 2026 y elecciones para julio de 2028",
-      "link": "https://www.bancaynegocios.com/datanalisis-proyecta-crecimiento-del-pib-de-entre-9-y-10-en-2026-y-elecciones-para-julio-de-2028/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/02/CrecimientoEconomicoSectoresAumento.jpg"
+      "title": "Consecomercio reduce proyección de crecimiento económico hasta un 5% por desaceleración del consumo y fallas eléctricas",
+      "link": "https://www.bancaynegocios.com/consecomercio-reduce-proyeccion-de-crecimiento-economico-hasta-un-5-porciento-por-desaceleracion-del-consumo-y-fallas-electricas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/Jose-Gregorio-Rodriguez-Pdte-Consecomercio-NVA.jpg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "David Martínez dejaría Los Ángeles FC para jugar en la liga danesa",
-      "link": "https://noticialdia.com/deportes/david-martinez-dejaria-los-angeles-fc-para-jugar-en-la-liga-danesa/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/1_20260831_131740_0000.webp?x74346"
+      "title": "Trump afirma que ExxonMobile \"entrará\" en Venezuela mientras EEUU impulsa acuerdos petroleros",
+      "link": "https://noticialdia.com/al-dia/trump-afirma-que-exxonmobile-entrara-en-venezuela-mientras-eeuu-impulsa-acuerdos-petroleros/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo-7-19.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Messi se retira de la selección argentina a los 39 años",
-      "link": "https://cnnespanol.cnn.com/2026/08/31/deportes/lionel-messi-retiro-seleccion-argentina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/messi-gettyimages-2286229969.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Unidad de ICE intensificará investigaciones de fraude electoral en nueve estados",
+      "link": "https://cnnespanol.cnn.com/2026/08/31/eeuu/exclusiva-dhs-investigaciones-fraude-electoral-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2282426180-20260831191719451.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Abogado Juan Pablo Montiel aboga por imparcialidad e independencia en la reforma de la Ley del TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/abogado-juan-pablo-montiel-aboga-por-imparcialidad-e-independencia-en-la-reforma-de-la-ley-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-1-4877fd.jpg"
+      "title": "Academia de Ciencias Políticas y Sociales alerta sobre inconstitucionalidad en la reforma de la Ley del TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/academia-de-ciencias-politicas-y-sociales-alerta-sobre-inconstitucionalidad-en-la-reforma-de-la-ley-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_9y5sdh9y5sdh9y5s-e25ae9.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHEVRON, GE VERNOVA, ENI Y GEOPARK A PUNTO DE FIRMAR NUEVO ACUERDO PETROLERO CON VENEZUELA",
-      "link": "https://noticierodigital.com/2026/08/chevron-ge-vernova-eni-y-geopark-a-punto-de-firmar-nuevo-acuerdo-petrolero-con-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/bomba-de-petroleo-venezuela-627x376.jpg"
+      "title": "ASDRÚBAL OLIVEROS: «LA CONFIANZA MONETARIA NO DEBERÍA IMPONERSE; DEBERÍA GANARSE»",
+      "link": "https://noticierodigital.com/2026/08/asdrubal-oliveros-la-confianza-monetaria-no-deberia-imponerse-deberia-ganarse/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/02/asdrubaloliveros-bolivar-dolar-8feb2023.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. planea adquirir participación pasiva del 35% en la empresa del “bolichico” Alejandro Bentacourt",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-planea-adquirir-participacion-pasiva-del-35-en-la-empresa-del-bolichico-alejandro-bentacourt/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Petroleo-Texas-14-06-2026-696x430.webp"
+      "title": "Cientos de obreros sobreviven en túneles de una hidroeléctrica en Nepal",
+      "link": "https://diarioversionfinal.com/mundo/cientos-de-obreros-sobreviven-en-tuneles-de-una-hidroelectrica-en-nepal/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Tuneles-Nepal-31-08-2026-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-08-31T17:55:27.595Z"
+  "lastUpdate": "2026-08-31T22:33:21.322Z"
 };
