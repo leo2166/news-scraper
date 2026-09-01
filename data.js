@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 01 Septiembre 2026"
     },
     "binance": {
-      "usdt": "939,99"
+      "usdt": "944,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela reactivará este martes su principal aeropuerto tras más de dos meses paralizado por los devastadores terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/08/31/venezuela-reactivara-este-martes-su-principal-aeropuerto-tras-mas-de-dos-meses-paralizado-por-los-devastadores-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/H66X5HZ7W5GMTMELQUV23BTG4U.JPG?auth=8d6aea791e0844b89222a603df516906bd929046305ac40663c5e762b4bb80ac&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela atraviesa una “zona gris”: la apertura económica que no garantiza democracia",
+      "link": "https://www.infobae.com/venezuela/2026/09/01/venezuela-atraviesa-una-zona-gris-la-apertura-economica-que-no-garantiza-democracia/",
+      "image": "https://www.infobae.com/resizer/v2/TGPBNJALHBGJ3L2MODGZJP5DXM.jpg?auth=ef11cc3adee49f1f40efffabc3836e56bb6f220bc14fd677eab456be03a58ba3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Proponen crear una Autoridad Única de Gestión de Riesgo para impulsar la prevención sísmica y la planificación en el Zulia",
-      "link": "https://noticialdia.com/al-dia/proponen-crear-una-autoridad-unica-de-gestion-de-riesgo-para-impulsar-la-prevencion-sismica-y-la-planificacion-en-el-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-61-1.webp?x74346"
+      "title": "Stan Wawrinka se despide de los Grand Slams tras caer en la primera ronda del US Open",
+      "link": "https://noticialdia.com/?p=662338",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Masivo entierro en Nepal para víctimas no identificadas de inundaciones",
-      "link": "https://cnnespanol.cnn.com/2026/08/31/mundo/live-news/nepal-china-inundaciones-vivo-victimas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hor-anderson-00-03-16-06-still001.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Volvió a México tras años indocumentado en EE.UU. Luego le llegó una multa de US$ 1,8 millones",
+      "link": "https://cnnespanol.cnn.com/2026/09/01/eeuu/mexico-indocumentado-ee-uu-dhs-multa-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/img-2648-20260829234329182-20260901094712819.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MP TENDRÁ NUEVA SEDE EN LA GUAIRA TRAS DAÑOS CAUSADOS POR LOS TERREMOTOS",
-      "link": "https://noticierodigital.com/2026/08/mp-tendra-nueva-sede-en-la-guaira-tras-danos-causados-por-los-terremotos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/terminal-terrestre-de-la-guaira-627x376.jpg"
+      "title": "Con el Pentágono como accionista: Nabep controla 9 campos en Zulia y 8 en la faja del Orinoco",
+      "link": "https://noticierodigital.com/2026/09/con-el-pentagono-como-accionista-nabep-controla-9-campos-en-zulia-y-8-en-la-faja-del-orinoco/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/nabep-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Habla el venezolano que quemó a expareja en Chile y fue detenido en Perú: “Me desgracié la vida”",
-      "link": "https://laverdad.com/habla-el-venezolano-que-quemo-a-expareja-en-chile-y-fue-detenido-en-peru-me-desgracie-la-vida/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/08/Ansony-Yosue-Rondon-Chacin.jpg"
+      "title": "Un muerto y 11 heridos deja atentado con carro bomba en Norte de Santander",
+      "link": "https://laverdad.com/un-muerto-y-11-heridos-deja-atentado-con-carro-bomba-en-norte-de-santander/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Diseno-sin-titulo-19.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rubio se reúne con el jefe diplomático en Cuba para evaluar la crisis en la isla",
-      "link": "https://diarioversionfinal.com/mundo/rubio-se-reune-con-el-jefe-diplomatico-en-cuba-para-evaluar-la-crisis-en-la-isla/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/DuZ2ISqb-Marco-Rubio-2-750x430.jpg"
+      "title": "Israel anuncia captura de alto mando de Hamás en Gaza",
+      "link": "https://diarioversionfinal.com/mundo/israel-anuncia-captura-de-alto-mando-de-hamas-en-gaza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/10/Israel-Katz-27-10-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-01T07:21:15.972Z"
+  "lastUpdate": "2026-09-01T13:09:04.768Z"
 };
