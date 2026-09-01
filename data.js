@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 01 Septiembre 2026"
     },
     "binance": {
-      "usdt": "939,00"
+      "usdt": "939,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Barcelona remonta y golea al Rayo Vallecano para recuperar el liderato de LaLiga",
-      "link": "https://noticialdia.com/deportes/barcelona-remonta-y-golea-al-rayo-vallecano-para-recuperar-el-liderato-de-laliga/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/1_20260831_190743_0000.webp?x74346"
+      "title": "Proponen crear una Autoridad Única de Gestión de Riesgo para impulsar la prevención sísmica y la planificación en el Zulia",
+      "link": "https://noticialdia.com/al-dia/proponen-crear-una-autoridad-unica-de-gestion-de-riesgo-para-impulsar-la-prevencion-sismica-y-la-planificacion-en-el-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/v-efe-61-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Prosperará el acuerdo petrolero entre EE.UU. y Venezuela?",
-      "link": "https://cnnespanol.cnn.com/2026/08/31/venezuela/acuerdo-petrolero-trump-agridulce-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257950778.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Masivo entierro en Nepal para víctimas no identificadas de inundaciones",
+      "link": "https://cnnespanol.cnn.com/2026/08/31/mundo/live-news/nepal-china-inundaciones-vivo-victimas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hor-anderson-00-03-16-06-still001.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez lidera reunión del PSUV para evaluar Plan Venezuela Renace",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-lidera-reunion-del-psuv-para-evaluar-plan-venezuela-renace",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4949958880070929697_y-7b7023.jpg"
+      "title": "Embajada de EE. UU. replica comunicado sobre acuerdo energético con Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-replica-comunicado-sobre-acuerdo-energetico-con-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/f2b0677399aaa64e211196cdec8a9d948c869174w-54e2ea.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ INSPECCIONÓ REPARACIONES DE VIVIENDAS AFECTADAS EN ALTAMIRA",
-      "link": "https://noticierodigital.com/2026/08/delcy-rodriguez-inspecciono-reparaciones-de-viviendas-afectadas-en-altamira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/delcy-rodriguez-venezuela-3-627x376.jpg"
+      "title": "MP TENDRÁ NUEVA SEDE EN LA GUAIRA TRAS DAÑOS CAUSADOS POR LOS TERREMOTOS",
+      "link": "https://noticierodigital.com/2026/08/mp-tendra-nueva-sede-en-la-guaira-tras-danos-causados-por-los-terremotos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/terminal-terrestre-de-la-guaira-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Acuerdo petrolero garantizará crudo de bajo costo para EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/acuerdo-petrolero-garantizara-crudo-de-bajo-costo-para-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/02/Balancin-de-petroleo-en-Cabimas-Venezuela-750x430.webp"
+      "title": "Rubio se reúne con el jefe diplomático en Cuba para evaluar la crisis en la isla",
+      "link": "https://diarioversionfinal.com/mundo/rubio-se-reune-con-el-jefe-diplomatico-en-cuba-para-evaluar-la-crisis-en-la-isla/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/DuZ2ISqb-Marco-Rubio-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-01T01:41:20.307Z"
+  "lastUpdate": "2026-09-01T07:21:15.972Z"
 };
