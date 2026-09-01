@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 01 Septiembre 2026"
     },
     "binance": {
-      "usdt": "946,90"
+      "usdt": "948,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Aeropuerto de Maiquetía reanudó vuelos comerciales a través de terminales temporales este 1-Sep",
-      "link": "https://noticialdia.com/al-dia/aeropuerto-de-maiquetia-reanudo-vuelos-comerciales-a-traves-de-terminales-temporales-este-1-sep/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-68.webp?x74346"
+      "title": "Leandro Paredes pone en duda su continuidad en la Selección Argentina tras el retiro de Lionel Messi",
+      "link": "https://noticialdia.com/?p=662718",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué es posible que Venezuela no resuelva el problema de petróleo más inmediato de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/09/01/economia/venezuela-problema-petroleo-estados-unidos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-29t100825z-349095302-rc2z3laj14vj-rtrmadp-3-venezuela-oil-refining-20260901153730234.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Fuerzas Armadas de EE.UU. atacan objetivos iraníes",
+      "link": "https://cnnespanol.cnn.com/2026/09/01/eeuu/iran-nuevos-ataques-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/fuerzas-armadas.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Voluntad Popular exige priorizar los derechos políticos en la mesa de diálogo impulsada por EE. UU",
-      "link": "https://noticiasvenevision.com/noticias/politica/voluntad-popular-exige-priorizar-los-derechos-politicos-en-la-mesa-de-dialogo-impulsada-por-ee-uu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vpopular_renuncias-6eb297.jpg"
+      "title": "Partido Comunista de Venezuela rechaza el acuerdo petrolero entre Caracas y Washington",
+      "link": "https://noticiasvenevision.com/noticias/politica/partido-comunista-de-venezuela-rechaza-el-acuerdo-petrolero-entre-caracas-y-washington",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/venezuela1-112365.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "UNT A FAVOR DE LA EXPLOTACIÓN DE LAS RESERVAS PETROLERAS DE VENEZUELA: «POR EL BIENESTAR DEL PUEBLO»",
-      "link": "https://noticierodigital.com/2026/09/unt-a-favor-de-la-explotacion-de-las-reservas-petroleras-de-venezuela-por-el-bienestar-del-pueblo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/un-nuevo-tiempo.jpg"
+      "title": "CALDERÓN BERTI PROPONE SOMETER A REFERENDO ACUERDO PETROLERO VENEZUELA-USA",
+      "link": "https://noticierodigital.com/2026/09/calderon-berti-propone-someter-a-referendo-acuerdo-petrolero-venezuela-usa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/calderonberti-pdvsa-29mar2023.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Buque cisterna recibe lluvia de proyectiles en jornadas de tensión extrema",
-      "link": "https://diarioversionfinal.com/mundo/buque-cisterna-recibe-lluvia-de-proyectiles-en-jornadas-de-tension-extrema/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-4.jpg"
+      "title": "Ataque con drones en el Valle del Cauca: no hay reporte de heridos aún",
+      "link": "https://diarioversionfinal.com/mundo/ataque-con-drones-en-el-valle-del-cauca-no-hay-reporte-de-heridos-aun/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/ZPm97IvV-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-01T17:38:33.203Z"
+  "lastUpdate": "2026-09-01T20:38:26.788Z"
 };
