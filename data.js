@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "801,18",
-      "eur": "929,09",
-      "fechaValor": "Miércoles, 02 Septiembre 2026"
+      "usd": "804,81",
+      "eur": "932,81",
+      "fechaValor": "Jueves, 03 Septiembre 2026"
     },
     "binance": {
-      "usdt": "965,00"
+      "usdt": "976,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Tras el acuerdo petrolero con Venezuela, Trump dijo que el país aún no está listo para elecciones, pero espera que sean “pronto”",
-      "link": "https://www.infobae.com/estados-unidos/2026/09/02/tras-el-acuerdo-petrolero-con-venezuela-trump-dijo-que-el-pais-aun-no-esta-listo-para-elecciones-pero-espera-que-sean-pronto/",
-      "image": "https://www.infobae.com/resizer/v2/4C6BRYAYSVFPPDD3P2LC6ADBAA.JPG?auth=84cbebe3f2020c2fe81a667cf1b7a7f927d624a8936e69fd09bcbec1af3d8abc&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez agradeció a Trump por el acuerdo petrolero y dijo que traerá \"bienestar\" a Venezuela y Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/09/02/delcy-rodriguez-agradecio-a-trump-por-el-acuerdo-petrolero-y-dijo-que-traera-bienestar-a-venezuela-y-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/NJJTALXFRJBULAVEEXAPTQFWAY.JPG?auth=7b03f5d2cb6885a0d6bd8d2da29cb61e25200300a64847ce858e3a1754de4f9b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "\"Habrá proceso electoral, pero en las condiciones en que Venezuela esté preparada\": Aseveró Delcy Rodríguez",
-      "link": "https://noticialdia.com/politica/habra-proceso-electoral-pero-en-las-condiciones-en-que-venezuela-este-preparada-asevero-delcy-rodriguez/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-3-1.webp?x74346"
+      "title": "Nubarrones, truenos y ventarrones azotan a Maracaibo este miércoles 2-Sept",
+      "link": "https://noticialdia.com/al-dia/nubarrones-truenos-y-ventarrones-azotan-a-maracaibo-este-miercoles-2-sept/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-5-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "ICE detuvo a un solicitante de asilo y sacudió la vida de una familia",
-      "link": "https://cnnespanol.cnn.com/2026/09/02/eeuu/colombiano-asilo-ice-detencion-cafe-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/copia-de-thumbnail-youtube-1-18.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Jueza bloquea intento de Trump de restringir la ciudadanía por nacimiento",
+      "link": "https://cnnespanol.cnn.com/2026/09/02/eeuu/jueza-bloquea-intento-restringir-ciudadania-nacimiento-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2288529681-20260902224355885.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DONALD TRUMP DICE QUE «VENEZUELA TODAVÍA NO ESTÁ LISTA» PARA ELECCIONES",
-      "link": "https://noticierodigital.com/2026/09/donald-trump-dice-que-venezuela-todavia-no-esta-lista-para-elecciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/donald-trump-eeuu-627x376.jpg"
+      "title": "EE. UU. ESTABLECE NUEVAS CONDICIONES PARA INVERSIONES EN EL SECTOR MINERO VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/09/ee-uu-establece-nuevas-condiciones-para-inversiones-en-el-sector-minero-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/01/ofac-an2015-10ene2023.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Riada en Tíbet deja 21 muertos y más de 500 desaparecidos, según nuevo balance",
-      "link": "https://diarioversionfinal.com/mundo/riada-en-tibet-deja-21-muertos-y-mas-de-500-desaparecidos-segun-nuevo-balance/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/8cab43cb6e7ced6753240fb7557015ecb63dc98bw-750x375-1.jpg"
+      "title": "Monedero: “Si el acuerdo lo firmaba MCM, el chavismo estaría con el cuchillo entre los dientes”",
+      "link": "https://diarioversionfinal.com/mundo/monedero-si-el-acuerdo-lo-firmaba-mcm-el-chavismo-estaria-con-el-cuchillo-entre-los-dientes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2015/09/Juan-Carlos-Monedero_JCV5450.jpg"
     }
   ],
-  "lastUpdate": "2026-09-02T20:35:10.447Z"
+  "lastUpdate": "2026-09-02T23:00:33.387Z"
 };
