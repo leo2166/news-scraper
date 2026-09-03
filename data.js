@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "804,81",
-      "eur": "932,81",
-      "fechaValor": "Jueves, 03 Septiembre 2026"
+      "usd": "807,39",
+      "eur": "938,45",
+      "fechaValor": "Viernes, 04 Septiembre 2026"
     },
     "binance": {
-      "usdt": "981,50"
+      "usdt": "971,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Francisco Rodríguez: Sanciones explican 50% de la caída del PIB entre 2012 y 2020",
-      "link": "https://www.bancaynegocios.com/francisco-rodriguez-sanciones-explican-50-porciento-de-la-caida-del-pib-entre-2012-y-2020/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/FRANCISCO-RODRIGUEZ-ECONOMISTA-030926.jpg"
+      "title": "Gremios piden destinar recursos del acuerdo petrolero con EE.UU. a la producción agropecuaria nacional",
+      "link": "https://www.bancaynegocios.com/gremios-piden-destinar-recursos-del-acuerdo-petrolero-con-ee-uu-a-la-produccion-agropecuaria-nacional/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2022/07/papas-12-1132x670-1.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Maracaibo ejecutó fumigación en la parroquia Coquivacoa",
-      "link": "https://noticialdia.com/zulia/alcaldia-de-maracaibo-ejecuto-fumigacion-en-la-parroquia-coquivacoa/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/3d1fd6e5-993a-4e6d-887f-40e567496aab-convertido-a-1024x720-1.webp?x74346"
+      "title": "Potente chubasco tumbó dos postes en San Francisco y dejó a varios sectores sin electricidad",
+      "link": "https://noticialdia.com/zulia/potente-chubasco-tumbo-dos-postes-en-san-francisco-y-dejo-a-varios-sectores-sin-electricidad/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-7-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado: El sector petrolero es solo una parte de la inmensa reconstrucción que tenemos que hacer en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-el-sector-petrolero-es-solo-una-parte-de-la-inmensa-reconstruccion-que-tenemos-que-hacer-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/b3tuhzdzszfa7chxdhnilavyaq-1d703d.jpg"
+      "title": "Diosdado Cabello defiende el acuerdo petrolero entre Caracas y Washington frente a críticas de sectores políticos",
+      "link": "https://noticiasvenevision.com/noticias/politica/diosdado-cabello-defiende-el-acuerdo-petrolero-entre-caracas-y-washington-frente-a-criticas-de-sectores-politicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diosdado-cabello-53495-d803bc.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP ASEGURA QUE MADURO Y CILIA FLORES IRÁN A JUICIO EN EE. UU. POR «DELITOS PESADOS»",
-      "link": "https://noticierodigital.com/2026/09/trump-asegura-que-maduro-y-cilia-flores-iran-a-juicio-en-ee-uu-por-delitos-pesados/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/donald-trump-eeuu-1-627x376.jpg"
+      "title": "CHACAO HA REPARADO 19,6 % DE LAS VIVIENDAS AFECTADAS POR LOS TERREMOTOS, SEGÚN DUQUE",
+      "link": "https://noticierodigital.com/2026/09/chacao-ha-reparado-196-de-las-viviendas-afectadas-por-los-terremotos-segun-duque/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Imagen-destacada_20260903_180816_0000-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Ataques de EE. UU. contra “narcolanchas” dejan al menos 227 muertos en un año",
-      "link": "https://laverdad.com/ataques-de-ee-uu-contra-narcolanchas-dejan-al-menos-227-muertos-en-un-ano/",
-      "image": "https://laverdad.com/wp-content/uploads/2025/10/Ataque-narcolancha-EE.-UU.-29O-1.jpg"
+      "title": "Corte colombiana niega extradición de opositor venezolano acusado de homicidio en Maracaibo",
+      "link": "https://laverdad.com/corte-colombiana-niega-extradicion-de-opositor-venezolano-acusado-de-homicidio-en-maracaibo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Corte-colombiana-niega-extradicion-a-Venezuela-de-opositor-acusado-de-homicidio-en-Maracaibo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sánchez anuncia visita del rey Felipe VI a Ceuta y Melilla \"en las próximas semanas\"",
-      "link": "https://diarioversionfinal.com/mundo/sanchez-anuncia-visita-del-rey-felipe-vi-a-ceuta-y-melilla-en-las-proximas-semanas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/09/pedro-sanchez-inicio-curso-04092024-750x430.jpg"
+      "title": "Imputan a un agente del ICE por disparar contra un migrante venezolano",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/imputan-a-un-agente-del-ice-por-disparar-contra-un-migrante-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/hmxdySx5-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-03T19:40:17.931Z"
+  "lastUpdate": "2026-09-03T22:23:52.284Z"
 };
