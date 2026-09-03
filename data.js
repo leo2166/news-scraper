@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Marco Rubio anunció una nueva ronda de negociación política en Venezuela entre el gobierno y la oposición",
-      "link": "https://www.infobae.com/venezuela/2026/09/03/marco-rubio-anuncio-una-nueva-ronda-de-negociacion-politica-en-venezuela-entre-el-gobierno-y-la-oposicion/",
-      "image": "https://www.infobae.com/resizer/v2/67575IUXPNDIFGE5UXKVVV2ERI.jpg?auth=32a11ccde7abfd4af76799cf025110d29391cad9e7090ef3c197904a3a2b19c2&smart=true&width=350&height=197&quality=85"
+      "title": "Una ONG denunció el traslado de presos políticos desde la cárcel El Rodeo I a otras prisiones en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/09/03/una-ong-denuncio-el-traslado-de-presos-politicos-desde-la-carcel-el-rodeo-i-a-otras-prisiones-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/B6L4QWNAKVCYTP3LCTLSVRNFGQ.jpg?auth=6d26e7908891675a2763e1e712151521699829d7ef5973febcc5f2edde7c1a6d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Maduro pide desestimar su caso en EEUU bajo el argumento de inmunidad soberana",
-      "link": "https://noticialdia.com/al-dia/maduro-pide-desestimar-su-caso-en-eeuu-bajo-el-argumento-de-inmunidad-soberana/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-10.webp?x74346"
+      "title": "Heberto Adrianza: \"Por ética, ningún ingeniero debe ejecutar una obra sin estudio de suelo previo\"",
+      "link": "https://noticialdia.com/principal/heberto-adrianza-por-etica-ningun-ingeniero-debe-ejecutar-una-obra-sin-estudio-de-suelo-previo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-02T141653.752.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Jueza bloquea intento de Trump de restringir la ciudadanía por nacimiento",
-      "link": "https://cnnespanol.cnn.com/2026/09/02/eeuu/jueza-bloquea-intento-restringir-ciudadania-nacimiento-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2288529681-20260902224355885.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. realizó una arriesgada escolta de buques bajo ataques iraníes",
+      "link": "https://cnnespanol.cnn.com/2026/09/02/eeuu/drones-iranies-escolta-rpetroleo-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-02t000256z-1554206488-rc2nanat6p7u-rtrmadp-3-iran-crisis-usa-strikes-20260903000941041.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez recibe en Miraflores a representantes de ENI y Chevron para evaluar planes de inversión",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-recibe-en-miraflores-a-representantes-de-eni-y-chevron-para-evaluar-planes-de-inversion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_20260902_122057_550.jpg-395f38.jpeg"
+      "title": "Delcy Rodríguez confirma que habrá comicios luego de estabilizar la economía del país",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-confirma-que-habra-comicios-luego-de-estabilizar-la-economia-del-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jz_l4646-7_-e1098a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ENRIQUE MÁRQUEZ RESPALDÓ ACUERDOS PETROLEROS CON EE. UU.",
-      "link": "https://noticierodigital.com/2026/09/enrique-marquez-respaldo-acuerdos-petroleros-con-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/enrique-marquez.jpg"
+      "title": "FAMILIARES PERMANECEN FRENTE A EL RODEO I ANTE PRESUNTOS TRASLADOS DE PRESOS POLÍTICOS",
+      "link": "https://noticierodigital.com/2026/09/familiares-permanecen-frente-a-el-rodeo-i-ante-presuntos-traslados-de-presos-politicos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/traslado-de-presos-politicos-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba registró 1.185 protestas y reclamos durante agosto en medio de la crisis económica",
-      "link": "https://diarioversionfinal.com/mundo/cuba-registro-1-185-protestas-y-reclamos-durante-agosto-en-medio-de-la-crisis-economica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Protestas-Cuba-02-09-2026-750x430.jpg"
+      "title": "Denegaciones de asilo en EE. UU. alcanzan cifra récord: solo 5,5 % de casos aprobados en junio",
+      "link": "https://diarioversionfinal.com/mundo/denegaciones-de-asilo-en-ee-uu-alcanzan-cifra-record-solo-55-de-casos-aprobados-en-junio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/images-2026-07-27T161044.179.jpg"
     }
   ],
-  "lastUpdate": "2026-09-03T01:04:50.716Z"
+  "lastUpdate": "2026-09-03T06:54:47.399Z"
 };
