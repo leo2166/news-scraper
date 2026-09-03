@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 03 Septiembre 2026"
     },
     "binance": {
-      "usdt": "976,00"
+      "usdt": "977,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez agradeció a Trump por el acuerdo petrolero y dijo que traerá \"bienestar\" a Venezuela y Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/09/02/delcy-rodriguez-agradecio-a-trump-por-el-acuerdo-petrolero-y-dijo-que-traera-bienestar-a-venezuela-y-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/NJJTALXFRJBULAVEEXAPTQFWAY.JPG?auth=7b03f5d2cb6885a0d6bd8d2da29cb61e25200300a64847ce858e3a1754de4f9b&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio anunció una nueva ronda de negociación política en Venezuela entre el gobierno y la oposición",
+      "link": "https://www.infobae.com/venezuela/2026/09/03/marco-rubio-anuncio-una-nueva-ronda-de-negociacion-politica-en-venezuela-entre-el-gobierno-y-la-oposicion/",
+      "image": "https://www.infobae.com/resizer/v2/67575IUXPNDIFGE5UXKVVV2ERI.jpg?auth=32a11ccde7abfd4af76799cf025110d29391cad9e7090ef3c197904a3a2b19c2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Nubarrones, truenos y ventarrones azotan a Maracaibo este miércoles 2-Sept",
-      "link": "https://noticialdia.com/al-dia/nubarrones-truenos-y-ventarrones-azotan-a-maracaibo-este-miercoles-2-sept/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-5-1.webp?x74346"
+      "title": "Maduro pide desestimar su caso en EEUU bajo el argumento de inmunidad soberana",
+      "link": "https://noticialdia.com/al-dia/maduro-pide-desestimar-su-caso-en-eeuu-bajo-el-argumento-de-inmunidad-soberana/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-10.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. ESTABLECE NUEVAS CONDICIONES PARA INVERSIONES EN EL SECTOR MINERO VENEZOLANO",
-      "link": "https://noticierodigital.com/2026/09/ee-uu-establece-nuevas-condiciones-para-inversiones-en-el-sector-minero-venezolano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/01/ofac-an2015-10ene2023.jpg"
+      "title": "ENRIQUE MÁRQUEZ RESPALDÓ ACUERDOS PETROLEROS CON EE. UU.",
+      "link": "https://noticierodigital.com/2026/09/enrique-marquez-respaldo-acuerdos-petroleros-con-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/08/enrique-marquez.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Monedero: “Si el acuerdo lo firmaba MCM, el chavismo estaría con el cuchillo entre los dientes”",
-      "link": "https://diarioversionfinal.com/mundo/monedero-si-el-acuerdo-lo-firmaba-mcm-el-chavismo-estaria-con-el-cuchillo-entre-los-dientes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2015/09/Juan-Carlos-Monedero_JCV5450.jpg"
+      "title": "Cuba registró 1.185 protestas y reclamos durante agosto en medio de la crisis económica",
+      "link": "https://diarioversionfinal.com/mundo/cuba-registro-1-185-protestas-y-reclamos-durante-agosto-en-medio-de-la-crisis-economica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Protestas-Cuba-02-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-02T23:00:33.387Z"
+  "lastUpdate": "2026-09-03T01:04:50.716Z"
 };
