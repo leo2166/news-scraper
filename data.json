@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 04 Septiembre 2026"
     },
     "binance": {
-      "usdt": "964,00"
+      "usdt": "958,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Flexibilización no es suficiente: Ministra de Hidrocarburos pide a EEUU cese total de sanciones",
-      "link": "https://www.bancaynegocios.com/flexibilizacion-no-es-suficiente-ministra-de-hidrocarburos-pide-a-eeuu-cese-total-de-sanciones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/PAULA-HENAO-MINISTRA-DE-HIDROCARBUROS.webp"
+      "title": "BCV: Inflación en Venezuela descendió y se situó en 8,9% en agosto",
+      "link": "https://www.bancaynegocios.com/bcv-inflacion-en-venezuela-descendio-y-se-situo-en-8punto9-porciento-en-agosto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/01/BCV-INFLACION-2023-e1765491948321.jpg"
     },
     {
       "source": "Infobae",
-      "title": "El capitán olvidado de la causa “Espionaje Fortunato”: denuncian detención arbitraria, desaparición forzada y traslado a Yare II",
-      "link": "https://www.infobae.com/venezuela/2026/09/04/el-capitan-olvidado-de-la-causa-espionaje-fortunato-denuncian-detencion-arbitraria-desaparicion-forzada-y-traslado-a-yare-ii/",
-      "image": "https://www.infobae.com/resizer/v2/OOMFNRXVQ5GYFEDYRMHY4KGTUE.jpg?auth=5ff0cf732446a2fe5b40794af2dfd776316e9308ce9bab9fb7fc33a3157011d4&smart=true&width=350&height=197&quality=85"
+      "title": "Matrícula escolar de Venezuela registra una caída de 2,8 millones de estudiantes",
+      "link": "https://www.infobae.com/venezuela/2026/09/04/matricula-escolar-de-venezuela-registra-una-caida-de-28-millones-de-estudiantes/",
+      "image": "https://www.infobae.com/resizer/v2/DG3Q26FM5JHBBAD4YSYXGJVIGI.jpg?auth=b447ae2d76d59b2884fefabca6b06ee32d0089de46b8112bcbcdc9d4b310840e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Nick Kyrgios sancionado por un mes tras dar positivo por cocaína",
-      "link": "https://noticialdia.com/deportes/nick-kyrgios-sancionado-por-un-mes-tras-dar-positivo-por-cocaina/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/1_20260904_103840_0000.webp?x74346"
+      "title": "Inician rehabilitación de plantas eléctricas en tres hospitales estratégicos del Zulia",
+      "link": "https://noticialdia.com/al-dia/inician-rehabilitacion-de-plantas-electricas-en-tres-hospitales-estrategicos-del-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/plantilla-erne-2026-09-04T135201.963-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "FEDEAGRO RECHAZA IMPORTACIONES: «NO PODEMOS SEGUIR DEPENDIENDO DE LA DESPENSA DE UN VECINO»",
-      "link": "https://noticierodigital.com/2026/09/fedeagro-rechaza-importaciones-no-podemos-seguir-dependiendo-de-la-despensa-de-un-vecino/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/agricultura-venezuela-referencial-627x376.jpg"
+      "title": "TECHO BUSCA CONSTRUIR 700 VIVIENDAS PARA AFECTADOS POR TERREMOTOS EN COLOMBIA Y VENEZUELA",
+      "link": "https://noticierodigital.com/2026/09/techo-busca-construir-700-viviendas-para-afectados-por-terremotos-en-colombia-y-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/terremoto_LaGuaira-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "¡Milagro en Nepal! Rescatan con vida a 2 trabajadores tras 10 días bajo tierra",
-      "link": "https://laverdad.com/milagro-en-nepal-rescatan-con-vida-a-2-trabajadores-tras-10-dias-bajo-tierra/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Rescate-Nepal.jpg"
+      "title": "Abaten a “Bendito Menor”, “La Bebesita” y dos escoltas en Riohacha",
+      "link": "https://laverdad.com/abaten-a-bendito-menor-la-bebesita-y-dos-escoltas-en-riohacha/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Abelardo-de-la-Espriella-Bendito-Menor.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España iguala récord de calor para septiembre con 45,7 °C",
-      "link": "https://diarioversionfinal.com/mundo/espana-iguala-record-de-calor-para-septiembre-con-457-c/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/images-14-694x430.jpg"
+      "title": "Juez ordena a Colombia abstenerse de bombardear grupos armados si hay menores reclutados",
+      "link": "https://diarioversionfinal.com/mundo/juez-ordena-a-colombia-abstenerse-de-bombardear-grupos-armados-si-hay-menores-reclutados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/SOLDADOS-COLOMBIANOS-EN-ZONA-RURAL-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-04T14:49:22.365Z"
+  "lastUpdate": "2026-09-04T18:08:31.907Z"
 }
