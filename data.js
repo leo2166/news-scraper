@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 04 Septiembre 2026"
     },
     "binance": {
-      "usdt": "958,00"
+      "usdt": "961,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "BCV: Inflación en Venezuela descendió y se situó en 8,9% en agosto",
-      "link": "https://www.bancaynegocios.com/bcv-inflacion-en-venezuela-descendio-y-se-situo-en-8punto9-porciento-en-agosto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/01/BCV-INFLACION-2023-e1765491948321.jpg"
+      "title": "Inversión petrolera podría impulsar hasta 15% la venta de inmuebles en Monagas",
+      "link": "https://www.bancaynegocios.com/inversion-petrolera-podria-impulsar-hasta-15-porciento-la-venta-de-inmuebles-en-monagas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/maturin.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Matrícula escolar de Venezuela registra una caída de 2,8 millones de estudiantes",
-      "link": "https://www.infobae.com/venezuela/2026/09/04/matricula-escolar-de-venezuela-registra-una-caida-de-28-millones-de-estudiantes/",
-      "image": "https://www.infobae.com/resizer/v2/DG3Q26FM5JHBBAD4YSYXGJVIGI.jpg?auth=b447ae2d76d59b2884fefabca6b06ee32d0089de46b8112bcbcdc9d4b310840e&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela: plantean reformar la Dirección Ejecutiva de la Magistratura y la Inspectoría para garantizar independencia judicial",
+      "link": "https://www.infobae.com/venezuela/2026/09/04/venezuela-plantean-reformar-la-direccion-ejecutiva-de-la-magistratura-y-la-inspectoria-para-garantizar-independencia-judicial/",
+      "image": "https://www.infobae.com/resizer/v2/JD4I2JSYBRCVPOXSJBBYMOJOTA.png?auth=443aa54d3bde233955953a589d1a7819032e8859e9bd85f33389591a188dd483&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Inician rehabilitación de plantas eléctricas en tres hospitales estratégicos del Zulia",
-      "link": "https://noticialdia.com/al-dia/inician-rehabilitacion-de-plantas-electricas-en-tres-hospitales-estrategicos-del-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/plantilla-erne-2026-09-04T135201.963-4.webp?x74346"
+      "title": "Tembló en Lagunillas y Bachaquero",
+      "link": "https://noticialdia.com/al-dia/temblo-en-lagunillas-y-bachaquero/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-Haroldo-49.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "En Cuba, desde influencers hasta guías turísticos tienen recetas para sobrevivir",
-      "link": "https://cnnespanol.cnn.com/2026/09/04/latinoamerica/cuba-historias-ingenio-resistencia-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2290456179.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Confirman nulidad del juicio de Lindsay Clancy",
+      "link": "https://cnnespanol.cnn.com/2026/09/04/eeuu/lindsay-clancy-juicio-nulo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-02t153221z-472496018-rc2yhcadtswd-rtrmadp-3-venezuela-energy-agreements-20260904194057745.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "EE. UU. publica hoja informativa sobre  acuerdos energéticos con venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-en-caracas-presenta-hoja-de-ruta-energetica-tras-acuerdos-con-chevron-eni-y-ge-vernova",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/-1x-1-37cb2b.webp"
+      "title": "Lester Toledo apoya alianza energética con Estados Unidos para impulsar la economía venezolana",
+      "link": "https://noticiasvenevision.com/noticias/politica/lester-toledo-apoya-alianza-energetica-con-estados-unidos-para-impulsar-la-economia-venezolana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-03-at-2.47.05-pm-7409a1.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TECHO BUSCA CONSTRUIR 700 VIVIENDAS PARA AFECTADOS POR TERREMOTOS EN COLOMBIA Y VENEZUELA",
-      "link": "https://noticierodigital.com/2026/09/techo-busca-construir-700-viviendas-para-afectados-por-terremotos-en-colombia-y-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/terremoto_LaGuaira-627x376.jpg"
+      "title": "ALEJANDRO TERÁN PROYECTA 12 MILLONES DE NUEVOS EMPLEOS EN LOS PRÓXIMOS 20 AÑOS",
+      "link": "https://noticierodigital.com/2026/09/alejandro-teran-proyecta-12-millones-de-nuevos-empleos-en-los-proximos-20-anos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/Alejandro-Teran-1068x601-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Abaten a “Bendito Menor”, “La Bebesita” y dos escoltas en Riohacha",
-      "link": "https://laverdad.com/abaten-a-bendito-menor-la-bebesita-y-dos-escoltas-en-riohacha/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Abelardo-de-la-Espriella-Bendito-Menor.jpg"
+      "title": "Evaluarán salud mental del venezolano que mató a mujer en Chile por “un llamado de Jesucristo”",
+      "link": "https://laverdad.com/evaluaran-salud-mental-del-venezolano-que-mato-a-mujer-en-chile-por-un-llamado-de-jesucristo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/08/Venezolano-acusado-crimen-en-Chile.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juez ordena a Colombia abstenerse de bombardear grupos armados si hay menores reclutados",
-      "link": "https://diarioversionfinal.com/mundo/juez-ordena-a-colombia-abstenerse-de-bombardear-grupos-armados-si-hay-menores-reclutados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/SOLDADOS-COLOMBIANOS-EN-ZONA-RURAL-750x430.webp"
+      "title": "Juicio contra Lindsay Clancy declarado nulo tras siete días de deliberaciones",
+      "link": "https://diarioversionfinal.com/mundo/juicio-contra-lindsay-clancy-declarado-nulo-tras-siete-dias-de-deliberaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/tIa7244f-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-04T18:08:31.907Z"
+  "lastUpdate": "2026-09-04T21:16:06.994Z"
 };
