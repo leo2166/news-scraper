@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 04 Septiembre 2026"
     },
     "binance": {
-      "usdt": "971,00"
+      "usdt": "972,11"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El dólar rompe la barrera de los 800 bolívares y afirman que la devaluación es una política de Estado",
-      "link": "https://www.infobae.com/venezuela/2026/09/03/el-dolar-rompe-la-barrera-de-los-800-bolivares-y-afirman-que-la-devaluacion-es-una-politica-de-estado/",
-      "image": "https://www.infobae.com/resizer/v2/ASFSDJ555ZDOFGJWVER6PRIRTM.jpg?auth=bfa8a81735e8bd4d8f650f6e0556c6cff80fec082cc5f65307801e41519a5813&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos dijo que prevé estabilizar la red eléctrica de Venezuela en un plazo de seis a 12 meses tras el acuerdo con GE Vernova",
+      "link": "https://www.infobae.com/estados-unidos/2026/09/03/estados-unidos-dijo-que-preve-estabilizar-la-red-electrica-de-venezuela-en-un-plazo-de-seis-a-12-meses-tras-el-acuerdo-con-ge-vernova/",
+      "image": "https://www.infobae.com/resizer/v2/2E3ASKT2YBH4BDOQH2H4FA6V2E.JPG?auth=dbe14c7026acb210af6eef43f9c6fde433802b99eab997fc017ffd44897ae6c6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Potente chubasco tumbó dos postes en San Francisco y dejó a varios sectores sin electricidad",
-      "link": "https://noticialdia.com/zulia/potente-chubasco-tumbo-dos-postes-en-san-francisco-y-dejo-a-varios-sectores-sin-electricidad/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-7-2.webp?x74346"
+      "title": "El FMI contempla abrir una oficina en Caracas",
+      "link": "https://noticialdia.com/al-dia/el-fmi-contempla-abrir-una-oficina-en-caracas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-12-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Acusan a agente de ICE de mentir sobre el tiroteo a un inmigrante venezolano",
-      "link": "https://cnnespanol.cnn.com/2026/09/03/eeuu/agente-ice-acusado-tiroteo-minnesota-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cbf91e9f-ca31-4445-bf34-7a7a183a2a33.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Denuncian “fallas sistémicas” al verificar antecedentes de reclutas de ICE",
+      "link": "https://cnnespanol.cnn.com/2026/09/03/eeuu/fallas-sistemicas-antecedentes-reclutas-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/reclutamiento-ice.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diosdado Cabello defiende el acuerdo petrolero entre Caracas y Washington frente a críticas de sectores políticos",
-      "link": "https://noticiasvenevision.com/noticias/politica/diosdado-cabello-defiende-el-acuerdo-petrolero-entre-caracas-y-washington-frente-a-criticas-de-sectores-politicos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diosdado-cabello-53495-d803bc.jpg"
+      "title": "Donald Trump destaca el potencial energético de Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/donald-trump-destaca-el-potencial-energetico-de-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/trump_profile_smithsonian-sp-c39cba.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CHACAO HA REPARADO 19,6 % DE LAS VIVIENDAS AFECTADAS POR LOS TERREMOTOS, SEGÚN DUQUE",
-      "link": "https://noticierodigital.com/2026/09/chacao-ha-reparado-196-de-las-viviendas-afectadas-por-los-terremotos-segun-duque/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Imagen-destacada_20260903_180816_0000-627x376.jpg"
+      "title": "GONZALO HIMIOB REPORTÓ AL MENOS 94 TRASLADOS DE PRESOS POLÍTICOS DESDE EL RODEO I",
+      "link": "https://noticierodigital.com/2026/09/gonzalo-himiob-reporto-al-menos-94-traslados-de-presos-politicos-desde-el-rodeo-i/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/rodeo-I-prision-miranda-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Imputan a un agente del ICE por disparar contra un migrante venezolano",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/imputan-a-un-agente-del-ice-por-disparar-contra-un-migrante-venezolano/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/hmxdySx5-image-750x430.jpg"
+      "title": "Trump destaca regreso de inversiones petroleras a Venezuela y afirma que el país \"ahora está contento\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-destaca-regreso-de-inversiones-petroleras-a-venezuela-y-afirma-que-el-pais-ahora-esta-contento/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/03/AAZNNEIGFDE3CBTNZ3QJWW2PIU-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-03T22:23:52.284Z"
+  "lastUpdate": "2026-09-04T00:54:06.702Z"
 };
