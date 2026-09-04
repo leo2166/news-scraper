@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "807,39",
-      "eur": "938,45",
-      "fechaValor": "Viernes, 04 Septiembre 2026"
+      "usd": "813,74",
+      "eur": "945,65",
+      "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "961,90"
+      "usdt": "962,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inversión petrolera podría impulsar hasta 15% la venta de inmuebles en Monagas",
-      "link": "https://www.bancaynegocios.com/inversion-petrolera-podria-impulsar-hasta-15-porciento-la-venta-de-inmuebles-en-monagas/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/maturin.jpg"
+      "title": "Inician pago del Bono Único Familiar de septiembre: Aumentó 8,05% en bolívares",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-unico-familiar-de-septiembre-aumento-8punto05-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela: plantean reformar la Dirección Ejecutiva de la Magistratura y la Inspectoría para garantizar independencia judicial",
-      "link": "https://www.infobae.com/venezuela/2026/09/04/venezuela-plantean-reformar-la-direccion-ejecutiva-de-la-magistratura-y-la-inspectoria-para-garantizar-independencia-judicial/",
-      "image": "https://www.infobae.com/resizer/v2/JD4I2JSYBRCVPOXSJBBYMOJOTA.png?auth=443aa54d3bde233955953a589d1a7819032e8859e9bd85f33389591a188dd483&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez celebró la firma de otro contrato para explotar petróleo en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/09/04/delcy-rodriguez-celebro-la-firma-de-otro-contrato-para-explotar-petroleo-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/F7JY2UBKFREQ3DUJTB53XIUDQI.jpg?auth=92aab396810d2c18daa45513da6d6f33f860a9f7609be89d93c0e963978a3b6c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Tembló en Lagunillas y Bachaquero",
-      "link": "https://noticialdia.com/al-dia/temblo-en-lagunillas-y-bachaquero/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-Haroldo-49.webp?x74346"
+      "title": "Lanzan artefacto explosivo en el Retén El Marite: No detonó",
+      "link": "https://noticialdia.com/al-dia/lanzan-artefacto-explosivo-en-el-reten-el-marite-no-detono/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-5-3.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Confirman nulidad del juicio de Lindsay Clancy",
+      "title": "Juez anula el juicio de Lindsay Clancy",
       "link": "https://cnnespanol.cnn.com/2026/09/04/eeuu/lindsay-clancy-juicio-nulo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-02t153221z-472496018-rc2yhcadtswd-rtrmadp-3-venezuela-energy-agreements-20260904194057745.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/f5e7862e-da9f-4c6c-bd55-48c8941466e7.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Lester Toledo apoya alianza energética con Estados Unidos para impulsar la economía venezolana",
-      "link": "https://noticiasvenevision.com/noticias/politica/lester-toledo-apoya-alianza-energetica-con-estados-unidos-para-impulsar-la-economia-venezolana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-03-at-2.47.05-pm-7409a1.jpeg"
+      "title": "Delcy Rodríguez destaca que los nuevos acuerdos energéticos consolidan el desarrollo del país",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-destaca-que-los-nuevos-acuerdos-energeticos-consolidan-el-desarrollo-del-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_1912-8ac5b4.JPG"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ALEJANDRO TERÁN PROYECTA 12 MILLONES DE NUEVOS EMPLEOS EN LOS PRÓXIMOS 20 AÑOS",
-      "link": "https://noticierodigital.com/2026/09/alejandro-teran-proyecta-12-millones-de-nuevos-empleos-en-los-proximos-20-anos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/Alejandro-Teran-1068x601-1-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ DENUNCIÓ SABOTAJE AL SEN TRAS LOS NUEVOS ACUERDOS ENERGÉTICOS",
+      "link": "https://noticierodigital.com/2026/09/delcy-rodriguez-denuncio-sabotaje-al-sen-tras-los-nuevos-acuerdos-energeticos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/delcy-rodriguez-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juicio contra Lindsay Clancy declarado nulo tras siete días de deliberaciones",
-      "link": "https://diarioversionfinal.com/mundo/juicio-contra-lindsay-clancy-declarado-nulo-tras-siete-dias-de-deliberaciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/tIa7244f-image-750x430.jpg"
+      "title": "Abatido en Riohacha alias \"Bendito Menor\" durante operativo de la Policía Nacional",
+      "link": "https://diarioversionfinal.com/mundo/abatido-en-riohacha-alias-bendito-menor-durante-operativo-de-la-policia-nacional/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Bendito-Menor-04-09-2026-600x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-04T21:16:06.994Z"
+  "lastUpdate": "2026-09-04T23:45:30.912Z"
 };
