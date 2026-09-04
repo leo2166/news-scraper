@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 04 Septiembre 2026"
     },
     "binance": {
-      "usdt": "975,20"
+      "usdt": "970,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -28,14 +28,14 @@ window.DASHBOARD_DATA = {
     {
       "source": "Noticia al Día",
       "title": "Rayo Zuliano logra una agónica victoria 4-3 sobre Carabobo en el Pachencho Romero",
-      "link": "https://noticialdia.com/sin-categoria/rayo-zuliano-logra-una-agonica-victoria-4-3-sobre-carabobo-en-el-pachencho-romero/",
+      "link": "https://noticialdia.com/al-dia/rayo-zuliano-logra-una-agonica-victoria-4-3-sobre-carabobo-en-el-pachencho-romero/",
       "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/1_20260904_002958_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Inician labores de rescate tras escucharse voces en una central hidroeléctrica en Nepal",
-      "link": "https://cnnespanol.cnn.com/2026/09/03/mundo/rescatan-hombre-voces-central-hidroelectrica-nepal-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/reclutamiento-ice.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Esperanza en Nepal: rescatan a dos hombres atrapados en un túnel",
+      "link": "https://cnnespanol.cnn.com/2026/09/04/mundo/live-news/rescate-sobrevivientes-tunel-nepal-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/nepal-16x9-2-20260904082959109.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Tiroteo-Mineapolis-03-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-04T05:37:18.823Z"
+  "lastUpdate": "2026-09-04T10:48:18.863Z"
 };
