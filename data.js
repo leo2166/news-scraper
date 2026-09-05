@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "963,90"
+      "usdt": "969,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez celebró la firma de otro contrato para explotar petróleo en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/09/04/delcy-rodriguez-celebro-la-firma-de-otro-contrato-para-explotar-petroleo-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/F7JY2UBKFREQ3DUJTB53XIUDQI.jpg?auth=92aab396810d2c18daa45513da6d6f33f860a9f7609be89d93c0e963978a3b6c&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó un contrato con una empresa de EEUU para remover toneladas de escombros tras los terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/09/05/venezuela-firmo-un-contrato-con-una-empresa-de-eeuu-para-remover-toneladas-de-escombros-tras-los-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/I3AC3AOBJZGA5OMWX3ZOLZHPMA.JPG?auth=d64ba8996f24f511331add139ac61160c46627ff43711b6307cf0191bf6519a6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De la Espriella pone fin a las mesas de diálogo de Petro",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-pone-fin-a-las-mesas-de-dialogo-de-petro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Petro-De-la-Espriella-08-07-2026-750x430.jpg"
+      "title": "Las Williams brillan en su regreso al US Open, aunque quedan eliminadas",
+      "link": "https://diarioversionfinal.com/mundo/las-williams-brillan-en-su-regreso-al-us-open-aunque-quedan-eliminadas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Las-Williams-04-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-05T03:13:54.372Z"
+  "lastUpdate": "2026-09-05T08:06:05.250Z"
 };
