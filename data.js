@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "964,00"
+      "usdt": "960,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Ranger Suárez comanda la blanqueada de Medias Rojas sobre Orioles",
-      "link": "https://noticialdia.com/deportes/ranger-suarez-comanda-la-blanqueada-de-medias-rojas-sobre-orioles/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/1_20260905_114454_0000.webp?x74346"
+      "title": "Épico regreso y doloroso adiós: Las hermanas Williams caen después de tres horas de batalla en el US Open",
+      "link": "https://noticialdia.com/?p=664348",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
       "title": "Las Fuerzas Armadas de EE.UU. dicen que atacaron tres buques iraníes en el Golfo",
       "link": "https://cnnespanol.cnn.com/2026/09/05/mundo/eeuu-ataque-buques-iran-golfo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/muskpaxton-20260905120255766.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260901-greg-bovino-20260905111623861.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FIN DE SEMANA LLUVIOSO POR LA ONDA TROPICAL 46, PRONOSTICÓ INAMEH",
-      "link": "https://noticierodigital.com/2026/09/fin-de-semana-lluvioso-por-la-onda-tropical-46-pronostico-inameh/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-3-4-627x376.png"
+      "title": "ESTADOS UNIDOS DEVOLVIÓ ATAQUE A IRÁN ESTE SÁBADO CONTRA TRES PETROLEROS",
+      "link": "https://noticierodigital.com/2026/09/estados-unidos-devolvio-ataque-a-iran-este-sabado-contra-tres-petroleros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/05/comando-sur-de-eeuu-ataque-narcolancha-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski suspende ataques contra Moscú tras tregua anunciada por Putin en Kiev",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-suspende-ataques-contra-moscu-tras-tregua-anunciada-por-putin-en-kiev/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Volodimir-Zelenski-750x430.webp"
+      "title": "Incendio en boda deja al menos 22 muertos en Kinsasa",
+      "link": "https://diarioversionfinal.com/mundo/incendio-en-boda-deja-al-menos-22-muertos-en-kinsasa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/JQBLpcVL-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-05T15:48:48.413Z"
+  "lastUpdate": "2026-09-05T17:57:09.566Z"
 };
