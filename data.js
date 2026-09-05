@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "969,00"
+      "usdt": "965,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. cerró investigación sobre un empresario vinculado al pacto petrolero con Venezuela",
-      "link": "https://cnnespanol.cnn.com/2026/09/04/eeuu/alejandro-betancourt-acuerdo-petrolero-venezuela-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-02t153221z-472496018-rc2yhcadtswd-rtrmadp-3-venezuela-energy-agreements-20260904194057745.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Rescatan a dos personas más 10 días después de las inundaciones en Nepal",
+      "link": "https://cnnespanol.cnn.com/2026/09/05/mundo/live-news/inundaciones-en-nepal-china-rescates-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/nepal-china.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Las Williams brillan en su regreso al US Open, aunque quedan eliminadas",
-      "link": "https://diarioversionfinal.com/mundo/las-williams-brillan-en-su-regreso-al-us-open-aunque-quedan-eliminadas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Las-Williams-04-09-2026-750x430.jpg"
+      "title": "Ataque con drones deja dos militares muertos en Ocaña",
+      "link": "https://diarioversionfinal.com/mundo/ataque-con-drones-deja-dos-militares-muertos-en-ocana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/HRb3UYvXAAA3mF7-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-05T08:06:05.250Z"
+  "lastUpdate": "2026-09-05T12:25:22.954Z"
 };
