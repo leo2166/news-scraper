@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "954,00"
+      "usdt": "959,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gremios agropecuarios demandan más inversión por el acuerdo petrolero con EEUU",
-      "link": "https://www.bancaynegocios.com/gremios-agropecuarios-demandan-mas-inversion-por-el-acuerdo-petrolero-con-eeuu/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/01/ProduccionAgricola.jpg"
+      "title": "Trump atribuyó desaceleración de la inflación en Venezuela al acuerdo petrolero recién firmado",
+      "link": "https://www.bancaynegocios.com/trump-atribuyo-desaceleracion-de-la-inflacion-en-venezuela-al-acuerdo-petrolero-recien-firmado/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/DonaldTrumpPresidenteEEUUPodio.jpg"
     },
     {
       "source": "Infobae",
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Carlos Alcaraz impone su ley ante Tommy Paul y firma su pase a los cuartos de final del US Open",
-      "link": "https://noticialdia.com/deportes/carlos-alcaraz-impone-su-ley-ante-tommy-paul-y-firma-su-pase-a-los-cuartos-de-final-del-us-open/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/1_20260906_165126_0000.webp?x74346"
+      "title": "Ronald Acuña Jr. llega a los 1.000 hits en Las Mayores y guía con jonrón la remontada de los Bravos",
+      "link": "https://noticialdia.com/deportes/ronald-acuna-jr-llega-a-los-1-000-hits-en-las-mayores-y-guia-con-jonron-la-remontada-de-los-bravos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/1_20260906_171726_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Un avión Boeing 767 de carga se salió de la pista en Miami",
+      "title": "Avión de carga de Amazon se sale de la pista en Miami; reportan al menos 5 muertos",
       "link": "https://cnnespanol.cnn.com/2026/09/06/eeuu/avion-boeing-767-sale-pista-miami-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-voto-correo.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "John Magdaleno: \"No nos podemos permitir es el lujo de iniciar un episodio democratizador, es decir, inaugurar una democracia para que dure muy poco\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/john-magdaleno-no-nos-podemos-permitir-es-el-lujo-de-iniciar-un-episodio-democratizador-es-decir-inaugurar-una-democracia-para-que-dure-muy-poco",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-john-magdaleno-06sep2026-b9843a.jpeg"
+      "title": "Migración Colombia otorga plazo final a venezolanos para retirar su PPT",
+      "link": "https://noticiasvenevision.com/noticias/politica/migracion-colombia-otorga-plazo-final-a-venezolanos-para-retirar-su-ppt",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/csm_imagen_generica_comunicado_web_2_9544977b55-a52dd4.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fallas viales en Trujillo dificultan distribución de productos agrícolas",
-      "link": "https://diarioversionfinal.com/mundo/fallas-viales-en-trujillo-dificultan-distribucion-de-productos-agricolas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-06-at-1.21.47-PM-696x392-1.jpg"
+      "title": "Accidente de avión de carga en Miami deja cinco muertos y cinco heridos",
+      "link": "https://diarioversionfinal.com/mundo/accidente-de-avion-de-carga-en-miami-deja-cinco-muertos-y-cinco-heridos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/6a9db8dcc3174-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-06T21:04:37.982Z"
+  "lastUpdate": "2026-09-06T23:31:37.073Z"
 };
