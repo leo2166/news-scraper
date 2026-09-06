@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "858,75"
+      "usdt": "955,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Putin se reúne con Witkoff y Kushner en Moscú",
+      "title": "Witkoff y Kushner llevarán a Kyiv la iniciativa de paz de EE.UU.",
       "link": "https://cnnespanol.cnn.com/2026/09/05/mundo/witkoff-kushner-moscu-fin-guerra-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260901-greg-bovino-20260905111623861.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE.UU. en Venezuela destaca contrato de Miyamoto International para retirar escombros y apoyar la recuperación",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-venezuela-destaca-contrato-de-miyamoto-international-para-retirar-escombros-y-apoyar-la-recuperacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/04_08wo_l7758_p_p-363b7e.jpg"
+      "title": "Delcy Rodríguez firma acuerdo con la India para renovar zoológicos y fortalecer la protección de la fauna silvestre",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-plan-de-recuperacion-ambiental-y-acuerdo-de-asistencia-tecnica-para-la-proteccion-de-la-fauna-silvestre",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4965260529991621663_w-f733ab.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Putin califica de “difícil” la situación en Ucrania durante reunión con enviados de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/putin-califica-de-dificil-la-situacion-en-ucrania-durante-reunion-con-enviados-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/WF3OAUIABVFXXCCZ3BOERHXMHM-750x430.jpg"
+      "title": "EE. UU. intercepta estación flotante vinculada al narcotráfico en el Pacífico Oriental",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-intercepta-estacion-flotante-vinculada-al-narcotrafico-en-el-pacifico-oriental/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-05T170626.161.jpg"
     }
   ],
-  "lastUpdate": "2026-09-05T22:40:04.453Z"
+  "lastUpdate": "2026-09-06T00:36:49.240Z"
 }
