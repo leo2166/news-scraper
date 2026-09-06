@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "959,00"
+      "usdt": "958,95"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Witkoff y Kushner llevarán a Kyiv la iniciativa de paz de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/09/05/mundo/witkoff-kushner-moscu-fin-guerra-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260901-greg-bovino-20260905111623861.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Sobre el terreno en la devastada zona fronteriza de China",
+      "link": "https://cnnespanol.cnn.com/2026/09/06/mundo/devastada-zona-fronteriza-china-desaparecidos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/conversaciones-en-moscu.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,7 +45,7 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "Oliveros: «Términos y condiciones de acuerdos petroleros deben conocerse públicamente»",
+      "title": "OLIVEROS: «TÉRMINOS Y CONDICIONES DE ACUERDOS PETROLEROS DEBEN CONOCERSE PÚBLICAMENTE»",
       "link": "https://noticierodigital.com/2026/09/oliveros-terminos-y-condiciones-de-acuerdos-petroleros-deben-conocerse-publicamente/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-8-627x376.png"
     },
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-05T180115.151.jpg"
     }
   ],
-  "lastUpdate": "2026-09-06T05:33:05.180Z"
+  "lastUpdate": "2026-09-06T10:22:17.048Z"
 }
