@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "955,00"
+      "usdt": "959,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Choque entre moto y gandola dejó una joven de 19 años sin vida en la C-1",
-      "link": "https://noticialdia.com/sucesos/choque-entre-moto-y-gandola-dejo-una-joven-de-19-anos-sin-vida-en-la-c-1/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly.webp?x74346"
+      "title": "Erika de la Vega se suma al meme del Manguaguas sobre Henrique Capriles",
+      "link": "https://noticialdia.com/viral/erika-de-la-vega-se-suma-al-meme-del-manguaguas-sobre-henrique-capriles/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-Haroldo-63.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,7 +45,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "OLIVEROS: «TÉRMINOS Y CONDICIONES DE ACUERDOS PETROLEROS DEBEN CONOCERSE PÚBLICAMENTE»",
+      "title": "Oliveros: «Términos y condiciones de acuerdos petroleros deben conocerse públicamente»",
       "link": "https://noticierodigital.com/2026/09/oliveros-terminos-y-condiciones-de-acuerdos-petroleros-deben-conocerse-publicamente/",
       "image": "https://noticierodigital.com/wp-content/uploads/2026/08/Diseno-sin-titulo-1-8-627x376.png"
     },
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. intercepta estación flotante vinculada al narcotráfico en el Pacífico Oriental",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-intercepta-estacion-flotante-vinculada-al-narcotrafico-en-el-pacifico-oriental/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-05T170626.161.jpg"
+      "title": "Nueva orden judicial restringe bombardeos contra grupos armados en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/nueva-orden-judicial-restringe-bombardeos-contra-grupos-armados-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-05T180115.151.jpg"
     }
   ],
-  "lastUpdate": "2026-09-06T00:36:49.240Z"
+  "lastUpdate": "2026-09-06T05:33:05.180Z"
 };
