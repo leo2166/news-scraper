@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "959,00"
+      "usdt": "962,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -35,13 +35,13 @@
       "source": "CNN en Español",
       "title": "Avión de carga de Amazon se sale de la pista en Miami; reportan al menos 5 muertos",
       "link": "https://cnnespanol.cnn.com/2026/09/06/eeuu/avion-boeing-767-sale-pista-miami-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-voto-correo.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2c6aa05441df49c0-20260907025550602.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Migración Colombia otorga plazo final a venezolanos para retirar su PPT",
-      "link": "https://noticiasvenevision.com/noticias/politica/migracion-colombia-otorga-plazo-final-a-venezolanos-para-retirar-su-ppt",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/csm_imagen_generica_comunicado_web_2_9544977b55-a52dd4.jpeg"
+      "title": "Familiares de detenidos acudirán a la Defensoría del Pueblo para exigir cumplimiento de compromisos",
+      "link": "https://noticiasvenevision.com/noticias/politica/familiares-de-detenidos-acudiran-a-la-defensoria-del-pueblo-para-exigir-cumplimiento-de-compromisos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hqg02rzwaaaw4pp-c16e81.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/6a9db8dcc3174-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-06T23:31:37.073Z"
+  "lastUpdate": "2026-09-07T03:11:54.557Z"
 }
