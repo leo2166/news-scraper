@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 07 Septiembre 2026"
     },
     "binance": {
-      "usdt": "962,50"
+      "usdt": "965,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -35,7 +35,7 @@
       "source": "CNN en Español",
       "title": "Avión de carga de Amazon se sale de la pista en Miami; reportan al menos 5 muertos",
       "link": "https://cnnespanol.cnn.com/2026/09/06/eeuu/avion-boeing-767-sale-pista-miami-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2c6aa05441df49c0-20260907025550602.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/120564-miamiplanecrash-horizontal-thumb-20260907074011478.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/6a9db8dcc3174-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-07T03:11:54.557Z"
+  "lastUpdate": "2026-09-07T08:58:49.579Z"
 }
