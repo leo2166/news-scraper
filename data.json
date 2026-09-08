@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "814,69",
-      "eur": "947,30",
-      "fechaValor": "Martes, 08 Septiembre 2026"
+      "usd": "820,10",
+      "eur": "954,02",
+      "fechaValor": "Miércoles, 09 Septiembre 2026"
     },
     "binance": {
-      "usdt": "966,80"
+      "usdt": "960,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "La noche dejó de ser descanso: el cuerpo ya no da más",
-      "link": "https://noticialdia.com/principal/la-noche-dejo-de-ser-descanso-el-cuerpo-ya-no-da-mas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/hgfhfghfghfghfgh-3.webp?x74346"
+      "title": "La infraestructura y la seguridad estructural en Venezuela son recuperables tras la reciente emergencia sísmica, afirma Francisco Garcés",
+      "link": "https://noticialdia.com/al-dia/la-infraestructura-y-la-seguridad-estructural-en-venezuela-son-recuperables-tras-la-reciente-emergencia-sismica-afirma-francisco-garces/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-8-6.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "César Pérez Vivas solicita elecciones libres inmediatas en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/cesar-perez-vivas-solicita-elecciones-libres-inmediatas-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/td3s3hzklouvabsdthnkpxgruy-08b6f0.jpg"
+      "title": "Abelardo De la Espriella: “Todo lo que pasa en Venezuela tiene consecuencias en Colombia”",
+      "link": "https://noticiasvenevision.com/noticias/politica/abelardo-de-la-espriella-todo-lo-que-pasa-en-venezuela-tiene-consecuencias-en-colombia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hruprhxxkaakce3-c54f62.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRABAJADORES DE LAS EMPRESAS BÁSICAS INICIAN CICLO DE CONSULTAS PARA ELEVAR PROPUESTAS LABORALES",
-      "link": "https://noticierodigital.com/2026/09/trabajadores-de-las-empresas-basicas-inician-ciclo-de-consultas-para-elevar-propuestas-laborales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/consulta_empresasbasicas-627x376.jpg"
+      "title": "CAPRILES DENUNCIÓ ACOSO DEL SEBIN DURANTE RECORRIDO POR BARLOVENTO",
+      "link": "https://noticierodigital.com/2026/09/capriles-denuncio-presencia-del-sebin-durante-recorrido-por-barlovento/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/henrique-capriles-radonski-hostigamiento-sebin-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Niño de 11 años muere tras volcarse un go-kart en Nueva York",
-      "link": "https://diarioversionfinal.com/mundo/nino-de-11-anos-muere-tras-volcarse-un-go-kart-en-nueva-york/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Xpb7T7YR-image-750x430.jpg"
+      "title": "Colorado abrirá un nuevo centro de detención para inmigrantes",
+      "link": "https://diarioversionfinal.com/mundo/colorado-abrira-un-nuevo-centro-de-detencion-para-inmigrantes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/bILqL2OP-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-08T21:36:13.735Z"
+  "lastUpdate": "2026-09-08T23:52:10.867Z"
 }
