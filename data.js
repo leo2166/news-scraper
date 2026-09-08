@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 08 Septiembre 2026"
     },
     "binance": {
-      "usdt": "965,00"
+      "usdt": "969,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Encuesta muestra que 69% de las venezolanas cree que la participación de la mujer es vital para la transición",
-      "link": "https://www.infobae.com/venezuela/2026/09/07/encuesta-muestra-que-69-de-las-venezolanas-cree-que-la-participacion-de-la-mujer-es-vital-para-la-transicion/",
-      "image": "https://www.infobae.com/resizer/v2/DJFFAPO4OJFODE6WTSHVMWCAQA.JPG?auth=be2736df302cb2bfadfc3697775dbb841652e77291606b7704bd7b16435478f6&smart=true&width=350&height=197&quality=85"
+      "title": "PDVSA afirmó que el acuerdo petrolero con Estados Unidos podrá ser renovado “las veces que sean necesarias”",
+      "link": "https://www.infobae.com/venezuela/2026/09/07/pdvsa-afirmo-que-el-acuerdo-petrolero-con-estados-unidos-podra-ser-renovado-las-veces-que-sean-necesarias/",
+      "image": "https://www.infobae.com/resizer/v2/QCSMESPEBDICGZCOEADCBOBPL4.jpg?auth=19ab878e741b9ea432ef06e0d9c683b11644cdb74663b098fb02364565dbfd27&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alerta por aumento de las temperaturas en Venezuela: El Ministerio de Salud emite guía de emergencia para prevenir golpes de calor y deshidratación",
-      "link": "https://noticialdia.com/nacionales/alerta-por-aumento-de-las-temperaturas-en-venezuela-el-ministerio-de-salud-emite-guia-de-emergencia-para-prevenir-golpes-de-calor-y-deshidratacion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-9-5.webp?x74346"
+      "title": "Gobierno nacional entregó más de 400 viviendas rehabilitadas en Caracas",
+      "link": "https://noticialdia.com/al-dia/gobierno-nacional-entrego-mas-de-400-viviendas-rehabilitadas-en-caracas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-14-5.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump publica imagen sobre la extensión de EE.UU. y Sheinbaum responde",
-      "link": "https://cnnespanol.cnn.com/2026/09/07/mexico/trump-mapa-eeuu-sheinbaum-no-colonia-protectorado-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2251753640-20260109154040689.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El crimen organizado en América Latina usa cada vez más drones",
+      "link": "https://cnnespanol.cnn.com/2026/09/07/latinoamerica/crimen-organizado-drones-america-latina-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/120564-miamiplanecrash-horizontal-thumb-20260907074011478.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DENUNCIARON QUE LLEVARON A JUICIO A IGBERT MARÍN CHAPARRO TRAS CUMPLIR SU CONDENA",
-      "link": "https://noticierodigital.com/2026/09/denunciaron-que-llevaron-a-juicio-a-igbert-marin-chaparro-tras-cumplir-su-condena/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Igbert-Marin-Chaparro-627x376.jpg"
+      "title": "VERDEAL CUESTIONÓ LAS CONDICIONES DE DOCENTES Y PLANTELES PARA EL INICIO DEL AÑO ESCOLAR",
+      "link": "https://noticierodigital.com/2026/09/verdeal-cuestiono-las-condiciones-de-docentes-y-planteles-para-el-inicio-del-ano-escolar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/maria-verdeal-venezuela-mas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Exjuez exige renuncias de jueces de inmigración por apoyar \"crueldad sistemática\" de las políticas de Trump",
-      "link": "https://diarioversionfinal.com/mundo/exjuez-exige-renuncias-de-jueces-de-inmigracion-por-apoyar-crueldad-sistematica-de-las-politicas-de-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Juez-inmigracion-referencial-07-09-2026-750x430.png"
+      "title": "ONU pide a Trump frenar expulsiones de migrantes hacia destinos peligrosos",
+      "link": "https://diarioversionfinal.com/mundo/onu-pide-a-trump-frenar-expulsiones-de-migrantes-hacia-destinos-peligrosos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/cnne-1779672-c-gettyimages-634417434-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-07T22:33:26.785Z"
+  "lastUpdate": "2026-09-08T00:56:07.156Z"
 };
