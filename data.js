@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 08 Septiembre 2026"
     },
     "binance": {
-      "usdt": "969,00"
+      "usdt": "972,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -35,7 +35,7 @@ window.DASHBOARD_DATA = {
       "source": "CNN en Español",
       "title": "El crimen organizado en América Latina usa cada vez más drones",
       "link": "https://cnnespanol.cnn.com/2026/09/07/latinoamerica/crimen-organizado-drones-america-latina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/120564-miamiplanecrash-horizontal-thumb-20260907074011478.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/amazon-avion-shutterstock-editorial-17137959l.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VERDEAL CUESTIONÓ LAS CONDICIONES DE DOCENTES Y PLANTELES PARA EL INICIO DEL AÑO ESCOLAR",
-      "link": "https://noticierodigital.com/2026/09/verdeal-cuestiono-las-condiciones-de-docentes-y-planteles-para-el-inicio-del-ano-escolar/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/maria-verdeal-venezuela-mas-627x376.jpg"
+      "title": "STALIN GONZÁLEZ PIDIÓ INSTITUCIONALIDAD Y TRANSPARENCIA ANTE NUEVOS ACUERDOS PETROLEROS",
+      "link": "https://noticierodigital.com/2026/09/stalin-gonzalez-pidio-institucionalidad-y-transparencia-ante-nuevos-acuerdos-petroleros/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/stalin-gonzalez-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONU pide a Trump frenar expulsiones de migrantes hacia destinos peligrosos",
-      "link": "https://diarioversionfinal.com/mundo/onu-pide-a-trump-frenar-expulsiones-de-migrantes-hacia-destinos-peligrosos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/cnne-1779672-c-gettyimages-634417434-750x430.jpg"
+      "title": "Venezolanos deportados de EE. UU. a Liberia denuncian que fueron trasladados encadenados",
+      "link": "https://diarioversionfinal.com/mundo/venezolanos-deportados-de-ee-uu-a-liberia-denuncian-que-fueron-trasladados-encadenados/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Deportados-07-09-2026.jpg"
     }
   ],
-  "lastUpdate": "2026-09-08T00:56:07.156Z"
+  "lastUpdate": "2026-09-08T05:40:34.024Z"
 };
