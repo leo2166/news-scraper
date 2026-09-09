@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 09 Septiembre 2026"
     },
     "binance": {
-      "usdt": "960,00"
+      "usdt": "965,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "La infraestructura y la seguridad estructural en Venezuela son recuperables tras la reciente emergencia sísmica, afirma Francisco Garcés",
-      "link": "https://noticialdia.com/al-dia/la-infraestructura-y-la-seguridad-estructural-en-venezuela-son-recuperables-tras-la-reciente-emergencia-sismica-afirma-francisco-garces/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-8-6.webp?x74346"
+      "title": "Unicef comenzará a rehabilitar infraestructuras de agua en Venezuela a partir de octubre tras el doblete sísmico",
+      "link": "https://noticialdia.com/principal/unicef-comenzara-a-rehabilitar-infraestructuras-de-agua-en-venezuela-a-partir-de-octubre-tras-el-doblete-sismico/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-12-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. ataca varios petroleros iraníes cerca de la isla de Jarg",
-      "link": "https://cnnespanol.cnn.com/2026/09/08/mundo/eeuu-ataca-petroleros-iranies-isla-de-jarg-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178325356-20260905123435654-20260908205141636.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Testigo detalla el operativo de ICE en el que murió Lorenzo Salgado",
+      "link": "https://cnnespanol.cnn.com/2026/09/08/eeuu/exclusivo-testigo-camioneta-lorenzo-salgado-operativo-ice-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22967853-870-491-still.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES DENUNCIÓ ACOSO DEL SEBIN DURANTE RECORRIDO POR BARLOVENTO",
-      "link": "https://noticierodigital.com/2026/09/capriles-denuncio-presencia-del-sebin-durante-recorrido-por-barlovento/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/henrique-capriles-radonski-hostigamiento-sebin-627x376.jpg"
+      "title": "PADRINO LÓPEZ VINCULÓ ACUERDOS ENERGÉTICOS CON MAYOR PRODUCCIÓN AGRÍCOLA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/09/padrino-lopez-vinculo-acuerdos-energeticos-con-mayor-produccion-agricola-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/vladimir-padrino-lopez-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Colorado abrirá un nuevo centro de detención para inmigrantes",
-      "link": "https://diarioversionfinal.com/mundo/colorado-abrira-un-nuevo-centro-de-detencion-para-inmigrantes/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/bILqL2OP-image-750x430.jpg"
+      "title": "Crisis en Ormuz: EE. UU. bombardea cinco petroleros iraníes tras ataques a buque de guerra estadounidense",
+      "link": "https://diarioversionfinal.com/mundo/crisis-en-ormuz-ee-uu-bombardea-cinco-petroleros-iranies-tras-ataques-a-buque-de-guerra-estadounidense/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Ataques-EE.-UU.-a-Iran-08-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-08T23:52:10.867Z"
+  "lastUpdate": "2026-09-09T03:23:23.650Z"
 };
