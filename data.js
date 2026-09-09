@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 09 Septiembre 2026"
     },
     "binance": {
-      "usdt": "965,00"
+      "usdt": "964,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Testigo detalla el operativo de ICE en el que murió Lorenzo Salgado",
-      "link": "https://cnnespanol.cnn.com/2026/09/08/eeuu/exclusivo-testigo-camioneta-lorenzo-salgado-operativo-ice-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22967853-870-491-still.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Un ataque de EE.UU. hunde un petrolero iraní mientras el conflicto se recrudece",
+      "link": "https://cnnespanol.cnn.com/2026/09/08/mundo/eeuu-ataca-petroleros-iranies-isla-de-jarg-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9935ab49-6ca2-494a-a2e6-f06da9a15d32.png?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Crisis en Ormuz: EE. UU. bombardea cinco petroleros iraníes tras ataques a buque de guerra estadounidense",
-      "link": "https://diarioversionfinal.com/mundo/crisis-en-ormuz-ee-uu-bombardea-cinco-petroleros-iranies-tras-ataques-a-buque-de-guerra-estadounidense/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Ataques-EE.-UU.-a-Iran-08-09-2026-750x430.jpg"
+      "title": "Caída global en rendimiento escolar revela crisis educativa en Latinoamérica y España",
+      "link": "https://diarioversionfinal.com/mundo/caida-global-en-rendimiento-escolar-revela-crisis-educativa-en-latinoamerica-y-espana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/pisa_informe-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-09T03:23:23.650Z"
+  "lastUpdate": "2026-09-09T08:41:47.976Z"
 };
