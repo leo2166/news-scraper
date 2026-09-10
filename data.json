@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 10 Septiembre 2026"
     },
     "binance": {
-      "usdt": "964,00"
+      "usdt": "960,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Vuelos internacionales incrementaron 16% en comparación con 2025, informó Ministerio de Transporte",
-      "link": "https://www.bancaynegocios.com/vuelos-internacionales-incrementaron-16-porciento-en-comparacion-con-2025-informo-ministerio-de-transporte/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/avion.webp"
+      "title": "Delcy Rodríguez: 91% de los ingresos de Venezuela son para reivindicaciones laborales y protección social",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-91-porciento-de-los-ingresos-de-venezuela-son-para-reivindicaciones-laborales-y-proteccion-social/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-6.45.09-PM-e1788995043170.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Liverpool viene de atrás en Anfield y supera al Atlético de Madrid en su estreno en la Champions",
-      "link": "https://noticialdia.com/deportes/liverpool-viene-de-atras-en-anfield-y-supera-al-atletico-de-madrid-en-su-estreno-en-la-champions/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/1_20260909_184340_0000.webp?x74346"
+      "title": "Lino Connell: El recorrido íntimo y la lección de vida de una leyenda inmortal del Zulia",
+      "link": "https://noticialdia.com/deportes/lino-connell-el-recorrido-intimo-y-la-leccion-de-vida-de-una-leyenda-inmortal-del-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe_20260909_204136_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PERKINS ROCHA RECIBIÓ A ENSAYISTA ANNE APPLEBAUM DURANTE SU ARRESTO DOMICILIARIO",
-      "link": "https://noticierodigital.com/2026/09/perkins-rocha-recibio-a-ensayista-anne-applebaum-durante-su-arresto-domiciliario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Anne-Applebaum-Perkins-Rocha-627x376.jpg"
+      "title": "CONFERRY ANUNCIÓ FECHAS ESPECIALES PARA TRASLADO DE VEHÍCULOS DE CARGA A MARGARITA",
+      "link": "https://noticierodigital.com/2026/09/conferry-anuncio-fechas-especiales-para-traslado-de-vehiculos-de-carga-a-margarita/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/conferry-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/FWAQNpkF-images-6.jpg"
     }
   ],
-  "lastUpdate": "2026-09-09T22:58:15.168Z"
+  "lastUpdate": "2026-09-10T00:57:29.155Z"
 }
