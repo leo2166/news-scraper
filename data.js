@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "827,74",
-      "eur": "963,21",
-      "fechaValor": "Jueves, 10 Septiembre 2026"
+      "usd": "832,49",
+      "eur": "968,07",
+      "fechaValor": "Viernes, 11 Septiembre 2026"
     },
     "binance": {
-      "usdt": "961,00"
+      "usdt": "959,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Familiares de militares y policías detenidos por la captura de Maduro denuncian torturas",
-      "link": "https://www.infobae.com/venezuela/2026/09/10/familiares-de-militares-y-policias-detenidos-por-la-captura-de-maduro-denuncian-torturas/",
-      "image": "https://www.infobae.com/resizer/v2/MBW7DCH36ZDC7MVYMZE4TKYDPI.JPG?auth=934ddff651bc43069e029271312c971290c83b9d6a6dfd05c11823adda5832a2&smart=true&width=350&height=197&quality=85"
+      "title": "Designan nuevos jefes de los grupos Antiextorsión y Secuestro, la unidad élite denunciada por represión política y ejecuciones",
+      "link": "https://www.infobae.com/venezuela/2026/09/10/designan-nuevos-jefes-de-los-grupos-antiextorsion-y-secuestro-la-unidad-elite-denunciada-por-represion-politica-y-ejecuciones/",
+      "image": "https://www.infobae.com/resizer/v2/FMXKV4PJ3ZHRPDJKJA37IC7SNI.jpeg?auth=aa062872696ccc181a06f8c8c4d9f95074ccae3a2d06482652d50f1a319872dc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Sismo de magnitud 3,5 se registró en el estado Zulia este 10-Sep",
-      "link": "https://noticialdia.com/zulia/sismo-de-magnitud-35-se-registro-en-el-estado-zulia-este-10-sep/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/funvisis.webp?x74346"
+      "title": "\"La amo. Tengo muchas ganas de reunirme con ella\": Primera ministra de Trinidad y Tobago sobre la presidenta Delcy Rodríguez",
+      "link": "https://noticialdia.com/al-dia/la-amo-tengo-muchas-ganas-de-reunirme-con-ella-primera-ministra-de-trinidad-y-tobago-sobre-la-presidenta-delcy-rodriguez/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/c8197320-dc36-4d03-b1a1-dd8f74dccc77.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Cilia Flores pide libertad condicional por su salud",
-      "link": "https://cnnespanol.cnn.com/2026/09/10/venezuela/cilia-flores-solicitud-prision-domiciliaria-salud-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-29t020115z-1035978067-rc2zvfarih6g-rtrmadp-3-venezuela-election.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Una demanda podría regularizar el estatus migratorio de medio millón de cubanos en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/09/10/eeuu/jueza-demanda-cubanos-regularizar-estatus-migratorio-efe",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1030593-cubanos-en-miami-piden-a-ee-uu-que-defienda-a-cuba.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "Chacao necesita $20 millones para reconstruir 49 edificios dañados por el doblete sísmico",
-      "link": "https://noticierodigital.com/2026/09/chacao-necesita-20-millones-para-reconstruir-49-edificios-danados-por-el-doblete-sismico/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/gustavoDuque-627x376.jpg"
+      "title": "INTT PROHÍBE CIRCULACIÓN DE CUATRIMOTOS EN LA RED VIAL NACIONAL",
+      "link": "https://noticierodigital.com/2026/09/intt-prohibe-circulacion-de-cuatrimotos-en-la-red-vial-nacional/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/cuatrimoto-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Sobreviviente a un mes del terremoto en Cali: “Me estaba preparando para morir”",
-      "link": "https://laverdad.com/sobreviviente-a-un-mes-del-terremoto-en-cali-me-estaba-preparando-para-morir/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Sobreviviente-terremoto-Cali.jpg"
+      "title": "Fiscalía chilena pide 20 años de cárcel para acusado de crimen contra Ronald Ojeda",
+      "link": "https://laverdad.com/fiscalia-chilena-pide-20-anos-de-carcel-para-acusado-de-crimen-contra-ronald-ojeda/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Ronald-Ojeda.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio concluye gira por América Latina en Lima",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-concluye-gira-por-america-latina-en-lima/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/BF94EjVp-image-750x430.jpg"
+      "title": "Revelan aporte de $200.000 de empresa estatal de Curazao a campaña vinculada con Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/revelan-aporte-de-200-000-de-empresa-estatal-de-curazao-a-campana-vinculada-con-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Pisas-PDVSA-1024x683-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-10T18:08:59.027Z"
+  "lastUpdate": "2026-09-10T21:26:15.743Z"
 };
