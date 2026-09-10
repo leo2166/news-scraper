@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "\"La amo. Tengo muchas ganas de reunirme con ella\": Primera ministra de Trinidad y Tobago sobre la presidenta Delcy Rodríguez",
-      "link": "https://noticialdia.com/al-dia/la-amo-tengo-muchas-ganas-de-reunirme-con-ella-primera-ministra-de-trinidad-y-tobago-sobre-la-presidenta-delcy-rodriguez/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/c8197320-dc36-4d03-b1a1-dd8f74dccc77.webp?x74346"
+      "title": "Detienen a presunto extorsionador en la parroquia Francisco Eugenio Bustamante",
+      "link": "https://noticialdia.com/sucesos/detienen-a-presunto-extorsionador-en-la-parroquia-francisco-eugenio-bustamante/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-8-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Una demanda podría regularizar el estatus migratorio de medio millón de cubanos en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/09/10/eeuu/jueza-demanda-cubanos-regularizar-estatus-migratorio-efe",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1030593-cubanos-en-miami-piden-a-ee-uu-que-defienda-a-cuba.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump creó un escenario arriesgado para los republicanos en las elecciones",
+      "link": "https://cnnespanol.cnn.com/2026/09/10/eeuu/trump-estrategia-elecciones-mitad-termino-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293882444-20260910171055219.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "INTT PROHÍBE CIRCULACIÓN DE CUATRIMOTOS EN LA RED VIAL NACIONAL",
-      "link": "https://noticierodigital.com/2026/09/intt-prohibe-circulacion-de-cuatrimotos-en-la-red-vial-nacional/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/cuatrimoto-627x376.jpg"
+      "title": "TRIBUNAL OTORGÓ SOBRESEIMIENTO A COORDINADORA DE VENTE EN APURE",
+      "link": "https://noticierodigital.com/2026/09/tribunal-otorgo-sobreseimiento-a-coordinadora-de-vente-en-apure/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/nahir-mota-vente-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Revelan aporte de $200.000 de empresa estatal de Curazao a campaña vinculada con Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/revelan-aporte-de-200-000-de-empresa-estatal-de-curazao-a-campana-vinculada-con-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Pisas-PDVSA-1024x683-1-750x430.jpg"
+      "title": "Justicia colombiana confirma devolución de bienes de Alex Saab valorados en $35.000 millones",
+      "link": "https://diarioversionfinal.com/mundo/justicia-colombiana-confirma-devolucion-de-bienes-de-alex-saab-valorados-en-35-000-millones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/indulto-alex-saab-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-10T21:26:15.743Z"
+  "lastUpdate": "2026-09-10T23:45:46.882Z"
 };
