@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 11 Septiembre 2026"
     },
     "binance": {
-      "usdt": "959,00"
+      "usdt": "960,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Designan nuevos jefes de los grupos Antiextorsión y Secuestro, la unidad élite denunciada por represión política y ejecuciones",
-      "link": "https://www.infobae.com/venezuela/2026/09/10/designan-nuevos-jefes-de-los-grupos-antiextorsion-y-secuestro-la-unidad-elite-denunciada-por-represion-politica-y-ejecuciones/",
-      "image": "https://www.infobae.com/resizer/v2/FMXKV4PJ3ZHRPDJKJA37IC7SNI.jpeg?auth=aa062872696ccc181a06f8c8c4d9f95074ccae3a2d06482652d50f1a319872dc&smart=true&width=350&height=197&quality=85"
+      "title": "Cilia Flores solicitó prisión domiciliaria por “problemas de salud” mientras espera el juicio por narcotráfico junto a Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/09/11/cilia-flores-solicito-prision-domiciliaria-por-problemas-de-salud-mientras-espera-el-juicio-por-narcotrafico-junto-a-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/ZDORQSY7SNGG5IISDORAS65MGM.JPG?auth=a855d0dd3feb8c65600f9ce994a4611695bf0f490522762a759e87c891d91c6a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Detienen a presunto extorsionador en la parroquia Francisco Eugenio Bustamante",
-      "link": "https://noticialdia.com/sucesos/detienen-a-presunto-extorsionador-en-la-parroquia-francisco-eugenio-bustamante/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-8-1.webp?x74346"
+      "title": "Gobernación del Zulia atiende a 500 adultos mayores con jornada integral y recreativa en Santa Rita",
+      "link": "https://noticialdia.com/al-dia/gobernacion-del-zulia-atiende-a-500-adultos-mayores-con-jornada-integral-y-recreativa-en-santa-rita/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-16.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez entregó 151 viviendas a familias afectadas por el doble terremoto",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-entrego-151-viviendas-a-familias-afectadas-por-el-doble-terremoto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_2855-1536x1229-1-1068x855-1d4200.jpg"
+      "title": "Abogado Nizar El Fakih: “El juez debe analizar la naturaleza de los delitos de Cilia Flores”",
+      "link": "https://noticiasvenevision.com/noticias/politica/abogado-nizar-el-fakih-el-juez-debe-analizar-la-naturaleza-de-los-delitos-de-cilia-flores",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/nizar-el-fakih-web-f33e28.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRIBUNAL OTORGÓ SOBRESEIMIENTO A COORDINADORA DE VENTE EN APURE",
-      "link": "https://noticierodigital.com/2026/09/tribunal-otorgo-sobreseimiento-a-coordinadora-de-vente-en-apure/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/nahir-mota-vente-venezuela-627x376.jpg"
+      "title": "EJECUTIVO RETOMA CONTROL DE LOS AEROPUERTOS ARTURO MICHELENA Y BARTOLOMÉ SALOM",
+      "link": "https://noticierodigital.com/2026/09/ejecutivo-retoma-control-de-los-aeropuertos-arturo-michelena-y-bartolome-salom/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/aeropuerto-internacional-arturo-michelena-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Justicia colombiana confirma devolución de bienes de Alex Saab valorados en $35.000 millones",
-      "link": "https://diarioversionfinal.com/mundo/justicia-colombiana-confirma-devolucion-de-bienes-de-alex-saab-valorados-en-35-000-millones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/indulto-alex-saab-750x430.jpg"
+      "title": "Jueza ordena al gobierno de Trump pagar $164.527 por deportación de venezolano al Cecot",
+      "link": "https://diarioversionfinal.com/mundo/jueza-ordena-al-gobierno-de-trump-pagar-164-527-por-deportacion-de-venezolano-al-cecot/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/lVDNqxgC-images-2.jpeg"
     }
   ],
-  "lastUpdate": "2026-09-10T23:45:46.882Z"
+  "lastUpdate": "2026-09-11T03:18:12.472Z"
 };
