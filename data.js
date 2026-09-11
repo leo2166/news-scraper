@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "832,49",
-      "eur": "968,07",
-      "fechaValor": "Viernes, 11 Septiembre 2026"
+      "usd": "842,21",
+      "eur": "977,88",
+      "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "957,50"
+      "usdt": "955,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Presos dos hombres por desmantelar aires acondicionados de un preescolar y un centro de salud en San Francisco",
-      "link": "https://noticialdia.com/sucesos/presos-dos-hombres-por-desmantelar-aires-acondicionados-de-un-preescolar-y-un-centro-de-salud-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/presos8899.webp?x74346"
+      "title": "Di Martino invita a los marabinos a redescubrir Maracaibo a bordo del Tranvía",
+      "link": "https://noticialdia.com/al-dia/di-martino-invita-a-los-marabinos-a-redescubrir-maracaibo-a-bordo-del-tranvia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/fimi-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump elogia el heroísmo de los estadounidenses tras el 11S",
-      "link": "https://cnnespanol.cnn.com/2026/09/11/eeuu/live-news/11-de-septiembre-aniversario-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22975282-4840-232-still-20260911135428245.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "El impacto en América Latina de los atentados del 11S",
+      "link": "https://cnnespanol.cnn.com/2026/09/11/latinoamerica/atentados-11-septiembre-impacto-america-latina-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2438100.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez llega a Surinam para fortalecer agenda de cooperación",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-llega-a-surinam-para-fortalecer-agenda-de-cooperacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/05_zc__0419_p-d41abe.jpg"
+      "title": "Comité por la Libertad de los Presos Políticos solicita la liberación de 400 detenido",
+      "link": "https://noticiasvenevision.com/noticias/politica/comite-por-la-libertad-de-los-presos-politicos-solicita-la-liberacion-de-400-detenido",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_rq1z6frq1z6frq1z-3da2fa.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PESCA, TURISMO E HIDROCARBUROS: VENEZUELA Y SURINAM FIRMAN ACUERDOS ESTRATÉGICOS ESTE 11S",
-      "link": "https://noticierodigital.com/2026/09/pesca-turismo-e-hidrocarburos-venezuela-y-surinam-firman-acuerdos-estrategicos-este-11s/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/38_ZC__1982_P-627x376.jpg"
+      "title": "WORLD RUGBY ACTIVA EL TRAMO DECISIVO DE SUS APUESTAS",
+      "link": "https://noticierodigital.com/2026/09/world-rugby-activa-el-tramo-decisivo-de-sus-apuestas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/rugby-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "A 25 años del 11S: las 4 víctimas venezolanas",
-      "link": "https://laverdad.com/a-25-anos-del-11s-las-4-victimas-venezolanas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Venezolanos-victimas-11S.jpg"
+      "title": "Capturan en Costa Rica a criminal panameño vinculado al “Tren de Aragua”",
+      "link": "https://laverdad.com/capturan-en-costa-rica-a-criminal-panameno-vinculado-al-tren-de-aragua/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Capturan-en-Costa-Rica-a-criminal-panameno-vinculado-al-Tren-de-Aragua-tras-seis-anos-en-fuga.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Supremo Tribunal de Brasil abre investigación contra candidato respaldado por Bolsonaro",
-      "link": "https://diarioversionfinal.com/mundo/el-supremo-tribunal-de-brasil-abre-investigacion-contra-candidato-respaldado-por-bolsonaro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/EzIUCrAj-images-10.jpg"
+      "title": "Bloomberg: Mercuria y Glencore exploran acuerdos sobre la producción de aluminio venezolano",
+      "link": "https://diarioversionfinal.com/mundo/bloomberg-mercuria-y-glencore-exploran-acuerdos-sobre-la-produccion-de-aluminio-venezolano/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-11T123653.476.jpg"
     }
   ],
-  "lastUpdate": "2026-09-11T17:33:59.455Z"
+  "lastUpdate": "2026-09-11T20:32:45.336Z"
 };
