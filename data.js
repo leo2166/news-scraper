@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 11 Septiembre 2026"
     },
     "binance": {
-      "usdt": "960,00"
+      "usdt": "961,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Trump creó un escenario arriesgado para los republicanos en las elecciones",
-      "link": "https://cnnespanol.cnn.com/2026/09/10/eeuu/trump-estrategia-elecciones-mitad-termino-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293882444-20260910171055219.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Vance tuvo su momento estelar. Trump lo arruinó",
+      "link": "https://cnnespanol.cnn.com/2026/09/11/eeuu/trump-vance-conclusiones-convencion-republicana-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ff6a405a-cf9a-434f-a0b3-1284a0fd9fed.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Abogado Nizar El Fakih: “El juez debe analizar la naturaleza de los delitos de Cilia Flores”",
-      "link": "https://noticiasvenevision.com/noticias/politica/abogado-nizar-el-fakih-el-juez-debe-analizar-la-naturaleza-de-los-delitos-de-cilia-flores",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/nizar-el-fakih-web-f33e28.jpg"
+      "title": "Presidenta encargada Delcy Rodríguez llega a Surinam para fortalecer agenda de cooperación",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-llega-a-surinam-para-fortalecer-agenda-de-cooperacion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/05_zc__0419_p-d41abe.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/lVDNqxgC-images-2.jpeg"
     }
   ],
-  "lastUpdate": "2026-09-11T03:18:12.472Z"
+  "lastUpdate": "2026-09-11T08:38:22.662Z"
 };
