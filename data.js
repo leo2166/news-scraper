@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "963,00"
+      "usdt": "960,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Cáritas y Fundación Alimentando Sueños realizan exitosa jornada de salud integral en Idelfonso Vásquez",
-      "link": "https://noticialdia.com/al-dia/caritas-y-fundacion-alimentando-suenos-realizan-exitosa-jornada-de-salud-integral-en-idelfonso-vasquez/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-33.webp?x74346"
+      "title": "Magallanes y Tiburones se enfrentarán en Miami y parte de lo recaudado se destinará a los afectados de los terremotos del 24 J",
+      "link": "https://noticialdia.com/al-dia/magallanes-y-tiburones-se-enfrentaran-en-miami-y-parte-de-lo-recaudado-se-destinara-a-los-afectados-de-los-terremotos-del-24-j/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-2026-09-12T094616.142.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Comienzan las acusaciones cruzadas tras el rápido avance de los hutíes",
-      "link": "https://cnnespanol.cnn.com/2026/09/12/mundo/desastre-avance-huties-costa-mar-rojo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269785809-20260912064815235.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "J. D. Vance camina por la cuerda floja como aparente heredero de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/09/12/eeuu/vance-mensajero-trump-elecciones-tax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/260908-tr-politics-gopmidtermsconvention-09102026-rw101168-20260912105953973.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUENTE MACUTO ES SOMETIDO A TRABAJOS DE REHABILITACIÓN INTEGRAL EN BARQUISIMETO",
-      "link": "https://noticierodigital.com/2026/09/puente-macuto-es-sometido-a-trabajos-de-rehabilitacion-integral-en-barquisimeto/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/puente-macuto-barquisimeto-627x376.jpg"
+      "title": "COPEI ODCA CONDENÓ MÁS DE UNA DÉCADA DE INTERVENCIÓN DE PARTIDOS OPOSITORES",
+      "link": "https://noticierodigital.com/2026/09/copei-odca-condeno-mas-de-una-decada-de-intervencion-de-partidos-opositores/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/IMG-20260810-WA01451-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Álvaro Vargas Llosa, nuevo embajador de Perú en Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/alvaro-vargas-llosa-nuevo-embajador-de-peru-en-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/9wuu0dFA-image-750x430.jpg"
+      "title": "Ataque israelí deja heridos en Gaza",
+      "link": "https://diarioversionfinal.com/mundo/ataque-israeli-deja-heridos-en-gaza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/IshnZImy-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-12T11:29:47.164Z"
+  "lastUpdate": "2026-09-12T15:06:20.931Z"
 };
