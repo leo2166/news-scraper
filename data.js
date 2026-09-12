@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "959,00"
+      "usdt": "961,60"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Di Martino invita a los marabinos a redescubrir Maracaibo a bordo del Tranvía",
-      "link": "https://noticialdia.com/al-dia/di-martino-invita-a-los-marabinos-a-redescubrir-maracaibo-a-bordo-del-tranvia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/fimi-4.webp?x74346"
+      "title": "Continúan la búsqueda de dos pescadores desaparecidos en el Lago de Maracaibo",
+      "link": "https://noticialdia.com/sucesos/continuan-la-busqueda-de-dos-pescadores-desaparecidos-en-el-lago-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-22.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "El impacto en América Latina de los atentados del 11S",
-      "link": "https://cnnespanol.cnn.com/2026/09/11/latinoamerica/atentados-11-septiembre-impacto-america-latina-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2438100.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Salvadoreños \"mantienen protección\" del TPS, pero el programa sigue en suspenso",
+      "link": "https://cnnespanol.cnn.com/2026/09/11/eeuu/mantienen-proteccion-el-salvador-tps-suspenso-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2018-01-08t213345z-1957674229-rc1659c33c40-rtrmadp-3-usa-immigration-protections.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FISCALÍA DE EE. UU. SE OPUSO AL ARRESTO DOMICILIARIO SOLICITADO POR CILIA FLORES",
-      "link": "https://noticierodigital.com/2026/09/fiscalia-de-ee-uu-se-opuso-al-arresto-domiciliario-solicitado-por-cilia-flores/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/cilia-flores-627x376.jpg"
+      "title": "TRÁMITES DEL INTT ESTARÁN TEMPORALMENTE INACTIVOS DESDE ESTE VIERNES",
+      "link": "https://noticierodigital.com/2026/09/tramites-del-intt-estaran-temporalmente-inactivos-desde-este-viernes/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/intt-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De La Espriella anuncia captura de cuatro presuntos integrantes del ELN en Maicao",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-anuncia-captura-de-cuatro-presuntos-integrantes-del-eln-en-maicao/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/VIILH3AIXFEX7NIGBQ2QK6WNYY-750x430.jpg"
+      "title": "Justicia ecuatoriana libera a 28 tripulantes tras ataques de EE. UU. por falta de pruebas",
+      "link": "https://diarioversionfinal.com/mundo/justicia-ecuatoriana-libera-a-28-tripulantes-tras-ataques-de-ee-uu-por-falta-de-pruebas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-11T180136.756-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-11T23:01:12.681Z"
+  "lastUpdate": "2026-09-12T01:02:34.513Z"
 };
