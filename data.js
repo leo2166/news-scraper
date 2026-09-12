@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "957,70"
+      "usdt": "956,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "El desierto blanco con tonos rosados de Sinamaica: Un viaje al corazón salino y ancestral de la Guajira zuliana",
-      "link": "https://noticialdia.com/zulia/el-desierto-blanco-con-tonos-rosados-de-sinamaica-un-viaje-al-corazon-salino-y-ancestral-de-la-guajira-zuliana/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/20260904_074035-scaled.jpg?x74346"
+      "title": "Se registró doble sismo en Yaracuy este 12-S",
+      "link": "https://noticialdia.com/sucesos/se-registro-doble-sismo-en-yaracuy-este-12-s/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/plantilla-erne-32-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Estos son los grupos latinoamericanos que EE.UU. designó como terroristas",
-      "link": "https://cnnespanol.cnn.com/2026/09/12/latinoamerica/organizaciones-terroristas-donald-trump-designacion-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293826180.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Se desata la búsqueda de culpables tras avances de un aliado de Irán",
+      "link": "https://cnnespanol.cnn.com/2026/09/12/mundo/desastre-avance-huties-costa-mar-rojo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269785809-20260912064815235.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "ClippVe denuncia la detención de Óscar Morales en La Candelaria tras participar en manifestación",
-      "link": "https://noticiasvenevision.com/noticias/politica/clippve-denuncia-la-detencion-de-oscar-morales-en-la-candelaria-tras-participar-en-manifestacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/denunciaron-la-desaparicion-del-activista-social-oscar-morales-horas-despues-de-participar-en-protes-8ac6cc.jpg"
+      "title": "Alianza por la Libertad de los Presos Políticos confirma la liberación de Oscar Morales",
+      "link": "https://noticiasvenevision.com/noticias/politica/alianza-por-la-libertad-de-los-presos-politicos-confirma-la-liberacion-de-oscar-morales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copy-video-2-4c060f.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski busca diálogo con Putin y se reunirá con Trump en septiembre",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-busca-dialogo-con-putin-y-se-reunira-con-trump-en-septiembre/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/hSWIsJyF-image-750x430.jpg"
+      "title": "Céline Dion regresa a los escenarios en un emotivo concierto en París",
+      "link": "https://diarioversionfinal.com/mundo/celine-dion-regresa-a-los-escenarios-en-un-emotivo-concierto-en-paris/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Z8b90DVH-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-12T21:15:09.539Z"
+  "lastUpdate": "2026-09-12T23:47:14.466Z"
 };
