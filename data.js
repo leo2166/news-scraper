@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "961,60"
+      "usdt": "963,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Continúan la búsqueda de dos pescadores desaparecidos en el Lago de Maracaibo",
-      "link": "https://noticialdia.com/sucesos/continuan-la-busqueda-de-dos-pescadores-desaparecidos-en-el-lago-de-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-22.webp?x74346"
+      "title": "Cáritas y Fundación Alimentando Sueños realizan exitosa jornada de salud integral en Idelfonso Vásquez",
+      "link": "https://noticialdia.com/al-dia/caritas-y-fundacion-alimentando-suenos-realizan-exitosa-jornada-de-salud-integral-en-idelfonso-vasquez/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-33.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comité por la Libertad de los Presos Políticos solicita la liberación de 400 detenido",
-      "link": "https://noticiasvenevision.com/noticias/politica/comite-por-la-libertad-de-los-presos-politicos-solicita-la-liberacion-de-400-detenido",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_rq1z6frq1z6frq1z-3da2fa.jpg"
+      "title": "Foro Penal reporta 328 detenidos por motivos políticos",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-reporta-328-detenidos-por-motivos-politicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/wbl8ielr_400x400-8ad6db.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRÁMITES DEL INTT ESTARÁN TEMPORALMENTE INACTIVOS DESDE ESTE VIERNES",
-      "link": "https://noticierodigital.com/2026/09/tramites-del-intt-estaran-temporalmente-inactivos-desde-este-viernes/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/intt-venezuela-627x376.jpg"
+      "title": "PUENTE MACUTO ES SOMETIDO A TRABAJOS DE REHABILITACIÓN INTEGRAL EN BARQUISIMETO",
+      "link": "https://noticierodigital.com/2026/09/puente-macuto-es-sometido-a-trabajos-de-rehabilitacion-integral-en-barquisimeto/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/puente-macuto-barquisimeto-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-11T180136.756-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-12T01:02:34.513Z"
+  "lastUpdate": "2026-09-12T06:55:28.576Z"
 };
