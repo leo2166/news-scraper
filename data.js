@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "959,71"
+      "usdt": "959,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Messi marca pero el Inter Miami empata con el Nashville",
-      "link": "https://diarioversionfinal.com/mundo/messi-marca-pero-el-inter-miami-empata-con-el-nashville/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/LIcPCIaM-image-750x430.jpg"
+      "title": "Estados Unidos envía apoyo forense a Nepal tras devastadoras riadas",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-envia-apoyo-forense-a-nepal-tras-devastadoras-riadas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/c4s843nz-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-13T03:29:26.299Z"
+  "lastUpdate": "2026-09-13T09:02:37.749Z"
 };
