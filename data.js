@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "959,90"
+      "usdt": "957,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES TILDÓ DE INACEPTABLE SITUACIÓN DE VENEZOLANOS EN FLORIDA POR RAZONES MIGRATORIAS",
-      "link": "https://noticierodigital.com/2026/09/capriles-tildo-de-inaceptable-situacion-de-venezolanos-en-florida-por-razones-migratorias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/henrique-capriles-radonski-627x376.jpg"
+      "title": "EXALCALDE DE MARACAIBO EXIGE LA LIBERTAD DEL EMPRESARIO JOSÉ ENRIQUE RINCÓN",
+      "link": "https://noticierodigital.com/2026/09/exalcalde-de-maracaibo-exige-la-libertad-del-empresario-jose-enrique-rincon/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/rafael-ramirez-colina.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos envía apoyo forense a Nepal tras devastadoras riadas",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-envia-apoyo-forense-a-nepal-tras-devastadoras-riadas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/c4s843nz-image-750x430.jpg"
+      "title": "Nueva York en alerta por fuertes lluvias y posibles inundaciones",
+      "link": "https://diarioversionfinal.com/mundo/nueva-york-en-alerta-por-fuertes-lluvias-y-posibles-inundaciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/rkPHMfw4-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-13T09:02:37.749Z"
+  "lastUpdate": "2026-09-13T14:05:21.399Z"
 };
