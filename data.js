@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "956,00"
+      "usdt": "959,71"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Se desata la búsqueda de culpables tras avances de un aliado de Irán",
-      "link": "https://cnnespanol.cnn.com/2026/09/12/mundo/desastre-avance-huties-costa-mar-rojo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269785809-20260912064815235.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "CEO de Anthropic responde a CNN si la IA podría matar a toda la humanidad",
+      "link": "https://cnnespanol.cnn.com/2026/09/12/ciencia/video/cnn-entrevista-ceo-anthropic-ia-humanidad-peligro-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-58-19-still001.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alianza por la Libertad de los Presos Políticos confirma la liberación de Oscar Morales",
-      "link": "https://noticiasvenevision.com/noticias/politica/alianza-por-la-libertad-de-los-presos-politicos-confirma-la-liberacion-de-oscar-morales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copy-video-2-4c060f.jpg"
+      "title": "Defensora del Pueblo afirma que sistema de justicia debe adaptarse a realidad pluricultural del país",
+      "link": "https://noticiasvenevision.com/noticias/politica/defensora-del-pueblo-afirma-que-sistema-de-justicia-debe-adaptarse-a-realidad-pluricultural-del-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_1150-41beec.JPG"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Céline Dion regresa a los escenarios en un emotivo concierto en París",
-      "link": "https://diarioversionfinal.com/mundo/celine-dion-regresa-a-los-escenarios-en-un-emotivo-concierto-en-paris/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Z8b90DVH-image-750x430.jpg"
+      "title": "Messi marca pero el Inter Miami empata con el Nashville",
+      "link": "https://diarioversionfinal.com/mundo/messi-marca-pero-el-inter-miami-empata-con-el-nashville/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/LIcPCIaM-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-12T23:47:14.466Z"
+  "lastUpdate": "2026-09-13T03:29:26.299Z"
 };
