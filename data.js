@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "958,00"
+      "usdt": "959,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -26,16 +26,10 @@ window.DASHBOARD_DATA = {
       "image": "https://www.infobae.com/resizer/v2/EVI2VMYVQBDMVGA473O6SOQXJ4.jpeg?auth=361d3a7ff150a896dc62d117551d3f34f85274b7c820e364d599441b01951e3d&smart=true&width=350&height=197&quality=85"
     },
     {
-      "source": "Noticia al Día",
-      "title": "Encadenaba a su hijo de 7 años para que no saliera de casa: Quedó tras las rejas por trato cruel",
-      "link": "https://noticialdia.com/?p=668079",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
-    },
-    {
       "source": "CNN en Español",
-      "title": "Esta familia mariachi vivió un “calvario” tras ser detenida por ICE",
-      "link": "https://cnnespanol.cnn.com/2026/09/13/eeuu/familia-mariachi-calvario-detenida-ice-grillete-apoyo-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2221277439.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Se aplaza reunión de Irán con países del Golfo sobre el estrecho de Ormuz",
+      "link": "https://cnnespanol.cnn.com/2026/09/13/mundo/trump-iran-golfo-acuerdo-estrecho-ormuz-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293188990-20260913165108299.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Canadá busca un estatus especial en la Unión Europea ante la guerra comercial",
-      "link": "https://diarioversionfinal.com/mundo/canada-busca-un-estatus-especial-en-la-union-europea-ante-la-guerra-comercial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/grz0EFG5-image-750x430.jpg"
+      "title": "Masacre al sur de EE. UU.: hombre mata a puñaladas a cuatro personas en Luisiana",
+      "link": "https://diarioversionfinal.com/mundo/masacre-al-sur-de-ee-uu-hombre-mata-a-punaladas-a-cuatro-personas-en-luisiana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Kaegan-Solet-13-09-2026.webp"
     }
   ],
-  "lastUpdate": "2026-09-13T20:26:12.366Z"
+  "lastUpdate": "2026-09-13T22:55:15.300Z"
 };
