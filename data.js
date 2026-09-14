@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "961,50"
+      "usdt": "962,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "César Pérez Vivas pide que proceso de diálogo se declare en sesión permanente",
-      "link": "https://noticiasvenevision.com/noticias/politica/cesar-perez-vivas-pide-que-proceso-de-dialogo-se-declare-en-sesion-permanente",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/bpejzzgu-image-5ed016.jpg"
+      "title": "Donald Trump abre posibilidad de reunirse con Delcy Rodríguez durante asamblea de la ONU",
+      "link": "https://noticiasvenevision.com/noticias/politica/donald-trump-abre-posibilidad-de-reunirse-con-delcy-rodriguez-durante-asamblea-de-la-onu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-09-13-214533-b3d013.png"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Encuentran muerto a primo de Keiko Fujimori en su departamento",
-      "link": "https://diarioversionfinal.com/mundo/encuentran-muerto-a-primo-de-keiko-fujimori-en-su-departamento/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/CQKY45uP-image-750x430.jpg"
+      "title": "Ingeniero venezolano espera deportación tras seis meses en EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/ingeniero-venezolano-espera-deportacion-tras-seis-meses-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/wJPUbSc2-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-14T00:46:58.648Z"
+  "lastUpdate": "2026-09-14T05:51:12.016Z"
 };
