@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "842,21",
-      "eur": "977,88",
-      "fechaValor": "Martes, 15 Septiembre 2026"
+      "usd": "846,51",
+      "eur": "977,18",
+      "fechaValor": "Miércoles, 16 Septiembre 2026"
     },
     "binance": {
-      "usdt": "956,10"
+      "usdt": "956,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "“Azul Celeste 3 de Enero”: la operación que la DGCIM vincula con la extracción de Nicolás Maduro y Cilia Flores",
-      "link": "https://www.infobae.com/venezuela/2026/09/15/azul-celeste-3-de-enero-la-operacion-que-la-dgcim-vincula-con-la-extraccion-de-nicolas-maduro-y-cilia-flores/",
-      "image": "https://www.infobae.com/resizer/v2/7JKM3B5N7RHRVP4OCQAQ7Y63HI.jpg?auth=f36a0f1f4f645dfe11c578fea90d91c89c259d4786c83d978dabea9dcbd39515&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos capturó en Venezuela a uno de los delincuentes más buscados por el FBI, acusado de financiar al Tren de Aragua",
+      "link": "https://www.infobae.com/estados-unidos/2026/09/15/estados-unidos-capturo-en-venezuela-a-uno-de-los-delincuentes-mas-buscados-por-el-fbi-acusado-de-financiar-al-tren-de-aragua/",
+      "image": "https://www.infobae.com/resizer/v2/5WPYAFFYIVCSRIPQBTZTRKOOPI.png?auth=11514296a86f0a91308fe50a4b73477da16edc0c15d2703db9c9fcb0c3082d79&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Arrestan a mujer tras difundirse video amenazando a sus hijos con un cuchillo en el estado Miranda",
-      "link": "https://noticialdia.com/al-dia/arrestan-a-mujer-tras-difundirse-video-amenazando-a-sus-hijos-con-un-cuchillo-en-el-estado-miranda/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-15T152948.119.webp?x74346"
+      "title": "James Rodríguez anuncia su retiro de la selección de Colombia",
+      "link": "https://noticialdia.com/deportes/james-rodriguez-anuncia-su-retiro-de-la-seleccion-de-colombia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260915_184210_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Redada de ICE en planta de Hyundai hace un año podría ser un problema para Trump",
-      "link": "https://cnnespanol.cnn.com/2026/09/15/eeuu/trabajadores-surcoreanos-desafian-trump-georgia-hyundai-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260915102213047.Jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Alex Saab se declara culpable de lavado de activos en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/09/15/eeuu/alex-saab-exministro-venezueladeclara-culpable-lavado-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/82428afc14035e9f2922ece502cc3e7258d41ebb.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE .UU. CONFIRMÓ QUE CAPTURÓ EN VENEZUELA A ALIAS «EL INGENIERO»: UNO DE LOS 10 MÁS BUSCADOS POR EL FBI",
-      "link": "https://noticierodigital.com/2026/09/ee-uu-confirmo-que-capturo-en-venezuela-a-alias-el-ingeniero-uno-de-los-10-mas-buscados-por-el-fbi/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/elingeniero-627x376.jpg"
+      "title": "PJ EXIGIÓ QUE LOS RESPONSABLES DEL CASO ALEX SAAB «RINDAN CUENTAS ANTE LA JUSTICIA»",
+      "link": "https://noticierodigital.com/2026/09/pj-exigio-que-los-responsables-del-caso-alex-saab-rindan-cuentas-ante-la-justicia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/primero_justicia_16dic-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detienen a un venezolano y tres trinitenses con 440 kilos de cocaína en Trinidad y Tobago",
-      "link": "https://diarioversionfinal.com/mundo/detienen-a-un-venezolano-y-tres-trinitenses-con-440-kilos-de-cocaina-en-trinidad-y-tobago/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-15T130032.303.jpg"
+      "title": "Precios de gasolina en EE. UU. al alza tras cierre de oleoducto saudita",
+      "link": "https://diarioversionfinal.com/mundo/precios-de-gasolina-en-ee-uu-al-alza-tras-cierre-de-oleoducto-saudita/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/2saAzlxa-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-15T20:02:20.301Z"
+  "lastUpdate": "2026-09-15T23:26:16.336Z"
 };
