@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 15 Septiembre 2026"
     },
     "binance": {
-      "usdt": "952,35"
+      "usdt": "950,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "En diciembre: Ni \"bajará Pacheco\" ni \"hielitos decembrinos\"",
-      "link": "https://noticialdia.com/nacionales/en-diciembre-ni-bajara-pacheco-ni-hielitos-decembrinos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-2026-09-14T124343.722.webp?x74346"
+      "title": "Danmarys Hernández: \"En Di Martino vemos un alcalde con visión estratégica de país\"",
+      "link": "https://noticialdia.com/al-dia/danmarys-hernandez-en-di-martino-vemos-un-alcalde-con-vision-estrategica-de-pais/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-12-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Más de 20 estados demandan al Gobierno de Trump por nueva norma de inmigración",
-      "link": "https://cnnespanol.cnn.com/2026/09/14/eeuu/green-cards-estados-demanda-trump-inmigrante-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26257587696295-20260914190228364.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Qué pasó en el asesinato de estudiante española en México",
+      "link": "https://cnnespanol.cnn.com/2026/09/14/mexico/asesinato-estudiante-espanola-mexico-morelos-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2294778055.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. EVALÚA INCLUIR EL CARBÓN VENEZOLANO EN FUTUROS ACUERDOS ENERGÉTICOS",
-      "link": "https://noticierodigital.com/2026/09/ee-uu-evalua-incluir-el-carbon-venezolano-en-futuros-acuerdos-energeticos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/doug-burgum-eeuu-627x376.jpg"
+      "title": "EE. UU. PREVÉ LLENAR SU RESERVA CON CRUDO VENEZOLANO A $30-$40 POR BARRIL",
+      "link": "https://noticierodigital.com/2026/09/ee-uu-preve-llenar-su-reserva-con-crudo-venezolano-a-30-40-por-barril-2/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/felipe-mujica-mas-venezuela-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/07/Diogo-Jota-04-07-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-14T21:44:31.719Z"
+  "lastUpdate": "2026-09-15T00:20:40.942Z"
 };
