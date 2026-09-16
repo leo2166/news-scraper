@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 16 Septiembre 2026"
     },
     "binance": {
-      "usdt": "958,50"
+      "usdt": "929,89"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Aumentó más de 9% en bolívares: Pagan el \"Ingreso Integral de los Trabajadores\" de septiembre a personal activo",
-      "link": "https://www.bancaynegocios.com/aumento-mas-de-9-porciento-en-bolivares-pagan-el-ingreso-integral-de-los-trabajadores-de-septiembre-a-personal-activo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
+      "title": "Venezuela necesita hasta US$ 21.000 millones para la recuperación tras los sismos, según informe",
+      "link": "https://www.bancaynegocios.com/venezuela-necesita-hasta-us-21000-millones-para-la-recuperacion-tras-los-sismos-segun-informe/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/TerremotosVenezuelaLaGuairaEdificios2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Estimaron en más de USD 20.000 millones la recuperación de Venezuela tras los devastadores terremotos",
-      "link": "https://www.infobae.com/venezuela/2026/09/16/estimaron-en-mas-de-usd-20000-millones-la-recuperacion-de-venezuela-tras-los-devastadores-terremotos/",
-      "image": "https://www.infobae.com/resizer/v2/KWLIIAFGFBDSNOT3UYBEOU5LWM.jpg?auth=72aeab0a21454326937f1ff0a0b689e05786aa95d730d69d3ee3b5cbe5b0f328&smart=true&width=350&height=197&quality=85"
+      "title": "Avanza en Venezuela un delicado proceso de reconciliación democrática después de años de tiranía chavista",
+      "link": "https://www.infobae.com/venezuela/2026/09/16/avanza-en-venezuela-un-delicado-proceso-de-reconciliacion-democratica-despues-de-anos-de-tirania-chavista/",
+      "image": "https://www.infobae.com/resizer/v2/YH24AA3YSJEJ7CMH6PWHHGGKPA.JPG?auth=91c4d2e707cdc5e17ecec1c0eb6ebf0e9a0086b5cc2bfcb2f577b75ecec094d7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Fallece el periodista deportivo Juan Vené a los 97 años",
-      "link": "https://noticialdia.com/deportes/fallece-el-periodista-deportivo-juan-vene-a-los-97-anos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-11-3.webp?x74346"
+      "title": "LVBP suspende a Rougned Odor y a otros tres peloteros por infringir el Programa Antidopaje",
+      "link": "https://noticialdia.com/deportes/lvbp-suspende-a-rougned-odor-y-a-otros-tres-peloteros-por-infringir-el-programa-antidopaje/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260916_101817_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Sheinbaum afianza su gobierno pese a las contradicciones",
-      "link": "https://cnnespanol.cnn.com/2026/09/15/mexico/dos-caras-claudia-sheinbaum-gobierno-contradicciones-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293789177.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La Fed podría subir las tasas y complicar el panorama para Trump",
+      "link": "https://cnnespanol.cnn.com/2026/09/16/economia/trump-tipos-interes-presidente-reserva-federal-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287525782-20260916111444825.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SISMO DE MAGNITUD 3,8 SACUDIÓ ESTE MARTES EL ESTADO FALCÓN",
-      "link": "https://noticierodigital.com/2026/09/sismo-de-magnitud-38-sacudio-este-martes-el-estado-falcon/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/sismo-funvisis-churuguara-627x376.jpg"
+      "title": "JOSÉ GREGORIO CORREA CONDENÓ QUE EL ICE SE ESTACIONE CERCA DE EL AREPAZO EN DORAL",
+      "link": "https://noticierodigital.com/2026/09/jose-gregorio-correa-condeno-que-el-ice-se-estacione-cerca-de-el-arepazo-en-doral/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/josegregoriocorrea-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Precios de gasolina en EE. UU. al alza tras cierre de oleoducto saudita",
-      "link": "https://diarioversionfinal.com/mundo/precios-de-gasolina-en-ee-uu-al-alza-tras-cierre-de-oleoducto-saudita/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/2saAzlxa-image-750x430.jpg"
+      "title": "León XIV alerta sobre el riesgo de dejar decisiones humanas en manos de la inteligencia artificial",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-alerta-sobre-el-riesgo-de-dejar-decisiones-humanas-en-manos-de-la-inteligencia-artificial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/ae4c0a32d3f56a8d5939fcb13fbcfe0a017d9bc4m-1-1068x601-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-16T09:07:15.968Z"
+  "lastUpdate": "2026-09-16T14:38:15.721Z"
 };
