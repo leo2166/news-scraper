@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 16 Septiembre 2026"
     },
     "binance": {
-      "usdt": "958,00"
+      "usdt": "958,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos capturó en Venezuela a uno de los delincuentes más buscados por el FBI, acusado de financiar al Tren de Aragua",
-      "link": "https://www.infobae.com/estados-unidos/2026/09/15/estados-unidos-capturo-en-venezuela-a-uno-de-los-delincuentes-mas-buscados-por-el-fbi-acusado-de-financiar-al-tren-de-aragua/",
-      "image": "https://www.infobae.com/resizer/v2/5WPYAFFYIVCSRIPQBTZTRKOOPI.png?auth=11514296a86f0a91308fe50a4b73477da16edc0c15d2703db9c9fcb0c3082d79&smart=true&width=350&height=197&quality=85"
+      "title": "Estimaron en más de USD 20.000 millones la recuperación de Venezuela tras los devastadores terremotos",
+      "link": "https://www.infobae.com/venezuela/2026/09/16/estimaron-en-mas-de-usd-20000-millones-la-recuperacion-de-venezuela-tras-los-devastadores-terremotos/",
+      "image": "https://www.infobae.com/resizer/v2/KWLIIAFGFBDSNOT3UYBEOU5LWM.jpg?auth=72aeab0a21454326937f1ff0a0b689e05786aa95d730d69d3ee3b5cbe5b0f328&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela recibe al nuevo embajador de la Unión Europea",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-recibe-al-nuevo-embajador-de-la-union-europea-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/x36ei5pa7fbyzjmgqpqozzskuy-77ddf0.avif"
+      "title": "Periodista Galo Arellano sobre caso Alex Saab: “La condena inicial podría alcanzar los 20 años de prisión”",
+      "link": "https://noticiasvenevision.com/noticias/politica/periodista-galo-arellano-sobre-caso-alex-saab-la-condena-inicial-podria-alcanzar-los-20-anos-de-prision",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-1-bcaa38.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/2saAzlxa-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-16T03:37:31.423Z"
+  "lastUpdate": "2026-09-16T09:07:15.968Z"
 };
