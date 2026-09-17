@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "En 5 años cerraron 22 fábricas de autopartes en Venezuela e importaciones crecieron 117%",
-      "link": "https://www.bancaynegocios.com/en-5-anos-cerraron-22-fabricas-de-autopartes-en-venezuela-e-importaciones-crecieron-117-porciento/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/02/AutopartesVenezuela.jpg"
+      "title": "ANSA anticipa incremento del 60% en consumo nacional de harina de maíz en diciembre",
+      "link": "https://www.bancaynegocios.com/ansa-anticipa-incremento-del-60-porciento-en-consumo-nacional-de-harina-de-maiz-en-diciembre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/harina-de-maiz.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela: reubicación de alumnos tras terremotos genera hacinamiento y presión sobre los servicios",
-      "link": "https://www.infobae.com/venezuela/2026/09/16/venezuela-reubicacion-de-alumnos-tras-terremotos-genera-hacinamiento-y-presion-sobre-los-servicios/",
-      "image": "https://www.infobae.com/resizer/v2/R4NYRJLV6RHOLC5CWXM2FLU3UI.jpg?auth=71dc2c00029d4ac7f18db98ddcffa773e1f447a68ecfb953a970847f82658d43&smart=true&width=350&height=197&quality=85"
+      "title": "Después de 20 años, Estados Unidos retiró a Venezuela de la lista de países que incumplen la lucha antidrogas",
+      "link": "https://www.infobae.com/estados-unidos/2026/09/17/despues-de-20-anos-estados-unidos-retiro-a-venezuela-de-la-lista-de-paises-que-incumplen-la-lucha-antidrogas/",
+      "image": "https://www.infobae.com/resizer/v2/CI76UHHY5NGSFPJX2YLSARCHJQ.JPG?auth=d5aef411c188d6633f533d35b7fd7d5ffa42540663be1667b9196e7774d2fd6c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcalde Di Martino: \"Asumimos una Gobernación y alcaldías destruidas por las gestiones pasadas\"",
-      "link": "https://noticialdia.com/al-dia/alcalde-di-martino-asumimos-una-gobernacion-y-alcaldias-destruidas-por-las-gestiones-pasadas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-14-7.webp?x74346"
+      "title": "Excoordinador de las canteras del Trujillanos FC resultó herido en aparatoso accidente de tránsito en Valera",
+      "link": "https://noticialdia.com/sucesos/excoordinador-de-las-canteras-del-trujillanos-fc-resulto-herido-en-aparatoso-accidente-de-transito-en-valera/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-27-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La Fed sube las tasas de interés por primera vez desde 2023",
-      "link": "https://cnnespanol.cnn.com/2026/09/16/eeuu/fed-sube-tipos-de-interes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/fed-tipos-de-interes.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La racha de derrotas de Trump socava su mito de invencibilidad",
+      "link": "https://cnnespanol.cnn.com/2026/09/16/eeuu/derrotas-trump-socava-mito-invencibilidad-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-09-16-131446.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SECRETARIO DEL INTERIOR DE EE. UU. CELEBRÓ EL NUEVO ESCENARIO ENERGÉTICO CON VENEZUELA",
-      "link": "https://noticierodigital.com/2026/09/secretario-del-interior-de-ee-uu-celebro-el-nuevo-escenario-energetico-con-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/doug-burgum-627x376.jpg"
+      "title": "HEENEY CAPITAL INVERTIRÁ HASTA USD $ 1.000 MILLONES EN UNA MINA DE ORO EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/09/heeney-capital-invertira-hasta-usd-1-000-millones-en-una-mina-de-oro-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/arco-minero-venezuela.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/07/Policia-Nacional-de-Espana-08-07-2022.jpeg"
     }
   ],
-  "lastUpdate": "2026-09-16T21:54:55.409Z"
+  "lastUpdate": "2026-09-17T00:09:11.957Z"
 };
