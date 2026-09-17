@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "847,44",
-      "eur": "977,68",
-      "fechaValor": "Jueves, 17 Septiembre 2026"
+      "usd": "848,55",
+      "eur": "974,42",
+      "fechaValor": "Viernes, 18 Septiembre 2026"
     },
     "binance": {
-      "usdt": "932,46"
+      "usdt": "953,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Reino Unido eleva relación diplomática con Venezuela: ¿Giro para control de oro en Banco de Inglaterra?",
-      "link": "https://www.bancaynegocios.com/reino-unido-eleva-relacion-diplomatica-con-venezuela-giro-para-control-de-oro-en-banco-de-inglaterra/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/03/OroVenezolano.jpg"
+      "title": "Fedenaga apuesta por el robustecimiento del rebaño: \"Contarnos es el primer gran paso para crecer\"",
+      "link": "https://www.bancaynegocios.com/fedenaga-apuesta-por-el-robustecimiento-del-rebano-contarnos-es-el-primer-gran-paso-para-crecer/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.05.57-PM-e1789666474195.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Baruta anuncia cierre parcial por obras de vialidad en Las Mercedes durante una semana",
-      "link": "https://noticialdia.com/al-dia/alcaldia-de-baruta-anuncia-cierre-parcial-por-obras-de-vialidad-en-las-mercedes-durante-una-semana/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/ChatGPT-Image-17-sept-2026-12_17_13.webp?x74346"
+      "title": "Roberto González compartió con NAD su versión \"De los besos que te dí\"",
+      "link": "https://noticialdia.com/zulia/roberto-gonzalez-compartio-con-nad-su-version-de-los-besos-que-te-di/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/30dd7ea9-d4a8-48e2-a083-416951420bb9-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La Fed espera no haber cometido un error garrafal al subir las tasas",
-      "link": "https://cnnespanol.cnn.com/2026/09/17/eeuu/reserva-federal-tasas-interes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295623988-20260917044837207.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "¿Matará realmente la IA a todo el mundo?",
+      "link": "https://cnnespanol.cnn.com/2026/09/17/ciencia/ia-extincion-humanidad-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ia-control.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministro de comunicaciones Miguel Pérez Pirela confirma restablecimiento de portales de noticias digitales en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministro-de-comunicaciones-miguel-perez-pirela-confirma-restablecimiento-de-portales-de-noticias-digitales-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/embalse-de-macagua-e74083.jpg"
+      "title": "Misión de la ONU advierte que el desbloqueo de algunos portales web informativos no garantiza la libertad de prensa en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/mision-de-la-onu-advierte-que-el-desbloqueo-de-algunos-portales-web-informativos-no-garantiza-la-libertad-de-prensa-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_ay5tw3ay5tw3ay5t-e966ea.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BANCAMIGA REGALA PRIMERA EXPERIENCIA FINANCIERA EN EL REGRESO A CLASES",
-      "link": "https://noticierodigital.com/2026/09/bancamiga-regala-primera-experiencia-financiera-en-el-regreso-a-clases/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-10.11.34-AM-627x376.jpeg"
+      "title": "MARÍA ELVIRA SALAZAR A TRUMP: «SUS MEDIDAS DE CONTROL MIGRATORIO HAN IDO DEMASIADO LEJOS»",
+      "link": "https://noticierodigital.com/2026/09/maria-elvira-salazar-a-trump-sus-medidas-de-control-migratorio-han-ido-demasiado-lejos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/maria-elvira-salazar-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum desafía a Trump sobre la lucha contra el narcotráfico",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-desafia-a-trump-sobre-la-lucha-contra-el-narcotrafico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/hlAoCzDe-image-750x430.jpg"
+      "title": "EE. UU. permitirá ingreso de la delegación iraní para participar en la Asamblea de la ONU",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-permitira-ingreso-de-la-delegacion-irani-para-participar-en-la-asamblea-de-la-onu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/1440x810_cmsv2_5cf0f21b-25f6-59b1-b15e-6c0ef5da353d-9603212-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-17T16:22:08.364Z"
+  "lastUpdate": "2026-09-17T20:01:55.859Z"
 };
