@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 17 Septiembre 2026"
     },
     "binance": {
-      "usdt": "959,00"
+      "usdt": "957,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Después de 20 años, Estados Unidos retiró a Venezuela de la lista de países que incumplen la lucha antidrogas",
-      "link": "https://www.infobae.com/estados-unidos/2026/09/17/despues-de-20-anos-estados-unidos-retiro-a-venezuela-de-la-lista-de-paises-que-incumplen-la-lucha-antidrogas/",
-      "image": "https://www.infobae.com/resizer/v2/CI76UHHY5NGSFPJX2YLSARCHJQ.JPG?auth=d5aef411c188d6633f533d35b7fd7d5ffa42540663be1667b9196e7774d2fd6c&smart=true&width=350&height=197&quality=85"
+      "title": "El Programa para la Paz y la Convivencia Democrática le recomendó a Delcy Rodríguez eliminar los bloqueos a medios de comunicación en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/09/17/el-programa-para-la-paz-y-la-convivencia-democratica-le-recomendo-a-delcy-rodriguez-eliminar-los-bloqueos-a-medios-de-comunicacion-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/U7OEWBYNIFFN5AXU6MZMV7EFSA.jpg?auth=14c2c9f7721d0231a9b38e94253e8ae387a09597a665c948fda17d8ee3b2c2f7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Excoordinador de las canteras del Trujillanos FC resultó herido en aparatoso accidente de tránsito en Valera",
-      "link": "https://noticialdia.com/sucesos/excoordinador-de-las-canteras-del-trujillanos-fc-resulto-herido-en-aparatoso-accidente-de-transito-en-valera/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-27-1.webp?x74346"
+      "title": "Programa de Paz y Convivencia Democrática propone eliminar bloqueos a dominios de medios digitales",
+      "link": "https://noticialdia.com/al-dia/programa-de-paz-y-convivencia-democratica-propone-eliminar-bloqueos-a-dominios-de-medios-digitales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-30-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidente de Paraguay viajará a Venezuela antes de su participación en la Asamblea General de la ONU",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidente-de-paraguay-viajara-a-venezuela-antes-de-su-participacion-en-la-asamblea-general-de-la-onu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/presidente-paraguay-02fea5.jpg"
+      "title": "Programa para la Paz y Convivencia Democrática recomienda medidas a favor de la libertad de expresión y el pluralismo informativo",
+      "link": "https://noticiasvenevision.com/noticias/politica/programa-para-la-paz-y-convivencia-democratica-recomienda-medidas-a-favor-de-la-libertad-de-expresion-y-el-pluralismo-informativo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/11_zc__0639_p-00de1d.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HEENEY CAPITAL INVERTIRÁ HASTA USD $ 1.000 MILLONES EN UNA MINA DE ORO EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/09/heeney-capital-invertira-hasta-usd-1-000-millones-en-una-mina-de-oro-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/02/arco-minero-venezuela.jpg"
+      "title": "FUERZAS DE EE. UU. HUNDIERON EMBARCACIÓN VINCULADA A LOS CHONEROS EN EL PACÍFICO",
+      "link": "https://noticierodigital.com/2026/09/fuerzas-de-ee-uu-hundieron-embarcacion-vinculada-a-los-choneros-en-el-pacifico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/comando-sur-eeuu-narcotrafico-ecuador-pacifico-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Policía española desmantela red de explotación de migrantes vulnerables",
-      "link": "https://diarioversionfinal.com/mundo/policia-espanola-desmantela-red-de-explotacion-de-migrantes-vulnerables/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2022/07/Policia-Nacional-de-Espana-08-07-2022.jpeg"
+      "title": "La Comunidad Valenciana en alerta por inundaciones tras torrenciales lluvias",
+      "link": "https://diarioversionfinal.com/mundo/la-comunidad-valenciana-en-alerta-por-inundaciones-tras-torrenciales-lluvias/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/MFnHrwvk-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-17T00:09:11.957Z"
+  "lastUpdate": "2026-09-17T05:48:22.150Z"
 };
