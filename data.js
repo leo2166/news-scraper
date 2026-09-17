@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 18 Septiembre 2026"
     },
     "binance": {
-      "usdt": "953,00"
+      "usdt": "951,70"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,46 +21,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Laboratorio de Paz reclamó que la reinserción internacional de Venezuela no legitime la excepcionalidad política",
-      "link": "https://www.infobae.com/venezuela/2026/09/17/laboratorio-de-paz-reclamo-que-la-reinsercion-internacional-de-venezuela-no-legitime-la-excepcionalidad-politica/",
-      "image": "https://www.infobae.com/resizer/v2/KJPORTOCVZD3NO44K6SR4UYIKE.jpg?auth=13adfe3279aaea406892cff45aa1ebd033775c36ebb3d9881344cc787c8d258c&smart=true&width=350&height=197&quality=85"
+      "title": "Sindicalistas protestan en Venezuela para exigir elecciones antes de que termine el año",
+      "link": "https://www.infobae.com/venezuela/2026/09/17/sindicalistas-protestan-en-venezuela-para-exigir-elecciones-antes-de-que-termine-el-ano/",
+      "image": "https://www.infobae.com/resizer/v2/P5TQUJL53VCQHCMN64MEIXQUZM.JPG?auth=7d3b006c7aac47a69019270923deb468c487252f6f48a23c117517cd8d51d1bd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Roberto González compartió con NAD su versión \"De los besos que te dí\"",
-      "link": "https://noticialdia.com/zulia/roberto-gonzalez-compartio-con-nad-su-version-de-los-besos-que-te-di/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/30dd7ea9-d4a8-48e2-a083-416951420bb9-convertido-a-1024x720-1.webp?x74346"
+      "title": "Arranca la segunda ronda de diálogo entre el Gobierno y representantes de la AN-2015",
+      "link": "https://noticialdia.com/principal/arranca-la-segunda-ronda-de-dialogo-entre-el-gobierno-y-la-an-2015/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-8-11.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "¿Matará realmente la IA a todo el mundo?",
-      "link": "https://cnnespanol.cnn.com/2026/09/17/ciencia/ia-extincion-humanidad-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ia-control.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La relación EE.UU.-Colombia en tiempos de Trump y De la Espriella",
+      "link": "https://cnnespanol.cnn.com/2026/09/17/colombia/de-la-espriella-alineacion-trump-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-sin-texto.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Misión de la ONU advierte que el desbloqueo de algunos portales web informativos no garantiza la libertad de prensa en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/mision-de-la-onu-advierte-que-el-desbloqueo-de-algunos-portales-web-informativos-no-garantiza-la-libertad-de-prensa-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_ay5tw3ay5tw3ay5t-e966ea.jpg"
+      "title": "Primero Justicia apoya levantamiento de bloqueos a medios y apertura de medios censurados",
+      "link": "https://noticiasvenevision.com/noticias/politica/primero-justicia-apoya-levantamiento-de-bloqueos-a-medios-y-apertura-de-medios-censurados",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_omts9tomts9tomts-1d501c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MARÍA ELVIRA SALAZAR A TRUMP: «SUS MEDIDAS DE CONTROL MIGRATORIO HAN IDO DEMASIADO LEJOS»",
-      "link": "https://noticierodigital.com/2026/09/maria-elvira-salazar-a-trump-sus-medidas-de-control-migratorio-han-ido-demasiado-lejos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/maria-elvira-salazar-627x376.jpg"
+      "title": "DONALD TRUMP PLANEA REUNIRSE CON DELCY RODRÍGUEZ EN NUEVA YORK, SEGÚN AXIOS",
+      "link": "https://noticierodigital.com/2026/09/donald-trump-planea-reunirse-con-delcy-rodriguez-en-nueva-york-segun-axios/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/delcy-rodriguez-venezuela-ppp3-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump vuelve a prometer dividendos de 5.000 dólares si republicanos ganan las legislativas",
-      "link": "https://laverdad.com/trump-vuelve-a-prometer-dividendos-de-5-000-dolares-si-republicanos-ganan-las-legislativas/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Donald-Trump-4.jpg"
+      "title": "Alcalde de Medellín anuncia expulsión de 17 venezolanos: “Aquí manda la ley”",
+      "link": "https://laverdad.com/alcalde-de-medellin-anuncia-expulsion-de-17-venezolanos-aqui-manda-la-ley/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Alcalde-de-Medellin-anuncia-expulsion-de-17-venezolanos_-Aqui-manda-la-ley.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. permitirá ingreso de la delegación iraní para participar en la Asamblea de la ONU",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-permitira-ingreso-de-la-delegacion-irani-para-participar-en-la-asamblea-de-la-onu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/1440x810_cmsv2_5cf0f21b-25f6-59b1-b15e-6c0ef5da353d-9603212-750x430.webp"
+      "title": "Axios: Trump planea reunirse con Delcy Rodríguez durante la Asamblea General de la ONU",
+      "link": "https://diarioversionfinal.com/mundo/axios-trump-planea-reunirse-con-delcy-rodriguez-durante-la-asamblea-general-de-la-onu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/4b47ffa0-8b44-49d4-91df-8d1712c689f5_16-9-discover-aspect-ratio_default_0_x1200y575-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-17T20:01:55.859Z"
+  "lastUpdate": "2026-09-17T23:24:07.033Z"
 };
