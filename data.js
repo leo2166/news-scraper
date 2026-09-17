@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 17 Septiembre 2026"
     },
     "binance": {
-      "usdt": "957,00"
+      "usdt": "956,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El Programa para la Paz y la Convivencia Democrática le recomendó a Delcy Rodríguez eliminar los bloqueos a medios de comunicación en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/09/17/el-programa-para-la-paz-y-la-convivencia-democratica-le-recomendo-a-delcy-rodriguez-eliminar-los-bloqueos-a-medios-de-comunicacion-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/U7OEWBYNIFFN5AXU6MZMV7EFSA.jpg?auth=14c2c9f7721d0231a9b38e94253e8ae387a09597a665c948fda17d8ee3b2c2f7&smart=true&width=350&height=197&quality=85"
-    },
-    {
-      "source": "Noticia al Día",
-      "title": "Programa de Paz y Convivencia Democrática propone eliminar bloqueos a dominios de medios digitales",
-      "link": "https://noticialdia.com/al-dia/programa-de-paz-y-convivencia-democratica-propone-eliminar-bloqueos-a-dominios-de-medios-digitales/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-30-1.webp?x74346"
+      "title": "Laboratorio de Paz reclamó que la reinserción internacional de Venezuela no legitime la excepcionalidad política",
+      "link": "https://www.infobae.com/venezuela/2026/09/17/laboratorio-de-paz-reclamo-que-la-reinsercion-internacional-de-venezuela-no-legitime-la-excepcionalidad-politica/",
+      "image": "https://www.infobae.com/resizer/v2/KJPORTOCVZD3NO44K6SR4UYIKE.jpg?auth=13adfe3279aaea406892cff45aa1ebd033775c36ebb3d9881344cc787c8d258c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "CNN en Español",
-      "title": "La racha de derrotas de Trump socava su mito de invencibilidad",
-      "link": "https://cnnespanol.cnn.com/2026/09/16/eeuu/derrotas-trump-socava-mito-invencibilidad-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-09-16-131446.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La Fed espera no haber cometido un error garrafal al subir las tasas",
+      "link": "https://cnnespanol.cnn.com/2026/09/17/eeuu/reserva-federal-tasas-interes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295623988-20260917044837207.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +51,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Comunidad Valenciana en alerta por inundaciones tras torrenciales lluvias",
-      "link": "https://diarioversionfinal.com/mundo/la-comunidad-valenciana-en-alerta-por-inundaciones-tras-torrenciales-lluvias/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/MFnHrwvk-image-750x430.jpg"
+      "title": "Rusia manda un brutal ataque de misiles a Ucrania con saldo de 19 heridos y dos niños muertos",
+      "link": "https://diarioversionfinal.com/mundo/rusia-manda-un-brutal-ataque-de-misiles-a-ucrania-con-saldo-de-19-heridos-y-dos-ninos-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/tqOHuK7r-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-17T05:48:22.150Z"
+  "lastUpdate": "2026-09-17T11:05:01.675Z"
 };
