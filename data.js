@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 18 Septiembre 2026"
     },
     "binance": {
-      "usdt": "945,00"
+      "usdt": "950,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Financial Times: Venezuela estaría cerca de lograr un acuerdo para trasladar sus reservas de oro a Nueva York",
-      "link": "https://www.bancaynegocios.com/financia-times-venezuela-estaria-cerca-de-lograr-un-acuerdo-para-trasladar-sus-reservas-de-oro-a-nueva-york/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/oro.jpg"
+      "title": "Pagan estipendio \"Somos Venezuela\" de septiembre: Aumentó más de 8% en bolívares (+monto)",
+      "link": "https://www.bancaynegocios.com/pagan-estipendio-somos-venezuela-de-septiembre-aumento-mas-de-8-porciento-en-bolivares-monto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Liberaron al dirigente opositor Javier Oropeza tras ser detenido de forma arbitraria en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/09/18/liberaron-al-dirigente-opositor-javier-oropeza-tras-ser-detenido-de-forma-arbitraria-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/I2OHDB5CEZHEHAUZUANYXLVYWU.jpg?auth=0c6c4fc3187f7f14e6e737cb6384f1d9f49ea652f92554e1ce8204b190ceeb16&smart=true&width=350&height=197&quality=85"
+      "title": "Ministerio Público corrige una de las desviaciones ejecutadas por Tarek William Saab, el fiscal de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/09/18/ministerio-publico-corrige-una-de-las-desviaciones-ejecutadas-por-tarek-william-saab-el-fiscal-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/XDY7R3SSZFEFTGBMTJK4N5FN64.jpg?auth=4cd130eddcfeff7698e6883b6c076c12f5ac2aafb27b802b6f004aa10403ee13&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera anunció recuperación de 35 edificios y 560 apartamentos en el Complejo Habitacional Fabricio Ojeda",
-      "link": "https://noticialdia.com/zulia/gobernador-luis-caldera-anuncio-recuperacion-de-35-edificios-y-560-apartamentos-en-el-complejo-habitacional-fabricio-ojeda/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/92bbb74d-a6f3-4265-a2a8-04025113307e-convertido-a-1024x720-1.webp?x74346"
+      "title": "Palmer y Alexander-Arnold regresan a la convocatoria de Inglaterra tras el Mundial",
+      "link": "https://noticialdia.com/?p=670539",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "Lucha antinarco: Fuerzas Armadas de EE.UU. trasladarán drones a Sudamérica",
-      "link": "https://cnnespanol.cnn.com/2026/09/18/eeuu/fuerzas-armadas-drones-sudamerica-lucha-narco-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9898048-20260918095202038.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "La razón por la que Trump pisa el acelerador en materia de inteligencia artificial",
+      "link": "https://cnnespanol.cnn.com/2026/09/18/economia/empresas-ia-dano-economia-eeuu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295660832-20260918161951966.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Liberan al exalcalde de Carora Javier Oropeza tras su detención en Barquisimeto",
-      "link": "https://noticiasvenevision.com/noticias/politica/liberan-al-exalcalde-de-carora-javier-oropeza-tras-su-detencion-en-barquisimeto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-b8b544.jpg"
+      "title": "Asamblea Nacional de 2015 inicia procedimiento para designar nuevas autoridades del TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-de-2015-inicia-procedimiento-para-designar-nuevas-autoridades-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_maq9ozmaq9ozmaq9-4f7b95.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«NO PUEDEN SOLTAR ESA MAÑA»: ROBERTO ENRÍQUEZ RECHAZÓ DETENCIÓN DE JAVIER OROPEZA",
-      "link": "https://noticierodigital.com/2026/09/no-pueden-soltar-esa-mana-roberto-enriquez-rechazo-detencion-de-javier-oropeza/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/RobertoEnriquez_-2-627x376.jpg"
+      "title": "GREMIOS SE UNEN JUNTO AL INCES PARA DESARROLLAR UN PROGRAMA LABORAL EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/09/gremios-se-unen-junto-al-inces-para-desarrollar-un-programa-laboral-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Diseno-sin-titulo-3-6-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Alcalde de Medellín anuncia expulsión de 17 venezolanos: “Aquí manda la ley”",
-      "link": "https://laverdad.com/alcalde-de-medellin-anuncia-expulsion-de-17-venezolanos-aqui-manda-la-ley/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Alcalde-de-Medellin-anuncia-expulsion-de-17-venezolanos_-Aqui-manda-la-ley.jpg"
+      "title": "A prisión venezolano acusado de abuso sexual y muerte de niña encontrada en alcantarilla en Bogotá",
+      "link": "https://laverdad.com/a-prision-venezolano-acusado-de-abuso-sexual-y-muerte-de-nina-encontrada-en-alcantarilla-en-bogota/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Venezolano-presunto-asesino-de-nina-en-Bogota.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán afirma haber atacado un petrolero en el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/iran-afirma-haber-atacado-un-petrolero-en-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-4.jpg"
+      "title": "Sheinbaum dice que avanza \"bien\" el acuerdo comercial con EE. UU. tras llamada con Trump",
+      "link": "https://diarioversionfinal.com/mundo/sheinbaum-dice-que-avanza-bien-el-acuerdo-comercial-con-ee-uu-tras-llamada-con-trump/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Claudia-Sheinbaum.avif"
     }
   ],
-  "lastUpdate": "2026-09-18T13:25:51.998Z"
+  "lastUpdate": "2026-09-18T17:31:24.737Z"
 };
