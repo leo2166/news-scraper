@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 18 Septiembre 2026"
     },
     "binance": {
-      "usdt": "948,00"
+      "usdt": "948,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Denunciaron la detención arbitraria del dirigente opositor venezolano Javier Oropeza tras volver del exilio",
-      "link": "https://www.infobae.com/venezuela/2026/09/18/denunciaron-la-detencion-arbitraria-del-dirigente-opositor-venezolano-javier-oropeza-tras-volver-del-exilio/",
-      "image": "https://www.infobae.com/resizer/v2/5G4YJRJGHJHYPNXFUUI7C5ZYAQ.jpg?auth=45e2eafeed3298e91105f2b84d43704d78971267ce7401c48a864575fb55cfbe&smart=true&width=350&height=197&quality=85"
+      "title": "Liberaron al dirigente opositor Javier Oropeza tras ser detenido de forma arbitraria en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/09/18/liberaron-al-dirigente-opositor-javier-oropeza-tras-ser-detenido-de-forma-arbitraria-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/I2OHDB5CEZHEHAUZUANYXLVYWU.jpg?auth=0c6c4fc3187f7f14e6e737cb6384f1d9f49ea652f92554e1ce8204b190ceeb16&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/bradley-d-hansell-virginia-appears-before-senate-550nw-10735564aj.jpg"
     }
   ],
-  "lastUpdate": "2026-09-18T03:28:32.147Z"
+  "lastUpdate": "2026-09-18T08:48:52.162Z"
 }
