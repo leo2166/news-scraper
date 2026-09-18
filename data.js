@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "848,55",
-      "eur": "974,42",
-      "fechaValor": "Viernes, 18 Septiembre 2026"
+      "usd": "849,56",
+      "eur": "974,09",
+      "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "950,00"
+      "usdt": "945,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Incrementó en bolívares: Pagan \"Ingreso Integral de los Trabajadores\" de septiembre a jubilados (+monto)",
-      "link": "https://www.bancaynegocios.com/incremento-en-bolivares-pagan-ingreso-integral-de-los-trabajadores-de-septiembre-a-jubilados-monto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
+      "title": "Instalan sistema digital para agilizar despacho de mercancías en Puerto La Guaira",
+      "link": "https://www.bancaynegocios.com/instalan-sistema-digital-para-agilizar-despacho-de-mercancias-en-puerto-la-guaira/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/07/PuertoLaGuaira.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Motorizado resultó herido luego de chocar contra un vehículo en la C-1",
-      "link": "https://noticialdia.com/al-dia/motorizado-resulto-herido-luego-de-chocar-contra-un-vehiculo-en-la-c-1/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-18T161758.719.webp?x74346"
+      "title": "Trump se reunirá con Delcy Rodríguez el próximo martes 22-Sept en Nueva York: Anunció la Casa Blanca",
+      "link": "https://noticialdia.com/sin-categoria/trump-se-reunira-con-delcy-rodriguez-el-proximo-martes-22-sept-en-nueva-york-anuncio-la-casa-blanca/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-6-12.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOHEL ORTA: «LA NECESIDAD DE DIÁLOGO ES FUNDAMENTAL PARA LOGRAR LA PAZ POLÍTICA»",
-      "link": "https://noticierodigital.com/2026/09/johel-orta-la-necesidad-de-dialogo-es-fundamental-para-lograr-la-paz-politica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/johel-orta-1-627x376.jpg"
+      "title": "AGENTE DE ICE ENFRENTA SEIS CARGOS FEDERALES POR BALEAR A VENEZOLANO EN MINEÁPOLIS",
+      "link": "https://noticierodigital.com/2026/09/agente-de-ice-enfrenta-seis-cargos-federales-por-balear-a-venezolano-en-mineapolis/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/agente-de-ICE-mineapolis-venezolano-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Santiago Peña se reunirá con Delcy Rodríguez para iniciar diálogo sobre relaciones entre Venezuela y Paraguay",
-      "link": "https://diarioversionfinal.com/mundo/santiago-pena-se-reunira-con-delcy-rodriguez-para-iniciar-dialogo-sobre-relaciones-entre-venezuela-y-paraguay/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/02/santiago-pena-750x430.jpg"
+      "title": "AP: Casa Blanca confirma encuentro entre Trump y Delcy Rodríguez en Nueva York",
+      "link": "https://diarioversionfinal.com/mundo/ap-casa-blanca-confirma-encuentro-entre-trump-y-delcy-rodriguez-en-nueva-york/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-18T154723.169-662x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-18T20:29:32.414Z"
+  "lastUpdate": "2026-09-18T23:02:54.713Z"
 };
