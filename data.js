@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 18 Septiembre 2026"
     },
     "binance": {
-      "usdt": "948,50"
+      "usdt": "945,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fedenaga apuesta por el robustecimiento del rebaño: \"Contarnos es el primer gran paso para crecer\"",
-      "link": "https://www.bancaynegocios.com/fedenaga-apuesta-por-el-robustecimiento-del-rebano-contarnos-es-el-primer-gran-paso-para-crecer/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-12.05.57-PM-e1789666474195.jpeg"
+      "title": "Financial Times: Venezuela estaría cerca de lograr un acuerdo para trasladar sus reservas de oro a Nueva York",
+      "link": "https://www.bancaynegocios.com/financia-times-venezuela-estaria-cerca-de-lograr-un-acuerdo-para-trasladar-sus-reservas-de-oro-a-nueva-york/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/oro.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Subsecretario de Defensa para Inteligencia y Seguridad del Pentágono visitó Venezuela y se reunió con líderes locales: Según fuentes de CBS News",
-      "link": "https://noticialdia.com/principal/subsecretario-de-defensa-para-inteligencia-y-seguridad-del-pentagono-visito-venezuela-y-se-reunio-con-lideres-locales-segun-fuentes-de-cbs-news/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-12-8.webp?x74346"
+      "title": "Gobernador Luis Caldera anunció recuperación de 35 edificios y 560 apartamentos en el Complejo Habitacional Fabricio Ojeda",
+      "link": "https://noticialdia.com/zulia/gobernador-luis-caldera-anuncio-recuperacion-de-35-edificios-y-560-apartamentos-en-el-complejo-habitacional-fabricio-ojeda/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/92bbb74d-a6f3-4265-a2a8-04025113307e-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La relación EE.UU.-Colombia en tiempos de Trump y De la Espriella",
-      "link": "https://cnnespanol.cnn.com/2026/09/17/colombia/de-la-espriella-alineacion-trump-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-sin-texto.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Lucha antinarco: Fuerzas Armadas de EE.UU. trasladarán drones a Sudamérica",
+      "link": "https://cnnespanol.cnn.com/2026/09/18/eeuu/fuerzas-armadas-drones-sudamerica-lucha-narco-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9898048-20260918095202038.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TERMOZULIA ESPERA REPUESTO DE UNA TONELADA DESDE HOUSTON PARA REACTIVAR UNIDAD TZ7",
-      "link": "https://noticierodigital.com/2026/09/termozulia-espera-repuesto-de-una-tonelada-desde-houston-para-reactivar-unidad-tz7/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/termozulia-627x376.jpg"
+      "title": "«NO PUEDEN SOLTAR ESA MAÑA»: ROBERTO ENRÍQUEZ RECHAZÓ DETENCIÓN DE JAVIER OROPEZA",
+      "link": "https://noticierodigital.com/2026/09/no-pueden-soltar-esa-mana-roberto-enriquez-rechazo-detencion-de-javier-oropeza/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/RobertoEnriquez_-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Subsecretario de Inteligencia del Pentágono habría visitado Venezuela este #17Sep",
-      "link": "https://diarioversionfinal.com/mundo/subsecretario-de-inteligencia-del-pentagono-habria-visitado-venezuela-este-17sep/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/bradley-d-hansell-virginia-appears-before-senate-550nw-10735564aj.jpg"
+      "title": "Irán afirma haber atacado un petrolero en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/iran-afirma-haber-atacado-un-petrolero-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-4.jpg"
     }
   ],
-  "lastUpdate": "2026-09-18T08:48:52.162Z"
+  "lastUpdate": "2026-09-18T13:25:51.998Z"
 };
