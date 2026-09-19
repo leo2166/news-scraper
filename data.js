@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "945,00"
+      "usdt": "953,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Trump se reunirá con Delcy Rodríguez el próximo martes 22-Sept en Nueva York: Anunció la Casa Blanca",
-      "link": "https://noticialdia.com/sin-categoria/trump-se-reunira-con-delcy-rodriguez-el-proximo-martes-22-sept-en-nueva-york-anuncio-la-casa-blanca/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-6-12.webp?x74346"
+      "title": "Instalan Mesa Técnica para la Libertad de Expresión en el segundo día del nuevo ciclo de diálogo: Se declaran en sesión permanente hasta 23-Sept",
+      "link": "https://noticialdia.com/al-dia/instalan-mesa-tecnica-para-la-libertad-de-expresion-en-el-segundo-dia-del-nuevo-ciclo-de-dialogo-se-declaran-en-sesion-permanente-hasta-23-sept/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-13-6.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional de 2015 inicia procedimiento para designar nuevas autoridades del TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-de-2015-inicia-procedimiento-para-designar-nuevas-autoridades-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_maq9ozmaq9ozmaq9-4f7b95.jpg"
+      "title": "MP y Human Rights Watch se reunieron para abordar situación de Derechos Humanos y reforma penal en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/mp-y-human-rights-watch-se-reunieron-para-abordar-situacion-de-derechos-humanos-y-reforma-penal-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hsild4wa0aail-m-1b862e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AGENTE DE ICE ENFRENTA SEIS CARGOS FEDERALES POR BALEAR A VENEZOLANO EN MINEÁPOLIS",
-      "link": "https://noticierodigital.com/2026/09/agente-de-ice-enfrenta-seis-cargos-federales-por-balear-a-venezolano-en-mineapolis/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/agente-de-ICE-mineapolis-venezolano-eeuu-627x376.jpg"
+      "title": "PRESIDENTE DE PARAGUAY BUSCA REABRIR EL DIÁLOGO CON VENEZUELA TRAS 20 MESES DE RUPTURA",
+      "link": "https://noticierodigital.com/2026/09/presidente-de-paraguay-busca-reabrir-el-dialogo-con-venezuela-tras-20-meses-de-ruptura/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/santiago-pena-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "AP: Casa Blanca confirma encuentro entre Trump y Delcy Rodríguez en Nueva York",
-      "link": "https://diarioversionfinal.com/mundo/ap-casa-blanca-confirma-encuentro-entre-trump-y-delcy-rodriguez-en-nueva-york/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-18T154723.169-662x430.jpg"
+      "title": "Cuba sufre un nuevo apagón general en medio de su peor crisis eléctrica",
+      "link": "https://diarioversionfinal.com/mundo/cuba-sufre-un-nuevo-apagon-general-en-medio-de-su-peor-crisis-electrica/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-18T182325.318-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-18T23:02:54.713Z"
+  "lastUpdate": "2026-09-19T03:25:09.277Z"
 };
