@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "954,00"
+      "usdt": "953,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Instalan sistema digital para agilizar despacho de mercancías en Puerto La Guaira",
-      "link": "https://www.bancaynegocios.com/instalan-sistema-digital-para-agilizar-despacho-de-mercancias-en-puerto-la-guaira/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/07/PuertoLaGuaira.jpeg"
+      "title": "Venezuela exporta 147.000 toneladas de algas marinas hacia Chile y Asia",
+      "link": "https://www.bancaynegocios.com/venezuela-exporta-147000-toneladas-de-algas-marinas-hacia-chile-y-asia/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/04/puerto-El-Guamache.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Instalan Mesa Técnica para la Libertad de Expresión en el segundo día del nuevo ciclo de diálogo: Se declaran en sesión permanente hasta 23-Sept",
-      "link": "https://noticialdia.com/al-dia/instalan-mesa-tecnica-para-la-libertad-de-expresion-en-el-segundo-dia-del-nuevo-ciclo-de-dialogo-se-declaran-en-sesion-permanente-hasta-23-sept/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-13-6.webp?x74346"
+      "title": "Detienen a mujer por maltrato infantil en Maracaibo",
+      "link": "https://noticialdia.com/al-dia/detienen-a-mujer-por-maltrato-infantil-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-19T085056.521.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. “casi inició una guerra” al usar informe militar falso generado con IA, dicen fuentes",
-      "link": "https://cnnespanol.cnn.com/2026/09/18/eeuu/ejercito-eeuu-ia-informe-inteligencia-falso-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/edacb6ea-522b-4825-8cd6-52903311bd42.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cada vez más republicanos desafían a Trump en público",
+      "link": "https://cnnespanol.cnn.com/2026/09/19/eeuu/republicanos-vulnerables-desafiando-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186343786-20260919094310181.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba sufre un nuevo apagón general en medio de su peor crisis eléctrica",
-      "link": "https://diarioversionfinal.com/mundo/cuba-sufre-un-nuevo-apagon-general-en-medio-de-su-peor-crisis-electrica/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-18T182325.318-678x430.jpg"
+      "title": "Colombia se retira de demanda contra Israel impulsada por Gustavo Petro",
+      "link": "https://diarioversionfinal.com/mundo/colombia-se-retira-de-demanda-contra-israel-impulsada-por-gustavo-petro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/CARSblhS-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-19T08:35:01.059Z"
+  "lastUpdate": "2026-09-19T12:54:43.297Z"
 }
