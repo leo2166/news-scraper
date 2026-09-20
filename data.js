@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "947,00"
+      "usdt": "945,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Mourinho explota contra el arbitraje tras la derrota en el Derbi: \"No ha podido con la presión\"",
-      "link": "https://noticialdia.com/deportes/mourinho-explota-contra-el-arbitraje-tras-la-derrota-en-el-derbi-no-ha-podido-con-la-presion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260920_161756_0000.webp?x74346"
+      "title": "Homenaje sobre la pista: El atletismo zuliano celebró la trayectoria de Yunaira Piña",
+      "link": "https://noticialdia.com/deportes/homenaje-sobre-la-pista-el-atletismo-zuliano-celebro-la-trayectoria-de-yunaira-pina/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260920_173154_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Moscú, blanco del mayor ataque con drones de Ucrania",
-      "link": "https://cnnespanol.cnn.com/2026/09/20/mundo/rusia-ataque-drones-elecciones-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/embajador-de-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Agente de ICE dispara a una persona en Austin, Texas, según la Policía",
+      "link": "https://cnnespanol.cnn.com/2026/09/20/eeuu/tiroteo-ice-austin-texas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-20t210206z-741865908-rc23nnaux1pg-rtrmadp-3-texas-shooting-20260920213213463.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump propone un polémico Arco del Triunfo militar en Washington",
-      "link": "https://diarioversionfinal.com/mundo/trump-propone-un-polemico-arco-del-triunfo-militar-en-washington/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/yjyVRzg7-image-750x430.jpg"
+      "title": "Economía iraní se contrae 10,1 % en medio de la guerra y las sanciones de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/economia-irani-se-contrae-101-en-medio-de-la-guerra-y-las-sanciones-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Iran-economia-20-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-20T20:43:30.595Z"
+  "lastUpdate": "2026-09-20T23:01:44.903Z"
 };
