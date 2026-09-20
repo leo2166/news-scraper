@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "La Casa Blanca niega el acceso a CNN",
-      "link": "https://cnnespanol.cnn.com/2026/09/19/eeuu/video/confiscan-pase-prensa-cnn-casa-blanca-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26262509873406-20260919204431713.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Cómo Trump se volvió contra el Kennedy Center y lo llevó al borde del colapso",
+      "link": "https://cnnespanol.cnn.com/2026/09/19/eeuu/trump-control-kennedy-center-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/25490e6d-aa22-4bd2-91d0-655b31031a3e.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Human Rights Watch culmina visita oficial a Venezuela con un encuentro con Perkins Rocha",
-      "link": "https://noticiasvenevision.com/noticias/politica/human-rights-watch-culmina-visita-oficial-a-venezuela-con-un-encuentro-con-perkins-rocha",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-19-at-4.58.03-pm-72a027.jpeg"
+      "title": "Foro Penal se reunió con Dinorah Figuera para tratar la libertad de los presos por razones políticas y la reforma del sistema de justicia",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-se-reunio-con-dinorah-figuera-para-tratar-la-libertad-de-los-presos-por-razones-politicas-y-la-reforma-del-sistema-de-justicia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copy-video-9-e15e7a.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tribunal estadounidense frena deportaciones de migrantes a terceros países",
-      "link": "https://diarioversionfinal.com/mundo/tribunal-estadounidense-frena-deportaciones-de-migrantes-a-terceros-paises/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2024/01/Deportaciones-2-750x430.jpg"
+      "title": "Comando Sur ultima a cuatro presuntos narcoterroristas durante operación en el mar Caribe",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-ultima-a-cuatro-presuntos-narcoterroristas-durante-operacion-en-el-mar-caribe/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Comando-Sur-19-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-20T00:42:53.482Z"
+  "lastUpdate": "2026-09-20T05:46:23.267Z"
 };
