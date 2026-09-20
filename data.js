@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Parroquia Eclesiástica Santísimo Sacramento recibió jornada integral y su cerca perimetral de la Alcaldía de Maracaibo",
-      "link": "https://noticialdia.com/zulia/parroquia-eclesiastica-santisimo-sacramento-recibio-jornada-integral-y-su-cerca-perimetral-de-la-alcaldia-de-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/8703dd8b-44b4-45fe-bb20-3c4459e46d32.webp?x74346"
+      "title": "Gran expectativa por la llegada del Run & Music Fest: atletas se preparan para la carrera más esperada",
+      "link": "https://noticialdia.com/al-dia/gran-expectativa-por-la-llegada-del-run-music-fest-atletas-se-preparan-para-la-carrera-mas-esperada/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/20260920_060434_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Cómo Trump se volvió contra el Kennedy Center y lo llevó al borde del colapso",
-      "link": "https://cnnespanol.cnn.com/2026/09/19/eeuu/trump-control-kennedy-center-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/25490e6d-aa22-4bd2-91d0-655b31031a3e.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump redobla sus provocaciones de cara a las elecciones intermedias",
+      "link": "https://cnnespanol.cnn.com/2026/09/20/eeuu/analisis-trump-provocaciones-elecciones-intermedias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-despacho-oval-18-septiembre-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Comando-Sur-19-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-20T05:46:23.267Z"
+  "lastUpdate": "2026-09-20T10:44:44.156Z"
 };
