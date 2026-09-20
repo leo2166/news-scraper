@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cortes eléctricos afectan al 90% de las industrias de cereales en Guárico",
-      "link": "https://www.bancaynegocios.com/cortes-electricos-afectan-al-90-porciento-de-las-industrias-de-cereales-en-guarico/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/cereales.png"
+      "title": "Inversiones en Complejo Refinador Paraguaná impulsarían sectores económicos claves en Falcón",
+      "link": "https://www.bancaynegocios.com/inversiones-en-complejo-refinador-paraguana-impulsarian-sectores-economicos-claves-en-falcon/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/08/CentroDeRefinacionParaguanaFalcon.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gran expectativa por la llegada del Run & Music Fest: atletas se preparan para la carrera más esperada",
-      "link": "https://noticialdia.com/al-dia/gran-expectativa-por-la-llegada-del-run-music-fest-atletas-se-preparan-para-la-carrera-mas-esperada/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/20260920_060434_0000.webp?x74346"
+      "title": "Detenidos: Uno por golpear a su pareja con un listón de madera y otro por herirla con un machete en el Zulia",
+      "link": "https://noticialdia.com/sucesos/detenidos-uno-por-golpear-a-su-pareja-con-un-liston-de-madera-y-otro-por-herirla-con-un-machete-en-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-20T100909.315.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN PABLO GUANIPA EXIGIÓ SE INFORME LA DECISIÓN SOBRE EL CASO CAGUARIPANO",
-      "link": "https://noticierodigital.com/2026/09/juan-pablo-guanipa-exigio-se-informe-la-decision-sobre-el-caso-caguaripano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/juan-pablo-guanipa-ven-627x376.jpg"
+      "title": "MATAN A PERIODISTA Y CANDIDATA A ELECCIONES REGIONALES EN ACTO DE CAMPAÑA EN PERÚ",
+      "link": "https://noticierodigital.com/2026/09/matan-a-periodista-y-candidata-a-elecciones-regionales-en-acto-de-campana-en-peru/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/peru_-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur ultima a cuatro presuntos narcoterroristas durante operación en el mar Caribe",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-ultima-a-cuatro-presuntos-narcoterroristas-durante-operacion-en-el-mar-caribe/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Comando-Sur-19-09-2026-750x430.jpg"
+      "title": "La crisis en Ceuta obliga a suspender el amistoso España-México sub-20",
+      "link": "https://diarioversionfinal.com/deportes/la-crisis-en-ceuta-obliga-a-suspender-el-amistoso-espana-mexico-sub-20/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/pPjSCvCY-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-20T10:44:44.156Z"
+  "lastUpdate": "2026-09-20T14:32:11.449Z"
 };
