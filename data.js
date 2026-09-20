@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inversiones en Complejo Refinador Paraguaná impulsarían sectores económicos claves en Falcón",
-      "link": "https://www.bancaynegocios.com/inversiones-en-complejo-refinador-paraguana-impulsarian-sectores-economicos-claves-en-falcon/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/08/CentroDeRefinacionParaguanaFalcon.jpg"
+      "title": "El peso de la culpa y la brecha generacional: los factores invisibles que definen el consumo en Venezuela",
+      "link": "https://www.bancaynegocios.com/el-peso-de-la-culpa-y-la-brecha-generacional-los-factores-invisibles-que-definen-el-consumo-en-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/CONSUMIDORES-CONFIANZA-e1789915574373.jpg"
     },
     {
       "source": "Infobae",
@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Detenidos: Uno por golpear a su pareja con un listón de madera y otro por herirla con un machete en el Zulia",
-      "link": "https://noticialdia.com/sucesos/detenidos-uno-por-golpear-a-su-pareja-con-un-liston-de-madera-y-otro-por-herirla-con-un-machete-en-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-20T100909.315.webp?x74346"
+      "title": "GNB incautó 430 kilos de drogas en Mérida",
+      "link": "https://noticialdia.com/sucesos/gnb-incauto-430-kilos-de-drogas-en-merida/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-20T133932.252.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump redobla sus provocaciones de cara a las elecciones intermedias",
-      "link": "https://cnnespanol.cnn.com/2026/09/20/eeuu/analisis-trump-provocaciones-elecciones-intermedias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-despacho-oval-18-septiembre-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Moscú, blanco del mayor ataque con drones de Ucrania",
+      "link": "https://cnnespanol.cnn.com/2026/09/20/mundo/rusia-ataque-drones-elecciones-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/embajador-de-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal se reunió con Dinorah Figuera para tratar la libertad de los presos por razones políticas y la reforma del sistema de justicia",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-se-reunio-con-dinorah-figuera-para-tratar-la-libertad-de-los-presos-por-razones-politicas-y-la-reforma-del-sistema-de-justicia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copy-video-9-e15e7a.jpg"
+      "title": "Ministerio de Comunicación e Información confirmó la participación de la Presidenta (E) en la 81.ª Asamblea General de la ONU",
+      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-comunicacion-e-informacion-confirmo-la-participacion-de-la-presidenta-e-en-la-81a-asamblea-general-de-la-onu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-2-d9c2b5.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MATAN A PERIODISTA Y CANDIDATA A ELECCIONES REGIONALES EN ACTO DE CAMPAÑA EN PERÚ",
-      "link": "https://noticierodigital.com/2026/09/matan-a-periodista-y-candidata-a-elecciones-regionales-en-acto-de-campana-en-peru/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/peru_-627x376.jpg"
+      "title": "SENADOR BERNIE MORENO PLANTEA QUE PRESIDENCIALES EN VENEZUELA SEAN EL 24 DE JULIO 2027",
+      "link": "https://noticierodigital.com/2026/09/senador-bernie-moreno-plantea-que-presidenciales-en-venezuela-sean-el-24-de-julio-2027/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Gemini_Generated_Image_h2xns4h2xns4h2xn-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Agente del ICE que disparó a venezolano se declara inocente de cargos federales por mentir al FBI",
-      "link": "https://laverdad.com/agente-del-ice-que-disparo-a-venezolano-se-declara-inocente-de-cargos-federales-por-mentir-al-fbi/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Christian-Castro-agente-ICE.jpg"
+      "title": "Papa León XIV pide un “generoso compromiso” internacional para asistir a Somalia",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-un-generoso-compromiso-internacional-para-asistir-a-somalia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/55c5305d88e2066dd3b319547bb3cd0174cd8103-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La crisis en Ceuta obliga a suspender el amistoso España-México sub-20",
-      "link": "https://diarioversionfinal.com/deportes/la-crisis-en-ceuta-obliga-a-suspender-el-amistoso-espana-mexico-sub-20/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/pPjSCvCY-image-750x430.jpg"
+      "title": "Trump propone un polémico Arco del Triunfo militar en Washington",
+      "link": "https://diarioversionfinal.com/mundo/trump-propone-un-polemico-arco-del-triunfo-militar-en-washington/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/yjyVRzg7-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-20T14:32:11.449Z"
+  "lastUpdate": "2026-09-20T18:00:27.327Z"
 };
