@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "950,00"
+      "usdt": "947,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "GNB incautó 430 kilos de drogas en Mérida",
-      "link": "https://noticialdia.com/sucesos/gnb-incauto-430-kilos-de-drogas-en-merida/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-20T133932.252.webp?x74346"
+      "title": "Mourinho explota contra el arbitraje tras la derrota en el Derbi: \"No ha podido con la presión\"",
+      "link": "https://noticialdia.com/deportes/mourinho-explota-contra-el-arbitraje-tras-la-derrota-en-el-derbi-no-ha-podido-con-la-presion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260920_161756_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministerio de Comunicación e Información confirmó la participación de la Presidenta (E) en la 81.ª Asamblea General de la ONU",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministerio-de-comunicacion-e-informacion-confirmo-la-participacion-de-la-presidenta-e-en-la-81a-asamblea-general-de-la-onu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-2-d9c2b5.jpg"
+      "title": "Venezuela y la Asociación de Estados del Caribe estrechan alianzas  en favor del Caribe",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-la-asociacion-de-estados-del-caribe-estrechan-alianzas-en-favor-del-caribe",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copia-de-ltimahora---noticiasvenevision-carrusel-10-62332a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SENADOR BERNIE MORENO PLANTEA QUE PRESIDENCIALES EN VENEZUELA SEAN EL 24 DE JULIO 2027",
-      "link": "https://noticierodigital.com/2026/09/senador-bernie-moreno-plantea-que-presidenciales-en-venezuela-sean-el-24-de-julio-2027/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Gemini_Generated_Image_h2xns4h2xns4h2xn-627x376.jpg"
+      "title": "CONTINENTAL RESOURCES INVERTIRÁ $ 2.000 MILLONES EN LA FAJA PETROLÍFERA DEL ORINOCO",
+      "link": "https://noticierodigital.com/2026/09/continental-resources-invertira-2-000-millones-en-la-faja-petrolifera-del-orinoco/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/chris-wright-eeuu-3-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/yjyVRzg7-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-20T18:00:27.327Z"
+  "lastUpdate": "2026-09-20T20:43:30.595Z"
 };
