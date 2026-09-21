@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "945,99"
+      "usdt": "945,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Preso un venezolano señalado por asesinato de periodista y candidata en Perú",
-      "link": "https://diarioversionfinal.com/mundo/preso-un-venezolano-senalado-por-asesinato-de-periodista-y-candidata-en-peru/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Vzlano-preso-en-Peru-20-09-2026-750x430.jpg"
+      "title": "Periodista herido en ataque a camioneta en carretera Aculco-Acambay, México",
+      "link": "https://diarioversionfinal.com/mundo/periodista-herido-en-ataque-a-camioneta-en-carretera-aculco-acambay-mexico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2016/06/Disparo-Versión-Final-730x410-650x3651.jpg"
     }
   ],
-  "lastUpdate": "2026-09-21T03:37:31.212Z"
+  "lastUpdate": "2026-09-21T09:39:40.100Z"
 };
