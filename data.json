@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "945,00"
+      "usdt": "950,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "El peso de la culpa y la brecha generacional: los factores invisibles que definen el consumo en Venezuela",
-      "link": "https://www.bancaynegocios.com/el-peso-de-la-culpa-y-la-brecha-generacional-los-factores-invisibles-que-definen-el-consumo-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/CONSUMIDORES-CONFIANZA-e1789915574373.jpg"
+      "title": "Consideran que el incremento laboral en el país se generará con la reactivación de la inversión y el adiestramiento",
+      "link": "https://www.bancaynegocios.com/consideran-que-el-incremento-laboral-en-el-pais-se-generara-con-la-reactivacion-de-la-inversion-y-el-adiestramiento/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/08/EmpresasTrabajadores.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela firmó un memorándum de entendimiento con la petrolera francesa TotalEnergies",
-      "link": "https://www.infobae.com/venezuela/2026/09/19/venezuela-firmo-un-memorandum-de-entendimiento-con-la-petrolera-francesa-totalenergies/",
-      "image": "https://www.infobae.com/resizer/v2/QHOHPQDWY5CXJC5ALYBQRIHU3I.jfif?auth=5387b442775c1a46d0d3c4357977e29ba6120597059ac034159ffa9dfa2371be&smart=true&width=350&height=197&quality=85"
+      "title": "Uno de cada tres hogares venezolanos gasta más del 55% de su presupuesto en comida",
+      "link": "https://www.infobae.com/venezuela/2026/09/21/uno-de-cada-tres-hogares-venezolanos-gasta-mas-del-55-de-su-presupuesto-en-comida/",
+      "image": "https://www.infobae.com/resizer/v2/NOOIGSCVCJG4PBS3CRKYTPV52U.JPG?auth=2c5963acfa666ef8ba654cbc633e2ce6dcdf92bc3c3ebe687f0d094af78bae27&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Ricardo Portillo compone \"Vamos a orar, Venezuela\" y adelanta que no le preocupan las críticas",
-      "link": "https://noticialdia.com/zulia/ricardo-portillo-compone-vamos-a-orar-venezuela-y-adelanta-que-no-le-preocupan-las-criticas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/YTYT.webp?x74346"
+      "title": "Autorizan cremación de los restos del preso político José Breijo a casi dos meses de su fallecimiento",
+      "link": "https://noticialdia.com/al-dia/autorizan-cremacion-de-los-restos-del-preso-politico-jose-breijo-a-casi-dos-meses-de-su-fallecimiento/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-7-16.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Agente de ICE disparó a un inmigrante venezolano en Austin, Texas, según fuente",
-      "link": "https://cnnespanol.cnn.com/2026/09/20/eeuu/tiroteo-ice-austin-texas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-20t210206z-741865908-rc23nnaux1pg-rtrmadp-3-texas-shooting-20260920213213463.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "CNN, MS NOW y Politico demandan al Gobierno de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/09/21/eeuu/cnn-msnbc-y-politico-demandaran-gobierno-trump-veto-casa-blanca-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295498263-20260921102652881.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONTINENTAL RESOURCES INVERTIRÁ $ 2.000 MILLONES EN LA FAJA PETROLÍFERA DEL ORINOCO",
-      "link": "https://noticierodigital.com/2026/09/continental-resources-invertira-2-000-millones-en-la-faja-petrolifera-del-orinoco/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/chris-wright-eeuu-3-627x376.jpg"
+      "title": "OVP DENUNCIÓ MUERTE DE PRIVADO EN CÁRCEL EL MARITE: TENÍA PRESUNTA TUBERCULOSIS",
+      "link": "https://noticierodigital.com/2026/09/ovp-denuncio-muerte-de-privado-en-carcel-el-marite-tenia-presunta-tuberculosis/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/el-marite-zulia-prision-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide un “generoso compromiso” internacional para asistir a Somalia",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-un-generoso-compromiso-internacional-para-asistir-a-somalia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/55c5305d88e2066dd3b319547bb3cd0174cd8103-scaled.jpg"
+      "title": "Gobierno de Trump investiga disparos de agente ICE a migrante venezolano que repartía comida",
+      "link": "https://laverdad.com/gobierno-de-trump-investiga-disparos-de-agente-ice-a-migrante-venezolano-que-repartia-comida/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Agente.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Periodista herido en ataque a camioneta en carretera Aculco-Acambay, México",
-      "link": "https://diarioversionfinal.com/mundo/periodista-herido-en-ataque-a-camioneta-en-carretera-aculco-acambay-mexico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2016/06/Disparo-Versión-Final-730x410-650x3651.jpg"
+      "title": "Fiscal chileno afirma que Diosdado Cabello encargó al Tren de Aragua matar a Ronald Ojeda",
+      "link": "https://diarioversionfinal.com/mundo/fiscal-chileno-afirma-que-cabello-encargo-al-tren-de-aragua-matar-a-ronald-ojeda/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/baAidi4V-descarga-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-21T09:39:40.100Z"
+  "lastUpdate": "2026-09-21T16:14:43.517Z"
 }
