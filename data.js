@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 21 Septiembre 2026"
     },
     "binance": {
-      "usdt": "945,00"
+      "usdt": "945,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Homenaje sobre la pista: El atletismo zuliano celebró la trayectoria de Yunaira Piña",
-      "link": "https://noticialdia.com/deportes/homenaje-sobre-la-pista-el-atletismo-zuliano-celebro-la-trayectoria-de-yunaira-pina/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260920_173154_0000.webp?x74346"
+      "title": "Ricardo Portillo compone \"Vamos a orar, Venezuela\" y adelanta que no le preocupan las críticas",
+      "link": "https://noticialdia.com/zulia/ricardo-portillo-compone-vamos-a-orar-venezuela-y-adelanta-que-no-le-preocupan-las-criticas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/YTYT.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Agente de ICE dispara a una persona en Austin, Texas, según la Policía",
+      "title": "Agente de ICE disparó a un inmigrante venezolano en Austin, Texas, según fuente",
       "link": "https://cnnespanol.cnn.com/2026/09/20/eeuu/tiroteo-ice-austin-texas-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-20t210206z-741865908-rc23nnaux1pg-rtrmadp-3-texas-shooting-20260920213213463.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela y la Asociación de Estados del Caribe estrechan alianzas  en favor del Caribe",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-la-asociacion-de-estados-del-caribe-estrechan-alianzas-en-favor-del-caribe",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copia-de-ltimahora---noticiasvenevision-carrusel-10-62332a.jpg"
+      "title": "Fiscalía y CICPC otorgan el permiso para la cremación de los restos de José Breijo tras casi dos meses de gestiones",
+      "link": "https://noticiasvenevision.com/noticias/politica/fiscalia-y-cicpc-otorgan-el-permiso-para-la-cremacion-de-los-restos-de-jose-breijo-tras-casi-dos-meses-de-gestiones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/111-ca1bb8.png"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Economía iraní se contrae 10,1 % en medio de la guerra y las sanciones de EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/economia-irani-se-contrae-101-en-medio-de-la-guerra-y-las-sanciones-de-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Iran-economia-20-09-2026-750x430.jpg"
+      "title": "Preso un venezolano señalado por asesinato de periodista y candidata en Perú",
+      "link": "https://diarioversionfinal.com/mundo/preso-un-venezolano-senalado-por-asesinato-de-periodista-y-candidata-en-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Vzlano-preso-en-Peru-20-09-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-20T23:01:44.903Z"
+  "lastUpdate": "2026-09-21T03:37:31.212Z"
 };
