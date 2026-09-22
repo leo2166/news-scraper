@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 22 Septiembre 2026"
     },
     "binance": {
-      "usdt": "953,90"
+      "usdt": "954,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La ONU reclama al estado venezolano terminar con la censura y el bloqueo de medios",
-      "link": "https://www.infobae.com/venezuela/2026/09/21/la-onu-reclama-al-estado-venezolano-terminar-con-la-censura-y-el-bloqueo-de-medios/",
-      "image": "https://www.infobae.com/resizer/v2/OOC2KXPAJVHQJGXGWY7X46E4HU.jpg?auth=71e39a18023fb1e7411a0ca3459f9ad0906247b2b056e64f0d8b2280f3c904a2&smart=true&width=350&height=197&quality=85"
+      "title": "Delcy Rodríguez se reunió con Guterres y organismos financieros internacionales antes del inicio de la Asamblea General de la ONU",
+      "link": "https://www.infobae.com/venezuela/2026/09/22/delcy-rodriguez-se-reunio-con-guterres-y-organismos-financieros-internacionales-antes-del-inicio-de-la-asamblea-general-de-la-onu/",
+      "image": "https://www.infobae.com/resizer/v2/Q6ENP6WR45H5ZKP7QAXOYN7T3Q.jfif?auth=30460d1ed579f23e6ac4430e04fb14f8a9bdb473ae99a95e463424d829bdd929&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "¡Postal de ensueño! Así se vio el majestuoso atardecer naranja que enamoró a Machiques",
-      "link": "https://noticialdia.com/al-dia/postal-de-ensueno-asi-se-vio-el-majestuoso-atardecer-naranja-que-enamoro-a-machiques/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-41-1.webp?x74346"
+      "title": "Atacó al taxista y le rompió el teléfono mientras subía a una pasajera recién operada: Las autoridades buscan al responsable",
+      "link": "https://noticialdia.com/sucesos/ataco-al-taxista-y-le-rompio-el-telefono-mientras-subia-a-una-pasajera-recien-operada-las-autoridades-buscan-al-responsable/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-43-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán participará de la asamblea de la ONU en medio de tensiones con EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/09/21/mundo/presidente-iran-asamblea-onu-nueva-york-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295282804-1-20260921215524417.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "“Lo enviaron a un centro de ICE con una bala en la espalda”: las claves del caso de Wilber Garcés",
+      "link": "https://cnnespanol.cnn.com/2026/09/21/eeuu/wilber-garces-perez-repartidor-venezolano-baleado-ice-austin-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/wilber-rafael-garces-perez-final-20260921015511707.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Organizaciones de la Sociedad Civil solicitan renovación de Misión de Determinación de los Hechos de la ONU en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/organizaciones-de-la-sociedad-civil-solicitan-renovacion-de-mision-de-determinacion-de-los-hechos-de-la-onu-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_6726-c8512f.jpeg"
+      "title": "Subsecretario de Estado de EE.UU. sostiene reunión con canciller venezolano para abordar cooperación económica e inversiones",
+      "link": "https://noticiasvenevision.com/noticias/politica/subsecretario-de-estado-de-eeuu-sostiene-reunion-con-canciller-venezolano-para-abordar-cooperacion-economica-e-inversiones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hsxoz2iwqaaihdj-bb3ad4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "INCENDIARON SEDE POLICIAL EN EL MANTECO TRAS MUERTE DE UN NIÑO Y DETENCIÓN DE SU PADRE",
-      "link": "https://noticierodigital.com/2026/09/incendiaron-sede-policial-en-el-manteco-tras-muerte-de-un-nino-y-detencion-de-su-padre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/incendio-el-manteco-bolivar-627x376.jpg"
+      "title": "STALIN GONZÁLEZ EXIGIÓ CONOCER CUÁNDO LOS ACUERDOS COMENZARÁN A GENERAR RESULTADOS",
+      "link": "https://noticierodigital.com/2026/09/stalin-gonzalez-exigio-conocer-cuando-los-acuerdos-comenzaran-a-generar-resultados/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/stalin-gonzalez-efe-venezuela.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Abelardo de la Espriella cuestiona gasto de la JEP por arriendo de su sede en Bogotá",
-      "link": "https://diarioversionfinal.com/mundo/abelardo-de-la-espriella-cuestiona-gasto-de-la-jep-por-arriendo-de-su-sede-en-bogota/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/ABELARDO-750x430.jpeg"
+      "title": "Trump lanza su plataforma Trump TV en medio de veto a medios tradicionales",
+      "link": "https://diarioversionfinal.com/mundo/trump-lanza-su-plataforma-trump-tv-en-medio-de-veto-a-medios-tradicionales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/W1xI6ZwH-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-21T23:51:04.002Z"
+  "lastUpdate": "2026-09-22T03:35:50.293Z"
 };
