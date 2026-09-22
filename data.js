@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 22 Septiembre 2026"
     },
     "binance": {
-      "usdt": "957,00"
+      "usdt": "963,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernación del Zulia rehabilitó pabellones y unidad de cuidados intensivos del Hospital Central \"Dr. Antonio Urquinaona\"",
-      "link": "https://noticialdia.com/zulia/gobernacion-del-zulia-rehabilito-pabellones-y-unidad-de-cuidados-intensivos-del-hospital-central-dr-antonio-urquinaona/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/7f616da3-101e-4bf8-8b75-e48272140394-convertido-a-1024x720-1.webp?x74346"
+      "title": "Los Herederos de La Gaita presentan «El cofre de mis riquezas», un tesoro musical para este 2026",
+      "link": "https://noticialdia.com/entretenimiento/farandula/los-herederos-de-la-gaita-presentan-el-cofre-de-mis-riquezas-un-tesoro-musical-para-este-2026/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/WhatsApp-Image-2026-09-22-at-1.11.43-PM.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Lula da Silva en la ONU: “Brasil no cabe en el patio trasero de nadie”",
+      "title": "Trump dice que tiene por delante una \"gran decisión\" sobre Irán",
       "link": "https://cnnespanol.cnn.com/2026/09/22/mundo/live-news/asamblea-general-onu-en-vivo-trump-lula-da-silva-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296026458.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/onu-sep-22.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Subsecretario de Estado de EE.UU. sostiene reunión con canciller venezolano para abordar cooperación económica e inversiones",
-      "link": "https://noticiasvenevision.com/noticias/politica/subsecretario-de-estado-de-eeuu-sostiene-reunion-con-canciller-venezolano-para-abordar-cooperacion-economica-e-inversiones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hsxoz2iwqaaihdj-bb3ad4.jpg"
+      "title": "Sociedad civil y dirigentes políticos se movilizan ante la ONU para exigir fecha de elecciones presidenciales",
+      "link": "https://noticiasvenevision.com/noticias/politica/sociedad-civil-y-dirigentes-politicos-se-movilizan-ante-la-onu-para-exigir-fecha-de-elecciones-presidenciales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_av3bsoav3bsoav3b-abcf7a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EMBAJADA DE VENEZUELA EN ESPAÑA SE DESMARCA DEL DETENIDO CON 50 KG DE COCAÍNA EN MADRID: «ERA UN EXFUNCIONARIO»",
-      "link": "https://noticierodigital.com/2026/09/embajada-de-venezuela-en-espana-se-desmarca-del-detenido-con-50-kg-de-cocaina-en-madrid-era-un-exfuncionario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/embajadadevenezuelaenespana-627x376.jpg"
+      "title": "SOLO 25% DE LAS EMPRESAS QUÍMICAS PLANEA AUMENTAR INVERSIONES Y CONTRATAR MÁS PERSONAL ",
+      "link": "https://noticierodigital.com/2026/09/solo-25-de-las-empresas-quimicas-planea-aumentar-inversiones-y-contratar-mas-personal/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Diseno-sin-titulo-7-1-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detienen en Madrid a exfuncionario venezolano con 50 kilos de cocaína tras identificarse como diplomático",
-      "link": "https://diarioversionfinal.com/mundo/detienen-en-madrid-a-exfuncionario-venezolano-con-50-kilos-de-cocaina-tras-identificarse-como-diplomatico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-22T064542.989-678x430.jpg"
+      "title": "Amnistía Internacional advierte que excarcelaciones en Venezuela no representan todavía un cambio estructural",
+      "link": "https://diarioversionfinal.com/mundo/amnistia-internacional-advierte-que-excarcelaciones-en-venezuela-no-representan-todavia-un-cambio-estructural/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/202605americas_venezuela_amnestylaw-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-22T14:23:21.097Z"
+  "lastUpdate": "2026-09-22T18:32:25.271Z"
 };
