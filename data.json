@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "852,42",
-      "eur": "978,17",
-      "fechaValor": "Martes, 22 Septiembre 2026"
+      "usd": "853,50",
+      "eur": "976,55",
+      "fechaValor": "Miércoles, 23 Septiembre 2026"
     },
     "binance": {
-      "usdt": "963,00"
+      "usdt": "962,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Advierten alza acelerada de precios en alquileres y ventas de inmuebles en la Guaira",
-      "link": "https://www.bancaynegocios.com/advierten-alza-acelerada-de-precios-en-alquileres-y-ventas-de-inmuebles-en-la-guaira/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/la-guaira-1.jpeg"
+      "title": "ASOQUIM: 76,5% de las empresas químicas y petroquímicas operan a menos de 40% de capacidad",
+      "link": "https://www.bancaynegocios.com/asoquim-76coma5-porciento-de-las-empresas-quimicas-y-petroquimicas-operan-a-menos-de-40-porciento-de-capacidad/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/ReinadoGabaldon-2026.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Los Herederos de La Gaita presentan «El cofre de mis riquezas», un tesoro musical para este 2026",
-      "link": "https://noticialdia.com/entretenimiento/farandula/los-herederos-de-la-gaita-presentan-el-cofre-de-mis-riquezas-un-tesoro-musical-para-este-2026/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/WhatsApp-Image-2026-09-22-at-1.11.43-PM.webp?x74346"
+      "title": "Por qué CAP homenajeó a Bolívar en la ONU",
+      "link": "https://noticialdia.com/al-dia/por-que-cap-homenajeo-a-bolivar-en-la-onu/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/retertert.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Sociedad civil y dirigentes políticos se movilizan ante la ONU para exigir fecha de elecciones presidenciales",
-      "link": "https://noticiasvenevision.com/noticias/politica/sociedad-civil-y-dirigentes-politicos-se-movilizan-ante-la-onu-para-exigir-fecha-de-elecciones-presidenciales",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_av3bsoav3bsoav3b-abcf7a.jpg"
+      "title": "Delegación de la AN de 2015 y Conferencia Episcopal abordan situación de derechos humanos y liberación de presos políticos",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-de-la-an-de-2015-y-conferencia-episcopal-abordan-situacion-de-derechos-humanos-y-liberacion-de-presos-politicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-22-at-2.40.59-pm-c31867.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SOLO 25% DE LAS EMPRESAS QUÍMICAS PLANEA AUMENTAR INVERSIONES Y CONTRATAR MÁS PERSONAL ",
-      "link": "https://noticierodigital.com/2026/09/solo-25-de-las-empresas-quimicas-planea-aumentar-inversiones-y-contratar-mas-personal/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Diseno-sin-titulo-7-1-627x376.png"
+      "title": "BID BUSCA APROBAR PRÉSTAMO DE USD $ 2.500 MILLONES PARA VENEZUELA, SEGÚN REUTERS",
+      "link": "https://noticierodigital.com/2026/09/bid-busca-aprobar-prestamo-de-usd-2-500-millones-para-venezuela-segun-reuters/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Ilan-Goldfajn-Delcy-rodriguez-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Venezolano herido por ICE: “No he recibido la ayuda médica necesaria”",
-      "link": "https://laverdad.com/venezolano-herido-por-ice-no-he-recibido-la-ayuda-medica-necesaria/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Wilber-Garces-Perez.jpg"
+      "title": "Piden apoyo para repatriar cuerpo de zuliano que falleció en trágico accidente en EE. UU.",
+      "link": "https://laverdad.com/piden-apoyo-para-repatriar-cuerpo-de-zuliano-que-fallecio-en-tragico-accidente-en-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/zuliano-fallecido.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Amnistía Internacional advierte que excarcelaciones en Venezuela no representan todavía un cambio estructural",
-      "link": "https://diarioversionfinal.com/mundo/amnistia-internacional-advierte-que-excarcelaciones-en-venezuela-no-representan-todavia-un-cambio-estructural/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/202605americas_venezuela_amnestylaw-750x430.jpg"
+      "title": "Delcy recorre el hemiciclo de la ONU para saludar a Pedro Sánchez",
+      "link": "https://diarioversionfinal.com/mundo/delcy-recorre-el-hemiciclo-de-la-onu-para-saludar-a-pedro-sanchez/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Delcy-Rodriguez-Pedro-Sanchez-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-22T18:32:25.271Z"
+  "lastUpdate": "2026-09-22T21:48:14.038Z"
 }
