@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "“Lo enviaron a un centro de ICE con una bala en la espalda”: las claves del caso de Wilber Garcés",
-      "link": "https://cnnespanol.cnn.com/2026/09/21/eeuu/wilber-garces-perez-repartidor-venezolano-baleado-ice-austin-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/wilber-rafael-garces-perez-final-20260921015511707.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Un mundo en caos mientras Trump habla hoy ante la ONU",
+      "link": "https://cnnespanol.cnn.com/2026/09/22/mundo/mundo-trump-acelerando-caos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2295328004-20260922045642063.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/W1xI6ZwH-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-22T03:35:50.293Z"
+  "lastUpdate": "2026-09-22T09:04:20.876Z"
 };
