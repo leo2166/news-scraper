@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "ASOQUIM: 76,5% de las empresas químicas y petroquímicas operan a menos de 40% de capacidad",
-      "link": "https://www.bancaynegocios.com/asoquim-76coma5-porciento-de-las-empresas-quimicas-y-petroquimicas-operan-a-menos-de-40-porciento-de-capacidad/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/ReinadoGabaldon-2026.jpeg"
+      "title": "\"Reunión histórica\": Rodríguez y Trump hablaron sobre la cooperación en áreas estratégicas",
+      "link": "https://www.bancaynegocios.com/reunion-historica-rodriguez-y-trump-hablaron-sobre-la-cooperacion-en-areas-estrategicas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/REUNION-TRUMP-DELCY-2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez se reunió con Guterres y organismos financieros internacionales antes del inicio de la Asamblea General de la ONU",
-      "link": "https://www.infobae.com/venezuela/2026/09/22/delcy-rodriguez-se-reunio-con-guterres-y-organismos-financieros-internacionales-antes-del-inicio-de-la-asamblea-general-de-la-onu/",
-      "image": "https://www.infobae.com/resizer/v2/Q6ENP6WR45H5ZKP7QAXOYN7T3Q.jfif?auth=30460d1ed579f23e6ac4430e04fb14f8a9bdb473ae99a95e463424d829bdd929&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump se reunió con Delcy Rodríguez en Nueva York por primera vez desde la captura de Nicolás Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/09/23/donald-trump-se-reunio-con-delcy-rodriguez-en-nueva-york-por-primera-vez-desde-la-captura-de-nicolas-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/ZIVENO56JFGMBJHXTUVWGMB5IU.jfif?auth=10793d0b209c5ac39af41824d19ea0a3b3b1b51924ebb89c6aafa1dcb8be5efb&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Arrancan en La Guaira las operaciones de la firma Miyamoto junto a ingenieros venezolanos para la remoción de escombros",
-      "link": "https://noticialdia.com/principal/arrancan-en-la-guaira-las-operaciones-de-la-firma-miyamoto-junto-a-ingenieros-venezolanos-para-la-remocion-de-escombros/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-5-5.webp?x74346"
+      "title": "Eugenio Suárez alcanza los 350 jonrones en Grandes Ligas y se une a un exclusivo grupo",
+      "link": "https://noticialdia.com/deportes/eugenio-suarez-alcanza-los-350-jonrones-en-grandes-ligas-y-se-une-a-un-exclusivo-grupo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260922_231427_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Los presidentes latinoamericanos que llegan a la ONU alineados con Trump",
-      "link": "https://cnnespanol.cnn.com/2026/09/22/latinoamerica/derecha-america-latina-alineada-trump-dificil-gobernar-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260922-presidentes-latam-onu-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Las afirmaciones falsas de Trump ante la ONU",
+      "link": "https://cnnespanol.cnn.com/2026/09/22/eeuu/afirmaciones-falsas-trump-onu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/onu-20260922221911420.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delegación de la AN de 2015 y Conferencia Episcopal abordan situación de derechos humanos y liberación de presos políticos",
-      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-de-la-an-de-2015-y-conferencia-episcopal-abordan-situacion-de-derechos-humanos-y-liberacion-de-presos-politicos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-22-at-2.40.59-pm-c31867.jpeg"
+      "title": "Primera imagen del encuentro entre la presidenta (E) de Venezuela Delcy Rodríguez y el presidente de EE.UU. Donald Trump",
+      "link": "https://noticiasvenevision.com/noticias/politica/primera-imagen-del-encuentro-entre-la-presidenta-e-de-venezuela-delcy-rodriguez-y-el-presidente-de-eeuu-donald-trump",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sostuvimos-una-histrica-reunin-con-el-presidente-de-los-estados-unidos-donald-trump-con-quie-9c83bb.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEFENSORA DEL PUEBLO SE REUNIÓ CON PROVEA PARA ABORDAR TEMAS DE DD. HH.",
-      "link": "https://noticierodigital.com/2026/09/defensora-del-pueblo-se-reunio-con-provea-para-abordar-temas-de-dd-hh/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/oscar-murillo-provea-defensoria-del-pueblo-eglee-gonzalez-lobato-627x376.jpg"
+      "title": "JUEZ FIJÓ FECHA PARA AUDIENCIA SOBRE LA DEPORTACIÓN DEL VENEZOLANO BALEADO POR ICE",
+      "link": "https://noticierodigital.com/2026/09/juez-fijo-fecha-para-audiencia-sobre-la-deportacion-del-venezolano-baleado-por-ice/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/wilber-perez-ice-texas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Kast: “Venezuela tiene por delante una oportunidad histórica de reencontrarse con sus mejores tradiciones democráticas”",
-      "link": "https://diarioversionfinal.com/mundo/kast-venezuela-tiene-por-delante-una-oportunidad-historica-de-reencontrarse-con-sus-mejores-tradiciones-democraticas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Jose-Antonio-Kast-22-09-2026-750x430.png"
+      "title": "Lula sobre Delcy Rodríguez: \"Pareciera que Estados Unidos es el jefe\"",
+      "link": "https://diarioversionfinal.com/mundo/lula-sobre-delcy-rodriguez-pareciera-que-estados-unidos-es-el-jefe/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/LUIZ-INACIO-LULA.jpeg"
     }
   ],
-  "lastUpdate": "2026-09-23T00:02:15.012Z"
+  "lastUpdate": "2026-09-23T05:32:21.984Z"
 };
