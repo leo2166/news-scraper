@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 23 Septiembre 2026"
     },
     "binance": {
-      "usdt": "962,50"
+      "usdt": "964,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Por qué CAP homenajeó a Bolívar en la ONU",
-      "link": "https://noticialdia.com/al-dia/por-que-cap-homenajeo-a-bolivar-en-la-onu/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/retertert.webp?x74346"
+      "title": "Arrancan en La Guaira las operaciones de la firma Miyamoto junto a ingenieros venezolanos para la remoción de escombros",
+      "link": "https://noticialdia.com/principal/arrancan-en-la-guaira-las-operaciones-de-la-firma-miyamoto-junto-a-ingenieros-venezolanos-para-la-remocion-de-escombros/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-5-5.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump dice que tiene por delante una \"gran decisión\" sobre Irán",
-      "link": "https://cnnespanol.cnn.com/2026/09/22/mundo/live-news/asamblea-general-onu-en-vivo-trump-lula-da-silva-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/onu-sep-22.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los presidentes latinoamericanos que llegan a la ONU alineados con Trump",
+      "link": "https://cnnespanol.cnn.com/2026/09/22/latinoamerica/derecha-america-latina-alineada-trump-dificil-gobernar-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260922-presidentes-latam-onu-trump.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BID BUSCA APROBAR PRÉSTAMO DE USD $ 2.500 MILLONES PARA VENEZUELA, SEGÚN REUTERS",
-      "link": "https://noticierodigital.com/2026/09/bid-busca-aprobar-prestamo-de-usd-2-500-millones-para-venezuela-segun-reuters/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Ilan-Goldfajn-Delcy-rodriguez-627x376.jpg"
+      "title": "DEFENSORA DEL PUEBLO SE REUNIÓ CON PROVEA PARA ABORDAR TEMAS DE DD. HH.",
+      "link": "https://noticierodigital.com/2026/09/defensora-del-pueblo-se-reunio-con-provea-para-abordar-temas-de-dd-hh/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/oscar-murillo-provea-defensoria-del-pueblo-eglee-gonzalez-lobato-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Delcy recorre el hemiciclo de la ONU para saludar a Pedro Sánchez",
-      "link": "https://diarioversionfinal.com/mundo/delcy-recorre-el-hemiciclo-de-la-onu-para-saludar-a-pedro-sanchez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Delcy-Rodriguez-Pedro-Sanchez-750x430.jpg"
+      "title": "Kast: “Venezuela tiene por delante una oportunidad histórica de reencontrarse con sus mejores tradiciones democráticas”",
+      "link": "https://diarioversionfinal.com/mundo/kast-venezuela-tiene-por-delante-una-oportunidad-historica-de-reencontrarse-con-sus-mejores-tradiciones-democraticas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Jose-Antonio-Kast-22-09-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-09-22T21:48:14.038Z"
+  "lastUpdate": "2026-09-23T00:02:15.012Z"
 };
