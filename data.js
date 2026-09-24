@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 24 Septiembre 2026"
     },
     "binance": {
-      "usdt": "964,20"
+      "usdt": "965,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,46 +21,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Sin definir una fecha, Delcy Rodríguez dijo que habrá elecciones en Venezuela y celebró el acuerdo petrolero con Estados Unidos",
-      "link": "https://www.infobae.com/venezuela/2026/09/24/sin-definir-una-fecha-delcy-rodriguez-dijo-que-habra-elecciones-en-venezuela-y-celebro-el-acuerdo-petrolero-con-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/BTG627KWLZA27BIGWODW4Z65CY.JPG?auth=a62c29b78fcc2e0f96bb7b4a3d5ffdfb03d24d3ed21ba3a4d816bd4fdb69ec96&smart=true&width=350&height=197&quality=85"
+      "title": "Venezolanos protestaron ante el CNE para exigir elecciones presidenciales y que se permita el regreso de María Corina Machado",
+      "link": "https://www.infobae.com/venezuela/2026/09/24/venezolanos-protestaron-ante-el-cne-para-exigir-elecciones-presidenciales-y-que-se-permita-el-regreso-de-maria-corina-machado/",
+      "image": "https://www.infobae.com/resizer/v2/ATIS5LL4GNGUFHDPTSPCDMT3ZM.jpg?auth=ce97a60c9681f02d64c64a158ac3fc0a6a416c25f52e8eddff44927e0f1ce364&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El calor no duerme: Hasta altas horas de la madrugada es extremo y sofocante en Maracaibo",
-      "link": "https://noticialdia.com/al-dia/el-calor-no-duerme-hasta-altas-horas-de-la-madrugada-es-extremo-y-sofocante-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-2026-09-24T083051.841.webp?x74346"
+      "title": "Bachaquero y Mene Grande, un año durmiendo con la puerta abierta",
+      "link": "https://noticialdia.com/principal/bachaquero-y-mene-grande-un-ano-durmiendo-con-la-puerta-abierta/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-37-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Juez ordena que se restablezca el acceso de CNN a la Casa Blanca",
+      "title": "La Casa Blanca permite el acceso a CNN tras orden del juez",
       "link": "https://cnnespanol.cnn.com/2026/09/24/eeuu/juez-trump-cnn-ms-now-politico-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295498690-20260924053120765.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/corresponsal-casa-blanca.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Emilio Figueredo sobre la intervención de Delcy Rodríguez en la ONU: “Fue irrelevante”",
-      "link": "https://noticiasvenevision.com/noticias/politica/emilio-figueredo-sobre-la-intervencion-de-delcy-rodriguez-en-la-onu-fue-irrelevante",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-1-318992.jpg"
+      "title": "Manifestantes se concentran en Plaza Venezuela para exigir la fijación de una fecha clara para la realización de elecciones en el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/manifestantes-se-concentran-en-plaza-venezuela-para-exigir-la-fijacion-de-una-fecha-clara-para-la-realizacion-de-elecciones-en-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/depositphotos_477312492-stock-photo-silhouette-of-arms-raised-waving-2dcf5e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPOCONSTRUCCIÓN 2026 BUSCA CERRAR NEGOCIOS HASTA ESTE 27 DE SEPTIEMBRE",
-      "link": "https://noticierodigital.com/2026/09/expoconstruccion-2026-busca-cerrar-negocios-hasta-este-27-de-septiembre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Diseno-sin-titulo-1-19-627x376.png"
+      "title": "GUSTAVO DUQUE ABOGA POR UN CRONOGRAMA ELECTORAL AMPLIO",
+      "link": "https://noticierodigital.com/2026/09/gustavo-duque-aboga-por-un-cronograma-electoral-amplio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/gustavo-duque-chacao-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Abogada de venezolano herido por ICE denuncia falta de atención médica: “Está muy grave”",
-      "link": "https://laverdad.com/abogada-de-venezolano-herido-por-ice-denuncia-falta-de-atencion-medica-esta-muy-grave/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Garces.jpg"
+      "title": "Trump ofrece a Xi Jinping trabajar para un “futuro mejor”",
+      "link": "https://laverdad.com/trump-ofrece-a-xi-jinping-trabajar-para-un-futuro-mejor/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Donald-Trump-Xi-Jinping-Casa-Blanca.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE. UU. dice que \"no hay fecha límite\" para elecciones en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-dice-que-no-hay-fecha-limite-para-elecciones-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/HS36TjVWcAAWBkF-750x430.jpeg"
+      "title": "Sheinbaum descarta operación de empresas estadounidenses para cobrar multas a migrantes",
+      "link": "https://diarioversionfinal.com/mundo/sheinbaum-descarta-operacion-de-empresas-estadounidenses-para-cobrar-multas-a-migrantes/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/yu3SwDr1-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-24T13:16:54.220Z"
+  "lastUpdate": "2026-09-24T18:14:22.707Z"
 };
