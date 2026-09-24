@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 24 Septiembre 2026"
     },
     "binance": {
-      "usdt": "966,00"
+      "usdt": "967,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Marco Rubio confirmó que la transición en Venezuela “está en marcha” y detalló las condiciones para celebrar elecciones",
-      "link": "https://www.infobae.com/estados-unidos/2026/09/23/marco-rubio-confirmo-que-la-transicion-en-venezuela-ya-esta-en-marcha-y-detallo-las-condiciones-para-celebrar-elecciones/",
-      "image": "https://www.infobae.com/resizer/v2/APUWT23LXJCURHA7QYIVM2PMYQ.JPG?auth=a0b2966ada3f209434fff43970b39b05e8433d5949d565cd6c7e75f092e361cd&smart=true&width=350&height=197&quality=85"
+      "title": "Sin definir una fecha, Delcy Rodríguez dijo que habrá elecciones en Venezuela y celebró el acuerdo petrolero con Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/09/24/sin-definir-una-fecha-delcy-rodriguez-dijo-que-habra-elecciones-en-venezuela-y-celebro-el-acuerdo-petrolero-con-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/BTG627KWLZA27BIGWODW4Z65CY.JPG?auth=a62c29b78fcc2e0f96bb7b4a3d5ffdfb03d24d3ed21ba3a4d816bd4fdb69ec96&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Después de 10 horas de tensión: Arrestan al sujeto que secuestró a dos niñas luego de matar a sus padres en Barinas",
-      "link": "https://noticialdia.com/?p=672751",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
+      "title": "Alcaldía de San Francisco será patrocinante principal de la XXVI Caminata por la Vida de Famac",
+      "link": "https://noticialdia.com/al-dia/alcaldia-de-san-francisco-sera-patrocinante-principal-de-la-xxvi-caminata-por-la-vida-de-famac/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-34-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Irán advierte en la ONU que “no se doblegará” ante Trump",
-      "link": "https://cnnespanol.cnn.com/2026/09/23/mundo/presidente-iran-discurso-onu-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296136454-20260923205546505.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "\"En Venezuela habrá elecciones\", afirma Delcy Rodríguez en la ONU",
+      "link": "https://cnnespanol.cnn.com/2026/09/23/mundo/live-news/asamblea-general-onu-discursos-rodriguez-iran-ucrania-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26266836312668.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Defensora del Pueblo y Provea abordan agenda de derechos humanos y reforma judicial en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/defensora-del-pueblo-y-provea-abordan-agenda-de-derechos-humanos-y-reforma-judicial-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/de3e4411-a4f8-4663-8b6f-f62e3d6eb21f-ef14cf.jpg"
+      "title": "Venezuela y Países Bajos incrementarán cooperación económica",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-paises-bajos-incrementaran-cooperacion-economica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hs7sdmxxuaadnaz-147480.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ABORDÓ COOPERACIÓN ECONÓMICA CON EL PRIMER MINISTRO DE PAÍSES BAJOS",
-      "link": "https://noticierodigital.com/2026/09/delcy-rodriguez-abordo-cooperacion-economica-con-el-primer-ministro-de-paises-bajos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/rob-jetten-paises-bajos-delcy-rodriguez-venezuela-627x376.jpg"
+      "title": "DEFENSORA DEL PUEBLO PIDIÓ UNA JUSTICIA PENAL «HUMANIZADA» Y CON PENAS PROPORCIONALES",
+      "link": "https://noticierodigital.com/2026/09/defensora-del-pueblo-pidio-una-justicia-penal-humanizada-y-con-penas-proporcionales/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/consulta-nacional-justicia-penal-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-23T123436.497-750x370.jpg"
     }
   ],
-  "lastUpdate": "2026-09-23T22:43:34.735Z"
+  "lastUpdate": "2026-09-24T01:08:10.048Z"
 };
