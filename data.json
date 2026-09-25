@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "855,66",
-      "eur": "972,65",
-      "fechaValor": "Viernes, 25 Septiembre 2026"
+      "usd": "857,01",
+      "eur": "976,90",
+      "fechaValor": "Lunes, 28 Septiembre 2026"
     },
     "binance": {
-      "usdt": "963,00"
+      "usdt": "964,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Polisur fortalece las comunicaciones tácticas y habilita portal web para atención directa a los ciudadanos",
-      "link": "https://noticialdia.com/?p=673372",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/08/Diseno-sin-titulo_20260817_141640_0000.webp"
+      "title": "Desde el 17 de noviembre: Nueva ruta aérea conectará a Maracaibo con Riohacha",
+      "link": "https://noticialdia.com/principal/desde-el-17-de-noviembre-nueva-ruta-aerea-conectara-a-maracaibo-con-riohacha/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/aeropuerto-rio-hacha.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,21 +39,21 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez atribuye fallas eléctricas al impacto de la ola de calor",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-atribuye-apagones-a-ola-de-calor-y-pico-de-demanda-electrica-de-16400-mw",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-25-at-6.23.33-am-827027.jpeg"
+      "title": "Médicos venezolanos solicitan a la delegación de la AN2015 incluir el sector salud en la mesa de diálogo",
+      "link": "https://noticiasvenevision.com/noticias/politica/medicos-venezolanos-solicitan-a-la-delegacion-de-la-an2015-incluir-el-sector-salud-en-la-mesa-de-dialogo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-25-at-12.40.21-pm-35bbb1.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BENJAMÍN RAUSSEO SUFRIÓ UN EPISODIO CARDIOVASCULAR EN ANZOÁTEGUI",
-      "link": "https://noticierodigital.com/2026/09/benjamin-rausseo-sufrio-un-episodio-cardiovascular-en-anzoategui/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/benjamin-rausseo-2-627x376.jpg"
+      "title": "ENRIQUE MÁRQUEZ EXIGE AL GOBIERNO QUE HABLE CLARO A LOS VENEZOLANOS: «¿CUÁL ES EL PLAN PARA RECUPERAR EL SISTEMA ELÉCTRICO?»",
+      "link": "https://noticierodigital.com/2026/09/enrique-marquez-exige-al-gobierno-que-hable-claro-a-los-venezolanos-cual-es-el-plan-para-recuperar-el-sistema-electrico/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/0b23bddd98a72ffe8913602794e31a3a991b6db2w-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV reúne a 250.000 personas en su multitudinario recorrido por París",
-      "link": "https://laverdad.com/leon-xiv-reune-a-250-000-personas-en-su-multitudinario-recorrido-por-paris/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/papa-leon-XVI-scaled.jpg"
+      "title": "Tribunal Supremo permite al gobierno de Trump aplicar un sistema de control de votantes",
+      "link": "https://laverdad.com/tribunal-supremo-permite-al-gobierno-de-trump-aplicar-un-sistema-de-control-de-votantes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/elecciones-legislativas-EE.-UU.jpg"
     },
     {
       "source": "Diario Versión Final",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/bozjxyUs-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-25T16:41:55.387Z"
+  "lastUpdate": "2026-09-25T20:17:35.301Z"
 }
