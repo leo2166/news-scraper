@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 25 Septiembre 2026"
     },
     "binance": {
-      "usdt": "965,00"
+      "usdt": "967,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezolanos protestaron ante el CNE para exigir elecciones presidenciales y que se permita el regreso de María Corina Machado",
-      "link": "https://www.infobae.com/venezuela/2026/09/24/venezolanos-protestaron-ante-el-cne-para-exigir-elecciones-presidenciales-y-que-se-permita-el-regreso-de-maria-corina-machado/",
-      "image": "https://www.infobae.com/resizer/v2/ATIS5LL4GNGUFHDPTSPCDMT3ZM.jpg?auth=ce97a60c9681f02d64c64a158ac3fc0a6a416c25f52e8eddff44927e0f1ce364&smart=true&width=350&height=197&quality=85"
+      "title": "¿Está Venezuela avanzando hacia la democracia?",
+      "link": "https://www.infobae.com/estados-unidos/2026/09/24/esta-venezuela-avanzando-hacia-la-democracia/",
+      "image": "https://www.infobae.com/resizer/v2/ZIVENO56JFGMBJHXTUVWGMB5IU.jfif?auth=10793d0b209c5ac39af41824d19ea0a3b3b1b51924ebb89c6aafa1dcb8be5efb&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Preso dueño de piñatería del centro de Maracaibo por golpear a una cliente que iba a pagar en bolívares",
-      "link": "https://noticialdia.com/al-dia/preso-dueno-de-pinateria-del-centro-de-maracaibo-por-golpear-a-una-cliente-que-iba-a-pagar-en-bolivares/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-Haroldo-2026-09-24T172335.657.webp?x74346"
+      "title": "[EN VIDEO] Clienta cuenta cómo fue agredida por comerciante del casco central y la Dirección de Seguridad Ciudadana fue hasta donde estaba para ponerlo a la orden de la justicia",
+      "link": "https://noticialdia.com/principal/en-video-clienta-cuenta-como-fue-agredida-por-comerciante-del-casco-central-y-la-direccion-de-seguridad-ciudadana-fue-hasta-donde-estaba-para-ponerlo-a-la-orden-de-la-justicia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-8-17.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Netanyahu arremete contra Irán y defiende las acciones de Israel en Gaza",
+      "title": "Irán propone nueva negociación para reabrir el estrecho de Ormuz",
       "link": "https://cnnespanol.cnn.com/2026/09/24/mundo/live-news/asamblea-general-onu-netanyahu-palestina-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/netanyahu-20260924201057387.png?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/598c3733-736a-4508-a207-d961e8eb4e84.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PUERTO DE LA GUAIRA RECUPERÓ HASTA 97 % DE SUS OPERACIONES, INFORMÓ GARCÉS",
-      "link": "https://noticierodigital.com/2026/09/puerto-de-la-guaira-recupero-hasta-97-de-sus-operaciones-informo-garces/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/puerto-la-guaira-627x376.jpg"
+      "title": "LLUVIAS Y FUERTES VIENTOS PROVOCARON CAÍDA DE ÁRBOLES Y DAÑOS EN TECHOS EN CARACAS",
+      "link": "https://noticierodigital.com/2026/09/lluvias-y-fuertes-vientos-provocaron-caida-de-arboles-y-danos-en-techos-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/arboles-caidos-fuertes-lluvias-caracas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ICE oculta la ubicación de 16 mil migrantes con órdenes de deportación",
-      "link": "https://diarioversionfinal.com/mundo/ice-oculta-la-ubicacion-de-16-mil-migrantes-con-ordenes-de-deportacion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/a7fg9si5-image-750x430.jpg"
+      "title": "Exfuncionario chavista en Sucre es el exdiplomático detenido en España con droga",
+      "link": "https://diarioversionfinal.com/mundo/exfuncionario-chavista-en-sucre-es-el-exdiplomatico-detenido-en-espana-con-droga/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Jose-Escorihuela-24-09-2026-1-640x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-24T22:00:29.791Z"
+  "lastUpdate": "2026-09-25T00:28:40.743Z"
 };
