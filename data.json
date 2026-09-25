@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 25 Septiembre 2026"
     },
     "binance": {
-      "usdt": "968,50"
+      "usdt": "968,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@
     },
     {
       "source": "CNN en Español",
-      "title": "Trump apela bloqueo a deportaciones de migrantes a países distintos al de origen",
-      "link": "https://cnnespanol.cnn.com/2026/09/24/eeuu/corte-suprema-a-reanudar-deportaciones-terceros-paises-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295418561-20260924214648793.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Trump parece ofrecer lo opuesto a lo que la mayoría en EE.UU. desean",
+      "link": "https://cnnespanol.cnn.com/2026/09/25/eeuu/estrategia-trump-elecciones-mitad-mandato-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2288266917-20260924235807332-20260925045345204.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Jose-Escorihuela-24-09-2026-1-640x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-25T05:53:29.830Z"
+  "lastUpdate": "2026-09-25T11:17:39.211Z"
 }
