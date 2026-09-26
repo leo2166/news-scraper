@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 28 Septiembre 2026"
     },
     "binance": {
-      "usdt": "967,60"
+      "usdt": "968,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El dirigente opositor venezolano Enrique Márquez exigió al Gobierno un plan de emergencia para reducir los apagones",
-      "link": "https://www.infobae.com/venezuela/2026/09/25/el-dirigente-opositor-venezolano-enrique-marquez-exigio-al-gobierno-un-plan-de-emergencia-para-reducir-los-apagones/",
-      "image": "https://www.infobae.com/resizer/v2/7JNQ34PBURBF5MIXGX2TWHQXCI.JPG?auth=f89291ff7ef2f6c04338aaeda18a8dd58a8ec8411865fd2baeee7182cf29e0b2&smart=true&width=350&height=197&quality=85"
+      "title": "Una ONG denunció que todavía hay más de 70 medios bloqueados en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/09/26/una-ong-denuncio-que-todavia-hay-mas-de-70-medios-bloqueados-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4UBJIOUZIFG2BIZENR7RDEVU7Q.JPG?auth=d5513379f007e955569887dc7730e1720e2399ebe3d826a8594db21f8e0ad3e6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernación benefició a 34 pacientes con cateterismo y angioplastia a través del ‘Plan Corazon Zuliano’",
-      "link": "https://noticialdia.com/al-dia/gobernacion-beneficio-a-34-pacientes-con-cateterismo-y-angioplastia-a-traves-del-plan-corazon-zuliano/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-9-17.webp?x74346"
+      "title": "Corpoelec ejecutará mantenimiento en la línea de transmisión Cuatricentenario – Trinidad este 26-Sep",
+      "link": "https://noticialdia.com/al-dia/corpoelec-ejecutara-mantenimiento-en-la-linea-de-transmision-cuatricentenario-trinidad-este-26-sep/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-66-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Las elecciones de 2026 podrían ser las peores del siglo para los republicanos",
-      "link": "https://cnnespanol.cnn.com/2026/09/25/eeuu/elecciones-intermedias-peores-partido-republicano-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-09-25-132324.png?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Los hitos para América Latina en la Asamblea General de la ONU",
+      "link": "https://cnnespanol.cnn.com/2026/09/25/latinoamerica/asamblea-general-onu-resumen-resultados-america-latina-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/a697b81e-3752-486d-b38f-8e008bd61eb6.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Médicos venezolanos solicitan a la delegación de la AN2015 incluir el sector salud en la mesa de diálogo",
-      "link": "https://noticiasvenevision.com/noticias/politica/medicos-venezolanos-solicitan-a-la-delegacion-de-la-an2015-incluir-el-sector-salud-en-la-mesa-de-dialogo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-09-25-at-12.40.21-pm-35bbb1.jpeg"
+      "title": "Gobierno nacional y AN 2015 anuncian acuerdos tras dialogar en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-y-an-2015-anuncian-acuerdos-tras-dialogar-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-bacce3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO Y AN 2015 MANTIENEN SEGUNDA RONDA DE DIÁLOGO EN CARACAS",
-      "link": "https://noticierodigital.com/2026/09/gobierno-y-an-2015-mantienen-segunda-ronda-de-dialogo-en-caracas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/dialogo-politico-venezuela-627x376.jpg"
+      "title": "VE SIN FILTRO REPORTA QUE 47 SITIOS WEB FUERON DESBLOQUEADOS ESTE VIERNES 25 DE SEPTIEMBRE",
+      "link": "https://noticierodigital.com/2026/09/ve-sin-filtro-reporta-que-47-sitios-web-fueron-desbloqueados-este-viernes-25-de-septiembre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/sin-internet-general-24dic2019.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/NEdSavZK-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-25T23:52:02.682Z"
+  "lastUpdate": "2026-09-26T03:49:35.727Z"
 };
