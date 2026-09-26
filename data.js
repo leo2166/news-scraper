@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 28 Septiembre 2026"
     },
     "binance": {
-      "usdt": "968,90"
+      "usdt": "969,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Corpoelec ejecutará mantenimiento en la línea de transmisión Cuatricentenario – Trinidad este 26-Sep",
-      "link": "https://noticialdia.com/al-dia/corpoelec-ejecutara-mantenimiento-en-la-linea-de-transmision-cuatricentenario-trinidad-este-26-sep/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-66-2.webp?x74346"
+      "title": "Con la jerarquía de campeón: Gaiteros del Zulia debuta en la Liga Superior de Baloncesto ante Costaneros",
+      "link": "https://noticialdia.com/al-dia/con-la-jerarquia-de-campeon-gaiteros-del-zulia-debuta-en-la-liga-superior-de-baloncesto-ante-costaneros/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-70-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La Corte Suprema complica aún más las elecciones de mitad de mandato",
-      "link": "https://cnnespanol.cnn.com/2026/09/25/eeuu/trump-corte-suprema-datos-ciudadania-votantes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/corte-suprema-c-ap26237600924836.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Republicanos temen por su futuro en dos contiendas clave del Senado",
+      "link": "https://cnnespanol.cnn.com/2026/09/26/eeuu/republicanos-preocupacion-senado-estados-clave-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289529930-20260926115249722.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno nacional y AN 2015 anuncian acuerdos tras dialogar en Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-nacional-y-an-2015-anuncian-acuerdos-tras-dialogar-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-bacce3.jpg"
+      "title": "ONG Coalición por los Derechos Humanos y la Democracia confirma excarcelación de al menos 15 personas",
+      "link": "https://noticiasvenevision.com/noticias/politica/ong-coalicion-por-los-derechos-humanos-y-la-democracia-confirma-excarcelacion-de-al-menos-15-personas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rss-efe0a0ba79bbf4810136f33a0918605523fe7000bc0w-68dc12.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VE SIN FILTRO REPORTA QUE 47 SITIOS WEB FUERON DESBLOQUEADOS ESTE VIERNES 25 DE SEPTIEMBRE",
-      "link": "https://noticierodigital.com/2026/09/ve-sin-filtro-reporta-que-47-sitios-web-fueron-desbloqueados-este-viernes-25-de-septiembre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/sin-internet-general-24dic2019.jpg"
+      "title": "EXCARCELARON A SEIS PRESOS POLÍTICOS VINCULADOS A LA «OPERACIÓN GEDEÓN»",
+      "link": "https://noticierodigital.com/2026/09/excarcelaron-a-seis-presos-politicos-vinculados-a-la-operacion-gedeon/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/excarcelacion-presos-politicos-operacion-gedeon-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La lucha contra el antisemitismo debe ser prioridad del nuevo secretario de la ONU",
-      "link": "https://diarioversionfinal.com/mundo/la-lucha-contra-el-antisemitismo-debe-ser-prioridad-del-nuevo-secretario-de-la-onu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/NEdSavZK-image-750x430.jpg"
+      "title": "China exige el fin del bloqueo a Cuba y defiende la soberanía en Medio Oriente",
+      "link": "https://diarioversionfinal.com/mundo/china-exige-el-fin-del-bloqueo-a-cuba-y-defiende-la-soberania-en-medio-oriente/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/SDSpSgL9-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-26T09:11:09.353Z"
+  "lastUpdate": "2026-09-26T14:10:24.833Z"
 };
