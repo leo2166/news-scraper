@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 28 Septiembre 2026"
     },
     "binance": {
-      "usdt": "967,00"
+      "usdt": "965,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Trump dijo que habló con Delcy Rodríguez sobre elecciones en Venezuela durante su reunión en Nueva York",
-      "link": "https://www.infobae.com/venezuela/2026/09/26/trump-dijo-que-hablo-con-delcy-rodriguez-sobre-elecciones-en-venezuela-durante-su-reunion-en-nueva-york/",
-      "image": "https://www.infobae.com/resizer/v2/GSL3TOLKZJB6VFCGHF5PGC5LAQ.jfif?auth=c54efb9f4a1dc1f19abd96409fa83f41731e836222bf79120aa1b2c3c7ac68a9&smart=true&width=350&height=197&quality=85"
+      "title": "La dictadura cubana dijo que ahora considera a Venezuela como un “país amigo”, no un aliado: “Es una palabra demasiado fuerte”",
+      "link": "https://www.infobae.com/cuba/2026/09/26/la-dictadura-cubana-dijo-que-ahora-considera-a-venezuela-como-un-pais-amigo-no-un-aliado-es-una-palabra-demasiado-fuerte/",
+      "image": "https://www.infobae.com/resizer/v2/TB2GSJFZQJAHPOAM5MWAWOC2UA.jpg?auth=5f2df134d3bc63d3673f3b216a59966e3dfe1c7938872b373e6a2d1695eebbb1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El XIII Potazo Chiquinquireño culmina con más de 500 voluntarios desplegados en toda la ciudad y un gran concierto gaitero en la Plazoleta de la Basílica",
-      "link": "https://noticialdia.com/zulia/el-xiii-potazo-chiquinquireno-culmina-con-mas-de-500-voluntarios-desplegados-en-toda-la-ciudad-y-un-gran-concierto-gaitero-en-la-plazoleta-de-la-basilica/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/37cc8912-cfae-4804-9918-50b9f05948d8-convertido-a-1024x720-1.webp?x74346"
+      "title": "Comunidad retiene a presuntos funcionarios policiales e incendia vehículo tras altercado en el municipio Mara",
+      "link": "https://noticialdia.com/principal/comunidad-retiene-a-presuntos-funcionarios-policiales-e-incendia-vehiculo-tras-altercado-en-el-municipio-mara/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-85-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump rechaza la última propuesta de Irán para reabrir el estrecho de Ormuz",
-      "link": "https://cnnespanol.cnn.com/2026/09/26/eeuu/republicanos-preocupacion-senado-estados-clave-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/598c3733-736a-4508-a207-d961e8eb4e84.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Tormenta inusual en el noreste de EE.UU. inunda comunidades costeras",
+      "link": "https://cnnespanol.cnn.com/2026/09/26/clima-y-tiempo/live-news/tormenta-noreste-lluvias-vientos-pronostico-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/d3dbdc37-a66c-4be9-baef-536c2c03bed1.png?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Enrique Márquez aseguró que su presencia durante la detención de «Mimou» Vargas fue accidental",
-      "link": "https://noticiasvenevision.com/noticias/politica/enrique-marquez-aseguro-que-su-presencia-durante-la-detencion-de-mimou-vargas-fue-accidental",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/enrique-marquez-92ae00.jpg"
+      "title": "Balance de Plataforma Unitaria reporta más de 420 presos políticos en el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/balance-de-plataforma-unitaria-reporta-mas-de-420-presos-politicos-en-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/foropenal11-1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "RUSIA CONDENÓ ANTE LA ONU LA CAPTURA DE MADURO Y EXIGIÓ SU LIBERACIÓN",
-      "link": "https://noticierodigital.com/2026/09/rusia-condeno-ante-la-onu-la-captura-de-maduro-y-exigio-su-liberacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/serguei-lavrov-rusia-onu-627x376.jpg"
+      "title": "BENIGNO ALARCÓN: «LA TRANSICIÓN GANÓ CREDIBILIDAD PROCEDIMENTAL»",
+      "link": "https://noticierodigital.com/2026/09/benigno-alarcon-la-transicion-gano-credibilidad-procedimental/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/09/benignoalarcon-renunciarectorescne.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba reitera su disposición al diálogo con Estados Unidos en la ONU",
-      "link": "https://diarioversionfinal.com/mundo/cuba-reitera-su-disposicion-al-dialogo-con-estados-unidos-en-la-onu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/qZOUiZVE-image-750x430.jpg"
+      "title": "Alemania reafirma su apoyo a Ucrania en reunión con Rusia",
+      "link": "https://diarioversionfinal.com/mundo/alemania-reafirma-su-apoyo-a-ucrania-en-reunion-con-rusia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/245mIldw-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-26T18:22:17.609Z"
+  "lastUpdate": "2026-09-26T21:52:26.687Z"
 };
