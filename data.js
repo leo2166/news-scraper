@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 28 Septiembre 2026"
     },
     "binance": {
-      "usdt": "963,00"
+      "usdt": "966,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Reportan vuelco de una camioneta cerca de la Urb. La Faría",
-      "link": "https://noticialdia.com/sucesos/reportan-vuelco-de-una-camioneta-cerca-de-la-urb-la-faria/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/la-faria3-convertido-a-1024x720-1.webp?x74346"
+      "title": "Diócesis de Trujillo anuncia programación para celebrar las fiestas patronales del primer aniversario de la canonización de San José Gregorio Hernández",
+      "link": "https://noticialdia.com/al-dia/diocesis-de-trujillo-anuncia-programacion-para-celebrar-las-fiestas-patronales-del-primer-aniversario-de-la-canonizacion-de-san-jose-gregorio-hernandez/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-2026-09-27T164727.766.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Sobrevivió al terremoto de La Guaira al caer desde un octavo piso con su hijo",
+      "title": "Sobrevivió al terremoto de La Guaira al caer desde un octavo piso",
       "link": "https://cnnespanol.cnn.com/2026/09/27/venezuela/madre-bebe-sobrevivientes-terremoto-milagro-orix",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-09-25-at-15-35-57.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Mesa de análisis en Abriendo Puertas junto a Milos Alcalay, Ángel Alvarado y Ángel Medina",
-      "link": "https://noticiasvenevision.com/noticias/politica/mesa-de-analisis-en-abriendo-puertas-junto-a-milos-alcalay-angel-alvarado-y-angel-medina",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/vv-media-venevision-abriendo-puertas-milos-alcalay-ngel-alvarado-ngel-medina-27sep2026-c71981.jpeg"
+      "title": "Cuba considera que Venezuela “es un país amigo“, “no un aliado”",
+      "link": "https://noticiasvenevision.com/noticias/politica/cuba-considera-que-venezuela-es-un-pais-amigo-no-un-aliado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cuba_venezuela-b47b49.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Esposa e hija de alias Fito son detenidas en Colombia por presunto lavado de activos",
-      "link": "https://diarioversionfinal.com/mundo/esposa-e-hija-de-alias-fito-son-detenidas-en-colombia-por-presunto-lavado-de-activos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/HTPM2crWQAEiBge-750x430.jpg"
+      "title": "Arrestos en Reino Unido evitan un posible ataque terrorista en base de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/arrestos-en-reino-unido-evitan-un-posible-ataque-terrorista-en-base-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/MY0sMlj0-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-27T20:58:25.477Z"
+  "lastUpdate": "2026-09-27T23:44:44.391Z"
 };
