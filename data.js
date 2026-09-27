@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 28 Septiembre 2026"
     },
     "binance": {
-      "usdt": "965,00"
+      "usdt": "963,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez reporta aumento interanual de 4,19% de la producción agropecuaria",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-reporta-aumento-interanual-de-4coma19-porciento-de-la-produccion-agropecuaria/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/DELCY-RODRIGUEZ-EN-PETARE-260926.jpg"
+      "title": "Ciertas condiciones aplican: PIB de Venezuela podría triplicarse o quintuplicarse en una década",
+      "link": "https://www.bancaynegocios.com/ciertas-condiciones-aplican-pib-de-venezuela-podria-triplicarse-o-quintuplicarse-en-una-decada/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2020/12/PROYECCIONES-INFORME.jpg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Un fallecido y dos heridos tras colisión múltiple en la avenida Bicentenario de Higuerote",
-      "link": "https://noticialdia.com/sucesos/un-fallecido-y-dos-heridos-tras-colision-multiple-en-la-avenida-bicentenario-de-higuerote/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-90.webp?x74346"
+      "title": "Llevaba cinco kilos de marihuana en un televisor viejo y efectivos de la Fanb lo capturaron en Táchira",
+      "link": "https://noticialdia.com/sucesos/llevaba-cinco-kilos-de-marihuana-en-un-televisor-viejo-y-efectivos-de-la-fanb-lo-capturaron-en-tachira/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/droga-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Tormenta del noreste genera olas enormes en comunidades costeras",
+      "title": "Tormenta del noreste golpea comunidades costeras de EE.UU.",
       "link": "https://cnnespanol.cnn.com/2026/09/27/clima-y-tiempo/live-news/tormenta-noreste-lluvias-vientos-pronostico-2-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/maria-elvira-salazar-congresista.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/casa-blanca-27-sept.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ REPORTÓ CRECIMIENTO DE 4,19 % EN LA PRODUCCIÓN AGRÍCOLA",
-      "link": "https://noticierodigital.com/2026/09/delcy-rodriguez-reporto-crecimiento-de-419-en-la-produccion-agricola/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/delcy-rodriguez-venezuela-3-627x376.jpg"
+      "title": "METRO DE CARACAS RECORDÓ PROHIBICIÓN DE MASCOTAS TRAS INCIDENTE CON TRABAJADORA",
+      "link": "https://noticierodigital.com/2026/09/metro-de-caracas-recordo-prohibicion-de-mascotas-tras-incidente-con-trabajadora/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/02/metro-de-caracas-palo-verde-foto-archivo-de-el-nacional-14feb2022.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Asesinan a tiros a 2 policías en la región colombiana del Catatumbo",
-      "link": "https://laverdad.com/asesinan-a-tiros-a-2-policias-en-la-region-colombiana-del-catatumbo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Asesinan-a-tiros-a-2-policias-en-la-region-colombiana-del-Catatumbo.jpg"
+      "title": "Papa León XIV pide en Lourdes oración, penitencia y diálogo para alcanzar la paz",
+      "link": "https://laverdad.com/papa-leon-xiv-pide-en-lourdes-oracion-penitencia-y-dialogo-para-alcanzar-la-paz/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/597b905659dabb2b39fa773bb635f10440adc5ff-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán amenaza con castigar a Trump y Netanyahu incluso después de la guerra",
-      "link": "https://diarioversionfinal.com/mundo/iran-amenaza-con-castigar-a-trump-y-netanyahu-incluso-despues-de-la-guerra/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-27T054521.505.jpg"
+      "title": "Audiencia Nacional de España investiga chats de Delcy Rodríguez y Aldama sobre negocios petroleros",
+      "link": "https://diarioversionfinal.com/mundo/audiencia-nacional-de-espana-investiga-chats-de-delcy-rodriguez-y-aldama-sobre-negocios-petroleros/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Victor-de-Aldama-empresario-espanol-y-Delcy-Rodriguez-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-09-27T12:48:32.259Z"
+  "lastUpdate": "2026-09-27T17:32:28.071Z"
 };
