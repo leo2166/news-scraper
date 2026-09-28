@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 28 Septiembre 2026"
     },
     "binance": {
-      "usdt": "966,00"
+      "usdt": "965,94"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La jefa de prensa de María Corina Machado regresó a Venezuela tras el exilio: “Es el momento de recuperar este país”",
-      "link": "https://www.infobae.com/venezuela/2026/09/28/la-jefa-de-prensa-de-maria-corina-machado-regreso-a-venezuela-tras-el-exilio-es-el-momento-de-recuperar-este-pais/",
-      "image": "https://www.infobae.com/resizer/v2/AEXFY7QLBZHE7CTLQUPB7CP7GE.jfif?auth=937c574c1b08f7a500bdda7490ef7f9808a508e318261208919b271e4a845a70&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado celebró el retorno de su jefa de prensa a Venezuela: “Cada regreso nos acerca al reencuentro de todos”",
+      "link": "https://www.infobae.com/venezuela/2026/09/28/maria-corina-machado-celebro-el-retorno-de-su-jefa-de-prensa-a-venezuela-cada-regreso-nos-acerca-al-reencuentro-de-todos/",
+      "image": "https://www.infobae.com/resizer/v2/QKI53WM26FABPHSPBK5S7FUMME.JPG?auth=a130cc8ea70f44ac7025dd096091724da673bcd2a4e8e6a932e5383ca10502d0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Sobrevivió al terremoto de La Guaira al caer desde un octavo piso",
-      "link": "https://cnnespanol.cnn.com/2026/09/27/venezuela/madre-bebe-sobrevivientes-terremoto-milagro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-09-25-at-15-35-57.jpeg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump desata polémica por video financiado por contribuyentes",
+      "link": "https://cnnespanol.cnn.com/2026/09/28/eeuu/analisis-trump-polemica-video-contribuyentes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-silueta-2026.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/FLKOBuzI-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-28T03:59:15.304Z"
+  "lastUpdate": "2026-09-28T10:47:45.756Z"
 };
