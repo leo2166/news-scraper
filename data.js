@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 29 Septiembre 2026"
     },
     "binance": {
-      "usdt": "962,00"
+      "usdt": "961,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "En un tribunal de inmigración de Texas, niños luchan por permanecer en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/09/28/eeuu/inmigracion-menores-tribunal-texas-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-img-9017-20260929005215083.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Los republicanos entran en pánico con las elecciones",
+      "link": "https://cnnespanol.cnn.com/2026/09/29/eeuu/elecciones-mitad-mandato-2026-republicanos-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26260017679237-20260929051839385.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Marco Rubio califica a Cuba de \"Estado fallido\" y advierte sobre amenazas",
-      "link": "https://diarioversionfinal.com/mundo/marco-rubio-califica-a-cuba-de-estado-fallido-y-advierte-sobre-amenazas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/VMY477VW-image-750x430.jpg"
+      "title": "EE.UU. arranca el veto comercial con Canadá: Empiezan por prohibir importación de licores",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-arranca-el-veto-comercial-con-canada-empiezan-por-prohibir-importacion-de-licores/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Qx4DWpGx-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-29T04:33:32.586Z"
+  "lastUpdate": "2026-09-29T11:09:08.998Z"
 };
