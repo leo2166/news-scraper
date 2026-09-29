@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 29 Septiembre 2026"
     },
     "binance": {
-      "usdt": "964,50"
+      "usdt": "962,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Más de 300 rollers de siete estados bautizaron el Patinódromo Alfredo León Moreno de la Vereda",
-      "link": "https://noticialdia.com/al-dia/mas-de-300-rollers-de-siete-estados-bautizaron-el-patinodromo-alfredo-leon-moreno-de-la-vereda/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260928_184916_0000.webp?x74346"
+      "title": "El American Institute Joseph John Thomson responde ante acusaciones en redes sociales",
+      "link": "https://noticialdia.com/al-dia/el-american-institute-joseph-john-thomson-responde-ante-acusaciones-en-redes-sociales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-12-5.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "México presenta nuevos avances del caso Ayotzinapa",
-      "link": "https://cnnespanol.cnn.com/2026/09/28/mexico/informe-caso-ayotzinapa-funerarias-iguala-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/712383eea49a761a2950579e44bfce3a6d415db7miniw.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "En un tribunal de inmigración de Texas, niños luchan por permanecer en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/09/28/eeuu/inmigracion-menores-tribunal-texas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-img-9017-20260929005215083.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Exrector del CNE Leonardo Morales afirma que actualmente no existe capacidad técnica para realizar elecciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/exrector-leonardo-morales-afirma-que-actualmente-no-existe-capacidad-tecnica-para-realizar-elecciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-1-b921bc.jpg"
+      "title": "Claudia Macero: \"Nuestra prioridad es la gente y lograr un país en libertad\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/claudia-macero-nuestra-prioridad-es-la-gente-y-lograr-un-pais-en-libertad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-09-28-210125-3acbd3.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXCARCELARON A ANTONIO IABICHELA, INGENIERO CIVIL DETENIDO DESDE 2019",
-      "link": "https://noticierodigital.com/2026/09/excarcelaron-a-antonio-iabichela-ingeniero-civil-detenido-desde-2019/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Antonio-Iabichela-627x376.jpg"
+      "title": "JORGE RODRÍGUEZ ANUNCIÓ QUE CONSTRUYEN CASI 800 VIVIENDAS TEMPORALES EN CIUDAD CARIBIA",
+      "link": "https://noticierodigital.com/2026/09/jorge-rodriguez-anuncio-que-construyen-casi-800-viviendas-temporales-en-ciudad-caribia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/ciudad-caribia-viviendas-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula da Silva lidera las encuestas a seis días de las elecciones",
-      "link": "https://diarioversionfinal.com/mundo/lula-da-silva-lidera-las-encuestas-a-seis-dias-de-las-elecciones/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/es0Qi9jU-image-750x430.jpg"
+      "title": "Marco Rubio califica a Cuba de \"Estado fallido\" y advierte sobre amenazas",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-califica-a-cuba-de-estado-fallido-y-advierte-sobre-amenazas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/VMY477VW-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-28T23:44:50.896Z"
+  "lastUpdate": "2026-09-29T04:33:32.586Z"
 };
