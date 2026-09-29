@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 29 Septiembre 2026"
     },
     "binance": {
-      "usdt": "961,00"
+      "usdt": "954,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,39 +15,39 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Compras en supermercados crecen 50% impulsadas por aplicaciones de \"compre ahora y pague después\"",
-      "link": "https://www.bancaynegocios.com/compras-en-supermercados-crecen-50-porciento-impulsadas-por-aplicaciones-de-compre-ahora-y-pague-despues/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/compras.jpg"
+      "title": "Economía de Venezuela podría crecer un 12% en 2027, según economista",
+      "link": "https://www.bancaynegocios.com/economia-de-venezuela-podria-crecer-un-12-porciento-en-2027-segun-economista/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Tras nuevas liberaciones de presos políticos, recuerdan que aún quedan decenas detenidos en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/09/28/tras-nuevas-liberaciones-de-presos-politicos-recuerdan-que-aun-quedan-decenas-detenidos-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/OTVHLYXDTFFMZJMR6FMOGOA22E.jpg?auth=aae89fc6f538627a50e2235d45e9492407a3fe58e33bcf09162b93c43b3892b8&smart=true&width=350&height=197&quality=85"
+      "title": "Ocho de cada diez alumnos venezolanos de educación básica reprueban matemáticas",
+      "link": "https://www.infobae.com/venezuela/2026/09/29/ocho-de-cada-diez-alumnos-venezolanos-de-educacion-basica-reprueban-matematicas/",
+      "image": "https://www.infobae.com/resizer/v2/UMZVJOJYGZALTKA7AUIUOSBQPM.jpg?auth=0fdb837c197b636e1a82976843612e7ce796bb75566d17fe6f0ffcb1f05311b2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El American Institute Joseph John Thomson responde ante acusaciones en redes sociales",
-      "link": "https://noticialdia.com/al-dia/el-american-institute-joseph-john-thomson-responde-ante-acusaciones-en-redes-sociales/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/v-efe-12-5.webp?x74346"
+      "title": "Arrancó el reasfaltado en el barrio Alberto Carnevalli",
+      "link": "https://noticialdia.com/al-dia/arranco-el-reasfaltado-en-el-barrio-alberto-carnevalli/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-17-3.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Los republicanos entran en pánico con las elecciones",
-      "link": "https://cnnespanol.cnn.com/2026/09/29/eeuu/elecciones-mitad-mandato-2026-republicanos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26260017679237-20260929051839385.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Hegseth ordena al Pentágono proteger las elecciones intermedias",
+      "link": "https://cnnespanol.cnn.com/2026/09/29/eeuu/hegseth-fuerzas-armadas-elecciones-ee-uu-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-18t155321z-357838628-rc2rlnasim3z-rtrmadp-3-usa-defense-pows-20260929075424238.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Claudia Macero: \"Nuestra prioridad es la gente y lograr un país en libertad\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/claudia-macero-nuestra-prioridad-es-la-gente-y-lograr-un-pais-en-libertad",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-09-28-210125-3acbd3.png"
+      "title": "Organizaciones de derechos humanos proponen realizar elecciones en Venezuela para julio de 2027",
+      "link": "https://noticiasvenevision.com/noticias/politica/organizaciones-de-derechos-humanos-proponen-realizar-elecciones-en-venezuela-para-julio-de-202",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/elecciones-venezuela-1080x675-ce2611.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE RODRÍGUEZ ANUNCIÓ QUE CONSTRUYEN CASI 800 VIVIENDAS TEMPORALES EN CIUDAD CARIBIA",
-      "link": "https://noticierodigital.com/2026/09/jorge-rodriguez-anuncio-que-construyen-casi-800-viviendas-temporales-en-ciudad-caribia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/ciudad-caribia-viviendas-627x376.jpg"
+      "title": "«SEGUIMOS AVANZANDO HACIA LA DEMOCRACIA»: AN 2015 TRAS ANUNCIO DE REFORMA DE LA LEY DEL ODIO",
+      "link": "https://noticierodigital.com/2026/09/seguimos-avanzando-hacia-la-democracia-an-2015-tras-anuncio-de-reforma-de-la-ley-del-odio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/AN2015LeydelOdio-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "EE.UU. arranca el veto comercial con Canadá: Empiezan por prohibir importación de licores",
-      "link": "https://diarioversionfinal.com/mundo/ee-uu-arranca-el-veto-comercial-con-canada-empiezan-por-prohibir-importacion-de-licores/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Qx4DWpGx-image-750x430.jpg"
+      "title": "Empresa catarí negocia nuevos proyectos de petróleo y gas en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/empresa-catari-negocia-nuevos-proyectos-de-petroleo-y-gas-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-2026-09-29T102304.903.jpg"
     }
   ],
-  "lastUpdate": "2026-09-29T11:09:08.998Z"
+  "lastUpdate": "2026-09-29T17:44:57.581Z"
 };
