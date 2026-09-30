@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "859,06",
-      "eur": "973,31",
-      "fechaValor": "Miércoles, 30 Septiembre 2026"
+      "usd": "860,18",
+      "eur": "976,84",
+      "fechaValor": "Jueves, 01 Octubre 2026"
     },
     "binance": {
-      "usdt": "940,85"
+      "usdt": "953,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de septiembre a jubilados (+monto)",
-      "link": "https://www.bancaynegocios.com/dato-pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-septiembre-a-jubilados-monto/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
+      "title": "Cortes eléctricos en Sucre reducen un 40% la jornada laboral de comercios e industrias",
+      "link": "https://www.bancaynegocios.com/cortes-electricos-en-sucre-reducen-un-40-porciento-la-jornada-laboral-de-comercios-e-industrias/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2019/03/electricidad-torre-electric.jpg"
     },
     {
       "source": "Infobae",
@@ -27,40 +27,40 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela apunta al Top 11 mundial del café verde tras proyectar una cosecha histórica de más de 4,7 millones de quintales en 2026",
-      "link": "https://noticialdia.com/al-dia/venezuela-apunta-al-top-11-mundial-del-cafe-verde-tras-proyectar-una-cosecha-historica-de-mas-de-47-millones-de-quintales-en-2026/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-3-20.webp?x74346"
+      "title": "Cristiano Ronaldo abandona la concentración de Portugal tras tensiones con el técnico Jorge Jesus",
+      "link": "https://noticialdia.com/deportes/cristiano-ronaldo-abandona-la-concentracion-de-portugal-tras-tensiones-con-el-tecnico-jorge-jesus/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/IMG_3408.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Piloto habría intentado estrellar vuelo de Flydubai, según Netanyahu",
+      "title": "Incidente en vuelo de Flydubai fue un \"intento de ataque terrorista\", según Israel",
       "link": "https://cnnespanol.cnn.com/2026/09/30/mundo/live-news/vueloa-israel-desviado-arabia-saudita-violento-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260930071952713.Jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/flydubai.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal reporta que seis personas aún están detenidas bajo la “Ley Contra el Odio” y más de 600 permanecen bajo medidas cautelares",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-reporta-que-seis-personas-aun-estan-detenidas-bajo-la-ley-contra-el-odio-y-mas-de-600-permanecen-bajo-medidas-cautelares",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/formato-niraa-2021-12-30t091349.358-8eb5dc.jpg"
+      "title": "Mercedes de Freitas considera que la vía electoral representa el único camino para institucionalizar el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/mercedes-de-freitas-considera-que-la-via-electoral-representa-el-unico-camino-para-institucionalizar-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mercedes-de-freitas-tv-960x640-1-56a98a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BARUTA DEVELA ESCULTURA DE SAN MIGUEL ARCÁNGEL COMO HOMENAJE Y SÍMBOLO DE FE",
-      "link": "https://noticierodigital.com/2026/09/baruta-devela-escultura-de-san-miguel-arcangel-como-homenaje-y-simbolo-de-fe/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-10.19.08-AM-627x376.jpeg"
+      "title": "«TODAVÍA ESTAMOS PAGANDO LOS ERRORES DE LA ANC», CONDENÓ MERCEDES MALAVÉ",
+      "link": "https://noticierodigital.com/2026/09/todavia-estamos-pagando-los-errores-de-la-anc-condeno-mercedes-malave/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/mercedes-malave-21n-elecciones-1oct2021.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Aseguran que piloto que intentó secuestrar avión de Flydubai planeaba un ataque similar al del 11S",
-      "link": "https://laverdad.com/aseguran-que-piloto-que-intento-secuestrar-avion-de-flydubai-planeaba-un-ataque-similar-al-del-11s/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Flydubai-piloto.jpg"
+      "title": "Descubren que mujer abusaba de su hija porque le robaron el celular: el ladrón la denunció en redes",
+      "link": "https://laverdad.com/descubren-que-mujer-abusaba-de-su-hija-porque-le-robaron-el-celular-el-ladron-la-denuncio-en-redes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Mujer-abusa-hija-Cali.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rick Scott respalda a María Corina Machado en su regreso a Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/rick-scott-respalda-a-maria-corina-machado-en-su-regreso-a-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/BBuvbhed-image-750x430.jpg"
+      "title": "El petróleo WTI se aferra a los 90 dólares en medio de tensiones geopolíticas",
+      "link": "https://diarioversionfinal.com/mundo/el-petroleo-wti-se-aferra-a-los-90-dolares-en-medio-de-tensiones-geopoliticas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
     }
   ],
-  "lastUpdate": "2026-09-30T15:40:54.694Z"
+  "lastUpdate": "2026-09-30T20:35:32.636Z"
 }
