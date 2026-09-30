@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 30 Septiembre 2026"
     },
     "binance": {
-      "usdt": "962,00"
+      "usdt": "940,85"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de septiembre: Aumentó 8,23% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-septiembre-aumento-8-con-23-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "#Dato: Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de septiembre a jubilados (+monto)",
+      "link": "https://www.bancaynegocios.com/dato-pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-septiembre-a-jubilados-monto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Pese a la falta de mantenimiento y desafíos operativos, las petroleras se disponen a ampliar sus inversiones en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/09/30/pese-a-la-falta-de-mantenimiento-y-desafios-operativos-las-petroleras-se-disponen-a-ampliar-sus-inversiones-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/E7MBTVSSG5DHXGNFBPFYEASGZQ.JPG?auth=45e71f5817e154a28e5127d5cb6a14146f8d7c56ecfcac8293dceae50629b26f&smart=true&width=350&height=197&quality=85"
+      "title": "ONG y dirigentes exigen derogar la Ley contra el Odio y todas las normas que persiguen a la disidencia en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/09/30/ong-y-dirigentes-exigen-derogar-la-ley-contra-el-odio-y-todas-las-normas-que-persiguen-a-la-disidencia-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/CF7AC5RNQFHAXG6RUFBFSAS3N4.jpg?auth=6b6a82ca213c78d7163b51f8ef73c59d90223dfb2ff14a1c821fcc1cea7963dd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Se requiere apoyo económico urgente para intervención quirúrgica de Mathías David Raga Trujillo",
-      "link": "https://noticialdia.com/zulia/servicio-publico/se-requiere-apoyo-economico-urgente-para-intervencion-quirurgica-de-mathias-david-raga-trujillo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/IMG-20260929-WA0012.webp?x74346"
+      "title": "Venezuela apunta al Top 11 mundial del café verde tras proyectar una cosecha histórica de más de 4,7 millones de quintales en 2026",
+      "link": "https://noticialdia.com/al-dia/venezuela-apunta-al-top-11-mundial-del-cafe-verde-tras-proyectar-una-cosecha-historica-de-mas-de-47-millones-de-quintales-en-2026/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-3-20.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Un “incidente violento” entre pilotos provoca el desvío de un vuelo con destino a Israel",
-      "link": "https://cnnespanol.cnn.com/2026/09/30/mundo/vuelo-a-israel-desviado-emergencia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-1-20260930072012662.Jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Piloto habría intentado estrellar vuelo de Flydubai, según Netanyahu",
+      "link": "https://cnnespanol.cnn.com/2026/09/30/mundo/live-news/vueloa-israel-desviado-arabia-saudita-violento-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20260930071952713.Jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Carlos Correa: \"Una expresión de odio tiene una pena más fuerte que un homicidio\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/carlos-correa-una-expresion-de-odio-tiene-una-pena-mas-fuerte-que-un-homicidio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/director-de-espacio-publico-carlos-correa.-efe-993769.jpg"
+      "title": "Foro Penal reporta que seis personas aún están detenidas bajo la “Ley Contra el Odio” y más de 600 permanecen bajo medidas cautelares",
+      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-reporta-que-seis-personas-aun-estan-detenidas-bajo-la-ley-contra-el-odio-y-mas-de-600-permanecen-bajo-medidas-cautelares",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/formato-niraa-2021-12-30t091349.358-8eb5dc.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA Y EL PUERTO ITALIANO DE RAVENNA EXPLORAN UN ACUERDO DE COOPERACIÓN COMERCIAL",
-      "link": "https://noticierodigital.com/2026/09/venezuela-y-el-puerto-italiano-de-ravenna-exploran-un-acuerdo-de-cooperacion-comercial/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Maria-Elena-Uzzo-puerto-de-Ravenna-627x376.jpg"
+      "title": "BARUTA DEVELA ESCULTURA DE SAN MIGUEL ARCÁNGEL COMO HOMENAJE Y SÍMBOLO DE FE",
+      "link": "https://noticierodigital.com/2026/09/baruta-devela-escultura-de-san-miguel-arcangel-como-homenaje-y-simbolo-de-fe/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-10.19.08-AM-627x376.jpeg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. acusa al migrante venezolano baleado por ICE de agredir a un agente federal",
-      "link": "https://laverdad.com/ee-uu-acusa-al-migrante-venezolano-baleado-por-ice-de-agredir-a-un-agente-federal/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Wilber-Garces.jpg"
+      "title": "Aseguran que piloto que intentó secuestrar avión de Flydubai planeaba un ataque similar al del 11S",
+      "link": "https://laverdad.com/aseguran-que-piloto-que-intento-secuestrar-avion-de-flydubai-planeaba-un-ataque-similar-al-del-11s/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Flydubai-piloto.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sismo de 4.5 en Veracruz reaviva la memoria sísmica de México este #30Sep",
-      "link": "https://diarioversionfinal.com/mundo/sismo-de-4-5-en-veracruz-reaviva-la-memoria-sismica-de-mexico-este-30sep/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/qnY3S4bi-image-750x430.jpg"
+      "title": "Rick Scott respalda a María Corina Machado en su regreso a Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/rick-scott-respalda-a-maria-corina-machado-en-su-regreso-a-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/BBuvbhed-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-30T08:05:06.556Z"
+  "lastUpdate": "2026-09-30T15:40:54.694Z"
 };
