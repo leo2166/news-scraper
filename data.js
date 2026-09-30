@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 30 Septiembre 2026"
     },
     "binance": {
-      "usdt": "958,00"
+      "usdt": "959,19"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Capturan a hombre con orden de captura en Simón Bolívar y a ciudadana por receptación en Maracaibo",
-      "link": "https://noticialdia.com/sucesos/capturan-a-hombre-con-orden-de-captura-en-simon-bolivar-y-a-ciudadana-por-receptacion-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Plantilla-kelly-2026-09-29T174917.490.webp?x74346"
+      "title": "Inicia el pago de la segunda parte del Ingreso Integral para jubilados del sector público",
+      "link": "https://noticialdia.com/nacionales/inicia-el-pago-de-la-segunda-parte-del-ingreso-integral-para-jubilados-del-sector-publico/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260929_205317_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "La Corte Suprema permite reanudar deportaciones a terceros países",
-      "link": "https://cnnespanol.cnn.com/2026/09/29/eeuu/corte-suprema-reanudar-deportaciones-terceros-paises-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285436373-20260929191625168.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Fue deportada tras vivir décadas en EE.UU., ahora ayuda a inmigrantes en la frontera",
+      "link": "https://cnnespanol.cnn.com/2026/09/29/mexico/eeuu-deportada-ayuda-migrantes-comida-transporte-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-09-02-at-11-16-01-2-20260929200010523.jpeg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "RICK SCOTT AFIRMÓ QUE MCM ESTÁ DISPUESTA A DIALOGAR CON DELCY RODRÍGUEZ",
-      "link": "https://noticierodigital.com/2026/09/rick-scott-afirmo-que-mcm-esta-dispuesta-a-dialogar-con-delcy-rodriguez/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/rick-scott-maria-corina-machado-627x376.jpg"
+      "title": "PNUD APOYARÁ CON DRONES E IMÁGENES SATELITALES LA REMOCIÓN DE ESCOMBROS EN LA GUAIRA",
+      "link": "https://noticierodigital.com/2026/09/pnud-apoyara-con-drones-e-imagenes-satelitales-la-remocion-de-escombros-en-la-guaira/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/escombros-la-guaira-terremotos-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Las frases desde Washington sobre la transición en Venezuela siembran ¿dudas o expectativas?",
-      "link": "https://diarioversionfinal.com/mundo/las-frases-desde-washington-sobre-la-transicion-en-venezuela-siembran-dudas-o-expectativas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/9fd8ba4fb6fed4e4b3da3568804b6f9b90f19dd6-750x430.jpg"
+      "title": "Trinidad y Tobago detiene a tres venezolanos con un cargamento de droga en el Golfo de Paria",
+      "link": "https://diarioversionfinal.com/mundo/trinidad-y-tobago-detiene-a-tres-venezolanos-con-un-cargamento-de-droga-en-el-golfo-de-paria/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/210CoWY1-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-29T21:57:30.793Z"
+  "lastUpdate": "2026-09-30T01:09:46.956Z"
 };
