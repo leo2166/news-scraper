@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 01 Octubre 2026"
     },
     "binance": {
-      "usdt": "953,99"
+      "usdt": "952,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "ONG y dirigentes exigen derogar la Ley contra el Odio y todas las normas que persiguen a la disidencia en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/09/30/ong-y-dirigentes-exigen-derogar-la-ley-contra-el-odio-y-todas-las-normas-que-persiguen-a-la-disidencia-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/CF7AC5RNQFHAXG6RUFBFSAS3N4.jpg?auth=6b6a82ca213c78d7163b51f8ef73c59d90223dfb2ff14a1c821fcc1cea7963dd&smart=true&width=350&height=197&quality=85"
+      "title": "La Asamblea Nacional fijó el cronograma para avanzar con la renovación de los magistrados del TSJ de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/09/30/la-asamblea-nacional-fijo-el-cronograma-para-avanzar-con-la-renovacion-de-los-magistrados-del-tsj-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/UW4AYY2T2RGN3HJI6YKL5JIE64.JPG?auth=cbb167d29a451d39109dbd22dd945c53167388ba80c7599d95d3b88cd49e2054&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cristiano Ronaldo abandona la concentración de Portugal tras tensiones con el técnico Jorge Jesus",
-      "link": "https://noticialdia.com/deportes/cristiano-ronaldo-abandona-la-concentracion-de-portugal-tras-tensiones-con-el-tecnico-jorge-jesus/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/IMG_3408.webp?x74346"
+      "title": "José Altuve conecta cuadrangular y roza el récord histórico en postemporada",
+      "link": "https://noticialdia.com/deportes/jose-altuve-conecta-cuadrangular-y-roza-el-record-historico-en-postemporada/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260930_193053_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Incidente en vuelo de Flydubai fue un \"intento de ataque terrorista\", según Israel",
-      "link": "https://cnnespanol.cnn.com/2026/09/30/mundo/live-news/vueloa-israel-desviado-arabia-saudita-violento-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/flydubai.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Quién debe ser detenido: la disputa que sacude la política migratoria de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/09/30/eeuu/confusion-ice-tensiones-gobierno-detenciones-migratorias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280243542-20260930220553366.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«TODAVÍA ESTAMOS PAGANDO LOS ERRORES DE LA ANC», CONDENÓ MERCEDES MALAVÉ",
-      "link": "https://noticierodigital.com/2026/09/todavia-estamos-pagando-los-errores-de-la-anc-condeno-mercedes-malave/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/10/mercedes-malave-21n-elecciones-1oct2021.jpg"
+      "title": "EL ACTIVISTA JEANCARLOS RIVAS RECUPERÓ SU LIBERTAD PLENA, INFORMÓ VP",
+      "link": "https://noticierodigital.com/2026/09/el-activista-jeancarlos-rivas-recupero-su-libertad-plena-informo-vp/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/jeancarlos-rivas-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Descubren que mujer abusaba de su hija porque le robaron el celular: el ladrón la denunció en redes",
-      "link": "https://laverdad.com/descubren-que-mujer-abusaba-de-su-hija-porque-le-robaron-el-celular-el-ladron-la-denuncio-en-redes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/09/Mujer-abusa-hija-Cali.jpg"
+      "title": "EE. UU. emite alerta de viaje por “riesgo elevado de ataques” del ELN en frontera entre Colombia y Venezuela",
+      "link": "https://laverdad.com/ee-uu-emite-alerta-de-viaje-por-riesgo-elevado-de-ataques-del-eln-en-frontera-entre-colombia-y-venezuela/",
+      "image": "https://laverdad.com/wp-content/uploads/2025/01/ELN-Catatumbo.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El petróleo WTI se aferra a los 90 dólares en medio de tensiones geopolíticas",
-      "link": "https://diarioversionfinal.com/mundo/el-petroleo-wti-se-aferra-a-los-90-dolares-en-medio-de-tensiones-geopoliticas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/tsize_600x400_Petroleo-e1738703305946.jpg"
+      "title": "Trump defiende incursión militar en Venezuela y asegura recuperación petrolera",
+      "link": "https://diarioversionfinal.com/mundo/trump-defiende-incursion-militar-en-venezuela-y-asegura-recuperacion-petrolera/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/eZVWAO06-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-09-30T20:35:32.636Z"
+  "lastUpdate": "2026-10-01T00:23:39.963Z"
 };
