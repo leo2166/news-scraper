@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "860,18",
-      "eur": "976,84",
-      "fechaValor": "Jueves, 01 Octubre 2026"
+      "usd": "866,56",
+      "eur": "973,93",
+      "fechaValor": "Viernes, 02 Octubre 2026"
     },
     "binance": {
-      "usdt": "958,49"
+      "usdt": "963,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@
     },
     {
       "source": "Infobae",
-      "title": "Las exportaciones petroleras de Venezuela cayeron casi 9 % en septiembre",
-      "link": "https://www.infobae.com/venezuela/2026/10/01/las-exportaciones-petroleras-de-venezuela-cayeron-casi-9-en-septiembre/",
-      "image": "https://www.infobae.com/resizer/v2/GB2BDWEGMNDA3PFVDXS7BG7CI4.JPG?auth=7bd9c0f44e4d47cf8a49d583a2dd37fee127906e9790c511e98785e78119d34a&smart=true&width=350&height=197&quality=85"
+      "title": "Liberaron al diplomático venezolano Aldo Perfetto tras permanecer más de un año detenido en Caracas",
+      "link": "https://www.infobae.com/venezuela/2026/10/01/liberaron-al-diplomatico-venezolano-aldo-perfetto-tras-permanecer-mas-de-un-ano-detenido-en-caracas/",
+      "image": "https://www.infobae.com/resizer/v2/LGQQSAYDCFC7XJEVQZKUJDL2UA.jpeg?auth=0932b8bed23e808f18ccfb3a010fb43e51cb2eaa53f8173fc4126904e9446d02&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Maracaibo rehabilitó el ASIC Guaicaipuro para beneficiar a más de 5 mil habitantes de Venancio Pulgar",
-      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-rehabilito-el-asic-guaicaipuro-para-beneficiar-a-mas-de-5-mil-habitantes-de-venancio-pulgar/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-16.webp?x74346"
+      "title": "JetBlue reactiva su conectividad con Venezuela: inaugurará nueva ruta diaria entre Fort Lauderdale y Caracas en febrero",
+      "link": "https://noticialdia.com/al-dia/jetblue-reactiva-su-conectividad-con-venezuela-inaugurara-nueva-ruta-diaria-entre-fort-lauderdale-y-caracas-en-febrero/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-27.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "ICE impone nuevas restricciones a sus agentes para detener vehículos",
-      "link": "https://cnnespanol.cnn.com/2026/10/01/eeuu/trump-ice-detenciones-vehiculos-agentes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-09-21t004255z-1390447205-rc23nnascpbd-rtrmadp-3-usa-migration-shooting-20261001152202141.JPG?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Christa Pike, condenada a muerte, sobrevivió a la ejecución. ¿Qué sucedió?",
+      "link": "https://cnnespanol.cnn.com/2026/10/01/eeuu/christa-pike-ejecucion-fallida-tennessee-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hor-christa-trax-00-02-49-24-still001.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPORTACIONES DE CRUDO DE VENEZUELA DISMINUYERON EN SEPTIEMBRE POR ALTAS TARIFAS DE FLETE: REUTERS",
-      "link": "https://noticierodigital.com/2026/10/exportaciones-de-crudo-de-venezuela-disminuyeron-en-septiembre-por-altas-tarifas-de-flete-reuters/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/petroleo-11ago2021.jpg"
+      "title": "VENEZUELA RECIBIÓ NUEVO CARGAMENTO DE AYUDA HUMANITARIA PROCEDENTE DE SURINAM",
+      "link": "https://noticierodigital.com/2026/10/venezuela-recibio-nuevo-cargamento-de-ayuda-humanitaria-procedente-de-surinam/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/surinam-venezuela-ayuda-humanitaria-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV pide orar por quienes sufren trastornos mentales",
-      "link": "https://laverdad.com/leon-xiv-pide-orar-por-quienes-sufren-trastornos-mentales/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Leon-XIV.jpg"
+      "title": "Justicia chilena emite sentencia contra Maickel Villegas por crimen de Ronald Ojeda",
+      "link": "https://laverdad.com/justicia-chilena-emite-primera-condena-tras-juicio-oral-a-implicado-en-crimen-de-ronald-ojeda/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/maickel-villegas.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump evalúa construir una base militar en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/trump-evalua-construir-una-base-militar-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Trump-01-10-2026-750x430.jpg"
+      "title": "La Casa Blanca excluye nuevamente a CNN de la cobertura presidencial",
+      "link": "https://diarioversionfinal.com/mundo/la-casa-blanca-excluye-nuevamente-a-cnn-de-la-cobertura-presidencial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Casa-Blanca-EEUU-sobre-Iran-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-01T20:09:08.793Z"
+  "lastUpdate": "2026-10-02T00:33:34.639Z"
 }
