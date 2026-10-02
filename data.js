@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 02 Octubre 2026"
     },
     "binance": {
-      "usdt": "963,00"
+      "usdt": "963,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Liberaron al diplomático venezolano Aldo Perfetto tras permanecer más de un año detenido en Caracas",
-      "link": "https://www.infobae.com/venezuela/2026/10/01/liberaron-al-diplomatico-venezolano-aldo-perfetto-tras-permanecer-mas-de-un-ano-detenido-en-caracas/",
-      "image": "https://www.infobae.com/resizer/v2/LGQQSAYDCFC7XJEVQZKUJDL2UA.jpeg?auth=0932b8bed23e808f18ccfb3a010fb43e51cb2eaa53f8173fc4126904e9446d02&smart=true&width=350&height=197&quality=85"
+      "title": "El FMI analiza abrir una oficina en Venezuela, pero aseguró que Delcy Rodríguez no solicitó financiamiento hasta el momento",
+      "link": "https://www.infobae.com/venezuela/2026/10/02/el-fmi-analiza-abrir-una-oficina-en-venezuela-pero-aseguro-que-delcy-rodriguez-no-solicito-financiamiento-hasta-el-momento/",
+      "image": "https://www.infobae.com/resizer/v2/QUP6M6JDGVBYZIXMFCKKYAO6G4.JPG?auth=1c16bad448961ca17130a29f7c897d43090b50cb0b751a4d15351b42cc647864&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "JetBlue reactiva su conectividad con Venezuela: inaugurará nueva ruta diaria entre Fort Lauderdale y Caracas en febrero",
-      "link": "https://noticialdia.com/al-dia/jetblue-reactiva-su-conectividad-con-venezuela-inaugurara-nueva-ruta-diaria-entre-fort-lauderdale-y-caracas-en-febrero/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-27.webp?x74346"
+      "title": "Gobernación del Zulia desplegó plan de asfaltado en accesos al gimnasio Borjas Romero y la Facultad de Humanidades de LUZ",
+      "link": "https://noticialdia.com/al-dia/gobernacion-del-zulia-desplego-plan-de-asfaltado-en-accesos-al-gimnasio-borjas-romero-y-la-facultad-de-humanidades-de-luz/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-28.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Christa Pike, condenada a muerte, sobrevivió a la ejecución. ¿Qué sucedió?",
-      "link": "https://cnnespanol.cnn.com/2026/10/01/eeuu/christa-pike-ejecucion-fallida-tennessee-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hor-christa-trax-00-02-49-24-still001.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La familia de Renee Good demanda al Gobierno de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/10/01/eeuu/familia-renee-good-demanda-gobierno-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/574ad312-c34b-47ad-a5c4-deab68f9c086.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria exige acuerdos tangibles y garantías electorales",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-exige-acuerdos-tangibles-garantias-electorales-y-fin-a-la-persecucion-politica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/embalse-de-macagua-1-4cfa8e.jpg"
+      "title": "República Dominicana reanuda sus servicios consulares en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/republica-dominicana-reanuda-sus-servicios-consulares-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/copy-video-1-aecdd2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA RECIBIÓ NUEVO CARGAMENTO DE AYUDA HUMANITARIA PROCEDENTE DE SURINAM",
-      "link": "https://noticierodigital.com/2026/10/venezuela-recibio-nuevo-cargamento-de-ayuda-humanitaria-procedente-de-surinam/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/surinam-venezuela-ayuda-humanitaria-627x376.jpg"
+      "title": "PJ EXIGIÓ RESPUESTAS ANTE CONSTANTES CORTES ELÉCTRICOS",
+      "link": "https://noticierodigital.com/2026/10/pj-exigio-respuestas-ante-constantes-cortes-electricos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/02/primero_justicia_16dic-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La Casa Blanca excluye nuevamente a CNN de la cobertura presidencial",
-      "link": "https://diarioversionfinal.com/mundo/la-casa-blanca-excluye-nuevamente-a-cnn-de-la-cobertura-presidencial/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/Casa-Blanca-EEUU-sobre-Iran-750x430.jpg"
+      "title": "Christa Pike, en estado crítico tras fallida ejecución en Tennessee",
+      "link": "https://diarioversionfinal.com/mundo/christa-pike-en-estado-critico-tras-fallida-ejecucion-en-tennessee/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/YaBYIvpf-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-02T00:33:34.639Z"
+  "lastUpdate": "2026-10-02T06:45:02.579Z"
 };
