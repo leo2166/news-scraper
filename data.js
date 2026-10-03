@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 05 Octubre 2026"
     },
     "binance": {
-      "usdt": "974,90"
+      "usdt": "976,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Tras una década de espera, Caibo reencuentra a Maracaibo desde la Calle Carabobo y anuncia su nuevo disco de 14 temas",
-      "link": "https://noticialdia.com/entretenimiento/tras-una-decada-de-espera-caibo-reencuentra-a-maracaibo-desde-la-calle-carabobo-y-anuncia-su-nuevo-disco-de-14-temas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PLANTILLA-x.webp?x74346"
+      "title": "“De esa llamada dependía una vida”: Kelly Fuenmayor, la doctora zuliana que operó con su equipo desde un avión",
+      "link": "https://noticialdia.com/principal/de-esa-llamada-dependia-una-vida-kelly-fuenmayor-la-doctora-zuliana-que-opero-con-su-equipo-desde-un-avion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-2026-09-30T170626.738-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Así son los anuncios de Trump financiados por los contribuyentes de EE.UU.",
+      "title": "Así son los polémicos anuncios de Trump pagados por los contribuyentes",
       "link": "https://cnnespanol.cnn.com/2026/10/02/eeuu/dios-creo-a-trump-anuncios-publicidad-financiada-contribuyentes-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293882533-20261003000243082.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bolivia promulga ley para suspender a fiscales acusados de delitos penales",
-      "link": "https://diarioversionfinal.com/mundo/bolivia-promulga-ley-para-suspender-a-fiscales-acusados-de-delitos-penales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Rodrigo-Paz-01-06-2026-750x430.jpg"
+      "title": "Medio millón de personas en Madrid exigen derechos de vivienda y huelga general",
+      "link": "https://diarioversionfinal.com/mundo/medio-millon-de-personas-en-madrid-exigen-derechos-de-vivienda-y-huelga-general/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/724sfzgM-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-03T07:40:15.927Z"
+  "lastUpdate": "2026-10-03T13:05:21.381Z"
 };
