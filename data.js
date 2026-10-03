@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez confirmó que Venezuela ya puede acceder a repuestos para el sistema eléctrico",
-      "link": "https://www.infobae.com/venezuela/2026/10/02/delcy-rodriguez-confirmo-que-venezuela-ya-puede-acceder-a-repuestos-para-el-sistema-electrico/",
-      "image": "https://www.infobae.com/resizer/v2/JLCXFBRZEBA7DBZVINEX5N4SRY.JPG?auth=d072777a30c4e4d9d4f09bee7909880752d2900f7fd70a7d1c32453f172f1a25&smart=true&width=350&height=197&quality=85"
+      "title": "¿Qué ocurre con la fecha de las elecciones presidenciales en Venezuela?",
+      "link": "https://www.infobae.com/america/opinion/2026/10/03/que-ocurre-con-la-fecha-de-las-elecciones-presidenciales-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/XICFHU3HRNGTNPQ6C56EA62PTQ.png?auth=907868975e77afd641c7162e4e4cf586730791844bca3b2474eb67b6e9842edc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
       "title": "Tras una década de espera, Caibo reencuentra a Maracaibo desde la Calle Carabobo y anuncia su nuevo disco de 14 temas",
-      "link": "https://noticialdia.com/?p=676525",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260929_205317_0000.webp"
+      "link": "https://noticialdia.com/entretenimiento/tras-una-decada-de-espera-caibo-reencuentra-a-maracaibo-desde-la-calle-carabobo-y-anuncia-su-nuevo-disco-de-14-temas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PLANTILLA-x.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tribunal otorga libertad plena a Rocío San Miguel tras solicitud del Ministerio Público",
-      "link": "https://noticiasvenevision.com/noticias/politica/tribunal-otorga-libertad-plena-a-rocio-san-miguel-tras-solicitud-del-ministerio-publico",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/rociosanmi-cbd56b.jpg"
+      "title": "Perkins Rocha: \"Yo sueño con un país de tolerancia, sueño con un país de libertades...”",
+      "link": "https://noticiasvenevision.com/noticias/politica/perkins-rocha-yo-sueno-con-un-pais-de-tolerancia-sueno-con-un-pais-de-libertades",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/perkins-rocha_13-246d70.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Musk gana $ 61 mil millones en un día mientras las acciones de SpaceX y Tesla suben",
-      "link": "https://diarioversionfinal.com/mundo/musk-gana-61-mil-millones-en-un-dia-mientras-las-acciones-de-spacex-y-tesla-suben/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/01/el-multimillonario-elon-musk-en-los-pasillos-del-senado-de-eeuu-en-washington-750x430.jpeg"
+      "title": "Bolivia promulga ley para suspender a fiscales acusados de delitos penales",
+      "link": "https://diarioversionfinal.com/mundo/bolivia-promulga-ley-para-suspender-a-fiscales-acusados-de-delitos-penales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/Rodrigo-Paz-01-06-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-03T01:45:52.587Z"
+  "lastUpdate": "2026-10-03T07:40:15.927Z"
 };
