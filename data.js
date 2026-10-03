@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Marc Márquez se impone en la ‘sprint’ de Japón y aprieta la lucha por el Mundial de la MotoGP",
-      "link": "https://noticialdia.com/?p=676771",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260929_205317_0000.webp"
+      "title": "España consolida su paso perfecto en la Nations League tras vencer 3-1 a Chequia",
+      "link": "https://noticialdia.com/deportes/espana-consolida-su-paso-perfecto-en-la-nations-league-tras-vencer-3-1-a-chequia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261003_183945_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Republicanos, preocupados por caída de aprobación de Trump",
-      "link": "https://cnnespanol.cnn.com/2026/10/03/eeuu/republicanos-preocupacion-aprobacion-trump-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b7388ec6-30b0-4080-b857-7424377f6599.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Cronología de hechos en Universidad de Cornell tras denuncia de violación grupal",
+      "link": "https://cnnespanol.cnn.com/2026/10/03/eeuu/cronologia-violacion-grupal-cornell-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20261002-cornell-timeline-final-20261003173258363-20261003173323622.JPG?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Venezuela reitera su rechazo al Laudo de París de 1899 y ratifica el Acuerdo de Ginebra como vía de solución",
-      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-reitera-su-rechazo-al-laudo-de-paris-de-1899-y-ratifica-el-acuerdo-de-ginebra-como-via-de-solucion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/htum8pawiaa3gnb-21b76b.jpg"
+      "title": "Asamblea Nacional inicia convocatoria para integrar el Comité de Postulaciones Judiciales",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-inicia-convocatoria-para-integrar-el-comite-de-postulaciones-judiciales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/htuqi2kwyaa49yf-6b34a1.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/OeCg6ef5-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-03T20:39:53.709Z"
+  "lastUpdate": "2026-10-03T23:33:21.982Z"
 };
