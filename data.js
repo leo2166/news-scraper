@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 05 Octubre 2026"
     },
     "binance": {
-      "usdt": "975,06"
+      "usdt": "976,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Saime advierte a los usuarios que si su está pasaporte vigente pero dañado \"no podrá viajar\"",
-      "link": "https://noticialdia.com/al-dia/saime-advierte-a-los-usuarios-que-si-su-esta-pasaporte-vigente-pero-danado-no-podra-viajar/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-3-2.webp?x74346"
+      "title": "Marc Márquez se impone en la ‘sprint’ de Japón y aprieta la lucha por el Mundial de la MotoGP",
+      "link": "https://noticialdia.com/?p=676771",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260929_205317_0000.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "La contienda de Florida podría trastocar la política nacional. ¿O es un espejismo?",
-      "link": "https://cnnespanol.cnn.com/2026/10/03/eeuu/democratas-recuperar-florida-elecciones-gobernador-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296817771-20261003123558310.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Republicanos, preocupados por caída de aprobación de Trump",
+      "link": "https://cnnespanol.cnn.com/2026/10/03/eeuu/republicanos-preocupacion-aprobacion-trump-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/b7388ec6-30b0-4080-b857-7424377f6599.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Miguel Matheus: “Participación de la sociedad civil dota de credibilidad la renovación del TSJ”",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-miguel-matheus-participacion-de-la-sociedad-civil-dota-de-credibilidad-la-renovacion-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img-21-1f9140.webp"
+      "title": "Venezuela reitera su rechazo al Laudo de París de 1899 y ratifica el Acuerdo de Ginebra como vía de solución",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-reitera-su-rechazo-al-laudo-de-paris-de-1899-y-ratifica-el-acuerdo-de-ginebra-como-via-de-solucion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/htum8pawiaa3gnb-21b76b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FAMILIA DE JORGE ALAYETO DENUNCIA PRESUNTAS IRREGULARIDADES EN CASO DEL FUERTE PARAMACAY",
-      "link": "https://noticierodigital.com/2026/10/familia-de-jorge-alayeto-denuncia-presuntas-irregularidades-en-caso-del-fuerte-paramacay/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-627x376.jpg"
+      "title": "AN 2015 INVITA A LA SOCIEDAD CIVIL A PARTICIPAR EN CONFORMACIÓN DE UN NUEVO TSJ",
+      "link": "https://noticierodigital.com/2026/10/an-2015-invita-a-la-sociedad-civil-a-participar-en-conformacion-de-un-nuevo-tsj/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/tsj-627x376.webp"
     },
     {
       "source": "La Verdad",
-      "title": "Justicia chilena emite sentencia contra Maickel Villegas por crimen de Ronald Ojeda",
-      "link": "https://laverdad.com/justicia-chilena-emite-primera-condena-tras-juicio-oral-a-implicado-en-crimen-de-ronald-ojeda/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/maickel-villegas.jpg"
+      "title": "Presunto ciberdelincuente vinculado al “Tren de Aragua” es trasladado a EE. UU.",
+      "link": "https://laverdad.com/presunto-ciberdelincuente-vinculado-al-tren-de-aragua-es-trasladado-a-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/bdc4907641df7be27eabc8a0a8eb49ce732f8f6e.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Agresión a policías en Mazatlán desata operativo de seguridad cerca del aeropuerto",
-      "link": "https://diarioversionfinal.com/mundo/agresion-a-policias-en-mazatlan-desata-operativo-de-seguridad-cerca-del-aeropuerto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/fIPRdSzb-image-750x430.jpg"
+      "title": "Tiroteo en Los Ángeles deja al menos dos muertos y varios heridos",
+      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-los-angeles-deja-al-menos-dos-muertos-y-varios-heridos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/OeCg6ef5-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-03T17:49:06.367Z"
+  "lastUpdate": "2026-10-03T20:39:53.709Z"
 };
