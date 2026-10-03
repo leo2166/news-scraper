@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 05 Octubre 2026"
     },
     "binance": {
-      "usdt": "976,00"
+      "usdt": "975,06"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "TSJ derogó cobros que encarecían el tránsito de contenedores en aduanas de La Guaira y Carabobo",
-      "link": "https://www.bancaynegocios.com/tsj-derogo-cobros-que-encarecian-el-transito-de-contenedores-en-aduanas-de-la-guaira-y-carabobo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/05/tsj-e1697837606934.jpeg"
+      "title": "Inflación acumulada cerró septiembre en 225,32% y la anualizada en 465,58%",
+      "link": "https://www.bancaynegocios.com/inflacion-acumulada-cerro-septiembre-en-225coma32-porciento-y-la-anualizada-en-465coma58-porciento/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/01/INFLACION-CASTILLON.webp"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "“De esa llamada dependía una vida”: Kelly Fuenmayor, la doctora zuliana que operó con su equipo desde un avión",
-      "link": "https://noticialdia.com/principal/de-esa-llamada-dependia-una-vida-kelly-fuenmayor-la-doctora-zuliana-que-opero-con-su-equipo-desde-un-avion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-2026-09-30T170626.738-4.webp?x74346"
+      "title": "Saime advierte a los usuarios que si su está pasaporte vigente pero dañado \"no podrá viajar\"",
+      "link": "https://noticialdia.com/al-dia/saime-advierte-a-los-usuarios-que-si-su-esta-pasaporte-vigente-pero-danado-no-podra-viajar/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-3-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Así son los polémicos anuncios de Trump pagados por los contribuyentes",
-      "link": "https://cnnespanol.cnn.com/2026/10/02/eeuu/dios-creo-a-trump-anuncios-publicidad-financiada-contribuyentes-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293882533-20261003000243082.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "La contienda de Florida podría trastocar la política nacional. ¿O es un espejismo?",
+      "link": "https://cnnespanol.cnn.com/2026/10/03/eeuu/democratas-recuperar-florida-elecciones-gobernador-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296817771-20261003123558310.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Perkins Rocha: \"Yo sueño con un país de tolerancia, sueño con un país de libertades...”",
-      "link": "https://noticiasvenevision.com/noticias/politica/perkins-rocha-yo-sueno-con-un-pais-de-tolerancia-sueno-con-un-pais-de-libertades",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/perkins-rocha_13-246d70.jpg"
+      "title": "Juan Miguel Matheus: “Participación de la sociedad civil dota de credibilidad la renovación del TSJ”",
+      "link": "https://noticiasvenevision.com/noticias/politica/juan-miguel-matheus-participacion-de-la-sociedad-civil-dota-de-credibilidad-la-renovacion-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img-21-1f9140.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SOBREVIVIENTES DE LA GUAIRA EXIGEN CIFRAS OFICIALES Y RESPUESTAS SOBRE LA RECONSTRUCCIÓN",
-      "link": "https://noticierodigital.com/2026/10/sobrevivientes-de-la-guaira-exigen-cifras-oficiales-y-respuestas-sobre-la-reconstruccion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/venezuela-la-guaira-terremotos-pp-627x376.jpg"
+      "title": "FAMILIA DE JORGE ALAYETO DENUNCIA PRESUNTAS IRREGULARIDADES EN CASO DEL FUERTE PARAMACAY",
+      "link": "https://noticierodigital.com/2026/10/familia-de-jorge-alayeto-denuncia-presuntas-irregularidades-en-caso-del-fuerte-paramacay/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Medio millón de personas en Madrid exigen derechos de vivienda y huelga general",
-      "link": "https://diarioversionfinal.com/mundo/medio-millon-de-personas-en-madrid-exigen-derechos-de-vivienda-y-huelga-general/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/724sfzgM-image-750x430.jpg"
+      "title": "Agresión a policías en Mazatlán desata operativo de seguridad cerca del aeropuerto",
+      "link": "https://diarioversionfinal.com/mundo/agresion-a-policias-en-mazatlan-desata-operativo-de-seguridad-cerca-del-aeropuerto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/fIPRdSzb-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-03T13:05:21.381Z"
+  "lastUpdate": "2026-10-03T17:49:06.367Z"
 };
