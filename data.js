@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 05 Octubre 2026"
     },
     "binance": {
-      "usdt": "976,00"
+      "usdt": "977,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "¿Qué ocurre con la fecha de las elecciones presidenciales en Venezuela?",
-      "link": "https://www.infobae.com/america/opinion/2026/10/03/que-ocurre-con-la-fecha-de-las-elecciones-presidenciales-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/XICFHU3HRNGTNPQ6C56EA62PTQ.png?auth=907868975e77afd641c7162e4e4cf586730791844bca3b2474eb67b6e9842edc&smart=true&width=350&height=197&quality=85"
+      "title": "La ONU espera que la transición democrática en Venezuela facilite el retorno de migrantes",
+      "link": "https://www.infobae.com/venezuela/2026/10/04/la-onu-espera-que-la-transicion-democratica-en-venezuela-facilite-el-retorno-de-migrantes/",
+      "image": "https://www.infobae.com/resizer/v2/IKGV5OEKRVDNRHACO62EYSADHA.JPG?auth=bd7c8290e5438ea140f6e92886595f531d6a9f815dd72e93669b3b1baa63c2b1&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "España consolida su paso perfecto en la Nations League tras vencer 3-1 a Chequia",
-      "link": "https://noticialdia.com/deportes/espana-consolida-su-paso-perfecto-en-la-nations-league-tras-vencer-3-1-a-chequia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261003_183945_0000.webp?x74346"
+      "title": "Cayó un frondoso árbol sobre una casa con ancianita afectada en barrio 5 de julio",
+      "link": "https://noticialdia.com/al-dia/cayo-un-frondoso-aebol-sobre-una-casa-con-ancianita-afectada-en-barrio-5-de-julio/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/WhatsApp-Image-2026-10-03-at-9.11.00-PM-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Cronología de hechos en Universidad de Cornell tras denuncia de violación grupal",
-      "link": "https://cnnespanol.cnn.com/2026/10/03/eeuu/cronologia-violacion-grupal-cornell-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20261002-cornell-timeline-final-20261003173258363-20261003173323622.JPG?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Presidente de Universidad Cornell rompe el silencio y promete respuestas",
+      "link": "https://cnnespanol.cnn.com/2026/10/03/eeuu/indignacion-agresion-sexual-cornell-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/cornell-20261004021026290.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo en Los Ángeles deja al menos dos muertos y varios heridos",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-en-los-angeles-deja-al-menos-dos-muertos-y-varios-heridos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/OeCg6ef5-image-750x430.jpg"
+      "title": "Rescatan a dos menores reclutados a la fuerza por disidencias de las Farc en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/rescatan-a-dos-menores-reclutados-a-la-fuerza-por-disidencias-de-las-farc-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Disidencia-Farc-28-08-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-03T23:33:21.982Z"
+  "lastUpdate": "2026-10-04T04:37:35.085Z"
 };
