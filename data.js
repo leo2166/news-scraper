@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 05 Octubre 2026"
     },
     "binance": {
-      "usdt": "975,00"
+      "usdt": "973,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gandola quedó atascada contra el techo del puente Pomona",
-      "link": "https://noticialdia.com/al-dia/gandola-quedo-atrapada-contra-el-techo-del-puente-pomona/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-04T142341.394.webp?x74346"
+      "title": "Gobernador Luis Caldera ofrece balance de un total de 770 viviendas afectadas tras vientos huracanados en el Zulia",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-ofrece-balance-de-un-total-de-770-viviendas-afectadas-tras-vientos-huracanados-en-el-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-04T163411.946.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Brasil vota en unas reñidas elecciones entre Lula y Bolsonaro",
+      "title": "Bolsonaro toma la delantera impulsado por los votos del sur de Brasil",
       "link": "https://cnnespanol.cnn.com/2026/10/04/latinoamerica/live-news/brasil-elecciones-presidenciales-en-vivo-resultado-lula-bolsonaro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/voto-brasil.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297975371.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "GATORADE CARACAS ROCK REUNIÓ A MÁS DE 12 MIL CORREDORES ESTE DOMINGO ",
-      "link": "https://noticierodigital.com/2026/10/gatorade-caracas-rock-reunio-a-mas-de-12-mil-corredores-este-domingo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-21-627x376.png"
+      "title": "CIERRAN CENTROS ELECTORALES EN BRASIL Y COMIENZA CONTEO DE VOTOS: BOLSONARO Y LULA SE MIDEN",
+      "link": "https://noticierodigital.com/2026/10/cierran-centros-electorales-en-brasil-y-comienza-conteo-de-votos-bolsonaro-y-lula-se-miden/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-23-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Brasil decide entre Lula y Flávio Bolsonaro en una jornada sin incidentes",
-      "link": "https://laverdad.com/brasil-decide-entre-lula-y-flavio-bolsonaro-en-una-jornada-sin-incidentes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/gfgg.jpg"
+      "title": "Asesinan a puñaladas a niña venezolana de 7 años en una calle de Chicago",
+      "link": "https://laverdad.com/asesinan-a-punaladas-a-nina-venezolana-de-7-anos-en-una-calle-de-chicago/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/HTyfmupXIAA0gIx.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Tiroteo durante una fiesta en Georgia deja dos muertos y 35 personas heridas",
-      "link": "https://diarioversionfinal.com/mundo/tiroteo-durante-una-fiesta-en-georgia-deja-dos-muertos-y-35-personas-heridas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/tiroteo-viena-georgia--750x430.jpg"
+      "title": "Flávio Bolsonaro lidera el escrutinio frente a Lula en las elecciones de Brasil",
+      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-lidera-el-escrutinio-frente-a-lula-en-las-elecciones-de-brasil/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/images-2026-10-04T144448.643-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-04T19:14:31.897Z"
+  "lastUpdate": "2026-10-04T22:47:40.834Z"
 };
