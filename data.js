@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 05 Octubre 2026"
     },
     "binance": {
-      "usdt": "977,50"
+      "usdt": "976,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La ONU espera que la transición democrática en Venezuela facilite el retorno de migrantes",
-      "link": "https://www.infobae.com/venezuela/2026/10/04/la-onu-espera-que-la-transicion-democratica-en-venezuela-facilite-el-retorno-de-migrantes/",
-      "image": "https://www.infobae.com/resizer/v2/IKGV5OEKRVDNRHACO62EYSADHA.JPG?auth=bd7c8290e5438ea140f6e92886595f531d6a9f815dd72e93669b3b1baa63c2b1&smart=true&width=350&height=197&quality=85"
+      "title": "El informe que documenta la violencia y exclusión contra las mujeres en la política venezolana",
+      "link": "https://www.infobae.com/venezuela/2026/10/04/el-informe-que-documenta-la-violencia-y-exclusion-contra-las-mujeres-en-la-politica-venezolana/",
+      "image": "https://www.infobae.com/resizer/v2/NNIOH5QFSNAD7HJFMVCPVP66DQ.jpg?auth=0ddcbe17b8dc89f9c45a6e7d470e062123262730067f984b913b2a074d8f4f54&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cayó un frondoso árbol sobre una casa con ancianita afectada en barrio 5 de julio",
-      "link": "https://noticialdia.com/al-dia/cayo-un-frondoso-aebol-sobre-una-casa-con-ancianita-afectada-en-barrio-5-de-julio/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/WhatsApp-Image-2026-10-03-at-9.11.00-PM-1.webp?x74346"
+      "title": "Niña venezolana de 7 años muere al ser apuñalada en plena calle de Chicago",
+      "link": "https://noticialdia.com/principal/nina-venezolana-de-7-anos-muere-al-ser-apunalada-en-plena-calle-de-chicago/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-4-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump, el crimen y la corrupción se ciernen sobre las elecciones de Brasil",
-      "link": "https://cnnespanol.cnn.com/2026/10/03/latinoamerica/brasil-eleccion-presidencial-polarizada-resultados-efectos-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trumpbrasil.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Demócratas se alistan ante posibles amenazas de Trump a elecciones",
+      "link": "https://cnnespanol.cnn.com/2026/10/04/eeuu/trump-elecciones-intermedias-democratas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/elecciones-inermedias-oct.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN 2015 INVITA A LA SOCIEDAD CIVIL A PARTICIPAR EN CONFORMACIÓN DE UN NUEVO TSJ",
-      "link": "https://noticierodigital.com/2026/10/an-2015-invita-a-la-sociedad-civil-a-participar-en-conformacion-de-un-nuevo-tsj/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/04/tsj-627x376.webp"
+      "title": "CONOZCA A CUÁNTO EQUIVALE EL «BONO DE CORRESPONSABILIDAD Y FORMACIÓN» DE OCTUBRE",
+      "link": "https://noticierodigital.com/2026/10/conozca-a-cuanto-equivale-el-bono-de-corresponsabilidad-y-formacion-de-octubre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/12/bonos-sistemapatria-19dic2022.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Presunto ciberdelincuente vinculado al “Tren de Aragua” es trasladado a EE. UU.",
-      "link": "https://laverdad.com/presunto-ciberdelincuente-vinculado-al-tren-de-aragua-es-trasladado-a-ee-uu/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/bdc4907641df7be27eabc8a0a8eb49ce732f8f6e.jpg"
+      "title": "Papa León XIV recuerda a San Francisco de Asís durante el Ángelus",
+      "link": "https://laverdad.com/papa-leon-xiv-recuerda-a-san-francisco-de-asis-durante-el-angelus/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/91e45135e747338b8cd6bf85857ff5c6cf00c7ff-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rescatan a dos menores reclutados a la fuerza por disidencias de las Farc en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/rescatan-a-dos-menores-reclutados-a-la-fuerza-por-disidencias-de-las-farc-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Disidencia-Farc-28-08-2026-750x430.jpg"
+      "title": "Lula y los principales candidatos ya votaron en Brasil",
+      "link": "https://diarioversionfinal.com/mundo/lula-y-los-principales-candidatos-ya-votaron-en-brasil/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/8TfaksUq-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-04T10:56:02.715Z"
+  "lastUpdate": "2026-10-04T15:41:38.276Z"
 };
