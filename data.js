@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 05 Octubre 2026"
     },
     "binance": {
-      "usdt": "973,80"
+      "usdt": "975,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera ofrece balance de un total de 770 viviendas afectadas tras vientos huracanados en el Zulia",
-      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-ofrece-balance-de-un-total-de-770-viviendas-afectadas-tras-vientos-huracanados-en-el-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-04T163411.946.webp?x74346"
+      "title": "Flávio Bolsonaro y Lula da Silva van a una segunda vuelta",
+      "link": "https://noticialdia.com/politica/flavio-bolsonaro-y-lula-da-silva-van-a-una-segunda-vuelta/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Anotacion-2026-10-04-210520.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Bolsonaro toma la delantera impulsado por los votos del sur de Brasil",
+      "title": "Bolsonaro: Es el fin de la era del Partido de los Trabajadores",
       "link": "https://cnnespanol.cnn.com/2026/10/04/latinoamerica/live-news/brasil-elecciones-presidenciales-en-vivo-resultado-lula-bolsonaro-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297975371.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298054982.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Flávio Bolsonaro lidera el escrutinio frente a Lula en las elecciones de Brasil",
-      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-lidera-el-escrutinio-frente-a-lula-en-las-elecciones-de-brasil/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/images-2026-10-04T144448.643-678x430.jpg"
+      "title": "Flávio Bolsonaro celebra el resultado electoral: “Brasil quiere un cambio”",
+      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-celebra-el-resultado-electoral-brasil-quiere-un-cambio/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/W4LP6636PFHQZGGF22TPWR3KJQ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-04T22:47:40.834Z"
+  "lastUpdate": "2026-10-05T01:39:11.569Z"
 };
