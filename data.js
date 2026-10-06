@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "872,39",
-      "eur": "977,22",
-      "fechaValor": "Martes, 06 Octubre 2026"
+      "usd": "873,87",
+      "eur": "984,26",
+      "fechaValor": "Miércoles, 07 Octubre 2026"
     },
     "binance": {
-      "usdt": "988,50"
+      "usdt": "995,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Cuatro reclusos adultos mayores fallecen en apenas 12 días en las cárceles de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/10/06/cuatro-reclusos-adultos-mayores-fallecen-en-apenas-12-dias-en-las-carceles-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/4GOC3DIPAZFCXFKKTXKV5BXWJI.jpg?auth=5a9d95ea040b1307991d0d97b38627be9a51fa74b156dc8f60b3b736ca17c77e&smart=true&width=350&height=197&quality=85"
+      "title": "La ONU extendió por dos años la misión que investiga los crímenes y abusos de Derechos Humanos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/10/06/la-onu-extendio-por-dos-anos-la-mision-que-investiga-los-crimenes-y-abusos-de-derechos-humanos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/54ZTDEDBWBFY3IJD7BU2XSKE6A.jpg?auth=e90a7632a2ade3954bb295f8bae1c0583edfd20ad0551875d3c8d2b373a59cf7&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Un mensaje de amor y prevención: Maracaibo transforma la lucha contra el cáncer de mama en una causa de vida y esperanza",
-      "link": "https://noticialdia.com/zulia/un-mensaje-de-amor-y-prevencion-maracaibo-transforma-la-lucha-contra-el-cancer-de-mama-en-una-causa-de-vida-y-esperanza/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/108d8e66-a171-44aa-b560-090adb4c1da7-convertido-a-1024x720-1.webp?x74346"
+      "title": "La Fonoplatea de los Éxitos se viste de gala con el inicio de las \"Noches de Gaita y Guaracha\"",
+      "link": "https://noticialdia.com/al-dia/la-fonoplatea-de-los-exitos-se-viste-de-gala-con-el-inicio-de-las-noches-de-gaita-y-guaracha/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-24-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Por qué Trump está en problemas con los votantes latinos",
-      "link": "https://cnnespanol.cnn.com/2026/10/06/eeuu/latinos-trump-economia-ice-intermedias-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2294073903.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump y los republicanos están entrando en pánico por las elecciones intermedias",
+      "link": "https://cnnespanol.cnn.com/2026/10/06/eeuu/trump-partido-republicano-panico-elecciones-intermedias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298211382-20261006202701390.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Gobierno venezolano rechaza la prórroga de dos años de la Misión de la ONU sobre derechos humanos",
-      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-venezolano-rechaza-la-prorroga-de-dos-anos-de-la-mision-de-la-onu-sobre-derechos-humanos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/onu-venezuela-1200x774-613768.jpg"
+      "title": "CIDH insta a la liberación de militares privados de libertad por motivos políticos en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/cidh-insta-a-la-liberacion-de-militares-privados-de-libertad-por-motivos-politicos-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo_cidh-38ffdb.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "OVP ADVIERTE EMPEORA SITUACIÓN PARA RECLUSOS MAYORES: CUATRO MURIERON EN 12 DÍAS",
-      "link": "https://noticierodigital.com/2026/10/ovp-advierte-empeora-situacion-para-reclusos-mayores-cuatro-murieron-en-12-dias/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/carcel-de-santa-ana-tachira-627x376.jpg"
+      "title": "CONOCOPHILLIPS: VENEZUELA TARDARÍA AL MENOS 10 AÑOS EN RECUPERAR PRODUCCIÓN PETROLERA",
+      "link": "https://noticierodigital.com/2026/10/conocophillips-venezuela-tardaria-al-menos-10-anos-en-recuperar-produccion-petrolera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/05/conocophillips.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Director de la NASA reaviva debate sobre vida extraterrestre y pide investigar los OVNIs sin descartar hipótesis",
-      "link": "https://diarioversionfinal.com/mundo/director-de-la-nasa-reaviva-debate-sobre-vida-extraterrestre-y-pide-investigar-los-ovnis-sin-descartar-hipotesis/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/96b92OB5-image-750x430.jpg"
+      "title": "Atentado en Cali: una red criminal detrás de la tragedia",
+      "link": "https://diarioversionfinal.com/mundo/atentado-en-cali-una-red-criminal-detras-de-la-tragedia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/MLytSIH0-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-06T18:48:33.308Z"
+  "lastUpdate": "2026-10-06T22:54:57.849Z"
 };
