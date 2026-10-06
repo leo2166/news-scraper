@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 06 Octubre 2026"
     },
     "binance": {
-      "usdt": "960,00"
+      "usdt": "988,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Ministerios de Agricultura y Comercio Nacional acuerdan plan para supervisar precios y distribución de agroinsumos",
-      "link": "https://www.bancaynegocios.com/ministerios-de-agricultura-y-comercio-nacional-acuerdan-plan-para-supervisar-precios-y-distribucion-de-agroinsumos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/08/Produccion-agricola.jpg"
+      "title": "Cavidea: Producción de alimentos se desarrolla en un contexto crítico por deficiencias de electricidad",
+      "link": "https://www.bancaynegocios.com/cavidea-produccion-de-alimentos-se-desarrolla-en-un-contexto-critico-por-deficiencias-de-electricidad/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/SupermercadoAlimentosComida.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos rechazó que Nicolás Maduro tenga inmunidad y dijo que Venezuela no solicitó esa protección para el ex dictador",
-      "link": "https://www.infobae.com/estados-unidos/2026/10/05/estados-unidos-rechazo-que-nicolas-maduro-tenga-inmunidad-y-dijo-que-venezuela-no-solicito-esa-proteccion-para-el-ex-dictador/",
-      "image": "https://www.infobae.com/resizer/v2/PLQ4I434IVGHTBIKZFJHSIKFFA.JPG?auth=8e06444fd2a13230652102652e9b91f5c77afcd982cc94ca9abf0d05293b9c35&smart=true&width=350&height=197&quality=85"
+      "title": "Cuatro reclusos adultos mayores fallecen en apenas 12 días en las cárceles de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/10/06/cuatro-reclusos-adultos-mayores-fallecen-en-apenas-12-dias-en-las-carceles-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4GOC3DIPAZFCXFKKTXKV5BXWJI.jpg?auth=5a9d95ea040b1307991d0d97b38627be9a51fa74b156dc8f60b3b736ca17c77e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Maracaibo vive la fiesta del voleibol continental con la presentación oficial del Sudamericano Femenino Sub-19",
-      "link": "https://noticialdia.com/deportes/maracaibo-vive-la-fiesta-del-voleibol-continental-con-la-presentacion-oficial-del-sudamericano-femenino-sub-19/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261005_232632_0000.webp?x74346"
+      "title": "Un mensaje de amor y prevención: Maracaibo transforma la lucha contra el cáncer de mama en una causa de vida y esperanza",
+      "link": "https://noticialdia.com/zulia/un-mensaje-de-amor-y-prevencion-maracaibo-transforma-la-lucha-contra-el-cancer-de-mama-en-una-causa-de-vida-y-esperanza/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/108d8e66-a171-44aa-b560-090adb4c1da7-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Demócratas captan electorado republicano en contiendas clave del Senado",
-      "link": "https://cnnespanol.cnn.com/2026/10/06/eeuu/encuestas-democratas-electorado-republicano-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-29895816-20261006084801696.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Por qué Trump está en problemas con los votantes latinos",
+      "link": "https://cnnespanol.cnn.com/2026/10/06/eeuu/latinos-trump-economia-ice-intermedias-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2294073903.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Rocío San Miguel: \"Venezuela debe apuntar a una reconciliación nacional\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/rocio-san-miguel-venezuela-debe-apuntar-a-una-reconciliacion-nacional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-10-05-230354-2bae58.png"
+      "title": "Gobierno venezolano rechaza la prórroga de dos años de la Misión de la ONU sobre derechos humanos",
+      "link": "https://noticiasvenevision.com/noticias/politica/gobierno-venezolano-rechaza-la-prorroga-de-dos-anos-de-la-mision-de-la-onu-sobre-derechos-humanos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/onu-venezuela-1200x774-613768.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ACTIVAN UNIDAD TERMOELÉCTRICO DEL ZULIA: INCORPORA 150 MEGAVATIOS AL SEN",
-      "link": "https://noticierodigital.com/2026/10/activan-unidad-termoelectrico-del-zulia-incorpora-150-megavatios-al-sen/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-2-627x376.png"
+      "title": "OVP ADVIERTE EMPEORA SITUACIÓN PARA RECLUSOS MAYORES: CUATRO MURIERON EN 12 DÍAS",
+      "link": "https://noticierodigital.com/2026/10/ovp-advierte-empeora-situacion-para-reclusos-mayores-cuatro-murieron-en-12-dias/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/carcel-de-santa-ana-tachira-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Expulsan a 9 venezolanos de Medellín con antecedentes por diferentes delitos",
-      "link": "https://laverdad.com/expulsan-a-9-venezolanos-de-medellin-con-antecedentes-por-diferentes-delitos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Venezolanos-expulsados-de-Medellin.jpg"
+      "title": "Juez federal bloquea las multas de Trump a inmigrantes por no salir del país",
+      "link": "https://laverdad.com/juez-federal-bloquea-las-multas-de-trump-a-inmigrantes-por-no-salir-del-pais/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Migrantes-EE.-UU.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos invierte en IA como nunca antes en su historia",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-invierte-en-ia-como-nunca-antes-en-su-historia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/egrGxWqR-image-750x430.jpg"
+      "title": "Director de la NASA reaviva debate sobre vida extraterrestre y pide investigar los OVNIs sin descartar hipótesis",
+      "link": "https://diarioversionfinal.com/mundo/director-de-la-nasa-reaviva-debate-sobre-vida-extraterrestre-y-pide-investigar-los-ovnis-sin-descartar-hipotesis/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/96b92OB5-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-06T12:51:37.706Z"
+  "lastUpdate": "2026-10-06T18:48:33.308Z"
 }
