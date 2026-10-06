@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "871,37",
-      "eur": "981,18",
-      "fechaValor": "Lunes, 05 Octubre 2026"
+      "usd": "872,39",
+      "eur": "977,22",
+      "fechaValor": "Martes, 06 Octubre 2026"
     },
     "binance": {
-      "usdt": "984,00"
+      "usdt": "987,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "FMI volverá a usar datos oficiales de Venezuela en sus estimaciones económicas, según Bloomberg",
-      "link": "https://www.bancaynegocios.com/fmi-volvera-a-usar-datos-oficiales-de-venezuela-en-sus-estimaciones-economicas-segun-bloomberg/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/FondoMonetarioInternacionalFMINueva.jpg"
+      "title": "Ministerios de Agricultura y Comercio Nacional acuerdan plan para supervisar precios y distribución de agroinsumos",
+      "link": "https://www.bancaynegocios.com/ministerios-de-agricultura-y-comercio-nacional-acuerdan-plan-para-supervisar-precios-y-distribucion-de-agroinsumos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/08/Produccion-agricola.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela: advierten que falta de información oficial agrava situación de niños y adolescentes víctimas del terremoto",
-      "link": "https://www.infobae.com/venezuela/2026/10/05/venezuela-advierten-que-falta-de-informacion-oficial-agrava-situacion-de-ninos-y-adolescentes-victimas-del-terremoto/",
-      "image": "https://www.infobae.com/resizer/v2/QFYDUAO5EBDPNDC4LGXFQ3WNBU.jpg?auth=198adb311e57b15ea5ecb8744e2ae27e696886b40a8eea6b253113b61536f91c&smart=true&width=350&height=197&quality=85"
+      "title": "Estados Unidos rechazó que Nicolás Maduro tenga inmunidad y dijo que Venezuela no solicitó esa protección para el ex dictador",
+      "link": "https://www.infobae.com/estados-unidos/2026/10/05/estados-unidos-rechazo-que-nicolas-maduro-tenga-inmunidad-y-dijo-que-venezuela-no-solicito-esa-proteccion-para-el-ex-dictador/",
+      "image": "https://www.infobae.com/resizer/v2/PLQ4I434IVGHTBIKZFJHSIKFFA.JPG?auth=8e06444fd2a13230652102652e9b91f5c77afcd982cc94ca9abf0d05293b9c35&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Portugal revierte el marcador ante Noruega y consolida su liderato invicto en Europa",
-      "link": "https://noticialdia.com/deportes/portugal-revierte-el-marcador-ante-noruega-y-consolida-su-liderato-invicto-en-europa/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-3-5.webp?x74346"
+      "title": "Maracaibo vive la fiesta del voleibol continental con la presentación oficial del Sudamericano Femenino Sub-19",
+      "link": "https://noticialdia.com/deportes/maracaibo-vive-la-fiesta-del-voleibol-continental-con-la-presentacion-oficial-del-sudamericano-femenino-sub-19/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261005_232632_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Las 10 contiendas clave en la lucha por el Senado de EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/10/05/eeuu/escanos-senado-cambio-elecciones-intermedias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/capitolio-gettyimages-2296831937.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Trump recurre a su territorio más seguro ante el riesgo de una \"paliza\" electoral",
+      "link": "https://cnnespanol.cnn.com/2026/10/05/eeuu/trump-gira-estados-republicanos-elecciones-intermedias-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/05-gopfivealarmfire-20261005212244102.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Instalan Comisión Especial en la Asamblea Nacional para la reforma de la Ley contra el Odio",
-      "link": "https://noticiasvenevision.com/noticias/politica/instalan-comision-especial-en-la-asamblea-nacional-para-la-reforma-de-la-ley-contra-el-odio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-2560x1703-55f871.jpeg"
+      "title": "Rocío San Miguel: \"Venezuela debe apuntar a una reconciliación nacional\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/rocio-san-miguel-venezuela-debe-apuntar-a-una-reconciliacion-nacional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-10-05-230354-2bae58.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PEDRO ELÍAS HERNÁNDEZ: «NO LE TENGAMOS MIEDO A LA DOLARIZACIÓN»",
-      "link": "https://noticierodigital.com/2026/10/pedro-elias-hernandez-no-le-tengamos-miedo-a-la-dolarizacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-1-627x376.png"
+      "title": "MUJER QUE ASESINÓ A NIÑA VENEZOLANA EN CHICAGO NO ACUDIÓ A SU AUDIENCIA",
+      "link": "https://noticierodigital.com/2026/10/mujer-que-asesino-a-nina-venezolana-en-chicago-no-acudio-a-su-audiencia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Shavon-Gayden-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Capturan en Colombia a la venezolana alias “Orlanda”: pertenecería al “Tren de Aragua",
-      "link": "https://laverdad.com/capturan-en-colombia-a-la-venezolana-alias-orlanda-perteneceria-al-tren-de-aragua/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Alias-orlanda.jpg"
+      "title": "Expulsan a 9 venezolanos de Medellín con antecedentes por diferentes delitos",
+      "link": "https://laverdad.com/expulsan-a-9-venezolanos-de-medellin-con-antecedentes-por-diferentes-delitos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Venezolanos-expulsados-de-Medellin.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Kast condiciona nuevas movilizaciones a compromiso de seguridad de organizadores",
-      "link": "https://diarioversionfinal.com/mundo/kast-condiciona-nuevas-movilizaciones-a-compromiso-de-seguridad-de-organizadores/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Jose-Antonio-Kast-2-15-12-2025-750x430.png"
+      "title": "Las casas nuevas en EE. UU. ya son más baratas que las usadas",
+      "link": "https://diarioversionfinal.com/mundo/las-casas-nuevas-en-ee-uu-ya-son-mas-baratas-que-las-usadas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/K66YVKkO-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-05T17:58:21.681Z"
+  "lastUpdate": "2026-10-06T05:51:48.046Z"
 };
