@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "873,87",
-      "eur": "984,26",
-      "fechaValor": "Miércoles, 07 Octubre 2026"
+      "usd": "874,73",
+      "eur": "979,08",
+      "fechaValor": "Jueves, 08 Octubre 2026"
     },
     "binance": {
-      "usdt": "999,00"
+      "usdt": "1008,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Datos: Por qué Venezuela mantiene el menor indicador de libertad económica en el mundo",
-      "link": "https://www.bancaynegocios.com/datos-por-que-venezuela-mantiene-el-menor-indicador-de-libertad-economica-en-el-mundo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/09/LIBERTAD-ECONOMICA-CEDICE.jpg"
+      "title": "Presidente de Funvessa exhorta a productores a sumarse a fase de \"remate\" de la caracterización del rebaño",
+      "link": "https://www.bancaynegocios.com/presidente-de-funvessa-exhorta-a-productores-a-sumarse-a-fase-de-remate-de-la-caracterizacion-del-rebano/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-4.07.48-PM.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "MinAguas realiza mantenimiento correctivo en tubería de agua potable en Zulia",
-      "link": "https://noticialdia.com/al-dia/minaguas-realiza-mantenimiento-correctivo-en-tuberia-de-agua-potable-en-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-5-6.webp?x74346"
+      "title": "Gobernador Luis Caldera ratifica compromiso del Zulia a 14 años de la victoria de Hugo Chávez",
+      "link": "https://noticialdia.com/?p=678450",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo_20260929_205317_0000.webp"
     },
     {
       "source": "CNN en Español",
-      "title": "ICE examinó millones de registros electorales. ¿Qué buscaba?",
-      "link": "https://cnnespanol.cnn.com/2026/10/07/eeuu/ice-registros-votantes-no-ciudadanos-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2275813446-20261007115803165.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Nicolás Maduro y Cilia Flores podrían enfrentar nuevos cargos en Nueva York",
+      "link": "https://cnnespanol.cnn.com/2026/10/07/venezuela/exclusivo-nicolas-maduro-cargos-tortura-estadounidenses-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/211017100330-nicolas-maduro-10-15-2021-20261007201138043.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez intervendrá en el Foro Mundial de la Alimentación de la FAO en Roma",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-intervendra-en-el-foro-mundial-de-la-alimentacion-de-la-fao-en-roma",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_0345-a8b379.jpg"
+      "title": "Carlos Ayala Corao afirma que una nueva independencia judicial es imperativa para el país",
+      "link": "https://noticiasvenevision.com/noticias/politica/carlos-ayala-corao-afirma-que-una-nueva-independencia-judicial-es-imperativa-para-el-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sonido-1---frame-at-0m2s-9c0ef5.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JAVIER TARAZONA: «LA MEJOR FORMA DE AVANZAR ES LIBERANDO A TOODOS LOS PRESOS POLÍTICOS»",
-      "link": "https://noticierodigital.com/2026/10/javier-tarazona-la-mejor-forma-de-avanzar-es-liberando-a-toodos-los-presos-politicos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/fundaredes-javier-rafael-tarazona-627x376.jpg"
+      "title": "LLUVIAS PROVOCARON INUNDACIONES, CAÍDA DE ÁRBOLES Y PROBLEMAS VIALES EN CARACAS",
+      "link": "https://noticierodigital.com/2026/10/lluvias-provocaron-inundaciones-caida-de-arboles-y-problemas-viales-en-caracas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/fuertes-lluvias-caracas-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Abogados revelan que Christa Pike está consciente y hablando",
-      "link": "https://laverdad.com/abogados-revelan-que-christa-pike-esta-consciente-y-hablando/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Christa-Pike-1.jpg"
+      "title": "Unas 50.000 personas se reúnen en Tel Aviv para la ceremonia en recuerdo del 7 de octubre",
+      "link": "https://laverdad.com/unas-50-000-personas-se-reunen-en-tel-aviv-para-la-ceremonia-en-recuerdo-del-7-de-octubre/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Tel-Aviv-7-de-octubre.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán pierde control del Estrecho de Ormuz, según Marco Rubio",
-      "link": "https://diarioversionfinal.com/mundo/iran-pierde-control-del-estrecho-de-ormuz-segun-marco-rubio/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/oxsy4d7N-image-750x430.jpg"
+      "title": "Reclusa sobrevive a ejecución fallida y se comunica con el mundo",
+      "link": "https://diarioversionfinal.com/mundo/reclusa-sobrevive-a-ejecucion-fallida-y-se-comunica-con-el-mundo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/YaBYIvpf-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-07T17:20:17.942Z"
+  "lastUpdate": "2026-10-07T22:48:48.522Z"
 };
