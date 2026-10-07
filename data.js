@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 07 Octubre 2026"
     },
     "binance": {
-      "usdt": "997,00"
+      "usdt": "998,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,13 +27,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Maracaibo atiende a familias afectadas por caída de árbol en el barrio 5 de Julio",
-      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-atiende-a-familias-afectadas-por-caida-de-arbol-en-el-barrio-5-de-julio/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-30-1.webp?x74346"
+      "title": "Una rotura en una línea de gas fue lo que ocasionó el incendio en la Refinería Cardón",
+      "link": "https://noticialdia.com/al-dia/una-rotura-en-una-linea-de-gas-fue-lo-que-ocasiono-el-incendio-en-la-refineria-cardon/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-22-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. tiene dificultades para gestionar las posibles consecuencias de la peste",
+      "title": "EE.UU solicita información a Rusia sobre las posibles consecuencias de la plaga",
       "link": "https://cnnespanol.cnn.com/2026/10/06/eeuu/falta-cooperacion-rusia-peste-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298261775-20261007011644441.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Atentado en Cali: una red criminal detrás de la tragedia",
-      "link": "https://diarioversionfinal.com/mundo/atentado-en-cali-una-red-criminal-detras-de-la-tragedia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/MLytSIH0-image-750x430.jpg"
+      "title": "Brote de ébola deja más de 4.100 muertos en la República Democrática del Congo",
+      "link": "https://diarioversionfinal.com/mundo/brote-de-ebola-deja-mas-de-4-100-muertos-en-la-republica-democratica-del-congo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2021/02/EBOLA.jpg"
     }
   ],
-  "lastUpdate": "2026-10-07T02:08:19.622Z"
+  "lastUpdate": "2026-10-07T09:54:17.373Z"
 };
