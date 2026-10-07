@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 07 Octubre 2026"
     },
     "binance": {
-      "usdt": "995,00"
+      "usdt": "997,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cavidea: Producción de alimentos se desarrolla en un contexto crítico por deficiencias de electricidad",
-      "link": "https://www.bancaynegocios.com/cavidea-produccion-de-alimentos-se-desarrolla-en-un-contexto-critico-por-deficiencias-de-electricidad/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/SupermercadoAlimentosComida.jpg"
+      "title": "Pagan \"Bono de Contingencia 2026\" de octubre por un monto de Bs.652.500 (+Detalles)",
+      "link": "https://www.bancaynegocios.com/pagan-bono-de-contingencia-2026-de-octubre-por-un-monto-de-bs-652500-detalles/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "La Fonoplatea de los Éxitos se viste de gala con el inicio de las \"Noches de Gaita y Guaracha\"",
-      "link": "https://noticialdia.com/al-dia/la-fonoplatea-de-los-exitos-se-viste-de-gala-con-el-inicio-de-las-noches-de-gaita-y-guaracha/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-24-1.webp?x74346"
+      "title": "Alcaldía de Maracaibo atiende a familias afectadas por caída de árbol en el barrio 5 de Julio",
+      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-atiende-a-familias-afectadas-por-caida-de-arbol-en-el-barrio-5-de-julio/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-30-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump y los republicanos están entrando en pánico por las elecciones intermedias",
-      "link": "https://cnnespanol.cnn.com/2026/10/06/eeuu/trump-partido-republicano-panico-elecciones-intermedias-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298211382-20261006202701390.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. tiene dificultades para gestionar las posibles consecuencias de la peste",
+      "link": "https://cnnespanol.cnn.com/2026/10/06/eeuu/falta-cooperacion-rusia-peste-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298261775-20261007011644441.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "CIDH insta a la liberación de militares privados de libertad por motivos políticos en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/cidh-insta-a-la-liberacion-de-militares-privados-de-libertad-por-motivos-politicos-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo_cidh-38ffdb.jpg"
+      "title": "Donald Trump destaca operaciones navales y ayuda enviada a Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/donald-trump-destaca-operaciones-navales-y-ayuda-enviada-a-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5919044961091391361_y-21cb97.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONOCOPHILLIPS: VENEZUELA TARDARÍA AL MENOS 10 AÑOS EN RECUPERAR PRODUCCIÓN PETROLERA",
-      "link": "https://noticierodigital.com/2026/10/conocophillips-venezuela-tardaria-al-menos-10-anos-en-recuperar-produccion-petrolera/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/05/conocophillips.jpg"
+      "title": "EMITIERON ALERTA NACIONAL POR POSIBLES EFECTOS EPIDEMIOLÓGICOS ASOCIADOS A EL NIÑO",
+      "link": "https://noticierodigital.com/2026/10/emitieron-alerta-nacional-por-posibles-efectos-epidemiologicos-asociados-a-el-nino/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/calor-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/MLytSIH0-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-06T22:54:57.849Z"
+  "lastUpdate": "2026-10-07T02:08:19.622Z"
 };
