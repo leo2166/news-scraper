@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 08 Octubre 2026"
     },
     "binance": {
-      "usdt": "1010,00"
+      "usdt": "1016,99"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Más de 60 adultos mayores del Zulia exhiben su talento e ingenio creativo en el Camlb",
-      "link": "https://noticialdia.com/al-dia/mas-de-60-adultos-mayores-del-zulia-exhiben-su-talento-e-ingenio-creativo-en-el-camlb/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-47-1.webp?x74346"
+      "title": "Fiesta total en el PEBA: Venezuela barre a Uruguay en el inicio del Sudamericano Femenino de Voleibol Sub-19",
+      "link": "https://noticialdia.com/deportes/fiesta-total-en-el-peba-venezuela-barre-a-uruguay-en-el-inicio-del-sudamericano-femenino-de-voleibol-sub-19/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261008_014017_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Nicolás Maduro y Cilia Flores podrían enfrentar nuevos cargos en Nueva York",
-      "link": "https://cnnespanol.cnn.com/2026/10/07/venezuela/exclusivo-nicolas-maduro-cargos-tortura-estadounidenses-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/211017100330-nicolas-maduro-10-15-2021-20261007201138043.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Ordenan a ICE aumentar detenciones pese al malestar de republicanos",
+      "link": "https://cnnespanol.cnn.com/2026/10/08/eeuu/ice-aumentar-detenciones-inmigrantes-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-28t230739z-1608364154-rc2nila9kcto-rtrmadp-3-usa-immigration-20261008053022275.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Carlos Ayala Corao afirma que una nueva independencia judicial es imperativa para el país",
-      "link": "https://noticiasvenevision.com/noticias/politica/carlos-ayala-corao-afirma-que-una-nueva-independencia-judicial-es-imperativa-para-el-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sonido-1---frame-at-0m2s-9c0ef5.jpg"
+      "title": "Carlos Ayala Corao: “No hay democracia sin independencia judicial”",
+      "link": "https://noticiasvenevision.com/noticias/politica/carlos-ayala-corao-no-hay-democracia-sin-independencia-judicial",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/carlosayalacoraoxrobertomata-8910-1920x1080-2b82e8.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reclusa sobrevive a ejecución fallida y se comunica con el mundo",
-      "link": "https://diarioversionfinal.com/mundo/reclusa-sobrevive-a-ejecucion-fallida-y-se-comunica-con-el-mundo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/YaBYIvpf-image-750x430.jpg"
+      "title": "Presentarán cargos de tortura contra Maduro y Cilia Flores",
+      "link": "https://diarioversionfinal.com/mundo/presentaran-cargos-de-tortura-contra-maduro-y-cilia-flores/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/nzu6k0Nw-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-08T02:34:06.934Z"
+  "lastUpdate": "2026-10-08T10:06:07.860Z"
 };
