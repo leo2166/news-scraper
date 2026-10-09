@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 09 Octubre 2026"
     },
     "binance": {
-      "usdt": "1017,00"
+      "usdt": "998,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,46 +21,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El partido de María Corina Machado pidió por su regreso a Venezuela sin inhabilitación para ejercer cargos públicos",
-      "link": "https://www.infobae.com/venezuela/2026/10/09/el-partido-de-maria-corina-machado-pidio-por-su-regreso-a-venezuela-sin-inhabilitacion-para-ejercer-cargos-publicos/",
-      "image": "https://www.infobae.com/resizer/v2/H2GGIOHRZBEB5AJFALXS4KJOFY.JPG?auth=65b09d58d0c30920dff6787bf3cf3c50c8f1e563aab225f35d6787dfdeee4fd7&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio respaldó el proceso de negociación política en Venezuela: “Queremos que tenga una democracia duradera”",
+      "link": "https://www.infobae.com/venezuela/2026/10/09/marco-rubio-respaldo-el-proceso-de-negociacion-politica-en-venezuela-queremos-que-tenga-una-democracia-duradera/",
+      "image": "https://www.infobae.com/resizer/v2/5OOOG4WHT5CAJD2G6TQHCMEECI.JPG?auth=e9b94b0e1df46bd4e6e3c78b47499a27e0293ffcb13c0c17d4ac18c997948ad9&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Los \"topos\" de la Alcaldía de Maracaibo son insustituibles para limpiar cañadas obstruidas",
-      "link": "https://noticialdia.com/al-dia/los-topos-de-la-alcaldia-de-maracaibo-son-insustituibles-para-limpiar-canadas-obstruidas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/8985d64a-0f21-4513-acdf-24ebd71005fc-1.webp?x74346"
+      "title": "Inicia la entrega del Bono de Contingencia 2026 para damnificados por el doblete sísmico",
+      "link": "https://noticialdia.com/al-dia/inicia-la-entrega-del-bono-de-contingencia-2026-para-damnificados-por-el-doblete-sismico/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-75.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Las torturas atribuidas a Maduro coinciden con hallazgos de la ONU",
-      "link": "https://cnnespanol.cnn.com/2026/10/08/venezuela/relatos-tortura-acusacion-maduro-patrones-onu-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2212344569.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Isaias se intensifica a huracán categoría 3 en su camino a Florida y Alabama",
+      "link": "https://cnnespanol.cnn.com/2026/10/08/clima-y-tiempo/live-news/huracan-isaias-noticias-pronosticos-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/aa6935a6-c9ea-49ea-a6a0-bce8cf9b562c-20261009015229705.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Marco Rubio se reunirá este viernes con Dinorah Figuera en Washington",
-      "link": "https://noticiasvenevision.com/noticias/politica/marco-rubio-se-reunira-el-viernes-con-dinorah-figuera-en-washington",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/plantillas-7d016f.jpg"
+      "title": "Departamento de Estado de EE. UU. reporta avances en el diálogo entre el gobierno encargado y la AN 2015",
+      "link": "https://noticiasvenevision.com/noticias/politica/departamento-de-estado-de-ee-uu-reporta-avances-en-el-dialogo-entre-el-gobierno-encargado-y-la-an-2015",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_qnmsubqnmsubqnms-clean-e02410.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "LARRY DEVOE PIDIÓ GARANTIZAR LOS DERECHOS DE LOS PUEBLOS INDÍGENAS EN EL SISTEMA DE JUSTICIA",
-      "link": "https://noticierodigital.com/2026/10/larry-devoe-pidio-garantizar-los-derechos-de-los-pueblos-indigenas-en-el-sistema-de-justicia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Imagen-destacada_20261008_212758_0000-627x376.jpg"
+      "title": "3ERA RONDA DE DIÁLOGO COMENZARÁ EL 14 DE OCTUBRE: FINALIZARÁ SELECCIÓN DEL TSJ Y ABORDARÁN REFORMA AL CNE",
+      "link": "https://noticierodigital.com/2026/10/3era-ronda-de-dialogo-comenzara-el-14-de-octubre-finalizara-seleccion-del-tsj-y-abordaran-reforma-al-cne/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/dialogo_EEUU_-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV sigue incorporando mujeres a la Curia: el Dicasterio para la Evangelización tiene secretaria auxiliar",
-      "link": "https://laverdad.com/leon-xiv-sigue-incorporando-mujeres-a-la-curia-el-dicasterio-para-la-evangelizacion-tiene-secretaria-auxiliar/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Mary-Barron-secretaria-Auxiliar-del-Dicasterio-para-la-Evangelizacion.jpg"
+      "title": "Trump sanciona a la CPI tras Nobel de la Paz a una de sus exjuezas",
+      "link": "https://laverdad.com/trump-sanciona-a-la-cpi-tras-nobel-de-la-paz-a-una-de-sus-exjuezas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/Venezuela-CPI-abandonar-responsabilidades-800x500-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Estados Unidos denuncia trabajo forzoso en misiones laborales cubanas",
-      "link": "https://diarioversionfinal.com/mundo/estados-unidos-denuncia-trabajo-forzoso-en-misiones-laborales-cubanas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/xfu8Mknd-image-750x430.jpg"
+      "title": "EE. UU. anuncia nuevas sanciones contra la CPI tras el Nobel de la Paz a Navi Pillay",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-anuncia-nuevas-sanciones-contra-la-cpi-tras-el-nobel-de-la-paz-a-navi-pillay/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/4d646391-fce7-4389-8994-73aa54c6365a_16-9-discover-aspect-ratio_default_0_x1200y533-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-09T10:08:10.622Z"
+  "lastUpdate": "2026-10-09T17:21:18.890Z"
 };
