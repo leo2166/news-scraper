@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 13 Octubre 2026"
     },
     "binance": {
-      "usdt": "1016,50"
+      "usdt": "1010,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El Foro Penal cifró en 322 los presos políticos en Venezuela que aún aguardan por su excarcelación",
-      "link": "https://www.infobae.com/venezuela/2026/10/10/el-foro-penal-cifro-en-322-los-presos-politicos-en-venezuela-que-aun-aguardan-por-su-excarcelacion/",
-      "image": "https://www.infobae.com/resizer/v2/GTEZRJZRZZCPTA2JIK5IYACBWU.jpg?auth=cff5bca18fb979ef9b1b413ada02b0e7f9d68bdc3ea26d05f83d0f3e29e24fd5&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela autorizó el uso de la red satelital Starlink",
+      "link": "https://www.infobae.com/venezuela/2026/10/10/venezuela-autorizo-el-uso-de-la-red-satelital-starlink/",
+      "image": "https://www.infobae.com/resizer/v2/5NNPKMVBYBCBVC7FXQDAIO5BRM.jpg?auth=9560ae9e7ee77f1f0c91f3cb71f556249c3af07d1af30c5188002a7c95090e78&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Jorge Rodríguez y Dinorah Figuera retomarán el 14 de octubre el diálogo para elegir a los jueces del Tribunal Supremo",
-      "link": "https://noticialdia.com/principal/jorge-rodriguez-y-dinorah-figuera-retoman-el-14-de-octubre-el-dialogo-para-elegir-a-los-jueces-del-tribunal-supremo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-Haroldo-70.webp?x74346"
+      "title": "Ramón Vera: \"La inteligencia artificial no es el futuro, es el presente que ya está rediseñando los negocios\"",
+      "link": "https://noticialdia.com/al-dia/ramon-vera-la-inteligencia-artificial-no-es-el-futuro-es-el-presente-que-ya-esta-redisenando-los-negocios/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-2026-10-10T113743.913.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Isaias tocó tierra en Florida con vientos destructivos",
+      "title": "Al menos dos muertos tras el paso de Isaias por el sureste de EE.UU.",
       "link": "https://cnnespanol.cnn.com/2026/10/08/clima-y-tiempo/live-news/huracan-isaias-noticias-pronosticos-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tresciclonestrop-trax-00-01-23-25-still001.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/horizontal-techo-arrancado-00-01-00-16-still002.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "TSJ AVALÓ PRÓRROGA POR 60 DÍAS DEL ESTADO DE EMERGENCIA ECONÓMICA",
-      "link": "https://noticierodigital.com/2026/10/tsj-avalo-prorroga-por-60-dias-del-estado-de-emergencia-economica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/01/tsj-tribunal-supremo-justicia-11may2021.jpg"
+      "title": "TRUMP INCLUYÓ LA CAPTURA DE MADURO ENTRE SUS ARGUMENTOS PARA RECLAMAR EL NOBEL",
+      "link": "https://noticierodigital.com/2026/10/trump-incluyo-la-captura-de-maduro-entre-sus-argumentos-para-reclamar-el-nobel/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/donald-trump-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Cierran temporalmente el Aeropuerto de Tocumen por el terremoto en Panamá",
-      "link": "https://laverdad.com/cierran-temporalmente-el-aeropuerto-de-tocumen-por-el-terremoto-en-panama/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Aeropuerto-Tocumen-Copa.jpg"
+      "title": "Terremoto en Panamá deja 27 heridos y más de 400 edificaciones afectadas",
+      "link": "https://laverdad.com/terremoto-en-panama-deja-27-heridos-y-mas-de-400-edificaciones-afectadas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/4069a9a6c1931a7ac9efad387df7faf01c8ddff5-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Policía brasileña neutraliza a sujeto que tenía de rehenes a 13 niños",
-      "link": "https://diarioversionfinal.com/mundo/policia-brasilena-neutraliza-a-sujeto-que-tenia-de-rehenes-a-13-ninos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/plGvx27Q-image-750x430.jpg"
+      "title": "Bomberos descartan accidente aéreo en Cundinamarca tras alerta ciudadana",
+      "link": "https://diarioversionfinal.com/mundo/bomberos-descartan-accidente-aereo-en-cundinamarca-tras-alerta-ciudadana/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/h3ao9DEj-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-10T09:29:23.399Z"
+  "lastUpdate": "2026-10-10T15:45:01.938Z"
 };
