@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 13 Octubre 2026"
     },
     "binance": {
-      "usdt": "1011,00"
+      "usdt": "1013,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "INTT anuncia restricción de circulación para vehículos de carga pesada por 48 horas",
-      "link": "https://www.bancaynegocios.com/intt-anuncia-restriccion-de-circulacion-para-vehiculos-de-carga-pesada-por-48-horas/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/02/TransporteDeCargaVenezuela.jpg"
+      "title": "Exportaciones no petroleras desde Nueva Esparta incrementan 54% en lo que va de 2026",
+      "link": "https://www.bancaynegocios.com/exportaciones-no-petroleras-desde-nueva-esparta-incrementan-54-porciento-en-lo-que-va-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/PUERTO-DE-GUAMACHE.webp"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Ana Clara de Di Martino: \"Creemos en esta generación de relevo con talento en robótica creativa\"",
-      "link": "https://noticialdia.com/zulia/ana-clara-de-di-martino-creemos-en-esta-generacion-de-relevo-con-talento-en-robotica-creativa/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/78154875-9fcc-4647-a947-50199c277dba-convertido-a-1024x720-1.webp?x74346"
+      "title": "Asamblea Nacional publica lista de ciudadanos para integrar el Comité de Postulaciones Judiciales",
+      "link": "https://noticialdia.com/al-dia/asamblea-nacional-publica-lista-de-ciudadanos-para-integrar-el-comite-de-postulaciones-judiciales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-11-14.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Hay al menos cuatro muertes relacionadas con Isaias, según las autoridades",
-      "link": "https://cnnespanol.cnn.com/2026/10/08/clima-y-tiempo/live-news/huracan-isaias-noticias-pronosticos-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/horizontal-techo-arrancado-00-01-00-16-still002.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "La posibilidad de que Trump haga perder el control del Senado al Partido Republicano",
+      "link": "https://cnnespanol.cnn.com/2026/10/10/eeuu/trump-perder-senado-partido-republicano-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-gop.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alcalde Gustavo Duque se reúne con Dinorah Figuera en Washington",
-      "link": "https://noticiasvenevision.com/noticias/politica/alcalde-gustavo-duque-se-reune-con-dinorah-figuera-en-washington",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-10-10-at-1.13.02-pm-52c9ba.jpeg"
+      "title": "Asamblea Nacional publica lista de aspirantes al Comité de Postulaciones Judiciales",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-publica-lista-de-aspirantes-al-comite-de-postulaciones-judiciales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hustwalwiaaegtx-7e7e10.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXCARCELARON A LENNY MARIANNY CRUZ BRACHE, SEÑALADA EN EL CASO PDVSA OBRERO",
-      "link": "https://noticierodigital.com/2026/10/excarcelaron-a-lenny-marianny-cruz-brache-senalada-en-el-caso-pdvsa-obrero/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Lenny-Marianny-Cruz-Brache-627x376.jpg"
+      "title": "MCM ASEGURÓ QUE TRABAJA PARA SUPERAR LOS OBSTÁCULOS Y VOLVER A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/10/mcm-aseguro-que-trabaja-para-superar-los-obstaculos-y-volver-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/maria-corina-machado-panama-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Puerto Vallarta en alerta ante la inminente llegada del huracán Simón",
-      "link": "https://diarioversionfinal.com/mundo/puerto-vallarta-en-alerta-ante-la-inminente-llegada-del-huracan-simon/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/CQitR8K5-image-750x430.jpg"
+      "title": "Pereira rinde homenaje a víctimas del terremoto con 97 árboles",
+      "link": "https://diarioversionfinal.com/mundo/pereira-rinde-homenaje-a-victimas-del-terremoto-con-97-arboles/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/GVDyJqGY-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-10T19:49:20.174Z"
+  "lastUpdate": "2026-10-10T23:17:08.052Z"
 };
