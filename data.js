@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 13 Octubre 2026"
     },
     "binance": {
-      "usdt": "1015,00"
+      "usdt": "1011,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El partido de María Corina Machado convocó a una protesta internacional para exigir una fecha para las elecciones en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/10/10/el-partido-de-maria-corina-machado-convoco-a-una-protesta-internacional-para-exigir-una-fecha-para-las-elecciones-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/DHE3AYRJUNCD7CULPYJSNLRIJU.jpg?auth=ce72b081f0f1299996619c0d2c81feb8d1453a5f117d94c9370221fed32b7080&smart=true&width=350&height=197&quality=85"
+      "title": "Denuncian irregularidades en el proceso judicial contra el Mayor del Ejército venezolano acusado de robar material militar",
+      "link": "https://www.infobae.com/venezuela/2026/10/11/denuncian-irregularidades-en-el-proceso-judicial-contra-el-mayor-del-ejercito-venezolano-acusado-de-robar-material-militar/",
+      "image": "https://www.infobae.com/resizer/v2/OEDMI2V5HJC5XOXCRWB35VF2GY.jpg?auth=f8a2a72b42469e4975c959367565f5b7fce5cc45d31466c79ce8f555f6f3474f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Asamblea Nacional publica lista de ciudadanos para integrar el Comité de Postulaciones Judiciales",
-      "link": "https://noticialdia.com/al-dia/asamblea-nacional-publica-lista-de-ciudadanos-para-integrar-el-comite-de-postulaciones-judiciales/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-11-14.webp?x74346"
+      "title": "Academia de Historia del Zulia otorgará el premio \"Dr. Agustín Millares Carlo\" al escritor Daniel Hernández por su libro Juana de Ávila, Rasgos Ocultos",
+      "link": "https://noticialdia.com/zulia/academia-de-historia-del-zulia-otorgara-el-premio-dr-agustin-millares-carlo-al-escritor-daniel-hernandez-por-su-libro-juana-de-avila-rasgos-ocultos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/302ce96e-f41e-4c36-be18-5deeb75a8edc-convertido-a-1024x720-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Vehículo de ICE atropella a un hombre en Texas tras operativo",
-      "link": "https://cnnespanol.cnn.com/2026/10/11/eeuu/hombre-atropellado-vehiculo-ice-houston-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/video-atropello-ice.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Huracán Simon cambia de trayectoria y ahora apunta hacia Sinaloa",
+      "link": "https://cnnespanol.cnn.com/2026/10/11/clima-y-tiempo/mexico-huracan-simon-trayectoria-pronostico-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-11t144121z-1003100711-rc221oajvcpz-rtrmadp-3-storm-simon.JPG?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "MCM ASEGURÓ QUE TRABAJA PARA SUPERAR LOS OBSTÁCULOS Y VOLVER A VENEZUELA",
-      "link": "https://noticierodigital.com/2026/10/mcm-aseguro-que-trabaja-para-superar-los-obstaculos-y-volver-a-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/maria-corina-machado-panama-627x376.jpg"
+      "title": "ÁLVARO PULIDO QUEDÓ BAJO CUSTODIA DE EE. UU. POR TRAMA DE CORRUPCIÓN EN VENEZUELA, SEGÚN AP",
+      "link": "https://noticierodigital.com/2026/10/alvaro-pulido-quedo-bajo-custodia-de-ee-uu-por-trama-de-corrupcion-en-venezuela-segun-ap/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/alvaro-pulido-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump tacha de “corrupto” al comité del Nobel de la Paz y vuelve a reclamar el premio",
-      "link": "https://laverdad.com/trump-tacha-de-corrupto-al-comite-del-nobel-de-la-paz-y-vuelve-a-reclamar-el-premio/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/trump-nobel-paz-768x389-1.jpg"
+      "title": "Delcy Rodríguez conversa con Mulino y le ofrece apoyo tras terremoto en Panamá",
+      "link": "https://laverdad.com/delcy-rodriguez-conversa-con-mulino-y-le-ofrece-apoyo-tras-terremoto-en-panama/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/gv-2026-10-11t081856569jpg-69959.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Bloque Constitucional denuncia exclusión de la diáspora en la postulación al Comité de Postulaciones Judiciales",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-principal/bloque-constitucional-denuncia-exclusion-de-la-diaspora-en-la-postulacion-al-comite-de-postulaciones-judiciales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Captura-de-pantalla_27-4-2026_144241_transparenciave.org_-750x430.jpeg"
+      "title": "Hamás celebra el Nobel de la Paz otorgado a Navi Pillay y exige justicia por Gaza",
+      "link": "https://diarioversionfinal.com/mundo/hamas-celebra-el-nobel-de-la-paz-otorgado-a-navi-pillay-y-exige-justicia-por-gaza/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/NAVI-PILLAY.webp"
     }
   ],
-  "lastUpdate": "2026-10-11T11:15:25.316Z"
+  "lastUpdate": "2026-10-11T17:25:05.600Z"
 };
