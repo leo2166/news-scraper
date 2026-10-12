@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 13 Octubre 2026"
     },
     "binance": {
-      "usdt": "1013,00"
+      "usdt": "1014,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,21 +27,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Todo o nada en el Belisario Aponte: Venezuela se juega ante Brasil el podio y el cupo al Mundial Sub-19",
-      "link": "https://noticialdia.com/principal/todo-o-nada-en-el-belisario-aponte-venezuela-se-juega-ante-brasil-el-podio-y-el-cupo-al-mundial-sub-19/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-2026-10-11T165252.987.webp?x74346"
+      "title": "Delcy Rodríguez presenta balance del plan “Venezuela Renace” a 100 días del doble terremoto",
+      "link": "https://noticialdia.com/al-dia/delcy-rodriguez-presenta-balance-del-plan-venezuela-renace-a-100-dias-del-doble-terremoto/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-2026-10-11T220535.773.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "El “extremadamente peligroso” huracán Simon permanece cerca de México",
-      "link": "https://cnnespanol.cnn.com/2026/10/11/clima-y-tiempo/mexico-huracan-simon-trayectoria-pronostico-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299055808.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Rusia, las ejecuciones y las deportaciones revelan cómo ejerce Trump el poder",
+      "link": "https://cnnespanol.cnn.com/2026/10/12/eeuu/analisis-trump-rusia-ejecucion-inmigracion-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-american-flag.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Primero Justicia reacciona ante el proceso judicial de Álvaro Pulido en Estados Unidos",
-      "link": "https://noticiasvenevision.com/noticias/politica/primero-justicia-reacciona-ante-el-proceso-judicial-de-alvaro-pulido-en-estados-unidos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-5-f08986.jpg"
+      "title": "Delcy Rodríguez presenta balance a más de 100 días de la atención tras terremotos",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-presenta-balance-a-mas-de-100-dias-de-la-atencion-tras-terremotos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l8230-4b95af.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juez mantiene en prisión a Shavon Gayden por asesinato de niña venezolana",
-      "link": "https://diarioversionfinal.com/mundo/juez-mantiene-en-prision-a-shavon-gayden-por-asesinato-de-nina-venezolana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/qYg2A8tt-image-750x430.jpg"
+      "title": "Carolina Plata, la amiga y asesora que manejaba las cuentas de Verónica Alcocer, según Eva Ferrer",
+      "link": "https://diarioversionfinal.com/mundo/carolina-plata-la-amiga-y-asesora-que-manejaba-las-cuentas-de-veronica-alcocer-segun-eva-ferrer/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/0ZILUKBA-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-12T01:02:35.093Z"
+  "lastUpdate": "2026-10-12T08:42:28.076Z"
 };
