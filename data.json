@@ -6,7 +6,7 @@
       "fechaValor": "Martes, 13 Octubre 2026"
     },
     "binance": {
-      "usdt": "1014,00"
+      "usdt": "1008,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Jorge Roig prevé que se alcanzarán acuerdos laborales respaldados por Gobierno, empresarios y trabajadores",
-      "link": "https://www.bancaynegocios.com/jorge-roig-preve-que-se-alcanzaran-acuerdos-laborales-respaldados-por-gobierno-empresarios-y-trabajadores/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/jorge_roig.jpg"
+      "title": "#InformePrivado El fin de las reglas conocidas: rigor fiscal, choque de liquidez y el nuevo estándar corporativo",
+      "link": "https://www.bancaynegocios.com/informeprivado-el-fin-de-las-reglas-conocidas-rigor-fiscal-choque-de-liquidez-y-el-nuevo-estandar-corporativo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/plan-estrategia-1.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Denuncian irregularidades en el proceso judicial contra el Mayor del Ejército venezolano acusado de robar material militar",
-      "link": "https://www.infobae.com/venezuela/2026/10/11/denuncian-irregularidades-en-el-proceso-judicial-contra-el-mayor-del-ejercito-venezolano-acusado-de-robar-material-militar/",
-      "image": "https://www.infobae.com/resizer/v2/OEDMI2V5HJC5XOXCRWB35VF2GY.jpg?auth=f8a2a72b42469e4975c959367565f5b7fce5cc45d31466c79ce8f555f6f3474f&smart=true&width=350&height=197&quality=85"
+      "title": "Oposición venezolana advierte: “No habrá elecciones verdaderamente libres mientras los tribunales puedan desconocer la voluntad popular”",
+      "link": "https://www.infobae.com/venezuela/2026/10/12/oposicion-venezolana-advierte-no-habra-elecciones-verdaderamente-libres-mientras-los-tribunales-puedan-desconocer-la-voluntad-popular/",
+      "image": "https://www.infobae.com/assets/images/logos/logo_infobae_naranja_default.svg"
     },
     {
       "source": "Noticia al Día",
-      "title": "Delcy Rodríguez presenta balance del plan “Venezuela Renace” a 100 días del doble terremoto",
-      "link": "https://noticialdia.com/al-dia/delcy-rodriguez-presenta-balance-del-plan-venezuela-renace-a-100-dias-del-doble-terremoto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-2026-10-11T220535.773.webp?x74346"
+      "title": "Murió bebé de tres meses quemada durante incendio generado por bajón eléctrico en Maracaibo",
+      "link": "https://noticialdia.com/al-dia/murio-bebe-de-tres-meses-quemada-durante-incendio-generado-por-bajon-electrico-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-12T143054.804.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Rusia, las ejecuciones y las deportaciones revelan cómo ejerce Trump el poder",
-      "link": "https://cnnespanol.cnn.com/2026/10/12/eeuu/analisis-trump-rusia-ejecucion-inmigracion-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-american-flag.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "“Empiecen a disparar”: amenazas por centros de datos en EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/10/12/eeuu/centros-datos-ia-amenazas-violencia-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/copia-de-thumbnail-youtube-3-4.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez presenta balance a más de 100 días de la atención tras terremotos",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-presenta-balance-a-mas-de-100-dias-de-la-atencion-tras-terremotos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/jc_l8230-4b95af.jpg"
+      "title": "Delcy Rodríguez en la FAO: \"Los alimentos jamás deben ser instrumentos de presión o confrontación política\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-en-la-fao-los-alimentos-jamas-deben-ser-instrumentos-de-presion-o-confrontacion-politica",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-4-51679b.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FISCAL GENERAL DE EE. UU. CONFIRMÓ DETENCIÓN DE ÁLVARO PULIDO, SOCIO DE ALEX SAAB",
-      "link": "https://noticierodigital.com/2026/10/fiscal-general-de-ee-uu-confirmo-detencion-de-alvaro-pulido-socio-de-alex-saab/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Todd-Blanche-627x376.jpg"
+      "title": "VÍCTIMAS DEL TERREMOTO: VOLUNTARIOS HALLAN CUERPOS DE DOS MUJERES EN RESIDENCIAS CARIBE",
+      "link": "https://noticierodigital.com/2026/10/victimas-del-terremoto-voluntarios-hallan-cuerpos-de-dos-mujeres-en-residencias-caribe/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-29-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Dan de alta a Christa Pike tras sobrevivir a dos inyecciones letales en Tennessee",
-      "link": "https://laverdad.com/dan-de-alta-a-christa-pike-tras-sobrevivir-a-dos-inyecciones-letales-en-tennessee/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/261008-christa-pike-execution-ww-1313-a972d7.jpg"
+      "title": "Delcy Rodríguez aborda con Abinader la cooperación energética y consular en reunión en Roma",
+      "link": "https://laverdad.com/delcy-rodriguez-aborda-con-abinader-la-cooperacion-energetica-y-consular-en-reunion-en-roma/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Delcy-Rodriguez-Luis-Abinader-Roma.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Carolina Plata, la amiga y asesora que manejaba las cuentas de Verónica Alcocer, según Eva Ferrer",
-      "link": "https://diarioversionfinal.com/mundo/carolina-plata-la-amiga-y-asesora-que-manejaba-las-cuentas-de-veronica-alcocer-segun-eva-ferrer/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/0ZILUKBA-image-750x430.jpg"
+      "title": "Revelaciones sobre la ex primera dama generan temor entre funcionarios",
+      "link": "https://diarioversionfinal.com/mundo/revelaciones-sobre-la-ex-primera-dama-generan-temor-entre-funcionarios/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/OrqSGuZl-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-12T08:42:28.076Z"
+  "lastUpdate": "2026-10-12T18:39:31.413Z"
 }
