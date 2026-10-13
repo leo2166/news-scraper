@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 13 Octubre 2026"
     },
     "binance": {
-      "usdt": "1008,00"
+      "usdt": "1010,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,46 +21,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Oposición venezolana advierte: “No habrá elecciones verdaderamente libres mientras los tribunales puedan desconocer la voluntad popular”",
-      "link": "https://www.infobae.com/venezuela/2026/10/12/oposicion-venezolana-advierte-no-habra-elecciones-verdaderamente-libres-mientras-los-tribunales-puedan-desconocer-la-voluntad-popular/",
-      "image": "https://www.infobae.com/assets/images/logos/logo_infobae_naranja_default.svg"
+      "title": "Delcy Rodríguez dijo que el diálogo con Estados Unidos y la oposición contribuye a la recuperación económica en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/10/12/delcy-rodriguez-dijo-que-el-dialogo-con-estados-unidos-y-la-oposicion-contribuye-a-la-recuperacion-economica-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/OLGT7ZUBRFCTNIGLFMMZO2VEJI.JPG?auth=0870f97993659941eb89181b0c463be182ff8f8346db8293b4e556e28b4dcc4d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Murió bebé de tres meses quemada durante incendio generado por bajón eléctrico en Maracaibo",
-      "link": "https://noticialdia.com/al-dia/murio-bebe-de-tres-meses-quemada-durante-incendio-generado-por-bajon-electrico-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-12T143054.804.webp?x74346"
+      "title": "Zoológico Las Delicias de Maracay presentó oficialmente a sus nuevos leoncitos",
+      "link": "https://noticialdia.com/al-dia/zoologico-las-delicias-de-maracay-presento-oficialmente-a-sus-nuevos-leoncitos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-3-8.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "“Empiecen a disparar”: amenazas por centros de datos en EE.UU.",
-      "link": "https://cnnespanol.cnn.com/2026/10/12/eeuu/centros-datos-ia-amenazas-violencia-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/copia-de-thumbnail-youtube-3-4.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "¿Cómo puede impactar el voto latino en las elecciones intermedias?",
+      "link": "https://cnnespanol.cnn.com/2026/10/12/eeuu/voto-latino-encuestas-economia-migracion-texas-trump-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-79530637.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez en la FAO: \"Los alimentos jamás deben ser instrumentos de presión o confrontación política\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-en-la-fao-los-alimentos-jamas-deben-ser-instrumentos-de-presion-o-confrontacion-politica",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-4-51679b.jpg"
+      "title": "Venezuela rechaza declaraciones del canciller de Uruguay por considerarlas una intromisión",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-rechaza-declaraciones-del-canciller-de-uruguay-por-considerarlas-una-intromision",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5912659805011119694_x-8fe359.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VÍCTIMAS DEL TERREMOTO: VOLUNTARIOS HALLAN CUERPOS DE DOS MUJERES EN RESIDENCIAS CARIBE",
-      "link": "https://noticierodigital.com/2026/10/victimas-del-terremoto-voluntarios-hallan-cuerpos-de-dos-mujeres-en-residencias-caribe/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-29-627x376.png"
+      "title": "BID HARÁ PRIMER DESEMBOLOSO PARA VENEZUELA POR $2.000 MILLONES A FINALES DE OCTUBRE",
+      "link": "https://noticierodigital.com/2026/10/bid-hara-primer-desemboloso-para-venezuela-por-2-000-millones-a-finales-de-octubre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-15-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Delcy Rodríguez aborda con Abinader la cooperación energética y consular en reunión en Roma",
-      "link": "https://laverdad.com/delcy-rodriguez-aborda-con-abinader-la-cooperacion-energetica-y-consular-en-reunion-en-roma/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Delcy-Rodriguez-Luis-Abinader-Roma.jpg"
+      "title": "Interceptan lancha con 24 migrantes venezolanos que trataban de ingresar ilegalmente a Aruba",
+      "link": "https://laverdad.com/interceptan-lancha-con-24-migrantes-venezolanos-que-trataban-de-ingresar-ilegalmente-a-aruba/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Guardia-Costera-del-Caribe-Neerlandes.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Revelaciones sobre la ex primera dama generan temor entre funcionarios",
-      "link": "https://diarioversionfinal.com/mundo/revelaciones-sobre-la-ex-primera-dama-generan-temor-entre-funcionarios/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/OrqSGuZl-image-750x430.jpg"
+      "title": "Cuba da un giro en su sector petrolero con concesiones a extranjeros",
+      "link": "https://diarioversionfinal.com/mundo/cuba-da-un-giro-en-su-sector-petrolero-con-concesiones-a-extranjeros/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/cuba-fidel.avif"
     }
   ],
-  "lastUpdate": "2026-10-12T18:39:31.413Z"
+  "lastUpdate": "2026-10-13T01:08:07.706Z"
 };
