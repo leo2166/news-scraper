@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 13 Octubre 2026"
     },
     "binance": {
-      "usdt": "1010,00"
+      "usdt": "1011,85"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#InformePrivado El fin de las reglas conocidas: rigor fiscal, choque de liquidez y el nuevo estándar corporativo",
-      "link": "https://www.bancaynegocios.com/informeprivado-el-fin-de-las-reglas-conocidas-rigor-fiscal-choque-de-liquidez-y-el-nuevo-estandar-corporativo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/plan-estrategia-1.jpg"
+      "title": "El FMI mejora proyecciones sobre Venezuela y espera crecimientos de 5% este año y de 7% en 2027",
+      "link": "https://www.bancaynegocios.com/el-fmi-mejora-proyecciones-sobre-venezuela-y-espera-crecimientos-de-5-porciento-este-ano-y-de-7-porciento-en-2027/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/06/FondoMonetarioInternacionalFMINueva.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez dijo que el diálogo con Estados Unidos y la oposición contribuye a la recuperación económica en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/10/12/delcy-rodriguez-dijo-que-el-dialogo-con-estados-unidos-y-la-oposicion-contribuye-a-la-recuperacion-economica-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/OLGT7ZUBRFCTNIGLFMMZO2VEJI.JPG?auth=0870f97993659941eb89181b0c463be182ff8f8346db8293b4e556e28b4dcc4d&smart=true&width=350&height=197&quality=85"
+      "title": "República Dominicana y Venezuela evalúan reanudar la compra directa de combustibles venezolanos",
+      "link": "https://www.infobae.com/republica-dominicana/2026/10/13/republica-dominicana-y-venezuela-evaluan-reanudar-la-compra-directa-de-combustibles-venezolanos/",
+      "image": "https://www.infobae.com/resizer/v2/YX3UL2MHPJERLAO7GRS7YWOLOQ.jpg?auth=31f052e6850bba7116b3b8dc580ab24c9f334c90187f888f4b142c586ae997cc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Cuba da un giro en su sector petrolero con concesiones a extranjeros",
-      "link": "https://diarioversionfinal.com/mundo/cuba-da-un-giro-en-su-sector-petrolero-con-concesiones-a-extranjeros/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/cuba-fidel.avif"
+      "title": "Flávio Bolsonaro retoma visitas a su padre en medio de elecciones",
+      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-retoma-visitas-a-su-padre-en-medio-de-elecciones/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/N3wWRLg7-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-13T01:08:07.706Z"
+  "lastUpdate": "2026-10-13T09:01:25.685Z"
 };
