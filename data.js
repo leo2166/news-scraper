@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 14 Octubre 2026"
     },
     "binance": {
-      "usdt": "1009,99"
+      "usdt": "1007,98"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fedeunep urge alza salarial: Aseguran que no han recibido propuestas de los sectores público y privado",
-      "link": "https://www.bancaynegocios.com/fedeunep-urge-alza-salarial-aseguran-que-no-han-recibido-propuestas-de-los-sectores-publico-y-privado/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Venezuela espera publicar \"muy pronto\" un análisis de sostenibilidad de la deuda externa",
+      "link": "https://www.bancaynegocios.com/venezuela-espera-publicar-muy-pronto-un-analisis-de-sostenibilidad-de-la-deuda-externa/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/calixto_ortega_sanchez.webp"
     },
     {
       "source": "Infobae",
@@ -28,14 +28,14 @@ window.DASHBOARD_DATA = {
     {
       "source": "Noticia al Día",
       "title": "¡Paliza rapaz! Águilas del Zulia debuta con blanqueada sobre Leones del Caracas en el Luis Aparicio \"El Grande\"",
-      "link": "https://noticialdia.com/?p=680964",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-19-2.webp"
+      "link": "https://noticialdia.com/deportes/paliza-rapaz-aguilas-del-zulia-debuta-con-blanqueada-sobre-leones-del-caracas-en-el-luis-aparicio-el-grande/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261014_024746_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump recurre al miedo ante deterioro de perspectivas republicanas",
-      "link": "https://cnnespanol.cnn.com/2026/10/14/eeuu/trump-politica-miedo-partido-republicano-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297606349-20261012225452101-20261014055430537.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "El \"impuesto ICE\" y su impacto en los negocios de EE.UU.",
+      "link": "https://cnnespanol.cnn.com/2026/10/14/eeuu/impuesto-ice-empleo-economia-inmigracion-orix",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298994441.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DETUVIERON A TRES PERSONAS EN CARACAS POR ESTAFA CON COMPRA DE CELULARES DE ALTA GAMA",
-      "link": "https://noticierodigital.com/2026/10/detuvieron-a-tres-personas-en-caracas-por-estafa-con-compra-de-celulares-de-alta-gama/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/08/cicpc_2ago2020.jpg"
+      "title": "LANZAN CONVOCATORIA PARA ACELERAR EMPRESAS, STARTUPS O PYMES EN AMÉRICA LATINA",
+      "link": "https://noticierodigital.com/2026/10/lanzan-convocatoria-para-acelerar-empresas-startups-o-pymes-en-america-latina/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/10/Diseno-sin-titulo-2-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Vaticano revela que el Papa fue operado de un adenocarcinoma pulmonar",
-      "link": "https://laverdad.com/vaticano-revela-que-el-papa-fue-operado-de-un-adenocarcinoma-pulmonar/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Papa-scaled.jpg"
+      "title": "El Papa pasa una noche tranquila tras ser operado de cáncer en el pulmón",
+      "link": "https://laverdad.com/el-papa-pasa-una-noche-tranquila-tras-ser-operado-de-cancer-en-el-pulmon/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Leon-XIV-noche-tranquila.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ciberataque desata crisis alimentaria en Francia: 700 supermercados afectados",
-      "link": "https://diarioversionfinal.com/mundo/ciberataque-desata-crisis-alimentaria-en-francia-700-supermercados-afectados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/VpwtlvwK-image-750x430.jpg"
+      "title": "Trump anuncia exploración masiva de recursos en Groenlandia",
+      "link": "https://diarioversionfinal.com/mundo/trump-anuncia-exploracion-masiva-de-recursos-en-groenlandia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/B534VK1b-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-14T07:09:09.185Z"
+  "lastUpdate": "2026-10-14T13:20:20.409Z"
 };
