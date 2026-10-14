@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 14 Octubre 2026"
     },
     "binance": {
-      "usdt": "1007,00"
+      "usdt": "1008,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Conindustria: Un ajuste salarial que equipare a la canasta básica requiere reducción de la carga fiscal",
-      "link": "https://www.bancaynegocios.com/conindustria-un-ajuste-salarial-que-equipare-a-la-canasta-basica-requiere-reduccion-de-la-carga-fiscal/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/12/TITO-LOPEZ-PRESIDENTE-DE-CONINDUSTRIA-DIC-2025.jpg"
+      "title": "Fedeunep urge alza salarial: Aseguran que no han recibido propuestas de los sectores público y privado",
+      "link": "https://www.bancaynegocios.com/fedeunep-urge-alza-salarial-aseguran-que-no-han-recibido-propuestas-de-los-sectores-publico-y-privado/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Sismo de magnitud 5.2 registrado en Colombia se sintió en zonas del occidente venezolano",
-      "link": "https://noticialdia.com/al-dia/sismo-de-magnitud-5-2-registrado-en-colombia-se-sintio-en-zonas-del-occidente-venezolano/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-9.webp?x74346"
+      "title": "Iluminación Gaita y Show enciende la Copa Noticia al día este 14 de Octubre en el Luis Aparicio",
+      "link": "https://noticialdia.com/al-dia/iluminacion-gaita-y-show-enciende-la-copa-noticia-al-dia-este-14-de-octubre-en-el-luis-aparicio/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PlantillaMIK-81.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Diagnostican cáncer de pulmón al papa León XIV, según el Vaticano",
-      "link": "https://cnnespanol.cnn.com/2026/10/13/mundo/papa-leon-ingresado-hospital-nodulo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-23065535-499631-still.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Critican a Katie Zacharia tras una \"brutal\" primera conferencia de prensa",
+      "link": "https://cnnespanol.cnn.com/2026/10/13/eeuu/trump-katie-zacharia-secretaria-prensa-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/zacharia.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ INVOCÓ A JOSÉ GREGORIO HERNÁNDEZ Y CARMEN RENDILES POR LA SALUD DEL PAPA",
-      "link": "https://noticierodigital.com/2026/10/delcy-rodriguez-invoco-a-jose-gregorio-hernandez-y-carmen-rendiles-por-la-salud-del-papa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/delcy-rodriguez-venezuela-2-2-627x376.jpg"
+      "title": "DETUVIERON A TRES PERSONAS EN CARACAS POR ESTAFA CON COMPRA DE CELULARES DE ALTA GAMA",
+      "link": "https://noticierodigital.com/2026/10/detuvieron-a-tres-personas-en-caracas-por-estafa-con-compra-de-celulares-de-alta-gama/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/08/cicpc_2ago2020.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Granizada y tormentas eléctricas azotan Santiago",
-      "link": "https://diarioversionfinal.com/mundo/granizada-y-tormentas-electricas-azotan-santiago/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Granizo-en-Chile-13-10-2026.jpg"
+      "title": "Tensión entre la Otan y Putin tras hundimiento de buque búlgaro en el mar Negro",
+      "link": "https://diarioversionfinal.com/mundo/tension-entre-la-otan-y-putin-tras-hundimiento-de-buque-bulgaro-en-el-mar-negro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Buque-atacado-por-Rusia-13-10-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-10-13T22:20:37.505Z"
+  "lastUpdate": "2026-10-14T01:36:55.058Z"
 };
