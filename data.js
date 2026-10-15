@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 15 Octubre 2026"
     },
     "binance": {
-      "usdt": "1011,80"
+      "usdt": "1010,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan el \"Ingreso Integral de los Trabajadores\" de octubre al personal activo: Incrementó 4,40% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-el-ingreso-integral-de-los-trabajadores-de-octubre-al-personal-activo-incremento-4punto40-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
+      "title": "Entregan en la AN proyectos de leyes de Presupuesto Nacional, del BCV y de Endeudamiento para 2027",
+      "link": "https://www.bancaynegocios.com/entregan-en-la-an-proyectos-de-leyes-de-presupuesto-nacional-del-bcv-y-de-endeudamiento-para-2027/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-7.12.33-PM.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Reino Unido incluye al Zulia entre las zonas de riesgo en su última alerta de viaje para Venezuela",
-      "link": "https://noticialdia.com/?p=681266",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-19-2.webp"
+      "title": "\"El Nido\" vibra de emoción: Águilas y Leones se miden en el Luis Aparicio por la Copa Noticia al Día",
+      "link": "https://noticialdia.com/al-dia/el-nido-vibra-de-emocion-aguilas-y-leones-se-miden-en-el-luis-aparicio-por-la-copa-noticia-al-dia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-32-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "EE.UU. retira sanciones contra Jorge Rodríguez",
-      "link": "https://cnnespanol.cnn.com/2026/10/14/venezuela/tesoro-eeuu-retira-sanciones-jorge-rodriguez-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2288683570.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Talarico ahonda en su postura sobre temas como migración y aborto",
+      "link": "https://cnnespanol.cnn.com/2026/10/14/eeuu/live-news/foro-talarico-jubilee-senado-texas-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tr208937-20261015001923736.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SECTOR MINERO DENUNCIÓ PRESUNTAS IRREGULARIDADES EN TORNO A LA ALIANZA «MAMÁ PANCHA»",
-      "link": "https://noticierodigital.com/2026/10/sector-minero-denuncio-presuntas-irregularidades-en-torno-a-la-alianza-mama-pancha/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/sector-minero-mama-pancha-627x376.jpg"
+      "title": "CONSETURISMO PROPUSO CREAR UN FONDO NACIONAL FINANCIADO CON LA RENTA PETROLERA",
+      "link": "https://noticierodigital.com/2026/10/conseturismo-propuso-crear-un-fondo-nacional-financiado-con-la-renta-petrolera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/conseturismo_17mar2020.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Localizan sin vida a venezolana en Texas y ordenan arresto de su expareja",
       "link": "https://laverdad.com/localizan-sin-vida-a-venezolana-en-texas-y-ordenan-arresto-de-su-expareja/",
-      "image": "https://laverdad.com/pagespeed_static/1.JiBnMqyl6S.gif"
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/venezolana-en-denton.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La torpeza de Katie Zacharia despierta dudas sobre su idoneidad",
-      "link": "https://diarioversionfinal.com/mundo/la-torpeza-de-katie-zacharia-despierta-dudas-sobre-su-idoneidad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/wpDtnvzt-image-750x430.jpg"
+      "title": "Imputan a Nervis Villalobos por presuntas irregularidades en su nacionalidad española",
+      "link": "https://diarioversionfinal.com/mundo/imputan-a-nervis-villalobos-por-presuntas-irregularidades-en-su-nacionalidad-espanola/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/nervis-gerardo-villalobos-comissio-operacio-catalunya-congre-s-dels-diputats-e1780900847186-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-10-14T22:03:18.592Z"
+  "lastUpdate": "2026-10-15T01:13:49.305Z"
 };
