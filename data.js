@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 15 Octubre 2026"
     },
     "binance": {
-      "usdt": "1010,00"
+      "usdt": "1009,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Entregan en la AN proyectos de leyes de Presupuesto Nacional, del BCV y de Endeudamiento para 2027",
-      "link": "https://www.bancaynegocios.com/entregan-en-la-an-proyectos-de-leyes-de-presupuesto-nacional-del-bcv-y-de-endeudamiento-para-2027/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-7.12.33-PM.jpeg"
+      "title": "Venezuela sostuvo encuentro clave con el BID con miras a su reincorporación total a este organismo",
+      "link": "https://www.bancaynegocios.com/venezuela-sostuvo-encuentro-clave-con-el-bid-con-miras-a-su-reincorporacion-total-a-este-organismo/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/CalixtoOrtegaReunionBID1.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La oposición de Venezuela comenzó la tercera ronda de diálogo con el chavismo para una transición política",
-      "link": "https://www.infobae.com/venezuela/2026/10/15/la-oposicion-de-venezuela-comenzo-la-tercera-ronda-de-dialogo-con-el-chavismo-para-una-transicion-politica/",
-      "image": "https://www.infobae.com/resizer/v2/PV46SN2ZABHLJEIJWG4BVARPGA.jpg?auth=9e601f2b65011daa4e4ce56299ffe3d9306e8f2c19202ea4a390d252f148bc10&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela presentó ante el FMI una hoja de ruta económica basada en petróleo y minería",
+      "link": "https://www.infobae.com/venezuela/2026/10/15/venezuela-presento-ante-el-fmi-una-hoja-de-ruta-economica-basada-en-petroleo-y-mineria/",
+      "image": "https://www.infobae.com/resizer/v2/LJOVCHCRCVHN7BIOG2GC3HKUAM.JPG?auth=fbfd65b345e1e4e3fe39eab0801723d34b8197413b104a045dc1284c6b559935&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Jackson Chourio hace historia y deja a los Cerveceros a un paso de la Serie Mundial",
-      "link": "https://noticialdia.com/al-dia/jackson-chourio-hace-historia-y-deja-a-los-cerveceros-a-un-paso-de-la-serie-mundial/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261015_005703_0000.webp?x74346"
+      "title": "Anuncian reapertura de dos consulados de Chile en Venezuela a partir del 19-Oct",
+      "link": "https://noticialdia.com/principal/anuncian-reapertura-de-dos-consulados-de-chile-en-venezuela-a-partir-del-19-oct/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-16-3.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Conclusiones del foro de CNN y Jubilee con James Talarico",
-      "link": "https://cnnespanol.cnn.com/2026/10/14/eeuu/talarico-conclusiones-foro-cnn-jubilee-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/516422d8-5738-49b2-bc0a-d4d1efcc1569.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "EE.UU. considera usar la \"madre de todas las bombas\" contra Irán, según fuentes",
+      "link": "https://cnnespanol.cnn.com/2026/10/15/mundo/exclusivo-estados-unidos-bombas-iran-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-23071757-4194-3859999999995-still-20261015053013681.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CABELLO RETÓ A MCM A REGRESAR A VENEZUELA Y NEGÓ QUE LE IMPIDAN ENTRAR",
-      "link": "https://noticierodigital.com/2026/10/cabello-reto-a-mcm-a-regresar-a-venezuela-y-nego-que-le-impidan-entrar/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/diosdado-cabello-venezuela-1-627x376.jpg"
+      "title": "«MARÍA CORINA MACHADO NO ES DE DERECHA PORQUE PROPUSO MATRIMONIO IGUALITARIO», DIJO JOSÉ FRANCISCO CONTRERAS",
+      "link": "https://noticierodigital.com/2026/10/maria-corina-machado-no-es-de-derecha-porque-propuso-matrimonio-igualitario-dijo-jose-francisco-contreras/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Jose-Francisco-Contreras-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Localizan sin vida a venezolana en Texas y ordenan arresto de su expareja",
-      "link": "https://laverdad.com/localizan-sin-vida-a-venezolana-en-texas-y-ordenan-arresto-de-su-expareja/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/venezolana-en-denton.jpg"
+      "title": "Pulmón operado de León XIV muestra una “buena recuperación”",
+      "link": "https://laverdad.com/pulmon-operado-de-leon-xiv-muestra-una-buena-recuperacion/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Leon-XIV-segundo-dia-convalecencia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rebeldes hutíes atacan de nuevo el aeropuerto de Riad y reportan más víctimas",
-      "link": "https://diarioversionfinal.com/mundo/rebeldes-huties-atacan-de-nuevo-el-aeropuerto-de-riad-y-reportan-mas-victimas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/RiZTYcK0-image-750x430.jpg"
+      "title": "León XIV retoma sus labores desde el hospital tras una operación de pulmón",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-retoma-sus-labores-desde-el-hospital-tras-una-operacion-de-pulmon/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/HX4PDTLXLJDW5DPFMPVNI6WQ3M-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-15T07:01:31.804Z"
+  "lastUpdate": "2026-10-15T13:06:02.434Z"
 };
