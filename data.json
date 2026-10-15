@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "879,12",
-      "eur": "977,68",
-      "fechaValor": "Jueves, 15 Octubre 2026"
+      "usd": "880,12",
+      "eur": "985,73",
+      "fechaValor": "Viernes, 16 Octubre 2026"
     },
     "binance": {
-      "usdt": "1005,50"
+      "usdt": "1006,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,40 +27,40 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "El béisbol profesional venezolano regresa a la pantalla de VTV luego de 43 años",
-      "link": "https://noticialdia.com/?p=681590",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/09/Diseno-sin-titulo-19-2.webp"
+      "title": "Desde mañana se conecta nuevamente Maracaibo vía aérea con Santa Bárbara del Zulia con Estelar",
+      "link": "https://noticialdia.com/al-dia/desde-manana-se-conecta-nuevamente-maracaibo-via-aerea-con-santa-barbara-del-zulia-con-estelar/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Estelar_B737-300-scaled.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "Nicolás Maduro y Cilia Flores se declaran inocentes de los cargos de torturas",
       "link": "https://cnnespanol.cnn.com/2026/10/15/venezuela/maduro-flores-declaran-inocentes-torturas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-29t020115z-1035978067-rc2zvfarih6g-rtrmadp-3-venezuela-election.JPG?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/image-1-20261015192449839.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado Ramón López informa sobre avance de negociaciones en mesa de diálogo",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-ramon-lopez-informa-sobre-avance-de-negociaciones-en-mesa-de-dialogo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_wf7h18wf7h18wf7h-276f41.jpg"
+      "title": "Tomás Guanipa solicita la derogación total de la Ley Contra el Odio ante la Asamblea Nacional",
+      "link": "https://noticiasvenevision.com/noticias/politica/tomas-guanipa-solicita-la-derogacion-total-de-la-ley-contra-el-odio-ante-la-asamblea-nacional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diputado-tomas-guanipa-pide-reformar-agenda-legislativa-y-destinarla-a-reconstruccion-de-la-guaira-20260714193301-6b46b3.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MARATÓN CAF 2027 SERÁ EL 21 DE FEBRERO Y DESTINARÁ UNA PARTE A LA RECONSTRUCCIÓN",
-      "link": "https://noticierodigital.com/2026/10/maraton-caf-2027-sera-el-21-de-febrero-y-destinara-una-parte-a-la-reconstruccion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-8-1-627x376.png"
+      "title": "PANAMÁ RECIBIÓ CARGAMENTO DE AYUDA HUMANITARIA ENVIADA POR VENEZUELA",
+      "link": "https://noticierodigital.com/2026/10/panama-recibio-cargamento-de-ayuda-humanitaria-enviada-por-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/panama-venezuela-ayuda-humanitaria-terremoto-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "María Elvira Salazar afirma que Trump apoyará legalizar a algunos inmigrantes",
-      "link": "https://laverdad.com/maria-elvira-salazar-dice-que-trump-apoyara-legalizar-a-algunos-inmigrantes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Maria-Elvira-Salazar-scaled.jpg"
+      "title": "Dictan 20 años de cárcel en Chile a Maickel Villegas por crimen de Ronald Ojeda",
+      "link": "https://laverdad.com/dictan-20-anos-de-carcel-en-chile-a-maickel-villegas-por-crimen-de-ronald-ojeda/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/09/Ronald-Ojeda.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Sheinbaum defiende compra de AT&T México para impulsar competencia",
-      "link": "https://diarioversionfinal.com/mundo/sheinbaum-defiende-compra-de-att-mexico-para-impulsar-competencia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/0AvGdZrb-image.jpg"
+      "title": "Documentan 21 ataques de fuerzas israelíes y colonos a agricultores palestinos",
+      "link": "https://diarioversionfinal.com/mundo/documentan-21-ataques-de-fuerzas-israelies-y-colonos-a-agricultores-palestinos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/UoQoUqIv-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-15T18:02:41.999Z"
+  "lastUpdate": "2026-10-15T21:57:32.099Z"
 }
