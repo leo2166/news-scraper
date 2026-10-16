@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 16 Octubre 2026"
     },
     "binance": {
-      "usdt": "1002,00"
+      "usdt": "1001,80"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La sombra de la inhabilitación de María Corina se cierne sobre la mesa de diálogo entre chavismo y oposición",
-      "link": "https://www.infobae.com/venezuela/2026/10/15/la-sombra-de-la-inhabilitacion-de-maria-corina-se-cierne-sobre-la-mesa-de-dialogo-entre-chavismo-y-oposicion/",
-      "image": "https://www.infobae.com/resizer/v2/W2SAUQRJHNBP3MFVRZRU2BPIII.JPG?auth=58402169115acc5ea934da29ed000805d597dfe1dd1fb9516c2d2ca25431b2f5&smart=true&width=350&height=197&quality=85"
+      "title": "El Tribunal Supremo de Venezuela avaló la reforma de la ley contra el odio y será debatida en el Parlamento",
+      "link": "https://www.infobae.com/venezuela/2026/10/16/el-tribunal-supremo-de-venezuela-avalo-la-reforma-de-la-ley-contra-el-odio-y-sera-debatida-en-el-parlamento/",
+      "image": "https://www.infobae.com/resizer/v2/PXHQU4A3EQYO7ORAABFI5WO2NQ.jpg?auth=9d638d96ec9d85b9d55fda338173ec825f96bd338e153738b99d396d1c9c44e2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Mueren tres niños y un maestro en tiroteo en escuela de Oregon",
-      "link": "https://cnnespanol.cnn.com/2026/10/15/eeuu/tiroteo-escuela-oregon-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299991918-20261015175807231-20261015175826410-20261015205600086.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "La comunidad de Oregón está de luto tras el tiroteo en una escuela primaria",
+      "link": "https://cnnespanol.cnn.com/2026/10/16/eeuu/live-news/tiroteo-escuela-oregon-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumbhaudio.JPG?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "ONU tolera las cárceles secretas ucranianas y provoca su expansión, denuncia Moscú",
-      "link": "https://diarioversionfinal.com/mundo/onu-tolera-las-carceles-secretas-ucranianas-y-provoca-su-expansion-denuncia-moscu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
+      "title": "Sánchez y Meloni buscan eliminar controles fronterizos tras crisis migratoria en Ceuta",
+      "link": "https://diarioversionfinal.com/mundo/sanchez-y-meloni-buscan-eliminar-controles-fronterizos-tras-crisis-migratoria-en-ceuta/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/YaGHq3oS-image-2-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-16T05:30:16.985Z"
+  "lastUpdate": "2026-10-16T10:49:21.196Z"
 };
