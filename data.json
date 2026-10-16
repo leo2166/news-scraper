@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 16 Octubre 2026"
     },
     "binance": {
-      "usdt": "1002,10"
+      "usdt": "1002,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,27 +27,27 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Falleció la periodista venezolana Milagros Cofiño, emblemática comunicadora de Meridiano TV",
-      "link": "https://noticialdia.com/sin-categoria/fallecio-la-periodista-venezolana-milagros-cofino-emblematica-comunicadora-de-meridiano-tv/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261015_200021_0000.webp?x74346"
+      "title": "Cerveceros barren a los Dodgers y avanzan a su primera Serie Mundial desde 1982",
+      "link": "https://noticialdia.com/deportes/cerveceros-barren-a-los-dodgers-y-avanzan-a-su-primera-serie-mundial-desde-1982/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261015_235904_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Tiroteo en escuela de Oregon: al menos cuatro personas muertas",
+      "title": "Mueren tres niños y un maestro en tiroteo en escuela de Oregon",
       "link": "https://cnnespanol.cnn.com/2026/10/15/eeuu/tiroteo-escuela-oregon-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299991918-20261015175807231-20261015175826410-20261015205600086.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tomás Guanipa solicita la derogación total de la Ley Contra el Odio ante la Asamblea Nacional",
-      "link": "https://noticiasvenevision.com/noticias/politica/tomas-guanipa-solicita-la-derogacion-total-de-la-ley-contra-el-odio-ante-la-asamblea-nacional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diputado-tomas-guanipa-pide-reformar-agenda-legislativa-y-destinarla-a-reconstruccion-de-la-guaira-20260714193301-6b46b3.jpg"
+      "title": "Tribunal Supremo de Justicia declaró constitucional la reforma parcial de la Ley contra el Odio",
+      "link": "https://noticiasvenevision.com/noticias/politica/tribunal-supremo-de-justicia-declaro-constitucional-la-reforma-parcial-de-la-ley-contra-el-odio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-3b6962.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "KEIKO FUJIMORI CONFIRMÓ COORDINACIÓN AÉREA PARA LA EXPULSIÓN DE VENEZOLANOS DE PERÚ",
-      "link": "https://noticierodigital.com/2026/10/keiko-fujimori-confirmo-coordinacion-aerea-para-la-expulsion-de-venezolanos-de-peru/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/delcy-rodriguez-keiko-fujimori-2-627x376.jpg"
+      "title": "EE. UU. EVALÚA LEVANTAR SANCIONES A BUQUES DE LA «FLOTA FANTASMA» VINCULADOS A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/10/ee-uu-evalua-levantar-sanciones-a-buques-de-la-flota-fantasma-vinculados-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/flota-fantasma-sanciones-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Documentan 21 ataques de fuerzas israelíes y colonos a agricultores palestinos",
-      "link": "https://diarioversionfinal.com/mundo/documentan-21-ataques-de-fuerzas-israelies-y-colonos-a-agricultores-palestinos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/UoQoUqIv-image-750x430.jpg"
+      "title": "ONU tolera las cárceles secretas ucranianas y provoca su expansión, denuncia Moscú",
+      "link": "https://diarioversionfinal.com/mundo/onu-tolera-las-carceles-secretas-ucranianas-y-provoca-su-expansion-denuncia-moscu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/03/ONU.jpg"
     }
   ],
-  "lastUpdate": "2026-10-16T00:10:33.189Z"
+  "lastUpdate": "2026-10-16T05:30:16.985Z"
 }
