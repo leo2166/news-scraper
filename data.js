@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "880,12",
-      "eur": "985,73",
-      "fechaValor": "Viernes, 16 Octubre 2026"
+      "usd": "881,07",
+      "eur": "991,16",
+      "fechaValor": "Lunes, 19 Octubre 2026"
     },
     "binance": {
-      "usdt": "997,95"
+      "usdt": "980,54"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "El TSJ eliminó tribunales especiales en control de terrorismo",
-      "link": "https://noticialdia.com/politica/el-tsj-elimino-tribunales-especiales-en-control-de-terrorismo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-95.webp?x74346"
+      "title": "«Este es el golpe»: La poesía gaitera de Neguito que resuena en el Patio Zuliano",
+      "link": "https://noticialdia.com/entretenimiento/farandula/este-es-el-golpe-la-poesia-gaitera-de-neguito-que-resuena-en-el-patio-zuliano/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PlantillaMIK-73-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Trump despide a Katie Zacharia como secretaria de Prensa, dicen asesores",
-      "link": "https://cnnespanol.cnn.com/2026/10/16/eeuu/trump-zacharia-reconside-secretaria-de-prensa-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/zacharia-renuncia.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Identifican al atacante del tiroteo en escuela primaria de Oregon",
+      "link": "https://cnnespanol.cnn.com/2026/10/16/eeuu/live-news/tiroteo-escuela-oregon-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/e999f1d2-1ea5-446a-b93e-c17e76640a4e.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera respalda trabajo de las ONG en defensa de los derechos humanos",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-respalda-trabajo-de-las-ong-en-defensa-de-los-derechos-humanos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/afp__20260807__c48l3dp__v1__midres__venezuelapoliticsdialogue-040232.jpg"
+      "title": "María Corina Machado afirma que EE.UU. la excluye de negociaciones políticas",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-afirma-que-eeuu-la-excluye-de-negociaciones-politicas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/huwn_lrw0aa7vx6-d30e6d.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ESPOSA DE MIGUEL URIBE TURBAY DIJO QUE PETRO «ESTUVO DETRÁS DE LA MUERTE» DEL CONGRESISTA COLOMBIANO",
-      "link": "https://noticierodigital.com/2026/10/esposa-de-miguel-uribe-turbay-dijo-que-petro-estuvo-detras-de-la-muerte-del-congresista-colombiano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/miguel-uribe-turbay-627x376.jpg"
+      "title": "SECTOR SALUD PIDIÓ SER INCLUIDO EN LA TRANSICIÓN POLÍTICA QUE IMPULSA EE. UU. EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/10/sector-salud-pidio-ser-incluido-en-la-transicion-politica-que-impulsa-ee-uu-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/dinorah-figuera-sector-salud-an-2015-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Detienen a venezolana en Nueva York tras confesar que mató a su hija de 5 años",
-      "link": "https://laverdad.com/detienen-a-venezolana-en-nueva-york-tras-confesar-que-mato-a-su-hija-de-5-anos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Nueva-York.jpg"
+      "title": "Hallan sin vida en un río a joven zuliano desaparecido de Houston",
+      "link": "https://laverdad.com/hallan-sin-vida-en-un-rio-a-joven-zuliano-desaparecido-de-houston/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Jose-Angel-Villasmil-Urdaneta.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán niega interés en armas nucleares y aboga por el diálogo",
-      "link": "https://diarioversionfinal.com/mundo/iran-niega-interes-en-armas-nucleares-y-aboga-por-el-dialogo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/P2soK2KR-image-750x430.jpg"
+      "title": "Trump niega restricciones de Starshield a Ucrania y apunta a Washington",
+      "link": "https://diarioversionfinal.com/mundo/trump-niega-restricciones-de-starshield-a-ucrania-y-apunta-a-washington/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/ykWHv0e7-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-16T19:21:12.505Z"
+  "lastUpdate": "2026-10-16T22:34:50.416Z"
 };
