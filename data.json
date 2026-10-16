@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 16 Octubre 2026"
     },
     "binance": {
-      "usdt": "1006,00"
+      "usdt": "1002,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Desde mañana se conecta nuevamente Maracaibo vía aérea con Santa Bárbara del Zulia con Estelar",
-      "link": "https://noticialdia.com/al-dia/desde-manana-se-conecta-nuevamente-maracaibo-via-aerea-con-santa-barbara-del-zulia-con-estelar/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Estelar_B737-300-scaled.webp?x74346"
+      "title": "Falleció la periodista venezolana Milagros Cofiño, emblemática comunicadora de Meridiano TV",
+      "link": "https://noticialdia.com/sin-categoria/fallecio-la-periodista-venezolana-milagros-cofino-emblematica-comunicadora-de-meridiano-tv/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261015_200021_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Nicolás Maduro y Cilia Flores se declaran inocentes de los cargos de torturas",
-      "link": "https://cnnespanol.cnn.com/2026/10/15/venezuela/maduro-flores-declaran-inocentes-torturas-orix",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/image-1-20261015192449839.png?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Tiroteo en escuela de Oregon: al menos cuatro personas muertas",
+      "link": "https://cnnespanol.cnn.com/2026/10/15/eeuu/tiroteo-escuela-oregon-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299991918-20261015175807231-20261015175826410-20261015205600086.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "PANAMÁ RECIBIÓ CARGAMENTO DE AYUDA HUMANITARIA ENVIADA POR VENEZUELA",
-      "link": "https://noticierodigital.com/2026/10/panama-recibio-cargamento-de-ayuda-humanitaria-enviada-por-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/panama-venezuela-ayuda-humanitaria-terremoto-627x376.jpg"
+      "title": "KEIKO FUJIMORI CONFIRMÓ COORDINACIÓN AÉREA PARA LA EXPULSIÓN DE VENEZOLANOS DE PERÚ",
+      "link": "https://noticierodigital.com/2026/10/keiko-fujimori-confirmo-coordinacion-aerea-para-la-expulsion-de-venezolanos-de-peru/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/delcy-rodriguez-keiko-fujimori-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/UoQoUqIv-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-15T21:57:32.099Z"
+  "lastUpdate": "2026-10-16T00:10:33.189Z"
 }
