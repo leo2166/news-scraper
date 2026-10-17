@@ -33,9 +33,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "Identifican al atacante del tiroteo en escuela primaria de Oregon",
-      "link": "https://cnnespanol.cnn.com/2026/10/16/eeuu/live-news/tiroteo-escuela-oregon-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/e999f1d2-1ea5-446a-b93e-c17e76640a4e.jpg?c=2x3&q=h_384,w_256,c_fill"
+      "title": "Solo duró 3 minutos. Así se desarrolló el tiroteo en Oregon",
+      "link": "https://cnnespanol.cnn.com/2026/10/17/eeuu/tiroteo-escuela-bend-oregon-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299987143-20261017082505307.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/xcdUvNSA-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-17T06:37:28.361Z"
+  "lastUpdate": "2026-10-17T11:24:24.192Z"
 };
