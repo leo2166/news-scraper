@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La mesa de diálogo en Venezuela abordará la eliminación de las inhabilitaciones que pesan sobre opositores",
-      "link": "https://www.infobae.com/venezuela/2026/10/17/la-mesa-de-dialogo-en-venezuela-abordara-la-eliminacion-de-las-inhabilitaciones-que-pesan-sobre-opositores/",
-      "image": "https://www.infobae.com/resizer/v2/QTQAXN3VDZDZ5K5CUM3C5ONXLY.JPG?auth=9ffca0edc1716af341b481debecb968bdfc1c63e78e8133891bf23e7af52ba3a&smart=true&width=350&height=197&quality=85"
+      "title": "Hallan muerto al músico venezolano Gus Ormo en una piscina de Florida: investigan \"muerte sospechosa\"",
+      "link": "https://www.infobae.com/estados-unidos/2026/10/17/hallan-muerto-al-musico-venezolano-gus-ormo-en-una-piscina-de-florida-investigan-muerte-sospechosa/",
+      "image": "https://www.infobae.com/resizer/v2/UPTJ4744XVAJHEYWB2TOLCKYIQ.png?auth=cb5533256f4423af834eb1c9f74e2aaf56ae23b157a3b20c25c68e9d3d2b4127&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "¡La Guaira no se olvida! Únete este 17-O al Teletón Venevisión",
-      "link": "https://noticialdia.com/al-dia/la-guaira-no-se-olvida-unete-este-17-o-al-teleton-venevision/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PlantillaMIK-79-4.webp?x74346"
+      "title": "Conductor resultó herido tras volcar su camioneta en el sector La Concepción",
+      "link": "https://noticialdia.com/al-dia/conductor-resulto-herido-tras-volcar-su-camioneta-en-el-sector-la-concepcion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-17T105034.577.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Solo duró 3 minutos. Así se desarrolló el tiroteo en Oregon",
-      "link": "https://cnnespanol.cnn.com/2026/10/17/eeuu/tiroteo-escuela-bend-oregon-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299987143-20261017082505307.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Legal Terms and Privacy",
+      "link": "https://cnnespanol.cnn.com/terms",
+      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUNVISIS REGISTRÓ 90 SISMOS EN VENEZUELA EN LA ÚLTIMA SEMANA",
-      "link": "https://noticierodigital.com/2026/10/funvisis-registro-90-sismos-en-venezuela-en-la-ultima-semana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/funvisis-sede-627x376.jpg"
+      "title": "FELIPE CAPOZZOLO PIDIÓ REDUCIR COSTOS DE PRODUCCIÓN PARA IMPULSAR EL TURISMO VENEZOLANO",
+      "link": "https://noticierodigital.com/2026/10/felipe-capozzolo-pidio-reducir-costos-de-produccion-para-impulsar-el-turismo-venezolano/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Capozzolo_presidenteFedecamaras-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Hallan sin vida en un río a joven zuliano desaparecido de Houston",
-      "link": "https://laverdad.com/hallan-sin-vida-en-un-rio-a-joven-zuliano-desaparecido-de-houston/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Jose-Angel-Villasmil-Urdaneta.jpg"
+      "title": "Papa León XIV recibe el alta médica y regresará al Vaticano esta tarde",
+      "link": "https://laverdad.com/papa-leon-xiv-recibe-el-alta-medica-y-regresara-al-vaticano-esta-tarde/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/4fe382a0264804950a90714ee559fae28d95f727-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump niega restricciones a Starlink tras queja de Zelenski",
-      "link": "https://diarioversionfinal.com/mundo/trump-niega-restricciones-a-starlink-tras-queja-de-zelenski/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/xcdUvNSA-image-750x430.jpg"
+      "title": "Bukele asegura que ningún pandillero saldrá libre tras revisión de casos",
+      "link": "https://diarioversionfinal.com/mundo/bukele-asegura-que-ningun-pandillero-saldra-libre-tras-revision-de-casos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/I78rqgBb-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-17T11:24:24.192Z"
+  "lastUpdate": "2026-10-17T15:03:44.020Z"
 };
