@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Tres lesionados por fuerte colisión entre camión y moto en Cabimas",
-      "link": "https://noticialdia.com/?p=682624",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-18T150652.554.webp?x74346"
+      "title": "Mbappé lidera con doblete la goleada del Real Madrid frente al Sevilla en el Bernabéu",
+      "link": "https://noticialdia.com/sin-categoria/mbappe-lidera-con-doblete-la-goleada-del-real-madrid-frente-al-sevilla-en-el-bernabeu/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261018_174747_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "Cicpc capturó a presunto ladrón de celulares en Chacao",
-      "link": "https://noticierodigital.com/2026/10/cicpc-capturo-a-presunto-ladron-de-celulares-en-chacao/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/08/cicpc_2ago2020.jpg"
+      "title": "VIGILANTE APROVECHABA SU CARGO PARA HURTAR MAQUINARIAS EN PORTUGUESA",
+      "link": "https://noticierodigital.com/2026/10/vigilante-aprovechaba-su-cargo-para-hurtar-maquinarias-en-portuguesa/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Diseno-sin-titulo-1-3-627x376.jpg"
     },
     {
       "source": "La Verdad",
       "title": "Muere sacerdote en Ecuador tras caerle encima una cruz durante una misa",
       "link": "https://laverdad.com/muere-sacerdote-en-ecuador-tras-caerle-encima-una-cruz-durante-una-misa/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/sacerdote-muere-caerle-enorme-cruz-madera-misa-guayaquil.jpg"
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/HU7WhS7XYAABk7Y.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El Salvador y Argentina fortalecen lazos diplomáticos",
-      "link": "https://diarioversionfinal.com/mundo/el-salvador-y-argentina-fortalecen-lazos-diplomaticos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/El-Salvador-y-Argentina-fortalecen-lazos-diplomaticos-680x430.jpeg"
+      "title": "Ucrania lanza ofensiva con drones en terminal petrolera de San Petersburgo",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-lanza-ofensiva-con-drones-en-terminal-petrolera-de-san-petersburgo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Rusia-derriba-560-drones-ucranianos-en-una-noche-de-intensos-ataques.jpeg"
     }
   ],
-  "lastUpdate": "2026-10-18T19:14:45.126Z"
+  "lastUpdate": "2026-10-18T22:14:59.630Z"
 };
