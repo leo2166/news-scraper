@@ -33,15 +33,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "CNN en Español",
-      "title": "ELECCIONES INTERMEDIAS",
+      "title": "GUERRA DE RUSIA Y UCRANIA",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2299493333-20261014032029449.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trumpgorra.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "EE. UU. reactiva el Destacamento de Seguridad del Cuerpo de Marines en su Embajada en Caracas",
-      "link": "https://noticiasvenevision.com/noticias/politica/ee-uu-reactiva-el-destacamento-de-seguridad-del-cuerpo-de-marines-en-su-embajada-en-caracas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_849773280_18414454024095971_732420907548475399_n-1abeb2.jpg"
+      "title": "Delegación de la AN de 2015 y gremio de abogados sostuvieron un encuentro para abordar reformas al sistema de justicia",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-de-la-an-de-2015-y-gremio-de-abogados-sostuvieron-un-encuentro-para-abordar-reformas-al-sistema-de-justicia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-10-17-at-5.23.11-pm-1-c40f1b.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Zelenski teme que Trump levante sanciones a Rusia",
-      "link": "https://diarioversionfinal.com/mundo/zelenski-teme-que-trump-levante-sanciones-a-rusia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/Volodimir-Zelenski-750x430.webp"
+      "title": "Incendio en dos petroleros tras chocar con minas en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/incendio-en-dos-petroleros-tras-chocar-con-minas-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/MTKW6M7Q7RA4LASEDDQ62VXSJQ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-17T23:46:58.075Z"
+  "lastUpdate": "2026-10-18T03:17:59.977Z"
 };
