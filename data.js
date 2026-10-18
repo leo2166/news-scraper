@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Carlos Pérez tras el triunfo de Bravos: \"Sabiamos que veníamos a batallar inning por inning\"",
-      "link": "https://noticialdia.com/sin-categoria/carlos-perez-tras-el-triunfo-de-bravos-sabiamos-que-veniamos-a-batallar-inning-por-inning/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261018_035702_0000.webp?x74346"
+      "title": "Colisión entre vehículo y moto dejó heridos en la C-1",
+      "link": "https://noticialdia.com/sucesos/colision-entre-vehiculo-y-moto-dejo-heridos-en-la-c-1/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-18T085410.911.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "GUERRA DE RUSIA Y UCRANIA",
-      "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trumpgorra.jpg?c=16x9&q=h_438,w_780,c_fill"
+      "title": "Legal Terms and Privacy",
+      "link": "https://cnnespanol.cnn.com/terms",
+      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ PROYECTÓ 324.000 EMPLEOS EN LA PRÓXIMA DÉCADA POR ACUERDOS ENERGÉTICOS",
-      "link": "https://noticierodigital.com/2026/10/delcy-rodriguez-proyecto-324-000-empleos-en-la-proxima-decada-por-acuerdos-energeticos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/delcy-rodriguez-venezuela-1-627x376.jpg"
+      "title": "LA CEPAL PROYECTÓ UN INCREMENTO DEL 23 % EN LOS TÉRMINOS DE INTERCAMBIO PARA VENEZUELA",
+      "link": "https://noticierodigital.com/2026/10/la-cepal-proyecto-un-incremento-del-23-en-los-terminos-de-intercambio-para-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Destacada-simple_20261018_084048_0000-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Incendio en dos petroleros tras chocar con minas en el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/incendio-en-dos-petroleros-tras-chocar-con-minas-en-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/MTKW6M7Q7RA4LASEDDQ62VXSJQ-750x430.jpg"
+      "title": "El papa León XIV reaparece en el Vaticano tras cirugía por cáncer de pulmón",
+      "link": "https://diarioversionfinal.com/mundo/el-papa-leon-xiv-reaparece-en-el-vaticano-tras-cirugia-por-cancer-de-pulmon/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/leon-xiv-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-10-18T08:35:33.057Z"
+  "lastUpdate": "2026-10-18T12:59:52.527Z"
 };
