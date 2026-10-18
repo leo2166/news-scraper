@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Estados Unidos reactivó el destacamento de seguridad de los Marines en su embajada de Venezuela",
-      "link": "https://www.infobae.com/estados-unidos/2026/10/17/estados-unidos-reactivo-el-destacamento-de-seguridad-de-los-marines-en-su-embajada-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/ZQETYDVD7VFERPXFPTJLFN6NRQ.jpg?auth=219f47a9b3010dacc360508fd616609d9e86db1a17579066f439769083ee4320&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela prevé inversiones de petróleo por casi USD 76.000 millones de dólares en los próximos cinco años",
+      "link": "https://www.infobae.com/venezuela/2026/10/18/venezuela-preve-inversiones-de-petroleo-de-casi-usd-76000-millones-de-dolares-en-los-proximos-cinco-anos/",
+      "image": "https://www.infobae.com/resizer/v2/K7RAIETJJNCKNKPBEVKQBPG45Y.JPG?auth=838a62e30cedac2b72634516280158109206b49354a899b4fbd5a435c059742c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcalde Di Martino: \"Este domingo salgamos todos a votar en la gran Consulta Popular Nacional\"",
-      "link": "https://noticialdia.com/al-dia/alcalde-di-martino-este-domingo-salgamos-todos-a-votar-en-la-gran-consulta-popular-nacional/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-11-6.webp?x74346"
+      "title": "Carlos Pérez tras el triunfo de Bravos: \"Sabiamos que veníamos a batallar inning por inning\"",
+      "link": "https://noticialdia.com/sin-categoria/carlos-perez-tras-el-triunfo-de-bravos-sabiamos-que-veniamos-a-batallar-inning-por-inning/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261018_035702_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/MTKW6M7Q7RA4LASEDDQ62VXSJQ-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-18T03:17:59.977Z"
+  "lastUpdate": "2026-10-18T08:35:33.057Z"
 };
