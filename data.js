@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "VIGILANTE APROVECHABA SU CARGO PARA HURTAR MAQUINARIAS EN PORTUGUESA",
-      "link": "https://noticierodigital.com/2026/10/vigilante-aprovechaba-su-cargo-para-hurtar-maquinarias-en-portuguesa/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/Diseno-sin-titulo-1-3-627x376.jpg"
+      "title": "MDI PROPONE A DINORAH FIGUERA ACORDAR FECHA PRESIDENCIAL ANTES DE REESTRUCTURAR EL CNE",
+      "link": "https://noticierodigital.com/2026/10/mdi-propone-a-dinorah-figuera-acordar-fecha-presidencial-antes-de-reestructurar-el-cne/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/IMG-20261019-WA0005-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que está obteniendo \"cientos de millones\" de Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-esta-obteniendo-cientos-de-millones-de-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/eINX45NJ-image-750x430.jpg"
+      "title": "Estudiantes bloquean el Louvre en apoyo a protestas en Francia",
+      "link": "https://diarioversionfinal.com/mundo/estudiantes-bloquean-el-louvre-en-apoyo-a-protestas-en-francia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Gi8UF2M1-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-19T05:46:46.121Z"
+  "lastUpdate": "2026-10-19T12:18:25.098Z"
 };
