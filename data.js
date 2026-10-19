@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Jorge Arreaza informa que su hijo está bien tras accidente de tránsito y agradece muestras de apoyo",
-      "link": "https://noticialdia.com/al-dia/jorge-arreaza-informa-que-su-hijo-esta-bien-tras-accidente-de-transito-y-agradece-muestras-de-apoyo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-Haroldo-81.webp?x74346"
+      "title": "Águilas del Zulia sufre barrida ante Bravos de Margarita en el cierre de la primera semana en \"El Nido\"",
+      "link": "https://noticialdia.com/al-dia/aguilas-del-zulia-sufre-barrida-ante-bravos-de-margarita-en-el-cierre-de-la-primera-semana-en-el-nido/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261018_234541_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump bromea con postularse a la Presidencia de Venezuela: \"Aprenderé español\"",
-      "link": "https://diarioversionfinal.com/mundo/trump-bromea-con-postularse-a-la-presidencia-de-venezuela-aprendere-espanol/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/DONALD-TRUMP-EEUU-750x430.jpg"
+      "title": "Trump asegura que está obteniendo \"cientos de millones\" de Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-esta-obteniendo-cientos-de-millones-de-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/eINX45NJ-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-19T00:51:00.764Z"
+  "lastUpdate": "2026-10-19T05:46:46.121Z"
 };
