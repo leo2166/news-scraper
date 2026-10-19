@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "881,07",
-      "eur": "991,16",
-      "fechaValor": "Lunes, 19 Octubre 2026"
+      "usd": "881,88",
+      "eur": "988,97",
+      "fechaValor": "Martes, 20 Octubre 2026"
     },
     "binance": {
-      "usdt": "980,54"
+      "usdt": "791,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan estipendio \"Somos Venezuela\" de octubre: Incrementó más de 7% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-estipendio-somos-venezuela-de-octubre-incremento-mas-de-7-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
+      "title": "Pagan \"Ingreso Integral de los Trabajadores\" de octubre a jubilados: Incrementó 4,40% en bolívares",
+      "link": "https://www.bancaynegocios.com/pagan-ingreso-integral-de-los-trabajadores-de-octubre-a-jubilados-incremento-4punto40-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
@@ -27,15 +27,15 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Abrió la capota de su carro y descubrió una familia de rabipelao en el motor",
-      "link": "https://noticialdia.com/viral/abrio-la-capota-de-su-carro-y-descubrio-una-familia-de-rabipelao-en-el-motor/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-19T145309.772.webp?x74346"
+      "title": "Presidenta Delcy Rodríguez afianza el proyecto deportivo Caracas 2030 con Centro Caribe Sports",
+      "link": "https://noticialdia.com/politica/presidenta-delcy-rodriguez-afianza-el-proyecto-deportivo-caracas-2030-con-centro-caribe-sports/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PlantillaMIK-85.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "GUERRA DE RUSIA Y UCRANIA",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/73413789-91502683-generated-thumbnail.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300261051-20261019143420415.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA SE UBICA COMO EL SEGUNDO PAÍS CON MAYOR GANANCIA REAL DE LA REGIÓN, SEGÚN CEPAL",
-      "link": "https://noticierodigital.com/2026/10/venezuela-se-ubica-como-el-segundo-pais-con-mayor-ganancia-real-de-la-region-segun-cepal/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/05/venezuela-recuperacion-economica.jpg"
+      "title": "LUIS FLORIDO DEFENDIÓ EL CENTRO POLÍTICO COMO VÍA PARA LA RECONSTRUCCIÓN DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/10/luis-florido-defendio-el-centro-politico-como-via-para-la-reconstruccion-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/luis-florido-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Descubren estrategia de nanomedicina frente al cáncer de mama HER2 positivo",
-      "link": "https://laverdad.com/descubren-estrategia-de-nanomedicina-frente-al-cancer-de-mama-her2-positivo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Descubren-estrategia-de-nanomedicina-frente-al-cancer-de-mama-HER2-positivo.jpg"
+      "title": "El primer ministro de Países Bajos y el argentino Nicolás Keenan anuncian que esperan un bebé",
+      "link": "https://laverdad.com/el-primer-ministro-de-paises-bajos-y-el-argentino-nicolas-keenan-anuncian-que-esperan-un-bebe/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/pareja.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Chile reabre sus consulados en Caracas y Puerto Ordaz tras dos años de suspensión",
-      "link": "https://diarioversionfinal.com/mundo/chile-reabre-sus-consulados-en-caracas-y-puerto-ordaz-tras-dos-anos-de-suspension/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/images-2026-10-19T113503.060.jpg"
+      "title": "Huelga de transportistas en Italia se intensifica por aumento de precios",
+      "link": "https://diarioversionfinal.com/mundo/huelga-de-transportistas-en-italia-se-intensifica-por-aumento-de-precios/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/JEDGzH3r-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-19T19:03:02.585Z"
+  "lastUpdate": "2026-10-19T23:20:57.405Z"
 }
