@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Denuncian que un teniente coronel retirado venezolano sufrió brutales torturas en prisión",
-      "link": "https://www.infobae.com/venezuela/2026/10/18/denuncian-que-un-teniente-coronel-retirado-sufrio-brutales-torturas-en-prision-y-se-encuentra-incomunicado-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/XTGM4MF2URHKXLNQBDLA55AYRY.jpg?auth=167644a039dae450e970eba9bb208b09ece83cc7a7335c6c7ee489532cfe4e13&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición venezolana presentó un “Gran Acuerdo Nacional” y ratificó a María Corina Machado como su líder política",
+      "link": "https://www.infobae.com/venezuela/2026/10/19/la-oposicion-venezolana-presento-un-gran-acuerdo-nacional-y-ratifico-a-maria-corina-machado-como-su-lider-politica/",
+      "image": "https://www.infobae.com/resizer/v2/JX3BSLOSKBHWFMOWINUHFT5KIQ.JPG?auth=6a22ddbdf99c5e0d2e22a85a11f576b05b935f000a3c56defa6b3e8af2d0c0f3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Mbappé lidera con doblete la goleada del Real Madrid frente al Sevilla en el Bernabéu",
-      "link": "https://noticialdia.com/sin-categoria/mbappe-lidera-con-doblete-la-goleada-del-real-madrid-frente-al-sevilla-en-el-bernabeu/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261018_174747_0000.webp?x74346"
+      "title": "Jorge Arreaza informa que su hijo está bien tras accidente de tránsito y agradece muestras de apoyo",
+      "link": "https://noticialdia.com/al-dia/jorge-arreaza-informa-que-su-hijo-esta-bien-tras-accidente-de-transito-y-agradece-muestras-de-apoyo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-Haroldo-81.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Plataforma Unitaria presenta su propuesta de Acuerdo Nacional para la transición en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/plataforma-unitaria-presenta-su-propuesta-de-acuerdo-nacional-para-la-transicion-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hu670tywmaaz0jb-70f814.jpg"
+      "title": "CLIPPVE alerta sobre presunta intervención en el penal de Yare",
+      "link": "https://noticiasvenevision.com/noticias/politica/clippve-alerta-sobre-presunta-intervencion-en-el-penal-de-yare",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/q-695812.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ucrania lanza ofensiva con drones en terminal petrolera de San Petersburgo",
-      "link": "https://diarioversionfinal.com/mundo/ucrania-lanza-ofensiva-con-drones-en-terminal-petrolera-de-san-petersburgo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Rusia-derriba-560-drones-ucranianos-en-una-noche-de-intensos-ataques.jpeg"
+      "title": "Trump bromea con postularse a la Presidencia de Venezuela: \"Aprenderé español\"",
+      "link": "https://diarioversionfinal.com/mundo/trump-bromea-con-postularse-a-la-presidencia-de-venezuela-aprendere-espanol/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/DONALD-TRUMP-EEUU-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-18T22:14:59.630Z"
+  "lastUpdate": "2026-10-19T00:51:00.764Z"
 };
