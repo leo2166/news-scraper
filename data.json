@@ -1,9 +1,9 @@
 {
   "rates": {
     "bcv": {
-      "usd": "881,88",
-      "eur": "988,97",
-      "fechaValor": "Martes, 20 Octubre 2026"
+      "usd": "883,40",
+      "eur": "993,18",
+      "fechaValor": "Miércoles, 21 Octubre 2026"
     },
     "binance": {
       "usdt": "980,54"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: IVSS pagará este #21Oct la pensión correspondiente a noviembre de 2026",
-      "link": "https://www.bancaynegocios.com/dato-ivss-pagara-este-21oct-la-pension-correspondiente-a-noviembre-de-2026/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/PensionadosVenezuela.jpg"
+      "title": "Sindicatos petroleros solicitan que trabajadores reciban remuneraciones acordes a las inversiones energéticas en Venezuela",
+      "link": "https://www.bancaynegocios.com/sindicatos-petroleros-solicitan-que-trabajadores-reciban-remuneraciones-acordes-a-las-inversiones-energeticas-en-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/exportadores-de-petroleo.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Trabajadores de Petróleos de Venezuela en huelga por bajos salarios y pensiones",
-      "link": "https://www.infobae.com/venezuela/2026/10/20/trabajadores-de-petroleos-de-venezuela-en-huelga-por-bajos-salarios-y-pensiones/",
-      "image": "https://www.infobae.com/resizer/v2/NRAQUSZXGFB5PORTVKEDAFPCRA.JPG?auth=465721d58a06acf40e973562ec659f05171e7c926d54c8cf269253ba4ae4a41d&smart=true&width=350&height=197&quality=85"
+      "title": "El Foro Penal pidió que la renovación del TSJ en Venezuela vaya acompañada de cambios estructurales",
+      "link": "https://www.infobae.com/venezuela/2026/10/20/el-foro-penal-pidio-que-la-renovacion-del-tsj-en-venezuela-vaya-acompanada-de-cambios-estructurales/",
+      "image": "https://www.infobae.com/resizer/v2/X5AKQBP4WRHE5CQHQ73EROTAAM?auth=fe27aeb3c05d2772d73d7753586295753742883406f97a303a0ccaa014f50d2a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobierno nacional y regional rehabilitan 4 km de vialidad y servicios en el Centro Histórico de Maracaibo rumbo a las Fiestas Chiquinquireñas",
-      "link": "https://noticialdia.com/al-dia/gobierno-nacional-y-regional-rehabilitan-4-km-de-vialidad-y-servicios-en-el-centro-historico-de-maracaibo-rumbo-a-las-fiestas-chiquinquirenas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-4-13.webp?x74346"
+      "title": "Herido motorizado en la C-3 tras impactar su moto contra camión cava",
+      "link": "https://noticialdia.com/principal/herido-motorizado-en-la-c-3-tras-impactar-su-moto-contra-camion-cava/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-2026-10-20T175803.764.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Joel Arcia solicita la derogación total de la Ley contra el Odio tras polémicas propuestas de reforma",
+      "title": "Joel García solicita la derogación total de la Ley contra el Odio tras polémicas propuestas de reforma",
       "link": "https://noticiasvenevision.com/noticias/politica/joel-arcia-solicita-la-derogacion-total-de-la-ley-contra-el-odio-tras-polemicas-propuestas-de-reforma",
       "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-18-729fcf.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN DIFIERE NUEVAMENTE ELECCIONES DE REPRESENTANTES DE LA SOCIEDAD CIVIL DEL COMITÉ DE POSTULACIONES JUDICIALES",
-      "link": "https://noticierodigital.com/2026/10/an-difiere-nuevamente-elecciones-de-representantes-de-la-sociedad-civil-del-comite-de-postulaciones-judiciales/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/asamblea-nacional-627x376.jpg"
+      "title": "VENEZUELA Y CAF RETOMARON PROYECTOS DE INTELIGENCIA ARTIFICIAL Y GESTIÓN DE DESASTRES",
+      "link": "https://noticierodigital.com/2026/10/venezuela-y-caf-retomaron-proyectos-de-inteligencia-artificial-y-gestion-de-desastres/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/yvan-gil-venezuela-caf-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Agresión de ICE en Long Beach desata indignación y denuncia formal",
-      "link": "https://diarioversionfinal.com/mundo/agresion-de-ice-en-long-beach-desata-indignacion-y-denuncia-formal/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/8UsboBuy-image-750x430.jpg"
+      "title": "Capturan a hombre por amenazas a la primera dama de Colombia",
+      "link": "https://diarioversionfinal.com/mundo/capturan-a-hombre-por-amenazas-a-la-primera-dama-de-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/7UZRiYvR-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-20T18:56:48.836Z"
+  "lastUpdate": "2026-10-20T22:10:20.592Z"
 }
