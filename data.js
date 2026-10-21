@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Daniel Sarcos se suma a \"Zulianos Inolvidables\" para enaltecer el histórico legado de la región",
-      "link": "https://noticialdia.com/al-dia/daniel-sarcos-se-suma-a-zulianos-inolvidables-para-enaltecer-el-historico-legado-de-la-region/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PlantillaMIK-2026-10-20T221027.521.webp?x74346"
+      "title": "Aguacero matutino paraliza Maracaibo: La paradas están \"hasta las metras\"",
+      "link": "https://noticialdia.com/principal/aguacero-matutino-paraliza-maracaibo-la-paradas-estan-hasta-las-metras/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/download-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "REFORMA DE LA JUSTICIA PENAL INCLUIRÁ REVISIÓN DE LA JURISDICCIÓN ESPECIAL PARA MUJERES",
-      "link": "https://noticierodigital.com/2026/10/reforma-de-la-justicia-penal-incluira-revision-de-la-jurisdiccion-especial-para-mujeres/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Eugenia-Sekler-Larry-Devoe-MP-627x376.jpg"
+      "title": "CHEF INTERNACIONAL ENRIQUE LIMARDO: “VOLVER A VENEZUELA CON SABORES DEL ALMA ES REENCONTRARME CON LOS INGREDIENTES QUE ME FORMARON”",
+      "link": "https://noticierodigital.com/2026/10/chef-internacional-enrique-limardo-volver-a-venezuela-con-sabores-del-alma-es-reencontrarme-con-los-ingredientes-que-me-formaron/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-8.46.05-AM-627x376.jpeg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Extraoficial: EE. UU. estaría asumiendo el control operativo del SEBIN",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-principal/extraoficial-ee-uu-estaria-asumiendo-el-control-operativo-del-sebin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/10/SEBIN.jpg"
+      "title": "Chile aprueba facilitar el ingreso a viviendas para detener a extranjeros con órdenes de expulsión",
+      "link": "https://diarioversionfinal.com/mundo/chile-aprueba-facilitar-el-ingreso-a-viviendas-para-detener-a-extranjeros-con-ordenes-de-expulsion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-01-115514.webp"
     }
   ],
-  "lastUpdate": "2026-10-21T07:08:24.993Z"
+  "lastUpdate": "2026-10-21T13:29:05.443Z"
 };
