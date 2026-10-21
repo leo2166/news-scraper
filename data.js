@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El Foro Penal pidió que la renovación del TSJ en Venezuela vaya acompañada de cambios estructurales",
-      "link": "https://www.infobae.com/venezuela/2026/10/20/el-foro-penal-pidio-que-la-renovacion-del-tsj-en-venezuela-vaya-acompanada-de-cambios-estructurales/",
-      "image": "https://www.infobae.com/resizer/v2/X5AKQBP4WRHE5CQHQ73EROTAAM?auth=fe27aeb3c05d2772d73d7753586295753742883406f97a303a0ccaa014f50d2a&smart=true&width=350&height=197&quality=85"
+      "title": "El chavismo y la oposición concluirán este miércoles la tercera ronda de diálogo para una transición política en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/10/21/el-chavismo-y-la-oposicion-concluiran-este-miercoles-la-tercera-ronda-de-dialogo-para-una-transicion-politica-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/OOF34G2ATZHCTOJFQTWOCZ5AKQ.jpg?auth=c09ccc8a0951aab625e6f18444b31a60afad65b566d90e0c4a7a4d591198b487&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela refuerza alianza con la India para proteger la fauna silvestre",
-      "link": "https://noticialdia.com/al-dia/venezuela-refuerza-alianza-con-la-india-para-proteger-la-fauna-silvestre/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PACOS-2-1.webp?x74346"
+      "title": "Daniel Sarcos se suma a \"Zulianos Inolvidables\" para enaltecer el histórico legado de la región",
+      "link": "https://noticialdia.com/al-dia/daniel-sarcos-se-suma-a-zulianos-inolvidables-para-enaltecer-el-historico-legado-de-la-region/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PlantillaMIK-2026-10-20T221027.521.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "ELECCIONES INTERMEDIAS",
-      "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2301186201-20261020235103596.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "title": "Legal Terms and Privacy",
+      "link": "https://cnnespanol.cnn.com/terms",
+      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Joel García solicita la derogación total de la Ley contra el Odio tras polémicas propuestas de reforma",
-      "link": "https://noticiasvenevision.com/noticias/politica/joel-arcia-solicita-la-derogacion-total-de-la-ley-contra-el-odio-tras-polemicas-propuestas-de-reforma",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-18-729fcf.png"
+      "title": "Tercera ronda de la mesa de diálogo culminará este 21 de octubre",
+      "link": "https://noticiasvenevision.com/noticias/politica/tercera-ronda-de-la-mesa-de-dialogo-culminara-este-21-de-octubre",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mesa-de-dialogo-nacional-podria-dar-balance-este-miercoles-204509-8b7aac.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CALECA CALIFICÓ DE «CONFISCATORIAS» LAS NUEVAS COMISIONES BANCARIAS AUTORIZADAS POR EL BCV",
-      "link": "https://noticierodigital.com/2026/10/caleca-califico-de-confiscatorias-las-nuevas-comisiones-bancarias-autorizadas-por-el-bcv/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/07/caleca-cne-fraude.jpg"
+      "title": "REFORMA DE LA JUSTICIA PENAL INCLUIRÁ REVISIÓN DE LA JURISDICCIÓN ESPECIAL PARA MUJERES",
+      "link": "https://noticierodigital.com/2026/10/reforma-de-la-justicia-penal-incluira-revision-de-la-jurisdiccion-especial-para-mujeres/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Eugenia-Sekler-Larry-Devoe-MP-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Capturan a hombre por amenazas a la primera dama de Colombia",
-      "link": "https://diarioversionfinal.com/mundo/capturan-a-hombre-por-amenazas-a-la-primera-dama-de-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/7UZRiYvR-image-750x430.jpg"
+      "title": "Extraoficial: EE. UU. estaría asumiendo el control operativo del SEBIN",
+      "link": "https://diarioversionfinal.com/xvf-portada/vf-principal/extraoficial-ee-uu-estaria-asumiendo-el-control-operativo-del-sebin/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2020/10/SEBIN.jpg"
     }
   ],
-  "lastUpdate": "2026-10-21T01:19:24.820Z"
+  "lastUpdate": "2026-10-21T07:08:24.993Z"
 };
