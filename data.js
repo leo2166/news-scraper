@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cendas-FVM: Canasta Alimentaria Familiar en septiembre subió 0,79% en divisas y se ubicó en US$ 761,35",
-      "link": "https://www.bancaynegocios.com/cendas-fvm-canasta-alimentaria-familiar-en-septiembre-subio-0punto79-porciento-en-divisas-y-se-ubico-en-us-761punto35/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/compras.jpg"
+      "title": "Delcy Rodríguez suspende uso obligatorio de máquinas fiscales y anuncia reducción de la lista de contribuyentes especiales",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-suspende-uso-obligatorio-de-maquinas-fiscales-y-anuncia-reduccion-de-la-lista-de-contribuyentes-especiales/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-7.57.18-PM-e1792627369491.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Marco Rubio visitó Jamnagar, la mayor refinería del mundo, para abrir un destino al crudo venezolano en la India",
-      "link": "https://www.infobae.com/venezuela/2026/10/21/marco-rubio-visito-jamnagar-la-mayor-refineria-del-mundo-para-abrir-un-destino-al-crudo-venezolano-en-la-india/",
-      "image": "https://www.infobae.com/resizer/v2/BYXC4TU3LBA3LF2FMKNB45JAVA.JPG?auth=bd16889f8ee0d78ca64e864326f001ed230a3cd4376243b2a867adfdb8498922&smart=true&width=350&height=197&quality=85"
+      "title": "Nicolás Maduro enfrenta en Estados Unidos un cargo de tortura aplicado a pocos acusados en la historia judicial",
+      "link": "https://www.infobae.com/estados-unidos/2026/10/22/nicolas-maduro-enfrenta-en-estados-unidos-un-cargo-de-tortura-aplicado-a-pocos-acusados-en-la-historia-judicial/",
+      "image": "https://www.infobae.com/resizer/v2/BY6CW3XILBC2VAWC4M7GC43GY4.JPG?auth=e3cedfee1d2fb0df614d303bc6131d672108f783cc16d479691a5468c293f012&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Con 40 dólares una familia zuliana puede hacer 20 hallacas",
-      "link": "https://noticialdia.com/zulia/con-40-dolares-una-familia-zuliana-puede-hacer-20-hallacas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/aa703a05-08cc-427b-918a-61b8d30cfb53-convertido-a-1024x720-2.webp?x74346"
+      "title": "Conindustria evalúa modificaciones a la Ley Orgánica del Trabajo para proteger las prestaciones sociales",
+      "link": "https://noticialdia.com/al-dia/conindustria-evalua-modificaciones-a-la-ley-organica-del-trabajo-para-proteger-las-prestaciones-sociales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/PlantillaMIK-2026-10-21T191300.811.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Legal Terms and Privacy",
-      "link": "https://cnnespanol.cnn.com/terms",
-      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
+      "title": "GUERRA DE RUSIA Y UCRANIA",
+      "link": "https://cnnespanol.cnn.com/",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/us-witkoff.jpeg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BUSCAN A UN SOLDADO QUE ASESINÓ A TRES COMPAÑEROS EN UNA BASE AÉREA DE TÁCHIRA",
-      "link": "https://noticierodigital.com/2026/10/buscan-a-un-soldado-que-asesino-a-tres-companeros-en-una-base-aerea-de-tachira/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/tachira-asesinato-gnb-627x376.jpg"
+      "title": "CABELLO DESMINTIÓ QUE VUELOS PRIVADOS A TURQUÍA TRANSPORTEN SUS PERTENENCIAS",
+      "link": "https://noticierodigital.com/2026/10/cabello-desmintio-que-vuelos-privados-a-turquia-transporten-sus-pertenencias/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/diosdado-cabello-psuv-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/12/Zelenski-22-12-2025-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-21T22:08:01.034Z"
+  "lastUpdate": "2026-10-22T01:16:11.545Z"
 };
