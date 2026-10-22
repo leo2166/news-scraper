@@ -1,9 +1,9 @@
 {
   "rates": {
     "bcv": {
-      "usd": "884,75",
-      "eur": "993,21",
-      "fechaValor": "Jueves, 22 Octubre 2026"
+      "usd": "886,23",
+      "eur": "993,09",
+      "fechaValor": "Viernes, 23 Octubre 2026"
     },
     "binance": {
       "usdt": "980,54"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Reuters: Venezuela está considerando pedir un préstamo puente a Catar para saldar sus deudas con el BID",
-      "link": "https://www.bancaynegocios.com/reuters-venezuela-esta-considerando-pedir-un-prestamo-puente-a-catar-para-saldar-sus-deudas-con-el-bid/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/DolaresDivisasLiquidez.jpg"
+      "title": "Pisella propone devolución de activos expropiados que no fueron pagados por el Estado",
+      "link": "https://www.bancaynegocios.com/pisella-propone-devolucion-de-activos-expropiados-que-no-fueron-pagados-por-el-estado/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/LUIGI-PISELLA-FEDECAMARAS.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Publican en Gaceta Oficial providencia del Seniat que elimina el uso obligatorio de máquinas fiscales",
-      "link": "https://noticialdia.com/al-dia/publican-en-gaceta-oficial-providencia-del-seniat-que-elimina-el-uso-obligatorio-de-maquinas-fiscales/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-30-3.webp?x74346"
+      "title": "Rays vs. Cerveceros: La Serie Mundial que desafía el poder del dinero en Las Mayores",
+      "link": "https://noticialdia.com/al-dia/rays-vs-cerveceros-la-serie-mundial-que-desafia-el-poder-del-dinero-en-las-mayores/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261022_170233_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "TERREMOTOS DEJAN A UNOS 200.000 NIÑOS FUERA DEL SISTEMA ESCOLAR POR DAÑOS EN LAS ESCUELAS",
-      "link": "https://noticierodigital.com/2026/10/terremotos-dejan-a-unos-200-000-ninos-fuera-del-sistema-escolar-por-danos-en-las-escuelas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/terremoto_LaGuaira-627x376.jpg"
+      "title": "BUQUE CIENTÍFICO INICIÓ ESTUDIOS PARA EL DESARROLLO DE GAS EN LA PLATAFORMA DELTANA",
+      "link": "https://noticierodigital.com/2026/10/buque-cientifico-inicio-estudios-para-el-desarrollo-de-gas-en-la-plataforma-deltana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/M.V.-Fugro-Brasilis-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Joven venezolano presenta el patacón marabino en exposición académica en China",
-      "link": "https://laverdad.com/joven-venezolano-presenta-el-patacon-marabino-en-exposicion-academica-en-china/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Joven-venezolano-presenta-el-patacon-marabino-durante-una-exposicion-academica-en-China.jpg"
+      "title": "Se elevan a dos las muertes por el terremoto de magnitud 7,7 en Panamá",
+      "link": "https://laverdad.com/se-elevan-a-dos-las-muertes-por-el-terremoto-de-magnitud-77-en-panama/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Terremoto-en-Panama.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Messi: \"Oviedo será una ciudad muy especial para mí\"",
-      "link": "https://diarioversionfinal.com/mundo/messi-oviedo-sera-una-ciudad-muy-especial-para-mi/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Messi-29-07-2026-750x430.jpeg"
+      "title": "Putin acepta retomar el diálogo con Ucrania y EE. UU., pero exige una paz definitiva",
+      "link": "https://diarioversionfinal.com/mundo/putin-acepta-retomar-el-dialogo-con-ucrania-y-ee-uu-pero-exige-una-paz-definitiva/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-22T18:19:50.522Z"
+  "lastUpdate": "2026-10-22T22:09:34.927Z"
 }
