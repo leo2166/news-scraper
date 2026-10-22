@@ -15,27 +15,27 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Representantes del Gobierno y de la AN de 2015 crearán comisión paritaria para gestionar el oro retenido en Inglaterra",
-      "link": "https://www.bancaynegocios.com/representantes-del-gobierno-y-de-la-an-de-2015-crearan-comision-paritaria-para-gestionar-el-oro-retenido-en-inglaterra/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/05/oro-comercializadora.jpg"
+      "title": "Reuters: Venezuela está considerando pedir un préstamo puente a Catar para saldar sus deudas con el BID",
+      "link": "https://www.bancaynegocios.com/reuters-venezuela-esta-considerando-pedir-un-prestamo-puente-a-catar-para-saldar-sus-deudas-con-el-bid/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/DolaresDivisasLiquidez.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela registró unas mil protestas en septiembre, casi la mitad de ellas por los apagones",
-      "link": "https://www.infobae.com/venezuela/2026/10/22/venezuela-registro-unas-mil-protestas-en-septiembre-casi-la-mitad-de-ellas-por-los-apagones/",
-      "image": "https://www.infobae.com/resizer/v2/JOWXJ7BM6RCBTH7NQXNUCXSXDY.JPG?auth=da3921e030e5feed17665f166d7946df5ae3a1d1d9dc7e99674b96cd898bdd03&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela: se necesitan más de 3.800 salarios mínimos para cubrir la canasta alimentaria",
+      "link": "https://www.infobae.com/venezuela/2026/10/22/venezuela-se-necesitan-mas-de-3800-salarios-minimos-para-cubrir-la-canasta-alimentaria/",
+      "image": "https://www.infobae.com/resizer/v2/MGEKMEGXDFDF3N7PIDZS3RDTL4.jpg?auth=5817fe061d17e4a672888f2e6add1057c215819daeeb6458080fe6c1662bfc9c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Águilas remonta con rally en el séptimo inning y vence a Tigres en el Luis Aparicio \"El Grande\"",
-      "link": "https://noticialdia.com/al-dia/aguilas-remonta-con-rally-en-el-septimo-inning-y-vence-a-tigres-en-el-luis-aparicio-el-grande/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261022_005455_0000.webp?x74346"
+      "title": "Publican en Gaceta Oficial providencia del Seniat que elimina el uso obligatorio de máquinas fiscales",
+      "link": "https://noticialdia.com/al-dia/publican-en-gaceta-oficial-providencia-del-seniat-que-elimina-el-uso-obligatorio-de-maquinas-fiscales/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-30-3.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Legal Terms and Privacy",
-      "link": "https://cnnespanol.cnn.com/terms",
-      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
+      "title": "ELECCIONES INTERMEDIAS",
+      "link": "https://cnnespanol.cnn.com/",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vivienda-20261022173324089.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JORGE RODRÍGUEZ AFIRMA QUE VENEZUELA CONTROLA TODOS SUS INGRESOS POR PETRÓLEO",
-      "link": "https://noticierodigital.com/2026/10/jorge-rodriguez-afirma-que-venezuela-controla-todos-sus-ingresos-por-petroleo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/jorge-rodriguez-venezuela-p-627x376.jpg"
+      "title": "TERREMOTOS DEJAN A UNOS 200.000 NIÑOS FUERA DEL SISTEMA ESCOLAR POR DAÑOS EN LAS ESCUELAS",
+      "link": "https://noticierodigital.com/2026/10/terremotos-dejan-a-unos-200-000-ninos-fuera-del-sistema-escolar-por-danos-en-las-escuelas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/08/terremoto_LaGuaira-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV no necesitará tratamiento tras extirparle el cáncer en el pulmón",
-      "link": "https://laverdad.com/leon-xiv-no-necesitara-tratamiento-tras-extirparle-el-cancer-en-el-pulmon/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Leon-XIV-papamovil-despues-cirugia-1.jpg"
+      "title": "Joven venezolano presenta el patacón marabino en exposición académica en China",
+      "link": "https://laverdad.com/joven-venezolano-presenta-el-patacon-marabino-en-exposicion-academica-en-china/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Joven-venezolano-presenta-el-patacon-marabino-durante-una-exposicion-academica-en-China.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Empresa vinculada al Gobierno venezolano pagó 181.037 euros a firma del presunto testaferro de Zapatero",
-      "link": "https://diarioversionfinal.com/mundo/empresa-vinculada-al-gobierno-venezolano-pago-181-037-euros-a-firma-del-presunto-testaferro-de-zapatero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/ed0bf32c-0658-4cc3-bb09-b1120fb9fd69_twitter-aspect-ratio_default_0-750x430.jpg"
+      "title": "Messi: \"Oviedo será una ciudad muy especial para mí\"",
+      "link": "https://diarioversionfinal.com/mundo/messi-oviedo-sera-una-ciudad-muy-especial-para-mi/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/Messi-29-07-2026-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-10-22T13:30:30.207Z"
+  "lastUpdate": "2026-10-22T18:19:50.522Z"
 };
