@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Protesta opositora en Venezuela: los manifestantes marcharon en varias ciudades para exigir elecciones presidenciales",
-      "link": "https://www.infobae.com/venezuela/2026/10/23/protesta-opositora-en-venezuela-los-manifestantes-marcharon-en-varias-ciudades-para-exigir-elecciones-presidenciales/",
-      "image": "https://www.infobae.com/resizer/v2/UVIAGIBMM5FKLDNFAXRSZU4PSI.JPG?auth=00f861e55b0fb52605a56309cbd8a6fd27928c0db56118408af06ab875a91ac6&smart=true&width=350&height=197&quality=85"
+      "title": "La Asamblea General de Venezuela postergó el debate para reformar la ley del sistema eléctrico en medio de las protestas diarias",
+      "link": "https://www.infobae.com/venezuela/2026/10/23/la-asamblea-general-de-venezuela-postergo-el-debate-para-reformar-la-ley-del-sistema-electrico-en-medio-de-las-protestas-diarias/",
+      "image": "https://www.infobae.com/resizer/v2/ULUUROVWVRAC7MT5MMZG64O3EA.jpg?auth=dd84016c5579c1e2a858ed07bdb33ed82e40065cc9e7c4a590eeec93426c79ab&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera acompañó la inauguración de la Expo Partes 2026 destacando el crecimiento del sector empresarial en el Zulia",
-      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-acompano-la-inauguracion-de-la-expo-partes-2026-destacando-el-crecimiento-del-sector-empresarial-en-el-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261022_210922_0000.webp?x74346"
+      "title": "Silvino Bracho iguala a José Solarte en la lista histórica de salvados de la LVBP",
+      "link": "https://noticialdia.com/deportes/silvino-bracho-iguala-a-jose-solarte-en-la-lista-historica-de-salvados-de-la-lvbp/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261022_221735_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez se reúne en Miraflores con delegaciones del gobierno y AN de 2015 que integran Mesa de Diálogo",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-se-reune-en-miraflores-con-delegaciones-del-gobierno-y-an-de-2015-que-integran-mesa-de-dialogo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/958989db-8d1c-40d9-92da-71a22ce7b806-38ded5.jpg"
+      "title": "Dinorah Figuera agradece apoyo de EE.UU. a proceso de transición",
+      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-agradece-apoyo-de-eeuu-a-proceso-de-transicion",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5766233361889300571_y-a7e141.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DEPARTAMENTO DE ESTADO DE EE. UU. RESPALDÓ AVANCES DEL DIÁLOGO POLÍTICO EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/10/departamento-de-estado-de-ee-uu-respaldo-avances-del-dialogo-politico-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/05/departamento-de-estado-de-eeuu-627x376.jpg"
+      "title": "CONINDUSTRIA ADVIRTIÓ QUE LA INDUSTRIA PRIVADA OPERA AL 51 % DE SU CAPACIDAD",
+      "link": "https://noticierodigital.com/2026/10/conindustria-advirtio-que-la-industria-privada-opera-al-51-de-su-capacidad/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/04/tito-lopez-coindustria-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/04/Putin-09-04-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-23T01:16:23.161Z"
+  "lastUpdate": "2026-10-23T07:02:18.013Z"
 };
