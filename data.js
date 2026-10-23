@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "886,23",
-      "eur": "993,09",
-      "fechaValor": "Viernes, 23 Octubre 2026"
+      "usd": "887,30",
+      "eur": "994,04",
+      "fechaValor": "Martes, 27 Octubre 2026"
     },
     "binance": {
       "usdt": "980,54"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Reportan al menos tres bajones en una hora",
-      "link": "https://noticialdia.com/principal/reportan-al-menos-tres-bajones-en-una-hora/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Gemini_Generated_Image_j3izp1j3izp1j3iz.webp?x74346"
+      "title": "Redes acudió al TSJ para pedir la nulidad de artículos de la ley de partidos políticos por inconstitucionalidad",
+      "link": "https://noticialdia.com/nacionales/redes-acudio-al-tsj-para-pedir-la-nulidad-de-articulos-de-la-ley-de-partidos-politicos-por-inconstitucionalidad/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261023_172010_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera: \"Buscamos un TSJ donde impere la ley y un CNE confiable para todos los venezolanos\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-buscamos-un-tsj-donde-impere-la-ley-y-un-cne-confiable-para-todos-los-venezolanos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/857469092_1436187321992002_1088091149750119245_n-488dc5.jpg"
+      "title": "Jorge Millán: Mesa de Dialogo logra acuerdos para renovar el TSJ en diciembre",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-millan-mesa-de-dialogo-logra-acuerdos-para-renovar-el-tsj-en-diciembre",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8187.jpg-1-b9f3ab.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EN VENEZUELA EL MERCADO DE AUTOPARTES LO LIDERA CHINA CON 58,7%",
-      "link": "https://noticierodigital.com/2026/10/en-venezuela-el-mercado-de-autopartes-lo-lidera-china-con-587/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-2-4-627x376.png"
+      "title": "JOHN BARRETT ELOGIÓ LOS AVANCES DEL ACUERDO PETROLERO ENTRE VENEZUELA Y EE. UU.",
+      "link": "https://noticierodigital.com/2026/10/john-barrett-elogio-los-avances-del-acuerdo-petrolero-entre-venezuela-y-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/john-barrett-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Bukele envía contingente a Haití para buscar a 4 militares desaparecidos",
-      "link": "https://laverdad.com/bukele-envia-contingente-a-haiti-para-buscar-a-4-militares-desaparecidos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Contigente-El-Salvado-Haiti.png"
+      "title": "Una ola arrastra a reportero español y su camarógrafa durante plena transmisión en vivo",
+      "link": "https://laverdad.com/una-ola-arrastra-a-reportero-espanol-y-su-camarografa-durante-plena-transmision-en-vivo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/ola-espana.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fiscalía pide imputar a Zapatero por el caso de las joyas halladas en su despacho",
-      "link": "https://diarioversionfinal.com/mundo/fiscalia-pide-imputar-a-zapatero-por-el-caso-de-las-joyas-halladas-en-su-despacho/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/770aaac6-0436-410b-b588-aa7cc00dbee0_16-9-discover-aspect-ratio_default_0_x1200y535-750x430.jpg"
+      "title": "Londres refuerza su posición sobre Malvinas en diálogos clave",
+      "link": "https://diarioversionfinal.com/mundo/londres-refuerza-su-posicion-sobre-malvinas-en-dialogos-clave/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/JTNuhvuV-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-23T18:06:26.706Z"
+  "lastUpdate": "2026-10-23T21:51:51.055Z"
 };
