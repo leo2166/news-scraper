@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Redes acudió al TSJ para pedir la nulidad de artículos de la ley de partidos políticos por inconstitucionalidad",
-      "link": "https://noticialdia.com/nacionales/redes-acudio-al-tsj-para-pedir-la-nulidad-de-articulos-de-la-ley-de-partidos-politicos-por-inconstitucionalidad/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261023_172010_0000.webp?x74346"
+      "title": "Solicitan ayuda médica para paciente que requiere cirugía urgente de tobillo",
+      "link": "https://noticialdia.com/?p=685044",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/El-Teleton-Venevision-2026-supero-la-meta_-Mas-de-2.3-millones-de-dolares-recaudados-para-asistir-a-los-afectados-por-el-doblete-sismico.webp"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "JOHN BARRETT ELOGIÓ LOS AVANCES DEL ACUERDO PETROLERO ENTRE VENEZUELA Y EE. UU.",
-      "link": "https://noticierodigital.com/2026/10/john-barrett-elogio-los-avances-del-acuerdo-petrolero-entre-venezuela-y-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/john-barrett-eeuu-627x376.jpg"
+      "title": "SLB ANTICIPÓ QUE SUS INGRESOS EN VENEZUELA MÁS QUE SE DUPLICARÁN EN 2026",
+      "link": "https://noticierodigital.com/2026/10/slb-anticipo-que-sus-ingresos-en-venezuela-mas-que-se-duplicaran-en-2026/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/slb-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Londres refuerza su posición sobre Malvinas en diálogos clave",
-      "link": "https://diarioversionfinal.com/mundo/londres-refuerza-su-posicion-sobre-malvinas-en-dialogos-clave/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/JTNuhvuV-image-750x430.jpg"
+      "title": "Chile expulsa a 2 mil migrantes en 2023, la mayoría por ingreso irregular",
+      "link": "https://diarioversionfinal.com/mundo/chile-expulsa-a-2-mil-migrantes-en-2023-la-mayoria-por-ingreso-irregular/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/Jose-Antonio-Kast-22-09-2026-750x430.png"
     }
   ],
-  "lastUpdate": "2026-10-23T21:51:51.055Z"
+  "lastUpdate": "2026-10-24T00:17:54.163Z"
 };
