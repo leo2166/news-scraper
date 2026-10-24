@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pisella propone devolución de activos expropiados que no fueron pagados por el Estado",
-      "link": "https://www.bancaynegocios.com/pisella-propone-devolucion-de-activos-expropiados-que-no-fueron-pagados-por-el-estado/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/LUIGI-PISELLA-FEDECAMARAS.jpg"
+      "title": "#Crónica: Una clase media empobrecida no puede enfrentar la devastación por los terremotos",
+      "link": "https://www.bancaynegocios.com/cronica-una-clase-media-empobrecida-no-puede-enfrentar-la-devastacion-por-los-terremotos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/EDFICIO-TERREMOTOS-CHACAO-1.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Transparencia Venezuela propone crear una justicia especial anticorrupción",
-      "link": "https://www.infobae.com/venezuela/2026/10/23/transparencia-venezuela-propone-crear-una-justicia-especial-anticorrupcion/",
-      "image": "https://www.infobae.com/resizer/v2/576O37R2YZAR3JED64NCC7IEZ4.jpg?auth=7afd4c363dbb5aef531bed99bfbef86dc3aef96a915b3db320c33a26967a7136&smart=true&width=350&height=197&quality=85"
+      "title": "La Embajada de EEUU confirmó que todo su personal ya trabaja desde Caracas: “El objetivo es avanzar hacia elecciones libres”",
+      "link": "https://www.infobae.com/venezuela/2026/10/24/la-embajada-de-eeuu-confirmo-que-todo-su-personal-ya-trabaja-desde-caracas-el-objetivo-es-avanzar-hacia-elecciones-libres/",
+      "image": "https://www.infobae.com/resizer/v2/UG7ZK4XN3JFRZKEEIL5ROQTS7A.jpg?auth=3c6fb607bbdda37668fd35fe006ab91444b51f5f203ad5b4dfdc7ca872c8702d&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cerveceros resisten y se llevan el primer duelo de la Serie Mundial ante los Rays",
-      "link": "https://noticialdia.com/al-dia/cerveceros-resisten-y-se-llevan-el-primer-duelo-de-la-serie-mundial-ante-los-rays/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261024_011901_0000.webp?x74346"
+      "title": "Rafael Urdaneta vive en cada rincón de Maracaibo",
+      "link": "https://noticialdia.com/cultura/rafael-urdaneta-vive-en-cada-rincon-de-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-2026-10-23T155209.006.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "BCV Y CEPAL EVALUARON INDICADORES ECONÓMICOS Y NUEVAS VÍAS DE COOPERACIÓN",
-      "link": "https://noticierodigital.com/2026/10/bcv-y-cepal-evaluaron-indicadores-economicos-y-nuevas-vias-de-cooperacion/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/bcv-cepal-venezuela-627x376.jpg"
+      "title": "FRANCIA SE PREPARA PARA VIVIR UNA NUEVA JORNADA DE PROTESTAS",
+      "link": "https://noticierodigital.com/2026/10/francia-se-prepara-para-vivir-una-nueva-jornada-de-protestas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/francia_protesta-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "El PSOE lanza una ofensiva contra Feijóo por sus propuestas sociales",
-      "link": "https://diarioversionfinal.com/mundo/el-psoe-lanza-una-ofensiva-contra-feijoo-por-sus-propuestas-sociales/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/l0CZnOBz-image-750x430.jpg"
+      "title": "Israel cierra la Mezquita Ibrahimi y expulsa a sus custodios en Hebrón",
+      "link": "https://diarioversionfinal.com/mundo/israel-cierra-la-mezquita-ibrahimi-y-expulsa-a-sus-custodios-en-hebron/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Y9QE835X-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-24T10:23:28.393Z"
+  "lastUpdate": "2026-10-24T14:16:37.623Z"
 };
