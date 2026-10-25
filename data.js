@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Crónica: Una clase media empobrecida no puede enfrentar la devastación por los terremotos",
-      "link": "https://www.bancaynegocios.com/cronica-una-clase-media-empobrecida-no-puede-enfrentar-la-devastacion-por-los-terremotos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/EDFICIO-TERREMOTOS-CHACAO-1.jpg"
+      "title": "Celso Fantinel cree que habrá aumentos salariales programados de cara a este año y del año que viene",
+      "link": "https://www.bancaynegocios.com/celso-fantinel-cree-que-habra-aumentos-salariales-programados-de-cara-a-este-ano-y-del-ano-que-viene/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "El partido de María Corina Machado creó un registro para facilitar la inscripción electoral de los venezolanos dentro y fuera del país",
-      "link": "https://www.infobae.com/venezuela/2026/10/25/el-partido-de-maria-corina-machado-creo-un-registro-para-facilitar-la-inscripcion-electoral-de-los-venezolanos-dentro-y-fuera-del-pais/",
-      "image": "https://www.infobae.com/resizer/v2/RZBUEKDQFRBCJJIJHD3WABZVEY.jpg?auth=ecb43291e9eedc6c15f01f4b06d990681f8e909803adcf06b4c5eeb9761a9dd3&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump deseó que María Corina Machado esté a salvo tras su regreso a Venezuela: “Es una mujer muy agradable”",
+      "link": "https://www.infobae.com/venezuela/2026/10/25/donald-trump-deseo-que-maria-corina-machado-este-a-salvo-tras-su-regreso-a-venezuela-es-una-mujer-muy-agradable/",
+      "image": "https://www.infobae.com/resizer/v2/7NO52I65WJAF5HMR46WEXLRKUE.JPG?auth=db3d9bb9bc131047204e437a7dd66369be32807b6bd6070f41a1a8931f3d1c6f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobierno nacional inspecciona trabajos de reactivación e incorporación de megavatios en Termozulia",
-      "link": "https://noticialdia.com/al-dia/gobierno-nacional-inspecciona-trabajos-de-reactivacion-e-incorporacion-de-megavatios-en-termozulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-79-1.webp?x74346"
+      "title": "¡Imperdible! Barcelona y Real Madrid miden fuerzas en un Clásico que paraliza al mundo",
+      "link": "https://noticialdia.com/al-dia/imperdible-barcelona-y-real-madrid-miden-fuerzas-en-un-clasico-que-paraliza-al-mundo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261025_133409_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/abdul-el-sayed-mitin-12-octubre-2026.jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/abdul-el-sayed-mitin-12-octubre-2026.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Difunden cronograma de trabajo del Comité de Postulaciones para la renovación del  TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/difunden-cronograma-de-trabajo-del-comite-de-postulaciones-para-la-renovacion-del-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsj-c98eaf.jpg"
+      "title": "Tump sobre el regreso de  María Corina Machado: “espero que esté a salvo, es una mujer agradable ”",
+      "link": "https://noticiasvenevision.com/noticias/politica/tump-sobre-el-regreso-de-maria-corina-machado-espero-que-este-a-salvo-es-una-mujer-agradable",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/periodistas_casa_blanca_trump-e3fb0b.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ABREN URNAS EN BRASIL PARA SEGUNDA Y DEFINITIVA VUELTA ENTRE LULA Y FLÁVIO BOLSONARO",
-      "link": "https://noticierodigital.com/2026/10/abren-urnas-en-brasil-para-segunda-y-definitiva-vuelta-entre-lula-y-flavio-bolsonaro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/BOLSONARO_LULA-627x376.jpg"
+      "title": "CANTIDAD DE CRUDO VENEZOLANO QUE LLEGA A EE .UU. AUMENTÓ MÁS DEL 400 %, DIJO LA CASA BLANCA",
+      "link": "https://noticierodigital.com/2026/10/cantidad-de-crudo-venezolano-que-llega-a-ee-uu-aumento-mas-del-400-dijo-la-casa-blanca/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/03/casa-blanca-1395x930-1.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV pide paz para Yemen y condena atentado en Jordania",
-      "link": "https://laverdad.com/papa-leon-xiv-pide-paz-para-yemen-y-condena-atentado-en-jordania/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/3c9bedab7ba53a22c2886fb1ebf404c082af9756-scaled.jpg"
+      "title": "Brasil abre las urnas para elegir entre Lula y Flávio Bolsonaro",
+      "link": "https://laverdad.com/brasil-abre-las-urnas-para-elegir-entre-lula-y-flavio-bolsonaro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/c44fe1dba008519bf6259bccb775f23ac0e0d806.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "\"Brasil no aguanta más\": Bolsonaro vota y llama a los brasileños a decidir el futuro del país",
-      "link": "https://diarioversionfinal.com/mundo/brasil-no-aguanta-mas-bolsonaro-vota-y-llama-a-los-brasilenos-a-decidir-el-futuro-del-pais/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/zAfraMNN-image-750x430.jpg"
+      "title": "Caída de “El Meny Carranza” en Sonora: un golpe al crimen organizado",
+      "link": "https://diarioversionfinal.com/mundo/caida-de-el-meny-carranza-en-sonora-un-golpe-al-crimen-organizado/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/etExvzeP-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-25T14:51:25.655Z"
+  "lastUpdate": "2026-10-25T18:11:49.815Z"
 };
