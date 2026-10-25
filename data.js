@@ -27,15 +27,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "\"La Dama del Béisbol\" encantada con regalo de una fanática de Jackson Chourio para Maracaibo",
-      "link": "https://noticialdia.com/al-dia/la-dama-del-beisbol-encantada-con-regalo-de-una-fanatica-de-jackson-chourio-para-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-50-1.webp?x74346"
+      "title": "Deportivo Táchira asalta la capital y silencia al Caracas FC en el último suspiro",
+      "link": "https://noticialdia.com/deportes/deportivo-tachira-asalta-la-capital-y-silencia-al-caracas-fc-en-el-ultimo-suspiro/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261025_022254_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Our use of cookies and other technologies",
-      "link": "https://www.cnn.com/affiliates",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/logo-20260511112301357.jpg?c=16x9&q=w_800,c_fill"
+      "title": "ELECCIONES INTERMEDIAS",
+      "link": "https://cnnespanol.cnn.com/",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/5f188e90-63ba-4c48-a7e9-f9106cc96739.jpg?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Salvadoreno-de-48-anos-muere-bajo-custodia-del-ICE-en-centro-de-detencion-de-Texas.jpeg"
     }
   ],
-  "lastUpdate": "2026-10-25T05:44:45.368Z"
+  "lastUpdate": "2026-10-25T10:50:41.831Z"
 };
