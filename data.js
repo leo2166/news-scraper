@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La Embajada de EEUU confirmó que todo su personal ya trabaja desde Caracas: “El objetivo es avanzar hacia elecciones libres”",
-      "link": "https://www.infobae.com/venezuela/2026/10/24/la-embajada-de-eeuu-confirmo-que-todo-su-personal-ya-trabaja-desde-caracas-el-objetivo-es-avanzar-hacia-elecciones-libres/",
-      "image": "https://www.infobae.com/resizer/v2/UG7ZK4XN3JFRZKEEIL5ROQTS7A.jpg?auth=3c6fb607bbdda37668fd35fe006ab91444b51f5f203ad5b4dfdc7ca872c8702d&smart=true&width=350&height=197&quality=85"
+      "title": "El partido de María Corina Machado creó un registro para facilitar la inscripción electoral de los venezolanos dentro y fuera del país",
+      "link": "https://www.infobae.com/venezuela/2026/10/25/el-partido-de-maria-corina-machado-creo-un-registro-para-facilitar-la-inscripcion-electoral-de-los-venezolanos-dentro-y-fuera-del-pais/",
+      "image": "https://www.infobae.com/resizer/v2/RZBUEKDQFRBCJJIJHD3WABZVEY.jpg?auth=ecb43291e9eedc6c15f01f4b06d990681f8e909803adcf06b4c5eeb9761a9dd3&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "En el marco del natalicio del prócer: Gobernación del Zulia recupera áreas verdes e infraestructura del Parque Rafael Urdaneta",
-      "link": "https://noticialdia.com/al-dia/en-el-marco-del-natalicio-del-procer-gobernacion-del-zulia-recupera-areas-verdes-e-infraestructura-del-parque-rafael-urdaneta/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-76-1.webp?x74346"
+      "title": "\"La Dama del Béisbol\" encantada con regalo de una fanática de Jackson Chourio para Maracaibo",
+      "link": "https://noticialdia.com/al-dia/la-dama-del-beisbol-encantada-con-regalo-de-una-fanatica-de-jackson-chourio-para-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-50-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Legal Terms and Privacy",
-      "link": "https://cnnespanol.cnn.com/terms",
-      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
+      "title": "Our use of cookies and other technologies",
+      "link": "https://www.cnn.com/affiliates",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/logo-20260511112301357.jpg?c=16x9&q=w_800,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "FBI arresta a contratista del Gobierno de EE. UU. acusado de filtrar secretos de defensa",
-      "link": "https://diarioversionfinal.com/mundo/fbi-arresta-a-contratista-del-gobierno-de-ee-uu-acusado-de-filtrar-secretos-de-defensa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/FBI-e1738969642195-750x430.webp"
+      "title": "Salvadoreño de 48 años muere bajo custodia del ICE en centro de detención de Texas",
+      "link": "https://diarioversionfinal.com/mundo/salvadoreno-de-48-anos-muere-bajo-custodia-del-ice-en-centro-de-detencion-de-texas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Salvadoreno-de-48-anos-muere-bajo-custodia-del-ICE-en-centro-de-detencion-de-Texas.jpeg"
     }
   ],
-  "lastUpdate": "2026-10-25T00:52:23.068Z"
+  "lastUpdate": "2026-10-25T05:44:45.368Z"
 };
