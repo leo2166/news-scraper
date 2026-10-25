@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gaiteros de Corazón, IMGRA y Fundagraez impulsan la formación de más de 3.000 niños en el Zulia",
-      "link": "https://noticialdia.com/al-dia/gaiteros-de-corazon-imgra-y-fundagraez-impulsan-la-formacion-de-mas-de-3-000-ninos-en-el-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-70-1.webp?x74346"
+      "title": "En el marco del natalicio del prócer: Gobernación del Zulia recupera áreas verdes e infraestructura del Parque Rafael Urdaneta",
+      "link": "https://noticialdia.com/al-dia/en-el-marco-del-natalicio-del-procer-gobernacion-del-zulia-recupera-areas-verdes-e-infraestructura-del-parque-rafael-urdaneta/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-76-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Coalición por los DDHH y la Democracia confirma excarcelación del ingeniero José Ángel Rengifo",
-      "link": "https://noticiasvenevision.com/noticias/politica/coalicion-por-los-ddhh-y-la-democracia-confirma-excarcelacion-del-ingeniero-jose-angel-rengifo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo-1-6f3eca.jpg"
+      "title": "Difunden cronograma de trabajo del Comité de Postulaciones para la renovación del  TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/difunden-cronograma-de-trabajo-del-comite-de-postulaciones-para-la-renovacion-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsj-c98eaf.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump vota anticipadamente en Florida y lanza acusaciones de corrupción",
-      "link": "https://diarioversionfinal.com/mundo/trump-vota-anticipadamente-en-florida-y-lanza-acusaciones-de-corrupcion/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/dYZBGCLc-image-750x430.jpg"
+      "title": "FBI arresta a contratista del Gobierno de EE. UU. acusado de filtrar secretos de defensa",
+      "link": "https://diarioversionfinal.com/mundo/fbi-arresta-a-contratista-del-gobierno-de-ee-uu-acusado-de-filtrar-secretos-de-defensa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/06/FBI-e1738969642195-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-10-24T22:55:38.392Z"
+  "lastUpdate": "2026-10-25T00:52:23.068Z"
 };
