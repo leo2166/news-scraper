@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador lidera entrega de camiones cisterna y anuncia nuevos proyectos de agua y energía en la Alta Guajira",
-      "link": "https://noticialdia.com/?p=685654",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/El-Teleton-Venevision-2026-supero-la-meta_-Mas-de-2.3-millones-de-dolares-recaudados-para-asistir-a-los-afectados-por-el-doblete-sismico.webp"
+      "title": "Alcaldía de Maracaibo impulsa la figura de \"Guardianes Ambientales\" e intensifica plan preventivo en la Cañada Fénix",
+      "link": "https://noticialdia.com/al-dia/alcaldia-de-maracaibo-impulsa-la-figura-de-guardianes-ambientales-e-intensifica-plan-preventivo-en-la-canada-fenix/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-94-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "AN 2015 señala que el regreso de Machado se enmarca en el plan de tres fases para la reinstitucionalización",
-      "link": "https://noticiasvenevision.com/noticias/politica/an-2015-senala-que-regreso-de-machado-se-enmarca-en-el-plan-de-tres-fases-para-la-reinstitucionalizacion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/an2015-logo-744daa.png"
+      "title": "Embajada del Reino Unido en Venezuela se pronuncia tras el retorno de María Corina Machado a Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-del-reino-unido-en-venezuela-se-pronuncia-tras-el-retorno-de-maria-corina-machado-a-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-c3025c.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Flávio Bolsonaro lidera el conteo electoral en Brasil con ligera ventaja",
-      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-lidera-el-conteo-electoral-en-brasil-con-ligera-ventaja/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Rdk4Juwl-image-750x430.jpg"
+      "title": "Lula da Silva celebra victoria y defiende la democracia brasileña",
+      "link": "https://diarioversionfinal.com/mundo/lula-da-silva-celebra-victoria-y-defiende-la-democracia-brasilena/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/tvcgXe7k-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-25T23:51:15.358Z"
+  "lastUpdate": "2026-10-26T03:30:26.643Z"
 };
