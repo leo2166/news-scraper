@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "El principal asesor de María Corina Machado: “Vamos a organizar la movilización popular espontánea”",
-      "link": "https://www.infobae.com/venezuela/2026/10/26/el-principal-asesor-de-maria-corina-machado-vamos-a-organizar-la-movilizacion-popular-espontanea/",
-      "image": "https://www.infobae.com/resizer/v2/UAFRZVSE7FETTAPYUM5BXEKR6A.JPG?auth=1cb70f8dd62c1f6d4f69fddcd6d38486941d4214988f4ee9eb62d5f5bc3b7bd6&smart=true&width=350&height=197&quality=85"
+      "title": "Rubió reveló que Estados Unidos instó a Delcy Rodríguez a permitir el regreso de María Corina Machado a Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/10/26/rubio-revelo-que-estados-unidos-insto-a-delcy-rodriguez-a-permitir-el-regreso-de-maria-corina-machado-a-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/NIHLIG36NFGINLOP3D7S7YFGSI.JPG?auth=2e03b17679a9eda5032130ff1fb4a13089a2a249d7b1f9a227949bd3fcccc3fc&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Entregan en Paraguachón a 21 venezolanos deportados por delinquir",
-      "link": "https://noticialdia.com/al-dia/entregan-en-paraguachon-a-21-venezolanos-deportados-por-delinquir/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-2026-10-26T111345.391.webp?x74346"
+      "title": "Desalojan a ‘El Señor de los quesillos’ del casco central de Ciudad Ojeda",
+      "link": "https://noticialdia.com/al-dia/desalojan-a-el-senor-de-los-quesillos-del-casco-central-de-ciudad-ojeda/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-12-6.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Arreaza afirma que el proceso de diálogo busca el ejercicio político bajo la Constitución",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-arreaza-afirma-que-el-proceso-de-dialogo-busca-el-ejercicio-politico-bajo-la-constitucion",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-10-25-at-11.48.29-pm-8337c9.jpeg"
+      "title": "La presidenta encargada, Delcy Rodríguez dice que en Venezuela no hay persecución política, tras regreso de María Corina Machado",
+      "link": "https://noticiasvenevision.com/noticias/politica/la-presidenta-encargada-delcy-rodriguez-dice-que-en-venezuela-no-hay-persecucion-politica-tras-regreso-de-maria-corina-machado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ah52r3athbk4zj7w4jifszz2ii-1-67fe3d.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CIDH PIDE AL ESTADO GARANTIZAR «LA INTEGRIDAD PERSONAL Y DERECHOS» A MARÍA CORINA MACHADO",
-      "link": "https://noticierodigital.com/2026/10/cidh-pide-al-estado-garantizar-la-integridad-personal-y-derechos-a-maria-corina-machado/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/cidh.jpg"
+      "title": "EE. UU. PIDIÓ A DELCY RODRÍGUEZ PERMITIR EL RETORNO DE MCM, CONFIRMÓ MARCO RUBIO",
+      "link": "https://noticierodigital.com/2026/10/ee-uu-pidio-a-delcy-rodriguez-permitir-el-retorno-de-mcm-confirmo-marco-rubio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/08/marco-rubio-donald-trump-gabinete-eeuu-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump asegura que EE. UU. ejerce \"control total\" sobre Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-ee-uu-ejerce-control-total-sobre-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/4onwf52k-image-750x430.jpg"
+      "title": "EE. UU. espera que Delcy Rodríguez deje la Presidencia tras renovar el TSJ y el CNE",
+      "link": "https://diarioversionfinal.com/mundo/ee-uu-espera-que-delcy-rodriguez-deje-la-presidencia-tras-renovar-el-tsj-y-el-cne/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/images-2026-10-26T140924.445-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-26T16:33:47.362Z"
+  "lastUpdate": "2026-10-26T21:23:46.306Z"
 };
