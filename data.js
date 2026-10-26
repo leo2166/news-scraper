@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Celso Fantinel cree que habrá aumentos salariales programados de cara a este año y del año que viene",
-      "link": "https://www.bancaynegocios.com/celso-fantinel-cree-que-habra-aumentos-salariales-programados-de-cara-a-este-ano-y-del-ano-que-viene/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "#Informe: ¿Crecer en volumen o blindar márgenes? La encrucijada del nuevo ciclo en Venezuela",
+      "link": "https://www.bancaynegocios.com/informe-crecer-en-volumen-o-blindar-margenes-la-encrucijada-del-nuevo-ciclo-en-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/CONFIANZA.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Miles de venezolanos se movilizaron para recibir a María Corina Machado en varias partes del país",
-      "link": "https://www.infobae.com/venezuela/2026/10/25/miles-de-venezolanos-se-movilizaron-para-recibir-a-maria-corina-machado-en-varias-partes-del-pais/",
-      "image": "https://www.infobae.com/resizer/v2/63RZMWZOSNHH5GGADTQ6QJAJVE.JPG?auth=c71b6cccb6cbee978935a166ead11c3c9287a620866e0d99854cc4f46b6d8496&smart=true&width=350&height=197&quality=85"
+      "title": "El principal asesor de María Corina Machado: “Vamos a organizar la movilización popular espontánea”",
+      "link": "https://www.infobae.com/venezuela/2026/10/26/el-principal-asesor-de-maria-corina-machado-vamos-a-organizar-la-movilizacion-popular-espontanea/",
+      "image": "https://www.infobae.com/resizer/v2/UAFRZVSE7FETTAPYUM5BXEKR6A.JPG?auth=1cb70f8dd62c1f6d4f69fddcd6d38486941d4214988f4ee9eb62d5f5bc3b7bd6&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Leones del Caracas despliega su poder en extra innings y barre a Navegantes del Magallanes",
-      "link": "https://noticialdia.com/al-dia/leones-del-caracas-despliega-su-poder-en-extra-innings-y-barre-a-navegantes-del-magallanes/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/20261026_044353_0000-1.webp?x74346"
+      "title": "Entregan en Paraguachón a 21 venezolanos deportados por delinquir",
+      "link": "https://noticialdia.com/al-dia/entregan-en-paraguachon-a-21-venezolanos-deportados-por-delinquir/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-2026-10-26T111345.391.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "«DESDE EL 3 DE ENERO, HEMOS DADO LA CARA, NO NOS HEMOS ESCONDIDO»: NICOLÁS MADURO GUERRA",
-      "link": "https://noticierodigital.com/2026/10/desde-el-3-de-enero-hemos-dado-la-cara-no-nos-hemos-escondido-nicolas-maduro-guerra/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/03/nicolas-maduro-guerra-627x376.jpg"
+      "title": "CIDH PIDE AL ESTADO GARANTIZAR «LA INTEGRIDAD PERSONAL Y DERECHOS» A MARÍA CORINA MACHADO",
+      "link": "https://noticierodigital.com/2026/10/cidh-pide-al-estado-garantizar-la-integridad-personal-y-derechos-a-maria-corina-machado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/cidh.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Brasil abre las urnas para elegir entre Lula y Flávio Bolsonaro",
-      "link": "https://laverdad.com/brasil-abre-las-urnas-para-elegir-entre-lula-y-flavio-bolsonaro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/c44fe1dba008519bf6259bccb775f23ac0e0d806.jpg"
+      "title": "El Vaticano confirma el viaje del Papa a Uruguay, Argentina y Perú tras su cirugía",
+      "link": "https://laverdad.com/el-vaticano-confirma-el-viaje-del-papa-a-uruguay-argentina-y-peru-tras-su-cirugia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Leon-XIV-papamovil-despues-cirugia-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Lula da Silva celebra victoria y defiende la democracia brasileña",
-      "link": "https://diarioversionfinal.com/mundo/lula-da-silva-celebra-victoria-y-defiende-la-democracia-brasilena/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/tvcgXe7k-image-750x430.jpg"
+      "title": "Trump asegura que EE. UU. ejerce \"control total\" sobre Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/trump-asegura-que-ee-uu-ejerce-control-total-sobre-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/4onwf52k-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-26T09:47:01.370Z"
+  "lastUpdate": "2026-10-26T16:33:47.362Z"
 };
