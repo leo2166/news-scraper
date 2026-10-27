@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez habló del regreso de María Corina Machado a Venezuela pero evitó explicar qué ruta usó para ingresar al país",
-      "link": "https://www.infobae.com/venezuela/2026/10/26/delcy-rodriguez-hablo-del-regreso-de-maria-corina-machado-a-venezuela-pero-evito-explicar-que-ruta-uso-para-ingresar-al-pais/",
-      "image": "https://www.infobae.com/resizer/v2/RZ5VGSSSNZDSJE6X3YBDBCJYZA.JPG?auth=e8b07dc2b0be2bf4b113058099703e99eb62e06912614f96404bc42b15c26812&smart=true&width=350&height=197&quality=85"
+      "title": "La CIDH recordó al Gobierno venezolano su obligación de proteger a María Corina Machado tras su regreso al país",
+      "link": "https://www.infobae.com/venezuela/2026/10/27/la-cidh-recordo-al-gobierno-venezolano-su-obligacion-de-proteger-a-maria-corina-machado-tras-su-regreso-al-pais/",
+      "image": "https://www.infobae.com/resizer/v2/7WHULYZNTVBXXKXPBKXWZYWVH4.JPG?auth=0f2907f39e478d8d0763e1776d96a541032d8336101ad8313114ae58ed42b0f0&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Poncho Zuleta suspende su gira en Estados Unidos tras grave accidente de su hijo Kbeto",
-      "link": "https://noticialdia.com/al-dia/poncho-zuleta-suspende-su-gira-en-estados-unidos-tras-grave-accidente-de-su-hijo-kbeto/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261026_205734_0000.webp?x74346"
+      "title": "A un triunfo de la corona: Jackson Chourio y William Contreras guían a los Cerveceros en la Serie Mundial",
+      "link": "https://noticialdia.com/al-dia/a-un-triunfo-de-la-corona-jackson-chourio-y-william-contreras-guian-a-los-cerveceros-en-la-serie-mundial/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261027_000553_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Legal Terms and Privacy",
-      "link": "https://cnnespanol.cnn.com/terms",
-      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
+      "title": "ELECCIONES INTERMEDIAS",
+      "link": "https://cnnespanol.cnn.com/",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/votacion-ee-uu.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Marco Rubio aclara que solo sugirió a María Corina Machado posponer su viaje tras el terremoto",
-      "link": "https://noticiasvenevision.com/noticias/politica/marco-rubio-aclara-que-solo-sugirio-a-maria-corina-machado-posponer-su-viaje-tras-el-terremoto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-10-26-164242-346348.png"
+      "title": "Diosdado Cabello tilda de “show” retorno de María Corina Machado",
+      "link": "https://noticiasvenevision.com/noticias/politica/diosdado-cabello-tilda-de-show-retorno-de-maria-corina-machado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5116163492972007020_x-e5f2dc.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "PROPUESTA ELECTORAL PARA VENEZUELA SUMA APOYO BIPARTIDISTA EN EL SENADO DE EE. UU.",
-      "link": "https://noticierodigital.com/2026/10/propuesta-electoral-para-venezuela-suma-apoyo-bipartidista-en-el-senado-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/03/pago-dolares-efectivo-30mar2022.png"
+      "title": "SENIAT REPORTÓ CRECIMIENTO DE LA RECAUDACIÓN Y ANTICIPÓ CAMBIOS TRIBUTARIOS PARA 2027",
+      "link": "https://noticierodigital.com/2026/10/seniat-reporto-crecimiento-de-la-recaudacion-y-anticipo-cambios-tributarios-para-2027/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Destacada-simple_20261026_214858_0000-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Chile exige a Enap aclarar irregularidades en emisiones de su refinería",
-      "link": "https://diarioversionfinal.com/mundo/chile-exige-a-enap-aclarar-irregularidades-en-emisiones-de-su-refineria/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/image-681x430.jpg"
+      "title": "Trump defiende reformas en la Casa Blanca tras críticas de Obama",
+      "link": "https://diarioversionfinal.com/mundo/trump-defiende-reformas-en-la-casa-blanca-tras-criticas-de-obama/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/JNTpPNnw-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-27T01:12:15.337Z"
+  "lastUpdate": "2026-10-27T07:22:38.068Z"
 };
