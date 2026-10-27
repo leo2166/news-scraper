@@ -21,46 +21,46 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La CIDH recordó al Gobierno venezolano su obligación de proteger a María Corina Machado tras su regreso al país",
-      "link": "https://www.infobae.com/venezuela/2026/10/27/la-cidh-recordo-al-gobierno-venezolano-su-obligacion-de-proteger-a-maria-corina-machado-tras-su-regreso-al-pais/",
-      "image": "https://www.infobae.com/resizer/v2/7WHULYZNTVBXXKXPBKXWZYWVH4.JPG?auth=0f2907f39e478d8d0763e1776d96a541032d8336101ad8313114ae58ed42b0f0&smart=true&width=350&height=197&quality=85"
+      "title": "Migración de 43 mil médicos agudiza la crisis del sistema sanitario en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/10/27/migracion-de-43-mil-medicos-agudiza-la-crisis-del-sistema-sanitario-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/SQZ6XHBLANH63BH7RXAVGEU4UA.JPG?auth=46de7f8a9e67b8a1287b836ec5b759b199a5668fdae70d9fcf4990c947d443e4&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Asesinan al exsecretario de Gobierno de Cúcuta Miguel Castellanos en El Pórtico",
-      "link": "https://noticialdia.com/al-dia/asesinan-al-exsecretario-de-gobierno-de-cucuta-miguel-castellanos-en-el-portico/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-2-16.webp?x74346"
+      "title": "Motorizado impactó contra un camión en el centro de Maracaibo: No hubo heridos",
+      "link": "https://noticialdia.com/sucesos/motorizado-impacto-contra-un-camion-en-el-centro-de-maracaibo-no-hubo-heridos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-27T125814.886.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Legal Terms and Privacy",
-      "link": "https://cnnespanol.cnn.com/terms",
-      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
+      "title": "ELECCIONES INTERMEDIAS",
+      "link": "https://cnnespanol.cnn.com/",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20261027095820060.Jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diosdado Cabello tilda de “show” retorno de María Corina Machado",
-      "link": "https://noticiasvenevision.com/noticias/politica/diosdado-cabello-tilda-de-show-retorno-de-maria-corina-machado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5116163492972007020_x-e5f2dc.jpg"
+      "title": "María Teresa Clavijo proyecta elecciones presidenciales para julio de 2027 tras anuncio de EE. UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-teresa-clavijo-proyecta-elecciones-presidenciales-para-julio-de-2027-tras-anuncio-de-ee-uu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8614.jpg-ebed14.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MARÍA CORINA MACHADO DARÁ LA PRIMERA RUEDA DE PRENSA TRAS SU RETORNO AL PAÍS ESTE JUEVES",
-      "link": "https://noticierodigital.com/2026/10/maria-corina-machado-dara-la-primera-rueda-de-prensa-tras-su-retorno-al-pais-este-jueves/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Diseno-sin-titulo-2-5-627x376.png"
+      "title": "FLÁVIO BOLSONARO SALIÓ DE BRASIL RUMBO A EE. UU., SEGÚN FUENTES CERCANAS AL EXCANDIDATO",
+      "link": "https://noticierodigital.com/2026/10/flavio-bolsonaro-salio-de-brasil-rumbo-a-ee-uu-segun-fuentes-cercanas-al-excandidato/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/flavioBolsonaro_-627x376.webp"
     },
     {
       "source": "La Verdad",
-      "title": "El Vaticano confirma el viaje del Papa a Uruguay, Argentina y Perú tras su cirugía",
-      "link": "https://laverdad.com/el-vaticano-confirma-el-viaje-del-papa-a-uruguay-argentina-y-peru-tras-su-cirugia/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Leon-XIV-papamovil-despues-cirugia-2.jpg"
+      "title": "EE. UU. mata a 5 personas en un nuevo ataque contra una “narcolancha” en el Pacífico",
+      "link": "https://laverdad.com/ee-uu-mata-a-5-personas-en-un-nuevo-ataque-contra-una-narcolancha-en-el-pacifico/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/narcolancha-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Niño muere tras caer desde un piso 13 en Chile: ventanal tenía seguros dañados",
-      "link": "https://diarioversionfinal.com/mundo/nino-muere-tras-caer-desde-un-piso-13-en-chile-ventanal-tenia-seguros-danados/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/1635697057-whatsapp-image-2021-10-31-at-131556.jpg-633x430.jpeg"
+      "title": "Trump condiciona aceptación de resultados a la veracidad electoral",
+      "link": "https://diarioversionfinal.com/mundo/trump-condiciona-aceptacion-de-resultados-a-la-veracidad-electoral/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/IS2ATtVx-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-27T14:01:36.150Z"
+  "lastUpdate": "2026-10-27T19:50:37.540Z"
 };
