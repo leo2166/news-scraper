@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "887,30",
-      "eur": "994,04",
-      "fechaValor": "Martes, 27 Octubre 2026"
+      "usd": "888,12",
+      "eur": "989,72",
+      "fechaValor": "Miércoles, 28 Octubre 2026"
     },
     "binance": {
       "usdt": "980,54"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Migración de 43 mil médicos agudiza la crisis del sistema sanitario en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/10/27/migracion-de-43-mil-medicos-agudiza-la-crisis-del-sistema-sanitario-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/SQZ6XHBLANH63BH7RXAVGEU4UA.JPG?auth=46de7f8a9e67b8a1287b836ec5b759b199a5668fdae70d9fcf4990c947d443e4&smart=true&width=350&height=197&quality=85"
+      "title": "Donald Trump afirmó que Venezuela debería convertirse en el estado número 51 de Estados Unidos",
+      "link": "https://www.infobae.com/venezuela/2026/10/27/donald-trump-afirmo-que-venezuela-deberia-convertirse-en-el-estado-numero-51-de-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/6ZJBZPNLTJGN7HHMKPEHR5PJEI.JPG?auth=83ce38577cb50e7937c982fdf32786f2ebbfedfbc84c9f9a446c8a300d70596a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Motorizado impactó contra un camión en el centro de Maracaibo: No hubo heridos",
-      "link": "https://noticialdia.com/sucesos/motorizado-impacto-contra-un-camion-en-el-centro-de-maracaibo-no-hubo-heridos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-kelly-2026-10-27T125814.886.webp?x74346"
+      "title": "TSJ elimina competencia especial de tribunales de Caracas en casos penales de adolescentes",
+      "link": "https://noticialdia.com/sin-categoria/tsj-elimina-competencia-especial-de-tribunales-de-caracas-en-casos-penales-de-adolescentes/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261026_193359_0000.webp"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ls-1-20261027095820060.Jpg?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-27t205302z-1025791127-rc2vboa9anwk-rtrmadp-3-usa-trump-texas.JPG?c=16x9&q=h_438,w_780,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "FLÁVIO BOLSONARO SALIÓ DE BRASIL RUMBO A EE. UU., SEGÚN FUENTES CERCANAS AL EXCANDIDATO",
-      "link": "https://noticierodigital.com/2026/10/flavio-bolsonaro-salio-de-brasil-rumbo-a-ee-uu-segun-fuentes-cercanas-al-excandidato/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/flavioBolsonaro_-627x376.webp"
+      "title": "FANB ACTIVÓ CUERPO ESPECIALIZADO PARA ATENDER DESASTRES NATURALES EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/10/fanb-activo-cuerpo-especializado-para-atender-desastres-naturales-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Unidad-de-Tarea-Especial-de-Emergencias-Aragua-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump condiciona aceptación de resultados a la veracidad electoral",
-      "link": "https://diarioversionfinal.com/mundo/trump-condiciona-aceptacion-de-resultados-a-la-veracidad-electoral/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/IS2ATtVx-image-750x430.jpg"
+      "title": "Flávio Bolsonaro huye a EE. UU. tras perder elecciones y orden judicial",
+      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-huye-a-ee-uu-tras-perder-elecciones-y-orden-judicial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/BRAZIL-ELECTION-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-27T19:50:37.540Z"
+  "lastUpdate": "2026-10-27T23:31:33.391Z"
 };
