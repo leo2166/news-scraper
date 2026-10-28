@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "888,12",
-      "eur": "989,72",
-      "fechaValor": "Miércoles, 28 Octubre 2026"
+      "usd": "888,89",
+      "eur": "989,39",
+      "fechaValor": "Jueves, 29 Octubre 2026"
     },
     "binance": {
       "usdt": "980,54"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Aumentó más de 7% en bolívares: Pagan el \"Bono de Corresponsabilidad y Formación\" de octubre a docentes",
-      "link": "https://www.bancaynegocios.com/aumento-mas-de-7-porciento-en-bolivares-pagan-el-bono-de-corresponsabilidad-y-formacion-de-octubre-a-docentes/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/06/BolivaresDolaresCambio.jpg"
+      "title": "\"Ya basta de excusas\": Delcy Rodríguez exige al Banco de Inglaterra devolución de reservas de oro",
+      "link": "https://www.bancaynegocios.com/ya-basta-de-excusas-delcy-rodriguez-exige-al-banco-de-inglaterra-devolucion-de-reservas-de-oro/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-REUNION-BID-EDITADA.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela y Acnur fortalecieron su cooperación para proteger a refugiados y retornados",
-      "link": "https://www.infobae.com/venezuela/2026/10/28/venezuela-y-acnur-fortalecieron-su-cooperacion-para-proteger-a-refugiados-y-retornados/",
-      "image": "https://www.infobae.com/resizer/v2/BNJ6L5QBLJGJBJMMM7SWC4RQJA.jpg?auth=1985c8853981270aa67f125f968ce856ec6da70e06cb35638d9336d8e73635c7&smart=true&width=350&height=197&quality=85"
+      "title": "Trabajadores convocan una jornada nacional de protesta en Venezuela para exigir mejoras salariales",
+      "link": "https://www.infobae.com/venezuela/2026/10/28/trabajadores-convocan-una-jornada-nacional-de-protesta-en-venezuela-para-exigir-mejoras-salariales/",
+      "image": "https://www.infobae.com/resizer/v2/D7CT2BWVHRAOFKF5FU7QQON3LM.JPG?auth=4ce743cd1d09a1b2a4988cd5d2fd705713b538babdb5f28b8bc46f295563ec57&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera acompañó entrega de los primeros financiamientos de proyectos a 292 circuitos comunales y comunas",
-      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-acompano-entrega-de-los-primeros-financiamientos-de-proyectos-a-292-circuitos-comunales-y-comunas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-7-17.webp?x74346"
+      "title": "Gobierno ejecuta trabajos para optimizar el servicio de agua en el sector Amalwin en Zulia",
+      "link": "https://noticialdia.com/zulia/gobierno-ejecuta-trabajos-para-optimizar-el-servicio-de-agua-en-el-sector-amalwin-en-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-Wordpress-1-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/voto-20261027235644480.png?c=16x9&q=h_144,w_256,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/split-democratic-candidates-20261028165611869.jpg?c=2x3&q=h_384,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Raquel Sánchez exige transparencia y máxima participación ciudadana en el inicio del proceso de selección del nuevo TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/raquel-sanchez-exige-transparencia-y-maxima-participacion-ciudadana-en-el-inicio-del-proceso-de-seleccion-del-nuevo-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8765.jpg-1-a1ccc1.jpeg"
+      "title": "María Corina Machado visita La Guaira y se reúne con afectados tras el evento sísmico del 24 de junio",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-visita-la-guaira-y-se-reune-con-afectados-tras-el-evento-sismico-del-24-de-junio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hvugvu1w8aat2bd-f2d412.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FALLECIÓ EL JUEZ FEDERAL ALVIN HELLERSTEIN A LOS 93 AÑOS: LLEVABA EL CASO CONTRA MADURO",
-      "link": "https://noticierodigital.com/2026/10/fallecio-el-juez-federal-alvin-hellerstein-a-los-93-anos-llevaba-el-caso-contra-maduro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/06/audienciadeMaduro-627x376.jpg"
+      "title": "FLÁVIO BOLSONARO SE DECLARÓ «LÍDER DE BRASIL» Y ACUSÓ AL SUPREMO DE PERSECUCIÓN POLÍTICA",
+      "link": "https://noticierodigital.com/2026/10/flavio-bolsonaro-se-declaro-lider-de-brasil-y-acuso-al-supremo-de-persecucion-politica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/flavio-bolsonaro-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Fallece a los 92 años el juez federal Alvin Hellerstein, encargado del proceso contra Nicolás Maduro",
-      "link": "https://laverdad.com/fallece-a-los-92-anos-el-juez-federal-alvin-hellerstein-encargado-del-proceso-contra-nicolas-maduro/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Hellerstein.jpg"
+      "title": "Flávio Bolsonaro llega a Miami tras huir de Brasil después de perder las elecciones",
+      "link": "https://laverdad.com/flavio-bolsonaro-llega-a-miami-tras-huir-de-brasil-despues-de-perder-las-elecciones/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Flavio-Bolsonaro-Miami.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Accidente de trenes en Toledo: ascienden a 68 los fallecidos en el choque entre un AVE y un Iryo en Urda",
-      "link": "https://diarioversionfinal.com/mundo/accidente-de-trenes-en-toledo-ascienden-a-68-los-fallecidos-en-el-choque-entre-un-ave-y-un-iryo-en-urda/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/images-2026-10-28T060314.263.jpg"
+      "title": "La muerte del juez Hellerstein no frena el caso contra Maduro y Flores",
+      "link": "https://diarioversionfinal.com/mundo/la-muerte-del-juez-hellerstein-no-frena-el-caso-contra-maduro-y-flores/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Xlrip64q-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-28T17:07:07.528Z"
+  "lastUpdate": "2026-10-28T22:15:17.788Z"
 };
