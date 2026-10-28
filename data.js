@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Informe: ¿Crecer en volumen o blindar márgenes? La encrucijada del nuevo ciclo en Venezuela",
-      "link": "https://www.bancaynegocios.com/informe-crecer-en-volumen-o-blindar-margenes-la-encrucijada-del-nuevo-ciclo-en-venezuela/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/CONFIANZA.jpg"
+      "title": "Transportistas proponen fijar el pasaje urbano en US$0,70 y eliminar el subsidio a la gasolina",
+      "link": "https://www.bancaynegocios.com/transportistas-proponen-fijar-el-pasaje-urbano-en-us0punto70-y-eliminar-el-subsidio-a-la-gasolina/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/TRANSPORTE-VZLA.jpg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "TSJ elimina competencia especial de tribunales de Caracas en casos penales de adolescentes",
-      "link": "https://noticialdia.com/sin-categoria/tsj-elimina-competencia-especial-de-tribunales-de-caracas-en-casos-penales-de-adolescentes/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261026_193359_0000.webp"
+      "title": "Águilas sufre su cuarto tropiezo en la carretera tras embestida inicial de Caribes",
+      "link": "https://noticialdia.com/deportes/aguilas-sufre-su-cuarto-tropiezo-en-la-carretera-tras-embestida-inicial-de-caribes/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261028_000833_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-27t205302z-1025791127-rc2vboa9anwk-rtrmadp-3-usa-trump-texas.JPG?c=16x9&q=h_438,w_780,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-23081576-273379-19299999997-still.jpg?c=16x9&q=h_144,w_256,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Teresa Clavijo proyecta elecciones presidenciales para julio de 2027 tras anuncio de EE. UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-teresa-clavijo-proyecta-elecciones-presidenciales-para-julio-de-2027-tras-anuncio-de-ee-uu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_8614.jpg-ebed14.jpeg"
+      "title": "María Corina Machado reafirma compromiso con la liberación de presos políticos tras reunirse con familiares",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-reafirma-compromiso-con-la-liberacion-de-presos-politicos-tras-reunirse-con-familiares",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/-este-martes-mariacorinamachado-se-reuni-con-ms-de-100-familiares-de-presos-polticos-o-068830.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FANB ACTIVÓ CUERPO ESPECIALIZADO PARA ATENDER DESASTRES NATURALES EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/10/fanb-activo-cuerpo-especializado-para-atender-desastres-naturales-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/Unidad-de-Tarea-Especial-de-Emergencias-Aragua-627x376.jpg"
+      "title": "CONSULADO DE ITALIA EN CARACAS SUSPENDE CITAS PARA PASAPORTES Y CÉDULAS ELECTRÓNICAS",
+      "link": "https://noticierodigital.com/2026/10/consulado-de-italia-en-caracas-suspende-citas-para-pasaportes-y-cedulas-electronicas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/04/consulado-de-italia-en-caracas-9abr2021.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/BRAZIL-ELECTION-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-27T23:31:33.391Z"
+  "lastUpdate": "2026-10-28T04:18:12.401Z"
 };
