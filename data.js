@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Trabajadores convocan una jornada nacional de protesta en Venezuela para exigir mejoras salariales",
-      "link": "https://www.infobae.com/venezuela/2026/10/28/trabajadores-convocan-una-jornada-nacional-de-protesta-en-venezuela-para-exigir-mejoras-salariales/",
-      "image": "https://www.infobae.com/resizer/v2/D7CT2BWVHRAOFKF5FU7QQON3LM.JPG?auth=4ce743cd1d09a1b2a4988cd5d2fd705713b538babdb5f28b8bc46f295563ec57&smart=true&width=350&height=197&quality=85"
+      "title": "La jueza Analisa Torres asume el caso contra Nicolás Maduro tras la muerte de Alvin Hellerstein",
+      "link": "https://www.infobae.com/venezuela/2026/10/29/la-jueza-analisa-torres-asume-el-caso-contra-nicolas-maduro-tras-la-muerte-de-alvin-hellerstein/",
+      "image": "https://www.infobae.com/resizer/v2/CY3ARYGVLBFZLGTTCRN4HSDITU.JPG?auth=64c4d01bfd4a3d4390c5072a4e41a5914dbe1e15ab7fd5c0aa3e4b9051df406f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobierno ejecuta trabajos para optimizar el servicio de agua en el sector Amalwin en Zulia",
-      "link": "https://noticialdia.com/zulia/gobierno-ejecuta-trabajos-para-optimizar-el-servicio-de-agua-en-el-sector-amalwin-en-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-Wordpress-1-1.webp?x74346"
+      "title": "Gobernador del Zulia entrega 11 kilómetros de vialidad en la Avenida Don Manuel Belloso hacia el Aeropuerto La Chinita",
+      "link": "https://noticialdia.com/al-dia/gobernador-del-zulia-entrega-11-kilometros-de-vialidad-en-la-avenida-don-manuel-belloso-hacia-el-aeropuerto-la-chinita/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-100-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado visita La Guaira y se reúne con afectados tras el evento sísmico del 24 de junio",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-visita-la-guaira-y-se-reune-con-afectados-tras-el-evento-sismico-del-24-de-junio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hvugvu1w8aat2bd-f2d412.jpg"
+      "title": "Comité de Postulaciones inicia revisión de baremos para la renovación del TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/comite-de-postulaciones-inicia-revision-de-baremos-para-la-renovacion-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5971059617796132800_y-cac42e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FLÁVIO BOLSONARO SE DECLARÓ «LÍDER DE BRASIL» Y ACUSÓ AL SUPREMO DE PERSECUCIÓN POLÍTICA",
-      "link": "https://noticierodigital.com/2026/10/flavio-bolsonaro-se-declaro-lider-de-brasil-y-acuso-al-supremo-de-persecucion-politica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/flavio-bolsonaro-1-627x376.jpg"
+      "title": "GOBIERNO ANUNCIÓ MAQUINARIA PARA IMPULSAR LAS OPERACIONES DE ORO Y CARBÓN EN BOLÍVAR",
+      "link": "https://noticierodigital.com/2026/10/gobierno-anuncio-maquinaria-para-impulsar-las-operaciones-de-oro-y-carbon-en-bolivar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/mineria-bolivar-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Xlrip64q-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-28T22:15:17.788Z"
+  "lastUpdate": "2026-10-29T02:08:16.165Z"
 };
