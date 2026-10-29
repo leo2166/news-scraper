@@ -1,9 +1,9 @@
 {
   "rates": {
     "bcv": {
-      "usd": "888,89",
-      "eur": "989,39",
-      "fechaValor": "Jueves, 29 Octubre 2026"
+      "usd": "889,26",
+      "eur": "992,80",
+      "fechaValor": "Viernes, 30 Octubre 2026"
     },
     "binance": {
       "usdt": "980,54"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Dirigente opositor Enrique Márquez demanda discusión abierta del presupuesto nacional 2027",
-      "link": "https://www.bancaynegocios.com/dirigente-opositor-enrique-marquez-demanda-discusion-abierta-del-presupuesto-nacional-2027/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/ENRIQUE-MARQUEZ-DIRIGENTE-OPOSITOR.jpg"
+      "title": "Aumentó 3,50% en bolívares: Pagan segunda parte del \"Ingreso Integral de los Trabajadores\" de octubre",
+      "link": "https://www.bancaynegocios.com/aumento-3punto50-porciento-en-bolivares-pagan-segunda-parte-del-ingreso-integral-de-los-trabajadores-de-octubre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Delcy Rodríguez volvió a prometer elecciones en Venezuela, pero no puso fecha y pidió “apoyar las reformas”",
-      "link": "https://www.infobae.com/venezuela/2026/10/29/delcy-rodriguez-volvio-a-prometer-elecciones-en-venezuela-pero-no-puso-fecha-y-pidio-apoyar-las-reformas/",
-      "image": "https://www.infobae.com/resizer/v2/LDWO5DJCEZA25ELAPRFURYJG3I.jpg?auth=60a4e5e48d43a61cfe2f3eb00aaee07866268f7ab84a16e739d5266c18dd8318&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado: “Mi presencia en Venezuela demuestra que la transición avanza”",
+      "link": "https://www.infobae.com/venezuela/2026/10/29/maria-corina-machado-mi-presencia-en-venezuela-demuestra-que-la-transicion-avanza/",
+      "image": "https://www.infobae.com/resizer/v2/T263H6RE55BULO7MNPYPZ2DUDI.JPG?auth=5bc900d0a01300bff19dd077b3dcbafd6e002cf02ba9bb763fad30331edab5ef&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Emoción a flor de piel: Luis Lara rompe en llanto tras coronarse campeón y dedica el triunfo a su familia y a Dios",
-      "link": "https://noticialdia.com/deportes/emocion-a-flor-de-piel-luis-lara-rompe-en-llanto-tras-coronarse-campeon-y-dedica-el-triunfo-a-su-familia-y-a-dios/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-36-1.webp?x74346"
+      "title": "\"A veces olvidamos que la vida no está garantizada\":Vallenatero Kbeto Zuleta",
+      "link": "https://noticialdia.com/?p=687192",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261026_193359_0000.webp"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez garantiza elecciones constitucionales con observación internacional y arbitraje renovado",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-garantiza-elecciones-constitucionales-con-observacion-internacional-y-arbitraje-renovado",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/embalse-de-macagua-9-74db94.jpg"
+      "title": "María Corina Machado: “la transición democrática es irreversible”",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-la-transicion-democratica-es-irreversible",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-10-29-at-14.12.32-c47ce7.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ: «ORDENÉ QUE NINGUNA PERSONA SEA DETENIDA SIN ORDEN JUDICIAL, SALVO EN CASOS DE FLAGRANCIA»",
-      "link": "https://noticierodigital.com/2026/10/ddelcy-rodriguez-ordene-que-ninguna-persona-sea-detenida-sin-orden-judicial-salvo-en-casos-de-flagrancia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/delcy_detencion-627x376.jpg"
+      "title": "PROVEA EXIGIÓ INVESTIGAR DETENCIONES ARBITRARIAS TRAS ANUNCIO DE DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/10/provea-exigio-investigar-detenciones-arbitrarias-tras-anuncio-de-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2020/03/sebin_5mar2020.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Suben a 69 los muertos en choque de trenes en España y Sánchez promete aclarar “hasta el último detalle”",
-      "link": "https://laverdad.com/suben-a-69-los-muertos-en-choque-de-trenes-en-espana-y-sanchez-promete-aclarar-hasta-el-ultimo-detalle/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/10/Espana-choque-de-trenes.jpg"
+      "title": "De La Espriella ordena deportar a venezolanos irregulares que cometan delitos en Bogotá",
+      "link": "https://laverdad.com/de-la-espriella-ordena-deportar-a-venezolanos-irregulares-que-cometan-delitos-en-bogota/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/10/Abelardo-De-La-Espriella.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Desaparecen cuatro técnicos de la Fuerza Aérea en Haití",
-      "link": "https://diarioversionfinal.com/mundo/desaparecen-cuatro-tecnicos-de-la-fuerza-aerea-en-haiti/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/images-8-678x430.jpg"
+      "title": "Conflicto en el estrecho de Ormuz: cuatro petroleros en llamas tras choque con minas",
+      "link": "https://diarioversionfinal.com/mundo/conflicto-en-el-estrecho-de-ormuz-cuatro-petroleros-en-llamas-tras-choque-con-minas/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/09/images-4.jpg"
     }
   ],
-  "lastUpdate": "2026-10-29T16:38:32.115Z"
+  "lastUpdate": "2026-10-29T21:33:25.327Z"
 }
