@@ -45,9 +45,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAPRILES CUESTIONÓ EL DISCURSO DE DELCY RODRÍGUEZ: “DEMUESTRE CON HECHOS, NO PALABRAS”",
-      "link": "https://noticierodigital.com/2026/10/capriles-cuestiono-el-discurso-de-delcy-rodriguez-demuestre-con-hechos-no-palabras/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/henrique-capriles-radonski-627x376.jpg"
+      "title": "IMPSA INICIÓ REHABILITACIÓN DE MACAGUA Y TOCOMA PARA RECUPERAR 672 MW DE GENERACIÓN ELÉCTRICA",
+      "link": "https://noticierodigital.com/2026/10/impsa-inicio-rehabilitacion-de-macagua-y-tocoma-para-recuperar-672-mw-de-generacion-electrica/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/represa-de-macagua-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Ge4d9QSb-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-30T01:35:32.195Z"
+  "lastUpdate": "2026-10-30T08:08:15.484Z"
 };
