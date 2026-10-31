@@ -15,6 +15,9 @@
 
     <header>
         <h1>Noticias y Tasas <span style="font-weight: 300; opacity: 0.7;">Dashboard</span></h1>
+        <div style="margin-bottom: 8px;">
+            <a href="https://tuinfo.vercel.app" style="font-size: 0.85rem; color: var(--text-secondary); text-decoration: none; opacity: 0.8;">&#8592; Volver al menú principal</a>
+        </div>
         <div style="font-size: 0.9rem; color: var(--text-secondary);">
             Última actualización: <span id="last-update">Cargando...</span>
         </div>
@@ -154,8 +157,8 @@
         }
 
         loadData();
-        // Auto-refresh page every 5 min
-        setTimeout(() => window.location.reload(), 300000); 
+        // Auto-refresh data every 20 min (sin recargar la pagina para evitar parpadeo)
+        setInterval(() => loadData(), 1200000);
     </script>
 
 </body>
