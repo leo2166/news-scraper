@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 02 Noviembre 2026"
     },
     "binance": {
-      "usdt": "980,00"
+      "usdt": "979,90"
     },
     "kontigo": {
       "usd": "N/A"
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/4onwf52k-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-31T23:06:36.685Z"
+  "lastUpdate": "2026-10-31T23:10:44.112Z"
 };
