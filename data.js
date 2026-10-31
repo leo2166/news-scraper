@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 02 Noviembre 2026"
     },
     "binance": {
-      "usdt": "980,54"
+      "usdt": "979,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan Bono de \"Corresponsabilidad y Formación\" de octubre a trabajadores de nómina especial: Equivale a US$180",
-      "link": "https://www.bancaynegocios.com/pagan-bono-de-corresponsabilidad-y-formacion-de-octubre-a-trabajadores-de-nomina-especial-equivale-a-us180/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Capozzolo: Devolución de activos en manos del Estado permite avanzar en la actividad productiva nacional",
+      "link": "https://www.bancaynegocios.com/capozzolo-devolucion-de-activos-en-manos-del-estado-permite-avanzar-en-la-actividad-productiva-nacional/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/FELIPE-CAPOZZOLO-FEDECAMARAS-3-070726.jpg"
     },
     {
       "source": "Infobae",
@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Después de 317 años: Los zulianos lleva en la sangre, en la mente y en el corazón a La Chinita",
-      "link": "https://noticialdia.com/cultura/despues-de-317-anos-los-zulianos-lleva-en-la-sangre-en-la-mente-y-en-el-corazon-a-la-chinita/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo_20261026_193359_0000.webp"
+      "title": "Comienza la Santa Misa para el reencuentro de la Chinita con su pueblo",
+      "link": "https://noticialdia.com/zulia/comienza-la-santa-misa-para-el-reencuentro-de-la-chinita-con-su-pueblo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Plantilla-Wordpress-3-2.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/elecciones-20261028195803571.png?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sayed-split-horizontal-20261031203554449.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "“Rigor, trayectoria e independencia”: el perfil que exige la AN 2015 para los aspirantes al TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/rigor-trayectoria-e-independencia-el-perfil-que-exige-la-an-2015-para-los-aspirantes-al-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-22-d545dd.jpg"
+      "title": "Presidenta encargada Delcy Rodríguez coordina llegada de insumos desde China para reconstrucción tras doblete sísmico",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-coordina-llegada-de-insumos-desde-china-para-reconstruccion-tras-doblete-sismico",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo-by-vtv-canal-8-on-october-31-2026.-puede-ser-una-imagen-de-texto.-88b298.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "INVESTIGAN MUERTE DE MATRIMONIO VENEZOLANO Y SUS 3 HIJOS EN BUENOS AIRES",
-      "link": "https://noticierodigital.com/2026/10/investigan-muerte-de-matrimonio-venezolano-y-sus-3-hijos-en-buenos-aires/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/E4ZRCJDB3FDZPPTVZIMLXHYCBQ.webp"
+      "title": "FRANCIA VIVE UN TERCER FIN DE SEMANA DE MASIVAS PROTESTAS",
+      "link": "https://noticierodigital.com/2026/10/francia-vive-un-tercer-fin-de-semana-de-masivas-protestas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/protestasfrancia-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Evacuaciones desde Oleshky marcan un respiro en medio del conflicto",
-      "link": "https://diarioversionfinal.com/mundo/evacuaciones-desde-oleshky-marcan-un-respiro-en-medio-del-conflicto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/Axriohg6-image-750x430.jpg"
+      "title": "Europa en llamas: protestas juveniles sacuden París, Berlín y Roma",
+      "link": "https://diarioversionfinal.com/mundo/europa-en-llamas-protestas-juveniles-sacuden-paris-berlin-y-roma/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/ha7mu56m-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-31T18:13:34.407Z"
+  "lastUpdate": "2026-10-31T22:14:02.517Z"
 };
