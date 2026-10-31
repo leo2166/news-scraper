@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 02 Noviembre 2026"
     },
     "binance": {
-      "usdt": "979,00"
+      "usdt": "980,54"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan Bono Cuadrantes de Paz de octubre: Aumentó 24,21% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-bono-cuadrantes-de-paz-de-octubre-aumento-24punto21-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
+      "title": "Inflación: Causas, consecuencias y cómo entenderla en la realidad venezolana",
+      "link": "https://www.bancaynegocios.com/inflacion-causas-consecuencias-y-como-entenderla-en-la-realidad-venezolana/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/1InflacionVenezuelaImagenesCausas.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "“Atado de manos”: Denuncian que tribunal de Caracas negó el regreso de dos niños a Miami sin admitir pruebas del padre",
-      "link": "https://noticialdia.com/al-dia/atado-de-manos-denuncian-que-tribunal-de-caracas-nego-el-regreso-de-dos-ninos-a-miami-sin-admitir-pruebas-del-padre/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-27-4.webp?x74346"
+      "title": "Familiares buscan desesperadamente a Pascual Massimino en Maracaibo",
+      "link": "https://noticialdia.com/zulia/servicio-publico/familiares-buscan-desesperadamente-a-pascual-massimino-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-34-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez activa 244 Equipos Renace para la atención integral de servicios públicos",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-activa-244-equipos-renace-para-la-atencion-integral-de-servicios-publicos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-en-entrega-de-maquinaria-en-los-proceres-71193-20403e.png"
+      "title": "Rocío San Miguel exige cooperación bilateral ante escalada en la frontera",
+      "link": "https://noticiasvenevision.com/noticias/politica/rocio-san-miguel-exige-cooperacion-bilateral-ante-escalada-en-la-frontera",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/7hvdreg3ifgype56z5gm55j25e-ab3bc9.avif"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FUNVISIS REGISTRÓ 52 SISMOS EN VENEZUELA DURANTE LA ÚLTIMA SEMANA",
-      "link": "https://noticierodigital.com/2026/10/funvisis-registro-52-sismos-en-venezuela-durante-la-ultima-semana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/09/funvisis-sede-627x376.jpg"
+      "title": "MÁS DE 170 INSTITUCIONES RECIBIERON FORMACIÓN SOBRE SEGURIDAD DIGITAL DE PARTE DE CONATEL",
+      "link": "https://noticierodigital.com/2026/10/mas-de-170-instituciones-recibieron-formacion-sobre-seguridad-digital-de-parte-de-conatel/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/conatel-venezuela-desarrollo-web-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "La votación anticipada en EE. UU. alcanza cifras récord",
-      "link": "https://diarioversionfinal.com/mundo/la-votacion-anticipada-en-ee-uu-alcanza-cifras-record/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/AFEPlRXv-image-750x430.jpg"
+      "title": "Kast destituye a subsecretario de Justicia por escándalo de rebajas de condena",
+      "link": "https://diarioversionfinal.com/mundo/kast-destituye-a-subsecretario-de-justicia-por-escandalo-de-rebajas-de-condena/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/5W6WRAlY-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-10-31T00:26:12.512Z"
+  "lastUpdate": "2026-10-31T06:41:13.405Z"
 };
