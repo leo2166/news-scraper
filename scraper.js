@@ -369,37 +369,42 @@ async function scrape() {
             name: 'Noticia al Día',
             url: 'https://noticialdia.com/',
             fn: () => {
-                // Estrategia 1: Noticia principal
-                const article = document.querySelector('.main-article, article.featured, .featured-content');
+                // Estructura real de noticialdia.com:
+                // <article>
+                //   <div class="wppm-post-wrap">
+                //     <div class="entry-content"> ← título/link aquí
+                //     <div class="post-img">      ← imagen aquí
+                // Hay que extraer ambos DESDE EL MISMO article para mantener coherencia.
+                const articles = document.querySelectorAll('article');
 
-                let title, link, img;
+                for (const art of articles) {
+                    // Título y link desde entry-title
+                    const titleEl = art.querySelector('.entry-title a, h2 a, h3 a');
+                    if (!titleEl || titleEl.innerText.trim().length < 10) continue;
 
-                if (article) {
-                    const titleEl = article.querySelector('h1, h2, .title');
-                    link = article.querySelector('a')?.href;
-                    title = titleEl?.innerText.trim();
-                    const imgEl = article.querySelector('img');
-                    img = imgEl ? (imgEl.dataset.src || imgEl.src) : null;
-                }
+                    const title = titleEl.innerText.trim();
+                    const link = titleEl.href;
 
-                // Estrategia 2: Si no hay destacado, buscar en lista
-                if (!title) {
-                    const firstPost = document.querySelector('.post-item, article');
-                    if (firstPost) {
-                        title = firstPost.querySelector('h2, h3')?.innerText.trim();
-                        link = firstPost.querySelector('a')?.href;
-                        img = firstPost.querySelector('img')?.src;
+                    // Imagen desde post-img (contenedor específico del mismo article)
+                    const postImgDiv = art.querySelector('.post-img img, .post-thumbnail img');
+                    let img = postImgDiv
+                        ? (postImgDiv.dataset.src || postImgDiv.dataset.lazySrc || postImgDiv.src)
+                        : null;
+
+                    // Fallback: cualquier img dentro del article
+                    if (!img) {
+                        const anyImg = art.querySelector('img');
+                        img = anyImg ? (anyImg.dataset.src || anyImg.src) : null;
                     }
-                }
 
-                // Estrategia 3: Meta tag fallback (INFALIBLE)
-                if (!img) {
-                    const metaImg = document.querySelector('meta[property="og:image"]');
-                    if (metaImg) img = metaImg.content;
-                }
-
-                if (title) {
                     return { title, link, image: img };
+                }
+
+                // Último recurso: og:image (no siempre corresponde a la nota principal)
+                const metaImg = document.querySelector('meta[property="og:image"]');
+                const anyLink = document.querySelector('article .entry-title a');
+                if (anyLink && metaImg) {
+                    return { title: anyLink.innerText.trim(), link: anyLink.href, image: metaImg.content };
                 }
                 return null;
             }
