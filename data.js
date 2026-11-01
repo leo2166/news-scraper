@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 02 Noviembre 2026"
     },
     "binance": {
-      "usdt": "979,90"
+      "usdt": "980,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,21 +21,21 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "TPS para venezolanos en Estados Unidos: qué significa el nuevo fallo y qué puede pasar el 6 de noviembre",
-      "link": "https://www.infobae.com/estados-unidos/2026/10/31/tps-para-venezolanos-en-estados-unidos-que-significa-el-nuevo-fallo-y-que-puede-pasar-el-6-de-noviembre/",
-      "image": "https://www.infobae.com/resizer/v2/V6FOPX4GFJFZRG44JAYCCDNU3I.jpg?auth=470112754d89a0181647e89cee663c75512abb77538c47b39b0aa252647d6c5a&smart=true&width=350&height=197&quality=85"
+      "title": "El ejército venezolano atacó un campamento del ELN cerca de la frontera con Colombia: hay una veintena de muertos",
+      "link": "https://www.infobae.com/venezuela/2026/10/31/el-ejercito-venezolano-ataco-un-campamento-del-eln-cerca-de-la-frontera-con-colombia-hay-una-veintena-de-muertos/",
+      "image": "https://www.infobae.com/resizer/v2/GR6IQZGOUZEUHOPODSUJ4QDLDA.png?auth=eb0bae3e272be1262bd82a3150a236f026c3617a30ebaba5d02c632a47ca5c06&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "\"La fe no solo se reza, también se lleva puesta\": Franelas, sombreros y la creatividad zuliana activan las ventas en honor a la Chinita",
-      "link": "https://noticialdia.com/al-dia/la-fe-no-solo-se-reza-tambien-se-lleva-puesta-franelas-sombreros-y-la-creatividad-zuliana-activan-las-ventas-en-honor-a-la-chinita/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-18-4.webp?x74346"
+      "title": "Llueven bendiciones en la Plazoleta",
+      "link": "https://noticialdia.com/al-dia/llueven-bendiciones-en-la-plazoleta/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-62.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/sayed-split-horizontal-20261031203554449.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-10-31-133502.png?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump estima que a más tardar en dos años y medio habrá cambios en Cuba",
-      "link": "https://diarioversionfinal.com/mundo/trump-estima-que-a-mas-tardar-en-dos-anos-y-medio-habra-cambios-en-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/4onwf52k-image-750x430.jpg"
+      "title": "Embajada de Venezuela coordina con España la búsqueda de desaparecidos en accidente ferroviario",
+      "link": "https://diarioversionfinal.com/mundo/embajada-de-venezuela-coordina-con-espana-la-busqueda-de-desaparecidos-en-accidente-ferroviario/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-10-31T183340.254.jpg"
     }
   ],
-  "lastUpdate": "2026-10-31T23:10:44.112Z"
+  "lastUpdate": "2026-11-01T01:53:45.736Z"
 };
