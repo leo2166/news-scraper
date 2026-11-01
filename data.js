@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Lunes, 02 Noviembre 2026"
     },
     "binance": {
-      "usdt": "980,00"
+      "usdt": "980,54"
     },
     "kontigo": {
       "usd": "N/A"
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez coordina llegada de insumos desde China para reconstrucción tras doblete sísmico",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-coordina-llegada-de-insumos-desde-china-para-reconstruccion-tras-doblete-sismico",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo-by-vtv-canal-8-on-october-31-2026.-puede-ser-una-imagen-de-texto.-88b298.jpg"
+      "title": "Delcy Rodríguez asistirá a la XXX Cumbre Iberoamericana de Madrid",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-asistira-a-la-xxx-cumbre-iberoamericana-de-madrid",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hvzrmx1w8aalnuw.jpg-751373-fdaa1a.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Embajada de Venezuela coordina con España la búsqueda de desaparecidos en accidente ferroviario",
-      "link": "https://diarioversionfinal.com/mundo/embajada-de-venezuela-coordina-con-espana-la-busqueda-de-desaparecidos-en-accidente-ferroviario/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-10-31T183340.254.jpg"
+      "title": "Marco Rubio afirma que Trump no ha decidido reanudar los ataques contra Irán",
+      "link": "https://diarioversionfinal.com/mundo/marco-rubio-afirma-que-trump-no-ha-decidido-reanudar-los-ataques-contra-iran/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-10-31T205058.984-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-01T01:53:45.736Z"
+  "lastUpdate": "2026-11-01T08:47:24.607Z"
 };
