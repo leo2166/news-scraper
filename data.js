@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "889,58",
-      "eur": "991,25",
-      "fechaValor": "Lunes, 02 Noviembre 2026"
+      "usd": "891,11",
+      "eur": "997,92",
+      "fechaValor": "Martes, 03 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1004,00"
+      "usdt": "999,79"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Gobierno podría pagar entre 8 y 12 bonos adicionales en lo que resta de año para elevar el consumo",
-      "link": "https://www.bancaynegocios.com/gobierno-podria-pagar-entre-8-y-12-bonos-adicionales-en-lo-que-resta-de-ano-para-elevar-el-consumo/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Fedeunep urge al Gobierno pagar bono especial por US$300 para compensar bajos montos de aguinaldos",
+      "link": "https://www.bancaynegocios.com/fedeunep-urge-al-gobierno-pagar-bono-especial-por-us300-para-compensar-bajos-montos-de-aguinaldos/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/DivisasInversionesDolaresVenezuelaPetroleo1.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela: el salario de un profesor universitario a dedicación exclusiva es de 59 centavos de dólar",
-      "link": "https://www.infobae.com/venezuela/2026/11/02/venezuela-el-salario-de-un-profesor-universitario-a-dedicacion-exclusiva-es-de-59-centavos-de-dolar/",
-      "image": "https://www.infobae.com/resizer/v2/ZHRDIOEENNEYXFF6DCG4V3OQLQ.jpg?auth=a2eba968d445962e0ab3f7bb800f5ca0205bdda6a4d16388d0599e2274223ec5&smart=true&width=350&height=197&quality=85"
+      "title": "Marco Rubio recibió al nuevo canciller de Delcy Rodríguez en su primera reunión bilateral desde la captura de Maduro",
+      "link": "https://www.infobae.com/estados-unidos/2026/11/02/marco-rubio-recibio-al-nuevo-canciller-de-delcy-rodriguez-en-su-primera-reunion-bilateral-desde-la-captura-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/7NVEZQ7OZ5GVZJ5QHTJZEGXHFU.JPG?auth=c7b9c91f9391b321ce28e1e9e5443f431e0b57c9aed24e6c324281623a76c199&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Geopark se asegura 25 años en el Bloque Bare de Venezuela con Pdvsa",
-      "link": "https://noticialdia.com/al-dia/geopark-se-asegura-25-anos-en-el-bloque-bare-de-venezuela-con-pdvsa/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-Wordpress-15.webp?x74346"
+      "title": "Estos son los bonos de la Plataforma Patria para este mes de noviembre",
+      "link": "https://noticialdia.com/al-dia/estos-son-los-bonos-de-la-plataforma-patria-para-este-mes-de-noviembre/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-02T171312.553.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/trump-respondiendo-prensa.png?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-05t123135z-1270814361-rc20xna66hh0-rtrmadp-3-usa-court-20261102225542015.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Marco Rubio y Oliver Blanco sostuvieron en Washington primera reunión diplomática tras restablecimiento de nexos",
-      "link": "https://noticiasvenevision.com/noticias/politica/marco-rubio-y-oliver-blanco-sostuvieron-en-washington-primera-reunion-diplomatica-tras-restablecimiento-de-nexos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/descarga-1-c618f4.jpg"
+      "title": "Alcalde Coromoto Lugo y dirigencia de Bolívar piden consolidar la unidad opositora desde los municipios",
+      "link": "https://noticiasvenevision.com/noticias/politica/alcalde-coromoto-lugo-y-dirigencia-de-bolivar-piden-consolidar-la-unidad-opositora-desde-los-municipios",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/coromoto-lugo-alcalde-51f04d.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CANCILLER VENEZOLANO Y MARCO RUBIO SOSTUVIERON REUNIÓN EN WASHINGTON",
-      "link": "https://noticierodigital.com/2026/11/canciller-venezolano-y-marco-rubio-sostuvieron-reunion-en-washington/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Diseno-sin-titulo-3-627x376.png"
+      "title": "AN DEBATIRÁ REFORMA DE LA LEY CONTRA EL ODIO ESTE MARTES 3 DE NOVIEMBRE",
+      "link": "https://noticierodigital.com/2026/11/an-debatira-reforma-de-la-ley-contra-el-odio-este-martes-3-de-noviembre/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/asamblea-nacional.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El Papa recuerda a los difuntos víctimas de la “absurda violencia de la guerra”",
-      "link": "https://laverdad.com/el-papa-recuerda-a-los-difuntos-victimas-de-la-absurda-violencia-de-la-guerra/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-XIV-Dia-difuntos.jpg"
+      "title": "Trump dice que le encantaría presentarse en 2028, pero que la Constitución se lo impide",
+      "link": "https://laverdad.com/trump-dice-que-le-encantaria-presentarse-en-2028-pero-que-la-constitucion-se-lo-impide/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Donald-Trump-podcast.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nuevo ciberataque causa pérdidas millonarias en decenas de supermercados de siete países europeos",
-      "link": "https://diarioversionfinal.com/mundo/nuevo-ciberataque-causa-perdidas-millonarias-en-decenas-de-supermercados-de-siete-paises-europeos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Supermercado-Suecia-02-11-2026-750x430.jpg"
+      "title": "Capturan a dos venezolanos tras presunto robo de perfumes en centro comercial de Florida",
+      "link": "https://diarioversionfinal.com/mundo/capturan-a-dos-venezolanos-tras-presunto-robo-de-perfumes-en-centro-comercial-de-florida/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-1.05.04-PM.jpeg"
     }
   ],
-  "lastUpdate": "2026-11-02T17:52:39.498Z"
+  "lastUpdate": "2026-11-03T00:35:57.204Z"
 };
