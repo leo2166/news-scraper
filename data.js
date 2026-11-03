@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 03 Noviembre 2026"
     },
     "binance": {
-      "usdt": "999,79"
+      "usdt": "999,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,33 +21,33 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Marco Rubio recibió al nuevo canciller de Delcy Rodríguez en su primera reunión bilateral desde la captura de Maduro",
-      "link": "https://www.infobae.com/estados-unidos/2026/11/02/marco-rubio-recibio-al-nuevo-canciller-de-delcy-rodriguez-en-su-primera-reunion-bilateral-desde-la-captura-de-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/7NVEZQ7OZ5GVZJ5QHTJZEGXHFU.JPG?auth=c7b9c91f9391b321ce28e1e9e5443f431e0b57c9aed24e6c324281623a76c199&smart=true&width=350&height=197&quality=85"
+      "title": "El secretario del Tesoro de EEUU y el canciller venezolano analizaron la reincorporación del país al sistema financiero internacional",
+      "link": "https://www.infobae.com/venezuela/2026/11/03/el-secretario-del-tesoro-de-eeuu-y-el-canciller-venezolano-analizaron-la-reincorporacion-del-pais-al-sistema-financiero-internacional/",
+      "image": "https://www.infobae.com/resizer/v2/URPYGQOEDBEQ7GXAYFQ4P7JZDY.jpg?auth=28ad57a4febfa7855ebb20c80b44b352b66baf07628abd57b7c8a84cbaedc4ef&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Estos son los bonos de la Plataforma Patria para este mes de noviembre",
-      "link": "https://noticialdia.com/al-dia/estos-son-los-bonos-de-la-plataforma-patria-para-este-mes-de-noviembre/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-02T171312.553.webp?x74346"
+      "title": "Estalla subestación eléctrica Federación y agrava crisis del servicio en Lagunillas",
+      "link": "https://noticialdia.com/al-dia/estalla-subestacion-electrica-federacion-y-agrava-crisis-del-servicio-en-lagunillas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-03T010947.654.webp?x74346"
     },
     {
       "source": "CNN en Español",
       "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-05t123135z-1270814361-rc20xna66hh0-rtrmadp-3-usa-court-20261102225542015.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9c2d4e24-4915-4105-955a-d08ab4816b0e.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Alcalde Coromoto Lugo y dirigencia de Bolívar piden consolidar la unidad opositora desde los municipios",
-      "link": "https://noticiasvenevision.com/noticias/politica/alcalde-coromoto-lugo-y-dirigencia-de-bolivar-piden-consolidar-la-unidad-opositora-desde-los-municipios",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/coromoto-lugo-alcalde-51f04d.jpeg"
+      "title": "Juan Domingo Alfonzo: “aspirantes con denuncias por violación de derechos humanos quedarán descartados”",
+      "link": "https://noticiasvenevision.com/noticias/politica/juan-domingo-alfonzo-aspirantes-con-denuncias-por-violacion-de-derechos-humanos-quedaran-descartados",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-11-02-230904-5546fa.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AN DEBATIRÁ REFORMA DE LA LEY CONTRA EL ODIO ESTE MARTES 3 DE NOVIEMBRE",
-      "link": "https://noticierodigital.com/2026/11/an-debatira-reforma-de-la-ley-contra-el-odio-este-martes-3-de-noviembre/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/04/asamblea-nacional.jpg"
+      "title": "STALIN GONZÁLEZ EXIGIÓ CLARIDAD SOBRE LOS CUATRO AUMENTOS PROMETIDOS POR DELCY RODRÍGUEZ",
+      "link": "https://noticierodigital.com/2026/11/stalin-gonzalez-exigio-claridad-sobre-los-cuatro-aumentos-prometidos-por-delcy-rodriguez/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/03/stalingonzalez_-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Capturan a dos venezolanos tras presunto robo de perfumes en centro comercial de Florida",
-      "link": "https://diarioversionfinal.com/mundo/capturan-a-dos-venezolanos-tras-presunto-robo-de-perfumes-en-centro-comercial-de-florida/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-1.05.04-PM.jpeg"
+      "title": "Estados Unidos acusa a 63 personas por fraude electoral, la mayoría latinoamericanos",
+      "link": "https://diarioversionfinal.com/mundo/estados-unidos-acusa-a-63-personas-por-fraude-electoral-la-mayoria-latinoamericanos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/pvaLWN4z-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-03T00:35:57.204Z"
+  "lastUpdate": "2026-11-03T07:37:22.323Z"
 };
