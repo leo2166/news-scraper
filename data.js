@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "891,11",
-      "eur": "997,92",
-      "fechaValor": "Martes, 03 Noviembre 2026"
+      "usd": "893,22",
+      "eur": "999,77",
+      "fechaValor": "Miércoles, 04 Noviembre 2026"
     },
     "binance": {
-      "usdt": "999,53"
+      "usdt": "1006,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fedeunep urge al Gobierno pagar bono especial por US$300 para compensar bajos montos de aguinaldos",
-      "link": "https://www.bancaynegocios.com/fedeunep-urge-al-gobierno-pagar-bono-especial-por-us300-para-compensar-bajos-montos-de-aguinaldos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/09/DivisasInversionesDolaresVenezuelaPetroleo1.jpg"
+      "title": "Delcy Rodríguez: Economía de Venezuela creció 6,6% en el tercer trimestre de 2026",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-economia-de-venezuela-crecio-6punto6-porciento-en-el-tercer-trimestre-de-2026/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-6.42.30-PM-e1793737244843.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "El secretario del Tesoro de EEUU y el canciller venezolano analizaron la reincorporación del país al sistema financiero internacional",
-      "link": "https://www.infobae.com/venezuela/2026/11/03/el-secretario-del-tesoro-de-eeuu-y-el-canciller-venezolano-analizaron-la-reincorporacion-del-pais-al-sistema-financiero-internacional/",
-      "image": "https://www.infobae.com/resizer/v2/URPYGQOEDBEQ7GXAYFQ4P7JZDY.jpg?auth=28ad57a4febfa7855ebb20c80b44b352b66baf07628abd57b7c8a84cbaedc4ef&smart=true&width=350&height=197&quality=85"
+      "title": "Estiman que entre 350 mil y 420 mil adultos mayores viven solos en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/11/03/estiman-que-entre-350-mil-y-420-mil-adultos-mayores-viven-solos-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/NOYD3FQRZNC2VLHO7TQHHZINPA.jpg?auth=c4e5a3f541d7682921e2a8a36748ab0b68b0f721ef9ad1743d2ee770eb7ce425&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "El Encendido de Bella Vista llega a su edición N° 30 como una de las tradiciones más arraigadas en las familias zulianas",
-      "link": "https://noticialdia.com/principal/el-encendido-de-bella-vista-llega-a-su-edicion-n-30-como-una-de-las-tradiciones-mas-arraigadas-en-las-familias-zulianas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-42.webp?x74346"
+      "title": "Tragedia en el Maratón de Nueva York: Fallece la corredora Rachel Apa tras sufrir una rabdomiólisis",
+      "link": "https://noticialdia.com/deportes/tragedia-en-el-maraton-de-nueva-york-fallece-la-corredora-rachel-apa-tras-sufrir-una-rabdomiolisis/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261103_164125_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Estados Unidos acude a las urnas",
+      "title": "La jornada electoral está en marcha en EE.UU.",
       "link": "https://cnnespanol.cnn.com/2026/11/03/eeuu/live-news/elecciones-intermedias-ee-uu-clave-trax",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/logo-elecciones-intermedias.png?q=w_400,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Domingo Alfonzo: “aspirantes con denuncias por violación de derechos humanos quedarán descartados”",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-domingo-alfonzo-aspirantes-con-denuncias-por-violacion-de-derechos-humanos-quedaran-descartados",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-11-02-230904-5546fa.png"
+      "title": "Freddy Superlano: \"Una transición real en Venezuela no encaja con presos políticos\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/freddy-superlano-una-transicion-real-en-venezuela-no-encaja-con-presos-politicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/poster-h-35d856.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CONSUMO DE MEDICAMENTOS EN VENEZUELA ROZA EL PROMEDIO REGIONAL IMPULSADO POR LA PRODUCCIÓN LOCAL",
-      "link": "https://noticierodigital.com/2026/11/consumo-de-medicamentos-en-venezuela-roza-el-promedio-regional-impulsado-por-la-produccion-local/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/02/bancodemedicinas-bancamiga.jpg"
+      "title": "«SABEMOS HACIA DÓNDE VAMOS»: DELCY RODRÍGUEZ HABLÓ DE SU PROGRAMA HASTA 2040",
+      "link": "https://noticierodigital.com/2026/11/sabemos-hacia-donde-vamos-delcy-rodriguez-hablo-de-su-programa-hasta-2040/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/delcy-rodriguez-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Los votantes juzgan el segundo mandato de Trump en las elecciones intermedias",
-      "link": "https://laverdad.com/los-votantes-juzgan-el-segundo-mandato-de-trump-en-las-elecciones-intermedias/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Elecciones-medio-mandato-EE.-UU.jpg"
+      "title": "DHS advierte sobre la posible liberación de venezolano condenado por abuso infantil",
+      "link": "https://laverdad.com/dhs-advierte-sobre-la-posible-liberacion-de-venezolano-condenado-por-abuso-infantil/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/venezolano-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La línea Madrid-Barcelona podría cerrar dos años por seguridad",
-      "link": "https://diarioversionfinal.com/mundo/la-linea-madrid-barcelona-podria-cerrar-dos-anos-por-seguridad/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/oSS79XLk-image-750x430.jpg"
+      "title": "Ministro de Transportes de España dimite tras accidente ferroviario que dejó 69 muertos",
+      "link": "https://diarioversionfinal.com/mundo/ministro-de-transportes-de-espana-dimite-tras-accidente-ferroviario-que-dejo-69-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-03T123732.949-638x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-03T15:51:54.590Z"
+  "lastUpdate": "2026-11-03T21:31:20.811Z"
 };
