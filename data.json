@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "893,22",
-      "eur": "999,77",
-      "fechaValor": "Miércoles, 04 Noviembre 2026"
+      "usd": "894,89",
+      "eur": "1,01",
+      "fechaValor": "Jueves, 05 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1007,00"
+      "usdt": "1008,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Recaudación tributaria mantuvo tendencia alcista en octubre al cerrar en US$1.272,68 millones",
-      "link": "https://www.bancaynegocios.com/recaudacion-tributaria-mantuvo-tendencia-alcista-en-octubre-al-cerrar-en-us1-27268-millones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/SENIAT-GENERICA.jpg"
+      "title": "Inflación acumula aumento de 245,45% hasta octubre y ha subido 376,90% en 12 meses",
+      "link": "https://www.bancaynegocios.com/inflacion-acumula-aumento-de-245coma45-porciento-hasta-octubre-y-ha-subido-376coma90-porciento-en-12-meses/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/01/INFLACION-CASTILLON.webp"
     },
     {
       "source": "Infobae",
-      "title": "La Asamblea Nacional de Venezuela aprobó en primer debate la reforma de la ley contra el odio",
-      "link": "https://www.infobae.com/venezuela/2026/11/04/la-asamblea-nacional-de-venezuela-aprobo-en-primer-debate-la-reforma-de-la-ley-contra-el-odio/",
-      "image": "https://www.infobae.com/resizer/v2/QMDHFGD4JJAXXBGGIJYWEIXEUI.jpg?auth=dc03899e96e823fba6070c2890f804d4b3e11f039b75fb8671f7c74db1ad8f0d&smart=true&width=350&height=197&quality=85"
+      "title": "Trabajadores de PDVSA exigen auditorías, pagos pendientes y el fin de la persecución",
+      "link": "https://www.infobae.com/venezuela/2026/11/04/trabajadores-de-pdvsa-exigen-auditorias-pagos-pendientes-y-el-fin-de-la-persecucion/",
+      "image": "https://www.infobae.com/resizer/v2/JXF4WNWTWRBVBBG6K5HDGGU5KI.jpeg?auth=b5bc7af25864d217b37ad3451d7cf36c2ad42397cba8d8f6ffd0d6e8cc3e053e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gavilanes y Pastora revivirán el clásico de antaño en reinauguración del estadio Alejandro Borges",
-      "link": "https://noticialdia.com/deportes/gavilanes-y-pastora-reviviran-el-clasico-de-antano-en-reinauguracion-del-estadio-alejandro-borges/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/20261104_122800_0000.webp?x74346"
+      "title": "Así luce el nuevo rostro de la Virgen de Chiquinquirá en la Plaza El Ángel",
+      "link": "https://noticialdia.com/?p=689846",
+      "image": null
     },
     {
       "source": "CNN en Español",
-      "title": "DURO GOLPE A TRUMP: DEMÓCRATAS RECUPERAN EL CONGRESO",
+      "title": "Demócratas amplían su ventaja en la Cámara; republicanos se reparten culpas",
       "link": "https://cnnespanol.cnn.com/2026/11/04/eeuu/live-news/resultados-elecciones-intermedias-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/talarico-hinojosa-es-web-00-00-25-08-still001.jpg?c=16x9&q=h_270,w_480,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/talarico-en-cnn.jpg?c=16x9&q=h_270,w_480,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Guillermo Tell Aveledo: «El nuevo baremo para el TSJ es auditable y prioriza la excelencia académica y la meritocracia»",
-      "link": "https://noticiasvenevision.com/noticias/politica/guillermo-tell-aveledo-el-nuevo-baremo-para-el-tsj-es-auditable-y-prioriza-la-excelencia-academica-y-la-meritocracia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9340.jpg-4217a4.jpeg"
+      "title": "Oposición solicita fijar fecha para las elecciones presidenciales y la liberación de presos políticos",
+      "link": "https://noticiasvenevision.com/noticias/politica/oposicion-solicita-fijar-fecha-para-las-elecciones-presidenciales-y-la-liberacion-de-presos-politicos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6f5e1c4d-f5c0-4061-ad2a-2846b372f502-50e38e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«LA MAGIA DE LA DEMOCRACIA»: FUERZA VECINAL PROPONE HACER MEGAELECCIONES EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/11/la-magia-de-la-democracia-fuerza-vecinal-propone-hacer-megaelecciones-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/daviduzcategui-oposicion-15mar2023.jpg"
+      "title": "PLATAFORMA PATRIA INICIÓ PAGO DE 100 % AMOR MAYOR: 130 BOLÍVARES, EQUIVALENTES A 0,15 DÓLARES",
+      "link": "https://noticierodigital.com/2026/11/plataforma-patria-inicio-pago-de-100-amor-mayor-130-bolivares-equivalentes-a-015-dolares/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/08/bonopatria.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "ICE confirma muerte de venezolano bajo custodia en Texas “tras una larga estancia hospitalaria”",
-      "link": "https://laverdad.com/ice-confirma-muerte-de-venezolano-bajo-custodia-en-texas-tras-una-larga-estancia-hospitalaria/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Centro-de-Procesamiento-de-Inmigracion-del-Condado-de-Karnes-Texas-ICE.jpg"
+      "title": "Trump no cree que demócratas le hagan un juicio político porque “destruiría” a ese partido",
+      "link": "https://laverdad.com/trump-no-cree-que-democratas-le-hagan-un-juicio-politico-porque-destruiria-a-ese-partido/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Trump-2.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reportan nuevo atentado con explosivos en el departamento colombiano del Cauca",
-      "link": "https://diarioversionfinal.com/mundo/reportan-nuevo-atentado-con-explosivos-en-el-departamento-colombiano-del-cauca/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/descarga-2026-11-04T084212.849.jpg"
+      "title": "Colombia prevé importar gas venezolano a través del gasoducto Antonio Ricaurte",
+      "link": "https://diarioversionfinal.com/mundo/colombia-preve-importar-gas-venezolano-a-traves-del-gasoducto-antonio-ricaurte/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-04T114858.205.jpg"
     }
   ],
-  "lastUpdate": "2026-11-04T16:52:51.980Z"
+  "lastUpdate": "2026-11-04T22:26:27.284Z"
 }
