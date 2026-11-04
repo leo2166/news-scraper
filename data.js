@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fedecámaras Nueva Esparta firma alianza con Swing Energy para dotar comercios con equipos para autogeneración eléctrica",
-      "link": "https://www.bancaynegocios.com/fedecamaras-nueva-esparta-firma-alianza-con-swing-energy-para-dotar-comercios-con-equipos-para-autogeneracion-electrica/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/11/nueva-esparta-990x555-1-e1793747161276.jpg"
+      "title": "Recaudación tributaria mantuvo tendencia alcista en octubre al cerrar en US$1.272,68 millones",
+      "link": "https://www.bancaynegocios.com/recaudacion-tributaria-mantuvo-tendencia-alcista-en-octubre-al-cerrar-en-us1-27268-millones/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/SENIAT-GENERICA.jpg"
     },
     {
       "source": "Infobae",
@@ -27,40 +27,40 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Elegancia, simpatía y garbo en la presentación oficial a la prensa de las candidatas a la LX Feria Internacional de La Chinita",
-      "link": "https://noticialdia.com/zulia/elegancia-simpatia-y-garbo-en-la-presentacion-oficial-a-la-prensa-de-las-candidatas-a-la-lx-feria-internacional-de-la-chinita/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/cdbdec25-eea7-40f4-bedc-a66204c88a12.webp?x74346"
+      "title": "Gavilanes y Pastora revivirán el clásico de antaño en reinauguración del estadio Alejandro Borges",
+      "link": "https://noticialdia.com/deportes/gavilanes-y-pastora-reviviran-el-clasico-de-antano-en-reinauguracion-del-estadio-alejandro-borges/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/20261104_122800_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "LOS DEMÓCRATAS CONTROLARÁN EL CONGRESO",
-      "link": "https://cnnespanol.cnn.com/2026/11/03/eeuu/live-news/elecciones-intermedias-ee-uu-clave-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-11-03t023421z-604502773-rc21goagrjqq-rtrmadp-3-usa-election-texas-talarico.JPG?c=16x9&q=h_270,w_480,c_fill"
+      "title": "DURO GOLPE A TRUMP: DEMÓCRATAS RECUPERAN EL CONGRESO",
+      "link": "https://cnnespanol.cnn.com/2026/11/04/eeuu/live-news/resultados-elecciones-intermedias-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/talarico-hinojosa-es-web-00-00-25-08-still001.jpg?c=16x9&q=h_270,w_480,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez anuncia avance de la reforma tributaria para impulsar la producción nacional",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncia-avance-de-la-reforma-tributaria-para-impulsar-la-produccion-nacional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hwo3vqnxsaa8b0c-7a8e1e.jpg"
+      "title": "Guillermo Tell Aveledo: «El nuevo baremo para el TSJ es auditable y prioriza la excelencia académica y la meritocracia»",
+      "link": "https://noticiasvenevision.com/noticias/politica/guillermo-tell-aveledo-el-nuevo-baremo-para-el-tsj-es-auditable-y-prioriza-la-excelencia-academica-y-la-meritocracia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_9340.jpg-4217a4.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EXPORTACIONES PETROLERAS DE VENEZUELA SE ESTANCARON EN OCTUBRE, SEGÚN REUTERS",
-      "link": "https://noticierodigital.com/2026/11/exportaciones-petroleras-de-venezuela-se-estancaron-en-octubre-segun-reuters/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/02/crudo-petroleo-22feb2022.jpg"
+      "title": "«LA MAGIA DE LA DEMOCRACIA»: FUERZA VECINAL PROPONE HACER MEGAELECCIONES EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/11/la-magia-de-la-democracia-fuerza-vecinal-propone-hacer-megaelecciones-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2023/03/daviduzcategui-oposicion-15mar2023.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "DHS advierte sobre la posible liberación de venezolano condenado por abuso infantil",
-      "link": "https://laverdad.com/dhs-advierte-sobre-la-posible-liberacion-de-venezolano-condenado-por-abuso-infantil/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/venezolano-1.jpg"
+      "title": "ICE confirma muerte de venezolano bajo custodia en Texas “tras una larga estancia hospitalaria”",
+      "link": "https://laverdad.com/ice-confirma-muerte-de-venezolano-bajo-custodia-en-texas-tras-una-larga-estancia-hospitalaria/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Centro-de-Procesamiento-de-Inmigracion-del-Condado-de-Karnes-Texas-ICE.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "El republicano Byron Donalds es el nuevo gobernador de Florida y promete mantener la influencia de su partido",
-      "link": "https://diarioversionfinal.com/mundo/el-republicano-byron-donalds-es-el-nuevp-gobernador-de-florida-y-promete-mantener-la-influencia-de-su-partido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/dXUBgM0W-image-750x430.jpg"
+      "title": "Reportan nuevo atentado con explosivos en el departamento colombiano del Cauca",
+      "link": "https://diarioversionfinal.com/mundo/reportan-nuevo-atentado-con-explosivos-en-el-departamento-colombiano-del-cauca/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/descarga-2026-11-04T084212.849.jpg"
     }
   ],
-  "lastUpdate": "2026-11-04T08:41:33.886Z"
+  "lastUpdate": "2026-11-04T16:52:51.980Z"
 };
