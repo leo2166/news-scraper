@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 05 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1010,10"
+      "usdt": "1010,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,52 +15,52 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan el \"Bono Único Familiar\" de noviembre: Aumentó más de 2% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-el-bono-unico-familiar-de-noviembre-aumento-mas-de-2-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
+      "title": "Datanálisis: El 88% de los venezolanos cobra en bolívares y vacía su saldo en menos de 48 horas",
+      "link": "https://www.bancaynegocios.com/datanalisis-el-88-porciento-de-los-venezolanos-cobra-en-bolivares-y-vacia-su-saldo-en-menos-de-48-horas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
-      "title": "De Venezuela a Estados Unidos, Erika de la Vega convirtió 7 años de podcast en su nuevo libro: “El sueño americano lo terminé encontrando dentro de mí”",
-      "link": "https://www.infobae.com/estados-unidos/2026/11/05/de-venezuela-a-estados-unidos-erika-de-la-vega-convirtio-8-anos-de-podcast-en-su-nuevo-libro-el-sueno-americano-lo-termine-encontrando-dentro-de-mi/",
-      "image": "https://www.infobae.com/resizer/v2/Z72KOYTZVBFGFFYIE4RH36EUIQ.png?auth=39995afd34a17f6a4b56ed213eb876e5510f2b0feb7a947154092c00a9daf723&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado y Edmundo González respaldaron la propuesta de Estados Unidos para la transición política en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/11/05/maria-corina-machado-y-edmundo-gonzalez-respaldaron-la-propuesta-de-estados-unidos-para-la-transicion-politica-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/C6JHUPIDHZBTLMJ5ATLIPAOE7A.JPG?auth=d28f1a4138988c7ddf02109f066b6cfc271aee51b398908a38009ec0eb97aa9a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Ocho funcionarios heridos al volcarse patrulla del Cicpc en la vía Panamericana",
-      "link": "https://noticialdia.com/sucesos/ocho-funcionarios-heridos-al-volcarse-patrulla-del-cicpc-en-la-via-panamericana/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-81.webp?x74346"
+      "title": "Seguridad ciudadana actúa ante denuncia de abuso infantil en el sector San Miguel",
+      "link": "https://noticialdia.com/sucesos/seguridad-ciudadana-actua-ante-denuncia-de-abuso-infantil-en-el-sector-san-miguel/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-05T114022.577.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Los demócratas consolidan su mayoría mientras los republicanos reparten culpas",
-      "link": "https://cnnespanol.cnn.com/2026/11/04/eeuu/live-news/resultados-elecciones-intermedias-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2303343388.jpg?c=16x9&q=h_270,w_480,c_fill"
+      "title": "Legal Terms and Privacy",
+      "link": "https://cnnespanol.cnn.com/terms",
+      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Carlos Apitz postulará su candidatura al TSJ: “Quiero ser magistrado para enfrentar los abusos del poder”",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-postulara-su-candidatura-al-tsj-quiero-ser-magistrado-para-enfrentar-los-abusos-del-poder",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-11-04-231959-de8c3a.png"
+      "title": "María Corina Machado y Edmundo González respaldan hoja de ruta para realizar elecciones presidenciales en 2027",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-y-edmundo-gonzalez-respaldan-hoja-de-ruta-para-realizar-elecciones-presidenciales-en-2027",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/edmundo-gonzalez-maria-corina-campana-sombrero-b2a420.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CORPOELEC CONTRATARÁ DOS BARCAZAS TURCAS PARA SUMAR 200 MEGAVATIOS A ZULIA",
-      "link": "https://noticierodigital.com/2026/11/corpoelec-contratara-dos-barcazas-turcas-para-sumar-200-megavatios-a-zulia/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Karpowership-Corpoelec-Venezuela-627x376.jpg"
+      "title": "DIDALCO BOLÍVAR: «LAS ELECCIONES SON INEVITABLES»",
+      "link": "https://noticierodigital.com/2026/11/didalco-bolivar-las-elecciones-son-inevitables/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/didalcobolivar-627x376.jpeg"
     },
     {
       "source": "La Verdad",
-      "title": "Trump no cree que demócratas le hagan un juicio político porque “destruiría” a ese partido",
-      "link": "https://laverdad.com/trump-no-cree-que-democratas-le-hagan-un-juicio-politico-porque-destruiria-a-ese-partido/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Trump-2.jpg"
+      "title": "El zuliano Samuel Vilchez Santiago asegura que es demócrata por su conexión con los migrantes",
+      "link": "https://laverdad.com/el-zuliano-samuel-vilchez-santiago-asegura-que-es-democrata-por-su-conexion-con-los-migrantes/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/zuliano.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "La victoria demócrata podría complicar la política de Trump hacia Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/la-victoria-democrata-podria-complicar-la-politica-de-trump-hacia-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Xcvte5CI-image-750x430.jpg"
+      "title": "Revés republicano mina aspiraciones de Rubio para suceder a Trump: ¿Renunciará?",
+      "link": "https://diarioversionfinal.com/mundo/reves-republicano-mina-aspiraciones-de-rubio-para-suceder-a-trump-renunciara/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-05T110614.681-682x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-05T11:54:49.849Z"
+  "lastUpdate": "2026-11-05T19:34:37.425Z"
 };
