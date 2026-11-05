@@ -74,6 +74,15 @@ El extractor itera artículo por artículo y extrae título desde `.entry-title 
   - Fallback 2 (último recurso): `meta[property="og:image"]` + primer título encontrado.
 - **Estado:** Subido a `origin/main`. Aplica en el próximo ciclo de GitHub Actions (cada hora) o via `workflow_dispatch` manual.
 
+### [2026-11-05] - Sesión 3: Fix parseo de tasa BCV Euro > 1.000 Bs
+- **Problema detectado:** La tasa del Euro mostraba `991,25` cuando el valor real del BCV ya superaba los `1.005,XX` Bs.
+- **Causa raíz:** El BCV escribe valores mayores a 1.000 con punto como separador de miles (ej: `1.005,34`). El código anterior hacía `.replace('.', ',')` que solo reemplaza la **primera** ocurrencia, dejando el punto de miles intacto y confundiendo a `parseFloat`.
+- **Solución aplicada en `scraper.js`:**
+  - Se creó la función normalizadora `normBCV(s)` que primero elimina **todos** los puntos de miles (`replace(/\./g, '')`) y luego convierte la coma decimal a punto (`replace(',', '.')`), dejando un número limpio para `parseFloat`.
+  - Se unificó el fallback de DolarApi de `.toFixed(4)` a `.toFixed(2)` para mantener consistencia de 2 decimales en todas las tasas (igual que USD y Binance).
+- **Regla de formato confirmada:** En Venezuela, el separador decimal es la **coma** (`,`) y el de miles es el **punto** (`.`). Siempre se muestran **2 decimales** tras la coma. Aplica para BCV USD, BCV EUR y Binance USDT.
+- **Estado:** Subido a `origin/main`. Aplicará en el próximo ciclo de GitHub Actions.
+
 ---
 
 ## 🚀 Pautas para Futuras Sesiones
