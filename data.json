@@ -2,7 +2,7 @@
   "rates": {
     "bcv": {
       "usd": "894,89",
-      "eur": "1,01",
+      "eur": "1006,03",
       "fechaValor": "Jueves, 05 Noviembre 2026"
     },
     "binance": {
@@ -21,9 +21,9 @@
     },
     {
       "source": "Infobae",
-      "title": "Trabajadores de PDVSA exigen auditorías, pagos pendientes y el fin de la persecución",
-      "link": "https://www.infobae.com/venezuela/2026/11/04/trabajadores-de-pdvsa-exigen-auditorias-pagos-pendientes-y-el-fin-de-la-persecucion/",
-      "image": "https://www.infobae.com/resizer/v2/JXF4WNWTWRBVBBG6K5HDGGU5KI.jpeg?auth=b5bc7af25864d217b37ad3451d7cf36c2ad42397cba8d8f6ffd0d6e8cc3e053e&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela alcanzó un acuerdo para mejorar el suministro eléctrico en medio de cortes y protestas",
+      "link": "https://www.infobae.com/venezuela/2026/11/05/venezuela-alcanzo-un-acuerdo-para-mejorar-el-suministro-electrico-en-medio-de-cortes-y-protestas/",
+      "image": "https://www.infobae.com/resizer/v2/EDZVIOFMW5FSZHYLXF6OWLJKIA.JPG?auth=b3087a589d4244998651220882be0f05ce0d197015dc7331520f896279be5307&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -39,9 +39,9 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comité de Postulaciones Judiciales de la Asamblea Nacional reporta un total de 306 inscritos para cargos en el TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/comite-de-postulaciones-judiciales-de-la-asamblea-nacional-reporta-un-total-de-306-inscritos-para-cargos-en-el-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_vlte75vlte75vlte-26c5e8.jpg"
+      "title": "Juan Carlos Apitz postulará su candidatura al TSJ: “Quiero ser magistrado para enfrentar los abusos del poder”",
+      "link": "https://noticiasvenevision.com/noticias/politica/juan-carlos-apitz-postulara-su-candidatura-al-tsj-quiero-ser-magistrado-para-enfrentar-los-abusos-del-poder",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-11-04-231959-de8c3a.png"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Xcvte5CI-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-05T03:12:34.509Z"
+  "lastUpdate": "2026-11-05T07:40:10.727Z"
 }
