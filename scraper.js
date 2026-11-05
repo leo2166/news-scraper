@@ -79,8 +79,10 @@ async function scrapeBCV(browser, maxAttempts = 3) {
                 throw new Error("Tasas de cambio no encontradas en el contenido de la página.");
             }
 
-            result.usd = rates.dolar.replace('.', ','); // Normalizar formato
-            result.eur = rates.euro.replace('.', ',');
+            // Normalizar formato venezolano: quitar puntos de miles, convertir coma decimal a punto
+            const normBCV = (s) => s ? s.trim().replace(/\./g, '').replace(',', '.') : s;
+            result.usd = rates.dolar ? normBCV(rates.dolar) : null;
+            result.eur = rates.euro ? normBCV(rates.euro) : null;
             result.fechaValor = rates.fechaValor;
 
             console.log(`✅ BCV Dólar: ${result.usd}`);
@@ -117,15 +119,15 @@ async function scrapeBCV(browser, maxAttempts = 3) {
             const rawFecha = resUsd ? (resUsd.fechaActualizacion || resUsd.fecha) : null;
 
             if (valUsd) {
-                // Convertir y formatear con coma a 4 decimales para mantener consistencia
+                // Convertir y formatear con coma a 2 decimales para consistencia con el scraping directo
                 const parsedUsd = parseFloat(valUsd);
-                result.usd = parsedUsd.toFixed(4).replace('.', ',');
+                result.usd = parsedUsd.toFixed(2).replace('.', ',');
                 console.log(`✅ [Fallback] BCV Dólar: ${result.usd}`);
             }
 
             if (valEur) {
                 const parsedEur = parseFloat(valEur);
-                result.eur = parsedEur.toFixed(4).replace('.', ',');
+                result.eur = parsedEur.toFixed(2).replace('.', ',');
                 console.log(`✅ [Fallback] BCV Euro: ${result.eur}`);
             }
 
@@ -302,11 +304,11 @@ async function scrape() {
     const bcvRates = await scrapeBCV(browser);
     if (bcvRates.usd) {
         // Normalizar a número, redondear a 2 decimales y volver a string con coma
-        const val = parseFloat(bcvRates.usd.replace(',', '.'));
+        const val = parseFloat(bcvRates.usd);
         finalData.rates.bcv.usd = val.toFixed(2).replace('.', ',');
     }
     if (bcvRates.eur) {
-        const val = parseFloat(bcvRates.eur.replace(',', '.'));
+        const val = parseFloat(bcvRates.eur);
         finalData.rates.bcv.eur = val.toFixed(2).replace('.', ',');
     }
     // Guardar la fecha valor oficial del BCV
