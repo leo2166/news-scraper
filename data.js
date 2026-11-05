@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 05 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1010,20"
+      "usdt": "1010,10"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,15 +15,15 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Celso Fantinel: En 16 años Venezuela perdió el 50% de su área de siembra",
-      "link": "https://www.bancaynegocios.com/celso-fantinel-en-16-anos-venezuela-perdio-el-50-porciento-de-su-area-de-siembra/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/08/Produccion-agricola.jpg"
+      "title": "Pagan el \"Bono Único Familiar\" de noviembre: Aumentó más de 2% en bolívares",
+      "link": "https://www.bancaynegocios.com/pagan-el-bono-unico-familiar-de-noviembre-aumento-mas-de-2-porciento-en-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela alcanzó un acuerdo para mejorar el suministro eléctrico en medio de cortes y protestas",
-      "link": "https://www.infobae.com/venezuela/2026/11/05/venezuela-alcanzo-un-acuerdo-para-mejorar-el-suministro-electrico-en-medio-de-cortes-y-protestas/",
-      "image": "https://www.infobae.com/resizer/v2/EDZVIOFMW5FSZHYLXF6OWLJKIA.JPG?auth=b3087a589d4244998651220882be0f05ce0d197015dc7331520f896279be5307&smart=true&width=350&height=197&quality=85"
+      "title": "De Venezuela a Estados Unidos, Erika de la Vega convirtió 7 años de podcast en su nuevo libro: “El sueño americano lo terminé encontrando dentro de mí”",
+      "link": "https://www.infobae.com/estados-unidos/2026/11/05/de-venezuela-a-estados-unidos-erika-de-la-vega-convirtio-8-anos-de-podcast-en-su-nuevo-libro-el-sueno-americano-lo-termine-encontrando-dentro-de-mi/",
+      "image": "https://www.infobae.com/resizer/v2/Z72KOYTZVBFGFFYIE4RH36EUIQ.png?auth=39995afd34a17f6a4b56ed213eb876e5510f2b0feb7a947154092c00a9daf723&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Xcvte5CI-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-05T07:40:10.727Z"
+  "lastUpdate": "2026-11-05T11:54:49.849Z"
 };
