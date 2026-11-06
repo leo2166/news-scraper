@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Reportan 90% de ocupación hotelera en la Isla de Margarita: \"Esperamos una excelente temporada decembrina\"",
-      "link": "https://www.bancaynegocios.com/reportan-90-porciento-de-ocupacion-hotelera-en-la-isla-de-margarita-esperamos-una-excelente-temporada-decembrina/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/MARGARITA-TURISMO-1.jpg"
+      "title": "Comercio entre Venezuela y Estados Unidos creció 739% en el tercer trimestre",
+      "link": "https://www.bancaynegocios.com/comercio-entre-venezuela-y-estados-unidos-crecio-739-porciento-en-el-tercer-trimestre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/IntercambioComercialEEUUVenezuelaNueva.png"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "El icónico Teatro Baralt dio la bienvenida a la temporada decembrina realizando la 1ra Procesión de Furros y Serenatas por amor a La Chinita en Venezuela",
-      "link": "https://noticialdia.com/zulia/el-iconico-teatro-baralt-dio-la-bienvenida-a-la-temporada-decembrina-realizando-la-1ra-procesion-de-furros-y-serenatas-por-amor-a-la-chinita-en-venezuela/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Gemini_Generated_Image_7rfwr87rfwr87rfw.webp?x74346"
+      "title": "Alcalde Héctor Soto: \"Hemos logrado duplicar la capacidad de bombeo de agua en San Francisco\"",
+      "link": "https://noticialdia.com/al-dia/alcalde-hector-soto-hemos-logrado-duplicar-la-capacidad-de-bombeo-de-agua-en-san-francisco/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-06T113200.028.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "CENTROS COMERCIALES SE ACERCAN A NIVELES DE CONSUMO DE 2013, SEGÚN CAVECECO",
-      "link": "https://noticierodigital.com/2026/11/centros-comerciales-se-acercan-a-niveles-de-consumo-de-2013-segun-cavececo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/centros-comerciales-venezuela-627x376.jpg"
+      "title": "AL MENOS 42 PERIODISTAS Y TRABAJADORES DE LA PRENSA MUERTOS  DE FORMA VIOLENTA EN VENEZUELA DESDE 1991, SEGÚN SNTP",
+      "link": "https://noticierodigital.com/2026/11/al-menos-42-periodistas-y-trabajadores-de-la-prensa-muertos-de-forma-violenta-en-venezuela-desde-1991-segun-sntp/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2022/10/emisoraderadio-sntp-19oct2022.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Capturan a 2 presuntos miembros del “Tren de Aragua” en Bogotá",
-      "link": "https://laverdad.com/capturan-a-2-presuntos-miembros-del-tren-de-aragua-en-bogota/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Captura.jpg"
+      "title": "El Papa inicia su gira de 12 días por Uruguay, Argentina y Perú tras reciente operación por cáncer",
+      "link": "https://laverdad.com/el-papa-inicia-su-gira-de-12-dias-por-uruguay-argentina-y-peru-tras-reciente-operacion-por-cancer/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Papa-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Yoani Sánchez liberada tras detención: un nuevo episodio de represión en Cuba",
-      "link": "https://diarioversionfinal.com/mundo/yoani-sanchez-liberada-tras-detencion-un-nuevo-episodio-de-represion-en-cuba/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/LGselvpn-image-750x430.jpg"
+      "title": "Senado de Paraguay rechaza prórroga de Peña y lo convoca a defenderse en juicio político",
+      "link": "https://diarioversionfinal.com/mundo/senado-de-paraguay-rechaza-prorroga-de-pena-y-lo-convoca-a-defenderse-en-juicio-politico/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-06T071609.943-678x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-06T07:41:53.168Z"
+  "lastUpdate": "2026-11-06T15:41:54.703Z"
 };
