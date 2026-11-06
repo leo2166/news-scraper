@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 06 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1009,50"
+      "usdt": "1010,20"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "CLEZ aprueba más de 951 millones de bolívares para acelerar el Plan Estadal de Asfaltado en el Zulia",
-      "link": "https://noticialdia.com/al-dia/clez-aprueba-mas-de-951-millones-de-bolivares-para-acelerar-el-plan-estadal-de-asfaltado-en-el-zulia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-05T204547.072.webp?x74346"
+      "title": "El icónico Teatro Baralt dio la bienvenida a la temporada decembrina realizando la 1ra Procesión de Furros y Serenatas por amor a La Chinita en Venezuela",
+      "link": "https://noticialdia.com/zulia/el-iconico-teatro-baralt-dio-la-bienvenida-a-la-temporada-decembrina-realizando-la-1ra-procesion-de-furros-y-serenatas-por-amor-a-la-chinita-en-venezuela/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Gemini_Generated_Image_7rfwr87rfwr87rfw.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado y Edmundo González respaldan hoja de ruta para realizar elecciones presidenciales en 2027",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-y-edmundo-gonzalez-respaldan-hoja-de-ruta-para-realizar-elecciones-presidenciales-en-2027",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/edmundo-gonzalez-maria-corina-campana-sombrero-b2a420.jpeg"
+      "title": "Jorge Rodríguez asistió a recepción por el 250 aniversario de la Independencia de EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-asistio-a-recepcion-por-el-250-aniversario-de-la-independencia-de-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asistimos-complacidos-a-la-invitacin-del-encargado-de-negocios-de-la-embajada-de-ee.uu-john-ba-5c9afd.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ALEXANDER YÁNEZ SERÁ EL NUEVO EMBAJADOR DE VENEZUELA EN GUYANA",
-      "link": "https://noticierodigital.com/2026/11/alexander-yanez-sera-el-nuevo-embajador-de-venezuela-en-guyana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Alexander-Yanez-627x376.jpg"
+      "title": "CENTROS COMERCIALES SE ACERCAN A NIVELES DE CONSUMO DE 2013, SEGÚN CAVECECO",
+      "link": "https://noticierodigital.com/2026/11/centros-comerciales-se-acercan-a-niveles-de-consumo-de-2013-segun-cavececo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/12/centros-comerciales-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Flávio Bolsonaro niega ayuda de gobiernos extranjeros para escapar a Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-niega-ayuda-de-gobiernos-extranjeros-para-escapar-a-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/EzIUCrAj-images-10.jpg"
+      "title": "Yoani Sánchez liberada tras detención: un nuevo episodio de represión en Cuba",
+      "link": "https://diarioversionfinal.com/mundo/yoani-sanchez-liberada-tras-detencion-un-nuevo-episodio-de-represion-en-cuba/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/LGselvpn-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-06T00:47:53.559Z"
+  "lastUpdate": "2026-11-06T07:41:53.168Z"
 };
