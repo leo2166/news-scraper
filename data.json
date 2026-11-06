@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "894,89",
-      "eur": "1006,03",
-      "fechaValor": "Jueves, 05 Noviembre 2026"
+      "usd": "896,12",
+      "eur": "1004,96",
+      "fechaValor": "Viernes, 06 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1010,00"
+      "usdt": "1009,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Datanálisis: El 88% de los venezolanos cobra en bolívares y vacía su saldo en menos de 48 horas",
-      "link": "https://www.bancaynegocios.com/datanalisis-el-88-porciento-de-los-venezolanos-cobra-en-bolivares-y-vacia-su-saldo-en-menos-de-48-horas/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "Reportan 90% de ocupación hotelera en la Isla de Margarita: \"Esperamos una excelente temporada decembrina\"",
+      "link": "https://www.bancaynegocios.com/reportan-90-porciento-de-ocupacion-hotelera-en-la-isla-de-margarita-esperamos-una-excelente-temporada-decembrina/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/09/MARGARITA-TURISMO-1.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Seguridad ciudadana actúa ante denuncia de abuso infantil en el sector San Miguel",
-      "link": "https://noticialdia.com/sucesos/seguridad-ciudadana-actua-ante-denuncia-de-abuso-infantil-en-el-sector-san-miguel/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-05T114022.577.webp?x74346"
+      "title": "CLEZ aprueba más de 951 millones de bolívares para acelerar el Plan Estadal de Asfaltado en el Zulia",
+      "link": "https://noticialdia.com/al-dia/clez-aprueba-mas-de-951-millones-de-bolivares-para-acelerar-el-plan-estadal-de-asfaltado-en-el-zulia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-05T204547.072.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIDALCO BOLÍVAR: «LAS ELECCIONES SON INEVITABLES»",
-      "link": "https://noticierodigital.com/2026/11/didalco-bolivar-las-elecciones-son-inevitables/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/didalcobolivar-627x376.jpeg"
+      "title": "ALEXANDER YÁNEZ SERÁ EL NUEVO EMBAJADOR DE VENEZUELA EN GUYANA",
+      "link": "https://noticierodigital.com/2026/11/alexander-yanez-sera-el-nuevo-embajador-de-venezuela-en-guyana/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Alexander-Yanez-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El zuliano Samuel Vilchez Santiago asegura que es demócrata por su conexión con los migrantes",
-      "link": "https://laverdad.com/el-zuliano-samuel-vilchez-santiago-asegura-que-es-democrata-por-su-conexion-con-los-migrantes/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/zuliano.jpg"
+      "title": "Capturan a 2 presuntos miembros del “Tren de Aragua” en Bogotá",
+      "link": "https://laverdad.com/capturan-a-2-presuntos-miembros-del-tren-de-aragua-en-bogota/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Captura.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Revés republicano mina aspiraciones de Rubio para suceder a Trump: ¿Renunciará?",
-      "link": "https://diarioversionfinal.com/mundo/reves-republicano-mina-aspiraciones-de-rubio-para-suceder-a-trump-renunciara/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-05T110614.681-682x430.jpg"
+      "title": "Flávio Bolsonaro niega ayuda de gobiernos extranjeros para escapar a Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/flavio-bolsonaro-niega-ayuda-de-gobiernos-extranjeros-para-escapar-a-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/EzIUCrAj-images-10.jpg"
     }
   ],
-  "lastUpdate": "2026-11-05T19:34:37.425Z"
+  "lastUpdate": "2026-11-06T00:47:53.559Z"
 }
