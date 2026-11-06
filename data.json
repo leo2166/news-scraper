@@ -1,9 +1,9 @@
 {
   "rates": {
     "bcv": {
-      "usd": "896,12",
-      "eur": "1004,96",
-      "fechaValor": "Viernes, 06 Noviembre 2026"
+      "usd": "897,54",
+      "eur": "1001,19",
+      "fechaValor": "Lunes, 09 Noviembre 2026"
     },
     "binance": {
       "usdt": "1010,20"
@@ -15,52 +15,52 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Comercio entre Venezuela y Estados Unidos creció 739% en el tercer trimestre",
-      "link": "https://www.bancaynegocios.com/comercio-entre-venezuela-y-estados-unidos-crecio-739-porciento-en-el-tercer-trimestre/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/IntercambioComercialEEUUVenezuelaNueva.png"
+      "title": "Estiman que la economía de Venezuela podría cerrar este año con un crecimiento cercano al 10%",
+      "link": "https://www.bancaynegocios.com/estiman-que-la-economia-de-venezuela-podria-cerrar-este-ano-con-un-crecimiento-cercano-al-10-porciento/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/bolivares2.jpg"
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado y Edmundo González respaldaron la propuesta de Estados Unidos para la transición política en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/05/maria-corina-machado-y-edmundo-gonzalez-respaldaron-la-propuesta-de-estados-unidos-para-la-transicion-politica-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/C6JHUPIDHZBTLMJ5ATLIPAOE7A.JPG?auth=d28f1a4138988c7ddf02109f066b6cfc271aee51b398908a38009ec0eb97aa9a&smart=true&width=350&height=197&quality=85"
+      "title": "Casi 18 millones de venezolanos viven en “desiertos informativos” por falta de acceso a medios independientes",
+      "link": "https://www.infobae.com/venezuela/2026/11/06/casi-18-millones-de-venezolanos-viven-en-desiertos-informativos-por-falta-de-acceso-a-medios-independientes/",
+      "image": "https://www.infobae.com/resizer/v2/BEDGFWRZS5E75OZOM3I3HUHFLU.jpg?auth=a1dc27bcece0106a97653f95545ecf1bfc3c205e1138365100b27b9d825dcf29&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcalde Héctor Soto: \"Hemos logrado duplicar la capacidad de bombeo de agua en San Francisco\"",
-      "link": "https://noticialdia.com/al-dia/alcalde-hector-soto-hemos-logrado-duplicar-la-capacidad-de-bombeo-de-agua-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-06T113200.028.webp?x74346"
+      "title": "Jorge Rodríguez destaca la cooperación entre Venezuela y Estados Unidos para la estabilidad y prosperidad mutua",
+      "link": "https://noticialdia.com/al-dia/jorge-rodriguez-destaca-la-cooperacion-entre-venezuela-y-estados-unidos-para-la-estabilidad-y-prosperidad-mutua/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-06T165500.043.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "Legal Terms and Privacy",
-      "link": "https://cnnespanol.cnn.com/terms",
-      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
+      "title": "LEÓN XIV EN LATINOAMÉRICA",
+      "link": "https://cnnespanol.cnn.com/2026/11/05/eeuu/live-news/resultados-elecciones-intermedias-ee-uu-en-vivo-trax",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/miller-wiles.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Jorge Rodríguez asistió a recepción por el 250 aniversario de la Independencia de EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/jorge-rodriguez-asistio-a-recepcion-por-el-250-aniversario-de-la-independencia-de-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asistimos-complacidos-a-la-invitacin-del-encargado-de-negocios-de-la-embajada-de-ee.uu-john-ba-5c9afd.jpg"
+      "title": "Avanza en la Asamblea Nacional debate sobre reforma de la Ley contra el Odio",
+      "link": "https://noticiasvenevision.com/noticias/politica/avanza-en-la-asamblea-nacional-debate-sobre-reforma-de-la-ley-contra-el-odio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-prensa-an-62763c.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AL MENOS 42 PERIODISTAS Y TRABAJADORES DE LA PRENSA MUERTOS  DE FORMA VIOLENTA EN VENEZUELA DESDE 1991, SEGÚN SNTP",
-      "link": "https://noticierodigital.com/2026/11/al-menos-42-periodistas-y-trabajadores-de-la-prensa-muertos-de-forma-violenta-en-venezuela-desde-1991-segun-sntp/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2022/10/emisoraderadio-sntp-19oct2022.jpg"
+      "title": "CAVENJU NEGOCIA CON 64 EMPRESAS PARA QUE VUELVAN AL MERCADO DE JUGUETES EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/11/cavenju-negocia-con-64-empresas-para-que-vuelvan-al-mercado-de-juguetes-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/comercio-juguetes-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El Papa inicia su gira de 12 días por Uruguay, Argentina y Perú tras reciente operación por cáncer",
-      "link": "https://laverdad.com/el-papa-inicia-su-gira-de-12-dias-por-uruguay-argentina-y-peru-tras-reciente-operacion-por-cancer/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Papa-scaled.jpg"
+      "title": "El secreto de longevidad de una italiana de 106 años: duerme mucho y come dos helados al día",
+      "link": "https://laverdad.com/el-secreto-de-longevidad-de-una-italiana-de-106-anos-duerme-mucho-y-come-dos-helados-al-dia/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Gianna-Pratesi.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Senado de Paraguay rechaza prórroga de Peña y lo convoca a defenderse en juicio político",
-      "link": "https://diarioversionfinal.com/mundo/senado-de-paraguay-rechaza-prorroga-de-pena-y-lo-convoca-a-defenderse-en-juicio-politico/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-06T071609.943-678x430.jpg"
+      "title": "Inteligencia militar identifica a dos cabecillas del ELN vinculados al secuestro de una subteniente en Colombia",
+      "link": "https://diarioversionfinal.com/mundo/inteligencia-militar-identifica-a-dos-cabecillas-del-eln-vinculados-al-secuestro-de-una-subteniente-en-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Cabra-Cendales-subteniente-06-11-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-06T15:41:54.703Z"
+  "lastUpdate": "2026-11-06T21:17:47.903Z"
 }
