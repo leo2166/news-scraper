@@ -27,27 +27,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Jorge Rodríguez destaca la cooperación entre Venezuela y Estados Unidos para la estabilidad y prosperidad mutua",
-      "link": "https://noticialdia.com/al-dia/jorge-rodriguez-destaca-la-cooperacion-entre-venezuela-y-estados-unidos-para-la-estabilidad-y-prosperidad-mutua/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-06T165500.043.webp?x74346"
+      "title": "Presidenta Delcy Rodríguez anuncia la creación de la nueva Escuela de Formación Integral para Motorizados",
+      "link": "https://noticialdia.com/al-dia/presidenta-delcy-rodriguez-anuncia-la-creacion-de-la-nueva-escuela-de-formacion-integral-para-motorizados/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-06T193913.329-3.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "LEÓN XIV EN LATINOAMÉRICA",
-      "link": "https://cnnespanol.cnn.com/2026/11/05/eeuu/live-news/resultados-elecciones-intermedias-ee-uu-en-vivo-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/miller-wiles.jpg?c=16x9&q=h_720,w_1280,c_fill"
+      "title": "Legal Terms and Privacy",
+      "link": "https://cnnespanol.cnn.com/terms",
+      "image": "https://www.cnn.com/media/sites/cnn/cnn.svg"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Avanza en la Asamblea Nacional debate sobre reforma de la Ley contra el Odio",
-      "link": "https://noticiasvenevision.com/noticias/politica/avanza-en-la-asamblea-nacional-debate-sobre-reforma-de-la-ley-contra-el-odio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea-nacional-prensa-an-62763c.jpg"
+      "title": "Embajada de EE. UU. en Caracas celebra \"Freedom 250\" y reafirma alianza con Venezuela mediante el plan de tres fases",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-en-caracas-celebra-freedom-250-y-reafirma-alianza-con-venezuela-mediante-el-plan-de-tres-fases",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-06-at-7.06.32-pm-1-b2ca23.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAVENJU NEGOCIA CON 64 EMPRESAS PARA QUE VUELVAN AL MERCADO DE JUGUETES EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/11/cavenju-negocia-con-64-empresas-para-que-vuelvan-al-mercado-de-juguetes-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/comercio-juguetes-venezuela-627x376.jpg"
+      "title": "SANTIAGO PEÑA QUEDÓ BAJO ARRESTO DOMICILIARIO TRAS SER DESTITUIDO EN PARAGUAY",
+      "link": "https://noticierodigital.com/2026/11/santiago-pena-quedo-bajo-arresto-domiciliario-tras-ser-destituido-en-paraguay/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/santiago-pena-paraguay-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Inteligencia militar identifica a dos cabecillas del ELN vinculados al secuestro de una subteniente en Colombia",
-      "link": "https://diarioversionfinal.com/mundo/inteligencia-militar-identifica-a-dos-cabecillas-del-eln-vinculados-al-secuestro-de-una-subteniente-en-colombia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Cabra-Cendales-subteniente-06-11-2026-750x430.jpg"
+      "title": "Arrestan a venezolano que portaba un fusil AR-15 en las inmediaciones de la Casa Blanca",
+      "link": "https://diarioversionfinal.com/mundo/arrestan-a-venezolano-que-portaba-un-fusil-ar-15-en-las-inmediaciones-de-la-casa-blanca/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Venezolano-armamento-06-11-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-06T21:17:47.903Z"
+  "lastUpdate": "2026-11-07T01:39:17.776Z"
 };
