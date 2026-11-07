@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Casi 18 millones de venezolanos viven en “desiertos informativos” por falta de acceso a medios independientes",
-      "link": "https://www.infobae.com/venezuela/2026/11/06/casi-18-millones-de-venezolanos-viven-en-desiertos-informativos-por-falta-de-acceso-a-medios-independientes/",
-      "image": "https://www.infobae.com/resizer/v2/BEDGFWRZS5E75OZOM3I3HUHFLU.jpg?auth=a1dc27bcece0106a97653f95545ecf1bfc3c205e1138365100b27b9d825dcf29&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado prometió defender a los presos políticos en Venezuela durante una protesta cerca del penal Rodeo I",
+      "link": "https://www.infobae.com/venezuela/2026/11/07/maria-corina-machado-prometio-defender-a-los-presos-politicos-en-venezuela-durante-una-protesta-cerca-del-penal-rodeo-i/",
+      "image": "https://www.infobae.com/resizer/v2/REAEVR3PNRGDJIRYIDEM45ISPA.JPG?auth=3c43384587a6d375654058939628d4f4eac5d95a26f76db4ec07166989790089&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Presidenta Delcy Rodríguez anuncia la creación de la nueva Escuela de Formación Integral para Motorizados",
-      "link": "https://noticialdia.com/al-dia/presidenta-delcy-rodriguez-anuncia-la-creacion-de-la-nueva-escuela-de-formacion-integral-para-motorizados/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-06T193913.329-3.webp?x74346"
+      "title": "Arrestan a venezolano armado cerca de la Casa Blanca",
+      "link": "https://noticialdia.com/internacionales/arrestan-a-venezolano-armado-cerca-de-la-casa-blanca/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-06T225548.238.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Embajada de EE. UU. en Caracas celebra \"Freedom 250\" y reafirma alianza con Venezuela mediante el plan de tres fases",
-      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-ee-uu-en-caracas-celebra-freedom-250-y-reafirma-alianza-con-venezuela-mediante-el-plan-de-tres-fases",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-06-at-7.06.32-pm-1-b2ca23.jpeg"
+      "title": "Presidenta encargada Delcy Rodríguez sostuvo reunión con el sector motorizado en Miraflores",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-sostuvo-reunion-con-el-sector-motorizado-en-miraflores",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5150065400711154881_w-3c807f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SANTIAGO PEÑA QUEDÓ BAJO ARRESTO DOMICILIARIO TRAS SER DESTITUIDO EN PARAGUAY",
-      "link": "https://noticierodigital.com/2026/11/santiago-pena-quedo-bajo-arresto-domiciliario-tras-ser-destituido-en-paraguay/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/santiago-pena-paraguay-2-627x376.jpg"
+      "title": "VENEZUELA INCINERÓ MÁS DE DOS TONELADAS DE DROGAS DECOMISADAS CON APOYO DE FRANCIA",
+      "link": "https://noticierodigital.com/2026/11/venezuela-incinero-mas-de-dos-toneladas-de-drogas-decomisadas-con-apoyo-de-francia/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/incautacion-de-drogas-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Venezolano-armamento-06-11-2026-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-07T01:39:17.776Z"
+  "lastUpdate": "2026-11-07T08:24:28.153Z"
 };
