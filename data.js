@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "El martes 10 de noviembre sancionarán la nueva Ley del Servicio de Energía Eléctrica anunció el presidente de la AN Jorge Rodríguez",
-      "link": "https://noticialdia.com/principal/el-martes-10-de-noviembre-sancionaran-la-nueva-ley-del-servicio-de-energia-electrica-anuncio-el-presidente-de-la-an-jorge-rodriguez/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-2026-11-07T111453.556.webp?x74346"
+      "title": "Imgra y Fundagraez rendirán tributo a Ricardo Aguirre: Día del Gaitero",
+      "link": "https://noticialdia.com/al-dia/imgra-y-fundagraez-rendiran-tributo-a-ricardo-aguirre-dia-del-gaitero/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-2026-11-07T150726.046.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez sostuvo reunión con el sector motorizado en Miraflores",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-sostuvo-reunion-con-el-sector-motorizado-en-miraflores",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5150065400711154881_w-3c807f.jpg"
+      "title": "Cancilleres de Venezuela y Perú sostienen encuentro bilateral durante la Cumbre Iberoamericana",
+      "link": "https://noticiasvenevision.com/noticias/politica/cancilleres-de-venezuela-y-peru-sostienen-encuentro-bilateral-durante-la-cumbre-iberoamericana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hwhqxp0w4aaionr-dbce3d.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CANCILLERES DE VENEZUELA Y PERÚ SE REUNIERON EN EL MARCO DE LA CUMBRE IBEROAMERICANA",
-      "link": "https://noticierodigital.com/2026/11/cancilleres-de-venezuela-y-peru-se-reunieron-en-el-marco-de-la-cumbre-iberoamericana/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Diseno-sin-titulo-7-1-627x376.png"
+      "title": "PLAN DE CARACTERIZACIÓN DEL REBAÑO ENTRA EN FASE FINAL: PROMETE IMPULSAR EXPORTACIÓN",
+      "link": "https://noticierodigital.com/2026/11/plan-de-caracterizacion-del-rebano-entra-en-fase-final-promete-impulsar-exportacion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/06/ganado-reses-16jun2021.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Santiago Peña es destituido y detenido en Paraguay por el caso Ueno bank",
-      "link": "https://laverdad.com/santiago-pena-es-destituido-y-detenido-en-paraguay-por-el-caso-ueno-bank/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/d7bcea0a7ce607d18a61c1cf9ee34b11d1dbd14a-scaled.jpg"
+      "title": "Papa León XIV llega a Uruguay y destaca el mate como símbolo de encuentro",
+      "link": "https://laverdad.com/papa-leon-xiv-llega-a-uruguay-y-destaca-el-mate-como-simbolo-de-encuentro/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/91e1b0bbab8bf31712233b957db63f50ba671b5d-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Rescate heroico de un perro en Cúcuta durante aguacero",
-      "link": "https://diarioversionfinal.com/mundo/rescate-heroico-de-un-perro-en-cucuta-durante-aguacero/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Ku6JttH7-image-750x430.jpg"
+      "title": "Cuba denuncia sanciones de EE. UU. como ilegales y extraterritoriales",
+      "link": "https://diarioversionfinal.com/mundo/cuba-denuncia-sanciones-de-ee-uu-como-ilegales-y-extraterritoriales/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/06/cuba-fidel.avif"
     }
   ],
-  "lastUpdate": "2026-11-07T15:27:27.827Z"
+  "lastUpdate": "2026-11-07T19:55:00.906Z"
 };
