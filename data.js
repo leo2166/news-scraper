@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "El conmovedor canto del pequeño Omalbito para despedir a su abuelo, el inmortal maestro Omar Rojas en su velorio",
-      "link": "https://noticialdia.com/al-dia/el-conmovedor-canto-del-pequeno-omalbito-para-despedir-a-su-abuelo-el-inmortal-maestro-omar-rojas-en-su-velorio/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-14.webp?x74346"
+      "title": "Rumiley Faría es la nueva soberana de la belleza zuliana al ser coronada como la Reina de la LX Feria Internacional de La Chinita 2026",
+      "link": "https://noticialdia.com/zulia/rumiley-faria-es-la-nueva-soberana-de-la-belleza-zuliana-al-ser-coronada-como-la-reina-de-la-lx-feria-internacional-de-la-chinita-2026/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/5be8fe85-4486-44b6-ae01-36f4f2be0731.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Terremoto de magnitud 5,7 sacude el centro de Japón y deja al menos 20 heridos este #7Nov",
-      "link": "https://diarioversionfinal.com/mundo/terremoto-de-magnitud-57-sacude-el-centro-de-japon-y-deja-al-menos-20-heridos-este-7nov/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/lIkPxweu-image-750x430.jpg"
+      "title": "Tiroteo en Polonia: el atacante tenía los cadáveres de su padre, madre y hermana en su casa",
+      "link": "https://diarioversionfinal.com/mundo/polonia-llora-tras-ataque-terrorista-en-cracovia-seis-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/2iTI80Ts-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-08T04:44:53.808Z"
+  "lastUpdate": "2026-11-08T11:43:40.535Z"
 };
