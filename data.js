@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Consecomercio apoya simplificación de trámites para exportar y pide reformas en mecanismos de inspección",
-      "link": "https://www.bancaynegocios.com/consecomercio-apoya-simplificacion-de-tramites-para-exportar-y-pide-reformas-en-mecanismos-de-inspeccion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/04/JOSE-GREGORIO-RODRIGUEZ-CONSECOMERCIO-RUEDA.jpg"
+      "title": "Gobierno de Venezuela ratificó Convenio Multilateral Iberoamericano de Seguridad Social",
+      "link": "https://www.bancaynegocios.com/gobierno-de-venezuela-ratifico-convenio-multilateral-iberoamericano-de-seguridad-social/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DELCY-RODRIGUEZ-050726-NUEVA-e1789935633652.jpg"
     },
     {
       "source": "Infobae",
@@ -27,8 +27,8 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de Maracaibo impermeabilizó más de 1.300 metros cuadrados de techo en la UEN Neptalí Rincón",
-      "link": "https://noticialdia.com/?p=691485",
+      "title": "Cabimas despidió al cantautor Omar Rojas; el sepelio se realizará este 9-Nov en Lagunillas",
+      "link": "https://noticialdia.com/?p=691586",
       "image": null
     },
     {
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal exige la liberación urgente de todos los presos políticos en Venezuela",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-exige-la-liberacion-urgente-de-todos-los-presos-politicos-en-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/alfredo-romero-4068-80936b.jpg"
+      "title": "Mesa de análisis en Abriendo Puertas junto a Luis Romero, Hilda González y Jesús González",
+      "link": "https://noticiasvenevision.com/noticias/politica/mesa-de-analisis-en-abriendo-puertas-junto-a-luis-romero-hilda-gonzalez-y-jesus-gonzalez",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_2330.jpg-48818d.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRAGEDIA EN MATURÍN: NIÑO DE UN AÑO FALLECIÓ TRAS INGEIR GASOIL ACCIDENTALMENTE",
-      "link": "https://noticierodigital.com/2026/11/tragedia-en-maturin-nino-de-un-ano-fallecio-tras-ingeir-gasoil-accidentalmente/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Diseno-sin-titulo-6-1-627x376.png"
+      "title": "LUIS AUGUSTO ROMERO: «LE DESEO A ESE COMITÉ QUE PRODUZCA UN TSJ QUE RESPETE LA CONSTITUCIÓN»",
+      "link": "https://noticierodigital.com/2026/11/luis-augusto-romero-le-deseo-a-ese-comite-que-produzca-un-tsj-que-respete-la-constitucion/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/06/luis-augusto-romero-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XIV se despide de Uruguay con un llamado a la unidad y la paz",
-      "link": "https://laverdad.com/papa-leon-xiv-se-despide-de-uruguay-con-un-llamado-a-la-unidad-y-la-paz/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/f1646a74198c73e4b66378586cb6137ce967f1f1-scaled.jpg"
+      "title": "León XIV llega a Argentina en la primera visita papal al país en casi 40 años",
+      "link": "https://laverdad.com/leon-xiv-llega-a-argentina-en-la-primera-visita-papal-al-pais-en-casi-40-anos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/894d00305dbce1b7a05f0c8f9712cb78b7d1d722-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Abelardo de la Espriella defiende la libertad de prensa ante amenazas terroristas",
-      "link": "https://diarioversionfinal.com/mundo/abelardo-de-la-espriella-defiende-la-libertad-de-prensa-ante-amenazas-terroristas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/08/de-la-espriella-750x430.webp"
+      "title": "Ciberataques amenazan sistemas de refrigeración y ponen en riesgo servicios esenciales de EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/ciberataques-amenazan-sistemas-de-refrigeracion-y-ponen-en-riesgo-servicios-esenciales-de-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/hSKOO5ZA-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-08T17:40:22.995Z"
+  "lastUpdate": "2026-11-08T21:44:20.819Z"
 };
