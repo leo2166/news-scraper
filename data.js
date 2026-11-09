@@ -21,27 +21,27 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Dinorah Figuera anticipó nuevas liberaciones de presos políticos en Venezuela: \"Es una demanda que está haciendo no solamente la población\"",
-      "link": "https://www.infobae.com/venezuela/2026/11/08/dinorah-figuera-anticipo-nuevas-liberaciones-de-presos-politicos-en-venezuela-es-una-demanda-que-esta-haciendo-no-solamente-la-poblacion/",
-      "image": "https://www.infobae.com/resizer/v2/A7V7K7HITNDZTEY2X5CTJAQJY4.JPG?auth=7277fd9da42f68a314cda0c70f58c9c9c703209d63376ea01a5eff5a42c04d3c&smart=true&width=350&height=197&quality=85"
+      "title": "Q+ Network suspende la programación de su podcast fallecimiento del padre de Abneer Robles: “Lo acompañamos con respeto”",
+      "link": "https://www.infobae.com/venezuela/2026/11/09/q-network-suspende-la-programacion-de-su-podcast-fallecimiento-del-padre-de-abneer-robles-lo-acompanamos-con-respeto/",
+      "image": "https://www.infobae.com/resizer/v2/XILSLI6QENB6LEVE7DZR2LRW3Q.png?auth=db6edfb05bc187d1b533cb5f056497ab3a768371e74464fe3a0cbcba17f56460&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Barcelona le remontó al Atlético de Madrid y se consolidó como líder de LaLiga",
-      "link": "https://noticialdia.com/al-dia/barcelona-le-remonto-al-atletico-de-madrid-y-se-consolido-como-lider-de-laliga/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261108_181335_0000.webp?x74346"
+      "title": "Águilas doblega a Tiburones y toma oxígeno para cerrar la cuarta semana",
+      "link": "https://noticialdia.com/deportes/aguilas-doblega-a-tiburones-y-toma-oxigeno-para-cerrar-la-cuarta-semana/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261109_004236_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
-      "title": "EL PAPA EN LATINOAMÉRICA",
+      "title": "ELECCIONES INTERMEDIAS",
       "link": "https://cnnespanol.cnn.com/2026/11/03/eeuu/live-news/elecciones-intermedias-ee-uu-clave-trax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304006561.jpg?c=16x9&q=h_270,w_480,c_fill"
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/pete-hegseth-21-mayo-2025.jpg?c=16x9&q=h_720,w_1280,c_fill"
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado se reunió con vecinos afectados por los terremotos en San Bernardino",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-se-reunio-con-vecinos-afectados-por-los-terremotos-en-san-bernardino",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hwnbmzbxyaawxue-70909a.jpg"
+      "title": "Oliver Blanco: \"Todas las fuerzas políticas podrán participar en las elecciones y el resultado deben respetarlo todos\"",
+      "link": "https://noticiasvenevision.com/noticias/politica/oliver-blanco-todas-las-fuerzas-politicas-podran-participar-en-las-elecciones-y-el-resultado-deben-respetarlo-todos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-2-2f5a1c.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Nv5XsCaO-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-09T01:27:43.315Z"
+  "lastUpdate": "2026-11-09T09:13:25.999Z"
 };
