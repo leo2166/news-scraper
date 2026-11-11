@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 11 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1074,00"
+      "usdt": "1078,83"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Solicitan con urgencia la evaluación de un cardiólogo pediatra para recién nacida en el Hospital Noriega Trigo",
-      "link": "https://noticialdia.com/zulia/servicio-publico/solicitan-con-urgencia-la-evaluacion-de-un-cardiologo-pediatra-para-recien-nacida-en-el-hospital-noriega-trigo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-10T193426.732.webp?x74346"
+      "title": "Venezuela vapulea a Japón y avanza invicta a la Súper Ronda del Mundial de Béisbol U23",
+      "link": "https://noticialdia.com/al-dia/venezuela-vapulea-a-japon-y-avanza-invicta-a-la-super-ronda-del-mundial-de-beisbol-u23/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261111_014846_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado José Gregorio Correa señala a la crisis eléctrica como el principal problema del país",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-jose-gregorio-correa-senala-a-la-crisis-electrica-como-el-principal-problema-del-pais",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-10-at-6.06.24-pm-704ea0.jpeg"
+      "title": "Magaly Vásquez sobre renovación judicial: “En Venezuela el problema no es de leyes, es cumplirlas”",
+      "link": "https://noticiasvenevision.com/noticias/politica/magaly-vasquez-sobre-renovacion-judicial-en-venezuela-el-problema-no-es-de-leyes-es-cumplirlas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-de-pantalla-2026-11-10-222700-01e86a.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "FISCALÍA DE EE. UU. PRESENTÓ CARGOS CONTRA VENEZOLANO QUE AMENAZÓ A TRUMP",
-      "link": "https://noticierodigital.com/2026/11/fiscalia-de-ee-uu-presento-cargos-contra-venezolano-que-amenazo-a-trump/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/venezolano-avenezolano-arrestado-eeuu-Ronny-Yordrix-Guanipa-627x376.jpg"
+      "title": "NORA BRACHO RESPALDÓ APERTURA DEL SECTOR ELÉCTRICO AL CAPITAL PRIVADO",
+      "link": "https://noticierodigital.com/2026/11/nora-bracho-respaldo-apertura-del-sector-electrico-al-capital-privado/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/Diseno-sin-titulo-5-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán afirma haber destruido radares estadounidenses y reporta tres petroleros incendiados en el estrecho de Ormuz",
-      "link": "https://diarioversionfinal.com/mundo/iran-afirma-haber-destruido-radares-estadounidenses-y-reporta-tres-petroleros-incendiados-en-el-estrecho-de-ormuz/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/eeuu-ataques-iran-estrecho-ormuz-trump.jpg-768x432-1-750x430.jpg"
+      "title": "Nueva York establece regulaciones estrictas para desarrolladoras de inteligencia artificial",
+      "link": "https://diarioversionfinal.com/mundo/nueva-york-establece-regulaciones-estrictas-para-desarrolladoras-de-inteligencia-artificial/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/s9nC1O8J-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-11T01:01:53.518Z"
+  "lastUpdate": "2026-11-11T08:54:43.014Z"
 };
