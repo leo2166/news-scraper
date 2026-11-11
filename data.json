@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "899,27",
-      "eur": "1006,61",
-      "fechaValor": "Martes, 10 Noviembre 2026"
+      "usd": "901,62",
+      "eur": "1007,96",
+      "fechaValor": "Miércoles, 11 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1075,00"
+      "usdt": "1074,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@
     },
     {
       "source": "Infobae",
-      "title": "Venezuela firmó un memorando de entendimiento con ExxonMobil con vistas a su retorno al país",
-      "link": "https://www.infobae.com/venezuela/2026/11/10/venezuela-firmo-un-memorando-de-entendimiento-con-exxonmobil-con-vistas-a-su-retorno-al-pais/",
-      "image": "https://www.infobae.com/resizer/v2/CKLZNCXYZNDFBNZMCSSAUBKLD4.JPG?auth=2199b6ecc3e29fbee823bce808a70a18eca874f9f932298ef3214d87be417aea&smart=true&width=350&height=197&quality=85"
+      "title": "En medio de la crisis eléctrica, Venezuela aprobó una reforma para abrir el sector energético a empresas extranjeras",
+      "link": "https://www.infobae.com/venezuela/2026/11/10/en-medio-de-la-crisis-electrica-venezuela-aprobo-una-reforma-para-abrir-el-sector-energetico-a-empresas-extranjeras/",
+      "image": "https://www.infobae.com/resizer/v2/2OK7L7TFGZFVPECDJNMAFF43G4.jpg?auth=868c7a3d21a2ab5bc3ac07243dc391e0e6b770ca063007efc782ef0c4fcf2efd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "SACS e INHRR emiten alerta sanitaria por comercialización ilícita de péptidos inyectables en Venezuela",
-      "link": "https://noticialdia.com/al-dia/sacs-e-inhrr-emiten-alerta-sanitaria-por-comercializacion-ilicita-de-peptidos-inyectables-en-venezuela/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-10T160228.241.webp?x74346"
+      "title": "Solicitan con urgencia la evaluación de un cardiólogo pediatra para recién nacida en el Hospital Noriega Trigo",
+      "link": "https://noticialdia.com/zulia/servicio-publico/solicitan-con-urgencia-la-evaluacion-de-un-cardiologo-pediatra-para-recien-nacida-en-el-hospital-noriega-trigo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-10T193426.732.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Familiares de detenidos por motivos políticos esperan excarcelación tras impulso diplomático",
-      "link": "https://noticiasvenevision.com/noticias/politica/aumenta-la-expectativa-en-venezuela-por-posible-excarcelacion-de-presos-politicos-tras-impulso-diplomatico",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_mop810mop810mop8-aa6e5f.jpg"
+      "title": "Diputado José Gregorio Correa señala a la crisis eléctrica como el principal problema del país",
+      "link": "https://noticiasvenevision.com/noticias/politica/diputado-jose-gregorio-correa-senala-a-la-crisis-electrica-como-el-principal-problema-del-pais",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-10-at-6.06.24-pm-704ea0.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«UNA TRANSICIÓN PUEDE FRACASAR SI NO HAY INSTITUCIONES SÓLIDAS», ADVIRTIÓ MAGDALENO",
-      "link": "https://noticierodigital.com/2026/11/una-transicion-puede-fracasar-si-no-hay-instituciones-solidas-advirtio-magdaleno/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/03/magdaleno-eleccionespresidenciales2024.jpg"
+      "title": "FISCALÍA DE EE. UU. PRESENTÓ CARGOS CONTRA VENEZOLANO QUE AMENAZÓ A TRUMP",
+      "link": "https://noticierodigital.com/2026/11/fiscalia-de-ee-uu-presento-cargos-contra-venezolano-que-amenazo-a-trump/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/venezolano-avenezolano-arrestado-eeuu-Ronny-Yordrix-Guanipa-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV congrega a 650.000 fieles en misa en la provincia argentina de Córdoba",
-      "link": "https://laverdad.com/leon-xiv-congrega-a-650-000-fieles-en-misa-en-la-provincia-argentina-de-cordoba/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-XIV-Cordoba.jpg"
+      "title": "EE. UU. imputa a venezolano por amenazar a Trump y portar armas cerca de la Casa Blanca",
+      "link": "https://laverdad.com/ee-uu-imputa-a-venezolano-por-amenazar-a-trump-y-portar-armas-cerca-de-la-casa-blanca/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/EE.-UU.-imputa-a-venezolano-por-amenazar-a-Trump-y-portar-armas-cerca-de-la-Casa-Blanca-1.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "España afirma que mayoría de la UE respalda levantar sanciones contra Delcy Rodríguez",
-      "link": "https://diarioversionfinal.com/mundo/espana-afirma-que-mayoria-de-la-ue-respalda-levantar-sanciones-contra-delcy-rodriguez/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/01/Jose-Manuel-Albares-Delcy-Rodrigeuz-750x430.jpg"
+      "title": "Irán afirma haber destruido radares estadounidenses y reporta tres petroleros incendiados en el estrecho de Ormuz",
+      "link": "https://diarioversionfinal.com/mundo/iran-afirma-haber-destruido-radares-estadounidenses-y-reporta-tres-petroleros-incendiados-en-el-estrecho-de-ormuz/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/07/eeuu-ataques-iran-estrecho-ormuz-trump.jpg-768x432-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-10T20:15:44.587Z"
+  "lastUpdate": "2026-11-11T01:01:53.518Z"
 }
