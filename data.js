@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "901,62",
-      "eur": "1007,96",
-      "fechaValor": "Miércoles, 11 Noviembre 2026"
+      "usd": "904,45",
+      "eur": "1003,49",
+      "fechaValor": "Jueves, 12 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1058,00"
+      "usdt": "1072,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Consecomercio: Consumo en unidades aumentó 23% en el último cuatrimestre de 2026 impulsado por inversiones extranjeras",
-      "link": "https://www.bancaynegocios.com/consecomercio-consumo-en-unidades-aumento-23-porciento-en-el-ultimo-cuatrimestre-de-2026-impulsado-por-inversiones-extranjeras/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/10/compras.jpg"
+      "title": "CVG acuerda pago de un bono de utilidades por US$1.100 para trabajadores de las empresas básicas",
+      "link": "https://www.bancaynegocios.com/cvg-acuerda-pago-de-un-bono-de-utilidades-por-us1100-para-trabajadores-de-las-empresas-basicas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/CVG.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Henrique Capriles criticó que se desconozca el plan de recuperación del sistema eléctrico en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/11/henrique-capriles-critico-que-se-desconozca-el-plan-de-recuperacion-del-sistema-electrico-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/Q47QBWMV5RE5HK7M2LT3R4Y2BM.JPG?auth=471cc205625d80f3d26d6a6ad5c5d40453277b574c4f88b49a2b9c4536699b0b&smart=true&width=350&height=197&quality=85"
+      "title": "Lula y Delcy Rodríguez acordaron avanzar en la reanudación de las relaciones entre Brasil y Venezuela",
+      "link": "https://www.infobae.com/america/america-latina/2026/11/11/lula-y-delcy-rodriguez-acordaron-avanzar-en-la-reanudacion-de-las-relaciones-entre-brasil-y-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/4A5XH2PRRNAOBOQQRLQMWOUTV4.jpg?auth=fc56fe933ce63f4e3bf2754f55e661f059092d28f3da68d456a5fbe3773afc90&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Maracaibo celebra su ’11-11′: El Día de Luis Aparicio",
-      "link": "https://noticialdia.com/principal/maracaibo-celebra-su-11-11-el-dia-de-luis-aparicio/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Unas-300-escuelas-italianas-evacuadas-por-amenazas-de-bomba-1-1.webp?x74346"
+      "title": "Gobernador Luis Caldera inaugura el Museo Didáctico de Ciencia \"Humberto Fernández Morán\" en Maracaibo",
+      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-inaugura-el-museo-didactico-de-ciencia-humberto-fernandez-moran-en-maracaibo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-11T175708.065.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dos mujeres se suman a huelga de hambre de militares en Ramo Verde",
-      "link": "https://noticiasvenevision.com/noticias/politica/dos-mujeres-se-suman-a-huelga-de-hambre-de-militares-en-ramo-verde",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/01ktqap7wdnd131gnvxh4awajh-bc34bb.avif"
+      "title": "Brasil y Venezuela evalúan fortalecer lazos diplomáticos e intercambio económico en energía y comercio",
+      "link": "https://noticiasvenevision.com/noticias/politica/brasil-y-venezuela-evaluan-fortalecer-lazos-diplomaticos-e-intercambio-economico-en-energia-y-comercio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-11-at-4.26.56-pm-1-d531e3.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "SECUESTRARON A ESPOSA DEL ALCALDE DE LA GUAJIRA: PRESIDENTE DE COLOMBIA ANUNCIÓ OPERATIVO EN LA FRONTERA",
-      "link": "https://noticierodigital.com/2026/11/secuestraron-a-esposa-del-alcalde-de-la-guajira-presidente-de-colombia-anuncio-operativo-en-la-frontera/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/secuestrocolombia-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ ANUNCIÓ REVISIÓN DE ACUERDOS COMERCIALES CON BRASIL TRAS REUNIRSE CON LULA",
+      "link": "https://noticierodigital.com/2026/11/delcy-rodriguez-anuncio-revision-de-acuerdos-comerciales-con-brasil-tras-reunirse-con-lula/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/delcy-rodriguez-venezuela-brasil-luiz-inacio-lula-da-silva-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV regala otra “Rosa de Oro” a la Virgen de Luján, la “patroncita morena” de Argentina",
-      "link": "https://laverdad.com/leon-xiv-regala-otra-rosa-de-oro-a-la-virgen-de-lujan-la-patroncita-morena-de-argentina/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-IV-Rosa-de-Oro-Virgen-de-Lujan.jpg"
+      "title": "Ocho muertos deja nuevo bombardeo del gobierno colombiano contra el Clan del Golfo",
+      "link": "https://laverdad.com/ocho-muertos-deja-nuevo-bombardeo-del-gobierno-colombiano-contra-el-clan-del-golfo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Bombardeo-Colombia-Antioquia.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ejército rastrea trochas en Winpeshi para evitar traslado a Venezuela de líder wayuu secuestrada",
-      "link": "https://diarioversionfinal.com/mundo/ejercito-rastrea-trochas-en-winpeshi-para-evitar-traslado-a-venezuela-de-lider-wayuu-secuestrada/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-11.00.49-AM-750x430.jpeg"
+      "title": "León XIV inicia su histórica visita a Perú tras emotiva etapa en Argentina",
+      "link": "https://diarioversionfinal.com/mundo/leon-xiv-inicia-su-historica-visita-a-peru-tras-emotiva-etapa-en-argentina/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/uv8rU15k-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-11T16:56:19.904Z"
+  "lastUpdate": "2026-11-11T23:19:24.408Z"
 };
