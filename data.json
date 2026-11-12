@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "904,45",
-      "eur": "1003,49",
-      "fechaValor": "Jueves, 12 Noviembre 2026"
+      "usd": "911,62",
+      "eur": "1009,34",
+      "fechaValor": "Viernes, 13 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1072,00"
+      "usdt": "1066,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Reactivan Operación Chárter: Llegan más de 300 turistas de Polonia a la Isla de Margarita",
-      "link": "https://www.bancaynegocios.com/reactivan-operacion-charter-llegan-mas-de-300-turistas-de-polonia-a-la-isla-de-margarita/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/turistas-e1794437900342.jpg"
+      "title": "Trabajadores públicos solicitan que pago de aguinaldos por US$960 se gestione con ingresos petroleros",
+      "link": "https://www.bancaynegocios.com/trabajadores-publicos-solicitan-que-pago-de-aguinaldos-por-us960-se-gestione-con-ingresos-petroleros/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/DOLARES-EN-EFECTIVO-GENERICA-100726.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La producción petrolera de Venezuela sigue el crecimiento: subió un 1,49% en octubre",
-      "link": "https://www.infobae.com/venezuela/2026/11/12/la-produccion-petrolera-de-venezuela-sigue-el-crecimiento-subio-un-149-en-octubre/",
-      "image": "https://www.infobae.com/resizer/v2/MCWJZYKKURHS7KE2DRV4LXWVGA.JPG?auth=51e74cb79fb9fced92dfbb9e5c25cc02b5c3e37078aa5f5981080d14df1bfb6e&smart=true&width=350&height=197&quality=85"
+      "title": "Crisis universitaria en Venezuela: ex rector e investigador señala que cobra 21 centavos de dólar",
+      "link": "https://www.infobae.com/venezuela/2026/11/12/crisis-universitaria-en-venezuela-ex-rector-e-investigador-senala-que-cobra-21-centavos-de-dolar/",
+      "image": "https://www.infobae.com/resizer/v2/HI35VM7J6NGD5MWL2A4YAH7MGM.jpg?auth=53d58bc9f0bdc80e51990ea81687dd7ac27a95b5f2945424ed0882f63a60984a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Identifican el cadáver de un hombre hallado en un pozo séptico: llevaba más de un año desaparecido en Yaracuy",
-      "link": "https://noticialdia.com/sucesos/identifican-el-cadaver-de-un-hombre-hallado-en-un-pozo-septico-llevaba-mas-de-un-ano-desaparecido-en-yaracuy/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-12T102308.727.webp?x74346"
+      "title": "Fundación Nacional de la Gaita “Gaiteros de Corazón” entregó más de 100 instrumentos en Carabobo",
+      "link": "https://noticialdia.com/al-dia/fundacion-nacional-de-la-gaita-gaiteros-de-corazon-entrego-mas-de-100-instrumentos-en-carabobo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261112_174225_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Sindicato Nacional de Trabajadores de la Prensa pidió ante la Asamblea Nacional la derogación total de la Ley contra el Odio",
-      "link": "https://noticiasvenevision.com/noticias/politica/sindicato-nacional-de-trabajadores-de-la-prensa-pidio-ante-la-asamblea-nacional-la-derogacion-total-de-la-ley-contra-el-odio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-12-at-7.36.33-am-00318e.jpg"
+      "title": "María Corina Machado se  reúne con  eurodiputados en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-se-reune-con-eurodiputados-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/043bf8e1-5194-460f-8cfa-98d349c5c4c6-67f43f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CITGO LOGRA UTILIDAD NETA DE $2.200 MILLONES EN EL TERCER TRIMESTRE DE 2026 ",
-      "link": "https://noticierodigital.com/2026/11/citgo-logra-utilidad-neta-de-2-200-millones-en-el-tercer-trimestre-de-2026/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/citgo-21oct-627x376.jpg"
+      "title": "EE. UU. REVELÓ EL DESTINO DE MÁS DE USD $ 12.000 MILLONES PROVENIENTES DE VENEZUELA",
+      "link": "https://noticierodigital.com/2026/11/ee-uu-revelo-el-destino-de-mas-de-usd-12-000-millones-provenientes-de-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2019/12/departamento-del-tesoro-de-eeuu-3dic2019.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Colombia pide a EE. UU. mediar ante Venezuela para buscar a subteniente secuestrada por el ELN",
-      "link": "https://laverdad.com/colombia-pide-a-ee-uu-mediar-ante-venezuela-para-buscar-a-subteniente-secuestrada-por-el-eln/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/subteniente-del-Ejercito-Maria-Camila-Pantoja.jpg"
+      "title": "Colombia expulsa a 71 venezolanos acusados de delitos en Bucaramanga",
+      "link": "https://laverdad.com/colombia-expulsa-a-71-venezolanos-acusados-de-delitos-en-bucaramanga/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Diseno-sin-titulo-51.png"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Reuters: ExxonMobil evalúa siete áreas petroleras en Venezuela tras acuerdo preliminar con Pdvsa",
-      "link": "https://diarioversionfinal.com/mundo/reuters-exxonmobil-evalua-siete-areas-petroleras-en-venezuela-tras-acuerdo-preliminar-con-pdvsa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/exxonmobil-750x430.jpeg"
+      "title": "Ataque con más de 15 drones deja tres militares muertos en zona fronteriza de Colombia",
+      "link": "https://diarioversionfinal.com/mundo/ataque-con-mas-de-15-drones-deja-tres-militares-muertos-en-zona-fronteriza-de-colombia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-12T165351.974.jpg"
     }
   ],
-  "lastUpdate": "2026-11-12T15:00:03.655Z"
+  "lastUpdate": "2026-11-12T21:48:27.757Z"
 }
