@@ -6,7 +6,7 @@
       "fechaValor": "Jueves, 12 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1072,00"
+      "usdt": "1077,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "CVG acuerda pago de un bono de utilidades por US$1.100 para trabajadores de las empresas básicas",
-      "link": "https://www.bancaynegocios.com/cvg-acuerda-pago-de-un-bono-de-utilidades-por-us1100-para-trabajadores-de-las-empresas-basicas/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/04/CVG.jpg"
+      "title": "Reactivan Operación Chárter: Llegan más de 300 turistas de Polonia a la Isla de Margarita",
+      "link": "https://www.bancaynegocios.com/reactivan-operacion-charter-llegan-mas-de-300-turistas-de-polonia-a-la-isla-de-margarita/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/turistas-e1794437900342.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Lula y Delcy Rodríguez acordaron avanzar en la reanudación de las relaciones entre Brasil y Venezuela",
-      "link": "https://www.infobae.com/america/america-latina/2026/11/11/lula-y-delcy-rodriguez-acordaron-avanzar-en-la-reanudacion-de-las-relaciones-entre-brasil-y-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/4A5XH2PRRNAOBOQQRLQMWOUTV4.jpg?auth=fc56fe933ce63f4e3bf2754f55e661f059092d28f3da68d456a5fbe3773afc90&smart=true&width=350&height=197&quality=85"
+      "title": "Vente Venezuela denunció que la Policía chavista restringió las visitas a su asesor jurídico Perkins Rocha",
+      "link": "https://www.infobae.com/venezuela/2026/11/11/vente-venezuela-denuncio-que-la-policia-chavista-restringio-las-visitas-a-su-asesor-juridico-perkins-rocha/",
+      "image": "https://www.infobae.com/resizer/v2/QUSTLYVDRNF43C5UNEA7QNJBOU.jpg?auth=feb99e82b4258b638001ad87a8e332ff3102fccdbc3ae2766fdfd29e5e46b0fe&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Luis Caldera inaugura el Museo Didáctico de Ciencia \"Humberto Fernández Morán\" en Maracaibo",
-      "link": "https://noticialdia.com/al-dia/gobernador-luis-caldera-inaugura-el-museo-didactico-de-ciencia-humberto-fernandez-moran-en-maracaibo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/PlantillaMIK-2026-11-11T175708.065.webp?x74346"
+      "title": "La Vinotinto femenina de futsal conquista la medalla de plata en los Juegos Olímpicos de la Juventud",
+      "link": "https://noticialdia.com/deportes/la-vinotinto-femenina-de-futsal-conquista-la-medalla-de-plata-en-los-juegos-olimpicos-de-la-juventud/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261112_010320_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Brasil y Venezuela evalúan fortalecer lazos diplomáticos e intercambio económico en energía y comercio",
-      "link": "https://noticiasvenevision.com/noticias/politica/brasil-y-venezuela-evaluan-fortalecer-lazos-diplomaticos-e-intercambio-economico-en-energia-y-comercio",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-11-at-4.26.56-pm-1-d531e3.jpeg"
+      "title": "Delegación opositora regresa a Venezuela para la cuarta ronda de negociaciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-opositora-regresa-a-venezuela-para-la-cuarta-ronda-de-negociaciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/alijitby-82922f.webp"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ANUNCIÓ REVISIÓN DE ACUERDOS COMERCIALES CON BRASIL TRAS REUNIRSE CON LULA",
-      "link": "https://noticierodigital.com/2026/11/delcy-rodriguez-anuncio-revision-de-acuerdos-comerciales-con-brasil-tras-reunirse-con-lula/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/delcy-rodriguez-venezuela-brasil-luiz-inacio-lula-da-silva-627x376.jpg"
+      "title": "ORLANDO AVENDAÑO REGRESÓ A VENEZUELA TRAS CASI NUEVE AÑOS DE EXILIO",
+      "link": "https://noticierodigital.com/2026/11/orlando-avendano-regreso-a-venezuela-tras-casi-nueve-anos-de-exilio/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/orlando-avendano-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/uv8rU15k-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-11T23:19:24.408Z"
+  "lastUpdate": "2026-11-12T05:58:17.895Z"
 }
