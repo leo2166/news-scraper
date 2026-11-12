@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 12 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1077,00"
+      "usdt": "1072,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Vente Venezuela denunció que la Policía chavista restringió las visitas a su asesor jurídico Perkins Rocha",
-      "link": "https://www.infobae.com/venezuela/2026/11/11/vente-venezuela-denuncio-que-la-policia-chavista-restringio-las-visitas-a-su-asesor-juridico-perkins-rocha/",
-      "image": "https://www.infobae.com/resizer/v2/QUSTLYVDRNF43C5UNEA7QNJBOU.jpg?auth=feb99e82b4258b638001ad87a8e332ff3102fccdbc3ae2766fdfd29e5e46b0fe&smart=true&width=350&height=197&quality=85"
+      "title": "La producción petrolera de Venezuela sigue el crecimiento: subió un 1,49% en octubre",
+      "link": "https://www.infobae.com/venezuela/2026/11/12/la-produccion-petrolera-de-venezuela-sigue-el-crecimiento-subio-un-149-en-octubre/",
+      "image": "https://www.infobae.com/resizer/v2/MCWJZYKKURHS7KE2DRV4LXWVGA.JPG?auth=51e74cb79fb9fced92dfbb9e5c25cc02b5c3e37078aa5f5981080d14df1bfb6e&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "La Vinotinto femenina de futsal conquista la medalla de plata en los Juegos Olímpicos de la Juventud",
-      "link": "https://noticialdia.com/deportes/la-vinotinto-femenina-de-futsal-conquista-la-medalla-de-plata-en-los-juegos-olimpicos-de-la-juventud/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261112_010320_0000.webp?x74346"
+      "title": "Identifican el cadáver de un hombre hallado en un pozo séptico: llevaba más de un año desaparecido en Yaracuy",
+      "link": "https://noticialdia.com/sucesos/identifican-el-cadaver-de-un-hombre-hallado-en-un-pozo-septico-llevaba-mas-de-un-ano-desaparecido-en-yaracuy/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-12T102308.727.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delegación opositora regresa a Venezuela para la cuarta ronda de negociaciones",
-      "link": "https://noticiasvenevision.com/noticias/politica/delegacion-opositora-regresa-a-venezuela-para-la-cuarta-ronda-de-negociaciones",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/alijitby-82922f.webp"
+      "title": "Sindicato Nacional de Trabajadores de la Prensa pidió ante la Asamblea Nacional la derogación total de la Ley contra el Odio",
+      "link": "https://noticiasvenevision.com/noticias/politica/sindicato-nacional-de-trabajadores-de-la-prensa-pidio-ante-la-asamblea-nacional-la-derogacion-total-de-la-ley-contra-el-odio",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-12-at-7.36.33-am-00318e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ORLANDO AVENDAÑO REGRESÓ A VENEZUELA TRAS CASI NUEVE AÑOS DE EXILIO",
-      "link": "https://noticierodigital.com/2026/11/orlando-avendano-regreso-a-venezuela-tras-casi-nueve-anos-de-exilio/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/orlando-avendano-venezuela-627x376.jpg"
+      "title": "CITGO LOGRA UTILIDAD NETA DE $2.200 MILLONES EN EL TERCER TRIMESTRE DE 2026 ",
+      "link": "https://noticierodigital.com/2026/11/citgo-logra-utilidad-neta-de-2-200-millones-en-el-tercer-trimestre-de-2026/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/citgo-21oct-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Ocho muertos deja nuevo bombardeo del gobierno colombiano contra el Clan del Golfo",
-      "link": "https://laverdad.com/ocho-muertos-deja-nuevo-bombardeo-del-gobierno-colombiano-contra-el-clan-del-golfo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Bombardeo-Colombia-Antioquia.jpg"
+      "title": "Colombia pide a EE. UU. mediar ante Venezuela para buscar a subteniente secuestrada por el ELN",
+      "link": "https://laverdad.com/colombia-pide-a-ee-uu-mediar-ante-venezuela-para-buscar-a-subteniente-secuestrada-por-el-eln/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/subteniente-del-Ejercito-Maria-Camila-Pantoja.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "León XIV inicia su histórica visita a Perú tras emotiva etapa en Argentina",
-      "link": "https://diarioversionfinal.com/mundo/leon-xiv-inicia-su-historica-visita-a-peru-tras-emotiva-etapa-en-argentina/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/uv8rU15k-image-750x430.jpg"
+      "title": "Reuters: ExxonMobil evalúa siete áreas petroleras en Venezuela tras acuerdo preliminar con Pdvsa",
+      "link": "https://diarioversionfinal.com/mundo/reuters-exxonmobil-evalua-siete-areas-petroleras-en-venezuela-tras-acuerdo-preliminar-con-pdvsa/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/05/exxonmobil-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-11-12T05:58:17.895Z"
+  "lastUpdate": "2026-11-12T15:00:03.655Z"
 };
