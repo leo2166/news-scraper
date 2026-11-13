@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 13 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1075,00"
+      "usdt": "1055,54"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado recibió en Caracas a dos eurodiputados españoles que respaldaron la transición en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/13/maria-corina-machado-recibio-en-caracas-a-dos-eurodiputados-espanoles-que-respaldaron-la-transicion-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/AU5PYRMS3FHKNKQEKFLD6ZDT24.png?auth=8c05d6da919cd54b4e6dd9bf1c6668b3e2f97a3f95ed5e0e60f96ec30a297d07&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela reportó ingresos de más de USD 15.000 millones en petróleo y minería desde la caída de Maduro",
+      "link": "https://www.infobae.com/venezuela/2026/11/13/venezuela-reporto-ingresos-de-mas-de-usd-15000-millones-en-petroleo-y-mineria-desde-la-caida-de-maduro/",
+      "image": "https://www.infobae.com/resizer/v2/LEVBXFSQJFANLLQWDIYBIF5N5Y.JPG?auth=05ee40a81b5cbbe8c7b33dc3d78651b169cc39086cb6ff515e684295b0b31c02&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Cancillería niega haber prohibido el acceso de eurodiputados a la residencia de Perkins Rocha",
-      "link": "https://noticialdia.com/principal/cancilleria-niega-haber-prohibido-el-acceso-de-eurodiputados-a-la-residencia-de-perkins-rocha/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261112_220655_0000.webp?x74346"
+      "title": "Gustavo Dudamel, Jorge Glem y la Orquesta Sinfónica Simón Bolívar ganan el Latin Grammy a Mejor Álbum de Música Clásica",
+      "link": "https://noticialdia.com/al-dia/gustavo-dudamel-jorge-glem-y-la-orquesta-sinfonica-simon-bolivar-ganan-el-latin-grammy-a-mejor-album-de-musica-clasica/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261113_055131_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Exvicepresidente boliviano García Linera obtiene asilo en México tras ser citado por la Fiscalía",
-      "link": "https://diarioversionfinal.com/mundo/exvicepresidente-boliviano-garcia-linera-obtiene-asilo-en-mexico-tras-ser-citado-por-la-fiscalia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/qo1rPnwW-image-750x430.jpg"
+      "title": "Microsoft enfrenta crisis global por fallas en sus servidores: Outlook y Teams están caídos",
+      "link": "https://diarioversionfinal.com/mundo/microsoft-enfrenta-crisis-global-por-fallas-en-sus-servidores-outlook-y-teams-estan-caidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/o5cW4vaU-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-13T02:26:00.950Z"
+  "lastUpdate": "2026-11-13T10:36:55.215Z"
 };
