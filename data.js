@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "911,62",
-      "eur": "1009,34",
-      "fechaValor": "Viernes, 13 Noviembre 2026"
+      "usd": "914,02",
+      "eur": "1010,56",
+      "fechaValor": "Lunes, 16 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1050,00"
+      "usdt": "1055,54"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan \"Ingreso Integral de los Trabajadores\" de noviembre a personal activo y \"Bono Especial de Fin de Año\" (+montos)",
-      "link": "https://www.bancaynegocios.com/pagan-ingreso-integral-de-los-trabajadores-de-noviembre-a-personal-activo-y-bono-especial-de-fin-de-ano-montos/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "Delcy Rodríguez: Cooperación con el BID abre nueva etapa de asistencia y apoyo al sector público y privado",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-cooperacion-con-el-bid-abre-nueva-etapa-de-asistencia-y-apoyo-al-sector-publico-y-privado/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/10/DELCY-RODRIGUEZ-PRESIDENTA-INTERINA.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Omar Veracierto: Estamos frente a una nueva etapa de privatización del sistema eléctrico nacional",
-      "link": "https://noticialdia.com/al-dia/omar-veracierto-estamos-frente-a-una-nueva-etapa-de-privatizacion-del-sistema-electrico-nacional/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/DISENO.webp?x74346"
+      "title": "Volcamiento de vehículo en la carretera N no dejó personas lesionadas",
+      "link": "https://noticialdia.com/sin-categoria/volcamiento-de-vehiculo-en-la-carretera-n-no-dejo-personas-lesionadas/",
+      "image": null
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado David Uzcátegui: El Sistema Patria es un mecanismo de control social engorroso que debemos eliminar",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-david-uzcategui-el-sistema-patria-es-un-mecanismo-de-control-social-engorroso-que-debemos-eliminar",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-13-at-9.20.22-am-73c2ed.jpeg"
+      "title": "Delegaciones de la Asamblea Nacional de 2015 y Gobierno encargado instalan cuarta ronda de diálogo en Caracas",
+      "link": "https://noticiasvenevision.com/noticias/politica/delegaciones-de-la-asamblea-nacional-de-2015-y-gobierno-encargado-instalan-cuarta-ronda-de-dialogo-en-caracas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5170163446769716637_y-cce7cb.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DETENIDO POR SOMETER A ADULTA MAYOR EN CARACAS: LE ROBÓ $700 Y EXTORSIONÓ A SU FAMILIA PARA NO MATARLA",
-      "link": "https://noticierodigital.com/2026/11/detenido-por-someter-a-adulta-mayor-en-caracas-le-robo-700-y-extorsiono-a-su-familia-para-no-matarla/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/06/cicpc-valencia-14jun2021-2.jpg"
+      "title": "«VAMOS PREPARADOS A DAR LA CARA POR EL PAÍS», AFIRMÓ DINORAH FIGUERA",
+      "link": "https://noticierodigital.com/2026/11/vamos-preparados-a-dar-la-cara-por-el-pais-afirmo-dinorah-figuera/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/07/Dinorah-Figuera-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Chiclayo recibe a lo grande a León XIV: “Bienvenido a casa”",
-      "link": "https://laverdad.com/chiclayo-recibe-a-lo-grande-a-leon-xiv-bienvenido-a-casa/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-XIV-Chiclayo.jpg"
+      "title": "Sismo de magnitud 5,9 sacude el sur de Perú: el sexto en menos de 20 horas",
+      "link": "https://laverdad.com/sismo-de-magnitud-59-sacude-el-sur-de-peru-el-sexto-en-menos-de-20-horas/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Sismo-Peru.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "León XIV vuelve a Chiclayo y desata fervor entre los fieles peruanos",
-      "link": "https://diarioversionfinal.com/mundo/leon-xiv-vuelve-a-chiclayo-y-desata-fervor-entre-los-fieles-peruanos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/8a6dd3834c8a1222ef005e2bc1a6821fe7c70d15w-1068x712-1-750x430.jpg"
+      "title": "FAA suspende vuelos en EE. UU. por fallas en control aéreo",
+      "link": "https://diarioversionfinal.com/mundo/faa-suspende-vuelos-en-ee-uu-por-fallas-en-control-aereo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/tdBKkPuR-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-13T18:25:14.637Z"
+  "lastUpdate": "2026-11-14T00:12:36.539Z"
 };
