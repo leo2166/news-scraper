@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Detenido un hombre que golpeó a su padre con un bate y lo amenazó de muerte en San Francisco",
-      "link": "https://noticialdia.com/sucesos/detenido-un-hombre-que-golpeo-a-su-padre-con-un-bate-y-lo-amenazo-de-muerte-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-14T103216.255.webp?x74346"
+      "title": "Capturan a tres presuntos integrantes del Tren de Aragua vinculados a un secuestro en Cúcuta",
+      "link": "https://noticialdia.com/?p=693890",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-14T153608.315.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Diputado AN 2015 Marco Aurelio Quiñones afirma que proceso de diálogo avanza bajo el esquema de tres fases planteado por EE. UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/diputado-an-2015-marco-aurelio-quinones-afirma-que-proceso-de-dialogo-avanza-bajo-el-esquema-de-tres-fases-planteado-por-ee-uu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_896659404_18648613147046124_4167094463127251210_n-80e868.jpg"
+      "title": "Otorgan medidas cautelares sustitutivas a la privación de libertad al ítalo-venezolano Daniel Enrique Echenagucia, detenido en El Rodeo I",
+      "link": "https://noticiasvenevision.com/noticias/politica/anuncian-medidas-cautelares-sustitutivas-de-prision-para-daniel-enrique-echenagucia",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/captura-2-3665a4.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "REPORTARON INGRESO DE LA CRUZ ROJA INTERNACIONAL A LA CÁRCEL EL RODEO I",
-      "link": "https://noticierodigital.com/2026/11/reportaron-ingreso-de-la-cruz-roja-internacional-a-la-carcel-el-rodeo-i/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Cruz-Roja-Internacional-El-Rodeo-I-627x376.jpg"
+      "title": "CENTROS COMERCIALES EXTENDERÁN SUS HORARIOS DURANTE LA TEMPORADA NAVIDEÑA",
+      "link": "https://noticierodigital.com/2026/11/centros-comerciales-extenderan-sus-horarios-durante-la-temporada-navidena/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/11/centros-comerciales-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "EE. UU. levanta suspensión de despegues tras cuatro horas de interrupción aérea",
-      "link": "https://laverdad.com/ee-uu-levanta-suspension-de-despegues-tras-cuatro-horas-de-interrupcion-aerea/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Despegues-EEUU-1.jpg"
+      "title": "Papa León XIV regresa a su antigua catedral en Chiclayo",
+      "link": "https://laverdad.com/papa-leon-xiv-regresa-a-su-antigua-catedral-en-chiclayo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/12f89d1eb6f177a157cd3ea2f396d3481e088713-scaled.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Crisis aérea en EE.UU. provoca cancelaciones de vuelos hacia España",
-      "link": "https://diarioversionfinal.com/mundo/crisis-aerea-en-ee-uu-provoca-cancelaciones-de-vuelos-hacia-espana/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/BfcaloXV-image-750x430.jpg"
+      "title": "Furor ilimitado por el Papa León XIV en Perú: \"¡Qué alegría volver!\"",
+      "link": "https://diarioversionfinal.com/mundo/furor-ilimitado-por-el-papa-leon-xiv-en-peru-que-alegria-volver/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/YMOwanZ1-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-14T14:48:00.618Z"
+  "lastUpdate": "2026-11-14T19:44:27.127Z"
 };
