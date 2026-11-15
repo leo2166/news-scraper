@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado llamó a movilizarse por los presos políticos y para que 2027 sea el año “definitivo” de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/15/maria-corina-machado-llamo-a-movilizarse-por-los-presos-politicos-y-para-que-2027-sea-el-ano-definitivo-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/EYOKJYQXXVEIXE77HLB5CR7KPM.JPG?auth=3ab973a95736a9c0f10d7e1a8e3276430c844b8288f600f041b15c570db6a18a&smart=true&width=350&height=197&quality=85"
+      "title": "Qatar y Venezuela estrechan vínculos con miras a nuevas inversiones y cooperación estratégica",
+      "link": "https://www.infobae.com/venezuela/2026/11/15/qatar-y-venezuela-estrechan-vinculos-con-miras-a-nuevas-inversiones-y-cooperacion-estrategica/",
+      "image": "https://www.infobae.com/resizer/v2/ZYEFTRWU6ZAABBUD3ENKWIK2QA.jpg?auth=8b1f4b3a53257c7c1e7e3978a44e9b26477d485c5e08cf2ca4dd088d7a4dfe71&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "San Francisco eligió a las reinas infantiles de la Feria del Lago 2026",
-      "link": "https://noticialdia.com/al-dia/san-francisco-eligio-a-las-reinas-infantiles-de-la-feria-del-lago-2026/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-5-8.webp?x74346"
+      "title": "Delcy Rodríguez arribó a Emiratos Árabes Unidos luego de visitar Turquía y Catar",
+      "link": "https://noticialdia.com/al-dia/delcy-rodriguez-arribo-a-emiratos-arabes-unidos-luego-de-visitar-turquia-y-catar/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-12-3.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Foro Penal confirma la excarcelación de Daniel Echenagucia bajo medidas cautelares",
-      "link": "https://noticiasvenevision.com/noticias/politica/foro-penal-confirma-la-excarcelacion-de-daniel-echenagucia-bajo-medidas-cautelares",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fp13e-5e3966.png"
+      "title": "Cancilleres del G7 respaldan mesa de diálogo en Venezuela",
+      "link": "https://noticiasvenevision.com/noticias/politica/cancilleres-del-g7-respaldan-mesa-de-dialogo-en-venezuela",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-15-at-3.57.32-pm-c38ddf.jpeg"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Detenido primer sospechoso del ataque a periodista panameño de La Prensa",
-      "link": "https://diarioversionfinal.com/mundo/detenido-primer-sospechoso-del-ataque-a-periodista-panameno-de-la-prensa/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/atentado-casa-rolando-rodriguez-750x375-1.png"
+      "title": "Asesinan al reportero Eduardo Flores en Acapulco",
+      "link": "https://diarioversionfinal.com/mundo/asesinan-al-reportero-eduardo-flores-en-acapulco/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Asesinan-al-reportero-Eduardo-Flores-en-Acapulco-678x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-11-15T19:34:10.337Z"
+  "lastUpdate": "2026-11-15T23:46:32.410Z"
 };
