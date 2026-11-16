@@ -1,9 +1,9 @@
 {
   "rates": {
     "bcv": {
-      "usd": "914,02",
-      "eur": "1010,56",
-      "fechaValor": "Lunes, 16 Noviembre 2026"
+      "usd": "915,75",
+      "eur": "1008,31",
+      "fechaValor": "Martes, 17 Noviembre 2026"
     },
     "binance": {
       "usdt": "1055,54"
@@ -15,9 +15,9 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez se reunió con el Emir de Catar para ampliar la cooperación económica y promover inversiones",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-se-reunio-con-el-emir-de-catar-para-ampliar-la-cooperacion-economica-y-promover-inversiones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/DelcyRodriguezCatarReunion.jpg"
+      "title": "Inician pago del \"Ingreso Integral de los Trabajadores\" de noviembre a jubilados y \"Bono Especial de Fin de Año\" (+Detalles)",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-ingreso-integral-de-los-trabajadores-de-noviembre-a-jubilados-y-bono-especial-de-fin-de-ano-detalles/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@
     },
     {
       "source": "Noticia al Día",
-      "title": "Mirra Andreeva conquistó las WTA Finals sin ceder sets al vencer a Elina Svitolina",
-      "link": "https://noticialdia.com/deportes/mirra-andreeva-conquisto-las-wta-finals-sin-ceder-sets-al-vencer-a-elina-svitolina/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261116_102943_0000.webp?x74346"
+      "title": "Un motorizado en el piso con mareos deja choque en 5 de Julio",
+      "link": "https://noticialdia.com/al-dia/un-motorizado-en-el-piso-con-mareos-deja-choque-en-5-de-julio/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-13.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez felicita a la selección de béisbol Sub-23 tras titularse campeona mundial",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-felicita-a-la-seleccion-de-beisbol-sub-23-tras-titularse-campeona-mundial",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/delcy-rodriguez-en-abu-dabi-126310-1eb552.jpg"
+      "title": "Venezuela y Emiratos Árabes Unidos revisan mapa de cooperación económica y estratégica durante reunión oficial",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-emiratos-arabes-unidos-revisan-mapa-de-cooperacion-economica-y-estrategica-durante-reunion-oficial",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/image-153-212-1024x683-1-6ec8c5.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "BANCAMIGA REAFIRMA SU COMPROMISO CON LA CIBERSEGURIDAD EN CONFERENCIA PARA CLIENTES",
-      "link": "https://noticierodigital.com/2026/11/bancamiga-reafirma-su-compromiso-con-la-ciberseguridad-en-conferencia-para-clientes/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/bancamiga__-627x376.jpg"
+      "title": "MILES DE CLIENTES REPORTARON DIFICULTADES PARA ACCEDER A SERVICIOS BANCARIOS EN LÍNEA EN EE. UU.",
+      "link": "https://noticierodigital.com/2026/11/miles-de-clientes-reportaron-dificultades-para-acceder-a-servicios-bancarios-en-linea-en-ee-uu/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/JPMorgan-Chase-sede-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Irán advierte a EE. UU. que no es Cuba para bloquearlo ni Venezuela para forzarlo a rendirse",
-      "link": "https://laverdad.com/iran-advierte-a-ee-uu-que-no-es-cuba-para-bloquearlo-ni-venezuela-para-forzarlo-a-rendirse/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/viceministro-irani-de-Exteriores-Kazem-Garibabadi.jpg"
+      "title": "Un millón y medio de personas asisten a la última misa de León XIV en su visita a Perú",
+      "link": "https://laverdad.com/un-millon-y-medio-de-personas-asisten-a-la-ultima-misa-de-leon-xiv-en-su-visita-a-peru/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-XIV-misa-Lima.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Gobierno de Trump investiga presunta ruta clandestina de chips Nvidia hacia China",
-      "link": "https://diarioversionfinal.com/mundo/gobierno-de-trump-investiga-presunta-ruta-clandestina-de-chips-nvidia-hacia-china/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-16T100433.890-678x430.jpg"
+      "title": "Un rosario golpeó el rostro de León XIV durante su despedida de Perú",
+      "link": "https://diarioversionfinal.com/mundo/un-rosario-golpeo-el-rostro-de-leon-xiv-durante-su-despedida-de-peru/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/9vUPCaJW-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-16T14:58:11.665Z"
+  "lastUpdate": "2026-11-16T23:40:56.825Z"
 }
