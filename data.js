@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "915,75",
-      "eur": "1008,31",
-      "fechaValor": "Martes, 17 Noviembre 2026"
+      "usd": "916,65",
+      "eur": "1007,39",
+      "fechaValor": "Miércoles, 18 Noviembre 2026"
     },
     "binance": {
       "usdt": "1055,54"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Nuevo roce entre Venezuela y Uruguay: canciller chavista califica de injerencista al presidente Orsi",
-      "link": "https://www.infobae.com/venezuela/2026/11/17/nuevo-roce-entre-venezuela-y-uruguay-canciller-chavista-califica-de-injerencista-al-presidente-orsi/",
-      "image": "https://www.infobae.com/resizer/v2/66OFL6ZGJRGHDLJ767RHXJJAIA.jpg?auth=7441cdd4537520f071e10994a42d4d2f5dd525b2d800dc7d9701497d8b025f8a&smart=true&width=350&height=197&quality=85"
+      "title": "La presión familiar y crisis económica atentan contra la vocación docente en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/11/17/la-presion-familiar-y-crisis-economica-atentan-contra-la-vocacion-docente-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/WFDSQAWQBBFEXPJZC3JD6KJLUM.jpg?auth=f6ce00a170c7d94911b3f764a8c3df17e3c14ae2b93c602e262b73487609e11a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Choque entre dos carros dejó dos lesionados en el sector Tierra Negra",
-      "link": "https://noticialdia.com/sucesos/choque-entre-dos-carros-dejo-dos-lesionados-en-el-sector-tierra-negra/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-17T122356.332.webp?x74346"
+      "title": "Avanza el Plan Cayapa de la Salud con la rehabilitación integral de dos centros asistenciales en San Francisco",
+      "link": "https://noticialdia.com/sin-categoria/avanza-el-plan-cayapa-de-la-salud-con-la-rehabilitacion-integral-de-dos-centros-asistenciales-en-san-francisco/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-30.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Henri Falcón desmiente aspiraciones presidenciales y pide priorizar un evento electoral",
-      "link": "https://noticiasvenevision.com/noticias/politica/henri-falcon-desmiente-aspiraciones-presidenciales-y-pide-priorizar-un-evento-electoral",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/henri-falcon-2-4ac53e.jpg"
+      "title": "Asamblea Nacional 2015 recibió  importantes observaciones de las reformas petroleras en Venezuela por parte de expertos",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-2015-recibio-importantes-observaciones-de-las-reformas-petroleras-en-venezuela-por-parte-de-expertos",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-17-at-12.15.09-pm-503159.jpeg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ DICE QUE LLEVAR LAS RIENDAS DEL PAÍS «ES UN TRABAJO MUY COMPLEJO»",
-      "link": "https://noticierodigital.com/2026/11/delcy-rodriguez-dice-que-llevar-las-riendas-del-pais-es-un-trabajo-muy-complejo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/delcy-rodriguez-venezuela-1-627x376.jpg"
+      "title": "MIGRACIÓN COLOMBIA EXPULSÓ A 22 VENEZOLANOS Y CUATRO TERMINARON DETENIDOS POR LA GNB",
+      "link": "https://noticierodigital.com/2026/11/migracion-colombia-expulso-a-22-venezolanos-y-cuatro-terminaron-detenidos-por-la-gnb/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/exportaciones-colombia-venezuela-frontera-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "León XIV asegura que está “bastante bien” y que no dejó ningún documento antes de operarse",
-      "link": "https://laverdad.com/leon-xiv-asegura-que-esta-bastante-bien-y-que-no-dejo-ningun-documento-antes-de-operarse/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-XIV-avion-papal.jpg"
+      "title": "Apple sufre una interrupción en algunos de sus servicios y problemas de acceso a iCloud",
+      "link": "https://laverdad.com/apple-sufre-una-interrupcion-en-algunos-de-sus-servicios-y-problemas-de-acceso-a-icloud/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/apple.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Comando Sur incauta más de cuatro toneladas de droga cerca de Falcón",
-      "link": "https://diarioversionfinal.com/mundo/comando-sur-incauta-mas-de-cuatro-toneladas-de-droga-cerca-de-falcon/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-17T123132.258-675x430.jpg"
+      "title": "Jueza Torres mantiene en secreto estrategia de defensa de Nicolás Maduro",
+      "link": "https://diarioversionfinal.com/mundo/jueza-torres-mantiene-en-secreto-estrategia-de-defensa-de-nicolas-maduro/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/8mAjag6E-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-17T16:43:00.863Z"
+  "lastUpdate": "2026-11-17T23:47:52.784Z"
 };
