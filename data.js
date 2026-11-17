@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela: intervienen casa de criptomonedas que vinculan con el hijo de Nicolás Maduro",
-      "link": "https://www.infobae.com/venezuela/2026/11/16/venezuela-intervienen-casa-de-criptomonedas-que-vinculan-con-el-hijo-de-nicolas-maduro/",
-      "image": "https://www.infobae.com/resizer/v2/IMFUZCF7OPEGTCE34ZB26VB4JA.jpg?auth=f01fa1eef9b81a06068a94907a559df3348186e8ed2d95af11320588339c7f6a&smart=true&width=350&height=197&quality=85"
+      "title": "Nuevo roce entre Venezuela y Uruguay: canciller chavista califica de injerencista al presidente Orsi",
+      "link": "https://www.infobae.com/venezuela/2026/11/17/nuevo-roce-entre-venezuela-y-uruguay-canciller-chavista-califica-de-injerencista-al-presidente-orsi/",
+      "image": "https://www.infobae.com/resizer/v2/66OFL6ZGJRGHDLJ767RHXJJAIA.jpg?auth=7441cdd4537520f071e10994a42d4d2f5dd525b2d800dc7d9701497d8b025f8a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Preso joven de 20 años por soltar un tiro en disputa de 250 dólares en la calle 84",
-      "link": "https://noticialdia.com/sucesos/preso-joven-de-20-anos-por-soltar-un-tiro-en-disputa-de-250-dolares-en-la-calle-84/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-22-1.webp?x74346"
+      "title": "Choque entre dos carros dejó dos lesionados en el sector Tierra Negra",
+      "link": "https://noticialdia.com/sucesos/choque-entre-dos-carros-dejo-dos-lesionados-en-el-sector-tierra-negra/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-17T122356.332.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Desiree Barboza: \"Libertad de presos políticos es una exigencia innegociable\"",
-      "link": "https://noticiasvenevision.com/noticias/politica/desiree-barboza-libertad-de-presos-politicos-es-una-exigencia-innegociable",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/desiree-barboza-1200x675-923184.webp"
+      "title": "Henri Falcón desmiente aspiraciones presidenciales y pide priorizar un evento electoral",
+      "link": "https://noticiasvenevision.com/noticias/politica/henri-falcon-desmiente-aspiraciones-presidenciales-y-pide-priorizar-un-evento-electoral",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/henri-falcon-2-4ac53e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EMPRESA DE TRINIDAD Y TOBAGO ASUMIRÁ RECUPERACIÓN DE 38 POZOS PETROLEROS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/11/empresa-de-trinidad-y-tobago-asumira-recuperacion-de-38-pozos-petroleros-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/produccion-de-petroleo-venezuela-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ DICE QUE LLEVAR LAS RIENDAS DEL PAÍS «ES UN TRABAJO MUY COMPLEJO»",
+      "link": "https://noticierodigital.com/2026/11/delcy-rodriguez-dice-que-llevar-las-riendas-del-pais-es-un-trabajo-muy-complejo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/delcy-rodriguez-venezuela-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Un millón y medio de personas asisten a la última misa de León XIV en su visita a Perú",
-      "link": "https://laverdad.com/un-millon-y-medio-de-personas-asisten-a-la-ultima-misa-de-leon-xiv-en-su-visita-a-peru/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-XIV-misa-Lima.jpg"
+      "title": "León XIV asegura que está “bastante bien” y que no dejó ningún documento antes de operarse",
+      "link": "https://laverdad.com/leon-xiv-asegura-que-esta-bastante-bien-y-que-no-dejo-ningun-documento-antes-de-operarse/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leon-XIV-avion-papal.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Un rosario golpeó el rostro de León XIV durante su despedida de Perú",
-      "link": "https://diarioversionfinal.com/mundo/un-rosario-golpeo-el-rostro-de-leon-xiv-durante-su-despedida-de-peru/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/9vUPCaJW-image-750x430.jpg"
+      "title": "Comando Sur incauta más de cuatro toneladas de droga cerca de Falcón",
+      "link": "https://diarioversionfinal.com/mundo/comando-sur-incauta-mas-de-cuatro-toneladas-de-droga-cerca-de-falcon/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-17T123132.258-675x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-17T06:50:12.355Z"
+  "lastUpdate": "2026-11-17T16:43:00.863Z"
 };
