@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "916,65",
-      "eur": "1007,39",
-      "fechaValor": "Miércoles, 18 Noviembre 2026"
+      "usd": "917,78",
+      "eur": "1007,40",
+      "fechaValor": "Jueves, 19 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1055,54"
+      "usdt": "1072,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Latam Pulse: 77% de la población evalúa negativamente la situación económica y 41% cree que va a mejorar",
-      "link": "https://www.bancaynegocios.com/latam-pulse-77porciento-de-la-poblacion-evalua-negativamente-la-situacion-economica-y-41porciento-cree-que-va-a-mejorar/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2021/02/EconomiaSancionesVenezuela.jpg"
+      "title": "Inician pago del bono \"Beca Universitaria\" y estipendio \"Somos Venezuela\" de noviembre (+Detalles)",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-beca-universitaria-y-estipendio-somos-venezuela-de-noviembre-detalles/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
     },
     {
       "source": "Infobae",
-      "title": "El Observatorio Venezolano de Prisiones pidió la atención de la ONU a la huelga de hambre de presos políticos militares",
-      "link": "https://www.infobae.com/venezuela/2026/11/18/el-observatorio-venezolano-de-prisiones-pidio-la-atencion-de-la-onu-a-la-huelga-de-hambre-de-presos-politicos-militares/",
-      "image": "https://www.infobae.com/resizer/v2/LHGRVNSRAZFCNO5455YL4F72X4.jpg?auth=0bb1232870c8a3a2814e1ce5ac61f490740aa8d7341bf17203103a624c99225b&smart=true&width=350&height=197&quality=85"
+      "title": "Militares retirados en protesta rompen el silencio: “Están prácticamente en la indigencia”",
+      "link": "https://www.infobae.com/venezuela/2026/11/18/militares-retirados-en-protesta-rompen-el-silencio-estan-practicamente-en-la-indigencia/",
+      "image": "https://www.infobae.com/resizer/v2/OV6XD3SLYVCBTLGJ5W4OHOKN2A.jpeg?auth=06f6ea2d32dd87e2b76aeeb3a22f673fa588c91246d12febc658e17af63cd2ce&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Reportan arribo del secretario de Defensa de EEUU, Pete Hegseth, a Caracas",
-      "link": "https://noticialdia.com/al-dia/reportan-arribo-del-secretario-de-defensa-de-eeuu-pete-hegseth-a-caracas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-24-4.webp?x74346"
+      "title": "¡Fiesta total en el Luis Aparicio \"El Grande\"! Águilas vence a Caribes y hace delirar a su fanaticada en el Juego de La Chinita",
+      "link": "https://noticialdia.com/principal/fiesta-total-en-el-luis-aparicio-el-grande-aguilas-vence-a-caribes-y-hace-delirar-a-su-fanaticada-en-el-juego-de-la-chinita/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-41-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta encargada Delcy Rodríguez regresa a Venezuela tras gira por Asia",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-encargada-delcy-rodriguez-regresa-a-venezuela-tras-gira-por-asia",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/tsize_600x400_whatsapp-image-2026-01-26-at-7.18.25-pm-422df9.jpeg"
+      "title": "Venezuela y Estados Unidos acuerdan reanudar la cooperación técnico-militar",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-y-estados-unidos-acuerdan-reanudar-la-cooperacion-tecnico-militar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/cf263a_6b646613b5eb462ba896aeb0c48bdce3mv2-bcb0e6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "JUAN BARRETO: «LA REINSTITUCIONALIZACIÓN NO SE RESUELVE CON ELECCIONES»",
-      "link": "https://noticierodigital.com/2026/11/juan-barreto-la-reinstitucionalizacion-no-se-resuelve-con-elecciones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/juanbarreto_-627x376.jpg"
+      "title": "PRESUNTO EJECUTOR DEL ATENTADO CONTRA PERIODISTA PANAMEÑO FUE DETENIDO",
+      "link": "https://noticierodigital.com/2026/11/presunto-ejecutor-del-atentado-contra-periodista-panameno-fue-detenido/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/atentado-periodista-panama-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Nervis Villalobos niega sobornos en contrato de Termocentro con Duro Felguera",
-      "link": "https://diarioversionfinal.com/mundo/nervis-villalobos-niega-sobornos-en-contrato-de-termocentro-con-duro-felguera/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Nervis-Villalobos-750x430.webp"
+      "title": "Presidente de Paraguay destituye al director de hidroeléctrica Itaipú en medio del escándalo bancario",
+      "link": "https://diarioversionfinal.com/mundo/presidente-de-paraguay-destituye-al-director-de-hidroelectrica-itaipu-en-medio-del-escandalo-bancario/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/QavLSZBO-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-18T16:13:48.692Z"
+  "lastUpdate": "2026-11-18T23:20:25.030Z"
 }
