@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inician pago del \"Ingreso Integral de los Trabajadores\" de noviembre a jubilados y \"Bono Especial de Fin de Año\" (+Detalles)",
-      "link": "https://www.bancaynegocios.com/inician-pago-del-ingreso-integral-de-los-trabajadores-de-noviembre-a-jubilados-y-bono-especial-de-fin-de-ano-detalles/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
+      "title": "AN aprobó en primera discusión Ley de Endeudamiento Complementario por 12,78 billones de bolívares",
+      "link": "https://www.bancaynegocios.com/an-aprobo-en-primera-discusion-ley-de-endeudamiento-complementario-por-1278-billones-de-bolivares/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/AsambleaNacional.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La presión familiar y crisis económica atentan contra la vocación docente en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/17/la-presion-familiar-y-crisis-economica-atentan-contra-la-vocacion-docente-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/WFDSQAWQBBFEXPJZC3JD6KJLUM.jpg?auth=f6ce00a170c7d94911b3f764a8c3df17e3c14ae2b93c602e262b73487609e11a&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición venezolana llevará al diálogo con el chavismo el reclamo de transparencia en los contratos petroleros",
+      "link": "https://www.infobae.com/venezuela/2026/11/17/la-oposicion-venezolana-llevara-al-dialogo-con-el-chavismo-el-reclamo-de-transparencia-en-los-contratos-petroleros/",
+      "image": "https://www.infobae.com/resizer/v2/GEWEFGMSQVFJVNWEL42WJH4HV4.JPG?auth=9c5d48e5d62e46c08671b3677de23a4e44f073aa65b9a506772291f864aa7c19&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Avanza el Plan Cayapa de la Salud con la rehabilitación integral de dos centros asistenciales en San Francisco",
-      "link": "https://noticialdia.com/sin-categoria/avanza-el-plan-cayapa-de-la-salud-con-la-rehabilitacion-integral-de-dos-centros-asistenciales-en-san-francisco/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-30.webp?x74346"
+      "title": "Asdrúbal Cabrera habla del buen momento de Caribes: \"La clave es la química y la entrega al 100% en el terreno\"",
+      "link": "https://noticialdia.com/al-dia/asdrubal-cabrera-habla-del-buen-momento-de-caribes-la-clave-es-la-quimica-y-la-entrega-al-100-en-el-terreno/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261118_015019_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea Nacional 2015 recibió  importantes observaciones de las reformas petroleras en Venezuela por parte de expertos",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-2015-recibio-importantes-observaciones-de-las-reformas-petroleras-en-venezuela-por-parte-de-expertos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/whatsapp-image-2026-11-17-at-12.15.09-pm-503159.jpeg"
+      "title": "Parlamento Nacional sanciona por unanimidad la Ley Aprobatoria del Tratado de Beijing sobre Interpretaciones y Ejecuciones Audiovisuales",
+      "link": "https://noticiasvenevision.com/noticias/politica/parlamento-nacional-sanciona-por-unanimidad-la-ley-aprobatoria-del-tratado-de-beijing-sobre-interpretaciones-y-ejecuciones-audiovisuales",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/an-sanciona-tratado-de-beijing-sobre-interpretaciones-y-ejecuciones-audiovisuales-20261117220845-9bdc20.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "MIGRACIÓN COLOMBIA EXPULSÓ A 22 VENEZOLANOS Y CUATRO TERMINARON DETENIDOS POR LA GNB",
-      "link": "https://noticierodigital.com/2026/11/migracion-colombia-expulso-a-22-venezolanos-y-cuatro-terminaron-detenidos-por-la-gnb/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2025/07/exportaciones-colombia-venezuela-frontera-627x376.jpg"
+      "title": "CONTROLARON INCENDIO EN EL COLEGIO SAN IGNACIO DE LOYOLA EN CARACAS SIN REPORTAR HERIDOS",
+      "link": "https://noticierodigital.com/2026/11/controlaron-incendio-en-el-colegio-san-ignacio-de-loyola-en-caracas-sin-reportar-heridos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/colegio-san-ignacio-loyola-chacao-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jueza Torres mantiene en secreto estrategia de defensa de Nicolás Maduro",
-      "link": "https://diarioversionfinal.com/mundo/jueza-torres-mantiene-en-secreto-estrategia-de-defensa-de-nicolas-maduro/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/8mAjag6E-image-750x430.jpg"
+      "title": "Caos aéreo en EE. UU.: Duffy niega ciberataques y exige modernización",
+      "link": "https://diarioversionfinal.com/mundo/caos-aereo-en-ee-uu-duffy-niega-ciberataques-y-exige-modernizacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/VzsZxWgd-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-17T23:47:52.784Z"
+  "lastUpdate": "2026-11-18T06:08:20.142Z"
 };
