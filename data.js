@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 19 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1075,00"
+      "usdt": "1076,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Inician pago del bono \"Beca Universitaria\" y estipendio \"Somos Venezuela\" de noviembre (+Detalles)",
-      "link": "https://www.bancaynegocios.com/inician-pago-del-bono-beca-universitaria-y-estipendio-somos-venezuela-de-noviembre-detalles/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/bolivares-dolares.webp"
+      "title": "#Dato: El 85% de la población apoya renegociar la deuda si eso permite volver a los mercados, según estudio",
+      "link": "https://www.bancaynegocios.com/dato-el-85-porciento-de-la-poblacion-apoya-renegociar-la-deuda-si-eso-permite-volver-a-los-mercados-segun-estudio/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2018/01/caracas-sabana-grande.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "¡Bombazo! Maikel García pasa a los Marineros de Seattle en un megacambio de seis jugadores",
-      "link": "https://noticialdia.com/al-dia/bombazo-maikel-garcia-pasa-a-los-marineros-de-seattle-en-un-megacambio-de-seis-jugadores/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261119_000859_0000.webp?x74346"
+      "title": "Alcaldía de San Francisco capacita a 900 niños para conformar brigadas escolares de prevención",
+      "link": "https://noticialdia.com/sin-categoria/alcaldia-de-san-francisco-capacita-a-900-ninos-para-conformar-brigadas-escolares-de-prevencion/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-54-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "PJ EXIGIÓ LIBERTAD INMEDIATA PARA TODOS LOS PRESOS POLÍTICOS CIVILES Y MILITARES",
-      "link": "https://noticierodigital.com/2026/11/pj-exigio-libertad-inmediata-para-todos-los-presos-politicos-civiles-y-militares/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/10/primero-justicia-16dic.jpg"
+      "title": "CAMBIARON SU APARIENCIA Y LA OBLIGABAN A VENDER EN PLAYAS: RESCATAN EN ECUADOR A NIÑA VENEZOLANA DE 6 AÑOS",
+      "link": "https://noticierodigital.com/2026/11/cambiaron-su-apariencia-y-la-obligaban-a-vender-en-playas-rescatan-en-ecuador-a-nina-venezolana-de-6-anos/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/rescateninavenezolana-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Apple sufre una interrupción en algunos de sus servicios y problemas de acceso a iCloud",
-      "link": "https://laverdad.com/apple-sufre-una-interrupcion-en-algunos-de-sus-servicios-y-problemas-de-acceso-a-icloud/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/apple.jpg"
+      "title": "Condenan a 20 años de cárcel a médica y militar dominicana por decapitar a su hija",
+      "link": "https://laverdad.com/condenan-a-20-anos-de-carcel-a-medica-y-militar-dominicana-por-decapitar-a-su-hija/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Josefa-Garcia-Cuello.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Miles de haitianos exigen la renuncia del primer ministro y apoyan a El Salvador",
-      "link": "https://diarioversionfinal.com/mundo/miles-de-haitianos-exigen-la-renuncia-del-primer-ministro-y-apoyan-a-el-salvador/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/mxJgQLGc-image-750x430.jpg"
+      "title": "Putin asegura que Rusia no tiene \"ningún deseo\" de continuar la guerra en Ucrania",
+      "link": "https://diarioversionfinal.com/mundo/putin-asegura-que-rusia-no-tiene-ningun-deseo-de-continuar-la-guerra-en-ucrania/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-19T120414.071.jpg"
     }
   ],
-  "lastUpdate": "2026-11-19T06:09:58.605Z"
+  "lastUpdate": "2026-11-19T16:20:17.054Z"
 };
