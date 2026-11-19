@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "917,78",
-      "eur": "1007,40",
-      "fechaValor": "Jueves, 19 Noviembre 2026"
+      "usd": "918,77",
+      "eur": "1009,07",
+      "fechaValor": "Viernes, 20 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1076,00"
+      "usdt": "1070,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Una petrolera prevé producir más de 250.000 barriles diarios al cierre del año",
-      "link": "https://www.infobae.com/venezuela/2026/11/18/una-petrolera-preve-producir-mas-de-250000-barriles-diarios-al-cierre-del-ano/",
-      "image": "https://www.infobae.com/resizer/v2/D6JHJ4HRG5DWFEWPM5RQ46RYRE.jpg?auth=8bd1e78097aa5e0f5432c8011d9cecaf830797ad5510f01b8e0400ebde350641&smart=true&width=350&height=197&quality=85"
+      "title": "El Parlamento recibió 1.343 postulaciones para renovar las principales instituciones judiciales de Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/11/19/el-parlamento-recibio-1343-postulaciones-para-renovar-las-principales-instituciones-judiciales-de-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/2OK7L7TFGZFVPECDJNMAFF43G4.jpg?auth=868c7a3d21a2ab5bc3ac07243dc391e0e6b770ca063007efc782ef0c4fcf2efd&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Alcaldía de San Francisco capacita a 900 niños para conformar brigadas escolares de prevención",
-      "link": "https://noticialdia.com/sin-categoria/alcaldia-de-san-francisco-capacita-a-900-ninos-para-conformar-brigadas-escolares-de-prevencion/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-54-1.webp?x74346"
+      "title": "Venezuela escala al podio mundial del beisbol tras un año histórico",
+      "link": "https://noticialdia.com/deportes/venezuela-escala-al-podio-mundial-del-beisbol-tras-un-ano-historico/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261119_180946_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Ministro de la Defensa afirma que cooperación con EE.UU. se hará con independencia y soberanía",
-      "link": "https://noticiasvenevision.com/noticias/politica/ministro-de-la-defensa-afirma-que-cooperacion-con-eeuu-se-hara-con-independencia-y-soberania",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_910828314_18401286109161129_8998951072178486722_n-4ce8eb.jpg"
+      "title": "Delcy Rodríguez encabezó reunión con el alto mando político militar y presentó balance de su gira internacional",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-encabezo-reunion-con-el-alto-mando-politico-militar-y-presento-balance-de-su-gira-internacional",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/noticias-59dd11.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CAMBIARON SU APARIENCIA Y LA OBLIGABAN A VENDER EN PLAYAS: RESCATAN EN ECUADOR A NIÑA VENEZOLANA DE 6 AÑOS",
-      "link": "https://noticierodigital.com/2026/11/cambiaron-su-apariencia-y-la-obligaban-a-vender-en-playas-rescatan-en-ecuador-a-nina-venezolana-de-6-anos/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/rescateninavenezolana-627x376.jpg"
+      "title": "DELCY RODRÍGUEZ ESPERA QUE INVERSIONES PETROLERAS SE TRADUZCAN EN MEJORES SALARIOS",
+      "link": "https://noticierodigital.com/2026/11/delcy-rodriguez-espera-que-inversiones-petroleras-se-traduzcan-en-mejores-salarios/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/delcy-rodriguez-venezuela-1-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Condenan a 20 años de cárcel a médica y militar dominicana por decapitar a su hija",
-      "link": "https://laverdad.com/condenan-a-20-anos-de-carcel-a-medica-y-militar-dominicana-por-decapitar-a-su-hija/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Josefa-Garcia-Cuello.jpg"
+      "title": "Un tribunal aprueba petición de Trump para mantener en suspenso el TPS para venezolanos",
+      "link": "https://laverdad.com/un-tribunal-aprueba-peticion-de-trump-para-mantener-en-suspenso-el-tps-para-venezolanos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/07/venezolanos-en-EE.-UU.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Putin asegura que Rusia no tiene \"ningún deseo\" de continuar la guerra en Ucrania",
-      "link": "https://diarioversionfinal.com/mundo/putin-asegura-que-rusia-no-tiene-ningun-deseo-de-continuar-la-guerra-en-ucrania/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-19T120414.071.jpg"
+      "title": "Relatora de la ONU denuncia restricciones contra las ONG en Venezuela",
+      "link": "https://diarioversionfinal.com/mundo/relatora-de-la-onu-denuncia-restricciones-contra-las-ong-en-venezuela/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-19T164922.772-637x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-19T16:20:17.054Z"
+  "lastUpdate": "2026-11-19T23:24:53.624Z"
 };
