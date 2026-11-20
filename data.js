@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Viernes, 20 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1066,43"
+      "usdt": "1064,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: IVSS pagará este #20Nov el primer mes de aguinaldos para pensionados",
-      "link": "https://www.bancaynegocios.com/dato-ivss-pagara-este-20nov-el-primer-mes-de-aguinaldos-para-pensionados/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/JUBILADOS.jpg"
+      "title": "Buques están esperando a que les den entrada al puerto de La Guaira para descargar mercancía",
+      "link": "https://www.bancaynegocios.com/buques-estan-esperando-a-que-les-den-entrada-al-puerto-de-la-guaira-para-descargar-mercancia/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/PuertoDeLaGuairaMaquinasContenedores.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Águilas doblega a Tiburones gracias a estacazo decisivo de Chaparro y logra su segunda victoria al hilo",
-      "link": "https://noticialdia.com/al-dia/aguilas-doblega-a-tiburones-gracias-a-estacazo-decisivo-de-chaparro-y-logra-su-segunda-victoria-al-hilo/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261120_011732_0000.webp?x74346"
+      "title": "Imtcuma instaló punto de revisión y atención en el casco central para regularizar unidades y frenar cobros excesivos",
+      "link": "https://noticialdia.com/al-dia/imtcuma-instalo-punto-de-revision-y-atencion-en-el-casco-central-para-regularizar-unidades-y-frenar-cobros-excesivos/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-72-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -45,22 +45,22 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticiero Digital",
-      "title": "SNTP DENUNCIÓ AMENAZAS DE MUERTE CONTRA DOS PERIODISTAS DURANTE PROTESTAS EN BOLÍVAR",
-      "link": "https://noticierodigital.com/2026/11/sntp-denuncio-amenazas-de-muerte-contra-dos-periodistas-durante-protestas-en-bolivar/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/sntp-protestas-bolivar-627x376.jpg"
+      "title": "ECONOMISTAS DE LA UCAB PREVÉN CRECIMIENTO ECONÓMICO DE DOS DÍGITOS EN 2027",
+      "link": "https://noticierodigital.com/2026/11/economistas-de-la-ucab-preven-crecimiento-economico-de-dos-digitos-en-2027/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Diseno-sin-titulo-3-8-627x376.png"
     },
     {
       "source": "La Verdad",
-      "title": "Un tribunal aprueba petición de Trump para mantener en suspenso el TPS para venezolanos",
-      "link": "https://laverdad.com/un-tribunal-aprueba-peticion-de-trump-para-mantener-en-suspenso-el-tps-para-venezolanos/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/07/venezolanos-en-EE.-UU.jpg"
+      "title": "Bukele inscribe su candidatura por un tercer mandato consecutivo",
+      "link": "https://laverdad.com/bukele-inscribe-su-candidatura-por-un-tercer-mandato-consecutivo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Nayib-Bukele.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Feijóo arrolla a Sánchez en el primer debate electoral",
-      "link": "https://diarioversionfinal.com/mundo/feijoo-arrolla-a-sanchez-en-el-primer-debate-electoral/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/NpcJBkkT-image-750x430.jpg"
+      "title": "Perú construirá dos megacárceles con apoyo de Estados Unidos",
+      "link": "https://diarioversionfinal.com/mundo/peru-construira-dos-megacarceles-con-apoyo-de-estados-unidos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/magic-2026-11-19T214751.128-1200x675-1-750x430.webp"
     }
   ],
-  "lastUpdate": "2026-11-20T05:56:27.133Z"
+  "lastUpdate": "2026-11-20T15:01:58.622Z"
 };
