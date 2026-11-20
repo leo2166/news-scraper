@@ -6,7 +6,7 @@
       "fechaValor": "Viernes, 20 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1070,00"
+      "usdt": "1066,43"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "#Dato: El 85% de la población apoya renegociar la deuda si eso permite volver a los mercados, según estudio",
-      "link": "https://www.bancaynegocios.com/dato-el-85-porciento-de-la-poblacion-apoya-renegociar-la-deuda-si-eso-permite-volver-a-los-mercados-segun-estudio/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2018/01/caracas-sabana-grande.jpg"
+      "title": "#Dato: IVSS pagará este #20Nov el primer mes de aguinaldos para pensionados",
+      "link": "https://www.bancaynegocios.com/dato-ivss-pagara-este-20nov-el-primer-mes-de-aguinaldos-para-pensionados/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/10/JUBILADOS.jpg"
     },
     {
       "source": "Infobae",
-      "title": "El Parlamento recibió 1.343 postulaciones para renovar las principales instituciones judiciales de Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/19/el-parlamento-recibio-1343-postulaciones-para-renovar-las-principales-instituciones-judiciales-de-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/2OK7L7TFGZFVPECDJNMAFF43G4.jpg?auth=868c7a3d21a2ab5bc3ac07243dc391e0e6b770ca063007efc782ef0c4fcf2efd&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela firmó 84 acuerdos en materia de petróleo y gas tras la reforma de la legislación de hidrocarburos",
+      "link": "https://www.infobae.com/venezuela/2026/11/20/venezuela-firmo-84-acuerdos-en-materia-de-petroleo-y-gas-tras-la-reforma-de-la-legislacion-de-hidrocarburos/",
+      "image": "https://www.infobae.com/resizer/v2/I3IXQCCWPVHFXI5BAX7KCJJRCE.jpg?auth=0135b8a7954e8b965f855fc486f3f347c4bcc1c55afa0dde50512a91e89b6119&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela escala al podio mundial del beisbol tras un año histórico",
-      "link": "https://noticialdia.com/deportes/venezuela-escala-al-podio-mundial-del-beisbol-tras-un-ano-historico/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261119_180946_0000.webp?x74346"
+      "title": "Águilas doblega a Tiburones gracias a estacazo decisivo de Chaparro y logra su segunda victoria al hilo",
+      "link": "https://noticialdia.com/al-dia/aguilas-doblega-a-tiburones-gracias-a-estacazo-decisivo-de-chaparro-y-logra-su-segunda-victoria-al-hilo/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261120_011732_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez encabezó reunión con el alto mando político militar y presentó balance de su gira internacional",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-encabezo-reunion-con-el-alto-mando-politico-militar-y-presento-balance-de-su-gira-internacional",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/noticias-59dd11.png"
+      "title": "ONG Laboratorio de Paz advierte sobre opacidad en acuerdo de cooperación militar entre Venezuela y EE.UU.",
+      "link": "https://noticiasvenevision.com/noticias/politica/ong-laboratorio-de-paz-advierte-sobre-opacidad-en-acuerdo-de-cooperacion-militar-entre-venezuela-y-eeuu",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/okok-9730eb.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DELCY RODRÍGUEZ ESPERA QUE INVERSIONES PETROLERAS SE TRADUZCAN EN MEJORES SALARIOS",
-      "link": "https://noticierodigital.com/2026/11/delcy-rodriguez-espera-que-inversiones-petroleras-se-traduzcan-en-mejores-salarios/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/delcy-rodriguez-venezuela-1-627x376.jpg"
+      "title": "SNTP DENUNCIÓ AMENAZAS DE MUERTE CONTRA DOS PERIODISTAS DURANTE PROTESTAS EN BOLÍVAR",
+      "link": "https://noticierodigital.com/2026/11/sntp-denuncio-amenazas-de-muerte-contra-dos-periodistas-durante-protestas-en-bolivar/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/sntp-protestas-bolivar-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Relatora de la ONU denuncia restricciones contra las ONG en Venezuela",
-      "link": "https://diarioversionfinal.com/mundo/relatora-de-la-onu-denuncia-restricciones-contra-las-ong-en-venezuela/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-19T164922.772-637x430.jpg"
+      "title": "Feijóo arrolla a Sánchez en el primer debate electoral",
+      "link": "https://diarioversionfinal.com/mundo/feijoo-arrolla-a-sanchez-en-el-primer-debate-electoral/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/NpcJBkkT-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-19T23:24:53.624Z"
+  "lastUpdate": "2026-11-20T05:56:27.133Z"
 }
