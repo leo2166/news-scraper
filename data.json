@@ -1,12 +1,12 @@
 {
   "rates": {
     "bcv": {
-      "usd": "918,77",
-      "eur": "1009,07",
-      "fechaValor": "Viernes, 20 Noviembre 2026"
+      "usd": "919,82",
+      "eur": "1011,18",
+      "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1064,00"
+      "usdt": "1076,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Buques están esperando a que les den entrada al puerto de La Guaira para descargar mercancía",
-      "link": "https://www.bancaynegocios.com/buques-estan-esperando-a-que-les-den-entrada-al-puerto-de-la-guaira-para-descargar-mercancia/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/07/PuertoDeLaGuairaMaquinasContenedores.jpg"
+      "title": "Inician pago del \"Ingreso Integral\" de noviembre a pensionados (+Monto)",
+      "link": "https://www.bancaynegocios.com/inician-pago-del-ingreso-integral-de-noviembre-a-pensionados-monto/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela firmó 84 acuerdos en materia de petróleo y gas tras la reforma de la legislación de hidrocarburos",
-      "link": "https://www.infobae.com/venezuela/2026/11/20/venezuela-firmo-84-acuerdos-en-materia-de-petroleo-y-gas-tras-la-reforma-de-la-legislacion-de-hidrocarburos/",
-      "image": "https://www.infobae.com/resizer/v2/I3IXQCCWPVHFXI5BAX7KCJJRCE.jpg?auth=0135b8a7954e8b965f855fc486f3f347c4bcc1c55afa0dde50512a91e89b6119&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela: encuesta muestra que 54% de estudiantes universitarios pensaron en dejar su carrera",
+      "link": "https://www.infobae.com/venezuela/2026/11/20/venezuela-encuesta-muestra-que-54-de-estudiantes-universitarios-pensaron-en-dejar-su-carrera/",
+      "image": "https://www.infobae.com/resizer/v2/H3ZHUOO5B5CEVEWNT7JYKYSHFY.jpg?auth=158e78590b42d508bcd56fba61f275070711c0f44935c2fcf111bdd7b9ddde8a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Imtcuma instaló punto de revisión y atención en el casco central para regularizar unidades y frenar cobros excesivos",
-      "link": "https://noticialdia.com/al-dia/imtcuma-instalo-punto-de-revision-y-atencion-en-el-casco-central-para-regularizar-unidades-y-frenar-cobros-excesivos/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-72-1.webp?x74346"
+      "title": "Venezuela se estrena en el Mundial Sub-17 de Catar ante Camerún",
+      "link": "https://noticialdia.com/deportes/venezuela-se-estrena-en-el-mundial-sub-17-de-catar-ante-camerun/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261120_174657_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "ONG Laboratorio de Paz advierte sobre opacidad en acuerdo de cooperación militar entre Venezuela y EE.UU.",
-      "link": "https://noticiasvenevision.com/noticias/politica/ong-laboratorio-de-paz-advierte-sobre-opacidad-en-acuerdo-de-cooperacion-militar-entre-venezuela-y-eeuu",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/okok-9730eb.png"
+      "title": "Comité de Postulaciones Judiciales publica la lista de aspirantes al TSJ y abre período de impugnaciones hasta el 5 de diciembre",
+      "link": "https://noticiasvenevision.com/noticias/politica/comite-de-postulaciones-judiciales-publica-la-lista-de-aspirantes-al-tsj-y-abre-periodo-de-impugnaciones-hasta-el-5-de-diciembre",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_republica_bolivariana_de_venezuela-696x522-1-ca9038.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "ECONOMISTAS DE LA UCAB PREVÉN CRECIMIENTO ECONÓMICO DE DOS DÍGITOS EN 2027",
-      "link": "https://noticierodigital.com/2026/11/economistas-de-la-ucab-preven-crecimiento-economico-de-dos-digitos-en-2027/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Diseno-sin-titulo-3-8-627x376.png"
+      "title": "TRUMP AFIRMÓ QUE WASHINGTON DESPLAZÓ LA INFLUENCIA CHINA Y RUSA EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/11/trump-afirmo-que-washington-desplazo-la-influencia-china-y-rusa-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Donald-Trump-EEUU-2-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Bukele inscribe su candidatura por un tercer mandato consecutivo",
-      "link": "https://laverdad.com/bukele-inscribe-su-candidatura-por-un-tercer-mandato-consecutivo/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Nayib-Bukele.jpg"
+      "title": "Nuevo ataque en Cúcuta deja 3 muertos y 2 heridos",
+      "link": "https://laverdad.com/nuevo-ataque-en-cucuta-deja-3-muertos-y-2-heridos/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Ataque-Cucuta.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Perú construirá dos megacárceles con apoyo de Estados Unidos",
-      "link": "https://diarioversionfinal.com/mundo/peru-construira-dos-megacarceles-con-apoyo-de-estados-unidos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/magic-2026-11-19T214751.128-1200x675-1-750x430.webp"
+      "title": "Empresa canadiense proyecta instalar 15 taladros petroleros en Venezuela en dos años",
+      "link": "https://diarioversionfinal.com/mundo/empresa-canadiense-proyecta-instalar-15-taladros-petroleros-en-venezuela-en-dos-anos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-20T170052.612.jpg"
     }
   ],
-  "lastUpdate": "2026-11-20T15:01:58.622Z"
+  "lastUpdate": "2026-11-20T22:30:06.361Z"
 }
