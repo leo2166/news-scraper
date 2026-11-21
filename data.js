@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1081,00"
+      "usdt": "1080,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,9 +21,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela: encuesta muestra que 54% de estudiantes universitarios pensaron en dejar su carrera",
-      "link": "https://www.infobae.com/venezuela/2026/11/20/venezuela-encuesta-muestra-que-54-de-estudiantes-universitarios-pensaron-en-dejar-su-carrera/",
-      "image": "https://www.infobae.com/resizer/v2/H3ZHUOO5B5CEVEWNT7JYKYSHFY.jpg?auth=158e78590b42d508bcd56fba61f275070711c0f44935c2fcf111bdd7b9ddde8a&smart=true&width=350&height=197&quality=85"
+      "title": "Familiares pidieron atención médica urgente para más de 30 militares presos en Venezuela tras 11 días en huelga de hambre",
+      "link": "https://www.infobae.com/venezuela/2026/11/21/mas-de-30-militares-presos-en-venezuela-pidieron-atencion-medica-urgente-tras-11-dias-en-huelga-de-hambre/",
+      "image": "https://www.infobae.com/resizer/v2/4FRAKIE2DBA5BCYYGCC2OABK3M.jpg?auth=07f86958afd71d27102ca005564d0c80e45e8623bbfd37ee9c3c3b909f04ef84&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Investigan si caídas en sistemas cibernéticos podrían ser ataques a EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/investigan-si-caidas-en-sistemas-ciberneticos-podrian-ser-ataques-a-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/02/Ciberataque-800x445-1-750x430.jpg"
+      "title": "Ataques rusos con drones dejan dos muertos en central térmica de Ucrania",
+      "link": "https://diarioversionfinal.com/mundo/ataques-rusos-con-drones-dejan-dos-muertos-en-central-termica-de-ucrania/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/1yjTtY8V-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-21T03:46:40.247Z"
+  "lastUpdate": "2026-11-21T12:09:58.405Z"
 };
