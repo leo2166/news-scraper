@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1076,00"
+      "usdt": "1081,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela se estrena en el Mundial Sub-17 de Catar ante Camerún",
-      "link": "https://noticialdia.com/deportes/venezuela-se-estrena-en-el-mundial-sub-17-de-catar-ante-camerun/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261120_174657_0000.webp?x74346"
+      "title": "Ernesto Jerez rememora en Venezuela su histórica narración en el título del Clásico Mundial",
+      "link": "https://noticialdia.com/al-dia/ernesto-jerez-rememora-en-venezuela-su-historica-narracion-en-el-titulo-del-clasico-mundial/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261120_224431_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Comité de Postulaciones Judiciales publica la lista de aspirantes al TSJ y abre período de impugnaciones hasta el 5 de diciembre",
-      "link": "https://noticiasvenevision.com/noticias/politica/comite-de-postulaciones-judiciales-publica-la-lista-de-aspirantes-al-tsj-y-abre-periodo-de-impugnaciones-hasta-el-5-de-diciembre",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/asamblea_nacional_de_la_republica_bolivariana_de_venezuela-696x522-1-ca9038.jpg"
+      "title": "Embajada de EE.UU. en Venezuela y Secretario de Guerra Pete Hegseth: “Al pueblo de Venezuela - nuestra guerra ha terminado”",
+      "link": "https://noticiasvenevision.com/noticias/politica/embajada-de-eeuu-en-venezuela-y-secretario-de-guerra-pete-hegseth-al-pueblo-de-venezuela-nuestra-guerra-ha-terminado",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/34c7a693-7329-4fe0-95b5-4e71819f4d7e-1024x576-25d697.png"
     },
     {
       "source": "Noticiero Digital",
-      "title": "TRUMP AFIRMÓ QUE WASHINGTON DESPLAZÓ LA INFLUENCIA CHINA Y RUSA EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/11/trump-afirmo-que-washington-desplazo-la-influencia-china-y-rusa-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Donald-Trump-EEUU-2-627x376.jpg"
+      "title": "PDVSA BUSCA INCORPORAR EMPRESAS VENEZOLANAS A SUS CONTRATACIONES PETROLERAS DE 2027",
+      "link": "https://noticierodigital.com/2026/11/pdvsa-busca-incorporar-empresas-venezolanas-a-sus-contrataciones-petroleras-de-2027/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/pdvsa-venezuela-hector-obregon-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Empresa canadiense proyecta instalar 15 taladros petroleros en Venezuela en dos años",
-      "link": "https://diarioversionfinal.com/mundo/empresa-canadiense-proyecta-instalar-15-taladros-petroleros-en-venezuela-en-dos-anos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-20T170052.612.jpg"
+      "title": "Investigan si caídas en sistemas cibernéticos podrían ser ataques a EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/investigan-si-caidas-en-sistemas-ciberneticos-podrian-ser-ataques-a-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/02/Ciberataque-800x445-1-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-20T22:30:06.361Z"
+  "lastUpdate": "2026-11-21T03:46:40.247Z"
 };
