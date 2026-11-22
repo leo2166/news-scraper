@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1087,00"
+      "usdt": "1090,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Real Madrid remonta al Celta con gol de Espí e iguala provisionalmente al Barcelona en la cima de LaLiga",
-      "link": "https://noticialdia.com/al-dia/real-madrid-remonta-al-celta-con-gol-de-espi-e-iguala-provisionalmente-al-barcelona-en-la-cima-de-laliga/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261121_185542_0000.webp?x74346"
+      "title": "Boca Juniors vence a Atlético Mineiro y conquista la Copa Sudamericana",
+      "link": "https://noticialdia.com/deportes/boca-juniors-vence-a-atletico-mineiro-y-conquista-la-copa-sudamericana/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261121_214126_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez: “Sabemos qué puertas hay que abrir para destrancar a Venezuela , sabemos qué pasos hay que dar para destrancar a Venezuela”",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-sabemos-que-puertas-hay-que-abrir-para-destrancar-a-venezuela-sabemos-que-pasos-hay-que-dar-para-destrancar-a-venezuela",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4904946639261339133_x-cc2ff3.jpg"
+      "title": "Venezuela expresa su solidaridad con Perú tras el sismo registrado en Junín",
+      "link": "https://noticiasvenevision.com/noticias/politica/venezuela-expresa-su-solidaridad-con-peru-tras-el-sismo-registrado-en-junin",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/productodestacado260720093621-c4e3d7.jpg"
     },
     {
       "source": "Noticiero Digital",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/FSAyZeEI-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-22T00:10:18.718Z"
+  "lastUpdate": "2026-11-22T07:47:43.119Z"
 };
