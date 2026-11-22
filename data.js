@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Pagan \"Bono de Corresponsabilidad y Formación\" de noviembre a docentes: Aumentó 3,37% en bolívares",
-      "link": "https://www.bancaynegocios.com/pagan-bono-de-corresponsabilidad-y-formacion-de-noviembre-a-docentes-aumento-3punto37-porciento-en-bolivares/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-5.44.35-PM-1-e1785966653382.jpeg"
+      "title": "VenAmCham: Empresarios proyectan crecimiento de hasta 10% del PIB en Venezuela pese a presiones inflacionarias",
+      "link": "https://www.bancaynegocios.com/venamcham-empresarios-proyectan-crecimiento-de-hasta-10-porciento-del-pib-en-venezuela-pese-a-presiones-inflacionarias/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/PIB-VENEZUELA-e1783121744545.jpg"
     },
     {
       "source": "Infobae",
-      "title": "Guyana rechazó negociar con Venezuela sobre la disputada región del Esequibo",
-      "link": "https://www.infobae.com/venezuela/2026/11/21/guyana-rechazo-negociar-con-venezuela-sobre-la-disputada-region-del-esequibo/",
-      "image": "https://www.infobae.com/resizer/v2/5BHJGBEOERFPFNQ24FRACV7QYY.jpg?auth=612516ed7f579e33e3d6f1c1e37b82367b32b91a48d03e1a53502fd1dbda8819&smart=true&width=350&height=197&quality=85"
+      "title": "La oposición venezolana volvió a exigir la liberación de todos los presos políticos en medio del diálogo con el chavismo",
+      "link": "https://www.infobae.com/venezuela/2026/11/22/la-oposicion-venezolana-volvio-a-exigir-la-liberacion-de-todos-los-presos-politicos-en-medio-del-dialogo-con-el-chavismo/",
+      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Tres heridos deja aparatoso choque y vuelco en la calle 66 con avenida 19",
-      "link": "https://noticialdia.com/sucesos/tres-heridos-deja-aparatoso-choque-y-vuelco-en-la-calle-66-con-avenida-19/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-22T110054.154.webp?x74346"
+      "title": "¡Visita de lujo en Maracaibo! El Sistema y Gaiteros de Corazón unen fuerzas para impulsar la música y el talento juvenil en la región",
+      "link": "https://noticialdia.com/sin-categoria/visita-de-lujo-en-maracaibo-el-sistema-y-gaiteros-de-corazon-unen-fuerzas-para-impulsar-la-musica-y-el-talento-juvenil-en-la-region/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-22T172103.875.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez anunció tarjeta ‘Aula Plus’ para otorgar descuentos en comercios a estudiantes universitarios",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-anuncio-tarjeta-aula-plus-para-otorgar-descuentos-en-comercios-a-estudiantes-universitarios",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img6526jpeg-72463-b291ac.jpeg"
+      "title": "Más de 130.000 españoles residentes en Venezuela pueden votar para las elecciones generales en España",
+      "link": "https://noticiasvenevision.com/noticias/politica/mas-de-130000-espanoles-residentes-en-venezuela-pueden-votar-para-las-elecciones-generales-en-espana",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-1-154565.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "«NO HUBO NINGUNA RESPUESTA SOBRE AGUINALDOS, SEGUIREMOS EN LA CALLE», SENTENCIÓ PABLO ZAMBRANO",
-      "link": "https://noticierodigital.com/2026/11/no-hubo-ninguna-respuesta-sobre-aguinaldos-seguiremos-en-la-calle-sentencio-pablo-zambrano/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/10/PabloZambrano-627x376.jpeg"
+      "title": "HÉCTOR OBREGÓN: PDVSA BUSCA SUMAR AL EMPRESARIADO NACIONAL A PROCESOS DE PROCURA DE 2027",
+      "link": "https://noticierodigital.com/2026/11/hector-obregon-pdvsa-busca-sumar-al-empresariado-nacional-a-procesos-de-procura-de-2027/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Diseno-sin-titulo-1-6-627x376.png"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Video: redada del ICE en pleno aeropuerto de Seattle desata rechazo viral en redes contra Trump",
-      "link": "https://diarioversionfinal.com/xvf-portada/vf-home/video-redada-del-ice-en-pleno-aeropuerto-de-seattle-desata-rechazo-viral-en-redes-contra-trump/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/m3ZZPBOq-image-750x430.jpg"
+      "title": "Capturan a tres miembros del ELN en operación contra el narcoterrorismo",
+      "link": "https://diarioversionfinal.com/mundo/capturan-a-tres-miembros-del-eln-en-operacion-contra-el-narcoterrorismo/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/cEeedzqE-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-22T15:57:43.996Z"
+  "lastUpdate": "2026-11-22T21:38:56.754Z"
 };
