@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1090,00"
+      "usdt": "1089,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "¡Visita de lujo en Maracaibo! El Sistema y Gaiteros de Corazón unen fuerzas para impulsar la música y el talento juvenil en la región",
-      "link": "https://noticialdia.com/sin-categoria/visita-de-lujo-en-maracaibo-el-sistema-y-gaiteros-de-corazon-unen-fuerzas-para-impulsar-la-musica-y-el-talento-juvenil-en-la-region/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/v-efe-2026-11-22T172103.875.webp?x74346"
+      "title": "¡Se rompió la matrix! Keanu Reeves sorprendió como chofer de los integrantes del podio en el GP de Las Vegas",
+      "link": "https://noticialdia.com/al-dia/se-rompio-la-matrix-keanu-reeves-sorprendio-como-chofer-de-los-integrantes-del-podio-en-el-gp-de-las-vegas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261122_185426_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,9 +39,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Más de 130.000 españoles residentes en Venezuela pueden votar para las elecciones generales en España",
-      "link": "https://noticiasvenevision.com/noticias/politica/mas-de-130000-espanoles-residentes-en-venezuela-pueden-votar-para-las-elecciones-generales-en-espana",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-1-154565.jpg"
+      "title": "Presidenta (E) Delcy Rodríguez anuncia la construcción de un centro de alto rendimiento para el béisbol",
+      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-la-construccion-de-un-centro-de-alto-rendimiento-para-el-beisbol",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3248-ce0f3c.JPG"
     },
     {
       "source": "Noticiero Digital",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Capturan a tres miembros del ELN en operación contra el narcoterrorismo",
-      "link": "https://diarioversionfinal.com/mundo/capturan-a-tres-miembros-del-eln-en-operacion-contra-el-narcoterrorismo/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/cEeedzqE-image-750x430.jpg"
+      "title": "Jay Clayton defiende a Trump por sus elogios a Putin",
+      "link": "https://diarioversionfinal.com/mundo/jay-clayton-defiende-a-trump-por-sus-elogios-a-putin/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/DKP9eTYu-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-22T21:38:56.754Z"
+  "lastUpdate": "2026-11-23T02:18:01.906Z"
 };
