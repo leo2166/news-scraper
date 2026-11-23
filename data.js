@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1089,00"
+      "usdt": "1082,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "¡Se rompió la matrix! Keanu Reeves sorprendió como chofer de los integrantes del podio en el GP de Las Vegas",
-      "link": "https://noticialdia.com/al-dia/se-rompio-la-matrix-keanu-reeves-sorprendio-como-chofer-de-los-integrantes-del-podio-en-el-gp-de-las-vegas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261122_185426_0000.webp?x74346"
+      "title": "Miles de venezolanos celebraron en caravana con los campeones del Clásico Mundial de Béisbol",
+      "link": "https://noticialdia.com/deportes/miles-de-venezolanos-celebraron-en-caravana-con-los-campeones-del-clasico-mundial-de-beisbol/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/20261123_015031_0000-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Presidenta (E) Delcy Rodríguez anuncia la construcción de un centro de alto rendimiento para el béisbol",
-      "link": "https://noticiasvenevision.com/noticias/politica/presidenta-e-delcy-rodriguez-anuncia-la-construccion-de-un-centro-de-alto-rendimiento-para-el-beisbol",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/img_3248-ce0f3c.JPG"
+      "title": "Delcy Rodríguez sostuvo encuentro con Rob Manfred, comisionado de la MLB",
+      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-sostuvo-encuentro-con-rob-manfred-comisionado-de-la-mlb",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_924601909_18073922459786236_2741265096637666235_n-452534.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "HÉCTOR OBREGÓN: PDVSA BUSCA SUMAR AL EMPRESARIADO NACIONAL A PROCESOS DE PROCURA DE 2027",
-      "link": "https://noticierodigital.com/2026/11/hector-obregon-pdvsa-busca-sumar-al-empresariado-nacional-a-procesos-de-procura-de-2027/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/Diseno-sin-titulo-1-6-627x376.png"
+      "title": "GOBIERNO DE COLOMBIA PIDE A X SUSPENDER CUENTA DEL EXPRESIDENTE PETRO",
+      "link": "https://noticierodigital.com/2026/11/gobierno-de-colombia-pide-a-x-suspender-cuenta-del-expresidente-petro/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-colombia-4-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/DKP9eTYu-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-23T02:18:01.906Z"
+  "lastUpdate": "2026-11-23T11:52:56.400Z"
 };
