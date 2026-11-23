@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1082,00"
+      "usdt": "1100,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "VenAmCham: Empresarios proyectan crecimiento de hasta 10% del PIB en Venezuela pese a presiones inflacionarias",
-      "link": "https://www.bancaynegocios.com/venamcham-empresarios-proyectan-crecimiento-de-hasta-10-porciento-del-pib-en-venezuela-pese-a-presiones-inflacionarias/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/03/PIB-VENEZUELA-e1783121744545.jpg"
+      "title": "Fesoca advierte que en estos meses habrá sobreproducción de azúcar y solicita detener importaciones",
+      "link": "https://www.bancaynegocios.com/fesoca-advierte-que-en-estos-meses-habra-sobreproduccion-de-azucar-y-solicita-detener-importaciones/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/cana-de-azucar.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La oposición venezolana volvió a exigir la liberación de todos los presos políticos en medio del diálogo con el chavismo",
-      "link": "https://www.infobae.com/venezuela/2026/11/22/la-oposicion-venezolana-volvio-a-exigir-la-liberacion-de-todos-los-presos-politicos-en-medio-del-dialogo-con-el-chavismo/",
-      "image": "https://www.infobae.com/resizer/v2/UPSLXR5XTVCKJCSFJL4XWVYE6E.jpg?auth=dc3487032fe2ed5594accc5463dd649945cbf2899269b9ab1352dded8cf5a947&smart=true&width=350&height=197&quality=85"
+      "title": "Chavismo y oposición revisan ley que inhabilitó a María Corina Machado y otros opositores",
+      "link": "https://www.infobae.com/venezuela/2026/11/23/chavismo-y-oposicion-revisan-ley-que-inhabilito-a-maria-corina-machado/",
+      "image": "https://www.infobae.com/resizer/v2/A7V7K7HITNDZTEY2X5CTJAQJY4.JPG?auth=7277fd9da42f68a314cda0c70f58c9c9c703209d63376ea01a5eff5a42c04d3c&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Miles de venezolanos celebraron en caravana con los campeones del Clásico Mundial de Béisbol",
-      "link": "https://noticialdia.com/deportes/miles-de-venezolanos-celebraron-en-caravana-con-los-campeones-del-clasico-mundial-de-beisbol/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/20261123_015031_0000-1.webp?x74346"
+      "title": "Gobernador Caldera: Avanza el proceso de construcción de las redes de transmisión para las barcazas eléctricas",
+      "link": "https://noticialdia.com/zulia/gobernador-caldera-avanza-el-proceso-de-construccion-de-las-redes-de-transmision-para-las-barcazas-electricas/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/20261123_184803_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Delcy Rodríguez sostuvo encuentro con Rob Manfred, comisionado de la MLB",
-      "link": "https://noticiasvenevision.com/noticias/politica/delcy-rodriguez-sostuvo-encuentro-con-rob-manfred-comisionado-de-la-mlb",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/saveclip.app_924601909_18073922459786236_2741265096637666235_n-452534.jpg"
+      "title": "Un Nuevo Tiempo ratifica respaldo a la hoja de ruta para renovar el TSJ y el CNE",
+      "link": "https://noticiasvenevision.com/noticias/politica/un-nuevo-tiempo-ratifica-respaldo-a-la-hoja-de-ruta-para-renovar-el-tsj-y-el-cne",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-1-6140e2.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "GOBIERNO DE COLOMBIA PIDE A X SUSPENDER CUENTA DEL EXPRESIDENTE PETRO",
-      "link": "https://noticierodigital.com/2026/11/gobierno-de-colombia-pide-a-x-suspender-cuenta-del-expresidente-petro/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/02/gustavo-petro-colombia-4-627x376.jpg"
+      "title": "VENEZUELA PLANTEÓ A BRASIL PRODUCIR VACUNAS Y SUEROS CONTRA VENENOS DE SERPIENTES Y ESCORPIONES",
+      "link": "https://noticierodigital.com/2026/11/venezuela-planteo-a-brasil-producir-vacunas-y-sueros-contra-venenos-de-serpientes-y-escorpiones/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/venezuela-brasil-yvan-gil-Instituto-Butantan-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Papa León XVI pide a los gobernantes de países en guerra comprometerse con la paz",
-      "link": "https://laverdad.com/papa-leon-xvi-pide-a-los-gobernantes-de-paises-en-guerra-comprometerse-con-la-paz/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/7408f3d28257dc65075bee4b64b2d6789f5d1b26-scaled.jpg"
+      "title": "Nvidia restituye a Jensen Huang como presidente y director ejecutivo",
+      "link": "https://laverdad.com/nvidia-restituye-a-jensen-huang-como-presidente-y-director-ejecutivo/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Nvidia-Jensen-Huang.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Jay Clayton defiende a Trump por sus elogios a Putin",
-      "link": "https://diarioversionfinal.com/mundo/jay-clayton-defiende-a-trump-por-sus-elogios-a-putin/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/DKP9eTYu-image-750x430.jpg"
+      "title": "Votación exterior en Venezuela para elecciones españolas inicia con baja participación",
+      "link": "https://diarioversionfinal.com/mundo/votacion-exterior-en-venezuela-para-elecciones-espanolas-inicia-con-baja-participacion/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/U4CCxXt4-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-23T11:52:56.400Z"
+  "lastUpdate": "2026-11-23T23:27:01.327Z"
 };
