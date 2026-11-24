@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Martes, 24 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1100,00"
+      "usdt": "1105,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Fesoca advierte que en estos meses habrá sobreproducción de azúcar y solicita detener importaciones",
-      "link": "https://www.bancaynegocios.com/fesoca-advierte-que-en-estos-meses-habra-sobreproduccion-de-azucar-y-solicita-detener-importaciones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/01/cana-de-azucar.jpg"
+      "title": "Delcy Rodríguez anuncia la eliminación del IVA para la producción de libros en Venezuela",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-anuncia-la-eliminacion-del-iva-para-la-produccion-de-libros-en-venezuela/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-7.58.06-PM.jpeg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Gobernador Caldera: Avanza el proceso de construcción de las redes de transmisión para las barcazas eléctricas",
-      "link": "https://noticialdia.com/zulia/gobernador-caldera-avanza-el-proceso-de-construccion-de-las-redes-de-transmision-para-las-barcazas-electricas/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/20261123_184803_0000.webp?x74346"
+      "title": "Alcaldía de Maracaibo acudió a inspeccionar y mediar en conflicto vecinal por construcción iniciada en el 2012",
+      "link": "https://noticialdia.com/zulia/alcaldia-de-maracaibo-acudio-a-inspeccionar-y-mediar-en-conflicto-vecinal-por-construccion-iniciada-en-el-2012/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/8695d3c6-d70d-49be-a06c-42439571bd0f.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Un Nuevo Tiempo ratifica respaldo a la hoja de ruta para renovar el TSJ y el CNE",
-      "link": "https://noticiasvenevision.com/noticias/politica/un-nuevo-tiempo-ratifica-respaldo-a-la-hoja-de-ruta-para-renovar-el-tsj-y-el-cne",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/images-1-6140e2.jpg"
+      "title": "Culmina cuarto ciclo de diálogo entre el Gobierno Nacional y la AN 2015 con acuerdos en materia política, territorial y de telecomunicaciones",
+      "link": "https://noticiasvenevision.com/noticias/politica/culmina-cuarto-ciclo-de-dialogo-entre-el-gobierno-nacional-y-la-an-2015-con-acuerdos-en-materia-politica-territorial-y-de-telecomunicaciones",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5777043773098496096_w-0bfbb6.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "VENEZUELA PLANTEÓ A BRASIL PRODUCIR VACUNAS Y SUEROS CONTRA VENENOS DE SERPIENTES Y ESCORPIONES",
-      "link": "https://noticierodigital.com/2026/11/venezuela-planteo-a-brasil-producir-vacunas-y-sueros-contra-venenos-de-serpientes-y-escorpiones/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/venezuela-brasil-yvan-gil-Instituto-Butantan-627x376.jpg"
+      "title": "SUNDDE INICIÓ FISCALIZACIONES NAVIDEÑAS PARA SUPERVISAR PRECIOS Y TASA DEL BCV",
+      "link": "https://noticierodigital.com/2026/11/sundde-inicio-fiscalizaciones-navidenas-para-supervisar-precios-y-tasa-del-bcv/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/sundde-fiscalizacion-comercios-venezuela-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -62,5 +62,5 @@ window.DASHBOARD_DATA = {
       "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/U4CCxXt4-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-23T23:27:01.327Z"
+  "lastUpdate": "2026-11-24T08:40:52.293Z"
 };
