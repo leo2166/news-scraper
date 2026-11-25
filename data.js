@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "919,82",
-      "eur": "1011,18",
-      "fechaValor": "Martes, 24 Noviembre 2026"
+      "usd": "922,56",
+      "eur": "1012,22",
+      "fechaValor": "Miércoles, 25 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1109,00"
+      "usdt": "1102,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Venezuela reconoce deuda externa de US$ 237.500 millones",
-      "link": "https://www.bancaynegocios.com/venezuela-reconoce-deuda-externa-de-us-237500-millones/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/02/DolaresIngresosSalarios.jpg"
+      "title": "Cortes de electricidad continuos incrementan hasta 20% costos operativos en empresas de Aragua",
+      "link": "https://www.bancaynegocios.com/cortes-de-electricidad-continuos-incrementan-hasta-20-porciento-costos-operativos-en-empresas-de-aragua/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/12/industria_lara.jpg"
     },
     {
       "source": "Infobae",
-      "title": "El canciller de Venezuela realizará su primera visita a Brasil la próxima semana",
-      "link": "https://www.infobae.com/venezuela/2026/11/24/el-canciller-de-venezuela-realizara-su-primera-visita-a-brasil-la-proxima-semana/",
-      "image": "https://www.infobae.com/resizer/v2/7KGVDJKU4BGI5BFYPB6F35D3YY.jpg?auth=15663ee9f6826f905e1328a8fbeae1435d47869c77a42f1fdb80932ca4f342da&smart=true&width=350&height=197&quality=85"
+      "title": "Venezuela reconoce una deuda pública de 237.544 millones de dólares, el 242% de su PIB",
+      "link": "https://www.infobae.com/venezuela/2026/11/24/venezuela-reconoce-una-deuda-publica-de-237544-millones-de-dolares-el-242-de-su-pib/",
+      "image": "https://www.infobae.com/resizer/v2/OOJLHMYQDNHDHKBXS4GB6CJGCQ.JPG?auth=3247074c28009f708a7f7c1d4c8b7562f8726c2520a3554d375e241eaa9ab936&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Miguel Ángel Gil Marín renuncia a la vicepresidencia de LaLiga tras seis años en el cargo",
-      "link": "https://noticialdia.com/?p=697956",
-      "image": null
+      "title": "EE. UU. celebra diálogo venezolano e insta a avanzar hacia \"elecciones creíbles\"",
+      "link": "https://noticialdia.com/al-dia/ee-uu-celebra-dialogo-venezolano-e-insta-a-avanzar-hacia-elecciones-creibles/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261124_230300_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Juan Pablo Guanipa exhorta a la oposición a no firmar acuerdos de diálogo que excluyan al CNE",
-      "link": "https://noticiasvenevision.com/noticias/politica/juan-pablo-guanipa-exhorta-a-la-oposicion-a-no-firmar-acuerdos-de-dialogo-que-excluyan-al-cne",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/juan-pablo-guanipa-2-f8020d.jpg"
+      "title": "Asamblea nacional de 2015 Resalta la importancia de los acuerdos de la cuarta ronda de diálogo",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-de-2015-resalta-la-importancia-de-los-acuerdos-de-la-cuarta-ronda-de-dialogo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ab5937454bd8409fdefc26a3ae3cec18b836d1a7w-98c762.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "DIDALCO BOLÍVAR ADVIRTIÓ SOBRE DEBATES INTERNOS EN SECTOR MILITAR POR FIRMA DE CONVENIO Y EL PAPEL DE EE .UU.",
-      "link": "https://noticierodigital.com/2026/11/didalco-bolivar-advirtio-sobre-debates-internos-en-sector-militar-por-firma-de-convenio-y-el-papel-de-ee-uu/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/didalcobolivar-627x376.jpeg"
+      "title": "CITIGROUP ESTUDIA RESTABLECER OPERACIONES BANCARIAS EN VENEZUELA",
+      "link": "https://noticierodigital.com/2026/11/citigroup-estudia-restablecer-operaciones-bancarias-en-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/citibank-12jul2021.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Trump ordenará pedir la pena de muerte para asesinos de niños y violadores homicidas",
-      "link": "https://diarioversionfinal.com/mundo/trump-ordenara-pedir-la-pena-de-muerte-para-asesinos-de-ninos-y-violadores-homicidas/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/10/fwdB8og8-image.jpg"
+      "title": "Irán castiga a la cantante Parastoo Ahmadi con 74 latigazos",
+      "link": "https://diarioversionfinal.com/mundo/iran-castiga-a-la-cantante-parastoo-ahmadi-con-74-latigazos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Parastoo-Ahmadi-24-11-2026.webp"
     }
   ],
-  "lastUpdate": "2026-11-24T19:58:01.116Z"
+  "lastUpdate": "2026-11-25T03:27:57.618Z"
 };
