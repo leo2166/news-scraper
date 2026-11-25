@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Miércoles, 25 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1102,00"
+      "usdt": "1103,50"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cortes de electricidad continuos incrementan hasta 20% costos operativos en empresas de Aragua",
-      "link": "https://www.bancaynegocios.com/cortes-de-electricidad-continuos-incrementan-hasta-20-porciento-costos-operativos-en-empresas-de-aragua/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2024/12/industria_lara.jpg"
+      "title": "Rescate de deuda venezolana será superior a la que el FMI y el BM hicieron con Grecia o Argentina",
+      "link": "https://www.bancaynegocios.com/rescate-de-deuda-venezolana-sera-superior-a-la-que-el-fmi-y-el-bm-hicieron-con-grecia-o-argentina/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/03/JOSE-MANUEL-PUENTE-ECONOMISTA-IESA.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Venezuela reconoce una deuda pública de 237.544 millones de dólares, el 242% de su PIB",
-      "link": "https://www.infobae.com/venezuela/2026/11/24/venezuela-reconoce-una-deuda-publica-de-237544-millones-de-dolares-el-242-de-su-pib/",
-      "image": "https://www.infobae.com/resizer/v2/OOJLHMYQDNHDHKBXS4GB6CJGCQ.JPG?auth=3247074c28009f708a7f7c1d4c8b7562f8726c2520a3554d375e241eaa9ab936&smart=true&width=350&height=197&quality=85"
+      "title": "Dinorah Figuera, negociadora de la transición con el chavismo: “Hay una posibilidad real de que en 2027 en Venezuela haya elecciones”",
+      "link": "https://www.infobae.com/venezuela/2026/11/25/dinorah-figuera-hay-una-posibilidad-real-de-que-en-2027-en-venezuela-haya-elecciones/",
+      "image": "https://www.infobae.com/resizer/v2/QTQAXN3VDZDZ5K5CUM3C5ONXLY.JPG?auth=9ffca0edc1716af341b481debecb968bdfc1c63e78e8133891bf23e7af52ba3a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "EE. UU. celebra diálogo venezolano e insta a avanzar hacia \"elecciones creíbles\"",
-      "link": "https://noticialdia.com/al-dia/ee-uu-celebra-dialogo-venezolano-e-insta-a-avanzar-hacia-elecciones-creibles/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261124_230300_0000.webp?x74346"
+      "title": "Tenedor de Oro para Bancamiga y Mastercard por mejor publicación gastronómica",
+      "link": "https://noticialdia.com/al-dia/tenedor-de-oro-para-bancamiga-y-mastercard-por-mejor-publicacion-gastronomica/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-1-14.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Asamblea nacional de 2015 Resalta la importancia de los acuerdos de la cuarta ronda de diálogo",
-      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-de-2015-resalta-la-importancia-de-los-acuerdos-de-la-cuarta-ronda-de-dialogo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/ab5937454bd8409fdefc26a3ae3cec18b836d1a7w-98c762.jpg"
+      "title": "Colegio Nacional de Periodistas exige revisar concesiones radioeléctricas",
+      "link": "https://noticiasvenevision.com/noticias/politica/colegio-nacional-de-periodistas-exige-revisar-concesiones-radioelectricas",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5831170415546535346_w-615135.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CITIGROUP ESTUDIA RESTABLECER OPERACIONES BANCARIAS EN VENEZUELA",
-      "link": "https://noticierodigital.com/2026/11/citigroup-estudia-restablecer-operaciones-bancarias-en-venezuela/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2021/07/citibank-12jul2021.jpg"
+      "title": "AVAVIT EXHORTA A PRESTADORES DE SERVICIO «A PREPARARSE» ANTE LA LLEGADA DE TURISTAS",
+      "link": "https://noticierodigital.com/2026/11/avavit-exhorta-a-prestadores-de-servicio-a-prepararse-ante-la-llegada-de-turistas/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/playas-la-guaira-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Arrestan en Utah a venezolano vinculado a amenazas de asesinato contra Trump",
-      "link": "https://laverdad.com/arrestan-en-utah-a-venezolano-vinculado-a-amenazas-de-asesinato-contra-trump/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Diseno-sin-titulo-64.png"
+      "title": "Rescatan a todos los rehenes secuestrados durante más de 16 horas en un supermercado Éxito de Cartagena",
+      "link": "https://laverdad.com/rescatan-a-todos-los-rehenes-secuestrados-durante-mas-de-16-horas-en-un-supermercado-exito-de-cartagena/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Rescate-rehenes-Cartagena.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Irán castiga a la cantante Parastoo Ahmadi con 74 latigazos",
-      "link": "https://diarioversionfinal.com/mundo/iran-castiga-a-la-cantante-parastoo-ahmadi-con-74-latigazos/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Parastoo-Ahmadi-24-11-2026.webp"
+      "title": "Fuerzas especiales liberan a los rehenes de un supermercado en Cartagena: un asaltante habría muerto",
+      "link": "https://diarioversionfinal.com/mundo/fuerzas-especiales-liberan-a-los-rehenes-de-un-supermercado-en-cartagena-un-asaltante-habria-muerto/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/UEKHZFQHQRFULDMLVSJ2574ZYA-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-25T03:27:57.618Z"
+  "lastUpdate": "2026-11-25T13:55:53.814Z"
 };
