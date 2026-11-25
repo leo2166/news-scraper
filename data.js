@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "922,56",
-      "eur": "1012,22",
-      "fechaValor": "Miércoles, 25 Noviembre 2026"
+      "usd": "924,35",
+      "eur": "1011,73",
+      "fechaValor": "Jueves, 26 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1103,50"
+      "usdt": "1105,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Rescate de deuda venezolana será superior a la que el FMI y el BM hicieron con Grecia o Argentina",
-      "link": "https://www.bancaynegocios.com/rescate-de-deuda-venezolana-sera-superior-a-la-que-el-fmi-y-el-bm-hicieron-con-grecia-o-argentina/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/03/JOSE-MANUEL-PUENTE-ECONOMISTA-IESA.jpeg"
+      "title": "Delcy Rodríguez: Recuperar el ingreso de los trabajadores requiere responsabilidad para no caer en hiperinflación",
+      "link": "https://www.bancaynegocios.com/delcy-rodriguez-recuperar-el-ingreso-de-los-trabajadores-requiere-responsabilidad-para-no-caer-en-hiperinflacion/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-25-at-5.59.57-PM.jpeg"
     },
     {
       "source": "Infobae",
-      "title": "Dinorah Figuera, negociadora de la transición con el chavismo: “Hay una posibilidad real de que en 2027 en Venezuela haya elecciones”",
-      "link": "https://www.infobae.com/venezuela/2026/11/25/dinorah-figuera-hay-una-posibilidad-real-de-que-en-2027-en-venezuela-haya-elecciones/",
-      "image": "https://www.infobae.com/resizer/v2/QTQAXN3VDZDZ5K5CUM3C5ONXLY.JPG?auth=9ffca0edc1716af341b481debecb968bdfc1c63e78e8133891bf23e7af52ba3a&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado presenta su plan de gobierno para una transición en Venezuela: prometió “justicia sin venganza”",
+      "link": "https://www.infobae.com/venezuela/2026/11/25/maria-corina-machado-presenta-su-plan-de-gobierno-para-una-transicion-en-venezuela-prometio-justicia-sin-venganza/",
+      "image": "https://www.infobae.com/resizer/v2/36LUUHHM6FCKXKGD6F2SV3ESZY.JPG?auth=44fabdb0f59afdc2016748487df58b03d8860c53b1852d628ef382d23efa0279&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Tenedor de Oro para Bancamiga y Mastercard por mejor publicación gastronómica",
-      "link": "https://noticialdia.com/al-dia/tenedor-de-oro-para-bancamiga-y-mastercard-por-mejor-publicacion-gastronomica/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-1-14.webp?x74346"
+      "title": "Bayern Múnich acuerda confidencialidad y respaldo médico total para Jamal Musiala",
+      "link": "https://noticialdia.com/deportes/bayern-munich-acuerda-confidencialidad-y-respaldo-medico-total-para-jamal-musiala/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/20261125_184653_0000.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Colegio Nacional de Periodistas exige revisar concesiones radioeléctricas",
-      "link": "https://noticiasvenevision.com/noticias/politica/colegio-nacional-de-periodistas-exige-revisar-concesiones-radioelectricas",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5831170415546535346_w-615135.jpg"
+      "title": "CIDH insta al Estado venezolano a garantizar independencia y transparencia en la renovación del TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/cidh-insta-al-estado-venezolano-a-garantizar-independencia-y-transparencia-en-la-renovacion-del-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo_cidh-2-e1777513965905-aee82f.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AVAVIT EXHORTA A PRESTADORES DE SERVICIO «A PREPARARSE» ANTE LA LLEGADA DE TURISTAS",
-      "link": "https://noticierodigital.com/2026/11/avavit-exhorta-a-prestadores-de-servicio-a-prepararse-ante-la-llegada-de-turistas/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/09/playas-la-guaira-627x376.jpg"
+      "title": "FEDECÁMARAS PIDIÓ SEGURIDAD JURÍDICA Y REGLAS CLARAS PARA ATRAER INVERSIONES A VENEZUELA",
+      "link": "https://noticierodigital.com/2026/11/fedecamaras-pidio-seguridad-juridica-y-reglas-claras-para-atraer-inversiones-a-venezuela/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/01/felipe-capozzolo-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "Rescatan a todos los rehenes secuestrados durante más de 16 horas en un supermercado Éxito de Cartagena",
-      "link": "https://laverdad.com/rescatan-a-todos-los-rehenes-secuestrados-durante-mas-de-16-horas-en-un-supermercado-exito-de-cartagena/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Rescate-rehenes-Cartagena.jpg"
+      "title": "El Papa denuncia que los conflictos son cada vez más inhumanos y devastadores",
+      "link": "https://laverdad.com/el-papa-denuncia-que-los-conflictos-son-cada-vez-mas-inhumanos-y-devastadores/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leo-XIV.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Fuerzas especiales liberan a los rehenes de un supermercado en Cartagena: un asaltante habría muerto",
-      "link": "https://diarioversionfinal.com/mundo/fuerzas-especiales-liberan-a-los-rehenes-de-un-supermercado-en-cartagena-un-asaltante-habria-muerto/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/UEKHZFQHQRFULDMLVSJ2574ZYA-750x430.jpg"
+      "title": "Tragedia en Egipto: volcadura de camión de combustible deja 31 muertos",
+      "link": "https://diarioversionfinal.com/mundo/tragedia-en-egipto-volcadura-de-camion-de-combustible-deja-31-muertos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/fU74pGx7-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-25T13:55:53.814Z"
+  "lastUpdate": "2026-11-25T22:57:53.575Z"
 };
