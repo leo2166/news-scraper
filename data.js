@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "924,35",
-      "eur": "1011,73",
-      "fechaValor": "Jueves, 26 Noviembre 2026"
+      "usd": "926,36",
+      "eur": "1016,86",
+      "fechaValor": "Viernes, 27 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1096,30"
+      "usdt": "1090,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Delcy Rodríguez: Recuperar el ingreso de los trabajadores requiere responsabilidad para no caer en hiperinflación",
-      "link": "https://www.bancaynegocios.com/delcy-rodriguez-recuperar-el-ingreso-de-los-trabajadores-requiere-responsabilidad-para-no-caer-en-hiperinflacion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-25-at-5.59.57-PM.jpeg"
+      "title": "#Dato: Gobierno publicará en las próximas semanas el análisis de sostenibilidad de la deuda",
+      "link": "https://www.bancaynegocios.com/dato-gobierno-publicara-en-las-proximas-semanas-el-analisis-de-sostenibilidad-de-la-deuda/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2023/11/DolaresBilleteDivisa.jpg"
     },
     {
       "source": "Infobae",
-      "title": "María Corina Machado prometió que Edmundo González Urrutia estará pronto de regreso en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/26/maria-corina-machado-prometio-que-edmundo-gonzalez-urrutia-estara-pronto-de-regreso-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/Z4EAMWVECBBATPIIJOWPFC5QZ4.JPG?auth=c710d032ba5e32270925d4c8231d1c733ae8f913c4509529ccdf96ec742b826b&smart=true&width=350&height=197&quality=85"
+      "title": "La ONU pidió a Venezuela garantizar la independencia judicial para evitar sesgos en la renovación del Tribunal Supremo",
+      "link": "https://www.infobae.com/venezuela/2026/11/26/la-onu-pidio-a-venezuela-garantizar-la-independencia-judicial-para-evitar-sesgos-en-la-renovacion-del-tribunal-supremo/",
+      "image": "https://www.infobae.com/resizer/v2/X5AKQBP4WRHE5CQHQ73EROTAAM?auth=fe27aeb3c05d2772d73d7753586295753742883406f97a303a0ccaa014f50d2a&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Mujer golpeada por un funcionario pide medida de protección en Valencia",
-      "link": "https://noticialdia.com/sucesos/mujer-golpeada-por-un-funcionario-pide-medida-de-proteccion-en-valencia/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-26T093849.611.webp?x74346"
+      "title": "‎Imau retiró 90 toneladas de desechos en Juana de Ávila con el plan \"Saca tu cachivache\"",
+      "link": "https://noticialdia.com/al-dia/imau-retiro-90-toneladas-de-desechos-en-juana-de-avila-con-el-plan-saca-tu-cachivache/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-15-4.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Edmundo González Urrutia anuncia su regreso a Venezuela para acompañar la peregrinación de la Virgen de Coromoto",
-      "link": "https://noticiasvenevision.com/noticias/politica/edmundo-gonzalez-urrutia-anuncia-su-regreso-a-venezuela-para-acompanar-la-peregrinacion-de-la-virgen-de-coromoto",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hycfwdyw4aazpg1-4910c5.jpg"
+      "title": "Stalin González pidió que reforma a la Ley contra el Odio garantice libertad de expresión y pluralismo",
+      "link": "https://noticiasvenevision.com/noticias/politica/stalin-gonzalez-pidio-que-reforma-a-la-ley-contra-el-odio-garantice-libertad-de-expresion-y-pluralismo",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fileblob260715010715-00b814.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "WHATSAPP LANZA NUEVA FUNCIÓN: PROGRAMACIÓN DE MENSAJES DESDE LA PC Y EL TELÉFONO",
-      "link": "https://noticierodigital.com/2026/11/whatsapp-lanza-nueva-funcion-programacion-de-mensajes-desde-la-pc-y-el-telefono/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/1795700836420-627x376.jpg"
+      "title": "CRUZ ROJA VENEZOLANA REFORZÓ LA ATENCIÓN MÉDICA A LOS ADULTOS MAYORES EN CHACAO",
+      "link": "https://noticierodigital.com/2026/11/cruz-roja-venezolana-reforzo-la-atencion-medica-a-los-adultos-mayores-en-chacao/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/cruz-roja-venezolana-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "ICE detiene a salvadoreño 6 días después de ganar un millón de dólares en la lotería de Boston",
-      "link": "https://laverdad.com/ice-detiene-a-salvadoreno-6-dias-despues-de-ganar-un-millon-de-dolares-en-la-loteria-de-boston/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/ICE-salvadoreno-Loteria.jpg"
+      "title": "Más de 1.500 vuelos afectados y casi 640.000 clientes sin luz por tormentas en EE. UU.",
+      "link": "https://laverdad.com/mas-de-1-500-vuelos-afectados-y-casi-640-000-clientes-sin-luz-por-tormentas-en-ee-uu/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/tormentas-en-EE-UU.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Juez federal bloquea nuevo decreto de Trump contra la ciudadanía por nacimiento en EE. UU.",
-      "link": "https://diarioversionfinal.com/mundo/juez-federal-bloquea-nuevo-decreto-de-trump-contra-la-ciudadania-por-nacimiento-en-ee-uu/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-26T100622.567.jpg"
+      "title": "Ucrania repatria 250 cuerpos en un intercambio con Rusia",
+      "link": "https://diarioversionfinal.com/mundo/ucrania-repatria-250-cuerpos-en-un-intercambio-con-rusia/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Fawlf4Rp-image-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-26T14:44:52.520Z"
+  "lastUpdate": "2026-11-26T23:30:13.061Z"
 };
