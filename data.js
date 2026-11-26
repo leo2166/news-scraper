@@ -6,7 +6,7 @@ window.DASHBOARD_DATA = {
       "fechaValor": "Jueves, 26 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1104,00"
+      "usdt": "1096,30"
     },
     "kontigo": {
       "usd": "N/A"
@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "Venezuela y Siemens Energy formalizaron una alianza para recuperar el sistema eléctrico y la infraestructura energética petrolera",
-      "link": "https://www.infobae.com/venezuela/2026/11/26/venezuela-y-siemens-energy-formalizaron-una-alianza-para-recuperar-el-sistema-electrico-y-la-infraestructura-energetica-petrolera/",
-      "image": "https://www.infobae.com/resizer/v2/MGIRPI7YHJHZ5KJL46P2WVCKVI.jpg?auth=6160d7e2bced41e4e1cf98b2743e495217668d724c463ae8a5c0d5d543e3ce8d&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado prometió que Edmundo González Urrutia estará pronto de regreso en Venezuela",
+      "link": "https://www.infobae.com/venezuela/2026/11/26/maria-corina-machado-prometio-que-edmundo-gonzalez-urrutia-estara-pronto-de-regreso-en-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/Z4EAMWVECBBATPIIJOWPFC5QZ4.JPG?auth=c710d032ba5e32270925d4c8231d1c733ae8f913c4509529ccdf96ec742b826b&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Venezuela y Siemens Energy formalizan acta de inicio para rehabilitar el sistema eléctrico nacional y petrolero",
-      "link": "https://noticialdia.com/principal/venezuela-y-siemens-energy-formalizan-acta-de-inicio-para-rehabilitar-el-sistema-electrico-nacional-y-petrolero/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo_20261125_202604_0000.webp?x74346"
+      "title": "Mujer golpeada por un funcionario pide medida de protección en Valencia",
+      "link": "https://noticialdia.com/sucesos/mujer-golpeada-por-un-funcionario-pide-medida-de-proteccion-en-valencia/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Plantilla-kelly-2026-11-26T093849.611.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,28 +39,28 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "María Corina Machado plantea justicia sin venganza y autonomía universitaria en acto en la UCV",
-      "link": "https://noticiasvenevision.com/noticias/politica/maria-corina-machado-plantea-justicia-sin-venganza-y-autonomia-universitaria-en-acto-en-la-ucv",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5784280462279774344_y-38fec3.jpg"
+      "title": "Edmundo González Urrutia anuncia su regreso a Venezuela para acompañar la peregrinación de la Virgen de Coromoto",
+      "link": "https://noticiasvenevision.com/noticias/politica/edmundo-gonzalez-urrutia-anuncia-su-regreso-a-venezuela-para-acompanar-la-peregrinacion-de-la-virgen-de-coromoto",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hycfwdyw4aazpg1-4910c5.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CALIXTO ORTEGA ANUNCIÓ NEGOCIACIONES AVANZADAS CON EL BID PARA FINANCIAR LA RECUPERACIÓN ELÉCTRICA",
-      "link": "https://noticierodigital.com/2026/11/calixto-ortega-anuncio-negociaciones-avanzadas-con-el-bid-para-financiar-la-recuperacion-electrica/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/Calixto-Ortega-Sanchez-627x376.jpg"
+      "title": "WHATSAPP LANZA NUEVA FUNCIÓN: PROGRAMACIÓN DE MENSAJES DESDE LA PC Y EL TELÉFONO",
+      "link": "https://noticierodigital.com/2026/11/whatsapp-lanza-nueva-funcion-programacion-de-mensajes-desde-la-pc-y-el-telefono/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/1795700836420-627x376.jpg"
     },
     {
       "source": "La Verdad",
-      "title": "El Papa denuncia que los conflictos son cada vez más inhumanos y devastadores",
-      "link": "https://laverdad.com/el-papa-denuncia-que-los-conflictos-son-cada-vez-mas-inhumanos-y-devastadores/",
-      "image": "https://laverdad.com/wp-content/uploads/2026/11/Leo-XIV.jpg"
+      "title": "ICE detiene a salvadoreño 6 días después de ganar un millón de dólares en la lotería de Boston",
+      "link": "https://laverdad.com/ice-detiene-a-salvadoreno-6-dias-despues-de-ganar-un-millon-de-dolares-en-la-loteria-de-boston/",
+      "image": "https://laverdad.com/wp-content/uploads/2026/11/ICE-salvadoreno-Loteria.jpg"
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ataque armado en Guatemala deja dos muertos y un herido",
-      "link": "https://diarioversionfinal.com/mundo/ataque-armado-en-guatemala-deja-dos-muertos-y-un-herido/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/kOhFf9sX-image-750x430.jpg"
+      "title": "Juez federal bloquea nuevo decreto de Trump contra la ciudadanía por nacimiento en EE. UU.",
+      "link": "https://diarioversionfinal.com/mundo/juez-federal-bloquea-nuevo-decreto-de-trump-contra-la-ciudadania-por-nacimiento-en-ee-uu/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/images-2026-11-26T100622.567.jpg"
     }
   ],
-  "lastUpdate": "2026-11-26T04:51:50.558Z"
+  "lastUpdate": "2026-11-26T14:44:52.520Z"
 };
