@@ -21,15 +21,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Infobae",
-      "title": "La ONU pidió a Venezuela garantizar la independencia judicial para evitar sesgos en la renovación del Tribunal Supremo",
-      "link": "https://www.infobae.com/venezuela/2026/11/26/la-onu-pidio-a-venezuela-garantizar-la-independencia-judicial-para-evitar-sesgos-en-la-renovacion-del-tribunal-supremo/",
-      "image": "https://www.infobae.com/resizer/v2/X5AKQBP4WRHE5CQHQ73EROTAAM?auth=fe27aeb3c05d2772d73d7753586295753742883406f97a303a0ccaa014f50d2a&smart=true&width=350&height=197&quality=85"
+      "title": "María Corina Machado activó asambleas vecinales para elaborar un programa de gobierno ante las posibles elecciones en 2027",
+      "link": "https://www.infobae.com/venezuela/2026/11/27/maria-corina-machado-activo-asambleas-vecinales-para-elaborar-un-programa-de-gobierno-ante-las-posibles-elecciones-en-2027/",
+      "image": "https://www.infobae.com/resizer/v2/4WJPBDN7BRDVBJCHWM3EHRKM4U.JPG?auth=236fe88c1212630c5559f27a408775bc3754a1b950d469a6cff05501f61e669f&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "‎Imau retiró 90 toneladas de desechos en Juana de Ávila con el plan \"Saca tu cachivache\"",
-      "link": "https://noticialdia.com/al-dia/imau-retiro-90-toneladas-de-desechos-en-juana-de-avila-con-el-plan-saca-tu-cachivache/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-15-4.webp?x74346"
+      "title": "Una Superluna tiñó de naranja y embelleció el cielo nocturno marabino este 26 Nov",
+      "link": "https://noticialdia.com/zulia/una-superluna-tino-de-naranja-y-embellecio-el-cielo-nocturno-marabino-este-26-nov/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/9aad6ffc-6d2a-4fff-996c-4fe5f923fe84.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Stalin González pidió que reforma a la Ley contra el Odio garantice libertad de expresión y pluralismo",
-      "link": "https://noticiasvenevision.com/noticias/politica/stalin-gonzalez-pidio-que-reforma-a-la-ley-contra-el-odio-garantice-libertad-de-expresion-y-pluralismo",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/fileblob260715010715-00b814.jpg"
+      "title": "Asamblea Nacional iniciará proceso para derogar la Ley Orgánica Simón Bolívar",
+      "link": "https://noticiasvenevision.com/noticias/politica/asamblea-nacional-iniciara-proceso-para-derogar-la-ley-organica-simon-bolivar",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_4918109936634498416_y-0f64f1.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "CRUZ ROJA VENEZOLANA REFORZÓ LA ATENCIÓN MÉDICA A LOS ADULTOS MAYORES EN CHACAO",
-      "link": "https://noticierodigital.com/2026/11/cruz-roja-venezolana-reforzo-la-atencion-medica-a-los-adultos-mayores-en-chacao/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/cruz-roja-venezolana-627x376.jpg"
+      "title": "VENEZUELA REPORTÓ UN AUMENTO DEL 91 % EN SU ÍNDICE DE CONECTIVIDAD PORTUARIA",
+      "link": "https://noticierodigital.com/2026/11/venezuela-reporto-un-aumento-del-91-en-su-indice-de-conectividad-portuaria/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/David-Quintana-La-Riva-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "Ucrania repatria 250 cuerpos en un intercambio con Rusia",
-      "link": "https://diarioversionfinal.com/mundo/ucrania-repatria-250-cuerpos-en-un-intercambio-con-rusia/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Fawlf4Rp-image-750x430.jpg"
+      "title": "Participación en elecciones españolas en Venezuela registra más de 13 mil votos",
+      "link": "https://diarioversionfinal.com/mundo/participacion-en-elecciones-espanolas-en-venezuela-registra-mas-de-13-mil-votos/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2023/05/espana-elecciones-28mayo-750x430.png"
     }
   ],
-  "lastUpdate": "2026-11-26T23:30:13.061Z"
+  "lastUpdate": "2026-11-27T06:58:40.031Z"
 };
