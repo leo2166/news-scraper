@@ -1,12 +1,12 @@
 window.DASHBOARD_DATA = {
   "rates": {
     "bcv": {
-      "usd": "926,36",
-      "eur": "1016,86",
-      "fechaValor": "Viernes, 27 Noviembre 2026"
+      "usd": "928,55",
+      "eur": "1016,30",
+      "fechaValor": "Lunes, 30 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1077,89"
+      "usdt": "1090,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,9 +15,9 @@ window.DASHBOARD_DATA = {
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Cedice demanda inventario público de activos expropiados antes de iniciar reprivatización",
-      "link": "https://www.bancaynegocios.com/cedice-demanda-inventario-publico-de-activos-expropiados-antes-de-iniciar-reprivatizacion/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2026/11/Cedice-Libertad.jpg"
+      "title": "Equivale a US$74,71: Pagan Bono Cuadrantes de Paz de noviembre",
+      "link": "https://www.bancaynegocios.com/equivale-a-us74punto71-pagan-bono-cuadrantes-de-paz-de-noviembre/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
     },
     {
       "source": "Infobae",
@@ -27,9 +27,9 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticia al Día",
-      "title": "Plan Quirúrgico Nacional suma nuevas historias de vida en el Zulia con intervenciones de cataratas y fístulas arteriovenosas",
-      "link": "https://noticialdia.com/?p=698983",
-      "image": null
+      "title": "Sonó el último timbre de URBE: a celebrar el logro de ser profesional",
+      "link": "https://noticialdia.com/al-dia/sono-el-ultimo-timbre-de-urbe-a-celebrar-el-logro-de-ser-profesional/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/Diseno-sin-titulo-66.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Dinorah Figuera celebra anuncio de derogación de Ley Simón Bolívar y solicita garantías políticas y civiles para todos",
-      "link": "https://noticiasvenevision.com/noticias/politica/dinorah-figuera-celebra-anuncio-de-derogacion-de-ley-simon-bolivar-y-solicita-garantias-politicas-y-civiles-para-todos",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseno-sin-titulo-3-3.jpg-d26093.jpg"
+      "title": "Tomás Guanipa solicita investigar a 100 postulados al TSJ",
+      "link": "https://noticiasvenevision.com/noticias/politica/tomas-guanipa-solicita-investigar-a-100-postulados-al-tsj",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5948358194490970091_w-03957a.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "AARON OLMOS: PARA CUBRIR CANASTA BÁSICA SE TENDRÍA QUE HACER UN «AJUSTE ASTRONÓMICO» DEL SALARIO",
-      "link": "https://noticierodigital.com/2026/11/aaron-olmos-para-cubrir-canasta-basica-se-tendria-que-hacer-un-ajuste-astronomico-del-salario/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2024/12/aaron-olmos-627x376.jpg"
+      "title": "VENEZUELA REANUDÓ TEMPORALMENTE LA TRAMITACIÓN DE PASAPORTES EN PERÚ",
+      "link": "https://noticierodigital.com/2026/11/venezuela-reanudo-temporalmente-la-tramitacion-de-pasaportes-en-peru/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/venezolanos-consulado-venezuela-peru-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
     },
     {
       "source": "Diario Versión Final",
-      "title": "De la Espriella inaugura megacárcel con capacidad para 1.722 reclusos en La Guajira",
-      "link": "https://diarioversionfinal.com/mundo/de-la-espriella-inaugura-megacarcel-con-capacidad-para-1-722-reclusos-en-la-guajira/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/mega-750x430.webp"
+      "title": "Venezolanos pierden vuelos de retorno desde Chile por demoras de la PDI",
+      "link": "https://diarioversionfinal.com/mundo/venezolanos-pierden-vuelos-de-retorno-desde-chile-por-demoras-de-la-pdi/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/Aeropuerto-Chile-27-11-2026-2-750x430.jpeg"
     }
   ],
-  "lastUpdate": "2026-11-27T17:23:10.658Z"
+  "lastUpdate": "2026-11-28T01:10:24.382Z"
 };
