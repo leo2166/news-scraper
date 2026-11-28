@@ -6,7 +6,7 @@
       "fechaValor": "Lunes, 30 Noviembre 2026"
     },
     "binance": {
-      "usdt": "1097,00"
+      "usdt": "1094,00"
     },
     "kontigo": {
       "usd": "N/A"
@@ -15,21 +15,21 @@
   "news": [
     {
       "source": "Banca y Negocios",
-      "title": "Equivale a US$74,71: Pagan Bono Cuadrantes de Paz de noviembre",
-      "link": "https://www.bancaynegocios.com/equivale-a-us74punto71-pagan-bono-cuadrantes-de-paz-de-noviembre/",
-      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/04/bolivares-e1745959276971.jpg"
+      "title": "#Análisis: ¿Es suficiente una rebaja tributaria para que las empresas eleven capacidades productivas?",
+      "link": "https://www.bancaynegocios.com/analisis-es-suficiente-una-rebaja-tributaria-para-que-las-empresas-eleven-capacidades-productivas/",
+      "image": "https://www.bancaynegocios.com/wp-content/uploads/2025/06/IndustriaLacteaVenezuelaProduccion.jpg"
     },
     {
       "source": "Infobae",
-      "title": "La mega red de corrupción que vincula a Maduro y Cilia Flores con el desfalco petrolero en Venezuela",
-      "link": "https://www.infobae.com/venezuela/2026/11/28/la-mega-red-de-corrupcion-que-vincula-a-maduro-y-cilia-flores-con-el-desfalco-petrolero-en-venezuela/",
-      "image": "https://www.infobae.com/resizer/v2/BBOJ6NBBOZEFPF2HAM65QFBKYA.png?auth=e64f0241f79ba5d7ff9eaf04eb24a865d110a1807459df082eac4ef5b79cc5f9&smart=true&width=350&height=197&quality=85"
+      "title": "La Organización Mundial de la Salud acordó cooperar con Venezuela para la producción de vacunas",
+      "link": "https://www.infobae.com/venezuela/2026/11/28/la-organizacion-mundial-de-la-salud-acordo-cooperar-con-venezuela-para-la-produccion-de-vacunas/",
+      "image": "https://www.infobae.com/resizer/v2/BQIF47WBZZAGTO7XEXEE42CWQU.JPG?auth=df93e468349e10437b76899f0328eba21967710fcf770a939d9ca92e55e6a9c2&smart=true&width=350&height=197&quality=85"
     },
     {
       "source": "Noticia al Día",
-      "title": "Trasladan de emergencia a Betulio González a la Clínica San Lucas tras complicación cardiológica",
-      "link": "https://noticialdia.com/principal/trasladan-de-emergencia-a-betulio-gonzalez-a-la-clinica-san-lucas-tras-complicacion-cardiologica/",
-      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/11/IMG_6692.webp?x74346"
+      "title": "El tricampeón mundial de boxeo Betulio González permanece en UCI y en coma inducido",
+      "link": "https://noticialdia.com/principal/el-tricampeon-mundial-de-boxeo-betulio-gonzalez-permanece-en-uci-y-en-coma-inducido/",
+      "image": "https://noticialdia.com/wp-content/firewall/uploads/2026/10/v-efe-57-1.webp?x74346"
     },
     {
       "source": "CNN en Español",
@@ -39,15 +39,15 @@
     },
     {
       "source": "Noticias Venevisión",
-      "title": "Tomás Guanipa solicita investigar a 100 postulados al TSJ",
-      "link": "https://noticiasvenevision.com/noticias/politica/tomas-guanipa-solicita-investigar-a-100-postulados-al-tsj",
-      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/photo_5948358194490970091_w-03957a.jpg"
+      "title": "Comité por la Libertad de los Presos Políticos llama a consignar objeciones contra aspirantes al TSJ señalados por lesa humanidad",
+      "link": "https://noticiasvenevision.com/noticias/politica/comite-por-la-libertad-de-los-presos-politicos-llama-a-consignar-objeciones-contra-aspirantes-al-tsj-senalados-por-lesa-humanidad",
+      "image": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo-clippve-icon-2d591e.jpg"
     },
     {
       "source": "Noticiero Digital",
-      "title": "EE. UU. RATIFICÓ SU COMPROMISO CON VENEZUELA PARA COMBATIR EL NARCOTERRORISMO",
-      "link": "https://noticierodigital.com/2026/11/ee-uu-ratifico-su-compromiso-con-venezuela-para-combatir-el-narcoterrorismo/",
-      "image": "https://noticierodigital.com/wp-content/uploads/2020/06/pentagono-eeuu-26jun2020.jpg"
+      "title": "SE ESCONDIÓ DEBAJO DE UNA CAMA Y SU MADRE INTENTÓ IMPEDIR SU ARRESTO EN MARACAIBO",
+      "link": "https://noticierodigital.com/2026/11/se-escondio-debajo-de-una-cama-y-su-madre-intento-impedir-su-arresto-en-maracaibo/",
+      "image": "https://noticierodigital.com/wp-content/uploads/2026/11/detencion-zulia-violencia-de-genero-627x376.jpg"
     },
     {
       "source": "La Verdad",
@@ -57,10 +57,10 @@
     },
     {
       "source": "Diario Versión Final",
-      "title": "Joven que se identificó como sicario del Tren de Aragua queda preso por homicidio y abuso sexual",
-      "link": "https://diarioversionfinal.com/mundo/joven-que-se-identifico-como-sicario-del-tren-de-aragua-queda-preso-por-homicidio-y-abuso-sexual/",
-      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2026/11/27-220609_lhq9_Diseno-sin-titulo-192-1200x648-1-750x430.jpg"
+      "title": "La ONU urge a Costa Rica a levantar restricción migratoria a Albanese",
+      "link": "https://diarioversionfinal.com/mundo/la-onu-urge-a-costa-rica-a-levantar-restriccion-migratoria-a-albanese/",
+      "image": "https://media.diarioversionfinal.com/wp-content/uploads/2025/09/onu-banderajpg-750x430.jpg"
     }
   ],
-  "lastUpdate": "2026-11-28T09:51:14.729Z"
+  "lastUpdate": "2026-11-28T17:57:56.332Z"
 }
